@@ -1,0 +1,1 @@
+Madde 8 – Mektep ve başka bilgi müesseselerine devam edenlerin bir kıyafet, alamet ve levazım kullanmalarına lüzum görüldüğü takdirde tip tayini bu mektep ve müesseselerin merbut bulundukları vekillikçe talimatname yapılır. Bu gibi mektep ve müesseseler için kabul olunacak alametleri mektep ve müesseselerden mezun olanlar da taşıyabilirler.
