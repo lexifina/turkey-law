@@ -1,0 +1,2 @@
+Madde 8 – Bu Kanunda geçen terimlerin anlamında tereddüde düşülmesi halinde 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu ile 31/12/1960 gün ve 193 sayılı Gelir Vergisi Kanunu ve 3/6/1949 gün ve 5422 sayılı Kurumlar Vergisi Kanununun ilgili maddelerine başvurulur.
+213 sayılı Vergi Usul Kanununa göre incelemeye yetkili olanlar bu Kanuna göre yapılacak vergi iadesi konusunda da denetim yapmaya yetkilidirler.

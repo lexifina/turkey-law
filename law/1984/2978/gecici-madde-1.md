@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Kanun hükümlerine göre vergi iadesinden faydalanacakların, Ocak - Şubat - Mart 1984 aylarına ilişkin olarak, 4 üncü maddeye göre vermeleri gereken bildirimi 7/4/1984 tarihine kadar vermeleri halinde bu aylara ilişkin olarak hakedecekleri vergi iadeleri kendilerine ödenir.

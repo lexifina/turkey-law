@@ -1,0 +1,2 @@
+Geçici Madde 3 – 1/1/1985 tarihinden sonraki dönemlere ait olmak üzere 2978 sayılı Kanun uyarınca verilmesi gereken vergi iade beyannamelerinin verilme süresi, bu Kanunun yayımlandığı tarihi takip eden 10 uncu günün mesai saati sonuna kadar uzatılmıştır. Bu süre içinde verilen vergi iade beyannameleri üzerinden hesaplanan vergi iadeleri vergi dairelerince bu Kanunun yayımlandığı tarihten itibaren 30 gün içinde ödenir.
+1268-7

@@ -1,0 +1,4 @@
+Muhafaza ve ibraz mecburiyeti:
+Madde 5 – İşverenler iadeye konu mal ve hizmet alımlarına ait vesikalarla iadeyle ilgili her türlü belgeleri iadenin yapıldığı yıldan başlayarak 5 yıl süreyle muhafaza etmeye ve yetkili makam ve memurların talebi üzerine bunlara ibraz etmeye mecburdurlar.
+(Değişik : 4/12/1985 - 3239/87 md.) Bu Kanunun uygulanmasında sosyal güvenlik kurumları ile vergi tevkifatı yapan sorumlular işveren olarak kabul edilir.
+(Ek : 4/12/1985 - 3239/87 md.) Ticari ve mesleki kazançları nedeniyle gelir vergisi mükellefleri olanlar ile götürü usulde tespit edilen ücret gelirine sahip olanların vergi iade beyannamesine ekli olarak ibraz ettikleri harcama vesikaları vergi dairelerince, vergi iadesinin ödenmesi sırasında hak sahiplerine iade edilir. Vergi iadesinden yararlananlar, bu belgeleri vergi iadesinin yapıldığı yıldan başlayarak 5 yıl süre ile muhafaza etmeye ve yetkili makam ve memurların talebi üzerine ibraz etmeye mecburdurlar.
