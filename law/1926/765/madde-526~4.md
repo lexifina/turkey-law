@@ -1,0 +1,3 @@
+Madde 526 – (16/6/1950 tarih ve 5665 sayılı Kanunun hükmüdür.)
+Salahiyetli makamlar tarafından adli muameleler dolayısiyle yahut amme emniyeti veya amme intizamı veya umumi hıfzıssıhha mülahazasiyle kanun ve nizamlara aykırı olmıyarak verilen bir emre itaat etmiyen veya bu yolda alınmış bir tedbire riayet eylemiyen kimse, fiil ayrı bir suç teşkil etmediği takdirde, bir aya kadar hafif hapis veya 150 liraya kadar hafif para cezasiyle cezalandırılır.
+Şapka iktisası hakkında 671 sayılı kanunla Türk harflerinin kabul ve tatbikına dair 1353 sayılı kanunun koyduğu memnuiyet veya mecburiyetlere muhalif hareket edenler 3 aya kadar hafif hapis veya 30 liradan 600 liraya kadar hafif para cezasiyle cezalandırılır.

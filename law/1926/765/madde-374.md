@@ -1,0 +1,1 @@
+Madde 374 – Başkasının hayatı için tehlikeli olduğu vukuundan evvel anlaşılabilen bir suretle kasden su basmasına sebep olan kimse beş seneden aşağı olmamak üzere ağır hapis ile cezalandırılır. Eğer bu hal bir kimsenin ölümüne sebebiyet vermiş ise cezası müebbeden ağır hapistir.

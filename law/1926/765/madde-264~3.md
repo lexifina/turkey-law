@@ -1,0 +1,5 @@
+Madde 264 – (9/7/1953 tarih ve 6123 sayılı Kanunun hükmüdür.)
+Her kim ait olduğu merciden ruhsat almaksızın dinamit veya bomba veya buna benzer yıkıcı ve öldürücü alet veya barut ve sair ateşli ecza veya memnu silah veya bunlara mahsus fişek yapar veya bunları yabancı memleketten Türkiye'ye sokar veya sokmaya vasıta olur veya memleket içinde bir yerden diğer bir yere götürür veya yollar veya götürmeye bilerek tavassut ederse bir seneden üç seneye kadar hapsolunur ve kendisinden 500 liradan 5.000 liraya kadar ağır para cezası alınır.
+Ruhsatsız bu gibi şeyleri taşıyanlar veya bulunduranlar veya satanlar veya satılığa çıkaranlar veya alanlar altı aydan bir seneye kadar hapis ve 200 liradan 1.000 liraya kadar ağır para cezası ile cezalandırılırlar.
+Şu kadar ki, 265 inci maddenin 2,3 numaralı bentlerinde yazılı memnu silahları ruhsatsız olarak bulunduranlar (100) liradan (500) liraya kadar ağır para cezası ile cezalandırılırlar.
+Hatıra teşkil eden veya antika olan memnu silahlar için istenilen ruhsatın verilmesi mecburidir. Bu ruhsat silahın sahibine bırakılmasına müsaadeyi tazammun edip üstte taşınmasına cevaz vermez.

@@ -1,0 +1,2 @@
+Madde 115 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Muvakkaten hidematı ammeden memnuiyet veyahut diğer bir ıskatı ehliyet cezası veya bir meslek ve sanatın tatili icrası sair mücazata zam ve ilave edildiği veyahut bir hüküm neticesi olduğu takdirde mahcuriyet ve ıskatı ehliyet ve tatili meslek ve sanat cezaları onlar için muayyen olan müddetin iki misline muadil bir müddet geçmedikçe sakıt olmazlar ve işbu müruru zaman asli mücazatın sakıt olduğu tarihten itibaren cereyana başlar.

@@ -1,0 +1,4 @@
+12 – 16/6/1950 tarih ve 5665 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 526)
+Madde 526 – (2/6/1941 tarih ve 4055 sayılı Kanunun hükmüdür.)
+Salahiyetli makamlar tarafından adli muameleler dolayısiyle yahut amme emniyeti veya amme intizamı veya umumi hıfzıssıhha mülahazasiyle kanun ve nizamlara aykırı olmıyarak verilen bir emre itaat etmiyen veya bu yolda alınmış bir tedbire riayet eylemeyen kimse, fiil ayrı bir suç teşkil etmediği takdirde, bir aya kadar hafif hapis veya elli liraya kadar hafif para cezasiyle cezalandırılır.
+Şapka iktisası hakkında 671 sayılı kanunla Türk harflerinin kabul ve tatbikına dair 1353 sayılı kanunun koyduğu memnuiyet veya mecburiyetlere muhalif hareket edenler veya arapça ezan ve kamet okuyanlar üç aya kadar hafif hapis veya on liradan iki yüz liraya kadar hafif para cezasiyle cezalandırılırlar.

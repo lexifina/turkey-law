@@ -1,0 +1,2 @@
+Madde 229 – Memuriyeti sebebiyle kendisine tevdi kılınan veya ıttılaına müsadif olan vesikalar, kararlar ve emirleri ve sair tebligatı başkasına ifşa veya neşir ve ilan eden yahut her nasıl olursa olsun başkalarının vukuf ve ıttılaını kolaylaştıran memur, altı aydan iki seneye kadar hapis olunur.
+Devletçe neşir ve ilanı matlup olan kararları kabule şayan mazereti olmaksızın tehir eden memur hakkında da aynı ceza tatbik olunur.

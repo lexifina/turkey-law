@@ -1,0 +1,2 @@
+Madde 351 – (Değişik: 21/1/1983-2787/13 md.)
+Bir kimse hüviyet cüzdanı, nüfus tezkeresi, ruhsatname veya pasaport almak maksadıyla bu evrakta kendi isim ve şöhret veya sıfatını sahte olarak dercettirir veyahut şahadet etmek suretiyle bu yolda evrak almak fiilinde başkasının cürüm ortağı olursa altı aydan iki yıla kadar hapis ve beşbin liradan otuzbin liraya kadar ağır para cezası ile cezalandırılır.

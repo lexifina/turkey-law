@@ -1,0 +1,4 @@
+Madde 302 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bir mevkuf veya mahkümun muhafazasına veya nakline memur olan kimse ne suretle olursa olsun onun kaçmasını hazırlar veya kolaylaştırırsa bir seneden beş seneye kadar hapsolunur.
+Eğer mahkümun görmekte olduğu ceza idam ve müebbet ağır hapis ise failin göreceği ceza beş seneye kadar ağır hapistir ve beş sene müddetle hidematı ammeden memnuiyet cezası dahi hükmolunur.
+Eğer kaçmasını hazırlamak ve kolaylamak için fail, kaçağın şiddet kullanmasında veyahut kapı ve pencere kırmasında ve dıvar delmesinde kaçakla birleşir veya silah ve sair böyle bir işe lazım olan şeyleri verir veya bunların tedarikini menetmezse mahkümun kaçmış olması halinde memur, yedi seneye kadar ağır hapis ve müebbeden hidamatı ammeden memnuiyet ile cezalandırılır ve kaçamadığı takdirde memura beş seneye kadar ağır hapis cezası verilir.

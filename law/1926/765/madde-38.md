@@ -1,0 +1,1 @@
+Madde 38 – Emvalin istirdadından ve uğranılan zararların tazmininden başka bir şahsın veya bir ailenin şeref ve haysiyetini ihlal eden her nevi cürüm ve kabahatlerde bir güna maddi zarar vukua gelmese bile mahkeme mağdurun talebine mebni manevi zarar mukabili olarak muayyen tazminat itasında hüküm edilebilir.

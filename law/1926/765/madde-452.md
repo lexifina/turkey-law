@@ -1,0 +1,3 @@
+Madde 452 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Katil kastiyle olmıyan darp ve cerh veya bir fiili müessirden telefi nefis husule gelmiş olursa fail 448 inci maddede beyan olunan ahvalde beş seneden ve 449 uncu maddade yazılı ahvalde yedi seneden ve 450 inci maddede muharrer ahvalde on seneden aşağı olmamak üzere muvakkat ağır hapse mahküm olur.
+Eğer telefi nefis failin fiilinden evvel mevcut olupta failce bilinmeyen ahvalin birleşmesi veyahut failin ıradesinden hariç ve gayri melhuz esbabın inzimamı yüzünden vukua gelmiş ise 448 inci maddede beyan olunan ahvalde üç seneden beş seneye ve 449 uncu maddede muharrer ahvalde beş seneden yedi seneye ve 450 inci madde yazılı ahvalde yedi seneden on seneye kadar ağır hapis cezası hüküm olunur.

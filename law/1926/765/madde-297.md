@@ -1,0 +1,1 @@
+Madde 297 – Maktulün cesedini saklayan veya saklatan veya Hükümete haber vermeksizin ve keşfolunmaksızın gömen veya gömdüren kimseler üç aydan bir seneye kadar hapis ve elli liraya kadar ağır cezayı nakdı ile cezalandırılır.

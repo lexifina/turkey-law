@@ -1,0 +1,2 @@
+Madde 18 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Sürgün cezası gerek cürmün işlendiği ve gerek cürümden zarar gören şahıs ile mahkümun ikamet ettiği kazalardan en aşağı 60 kilometre uzaklıkta bulunan ve mahkeme ilamında muayyen olan bir şehir veya bir kasabada mahkümun ikamete mecbur tutulmasından ibarettir. Müebbet veya muvakkattir. Müebbet vefatına kadar devam eder. Muvakkat altı aydan beş seneye kadardır.

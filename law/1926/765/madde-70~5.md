@@ -1,0 +1,2 @@
+Madde 70 – (Değişik: 14/7/2004 - 5218/1 md.)
+Birden çok ağırlaştırılmış müebbet ağır hapse mahkûmiyet halinde, bir yıldan az ve altı yıldan fazla; ağırlaştırılmış müebbet ağır hapis ile müebbet ağır hapis cezasına mahkûmiyet halinde, dokuz aydan az ve beş yıldan fazla; birden çok müebbet ağır hapse mahkûmiyet halinde ise altı aydan az ve üç yıldan fazla olmamak üzere, hükmedilecek miktarı geceli gündüzlü bir hücrede tecrit edilmek üzere, ağırlaştırılmış müebbet ağır hapis veya müebbet ağır hapis cezaları infaz olunur.

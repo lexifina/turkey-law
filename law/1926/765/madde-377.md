@@ -1,0 +1,1 @@
+Madde 377 – Her kim gemilere yahut sair su yüzünde yüzen veya bulunan yapılara ateş verip yakar veya her ne suretle olursa olsun kasten işlediği fiil ile bunlardan birinin batmasına sebep olursa üç seneden on seneye kadar ağır hapse mahküm olur.

@@ -1,0 +1,4 @@
+Madde 71 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Biri ağır hapis veya hapis, diğeri sürgün cezasını müstelzim iki cürüm işlemiş olan kimse hakkında birinci takdirde ağır hapis ve ikinci takdirde hapis cezası tertip olunur. Hapis cezası tertip olunmuş ise sürgün cezası müddetinin üçte birine ve ağır hapis cezası tayin olunmuş ise sürgün müddetinin altıda birine müsavi bir müddet daha zammolunur.
+Eğer ağır hapis veya hapis cezasını müstelzim bir kaç cürümişlenir veya sürgün cezasını müstelzim bir kaç cürüm irtikap olunur ise 69 ve 70 nci maddeler hükümleri tatbik olunur.
+Biri müebbet sürgün diğerleri ağır hapis veya hapis cezasını müstelzim bir kaç cürüm işlemiş olan kimse hakkında ağır hapis cezasının yarısı ve hapis cezasının üçte ikisi ayrıca icra olunur. İkiside müebbet sürgün olursa on seneden aşağı olmamak üzere ağır hapis veya hapis cezası hükmolunur.

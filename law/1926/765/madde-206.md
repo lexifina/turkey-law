@@ -1,0 +1,2 @@
+Madde 206 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bir memur, memuriyeti sebebiyle kullandığı işçilerin tayin olunan işleme veya nakliye ücretlerini veya eşya bedelini tamamiyle vermez veyaeksik verir yahut işçileri angarya olarak bedava işletirse bu yüzden elde ettiği kazancın bir katı, ücret ve bedel olarak sahiplerine verilmek ve diğeri ağır cezayi nakdi olmak üzere iki kat olarak kendisinden alındıktan başka muvakkaten ağır hapis cezasiyle de cezalandırılır.

@@ -1,0 +1,1 @@
+Madde 367 – Gerek resmi daireler marifetiyle ve gerek beynennas bilmüzayede alınıp satılacak yahut kiraya verilip alınacak mal ve mülklerin müzayedesinde yukarki maddede gösterilen suretlerden biriyle rekabeti meni veya ihlal yahut müzayedeye pey sürenleri çekilmeğe mecbur edenler bir aydan üç aya kadar hapse ve otuz liradan yüz liraya kadar ağır cezayi naktiye mahküm olur.

@@ -1,0 +1,1 @@
+Madde 109 – Aynı fiilden dolayı her ne suretle olursa olsun tekrar muhakemesi görülmek lazımgelen mahkümünaleyhin ahiren vakı olan mahkümiyeti evvelki mahkümiyetinden daha hafif bir cezayı mutazammın ise müruru zaman müddeti sonraki hüküm ile tertip olunacak cezaya göre hesap olunur.

@@ -1,0 +1,3 @@
+Madde 462 – (29/6/1938 tarih ve 3531 sayılı Kanunun hükmüdür.)
+Yukarıda geçen iki fasılda beyan olunan fiiler zinayi icra halinde meşhuden yakalanan veya zinayı irtikab etmek üzere yahud henüz irtikab edildiğinde zevahire göre şüphe edilemiyecek surette görünen bir koca veya karı yahud kız kardeş veya furudan biri yahud bunların müşterek faili veya her ikisi aleyhinde karı veya koca yahud usulden biri veya erkek yahud kız kardeş tarafından işlenmiş olursa fiilin muayyen olan cezası sekizde bire indirilir ve ağır hapis cezası hapis cezasına tahvil olunur.
+Ölüm cezası yerine üç seneden beş seneye kadar hapis cezası verilir.

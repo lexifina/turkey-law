@@ -1,0 +1,2 @@
+Madde 432 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Cürmün faili kaçırdığı kimseyi nihayet yirmi dört saat zarfında ve bir güna tecavüz vukubulmaksızın kaçırıldığı haneye veya ailesinin hanesine iade eder veyahut ailesi tarafından alınması mümkün olan emniyetli diğer bir mahalle getirip bilihtiyar serbest bırakırsa kaçırılan kimse kaç yaşında olursa olsun ceza bir aydan bir seneye kadar hapistir.

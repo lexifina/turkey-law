@@ -1,0 +1,3 @@
+Madde 61 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bir kimse işlemeği kast eylediği bir cürmü vesaiti mahsusa ile icraya başlayıpta ihtiyarında olmayan esbabı maniadan dolayı o cürmün husulüne muktazi fiilleri ikmal edememiş ise kanunda yazılı olmayan yerlerde fiil idam veya müebbet ağır hapis cezasını müstelzim olduğu halde müteşebbis hakkında yedi seneden eksik olmamak üzere muvakkat ağır hapis ve müebbet sürgün cezasını müstelzim olduğu takdirde üç sene müddetle ağır hapis cezası hükmolunur. Sair hallerde o cürüm için kanunen muayyen olan cezayarısından üçte ikisine kadar indirilir.
+Müteşebbis, cürmün efali icraiyesinden ihtiyarıyle vaz geçtiği fakat tamam olan kısım, esasen bir cürüm teşkil ettiği halde ancak o kısma mahsus ceza ile cezalandırılır.

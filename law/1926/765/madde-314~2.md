@@ -1,0 +1,3 @@
+Madde 314 – (Değişik: 7/6/1979 - 2245/9 md.)
+(Değişik: 6/6/1991 - 3756/5 md.) Yukarıdaki madde uyarınca oluşturulan teşekküllerin mensuplarına bilerek ve isteyerek barınacak yer gösteren veya erzak yahut silah ve cephane tedarik veya yardım edenlere altı aydan bir yıla kadar hapis cezası verilir. Bu yardım; dernek, siyasi parti, işçi ve meslek kuruluşlarına veya bunların yan kuruluşlarına ait bina, lokal, büro veya eklentilerinde veya öğrenim kurumlarında veya öğrenci yurtlarında veya bunların eklentilerinde yapılırsa bu fıkradaki ceza, bir kat artırılır.
+Bu suretle usul ve füruundan olan hısımlarından veya karı veya koca veya kardeşinden birine barınacak yer gösteren veya yiyecek veya içecek sağlayan kişi hakkında bu cezalar yarısından üçte ikisine kadar azaltılır.

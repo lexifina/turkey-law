@@ -1,0 +1,2 @@
+Madde 207 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bir daire amiri kadrosunda muayyen olan memurları eksik kullanıp maaş veya ücretlerini tam alır yahut mevcut memurları asıl hizmetlerinden bütün bütün ayırıp kendi şahsi işlerinde kullanır veya kendi şahsi işlerinde kullandığı kimseyi kadroda bulunan bir işte gösterip maaş aldırırsa bu suretle çaldığı para kendisinden alındıktan başka bir misli ağır cezayi nakti de alınır ve muvakkaten ağır hapis cezasiyle de cezalandırılır.

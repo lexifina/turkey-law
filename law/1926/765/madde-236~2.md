@@ -1,0 +1,5 @@
+Madde 236 – (28/9/1971 tarih ve 1490 sayılı Kanunun hükmüdür.)
+Memur veya işçi niteliğini taşımıyan kamu hizmeti görevlilerinden, üç veya daha fazla kimse aldıkları karar gereğince, kanun hükümlerine aykırı olarak, memuriyetlerini terk eder veya vazifelerine gelmezlerse veya vazifelerine gelip de görevlerini, geçici de olsa, kısmen veya tamamen yapmazlar yahut yavaşlatırlarsa, herbiri hakkında iki aydan altı aya kadar hapis ve beşyüz liradan üç bin liraya kadar ağır para cezası ile birlikte muvakkaten memuriyetten mahrumiyet cezası da hükmolunur.
+Başkaları tarafından alınan karara uyarak yukarıdaki fıkrada yazılı fiileri işliyen memur veya işçi niteliğini taşımıyan kamu hizmeti görevlilerine de aynı ceza hükmolunur.
+Madde 271, fıkra bir – (9/7/1953 tarih ve 6123 sayılı Kanunun hükmüdür.)
+Her kim resmi sıfatı haiz olan bir memura vazifesini icra ederken veya icra ettiği vazifeden dolayı cismen eza verecek veya hastalığını mucip olacak müessir bir fiil işlerse 456 ncı maddeye göre verilecek cezalar aşağıda gösterilen suretlerle artırılır:

@@ -1,0 +1,1 @@
+Madde 23 – Kadınların mahküm oldukları ağır hapis ve hapis ve hafif hapis cezaları kendilerine mahsus müesseselerde çektirilir. Kanun kadınların şahsi hürriyetlerini tahdit eden cezaların bir ıslahhane veya tevkifhanede icrasını iktiza ettiren ahvali tayin eder.

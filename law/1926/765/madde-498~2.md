@@ -1,0 +1,2 @@
+Madde 498 – (9/7/1953 tarih ve 6123 sayılı Kanunun hükmüdür.)
+Bir kimse her ne suretle olursa olsun hayat veya ırz veya mal hakkında büyük bir zararla korkutularak yahut Hükümet tarafından verilmiş gibi emir göstererek başkasını para veya eşya veya hukukça hükmü haiz bir senet göndermeye veya bir mahalle koymaya veya bunların kendi eline geçmesini temin etmeye mecbur kılarsa sekiz seneden on beş seneye kadar ağır hapis cezasına mahküm olur.

@@ -1,0 +1,2 @@
+Madde 471 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Yukarıdaki maddelerde yazılan işlerden birini yapan kimse sıhhatı amme namına nizam altına alınmış sanat veya meslek ashasından olupta çocuk düşürtmeğe mahsus çare ve vasıtaları öğretmek veya kullanmak suretiyle bu fiili vukua getirmiş ve bundan kadının ölümü hasıl olmuşsa hakkında mezkür maddelerde yazılı olan ceza altıda bir miktarı çoğaltılır.

@@ -1,0 +1,1 @@
+Madde 359 – Bundan evvelki maddede yazılı cürüm, resmi ruhsatı haiz simsar yahut borsa tellalları tarafından irtikap olunursa failin göreceği ceza bir seneden beş seneye kadar hapis ve meslek ve sanattan muvakkaten memnuiyet ve elli liradan az olmamak üzere ağır cezayı nakdidir.

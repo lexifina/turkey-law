@@ -1,0 +1,2 @@
+Madde 143 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Türkiye'de sakin bir Türk veya ecnebi harp zamanının gayride düşman bir devlete veya memurlarına doğrudan doğruya veya bilvasıta mühimmat veya Türkiye Devletini mutazarrır kılabilecek sair vesait tedarik ve ita eylerse bir seneden beş seneye kadar ağır hapis veya hapis cezasına mahküm olur ve bundan başka kendisinden iki yüz liradan beş yüz liraya kadar ağır cezayı nakdi alınır.

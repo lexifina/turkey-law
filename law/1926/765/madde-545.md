@@ -1,0 +1,2 @@
+Madde 545 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Her kim, on beş yaşından aşağı çocukları toplayıp dilencilik ettirir veya velayet ve vesayeti altında bulunan yahut kendisinin muhafaza ve nezaretine tevdi olunan on beş yaşından aşağı bir küçüğün dilenmesine veya bir kimsenin o küçüğü dilencilikte kullanmasına müsaade ederse üç aya kadar hafif hapse ve doksan liraya kadar hafif cezayı nakdiye mahküm olur.

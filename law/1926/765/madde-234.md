@@ -1,0 +1,1 @@
+Madde 234 – Asker zabitlerinden veya Devletin umumi kuvvetlerine dahil memurlarla zabıta memurlarından biri salahiyettar daireden kendilerine kanuna göre verilmiş olan bir emri, nizama karşı gelerek yapmak istemez ve yapmasını geciktirirse iki seneye kadar hapis olunur.

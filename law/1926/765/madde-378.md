@@ -1,0 +1,1 @@
+Madde 378 – Geçen maddelerde yazılı fiilerden biri askeri müesseselere ve Hükümet ambarlarına ve Devlet tersanelerine ve fabrikalarına ve sefinelerine karşı işlenirse fail yedi seneden on beş seneye kadar ağır hapis cezasına mahküm olur.

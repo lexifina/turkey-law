@@ -1,0 +1,1 @@
+Madde 244 – Bir kimse hakkında sahabet fikrine veya garaza müsteniden kanun hilafında hüküm ve karar verdiği sabit olan hakimler, üç aydan üç seneye kadar hapis ve muvakkaten memuriyetten mahrumiyet cezasına müstahak olur.

@@ -1,0 +1,1 @@
+Madde 365 – Yukarki maddede yazılan sırlar Türkiye'de sakin olmıyan bir ecnebiye yahut memurlarına ifşa olunmuş ise faili bir aydan bir seneye kadar hapse ve otuz liradan iki yüz liraya kadar ağır cezayi naktiye mahküm olur.

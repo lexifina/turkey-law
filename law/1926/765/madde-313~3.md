@@ -1,0 +1,4 @@
+Madde 313 – (3/2/1937 tarih ve 3112 sayılı Kanunun hükmüdür.)
+Beş kişi veya daha ziyade kimse adliye veya ammenin itimadı veya selameti veya adabı umumiye ve nizamı aile veya şahıs veya mal aleyhinde cürüm işlemek için bir cemiyet teşkil ettikleri takdirde bunlardan herbirisi yalnız cemiyet teşkilinden dolayı beş seneye kadar ağır hapis cezasiyle cezalandırılır.
+Eğer bu cemiyet efradı dağlarda ve kırlarda veya umumi yollarda dolaşır, yahut içlerinden iki veya daha ziyadesi silah taşır veya emin bir mahalde silah saklarsa ceza üç seneden on seneye kadar ağır hapistir.
+Eğer cemiyetin muharrik veya reisleri varsa bunlar hakkında birinci fıkrada gösterilen halde üç seneden sekiz seneye ve ikinci fıkrada gösterilen halde beş seneden on iki seneye kadar ağır hapis cezası hükmolunur. Bu maddede tayin olunan cezalara herhalde emniyeti umumiye nezareti altına alınmak cezası da ilave edilir.

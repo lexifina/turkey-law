@@ -1,0 +1,2 @@
+Madde 205 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bir kimse Türkiye Devleti hesabına olarak almağa veya satmağa yahut yapmağa memur olduğu her nevi eşyanın alım ve satımında ve bahasında ve mitarında ve yapmasında fesat karıştırarak her ne suretle olursa olsun irtikap eylerse beş seneden aşağı olmamak üzere muvakkat ağır hapis cezasiyle cezalandırılır ve üç seneden on seneye kadar rütbe ve memuriyetinden mahrumiyet cezası dahi hükmolunur.

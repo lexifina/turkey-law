@@ -1,0 +1,1 @@
+Madde 123 – Mükerrirler cezanın tamamen infazından veya af yahut müruru zaman ile sukutundan itibaren bundan evvelki maddede beyan olunan müddetlerin iki katı geçmedikçe memnu haklarının iadesi istidasında bulunamazlar.

@@ -1,0 +1,5 @@
+Madde 65 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+1- Failin zihninde cürüm veya kabahat ikaı kararını uyandırarak veya fiili irtikap kararını teyit veyahut fiil işlendikten sonra müzaheret ve muavenette bulunacağını vadederek,
+2 - Cürüm veya kabahatin ne suretle işleneceğine müteallik talimat ve tarifat ita, veya fiilin işlenmesine yarayacak iş ve vasıtaları tedarik eyleyerek,
+3 - Cürüm veya kabahat işlenmeden evvel veya işlendiği esnada müzaheret ve muavenetle icrasını kolaylaştırarak, cürüm veya kabahate iştirak eden şahıs fiili vakıa mahsus olan ceza idam veya müebbet ağır hapisten ibaret olduğu takdirde on seneden aşağı olmamak üzere ağır hapis ve müebbet sürgün ise üç sene müddetle muvakkat sürgün cezasiyle cezalandırılır ve ahvali sairede kanunen muayyen olan cezanın yarısı indirilir.
+Bu maddede beyan olunan fiillerden birini işleyen kimsenin iştiraki inzimam etmeksizin fiilin irtikabı mümkün olmayacağı sabit olan ahvalde o kimse yukarıda gösterilen tenzilattan istifade edemez.

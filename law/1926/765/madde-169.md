@@ -1,0 +1,1 @@
+Madde 169 – 64 ve 65 inci maddelerde beyan olunan hal haricinde her kim, böyle bir cemiyete ve çeteye hal ve sıfatlarını bilerek barınacak yer gösterir veya yardım eder yahut erzak veya esliha ve cephane veya elbise tedarik (...)(1)ederse üç seneden beş seneye kadar ağır hapis ile cezalandırılır.

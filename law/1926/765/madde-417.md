@@ -1,0 +1,1 @@
+Madde 417 – Yukarıdaki maddelerde yazılan fiil ve hareketler birden ziyade kimseler tarafından işlenir veya usulden biri veya veli ve vasi veya mürebbi ve muallimleri ve hizmetkarları veya terbiye ve nezaret veya muhafazaları altına bırakılan veya buna düçar olanların üzerlerine hüküm ve nüfuzu olan kimseler tarafından vukubulursa kanunen muayyen olan ceza yarısı kadar artırılır.

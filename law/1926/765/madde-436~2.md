@@ -1,0 +1,4 @@
+Madde 436 – (8/6/1933 tarih ve 2275 sayılı Kanunun hükmüdür.)
+Her kim fuhuş zımmında rızasiyle olsa bile henüz yirmi bir yaşını bitirmiyen bir bakiri veya bir kadını yahut cebir ve şiddet ve tehdit veya nüfus icrası yahut hile ile yirmi bir yaşını bitiren bir bakir veya kadını başkası için iğfal eden veya tedarik yahut sevk veya bir yerden diğer yere naklederse bir seneden üç seneye kadar hapis ve elli liradan beş yüz liraya kadar ağır para cezasiyle cezandırılır.
+Bu fiiller yirmibir yaşını doldurmıyan bakir veya kadın hakkında iğfal veya cebir ve şiddet ve tehdit veya nüfuz icrasiyle yahut baba, ana, kardeş veya sair usulden biri yahut koca veya veli ve vasi veya muallim ve mürebbi veya hizmet karları yahut nezaretleri altına verilen sair kimseler tarafından yapılırsa iki seneden beş seneye kadar hapsolunur.
+Bu fasla giren suçların ihzari hareketlerini işliyenler asıl suç için yazılı cezanın altıda biri ile cezalandırılır.

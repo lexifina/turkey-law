@@ -1,0 +1,1 @@
+Madde 103 – Müruru zamanın başlangıcı tamamiyle icra olunmuş cürüm ve kabahatler hakkında fiilin vukuu gününden ve teşebbüs olunan veya icra ve ikmal olunamayan cürümler hakkında son fiilin işlendiği tarihten ve mütemadi ve müteselsil cürümler hakkında dahi temadi ve teselsülün bittiği günden itibar olunur.

@@ -1,0 +1,1 @@
+Madde 262 – Camiler etrafındaki mezarlıklarla kiliseler avlu ve derunlarına ve meskün mahaller civarında bulunan kabristanlara ve ölü defnine mahsus olan mahallerden maada yerlere ruhsatsız ölü defneden veya ettiren kimse bir aydan altı aya kadar hapis veya otuz liradan yüz elli liraya kadar ağır cezayı nakdi ile mahküm olur.

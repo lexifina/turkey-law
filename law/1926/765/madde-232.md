@@ -1,0 +1,2 @@
+Madde 232 – Görülmekte olan bir davanın tarafeyninden biri hakkında sahabet veya garaz ve menfaata müsteniden hakimlere emir ve tahakküm veya nüfuz veya iltimas eden kimse birinci ve ikinci surette iki seneden ve üçüncü takdirde altı aydan az olmamak üzere hapis olunur. Fail memur ise başkaca müebbeden veya muvakkaten memuriyetten mahrumiyet cezasiylede cezalandırılır.
+Bu müdahale üzerine dava haksız şekilde hüküm olunmuş ise ceza üçte biri kadar artırılır.

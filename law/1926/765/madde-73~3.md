@@ -1,0 +1,3 @@
+Madde 73 – (Değişik: 9/7/1953 - 6123/1 md.)
+(Ek birinci fıkra: 14/7/2004 - 5218/1 md.) Cezalardan biri ağırlaştırılmış müebbet ağır hapis ve diğeri şahsî hürriyeti bağlayıcı muvakkat bir ceza ise, ilave edilecek cezanın nev'i ve miktarına göre yirmi günden az ve altı seneden fazla olmamak üzere geceli gündüzlü bir hücrede tecrit edilmek suretiyle ağırlaştırılmış müebbet ağır hapis cezası tatbik olunur.
+Cezalardan biri müebbet ağır hapis ve diğeri şahsi hürriyeti bağlayıcı muvakkat bir ceza ise, ilave edilecek cezanın nevi ve miktarına göre on günden az ve üç seneden fazla olmamak üzere geceli gündüzlü bir hücrede tecrit edilmek suretiyle müebbet ağır hapis cezası tatbik olunur.

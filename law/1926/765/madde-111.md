@@ -1,0 +1,1 @@
+Madde 111 – Hukuku amme davasının düşmesi cürümden zarar gören şahsın davadan vazgeçmiş olmasından ileri gelmiş ve vazgeçtiği sırada davacı hukuku şahsiyesini ayrıca muhafaza eylememiş ise artık hukuk mahkemesinde dahi dava edemez.

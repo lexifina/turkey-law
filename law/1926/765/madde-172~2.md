@@ -1,0 +1,3 @@
+Madde 172 – (Değişik: 11/6/1936 - 3038/1 md.)
+64 ve 65 inci maddelerde yazılı haller haricinde her kim meydanlarda ve toplanma mahallerinde alenen ahaliyi 125, 131, 146, 147, 149 ve 156 ncı maddelerdeki cürümlerden birini işlemeğe tahrik ederse yalnız bu hareketinden dolayı, eğer tahrik ettiği fiil 125, 131 ve 156 ncı maddelerdeki fiillerden ise üç seneden beş seneye kadar ve 146, 147 ve 149 uncu maddelerdeki fiillerden ise iki seneden dört seneye kadar ağır hapis cezası hükmolunur ve her iki takdirde elli liradan aşağı olmamak üzere ağır para cezası alınır.
+(Mülga son fıkra : 6/6/1991 - 3756/26 md.)

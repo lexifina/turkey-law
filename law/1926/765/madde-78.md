@@ -1,0 +1,2 @@
+Madde 78 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bir kimse bir cürmü işlemek veya vukubulmuş bir cürmü gizlemek için diğer bir cürüm işlediği veyahut o cürüm vesilesiyle kanunda cürüm teşkil eden diğer bir fiil daha irtikap eylediği takdirde mezkür fiiller kanunen o cürmü terkibe den anasırdan veya cürmün esbabı müşeddedesinden sayılmazsa o kimse hakkında evvelki maddelerin müştemil olduğu hükümlere göre ceza tertip olunur.

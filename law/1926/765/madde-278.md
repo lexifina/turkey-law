@@ -1,0 +1,3 @@
+Madde 278 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Her kim olursa olsun resmi meclisler azasından yahut devlet memurlarından biri nezdinde hatırı sayıldığını yahut onlarla münasebeti bulunduğunu iddia ederek haklarında vukubulacak tavassuta medarı teşvik yahut mükafat olmak üzere yahut aza veya memurun himayesine mukabil onlara verilmek yahut onlara verilmesi lazımgelen hediye veya mükafata sarf olunmak bahanesiyle kendi yahut başka bir kimse hesabına akçe veya sair menfaat alır veya kabul eder veya bunların verilmesine vait alır ise üç aydan iki seneye kadar hapis cezasına ve otuz liradan yüz liraya kadar ağır cezayı nakdiye mahküm olur.
+Eğer fail, devlet memurlarından ise her halde işbu cezalara muvakkaten memuriyetten mahrumiyet cezası dahi ilave olunur.

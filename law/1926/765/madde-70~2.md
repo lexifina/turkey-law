@@ -1,0 +1,3 @@
+Madde 70 – (11/6/1936 tarih ve 3038 sayılı Kanunun hükmüdür.)
+Muvakkat ağır hapis ve hapis cezalarının hükmedilmesini icab ettiren birden fazla cürüm işlemiş olan kimse hakkında ağır hapis cezasının tayinini müstelzim fiil müteaddid ise, 69 uncu madde dahi tatbik edilmek suretile tayin edilecek ağır hapis cezasına, hapsi müstelzim cürüm için verilecek cezanın yarısı ilave olunur. Böyle bir halde hapis cezasının hükmedilmesini icab ettiren cürüm birden fazla ise yine 69 uncu madde tatbik edilmek suretile tesbit olunacak cezanın yarısı ağır hapis cezasına ilave edilir.
+Bu maddenin tatbikında dahi hükmolunacak ağır hapis veya hapis cezaları 69 uncu maddenin son fıkralarda yazılı miktarı geçemez.

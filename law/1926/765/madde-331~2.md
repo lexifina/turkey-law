@@ -1,0 +1,2 @@
+Madde 331 – (Değişik: 8/6/1933 - 2275/1 md.)
+Ceza Kanunu tatbikatında itibarı amme kağıtları para gibidir. İtibarı amme kağıtları tabiriyle kanunen para gibi tedavül edenlerden başka Hükümetler tarafından ihraç edilmiş hamile muharrer senetler ve kuponlar ve haiz oldukları mezuniyete binaen müesseseler tarafından ihraç edilmiş olupta kanunen tedavül etmekte bulunan diğer bütün evrak ve senetler maksuttur.

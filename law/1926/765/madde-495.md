@@ -1,0 +1,3 @@
+Madde 495 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Her kim, menkul bir malın zilyedini veya cürüm mahallinde bulunan bir başkasını cebir ve şiddet kullanarak veya şahsen veya malen büyük bir tehlikeye düşüreceği beyaniyle tehdit ederek o malı teslime yahut o malın kendi tarafından, zaptına karşı suküt etmeğe mecbur kılarsa üç seneden on seneye kadar ağır hapis cezasına mahküm olur.
+Bir malın nehbi esnasında veya akabinde fiili icra ve itmam etmek veya malı kaçırmak yahut kendisini veya şerikini cezadan kurtarmak için mal sahibine veya vaka mahalline gelen başkasına karşı cebir ve şiddet veya tehdit icra eden kimse hakkında dahi aynı ceza hükmolunur.

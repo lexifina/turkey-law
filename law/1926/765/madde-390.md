@@ -1,0 +1,2 @@
+Madde 390 – Her kim olursa olsun bir güna ihtilal ve fesat vukuu sırasında telgraf ve telefonun bir yahut ziyade hatlarını bozarak ve sair suretle işlemesini meni yahut cebren ve sair suretle zabt ederek cereyan edecek resmi muhaberat ve müraselatı tatil eder ve mektup gönderenleri ve telefonla muhaberat ve mükalematı meni ve zecr eyler yahut telefon ve telgraf hattının tamirine cebren muhalefet ederse muvakkat ağır hapse ve iki yüz liradan bin liraya kadar ağır cezayı nakdiye mahküm olur.
+106-95

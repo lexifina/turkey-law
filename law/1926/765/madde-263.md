@@ -1,0 +1,1 @@
+Madde 263 – Kolera ve sair bulaşık hastalıklardan musab veya vefiyat zuhur eden ev ve sair mahallerin kordon altına alınmasına dair Hükümetçe verilen emirlere ve yapılan icraata fiilen mümanaat edenler hareketlerinin derecesine göre bir aydan bir seneye kadar hapsolunur.

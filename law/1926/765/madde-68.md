@@ -1,0 +1,2 @@
+Madde 68 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Beş seneden fazla müddetle hürriyeti tahdit eden cezaları müstelzim bir kaç cürüm işlemiş olan şahsın cürümlerinden birisi müebbet ağır hapis cezasını müstelzim ise mücrimin hücrede geceli gündüzlü münferit ikameti bir seneden üç seneye kadar, ve cürümlerinden ikiside müebbet ağır hapis cezasını müstelzim ise beş seneye kadar, ziyadeleştirilir.

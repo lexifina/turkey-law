@@ -1,0 +1,1 @@
+Madde 57 – Fiili işlediği zaman henüz on beş yaşını bitirmeyen sağır-dilsizler hakkında takibat yapılmaz. Bunlar hakkında yirmi dört yaşına kadar kalmak üzere 53 üncü maddenin ikinci fıkrası hükmü tatbik olunabilir.

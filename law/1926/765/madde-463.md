@@ -1,0 +1,3 @@
+Madde 463 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+448,449,450,456,457 nci maddelerde beyan olunan fiilleri bir kaç kişi birlikte yapmış olupta failin kim olduğu belli olamazsa bunlardan her birisi hakkında fiil için tayin edilmiş olan ceza üçte birden yarıya kadar indirilerek hüküm olunur. İdam ve müebbet ağır hapis cezalarını istilzam eden fiillerde on seneden aşağı olmamak üzere ağır hapis cezası tayin olunur. Şukadar ki bu kaide fiili doğrudan doğruya beraber işlemiş olanlar hakkında tatbik olunmaz.
+32 – 24/5/1983 tarih ve 2827 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilimiş olan hükümlerin metinleri: (Madde numaraları: 468,469,470,471 ve 472)

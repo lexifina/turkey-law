@@ -1,0 +1,1 @@
+Madde 197 – Bir kimse kendisine gönderilmiş olan bir mektup veya telgrafı gönderenin rızası hilafında neşir ve işaa eder ve bu yüzden bir zarara sebep olursa otuz liradan yüz liraya kadar ağır cezayi nakdiye mahküm olur.

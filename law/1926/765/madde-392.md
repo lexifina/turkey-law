@@ -1,0 +1,1 @@
+Madde 392 – Geçen maddelerde yazılı olan fiillerden başka her kim bir suretle karada ve denizde ammenin münakalatına mahsus yolları ve eserleri tamamen veya kısmen bozarsa veya kullanılamayacak bir hale getirir veya bu maksatla müraselatın teminine mahsus olan şeylerin mahallerini tebdil ederse üç aydan beş seneye kadar hapse mahküm olur.

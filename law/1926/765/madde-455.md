@@ -1,0 +1,3 @@
+Madde 455 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Tedbirsizlik veya dikkatsizlik veya meslek ve sanatta acemilik veya nizamat ve evamir ve talimata riayetsizlik ile bir kimsenin ölümüne sebebiyet veren şahıs bir seneden dört seneye kadar hapse ve otuz liradan iki yüz elli liraya kadar ağır cezayı nakdiye mahküm olur.
+Eğer fiil bir kaç kişinin ölümünü mucib olmuş veya bir kişinin ölümiyle beraber bir veya bir kaç kişininde mecruhyetine sebebiyet vermiş ve bu yaralanma 456 ncı maddenin ikinci fıkrasında beyan olunan derecede bulunmuş ise iki seneden sekiz seneye kadar hapis ve iki yüz liradan aşağı olmamak üzere ağır cezayı nakdiye mahküm olur.

@@ -1,0 +1,5 @@
+Madde 132 – (Değişik: 11/6/1936 - 3038/1 md.)
+Devletin emniyetine veya dahili, yahut beynelmilel siyasi menfaatlerine taallük eden evrak veya vesikaları tamamen veya kısmen yok eden, tahrib eden veya üzerlerinde sahtelik yapan veyahut muvakkaten de olsa bunları tahsis olundukları yerden başka bir yerde kullanan, hile ile alan veya çalan kimse sekiz seneden aşağı olmamak üzere ağır hapis cezasile cezalandırılır.
+Gizli kalması Devletin emniyeti ve yukarıda yazılı menfaatleri icabından olan malümatı istihsal eden kimse üç seneden on seneye kadar ağır hapis cezasile cezalandırılır. Bu bab hükümlerine nazaran Devletin menfaatleri namına gizli kalması lazımgelen malümat arasında, dahili veya beynelmilel siyasi sebeplerle neşrolunmıyan Hükümet muamelelerinin ihtiva ettiği malümat da dahildir.
+Salâhiyetli makamların neşir veya işaasını menettiği malümatı istihsal eden kimse iki seneden sekiz seneye kadar ağır hapis cezasile cezalandırılır.
+Yukarıki fıkralarda yazılı filler Devletin harp hazırlıklarını veya harp kudret veya kabiliyetini veya askeri hareketlerini tehlikeye koymuşsa müebbet ağır hapis cezası verilir.(2)

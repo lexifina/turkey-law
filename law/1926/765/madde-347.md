@@ -1,0 +1,1 @@
+Madde 347 – Bir kimse geçen maddelerde beyan olunan cürümleri kendisi veya başkası için sahih bir keyfiyetin esbabı sübutiyesini tedarik maksadiyle işlemişse resmi evrak sahtekarlığından dolayı bir aydan iki seneye kadar ve resmi olmıyan evrak sahtekarlığından dolayı altı aya kadar hapis cezasına mahküm olur.

@@ -1,0 +1,1 @@
+Madde 375 – Kasti olmaksızın su basmasına sebebiyet verip bu suretle ferdin hayat ve malını tahlikeye koyan kimse bir seneye kadar hapis ile mücazat olunur. Eğer bu hal bir kimsenin ölümüne sebep olmuş ise cezası altı aydan aşağı olmamak üzere hapistir.

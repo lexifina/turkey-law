@@ -1,0 +1,2 @@
+Madde 220 – (9/7/1953 tarih ve 6123 sayılı Kanunun hükmüdür.)
+Yukarda sayılan kimselerden birine kanun hükmünce yapmaya memur olduğu şeyi yapmamak yahut yapmamaya mecbur olduğu şeyi yapmak için rüşvet, vait veya teklif veya ita eden kimsenin bu hareketi kanun ve nizama vukubulan muhalefetin derecesine ve istenilen şeyin kısmen veya tamamen yapılmış olup olmamasına göre bir seneden üç seneye kadar hapis ve 500 liradan 5.000 liraya kadar ağır para cezasını istilzam eder.

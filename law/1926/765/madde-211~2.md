@@ -1,0 +1,6 @@
+ÜÇÜNCÜ FASIL
+Rüşvet
+Madde 211 – (Değişik: 21/11/1990 - 3679/10 md.)
+Ceza Kanununun tatbikinde memur sayılanların, kanunen veya nizamen yapmaya veya yapmamaya mecbur oldukları şeyi yapmak veya yapmamak için aldıkları veya başkalarına aldırdıkları para, hediye ve her ne nam altında olursa olsun sağladıkları diğer menfaatler ile bu maksatla alıp sattıkları veya ihale eyledikleri taşınır ve taşınmaz malların gerçek değeri ile verilip alınan bedel arasındaki fahiş fark rüşvet sayılır.
+Bu Kanundaki memur tanımı dışında kalsalar dahi, özel kanunlarında belirli hallerde Devlet memuru sayıldıkları açıklananlar ile bazı yükümlülük ve sorumlulukları bakımından Devlet memurları gibi cezalandırılacakları belirtilenlerin yukarıdaki fıkrada gösterilen şekilde sağladıkları her türlü menfaat de rüşvet sayılır.
+(Ek: 2/1/2003-4782/2 md.) Yabancı bir ülkede seçilmiş veya atanmış olan, yasama veya idarî veya adlî bir görevi yürüten kamu kurum veya kuruluşlarının memur veya görevlilerine veya aynı ülkede uluslararası nitelikte görevleri yerine getirenlere, uluslararası ticari işlemler nedeniyle, bir işin yapılması veya yapılmaması veya haksız bir menfaatin elde edilmesi veya muhafazası amacıyla, doğrudan veya dolaylı olarak birinci fıkranın öngördüğü menfaatlerin teklif veya vaat edilmesi veya verilmesi de rüşvet sayılır.

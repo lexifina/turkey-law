@@ -1,0 +1,2 @@
+Madde 406 – (8/6/1933 tarih ve 2275 sayılı Kanunun hükmüdür.)
+403 üncü maddede yazılı suçları işleyenler tabip, diş tabibi, dişçi, eczacı ecza ticarethaneleri sahip ve mesul müdürleri, sıhhiye memuru ve ebe iseler iki seneden eksik olmamak üzere hapsolunur ve mezkür maddede yazılı para cezası dörtte bir arttırılarak hükmedilir. Bu cezalardan başka hapis müddetini geçmemek üzere meslek ve sanatın tatiline de ayrıca hüküm verilir.

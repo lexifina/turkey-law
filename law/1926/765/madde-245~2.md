@@ -1,0 +1,3 @@
+Madde 245 – (Değişik: 5/1/1961 - 235/2 md.)
+Kuvvei cebriye imaline memur olanlar ve bilümum zabıta ve ihzar memurları memuriyetlerini icrada ve mafevkinde bulunan amirinin emrini infazda kanun ve nizamın tayin ettiği ahvalde başka surette bir kimse hakkında suimuamele veya cismen eza verecek hale cüret eder yahut o kimseyi darp ve cerheylerse üç aydan beş seneye kadar hapis ve muvakkaten memuriyetten mahrumiyet cezaları ile cezalandırılır. Eğer işlediği cürüm bu fiillerin fevkinde ise o cürümlere terettüp eden ceza üçte birden yarıya kadar artırılır. (1)
+(Ek fıkra: 2/1/2003-4778/1 md.) 243 üncü madde ile bu maddede yazılı suçlardan dolayı verilen cezalar, para cezasına veya tedbirlerden birine çevrilemez ve ertelenemez.

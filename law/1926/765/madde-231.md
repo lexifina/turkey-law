@@ -1,0 +1,1 @@
+Madde 231 – Yukarıdaki maddede yazılı olan terahi veya emri yapmamak hakimler tarafından vakı olduğu surette bunlar aleyhine iştikai anilhükkam davasının ikamesi için kanuna göre bulunması lazımgelen şartlar mevcut olduğu halde ihmal veya emri yapmamak fiili vakı farz olunur.

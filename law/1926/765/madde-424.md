@@ -1,0 +1,1 @@
+Madde 424 – Bu fasılda beyan olunan cürümlerde mağdur olanların içtimai mevki ve vaziyetlerine ve tecavüzün şumul ve mahiyeti derecesine göre mahkemece takdir edilerek tazminat dahi ayrıca hüküm olunur.

@@ -1,0 +1,3 @@
+Madde 176 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bir kimse devletçe tanınmış olan dinlerden birini tahkir maksadiyle mabetlerde bulunan eşyayı yıkar veya bozar yahut diğer bir suretle zarar verir yahut ruhani memurlar hakkında şiddet istimai yahut onlara karşı hakaret eder ve dil ile tecavüz eylerse üç aydan üç seneye kadar hapis yahut elli liradan yüz liraya kadar ağır cezayı nakdi ile cezalandırılır.
+Ruhani memurların vazifelerini icra esnasında veya vazifelerini icradan dolayı bir cürüm irtikap olunduğu takdirde bu cürmün kanunen muayyen olan cezası altıda bir miktarı artırılır.

@@ -1,0 +1,1 @@
+Madde 185 – Bir kimsenin kanunsuz hapis olunduğunu haber alan salahiyettar bir memur o kimsenin tahliyesi için icap eden muameleyi bizzat yapmağı veya icraya salahiyeti olan mercie bildirmeyi red veya ihmal veya tehir ederse bir aydan bir seneye kadar hapis ve elli liraya kadar ağır cezayı nakdi ile cezalandırılır.

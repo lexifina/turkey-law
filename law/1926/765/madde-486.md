@@ -1,0 +1,2 @@
+Madde 486 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bir dava esnasında iki taraf veya vekilleri canibinden dava hakkında mahkemeye verilen evrak ve iradolunan müdafaatın muhtevi olduğu elfazı tahkiriyiden dolayı takibat icra olunmaz. Şu kadar ki mahkeme kanunen muayyen olan inzibati tedbirlerden maada bu lafızları havi bulunan evrakın tamamen veya kısmen ortadan kaldırılmasını emir ve mütecavizün aleyhin talebiyle kendisine tazminat itasına hükmedebilir.

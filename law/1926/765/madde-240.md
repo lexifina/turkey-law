@@ -1,0 +1,2 @@
+Madde 240 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Kanunda yazılı hallerden başka her ne suretle olursa olsun vazifesini suiistimal eden memur derecesine göre üç aydan üç seneye kadar hapis olunur. Cezayı tahfif edecek sebeplerin vücudu halinde bir aydan az olmamak üzere hapis ve otuz liradan yüz liraya kadar ağır cezayı nakdi ile cezalandırılır ve her halde müebbeden veya muvakkaten memuriyetten mahrum edilir.

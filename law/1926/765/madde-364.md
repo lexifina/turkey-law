@@ -1,0 +1,1 @@
+Madde 364 – Bir kimse sıfat veya memuriyeti yahut meslek ve sanatı icabınca vakıf olup ta gizli tutmağa mecbur olduğu fenni keşif ve ihtiralara, yahut sınai tatbikata müteallik malümatı ifşa ederse mutazarrır olan kimsenin şahsi davası üzerine altı aya kadar hapse ve onbeş liradan yüz liraya kadar ağır cezayi nakdiye mahküm olur.

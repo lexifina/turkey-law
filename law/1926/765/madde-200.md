@@ -1,0 +1,3 @@
+Madde 200 – Posta ve telgraf memurlarından bir kimse memuriyet sıfatını suistimal suretiyle bir mektup, bir zarf, bir telgraf veya sair açık bir muhabere evrakını zapteder veya kapalı evrakı açar veya telefon, telgraf mükalemat ve muhaberatı mahremiyetini ihlal ederse üç aydan üç seneye kadar hapis olunur.
+Aynı ceza telgraf, posta, telefon dairesinde müstahdem olup bu sıfatı suistimal suretiyle muhabere evrakından birini ortadan kaldıranlar hakkında dahi tatbik olunur. Bu maddede beyan olunan hallerden biri bir zararı mucip olmuşsa fail altı aydan dört seneye kadar hapsedilir ve üç seneye kadar memuriyetinden mahrumiyet cezası birlikte hükmolunur.
+106-60

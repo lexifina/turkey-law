@@ -1,0 +1,2 @@
+Madde 329 – (8/6/1933 tarih ve 2275 sayılı Kanunun hükmüdür.)
+Kıymetli damgaları veya demiryolu yahut sair amme nakliyat şirketlerinin biletleri üzerine evvelce kullanılmış olduklarına dair konulan işaretleri silmek veya her ne suretle olursa olsun yok etmek suretiyle bunları kullanan veya kullanmak üzere başkalarına veren kimse bir seneye kadar hapis ve iki yüz liraya kadar ağır para cezasiyle cezalandırılır.

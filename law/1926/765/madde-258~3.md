@@ -1,0 +1,6 @@
+Madde 258 – (29/6/1938 tarih ve 3531 sayılı Kanunun hükmüdür.)
+Bir memura veya ona yardım edenlere memuriyetine aid vazifeleri ifa sırasında cebir ve şiddet veya tehdid ile mukavemet eden kimse üç aydan bir seneye kadar hapis cezasile cezalandırılır.
+Eğer fiil silahla işlenmişse hapis cezası bir seneden üç seneye kadar ve eğer beş kişiden fazla silahlı veya on veya daha fazla silahsız kimseler tarafından birlikte işlenmiş ise aralarında evvelce ittifak olmasa bile iki seneden beş seneye kadar hapis cezası verilir.
+Eğer fiil kendisini veya akrabasını hapis ve tevkiften kurtarmak maksadile vaki olmuşsa birinci fıkradaki hal için bir aydan altı aya ve ikinci fıkrada yazılı hal için üç aydan bir seneye ve üçüncü fıkradaki hal için altı aydan üç seneye kadar hapis cezası verilir.
+Eğer memur haiz olduğu salahiyet hududunu tecavüz ederek veya keyfi hareketlerile bu muameleye sebebiyet vermişse fail hakkında geçen maddelerdeki ceza dörtte bire kadar indirileceği gibi icabına göre ceza büsbütün de kaldırabilir.
+254, 255, 256 ve 257 nci maddelerle yukarıki fıkralarda yazılı fiiller İcra Vekilleri Heyetinden bir vekil aleyhinde işlenirse tayin edilecek ceza yarı nisbetinde artırılarak hükmolunur.

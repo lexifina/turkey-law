@@ -1,0 +1,7 @@
+Madde 456 – (8/6/1933 tarih ve 2275 sayılı Kanunun hükmüdür.)
+Her kim katil kastiyle olmaksızın bir kimseye cismen eza verir veya sıhhatini ihlale yahut akli meleklerinde teşevvüş husulüne sebep olursa bir aydan bir seneye kadar hapsolunur.
+Fiil, havastan veya azadan birinin devamlı zafını yahut söz söylemekte devamlı müşkülatı veya çehrede sabit bir eseri yahut yirmi gün ve daha ziyade akli veya bedeni hastalıklardan birini veya bu kadar müddet mutat iştigallerine devam edememesini mucip olmuş veya hayatını tehlikeye maruz kılmış veya gebe bir kadın aleyhine işlenipte vaktinden evvel çocuk doğmasını intaç etmiş ise ceza bir seneden beş seneye kadar hapistir.
+Fiil, kat'i veya muhtemel surette iyileşmesi kabul olmayacak derecede akıl veya beden hastalıklarından birini yahut havastan veya el yahut ayaklardan birini veya söylemek kudretinin yahut çocuk yapmak kabiliyetinin ziyaını mucip olmuş veya azadan birinin tatilini yahut çehrenin daimi değişikliğini veya gebe bir kadına karşı ika olunupta çocuğun düşmesini intaç eylemiş ise ceza üç seneden on seneye kadar ağır hapistir.
+75
+Fiil, hiç bir hastalığı veya mütadı olan iştigallerden mahrumiyeti mucip olmamış yahut bu haller on günden ziyade uzamamış ise takibat icrası mutazarrırın şikayetine bağlı olmak şartiyle fail hakkında bir aydan üç aya kadar hapis veya yirmi beş liradan beş yüz liraya kadar ağır para cezası hükmolunur.
+Bu fiil dört yüz elliyedinci maddede yazılı vasıtalarla işlenirse takibat icrası şikayete bağlı değildir.

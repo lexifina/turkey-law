@@ -1,0 +1,4 @@
+Madde 211 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Maaşlı veya maaşsız, daimi veya muvakkat, mansup veya müntehap yeminli, yeminsiz olarak uhdesine Hükümete veya nahiye ve köylere ve belediyelere ait bir işle tavzif ve tevkil edilen ve Hükümet ve nahiyelerin doğrudan doğruya nezareti altındaki daire ve müesseselerin işlerini görmekle mükellef bulunanların ve efradı nastan olupta hakem, ehlihibre, mümeyyiz, tercüman, sendik, muhammin, tasfiye memuru gibi resmi bir vazife ile mükellef bulunan kimselerin ve katibi adil ve avukat ve dava vekillerinin kanunen ve nizamen yapmağa mecbur ol-
+106-8
+duğu şeyi yapmak veya yapmamak için aldıkları ve başkalarına aldırdıkları para ve hediye namiyle aldıkları eşya ve her ne suretle olursa olsun temin ettikleri sair menfaatler rüşvet olduğu gibi bu maksada mebni az veya çok bahaya alıp sattıkları ve ihale eyledikleri mal ve mülklerin hakiki kıymetiyle verilip alınan bedel arasındaki fahiş fark dahi rüşvettir.

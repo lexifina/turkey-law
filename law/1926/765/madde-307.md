@@ -1,0 +1,2 @@
+Madde 307 – İşbu kanunda tasrih olunan hallerin gayri olarak bir mahküm mahkümiyetinin müstelzim olduğu vazifelere muhalif hareket ettiği takdirde berveçhi ati mücazata müstahak olur.
+1 - Mahkümun mahküm bulunduğu ceza, hıdematı ammeden veyahut meslek ve sanatın icrasından memnuiyet keyfiyetleri ise mahküm bulunduğu ceza müddetlerine asla halel gelmemek üzere hakkında bir seneye kadar hapis ve yüz liraya kadar ağır cezayı nakdi tertip olunur.

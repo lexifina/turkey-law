@@ -1,0 +1,1 @@
+Madde 162 – Kanunun cürüm saydığı neşriyatı nakil etmek başlı başına bir cürüm olup, faili aynı cezaya tabidir. Nakil olunan bu gibi neşriyatın muhteviyatı tasdik olunmadığına veya ihtiyatla nakil edildiğine yahut mesuliyeti başka bir kimsenin tamamiyle deruhte eylediğine dair bir kayıt ilavesi naklini mesuliyetten vareste kılamaz.

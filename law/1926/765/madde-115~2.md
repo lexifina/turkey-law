@@ -1,0 +1,2 @@
+Madde 115 – (Değişik: 11/6/1936-3038/1 md.)
+Amme hizmetlerinden muvakkat memnuiyet yahut diğer bir ıskatı ehliyet cezası veya bir meslek ve sanatın tatili icrası sair cezalara zam ve ilave edildiği veyahut bir hüküm neticesi olduğu takdirde ıskatı ehliyet ve tatili meslek ve sanat cezaları, onlar için muayyen olan müddetin iki misline muadil bir müddet geçmedikçe sakıt olmazlar ve işbu müruru zaman aslı mücazatın sakıt olduğu tarihten itibaren cereyana başlar.

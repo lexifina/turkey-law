@@ -1,0 +1,1 @@
+Madde 280 – Memuriyet sıfatı kanuna göre cürmü teşkil eden anasırdan veya cürmün esbabı müşeddidesinden addolunduğu yerlerde memurdan bu sıfatın zail olmuş bulunması veya cürmün vukuu esnasında vazifesini ifa halinde bulunmaması bu kaidenin tatbikına mani değildir.

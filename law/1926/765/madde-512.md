@@ -1,0 +1,5 @@
+Madde 512 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Her kim, 296 ncı maddede beyan olunan ahval haricinde kendisi cürmün irtikabına iştirak etmeksizin bir cürümden hasıl olan para veya sair eşyayı bilerek kabul eder veya saklar yahut satın alır yahut her ne suretle olursa olsun onları kabul etmek ve saklamak ve satmak hususlarında tavassut eyler ise iki seneye kadar hapse ve yirmi liradan yüz liraya kadar ağır cezayı nakdiye mahküm olur.
+Eğer para ve eşya ağır hapis cezasını müstelzim bir cürmün icrasından hasıl olmuş ise ceza bir seneden aşağı olmamak üzere hapis ve otuz liradan iki yüz liraya kadar ağır cezayi nakdidir.
+İşbu fıkralarda beyan olunan ahvalde hükmolunacak ceza, para ve eşyanın sebebi husulü olan cürüm için muayyen cezanın yarısını geçemez.
+Eğer fail, bu fiilleri itiyat etmiş takımdan ise bu maddenin birinci fıkrasında yazılı hallerde ceza iki seneden dört seneye kadar çoğaltılır. Ve her halde yüz liradan beş yüz liraya kadar ağır cezayı nakdi dahi ilave kılınır.

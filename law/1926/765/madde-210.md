@@ -1,0 +1,3 @@
+Madde 210 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Memurlardan her kim memuriyetine ait vazifeyi suistimal suretiyle kendisine veya başkasına bigayrihakkın para itasına ve sair menfaatler temin veya va'dine bir kimseyi ikna ederse bir seneden üç seneye kadar hapis ve memuriyetten muvakkaten mahrumiyet cezaları ile cezalandırılır. Eğer memur kanunen alınmaması lazımgelen bir şeyi diğerin hatasından bilistifade almış bulunursa altı aydan üç seneye kadar hapis olunur.
+Eğer bigayrihakkın vait ve ita veya temin olunan para veya menfaat miktar ve kıymetçe az ise hapis ve mahrumiyet cezalarının yarısı indirilir.

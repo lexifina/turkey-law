@@ -1,0 +1,1 @@
+Madde 412 – İşbu babın ilk iki faslında yazılı fiillerden biri o fiilde kullanılan veya her hangi bir resmi işte bulunan veya muayyen maddelerin muhafazasiyle mükellef olan bir kimse tarafından işlenmiş ise ceza altıda birinden üçte birine kadar artırılır.

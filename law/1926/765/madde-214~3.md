@@ -1,0 +1,2 @@
+Madde 214 – (9/7/1953 tarih ve 6123 sayılı Kanunun hükmüdür.)
+Hakimler, Cumhuriyet Müddeiumumileri ile bunların yardımcıları veya sorgu hakimleri tarafından velev kanuni vazifelerini ihlal etmiyecek bir anlaşma zımnında muhik ve meşru bir iş için rüşvet alınması beş seneden on seneye kadar ağır hapis cezasını istilzam eder. Kanun hilafı muamele icrası için vakı olacak irtişalarından dolayı cezanın en azı altı sene ağır hapistir.

@@ -1,0 +1,2 @@
+Madde 324 – (Değişik: 8/6/1933 - 2275/1 md.)
+Filigranlı veya munhasıran paraların, kıymetli damgaların filigranlı kağıtların taklit veya tağyirine mahsus alat ve vesaiti imal eden veya satın alan veya muhafaza eden veya ahara satan veya veren kimse, fiili daha ağır bir cezayı istilzam etmediği takdirde, bir seneden beş seneye kadar hapis ve yüz liradan beş yüz liraya kadar ağır para cezasiyle cezalandırılır.

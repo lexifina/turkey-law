@@ -1,0 +1,1 @@
+Madde 257 – Yukarıdaki maddede beyan olunan içtima cürmün silah ile işlenmesi için vaki olmuş ise hapis üç aydan üç seneye kadardır. Eğer Hükümetin emir ve ihtarı üzerine dağılırsa içtimaa dahil olanlar hakkında ceza verilemez.

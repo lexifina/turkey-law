@@ -1,0 +1,3 @@
+Madde 221 – (8/6/1933 tarih ve 2275 sayılı Kanunun hükmüdür.)
+Raşinin itma ve ifsat ettiği kimse hakim ve müstantik ve müddeiumumi ve muavinleri olduğu veya mahkemeler ve daireler tarafından mahsus bir vazife ile tavzif veyahut iki taraftan tahkim kılınan kimselerle noter ve avukat ve dava vekili bulunduğu takdirde kanun ve nizama vukubulan muhalefetin derecesine göre raşi bir seneden üç seneye kadar hapsolunur.
+Şu kadar ki bu muhalefet neticesinde velev cerh ve tadili ve ıslahı kabil bir karar ile bir şahsın meni muhakemesi veya beraeti veya masumun mahkümiyeti veya başka bir cürmün işlenmesi kabilinden haller husule gelmiş bulunursa, raşinin cezası mürteşi için kanunen muayyen olan cezanın yarısından üçte ikisine kadar tayin olunur.

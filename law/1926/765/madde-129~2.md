@@ -1,0 +1,6 @@
+Madde 129 – (Değişik: 11/6/1936 - 3038/1 md.)
+Harp zamanında Türkiye Devleti zararına, düşmanın askeri hareketlerini kolaylaştırmak veya Türkiye Devletinin askeri hareketlerine zarar vermek maksadile yabancı ile anlaşan veyahut bu maksadlara matuf fiiller işliyen kimse on seneden aşağı olmamak üzere ağır hapis cezasile cezalandırılır. Maksadı hasıl olursa ağırlaştırılmış müebbet ağır hapis cezası verilir. (1)
+Harp zamanında düşman Devlete iaşe maddeleri veya Türkiye Devletinin zararına kullanılabilecek sair şeyler veren kimse bunları bilvasıta vermiş olsa bile beş seneden aşağı olmamak üzere ağır hapis cezasile cezalandırılır.
+Harp zamanında düşman Devlet lehine yapılan istikrazlara ve her ne suretle olursa olsun tediyelere iştirak eden veya buna müteallik muameleleri kolaylaştıran kimse beş seneden aşağı olmamak üzere ağır hapis cezasile cezalandırılır.
+Harp zamanında ve ikinci fıkrada yazılı haller haricinde nerede bulunursa bulunsun düşman Devlet tebaasile veyahut düşman Devlet topraklarında oturan diğer kimseler ile bilvasıta olsa dahi, ticaret yapan yurddaş veya Türkiye’de bulunan yabancı iki seneden on seneye kadar ağır hapis ve bin liradan aşağı olmamak üzere eşya değerinin beş misline müsavi ağır para cezasile cezalandırılır.
+İkinci ve üçüncü fıkra hükümleri fiili hariçte işliyen yabancılar hakkında tatbik olunmaz.

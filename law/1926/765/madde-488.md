@@ -1,0 +1,4 @@
+Madde 488 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bu fasılda beyan olunan cürümlerden dolayı takibat icrası kendisine tecavüz olunan şahıs tarafından şikayetname verilmesine bağlıdır.
+Eğer mütecavizünaleyh şikayetname vermezden evvel vefat eder, veya bu cürümler ölmüş bir adamın hatırasına karşı irtikap olunursa bundan dolayı müteveffanın karısı ve usul ve füruu veya kardeş ve kız kardeşleri ve usul ve füru derecesinde sıhrı akrabası ve doğrudan doğruya veresesi bulunan kimseler tarafından şikayetname verilebilir.
+Adli veya siyasi veya mülki veya askeri bir heyet veya bunlar makamına kaim olanlar aleyhinde hakaret ve tecavüz vuku bulduğu takdirde heyetin ve meclis suretinde teşekkül etmiyen heyetler için dahi en büyük amirinin müsaadesi ve şirketlerle cemiyetler müdürlerinin şikayetnamesi olmadıkça takibat icra olunamaz.

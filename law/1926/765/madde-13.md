@@ -1,0 +1,3 @@
+Madde 13 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Ağır hapis cezası müebbet veya muvakkattir. Müebbet ölünceye kadar devam eder. Muvakkat bir seneden yirmi seneye kadardır. Her iki hali çalışmak mecburiyetiyle ve aşağıdaki kaidelere tevfikı hareket suretiyle bu cezaya mahsus müesseselerde çektirilir.
+Müebbet Ağır hapsin ilk üç senesi ve muvakkatte cezanın altıda birine müsaviilk devresi bir hücrede geceli gündüzlü yalnız bırakılmak suretiyle icra olunur. Bu ilk devre müddeti altı aydan eksik ve üç seneden fazla olamaz. Ondan sonra ki müddet geceleri bir hücrede yalnız bırakılmak ve gündüzleri sair mahpuslarla konuşamaksızın çalıştırılmak suretiyle ikmal ettirilir.

@@ -1,0 +1,2 @@
+Madde 240 – (Değişik: 12/6/1979-2248/19 md.)
+Yasada yazılı hallerden başka hangi nedenle olursa olsun görevini kötüye kullanan memur derecesine göre bir yıldan üç yıla kadar hapsolunur. Cezayı hafifletici nedenlerin bulunması halinde altı aydan bir yıla kadar hapis ve her iki halde ikibin liradan onbin liraya kadar ağır para cezasiyle cezalandırılır. Ayrıca memuriyetten süreli veya temelli olarak yoksun kılınır.

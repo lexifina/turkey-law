@@ -1,0 +1,1 @@
+Madde 150 – Bir fesat heyetine maksadını icra için silah, cephane, bıçak, bomba veya buna mumasil sair yıkıcı, yakıcı veya öldürücü alatı yapan veya icat eden veya nakil eden veya hazırlayan veya ecnebi memleketlerden Türkiye'ye sokan yahut gizleyen veya taşıyan kimseler muvakkaten ağır hapse konulur.

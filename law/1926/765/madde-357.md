@@ -1,0 +1,1 @@
+Madde 357 – Bir kimse gösterdiği sahih bir vesika veya ilmühaberin ve şahadetnamenin hükümeti aldatmak için kendisine veyahut başkasına ait olduğunu yalandan iddia ederse yukardaki maddede yazılı olan ceza ile cezalandırılır.

@@ -1,0 +1,2 @@
+Madde 309 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Hükmen kendi yedi nezi olunup ta müstahaklara teslim kılınan gayrimenkul mallarını tekrar zapt ve işgal eden veya mahcuz gayrimenkul malı vaziyet tarihinden sonra tahrip eyliyen veyahut kendi yedinde veya başkası nezdinde olup usulen haciz altına alınan veya vaziyet edilen menkul malını alan veya telef veya sarf ve helak eden kimse üç aydan üç seneye kadar hapsolunur ve otuz liradan yüz elli liraya kadar ağır cezayı nakdi alınır.

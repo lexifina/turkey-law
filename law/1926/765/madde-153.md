@@ -1,0 +1,2 @@
+Madde 153 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Askeri Ceza Kanununda yazılı haller haricinde devletin silahlı kuvvetlerini ve zabıtayı resen veya naklen makaleler neşri yahut umumi bir içtimada veya nasın toplandığı yerlerde nutuk iradı yahut toplu veya dağınık ihtilatlarla telkinat yapılması suretlerinden biriyle itaat ve inzibattan çıkmağa teşvik ve tahrik edenler muvakkaten ağır hapis ile cezalandırılır.

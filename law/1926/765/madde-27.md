@@ -1,0 +1,3 @@
+Madde 27 – Bundan evvelki maddede beyan olunan halde mahküm, tevbih tarihinden itibaren cürümler için iki ve kabahatler için bir seneyi geçmemek üzere mahkemece tayin edilecek müddet zarfında bir cürüm veya kabahat işlerse bu cürüm ve kabahatin müstelzim olacağı cezaya halel gelmemek şartiyle cezayı nakdi namiyle muayyen bir para itasını taahhüt etmeğe ve mahkemece lüzum görülürse bu taahhüdünü muteber kefil ile temin eylemeğe mecburdur.
+Gösterilecek kefillerin iktidarları derecesini tayin etmek mahkemeye aittir.
+Eğer mahküm böyle bir taahhüdü kabul etmez veya muteber kefil göstermez ise hüküm olunan ceza icra olunur.

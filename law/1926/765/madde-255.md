@@ -1,0 +1,1 @@
+Madde 255 – Yukarıdaki maddede yazılı cezalar adli, siyasi veya idari bir heyetin veya bu heyetler mümessillerinin içtimaını yahut vazife görmelerini men veya ihlal veya müzakerelerinde nüfuz veya tesir icra etmek üzere şiddet kullananlar veya tehdit gösterenler hakkında dahi tatbik olunur.

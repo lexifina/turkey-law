@@ -1,0 +1,1 @@
+Madde 107 – Hukuku amme davasının ikamesi mezuniyet veya karar alınmasına yahut diğer bir mercide halli lazım gelen bir meselenin neticesine bağlı bulunduğu takdirde mezuniyet ve kararın alınmasına yahut meselenin halline kadar müruru zaman durur.

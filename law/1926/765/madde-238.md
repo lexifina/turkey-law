@@ -1,0 +1,1 @@
+Madde 238 – Hakimlerle memurinden her kim memuriyetinin dairesi dahilinde ahalinin zaruri havayicinden olan hububat, erzak ve sair malzemeleri alıp satarak ticaret ederse yüz liradan aşağı olmamak üzere ağır cezayı nakdi ve müebbeden memuriyetten mahrumiyet cezasiyle cezalandırılır.

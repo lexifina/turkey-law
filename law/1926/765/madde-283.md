@@ -1,0 +1,2 @@
+Madde 283 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Vukubulmadığını bildiği bir cürmü adliyeye veya keyfiyeti adliyeye tavdie mecbur olan bir makama vukubulmuş gibi ihbareden yahut vaki olmayan bir cürmün eserlerini takibata mübaşeret olunabilecek derecede uyduran kimse otuz aya kadar hapis cezasına mahküm olur.Adliye huzurunda sahte olarak bir cürüm işlediğini yahut bu cürme iştirak eyledlğini söyleyen kimse hakkında dahi aynı ceza tertip olunur.

@@ -1,0 +1,2 @@
+Madde 361 – Her kim iltizam ettiği taahhüdü icra etmiyerek resmi bir daireye veya bir hizmeti amme ifasına yahut bir musibeti ammenin önünü almağa elzem olan erzak ve eşyanın fikdanına sebebiyet verirse bir seneden üç seneye kadar hapse ve yirmi beş liradan aşağı olmamak üzere iki yüz liraya kadar ağır cezayı nakdiye mahküm olur.
+Taahhüdün icra olunmaması failin yalnız ihmal ve teseyyübünden ileri gelmiş ise bir seneye kadar hapse ve yüz liraya kadar ağır cezayı nakdiye mahküm olur.

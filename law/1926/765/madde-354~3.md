@@ -1,0 +1,7 @@
+Madde 354 – (21/1/1983 tarih ve 2787 sayılı Kanunun hükmüdür.)
+Hekim veya eczacı veya sıhhiye memuru Hükümetçe emniyet ve itimat olunacak bir vesikayı hatıra binaen hakikate muhalif olarak verirse üç aydan sekiz aya kadar hapis ve beşbin liradan otuzbin liraya kadar ağır para cezasıyla cezalandırılır.
+Böyle hakikate muhalif olarak tanzim olunmuş vesikayı kullanan kimse hakkında dahi aynı ceza tertip olunur. Eğer bu gibi hakikate muhalif vesikaya dayanılarak sinir ve akıl hastalıkları müesseselerine kabul ve orada ikamete mecbur edilmesi gerekmeyen bir kimse bu müesseselere kabul ve orada ikamete mecbur edilir veya başkaca fahiş bir zarar husule gelirse failin göreceği ceza bir yıldan üç yıla kadar hapistir.
+Eğer birinci fıkrada yazılı fiil, failin kendisine yahut başkasına verilmiş veya vaat ve temin olunmuş para vesair menfaat mukabilinde irtikap olunmuş ise göreceği ceza iki yıldan dört yıla kadar hapistir.
+Eğer vesikadan ikinci fıkrada yazılı olan fahiş zarar husule gelmiş ise ceza üç yıldan beş yıla kadardır. Her halde bu cezalarla beraber ilk fıkradaki para cezası iki kat olarak hükmolunur.
+Para veren veya vadeden yahut menfaat temin veya vadeden kimse hakkında dahi altı aydan iki yıla kadar hapis cezası hükmolunur ve verilip alınan para vesair eşya da müsadere olunur.
+52 – 13/7/1999 tarih ve E. 1999/24, K. 1999/30 sayılı Anayasa Mahkemesi Kararı ile iptal edilmiş hükümlerin metinleri: (Madde numarası: 442, 443, 444)

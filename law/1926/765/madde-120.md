@@ -1,0 +1,1 @@
+Madde 120 – Ceza hükümlerinin sukutu hukuku şahsiye ve istirdadı emval ve tazminat ve masarifi muhakemeye müteallik hükümlere halel vermez. Ancak umumi aftan neşet eden sukut masarifi muhakemenin tahsili hakkında hazinenin mütalebe hakkını dahi iskat eder.

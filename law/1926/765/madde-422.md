@@ -1,0 +1,1 @@
+Madde 422 – Kadın kıyafetiyle kadınların bulunduğu mahallere girenler mücerret bu fiilden dolayı üç aydan bir seneye kadar hapsolunurlar ve böyle tebdili kıyafet ile girmiş oldukları yerde kanunen bu cezadan şedit bir cezayı mucip olan bir cürüm işlemişlerse o fiilin cezasiyle dahi cezalandırılırlar.

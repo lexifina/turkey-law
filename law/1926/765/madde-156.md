@@ -1,0 +1,1 @@
+Madde 156 – Reisicumhur hakkında suikasitte bulunanlarla buna teşebbüs edenler fiilleri teşebbüsü tam derecesinde ise ağırlaştırılmış müebbet ağır hapis cezasiyle, nakıs ise müebbet ağır hapis ile, cezalandırılır. (1)

@@ -1,0 +1,2 @@
+Madde 192 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bir kimsenin namusunu ihlal edecek veya itibarını kıracak bir maddeyi matbuat vasıtasiyle ifşa eylemek yahut bu yolda isnadatta bulunmak tehdidiyle kendisinden para alanlar yahut başka türlü menfaat istihsal edenler yahut para almağa ve menfaat istihsaline tasaddi edenler altı aydan üç seneye kadar hapis ve elli liradan iki yüz liraya kadar ağır cezayı nakdi ile cezalandırılır.

@@ -1,0 +1,1 @@
+Madde 187 – Bir memur evvelki maddelerde beyan olunan cürümlerden birini işleyerek hususi bir maksada hizmet etmiş bulunursa cezası altıda bir miktarında çoğaltılır. Şukadar ki 185 inci maddede yazılı ağır cezayı nakdiye üç aydan üç seneye kadar hapis cezası ilave olunur.

@@ -1,0 +1,1 @@
+Madde 409 – 403 üncü maddede yazılı mevaddın gayri semleri bila mezuniyet satanlar on beş günden iki seneye kadar hapis olunur ve bunlardan on beş liradan yüz liraya kadar ağır cezayı nakdi alınır ve sattığı semler müsadere edilir.

@@ -1,0 +1,5 @@
+Madde 201/b- (Ek: 3/8/2002-47/2 md.) Zorla çalıştırmak veya hizmet ettirmek, esarete veya benzeri uygulamalara tâbi kılmak, vücut organlarının verilmesini sağlamak maksadıyla, tehdit, baskı, cebir veya şiddet uygulamak, nüfuzu kötüye kullanmak, kandırmak veya kişiler üzerindeki denetim olanaklarından veya çaresizliklerinden yararlanarak rızalarını elde etmek suretiyle kişileri tedarik eden, kaçıran, bir yerden başka bir yere götüren veya sevk eden, barındıran kimseye beş yıldan on yıla kadar ağır hapis ve bir milyar liradan az olmamak üzere ağır para cezası verilir.
+Birinci fıkrada belirtilen amaçlarla girişilen ve suçu oluşturan eylemler var olduğu takdirde, mağdurun rızası yok sayılır.
+106-61
+Onsekiz yaşını doldurmamış çocukların birinci fıkrada belirtilen maksatlarla tedarik edilmeleri, kaçırılmaları, bir yerden diğer bir yere götürülmeleri veya sevk edilmeleri veya barındırılmaları hâllerinde suça ait araç fillerden hiçbirisine başvurulmuş olmasa da faile birinci fıkrada belirtilen cezalar verilir.
+Yukarıdaki fıkralarda yazılı suçlar örgütlü olarak işlendiği takdirde faillere verilecek cezalar bir kat artırılarak hükmolunur.

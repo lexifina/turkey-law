@@ -1,0 +1,1 @@
+Madde 52 – Bir kimse bir hata veya sair bir arıza yüzünden cürmü kast ettiği şahıstan başka bir şahsın zararına işlemiş olursa cürümden zarar gören kimsenin sıfatından neşet eden ve cezayı şiddetlendiren esbap faile tahmil olunmaz. Belki cürüm kast olunan şahsa karşı işlenmiş gibi telakki olunarak fail, cürmün tazammun edebileceği esbabı muhaffefeden istifade eder.

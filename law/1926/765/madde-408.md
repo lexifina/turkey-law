@@ -1,0 +1,1 @@
+Madde 408 – 403 üncü maddede yazılı şeylerin kullanılmasını kolaylaştırmak için açılan mahallerde mevcut bütün eşya müsadere olunur ve işbu eşyanın bedelinin yarısı cürmü meydana çıkarmakta hizmeti görülenlere verilir.

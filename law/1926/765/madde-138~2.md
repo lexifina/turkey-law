@@ -1,0 +1,6 @@
+Madde 138 – (Değişik : 11/6/1936 - 3038/1 md.)
+Vazifesi veya hizmeti dolayısile öğrendiği ve Devletin emniyeti icabı olarak gizli kalması lazımgelen fenni keşif veya ihtiraları yahut sınai yenilikleri, kendisinin veya başkasının menfaatine olarak kullanan memur veya amme hizmetini ifa ile mükellef olan kimse beş seneden aşağı olmamak üzere ağır hapis ve bin liradan aşağı olmamak üzere ağır para cezasile cezalandırılır.
+Eğer fiil Türkiye ile harp halinde bulunan bir Devletin menfaati için işlenir veya Devletin harp hazırlıklarını veya harp kudret ve kabiliyetini veya askeri hareketlerini tehlikeye koyarsa suçlu müebbet ağır hapis cezasile cezalandırılır.(2)
+Türkiye Devleti tarafından yabancı bir memlekette Devlet işlerini görmiye memur edilen kimse, kendisine verilen vazifeyi sadakatle ifa etmezse bu fiilden milli menfate zarar gelebildiği takdirde beş seneden aşağı olmamak üzere ağır hapis cezasile cezalandırılır.
+129 uncu madde ile ondan sonraki maddelerde ve 153 ve 161 inci maddelerde yazılı cürümler harp için Türkiye Devletile aralarında ittifak veya iştirak olan bir Devletin zararına işlendiği takdirde dahi tatbik olunur.
+Bundan evvelki fıkrada yazılı cürümlerin işleneceğini haber alıp da zamanında Devlet memurlarına haber vermeği ihmal edenler, cürüm teşebbüs derecesinde kalsa bile, altı aydan az olmamak üzere hapsolunur.

@@ -1,0 +1,2 @@
+Madde 304 – fıkra (III)-(11/3/1986 tarihli ve 3267 sayılı Kanunun hükmüdür.)
+Haklarında bu madde hükmü uygulananlardan Türkiye Büyük Millet Meclisi tarafından ölüm cezalarının yerine getirilmemesine karar verilenler 36 yıllarını, müebbet ağır hapse mahküm edilmiş olanlar 26 yıllarını, diğer şahsi hürriyeti bağlayıcı cezaya mahküm edilmiş bulunanlar cezalarının 3/4'ünü iyi halle geçirmedikçe şartla salıverilmeden istifade edemezler.

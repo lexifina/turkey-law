@@ -1,0 +1,2 @@
+Madde 220 – (8/6/1933 tarih ve 2275 sayılı Kanunun hükmüdür.)
+Yukarıda sayılan kimselerden birine kanun hükmünce yapmağa memur olduğu şeyi yapmamak yahut yapmamağa mecbur olduğu şeyi yapmak için rüşvet vait ve teklif ve ita eden kimsenin bu hareketi kanun ve nizama vukubulan muhalefetin derecesine ve istenilen şeyin kısmen veya tamamen yapılmış olup olmamasına göre üç aydan üç seneye kadar hapis veya elli liradan bin liraya kadar ağır para cezasını istilzam eder.

@@ -1,0 +1,3 @@
+Madde 95 – (Değişik: 2/6/1941 - 4055/1 md.)
+I - Kabahat ile mahküm olan kimse hüküm tarihinden itibaren bir sene içinde bir cürümden veya evvelki hükmün verildiği mahaldeki Asliye mahkemesinin kazası dairesinde diğer bir kabahatten dolayı aynı cinsten veya daha ağır bir cezaya,
+II - Cürüm ile mahküm olan kimse hüküm tarihinden itibaren beş sene içinde işlediği diğer bir cürümden dolayı evvelce verilen ceza cinsinden bir cezaya yahut hapis veya ağır hapis cezasına mahküm olmazsa, cezası tecil edilmiş olan mahkümiyeti esasen vakı olmamış sayılır. Aksi takdirde her iki ceza ayrı ayrı tenfiz olunur.

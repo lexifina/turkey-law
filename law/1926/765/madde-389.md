@@ -1,0 +1,2 @@
+Madde 389 – Bir kimse tedbirsizlik veya meslek veya sanatında tecrübesizlik veya nizam ve emir ve kaidelere riayetsizlik neticesi olarak demiryolu üzerinde bir kaza vukuu tehlikesine meydan verirse üç aydan otuz aya kadar hapse ve iki yüz liraya kadar ağır cezayı nakdiye ve kaza vukubulmuş ise beş seneye kadar ağır hapse ve yüz elli liradan aşağı olmamak üzere ağır cezayı nakdiye mahküm olur.
+Demiryolu arabaları içinde silah atanlar hakkında dahi kaza vukubulup bulmamasına göre baladaki birinci veya ikinci fıkraya tevfikan ceza hükmolunur.

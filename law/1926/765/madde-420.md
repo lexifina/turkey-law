@@ -1,0 +1,1 @@
+Madde 420 – Adabı umumiyeye mugayir olarak açık yerlerde veya halkın suhuletle muttali olabileceği yarı açık mahallerde fuhuş maksadiyle kadın oynatanlar ve bilihtiyar oynayan kadınlar bir aydan altı aya kadar hapsolunur.

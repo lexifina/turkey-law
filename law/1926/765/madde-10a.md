@@ -1,0 +1,3 @@
+Madde 10/a – (Ek : 6/6/1991 - 3756/2 md.)
+Bir Türk vatandaşı veya yabancı, yabancı ülkede bir suç işleyip de bu bab hükümlerine göre Türkiye'de yargılandığı takdirde; Türkiye zararına işlenmiş suçlar dışında, suçun işlendiği ülke kanunu ile Türk Kanunundan hangisi uygulamada sanığın lehine sonuç verecek ise, o kanun göz önünde bulundurulmak ve yabancı kanunda tanımlanan suça,Türk kanunlarına göre verilmesi gereken ceza veya Türk kanununda bulunup yabancı ülke kanunundaki cezaya en yakın olan ceza tespit edilerek uygulama yapılır. Ancak,suçun işlendiği ülke kanunu,Türkiye'nin kamu düzenine veya milletlerarası yükümlerine aykırı ise bu ülke kanununa itibar edilmez.
+106-24

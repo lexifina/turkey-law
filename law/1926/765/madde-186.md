@@ -1,0 +1,1 @@
+Madde 186 – Mevkuf veya mahkümun muhafazasına veya nakline memur olan yahut vazifesi iktizasınca o kimse üzerine nüfuz icrasına muktedir bulunan şahıs onun hakkında keyfi muamele yapar veya kanunun ve nizamın cevaz vermediği surette şiddet istimal ederse bir aydan iki seneye kadar hapis olunur.

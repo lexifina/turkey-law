@@ -1,0 +1,2 @@
+Madde 78 – (Değişik: 11/6/1936 - 3038/1 md.)
+Bir kimse bir suçu işlemek veya vuku bulmuş bir suçu gizlemek için diğer bir suç işlediği veyahut o suç vesilesile kanunda suç teşkil eden diğer bir fiil daha irtikab eylediği takdirde mezkür fiiller kanunen o suçu tertib eden anasırdan veya suçun esbabı müşeddedesinden sayılmazsa o kimse hakkında evvelki maddelerin müştemil olduğu hükümlere göre ceza tertib olunur.

@@ -1,0 +1,1 @@
+Madde 256 – Şiddet veya tehdit ile yukarıki maddelerde yazılı olan fiili işlemek üzere teşekkül eden on veya daha ziyade kimselerden mürekkep bir içtimaa dahil olanlar bir aydan iki seneye kadar hapsolunur.

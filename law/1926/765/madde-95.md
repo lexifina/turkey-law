@@ -1,0 +1,2 @@
+Madde 95 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Kabahat ile mahkum olan kimse hüküm tarihinden itibaren bir sene zarfında bir cürümden veya evvelce hükmü veren mahkemenin dairesi dahilinde diğer bir kabahatten dolayı hapis cezasına ve hapis ile mahküm olan kimse dahi yine hüküm tarihinden itibaren beş sene zarfında hapis veya daha ağır bir cezaya mahküm olmazsa evvelki mahkümiyeti esasen vaki olmamış sayılır; aksi takdirde her iki ceza ayrı ayrı tenfiz olunur.

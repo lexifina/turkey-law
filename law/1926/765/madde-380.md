@@ -1,0 +1,1 @@
+Madde 380 – Bir kimse bir yangının söndürülmesine veya su basmasından ve deniz kazasından tahaffuza mani olmak kastiyle yangını söndürmeğe veya diğerlerinden tahaffuza mahsus alat ve edavatı ve her nevi vasıtaları gizler veya parçalar veya kullanılamıyacak hale getirirse bir seneden beş seneye kadar hapis ile cezalandırılır.

@@ -1,0 +1,2 @@
+Madde 416 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Her kim cebir ve şiddet veya mukavemeti selbeden diğer bir vasıta ile on beş yaşını dolduran bir kimsenin veya cebir ve şiddet ve sair vasıtaya müracaat etmeksizin mukavemete gayri muktedir bir halde bulunan şahsın ırzına geçerse muvakkaten ağır hapse konulur, yine bu suretlerle ırz ve namusa tasaddiyi tazammun eden diğer bir fiil ve harekette bulunursa iki seneden aşağı olmamak üzere hapsolunur.

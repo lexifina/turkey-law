@@ -1,0 +1,3 @@
+Madde 210 – (11/6/1936 tarih ve 3038 sayılı Kanunun hükmüdür.)
+Memurlardan her kim memuriyet sıfatını veya memuriyetine aid vazifeyi suiistimal suretile kendisine veya başkasına bigayrihakkın para itasına ve sair menfaatler temin veya vadine bir kimseyi ikna ederse bir seneden üç seneye kadar hapis ve memuriyetinden muvakkaten mahrumiyet cezalarile cezalandırılır. Eğer memur kanunen alınmaması lazımgelen bir şeyi diğerin hatasından bilistifade almış bulunursa altı aydan üç seneye kadar hapsolunur.
+Eğer bigayrihakkın vadü ita veya temin olunan para veya menfaat miktar ve kıymetçe az ise hapis ve mahrumiyet cezalarının yarısı indirilir.

@@ -1,0 +1,3 @@
+Madde 221 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Raşinin ıtma ve ifsat ettiği kimse hakim ve mustantik ve müddeiumumi ve muavinleri olduğu veya mahkemeler ve daireler canibinden mahsus bir vazife ile tavsif veyahut iki taraf canibinden tahkim kılınan kimseler ile katibi adil ve avukat ve dava vekili bulunduğu takdirde kanun ve nizama vukubulan muhalifetin derecesine göre raşı altı aydan iki seneye kadar hapis olunur.
+Şukadar ki bu muhalefet neticesinde velev cerh ve tadil ve ıslahı kabil bir karar ile bir şahsın meni muhakemesi veya beraati veya bir masumun mahkümiyeti veya başka bir cürmün işlenmesi kabilinden haller husule gelmiş bulunursa raşinin cezası mürteşi için kanunen muayyen olan cezanın yarısından üçte ikisine kadar tayin olunur.

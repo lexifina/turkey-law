@@ -1,0 +1,2 @@
+Madde 62 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bir kimse işlemeği kast ettiği cürmün icrasına taallük eden bütün fiilleri ikmal etmiş fakat ihtiyarında olmayan bir sebepten dolayı o cürüm meydana gelmemiş ise kanunda yazılı olmayan yerlerde fiil, idam ve müebbet ağır hapis Cezasını müstelzim olduğu takdirde müteşebbis hakkında on seneden aşağı olmamak üzere muvakkat ağır hapis ve müebbet sürgün cezasını müstelzim olursa beş sene ağır hapis cezası hükmolunur. Sair hallerde o cürüm için verilecek cezanın altıda birinden üçte birine kadarı indirilerek hükmolunur.

@@ -1,0 +1,2 @@
+Madde 114 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+İlamın icrasına müteallik mahkümünaleyhe kanun dairesinde tebliğ olunan her nevi muamele müruruzu zamanı keser, mahkümun cezasını çekmesi veya ele geçmesi de müruru zamanı keser, tenfiz inkıtaa uğrarsa müruru zaman müddeti inkıtaın ertesi günü yeniden başlar. Bir cürümden dolayı mahküm olan kimse müruru zaman ceryan ettiği sırada mahküm olduğu cürüm cinsinden diğer bir cürüm daha işlediği takdirde müruru zaman yine kesilmiş olur.

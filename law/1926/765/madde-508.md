@@ -1,0 +1,2 @@
+Madde 508 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Her kim, başkasına ait olup ta iade veyahut muayyen bir suretle istimal etmek üzere kendisine tevdi veya her ne nam ile olursa olsun teslim olunan bir malda kendisinin veya başkasının menfaatine olarak temellük iddiasına kıyam ederse mutazarrır olan kimsenin şikayeti üzerine iki aydan iki seneye kadar hapis ve elli liradan aşağı olmamak üzere ağır cezayı nakdi ile cezalandırılır.

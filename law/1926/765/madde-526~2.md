@@ -1,0 +1,3 @@
+Madde 526 – (11/6/1936 tarih ve 3038 sayılı Kanunun hükmüdür.)
+Her kim, salahiyettar merciden kanun ve nizamlara aykırı olmıyarak verilmiş bir emre itaatsizlik eder yahut ammenin istirahat ve selameti veya madelet düşüncesile merciinden kanun ve nizamlara muhalif olmıyarak ittihaz edilmiş bir tedbire riayet etmezse bir aya kadar hafif hapis veya elli liraya kadar hafif para cezasına mahküm olur.
+Şapka iktisası hakkındaki 671 numaralı kanunla Türk harflerinin kabul ve tatbiki hakkındaki 1353 numaralı kanunun koyduğu memnuiyet veya mecburiyetlere muhalif hareket edenler üç aya kadar hafif hapis veya on liradan iki yüz liraya kadar hafif para cezasiyle cezalandırılırlar.

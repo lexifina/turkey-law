@@ -1,0 +1,2 @@
+Madde 416 – (8/6/1933 tarih ve 2275 sayılı Kanunun hükmüdür.)
+Her kim cebir ve şiddet veya mukaveti selbeden diğer bir vasıta ile on beş yaşını dolduran bir kimsenin veya cebir ve şiddet ve sair vasıtaya müracaat etmeksizin mukavemete iktidarı olmıyan şahsın ırzına geçerse üç seneden aşağı olmamak üzere ağır hapse konulur. Yine bu suretlerle ırz ve namusa tasaddiyi tazammun eden diğer bir fiil ve harekette bulunursa iki seneden aşağı olmamak üzere hapsolunur.

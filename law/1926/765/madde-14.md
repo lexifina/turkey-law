@@ -1,0 +1,2 @@
+Madde 14 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Üç seneden aşağı müddetle ağır hapse mahküm olupta iki buçuk seneden eksik olmamak üzere cezasının yarısını hüsnü hal ile geçiren şahıs, baki müddetini hapishanelere merbut zirai ve sanai müesseselerden birinde veyahut hükümetin idaresi altında menafii ammeye mahsus işlerde çalışarak geçirmesine müsaade olunur. Eğer mahkümun hüsnü hareketi devam etmezse bu müsaade kaldırılır.

@@ -1,0 +1,1 @@
+Madde 43 – Ağırlaştırılmış müebbet ağır hapis veya müebbet ağır hapis cezalarını mutazammın olan hüküm ilamının hulasası hükmün sadır olduğu ve cürmün işlendiği ve mahkümualeyhin en son ikamet ettiği mahalle veya kariyenin münasip mahallerine asılarak ilan olunur. (3)

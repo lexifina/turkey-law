@@ -1,0 +1,1 @@
+Madde 165 – Her kim resmen çekilmiş olan dost devletler sancağını veya armasını hakaret kastiyle kaldırır veya koparır veya bozar yahut sair suretlerle tezlil ederse üç aydan bir seneye kadar hapis olunur. Takibat icrası alakadar hükümetin müracaatına bağlıdır.

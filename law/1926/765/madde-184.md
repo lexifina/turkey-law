@@ -1,0 +1,1 @@
+Madde 184 – Bir hapishane veya tevkifhane memuru salahiyeti olan merciinden verilmiş hüküm ilamı veya tevkif müzekkeresi almaksızın bir kimseyi hapishane veya tevkifhaneye kabul eder veya bir mevkuf ve mahbusun tahliyesi zımnında ait olduğu daireden sadır olan hüküm ve karara itaat etmezse altı aydan üç seneye kadar hapis olunur.

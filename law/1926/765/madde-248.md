@@ -1,0 +1,1 @@
+Madde 248 – Bir memur kanunen tayin olunan mücazatı nakdiyeden maada cerime olarak para ve sair bir şey alır veya kanunen tahsiline memur olduğu mücazatı nakdiyenin miktarından fazla olarak bir şey ahzeylerse aldığı şey kendisinden geri alınarak sahibine verildikten başka bir katı ağır cezayı nakdi alınır ve altı aydan üç seneye kadar hapis cezasiyle cezalandırılır.

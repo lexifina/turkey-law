@@ -1,0 +1,2 @@
+Madde 355 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bir memur veyahut vesika itasına selahiyeti olan diğer bir kimse bu vesikaları verdiği kimseler hakkında teveccüh yahut hususi ve umumi emniyet celbine veya hizmete ve memuriyet ve kanunun temin ettiği müsaade ve menfaatlar kazanmağa yahut bazı hizmet ve memuriyetlerden kurtulmağa medar olacak surette hüsnü hareketine ve fakrüzaruretine ve sair hallere dair yalan olarak şahadet eylerse iki aya kadar hapis ve elli liraya kadar ağır cezayı nakdi hükmolunur.

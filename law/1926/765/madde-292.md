@@ -1,0 +1,1 @@
+Madde 292 – Yukarıki maddede yazılı olan cürmün faili bizzat maznunu aleyh yahut yakın akrabasından biri olduğu halde, diğer bir şahsı takibata veye mahkumiyete maruz kılmamış olmak şartiyle, mezkür maddede tayin olunan cezalar yarısından üçte ikisine kadar indirilir.

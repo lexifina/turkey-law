@@ -1,0 +1,4 @@
+Madde 160 – (11/6/1936 tarih ve 3038 sayılı Kanunun hükmüdür.)
+157 nci maddede yazılı suçu işliyenlerle Türkiye Cumhuriyeti Kanunlarına alenen söğenler hakkında takibat yapmak salahiyeti doğrudan doğruya Cumhuriyet Müddeiumumilerine aiddir.
+158 inci maddede yazılı hal ile 159 uncu maddenin birinci ve ikinci fıkralarında yazılı Hükümetin veya Adliyenin manevi şahsiyetini veya Cumhuriyeti alenen tahkir ve tezyif hallerinde takibat yapılması Adliye Vekaletinin iznine bağlıdır.
+159 uncu maddenin birinci fıkrasında yazılı Türklüğü veya Büyük Millet Meclisini alenen tahkir ve tezyif hallerinde takibat yapılması Büyük Millet Meclisi Reisinin ve bulunmadığı takdirde reise vekalet eden zatın ve Devletin silahlı kuvvetlerini tahkir ve tezyif edenler hakkında takibat yapılması Milli Müdafaa Vekaletinin iznine bağlıdır.

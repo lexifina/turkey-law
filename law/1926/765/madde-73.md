@@ -1,0 +1,2 @@
+Madde 73 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bir veya bir kaç cürümle beraber hafif hapis cszasını müstelzim bir veya birkaç kabahat işleyen kimse hakkında cürüm için tayin olunan veya müteaddit cürümlerin içtimaından yukarıki maddelerde yazılı kaidelere tevfikan husule gelen cezalar tatbik olunur. Buna eğer tertip olunacak ceza ağır hapis ise hafif hapis cezası mecmuunun altıda birine ve hapis ise mezkür mecmuun üçte birine müsavi bir müddet daha zammolunur.

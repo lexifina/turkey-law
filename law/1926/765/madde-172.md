@@ -1,0 +1,3 @@
+Madde 172 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+64 ve 65 inci maddelerde yazılı haller haricinde herkim, meydanlarda ve toplanma mahallerinde alenen ahaliyi 125,128,146,147,149 ve 156 ncı maddelerdeki cürümlerden birini işlemeğe tahrik ederse yalnız bu haraketinden dolayı eğer tahrik ettiği fiil 125,128,156 ncı maddelerdeki fiillerden ise üç seneden beş seneye kadar ve 146,147, ve 149 uncu maddelerdeki fiillerden ise iki seneden dört seneye kadar ağır hapis cezası hükmolunur ve her iki takdirde yüz elli liraya kadar ağır cezayı nakdi dahi alınır.
+Kanunun birinci babında cürümlerin icrası zamanında cürüm faili başka bir cürüm daha işlemiş olduğu surette 78 inci maddenin tatbikinden hasıl olacak ceza altıda bir miktarı artırılır.

@@ -1,0 +1,2 @@
+Madde 319 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Meskükatı ve zinet altınlarını taklit ve tağyir edenler veya onlarla birleşenler ile birleşmeksizin taklit ve tağyir olunmuş meskükat ve zinet altınlarını bilerek alıp sarfeden veya bir suretle tedavül ettiren şahıs 316 ncı maddenin birinci fıkrasında beyan olunan surette üç seneden on seneye kadar ağır hapse ve 317 nci maddede beyan edilen halde üç aydan otuz aya ve 318 inci maddede beyan olunan halde üç aydan iki seneye kadar hapse mahküm olur.

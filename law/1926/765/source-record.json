@@ -1,0 +1,21 @@
+{
+  "source_id": "5.3.765",
+  "path": "law/1926/765",
+  "number": "765",
+  "tertip": "3",
+  "title": "TÜRK CEZA KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1926-03-01",
+  "published": "1926-03-13",
+  "in_force": "2004-07-21",
+  "in_force_basis": "Source labelled entry-into-force table row: 5219 432 21/7/2004",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=765&MevzuatTertip=3",
+  "source_sha256": "d4442b1f76c44488bb15abdf2c948ee50223a06f1867b377da45a17093f715fc",
+  "words": 107588,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "first_law": null,
+  "history_note": "Earlier versions are not established by this current HTML source."
+}

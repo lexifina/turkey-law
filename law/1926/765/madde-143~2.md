@@ -1,0 +1,2 @@
+Madde 143 – (8/6/1933 tarih ve 2275 sayılı Kanunun hükmüdür.)
+Bir Türk veya Türkiye'de oturan bir yabancı harb zamanında, düşman bir devlete veya memurlarına doğrudan doğruya veya bilvasıta Türk Devletinin zararına kullanılabilecek erzak, eşya, mühimmat ve sair vasıtalar tedarik ve ita eylerse üç seneden on seneye kadar ağır hapis cezasına mahküm olur ve bundan başka kendisinden beş yüz liradan aşağı olmamak üzere ağır para cezası alınır.

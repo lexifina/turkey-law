@@ -1,0 +1,3 @@
+Madde 179 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Bir kimse diğer kimseyi gayri meşru surette şahsi hürriyetinden mahrum ederse beş seneye kadar hapis ve elli liraya kadar ağır cezayı nakdiye mahküm olur.
+Eğer mücrim bu fiili işlemek için yahut işlediği zamanda tehdit veya fena muamele eder veya hile ve hud'a kullanır yahut bu fiili intikam veya temettü kasdiyle yahut dini veya milli bir maksada binaen işler yahut o şahsı askerlikte kullanmak üzere ecnebi bir memlekete teslim ederse düçar olacağı ceza üç seneden sekiz seneye kadar ağır hapis ve yirmi beş liradan yüz yirmi beş liraya kadar ağır cezayı nakdidir.

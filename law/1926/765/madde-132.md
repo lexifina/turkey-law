@@ -1,0 +1,2 @@
+Madde 132 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Her kim ecnebi bir hükümeti Türkiye ile harbe tahrik eylemek veyahut Türkiye ile halli harpte bulunan bir devletin askeri harekatını kolaylaştırmak üzere o hükümetle veya memurlariyle hafiyen muhaberede bulunur veya sair ahvale tasaddi eder veyahut ecnebi hükümete dahalet eylerse on beş seneden yirmi seneye kadar ve eğer maksadı hasıl olmuş ise müebbeden, ağır hapse konulur.

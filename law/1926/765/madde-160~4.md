@@ -1,0 +1,4 @@
+Madde 160 – (29/6/1938 tarih ve 3531 sayılı Kanunun hükmüdür.)
+157 nci maddede yazılı suçu işleyenlerle Türkiye Cumhuriyeti kanunlarına alenen sövenler hakkında takibat yapmak salahiyeti doğrudan doğruya Cumhuriyet müddeiumumilerine aiddir.
+158 inci maddede yazılı hal ile 159 uncu maddenin birinci ve ikinci fıkralarında yazılı Hükümetin veya adliyenin manevi şahsiyetini veya Cumhuriyeti ve 159 uncu maddenin birinci fıkrasında yazılı Türklüğü veya Büyük Millet Meclisini veya Devletin askeri veya emniyet veya muhafaza kuvvetlerini tahkir ve tezyif edenler hakkında takibat yapılması Adliye Vekaletinin iznine bağlıdır.
+11 – 10/6/1949 tarih ve 5435 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 15,19,24,76,141,142,163,189,264,265 ve 549)

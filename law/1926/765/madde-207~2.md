@@ -1,0 +1,2 @@
+Madde 207 – (9/7/1953 tarih ve 6123 sayılı Kanunun hükmüdür.)
+Bir daire amiri, kadrosundan muayyen olan memurları eksik kullanıp maaş veya ücretlerini tam alır yahut mevcut memurları asıl hizmetlerinden bütün bütün ayırıp kendi şahsi işlerinde kullanır veya kendi şahsi işlerinde kullandığı kimseyi kadroda bulunan bir işte gösterip maaş aldırırsa üç seneden az olmamak üzere ağır hapis cezası ile cezalandırılır ve zarar kendisine ödettirilmekle beraber bir misli ağır para cezası da hükmolunur.

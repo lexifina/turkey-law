@@ -1,0 +1,2 @@
+Madde 253 - (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Her kim bir rütbe veya memuriyetin veya bir meslekin resmi elbisesini salahiyeti olmaksızın alenen giyer ve haiz olmadığı nişan ve madalyaları talik ederse bir seneye kadar hapse ve iki yüz elli liraya kadar ağır cezayı nakdiye mahküm olur ve eğer böyle bir elbise giymek suretiyle elbisenin delalet ettiği meslek ve memuriyete müteferri mevaddı icra ederse üç aydan aşağı olmamak üzere hapsolunur.

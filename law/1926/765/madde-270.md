@@ -1,0 +1,1 @@
+Madde 270 – Geçen maddelerde muharrer cürümlerin faili hakaret ve taarruz eylediği şahıslara isnat ettiği ef'al ve evsafın şayi ve mütevatır olduğunu ispata kalkışırsa bu talebi katiyen kabul olunmaz.

@@ -1,0 +1,3 @@
+Madde 137 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Sulhta ve harpte ordu ve donanma makamları tarafından neşrolunacak tebliğlerden ve askeri daireler tarafından neşrine müsaade olunan havadisten başka devletin kara, deniz ve hava kuvvetlerinin yapacakları, hareketlere ve müdafaa vasıtalarına dair makaleler veya fıkralar yahut askerlik etrafında havadis neşreden gazete ve mecmuaların imtiyaz sahibi veya mesul müdüründen iki yüz elli liradan beşyüz liraya kadar ağır cezayi nakdi alınır.
+Neşrettiği havadisin menşe ve muhbirini göstermiyen ve söylemiyen imtiyaz sahibi veya mesul müdüründen birinci fıkradaki cezayi nakdinin en yüksek haddi alındıktan başka üç aydan altı aya kadar hapis ile dahi cezalandırılır.

@@ -1,0 +1,1 @@
+Madde 368 – Bir kimse kendisine veya başkasına vadolunmuş para veya sair menfaat mukabilinde müzayedeye veya münakasaya devamdan istinkaf suretiyle resmi müzayedeye fesat karıştırırsa altı aya kadar hapse ve otuz liradan elli liraya kadar ağır cezayi naktiye mahküm olur.

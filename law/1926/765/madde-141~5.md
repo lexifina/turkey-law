@@ -1,0 +1,10 @@
+13 – 3/12/1951 tarih ve 5844 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları : 141 ve 142)
+Madde 141 – (10/6/1949 tarih ve 5435 sayılı Kanunun hükmüdür.)
+Memleket içindeki içtimai bir sınıfın diğerleri üzerinde tahakkümünü tesis etmek veya içtimai bir sınıfı ortadan kaldırmak veya memleket içinde kurulmuş iktisadi veya içtimai temel nizamları devirmek amaciyle cemiyet tesis, teşkil, tanzim veya sevk ve idare eden kimse üç yıldan on yıla kadar ağır hapis cezası ile cezalandırılır.
+Amacı, cemiyetin siyasi veya hukuki her hangi bir temel nizamını devirmek olan yıkıcı cemiyetleri memleket içinde tesis, teşkil, tanzim veya sevk ve idare eden kimse birinci fıkrada yazılı cezayı görür.
+Yukardaki fıkralarda yazılı amaçlara varmak için cemiyetlerce her ne suretle olursa olsun cebir ve şiddet kullanmak veya her ne suretle olursa olsun tehdit etmek vasıta olarak kabul edilmişse veya bu cihet açıklanmamış olmakla beraber cebir ve şiddet veya tehdit başarı için gerekli bulunmuş ise cemiyeti tesis, teşkil, tanzim veya sevk ve idare eden kimseye verilecek ağır hapis cezası beş yıldan aşağı olamaz.
+Amacı Cumhuriyetçiliğe aykırı olan veya Milli duyguları yok etmeye veya zayıflatmaya matuf bulunan cemiyetleri tesis, teşkil, tanzim veya sevk ve idare eden kimse bir yıldan üç yıla kadar ağır hapis cezasiyle cezalandırılır.
+Birinci ve ikinci fıkralarda beyan olunan cemiyetlere girenler bir yıldan ve üçüncü fıkrada yazılı cemiyetlere girenler iki yıldan başlamak üzere yedi yıla kadar ağır hapse ve dördüncü fıkrada bildirilen cemiyetlere girenler de altı aydan bir yıla kadar hapis cezası ile cezalandırılırlar.
+Yukardaki fıkrada beyan olunan cemiyetlere girmek için yol gösterenler aynı suretle ceza görürler.
+59
+Dağılmaları emredilmiş olan yukarda yazılı cemiyetleri, sahte nam altında veya muvazaa şeklinde olsa dahi yeniden tesis, teşkil, tanzim veya sevk ve idare edenler hakkında verilecek cezalar üçte birden eksik olmamak üzere artırılır.

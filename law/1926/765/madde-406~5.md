@@ -1,0 +1,4 @@
+Madde 406 – (Değişik: 6/6/1991 - 3756/9 md.)
+403 üncü maddede ve 404 üncü maddenin 1 numaralı fıkrasında yazılı fiileri işleyen tabib, veteriner, kimyager, eczacı, diş tabibi, dişçi, ecza ticarethanesi sahibi, mesul müdür, sağlık memuru, ebe, hemşire veya hastabakıcı ise, verilecek ceza yarısı oranında artırılır ve fail hakkında ayrıca müebbeten memuriyetten yasaklanma veya meslek ve sanatın icrasının tatili cezasına da hükmolunur.
+106-99
+403 üncü maddede veya 404 üncü maddenin 1 numaralı fıkrasında yazılı cürümler, her nev'i ulaşım araçlarında veya umuma açık yerlerde, bunların sahip ve müstahdemleri veya memuriyet vazife ve nüfuzunun suiistimali suretiyle memur ve müstahdemler tarafından işlenecek olursa,cezalar üçtebiri oranında artırılır ve fail hakkında ayrıca, müebbeten memuriyetten yasaklanma veya meslek ve sanatın icrasının tatili cezasına da hükmolunur.

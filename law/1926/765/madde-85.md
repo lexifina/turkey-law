@@ -1,0 +1,3 @@
+Madde 85 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Her defasında üç aydan fazla olmak üzere defaat ile şahsi hürriyeti tahdit eden bir cezaya mahküm olan kimse, 81 inci maddede beyan olunan müddet içinde yine şahsi hürriyeti tahdit eden cezayı müstelzim aynı cinsten bir cürüm işler ve göreceği cezanın müddeti otuz aydan aşağı olur ise mezkür ceza müddetinin yarısına ve sair hallerde muvakkat ağır hapis için yirmi ve hapis için on seneyi geçmemek şartiyle üçte birine müsavi bir müddet zammiyle cezası arttırılır.
+Eğer bu şahsa son defa verilecek ceza muvakkat ağır hapisten ibaret ise ceza müddeti yukarıki fıkrada yazıldığı veçhile çoğaltılmakla beraber 81 inci maddede beyan olunan derecede hepsi hücrevi usulüde tatbik olunur.

@@ -1,0 +1,4 @@
+Madde 26 – (Değişik birinci fıkra: 21/1/1983 – 2787/3 md.)
+Kanunda gösterilen cezanın yukarı sınırı bir ay hapis veya hafif hapis ya da üçbin lira ağır veya hafif para cezasını geçmediği takdirde, hafifletici sebeb bulunur ve fail önceden bir cürümden veya bir aydan fazla hafif hapsi gerektiren bir kabahatten dolayı mahküm olmamış bulunursa, mahkeme, verdiği cezanın yerine hüküm giyen kişiye adli tevbih yapılmasına karar verebilir.
+Tevbihi adli mahkümun ahvali mahsusasına ve cürmün işlenmesindeki şekil ve suret ve hususiyete göre yapılan bir tekdirdir ki ihlal olunan maddei kanuniyenin ahlaki ciheti ve irtikap olunan fiilin neticeleri izah olunmak suretiyle hakim tarafından mahkeme huzurunda mahküma alenen tevcih edilir.
+Eğer mahküm tevbih için mahkemeye davet olunduğu halde icabet etmez veya tevbihi hürmetle telakki eylemez ise işlediği cürüm için mahkemenin tayin ettiği ceza tamamiyle icra olunur.

@@ -1,0 +1,1 @@
+Madde 281 – Bir kimse cürüm işlemek için haiz olduğu memuriyete ait kuvvet ve vasıtaları kullandığı takdirde eğer kanun esasen memuriyet sıfatını nazarı itibara almamış ise irtikap olunan cürüm için tayin olunacak ceza altıda birden üçte bire kadar tezyit olunur.

@@ -1,0 +1,1 @@
+Madde 386 – Bundan evvelki maddede yazılan fiil bir veya bir kaç şahsın yaralanmasına veya ölmesine sebep olmuş ise birinci takdirde ceza yarısına kadar çoğaltılır ve ikinci surette on beş seneden yirmi seneye kadar ağır hapis cezası hükmolunur.

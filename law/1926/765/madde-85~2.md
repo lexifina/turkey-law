@@ -1,0 +1,2 @@
+Madde 85 – (Değişik: 11/6/1936 - 3038/1 md.)
+İşlediği suçlardan dolayı her defasında üç aydan fazla olmak üzere iki defa veya daha fazla şahsi hürriyeti bağlayıcı cezalarla mahküm olan kimse 81 inci maddede yazılı müddetler içinde, yine şahsi hürriyeti bağlayıcı bir cezanın verilmesini icab ettiren aynı cinsten bir suç işler ve göreceği cezanın müddeti otuz aydan aşağı olursa mezkür ceza müddeti yarı ve sair hallerde ağır hapis ve hapiste otuz seneyi geçmemek üzere üçte biri nisbetinde artırılır.

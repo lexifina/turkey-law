@@ -1,0 +1,2 @@
+Madde 220 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Yukarıda sayılan kimselerden birine kanunen yapmağa memur olduğu şeyi yapmamak yahut yapmamağa memur olduğu şeyi yapmak için rüşvet vait ve teklif ve ita eden kimsenin bu hareketi, kanun ve nizama vukubulan muhalefetin derecesine ve metalibin kısmen veya tamamen husul bulup bulmamasına göre üç aydan bir seneye kadar hapis cezasını istilzam eder.

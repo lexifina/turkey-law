@@ -1,0 +1,1 @@
+Madde 157 – Bir kimse yukarıki maddede yazılı halden başka suretle reisicumhura karşı fiili tecavüzde bulunacak olursa işbu tecavüzün kanunen muayyen olan cezası daha şedit olmadığı takdirde beş seneden aşağı olmamak üzere ağır hapse konulur.

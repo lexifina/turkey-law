@@ -1,0 +1,2 @@
+Madde 415 – (1/3/1926 tarih ve 765 sayılı Kanunun hükmüdür.)
+Her kim yukarıdaki maddede yazılan kimselerin ırz ve namusuna tasaddiyi tazammün eden diğer bir fiil ve harekette bulunursa bir seneden ve bu fiil ve hareket cebir ve şiddet veya tehdit icrasiyle veya mukavemeti selbeden diğer bir vasıta ile veya mukavemete gayri muktedir bir halde bulunan kimseye karşı yapılırsa iki seneden eksik olmamak üzere hapsolunur.

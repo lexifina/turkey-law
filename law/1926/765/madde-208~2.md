@@ -1,0 +1,3 @@
+Madde 208 – (8/6/1933 tarih ve 2275 sayılı Kanunun hükmüdür.)
+Devlet memurlarından her kim idaresine ve nezaretine memur oldukları işlerde Devlet için az veya çok eşya ve malzeme alım ve satımında gizli ve aşikar gerek doğrudan doğruya kendisi gerek başkası vasıtasiyle veya ortaklık suretiyle kendi kazancı için ticaret eder veya imalat ve inşaatı götürü şekilde deruhde edenlere ortak olursa bir seneden beş seneye kadar hapis cezasiyle cezalandırılır ve bir seneden iki seneye kadar memuriyetten mahrumiyet cezası da hükmolunur.
+Eğer bu gibi alış verişte komüsyon alır yahut nakit ve meskükat mübadelesinde kazanç yaparsa üç seneden beş seneye kadar hapis cezasiyle cezalandırılır ve bir seneden üç seneye kadar memuriyetten mahrumiyet cesası da hükmolunur.

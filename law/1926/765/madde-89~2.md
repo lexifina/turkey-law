@@ -1,0 +1,3 @@
+Madde 89 – (8/6/1933 tarih ve 2275 sayılı Kanunun hükmüdür.)
+Adliye mahkemelerince para cezasından başka bir ceza ile mahküm olmıyan kimse işlediği bir suçtan dolayı ağır veya hafif para cezaları veya muvakkat sürgün yahut altı ay ve daha az hapis ve hafif hapis cezalarından biriyle mahküm olur ve geçmişteki haliyle ahlaki temayüllerine göre cezanın tecili ileride cürüm işlemekten çekinmesine sebep olacağı hakkında mahkemece kanaat edilirse bu cezanın teciline hükmolunabilir. Bu halde tecilin sebebi hükümde yazılır.
+26 - 28/9/1971 tarih ve 1490 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri:(Madde numaraları: 201,236,261,264,266,296,304,391,492,495,496,
