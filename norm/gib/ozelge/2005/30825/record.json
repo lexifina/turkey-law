@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/53l0-260",
+  "source_id": 30825,
+  "date": "2005-01-05",
+  "title": "Şirket abonelerine verilen telefon görüşmesi, data hattı, internet ve diğer bağlantı hizmet bedelleri üzerinden abonelerle mutabık kalınan aylık dönemler itibariyle katma değer vergisi ve özel iletişim vergisi hesaplanması mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30825",
+  "source_sha256": "e32cafd7325acf9517789892686eeed61be1657751a5f974d6f414c97fd619ce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
