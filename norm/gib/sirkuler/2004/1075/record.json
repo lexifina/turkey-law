@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "Gider Vergileri Kanunu-3 / 2004-3 / BSMV-2",
+  "source_id": 1075,
+  "date": "2004-08-04",
+  "title": "Banka ve sigorta muameleleri vergisi uygulamaları açısından özel bir düzenleme yapılmadığı sürece özel finans kurumları banka olarak kabul edilecek ve her ne şekilde olursa olsun yapacakları bütün muameleler dolayısıyla kendi lehlerine her ne nam ile olur",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/sirkuler/1075",
+  "source_sha256": "2207bb8df0a78f632bdfad498ee2f88367c51fa18f893295665b13ae8e78e91b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
