@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.44/4401-274/55871",
+  "source_id": 23028,
+  "date": "2000-11-28",
+  "title": "Bir mükellefin birden fazla işyeri açması veya birden fazla motorlu taşıt çalıştırması durumunda basit usulden yararlanması mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23028",
+  "source_sha256": "3a0b594775d723d624b53eb7a47fd600d3b4b977ab30fc589fe74b567157e54c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
