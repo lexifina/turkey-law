@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1654",
+  "year": 1930,
+  "title": "1929 senesi bütçesine munzam tahsisat verilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-06-01",
+  "gazette_issue": "1508",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1508.pdf",
+  "source_sha256": "ad8a523dd426485e8caa9c234881bb14500318ed4cd994c12207f599d30d2910",
+  "text_sha256": "8ccf509497b7d6d052a29849b9804efe1291bdc3af9c527685f350479fe70367",
+  "text_status": "ocr",
+  "pages": [
+    8
+  ],
+  "line_span": [
+    [
+      1960,
+      1976
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801654.pdf",
+    "source_sha256": "a1b5075cc64d5c238ca32efabf236eeeb9665a0fce0e213f1c94e44cd791010a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9573,
+    "bag": 0.902,
+    "kd_coverage": 0.9615,
+    "kd_body_compared": 0.8621,
+    "rg_words": 52,
+    "kd_words": 58,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
