@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.4701",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARAYOLU TRAFİK GÜVENLİĞİNİN SAĞLANMASI YÖNÜNDEN, YOLUN YAPISINDA YAPILACAK HER TÜRLÜ ÇALIŞMALARDA ALINACAK TEDBİRLER İLE KARAYOLU DIŞINDA, KENARINDA VEYA ÜZERİNDEKİ DİĞER LEVHALAR, IŞIKLAR VE İŞARETLEMELER HAKKINDA YÖNETMELİK",
+  "number": "4701",
+  "issuer": "Bayındırlık ve İskân Bakanı",
+  "issuer_slug": "bayindirlik-ve-iskan-bakani",
+  "path": "regulation/bayindirlik-ve-iskan-bakani/1985/4701",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4701&MevzuatTertip=5",
+  "source_sha256": "3b34ca6cc8ab0d17e2a39204a22214aa2d59b948444fabde6bd7125f631c3b12",
+  "source_bytes": 80558,
+  "published": "1985-06-19",
+  "gazette": "18789",
+  "in_force": "1985-06-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.06.1985)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2053,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Madde 4 - Çalışmalar esnasında, karayolunun sürekli olarak trafiğe açık tutulması esastır. Zorunlu hallerde karayolu şeritler halinde trafiğe kapatılır ve en az bir şeridin trafiğe açık tutulması sağlanır. Bunun da mümkün olmaması halinde, trafik servis yolundan verilir.
+Çalışma mahalli, işin sahip veya sahipleri tarafından, Karayolları Genel Müdürlüğünce belirlenmiş olan yapım, bakım ve onarımlarda gerekli standart trafik işaretlemesine uygun olarak işaretlenir.

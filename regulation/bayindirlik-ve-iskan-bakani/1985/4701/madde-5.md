@@ -1,0 +1,1 @@
+Madde 5 - Yolun yapım ve bakımı ile görevli kuruluş, yapılacak protokol veya verilecek izin belgesinde belirtmek suretiyle karayolu trafik güvenliğinin sağlanması yönünden çalışma mahallindeki yol ve trafik durumunun icaplarına göre gerekli gördüğü ve bu Yönetmelikte öngörülmeyen şartları da iş sahibinden isteyebilir.
