@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.O.54/5417/1620/59806",
+  "source_id": 22370,
+  "date": "1997-12-16",
+  "title": "Aile hekimliğinin geliştirilmesi amacıyla MED-LAB adı altında oluşturulan sisteme üye olanlardan alınan üyelik bedellerin K.V. üye olanlardan alınan üyelik bedellerinin sisteme üye kaydının yapıldığı yılın geliri olarak kabul edilmesi gerekmektedir.KDV ka",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/22370",
+  "source_sha256": "6a76d8c209e0c6037b304fa310c381c02a5a95aa8d312ffe34355bbf22e137c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
