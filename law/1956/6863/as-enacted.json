@@ -1,0 +1,53 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6863",
+  "year": 1956,
+  "title": "Devlet Su İşleri Umum Müdürlüğü 1954 bütçe yılı Hesabı Katî Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-12-21",
+  "gazette_issue": "9489",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9489.pdf",
+  "source_sha256": "e09053513779a58f042d911fd2c95f03cc0db9118ad85a8f8baa5f5c15460a1c",
+  "text_sha256": "6d53f7ade611e0a068a045ea7a59c913073d68c063e96ee15e4bd014f6c1c243",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      47,
+      51
+    ],
+    [
+      24,
+      27
+    ],
+    [
+      28,
+      41
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906863.pdf",
+    "source_sha256": "5396f97bec7e0ba335103f45126840cf98fe0c4d3d77ef086a6aece02c383640",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9769,
+    "bag": 0.946,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.1126,
+    "rg_words": 158,
+    "kd_words": 1394,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
