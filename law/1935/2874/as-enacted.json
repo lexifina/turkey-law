@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2874",
+  "year": 1935,
+  "title": "Yugoslavya ile yapılan adlî, medenî ve ticari münasebata dair mukavelenamenin tasdiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-01-04",
+  "gazette_issue": "3197",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3197.pdf",
+  "source_sha256": "bffdf0635a60047bf67c4bebe1a2c6d3c0d01c2395214fe74dca8e80378566dd",
+  "text_sha256": "33f82c48ec2681d3b8d72bf9ea617b7ad428c8c46d4f3f67126fb1bdab9c02ad",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      138,
+      459
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602874.pdf",
+    "source_sha256": "91e8a982ab8caabfacc2b9da2463905799d484ed39c2070cef2216183f389173",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9615,
+    "bag": 0.8667,
+    "kd_coverage": 0.9918,
+    "kd_body_compared": 0.9918,
+    "rg_words": 1426,
+    "kd_words": 1466,
+    "own_anchor": true,
+    "foreign_anchors": 8
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
