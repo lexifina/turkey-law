@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B07.0.GEL.0.66/6609-396/37721",
+  "source_id": 35976,
+  "date": "2001-07-10",
+  "title": "Büyükelçiliğin inşaa edeceği bina nedeniyle tapu harcından müstesna tutulup tutulmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/35976",
+  "source_sha256": "9ed5fbda2ec750bafd4ff986846c00c502dc7051c0546cdf397656acf3c83873",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
