@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-563-2 / 42655",
+  "source_id": 36788,
+  "date": "2004-09-13",
+  "title": "Sigorta şirketleri tarafından döviz cinsinden düzenlenen poliçelere ait bedellerin döviz cinsinden peşin veya taksitler halinde tahsil edilmesi sonucu, lehlerine oluşan kur farklarının banka ve sigorta muameleleri vergisine tabi tutulması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36788",
+  "source_sha256": "300d72e17ebf84577f374f1ed7379d1c410f6a6869bf945eb060998cb043c101",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
