@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-29939/50979",
+  "source_id": 21731,
+  "date": "1999-12-28",
+  "title": "Kazancın yetersizliği nedeniyle yararlanılamayan yatırım indiriminin sonraki yıl kazançlarından yeniden değerleme oranında artırılarak (endekslenerek) indirilmesi uygulaması, 01.01.1995 tarihinden sonra yatırım teşvik belgesine bağlanan yatırım harcamalar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21731",
+  "source_sha256": "afa582ad92430764d99a49dd1c8ca5fd25101bba1d838b32012f78cafa110b6c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
