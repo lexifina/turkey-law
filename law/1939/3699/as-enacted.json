@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3699",
+  "year": 1939,
+  "title": "Hazineye ait ecrimisillerin aranmaması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-07-13",
+  "gazette_issue": "4257",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4257.pdf",
+  "source_sha256": "4b85fd6d7abb4b3494fdaec9fef2c45b3303a7bf091b279529a37709b041c63e",
+  "text_sha256": "7598c4937d3571a6ff6584a8fe338afc8f471690d94adc870ff910450fc50951",
+  "text_status": "ocr",
+  "pages": [
+    21
+  ],
+  "line_span": [
+    [
+      4217,
+      4234
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003699.pdf",
+    "source_sha256": "b9cef486afcbc4cb95df92a937c99212319f524cd23824a5b4d4f6cef031ee5a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9506,
+    "bag": 0.897,
+    "kd_coverage": 0.9639,
+    "kd_body_compared": 0.8989,
+    "rg_words": 85,
+    "kd_words": 89,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
