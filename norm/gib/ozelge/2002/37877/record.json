@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-31498/10773",
+  "source_id": 37877,
+  "date": "2002-03-12",
+  "title": "Yatırım Teşvik Belgesi kapsamında inşa edilen geminin yatırım tamamlanmadan ihraç edilmesi halinde, devreden yatırım indirimi tutarının içerisinde söz konusu gemiye ilişkin yatırım tutarının da bulunması halinde bu tutarın indirim konusu yapılmaması gerek",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37877",
+  "source_sha256": "60ae7502ab08b620cce2ec7a8ebb8e4041ed0eaa5b9fc11a8be72d1a6d6cd3c0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
