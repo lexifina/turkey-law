@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "145",
+  "year": 1960,
+  "title": "1076 sayılı Yedek Subay ve Yedek Askeri Memurlar Kanununun 3 ncü maddesinin değiştirilmesine dair 11 Ekim 1960 tarih ve 97 sayılı Kanuna geçici bir madde eklenmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-12-05",
+  "gazette_issue": "10672",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10672.pdf",
+  "source_sha256": "d49efe97e444eabc5643fa59ccc54d68c7cb357d00769924bfb848e1e2b5c27e",
+  "text_sha256": "05c70491e14ca380ad3107e6b4a190d72de478081b90468291c0861597673cb5",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      392,
+      413
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300145.pdf",
+    "source_sha256": "6789e6958d66d61ef1f376a57f7a628f2c854bcb77bf4e8e3286a55306f3d662",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9855,
+    "bag": 0.9433,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8537,
+    "rg_words": 142,
+    "kd_words": 164,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
