@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "593",
+  "year": 1974,
+  "title": "593 sayılı Karar",
+  "adopted": "1974-06-13",
+  "adopted_as_published": "13/06/1974",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/karartbmmc057/karartbmmc05700593.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 57",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 438841,
+      "title": "593 sayılı Karar",
+      "adopted_as_published": "13/06/1974",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/karartbmmc057/karartbmmc05700593.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 90,
+          "sitting_date": "1974-05-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c005/mm__04005090.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c005/mm__04005fih.pdf",
+          "pages": [
+            "646:647"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "c84314d62e2636033411f25d705d60bcb13f0be1f0edc676e60a7e3fcf2a3a44"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "c84314d62e2636033411f25d705d60bcb13f0be1f0edc676e60a7e3fcf2a3a44",
+  "issuer": "Millet Meclisi",
+  "in_force": "1974-06-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kararlar index: 13/06/1974; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
