@@ -1,0 +1,32 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-07-05",
+  "issue": "25159",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Bayındırlık ve İskan Bakanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030705-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (2 = 2)",
+  "ilan_codes": [
+    "22967/1-1",
+    "22968/1-1",
+    "22969/1-1",
+    "22970/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030705-4.htm",
+  "category_page_sha256": "06c5b9f1bf2339e8a864296faaadf7747c53ffbc657dd959a9e3cc96ed44b88a",
+  "issue_on_category_page": "25149",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030705.htm",
+  "index_sha256": "23199efee888ec7443d5e7ff1ef95122d620241884ee1bbc83a0307f4f4f38dd",
+  "index_header": "5 Temmuz 2003 ... Sayı : 25159",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
