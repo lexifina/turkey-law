@@ -1,0 +1,6 @@
+Bitirme Sınavı ve Eğitimde Başarı Durumu
+Madde 36 —Eğitimlerin süresine göre son gün ya da günler sınavlara ayrılır. Sınav günleri, derslerin haftalık ders saat süreleri göz önünde bulundurularak, birim amirliğince en az bir hafta önceden tespit ve ilan edilir.
+Eğitim sonunda yapılan bitirme sınavında (100) puan üzerinden en az (60) puan almak zorunludur. Ancak eğitimi düzenleyen birim amirliğince, bağlı bulunduğu Genel Müdür Yardımcısının onayı ile geçme notu arttırılabilir. Çok aşamalı sınav yapılması halinde, her bir sınavın aritmetik ortalamasının en az geçer not olması gerekir. Bitirme sınavlarının yazılı, sözlü ve uygulamalı yapılması halinde başarı notu her üçünün ortalamasıdır.
+Bitirme sınavlarında (60) puandan aşağı not alan kursiyere, son sınav sonucu açıklandıktan 2 gün sonra bir sınav hakkı daha tanınır. Bu durumdaki personel için gerektiğinde ilgili birim amirliğince ek onay alınarak bu tarihlerde izinli olmaları sağlanır. Kursiyerlerin kursu başarı ile tamamlayabilmeleri için bitirme sınavlarının veya başarısız olmaları halinde tanınan ek sınavların tamamından geçer not almaları zorunludur.
+Bitirme sınavlarından herhangi birine mazeretsiz olarak katılmayanlar başarısız sayılırlar.
+Yapılan sınav sonucu kursiyerlerin almış oldukları notlar liste halinde Eğitim Dairesi Başkanlığına bildirilir.

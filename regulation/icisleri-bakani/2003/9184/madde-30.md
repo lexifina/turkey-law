@@ -1,0 +1,5 @@
+Eğitime Katılanların Yolluk, Yevmiye, Sağlık ve Barınmaları
+Madde 30 —Eğitime katılanların, 6245 sayılı Harcırah Kanununa göre yolluk ve yevmiyeleri ile ilgili onaylar eğitimi düzenleyen birim amirliğince alınır, personelin bulundukları kadroları üzerinden tahakkuk ettirilir ve ödenir.
+Eğitime katılanların ve beraberinde bulunması halinde, bakmakla yükümlü olduğu kişilerin doktora sevk işlemleri eğitimi düzenleyen birim amirliğince yürütülür. Eğitimi düzenleyen birim amirliği ile eğitimin düzenlendiği birim amirliğinin ayrı ilde bulunması halinde bu işlemler eğitimin düzenlendiği birim amirliğince yürütülür. Ancak, her durumda tedavi giderleri eğitime katılan personelin bulunduğu kadrosu üzerinden ödenir.
+Eğitime katılacakların barınma ihtiyaçları, eğitimi düzenleyen birim amirliğince eğitimlerin planlanma aşamasında dikkate alınır ve katılımcılar imkanlar ölçüsünde birim amirliğince barındırılır ve iaşe edilir. İaşe edilmeleri halinde yemek ücretleri kursiyerlerden tahsil edilir.
+Birim amirliklerince eğitime katılanların sosyal ihtiyaçlarını karşılamak üzere yapılan diğer hizmetlerin ücretleri kursiyerlerden tahsil edilir.

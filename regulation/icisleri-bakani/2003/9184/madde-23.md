@@ -1,0 +1,3 @@
+Yükselme Eğitimleri
+Madde 23 —Genel Müdürlük bünyesinde çalışan Emniyet Hizmetleri Sınıfı ve diğer hizmet sınıfı personelden terfi edenlere yönelik olarak merkezde ya da Eğitim Merkezlerinde yeni görev veya rütbelerinin gerektirdiği bilgi, beceri ve yetenekleri kazandırmak amacıyla toplu veya gruplar halinde eğitimler düzenlenebilir.
+Meslek İçi Yöneticilik Eğitimi kursuna katılan her rütbedeki personelden eğitim sonunda ilk %10’a girenlere diğer ülkelerin uygulamalarını yerinde görmek, fikir alışverişinde bulunmak ve yeni bir bakış açısı kazandırmak amacıyla toplu veya gruplar halinde yurtdışı eğitim gezisi düzenlenebilir.

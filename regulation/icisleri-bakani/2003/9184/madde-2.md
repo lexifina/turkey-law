@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 —Bu yönetmelik, Emniyet Teşkilatında görevli tüm personelin hizmetiçi eğitimlerini sağlamak amacıyla kurum içi, kurum dışı ve yurtdışında yapılacak olan kurs, seminer ve benzeri eğitim faaliyetlerinin yönetimi, bu faaliyetlerde görevlendirilecek idareci ve eğitim görevlilerinin görev, yetki ve sorumlulukları ile eğitim faaliyetine katılacakların nitelikleri, hak ve yükümlülüklerine ait esasları kapsar.
