@@ -1,0 +1,3 @@
+Personelin Eğitimi
+Madde 6 – Sıhhiye sınıfına mensup erbaş ve erler, Sahra Sıhhiye Okulu ve Eğitim Merkez Komutanlığında, uygulanan eğitim programı gereğince, yetkili personel tarafından 6 hafta süre ile, 5 nci maddede belirtilen konularda teorik ve pratik olarak eğitilirler.
+Eğitimlerini bitiren erbaş ve erler, Sahra Sıhhiye Okulu ve Eğitim Merkez Komutanlığınca sınava tabi tutulurlar. Bunlardan küçük sıhhi işlemleri iyi derecede yapma yeteneği kazananlara, esasları anılan komutanlıkça belirlenecek kurs bitirme belgesi verilir. Verilen bu belgeler, erbaş ve erlerin şahsi dosyalarında muhafaza edilir ve terhislerinden sonra kendilerine verilmez.
