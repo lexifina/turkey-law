@@ -15,4 +15,4 @@ Seçimlerin tamamının iptali halinde, seçimler yenileninceye kadar geçen sü
 Bu Kanunda hüküm bulunmayan hallerde 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun Yedinci Bölümündeki suç ve cezalara ilişkin hükümler uygulanır.
 Oda, borsa ve Birlik organlarının seçimlerinde siyasi partiler, sendikalar ve sendika üst kuruluşları aday gösteremezler ve belirli adayların leh ve aleyhlerinde faaliyette bulunamazlar ve propaganda yapamazlar. Bu hükme aykırı davrananlara bir aydan üç aya kadar hapis, birmilyar liradan beşmilyar liraya kadar para cezası verilir.
 Birlik ile oda ve borsaların organlarının seçim tarihleri, Bakanlar Kurulu tarafından bir yılı geçmemek üzere ertelenebilir.
-Milletvekili, belediye başkanı, belediye meclis üyesi ve il genel meclisi üyesi seçilenler ile siyasi parti organlarında görevli olanların oda, borsa ve Birlik organlarındaki görevleri kendiliğinden sona erer.
+(Değişik son fıkra: 3/2/2005-5290/1 md.) Milletvekili veya belediye başkanı olarak seçilenlerin oda, borsa ve birlik organlarındaki görevleri kendiliğinden sona erer.
