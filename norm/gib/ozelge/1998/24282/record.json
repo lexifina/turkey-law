@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4010-63/30689",
+  "source_id": 24282,
+  "date": "1998-08-25",
+  "title": "Tek işverenden alınan ücretin,1.500.000.000 liralık haddi aşması halinde tek işverenden alınan ücretler de dahil olmak üzere tüm gelirlerin beyannameye dahil edileceği tabiidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24282",
+  "source_sha256": "019f7f41e584afaf10fbc5e55e4e440ad1b6a250423df6ed8fd3d846aa39dce9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
