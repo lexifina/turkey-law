@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2060",
+  "year": 1932,
+  "title": "Talebe olmayanların mekteplere mahsus kasket taşımalarının menine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-07-10",
+  "gazette_issue": "2146",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2146.pdf",
+  "source_sha256": "23a04cb6f8f60634ae72061da7d6cb629db8670e2b9a362a4ad31fd3e1996b34",
+  "text_sha256": "39c6c96a9f8a0f40a5a33f9c2481102dc0aebc6f6e25502fb9cebfba7d6ccac7",
+  "text_status": "ocr",
+  "pages": [
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      570,
+      621
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01102060.pdf",
+    "source_sha256": "e8688fcf977fbc1038831068b8d9cbf4b9ec13340a1fed1e52e778dc47988dcf",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9481,
+    "bag": 0.8947,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9688,
+    "rg_words": 142,
+    "kd_words": 128,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
