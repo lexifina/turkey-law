@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.68/6808-8",
+  "source_id": 37924,
+  "date": "2005-02-28",
+  "title": "Tarımsal amaçlı kooperatiflerin yıllık bilançosundaki müspet gelir-gider farkından doğan %1 ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37924",
+  "source_sha256": "a51639209ba5878ae2d711f3a6457dc52a625781a08404c91e1ccdc06d177305",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
