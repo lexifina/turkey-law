@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4692",
+  "year": 2001,
+  "title": "Esnaf ve Sanatkarlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanunu ile Tarımda Kendi Adına ve Hesabına Çalışanların Sosyal Sigortalar Kanununun Bazı Maddelerinin Değiştirilmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-07-03",
+  "gazette_issue": "24451",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/07/20010703.htm",
+  "source_sha256": "0826166bdbce9b00886e70db7eed5b07112be03acc24a74e87688a069cd8f469",
+  "text_sha256": "ce24173b0b46fed06c042b1c81060524d343d82692b63b4aec03b17e94ceffe3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/07/03/24451-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/07/20010703.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
