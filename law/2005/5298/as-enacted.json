@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5298",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti ve Lübnan Cumhuriyeti Arasında Yatırımların Teşviki ve Karşılıklı Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-02-08",
+  "gazette_issue": "2572",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208-9.htm",
+  "source_sha256": "f98bd3ff72f579d7e82893f55f1b726da1e46eede5a259241c2af87f5b186029",
+  "text_sha256": "a25bb2fb8005fae42db9aedae137ba8cdf2d3082efa1189a487faa2aa6839e1a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/02/08/2572-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
