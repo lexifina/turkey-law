@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 370799,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Türkiye Cumhuriyeti Hükümeti ile Bulgaristan Halk Cumhuriyeti Hükümeti arasında 28 Aralık 1967 tarihinde Ankara'da imzalanan «Türkiye Cumhuriyeti ile Bulgaristan Halk Cumhuriyeti arasında hudut olaylarının önlenmesi ve halli ile hudut işaretlerinin bakımı hakkında Anlaşma» ile bu Anlaşmanın ekler olan «Türk Bulgar karma hudut komisyonlarındaki heyetlerin faaliyet bölge ve kısımlarının ve bu heyet başkanları daimî ikâmet yerlerinin tesbiti hakkında (1) numaralı protokol» ve «Türk Bulgar hududu üzerindeki hudut işaretlerinin muhafazası, bakımı, onarımı ve yenilenmesi ile kontrolü hakkında (2) numaralı protokol» ün onaylanmasına dair (1/484)",
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bulgaristan Halk Cumhuriyeti Hükümeti arasında 28 Aralık 1967 tarihinde Ankara'da imzalanan «Türkiye Cumhuriyeti ile Bulgaristan Halk Cumhuriyeti arasında hudut olaylarının önlenmesi ve halli ile hudut işaretlerinin bakımı hakkında Anlaşma» ile bu Anlaşmanın ekler olan «Türk Bulgar karma hudut komisyonlarındaki heyetlerin faaliyet bölge ve kısımlarının ve bu heyet başkanları daimî ikâmet yerlerinin tesbiti hakkında (1) numaralı protokol» ve «Türk Bulgar hududu üzerindeki hudut işaretlerinin muhafazası, bakımı, onarımı ve yenilenmesi ile kontrolü hakkında (2) numaralı protokol» ün onaylanmasına dair (1/484)",
+  "first_sitting_date": "1968-02-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 26,
+      "sitting": 53,
+      "sitting_date": "1968-02-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c026/mm__02026053.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c026/mm__02026fih.pdf",
+      "pages": [
+        "590"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=3601&v_kullanici_id=27484850",
+  "source_sha256": "b7a0038228047c8835900b145e6f1e81253618139839147daa05a3fad2ca1655",
+  "in_force": "1968-02-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
