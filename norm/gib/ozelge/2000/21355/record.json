@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.43/4301-250/14440",
+  "source_id": 21355,
+  "date": "2000-04-03",
+  "title": "Tüzel kişiliği olmayan toplu konut site yönetimi tarafından, tüm kat maliklerinin ortak oldukları kapıcı dairelerinin tamamının kat maliklerinin özel mülkiyetlerinde olması ve site yönetimi tarafından mesken olarak kiraya verilmesi durumunda, kat malikler",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21355",
+  "source_sha256": "1765fc60a701d4eb0c0a26ad0876c9f69439cba8c9043851f52ecd42cffc4b00",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
