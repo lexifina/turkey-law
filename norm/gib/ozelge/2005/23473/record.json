@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-2195/5394",
+  "source_id": 23473,
+  "date": "2005-02-07",
+  "title": "Personelin ücretsiz izin süresi için ücretinden kesilmek suretiyle Emekli Sandığına ödenen kesenek ve kurum karşılıklarının, ücretin safi tutarının tespitinde indirim olarak dikkate alınması gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23473",
+  "source_sha256": "ff053413a1ec19d9a3c2a89a2ac78bbb4a02dbf9d48ea108be7918b4461f1571",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
