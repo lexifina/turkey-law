@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.GEL.0.40/4041-33/57420",
+  "source_id": 23955,
+  "date": "1997-12-30",
+  "title": "Mahkeme kararına istinaden ödenen kira bedeli dışındaki faiz, alacak faizi niteliğinde olduğundan, gelir vergisi tevkifatına tabi tutulmaması gerekir. Ancak, alacak faizinin yıllık gelir vergisi beyannamesi ile beyan edilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23955",
+  "source_sha256": "3905a510f7238f6f7c8c8cd14b7cf5c74abdbb6020c1beeafeee8f2a987f1edf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
