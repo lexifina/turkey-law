@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1065/42023",
+  "source_id": 23007,
+  "date": "1999-10-06",
+  "title": " Gerçek usulde vergilendirilen mükellefin \"çocuk\" sayılmayanlara işlerin devredilmesi halinde, genel ve özel şartları taşıması kaydıyla basit usulde vergilendirilmeleri mümkün olacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23007",
+  "source_sha256": "0080a434974aed5f313e2a543e510161f4ac34a3d8e0d0a130569b3f541c7d1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
