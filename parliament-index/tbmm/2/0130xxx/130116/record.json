@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 130116,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "1926 senesi Muvazenei Umumiye Kanunu lâyihası/Maliye Vekâleti Bütçesi hakkında",
+  "title": "1926 senesi Muvazenei Umumiye Kanunu lâyihası/Maliye Vekâleti Bütçesi hakkında",
+  "first_sitting_date": "1925-02-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 53,
+      "sitting_date": "1925-02-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c013/tbmm02013053.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c013/ehttbmm02013053.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c013/tbmm02013fih.pdf",
+      "pages": [
+        "312:356"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 85,
+      "sitting_date": "1925-03-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c016/tbmm02016085.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c016/ehttbmm02016085.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c016/tbmm02016fih.pdf",
+      "pages": [
+        "135:154",
+        "237:239",
+        "271:272"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2766&v_gelecek_sayfa=1001&v_kullanici_id=27483743",
+  "source_sha256": "3675bf12433cd243ba7a9775399da2d7616571bd480db7121eb32f22ee1d0304",
+  "in_force": "1925-02-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
