@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.55/5517- 1894/61331",
+  "source_id": 31937,
+  "date": "2004-12-21",
+  "title": "İşletmenin hurda plastik ve ambalaj malzemelerini kendi tesislerinde kırma, temizleme, havuzda yıkama, kurutma işlemine tabi tutarak elde ettiği ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31937",
+  "source_sha256": "05ace124c63aa9dff808763eb17cc2881d29a9ac72997d8a42585cb83071a763",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
