@@ -1,0 +1,3 @@
+Madde 10 – Tedavi müessesesi olarak işletme ruhsatnamesini haiz bulunan kaplıca ve içmeler, tercihan bir fizikoterapi ve hidroterapi mütehassısı, bulunmadığı takdirde 3153 sayılı kanunun 7 nci maddesine göre elektrikle tedaviye mahsus cihazları kullanmağa salahiyetli olan iç hastalıkları veya akıl ve sinir hastalıkları mütehassısı bir tabip bulundurmağa mecburdurlar.
+Bu müessesede tedaviler, müessese tabibinin nezaret ve mesuliyeti altında yapılır.
+Muvakkat madde – Bu Nizamnamenin neşri tarihinde işletme ruhsatnamesini haiz olup 7, 8, 9 ve 10 uncu maddelerde belirtilen hususları tamamen ihtiva etmeyen kaplıca ve içmeler, bu Nizamnamenin mer'iyete girdiği tarihten itibaren üç sene zarfında noksanlarını ikmal etmeğe mecburdurlar.

@@ -1,0 +1,1 @@
+Madde 5 – Teşhis ve tedavi maksadiyle kullanılacak her nevi fizik tedavi alat ve cihazları, her zaman normal kabiliyet ve evsafı haiz bulunacakları gibi, bunlardan elektroterapiye ait olanlar, 3153 sayılı kanunun 3 üncü maddesine istinaden çıkarılan radyoloji, Radyum ve elektrikle tedavi müesseseleri hakkındaki nizamnamede yazılı vasıf ve şartlara uygun olacaktır.
