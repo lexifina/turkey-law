@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4035-289/3163",
+  "source_id": 22240,
+  "date": "2002-01-22",
+  "title": "Geçici vergi matrahının belirlenmesinde peşin tahsil edilen bir yıllık abone bedelinin, sadece beyan edilen geçici vergi dönemine isabet eden kısmı dikkate alınacak olup mükellefin faaliyetinin mamul üretimi veya hizmet üretimi olmasının geçici vergiye il",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22240",
+  "source_sha256": "7c8c1102821ad47804a626ca907ac2f177f9c2dedb68f6d75bbb94571037edbe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
