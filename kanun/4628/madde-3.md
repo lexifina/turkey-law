@@ -9,6 +9,8 @@ a) Lisansların tabi olacağı usul ve esaslar:
 6. Tüzel kişiler, Kurul tarafından belirlenen lisans alma, lisans yenileme, lisans tadili, lisans sureti çıkartma ve yıllık lisans bedellerini Kuruma ödemek zorundadır.
 7. Lisans sahibi tüzel kişiler; tesislerini, yasal defter ve kayıtlarını Kurul denetimine hazır bulundurmak, Kurul tarafından talep edildiğinde denetime açmak ve Kurumun faaliyetlerini yerine getirebilmesi için ihtiyaç duyacağı her türlü bilgi ve belgeyi zamanında Kurula vermek zorundadır.
 8. Tüzel kişiler lisans almanın yanı sıra, faaliyet alanlarına göre yürürlükteki mevzuatın gereklerini yerine getirmekle yükümlüdür.
+––––––––––––––––––
+(1) 27/6/2001 tarihli ve 4694 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “30 Haziran 2001” ibaresi “31 Ekim 2001” şeklinde değiştirilmiştir.
 b) Lisanslarda asgari olarak yer alacak hükümler:
 1. Lisans kapsamında hizmet verilecek gerçek ve tüzel kişilere dair gruplar veya kategoriler ile yürütülecek faaliyet türlerini belirleyen hükümler.
 2. Bir dağıtım ya da iletim lisansı sahibinin, gerçek ve tüzel kişilere, eşitler arasında
