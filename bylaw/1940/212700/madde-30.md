@@ -1,0 +1,1 @@
+Madde 30 – İhracatçı veya mümessili tarafından kontrol neticesine itiraz vuku bulduğu takdirde, ihtilafın mevzuu, kontrol memurunun müracatı üzerine, 48 saat zarfında, 31 inci maddede yazılı heyet tarafından, kontrol memuru ile alakadar ihracatçı veya mümessili hazır bulunduğu halde tetkik olunur.

@@ -1,0 +1,1 @@
+Madde 32 – Heyet 20 nci madde mucibince alınmış olan nümunelerden açılmamış olanını tetkik ve icabında tahlil ederek ihtilaf mevzuu hakkındaki kanaatlerine müstenit kararlarını mucip sebepleriyle, sarih olarak, vaziyete göre, muayene raporuna yazılmış olan itirazların altına veya zabıt varakasının hususi hanesine yazıp imzalar.

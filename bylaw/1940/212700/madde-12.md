@@ -1,0 +1,1 @@
+Madde 12 – Ova arpası: Beyaz arpalara kıyasla karınsız ve uzunca, mütecanis, yüksek vasıflı (Yerli adiyle maruf) arpalar olup bunlar da ilişik tabloda gösterilen (5) dereceye ayrılarak ihraç olunurlar.

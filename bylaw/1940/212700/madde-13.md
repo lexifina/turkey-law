@@ -1,0 +1,1 @@
+Madde 13 – 11 ve 12 nci maddelerde yapılan tariflere göre (Beyaz) veya (Ova) sınıflarına girmiyen arpalar ilişik tabloda yazılı olduğu veçhile (Sıra arpa) adiyle (6) dereceye ayrılarak ihraç olunurlar.

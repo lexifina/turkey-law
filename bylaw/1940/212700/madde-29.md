@@ -1,0 +1,3 @@
+FASIL : IV
+Nizamname hükümlerine muhalif hareketler
+Madde 29 – Kontrol esnasında bu Nizamname hükümlerine aykırı bir hal görülecek olursa keyfiyet Ticaret Vekaleti İhracat Kontrolörü tarafından tanzim olunacak zabıt varakası ile tesbit olunur. Zabıt varakası dört nüsha olmak üzere kaleme alınır. Arpa ihracatçısı veya mümessili, mündericatına itirazı olmadığı takdirde, zabıt varakasını derhal imzalamağa mecbur olduğu gibi itirazı varsa bunun neden ibaret olduğunu zabıt varakasının hususi hanesine derhal yazıp imzalamağa mecburdur. Zabıt varakalarının bir nüshası alakadar ihracatçı veya mümessiline verilir. Diğer nüshaları ihracat kontrolörlüğünde muhafaza edilir.

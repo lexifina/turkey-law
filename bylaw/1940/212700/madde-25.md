@@ -1,0 +1,1 @@
+Madde 25 – Kontroldan sonra arpaların kısmen veya tamamen ihracından sarfı nazar eden ihracatçı kontrol vesikasını derhal ihracat kontrolörlüğüne iade ile mükelleftir. Ancak ihracatçı arpasını kısmen ihraçtan sarfınazar etmiş bulunduğu takdirde mütebaki mal için kendisine yeni bir kontrol vesikası verilebilir.
