@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB sirkulerTarih: 2003-12-24T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "circular",
+  "official_date": "2003-12-24",
+  "official_number": "GVK- 8 /2003-8 / Ücretlilerde Özel Gider İndirimi",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/649",
+  "source_id": "sirkuler:649",
+  "source_row_sha256": "b60ad72d891277b01240d527ae2dcdf0c326362ea9da51651e4be428b2895e5c",
+  "title": "Özel Gider İndirimi Uygulaması ve Ücretlilerde Vergi İndirimi Uygulaması",
+  "version_label": "as-enacted",
+  "word_count": 295
+}
