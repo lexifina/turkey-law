@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5515-300/37529",
+  "source_id": 31503,
+  "date": "1998-10-20",
+  "title": "Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO) yapılan teslim ve hizmetlerin K.D.V.den istisnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31503",
+  "source_sha256": "f107884c5209960cdc75f22d62b81a21c0bf967a5e33b44b5bc7055db5876f75",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
