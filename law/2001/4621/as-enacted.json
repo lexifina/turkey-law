@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4621",
+  "year": 2001,
+  "title": "Uluslararası Denizcilik Örgütü Sözleşmesinde Yapılan Değişikliğin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-02-01",
+  "gazette_issue": "24305",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/02/20010201.htm",
+  "source_sha256": "5de70f59a1f3f0ec8fb5fee68a984542f27388aaa414383e9e41755167a40365",
+  "text_sha256": "b4b909816e3d5728966e6207541b58ab1cd1b6149b2ecb78d5787189c219c023",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/02/01/24305-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/02/20010201.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
