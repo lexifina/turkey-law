@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 269634,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "İl İdaresi Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Bazı Maddeler Eklenmesi Hakkında (1/553)",
+  "title": "İl İdaresi Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Bazı Maddeler Eklenmesi Hakkında (1/553)",
+  "first_sitting_date": "1994-01-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 51,
+      "sitting": 64,
+      "sitting_date": "1994-01-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c051/tbmm19051064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c051/tbmm19051fih.pdf",
+      "pages": [
+        "268:285"
+      ]
+    },
+    {
+      "cilt": 51,
+      "sitting": 65,
+      "sitting_date": "1994-01-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c051/tbmm19051065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c051/tbmm19051fih.pdf",
+      "pages": [
+        "340:348"
+      ]
+    },
+    {
+      "cilt": 52,
+      "sitting": 66,
+      "sitting_date": "1994-01-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c052/tbmm19052066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c052/tbmm19052fih.pdf",
+      "pages": [
+        "21:39"
+      ]
+    },
+    {
+      "cilt": 57,
+      "sitting": 87,
+      "sitting_date": "1994-04-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c057/tbmm19057087.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c057/tbmm19057fih.pdf",
+      "pages": [
+        "134:136"
+      ]
+    },
+    {
+      "cilt": 58,
+      "sitting": 90,
+      "sitting_date": "1994-04-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c058/tbmm19058090.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c058/tbmm19058fih.pdf",
+      "pages": [
+        "26:27"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=961&v_gelecek_sayfa=601&v_kullanici_id=27484430",
+  "source_sha256": "cd1f59d4daa3e17ab39d25935a8aad79a9f1e8565f038ac008ddc9c4f9cac603",
+  "in_force": "1994-01-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
