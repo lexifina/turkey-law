@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-03-20",
+  "issue": "25408",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Boru Hatları ile Petrol Taşıma Anonim Şirketi (BOTAŞ) Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/03/20040320-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (2 = 2)",
+  "ilan_codes": [
+    "3509/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/03/20040320-4.htm",
+  "category_page_sha256": "eb583d02aa35a8be24ab640a5e32c3af7ba2cfdaa50fc6d3491860da09e4dc70",
+  "issue_on_category_page": "25407",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/03/20040320.htm",
+  "index_sha256": "b2a6cd6e72a3c376d09eb6fe6711057cb309768e177d15ddac4d51235f6ecb71",
+  "index_header": "20 Mart 2004 ... Sayı : 25408",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
