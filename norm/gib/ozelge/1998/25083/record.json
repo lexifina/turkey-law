@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6650-150/044673",
+  "source_id": 25083,
+  "date": "1998-12-02",
+  "title": "Asgari ölçüde arsa metrekare birim değerlerine karşı kendilerine karar tebliğ edilen daire, kurum, teşekkül ve muhtarlıkların ilgili vergi mahkemesi nezdinde dava açma hakları mevcut bulunmaktadır. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/25083",
+  "source_sha256": "c2c36670c99835ee2b847acd249bcb991958fa1504282e56eb884b81b0063570",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
