@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.GEL/0.51/5108-260/7231",
+  "source_id": 38510,
+  "date": "2001-02-06",
+  "title": "2847 sayılı kanunla kurulan derneğin adına bankalarda açılan mevduatlara yürütülen faizlerden gelir vergisi tevkifatı yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38510",
+  "source_sha256": "1c98d2a4bd7def96be740f17575885d73176de8ba802b22522e1a7f8b9d3baea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
