@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1907",
+  "year": 1931,
+  "title": "Manisada (Beynelmilel Moris Şinasi hastanesi) namı altında inşa ve tesis edilecek hastane için hariçten getirilecek eşyanın gümrük resminden istisnasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-12-31",
+  "gazette_issue": "1990",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1990.pdf",
+  "source_sha256": "08b95ce8a57e7da0aace2ac6f7c520a0620d734f1175eed38dd29233316239a5",
+  "text_sha256": "cd83f85a4fa95e83a1db3a5fbf7e7c925c7f0c8773497900b3ea54d993ed3be4",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      415,
+      455
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101907.pdf",
+    "source_sha256": "25b3cded6b0142e4669fbdc26b5f3913a712b318707e70de194388d0ea82a2a8",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9185,
+    "bag": 0.8571,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9869,
+    "rg_words": 129,
+    "kd_words": 153,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
