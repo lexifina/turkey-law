@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6731",
+  "year": 1956,
+  "title": "Millî Korunma Kanununun Bazı Maddelerinin Tadiline Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-06-11",
+  "gazette_issue": "9329",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9329.pdf",
+  "source_sha256": "c396d11c724209b782a92c446e7b53cad8145da6edc8ce42d43ad27cbd46f801",
+  "text_sha256": "b3476105845e9a8e7a4add4562aa5cb6bf228a368791d564ff9ee223e09123fc",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      2,
+      710
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806731.pdf",
+    "source_sha256": "236c8ba97bffed000124817d65e1999af6474ea55dc5b66d5b220c643d3cec4b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9739,
+    "bag": 0.9078,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9994,
+    "rg_words": 4945,
+    "kd_words": 4959,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
