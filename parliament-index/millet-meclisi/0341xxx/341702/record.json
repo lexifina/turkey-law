@@ -1,0 +1,91 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 341702,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İstanbul'da Beşiktaş'ta Vişnezade mahallesinde Teşvikiye ve Maçka Meydanı sokaklarında kâin ve Hazineye ait iken parasız olarak İstanbul Belediyesine devredilmiş bulunan arsa ve binanın Hazineye iadesi hakkında kanun tasarısı ile Cumhuriyet Senatosu Tunceli Üyesi Mehmet Ali Demir'in, kanun teklifine dair (1/126,2/196)",
+  "title": "İstanbul'da Beşiktaş'ta Vişnezade mahallesinde Teşvikiye ve Maçka Meydanı sokaklarında kâin ve Hazineye ait iken parasız olarak İstanbul Belediyesine devredilmiş bulunan arsa ve binanın Hazineye iadesi hakkında kanun tasarısı ile Cumhuriyet Senatosu Tunceli Üyesi Mehmet Ali Demir'in, kanun teklifine dair (1/126,2/196)",
+  "first_sitting_date": "1962-12-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 19,
+      "sitting_date": "1962-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010fih.pdf",
+      "pages": [
+        "328"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 26,
+      "sitting_date": "1963-01-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010026.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010fih.pdf",
+      "pages": [
+        "594:602"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 35,
+      "sitting_date": "1963-01-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011fih.pdf",
+      "pages": [
+        "278:279"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 61,
+      "sitting_date": "1963-03-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014fih.pdf",
+      "pages": [
+        "457"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 87,
+      "sitting_date": "1963-05-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017087.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017fih.pdf",
+      "pages": [
+        "354",
+        "587"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 95,
+      "sitting_date": "1963-06-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018095.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+      "pages": [
+        "125:128",
+        "168:171"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=5601&v_kullanici_id=27484836",
+  "source_sha256": "c53be49541aaa6e38605f2b84863ae5381f29576dd583c9c59ad2ebfbf7ed8d9",
+  "in_force": "1962-12-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
