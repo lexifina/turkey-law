@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1795",
+  "year": 1931,
+  "title": "Gümrük tarifesi kanununun 4. maddesinin 4 numaralı fıkrasının tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-04-01",
+  "gazette_issue": "1763",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1763.pdf",
+  "source_sha256": "1ccb81a196dbafb13a75956d85855c5ba723ba8cc60b0f294191e92efe7028d2",
+  "text_sha256": "41a3da8117d22c5f5b393f538500bc1266ad53fd25522bf5a2de3a01d205cee2",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      681,
+      744
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901795.pdf",
+    "source_sha256": "80a0f2403b12c75643a8bde021cc4d798d96317d432e021846403b76c422634a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9793,
+    "bag": 0.9541,
+    "kd_coverage": 0.9877,
+    "kd_body_compared": 0.8804,
+    "rg_words": 165,
+    "kd_words": 184,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
