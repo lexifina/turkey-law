@@ -1,0 +1,190 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "527",
+  "year": 1965,
+  "title": "Gelecek yıllara Geçici yüklenmelere dair Kanun",
+  "adopted": "1965-01-25",
+  "adopted_as_published": "25/01/1965",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.02.1965 No: 11921",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800527.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 48",
+  "committee_reports": [
+    {
+      "label": "MM 746 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c033/mm__01033019ss0746.pdf"
+    },
+    {
+      "label": "CS 533no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c023/cs__04023028ss0533.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 352357,
+      "title": "Gelecek yıllara Geçici yüklenmelere dair Kanun",
+      "adopted_as_published": "25/01/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800527.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 746 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c033/mm__01033019ss0746.pdf"
+        },
+        {
+          "label": "CS 533no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c023/cs__04023028ss0533.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 22,
+          "sitting": 149,
+          "sitting_date": "1963-10-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c022/mm__01022149.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c022/mm__01022fih.pdf",
+          "pages": [
+            "205"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 130,
+          "sitting_date": "1964-09-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032130.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032fih.pdf",
+          "pages": [
+            "270"
+          ]
+        },
+        {
+          "cilt": 33,
+          "sitting": 19,
+          "sitting_date": "1964-12-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c033/mm__01033019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c033/mm__01033fih.pdf",
+          "pages": [
+            "738:739",
+            "760",
+            "785:788"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 21,
+          "sitting_date": "1964-12-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+          "pages": [
+            "14",
+            "38",
+            "46:67"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 22,
+          "sitting_date": "1964-12-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034022.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+          "pages": [
+            "87",
+            "120:124"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2101&v_kullanici_id=27483225",
+      "page_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 177157,
+      "title": "Gelecek yıllara geçici yüklenmelere dair Kanun",
+      "adopted_as_published": "25/01/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800527.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 746 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c033/mm__01033019ss0746.pdf"
+        },
+        {
+          "label": "CS 533no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c023/cs__04023028ss0533.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 22,
+          "sitting": 16,
+          "sitting_date": "1964-12-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c022/cs__04022016.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c022/cs__04022fih.pdf",
+          "pages": [
+            "446"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 27,
+          "sitting_date": "1965-01-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c023/cs__04023027.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c023/cs__04023fih.pdf",
+          "pages": [
+            "286"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 28,
+          "sitting_date": "1965-01-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c023/cs__04023028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c023/cs__04023fih.pdf",
+          "pages": [
+            "332:333",
+            "337",
+            "342",
+            "370:371"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 29,
+          "sitting_date": "1965-01-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c024/cs__04024029.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c024/cs__04024fih.pdf",
+          "pages": [
+            "4",
+            "27",
+            "34",
+            "108:109"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=501&v_kullanici_id=27483235",
+      "page_sha256": "90e575b0d681a9aaaed8fe9da175069303e902e0ae9d6b5e4ea68e0ee49b37f8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1",
+  "issuer": "Millet Meclisi",
+  "in_force": "1965-01-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 25/01/1965; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
