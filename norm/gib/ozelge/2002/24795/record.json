@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-668/12999",
+  "source_id": 24795,
+  "date": "2002-03-26",
+  "title": "1996 yılında elde delde edilen emekli ikramiyesi hayat standardı esası uygulamasında izah nedeni gelirler arasında sayılmaz.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24795",
+  "source_sha256": "d2b64ff15e3ab1d340c1d4946e1b370d23dd68ea1a1b6bd549a4211ba0996a2d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
