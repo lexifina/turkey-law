@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.6027",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MOTORLU TAŞITLAR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 22)",
+  "number": "6027",
+  "path": "teblig/2004/6027",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6027&MevzuatTertip=5",
+  "source_sha256": "362bea879ba2f4781703fe5122ce5143121094f1c34203d00764565dacbbb804",
+  "source_bytes": 40252,
+  "published": "2004-01-29",
+  "gazette": "25361",
+  "in_force": "2004-01-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.01.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1471,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
