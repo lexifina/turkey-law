@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5418- 3-44455",
+  "source_id": 31945,
+  "date": "2004-04-21",
+  "title": "Vergiden istisna edilen işlemleri yapanlar diledikleri takdirde ilgili vergi dairesine yazılı başvuruda bulunarak belirtecekleri işlem türleri için vergiye tabi tutulmalarını talep edebilirler. Bu talebin dilekçede belirtilen ve dilekçe tarihinden sonra i",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31945",
+  "source_sha256": "ec872b591b1a346fea424f3138365a33f4f3dc5992aacecb0a82255a7afd4654",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
