@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "2237",
+  "year": 1960,
+  "title": "2237 sayılı Karar",
+  "adopted": "1960-01-20",
+  "adopted_as_published": "20/01/1960",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "23.01.1960 No: 10405",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/karartbmmc042/karartbmmc04202237.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 42",
+  "committee_reports": [
+    {
+      "label": "TBMM 32 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c011/tbmm11011026ss0032.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 11,
+      "kayit_no": 42757,
+      "title": "2237 sayılı Karar",
+      "adopted_as_published": "20/01/1960",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/karartbmmc042/karartbmmc04202237.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 32 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c011/tbmm11011026ss0032.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 21,
+          "sitting_date": "1960-01-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c011/tbmm11011021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c011/tbmm11011fih.pdf",
+          "pages": [
+            "156"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 26,
+          "sitting_date": "1960-01-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c011/tbmm11011026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c011/tbmm11011fih.pdf",
+          "pages": [
+            "255"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=164&v_gelecek_sayfa=101&v_kullanici_id=27483277",
+      "page_sha256": "5c84da1aa861efbfe05747aee765987aeb75e9495625b869e69bb185bd2e1344"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5c84da1aa861efbfe05747aee765987aeb75e9495625b869e69bb185bd2e1344",
+  "issuer": "TBMM",
+  "in_force": "1960-01-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 20/01/1960; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
