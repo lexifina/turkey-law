@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.68./6802-2/058420",
+  "source_id": 37927,
+  "date": "2004-12-08",
+  "title": "Ortalama vadesi asgari 1 yıl olan döviz ve altın kredileri, kaynak kullanımı destekleme fonu kesintisinden istisnadır fakat bu kredilere ait teminatlar kullanılmak suretiyle 1 yıldan önce kapatılması halinde istisnadan yararlanılamaz.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37927",
+  "source_sha256": "4c36b30d1a72a9117f2f35de5e845a9d45b5c014bb839d9f7a9943e228a9bac9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
