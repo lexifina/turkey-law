@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2520",
+  "year": 1934,
+  "title": "2134 ve 2214 numaralı kanunlar mucibince inşası mukarrer Afyon-Antalya ve Filyos-Ereğli hatları için 1934 malî senesi zarfında vaki olacak masarif karşılığı hakkında 1934 Malî Senesi Muvazenei Umumiye Kanununun 18. maddesine bir fıkra ilâvesine dair kanun",
+  "adopted": "1934-06-18",
+  "adopted_as_published": "18/06/1934",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "25.06.1934 No: 2735",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302520.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 13",
+  "committee_reports": [
+    {
+      "label": "TBMM 243 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023070ss0243.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112642,
+      "title": "2134 ve 2214 numaralı kanunlar mucibince inşası mukarrer Afyon-Antalya ve Filyos-Ereğli hatları için 1934 malî senesi zarfında vaki olacak masarif karşılığı hakkında 1934 Malî Senesi Muvazenei Umumiye Kanununun 18. maddesine bir fıkra ilâvesine dair kanun",
+      "adopted_as_published": "18/06/1934",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302520.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 243 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023070ss0243.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 65,
+          "sitting_date": "1934-06-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023fih.pdf",
+          "pages": [
+            "66"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 69,
+          "sitting_date": "1934-06-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023069.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023fih.pdf",
+          "pages": [
+            "174"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 70,
+          "sitting_date": "1934-06-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023fih.pdf",
+          "pages": [
+            "214",
+            "220",
+            "228:230"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=601&v_kullanici_id=27483155",
+      "page_sha256": "5f041f49ba2ca557390fd11af81fa00834bdb0331a9d785daae3de9cfbe2dd9c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5f041f49ba2ca557390fd11af81fa00834bdb0331a9d785daae3de9cfbe2dd9c",
+  "issuer": "TBMM",
+  "in_force": "1934-06-18",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 18/06/1934; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
