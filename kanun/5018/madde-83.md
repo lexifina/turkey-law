@@ -1,5 +1,5 @@
 Yürütme
-MADDE 83- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+MADDE 83.- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 (I) SAYILI CETVEL
 GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 1- Türkiye Büyük Millet Meclisi
@@ -57,7 +57,7 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 53-Basın-Yayın ve Enformasyon Genel Müdürlüğü
 54-Darphane ve Damga Matbaası Genel Müdürlüğü
 55- (Ek: 1/12/2004-5263/18 md.) Sosyal Yardımlaşma ve Dayanışma Genel Müdürlüğü
-(II) SAYILI CETVEL
+(II) SAYILI CETVEL (1)
 ÖZEL BÜTÇE KAPSAMINDAKİ İDARELER
 1- Yükseköğretim Kurulu
 2- Üniversiteler
@@ -98,7 +98,7 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 37-GAP Bölge Kalkınma İdaresi Başkanlığı
 38-Özelleştirme İdaresi Başkanlığı
 39-Toplu Konut İdaresi Başkanlığı
-40-Arsa Ofisi Genel Müdürlüğü
+(…) (1)
 41-Doğal Afet Sigortaları Kurumu
 42-Elektrik İşleri Etüt İdaresi Genel Müdürlüğü
 43-Maden Tetkik ve Arama Genel Müdürlüğü
@@ -109,6 +109,8 @@ GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ
 48-Millî Piyango İdaresi Genel Müdürlüğü
 49-Spor-Toto Genel Müdürlüğü
 50-Kefalet Sandıkları
+––––––––––––––––––––
+(1) 8/12/2004 tarihli ve 5273 sayılı Kanunun 7 nci maddesiyle bu cetvelde yer alan "40- Arsa Ofisi Genel Müdürlüğü" ibaresi cetvelden çıkarılmıştır.
 (III) SAYILI CETVEL
 DÜZENLEYİCİVE DENETLEYİCİ KURUMLAR
 1- Radyo ve Televizyon Üst Kurulu
