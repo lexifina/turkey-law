@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4830",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Hindistan Cumhuriyeti Hükümeti Arasında Turizm İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-03-22",
+  "gazette_issue": "25056",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030322.htm",
+  "source_sha256": "2177b5cc0fed7326ac369147a3db89eaf38d46ab709c9cb1c799ae60e8d75591",
+  "text_sha256": "e3674b35d2522b1943db57b160683beff62458a2871cad34b011edad746d1d6b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/03/22/25056-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030322.htm#6",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
