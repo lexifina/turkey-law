@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6665",
+  "year": 1956,
+  "title": "Umumi ihtiyaçlar için hariçten getirilecek madeni su boruları ile aksam ve teferruatından Gümrük Resmi alınmamasına dair olan 2268 sayılı Kanunun 5365 sayılı Kanunla değiştirilen 1 nci maddesinde değişiklik yapılmasına ve mezkûr kanuna muvakkat bir madde ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-02-24",
+  "gazette_issue": "9242",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9242.pdf",
+  "source_sha256": "a70efc0a889a08d84f7072fb3aac47fc1433786f6617dfb311fe86667d9a2ca4",
+  "text_sha256": "e9cdc1af18d43bf7fd2417c8d4d29850d78a9a68999e7fa24cced509b86391dd",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      920,
+      1023
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806665.pdf",
+    "source_sha256": "374db7a1a3f1d9efa0ab1be132c10db01572fd12bce598acb53cf8cf610c2609",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9904,
+    "bag": 0.9152,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9906,
+    "rg_words": 310,
+    "kd_words": 318,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
