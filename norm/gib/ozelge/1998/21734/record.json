@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-29579/15244",
+  "source_id": 21734,
+  "date": "1998-04-28",
+  "title": "1994, 1995 ve 1996 yıllarında yatırım indirim tutarının tespitinde dikkate alınmayan yeni revize değerlerin, 1997 yılı yatırım indirimi tutarının tespitinde dikkate alınacağı ve ilgili yıllar beyanlarında düzeltme yapılacağı tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21734",
+  "source_sha256": "189d60ca6a4ef83d621124bdd0b722c55bbe140fcf9181de72a6f9063549f3d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
