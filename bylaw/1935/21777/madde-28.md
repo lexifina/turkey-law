@@ -1,0 +1,1 @@
+Madde 28 – (Gümrük muafiyet kağıdı) veren makam gösterilen vesikalara ve alınan eşya ve hayvan beyannamesine rağmen şüphelendiği eşya ve hayvanlar hakkında gerek muafiyet kağıdını vermeden ve gerek verdikten sonra tahkikat yaptırır, lüzumlu görürse muafiyet kağıdını verdikten sonra konsolosluklar vasıtasiyle de tahkikata devam eder.

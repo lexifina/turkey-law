@@ -1,0 +1,1 @@
+Madde 35 – Muhacir bir aile, zat, ev meşgale ve meslek eşyalarını ve hayvanlarını beraberinde de getirebilir, ayrı olarak da, kısım kısım da getirtebilir. Ancak ticaret eşyasının ve fabrika mevaddı iptidaiyesinin ve masnuatının ve hayvan sürülerinin ve muafiyeti miktara bağlı eşyanın birden getirilmesi mecburidir.

@@ -1,0 +1,1 @@
+Madde 30 – Gümrük muafiyet kağıtlarına esas olan muhacir ve mültecilerin gösterdikleri vesikalar ve alınan eşya ve hayvan beyannamesi ve varsa tahkikat evrakı (Gümrük muafiyet kağıdı) ile birlikte - veren makam tarafından - gümrük dairesine gönderilir. Gümrük dairesi bu evrakı, evrakı müsbite olarak saklar.

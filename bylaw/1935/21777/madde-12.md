@@ -1,0 +1,1 @@
+Madde 12 – Mülteciler ancak tabiiyet beyannamesi imzalıyarak muhacir kağıdı almakla muhacir sıfatını kazanırlar. Muhacir kağıdı almayan mülteciler, İskan Kanununun muhacirler hakkındaki muafiyet ve haklarından istifade edemezler.

@@ -1,0 +1,1 @@
+Madde 23 – Gümrük daireleri muafiyet kağıdı kendisine gelmiş olan muhacirlerin ve mültecilerin eşya ve hayvanlarını süratle ve diğerlerine tercihan çıkarmağa ve azami kolaylık göstermeğe mecburdurlar.

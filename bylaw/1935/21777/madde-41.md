@@ -1,0 +1,1 @@
+Madde 41 – Vergi ve resim ve tapu muafiyeti Hükümetçe iskan edilen bütün göçebelere ve I numaralı mıntakalarda Hükümetçe iskan edilen yerlilere ve I ve III numaralı mıntakalardan II numaralı mıntakalara Hükümetçe naklolunanlara şamildir. II numaralı mıntakalarda bir yerden başka yere Hükümetçe naklolunan yerliler, bu muafiyetlerden istifade edemezler.

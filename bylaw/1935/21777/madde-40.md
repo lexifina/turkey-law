@@ -1,0 +1,1 @@
+Madde 40 – İçerde Hükümetçe yapılan nakillerde askerlik muafiyeti yalnız I numaralı mıntakalardan II numaralı mıntakalara veya II numaralı mıntakalardan I numaralı mıntakalara ve keza III numaralı mıntakalardan I ve II numaralı mıntakalara nakledilenlere munhasır olup bir iskan mıntakası içinde bir yerden diğer yere naklolunanlar bu muafiyetten istifade edemezler.

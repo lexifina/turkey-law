@@ -1,0 +1,1 @@
+Madde 29 – Muafiyetleri miktara tabi olan eşyanın ve hayvanların muhalli rayice göre toptan kıymetleri, (Gümrük muafiyet kağıdı) nda onu tanzim eden makam tarafından gösterilecek ve gümrüksüz geçecek miktarlarla gümrük resmi verilerek geçecek miktarlar ayrı, ayrı işaret edilecektir.

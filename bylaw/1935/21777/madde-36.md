@@ -1,0 +1,1 @@
+Madde 36 – Muhacirlere ait zat ve ev eşyalarının müfredat listesini gümrüğe vermek ihtiyaridir. Ancak bunlardan hiç kullanılmamış müceddetlerinin listelere veya muafiyet vesikalarına yazılması icap eder.
