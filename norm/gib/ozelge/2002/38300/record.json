@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-38/13960",
+  "source_id": 38300,
+  "date": "2002-03-29",
+  "title": "Şirketlerin banka hesaplarından düşülen ve müşterinin kullanımına sunulan bedellerin \"631 Pazarlama, Satış ve Dağıtım Giderleri\" hesabında izlenmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38300",
+  "source_sha256": "bfb2c396a6a2f1f20d06f9be02d06c8517597a3ed09deee6fc56497b13dc4a76",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
