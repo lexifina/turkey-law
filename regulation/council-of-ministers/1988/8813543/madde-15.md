@@ -1,0 +1,2 @@
+Koruma ve Güvenlik Amirinin Görevleri
+Madde 15 – Koruma ve Güvenlik Amiri, sabotajlara ve saldırılara karşı koruma ve güvenliğin sağlanması için yapılan Koruma planının uygulanması ve bu amaçla koruma pesonelinin göreve hazır bulundurulması, sevk ve idare edilmesi, varsa nöbetçi ve devriyelerin çalışma usul ve esaslarının tesbit ve kontrolü, genel kolluk kuvvetleri ve seferberlik ve savaş hallerinde avcı teşkilleri ile ilişkilerinin düzenlenmesi ve eğitimlerinde sürekliliğin sağlanması ile görevlidir.
