@@ -1,0 +1,41 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 64841,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "«Avrupalılararası Tediye Birliği Anlaşması hükümlerinin Türkiye ile Belçika arasında tatbikini mümkün kılmak üzere imzalanan Protokolün onanması hakkındaki kanun tasarısına dair (1/168)",
+  "title": "«Avrupalılararası Tediye Birliği Anlaşması hükümlerinin Türkiye ile Belçika arasında tatbikini mümkün kılmak üzere imzalanan Protokolün onanması hakkındaki kanun tasarısına dair (1/168)",
+  "first_sitting_date": "1951-06-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 85,
+      "sitting_date": "1951-06-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008085.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008fih.pdf",
+      "pages": [
+        "30",
+        "226",
+        "273:274",
+        "278",
+        "281",
+        "285",
+        "296:299"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=301&v_kullanici_id=27484171",
+  "source_sha256": "37369ca8381a554954b16bd44995c79090f02c5d590f8002bcd91f11c5a21067",
+  "in_force": "1951-06-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
