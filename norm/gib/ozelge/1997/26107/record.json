@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2924-232-2095/18643",
+  "source_id": 26107,
+  "date": "1997-05-07",
+  "title": "Odaların, danışmanlık hizmetlerini gelir vergisi veya kurumlar vergisi mükelleflerine yaptırması halinde, bu danışmanlık hizmeti karşılığında alınan bedelin fatura, danışmanlık hizmetinin serbest meslek erbabına yaptırılması halinde serbest meslek makbuzu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26107",
+  "source_sha256": "5d302c4a15b35f8f6ff5a7f84a9f11bb329e543f8c6aea0df369e1e314a12517",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
