@@ -1,0 +1,75 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4768",
+  "year": 1945,
+  "title": "Elektrik İşletme müesseseleri hakkında kanun",
+  "adopted": "1945-06-25",
+  "adopted_as_published": "25/06/1945",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "03.07.1945 No: 6047",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704768.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 27",
+  "committee_reports": [
+    {
+      "label": "TBMM 145 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c018/tbmm07018078ss0145.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 7,
+      "kayit_no": 90395,
+      "title": "Elektrik İşletme müesseseleri hakkında kanun",
+      "adopted_as_published": "25/06/1945",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704768.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 145 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c018/tbmm07018078ss0145.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 18,
+          "sitting": 77,
+          "sitting_date": "1945-06-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c018/tbmm07018077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c018/tbmm07018fih.pdf",
+          "pages": [
+            "356"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 78,
+          "sitting_date": "1945-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c018/tbmm07018078.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c018/tbmm07018fih.pdf",
+          "pages": [
+            "389",
+            "391:392",
+            "397",
+            "419",
+            "423:426"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=562&v_gelecek_sayfa=201&v_kullanici_id=27483169",
+      "page_sha256": "fb13e3662c170a097c2904daa21d287d7f1af0201fe60ca032326c7262223458"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "fb13e3662c170a097c2904daa21d287d7f1af0201fe60ca032326c7262223458",
+  "issuer": "TBMM",
+  "in_force": "1945-06-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 25/06/1945; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
