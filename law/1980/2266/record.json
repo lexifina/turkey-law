@@ -1,0 +1,128 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2266",
+  "year": 1980,
+  "title": "1979 Yılı Bütçe Kanununa Bağlı (A) işaretli Cetvelin Jandarma Genel Komutanlığı Kısmında Değişiklik Yapılması Hakkında Kamın",
+  "adopted": "1980-02-27",
+  "adopted_as_published": "27/02/1980",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.02.1980 No: 16915",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc063/kanuntbmmc063/kanuntbmmc06302266.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 63",
+  "committee_reports": [
+    {
+      "label": "CS 998 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046040ss0998.pdf"
+    },
+    {
+      "label": "MM 435no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015054ss0435.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 445367,
+      "title": "1979 Yılı Bütçe Kanununa Bağlı (A) işaretli Cetvelin Jandarma Genel Komutanlığı Kısmında Değişiklik Yapılması Hakkında Kamın",
+      "adopted_as_published": "27/02/1980",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc063/kanuntbmmc063/kanuntbmmc06302266.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 998 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046040ss0998.pdf"
+        },
+        {
+          "label": "MM 435no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015054ss0435.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 48,
+          "sitting_date": "1980-02-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014fih.pdf",
+          "pages": [
+            "356"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 54,
+          "sitting_date": "1980-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015fih.pdf",
+          "pages": [
+            "213"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 55,
+          "sitting_date": "1980-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015fih.pdf",
+          "pages": [
+            "385",
+            "444",
+            "471:474"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=101&v_kullanici_id=27483225",
+      "page_sha256": "4a6dd473ee82376e4b9ef55568d9ed70f059194dfce0b327d385c91415064a57"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 334286,
+      "title": "1979 Yılı Bütçe Kanununa Bağlı (A) işaretli Cetvelin Jandarma Genel Komutanlığı Kısmında Değişiklik Yapılması Hakkında Kanun.",
+      "adopted_as_published": "27/02/1980",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc063/kanuntbmmc063/kanuntbmmc06302266.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 998 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046040ss0998.pdf"
+        },
+        {
+          "label": "MM 435no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015054ss0435.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 46,
+          "sitting": 40,
+          "sitting_date": "1980-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046040.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046fih.pdf",
+          "pages": [
+            "584",
+            "591:592",
+            "595:596"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2201&v_kullanici_id=27483235",
+      "page_sha256": "0799c7d26ace75dbc81a41d8398841fbf4d8af100f546707cbe58b5a0be8c0b4"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4a6dd473ee82376e4b9ef55568d9ed70f059194dfce0b327d385c91415064a57",
+  "issuer": "Millet Meclisi",
+  "in_force": "1980-02-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 27/02/1980; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
