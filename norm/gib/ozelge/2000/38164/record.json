@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6384-17/15261",
+  "source_id": 38164,
+  "date": "2000-04-05",
+  "title": "Eğitime Katkı Payı tahsil edilen silah ruhsatnamelerinden ayrıca özel işlem vergisi tahsil edilmelidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38164",
+  "source_sha256": "60542b37f198810801c3351db193461fe0056cd04746d006629b4f2320e31e22",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
