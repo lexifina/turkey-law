@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6228-1310/34821",
+  "source_id": 37546,
+  "date": "1999-08-18",
+  "title": "İhracat işlemleri ve bu işlemlere ilgili düzenlenen kağıtlara uygulanacak harçlar ve Damga Vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/37546",
+  "source_sha256": "9036a7cf5c574beb9290abc7b0ec8a81bfab70b0591467715bf0fe40c708069e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
