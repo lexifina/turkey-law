@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-09-15",
+  "issue": "25230",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "T.C. Tarım ve Köyişleri Bakanlığı Köy Hizmetleri Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030915-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (3 = 3)",
+  "ilan_codes": [
+    "33708/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030915-4.htm",
+  "category_page_sha256": "55d4b80a62c680e7d3dfdad5369527191d65a24fd4ab76bce64f41fcd65776a2",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030915.htm",
+  "index_sha256": "480d6063828d592f875ca86945be69e9348147a3e947f4fdfa4d389b3954ee72",
+  "index_header": "15 Eylül 2003 ... Sayı : 25230",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
