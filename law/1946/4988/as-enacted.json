@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4988",
+  "year": 1946,
+  "title": "Devlet Memurları Aylıklarının Tevhit ve Teadülüne dair olan 3656 sayılı Kanunla buna ek 4644 sayılı kanunda değişiklik yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-12-31",
+  "gazette_issue": "6494",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6494.pdf",
+  "source_sha256": "89611838d42f0353fffb9f31d42d9825370200170a7e7faee3ac94498db498e5",
+  "text_sha256": "4a2a8b037cd99f560aa342d00df20551ed60e21f8cc00ddd17562b3bf7c45182",
+  "text_status": "ocr",
+  "pages": [
+    13
+  ],
+  "line_span": [
+    [
+      3876,
+      3944
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [13] (no text layer)",
+    "tesseract_pages": [
+      13
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02904988.pdf",
+    "source_sha256": "ed7fb1ea89ea7725f0b607a1b7d13d92f137475feaa3ed6ae3f2428112f9e562",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9352,
+    "bag": 0.8255,
+    "kd_coverage": 0.998,
+    "kd_body_compared": 0.9939,
+    "rg_words": 484,
+    "kd_words": 493,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
