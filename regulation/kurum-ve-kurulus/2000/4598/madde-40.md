@@ -1,0 +1,2 @@
+Nöbet Hizmetleri
+Madde 40 - Dinlenme ve Bakımevlerinde milli ve dini bayramlarla diğer tatil günlerinde ve geceleri hizmetin sürekliliğini sağlamak amacıyla gerekli görülen personel nöbet tutar. Müdürlük, Dinlenme ve Bakımevlerindeki personel ve özel koşulları göz önüne alarak gerekli düzenlemeleri yapar ve uygun gördüğü görevlileri nöbete bırakır. Ancak, hangi unvan veya pozisyonlardaki elemanların nöbet sistemine tabi oldukları Genel Müdürlük onayı ile belirlenir ve 657 sayılı Kanunun ilgili maddeleri uyarınca 24 saat çalıştırılacak personel için izin alınır.

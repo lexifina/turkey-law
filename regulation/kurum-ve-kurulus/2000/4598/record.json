@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.4598",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "T.C. EMEKLİ SANDIĞI GENEL MÜDÜRLÜĞÜ DİNLENME VE BAKIMEVLERİ (HUZUREVLERİ) İŞLETME YÖNETMELİĞİ",
+  "number": "4598",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2000/4598",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4598&MevzuatTertip=5",
+  "source_sha256": "8c5d6bd3a5ef5afa739e3e9237cae6ae31a8f9925d14fbd3c657bb20b79790db",
+  "source_bytes": 104061,
+  "published": "2000-10-10",
+  "gazette": "24196",
+  "in_force": "2002-06-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/06/2002\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2002-06-29",
+      "RG-29/06/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4773,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

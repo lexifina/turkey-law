@@ -1,0 +1,3 @@
+Disiplin Kurulu
+Madde 12 - (Değişik birinci fıkra:RG-29/06/2002-24800) Dinlenme ve Bakımevlerinde; sakinlerle ilgili disiplin işlerini yürütmek üzere oluşturulan Disiplin Kurulu; Dinlenme ve Bakımevi Müdürünün başkanlığında sosyal servis yöneticisi ve sağlık hizmetleri yöneticisi tarafından seçilecek bir doktor ile sakinler arasından seçimle gelen üç emekli temsilcisi üyeden oluşur. Disiplin Kurulu oy çokluğuyla karar verir, oyların eşit olması halinde başkanın bulunduğu tarafın kararı geçerlidir.
+Kurulda görevlendirilecek sakin temsilcileri 11 inci madde de belirtilen esasa göre yapılacak seçimle belirlenir.
