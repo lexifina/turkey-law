@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5265-33/54000",
+  "source_id": 33541,
+  "date": "1999-12-08",
+  "title": "İstisna kapsamına konut yapı kooperatiflerine taahhüt çerçevesinde yapılan teras izolasyon işleri de girmektedir",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33541",
+  "source_sha256": "2d4dd072a829a66a4a7b78cf62e55611bca5b6a77d0acd871d3ea6875c7d28e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
