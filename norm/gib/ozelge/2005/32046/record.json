@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5423-68-11845",
+  "source_id": 32046,
+  "date": "2005-03-01",
+  "title": "Belediye şirketleri tarafından özel matrah şekli kapsamında perakendecilere teslim edilen akıllı kart ve biletlerin kullanıcılara teslim bedeli üzerinden iç yüzde oranı uygulanmak suretiyle hesaplanan KDV Belediye şirketleri tarafından beyan edilecektir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32046",
+  "source_sha256": "157d7ba22f027dbcf38779d33f5154c3328949e45ac6504e05709aa927e840bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
