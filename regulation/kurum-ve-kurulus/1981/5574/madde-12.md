@@ -1,0 +1,1 @@
+Madde 12- TMMOB üyeleri, mesleki faaliyetleri karşılığı alacakları ücretleri, Odalarca hazırlanacak tip sözleşmelerde belirtmek ve belgelemekle yükümlüdürler. Bu hizmetler karşılığı alınacak ücret, Odalarca belirtilen asgari ücretten aşağı olamaz.

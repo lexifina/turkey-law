@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.5574",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TMMOB ASGARİ ÜCRET VE ÇİZİM STANDARTLARI TESBİT KOMİSYONU VE KONTROL BÜROLARININ KURULMASINA İLİŞKİN YÖNETMELİĞİ",
+  "number": "5574",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1981/5574",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5574&MevzuatTertip=5",
+  "source_sha256": "87eae548c2e82805a0c6a1ffbe613ba73cbbc3784535d44999a5c57fe7a30d0a",
+  "source_bytes": 12981,
+  "published": "1981-07-24",
+  "gazette": "17410",
+  "in_force": "1981-07-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.07.1981); own commencement article: \"Bu yönetmelik TMMOB Genel Kurulunca kabul edildikten ve yayınlandıktan sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu yönetmelik TMMOB Genel Kurulunca kabul edildikten ve yayınlandıktan sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 511,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,1 @@
+Madde 10- Mimarlık ve mühendislik ücretlerinin bu yönetmelikte belirtilen koşullara uygunluğu görüldükten sonra ilgili Oda Kontrol Vizesi yapılır. Vize işlemi resim proje ve hesapların onayı anlamını taşımaz. Bu hizmetlere karşılık Asgari Ücret ve Çizim Standartları Komisyonlarınca tesbit edilen vize harcı alınır.

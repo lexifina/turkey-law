@@ -1,0 +1,1 @@
+Madde 5- Asgari Ücret ve Çizim Standartları Tesbit Komisyonu yılda en az bir kere, TMMOB Başkanlığının çağrısı üzerine ve en az 5 kişi ile toplanır. Komisyon kendi aralarından bir başkan ve bir sekreter tayin eder.

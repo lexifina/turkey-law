@@ -1,0 +1,1 @@
+Madde 9- Kontrol bürolarının görevi, mimarlık ve mühendislik hizmetlerinin asgari çizim standartlarına uygunluğunu denetlemek, bu hizmetleri veren üyelerin sorunlarıyla ilgilenmek, üyelik ve asgari ücret kontrolu yapmaktır.
