@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDV-26 /2005-5",
+  "source_id": 958,
+  "date": "2005-02-17",
+  "title": "Ocak 2005 dönemine ait katma değer vergisi beyannamesinin 25 Şubat 2005 mesai bitimine kadar ilgili vergi dairesine verilmesi mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/958",
+  "source_sha256": "e3f33cb254ed62c4cf97a85ed34fa4e1e299b85aed25b0ab060ad9698b3ed6cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
