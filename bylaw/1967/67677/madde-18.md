@@ -1,0 +1,9 @@
+Madde 18 – İhracatçı veya temsilcisinin denetleme sonucuna yapacakları itirazları incelemek ve düşüncesini bildirmek üzere, ilgili bakanlığın gerekli gördüğü yerlerde, üç kişilik "Bilirkişi Kurulu" teşkil edilir. Bu Kurulun Başkanı ilgili bakanlıkça, üyelerinden biri mahalli ticaret odasınca, ticaret odası bulunmayan yerlerde ticaret ve sanayi odasınca, diğeri mahalli ticaret borsasınca seçilir.
+Kurulda görev alacakların, denetlemeye tabi maddenin ihracatçılarından olması, bulunmadığı takdirde, o maddeden anlayan kişilerden bulunması şarttır.
+Ticaret borsası bulunmayan yerlerde, borsa temsilcisi yerine ilgili Bakanlığın seçtiği kişi kurula katılır.
+İhraç olunacak madde sanayi mamullerinden ise; ticaret odası temsilcisi yerine, sanayi odası bulunan yerlerde bu oda tarafından bulunmayan yerlerde ticaret ve sanayi odasınca, o maddenin sanayicileri arasından bir üye seçilmesi gereklidir. Ticaret borsası temsilcisi yerine de Sanayi Bakanlığınca seçilecek bir temsilci Kurula katılır.
+Başkan ve üyelerin aynı, suretle, birer yedeği seçilir.
+Başkan veya üyelerden biri, denetleme sonucuna itiraz eden ihracatçının usul ve füruundan veya karı veya kocasından veya dördüncü dereceye kadar civar veya sıhri hısımlarından olduğu veya ortağı veya beraber iş gördüğü kişi veya memur ve hizmetlisi bulunduğu takdirde, Kurula yedeği katılır.
+Bilirkişi Kurulu, denetleyenin çağrısı üzerine derhal toplanır ve anlaşmazlık konusunu standardı hükümlerine göre inceleyerek, yirmi dört saat içinde, gerekçeli raporunu denetleme teşkilatına verir.
+Kurul raporu, denetleyenin 14 üncü maddenin (B) ve (C) bendlerine göre belirttiği sonuca uygun bulunursa, mal red olunur; arada fark bulunduğu takdirde, denetleyen son kararını verir ve ona göre işlem yapar.
+Denetleyenin kurul raporuna uymaması için, raporun standardı hükümlerine aykırı olması veya gerçeğe uymaması gerekir.

@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "12534",
+  "date_quote": "22.02.1967",
+  "first_law": null,
+  "gazette": "12534",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1967-02-22",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1967-02-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=67677&MevzuatTertip=5",
+  "source_bytes": 51272,
+  "source_id": "2.5.67677",
+  "source_sha256": "fab6d0f9dde94088a2ec8933e43019e3737cee10e365b4ec3b62226b7955e1e4",
+  "source_type": "Tüzükler",
+  "title": "TÜRK STANDARTLARININ UYGULANMASI HAKKINDA TÜZÜK",
+  "word_count": 2207
+}

@@ -1,0 +1,2 @@
+Madde 5 – Mecburi kılınan Türk Standardlarının yürürlüğe girdikleri tarihlerde, ellerinde bu standardlara aykırı mal ve ambalaj malzemesi bulunan gerçek veya tüzel kişilerin, bunların nev'i ve miktarlarını, ilgili bakanlıklarca belirtilecek süre içinde ve gösterilen makam ve kurumlara bildirmeleri mecburiyeti, ilgili Bakanlar Kurulu kararlarına konulabilir.
+Bu malların, ne kadar süre içinde ve ne suretle tasfiye edilecekleri, ilgili bakanlıklarca, bildirme süresinin bitiminden itibaren en geç iki ay içinde, tesbit ve ilan olunur.

@@ -1,0 +1,1 @@
+Madde 27 – Mevzuatın izin verdiği miktarda olmak üzere, memleket içine girecek taşıtların kumanyaları ile yolcu beraberinde dış memleketlerden getirilecek mallar ve dış memleketlerden gönderilecek numune ve armağanlar, bu Tüzük hükümlerine tabi değildir.

@@ -1,0 +1,1 @@
+Madde 21 – Standardına uygunluğunu gösteren denetleme belgesi olmayan ambalajları üzerinde gereken denetleme işareti ve diğer resmi işaretleri bulunmayan veya denetleme belgesinin süresi geçmiş bulunan malların ihracı yasaktır.

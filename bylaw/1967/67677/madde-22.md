@@ -1,0 +1,1 @@
+Madde 22 – Mevzuatın izin verdiği miktarda olmak üzere; memleket dışına çıkacak taşıtların kumanyaları ile yolcu beraberinde dış memleketlere götürülecek mallar ve gönderilecek numune veya armağanlar bu Tüzük hükümlerine tabi değildir.

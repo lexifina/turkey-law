@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+İç piyasada denetleme
+Madde 10 – İç piyasada denetleme, aşağıda gösterildiği şekilde yapılır:
+A - Duysal inceleme veya tartma veya ölçme ile yapılan muayeneler sonunda; malın standardına aykırılığı anlaşıldığı takdirde, durum, bir tutanakla tesbit olunur ve maldan II nci maddeye göre numune alınır. Bu numunenin bir takımı ile tutanaklarının birer nüshası denetlemeyi yapan veya bağlı bulunduğu daire tarafından, ilgilileri hakkında adli kovuşturma yapılmak üzere kırk sekiz saat içinde o yerin Cumhuriyet Savcılığına bir yazı ile verilir.
+B - Denetleme sırasında malın laboratuvarda muayene ve deneyleri gerekli görüldüğü takdirde, alınan numunenin bir takımı ile tutanağının bir nüshası, denetlemeyi yapan veya bağlı bulunduğu daire tarafından, muayene ve deneyleri için, ilgili bakanlıkça gösterilen laboratuvara gönderilir.
+Laboratuvar, muayene ve deneyleri en kısa zamanda yaparak sonucunu bir raporla tesbit eder ve bu rapordan iki nüshasını ilgili daireye gönderir.
+Laboratuvar raporu ile malın standardına aykırılığı anlaşıldığı takdirde, durum, bir tutanakla tesbit olunur ve bu tutanağın bir nüshasiyle laboratuvar raporunun bir nüshası, mühürlü numunenin bir takımı ve tutanağının bir nüshası denetlemeyi yapan veya bağlı bulunduğu daire tarafından, ilgilileri hakkında adli kovuşturma yapılmak üzere, kırk sekiz saat içinde o yerin Cumhuriyet savcılığına bir yazı ile verilir.
+C - Denetleme sonunda malın standardına aykırılığı görülmediği takdirde, durum, mal sahibine veya temsilcisine duyurulur. Mal sahibi veya temsilcisi duyurma tarihinden itibaren onbeş gün içinde, numuneleri geri alabilir veya aldırabilir.

@@ -1,0 +1,2 @@
+Madde 25 – 23 üncü madde gereğince yapılan denetlemede, malın laboratuvarda muayene ve deneyleri gerekli görüldüğü takdirde, maldan alınan numune ile tutanağının bir nüshası, denetlemeyi yapan veya bağlı bulunduğu daire tarafından muayene ve deneyler için ilgili Bakanlıkça gösterilen laboratuvara gönderilir.
+Laboratuvar, muayene ve deneyleri en kısa zamanda yaparak sonucunu bir raporla tesbit eder ve bu rapordan iki nüshasını ilgili daireye gönderir.

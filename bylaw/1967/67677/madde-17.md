@@ -1,0 +1,1 @@
+Madde 17 – 14 üncü maddenin (D) bendinde sözü geçen itirazlı beyanname veya tutanak, maldan alınan numunenin bir takımı ve varsa laboratuvar raporuyla birlikte, en geç yirmi dört saat içinde, denetleyen tarafından Bilirkişi Kuruluna verilir.
