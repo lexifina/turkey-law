@@ -1,0 +1,4 @@
+Yemin Esasları
+Madde 6 - Yeminli Özel Teknik Büro Elemanları İmar mevzuatına ve 2981 sayılı Kanuna tamamen uygun olarak faaliyet göstereceğine dair aşağıda yazılı yemini noter huzurunda yaparak tanzim edilecek belgenin bir nüshasını Bayındırlık ve İskan Bakanlığı'na, bir nüshasını mensup olduğu meslek odasına verir ve bir nüshasını da işyerine asar.
+YEMİN METNİ:
+Yürürlükteki İmar Mevzuatı ile 2981 sayılı İmar ve Gecekondu Mevzuatına Aykırı Yapılara Uygulanacak Bazı İşlemler ve 6785 sayılı İmar Kanunu'nun Bir Maddesinin Değiştirilmesi Hakkındaki Kanun hükümlerine sadakatle bağlı kalacağıma, bu konuda tarafıma verilen işleri, Devletin ve vatandaşın hakkını koruyarak tüm teknik kurallara uygun olarak çalışacağıma, sorumluluklarımı bilerek, şahsi menfaatimin üstünde tutarak tarafsız ve eşitlik ilkelerine bağlı kalarak görevimi yapacağıma NAMUSUM ve ŞEREFİM üzerine yemin ederim.

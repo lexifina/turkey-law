@@ -1,0 +1,5 @@
+Ek Madde 3 - (Değişik: RG-23/07/1987 - 19526)
+Yeminli Özel Teknik Bürolar 08/12/1986 tarihine kadar kendilerine yapılmış olan bir sıra numarası takip etmek üzere noterden tasdikli bir deftere işledikleri, ancak 08/03/1987 tarihine kadar tesbit ve değerlendirme işlemini tamamlayamadıkları müracaatlarla ilgili tesbit ve değerlendirme dosyalarını 7 Eylül 1987 tarihine kadar tamamlayarak dosyalarını ilgili idarelere zimmet karşılığı teslim ederler.
+Y.Ö.T.B.lar, 08/12/1986 tarihine kadar kendilerine yapılmış olan müracaatları bir sıra numarası takip etmek üzere bu Yönetmeliğin Resmi Gazete'de yayımı tarihinden itibaren 15 gün içerisinde bir liste halinde düzenleyerek, bir örneğini bir yazı eşliğinde ve zimmet karşılığı ilgili valilik ve belediyelere teslim ederler.
+Valilik ve belediyeler, Y.Ö.T.B. ların, işlerini 7 Eylül 1987 tarihine kadar tamamlamaları ve ilgili idarelere teslim etmeleri için gerekli önlemleri almakta yükümlüdürler.
+7 Eylül 1987 tarihinde ellerindeki işleri ilgili idarelere teslim etmeyen Y.Ö.T.B.lar hakkında Türk Ceza Kanunu ve diğer Kanunlardaki ceza hükümlerine göre ilgili idarelerce savcılığa suç duyurusunda bulunulur.

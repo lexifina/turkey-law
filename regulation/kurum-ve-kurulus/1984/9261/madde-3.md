@@ -1,0 +1,2 @@
+Kuruluş
+Madde 3 - Yeminli Özel Teknik Bürolar, Türkiye Mühendis ve Mimar Odalarına bağlı, Meslek Odalarına kayıtlı Yüksek Mimar, Mimar, İnşaat Yüksek Mühendisi, Mühendis, Harita-Kadastro Yüksek Mühendisi, Mühendisi, Şehir Plancıları ile İmar Kanunu'nun 14 üncü maddesine dayalı yönetmeliğin, 3 ve 6 ncı maddelerinde belirtilen fen elemanları ve bu elemanlar tarafından kurulan tüzel kişiliği haiz bürolardır.

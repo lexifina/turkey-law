@@ -1,0 +1,2 @@
+Amaç ve Kapsam
+Madde 2 - İmar ve Gecekondu Mevzuatına aykırı olarak inşa edilmiş ve inşa halindeki Kanun kapsamına giren yapıların tesbit ve değerlendirme belgelerini düzenleyecek ve gerektiği takdirde imar planlarını hazırlayacak Yeminli Özel Teknik Büroların; tarifi, kuruluşu, Bayındırlık ve İskan Bakanlığı'nca yeterlik belgesi verilme esasları, yetki ve sorumlulukları ile ücret tarifesini belirlemektir.
