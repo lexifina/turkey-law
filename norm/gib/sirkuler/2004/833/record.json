@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-8/2004-6/Enflasyon Düzeltmesi Uygulaması-5",
+  "source_id": 833,
+  "date": "2004-08-02",
+  "title": "2004 yılının geçici vergi dönemlerinde enflasyon düzeltmesi yapacak olan mükelleflerin gerçekleştirecekleri işlemler",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/833",
+  "source_sha256": "36013cf6fab9eec98e3113205dca5f361fb51b36ab3758e95fc4920e7b039750",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
