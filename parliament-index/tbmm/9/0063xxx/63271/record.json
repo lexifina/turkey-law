@@ -1,0 +1,63 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 63271,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Kamu alacaklarının tahsil usulü hakkında(1/464)",
+  "title": "Kamu alacaklarının tahsil usulü hakkında(1/464)",
+  "first_sitting_date": "1952-11-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 17,
+      "sitting": 6,
+      "sitting_date": "1952-11-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c017/tbmm09017006.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c017/tbmm09017fih.pdf",
+      "pages": [
+        "201"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 18,
+      "sitting_date": "1952-12-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c018/tbmm09018018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c018/tbmm09018fih.pdf",
+      "pages": [
+        "281"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 111,
+      "sitting_date": "1953-07-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024111.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024fih.pdf",
+      "pages": [
+        "780",
+        "866::901",
+        "922:934",
+        "937",
+        "941",
+        "944",
+        "976:979"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=966&v_gelecek_sayfa=401&v_kullanici_id=27484167",
+  "source_sha256": "d5180937c9e340e8d9c044dff0673be858e00fc46d7d30834c24ad9d3e21986d",
+  "in_force": "1952-11-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
