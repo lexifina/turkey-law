@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-01",
+  "issue": "25714",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararı",
+  "title": "2005/8410 4760 Sayılı Özel Tüketim Vergisi Kanununa Ekli (III) Sayılı Listede Yer Alan Mallarda Uygulanan Özel Tüketim Vergisi ile İlgili Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050201-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050201.htm",
+  "index_sha256": "95d54ef1364cf5f0e0ea592d60628a61d175aed909dd8de791f52c64201fcec8",
+  "index_header": "1 Şubat 2005 ... Sayı : 25714",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
