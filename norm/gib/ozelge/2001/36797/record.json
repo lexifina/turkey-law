@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-269/4683",
+  "source_id": 36797,
+  "date": "2001-01-24",
+  "title": "Kur farkından lehe kalan paralar BSMV'nden istisna edilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36797",
+  "source_sha256": "335a4ff8be3c9af91479c7ecc5062478f86e1ae1655c1f6d1383aa032bbdd712",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
