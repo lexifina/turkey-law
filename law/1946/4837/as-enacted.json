@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4837",
+  "year": 1946,
+  "title": "İş ve İşçi Bulma Kurumu Kuruluş ve görevleri hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-01-25",
+  "gazette_issue": "6215",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6215.pdf",
+  "source_sha256": "e2b35ea18c5d4fd58a82226454cb68b8a1912ee52da1eccb2fcaa72be8395bfa",
+  "text_sha256": "d8d8b575dde227727f5039e90ae32101d9b0baed405e0c047dea17146502a2c5",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      13,
+      133
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804837.pdf",
+    "source_sha256": "be31d083fd0f792479b747eeecfc2debd82e9c0a92a0912678846aaa35404962",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9554,
+    "bag": 0.9139,
+    "kd_coverage": 0.9911,
+    "kd_body_compared": 0.9911,
+    "rg_words": 778,
+    "kd_words": 785,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
