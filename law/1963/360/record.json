@@ -1,0 +1,147 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "360",
+  "year": 1963,
+  "title": "Türkiye Büyük Millet Meclisi memurları Teşkilatı hakkındaki 5931, 6120, 6194, 6215, 5341 ve 6885 sayılı kanunlarla 5509 sayılı kanunun bazı maddelerinin değiştirilmesine ve bu kanuna bazı maddeler eklenmesine dair 5.1.1961 günlü 231 sayılı kanuna ek kanun",
+  "adopted": "1963-12-27",
+  "adopted_as_published": "27/12/1963",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "31.12.1963 No: 11595",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700360.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 47",
+  "committee_reports": [
+    {
+      "label": "CS 365 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c017/cs__03017020ss0365.pdf"
+    },
+    {
+      "label": "MM 529no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023016ss0529.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 347426,
+      "title": "Türkiye Büyük Millet Meclisi memurları Teşkilatı hakkındaki 5931, 6120, 6194, 6215, 5341 ve 6885 sayılı kanunlarla 5509 sayılı kanunun bazı maddelerinin değiştirilmesine ve bu kanuna bazı maddeler eklenmesine dair 5.1.1961 günlü 231 sayılı kanuna ek kanun",
+      "adopted_as_published": "27/12/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700360.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 365 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c017/cs__03017020ss0365.pdf"
+        },
+        {
+          "label": "MM 529no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023016ss0529.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 21,
+          "sitting": 142,
+          "sitting_date": "1963-09-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021142.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021fih.pdf",
+          "pages": [
+            "512"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 15,
+          "sitting_date": "1963-12-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023015.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023fih.pdf",
+          "pages": [
+            "403"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 16,
+          "sitting_date": "1963-12-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023016.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023fih.pdf",
+          "pages": [
+            "443:444"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1901&v_kullanici_id=27483225",
+      "page_sha256": "1ff88ba6c18c5fce579792a711d144220daa306b6608e6584791338bfe529590"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 162459,
+      "title": "Türkiye Büyük Millet Meclisi memurları teşkilâtı hakkındaki 5931, 6120, 6194, 6215, 6341 ve 6834 sayılı kanunlarla 5509 sayılı Kanunun bâzı maddelerinin değiştirilmesine ve bu kanuna bâzı maddeler eklenmesine dair 5.1.1961 günlü 231 sayılı Kanuna ek Kanun",
+      "adopted_as_published": "27/12/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700360.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 365 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c017/cs__03017020ss0365.pdf"
+        },
+        {
+          "label": "MM 529no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023016ss0529.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 16,
+          "sitting": 19,
+          "sitting_date": "1963-12-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c016/cs__02016019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c016/cs__02016fih.pdf",
+          "pages": [
+            "463"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 20,
+          "sitting_date": "1963-12-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c017/cs__02017020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c017/cs__02017fih.pdf",
+          "pages": [
+            "26:28",
+            "52:53"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 21,
+          "sitting_date": "1963-12-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c017/cs__02017021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c017/cs__02017fih.pdf",
+          "pages": [
+            "73:75"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=301&v_kullanici_id=27483235",
+      "page_sha256": "b6d86621a6791bf4c812f0781c371318581fd46c9513d2ca63de607571ea6267"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1ff88ba6c18c5fce579792a711d144220daa306b6608e6584791338bfe529590",
+  "issuer": "Millet Meclisi",
+  "in_force": "1963-12-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 27/12/1963; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
