@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 448494,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İzmir Milletvekili Kemal Önder ve 9 arkadaşının, Ege Üniversitesinin Kuruluş Kadroları hakkındaki 6953 sayılı Kanuna ek kanun teklifi hakkında (2/239)",
+  "title": "İzmir Milletvekili Kemal Önder ve 9 arkadaşının, Ege Üniversitesinin Kuruluş Kadroları hakkındaki 6953 sayılı Kanuna ek kanun teklifi hakkında (2/239)",
+  "first_sitting_date": "1974-11-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 1,
+      "sitting_date": "1974-11-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007001.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007fih.pdf",
+      "pages": [
+        "8"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 52,
+      "sitting_date": "1975-03-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011052.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011fih.pdf",
+      "pages": [
+        "59",
+        "60:61"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=1001&v_kullanici_id=27484836",
+  "source_sha256": "cc5d423796eaa591e1ee0f88bbc7101720bae45d598854f5e49466b9e1f4c004",
+  "in_force": "1974-11-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
