@@ -1,0 +1,39 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2005/1",
+  "source_id": 642,
+  "date": "2005-03-01",
+  "title": "EMLAK VERGİSİ KANUNU İÇ GENELGESİ SERİ NO : 2005/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/icgenelge/642",
+  "source_sha256": "2d8a3b653951a0e52ab3b0b38b45b1813a537329e452e659f329dbab368e14b5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/447/icgenelge/641",
+        "quote": "01/03/2005 tarih ve B.07.0.GEL.0.66/6650-150/9793 sayılı 2005/1 seri No.lu Emlak Vergisi Kanunu İç Genelgesinde açıklandığı şekilde, 213 sayılı Vergi Usul Kanununun 72 nci maddesine göre yeniden oluşturulacak arsa ve arazilere ait takdir ko"
+      }
+    ]
+  },
+  "unincorporated_annexes": [
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/emlakvericgen2005_1ek1.html",
+      "title": "ARSALARA AİT ASGARİ ÖLÇÜDE M2 BİRİM DEĞER CETVELİ",
+      "status": "official-link-only; annex text not included"
+    },
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/emlakvericgen2005_1ek2.html",
+      "title": "EK. 1 CETVELİN DÜZENLENMESİ İLİŞKİN ÖRNEK",
+      "status": "official-link-only; annex text not included"
+    }
+  ]
+}
