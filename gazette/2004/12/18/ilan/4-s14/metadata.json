@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-12-18",
+  "issue": "25674",
+  "edition": "regular",
+  "item": 14,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Türk Standardları Enstitüsünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/12/20041218-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (14 = 14)",
+  "ilan_codes": [
+    "15704/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/12/20041218-4.htm",
+  "category_page_sha256": "22c6aecdcac36837d8f4b7d25812217589146e30685c26016be3bb7bb923eef1",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/12/20041218.htm",
+  "index_sha256": "caa792918b59b2f80e16b49af5410221e7e234682d14ab2cbc881f626736c47b",
+  "index_header": "18 Aralık 2004 ... Sayı : 25674",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
