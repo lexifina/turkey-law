@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3204-834/63779",
+  "source_id": 38306,
+  "date": "2001-11-28",
+  "title": "İndirimli orana tabi işlemler nedeniyle yüklenilen ancak, ait oldukları dönemlerde iadesi talep edilmeyen vergilerin, düzeltme talebiyle yenilenen beyannamelere dayanarak geri verilmesi mümkün değildir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38306",
+  "source_sha256": "51a1b216294160e2d4b4f48cbf746d4ba918e7784c42e509e9bc3f0fa33a0048",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
