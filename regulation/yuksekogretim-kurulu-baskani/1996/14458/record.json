@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.14458",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖĞRETİM ÜYESİ VE ARAŞTIRICI YETİŞTİRME KURULU YÖNETMELİĞİ",
+  "number": "14458",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/1996/14458",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14458&MevzuatTertip=5",
+  "source_sha256": "5d8bdbe9eb07e221aed80ae24d7706a0a077d1417d73530e7a280357d9d34d22",
+  "source_bytes": 13261,
+  "published": "1996-02-03",
+  "gazette": "22543",
+  "in_force": "1996-02-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.02.1996); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 489,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
