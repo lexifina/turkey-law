@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-160/43632",
+  "source_id": 36810,
+  "date": "1998-11-27",
+  "title": "Evalüasyon sonucu banka lehine kalan karın B.S.M.V.'ne tabi olup olmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36810",
+  "source_sha256": "47832aebeff1fe34de96e01b1007dd776eb9006cc37cb9babb02a87056d9e500",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
