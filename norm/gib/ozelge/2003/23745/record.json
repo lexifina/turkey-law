@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4204-255/28466",
+  "source_id": 23745,
+  "date": "2003-07-03",
+  "title": "Serbest meslek faaliyetinde bulunmak üzere kiralanan işyeri için öngörülen kira tutarının süresinde ödenmemesi nedeniyle, gayrimenkul kiralama özel şartnamesine dayalı olarak gecikme zammı oranında ödenen faizin, serbest meslek kazancının tespitinde gider",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23745",
+  "source_sha256": "76bba5c0d20bf153f90570cef5cb90883cc71aecc065dadf35f5721f4ebacab3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
