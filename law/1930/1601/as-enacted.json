@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1601",
+  "year": 1930,
+  "title": "Şehir ve kasabalardaki telefonlara dair olan kanunun 5. maddesinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-05-07",
+  "gazette_issue": "1490",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1490.pdf",
+  "source_sha256": "2342d2a2bd4302d6140817a995d7ac2af915396b61098161e1ce59eafdd01e16",
+  "text_sha256": "482c99abeba3ff2050e9cabd352b875761f6bee9b32ef9ad8d7cdb7ee6a37a17",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      34,
+      49
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801601.pdf",
+    "source_sha256": "973a21bff34a7a5c3a5c05c4ae7ad48fd469d6042eab1b878449f93c3d6f639b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9571,
+    "bag": 0.8636,
+    "kd_coverage": 0.9697,
+    "kd_body_compared": 0.9275,
+    "rg_words": 68,
+    "kd_words": 69,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
