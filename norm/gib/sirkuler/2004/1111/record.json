@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-7/2004-5/Finansman Gider Kısıtlaması -2",
+  "source_id": 1111,
+  "date": "2004-04-21",
+  "title": "Gelir ve kurumlar vergisi mükelleflerinin 2004 yılı ilk geçici vergi döneminde dikkate alacakları finansman gider kısıtlaması oranının tespitine yönelik açıklamalar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1111",
+  "source_sha256": "d6b79317367de348308ca6ca91e7e24a1fac1fc8c6e509befbeff7a5446d04b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
