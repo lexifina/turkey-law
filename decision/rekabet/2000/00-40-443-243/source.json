@@ -1,0 +1,13 @@
+{
+  "number": "00-40/443-243",
+  "type": "Rekabet İhlali",
+  "decision_date": "2000-10-20",
+  "publication_date": "2001-06-27",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=adb8c04f-33cd-4187-aa5a-b58768ca7da5",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1035",
+  "pdf_sha256": "d04d7fc8545af96e11864684f46674bf09dfe0167a19a67363f5078a76295d0f",
+  "pdf_bytes": "518916",
+  "pages": "28",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
