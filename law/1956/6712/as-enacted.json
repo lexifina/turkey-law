@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6712",
+  "year": 1956,
+  "title": "Hudut ve Sahiller Sağlık Umum Müdürlüğünün 1952 bütçe yılı Hesabı Katî Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-04-11",
+  "gazette_issue": "9282",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9282.pdf",
+  "source_sha256": "ba190f84264ce1594aa85933762dc7dd487c262ecd5061e0101b018b413b8b1d",
+  "text_sha256": "a2d1d3608d83aa6affbba9a0078e2d194575497e8f32009cdd4c686940da9118",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      569,
+      606
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806712.pdf",
+    "source_sha256": "5453ae4c840928454d81623927209d6f0df51ef32aa9bbbfd531907a00bb5e4e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9941,
+    "bag": 0.9615,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.1852,
+    "rg_words": 130,
+    "kd_words": 702,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
