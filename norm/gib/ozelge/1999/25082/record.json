@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6650-150/5200",
+  "source_id": 25082,
+  "date": "1999-02-16",
+  "title": "Takdir komisyonlarının tespit ettiği asgari ölçüde arsa metrekare birim değerlerine karşı, kendilerine karar tebliğ edilen daire, kurum, teşekkül ve muhtarlıkların 15 gün içinde ilgili vergi mahkemesi nezdinde dava açma hakları mevcut bulunmaktadır. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/25082",
+  "source_sha256": "d9dad0200978ab5aeaf91758d8f6f157d660963d0c12f892cefa5643e89d8dc8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
