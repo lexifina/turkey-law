@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-11-07",
+  "issue": "24929",
+  "edition": "regular",
+  "item": 53,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Ağrı İl Özel İdare Müdürlüğünden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021107-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (66 = 66)",
+  "ilan_codes": [
+    "30778/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021107-3.htm",
+  "category_page_sha256": "18e167f88f89e7ae269a9d9102722eacbe03c6b4b6c02f02db4b4b8d9fc15f4d",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021107.htm",
+  "index_sha256": "98b2dd9ffa99dc9983055630cfd2032d03d4e0e525f80d18a74d1d6f7ce319c2",
+  "index_header": "7 Kasım 2002 ... Sayı : 24929",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
