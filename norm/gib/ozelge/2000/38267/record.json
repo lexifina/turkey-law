@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6522-97/17540",
+  "source_id": 38267,
+  "date": "2000-04-17",
+  "title": "Mükellefin işletmesine yeni bir ortak almasının kısmi hisse devri olduğundan, işletmedeki ödeme kaydedici cihazın mali hafızasının değiştirilip değiştirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38267",
+  "source_sha256": "370147160a38d03b8e168695a50d512297f4741d643c7f5b72b307930cdd0d5f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
