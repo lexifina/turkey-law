@@ -1,0 +1,95 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4719",
+  "year": 2001,
+  "title": "Devlet Güvenlik Mahkemelerinin Kuruluş ve Yargılama Usulleri Hakkında Kanun, 18.11.1992 Tarihli ve 3842 Sayılı Kanun ile Çıkar Amaçlı Suç Örgütleriyle Mücadele Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2001-11-14",
+  "adopted_as_published": "14/11/2001",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "geri gönderme No:",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc086/kanuntbmmc086/kanuntbmmc08604719.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 86",
+  "committee_reports": [
+    {
+      "label": "TBMM 769 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c075/tbmm21075019ss0769.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 298703,
+      "title": "Devlet Güvenlik Mahkemelerinin Kuruluş ve Yargılama Usulleri Hakkında Kanun, 18.11.1992 Tarihli ve 3842 Sayılı Kanun ile Çıkar Amaçlı Suç Örgütleriyle Mücadele Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "14/11/2001",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc086/kanuntbmmc086/kanuntbmmc08604719.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 769 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c075/tbmm21075019ss0769.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 74,
+          "sitting": 13,
+          "sitting_date": "2001-10-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c074/tbmm21074013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c074/tbmm21074fih.pdf",
+          "pages": [
+            "6"
+          ]
+        },
+        {
+          "cilt": 75,
+          "sitting": 19,
+          "sitting_date": "2001-11-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c075/tbmm21075019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c075/tbmm21075fih.pdf",
+          "pages": [
+            "288",
+            "326:359"
+          ]
+        },
+        {
+          "cilt": 75,
+          "sitting": 20,
+          "sitting_date": "2001-11-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c075/tbmm21075020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c075/tbmm21075fih.pdf",
+          "pages": [
+            "455:483"
+          ]
+        },
+        {
+          "cilt": 76,
+          "sitting": 24,
+          "sitting_date": "2001-11-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c076/tbmm21076024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c076/tbmm21076fih.pdf",
+          "pages": [
+            "78:109",
+            "111:115"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=301&v_kullanici_id=27483196",
+      "page_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8",
+  "issuer": "TBMM",
+  "in_force": "2001-11-14",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 14/11/2001; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
