@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 401795,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Türkiye Cumhuriyeti ile Azerbaycan Cumhuriyeti Arasında Tıp ve Sağlık Alanında İşbirliğine İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun Tasarısına ilişkin",
+  "title": "Türkiye Cumhuriyeti ile Azerbaycan Cumhuriyeti Arasında Tıp ve Sağlık Alanında İşbirliğine İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun Tasarısına ilişkin",
+  "first_sitting_date": "1997-06-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 28,
+      "sitting": 103,
+      "sitting_date": "1997-06-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c028/tbmm20028103.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c028/tbmm20028fih.pdf",
+      "pages": [
+        "362:364",
+        "406:411"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 105,
+      "sitting_date": "1997-06-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c029/tbmm20029105.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c029/tbmm20029fih.pdf",
+      "pages": [
+        "22:23",
+        "97:102"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=481&v_gelecek_sayfa=101&v_kullanici_id=27484473",
+  "source_sha256": "bf5c2a6b2b891156d83e1d6af32a79bd887fc9288e1ab91ca4a00c76cb685de7",
+  "in_force": "1997-06-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
