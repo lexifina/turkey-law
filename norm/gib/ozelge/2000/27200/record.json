@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.30/3025-353-597/42578",
+  "source_id": 27200,
+  "date": "2000-09-14",
+  "title": "Mükellefler tarafından kullanılan belgelerin basım ve dağıtımı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27200",
+  "source_sha256": "6ada33ef4b0659d5af7e6ea9c94650b7aa0f6e45cc3707220e46c884d52ddddf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
