@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55 / 5501-2877-51663",
+  "source_id": 29954,
+  "date": "2004-11-02",
+  "title": "Firmaların serbest bölge dışındaki merkezi tarafından serbest bölgede bulunan şubesine müşterek genel gider yansıtılması işlemi katma değer vergisine tabi bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29954",
+  "source_sha256": "212f3aa6681e759435c910363dae71838a45789eadf936377128585e8ef00f26",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
