@@ -48,3 +48,5 @@ Madde 16 – Bu Kanunun halkoylamasına sunulması halinde,
 12 nci maddesi,
 Ayrı ayrı oylanır.
 Halkoylaması, ilk milletvekili genel seçimi ile birarada yapılır.
+3– 13/8/1999 tarih ve 4446 sayılı Kanunun 4 üncü maddesi:
+Madde 4 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halk oylamasına sunulması halinde 1 inci maddesi ayrı, 2 ve 3 üncü maddeleri birlikte ayrı oylanır.
