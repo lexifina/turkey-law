@@ -1,0 +1,4 @@
+İtiraz
+Madde 15 – Sözleşmeli personelden 14 üncü madde gereğince uyarılanların bildirim tarihini izleyen 5 gün içinde itiraz hakkı vardır.
+İtirazlar, sadece uyarı yazısında belirtilen kusur ve noksanlara karşı yazılı olarak yapılır. Bu itirazlar kurumun en üst yöneticisi veya görevlendirileceği personel tarafından incelenir. İtirazı incelemekle görevlendirilecek personelin itiraz edilen sicil ve başarı değerlemesi raporunu dolduran sicil amirleriyle aynı veya daha üst düzeyde bulunması zorunlu olup inceleme gereğine göre sözleşmeli personelin sicil ve özlük dosyası ve konuyla ilgili diğer belgeler tetkik edilerek tamamlanır.
+Kurumun en üst yöneticisi ya da görevlendireceği personel, bu konuda verilen kararı, inceleme için kendisine verildiği tarihten itibaren 15 gün içinde ilgiliye bildirir.

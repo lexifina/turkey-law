@@ -1,0 +1,2 @@
+Sicil ve Başarı Değerleme Raporlarının Şekli
+Madde 11 – Sözleşmeli personel için genel olarak düzenlenecek Sicil ve Başarı Değerlemesi Raporu (Ek 1) de, bunlardan yönetici durumunda olanlar için düzenlenecek olanlar (Ek 2)'de gösterilmiştir. Yurt dışı teşkilatında görevli olanlar hakkında da bu formlar kullanılır. Formlarda yer alan sorulara Devlet Personel Başkanlığının uygun görüşü alınmak suretiyle teşebbüs ve bağlı ortaklık yönetim kurullarınca yeni sorular eklenmesi mümkündür.
