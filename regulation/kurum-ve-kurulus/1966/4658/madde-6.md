@@ -1,0 +1,2 @@
+Mülteci Nakil ve Kontrol Planları
+MADDE 6 — Genelkurmay Başkanlığınca hazırlama mülteci nakil ve kontrol planlarının, diğer planlamalarla çatışmaması için, bu planlara kesin şekli verilmeden önce İçişleri Bakanlığı ile işbirliği yapılır. Bundan sonra İçişleri Bakanlığını ilgilendiren kısmı, Genelkurmay Başkanlığı ile aralıksız işbirliği yapılmak suretiyle uygulanır. Bu planlarda yapılacak değişiklikler Genelkurmay Başkanlığı tarafından İçişleri Bakanlığına bildirilir.

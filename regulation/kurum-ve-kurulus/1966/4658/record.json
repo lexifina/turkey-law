@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4658",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİVİL SAVUNMA HİZMETLERİNDE ASKERİ İŞBİRLİĞİ YÖNETMELİĞİ",
+  "number": "4658",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1966/4658",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4658&MevzuatTertip=5",
+  "source_sha256": "e702145b28cf836bf73434d5bcf810e6eba53ab311250e69a812a24826935179",
+  "source_bytes": 34911,
+  "published": "1966-05-24",
+  "gazette": "12306",
+  "in_force": "1966-05-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.05.1966); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1527,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

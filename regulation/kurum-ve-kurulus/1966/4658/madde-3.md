@@ -1,0 +1,2 @@
+Müşterek esaslar
+MADDE 3 ― Bu Yönetmelikte açıklanan hususlarda veya açıklanmamış olup da sivil-asker işbirliğini gerektiren sivil savunma hazırlık, tedbir ve faaliyetleri için İçişleri Bakanlığı tarafından Milli Savunma Bakanlığı ve Genelkurmay Başkanlığına, vali ve kaymakamlar tarafından mahallin en yüksek askeri makamlarına veya garnizon komutanlıklarına müracat edilir. Bu makmlar da, askeri görevlerini aksatmayacak şekilde bu talepleri yerine getirirler.

@@ -1,0 +1,1 @@
+MADDE 16 — Nükleer bir harbe karşı sivil savunma teşkilâtının ellerinde mevcut, ordu standartlarına uyar kadro malzemelerinin bakım ve onarımları, masrafları İçişleri Bakanlığına ait olmak üzere ve yürürlükteki mevzuat hükümlerine göre bölgelerindeki Silahlı Kuvvetlerin bakım kademelerinde, imkânlar nispetinde sağlanır.
