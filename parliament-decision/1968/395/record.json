@@ -1,0 +1,60 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "395",
+  "year": 1968,
+  "title": "Hakkâri Milletvekili Ali Karahan'ın yasama dokunulmazlığının kaldırılmasına mahal olmadığına dair",
+  "adopted": "1968-10-21",
+  "adopted_as_published": "21/10/1968",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/karartbmmc051/karartbmmc05100395.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 51",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 368201,
+      "title": "Hakkâri Milletvekili Ali Karahan'ın yasama dokunulmazlığının kaldırılmasına mahal olmadığına dair",
+      "adopted_as_published": "21/10/1968",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/karartbmmc051/karartbmmc05100395.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 32,
+          "sitting_date": "1968-01-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023fih.pdf",
+          "pages": [
+            "621"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 59,
+          "sitting_date": "1968-03-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027fih.pdf",
+          "pages": [
+            "215"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=684&v_gelecek_sayfa=401&v_kullanici_id=27483296",
+      "page_sha256": "bce41206ecefa37e22e43111505c1dbbd18a2721560abca2e8cfcbe28320848f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "bce41206ecefa37e22e43111505c1dbbd18a2721560abca2e8cfcbe28320848f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1968-10-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kararlar index: 21/10/1968; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
