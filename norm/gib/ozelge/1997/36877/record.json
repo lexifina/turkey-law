@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "07.0.GEL.0.56/5601-838/23580",
+  "source_id": 36877,
+  "date": "1997-06-06",
+  "title": "İhracaat teşvikleri sonucu alınmayan B.S.M.V'.nin krediyi kullandıran banka şubesinden alınması gerektiği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36877",
+  "source_sha256": "f7eac775899f46fcb994af1131e5ddb1f84ae79e5614e7aa011e0298e7b360a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
