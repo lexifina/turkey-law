@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 4057,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Kastamonu Mebusu Abdülkadir Kemalî Beyin, Kanunu Cezanın 203. maddesine tezyil edilecek mevad hakkında kanun teklifine dair (2/288)",
+  "title": "Kastamonu Mebusu Abdülkadir Kemalî Beyin, Kanunu Cezanın 203. maddesine tezyil edilecek mevad hakkında kanun teklifine dair (2/288)",
+  "first_sitting_date": "1921-05-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 36,
+      "sitting_date": "1921-05-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c010/tbmm01010036.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c010/ehttbmm01010036.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c010/tbmm01010fih.pdf",
+      "pages": [
+        "319"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 175,
+      "sitting_date": "1923-01-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c026/tbmm01026175.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c026/ehttbmm01026175.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c026/tbmm01026fih.pdf",
+      "pages": [
+        "387:405"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1993&v_gelecek_sayfa=1101&v_kullanici_id=27483712",
+  "source_sha256": "4f7ea1cc96720efca529a823db28d6de78c7fc99ceb339a9aed8657e9f15911a",
+  "in_force": "1921-05-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
