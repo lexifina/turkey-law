@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3042-369-105/10218",
+  "source_id": 27223,
+  "date": "2005-03-03",
+  "title": "Vergi dairesinin işlemlerinden kaynaklanan hatalarda  mükellef adına ceza kesilmemesi, kesilen cezaların ise tahsil edilmiş olması halinde red ve iadesi, tahsil edilmemiş ise terkini gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27223",
+  "source_sha256": "7bab73361513c18804a48e012f2afaa775615e1d84e83ed1d834407e5b008e98",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
