@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5717",
+  "year": 1951,
+  "title": "Ortaöğretim Okullarında Çalıştırılan Yardımcı Öğretmenlere Ayni Yardım Verilmesi Hakkındaki 4599 Sayılı Kanun Hükmünün Kaldırılması ve Fevkalâde Zam Hakkındaki 4178 Sayılı Kanun Hükmünün Bunlara Tatbik Edilmemesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-02-14",
+  "gazette_issue": "7734",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7734.pdf",
+  "source_sha256": "2b255502a6dbf069130f74ea0b9d923c4e59387fd61e87f9951dc8ad8c9e93b7",
+  "text_sha256": "b91173e7bc48f6854d54debd3b179ee9d2dea05ee59e14b777c058738d5de729",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      476,
+      487
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305717.pdf",
+    "source_sha256": "6d8dec9ffba717e8eac5e445d27f7c04073e583fd9a5f0ae6093639cb5b3aba9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9603,
+    "bag": 0.8906,
+    "kd_coverage": 0.9692,
+    "kd_body_compared": 0.9692,
+    "rg_words": 65,
+    "kd_words": 65,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
