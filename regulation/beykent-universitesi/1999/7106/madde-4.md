@@ -1,0 +1,5 @@
+Madde 4- İlgili fakülte, yürüteceği çift ana dal lisans eğitim-öğretimi ve yan dal eğitim-öğretimi kontenjanlarını belirleyerek her eğitim-öğretim yılı başında duyurur.
+Öğrenci, duyurulmuş olan çift ana dal lisans eğitim-öğretimine kendi lisans eğitim-öğretiminin en erken üçüncü ve en geç beşinci, yan dal eğitim-öğretimine ise en erken üçüncü en geç altıncı yarıyılın başında başvurabilir.
+Başvuru, belirlenen tarihte dilekçe ve transkriptle birlikte Öğrenci
+İşleri Dairesi Başkanlığına yapılır.
+Bir öğrencinin çift ana dal lisans eğitim-öğretimlerinden veya yan dal eğitim-öğretimlerinden birine başvurabilmesi için; başvurduğu döneme kadar, kendi eğitim-öğretim programının tüm derslerini başarıyla tamamlamış olması, başvuru sırasında kümülatif not ortalamasının çift ana dal lisans eğitim-öğretimi için 4 üzerinden en az 3.00, yan dal eğitim-öğretimi için en az 2.50 olması ve başvurusunun ilgili bölüm tarafından uygun görülmesi gerekir. Bu koşullar, özel durumlarda Senato Kararı ile değiştirilebilir.

@@ -1,0 +1,1 @@
+Madde 7- Bu Yönetmelikte bulunmayan eğitim-öğretimle ilgili diğer hususlarda Beykent Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği ile Beykent Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliği hükümleri uygulanır.

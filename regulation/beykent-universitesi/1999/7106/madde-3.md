@@ -1,0 +1,2 @@
+Çift Ana Dal Lisans Eğitim-Öğretimi ile Yan Dal Eğitim-Öğretimi Açılması ve Kabul Koşulları
+Madde 3- Çift ana dal lisans eğitim-öğretimi ile yan dal eğitim-öğretimi açılması, ilgili bölümün ve fakülte kurulunun önerisi üzerine Üniversite Senatosunun kararı ile kesinleşir ve ilgili bölümlerin işbirliği ile yürütülür. Çift ana dal lisans eğitim-öğretiminin kaç krediden ve hangi derslerden oluşacağı, başvurunun yapıldığı bölüm başkanlığı tarafından belirlenir ve akademik yıl başında ilan edilir.
