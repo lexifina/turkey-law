@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5279-45-112/19201",
+  "source_id": 30015,
+  "date": "1998-05-22",
+  "title": "Gayrimenkul teslimlerinde vergiyi doğuran olay; gayrimenkulün tasarruf hakkının devredildiği tarihte meydana gelmektedir. Bu gibi durumlarda vergiyi doğuran olayın, tapuda devir işleminden önce de meydana gelebileceği tabiidir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30015",
+  "source_sha256": "841522f5492cc7a16a40b92c0518dc85babc76b88e148b6a1b450b059db1bc0d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
