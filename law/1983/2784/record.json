@@ -1,0 +1,56 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2784",
+  "year": 1983,
+  "title": "2784 sayılı Kanun",
+  "adopted": "1983-01-21",
+  "adopted_as_published": "21/01/1983",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "21.01.1983 No: 17935 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanundmc066/kanundmc06602784.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 66",
+  "committee_reports": [
+    {
+      "label": "DM 263 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c013/dm__02013036ss0263.pdf"
+    },
+    {
+      "label": "MGK 532no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c008/mgk_01008128ss0532.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Danışma Meclisi",
+      "term": null,
+      "kayit_no": 143801,
+      "title": "2784 sayılı Kanun",
+      "adopted_as_published": "21/01/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanundmc066/kanundmc06602784.pdf",
+      "committee_reports": [
+        {
+          "label": "DM 263 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c013/dm__02013036ss0263.pdf"
+        },
+        {
+          "label": "MGK 532no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c008/mgk_01008128ss0532.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=322&v_gelecek_sayfa=101&v_kullanici_id=27483253",
+      "page_sha256": "865902146506a3648609d3b60120d1560238fd89af425a017532a853430f753b"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "865902146506a3648609d3b60120d1560238fd89af425a017532a853430f753b",
+  "issuer": "Danışma Meclisi",
+  "in_force": "1983-01-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Danışma Meclisi) as printed in the official TBMM kanunlar index: 21/01/1983; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
