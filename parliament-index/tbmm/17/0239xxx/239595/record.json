@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 239595,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Çukurova Üniversitesinin 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981 ve 1982 Malî Yılları Kesinhesap Kanun Tasarıları ile Bu Yıllara Ait Genel Uygunluk Bildirimlerinin sunulduğuna İlişkin Sayıştay Başkanlığı Tezkereleri hakkında (1/326, 3/136; 1/327, 3/137, 1/328, 3/138; 1/329, 3/139; 1/330, 3/373; 1/331, 3/374; 1/332, 3/375; 1/333, 3/376; 1/334, 3/140)",
+  "title": "Çukurova Üniversitesinin 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981 ve 1982 Malî Yılları Kesinhesap Kanun Tasarıları ile Bu Yıllara Ait Genel Uygunluk Bildirimlerinin sunulduğuna İlişkin Sayıştay Başkanlığı Tezkereleri hakkında (1/326, 3/136; 1/327, 3/137, 1/328, 3/138; 1/329, 3/139; 1/330, 3/373; 1/331, 3/374; 1/332, 3/375; 1/333, 3/376; 1/334, 3/140)",
+  "first_sitting_date": "1984-06-07",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 76,
+      "sitting_date": "1984-06-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+      "pages": [
+        "241:242",
+        "256",
+        "270:273"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "02d50267c3796ad930b52401cb625c9904ffdf75ab37540f7e64ef574639445f",
+  "in_force": "1984-06-07",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
