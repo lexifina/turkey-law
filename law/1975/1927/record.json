@@ -1,0 +1,174 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1927",
+  "year": 1975,
+  "title": "1475 sayılı iş Kanununun Bazı Maddelerinin Değiştirilmesi ve 26.ncı Maddesinin ikinci Fıkrasının Yürürlükten kaldırılması, 193 sayılı Gelir Vergisi Kanununun 25. Maddesinin 7. Fıkrasının Değiştirilmesi ve Bir Geçici Madde Eklenmesi Hakkında Kanun",
+  "adopted": "1975-07-04",
+  "adopted_as_published": "04/07/1975",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.07.1975 No: 15293",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801927.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 58",
+  "committee_reports": [
+    {
+      "label": "MM 66 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013094ss0066.pdf"
+    },
+    {
+      "label": "MM 66ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013094ss0066ek01.pdf"
+    },
+    {
+      "label": "CS 508no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c023/cs__14023073ss0508.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 448286,
+      "title": "1475 sayılı iş Kanununun Bazı Maddelerinin Değiştirilmesi ve 26.ncı Maddesinin ikinci Fıkrasının Yürürlükten kaldırılması, 193 sayılı Gelir Vergisi Kanununun 25. Maddesinin 7. Fıkrasının Değiştirilmesi ve Bir Geçici Madde Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "04/07/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801927.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 66 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013094ss0066.pdf"
+        },
+        {
+          "label": "MM 66ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013094ss0066ek01.pdf"
+        },
+        {
+          "label": "CS 508no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c023/cs__14023073ss0508.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 95,
+          "sitting_date": "1974-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006fih.pdf",
+          "pages": [
+            "109"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 52,
+          "sitting_date": "1975-03-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011fih.pdf",
+          "pages": [
+            "62"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 94,
+          "sitting_date": "1975-06-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013094.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013fih.pdf",
+          "pages": [
+            "246:290"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 95,
+          "sitting_date": "1975-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013fih.pdf",
+          "pages": [
+            "299:315",
+            "342",
+            "358:361"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=301&v_kullanici_id=27483225",
+      "page_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 325138,
+      "title": "1475 sayılı İş Kanununun bazı maddelerinin değiştirilmesi ve 26 ncı maddesinin ikinci fıkrasının yürürlükten kaldırılması, 193 sayılı Gelir Vergisi Kanununun 25 nci maddesinin 7 nci fıkrasının değiştirilmesi ve bir geçici madde eklenmesi hakkında Kanun",
+      "adopted_as_published": "04/07/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801927.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 66 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013094ss0066.pdf"
+        },
+        {
+          "label": "MM 66ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013094ss0066ek01.pdf"
+        },
+        {
+          "label": "CS 508no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c023/cs__14023073ss0508.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 71,
+          "sitting_date": "1975-07-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c023/cs__14023071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c023/cs__14023fih.pdf",
+          "pages": [
+            "2",
+            "3"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 72,
+          "sitting_date": "1975-07-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c023/cs__14023072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c023/cs__14023fih.pdf",
+          "pages": [
+            "89:91"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 73,
+          "sitting_date": "1975-07-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c023/cs__14023073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c023/cs__14023fih.pdf",
+          "pages": [
+            "104:147",
+            "150",
+            "151:152"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1901&v_kullanici_id=27483235",
+      "page_sha256": "b03516e6e4516fd0e8518e72928e38bf7e13c854ce0bd904282a9e657cec2cef"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb",
+  "issuer": "Millet Meclisi",
+  "in_force": "1975-07-04",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 04/07/1975; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
