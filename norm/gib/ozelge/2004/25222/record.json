@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.GEL.0.30 / 3025-353-705-52533",
+  "source_id": 25222,
+  "date": "2004-11-05",
+  "title": "Kamu idare ve müesseseleri, mükellefler veya mükelleflerle muamelede bulunan diğer gerçek ve tüzel kişiler Maliye Bakanlığının veya vergi incelemesi yapmaya yetkili olanların isteyecekleri vergi muameleleri ile ilgili bilgileri vermeye mecburdurlar.Bu kap",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25222",
+  "source_sha256": "04eeb22c0b04125ee16710c77fe9e77148dcc9e0dd76a476e5bee67e42cab8a6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
