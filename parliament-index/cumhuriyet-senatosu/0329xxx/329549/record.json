@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 329549,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İktisadî ve Ticari İlimler Akademileri 1977 yılı Bütçe Kanunu tasarısı ve Bütçe Karma Komisyonu raporu. (Millet Meclisi:1/511;Cumhuriyet Senatosu:1/509) (S. Sayısı:631)",
+  "title": "İktisadî ve Ticari İlimler Akademileri 1977 yılı Bütçe Kanunu tasarısı ve Bütçe Karma Komisyonu raporu. (Millet Meclisi:1/511;Cumhuriyet Senatosu:1/509) (S. Sayısı:631)",
+  "first_sitting_date": "1977-02-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 29,
+      "sitting": 27,
+      "sitting_date": "1977-02-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029027.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029fih.pdf",
+      "pages": [
+        "666"
+      ]
+    },
+    {
+      "cilt": 31,
+      "sitting": 32,
+      "sitting_date": "1977-02-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c031/cs__16031032.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c031/cs__16031fih.pdf",
+      "pages": [
+        "66",
+        "93:94",
+        "168:169"
+      ]
+    },
+    {
+      "cilt": 31,
+      "sitting": 33,
+      "sitting_date": "1977-02-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c031/cs__16031033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c031/cs__16031fih.pdf",
+      "pages": [
+        "237",
+        "363:364"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=4501&v_kullanici_id=27484903",
+  "source_sha256": "e63e655997e787494e50dc85a05d8c6c431418fa850c3313d144f6b5d4b79f72",
+  "in_force": "1977-02-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
