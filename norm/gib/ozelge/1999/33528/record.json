@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5911-71/028588",
+  "source_id": 33528,
+  "date": "1999-07-07",
+  "title": "Kişilerden yersiz olarak alınan \"ithal talep harcı\"nın iadesi; gümrük idarelerine verilen beyannameler üzerinden alınan eğitime katkı payının ise iade edilmemesi gerekmektedir. Aynı zamanda, motorin ithal eden söz konusu kişilerin indirim hakkı bulunduğun",
+  "source": "https://gib.gov.tr/mevzuat/kanun/591/ozelge/33528",
+  "source_sha256": "f625f3bc723fd161e34f4f572b76e8055d045b8e3eb6305b15f77b6e1d5193f8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
