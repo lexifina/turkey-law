@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7309",
+  "year": 1959,
+  "title": "Ceza evleri ile mahkeme binaları inşası karşılığı olarak alınacak harçlar ve mahkûmlara Ödettirilecek yiyecek bedelleri hakkındaki 2548 sayılı Kanunun 4. maddesinin değiştirilmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-06-06",
+  "gazette_issue": "10224",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10224.pdf",
+  "source_sha256": "c3209e8d45c8153543864c32d51a168c786d0bd4341436ed57d05a9ecb49baab",
+  "text_sha256": "05e518cb0ecaf2449a95c9ad0191d439c31e34a0b1c14cbd21421badf2537927",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      35,
+      64
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107309.pdf",
+    "source_sha256": "acccf894de82947578b9332f6cc87ddaf9ac7cc68ca7a02b34c45765e6c28bf2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9008,
+    "bag": 0.7639,
+    "kd_coverage": 0.9722,
+    "kd_body_compared": 0.9467,
+    "rg_words": 73,
+    "kd_words": 75,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
