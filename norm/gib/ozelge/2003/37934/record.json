@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-59/007114",
+  "source_id": 37934,
+  "date": "2003-02-25",
+  "title": "Kooperatiflerin ortaklarından aldıkları üye aidatının tek düzen muhasebe sisteminde kaydı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37934",
+  "source_sha256": "f5bcfa947ddc4959949e71ed496517cbe8c1bb7f0c4581900a5f875e14ca0207",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
