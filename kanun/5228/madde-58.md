@@ -1,0 +1,2 @@
+MADDE 58 – 17.3.1969tarihli ve 1135 sayılı Türk Vatandaşlarına Ait Olup Yugoslav Federatif Halk Cumhuriyetince Millileştirilmiş Bulunan Mal, Hak ve Menfaatlerin Tasfiyesi Hakkında Kanuna aşağıdaki geçici madde eklenmiştir.
+GEÇİCİMADDE 4. - Takdir ve Tevzi Komisyonunca, hak sahibi olduklarını iddia eden şahıslara bu maddenin yürürlüğe girdiği tarihten itibaren mallarını araştırmaya yönelik bir yıl süre verilir. Verilen süre içerisinde millileştirme belgelerini komisyona ibraz edemeyenler tazminattan faydalandırılmaz.

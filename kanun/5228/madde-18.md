@@ -1,0 +1,2 @@
+MADDE 18 - 3065 sayılı Kanunun 48 inci maddesinin birinci fıkrasına aşağıdaki cümle eklenmiştir.
+Ancak, indirim hakkı tanınan işlemlere konu eşyanın serbest dolaşıma girdiği tarihin içinde bulunduğu veya sonraki vergilendirme dönemlerine ilişkin olarak vergi dairesine verilen beyannamelere göre ödenen katma değer vergisi (sorumlu sıfatıyla ödenenler hariç), ithalde hiç ödenmemesi veya eksik ödenmesi nedeniyle tahsili gereken katma değer vergisinden düşülür.

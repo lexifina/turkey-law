@@ -1,0 +1,2 @@
+MADDE 1 - 4.1.1961 tarihli ve 213 sayılı Vergi Usul Kanununun 15 inci maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
+Maliye Bakanlığı, mücbir sebep sayılan haller nedeniyle; bölge, il, ilçe, mahal veya afete maruz kalanlar itibarıyla mücbir sebep hali ilân etmeye ve bu sürede vergi ödevlerinden yerine getirilemeyecek olanları tespit etmeye yetkilidir. Bu yetki vergi türleri ve işyerleri itibarıyla; beyannamelerin toplulaştırılması, yeni beyanname verme süreleri belirlenmesi ve beyanname verme zorunluluğunun kaldırılması şeklinde de kullanılabilir.

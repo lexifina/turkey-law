@@ -1,0 +1,2 @@
+MADDE 49 - 10.7.2003 tarihli ve 4925 sayılı Karayolları Taşıma Kanununun 29 uncu maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Ödeme derhal yapılmadığı takdirde para cezalarının, tutanağın tebliğ tarihinden itibaren bir ay içinde ödenmesi gerekir. Bir ay içinde ödenmeyen cezalar için her ay % 5 faiz uygulanır. Aylık faizin hesaplanmasında ay kesirleri tam ay sayılır. Bu suretle bulunacak tutar cezanın iki katını geçemez. İlgilisine tebliğ edilmeyen tutanakların tebliğinde 2918 sayılı Karayolları Trafik Kanununun 116 ncı maddesi hükümleri uygulanır.

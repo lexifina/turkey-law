@@ -1,0 +1,3 @@
+MADDE 9 - 213 sayılı Kanunun mükerrer 298 inci maddesinin (A) fıkrasının (2) numaralı bendinin (g) alt bendinde yer alan "düzeltme tarihindeki" ibaresi "borcun alındığı tarihteki" olarak, (5) numaralı bendinin beşinci fıkrasının ikinci cümlesi aşağıdaki şekilde değiştirilmiş ve fıkraya aşağıdaki (9) numaralı bent eklenmiştir.
+Ancak öz sermaye kalemlerine ait enflasyon farkları düzeltme sonucu oluşan geçmiş yıl zararlarına mahsup edilebilir veya kurumlar vergisi mükelleflerince sermayeye ilave edilebilir; bu işlemler kâr dağıtımı sayılmaz.
+9. Münhasıran sürekli olarak işlenmiş; altın, gümüş alım-satımı ve imali ile iştigal eden mükellefler bu fıkranın (1) numaralı bendinde yer alan şartlara bakılmaksızın enflasyon düzeltmesi yaparlar.

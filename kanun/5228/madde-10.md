@@ -1,0 +1,2 @@
+MADDE 10 - 213 sayılı Kanunun mükerrer 355 inci maddesinin sonuna aşağıdaki fıkra eklenmiştir.
+Tahsilat ve ödemelerini banka, benzeri finans kurumları veya posta idarelerince düzenlenen belgelerle tevsik etme zorunluluğuna uymayan mükelleflerden her birine, her bir işlem için bu maddeye göre uygulanan cezalardan az olmamak üzere işleme konu tutarın % 5'i nispetinde özel usulsüzlük cezası kesilir. Bu şekilde ceza kesilen mükellefler hakkında üçüncü fıkra hükmü uygulanmaz.

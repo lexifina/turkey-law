@@ -1,0 +1,1 @@
+Madde 41. - Kurumlar vergisi, 22 nci maddede yazılı hallerde beyanname verme süresi içerisinde, 24 üncü maddede yazılı hallerde ise beyannamenin verileceği ayın yirmialtıncı günü akşamına kadar ödenir.

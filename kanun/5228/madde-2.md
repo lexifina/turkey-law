@@ -1,0 +1,3 @@
+MADDE 2 - 213 sayılı Kanunun 17 nci maddesinin birinci ve üçüncü fıkraları aşağıdaki şekilde değiştirilmiştir.
+Zor durumda bulunmaları hasebiyle vergi muamelelerine müteallik ödevleri süresi içinde yerine getiremeyecek olanlara, kanunî sürenin bir katını, kanunî sürenin bir aydan az olması halinde bir ayı geçmemek üzere, Maliye Bakanlığınca münasip bir mühlet verilebilir.
+Maliye Bakanlığı mühlet verme yetkisini tamamen veya kısmen mahalline devredebileceği gibi bölgeler, iller, ilçeler veya sektörler ile iş kolları ya da mükellef grupları itibarıyla yazılı başvuru şartı aramaksızın da kullanabilir.
