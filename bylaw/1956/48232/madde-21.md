@@ -1,0 +1,2 @@
+Sandık hesabına kesilen paralara ait müfredat cetveli:
+Madde 21 – Muhasipler Kefalet Sandığına dahil olanlardan kesip Sandık adına yatırdıkları paraların hangi memurlardan ve hangi aylar için ne miktar kesildiğini gösterir nümunesine uygun müfredatlık bir cetvel tanzim ve tasdik ederek her üç ayda bir Kefalet Sandığına yollarlar. Tayini bölge müdürlüklerine ait bulunan ve sicil numaraları olmayan memurlar için cetvelin izahat hanesine evvelce Ofisde çalışıp çalışmadıkları ve çalışmış iseler çalışmış oldukları vazifeler de işaret olunur.

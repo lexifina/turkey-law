@@ -1,0 +1,1 @@
+Madde 38 – İdare Heyetince tanzim edilen Sandığın yıllık masraf bütçesi Toprak Mahsulleri Ofisi İdare Meclisinin tasdikından sonra mer'iyete girer. Masraf bütçesi, Sandığın idare masraflarını ve mesai saati haricinde çalıştırılacak memurlarla İdare Heyeti Reis ve Azasına verilecek ücret, ikramiye ve nakil masraflarını ihtiva eder.

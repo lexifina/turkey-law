@@ -1,0 +1,1 @@
+Madde 41 – 2489 sayılı Kefalet Kanununun 13 üncü maddesine müsteniden tanzim ve Devlet Şürasınca tetkik edilmiş olan bu Nizamname hükümleri, Resmi Gazete ile neşri tarihinden itibaren mer'iyete girer.

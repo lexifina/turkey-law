@@ -1,0 +1,1 @@
+Madde1 – Toprak Mahsulleri Ofisinin bütün teşkilatiyle müesseselerinde para, menkul kıymetler ve ayniyatı vazifeleri icabı alıp veren, ellerinde bulunduran veya saklamakla mükellef olan memur ve hizmetliler için 2489 sayılı Kefalet Kanunundaki hükümler dairesinde (Toprak Mahsulleri Ofisi Kefalet Sandığı) adlı hükmi şahsiyeti haiz bir Sandık kurulmuştur.
