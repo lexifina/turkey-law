@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5711-483",
+  "source_id": 30145,
+  "date": "2005-01-18",
+  "title": "Fazla ve yersiz ödenen vergilerin indirim hakkına sahip olmayanlar yanında, sahip olanlara da iade edilmesine imkan tanınması, bu gibi sebeplerle fazla ödenen vergilerin 91 Seri No.lu  Katma Değer Vergisi Genel Tebliği ile belirlenen usul ve esaslara  gör",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30145",
+  "source_sha256": "a9c086a22f36e15a17c5f409d7a876424137733ecb33ca2ab97ed5572f8b2e52",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
