@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5118",
+  "year": 1947,
+  "title": "Nakil Vasıtaları hakkında 3827 Sayılı Kanunda değişiklik yapılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-08-29",
+  "gazette_issue": "6694",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6694.pdf",
+  "source_sha256": "1a1566b80b3fecd4411c9e35a1c075cf6ddd29ea617eec979f7f1547f690005b",
+  "text_sha256": "3205da1e260af279f76e107f0db664b84de1570a14926dd7b8fe6ab0b8c9f383",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      28
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905118.pdf",
+    "source_sha256": "e65ec1a6b7293b5770078fa236fa5f31c2618594ea16ca8d816b5a9f23e06e9c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9201,
+    "bag": 0.8433,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9852,
+    "rg_words": 135,
+    "kd_words": 135,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
