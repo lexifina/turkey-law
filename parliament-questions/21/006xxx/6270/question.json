@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 21,
+  "legislative_year": 4,
+  "esas_no": "7/6270",
+  "submitted": "2002-03-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ramazan TOPRAK",
+  "province": "Aksaray",
+  "summary": "1999 yılından bugüne kadar kapanan işyerlerine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bd-ab9b-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "e5d63554d9631c2fc50a9c0e60e245a213d1f1f0979cc2e76f95fa64c0068c42",
+  "in_force": "2002-03-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
