@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 177828,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Türkiye Cumhuriyeti, Yunanistan Krallığı, Büyük Britanya ve Kuzey-İrlânda Birleşik Krallığı ve Kıbrıs Cumhuriyeti arasında imzalanan Kıbrıs Cumhuriyetinin kurulmasına dair Andlaşma ile (A), (B), (C), (D), (E) ve (F) eklerinin; Kıbrıs Cumhuriyeti, Yunanistan Kı-rallığı, Türkiye Cumhuriyeti ve Büyük Britanya ve Kuzey-İrlânda Birleşik Krallığı arasında imzalanan Garanti Andlaşması ile bu Andlaşmanın II. maddesinde atıfta bulunan Kıbrıs Cumhuriyeti Anayasasının temel maddelerine dair listenin; Kıbrıs Cumhuriyeti, Yunanistan Krallığı ve Türkiye Cumhuriyeti arasında imzalanan İttifak Andlaşması ile I ve II sayılı Ek Protokollerin; Kıbrıs Cumhuriyeti, Yunanistan Krallığı ve Türkiye Cumhuriyeti arasında imzalanan İttifak Andlaşmasının uygulanması için imza edilen Andlaşmanın; ve en ziyade müsaadeye mazhar millet şartına dair Türkiye Cumhuriyeti ile Kıbrıs Cumhuriyeti arasında nota teatisi suretiyle yapılan Anlaşmanın; onaylanmasının uygun bulunması hakkındaki kanun tasarısına dair (1/489)",
+  "title": "Türkiye Cumhuriyeti, Yunanistan Krallığı, Büyük Britanya ve Kuzey-İrlânda Birleşik Krallığı ve Kıbrıs Cumhuriyeti arasında imzalanan Kıbrıs Cumhuriyetinin kurulmasına dair Andlaşma ile (A), (B), (C), (D), (E) ve (F) eklerinin; Kıbrıs Cumhuriyeti, Yunanistan Kı-rallığı, Türkiye Cumhuriyeti ve Büyük Britanya ve Kuzey-İrlânda Birleşik Krallığı arasında imzalanan Garanti Andlaşması ile bu Andlaşmanın II. maddesinde atıfta bulunan Kıbrıs Cumhuriyeti Anayasasının temel maddelerine dair listenin; Kıbrıs Cumhuriyeti, Yunanistan Krallığı ve Türkiye Cumhuriyeti arasında imzalanan İttifak Andlaşması ile I ve II sayılı Ek Protokollerin; Kıbrıs Cumhuriyeti, Yunanistan Krallığı ve Türkiye Cumhuriyeti arasında imzalanan İttifak Andlaşmasının uygulanması için imza edilen Andlaşmanın; ve en ziyade müsaadeye mazhar millet şartına dair Türkiye Cumhuriyeti ile Kıbrıs Cumhuriyeti arasında nota teatisi suretiyle yapılan Anlaşmanın; onaylanmasının uygun bulunması hakkındaki kanun tasarısına dair (1/489)",
+  "first_sitting_date": "1965-03-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 26,
+      "sitting": 58,
+      "sitting_date": "1965-03-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+      "pages": [
+        "198",
+        "538:540",
+        "575:576"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=7&meclis_kisa_adi=CS&diger_donem_adi=t04"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=1601&v_kullanici_id=27484903",
+  "source_sha256": "81b1292ee997666aaade96b836eb9567294190ac721b1ee5dcb2ca64dab381de",
+  "in_force": "1965-03-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
