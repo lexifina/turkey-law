@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 334630,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Kurumu (UNESCO) nun XVI. Genel Kurulu tarafından 14 Kasım 1970 tarihînde kabul olunan Kültür Varlıklarının Kanunsuz İthal, İhraç ve Mülkiyet Transferinin Önlenmesi ve Yasaklanması İçin Alınacak Tedbirlerle İlgili Sözleşme» ye katılmamızın uygun bulunduğuna dair Kanun Tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Milli Eğitim, Gençlik ve Spor ve Kültür ve Dışişleri, Turizm ve Tanıtma komisyonları raporları. (Millet Meclisi:1/150;Cumhuriyet Senatosu:1/642) (S. Sayısı;944)",
+  "title": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Kurumu (UNESCO) nun XVI. Genel Kurulu tarafından 14 Kasım 1970 tarihînde kabul olunan Kültür Varlıklarının Kanunsuz İthal, İhraç ve Mülkiyet Transferinin Önlenmesi ve Yasaklanması İçin Alınacak Tedbirlerle İlgili Sözleşme» ye katılmamızın uygun bulunduğuna dair Kanun Tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Milli Eğitim, Gençlik ve Spor ve Kültür ve Dışişleri, Turizm ve Tanıtma komisyonları raporları. (Millet Meclisi:1/150;Cumhuriyet Senatosu:1/642) (S. Sayısı;944)",
+  "first_sitting_date": "1979-12-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 44,
+      "sitting": 14,
+      "sitting_date": "1979-12-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c044/cs__19044014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c044/cs__19044fih.pdf",
+      "pages": [
+        "296"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=5001&v_kullanici_id=27484903",
+  "source_sha256": "c2684077884da14b5e7e0307d531936d40e610ea5e10f3b4676921d4770d6040",
+  "in_force": "1979-12-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
