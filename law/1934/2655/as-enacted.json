@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2655",
+  "year": 1934,
+  "title": "İstanbul rıhtım, dok ve antrepo şirketinden satın alınan rıhtım ve antrepolarla vasıtaların ve imtiyaz haklarının isletme tarzına ve menkul ve gayrimenkul mallarının kullanılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-12-31",
+  "gazette_issue": "2894",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2894.pdf",
+  "source_sha256": "52e8b50af49bdc539c25ca48488b7372bde284e59b31bc36bff3453283b9efa3",
+  "text_sha256": "96e3cc1d41f43334cf7a7af61df110517f7f134de1cf6b374156ead8de428362",
+  "text_status": "ocr",
+  "pages": [
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      747,
+      748
+    ],
+    [
+      598,
+      638
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402655.pdf",
+    "source_sha256": "b8ea73e919e2aabaef0d1662a772f9f333171ed8d42b325022f89ad5812ce46d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9301,
+    "bag": 0.8864,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9847,
+    "rg_words": 144,
+    "kd_words": 131,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
