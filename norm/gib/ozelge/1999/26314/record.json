@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6527-145/52744",
+  "source_id": 26314,
+  "date": "1999-12-02",
+  "title": "Bürosunu sadece müşteri ile irtibat için kullanan, herhangi bir emtia satışı yapmayan, müşterinin ayağına gitmek suretiyle hizmet veren ve ücretini büroda değil de işin yapıldığı mahalde tahsil eden mükelleflerin, söz konusu faaliyetleri için ödeme kayded",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26314",
+  "source_sha256": "eb1f4e768e442cc72bb25af3faf9b4cee720111eb93762a63ab203926e19d886",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
