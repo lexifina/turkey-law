@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "",
+  "source_id": 384,
+  "date": "1974-04-16",
+  "title": "GELİR VERGİSİ KANUNU İÇ GENELGESİ SIRA NO: 1974/2",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/icgenelge/384",
+  "source_sha256": "ec606602d675b1ecace886e2694adcd29ec37f43313d7f70da2d88df36039ec7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
