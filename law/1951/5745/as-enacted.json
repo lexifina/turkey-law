@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5745",
+  "year": 1951,
+  "title": "Sürekli Görevle Yabancı Memleketlerde Bulunan Memurların Aylıkları Hakkındaki Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-03-02",
+  "gazette_issue": "7748",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7748.pdf",
+  "source_sha256": "2ccb1fb0f10d073acfb668d3c3ea35e04d28d45dae23f296e1650431feb5bd01",
+  "text_sha256": "201090e84fe959fe7a52b01b3d91e83c5833f1e0aedcb3f4de52dbcba941fabb",
+  "text_status": "ocr",
+  "pages": [
+    25
+  ],
+  "line_span": [
+    [
+      6095,
+      6121
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305745.pdf",
+    "source_sha256": "0f2f9eb4cddb0073c7196eebda1c37be251a9006e4096723f19ba45691f2e381",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.965,
+    "bag": 0.8834,
+    "kd_coverage": 0.9939,
+    "kd_body_compared": 0.9819,
+    "rg_words": 163,
+    "kd_words": 166,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
