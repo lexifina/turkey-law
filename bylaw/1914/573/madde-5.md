@@ -1,0 +1,1 @@
+Madde 5 – Maliye müfettişleri bilcümle devairi devletten vazifei teftişiyelerine müteallik olduğuna kani oldukları malûmat ve evrakın iraesini talep etmek salâhiyetini haiz ve devairi mezkûre dahi itaya mecburdurlar.

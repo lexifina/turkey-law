@@ -1,0 +1,1 @@
+Madde 15 – Maliye müfettişleri 13 ncü madde mucibince muvakkaten hidematı sairede müstahdem bulundukları esnada o memuriyetteki vezifelerine taallûk eden bir sebepten dolayı azledilir veya muhilli haysiyet bir mahkûmiyete duçar olurlar ise tekrar heyeti teftişiyeye dahil olamazlar.

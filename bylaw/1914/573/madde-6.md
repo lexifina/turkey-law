@@ -1,0 +1,1 @@
+Madde 6 – Müfettişler tarafından memurların ahval ve muamelâtı hakkında tanzim edilecek lâyihalar sual ve cevaplı olacak ve mezkûr memurlarla icabı halinde mafevkleri tarafından dermeyan olunacak ecvibe ve mütalâat iderece tayin edilecek müddet zarfında doğrudan doğruya mezkûr lâyihalara derc ve tahrir ile tarih ve imza vazolunacaktır.
