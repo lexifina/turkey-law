@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3882",
+  "year": 1940,
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair 3656 sayılı kanuna bağlı 1 numaralı cetvelin Adliye Vekâleti kısmında değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-06-22",
+  "gazette_issue": "4542",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4542.pdf",
+  "source_sha256": "87ffcbf8bab22ed513e076d8c740a207ab99e0806d906f91f6961e5d44ee6a8f",
+  "text_sha256": "118ad0509d263b5264d9702fd2ff2c6c3c784f4ecd34d46909e53574172b9af2",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      16,
+      65
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103882.pdf",
+    "source_sha256": "85bb8b29ade7ca55c946b804f88ac23d207d5240efef22cf9425aea82d2dda92",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9376,
+    "bag": 0.8685,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9425,
+    "rg_words": 163,
+    "kd_words": 174,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
