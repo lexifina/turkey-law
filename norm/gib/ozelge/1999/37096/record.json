@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6685-3876/1802",
+  "source_id": 37096,
+  "date": "1999-01-15",
+  "title": "Türkiye sınırları içinde tek meskeni olması ve sosyal güvenlik kurumlarından aldığı aylık dışında başka bir geliri olmaması halinde, 1998 yılında satın aldığı meskeni için 1999 yılında indirimli bina vergisi oranından faydalandırılması gerekmektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37096",
+  "source_sha256": "023f7a76ec540a9a479deea7484e00013498cbbbe3c306b7d0b085ec5a265a74",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
