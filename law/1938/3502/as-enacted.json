@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3502",
+  "year": 1938,
+  "title": "Hava taarruzlarına karşı korunma Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-07-09",
+  "gazette_issue": "3955",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3955.pdf",
+  "source_sha256": "17219eefccb5bc196216104ae93cb26852fd117d20c94114bdfe508596e45b1b",
+  "text_sha256": "b6199ccd3664045a90e6249c9337c2b5d66365d0de77bb5ea24b0a54760948fa",
+  "text_status": "ocr",
+  "pages": [
+    40,
+    41
+  ],
+  "line_span": [
+    [
+      13290,
+      13413
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803502.pdf",
+    "source_sha256": "9488f0d5b49cfc6ef7f0db755d77bacd1cefba37a7242fcd7625caa192e2df6a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9806,
+    "bag": 0.9417,
+    "kd_coverage": 0.9942,
+    "kd_body_compared": 0.992,
+    "rg_words": 868,
+    "kd_words": 870,
+    "own_anchor": true,
+    "foreign_anchors": 13
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
