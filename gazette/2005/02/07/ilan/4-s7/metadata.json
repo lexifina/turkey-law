@@ -1,0 +1,31 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-07",
+  "issue": "25720",
+  "edition": "regular",
+  "item": 7,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Petrol İşleri Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050207-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (10 = 10)",
+  "ilan_codes": [
+    "1108/1-1",
+    "1109/1-1",
+    "1110/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050207-4.htm",
+  "category_page_sha256": "6a4f39c6f8dd799866dd4a30aae70c757daca376c4457add3c705e6da2c3c515",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050207.htm",
+  "index_sha256": "8486318a3efa0d63c880206e8a6d3764de58d91021d836a88deb2b99cf3a8783",
+  "index_header": "7 Şubat 2005 ... Sayı : 25720",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
