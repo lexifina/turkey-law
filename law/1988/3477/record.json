@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3477",
+  "year": 1988,
+  "title": "28.3.1983 Tarihli ve 2809 Sayılı Kanunun 12. Maddesinin (f) Bendinin Değiştirilmesi, Bu Kanuna Geçici Maddeler Eklenmesi ve 18.8.1981 Tarihli ve 2507 Sayılı Denizcilik Yüksekokulu Kanununun Yürürlükten Kaldırılması Hakkında Kanun",
+  "adopted": "1988-10-06",
+  "adopted_as_published": "06/10/1988",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.10.1988 No: 19959",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc072/kanuntbmmc072/kanuntbmmc07203477.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 72",
+  "committee_reports": [
+    {
+      "label": "TBMM 75 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015009ss0075.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 227955,
+      "title": "28.3.1983 Tarihli ve 2809 Sayılı Kanunun 12. Maddesinin (f) Bendinin Değiştirilmesi, Bu Kanuna Geçici Maddeler Eklenmesi ve 18.8.1981 Tarihli ve 2507 Sayılı Denizcilik Yüksekokulu Kanununun Yürürlükten Kaldırılması Hakkında Kanun",
+      "adopted_as_published": "06/10/1988",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc072/kanuntbmmc072/kanuntbmmc07203477.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 75 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015009ss0075.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 32,
+          "sitting_date": "1988-03-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c003/tbmm18003032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c003/tbmm18003fih.pdf",
+          "pages": [
+            "449"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 72,
+          "sitting_date": "1988-05-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c012/tbmm18012072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c012/tbmm18012fih.pdf",
+          "pages": [
+            "6"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 9,
+          "sitting_date": "1988-10-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015009.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015fih.pdf",
+          "pages": [
+            "30:40"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "a4afc1ea96cb3fdb44158af5480d817298e90d8f87ef55ba3064444103967b6f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a4afc1ea96cb3fdb44158af5480d817298e90d8f87ef55ba3064444103967b6f",
+  "issuer": "TBMM",
+  "in_force": "1988-10-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 06/10/1988; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
