@@ -1,0 +1,2 @@
+Madde 1 – (Değişik: 21/7/1980 - 8/1334 K.)
+Ticaret Bakanlığınca bütün kooperatiflerin, İmar ve İskan Bakanlığınca yapı kooperatiflerinin kooperatif kontrolörleri eliyle denetlettirilmesi ilkeleri, kooperatif kontrolörlerinin seçilme ve çalışma şekilleri görev ve yetkileri ile kooperatif üst kuruluşları ve ilgili teşekkül ve müesseselerin Ticaret Bakanlığınca kooperatiflerin denetiminde görevlendirilme ilkeleri bu Tüzükte gösterilmiştir.
