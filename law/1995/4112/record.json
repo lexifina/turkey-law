@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4112",
+  "year": 1995,
+  "title": "Türk Vatandaşlığı Kanununda Değişiklik Yapılmasına İlişkin Kanun",
+  "adopted": "1995-06-07",
+  "adopted_as_published": "07/06/1995",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.06.1995 No: 22311",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc078/kanuntbmmc078/kanuntbmmc07804112.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 78",
+  "committee_reports": [
+    {
+      "label": "TBMM 842 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c088/tbmm19088120ss0842.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 276030,
+      "title": "Türk Vatandaşlığı Kanununda Değişiklik Yapılmasına İlişkin Kanun",
+      "adopted_as_published": "07/06/1995",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc078/kanuntbmmc078/kanuntbmmc07804112.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 842 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c088/tbmm19088120ss0842.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 84,
+          "sitting": 97,
+          "sitting_date": "1995-04-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c084/tbmm19084097.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c084/tbmm19084fih.pdf",
+          "pages": [
+            "8"
+          ]
+        },
+        {
+          "cilt": 86,
+          "sitting": 113,
+          "sitting_date": "1995-05-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c086/tbmm19086113.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c086/tbmm19086fih.pdf",
+          "pages": [
+            "470"
+          ]
+        },
+        {
+          "cilt": 88,
+          "sitting": 120,
+          "sitting_date": "1995-06-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c088/tbmm19088120.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c088/tbmm19088fih.pdf",
+          "pages": [
+            "88:109"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=301&v_kullanici_id=27483194",
+      "page_sha256": "ee38aa25cdf2e92e09a604cd11038c74e41a0c5641c3632f22d17a1215389160"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ee38aa25cdf2e92e09a604cd11038c74e41a0c5641c3632f22d17a1215389160",
+  "issuer": "TBMM",
+  "in_force": "1995-06-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 07/06/1995; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
