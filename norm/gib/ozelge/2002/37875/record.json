@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1170",
+  "source_id": 37875,
+  "date": "2002-03-22",
+  "title": "Yapılacak işlemin belirlenmesine esas olmak üzere; adı geçenin yıllık kira tutarının tespit...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37875",
+  "source_sha256": "ad70207b0c40586649ff2280df7883c40feb48045c34f16490d4d12b81a6965e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
