@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2979-327-36/52322",
+  "source_id": 26815,
+  "date": "1997-12-03",
+  "title": "Dolgu yoluyla meydana getirilen ve 49 yıllığına kiralanacak olan rıhtımınla ilgili  giderler ile kiracının faaliyetini icra için meydana getirdiği tesisata ait giderlerin özel maliyet bedeli olarak aktifleştirilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26815",
+  "source_sha256": "22e959a1b27170cc84445e84706889b304a8e14a619471ade3a0d9f4ff49f476",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
