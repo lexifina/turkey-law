@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.60/6000-2212/45875",
+  "source_id": 35990,
+  "date": "2001-09-03",
+  "title": "Yapılan bağışın mükellefiyetli olması sonucu bağışlanan gayrimenkuller kendisine bağış yapılanların servetinde gerçekte bir artış yaratmıyorsa söz konusu gayrimenkuller dolayısıyla veraset ve intikal vergisi aranılmayacak, ancak tapuda yapılan işlem Harçl",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/35990",
+  "source_sha256": "68be2bf8a3aa96046800be951ba6a08f24661419c5f6ed985d3f99e9b5174dea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
