@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2859-116-77/29449",
+  "source_id": 25128,
+  "date": "2004-06-24",
+  "title": "Faaliyeti sadece sigorta acenteliği olan mükelleflerin 01.07.2003 tarihinden önce de KDV mükellefiyeti tesisi ettirmelerine gerek olmaması hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25128",
+  "source_sha256": "049aa54c21f240ae90ced509920957b14f19c81f302a99a277ecee110958c8f0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
