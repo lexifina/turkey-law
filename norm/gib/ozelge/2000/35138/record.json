@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6202-1426/13152",
+  "source_id": 35138,
+  "date": "2000-03-24",
+  "title": "Verilen krediler nedeniyle banka ile müşterileri arasında yapılan sözleşmelerde, kredi miktarı ile birlikte kararlaştırılan miktarda faiz ödenmesi şart koşulduğunda, her iki işlemin aynı kağıtta toplanması ve bir asıldan doğmuş olmasıdan dolayı,  sözleşme",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35138",
+  "source_sha256": "a031b6113ea9ca65c5697cd83975b8292f49f8a43a0495894abfe3af3aad8206",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
