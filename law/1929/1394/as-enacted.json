@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1394",
+  "year": 1929,
+  "title": "Türkiye-İtalya arasında akit ve imza edilmiş olan adlî himaye, adlî makamların hukuk ve ceza işlerinde karşılıklı müzahereti ve adlî kararların tenfizi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-03-03",
+  "gazette_issue": "1133",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1133.pdf",
+  "source_sha256": "fab81bf59b597a819c68ca917f5142eeecb98b9f66bae9b1a8c02c9c276fd7f4",
+  "text_sha256": "e3e30a1b5522a7e31b002d82d5f23a7712405003b41f59c907badfa18a2f5399",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      10,
+      593
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701394.pdf",
+    "source_sha256": "b7c1fa65e6d9cf41ec45edf2e24b1aa5e8f41bf9075bd6d69c4a8e27f568f081",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = word-sequence ratio (exact or OCR-noise-equal words, difflib) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9164,
+    "bag": 0.9,
+    "kd_coverage": 0.9872,
+    "kd_body_compared": 0.9872,
+    "rg_words": 2062,
+    "kd_words": 2024,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
