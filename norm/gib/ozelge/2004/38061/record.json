@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5424- 212-8567",
+  "source_id": 38061,
+  "date": "2004-03-01",
+  "title": "ÖTV'nin mal bedeli üzerinden mi, yoksa mal bedeli+bandrol bedeli üzerinden mi hesaplanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38061",
+  "source_sha256": "fdb489c4efc480229a1132194e5fb7ac26eb37ab76f46782828266b4b9e200d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
