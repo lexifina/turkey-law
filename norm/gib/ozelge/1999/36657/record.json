@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-440/029451",
+  "source_id": 36657,
+  "date": "1999-07-12",
+  "title": "ÖKC alan mükellefin gerekli belgelerle birlikte,  bağlı bulunduğu vergi dairesine 15 gün içinde bildirimde bulunması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36657",
+  "source_sha256": "8ea087139bb15be447ac0f32eeca28a745d72766cbfdcc462912ff7aae2d6748",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
