@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-11-06",
+  "issue": "25635",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Bayındırlık ve İskan Bakanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041106-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (18 = 18)",
+  "ilan_codes": [
+    "13927/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041106-4.htm",
+  "category_page_sha256": "52a46a9332817f2b9c2d03e20d270c32ffcfb65622af17d2f7f9dbf6c35ee9ac",
+  "issue_on_category_page": "25406",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041106.htm",
+  "index_sha256": "72ff7d42e2bfd38225f2d70ed8a04dcd6d4bee27eb1b97d0e43f74df7dab60aa",
+  "index_header": "6 Kasım 2004 ... Sayı : 25635",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
