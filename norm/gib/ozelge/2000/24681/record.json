@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5144-503/3762",
+  "source_id": 24681,
+  "date": "2000-01-28",
+  "title": "Kanunla kurulan derneğin bankada bulunan mevduat hesaplarına tevkifat yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/24681",
+  "source_sha256": "f11aebd34edd9aa9ad8baa45cebedb89524b8af590595118262352301a0a078a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
