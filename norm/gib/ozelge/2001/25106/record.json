@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.66/6664-949/29108",
+  "source_id": 25106,
+  "date": "2001-05-29",
+  "title": "İhale bedeli üzerinden satılan taşınmazın,genel beyan dönemi nedeniyle emlak vergisi vermeyen satıcı adına ihale bedeli üzerinden emlak vergisi tarh edilememesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/25106",
+  "source_sha256": "e05c4af4c983d77d9efc6d38bd8cb6da89b893d5c6e20851e22d8729f0553dc7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
