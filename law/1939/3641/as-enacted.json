@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3641",
+  "year": 1939,
+  "title": "Gümrük tarife kanununa bağlı ithalât umumî tarifesinin 607/D/1 pozisyonuna bir fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-06-19",
+  "gazette_issue": "4236",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4236.pdf",
+  "source_sha256": "2a0e763604e26d8001d9e1ae7f652f94569d6f8576951c24b7f8c765aa1a6ca8",
+  "text_sha256": "2fb5616f582906c66844024c4a786b3de8a556d333798edfa92c12e8bf2360df",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      852,
+      873
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003641.pdf",
+    "source_sha256": "17ca47662cf139730c20672f1563f6dccbff5f4d08096052de6076724fe073b1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.954,
+    "bag": 0.8742,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9744,
+    "rg_words": 75,
+    "kd_words": 78,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
