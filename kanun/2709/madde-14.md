@@ -1,4 +1,5 @@
 III. Temel hak ve hürriyetlerin kötüye kullanılamaması
-Madde 14 – Anayasada yer alan hak ve hürriyetlerden hiçbiri, Devletin ülkesi ve milletiyle bölünmez bütünlüğünü bozmak, Türk Devletinin ve Cumhuriyetin varlığını tehlikeye düşürmek, temel hak ve hürriyetleri yok etmek, Devletin bir kişi veya zümre tarafından yönetilmesini veya sosyal bir sınıfın diğer sosyal sınıflar üzerinde egemenliğini sağlamak veya dil, ırk, din ve mezhep ayırımı yaratmak veya sair herhangi bir yoldan bu kavram ve görüşlere dayanan bir devlet düzenini kurmak amacıyla kullanılamazlar.
-Bu yasaklara aykırı hareket eden veya başkalarını bu yolda teşvik veya tahrik edenler hakkında uygulanacak müeyyideler, kanunla düzenlenir.
-Anayasanın hiçbir hükmü, Anayasada yer alan hak ve hürriyetleri yok etmeye yönelik bir faaliyette bulunma hakkını verir şekilde yorumlanamaz.
+Madde 14 – (Değişik: 3/10/2001-4709/3 md.)
+Anayasada yer alan hak ve hürriyetlerden hiçbiri, Devletin ülkesi ve milletiyle bölünmez bütünlüğünü bozmayı ve insan haklarına dayanan demokratik ve lâik Cumhuriyeti ortadan kaldırmayı amaçlayan faaliyetler biçiminde kullanılamaz.
+Anayasa hükümlerinden hiçbiri, Devlete veya kişilere, Anayasayla tanınan temel hak ve hürriyetlerin yok edilmesini veya Anayasada belirtilenden daha geniş şekilde sınırlandırılmasını amaçlayan bir faaliyette bulunmayı mümkün kılacak şekilde yorumlanamaz.
+Bu hükümlere aykırı faaliyette bulunanlar hakkında uygulanacak müeyyideler, kanunla düzenlenir.

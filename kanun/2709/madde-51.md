@@ -1,9 +1,8 @@
 C. Sendika kurma hakkı
-Madde 51 – İşçiler ve işverenler, üyelerinin çalışma ilişkilerinde, ekonomik ve sosyal hak ve menfaatlerini korumak ve geliştirmek için önceden izin almaksızın sendikalar ve üst kuruluşlar kurma hakkına sahiptirler.
-Sendikalar veya üst kuruluşlarını kurabilmek için kanunun gösterdiği bilgi ve belgelerin, kanunda belirtilen yetkili mercie verilmesi yeterlidir. Bu bilgi ve belgelerin kanuna aykırılığının tespiti halinde yetkili merci, sendika veya üst kuruluşun faaliyetinin durdurulması veya kapatılması için mahkemeye başvurur.
-Sendikalara üye olmak ve üyelikten ayrılmak serbesttir.
-Hiç kimse sendikaya üye olmaya, üye kalmaya, üyelikten ayrılmaya zorlanamaz.
-İşçiler ve işverenler aynı zamanda birden fazla sendikaya üye olamazlar.
-Herhangi bir iş yerinde çalışabilmek, işçi sendikasına üye olmak veya olmamak şartına bağlanamaz.
-İşçi sendika ve üst kuruluşlarında yönetici olabilmek için, en az on yıl bilfiil işçi olarak çalışmış olma şartı aranır.
-Sendika ve üst kuruluşlarının tüzükleri, yönetim ve işleyişleri, Anayasada belirlenen Cumhuriyetin niteliklerine ve demokratik esaslara aykırı olamaz.
+Madde 51 – (Değişik: 3/10/2001-4709/20 md.)
+Çalışanlar ve işverenler, üyelerinin çalışma ilişkilerinde, ekonomik ve sosyal hak ve menfaatlerini korumak ve geliştirmek için önceden izin almaksızın sendikalar ve üst kuruluşlar kurma, bunlara serbestçe üye olma ve üyelikten serbestçe çekilme haklarına sahiptir. Hiç kimse bir sendikaya üye olmaya ya da üyelikten ayrılmaya zorlanamaz.
+Sendika kurma hakkı ancak, millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlık ve genel ahlâk ile başkalarının hak ve özgürlüklerinin korunması sebepleriyle ve kanunla sınırlanabilir.
+Sendika kurma hakkının kullanılmasında uygulanacak şekil, şart ve usuller kanunda gösterilir.
+Aynı zamanda ve aynı işkolunda birden fazla sendikaya üye olunamaz.
+İşçi niteliği taşımayan kamu görevlilerinin bu alandaki haklarının kapsam, istisna ve sınırları gördükleri hizmetin niteliğine uygun olarak kanunla düzenlenir.
+Sendika ve üst kuruluşlarının tüzükleri, yönetim ve işleyişleri, Cumhuriyetin temel niteliklerine ve demokrasi esaslarına aykırı olamaz.
