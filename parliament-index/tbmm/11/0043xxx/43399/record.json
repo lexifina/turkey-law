@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 43399,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "20 Ocak 1958 tarihinde Ankarada İran, Irak, Pakistan ve Türkiye tarafından imzalanmış bulunan «Gümrük kanunlarının ve nizamnamelerinin ihlâlinin önlenmesine, soruşturulmasına ve tecziyesine mütedair Karşılıklı Yardım Sözleşmesi» nin İran, Pakistan ve Türkiye arasında meriyete girmesine dair Protokolün tasdiki hakkında (1/444)",
+  "title": "20 Ocak 1958 tarihinde Ankarada İran, Irak, Pakistan ve Türkiye tarafından imzalanmış bulunan «Gümrük kanunlarının ve nizamnamelerinin ihlâlinin önlenmesine, soruşturulmasına ve tecziyesine mütedair Karşılıklı Yardım Sözleşmesi» nin İran, Pakistan ve Türkiye arasında meriyete girmesine dair Protokolün tasdiki hakkında (1/444)",
+  "first_sitting_date": "1959-11-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 2,
+      "sitting_date": "1959-11-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c010/tbmm11010002.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c010/tbmm11010fih.pdf",
+      "pages": [
+        "24"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 28,
+      "sitting_date": "1960-01-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c011/tbmm11011028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c011/tbmm11011fih.pdf",
+      "pages": [
+        "309"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 65,
+      "sitting_date": "1960-05-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013fih.pdf",
+      "pages": [
+        "393"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=644&v_gelecek_sayfa=501&v_kullanici_id=27484289",
+  "source_sha256": "45714de56a21c06ac09adf8a5adfc2edfd065cc4f46aa4f4c2eb7a16707b4aa4",
+  "in_force": "1959-11-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
