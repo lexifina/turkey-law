@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6664-947/59079",
+  "source_id": 37133,
+  "date": "2000-11-03",
+  "title": "ükelleflerin parsellenerek arsa vasfını kazanan taşınmazların arsa olarak vergilendirilmesi gerekmektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37133",
+  "source_sha256": "71c09bae09b179067edf0c0ca933d95e164fb78cc11b3d3b6e525f29426c4bb9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
