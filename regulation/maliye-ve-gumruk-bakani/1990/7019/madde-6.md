@@ -1,0 +1,3 @@
+Tasdik Talebinin Niteliği
+MADDE 6 - Gerçek ve tüzel kişiler veya bunların teşebbüs ve işletmeleri tasdik işleri nedeniyle yeminli mali müşavirin ücret faktöründen ziyade tasdik amacını gerçekleştirecek uzmanlık ve deneyimini esas alarak seçimini yapar.
+Yeminli mali müşavirler de üstlenecekleri tasdik işleminin kendilerine getirebileceği riski tespit etmek; tasdik kapsam ve programını belirlemek amacıyla gerekli araştırmalar yapmak zorundadırlar. Görevi üstlenecek yeminli mali müşavir, daha önce tasdik talebini karşılayan veya karşılamakta olan meslek mensubundan görüşme yapmak suretiyle bilgi toplayabilir.

@@ -1,0 +1,1 @@
+Geçici Madde 1 - (EK: RG 31/5/1995-22299) Bu Yönetmeliğin 7/A-a ve 7/B-a maddelerinde belirtilen belgelerden 1995 vergilendirme dönemine ait olanların tasdikine ilişkin sözleşmeler 31 Mayıs 1995 tarihi sonuna kadar düzenlenir.

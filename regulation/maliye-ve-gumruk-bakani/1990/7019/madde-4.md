@@ -1,0 +1,4 @@
+Tasdik
+MADDE 4 - Tasdik, gerçek veya tüzel kişilerin veya bunların teşebbüs ve işletmelerinin yeminli mali müşavirlerce denetleme ilke ve standartlarına göre uygunluk yönünden incelenmesi, bu inceleme sonuçlarına dayanılarak tasdik kapsamına giren konuların ve belgelerin gerçeği yansıtıp yansıtmadığının imza ve mühür kullanmak suretiyle tespiti ve rapora bağlanmasıdır.
+Tasdike esas alınan denetleme ilke ve standartları ile muhasebe ilke ve standartları, mevzuat hükümleri ve genel kabul görmüş muhasebe ilkeleri gözönüne alınarak, Bakanlıkça hazırlanan tebliğlerle belirlenir.
+Bu Yönetmelik ve Bakanlık tarafından konuya ilişkin olarak yapılacak diğer düzenlemeler çerçevesinde tasdik edilmiş konu ve belgeler kamu idaresinin yetkililerince tasdikin kapsamı ölçüsünde incelenmiş olarak kabul edilir. Ancak, çeşitli kanunlarla kamu idaresine tanınan inceleme ve teftiş yetkilerinin kullanılmasına ve gerektiğinde tekrarına ait hususlar saklıdır.

@@ -1,0 +1,4 @@
+YEMİNLİ MALİ MÜŞAVİRLERİN TASDİK EDECEKLERİ BELGELER, TASDİK KONULARI, TASDİKE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK
+Amaç ve Kapsam
+MADDE 1 - Bu Yönetmeliğin amacı, yeminli mali müşavirlerce, gerçek veya tüzel kişilerin veya bunların teşebbüs veya işletmelerinin mali tablo veya beyannamelerinin; vergi, istisna, muafiyet, iade, indirim, tecil, terkin veya zarar mahsubu işlemleri ve benzeri taleplerinin mevzuat hükümlerine, muhasebe ilke standartlarına uygunluğu esas alınarak hesapların gerçeğe uygun ve doğru bilgi verecek şekilde tutulmasını ve bu suretle mükelleflerin doğru beyanda bulunmalarını sağlamaktır.
+Yeminli mali müşavirlerce, gerçek ve tüzel kişilerin mükellefiyet şekilleri, iş kolları ve ciroları, döviz kazandırıcı işlemleri, ithalat ve ihracatları, yatırım miktarları ve nevileri ile belgelerin ibraz edileceği merciler esas alınmak suretiyle tasdik edecekleri belgeler, tasdik konuları ve tasdike ilişkin usul ve esaslar bu Yönetmelikte belirtilmiştir
