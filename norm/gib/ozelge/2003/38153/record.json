@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6231-7- 381/21386",
+  "source_id": 38153,
+  "date": "2003-05-22",
+  "title": "İdarelerin ihtiyaçlarını doğrudan teminine ilişkin olarak düzenlenen sözleşmenin (veya bu mahiyetteki kağıdın) damga vergisine tabi tutulması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38153",
+  "source_sha256": "81881455fa98cac29e52deb798f279a6cdbcee5a697d6798511e352d578448b2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
