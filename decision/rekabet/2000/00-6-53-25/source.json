@@ -1,0 +1,13 @@
+{
+  "number": "00-6/53-25",
+  "type": "Rekabet İhlali",
+  "decision_date": "2000-02-10",
+  "publication_date": "2000-08-20",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=bad8b585-1ffe-4c56-94cb-de581e78b91d",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1040",
+  "pdf_sha256": "b23887d74399bb6764256cdec14bfd7f8ae11b50d914462971ab2faf622d1cb3",
+  "pdf_bytes": "158068",
+  "pages": "3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
