@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4707",
+  "year": 2001,
+  "title": "Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanun, 3 Mart 1340 (1924) Tarihli ve 431 Sayılı Kanunla Hazineye Kalan Taşınmaz Mallardan Bazılarının Zilyedlerine Devri Hakkında Kanun ile Mülga 2613 ve 766 Sayılı Kanunlarla Hazine Adına Tescil Edilen Miktar Fazlalıklarının İlgililerine Devrine Dair Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-07-13",
+  "gazette_issue": "24461",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/07/20010713.htm",
+  "source_sha256": "f50b50632f1a93563cab38f96be6f59be70c9e9fd42f711a4d8a60a6d73fb365",
+  "text_sha256": "de5cd3b119a1ae49f449e811c78f5016f7717465594476dfe97a1cf82b746259",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/07/13/24461-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/07/20010713.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
