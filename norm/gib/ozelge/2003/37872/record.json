@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-12185 /6045",
+  "source_id": 37872,
+  "date": "2003-02-08",
+  "title": "Gelir Vergisi Kanunu'nun 48 inci maddesinde yer alan hadler, 1.1.2002 tarihinden itibaren...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37872",
+  "source_sha256": "03ef4bb96aa8dd4b1a219b1354d9762e8c6e5dad8aff1ec5b76ee167688a8157",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
