@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "117",
+  "year": 1967,
+  "title": "Millet Meclisinin 3 Eylül 1962 tarihine kadar tatiline dair",
+  "adopted": "1967-07-07",
+  "adopted_as_published": "07/07/1962",
+  "date_basis": "adopted-repaired",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/karartbmmc045/karartbmmc04500117.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 45",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 335554,
+      "title": "Millet Meclisinin 3 Eylül 1962 tarihine kadar tatiline dair",
+      "adopted_as_published": "07/07/1962",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/karartbmmc045/karartbmmc04500117.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 110,
+          "sitting_date": "1967-07-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006110.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006fih.pdf",
+          "pages": [
+            "264:272",
+            "287:290"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=684&v_gelecek_sayfa=501&v_kullanici_id=27485026",
+      "page_sha256": "b006b33f5ec0f417b28cb0c937c3ca75ef7b6d888990f6e80e4542eed54da75f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b006b33f5ec0f417b28cb0c937c3ca75ef7b6d888990f6e80e4542eed54da75f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1967-07-07",
+  "in_force_basis": "Kabul tarihi as printed in the official TBMM kararlar index is 07/07/1962, whose year is a misprint: the one cited sitting with the same day and month is 1967-07-07; date of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
