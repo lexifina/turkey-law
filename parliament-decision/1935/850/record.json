@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "850",
+  "year": 1935,
+  "title": "850 sayılı Karar",
+  "adopted": "1935-04-11",
+  "adopted_as_published": "11/04/1935",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "17.04.1935 No: 2980",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/karartbmmc015/karartbmmc01500850.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 15",
+  "committee_reports": [
+    {
+      "label": "TBMM 31 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c002/tbmm05002013ss0031.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104810,
+      "title": "850 sayılı Karar",
+      "adopted_as_published": "11/04/1935",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/karartbmmc015/karartbmmc01500850.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 31 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c002/tbmm05002013ss0031.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 12,
+          "sitting_date": "1935-04-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c002/tbmm05002012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c002/tbmm05002fih.pdf",
+          "pages": [
+            "40"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 13,
+          "sitting_date": "1935-04-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c002/tbmm05002013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c002/tbmm05002fih.pdf",
+          "pages": [
+            "55"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=234&v_gelecek_sayfa=101&v_kullanici_id=27483265",
+      "page_sha256": "531fb016e7d28a3eeb7af5538c7a6ec28b9cb6dcdb7cd720656e3367502e5454"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "531fb016e7d28a3eeb7af5538c7a6ec28b9cb6dcdb7cd720656e3367502e5454",
+  "issuer": "TBMM",
+  "in_force": "1935-04-11",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 11/04/1935; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
