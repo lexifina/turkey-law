@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "219/13",
+  "decision_date": "2003-10-16",
+  "title": "Doğal Gaz Piyasası Dağıtım Şirketlerinin İhale alabilecekleri Şehir Sayısı",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gA6LW27B42s=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gA6LW27B42s="
+  ],
+  "source_sha256": "5c85ceb6bcdd3f9086eb1662ebb7171c0a3443672cd556d2aa033dbdc595e4de",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-10-16",
+  "law_text_complete": false
+}
