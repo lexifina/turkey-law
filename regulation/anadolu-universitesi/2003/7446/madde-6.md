@@ -1,0 +1,2 @@
+Müdür
+Madde 6 – Müdür, Merkezin çalışma alanı ile ilgili Üniversite öğretim üyeleri arasından Rektör tarafından 3 (üç) yıl için görevlendirilir. Süresi dolan müdür tekrar atanabilir. Müdür, kendisine çalışmalarında yardımcı olmak üzere bir Müdür Yardımcısı seçer ve Rektörün onayına sunar. Müdür Yardımcısı, Müdürün bulunmadığı zamanlarda Müdüre vekalet eder. Vekalet süresi 6 (altı) ayı aştığı takdirde yerine yeni bir müdür atanır.

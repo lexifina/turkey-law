@@ -1,0 +1,2 @@
+Yönetim Kurulu
+Madde 8 - Yönetim Kurulu, Merkez Müdürünün yanı sıra Rektör tarafından 3 (üç) yıl için görevlendirilen 4 (dört) kişi ile birlikte 5 (beş) üyeden oluşur. Üyelerden üçü Merkezin çalışma alanı ile ilgili öğretim üyeleri arasından, biri ise Merkezin çalışanları arasından seçilir. Merkez Müdürü Yönetim Kurulunun başkanıdır. Süresi dolan üyeler tekrar görevlendirilebilir. Süresi bitmeden ayrılanların yerine süreyi doldurmak üzere yenileri görevlendirilir. Yönetim kurulunda oylamalar açık yapılır ve kararlar toplantıya katılanların çoğunluğuyla alınır.
