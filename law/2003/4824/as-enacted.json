@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4824",
+  "year": 2003,
+  "title": "Anti Personel Mayınların Kullanımının Depolanmasının, Üretiminin ve Devredilmesinin Yasaklanması ve Bunların İmhası ile İlgili Sözleşmeye Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-03-15",
+  "gazette_issue": "25049",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030315.htm",
+  "source_sha256": "b0d1fec92cc916fe3bc4f1becdf4a6bed124874c808eed3098184ecfd4a3a7a4",
+  "text_sha256": "732b3e2d709016a176e74608144d59a71a76a708624d0e8a53804c8db9272772",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/03/15/25049-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030315.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
