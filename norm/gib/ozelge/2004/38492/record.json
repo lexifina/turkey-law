@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2799",
+  "source_id": 38492,
+  "date": "2004-06-29",
+  "title": "Belli bir sınırı aşmayan nakden iadeler teminat karşılığı veya yeminli mali müşavir tasdik raporu ibraz edilmek suretiyle yapılmaktadır. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38492",
+  "source_sha256": "d10bc1e93e83c3a7b3d994f3db17b6d4b54885e86c6f8bfa265fe2c6f87160dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
