@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2163",
+  "year": 1933,
+  "title": "1932 Malî Senesi Muvazenei Umumiye Kanununun 5 nci maddesine merbut cetvelde tadilât yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-05-08",
+  "gazette_issue": "2395",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2395.pdf",
+  "source_sha256": "e2d42edf45d34b08ff3a0d3d9f6a64ed088397a31aea193501aa3bf9be1df63e",
+  "text_sha256": "e602ef2c1a3206da7a078dc069d501655b53fd7e9659bd6072b5b57e5b736210",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      2312,
+      2333
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202163.pdf",
+    "source_sha256": "349b1a952f7de403b7efe9174d94197dfeb51b66c81b34c5b6bd6a04c34de340",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9297,
+    "bag": 0.8267,
+    "kd_coverage": 0.9577,
+    "kd_body_compared": 0.9324,
+    "rg_words": 81,
+    "kd_words": 74,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
