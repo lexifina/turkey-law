@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2611",
+  "year": 1934,
+  "title": "Afyon Karahisar-Antalya demiryolunun inşasına dair 2134 numaralı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-12-22",
+  "gazette_issue": "2886",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2886.pdf",
+  "source_sha256": "170e4c97ed4847735862a0812186db63b3584516c8ba8dd0d06afea390d98fbb",
+  "text_sha256": "33ea5df4b516306e79fbea5808f871e1ca865fd92ee7e30fdadf639a0860d4a8",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      494,
+      528
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402611.pdf",
+    "source_sha256": "e18fae517b0b83eb2e3ab54d3506a10adf9db171b264664f3582da6661243642",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9653,
+    "bag": 0.9057,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9853,
+    "rg_words": 131,
+    "kd_words": 136,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
