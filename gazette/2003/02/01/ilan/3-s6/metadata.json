@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-02-01",
+  "issue": "25011",
+  "edition": "regular",
+  "item": 6,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Tarım İşletmeleri Genel Müdürlüğü Ceylanpınar Tarım İşletmesi Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/02/20030201-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (39 = 39)",
+  "ilan_codes": [
+    "1374/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/02/20030201-3.htm",
+  "category_page_sha256": "875c9a39d93944fa6f471747fdc63028c6916bc9f4c09016843f860f0ae71ded",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/02/20030201.htm",
+  "index_sha256": "266fd7052599540b50619a042974c16883931fab643b76af3a110568cd0ce508",
+  "index_header": "1 Şubat 2003 ... Sayı : 25011",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
