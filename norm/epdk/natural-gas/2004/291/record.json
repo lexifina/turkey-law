@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "291",
+  "decision_date": "2004-01-27",
+  "title": "Doğal gaz Piyasası tarifeler hakkında",
+  "resmi_gazete_date": "2004-01-29",
+  "resmi_gazete_number": "25361",
+  "categories": [
+    "Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lu5p3iUmCf0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lu5p3iUmCf0="
+  ],
+  "source_sha256": "652d91081425067db50bfa6f4e57542f83daa06ecca6c730bbc4e6ece277f9ec",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7233,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-01-27",
+  "law_text_complete": false
+}
