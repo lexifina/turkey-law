@@ -1,0 +1,13 @@
+{
+  "number": "00-34/368-206",
+  "type": "Rekabet İhlali",
+  "decision_date": "2000-09-12",
+  "publication_date": "2003-07-07",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=06cd514d-a8be-46bc-b1c0-283e2b800f67",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=999",
+  "pdf_sha256": "2a1daffeb738eb958329012659a6b895b8effbfd8fafab72cc5ec0dd6082a431",
+  "pdf_bytes": "275567",
+  "pages": "5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
