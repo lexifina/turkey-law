@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3381",
+  "year": 1938,
+  "title": "Meteoroloji istasyonları için satın alınacak alet ve cihazların tedariki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-05-10",
+  "gazette_issue": "3903",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3903.pdf",
+  "source_sha256": "56e1bc3e0cb9f6a458a663d31732173e666e251578a7c30d7865eb24e4f37942",
+  "text_sha256": "646a2ed68af161fe64d195b6c779829ec6b15e5238ff03c9eed02757b50b4119",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      39,
+      53
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803381.pdf",
+    "source_sha256": "f58a8a3c866e3e18117f87e4649c469a1e0b43e6a137be25fc776b38a8872eb0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9689,
+    "bag": 0.9375,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9756,
+    "rg_words": 80,
+    "kd_words": 82,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
