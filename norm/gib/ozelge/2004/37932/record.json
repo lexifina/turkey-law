@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.68./6802-",
+  "source_id": 37932,
+  "date": "2004-02-27",
+  "title": "K.K.D.F",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37932",
+  "source_sha256": "d425cec200c4863761e6fd4f648bb640204481b53b301faeb1d612b2f8dc58e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
