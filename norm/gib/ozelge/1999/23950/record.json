@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-2693/1809",
+  "source_id": 23950,
+  "date": "1999-01-15",
+  "title": "Gölde yetişen kamış ürününün kiraya verilmesi halinde, KDV'ne tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/23950",
+  "source_sha256": "a7e90111a786d7117f69ed4302e06246b518955d2143d6c2a1d3cfbf00487ef7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
