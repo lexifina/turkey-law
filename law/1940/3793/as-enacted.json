@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3793",
+  "year": 1940,
+  "title": "İhtiyat subay ve ihtiyat askerî memurlar hakkındaki 1076 sayılı kanunun 3 ve 14. maddelerine birer fıkra eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-04-08",
+  "gazette_issue": "4479",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4479.pdf",
+  "source_sha256": "112b87065c667fe695df6d887f8bd5aad95151e0ff41d0f5d3a0160e41b1d99d",
+  "text_sha256": "57e9da50b6931022caca9cb50adf339bb22e8a4e9c1fd417f3a96fb28036f3dc",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      33
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103793.pdf",
+    "source_sha256": "62e7584bfe250263104704fe6f079fef95258df58e69cc63991b6eddd34c7e17",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9869,
+    "bag": 0.9244,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9833,
+    "rg_words": 120,
+    "kd_words": 120,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
