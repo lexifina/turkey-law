@@ -1,0 +1,1 @@
+Geçici Madde 2 - Bu Yönetmeliğin yayımından önce mevcut döner sermaye İşletmesi yönetmeliklerine göre başlanmış iş ve hizmetler sonuçlanıncaya kadar eski mevzuat hükümlerinin uygulanmasına devam olunur.
