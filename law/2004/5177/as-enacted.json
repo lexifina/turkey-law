@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5177",
+  "year": 2004,
+  "title": "Maden Kanununda ve Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-06-05",
+  "gazette_issue": "25483",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/06/20040605.htm",
+  "source_sha256": "aba4265e01db8c1782753e94cfa140b5e0aa63f387a6695e453ad124b93f7a40",
+  "text_sha256": "c6b1e850860aa447b1a78d74a662522017f8bbfa9b73066de8322fc8817e9ab7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/06/05/25483-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/06/20040605.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
