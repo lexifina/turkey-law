@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1170",
+  "source_id": 37874,
+  "date": "2002-06-04",
+  "title": "Herhangi bir müracaatta bulunmadan hediyelik eşya satışı faaliyetine başladığı, işyerinin...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37874",
+  "source_sha256": "20d46f1642c5d9ca25bfded02d7862f10b46633c22a09233beb1854b53fc9997",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
