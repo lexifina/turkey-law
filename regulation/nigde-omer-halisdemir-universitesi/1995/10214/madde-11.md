@@ -1,0 +1,1 @@
+Madde 11- Kütüphaneden yararlanan bütün okuyucular kontrol edilir ve materyal çalınmasına karşı her türlü tedbir alınır. Kütüphaneden yararlananlar ödünç aldıkları materyali iyi kullanmakla ve belirtilen tarihte geri vermekle yükümlüdür. Yazma ve nadir eserlerle arşiv materyallerinin incelenmesi kütüphane yöneticisinin iznine bağlıdır.

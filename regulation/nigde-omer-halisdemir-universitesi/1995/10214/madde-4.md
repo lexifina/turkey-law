@@ -1,0 +1,2 @@
+Madde 4- Kütüphane hizmetleri; Kütüphane ve Dokümantasyon Daire Başkanlığı tarafından yürütülür.
+Kütüphaneye alınması istenilen (kitap, periyodik, mikrofilm, disket vs.) materyallerin seçimi ve fiyatı belli olmayanların fiyat takdiri Rektör veya Rektör Yardımcısı başkanlığında Kütüphane ve Dokümantasyon Daire Başkanı ile en az 1 kütüphaneciden oluşan “Kitap seçimi ve Değer Takdir Komisyonu’nca” bütçe ödenekleri ve sarf usulü dikkate alınarak yapılır.
