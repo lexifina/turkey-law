@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 43745,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "İçel Mebusu Niyazi Soydan'ın, Maaş Kanununa ek 4379 sayılı Kanunun 1. ve 2. maddelerinin değiştirilmesine ve bu kanuna bâzı geçici maddeler eklenmesine dair 5585 sayılı Kanuna muvakkat madde ilâvesi hakkındaki 6724 sayılı Kanuna ek kanun teklifine dair (2/164)",
+  "title": "İçel Mebusu Niyazi Soydan'ın, Maaş Kanununa ek 4379 sayılı Kanunun 1. ve 2. maddelerinin değiştirilmesine ve bu kanuna bâzı geçici maddeler eklenmesine dair 5585 sayılı Kanuna muvakkat madde ilâvesi hakkındaki 6724 sayılı Kanuna ek kanun teklifine dair (2/164)",
+  "first_sitting_date": "1959-12-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 9,
+      "sitting_date": "1959-12-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c010/tbmm11010009.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c010/tbmm11010fih.pdf",
+      "pages": [
+        "257:258",
+        "298:303",
+        "313:325",
+        "377:378",
+        "412",
+        "437",
+        "453",
+        "496",
+        "650",
+        "694"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 18,
+      "sitting_date": "1959-12-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c010/tbmm11010018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c010/tbmm11010fih.pdf",
+      "pages": [
+        "438"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 64,
+      "sitting_date": "1960-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013fih.pdf",
+      "pages": [
+        "376",
+        "392",
+        "416"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1113&v_gelecek_sayfa=801&v_kullanici_id=27484293",
+  "source_sha256": "81835304a786544e34a05ffe4cd3f779fe905eb9dbb3b15cf00a4849ee00f9cf",
+  "in_force": "1959-12-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
