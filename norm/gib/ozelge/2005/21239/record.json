@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2849",
+  "source_id": 21239,
+  "date": "2005-04-03",
+  "title": "Belli mikatarı aşan yatırım harcamalarının yatırım indirimi istisnasından yararlanbilmesi için yeminli mali müşavirlere tasdik ettirilmeleri gerekmektedir ve bu miktar her yıl yeniden değerleme oaranında artırılmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/21239",
+  "source_sha256": "31bc54b63fa300606e84e1b79d8907a4c0dfe0f8f8b2d032e040db078022428c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
