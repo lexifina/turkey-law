@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "87/11812",
+  "source_id": 2118,
+  "date": "1987-06-06",
+  "title": "KURUMLAR VERGİSİ KANUNUNUN 25 İNCİ MADDESİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/bkk/2118",
+  "related_law": "5422 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "9931475f171f7bf32ec9d2487e451f07b73ebfe288a14f61e19c116db7fba021",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
