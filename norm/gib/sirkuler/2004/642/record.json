@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-15/2004-7/Kar Paylarının Vergilendirilmesi-1",
+  "source_id": 642,
+  "date": "2004-02-11",
+  "title": "Kar payları üzerinden yapılan vergi tevkifatı, kar payına kaynak teşkil eden kurum kazancının istisna olup olmadığına bakılmaksızın karın dağıtılması aşamasına bırakılmıştır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/642",
+  "source_sha256": "5edfc812e30f49cd0fab39e8d41f205ecb3fbbd8073b1a7e94bd6d5326802c7c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
