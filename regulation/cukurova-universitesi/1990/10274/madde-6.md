@@ -1,0 +1,3 @@
+Merkez Müdürü ve Görevleri
+Madde 6 - Çukurova Üniversitesi Subtropik Meyveler Araştırma ve Uygulama Merkez Müdürü Çukurova Üniversitesi Rektörü tarafından tercihen Merkezin faaliyetleri ile ilgili alanda çalışan öğretim üyeleri arasından 3 yıl için atanır. Süresi biten Müdür yeniden atanabileceği gibi süresi dolmadan aynı şekilde görevinden alınabilir.
+Müdür merkezde görevlendirilen, tercihen öğretim üyeleri arasından, en çok iki müdür yardımcısı atar. Müdürün olmadığı hallerde müdür yardımcılarından biri, müdür yardımcısı da bulunmazsa Yönetim Kurulu üyelerinden bir Müdüre vekalet eder. Vekalet süresi altı ayı aşamaz. Müdürün görevi sona erdiğinde müdür yardımcılarının görevleri de sona erer.
