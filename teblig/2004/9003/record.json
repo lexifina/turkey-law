@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.9003",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MUHASEBAT GENEL MÜDÜRLÜĞÜ GENEL TEBLİĞİ (SIRA NO:18) HAKEDİŞLERDEN YAPILACAK KESİNTİLER",
+  "number": "9003",
+  "path": "teblig/2004/9003",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9003&MevzuatTertip=5",
+  "source_sha256": "4dd865a830a377555beb9ea9eb383f78551ebee7563b4cb924a6d2b5d4287fdc",
+  "source_bytes": 30641,
+  "published": "2004-02-20",
+  "gazette": "25379",
+  "in_force": "2004-02-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.02.2004); own commencement article: \"Bu Tebliğ, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1015,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
