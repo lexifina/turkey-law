@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "B.07.0.GEL.0.66/6654-256",
+  "source_id": 1080,
+  "date": "2003-11-05",
+  "title": "Belediye ve mücavir alan sınırları dışında bulunan arazi, arsa ve arsa sayılacak parsellenmemiş arazilerin arazi vergisi karşısındaki durumu hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/sirkuler/1080",
+  "source_sha256": "3496004406fdf4beac6e785634857a325b64ac6884c3ef71e44aee9a6b911a64",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
