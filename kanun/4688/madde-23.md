@@ -1,0 +1,5 @@
+İşyeri sendika temsilcileri
+MADDE 23 — İşyerlerinde kamu görevlilerinden en çok üye kaydetmiş sendika işyeri temsilcisi seçmeye yetkilidir.
+Sendika temsilcileri, işyerlerinde, üyelerinin işveren veya işyeri ile ilgili sorunlarını dinlemek, ilgili yerlere iletmek ve sendika ile işveren arasında iletişim sağlamak amacıyla, sendikaların tüzüklerinde belirtilen yetkili kurullar tarafından bir genel kurul dönemi için işyerinden seçilirler.
+İşyerinde kamu görevlileri arasında en çok üye kaydetmiş sendikanın bulundurabileceği temsilci sayısı, işyerindeki kamu görevlisi sayısı 20-100 arasında ise en çok bir, 101-500 arasında ise en çok iki, 501-1000 arasında ise en çok üç, 1001-2000 arasında ise en çok beş, 2000'den fazla ise en çok yedidir. Bu temsilcilerden biri sendika tarafından baş temsilci olarak görevlendirilebilir. İşyeri sendika temsilcileri bu görevlerini işyerinde, haftada iki - saat olmak üzere yerine getirirler. Temsilciler bu sürede izinli sayılırlar.
+Kamu işvereni, yönetim ve hizmetin işleyişini engellemeyecek biçimde sendika temsilcilerine çalışma saatleri içinde ve dışında görevlerini yapabilmeleri için imkânlar ölçüsünde kolaylıklar sağlar.
