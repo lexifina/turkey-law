@@ -1,0 +1,1 @@
+Madde 1 - Türk Silahlı Kuvvetlerinde, Astsubay nasbedilenlere, 20 Ağustos 1971 tarih ve 1468 sayılı Kanunun birinci maddesinde verilmesi öngörülen giyecek ve teçhizatın, cins-miktar-veriliş şekli-sarfı ve konuyla ilgili diğer hususları tespit etmektedir.

@@ -1,0 +1,4 @@
+DAĞITIM ŞEKLİ:
+Madde 8 - Tabloda gösterilen giyecek ve teçhizat ilgili mal saymanlıklarınca hak sahiplerine imza karşılığı ve altı bağlı oldukları Komutanlıklarca onaylanmış dağıtım çizelgeleriyle dağıtılır. Dağıtımın yapılmasıyla birlikte kati masraf yapılır.
+Muhasebeleri de bu konularla ilgili mevcut tüzük, yönetmelik ve özel talimatlar hükümlerine göre yürütülür.
+Geçici madde: Kanunun yürürlüğe girdiği tarih ile bu Yönetmeliğin yayınlandığı tarihe kadar geçen sürede astsubay nasbedilerek okullarından ayrılmış olanların istihkakları, atandıkları Birlik ve kurumlarca hazırlanacak isim çizelgeleriyle bağlı bulundukları Kuvvet Komutanlıkları ve Jandarma Genel Komutanlığı ikmal teşkillerinden istenir. İkmal teşkillerinin vereceği tertip emirleri ile istihkaklar hak sahiplerinin bulundukları birlik ve kurumlara gönderilir.

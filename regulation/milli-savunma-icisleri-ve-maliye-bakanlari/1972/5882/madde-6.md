@@ -1,0 +1,2 @@
+İSTİHKAK KAYDI:
+Madde 6 - Astsubay nasbedildikten sonra birlik ve kurumlara atananlara 4 ncü madde uyarınca verilen giyecek ve teçhizatın cins-miktar ve veriliş tarihleri ile verilmiyenlerin sebep, cins ve miktarı okullarınca muhassesat ilmuhaberlerine (İstihkak ilmuhaberlerine veya istihkak kartlarına) yazılır. Mezkur ilmuhaber veya istihkak kartlarından verilmediği saptanan istihkaklar birlik ve kurumlarınca astsubayların mezun oldukları okul komutanlıklarından istenir.
