@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2830",
+  "year": 1935,
+  "title": "İzmir rıhtım şirketinin imtiyazı ile tesisatının satın alınmasına dair olan 12 Haziran 1933 tarih ve 2309 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-11-01",
+  "gazette_issue": "3145",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3145.pdf",
+  "source_sha256": "18c1ee9910a95a751ef8fe71e80291e1e555caa6cd58251338a82447a18379c2",
+  "text_sha256": "c132dab0f30bd5edc4ec0c56926e8c3f3ce9980cde3bb029448a625a7de482fb",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      72,
+      89
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502830.pdf",
+    "source_sha256": "e933f6d3b8bcdd5d674e4f23679c44a8c7294e8784348f0b41eb896decb29756",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9814,
+    "bag": 0.9427,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.963,
+    "rg_words": 79,
+    "kd_words": 81,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
