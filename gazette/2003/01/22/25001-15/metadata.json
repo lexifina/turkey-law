@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-01-22",
+  "issue": "25001",
+  "edition": "regular",
+  "item": 15,
+  "section": "YARGI BÖLÜMÜ",
+  "heading": "Yargıtay Kararları",
+  "title": "Yargıtay 2. Hukuk Dairesine Ait 2 Adet Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030122.htm#15",
+  "link_format": "inline-anchor",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030122.htm",
+  "index_sha256": "fb92e75b8b4c189491afdcd32441d285fe928937147bfde3961d8991e39893b4",
+  "index_header": "22 Ocak 2003 ... Sayı : 25001",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
