@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-30075/17160",
+  "source_id": 21712,
+  "date": "1999-04-30",
+  "title": "Müteakip vergilendirme döneminde yapılması öngörülen yatırım harcaması da dahil olmak üzere, kazancın yetersiz olması nedeniyle yıllık beyannamede indirim konusu yapılamayan tutar, ilgili geçici vergi döneminde, fiilen harcama yapılmasa dahi geçici vergi ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21712",
+  "source_sha256": "0231e4585d456933bdc05db037f4596f4f3511aa19d0b2a1def2c7583ddbdcde",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
