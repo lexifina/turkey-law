@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-13/2004-11/Enflasyon Düzeltmesi Uygulaması-9",
+  "source_id": 828,
+  "date": "2004-11-10",
+  "title": "Enflasyon düzeltmesi yapmak zorunda olan söz konusu mükellefler ile diğer tüm mükelleflerin üçüncü geçici vergi dönemine ilişkin beyannamelerini verme süresi hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/828",
+  "source_sha256": "83fe9304ae2b7c23b25eae4fa3a9e35f955dc7dc9ceaaa6eb53854db59cc03dc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
