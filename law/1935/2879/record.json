@@ -1,0 +1,85 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2879",
+  "year": 1935,
+  "title": "Umumî muvazeneye giren vekâlet ve daireler ile Vakıflar Umum Müdürlüğü arasındaki bütün alacak ve vereceklerin karşılıklı olarak ibrasına dair kanun",
+  "adopted": "1935-12-25",
+  "adopted_as_published": "25/12/1935",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "04.01.1936 No: 3197",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602879.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 16",
+  "committee_reports": [
+    {
+      "label": "TBMM 44 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c007/tbmm05007019ss0044.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104093,
+      "title": "Umumî muvazeneye giren vekâlet ve daireler ile Vakıflar Umum Müdürlüğü arasındaki bütün alacak ve vereceklerin karşılıklı olarak ibrasına dair kanun",
+      "adopted_as_published": "25/12/1935",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602879.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 44 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c007/tbmm05007019ss0044.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 18,
+          "sitting_date": "1935-12-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c007/tbmm05007018.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c007/tbmm05007fih.pdf",
+          "pages": [
+            "106",
+            ""
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 19,
+          "sitting_date": "1935-12-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c007/tbmm05007019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c007/tbmm05007fih.pdf",
+          "pages": [
+            "129:130"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 21,
+          "sitting_date": "1935-12-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c007/tbmm05007021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c007/tbmm05007fih.pdf",
+          "pages": [
+            "166",
+            "181",
+            "198:201"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "d75220fb874bbb1971a0036578fac6f1c290781ecdbc06c2ab371618d88ac55a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d75220fb874bbb1971a0036578fac6f1c290781ecdbc06c2ab371618d88ac55a",
+  "issuer": "TBMM",
+  "in_force": "1935-12-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 25/12/1935; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
