@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3147",
+  "year": 1937,
+  "title": "1936 mali yılı Muvazenei Umumiye Kanununa dahil bazı daire bütçelerile (D) cetvelinde değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-04-10",
+  "gazette_issue": "3577",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3577.pdf",
+  "source_sha256": "806dd32389a698c01c3b68c7d0b0e4caf81f8a75c49d9023f2e9b4632d4efbb5",
+  "text_sha256": "e6b6e189dff700105cc225a92e2b5d110fa289ca828340d8249a7319f2b9485c",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      43
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703147.pdf",
+    "source_sha256": "a5084ba6afd560e411bce079662c28248621753be6573f4c48a5b70fca55bbab",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9446,
+    "bag": 0.8588,
+    "kd_coverage": 0.9647,
+    "kd_body_compared": 0.3581,
+    "rg_words": 88,
+    "kd_words": 229,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
