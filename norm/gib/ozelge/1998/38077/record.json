@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5408-125/22124",
+  "source_id": 38077,
+  "date": "1998-06-12",
+  "title": "Garanti süresinde arızalı lastiğin yerine hiçbir bedel alınmadan yeni bir lastik verilmesi işlemine katma değer vergisi uygulanmayacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38077",
+  "source_sha256": "ff76fb11d11968357fa33405d82c7836325b732d408a4ae6889dc8e23204a261",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
