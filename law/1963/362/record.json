@@ -1,0 +1,176 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "362",
+  "year": 1963,
+  "title": "Türkiye ile İran arasında akdedilen kültür andlaşmasının Onaylanmasının uygun bulunduğu hakkında kanun",
+  "adopted": "1963-12-27",
+  "adopted_as_published": "27/12/1963",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.01.1964 No: 11599",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700362.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 47",
+  "committee_reports": [
+    {
+      "label": "CS 330 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c016/cs__03016019ss0330.pdf"
+    },
+    {
+      "label": "MM 163no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005103ss0163.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 347428,
+      "title": "Türkiye ile İran arasında akdedilen kültür andlaşmasının Onaylanmasının uygun bulunduğu hakkında kanun",
+      "adopted_as_published": "27/12/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700362.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 330 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c016/cs__03016019ss0330.pdf"
+        },
+        {
+          "label": "MM 163no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005103ss0163.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 103,
+          "sitting_date": "1962-06-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005103.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+          "pages": [
+            "626"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 80,
+          "sitting_date": "1963-05-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016fih.pdf",
+          "pages": [
+            "611"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 103,
+          "sitting_date": "1963-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018103.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+          "pages": [
+            "581:582"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 131,
+          "sitting_date": "1963-09-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021131.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021fih.pdf",
+          "pages": [
+            "19:20",
+            "27",
+            "34",
+            "37",
+            "46:49"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 133,
+          "sitting_date": "1963-09-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021133.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021fih.pdf",
+          "pages": [
+            "87",
+            "98",
+            "104",
+            "114:117"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1901&v_kullanici_id=27483225",
+      "page_sha256": "1ff88ba6c18c5fce579792a711d144220daa306b6608e6584791338bfe529590"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 162462,
+      "title": "Türkiye ile İran arasında akdedilen Kültür Andlaşmasının onaylanmasının uygun bulunduğu hakkında Kanun",
+      "adopted_as_published": "27/12/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700362.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 330 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c016/cs__03016019ss0330.pdf"
+        },
+        {
+          "label": "MM 163no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005103ss0163.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 109,
+          "sitting_date": "1963-09-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c014/cs__02014109.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c014/cs__02014fih.pdf",
+          "pages": [
+            "329"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 19,
+          "sitting_date": "1963-12-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c016/cs__02016019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c016/cs__02016fih.pdf",
+          "pages": [
+            "484:485"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 21,
+          "sitting_date": "1963-12-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c017/cs__02017021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c017/cs__02017fih.pdf",
+          "pages": [
+            "72",
+            "137:138"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=301&v_kullanici_id=27483235",
+      "page_sha256": "b6d86621a6791bf4c812f0781c371318581fd46c9513d2ca63de607571ea6267"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1ff88ba6c18c5fce579792a711d144220daa306b6608e6584791338bfe529590",
+  "issuer": "Millet Meclisi",
+  "in_force": "1963-12-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 27/12/1963; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
