@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.9834",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "METİL BROMÜR'ÜN TARIMDA KULLANIMININ AZALTILMASI HAKKINDA YÖNETMELİK",
+  "number": "9834",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2000/9834",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9834&MevzuatTertip=5",
+  "source_sha256": "99d8dd4b4250146c4f65a9a930bb5051932810df13451b623a440f6f504b0e8d",
+  "source_bytes": 63912,
+  "published": "2000-06-23",
+  "gazette": "24088",
+  "in_force": "2004-04-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-08/04/2004\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2004-04-08",
+      "RG-08/04/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1361,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

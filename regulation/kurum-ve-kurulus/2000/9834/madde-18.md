@@ -1,0 +1,2 @@
+Sorumluluk
+Madde 18 – MeBr alternatiflerinin uygulanması ile ilgili olarak mali sorumluluk Türkiye Teknoloji Geliştirme Vakfına; projelerin hazırlanması, sunulması, kabulü, uygulanması ve teknik olarak izlenmesi ve sonuçlarının üreticiye intikalinin izlenmesi Bakanlık adına Genel Müdürlüğe aittir. MeBr kullanan kişi veya kuruluşlar bu Yönetmeliğin 8 inci maddesinde belirlenen azaltma takvimine uygun olarak, MeBr alternatiflerinin uygulanması konusunda gerekli tedbirleri alırlar.
