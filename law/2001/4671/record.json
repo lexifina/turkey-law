@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4671",
+  "year": 2001,
+  "title": "Ceza İnfaz Kurumları ile Tutukevleri İşyurtları Kurumunun Kuruluş ve İdaresine İlişkin Kanun ile Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkumlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2001-05-09",
+  "adopted_as_published": "09/05/2001",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.05.2001 No: 24404",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc085/kanuntbmmc085/kanuntbmmc08504671.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 85",
+  "committee_reports": [
+    {
+      "label": "TBMM 593 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c062/tbmm21062096ss0593.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 288477,
+      "title": "Ceza İnfaz Kurumları ile Tutukevleri İşyurtları Kurumunun Kuruluş ve İdaresine İlişkin Kanun ile Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkumlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "09/05/2001",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc085/kanuntbmmc085/kanuntbmmc08504671.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 593 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c062/tbmm21062096ss0593.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 43,
+          "sitting": 12,
+          "sitting_date": "2000-11-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c043/tbmm21043012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c043/tbmm21043fih.pdf",
+          "pages": [
+            "10"
+          ]
+        },
+        {
+          "cilt": 53,
+          "sitting": 49,
+          "sitting_date": "2001-01-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c053/tbmm21053049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c053/tbmm21053fih.pdf",
+          "pages": [
+            "412"
+          ]
+        },
+        {
+          "cilt": 63,
+          "sitting": 98,
+          "sitting_date": "2001-05-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c063/tbmm21063098.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c063/tbmm21063fih.pdf",
+          "pages": [
+            "49:61",
+            "88:111"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=201&v_kullanici_id=27483196",
+      "page_sha256": "27f6349c470be789884dbe548b81e4090c3b758dd96480247e2d1a6081a31714"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "27f6349c470be789884dbe548b81e4090c3b758dd96480247e2d1a6081a31714",
+  "issuer": "TBMM",
+  "in_force": "2001-05-09",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 09/05/2001; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
