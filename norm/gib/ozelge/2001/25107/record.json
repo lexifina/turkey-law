@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.66/6685-4352/27261",
+  "source_id": 25107,
+  "date": "2001-05-18",
+  "title": "Emlak vergisi beyannamesini ek süreden sonra veren mükellefe kusur cezası kesilip kesilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/25107",
+  "source_sha256": "cc44cb7a844e66cc659b986ddc853587ce6ff60e0ea5908f5193a4b69875f303",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
