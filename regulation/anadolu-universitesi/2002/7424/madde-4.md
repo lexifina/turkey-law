@@ -1,0 +1,2 @@
+Müdür
+Madde 4- Müdür, Merkezin çalışma alanı ile ilgili öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilir. Süresi dolan Müdür tekrar görevlendirilebilir. Müdür, kendisine çalışmalarında yardımcı olmak üzere, bir Müdür Yardımcısı seçer. Müdür Yardımcısı, Müdürün bulunmadığı zamanlarda Müdüre vekalet eder. Vekalet süresi altı ayı aştığı takdirde yeni bir Müdür görevlendirilir.

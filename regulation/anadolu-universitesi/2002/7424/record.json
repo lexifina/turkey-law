@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 8- Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2002-09-05",
+      "05.09.2002",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 8- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24867",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2002-09-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Anadolu Üniversitesi",
+  "issuer_slug": "anadolu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/anadolu-universitesi/2002/7424",
+  "published": "2002-09-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7424&MevzuatTertip=5",
+  "source_bytes": 16963,
+  "source_id": "8.5.7424",
+  "source_sha256": "d5ad3e4f5859b4e440868b2ac1c48e786729e11bccc62000aca2690f764ae413",
+  "text_status": "as-enacted",
+  "title": "ANADOLU ÜNİVERSİTESİ KARİKATÜR SANATINI ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 179,
+  "word_count": 292
+}
