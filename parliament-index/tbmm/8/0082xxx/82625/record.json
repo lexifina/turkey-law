@@ -1,0 +1,117 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82625,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "İSMAİL HAKKI ÇEVİK (ESKİŞEHİR)",
+  "summary": "Basın ve Yayın Genel Müdürlüğü Kuruluş, Görev ve memurları hakkında 4475 sayılı Kanunun 20. iadesinde değişiklik yapılmasına dair (2/54)",
+  "title": "Basın ve Yayın Genel Müdürlüğü Kuruluş, Görev ve memurları hakkında 4475 sayılı Kanunun 20. iadesinde değişiklik yapılmasına dair (2/54)",
+  "first_sitting_date": "1947-06-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 70,
+      "sitting_date": "1947-06-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006fih.pdf",
+      "pages": [
+        "87"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 11,
+      "sitting_date": "1948-11-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c013/tbmm08013011.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c013/tbmm08013fih.pdf",
+      "pages": [
+        "248:249"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 17,
+      "sitting_date": "1948-12-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c014/tbmm08014017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c014/tbmm08014fih.pdf",
+      "pages": [
+        "86"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 18,
+      "sitting_date": "1948-12-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c014/tbmm08014018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c014/tbmm08014fih.pdf",
+      "pages": [
+        "106:108"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 29,
+      "sitting_date": "1949-01-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c015/tbmm08015029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c015/tbmm08015fih.pdf",
+      "pages": [
+        "35"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 76,
+      "sitting_date": "1949-04-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018fih.pdf",
+      "pages": [
+        "661"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 90,
+      "sitting_date": "1949-05-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019090.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019fih.pdf",
+      "pages": [
+        "595:596",
+        "610:634"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 91,
+      "sitting_date": "1949-05-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019091.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019fih.pdf",
+      "pages": [
+        "643:668",
+        "670",
+        "676",
+        "717:720"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "89cc5dc0771589931f54f69e2061a823b93c6e7c7053bfb30e7d1db40ada367c",
+  "in_force": "1947-06-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
