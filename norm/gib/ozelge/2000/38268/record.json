@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6522-96/17538",
+  "source_id": 38268,
+  "date": "2000-04-17",
+  "title": "Şahsi işletmeye yeni bir ortak alması sonucunda kısmi hisse devri olması ödeme kaydedici cihazının mali hafızasında kendisine ait mali bilgilerin de kayıtlı bulunması sebebiyle bahse konu işlemden dolayı ödeme kaydedici cihazın mali hafızasının değiştiril",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38268",
+  "source_sha256": "38933674e31ce9dca391c0e496adb282da896000fe5e00e4e59068c86a1f2e30",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
