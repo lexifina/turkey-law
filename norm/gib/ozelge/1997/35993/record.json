@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6373-341-50683",
+  "source_id": 35993,
+  "date": "1997-11-25",
+  "title": "Şirket ortağına ortaklık hissesine karşılık verilecek gayrimenkullerin tapu harcına esas olan matrah, emlak vergisi değerine yeniden değerleme oranının tatbiki suretiyle bulunacak değerdir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35993",
+  "source_sha256": "2561d6c1f8c140ece1374bef80fba2aee033d5239cb7b80318ee8e8c3576c830",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
