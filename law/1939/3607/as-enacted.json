@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3607",
+  "year": 1939,
+  "title": "Devlet havayolları hizmetleri için 1939 ve 1940 malî yıllarına geçici taahhüt icrası hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-05-23",
+  "gazette_issue": "4213",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4213.pdf",
+  "source_sha256": "7561e6f4e948d89b6a3845b6ff1bd5a876614cfc04af5523b30e4db5b222e477",
+  "text_sha256": "dd51c9b77c2f0051b2ce8e73831dace8a0b586cbc0a764c2996357eb8db19237",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      583,
+      605
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003607.pdf",
+    "source_sha256": "839c33bdd8edc5fb0ebea2b7e5390da6088ff84bf33972030a356534f865afa1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9552,
+    "bag": 0.8827,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9884,
+    "rg_words": 154,
+    "kd_words": 172,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
