@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 305924,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "SADIK ARTUKMAÇ (YOZGAT)",
+  "summary": "Cumhuriyet Senatosu Yozgat Üyesi Sadık Artukmaç'ın, Cumhuriyet Senatosu İçtüzüğünün 52. maddesinin ikinci fıkrasının değiştirilmesine dair (Cumhuriyet Senatosu 2/201) (S. Sayısı:901)",
+  "title": "Cumhuriyet Senatosu Yozgat Üyesi Sadık Artukmaç'ın, Cumhuriyet Senatosu İçtüzüğünün 52. maddesinin ikinci fıkrasının değiştirilmesine dair (Cumhuriyet Senatosu 2/201) (S. Sayısı:901)",
+  "first_sitting_date": "1967-01-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 38,
+      "sitting": 22,
+      "sitting_date": "1967-01-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c038/cs__06038022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c038/cs__06038fih.pdf",
+      "pages": [
+        "94"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 59,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c039/cs__06039059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c039/cs__06039fih.pdf",
+      "pages": [
+        "598"
+      ]
+    },
+    {
+      "cilt": 40,
+      "sitting": 51,
+      "sitting_date": "1967-04-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040fih.pdf",
+      "pages": [
+        "4:5"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=301&v_kullanici_id=27484924",
+  "source_sha256": "74d56f29c09e4d1505385c377d0cf4e19e917ead90cf9929fcdaaf9dc1461ff5",
+  "in_force": "1967-01-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
