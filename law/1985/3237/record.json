@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3237",
+  "year": 1985,
+  "title": "3140 Sayılı 1985 Malî Yılı Bütçe Kanununa Bağlı (A) İşaretli Cetvelin Türkiye Büyük Millet Meclisi Kısmında Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "1985-11-06",
+  "adopted_as_published": "06/11/1985",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09.11.1985 No: 18923",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903237.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 69",
+  "committee_reports": [
+    {
+      "label": "TBMM 355 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020025ss0355.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 245809,
+      "title": "3140 Sayılı 1985 Malî Yılı Bütçe Kanununa Bağlı (A) İşaretli Cetvelin Türkiye Büyük Millet Meclisi Kısmında Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "06/11/1985",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903237.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 355 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020025ss0355.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 19,
+          "sitting": 16,
+          "sitting_date": "1985-10-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c019/tbmm17019016.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c019/tbmm17019fih.pdf",
+          "pages": [
+            "393"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 19,
+          "sitting_date": "1985-10-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c019/tbmm17019019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c019/tbmm17019fih.pdf",
+          "pages": [
+            "540:541"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 25,
+          "sitting_date": "1985-11-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020fih.pdf",
+          "pages": [
+            "218:221",
+            "240",
+            "253:256"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=201&v_kullanici_id=27483190",
+      "page_sha256": "a004580d4d1ccc63094c61508a9b07d742ad9b963b0cb5e4aa44d6643249876d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a004580d4d1ccc63094c61508a9b07d742ad9b963b0cb5e4aa44d6643249876d",
+  "issuer": "TBMM",
+  "in_force": "1985-11-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 06/11/1985; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
