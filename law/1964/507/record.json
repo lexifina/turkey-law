@@ -1,0 +1,247 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "507",
+  "year": 1964,
+  "title": "Esnaf ve Küçük Sanatkârlar Kanunu",
+  "adopted": "1964-07-17",
+  "adopted_as_published": "17/07/1964",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.08.1964 ve 03.08.1964 ve 04.08.1964 No: 11769 ve 11770 ve 11771",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700507.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 47",
+  "committee_reports": [
+    {
+      "label": "MM 634 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029084ss0634.pdf"
+    },
+    {
+      "label": "MM 634ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c030/mm__01030093ss0634ek01.pdf"
+    },
+    {
+      "label": "CS 469no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021083ss0469.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 347584,
+      "title": "Esnaf ve Küçük Sanatkârlar Kanunu",
+      "adopted_as_published": "17/07/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700507.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 634 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029084ss0634.pdf"
+        },
+        {
+          "label": "MM 634ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c030/mm__01030093ss0634ek01.pdf"
+        },
+        {
+          "label": "CS 469no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021083ss0469.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 13,
+          "sitting_date": "1961-11-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c001/mm__01001013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c001/mm__01001fih.pdf",
+          "pages": [
+            "117"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 100,
+          "sitting_date": "1963-06-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018100.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+          "pages": [
+            "349:350"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 67,
+          "sitting_date": "1964-03-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028067.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028fih.pdf",
+          "pages": [
+            "479"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 84,
+          "sitting_date": "1964-04-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029084.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029fih.pdf",
+          "pages": [
+            "340:372"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 88,
+          "sitting_date": "1964-04-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029088.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029fih.pdf",
+          "pages": [
+            "484:492"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 89,
+          "sitting_date": "1964-04-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029089.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029fih.pdf",
+          "pages": [
+            "530"
+          ]
+        },
+        {
+          "cilt": 30,
+          "sitting": 93,
+          "sitting_date": "1964-04-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c030/mm__01030093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c030/mm__01030fih.pdf",
+          "pages": [
+            "6:19"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 124,
+          "sitting_date": "1964-07-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032124.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032fih.pdf",
+          "pages": [
+            "41"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 128,
+          "sitting_date": "1964-07-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032128.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032fih.pdf",
+          "pages": [
+            "217"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 129,
+          "sitting_date": "1964-07-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032129.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032fih.pdf",
+          "pages": [
+            "257:258"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2101&v_kullanici_id=27483225",
+      "page_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 162612,
+      "title": "Esnaf ve küçük sanatkârlar Kanunu",
+      "adopted_as_published": "17/07/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700507.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 634 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029084ss0634.pdf"
+        },
+        {
+          "label": "MM 634ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c030/mm__01030093ss0634ek01.pdf"
+        },
+        {
+          "label": "CS 469no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021083ss0469.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 20,
+          "sitting": 65,
+          "sitting_date": "1964-04-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020fih.pdf",
+          "pages": [
+            "81",
+            "84"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 82,
+          "sitting_date": "1964-07-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021fih.pdf",
+          "pages": [
+            "193"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 83,
+          "sitting_date": "1964-07-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021083.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021fih.pdf",
+          "pages": [
+            "204:245"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 84,
+          "sitting_date": "1964-07-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021084.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021fih.pdf",
+          "pages": [
+            "254:415"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=501&v_kullanici_id=27483235",
+      "page_sha256": "90e575b0d681a9aaaed8fe9da175069303e902e0ae9d6b5e4ea68e0ee49b37f8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1",
+  "issuer": "Millet Meclisi",
+  "in_force": "1964-07-17",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 17/07/1964; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
