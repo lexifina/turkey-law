@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2010",
+  "year": 1932,
+  "title": "Tapu harçları Kanununa müzeyyel kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-06-23",
+  "gazette_issue": "2132",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2132.pdf",
+  "source_sha256": "a527ad45c1e15b12957bd5852b89600faa28a27916239d83d546861b9082234a",
+  "text_sha256": "b5a93bd7cb3d6b595549d8f4596f30425c9efccdab1b741298b2a873b4202db5",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      35,
+      47
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01102010.pdf",
+    "source_sha256": "890a36199d9ea1dc3d918bbdb40a0199d0fa0567ab7d1ad6883006c718df798e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9384,
+    "bag": 0.8764,
+    "kd_coverage": 0.9565,
+    "kd_body_compared": 0.9565,
+    "rg_words": 45,
+    "kd_words": 46,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
