@@ -1,0 +1,207 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "776",
+  "year": 1966,
+  "title": "Köylü ve çiftçilerin TC Ziraat Bankası ve Tarım Kredi Kooperatiflerine olan borçlarının taksitlendirilmesi hakkında Kanun",
+  "adopted": "1966-07-21",
+  "adopted_as_published": "21/07/1966",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.07.1966 No: 12362",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900776.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 49",
+  "committee_reports": [
+    {
+      "label": "CS 283 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c014/cs__02014102ss0283.pdf"
+    },
+    {
+      "label": "MM 38no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011035ss0038.pdf"
+    },
+    {
+      "label": "MM 38ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017089ss0038ek01.pdf"
+    },
+    {
+      "label": "MM 38ek02no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008116ss0038ek02.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 358267,
+      "title": "Köylü ve çiftçilerin TC Ziraat Bankası ve Tarım Kredi Kooperatiflerine olan borçlarının taksitlendirilmesi hakkında Kanun",
+      "adopted_as_published": "21/07/1966",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900776.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 283 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c014/cs__02014102ss0283.pdf"
+        },
+        {
+          "label": "MM 38no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011035ss0038.pdf"
+        },
+        {
+          "label": "MM 38ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017089ss0038ek01.pdf"
+        },
+        {
+          "label": "MM 38ek02no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008116ss0038ek02.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 105,
+          "sitting_date": "1966-07-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c007/mm__02007105.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c007/mm__02007fih.pdf",
+          "pages": [
+            "410"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 105,
+          "sitting_date": "1966-07-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c007/mm__02007105.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c007/mm__02007fih.pdf",
+          "pages": [
+            "410"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 116,
+          "sitting_date": "1966-07-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008116.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008fih.pdf",
+          "pages": [
+            "300:315"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 30,
+          "sitting_date": "1967-01-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011fih.pdf",
+          "pages": [
+            "78"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 33,
+          "sitting_date": "1967-01-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011fih.pdf",
+          "pages": [
+            "211"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 34,
+          "sitting_date": "1967-01-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011fih.pdf",
+          "pages": [
+            "232:234",
+            "236",
+            "239:243"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 35,
+          "sitting_date": "1967-01-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011fih.pdf",
+          "pages": [
+            "257:276.319:322"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1201&v_kullanici_id=27483225",
+      "page_sha256": "2a5e87afe32fdcc520e9a23a080355d8d2bbd886ef1825be8899987216e9bee9"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 302510,
+      "title": "Köylü ve Çiftçinin TC Ziraat Bankası ve Tarım Kredi Kooperatiflerine olan borçlarının taksitlendirilmesi hakkında Kanun",
+      "adopted_as_published": "21/07/1966",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900776.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 283 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c014/cs__02014102ss0283.pdf"
+        },
+        {
+          "label": "MM 38no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011035ss0038.pdf"
+        },
+        {
+          "label": "MM 38ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017089ss0038ek01.pdf"
+        },
+        {
+          "label": "MM 38ek02no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008116ss0038ek02.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 12,
+          "sitting": 87,
+          "sitting_date": "1963-07-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c012/cs__02012087.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c012/cs__02012fih.pdf",
+          "pages": [
+            "687"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 102,
+          "sitting_date": "1963-08-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c014/cs__02014102.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c014/cs__02014fih.pdf",
+          "pages": [
+            "64:82",
+            "87",
+            "98:100"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=301&v_kullanici_id=27483235",
+      "page_sha256": "b6d86621a6791bf4c812f0781c371318581fd46c9513d2ca63de607571ea6267"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2a5e87afe32fdcc520e9a23a080355d8d2bbd886ef1825be8899987216e9bee9",
+  "issuer": "Millet Meclisi",
+  "in_force": "1966-07-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 21/07/1966; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
