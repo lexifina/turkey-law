@@ -1,0 +1,1 @@
+Madde 8 — Koruyucular, 4/12/1973 gün ve 7/5583 sayılı Bakanlar Kurulu Kararı ile kabul edilen, 11/1/1974 ve 14765 sayılı Resmi Gazete'de yayınlanarak yürürlüğe giren «İşçi Sağlığı ve İşgüvenliği Tüzüğü» nün Beşinci kısım iki, yedi, sekiz ve dokuzuncu bölümlerinde yer alan hükümlere uyacak nitelikte olacaktır.

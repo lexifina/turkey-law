@@ -1,0 +1,1 @@
+Madde 11 — Koruyucu olmayan makina ve tezgahların yapımına, satılmasına, sergilenmesine, kiralanmasına veya devredilmesine izin verilmeyecektir. Bu konuda gerekil görülen durumlarda i l ve yerel yönetimler ile güvenlik kuvvetleri yardımcı olmakla yükümlüdürler.

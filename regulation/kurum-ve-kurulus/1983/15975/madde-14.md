@@ -1,0 +1,1 @@
+Madde 14 — İşveren makina koruyucularıyla ilgili mevzuattan işçileri haberdar edecektir. İşveren aynı zamanda bu makinaların kullanılmasından doğacak tehlikelerden bu hususta önceden alınacak tedbirlerden de uygun bir şekilde işçileri haberdar edecek ve gerekiyorsa eğitecektir.

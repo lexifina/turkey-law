@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.15975",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MAKİNA KORUYUCULARI YÖNETMELİĞİ",
+  "number": "15975",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1983/15975",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15975&MevzuatTertip=5",
+  "source_sha256": "fddb611dc7327af2026055c073b5a3f79bea2b9f29f0c18dbd013fef7baa371b",
+  "source_bytes": 18534,
+  "published": "1983-05-17",
+  "gazette": "18050",
+  "in_force": "1983-05-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.05.1983)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 687,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

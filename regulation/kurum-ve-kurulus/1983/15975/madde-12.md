@@ -1,0 +1,1 @@
+Madde 12 — İthal edilmiş veya yerli yapım olup koruyucusu olmayan ve halen kullanılmakta olan makina ve tezgahlar için Çalışma Bakanlığı, ilgili Bakanlıkların görüşünü alarak «Genel Koruyucu Standartları' nın hazırlatılmasına teknik yönden katkıda bulunacak ve sözkonusu makinalara uygun koruyucuların yapılmasını ve kullanılmasını sağlayacak tedbirleri alacaktır.

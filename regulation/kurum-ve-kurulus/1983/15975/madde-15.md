@@ -1,0 +1,1 @@
+Madde 15 — Bu Yönetmeliğin işçi Sağlığı ve İşgüvenliği ile ilgili hükümleri Çalışma Bakanlığı; Mecburi Türk Standartları kapsamına giren yapımla ilgili hükümleri Sanayi ve Teknoloji Bakanlığı; ithalatla ilgili hükümleri Ticaret, Sanayi ve Teknoloji ve Gümrük ve Tekel Bakanlıkları tarafından uygulanır.
