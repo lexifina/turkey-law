@@ -1,0 +1,64 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7294",
+  "year": 1959,
+  "title": "Türkiye ile Norveç arasında imzalanan Kültür Anlaşmasının tasdiki hakkında Kanun",
+  "adopted": "1959-05-25",
+  "adopted_as_published": "25/05/1959",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "02.06.1959 No: 10220",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107294.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 41",
+  "committee_reports": [
+    {
+      "label": "TBMM 79 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c009/tbmm11009069ss0079.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 11,
+      "kayit_no": 42418,
+      "title": "Türkiye ile Norveç arasında imzalanan Kültür Anlaşmasının tasdiki hakkında Kanun",
+      "adopted_as_published": "25/05/1959",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107294.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 79 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c009/tbmm11009069ss0079.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 9,
+          "sitting": 69,
+          "sitting_date": "1959-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c009/tbmm11009069.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c009/tbmm11009fih.pdf",
+          "pages": [
+            "181",
+            "182",
+            "255:256",
+            "261",
+            "307:311"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=429&v_gelecek_sayfa=201&v_kullanici_id=27483188",
+      "page_sha256": "328e40cd9dea9f80338168d37cc1c6aad237f9fbb691cff5c7b1c2291aab3789"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "328e40cd9dea9f80338168d37cc1c6aad237f9fbb691cff5c7b1c2291aab3789",
+  "issuer": "TBMM",
+  "in_force": "1959-05-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 25/05/1959; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
