@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 13 -— Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1997-10-14",
+      "14.10.1997",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 13 -— Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "23140",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1997-10-14",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dicle Üniversitesi",
+  "issuer_slug": "dicle-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dicle-universitesi/1997/7450",
+  "published": "1997-10-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7450&MevzuatTertip=5",
+  "source_bytes": 21310,
+  "source_id": "8.5.7450",
+  "source_sha256": "a5462b080f9b516031fa18d15c38d1d4f08b5c2fd4918121a9ae0f9f87262664",
+  "text_status": "as-enacted",
+  "title": "DİCLE ÜNİVERSİTESİ PSİKOLOJİK VE SOSYAL DANIŞMA, ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 188,
+  "word_count": 741
+}

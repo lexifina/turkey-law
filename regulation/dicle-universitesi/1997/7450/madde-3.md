@@ -1,0 +1,10 @@
+Amaç
+Madde 3 — Bu merkezin amacı; psikolojik ve sosyal alanlar ile ilgili konularda ortaya çıkmış ve çıkabilecck.sorunları (sosyal uyum. arkadaş ve aile ilişkileri, bireysel sorunlar vb.) bilimsel olarak belirlemek, gerekli araştırmaları yaparak bunlar için çözüm yöntemleri geliştirmek ve uygulamak; kamu ve özel kuruluşlarla işbirliği yaparak üniversite içinde veya hizmetin gerektirdiği yerde, bilime, teknolojiye ve ülke kalkınmasına yönelik psikolojik ve sosyal sorunlarla ilgili araştırmalar yapmak ve çözüm üretmek, araştırmacılar yetiştirmektir.
+Merkezin Görevleri
+a - 2547 sayılı Yükseköğretim Kanunu'nün 12 nci maddesi ile yükseköğretim kurumlarına verilen görevleri, psikolojik ve sosyal sorunlar bakımından yerine getirmek, psikolojik /e sosyal sorunlara yolaçan sorunları araştırmak ve bunlara çözümler bulmak,
+b - Üniversitesi İçerisinde, psikolojik ve sosyal sorunlar ile ilgili temel ve uygulama-ı araştırmalar düzenlemek, bu amaçla yurt içinde ve yurt dışında benzer kuruluşlarla işbirliği yapmak, sempozyum, kongre, konferans, seminer, yaz okulları ve kurslar düzenlemek, bi-imsel yayınlar yapmak ve toplumda psikolojik ve sosyal sağlık bilincini geliştirmek,
+c - Psikolojik ve sosyal sorunlarla ilgili bilimsel araştırmaların sonuçlarını üniversite, ;ike ve insanlık yararına kullanılmak üzere bilimsel yayınlar halinde sunmak ve bu alanda anışmanlık hizmetleri sunmak,
+d - Ulusa! ve Uluslararası diğer araştırma ve uygulama merkezleri ile bilimsel ve lek-ik bilgi alışverişini sağlamak, kitaplık ve dokümantasyon merkezi kurmak,
+e - Araştırma ve uygulama laboratuvarları kurarak psikolojik ve sosyal sorunların ölçüm ve analizlerini yapmak,
+f - Çeşitli kuruluşlarda bulunan ve psikolojik ve sosyal sorunların tespiti ve çözümü ile ilgilenen elemanlara kurslar düzenlemek.
+g - Öncelikle üniversitemiz öğrencileri olmak üzere talep eden bireylerin psiko-sos-yal durumlarım ve başarıları olumsuz yönde etkileyen psikolojik ve sosyal sorunlarıyla başa çıkmalarında yardımcı olmak, çözümler üretmek ve topluma sağlıklı başarılı bireyler olarak hizmet sunmalarını sağlamak.
