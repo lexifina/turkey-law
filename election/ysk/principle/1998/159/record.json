@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1998/159",
+  "list_number": "159",
+  "decision_date": "1998-06-20",
+  "title": "YSK ilke kararı 1998/159",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4767/1998-159-karar.htm",
+  "source_sha256": "443f31f405ae4ee42aeea09184fd281f229e21d7972805333e12387938a6a044",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1998-06-20",
+  "law_text_complete": false
+}
