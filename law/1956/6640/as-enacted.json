@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6640",
+  "year": 1956,
+  "title": "Petrol Dairesi 1955 yılı Bütçe Kanununa bağlı (A/1) işaretli cetvelde değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-01-20",
+  "gazette_issue": "9212",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9212.pdf",
+  "source_sha256": "333cfa614c7bc8806115696d6526647b66dc220852b682ae637c4916f1f3d69d",
+  "text_sha256": "2e73ed8bc631821b913c4903f8867cfb68326b10bf0a48ff853c07692e6c5e9a",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      1948,
+      1960
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [9] (no text layer)",
+    "tesseract_pages": [
+      9
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806640.pdf",
+    "source_sha256": "dc5ab633e66a4bbf3a986ba11e5faa4c0323dc75bc54ecfe488353335b496a1d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9161,
+    "bag": 0.8268,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9787,
+    "rg_words": 87,
+    "kd_words": 94,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
