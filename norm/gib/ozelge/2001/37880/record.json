@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4043-29/66158",
+  "source_id": 37880,
+  "date": "2001-12-10",
+  "title": "Depremde mükellefin varlıklarının %10'unu kaybettiklerini depremin vukua geldiği il ve/veya idare kuruluna başvurarak buradan alınacak kararlar ile belgelendirmesi halinde hayat standardı esası uygulanmayacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37880",
+  "source_sha256": "c6d1dcefeded9e51a5acff140a2f6b04237a8f8e3d6940c711fb3cc2127e42c9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
