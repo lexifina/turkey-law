@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5329-616/5407",
+  "source_id": 33426,
+  "date": "1998-02-18",
+  "title": "Belediyeye ait Tanzim Satış Fonu Müdürlüğü,Ekmek Fabrikasının KDV iadesinin inceleme raporu ve teminat aranılmaksızın yapılması mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33426",
+  "source_sha256": "f955a9f9eef67af991f449b0fdf483298bb58b1ecf44381e39f9b0645b61851d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
