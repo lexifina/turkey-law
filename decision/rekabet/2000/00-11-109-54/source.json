@@ -1,0 +1,13 @@
+{
+  "number": "00-11/109-54",
+  "type": "Rekabet İhlali",
+  "decision_date": "2000-03-23",
+  "publication_date": "2000-11-17",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=555a5fc3-d043-47e1-809e-1ecf9dde5e4e",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1039",
+  "pdf_sha256": "c8073805a5ba180226fe8315db1066afe7a73d6cd11542bd93363c3a77d43e36",
+  "pdf_bytes": "298427",
+  "pages": "14",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
