@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 368758,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Konya Milletvekili Selçuk Aytan ve 6 arkadaşının, kadro dolayısiyle açıkta kalanların açıkta geçirdikleri sürelerin kıdem ve emekliliklerine sayılmasına dair kanun teklifi hakkında (2/511)",
+  "title": "Konya Milletvekili Selçuk Aytan ve 6 arkadaşının, kadro dolayısiyle açıkta kalanların açıkta geçirdikleri sürelerin kıdem ve emekliliklerine sayılmasına dair kanun teklifi hakkında (2/511)",
+  "first_sitting_date": "1968-01-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 23,
+      "sitting": 29,
+      "sitting_date": "1968-01-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023fih.pdf",
+      "pages": [
+        "467"
+      ]
+    },
+    {
+      "cilt": 27,
+      "sitting": 70,
+      "sitting_date": "1968-04-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027fih.pdf",
+      "pages": [
+        "641:646"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=4301&v_kullanici_id=27484836",
+  "source_sha256": "8bc678be2e921b401b0ac2669f7a01efe58ed45d090abfa39fbedb334a3ff72e",
+  "in_force": "1968-01-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
