@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 21,
+  "legislative_year": 3,
+  "sitting": 1,
+  "sitting_date": "2000-10-01",
+  "listed_date": "01 Ekim 2000 Pazar",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/21/3/1/70c00756-2a7a-4584-9326-3d8477c7c613.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=00ec2e7d-75d5-4771-910d-0185ceac7e69",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=21&YasamaYili=3",
+  "source_sha256": "0c4486d969775e23a61ef1e1224035b7ee93774f256e936cfe85eaf8d7978c51",
+  "source_bytes": 3027261,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
