@@ -1,0 +1,1 @@
+Madde 17- Çiftçi Eğitim Mahallinde gerektiğinde beslenme ve barınma alımları için yapılacak harcamalar Eğitim Şubesi Müdürünün başkanlığında İdari ve Mali İşler şefi ile Mutemetten oluşan bir komisyon marifeti ile gerçekleştirilir.

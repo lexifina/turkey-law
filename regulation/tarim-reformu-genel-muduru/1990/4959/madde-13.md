@@ -1,0 +1,2 @@
+Eğitime Katılacakların Tespiti
+Madde 13- Eğitim konusu, süresi, yatılı veya gündüzlü olması alışılmış vasıtalarla çiftçilere duyurulur. Duyuru gününden itibaren bir hafta içinde kursa katılma talebinde bulunanlarla ilgili bilgileri ihtiva eden form (Ek: 1) Muhtarlık tarafından doldurularak tasdik edildikten sonra Eğitim Şube Müdürlüğüne verilir. Bu formlar Eğitim Şube Müdürlüğünce değerlendirilerek kursa katılacakların listesi ile kurs programı muhtarlıkça ilgililere tebliğ edilir.

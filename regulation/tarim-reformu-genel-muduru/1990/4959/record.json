@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4959",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIM REFORMU GENEL MÜDÜRLÜĞÜ ÇİFTÇİ EĞİTİM HİZMETLERİ HAKKINDA YÖNETMELİK",
+  "number": "4959",
+  "issuer": "Tarım Reformu Genel Müdürü",
+  "issuer_slug": "tarim-reformu-genel-muduru",
+  "path": "regulation/tarim-reformu-genel-muduru/1990/4959",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4959&MevzuatTertip=5",
+  "source_sha256": "6ce59bb0a519e2cf3b74b06f66941193b4a6e9fb83e693cd8fab38d2d8c5efa9",
+  "source_bytes": 69254,
+  "published": "1990-06-29",
+  "gazette": "20563",
+  "in_force": "1990-06-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.06.1990); own commencement article: \"Bu Yönetmelik yayımı tarihinden itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1260,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
