@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4089-117/31050",
+  "source_id": 21488,
+  "date": "2002-07-12",
+  "title": "Birden fazla poliçeye sahip olduğu anlaşılan mükellefin, vergi tevkifatına tabi tutulup tutulmayacağı hakkında...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21488",
+  "source_sha256": "c601f7912eba71bd5d3ca1b9d022e448c4a1c233c983a6aa9af66621d1b25109",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
