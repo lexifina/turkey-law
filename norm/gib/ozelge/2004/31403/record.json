@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-2895",
+  "source_id": 31403,
+  "date": "2004-09-20",
+  "title": "Cebri icra. izale-i şüyu, ipoteğin paraya çevrilmesi, tasfiye gibi nedenlerle müzayede mahallerinde yapılan açık artırma, pazarlık ve diğer şekillerdeki satışlar katma değer vergisine tabi olup izale-i şüyu çerçevesinde yapılan satışlarda alıcının hisseda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31403",
+  "source_sha256": "01670ed5e7431203af810f098a86e1f807fe8ad5a050984a7297167ab91e3bda",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
