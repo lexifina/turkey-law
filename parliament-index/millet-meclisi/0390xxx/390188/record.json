@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 390188,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "İzmir Milletvekili Burhanettin Asutay ile Hatay Milletvekili Hüsnü Özkan'ın, 193 sayılı Gelir Vergisi Kanununun 104. maddesinin son fıkrasının kaldırılması hakkında kanun teklifi (2/745)",
+  "title": "İzmir Milletvekili Burhanettin Asutay ile Hatay Milletvekili Hüsnü Özkan'ın, 193 sayılı Gelir Vergisi Kanununun 104. maddesinin son fıkrasının kaldırılması hakkında kanun teklifi (2/745)",
+  "first_sitting_date": "1972-10-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 27,
+      "sitting": 147,
+      "sitting_date": "1972-10-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027147.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027fih.pdf",
+      "pages": [
+        "420"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=3201&v_kullanici_id=27484893",
+  "source_sha256": "5715c177d7a74788e86016bdf4e4d670986eb37a0279c99547a6be942fbd2ccd",
+  "in_force": "1972-10-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
