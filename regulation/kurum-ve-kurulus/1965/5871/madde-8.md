@@ -1,0 +1,1 @@
+Madde 8 - İhbarname ve emanetlerin mutemetler tarafından postanelerden alınacağı günleri, haftada enaz iki gün olmak üzere mutemet tayinine selahiyetli komutan veya amirler mahalli P.T.T. merkezi amiriyle mutabık kalarak tesbit eder.

@@ -1,0 +1,40 @@
+{
+  "source_id": "7.5.5871",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORDU MENSUPLARI ADLARINA GÖNDERİLECEK POSTA MADDELERİYLE HAVALELERİN POSTAHANELERDEN ALINMA VE SAHİPLERİNE VERİLME TARZINI GÖSTERİR YÖNETMELİK",
+  "number": "5871",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1965/5871",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5871&MevzuatTertip=5",
+  "source_sha256": "de05a39606d3d58b11d45e66bb4e57f144cb1b3579e3c744f183f1bc91fc9ddd",
+  "source_bytes": 47189,
+  "published": "1965-09-02",
+  "gazette": "12090",
+  "in_force": "1989-07-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG – 28/07/1989\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "1989-07-28",
+      "RG – 28/07/1989",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1370,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.5871%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

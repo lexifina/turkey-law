@@ -1,0 +1,1 @@
+Madde 12 - Daire ve müesseselerde emanet dağıtma işini mutemet, daire ve müessese amirinin tensip edeceği bir subay veya askeri memur ile birlikte yapar. Bu halde emanet sahibi mutemet posta defterini imzalamak suretiyle emanetini alır. Defter aynı zamanda dağıtma işinde hazır bulunan subay veya askeri memur tarafından da imza edilir.

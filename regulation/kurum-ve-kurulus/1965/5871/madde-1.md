@@ -1,0 +1,3 @@
+ORDU MENSUPLARI ADLARINA GÖNDERİLECEK POSTA MADDELERİYLE HAVALELERİN POSTAHANELERDEN ALINMA VE SAHİPLERİNE VERİLME TARZINI GÖSTERİR YÖNETMELİK
+Madde 1 - Bilumum ordu mensupları adlarına gönderilecek taahhütlü posta maddeleriyle, küçük paketler ve havalelerle değerli ve değersiz koliler ve değerli mektup ve kutular ve bunların ihbarnameleri postahanelerden mutemetler vasıtasiyle alınır.
+(Ek fıkra:RG – 28/07/1989-20235) İçerisinde P.T.T. merkezi bulunan kışla ve karargahlarda; yukarıda belirtilen posta maddeleriyle, havale bedelleri, ihbarnamelerinin birlik komutanlığınca tasdik edilmesi halinde sahipleri tarafından bu merkezlerden alınabilir.

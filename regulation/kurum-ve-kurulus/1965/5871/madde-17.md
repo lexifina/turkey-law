@@ -1,0 +1,1 @@
+Madde 17 - Kadrosu pekaz olan daire ve müesseselerdeki erat adına gelecek emanetler hüviyetleri daire ve müessese amirleri tarafından tasdik edilmek şartiyle postanelerden doğrudan doğruya sahipleri tarafından da alınabilir.

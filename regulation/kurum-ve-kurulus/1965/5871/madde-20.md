@@ -1,0 +1,1 @@
+Madde 20 - Ordu mensupları adına gönderilecek posta maddeleriyle, havalelerin postanelerden alınma ve sahiplerine verilme tarzını gösterir 16.3.1953 gün ve Kanun İşleri Müdürlüğü 16/57458 sayılı Yönetmelik yürürlükten kaldırılmıştır.

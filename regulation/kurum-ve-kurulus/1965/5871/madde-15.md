@@ -1,0 +1,10 @@
+Madde 15 - Alıcıları bulunmıyan emanetlere ait ihbarnameler meşruhan postanelere geri verilir.
+Alıcıları tarafından bu Yönetmelik hükümlerine göre imza ve yetkili komutanlarca da tasdik edilmiş ihbarnamelere istinaden postanelerden alınan emanetlerle paralardan maada:
+a. Şehit düşenlere, ölenlere, esir olanlara, terhis edilenlere ve hava tebdili alanlarla bir aydan fazla izinli gittiği anlaşılanlara ait olanlar, haklarında posta mevzuatına göre işlem yapılmak üzere iade sebeplerini gösterir bir şerhle mutemetler tarafından postanelere geri verilir ve keyfiyet mutemet ve bölük posta defterlerine icabında alınacak posta alındısının numara ve tarihi de behemahal gösterilmek suretiyle işlenir ve alındının kendisi de mutemet defterinin o sahifesine yapıştırılır;
+b. Asker hastanelerine yatmış olanların emanetleri, hastaneler birlik, müessese ve dairelerin bulunduğu yerde ise yine mutemet ve bölük komutanları vasıtasiyle kendilerine nöbetçi subay veya askeri memur önünde verilir ve deftere imza ettirilir.
+Ayrı ve uzak yerde bulunuyorsa hastanedeki mufassal adresleri yazılmak suretiyle ihbarnameler veya emanetler postanelere geri çevrilir;
+c. Kıtası değişenlerin ihbarnameleri veya emanetleri de aynı şekilde yeni adresleri gösterilmek suretiyle postanelere geri verilir.
+ç. Bir ay içerisinde ödenecek olanların ihbarnameleri mutemetler tarafından yazı ile bildirilmek şartiyle postanelerce bir ayı geçmemek üzere bekletilebilir;
+d. Postaneden alınmış emanetlerin sahipleri bir ay veya daha kısa bir zaman için birlik, müessese veya daireden ayrılmışlarsa geldiklerinde kendilerine verilmek üzere emanetlerin birlik, daire veya müesseselerce muhafazaları temin edilir.
+Bir aydan uzun sürecek ayrılmalarda veya kıta değiştirmelerde bu emanetler mutemetler tarafından sahiplerinin adına yeni adresine gönderilir.
+Bütün bu muameleler mutemet ve bölük posta defterine işaret olunur. Dolaşmadan veya geri çevrilmeden doğacak masraflar emanet sahiplerine ait olur. Dikkatsizlik veya ihmal yüzünden sebepsiz ve yersiz dolaşma ve geri çevrilmelerden doğacak masraflar sebep olanlara ödettirilir.

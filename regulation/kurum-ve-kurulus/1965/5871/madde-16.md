@@ -1,0 +1,1 @@
+Madde 16 - Subay ve askeri memurlarla, onların yerlerinde veya askeri kadrolarla çalıştırılan maaşlı veya ücretli sivil memurlar ve astsubaylarla özel bir ödevle asıl birliğinden ayrı bulunan müfrez er ve erbaşlar hüviyetlerini ispat etmek şartiyle adlarına gelen emanetleri doğrudan doğruya postanelerden alabilecekleri gibi mutemetler vasıtasiyle de aldırılabilirler.

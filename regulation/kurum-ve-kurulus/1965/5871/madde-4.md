@@ -1,0 +1,2 @@
+Madde 4 - Her mutemet ilişik örneğe uygun ve sahifeleri numaralı ve resmi mühürle tasdikli bir "Mutemet posta defteri" tutmakla mükelleftir.
+İhbarnameler mutemetler tarafından postaneden alınıp gönderici ve alıcının ad ve soyadlariyle mufassal adresleri gösterilmek suretiyle bu posta defterine yazılır ve arkalarına bu defterin hangi sahifesinin kaçıncı sıra No. sunda kayıtlı oldukları da gösterilir.
