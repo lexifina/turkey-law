@@ -1,0 +1,51 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 141897,
+  "assembly": "Temsilciler Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Çeşitli teadül ve teşkilât kanunlariyle diğer kanunlarda mevcut aylık ve ücret tutarlarının değiştirilmesi hakkındaki 7244 sayılı Kanunda değişiklik yapılmasına ve bu kanuna bâzı hükümler eklenmesine dair (1/34)",
+  "title": "Çeşitli teadül ve teşkilât kanunlariyle diğer kanunlarda mevcut aylık ve ücret tutarlarının değiştirilmesi hakkındaki 7244 sayılı Kanunda değişiklik yapılmasına ve bu kanuna bâzı hükümler eklenmesine dair (1/34)",
+  "first_sitting_date": "1961-02-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 14,
+      "sitting_date": "1961-02-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001fih.pdf",
+      "pages": [
+        "188"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 1,
+      "sitting": 20,
+      "sitting_date": "1961-02-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001fih.pdf",
+      "pages": [
+        "286",
+        "341:346",
+        "346:373",
+        "381",
+        "412:414"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8d950cb432dd83a71b440747622b7eda70e88e1579633df98ca8d3b77b5c3b89",
+  "in_force": "1961-02-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
