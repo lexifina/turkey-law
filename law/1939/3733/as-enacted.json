@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3733",
+  "year": 1939,
+  "title": "Maliye Vekâleti bütçesine (300 000) lira fevkalâde tahsisat verilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-10-19",
+  "gazette_issue": "4340",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4340.pdf",
+  "source_sha256": "93cdaa61ab111ecd8ab9f174b4c7eaa6372ac6514e69056c5228f3599ce8f110",
+  "text_sha256": "36f3b781b41f733c9280708470375740e669be4db0e53f952a7b503cc77f0868",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      86,
+      107
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003733.pdf",
+    "source_sha256": "8e842806703101abf3f678313aeda6e80eb5bf01c472949c5763c60b8cf47aa5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.932,
+    "bag": 0.912,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9701,
+    "rg_words": 60,
+    "kd_words": 67,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
