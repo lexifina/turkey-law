@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4903",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AFETLERİN GENEL HAYATA ETKİLİLİĞİNE İLİŞKİN TEMEL KURALLAR HAKKINDA YÖNETMELİK",
+  "number": "4903",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1968/4903",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4903&MevzuatTertip=5",
+  "source_sha256": "dcc8337b7606ca0406695205e53ff12cc4e4595679407bdef2536a6429a19c9c",
+  "source_bytes": 16396,
+  "published": "1968-09-21",
+  "gazette": "13007",
+  "in_force": "1968-09-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.09.1968); own commencement article: \"Bu Yönetmelik yayımı tarihinden itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 420,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
