@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5948",
+  "year": 1952,
+  "title": "Gördes Kasabasının Nakledileceği Kocamutluk Mevkiinde Yaptırılacak Meskenler Hakkındaki Kanunun Birinci Maddesine Bazı Fıkralar İlâvesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-06-13",
+  "gazette_issue": "8134",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8134.pdf",
+  "source_sha256": "7fdcdd071f1a7a767e9614639d018dd54ab0b8b3776f76041e3cf4153159fe51",
+  "text_sha256": "4cd7f1fb3ada8392c7611c452575f0da07bccc03e38d3f374fbba5c7982d2506",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      130,
+      156
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405948.pdf",
+    "source_sha256": "8521897b1fc439b0a8db9ea0f9a4aa9b14aafd06a9647d2a70ecbb1817a68423",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9478,
+    "bag": 0.8706,
+    "kd_coverage": 0.9706,
+    "kd_body_compared": 0.9483,
+    "rg_words": 175,
+    "kd_words": 174,
+    "own_anchor": false,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
