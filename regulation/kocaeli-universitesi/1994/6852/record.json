@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 27 – Bu yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme Madde 28 – Bu Yönetmelik hükümlerini Kocaeli Üniversitesi Rektörü yürütür."
+  ],
+  "date_evidence": [
+    [
+      "1994-06-09",
+      "09.06.1994",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 27 – Bu yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme Madde 28 – Bu Yönetmelik hükümlerini Kocaeli Üniversitesi Rektörü yürütür.",
+  "first_law": null,
+  "gazette": "21955",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1994-06-09",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kocaeli Üniversitesi",
+  "issuer_slug": "kocaeli-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kocaeli-universitesi/1994/6852",
+  "published": "1994-06-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6852&MevzuatTertip=5",
+  "source_bytes": 51411,
+  "source_id": "8.5.6852",
+  "source_sha256": "05f31be8b43d8f6693b67fa426f8c6010a0f81c67b5100c1572456d1e179eec1",
+  "text_status": "as-enacted",
+  "title": "KOCAELİ ÜNİVERSİTESİ ARŞİV HİZMETLERİ HAKKINDA YÖNETMELİK",
+  "university_id": 209,
+  "word_count": 1991
+}
