@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5417-1677/12241",
+  "source_id": 31960,
+  "date": "1998-03-31",
+  "title": "Menkul Kıymetler A.Ş'nin irtibat bürosu olarak faaliyet gösterdiği belirtilerek, müşterilerinin hisse senedi alım ve satım işlemleri dolayısıyla sağlanan komisyon bedelleri katma değer vergisinden istisnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31960",
+  "source_sha256": "e7c9e7ff62bbffe108b3eafa37fdc2abc00919e6c0a41009d7c4120b26426d05",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
