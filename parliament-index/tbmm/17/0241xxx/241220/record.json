@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 241220,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "KANUN HÜKMÜNDE KARARNAMELER",
+  "heading_as_published": "Kanun Hükmünde Kararnameler",
+  "summary": "8.3.1950 Tarihli ve 5990 Sayılı «Ticaret ve Sanayi Odaları», «Ticaret Odaları», «Sanayi Odaları», «Deniz Ticaret Odaları», «Ticaret Borsaları» ve «Türkiye Ticaret, Sanayi Deniz Ticaret Odaları ve Ticaret Borsaları Birliği» Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Bazı Maddeler Eklenmesi Hakkında Kanun Hükmünde Kararname ve Bu Kararnamede Değişiklik Yapılmasına Dair 82 Sayılı Kanun Hükmünde Kararname (1/12, 1/13)",
+  "title": "8.3.1950 Tarihli ve 5990 Sayılı «Ticaret ve Sanayi Odaları», «Ticaret Odaları», «Sanayi Odaları», «Deniz Ticaret Odaları», «Ticaret Borsaları» ve «Türkiye Ticaret, Sanayi Deniz Ticaret Odaları ve Ticaret Borsaları Birliği» Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Bazı Maddeler Eklenmesi Hakkında Kanun Hükmünde Kararname ve Bu Kararnamede Değişiklik Yapılmasına Dair 82 Sayılı Kanun Hükmünde Kararname (1/12, 1/13)",
+  "first_sitting_date": "1984-10-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 13,
+      "sitting_date": "1984-10-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007013.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007fih.pdf",
+      "pages": [
+        "415:420"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20H%DCKM%DCNDE%20KARARNAMELER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20H%DCKM%DCNDE%20KARARNAMELER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8cb5d06173e7cb36abc809e1e25c68655d81a437a29a2141d37f13ea85e7b309",
+  "in_force": "1984-10-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
