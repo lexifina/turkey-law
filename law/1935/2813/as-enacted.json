@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2813",
+  "year": 1935,
+  "title": "Kanunla verilen izinler üzerine yapılan kefaletlerin nasıl yerine getirileceği hakkındaki 2618 numaralı kanuna müzeyyel kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-06-24",
+  "gazette_issue": "3036",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3036.pdf",
+  "source_sha256": "f133f23cb09a0de7c6d36652897d840ef57393f0cf91a4cc5ff495dad9cfb347",
+  "text_sha256": "9e4216c756ce22dcd19e2455ddfbf1edfa747ddd4e100bd7bb00a654cedc7a59",
+  "text_status": "ocr",
+  "pages": [
+    10
+  ],
+  "line_span": [
+    [
+      1908,
+      1929
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502813.pdf",
+    "source_sha256": "d743b26b3e0eaa9f550e0d92430e30ab3452eccef81292a3ab5a3f4b1a60a04f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9701,
+    "bag": 0.918,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8969,
+    "rg_words": 96,
+    "kd_words": 97,
+    "own_anchor": false,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
