@@ -1,0 +1,13 @@
+{
+  "number": "01-59/629-166",
+  "type": "Rekabet İhlali",
+  "decision_date": "2001-12-11",
+  "publication_date": "2002-11-22",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=e900b262-df9d-4aed-814e-3d2dc09bad46",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1017",
+  "pdf_sha256": "e586f3674af4906d2b61b70c067e503f5b4a656a11f41c37c11d1a9af64d2b17",
+  "pdf_bytes": "258859",
+  "pages": "3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official title"
+}
