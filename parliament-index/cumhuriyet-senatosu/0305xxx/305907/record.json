@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 305907,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "RİFAT ÖZTÜRKÇİNE (İSTANBUL)",
+  "summary": "Gümrük ve Tekel Bakanlığı Teşkilatı ve vazifeleri hakkındaki 2825 sayılı Kanuna 2 madde eklenmesi ve mütedair 4607 sayılı Kanunun 122 sayılı Kanunla değiştirilmiş olan 1. maddesinin değiştirilmesi hakkında (Millet Meclisi 2/401, Cumhuriyet Senatosu 2/226) (S. Sayısı:989)",
+  "title": "Gümrük ve Tekel Bakanlığı Teşkilatı ve vazifeleri hakkındaki 2825 sayılı Kanuna 2 madde eklenmesi ve mütedair 4607 sayılı Kanunun 122 sayılı Kanunla değiştirilmiş olan 1. maddesinin değiştirilmesi hakkında (Millet Meclisi 2/401, Cumhuriyet Senatosu 2/226) (S. Sayısı:989)",
+  "first_sitting_date": "1967-07-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 42,
+      "sitting": 85,
+      "sitting_date": "1967-07-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042085.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042fih.pdf",
+      "pages": [
+        "388:389"
+      ]
+    },
+    {
+      "cilt": 43,
+      "sitting": 93,
+      "sitting_date": "1967-07-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043fih.pdf",
+      "pages": [
+        "423",
+        "456:457"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=301&v_kullanici_id=27484924",
+  "source_sha256": "74d56f29c09e4d1505385c377d0cf4e19e917ead90cf9929fcdaaf9dc1461ff5",
+  "in_force": "1967-07-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
