@@ -1,0 +1,52 @@
+{
+  "id": "e24cce69-7172-82a4-edc0-704ad61e4bde",
+  "decision_number": "1977/81",
+  "case_number": "1977/60",
+  "decision_date": "1977-05-24",
+  "published_date": "1977-09-06",
+  "source_publication_date": "1977-05-27",
+  "gazette_number": 16049,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1977/81",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "779a90562894ab5bb0d6a0f0fff119a527345c514a141cc52540e49b5851372f",
+  "version_label": "as-enacted",
+  "in_force": "1977-05-24",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": false,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "a781c0a3-6a29-4f32-bbc2-8414f8bd6e39",
+      "normTarihi": "1977-04-04",
+      "normNumaraAdParamId": "f9243707-4d9f-63aa-fa9b-1196432dcdb7",
+      "incelemeturuKarsonucuParamId": "23fcca64-d9a4-419a-cc11-20a5c62b4a95",
+      "sonucGerekcesiParamId": "e8c14485-6a16-63b3-53b1-9ddd4bec95ad",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "yok",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": false,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/61"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 5116
+}
