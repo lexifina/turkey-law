@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3240",
+  "year": 1937,
+  "title": "1076 sayılı Kanunun 23. maddesinin değiştirilmesi ve bu kanuna bir muvakkat madde ilâvesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-06-24",
+  "gazette_issue": "3639",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3639.pdf",
+  "source_sha256": "e54dd301697b2a99780c83aa80f9af8fbddd1f251bfc45377ddde428baf86713",
+  "text_sha256": "bfe64ee195ebf4a170f75b054e79a9d2ef260cd82120c079322c7f10765411b6",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      85,
+      116
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703240.pdf",
+    "source_sha256": "5091e2f004edf4c8c84afa78f35dcdf749b810e7cc81595d555e30fbd4e988cc",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9263,
+    "bag": 0.8693,
+    "kd_coverage": 0.9728,
+    "kd_body_compared": 0.9626,
+    "rg_words": 172,
+    "kd_words": 187,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
