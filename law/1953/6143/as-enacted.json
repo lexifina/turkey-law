@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6143",
+  "year": 1953,
+  "title": "Türkiye Emlâk ve Kredi Bankası hakkındaki 4947 sayılı Kanunun bazı Maddelerinin Değiştirilmesi ve 5228 sayılı Bina Yapımını Teşvik Kanununun bazı Maddelerinin Kaldırılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-17",
+  "gazette_issue": "8460",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8460.pdf",
+  "source_sha256": "aed080799b61262f14ab6b4c8a554f1f2984fb3b2341382225dcf714687dba94",
+  "text_sha256": "0c37683aea004f928713850c85de88cfd91d7258d82797bef1f7b1bb2d8b3e5c",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      465,
+      579
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506143.pdf",
+    "source_sha256": "8da657127483e8f9050f1146df9e3bbc2c6d6e6d292c384e5b6795dc26c4ee30",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9611,
+    "bag": 0.8443,
+    "kd_coverage": 0.9978,
+    "kd_body_compared": 0.9936,
+    "rg_words": 428,
+    "kd_words": 468,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
