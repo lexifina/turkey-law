@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK - 4 / 2003 - 4",
+  "source_id": 980,
+  "date": "2003-11-14",
+  "title": "Basit usulde vergilendirilen mükelleflerin 1/7/2003 tarihinden sonra satın aldıkları malları iade etmeleri halinde de yukarıda yapılan açıklamalara göre işlem yapılması uygun görülmüştür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/980",
+  "source_sha256": "2e510f35566121057b8707eab94458bb66919a183d6689213c174599a3ac8c1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
