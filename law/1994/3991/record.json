@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3991",
+  "year": 1994,
+  "title": "Bankalar Kanunu, Sigorta Murakebe Kanunu ve Türk Ticaret Kanununun Bazı Maddelerinde Değişiklik Yapılması İlişkin Yetki Kanunu",
+  "adopted": "1994-06-01",
+  "adopted_as_published": "01/06/1994",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.06.1994 No: 21953",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703991.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 77",
+  "committee_reports": [
+    {
+      "label": "TBMM 657 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c061/tbmm19061109ss0657.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 268620,
+      "title": "Bankalar Kanunu, Sigorta Murakebe Kanunu ve Türk Ticaret Kanununun Bazı Maddelerinde Değişiklik Yapılması İlişkin Yetki Kanunu",
+      "adopted_as_published": "01/06/1994",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703991.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 657 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c061/tbmm19061109ss0657.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 59,
+          "sitting": 101,
+          "sitting_date": "1994-05-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c059/tbmm19059101.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c059/tbmm19059fih.pdf",
+          "pages": [
+            "592"
+          ]
+        },
+        {
+          "cilt": 60,
+          "sitting": 104,
+          "sitting_date": "1994-05-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c060/tbmm19060104.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c060/tbmm19060fih.pdf",
+          "pages": [
+            "217"
+          ]
+        },
+        {
+          "cilt": 61,
+          "sitting": 109,
+          "sitting_date": "1994-06-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c061/tbmm19061109.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c061/tbmm19061fih.pdf",
+          "pages": [
+            "285:300",
+            "310",
+            "359:363"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=201&v_kullanici_id=27483194",
+      "page_sha256": "2ed704f93574c719c805e61fefaefa27aa942ed14954cfb0a63361110561de0c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2ed704f93574c719c805e61fefaefa27aa942ed14954cfb0a63361110561de0c",
+  "issuer": "TBMM",
+  "in_force": "1994-06-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 01/06/1994; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
