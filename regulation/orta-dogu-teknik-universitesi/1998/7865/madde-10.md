@@ -1,0 +1,2 @@
+Merkez Birimleri ve Proje Grupları
+Madde 10 – Bilim-teknoloji-kalkınma üçlüsü çok geniş konuları kapsadığından, Merkez’in çalışmalarının Merkez’e bağlı birimler veya proje grupları oluşturularak yürütülmesinin gerekli olduğu durumlarda, Başkan’ın önerisi ve Yönetim Kurulu kararıyla, çalışma alanlarında araştırma ve uygulama Merkez Birimleri ile Proje Grupları kurulabilir. Birim ve Grupların kuruluş ve çalışmaları, Yönetim Kurulunca belirlenen esaslar uyarınca yürütülür.
