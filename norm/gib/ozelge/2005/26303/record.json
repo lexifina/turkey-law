@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6516-956/10422",
+  "source_id": 26303,
+  "date": "2005-03-04",
+  "title": "Parakende mal satan veya hizmet ifa eden 1. ve 2. sınıf tacirlerin fatura kullanma mecburiyeti olmayan satışlarda ödeme kaydedici cihaz kullanmak zorunda olmaları hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26303",
+  "source_sha256": "c5cce61a380571dd6033d858721436bba5ba3302bc2ea8c53e29704f8d15aca2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
