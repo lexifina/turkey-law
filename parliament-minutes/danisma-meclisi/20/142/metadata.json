@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "Danışma Meclisi",
+  "assembly": "MİLLİ GÜVENLİK KONSEYİ- DANIŞMA MECLİSİ",
+  "term_label": "Danışma Meclisi",
+  "cilt": 20,
+  "sitting": 142,
+  "label": "142. Birleşim",
+  "sitting_date": "1983-08-09",
+  "date_as_published": "09 Ağustos 1983",
+  "weekday": "Salı",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c020/dm__02020142.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c020/dm__02020142gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c020/dm__02020fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00",
+  "source_sha256": "35a0e306c03c70c446f4ad6f95c3458d29ee1364221367f5346e7e3f04a7dd42",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
