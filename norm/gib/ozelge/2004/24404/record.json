@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.40/4042- 83/8614",
+  "source_id": 24404,
+  "date": "2004-03-01",
+  "title": "Eğitim kurumlarına yapılacak ayni ve nakdi bağışlar hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24404",
+  "source_sha256": "9f4bb7dc4261f2d8213fdd8004f6f89998b852057c4097286c9926a15d26678b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
