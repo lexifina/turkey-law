@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4054",
+  "year": 1941,
+  "title": "Millî Müdafaa Vekâleti 1041 malî yılı bütçesine 83 000 000 lira fevkalâde tahsisat verilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-06-04",
+  "gazette_issue": "4825",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4825.pdf",
+  "source_sha256": "425ccddd81663bc344ab80bc25d9ec735c8ead43361a26f9b44531b6fd10ab10",
+  "text_sha256": "223e93872fc970c613c25138211b0091c28a4578d6254d951a7926202aeaf019",
+  "text_status": "ocr",
+  "pages": [
+    26
+  ],
+  "line_span": [
+    [
+      6911,
+      6930
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204054.pdf",
+    "source_sha256": "66889a449f7574643f7fea0ebcff44f6c07a1dd00edf2854b3d6aebf78afaa70",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9668,
+    "bag": 0.8996,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.984,
+    "rg_words": 126,
+    "kd_words": 125,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
