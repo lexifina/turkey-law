@@ -1,0 +1,44 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2001/5",
+  "source_id": 606,
+  "date": "2001-09-25",
+  "title": "TAHSİLAT İÇ GENELGESİ SERİ NO: 2001/5",
+  "source": "https://gib.gov.tr/mevzuat/kanun/442/icgenelge/606",
+  "source_sha256": "d20478993f37569102a2b172ed2d078779885a84f25a02e9e7f89fb5e47d49d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/442/icgenelge/590",
+        "quote": "25.09.2001 tarihli ve 2001/5 Seri No.lu Tahsilat İç Genelgesi yürürlükten kaldırılmıştır. Bilgi edinilmesini ve gereğini rica ederim. Osman ARIOĞLU Gelir İdaresi Başkanı"
+      }
+    ]
+  },
+  "unincorporated_annexes": [
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/ammealicgen20015ek1.html",
+      "title": "EK 1: KAMU ALACAĞINI İZLEME FORMU 1",
+      "status": "official-link-only; annex text not included"
+    },
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/ammealicgen20015ek2.html",
+      "title": "EK 2: KAMU ALACAĞINI İZLEME FORMU 2",
+      "status": "official-link-only; annex text not included"
+    },
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/ammealicgen20015ek3.html",
+      "title": "EK 3: KAMU ALACAĞINI İZLEME FORMU 3",
+      "status": "official-link-only; annex text not included"
+    }
+  ]
+}
