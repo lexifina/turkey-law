@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4637",
+  "year": 2001,
+  "title": "Silahlı Kuvvetler İhtiyaç Fazlası Mal ve Hizmetlerinin Satış, Hibe, Devir ve Elden Çıkarılması; Diğer Devletler Adına Yurt Dışı ve Yurt İçi Alımların Yapılması ve Eğitim Görecek Yabancı Personel Hakkında Kanunun Bazı Maddelerinin Değiştirilmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-04-13",
+  "gazette_issue": "24372",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/04/20010413.htm",
+  "source_sha256": "dcb23d0fb3ec28a1a53399226af42c0915990f1b25d8dac69340f46f7c924185",
+  "text_sha256": "ffce5620de32b2a2de3601d1ea8e6e70e8106f7202b1bb052803e7164d6ca542",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/04/13/24372-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/04/20010413.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
