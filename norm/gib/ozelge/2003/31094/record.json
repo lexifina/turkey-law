@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2665",
+  "source_id": 31094,
+  "date": "2003-02-24",
+  "title": "İmalatçların kendi üretimlerine ek olarak fason imalat da yaptırmaları halinde,fason imalatı kendi sanayi sicil belgesinde yazılı üretim dallarmda yaptırması,işin riskini ve organizasyonunu üstlenmesi,hammadde ve yardımcı maddeleri kendi temin etmesi koşu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/31094",
+  "source_sha256": "02a7043962e50ecfb18457e7f2b9bcf6dba6286a4c4db6676c53aff7621dd17c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
