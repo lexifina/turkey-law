@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4089-117/7887",
+  "source_id": 21489,
+  "date": "2002-02-18",
+  "title": "Emeklilik sigorta sözleşmesi gereğince, belirlenen sürenin sonunda kişi adına aynen iade olan mevduat, gelir vergisine tabi tutulmaz ancak, mevduatın üzerinde bir ödeme yapılması halinde bu ilave tutar vergi tevkifatına tabi tutulmamış menkul sermaye irad",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21489",
+  "source_sha256": "f439851f1d494660255fd7cd60a24581df0a164ea06a775be3994050841b3e0f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
