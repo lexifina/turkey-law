@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 230343,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "HAYDAR KOYUNCU (KONYA)",
+  "summary": "20.6.1987 Tarih ve 3399 Sayılı, Konya ili Merkezinde Karatay, Selçuklu ve Meram Adıyla Üç ilçe Kurulması Hakkındaki Kanunda Değişiklik Yapılmasına Dair (2/85)",
+  "title": "20.6.1987 Tarih ve 3399 Sayılı, Konya ili Merkezinde Karatay, Selçuklu ve Meram Adıyla Üç ilçe Kurulması Hakkındaki Kanunda Değişiklik Yapılmasına Dair (2/85)",
+  "first_sitting_date": "1988-11-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 16,
+      "sitting": 20,
+      "sitting_date": "1988-11-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c016/tbmm18016020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c016/tbmm18016fih.pdf",
+      "pages": [
+        "276"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 24,
+      "sitting_date": "1988-11-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c017/tbmm18017024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c017/tbmm18017fih.pdf",
+      "pages": [
+        "65:70"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "728e64b0f8f780646c400a912dc0e7acd2c54ef7214ac492c3fdcae4ef1c728e",
+  "in_force": "1988-11-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
