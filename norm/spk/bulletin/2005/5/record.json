@@ -1,0 +1,48 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2005/5",
+  "date": "2005-02-04",
+  "title": "SPK Haftalık Bülteni 2005/5",
+  "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_5.pdf",
+  "source_sha256": "09d56b7e54b40f63beb22311a645e9583735a0ffc0914edae356012c87093211",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. ÖZEL DURUMLAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2005 – 04.02.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_5.pdf"
+    },
+    {
+      "heading": "B. 31.01.2005 – 04.02.2005 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Veya Tavan Artırım",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_5.pdf"
+    },
+    {
+      "heading": "C. 31.01.2005 – 04.02.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_5.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_5.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
