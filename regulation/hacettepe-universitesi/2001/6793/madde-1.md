@@ -1,0 +1,1 @@
+MADDE 1 - 2547 Sayılı Yükseköğretim Kanunu’nun 3/j ve 7/d-2’nci maddeleri uyarınca ve Hacettepe Üniversitesi Senatosu’nun 05/11/1999 tarih ve 99/118 sayılı kararı ile önerilen “Hacettepe Üniversitesi İşletmecilik Meslek Etiği Uygulama ve Araştırma Merkezi” kurulması Yükseköğretim Kurulu Başkanlığı’nın 04/12/2000 tarih ve 2612-27862 sayılı yazıları ile uygun görülmüştür.

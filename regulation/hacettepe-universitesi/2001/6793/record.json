@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu yönetmelik Resmi Gazetede yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2001-01-15",
+      "15.01.2001",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu yönetmelik Resmi Gazetede yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24288",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2001-01-15",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2001/6793",
+  "published": "2001-01-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6793&MevzuatTertip=5",
+  "source_bytes": 27797,
+  "source_id": "8.5.6793",
+  "source_sha256": "9a1b36c9408ab640aca094f607af1656a9af26d810661f0f968470357401027a",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nİŞLETMECİLİK MESLEK ETİĞİ\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 984
+}
