@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4215-4-1045/16464",
+  "source_id": 21207,
+  "date": "1999-04-28",
+  "title": "Gelir Vergisi Kanununun 18 inci maddesinde yer alan faaliyetini arızi olarak yapması ve bir takvim yılında elde ettiği hasılatın istisna tutarını aşmaması halinde, beyanname verilmeyecek ve yapılan vergi tevkifatı nihai vergileme olacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21207",
+  "source_sha256": "9d8c822235973d52f49bf687b1ff6b4058b6647dfd0e2b707469196b6b9c5992",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
