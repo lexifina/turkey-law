@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3376",
+  "year": 1938,
+  "title": "Maliye ve Düyunu Umumiye 1937 malî yılı bütçelerinde değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-05-02",
+  "gazette_issue": "3896",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3896.pdf",
+  "source_sha256": "d955c1666779f1c7d488a35ec557979fb053e454775ab887d78d81b2bb6bcb80",
+  "text_sha256": "10a80386716b76cb677342077916d262e7ff6c33ebb9d49e1cc8c5e9193a4e4d",
+  "text_status": "ocr",
+  "pages": [
+    7
+  ],
+  "line_span": [
+    [
+      1230,
+      1242
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803376.pdf",
+    "source_sha256": "359c3792691620b712bb2d144e609db23a9c8d123741fa1dd98bb2110d4adea1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9833,
+    "bag": 0.9577,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9722,
+    "rg_words": 72,
+    "kd_words": 72,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
