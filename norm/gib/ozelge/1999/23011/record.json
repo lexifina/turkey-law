@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4428-29/014054",
+  "source_id": 23011,
+  "date": "1999-04-14",
+  "title": "Ücretli olarak meslek mensubunun çalıştığı bürolar ile meslek mensuplarının gözetiminde işlemleri yürütülen bürolarda düzenlenecek beyannamelerin mükelleflerce imzalanması yeterli olup, bu beyannamelerin meslek mensuplarınca veya büro görevlilerince imzal",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23011",
+  "source_sha256": "6ded4bf167a8d3200f421ab89973c2557f9e6395df5992b43af1873579dd97df",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
