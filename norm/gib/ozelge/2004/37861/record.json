@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-2073/21972",
+  "source_id": 37861,
+  "date": "2004-05-17",
+  "title": "Uzlaşma sonucu tahakkuka bağlanan miktarların düzeltmeye konu edilemeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37861",
+  "source_sha256": "546e3fc420c8a12afeb33bb73d19741a7cefb5b23c5066a960de8440032cfaeb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
