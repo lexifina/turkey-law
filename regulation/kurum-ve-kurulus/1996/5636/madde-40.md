@@ -1,0 +1,2 @@
+Teslim Şekli
+Madde 40- Son işlem günü itibarı ile pozisyonlarını tasfiye etmemiş olanlar sözleşmeye konu teşkil eden altın ya da dövizi teslim etmek ya da teslim almakla yükümlüdürler. Ancak, nakdi uzlaşmanın Borsa Yönetim Kurulu tarafından teslim şekli olarak öngörüldüğü durumlarda fiziki teslim yapılmaz. Nakdi uzlaşmaya karar verilmesi durumunda esas alınacak fiyat, son işlem günü son seansına ait uzlaşma fiyatıdır.

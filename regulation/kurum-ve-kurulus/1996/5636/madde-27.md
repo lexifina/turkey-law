@@ -1,0 +1,2 @@
+Teşekkül Eden Fiyatların İlanı
+Madde 27- Borsada yapılan işlemler sonucunda, her vadede teşekkül eden fiyatlar ve bu fiyatlardan yapılan toplam işlem miktarları seans bitiminde ilan edilir. Borsa kaydına alınan her vadedeki fiyatlar Borsa Bültenifnde "seans açılış fiyatıh, "en düşük fiyat", "en yüksek fiyat" ve "seans uzlaşma fiyatıh olarak ilan edilir. Herhangi bir vadede veya tüm vadelerde o günkü seansta fiyat teşekkül etmemiş ise bu durum Borsa Bültenifnde ilan edilir.

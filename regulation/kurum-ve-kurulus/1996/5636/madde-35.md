@@ -1,0 +1,3 @@
+Takas Merkezinin Mali Sorumluluk Sınırları
+Madde 35- Takas Merkezi, takas işlemleri sırasında alıcıya karşı satıcı, satıcıya karşı alıcı konumu üstlenir.
+Takas Merkezi'nin mali sorumluluğu vadeli işlem ve opsiyon sözleşmelerinin takas işlemleri sırasında taraflardan her biri için karşı tarafın yerini almasından kaynaklanan zararlar ile sınırlıdır. Takas Merkezi, takas üyesi olmayan piyasa üyelerinin takas üyelerine karşı yükümlülüklerinden, piyasa ve takas üyelerinin müşterilerinin diğer piyasa ve takas üyelerine karşı yükümlülüklerinden, herhangi bir takas üyesinin kendisine aracılık hizmeti veren bir diğer takas üyesine karşı yükümlülüklerinden ve takas üyesinin müşterilerine karşı yükümlülüklerinden sorumlu tutulamaz.
