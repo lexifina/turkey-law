@@ -14,7 +14,7 @@ b) Aşağıdaki haller birinci derece kusur sayılarak, sorumluları hakkında i
 4) 12 nci maddede yer alan hükümler dahilinde iletim ve depolama tesislerine erişimin dolaylı veya dolaysız olarak engellenmesi.
 Yukarıda belirtilenlerin dışında kalan ancak Kanunun getirdiği yükümlülüklere uymayanlara Kurumca elli milyar Türk Lirasına kadar idarî para cezası verilir.
 ––––––––––––––––––––––
-(1) Bu maddede yer alan para cezalarının 2004 yılında uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
+(1) Bu maddede yer alan para cezalarının 2005 yılında uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
 Bayiler için yukarıda yer alan cezaların beşte biri uygulanır.
 Cezalar tahsil edilinceye kadar, mahkeme kararı ile ilgililerin varlıklarına tedbir konulabilir. Tesisler, lisans alınıncaya veya bu Kanuna göre lisans gerektirmeyen faaliyet gösterecek hale getirilinceye kadar mühürlenir.
 Ceza uygulanan bir fiilin iki takvim yılı geçmeden aynı kişi tarafından tekrarı halinde, cezalar iki kat olarak uygulanır.
