@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 329474,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Ceza Yargılarının Milletlerarası Değeri Konusunda Avrupa Sözleşmesinin onaylanması ve uygulanması hakkında kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Anayasa ve Adalet ve Dışişleri, Turizm ve Tanıtma komisyonları raporları. (Millet Meclisi 1/344; Cumhuriyet Senatosu:1/475) (S. Sayısı:667)",
+  "title": "Ceza Yargılarının Milletlerarası Değeri Konusunda Avrupa Sözleşmesinin onaylanması ve uygulanması hakkında kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Anayasa ve Adalet ve Dışişleri, Turizm ve Tanıtma komisyonları raporları. (Millet Meclisi 1/344; Cumhuriyet Senatosu:1/475) (S. Sayısı:667)",
+  "first_sitting_date": "1976-12-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 29,
+      "sitting": 14,
+      "sitting_date": "1976-12-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029fih.pdf",
+      "pages": [
+        "255"
+      ]
+    },
+    {
+      "cilt": 32,
+      "sitting": 38,
+      "sitting_date": "1977-02-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032fih.pdf",
+      "pages": [
+        "3"
+      ]
+    },
+    {
+      "cilt": 32,
+      "sitting": 40,
+      "sitting_date": "1977-03-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032fih.pdf",
+      "pages": [
+        "129",
+        "131:132",
+        "191:192"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=4401&v_kullanici_id=27484903",
+  "source_sha256": "0097d2c9d22b17a0779fcfb06834d003b68765b539260f112afbd8e12751f6f3",
+  "in_force": "1976-12-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
