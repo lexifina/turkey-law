@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6527-199/17892",
+  "source_id": 38242,
+  "date": "2004-04-22",
+  "title": "Öğrenci evi işletmeciliği faaliyeti için Vergi Usul Kanununa göre fatura veya parakende satış fişleri düzenlemek koşuluyla, ödeme kaydedici cihaz kullanma zorunluluğu bulunmaması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38242",
+  "source_sha256": "3d56acd43ffa2cbc1d018b104d3ea8dc4d6ffffe422b39fbf337b22d8615556b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
