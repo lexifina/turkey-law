@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5311-2333/13965",
+  "source_id": 31089,
+  "date": "2001-03-15",
+  "title": "Tecil-terkin işlemlerinde, Sanayi Sicil Belgesini daha sonra almış olan mükelleflerin, ihraç kaydıyla teslimlerin yapıldığı önceki dönemlerde de uygulanması mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31089",
+  "source_sha256": "0769ce61642937f7f00a70408ec58d48694acf79521281dd00eb288b03a0e547",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
