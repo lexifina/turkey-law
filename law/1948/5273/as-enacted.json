@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5273",
+  "year": 1948,
+  "title": "Hudut ve Sahiller Sağlık Genel Müdürlüğü 1948 yılı Bütçe Kanununa bağlı (A) işaretli cetvelde değişiklik yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1948-12-24",
+  "gazette_issue": "7088",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7088.pdf",
+  "source_sha256": "0c6af34699805c75c1039e621be65cfd3d8391c2959086c66d86fda6b5401aea",
+  "text_sha256": "d04eedb3eb318d8fb252fc955676b1741a4349d9b28cc6334c3833ea86191bb3",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      213,
+      225
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [2] (no text layer)",
+    "tesseract_pages": [
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105273.pdf",
+    "source_sha256": "0de929b808b0e5b07f67f5a8ccf12a5eabd85d0eb98ca7ad93e2334dd8e76791",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9025,
+    "bag": 0.8132,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9691,
+    "rg_words": 88,
+    "kd_words": 97,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
