@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "07.0.GEL.0.56/5601-828/26642",
+  "source_id": 36813,
+  "date": "1997-06-25",
+  "title": "Kambiyo muameleleri dışında kalan banka muamelelerinde verginin doğması için bir muamele yapılması ve lehe para kalması şartları birlikte bulunması gerekirken, kambiyo muamelelerinde verginin doğması için sadece kambiyo satışının yapılmasının yeterli oldu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36813",
+  "source_sha256": "e1bd8c0ea235931bca310a6a955e340674692ca25eb039322958a8139c940561",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
