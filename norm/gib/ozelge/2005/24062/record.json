@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4036-14/890",
+  "source_id": 24062,
+  "date": "2005-01-07",
+  "title": "TÜFE'ye endeksli menkul kıymetlerin vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24062",
+  "source_sha256": "fa0c590394de36abfbc07796931f57e9a723f606260af078efb89b73a5ca7e36",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
