@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-06-26",
+  "issue": "25150",
+  "edition": "regular",
+  "item": 18,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-1",
+  "title": "Antalya Merkez Yeşilbayır Belediye Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030626-3-1.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (23 = 23)",
+  "ilan_codes": [
+    "20985/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030626-3-1.htm",
+  "category_page_sha256": "9f4e689dc48e7b9f2484e43cfc5345f1c1ab3b5fc8ae63b669183fc3c6704887",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030626.htm",
+  "index_sha256": "bbe80b6011c3c287e47763f741dc1633adc3178772a40fd69d508ca9a704507c",
+  "index_header": "26 Haziran 2003 ... Sayı : 25150",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
