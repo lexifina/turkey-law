@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5711-357 / 47408",
+  "source_id": 36547,
+  "date": "2003-11-04",
+  "title": "İhracattan doğan İade alacağının öncelikle mükellefin ithalde alınanlar dışındaki vergi borçlarına mahsup edileceği; artan bir miktar olursa mükellefin isteğine bağlı olarak; kendisinin, ortaklarının veya mal ya da hizmet satın aldığı mükelleflerin ithald",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/36547",
+  "source_sha256": "e4e7bd65d50f3bac0b8ccda8ae6ee2b0c9d46142e1225a6b61c5750e7feaf56f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
