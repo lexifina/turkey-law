@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 122299,
+  "assembly": "TBMM",
+  "term": 3,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Dahiliye Vekâleti 1928 senesi bütçesinin bazı fasılları arasında münakale icrası hakkında, Hariciye Vekâleti 1928 senesi bütçesinden Maliye Vekâleti 1928 senesi bütçesine münakale icrasına dair, Hariciye Vekâleti 1928 senesi bütçesinin bazı fasıl ve maddeleri arasında münakale icrası hakkında, İktisat Vekâleti 1928 senesi bütçesine iki milyon liralık tahsisatı fevkalâde verilmesi hakkında, İktisat Vekâleti bütçesinin bazı fasıl ve maddelerinde münakale icrası hakkında, Millî Müdafaa Vekâleti 1928 senesi bütçesinin 888. faslına tahsisatı munzamına verilmesi hakkında, Deniz bütçesinin muhtelif fasılları arasında münakale icrasına dair, Emniyeti umumiye müdüriyeti umumiyesi 1928 senesi bütçesinde Avrupaya gönderilecek memurin masarifi namiyle yeniden açılacak fasla (ecnebi mütehassısı) faslından münakale yapılması hakkında, Posta ve telgraf müdüriyeti umumiyesi 1928 senesi bütçesinin bazı fasılları arasında münakale icrası hakkında, Rüsumat müdüriyeti umumiyesi 1928 senesi bütçesinin muhtelif fasıl ve maddeleri arasında münakale icrası hakkında kanun lâyihalarına dair",
+  "title": "Dahiliye Vekâleti 1928 senesi bütçesinin bazı fasılları arasında münakale icrası hakkında, Hariciye Vekâleti 1928 senesi bütçesinden Maliye Vekâleti 1928 senesi bütçesine münakale icrasına dair, Hariciye Vekâleti 1928 senesi bütçesinin bazı fasıl ve maddeleri arasında münakale icrası hakkında, İktisat Vekâleti 1928 senesi bütçesine iki milyon liralık tahsisatı fevkalâde verilmesi hakkında, İktisat Vekâleti bütçesinin bazı fasıl ve maddelerinde münakale icrası hakkında, Millî Müdafaa Vekâleti 1928 senesi bütçesinin 888. faslına tahsisatı munzamına verilmesi hakkında, Deniz bütçesinin muhtelif fasılları arasında münakale icrasına dair, Emniyeti umumiye müdüriyeti umumiyesi 1928 senesi bütçesinde Avrupaya gönderilecek memurin masarifi namiyle yeniden açılacak fasla (ecnebi mütehassısı) faslından münakale yapılması hakkında, Posta ve telgraf müdüriyeti umumiyesi 1928 senesi bütçesinin bazı fasılları arasında münakale icrası hakkında, Rüsumat müdüriyeti umumiyesi 1928 senesi bütçesinin muhtelif fasıl ve maddeleri arasında münakale icrası hakkında kanun lâyihalarına dair",
+  "first_sitting_date": "1928-12-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 16,
+      "sitting_date": "1928-12-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c006/tbmm03006016.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c006/tbmm03006fih.pdf",
+      "pages": [
+        "66",
+        "74"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1561&v_gelecek_sayfa=501&v_kullanici_id=27483795",
+  "source_sha256": "1988040a7176305f8832c913a4a6c8e960e488bf1124a0f358e73a6eb91d016c",
+  "in_force": "1928-12-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
