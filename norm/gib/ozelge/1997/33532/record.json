@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5449-67/23856",
+  "source_id": 33532,
+  "date": "1997-06-10",
+  "title": "Belediyelerce indirim hakkına tabi işlerde kullanılmak üzere , yatırım teşvik belgesi kapsamında itfaiye aracı ithalinde katma değer vergisi ertelemesinin uygulanması mümkündür. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33532",
+  "source_sha256": "81eb1db22aed8112e75b56366c0e32f3c888bc4c9beda4eb44ea7bad2357ca69",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
