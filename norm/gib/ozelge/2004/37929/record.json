@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2849-104-",
+  "source_id": 37929,
+  "date": "2004-09-07",
+  "title": "Belediye sınırları içinde yayın yapan gazete bulunmadığı belirtilerek ....... Malmüdürlüğü...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37929",
+  "source_sha256": "eb6e3730643ce90e88b8428bee43074d5af9a63cc87f199078f3beffc4523d33",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
