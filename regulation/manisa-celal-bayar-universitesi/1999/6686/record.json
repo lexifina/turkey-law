@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 16 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1999-06-24",
+      "24.06.1999",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 16 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "23735",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1999-06-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Manisa Celal Bayar Üniversitesi",
+  "issuer_slug": "manisa-celal-bayar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/manisa-celal-bayar-universitesi/1999/6686",
+  "published": "1999-06-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6686&MevzuatTertip=5",
+  "source_bytes": 20846,
+  "source_id": "8.5.6686",
+  "source_sha256": "646a141d4d50f311c723139031cc2ccf1c6cf0d0c2b74ee45b7ba220ef8c943e",
+  "text_status": "as-enacted",
+  "title": "CELAL BAYAR ÜNİVERSİTESİ ÇEVRE SORUNLARI ARAŞTIRMA VE\r\nUYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 184,
+  "word_count": 833
+}
