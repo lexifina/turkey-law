@@ -1,0 +1,261 @@
+Emekli
+Sandığı Genel Müdürlüğünden:
+Dış
+Genelge
+(148)
+Bilindiği
+üzere, 1587 sayılı Nüfus Kanununa 3080 sayılı Kanunla eklenen ek 4’üncü
+madde ile İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünün
+nüfus kütüklerindeki bilgi alışverişini kolaylaştırmaya ve kamu kuruluşlarında
+tutulan kayıtlar arasında bağ oluşturmaya esas olacak
+bir numara sistemi geliştirilmesi öngörülmüş ve bu numaranın bütün kamu
+kuruluşlarının kayıtlarında esas alınacağı hükme bağlanmıştır.
+Bu
+çerçevede İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünce
+MERNİS (Merkezi Nüfus İdaresi Sistemi) Projesi kapsamında, tüm vatandaşlarımızın
+nüfus kayıtları bilgisayar ortamına aktarılmış ve herkese birer " Türkiye
+Cumhuriyeti Kimlik Numarası " verilmiş bulunmaktadır.
+Yine,
+Başbakanlık Personel ve Prensipler Genel Müdürlüğünün 20 Haziran 2002
+tarihli ve 2002/22 sayılı Genelgesinde de "...
+Türkiye
+Cumhuriyeti Kimlik Numarasından beklenen yararların elde edilmesi, kullanımın
+hızlı ve sistemli bir şekilde yaygınlaştırılmasıyla mümkün olacaktır.
+01.01.2003
+tarihinden itibaren tüm kamu kuruluşları, faaliyet alanları çerçevesinde
+vatandaşlarla ilgili olarak ürettikleri kimlik kartları, beyanname ve diğer
+her türlü belge (Kurum kimlik kartı, pasaport, ehliyet, form, beyanname v.b.)
+üzerinde Türkiye Cumhuriyeti Kimlik Numarasının yer almasını sağlayacaklar,
+bu numaranın yer almadığı kayıt
+düzenlemeyeceklerdir. Bunun için gerektiği takdirde mevzuat değişikliklerinin
+süratle gerçekleştirilmesi için gerekli önlemleri alacaklardır.
+Bu
+genelgenin yayım tarihinden sonra gerçekleştirilecek tüm kamu bilişim
+projelerindeki kişi bilgileri, Türkiye Cumhuriyeti Kimlik Numarasına dayalı
+ve çevrim-içi (on-line) olarak MERNİS Sisteminden alacak biçimde
+tasarlanacaktır..." denilmektedir.
+Tüm
+bu açıklamalar çerçevesinde, Türkiye Cumhuriyeti Kimlik Numarası kullanımının
+Sandığımız birimlerince yürütülmesi, bilgisayar kayıtlarında izlenmesi
+ve kurumlar arası işlemlerde bu numaranın ortak kullanılması özellikle
+Sosyal Güvenlik sektöründe önemli bir konu olmaktadır.
+Esasen,
+sosyal güvenlik kuruluşlarının tek çatı altında toplanmasına yönelik çalışmalar
+kapsamında tüm iştirakçilerimizin Türkiye Cumhuriyeti Kimlik Numaralarının
+kayda alınması gerektiğinden, Sandığımızca Türkiye Cumhuriyeti Kimlik
+Numaralarının ve emeklilik aylığı bağlanmasına esas alınacak unsurların
+tespiti amacıyla
+çalışmalara başlanmıştır.
+Nitekim,
+15.07.2004 tarihinden itibaren Türkiye Cumhuriyeti Kimlik Numarası olmayan iştirakçilerimizin
+işlemleri yapılmamaktadır.
+Bu
+nedenle, Kurumunuz personelinin mağduriyetlerine sebebiyet verilmemesi için Türkiye
+Cumhuriyeti Kimlik Numaralarının ve emeklilik aylığı bağlanmasına esas alınacak
+unsurların en geç 01.12.2004 tarihine kadar EK-1 ve EK-2 de belirtilen
+formatta manyetik ortamda (CD, 2 kopya disket) Sandığımıza gönderilmesi,
+EK-1
+ve EK-2 de belirtilen bilgilerde değişiklik
+olması halinde ise; ilgili kişilere ait bilgilerin yine aynı formata işlenerek
+güncelleştirilmek üzere Sandığımıza gönderilmesi gerekmektedir.
+Ayrıca,
+Türkiye Cumhuriyeti Kimlik Numaralarının güncelliği ve doğruluğu
+www.emekli.gov.tr. internet sayfasından Türkiye Cumhuriyeti Kimlik No Güncelleme
+linki kullanılarak kontrol edilebilir ve gerekli düzeltmeler yapılabilir.
+Bilgi
+edinilmesini arz/rica ederiz.
+NOT:
+Teknik konularla ilgili sorunlarda
+414
+45 52 - 414 45 65 telefonlarla
+irtibata
+geçilerek bilgi istenebilir.
+EK:1
+ALAN
+ADI
+TÜRÜ
+UZUNLUĞU
+T.C.
+KİMLİK NO
+karakter
+11
+EMEKLİ
+SİCİL NO
+karakter
+9
+ADI
+karakter
+50
+SOYADI
+karakter
+50
+İKİNCİ
+SOYAD
+karakter
+50
+BABA
+ADI
+karakter
+50
+ANA
+ADI
+karakter
+50
+DOĞUM
+YERİ
+karakter
+15
+DOĞUM
+TARİHİ (yyyy/aa/gg)
+sayısal
+8
+MAHALLE/KÖY
+karakter
+30
+CİLT
+NO
+karakter
+8
+AİLE
+SIRA NO
+karakter
+5
+NUFUS
+SIRA NO
+karakter
+4
+NUFUSA
+KAYITLI OLDUĞU İL TRAFİK KODU
+sayısal
+3
+NUFUSA
+KAYITLI OLDUĞU İL ADI
+karakter
+15
+NUFUSA
+KAYITLI OLDUĞU İLÇE ADI
+karakter
+30
+UNVAN
+ADI
+karakter
+25
+CİNSİYET
+(K/E)
+karakter
+1
+DERECE
+sayısal
+2
+KADEME
+sayısal
+3
+EKGÖSTERGE
+sayısal
+4
+MAKAM
+GÖSTERGESİ
+sayısal
+5
+TEMSİL
+TAZMİNATI
+sayısal
+5
+GÖREV
+TAZMİNATI
+sayısal
+5
+TOPLAM
+HİZMET (yy/aa/gg)
+sayısal
+6
+İKRAMİYEYE
+ESAS HİZMET (yy/aa/gg)
+sayısal
+6
+KIDEM
+YILI
+sayısal
+2
+HİZMET
+SINIFI *
+sayısal
+2
+ÖĞRENİM
+DURUMU **
+sayısal
+2
+EK:2
+*
+HİZMET SINIFI KODLARI
+Sınıf
+Kodu
+Sınıf
+Adı
+01
+GENEL
+İDARE HİZMETLERİ
+02
+MÜLKİ
+İDARE AMİRLİĞİ HİZMETLERİ
+03
+SAĞLIK
+HİZMETLERİ
+04
+TEKNİK
+HİZMETLER
+05
+EĞİTİM
+ÖĞRETİM HİZMETLERİ
+06
+AVUKATLIK
+HİZMETLERİ
+07
+EMNİYET
+HİZMETLERİ
+08
+DİN
+HİZMETLERİ
+09
+YARDIMCI
+HİZMETLER
+10
+HAKİMLİK
+SAVCILIK
+11
+ÖĞRETİM
+ELEMANLARI
+**
+ÖĞRENİM DURUMU KODLARI
+Okul
+Kodu
+Okul
+Adı
+1
+OKUR-YAZAR
+2
+İLKOKUL
+3
+ORTAOKUL
+4
+LİSE
+5
+2
+YILLIK YÜKSEKOKUL
+6
+4
+YILLIK YÜKSEKOKUL
+7
+YÜKSEK
+LİSANS
+8
+DOKTORA
+9
+3
+YILLIK YÜKSEKOKUL
+10
+5
+YILLIK YÜKSEKOKUL
+11
+6
+YILLIK YÜKSEKOKUL
