@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-24 / 2005 - 3",
+  "source_id": 960,
+  "date": "2005-01-14",
+  "title": "Aralık/2004 Vergilendirme Döneminden İtibaren Kullanılacak Olan 1 No.lu (Gerçek Usulde Vergilendirilen Mükellefler İçin) Katma Değer Vergisi Beyannamesinin Düzenlenmesi Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/960",
+  "source_sha256": "cd3656f766e58067d91d4b31362b1789c4b5ec15e23e6f50185655c35bf98b24",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
