@@ -1,0 +1,1 @@
+Madde 30 – Sandığın sermayesinden her sene alınacak faizlerden yapılan masraflar çıktıktan sonra geri kalanı Sandığın karını teşkil eder. Bu kar Sandıkça ödenen zimmetlerden fazla olursa bu fazlalık ertesi seneye devrolunur.

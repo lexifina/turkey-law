@@ -1,0 +1,1 @@
+Madde 7 – Sandık namına yapılacak ödemeler ve masraflar usulüne göre muhasebeci tarafından tahakkuk ettirildikten sonra müdürün tasvibiyle sandık parasından hak sahibine verilir veya posta ile gönderilir.

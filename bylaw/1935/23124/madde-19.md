@@ -1,0 +1,2 @@
+Madde 19 – Kalan diğer yarısı, üç sene içinde tahakkuk edecek şahsına ait zimmetlerle sandıktan ayrılmadan evvelki zamanlara ait ve (17) nci madde hükmü ile kendine düşecek zararlar karşılığı olarak mevkuf tutulur.
+Üç sene sonunda yukarda yazılı zimmetler mahsup edildikten sonra kalan miktar, üç senelik faiz ilâvesile beraber alacaklı memura geri verilir. Sandıkça verilecek faiz haddi, sandığın son üç sene içinde sermayesine aldığı faizlerin nisbetini geçemez.

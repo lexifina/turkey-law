@@ -1,0 +1,1 @@
+Madde 2 – Sandık, Umum Müdür tarafından, Umum Müdürlük memurları arasından seçilecek bir reis ile iki azadan mürekkep bir heyetin murakabesi altında idare olunur. Reisin en aşağı altıncı ve azaların en aşağı sekizinci derecede memurlardan olması gerektir.
