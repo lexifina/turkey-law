@@ -1,0 +1,83 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 269624,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Ekonomik Denge İçin Yeni Vergiler İhdası ile Bazı Vergi Kanunlarında Değişiklik Yapılması Hakkında (1/681)",
+  "title": "Ekonomik Denge İçin Yeni Vergiler İhdası ile Bazı Vergi Kanunlarında Değişiklik Yapılması Hakkında (1/681)",
+  "first_sitting_date": "1994-04-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 58,
+      "sitting": 92,
+      "sitting_date": "1994-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c058/tbmm19058092.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c058/tbmm19058fih.pdf",
+      "pages": [
+        "245:276",
+        "278:295"
+      ]
+    },
+    {
+      "cilt": 58,
+      "sitting": 93,
+      "sitting_date": "1994-04-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c058/tbmm19058093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c058/tbmm19058fih.pdf",
+      "pages": [
+        "378:401"
+      ]
+    },
+    {
+      "cilt": 59,
+      "sitting": 96,
+      "sitting_date": "1994-04-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c059/tbmm19059096.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c059/tbmm19059fih.pdf",
+      "pages": [
+        "25:79",
+        "80:105"
+      ]
+    },
+    {
+      "cilt": 59,
+      "sitting": 97,
+      "sitting_date": "1994-04-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c059/tbmm19059097.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c059/tbmm19059fih.pdf",
+      "pages": [
+        "163:259",
+        "273:277"
+      ]
+    },
+    {
+      "cilt": 59,
+      "sitting": 99,
+      "sitting_date": "1994-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c059/tbmm19059099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c059/tbmm19059fih.pdf",
+      "pages": [
+        "399:424",
+        "481:490"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=961&v_gelecek_sayfa=601&v_kullanici_id=27484430",
+  "source_sha256": "cd1f59d4daa3e17ab39d25935a8aad79a9f1e8565f038ac008ddc9c4f9cac603",
+  "in_force": "1994-04-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
