@@ -1,0 +1,167 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "820",
+  "year": 1967,
+  "title": "İstanbul Teknik Üniversitesi 1966 yılı Bütçe Kanununa bağlı (A/1) ve (A/3) işaretli cetvellerde değişiklik yapılması hakkında Kanun",
+  "adopted": "1967-01-19",
+  "adopted_as_published": "19/01/1967",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.01.1967 No: 12511",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000820.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 50",
+  "committee_reports": [
+    {
+      "label": "MM 179 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011031ss0179.pdf"
+    },
+    {
+      "label": "CS 871no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037019ss0871.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 362588,
+      "title": "İstanbul Teknik Üniversitesi 1966 yılı Bütçe Kanununa bağlı (A/1) ve (A/3) işaretli cetvellerde değişiklik yapılması hakkında Kanun",
+      "adopted_as_published": "19/01/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000820.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 179 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011031ss0179.pdf"
+        },
+        {
+          "label": "CS 871no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037019ss0871.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 21,
+          "sitting_date": "1966-12-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c010/mm__02010021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c010/mm__02010fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 28,
+          "sitting_date": "1967-01-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011fih.pdf",
+          "pages": [
+            "4"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 31,
+          "sitting_date": "1967-01-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011fih.pdf",
+          "pages": [
+            "137:148",
+            "166",
+            "167:170"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 32,
+          "sitting_date": "1967-01-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011fih.pdf",
+          "pages": [
+            "190",
+            "218",
+            "226:229"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 33,
+          "sitting_date": "1967-01-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011fih.pdf",
+          "pages": [
+            "244:245",
+            "269",
+            "271:274"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1201&v_kullanici_id=27483225",
+      "page_sha256": "2a5e87afe32fdcc520e9a23a080355d8d2bbd886ef1825be8899987216e9bee9"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 304894,
+      "title": "İstanbul Teknik Üniversitesi 1966 yılı Bütçe Kanununa bağlı (A/1) ve (A/3) işaretli cetvellerde değişiklik yapılması hakkında kanun",
+      "adopted_as_published": "19/01/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000820.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 179 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011031ss0179.pdf"
+        },
+        {
+          "label": "CS 871no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037019ss0871.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 37,
+          "sitting": 18,
+          "sitting_date": "1966-12-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037018.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037fih.pdf",
+          "pages": [
+            "541"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 19,
+          "sitting_date": "1966-12-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037fih.pdf",
+          "pages": [
+            "563",
+            "567",
+            "568:569",
+            "578",
+            "605:606"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=801&v_kullanici_id=27483235",
+      "page_sha256": "4f72905639da7d625721d8c8ff2722359dda2b185911b18822f5590e408f44b9"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2a5e87afe32fdcc520e9a23a080355d8d2bbd886ef1825be8899987216e9bee9",
+  "issuer": "Millet Meclisi",
+  "in_force": "1967-01-19",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 19/01/1967; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
