@@ -1,0 +1,3 @@
+KÜLTÜR VE TURİZM BAKANLIĞI TÜRK HALK MÜZİĞİ REPERTUAR İNCELEME VE DANIŞMA KURULU YÖNETMELİĞİ
+Amaç ve Kapsam
+Madde 1- (Değişik: RG 11.03.1993-21521) Bu Yönetmelik, Kültür ve Turizm Bakanlığı Milli Folklor Arşivinde toplanan halk ezgilerinin notaya alınabilir değerde olanlarını tespit etmek; uzman ve araştırmacıların yaptıkları notaya alma çalışmalarını ve bu tür hizmetleri yürüten kurum, kuruluş, özel ve tüzel diğer kişilerin değerlendirilmek üzere gönderdikleri derleme ve notaya alma çalışmalarını incelemek, basılması hususunda karar vermek için kurulan “Türk Halk Müziği Repertuar İnceleme ve Danışma Kurulu”nun çalışma şekli, üyelerinin seçimi ve bu Kurul Üyelerine ödenecek huzur hakkını belirlemek amacıyla hazırlanmıştır.
