@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6390-199/013381",
+  "source_id": 38483,
+  "date": "2003-03-28",
+  "title": "Yurt dışına çıkışlarda harç alınmasına ilişkin usul ve esaslar hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/615/ozelge/38483",
+  "source_sha256": "fe5da52bf1a8d4c94a9adf2db425b0cc4f3425f37e2962a9a7ce23387bf6c8f2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
