@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5309-182-59772",
+  "source_id": 38038,
+  "date": "2004-12-14",
+  "title": "paket program ve yazılım satışlarınız tevkifat uygulanacak işlemler kapsamına girmemektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38038",
+  "source_sha256": "452ef7c7b81185fe6104a77b667e3712eaff43683a00125c00e9c3d05167800c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
