@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 355266,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MEHMET ALİ DEMİR (CUMHURİYET SENATOSU TUNCELİ ÜYESİ)",
+  "summary": "222 Sayılı İlköğretim ve Eğitim Kanununun Geçici 2. maddesinin değiştirilmesi hakkında (1/710, 2/708)",
+  "title": "222 Sayılı İlköğretim ve Eğitim Kanununun Geçici 2. maddesinin değiştirilmesi hakkında (1/710, 2/708)",
+  "first_sitting_date": "1965-06-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 42,
+      "sitting": 131,
+      "sitting_date": "1965-06-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042131.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042fih.pdf",
+      "pages": [
+        "227"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 138,
+      "sitting_date": "1965-07-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042138.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042fih.pdf",
+      "pages": [
+        "677:678",
+        "729"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=6101&v_kullanici_id=27484893",
+  "source_sha256": "c3097c1150198efb2439062781aeb94ac0c702808a3e8a2b1f430a78369a76cc",
+  "in_force": "1965-06-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
