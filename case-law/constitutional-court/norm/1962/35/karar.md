@@ -1,0 +1,14 @@
+ANAYASA MAHKEMESİ KARARI
+Esas No.:1962/37
+Karar No.:1962/35
+Karar tarihi:11/9/1962
+Resmi Gazete tarih/sayı:10.10.1962/11228
+İstemde bulunan : Elâzığ l inci Asliye Hukuk Hâkimliği.
+İstemin konusu : Elâzığ Belediyesince usulüne uygun olarak kamulaştırma kararı alınmaksızın yola katılan gayrimenkul bedelinin tahsili için malsahibi Hüseyin Gül vekili Avukat Hayati Ekşi tarafından açılan dâva neticesinde, mahkemece, dâvanın açıldığı tarihteki kıymete hükmolunmuş iken Yargıtay 4 üncü Hukuk Dairesince, 221 sayılı kanun ileri sürülerek dâvanın açıldığı tarihteki kıymet yerine fiilî tahsis ve el koyma tarihindeki rayiç bedelin ödettirilmesine karar verilmesi icabedeceği gerekçesi ile hükmün bozularak dosyanın iade edildiğinden bahisle adı geçen 221 sayılı kanunun, Anayasa'nın 38 inci maddesinin istimlâkler için şart koyduğu (kamu menfaati kararı alınması ve gerçek bedelin peşin verilmiş olması) esaslarına sarih bir surette aykırı bulunduğundan sözü geçen 221 sayılı kanunun kaldırılmasına karar verilmesinden ibaret bulunmaktadır.
+Anayasa Mahkemesinin, 11/9/1962 gününde içtüzüğün 15 inci maddesi gereğince ilk inceleme için yaptığı toplantısında, istemin 22/4/1962 tarihli ve 44 sayılı kanunun 27 nci maddesinin l inci fıkrasına dayanılarak resen mahkemece yapılmış olduğu anlaşıldıktan ve işin niteliği bakımından istemin esasının incelenmesine oybirliği ile karar verildikten sonra dosyada bulunan mahkemenin 17/8/1962 tarih ve 961/367 sayılı yazısı ile rapor okundu. Gereği görüşülüp düşünüldü:
+Türkiye Cumhuriyeti Anayasasının geçici 4 üncü maddesinin 3 üncü fıkrasında ve Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri hakkındaki 22/4/1962 tarihli ve 44 sayılı kanunun geçici 6 ncı maddesinde 27 Mayıs 1960 tarihinden (Bu tarih dâhil) itibaren 5 Ocak 1961 tarihine kadar (Bu tarih dâhil) kabul edilen kanun mahiyetindeki kararlar ve kanunlar aleyhine iptal ve itiraz yollariyle Anayasa Mahkemesine başvurulamıyacağı açıkça belirtilmiş olup 12/1/1961 tarihinde yayınlanmış olan bahse konu (Âmme hükmî şahısları veya müesseseleri tarafından fiilen âmme hizmetlerine tahsis edilmiş gayrimenkuller) hakkındaki 221 sayılı kanunda 5 Ocak 1961 tarihinde kabul edilmiş bulunduğundan bu kanunun iptali için hiçbir suretle Anayasa Mahkemesine başvurulması mümkün değildir. Bu sebeple mahkemece yapılan istemin reddi gerekir.
+Sonuç : Yukarıda belirtilen sebepten Ötürü istemin reddine, işbu kararın istemde bulunan mahkemeye tebliğine ve anılan 44 sayılı kanunun 51 inci maddesi uyarınca Resmî Gazete'de yayınlanmasına 11/9/ 1962 gününde oybirliğiyle karar verildi.
+Başkan Sunuhi Arsan | Başkanvekili Tevfik Gerçeker | Üye Osman Yeten | Üye Lütfi Akadlı
+Üye Şemsettin Akçoğlu | Üye İbrahim Senil | Üye Salim Başol | Üye Celâlettin Kuralmen
+Üye Yekta Aytan | Üye Hakkı Ketenoğlu | Üye Ekrem Korkut | Üye Ahmet Akar
+Üye Muhittin Gürün | Üye Lütfi Ömerbaş | Üye Ekrem Tüzemen
