@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.6286",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ANAYASA MAHKEMESİ YAYIN YÖNETMELİĞİ",
+  "number": "6286",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1988/6286",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6286&MevzuatTertip=5",
+  "source_sha256": "8d8769da7b3494858e87cb071dc5d4dc5eb531cc26c7f11710869521ea5ac564",
+  "source_bytes": 39823,
+  "published": "1988-10-20",
+  "gazette": "19965",
+  "in_force": "1995-12-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG 28/12/1995\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "1995-12-28",
+      "RG 28/12/1995",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1995-12-28",
+      "RG 28.12.1995",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1123,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "/yonetmelik/text.aspx#_ftn1",
+    "/yonetmelik/text.aspx#_ftnref1"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

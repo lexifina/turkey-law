@@ -1,0 +1,1 @@
+Madde 11.- Yayının birim maliyeti, tüm maliyetin basılan eser sayısına bölünmesiyle bulunur. Yayınların tüm maliyet tutan, dizgi, tertip, grafik, klişe, kağıt, baskı, kapak, cilt gibi tüm masrafları ile yazar hakkının toplamından oluşur.
