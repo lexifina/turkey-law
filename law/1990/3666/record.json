@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3666",
+  "year": 1990,
+  "title": "Deniz Adamları İçin Sosyal Yardım Malzemesine İlişkin Gümrük Sözleşmesine Katılınmasının Uygun Bulunduğuna ve Bu Sözleşme Uyarınca Geçici Olarak İthal Edilecek Eşyalar Hakkında A.T.A. Karnelerinin Kabul Edilmesine Dair Kanun",
+  "adopted": "1990-09-27",
+  "adopted_as_published": "27/09/1990",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09.10.1990 No: 20660",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc074/kanuntbmmc074/kanuntbmmc07403666.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 74",
+  "committee_reports": [
+    {
+      "label": "TBMM 427 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c049/tbmm18049013ss0427.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 236145,
+      "title": "Deniz Adamları İçin Sosyal Yardım Malzemesine İlişkin Gümrük Sözleşmesine Katılınmasının Uygun Bulunduğuna ve Bu Sözleşme Uyarınca Geçici Olarak İthal Edilecek Eşyalar Hakkında A.T.A. Karnelerinin Kabul Edilmesine Dair Kanun",
+      "adopted_as_published": "27/09/1990",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc074/kanuntbmmc074/kanuntbmmc07403666.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 427 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c049/tbmm18049013ss0427.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 33,
+          "sitting": 27,
+          "sitting_date": "1989-11-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c033/tbmm18033027.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c033/tbmm18033fih.pdf",
+          "pages": [
+            "222"
+          ]
+        },
+        {
+          "cilt": 46,
+          "sitting": 118,
+          "sitting_date": "1990-05-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c046/tbmm18046118.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c046/tbmm18046fih.pdf",
+          "pages": [
+            "47"
+          ]
+        },
+        {
+          "cilt": 49,
+          "sitting": 13,
+          "sitting_date": "1990-09-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c049/tbmm18049013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c049/tbmm18049fih.pdf",
+          "pages": [
+            "22:23",
+            "26",
+            "50:54"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=363&v_gelecek_sayfa=201&v_kullanici_id=27483192",
+      "page_sha256": "2235809fd1d59614cac4f724acc2b3c7f1c00b74606425a4080ae2f3d70a6e0c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2235809fd1d59614cac4f724acc2b3c7f1c00b74606425a4080ae2f3d70a6e0c",
+  "issuer": "TBMM",
+  "in_force": "1990-09-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/09/1990; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
