@@ -1,0 +1,95 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4347",
+  "year": 1998,
+  "title": "Türkiye Cumhuriyeti ve Hırvatistan Cumhuriyeti Arasında Yatırımların Karışılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "1998-02-26",
+  "adopted_as_published": "26/02/1998",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "03.03.1998 No: 23275",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc081/kanuntbmmc081/kanuntbmmc08104347.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 81",
+  "committee_reports": [
+    {
+      "label": "TBMM 504 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c046/tbmm20046060ss0504.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 20,
+      "kayit_no": 413232,
+      "title": "Türkiye Cumhuriyeti ve Hırvatistan Cumhuriyeti Arasında Yatırımların Karışılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "26/02/1998",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc081/kanuntbmmc081/kanuntbmmc08104347.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 504 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c046/tbmm20046060ss0504.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 2,
+          "sitting_date": "1996-10-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c011/tbmm20011002.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c011/tbmm20011fih.pdf",
+          "pages": [
+            "183"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 66,
+          "sitting_date": "1997-03-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c022/tbmm20022066.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c022/tbmm20022fih.pdf",
+          "pages": [
+            "276"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 57,
+          "sitting_date": "1998-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c045/tbmm20045057.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c045/tbmm20045fih.pdf",
+          "pages": [
+            "362:394"
+          ]
+        },
+        {
+          "cilt": 46,
+          "sitting": 60,
+          "sitting_date": "1998-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c046/tbmm20046060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c046/tbmm20046fih.pdf",
+          "pages": [
+            "195:199",
+            "204",
+            "239:244"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=249&v_gelecek_sayfa=201&v_kullanici_id=27483195",
+      "page_sha256": "33956d32d720f9c13311f62e2a6a841667e7a4aed200c08184e0e29c11b84914"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "33956d32d720f9c13311f62e2a6a841667e7a4aed200c08184e0e29c11b84914",
+  "issuer": "TBMM",
+  "in_force": "1998-02-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 26/02/1998; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
