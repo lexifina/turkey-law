@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5113",
+  "year": 1947,
+  "title": "Tekel Genel Müdürlüğünce yaptırılacak tütün bakım ve işletme evleri için gelecek yıllara geçici yüklenmelere girişilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-06-26",
+  "gazette_issue": "6642",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6642.pdf",
+  "source_sha256": "ec25fd90913593050a6a4a103595b8a130a7ce26f11805c80b43af3e45a29c2c",
+  "text_sha256": "b97b299b33d5cd42dfbf71044d6aacbc384f3ca7ab05f19e1b5d4cf8c2db7262",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      631,
+      658
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905113.pdf",
+    "source_sha256": "37c58e0c55f8b0d174c8c4570c0c9b0b49d8c87d420df839860a9eb87b164aa1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9649,
+    "bag": 0.8116,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.981,
+    "rg_words": 104,
+    "kd_words": 105,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
