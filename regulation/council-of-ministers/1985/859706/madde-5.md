@@ -1,0 +1,2 @@
+Hizmetiçi Eğitim Programlarının Düzenlenmesi
+Madde 5 – Yükseköğretim kurumlarıyla ilgili kamu kuruluşları tarafından birlikte düzenlenen hizmetiçi eğitim programlarında konu, amaç, yer, süre, katılacak kişi sayısı, öğretim elemanları ile öğretmen ve yöneticiler, konuların özelliklerine göre kullanılacak araç ve gereç, yapılacak gezi, gözlem ve incelemeler ayrıntılı olarak belirtilir. Bu programların ayrıca uygulama planı veya zamanlama takvimi yapılır.

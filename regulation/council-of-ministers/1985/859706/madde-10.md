@@ -1,0 +1,3 @@
+Madde 10 – Kamu kurum ve kuruluşlarının yükseköğretim kurumları ile birlikte düzenledikleri hizmetiçi eğitim programları, ilgili kamu kurum ve kuruluşları ile yüksek öğretim kurumu yetkililerinin katılmasıyla oluşacak bir değerlendirme kurulu tarafından takip edilir.
+Takip sonucu hazırlanacak değerlendirme raporlarında; mevcut durum uygulamalarında karşılaşılan güçlükler ve sebepleri, giderilmesi için alınması gereken tedbirler açıkça belirtilir. Belirtilen bu hususlar müteakip uygulamalarda gözönünde bulundurulur.
+Hizmetiçi eğitim uygulamalarında; program dışı faaliyet tesbit edildiğinde, Değerlendirme Kurulu tarafından protokolde belirtilen esaslara göre, gerekli tedbir alınır ve durum ilgili kamu kurum ve kuruluşu ile Yükseköğretim Kurulu Başkanlığı'na bildirilir.
