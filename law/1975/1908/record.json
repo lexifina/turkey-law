@@ -1,0 +1,153 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1908",
+  "year": 1975,
+  "title": "14.7.1964 gün ve 500 sayılı Kıbrıs'a gönderilecek Türk Askerî Birliği mensuplarının aylık ve ücretleriyle çeşitli istihkakları ve birliğin giderleri hakkındaki Kanunun 1. maddesinin değiştirilmesine ve bu kanuna üç geçici madde eklenmesine dair Kanun",
+  "adopted": "1975-06-10",
+  "adopted_as_published": "10/06/1975",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18.06.1975 No: 15269",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801908.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 58",
+  "committee_reports": [
+    {
+      "label": "MM 157 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012078ss0157.pdf"
+    },
+    {
+      "label": "CS 491no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022063ss0491.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 448266,
+      "title": "14.7.1964 gün ve 500 sayılı Kıbrıs'a gönderilecek Türk Askerî Birliği mensuplarının aylık ve ücretleriyle çeşitli istihkakları ve birliğin giderleri hakkındaki Kanunun 1. maddesinin değiştirilmesine ve bu kanuna üç geçici madde eklenmesine dair Kanun",
+      "adopted_as_published": "10/06/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801908.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 157 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012078ss0157.pdf"
+        },
+        {
+          "label": "CS 491no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022063ss0491.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 1,
+          "sitting_date": "1974-11-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007001.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007fih.pdf",
+          "pages": [
+            "6"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 55,
+          "sitting_date": "1975-03-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011fih.pdf",
+          "pages": [
+            "167"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 78,
+          "sitting_date": "1975-05-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012078.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012fih.pdf",
+          "pages": [
+            "216:223",
+            "236",
+            "249:252"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 80,
+          "sitting_date": "1975-05-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012fih.pdf",
+          "pages": [
+            "260",
+            "290",
+            "310:313"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=301&v_kullanici_id=27483225",
+      "page_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 325119,
+      "title": "14.7.1964 gün ve 500 sayılı Kıbrıs'a gönderilecek Türk Askeri Birliği mensuplarının aylık ve ücretleriyle çeşitli istihkakları ve birliğin giderleri hakkındaki Kanunun 1 nci maddesinin değiştirilmesine ve bu kanuna üç geçici madde eklenmesine dair kanun",
+      "adopted_as_published": "10/06/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801908.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 157 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012078ss0157.pdf"
+        },
+        {
+          "label": "CS 491no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022063ss0491.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 22,
+          "sitting": 60,
+          "sitting_date": "1975-05-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022fih.pdf",
+          "pages": [
+            "232"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 63,
+          "sitting_date": "1975-06-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022063.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022fih.pdf",
+          "pages": [
+            "311",
+            "332:335",
+            "344",
+            "349:350"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1901&v_kullanici_id=27483235",
+      "page_sha256": "b03516e6e4516fd0e8518e72928e38bf7e13c854ce0bd904282a9e657cec2cef"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb",
+  "issuer": "Millet Meclisi",
+  "in_force": "1975-06-10",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 10/06/1975; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
