@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "16",
+  "year": 1985,
+  "title": "Daha Evvel Bütün Yurtta İlan Edilen ve 19.11.1984 Tarihinden İtibaren 34 İlde Dört Ay Süre ile Uzatılan Sıkıyönetimin Bazı İllerde Kaldırılmasına Bazı İllerde Yeniden Uzatılmasına Dair",
+  "adopted": "1985-03-13",
+  "adopted_as_published": "13/03/1985",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/karartbmmc068/karartbmmc06800016.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 68",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 241431,
+      "title": "Daha Evvel Bütün Yurtta İlan Edilen ve 19.11.1984 Tarihinden İtibaren 34 İlde Dört Ay Süre ile Uzatılan Sıkıyönetimin Bazı İllerde Kaldırılmasına Bazı İllerde Yeniden Uzatılmasına Dair",
+      "adopted_as_published": "13/03/1985",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/karartbmmc068/karartbmmc06800016.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 72,
+          "sitting_date": "1985-03-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c014/tbmm17014072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c014/tbmm17014fih.pdf",
+          "pages": [
+            "52:56"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "44569a7389de57534350216aa5c5bbc2aaf7d6b0acb5b11c491146bbb02ede10"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "44569a7389de57534350216aa5c5bbc2aaf7d6b0acb5b11c491146bbb02ede10",
+  "issuer": "TBMM",
+  "in_force": "1985-03-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 13/03/1985; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
