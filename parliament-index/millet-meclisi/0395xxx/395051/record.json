@@ -1,0 +1,74 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 395051,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Cumhuriyetin ilânının 50. yıldönümünün kutlanması hakkında kanun tasarısı (1/658)",
+  "title": "Cumhuriyetin ilânının 50. yıldönümünün kutlanması hakkında kanun tasarısı (1/658)",
+  "first_sitting_date": "1972-11-29",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 29,
+      "sitting": 11,
+      "sitting_date": "1972-11-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029011.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029fih.pdf",
+      "pages": [
+        "254",
+        "292"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 21,
+      "sitting_date": "1972-12-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c030/mm__03030021.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c030/mm__03030fih.pdf",
+      "pages": [
+        "323",
+        "690"
+      ]
+    },
+    {
+      "cilt": 31,
+      "sitting": 31,
+      "sitting_date": "1972-12-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c031/mm__03031031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c031/mm__03031fih.pdf",
+      "pages": [
+        "340",
+        "355"
+      ]
+    },
+    {
+      "cilt": 32,
+      "sitting": 39,
+      "sitting_date": "1973-01-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032fih.pdf",
+      "pages": [
+        "154",
+        "205:206",
+        "209:211",
+        "230",
+        "233"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2601&v_kullanici_id=27484850",
+  "source_sha256": "c0a527027edec6fb4a2db7a0eae27cefe0c5ba472545d0a7664dc51486084de1",
+  "in_force": "1972-11-29",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
