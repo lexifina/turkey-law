@@ -1,0 +1,3 @@
+Müdür
+Madde 5 —Merkez müdürü, İnönü Üniversitesi Rektörü tarafından öğretim üyeleri arasından seçilerek üç yıl süre ile görev yapmak üzere atanır. Süresi biten müdür yeniden atanabilir. Müdür, Merkez faaliyetlerinin yürütülmesinde kendisine yardımcı olmak üzere öğretim elemanları arasından iki müdür yardımcısı seçer. Müdürün görevi başında bulunmadığı durumlarda yardımcısı vekalet eder. Vekalet süresi altı ayı aşamaz. Müdürün görevi sona erdiğinde, müdür yardımcılarının da görevi kendiliğinden sona erer.
+Müdür ve müdür yardımcıları gerekli görüldüğü hallerde atandıkları usullerle görevden alınabilirler.

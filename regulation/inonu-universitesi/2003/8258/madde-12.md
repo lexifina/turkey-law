@@ -1,0 +1,1 @@
+Madde 12 —Merkezin akademik kadro tahsisi yapılmadığı takdirde teknik ve idari personel ihtiyacı, 2547 sayılı Yükseköğretim Kanununun 13/b maddesi uyarınca Rektör tarafından görevlendirilerek karşılanır.

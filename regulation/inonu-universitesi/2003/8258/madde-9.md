@@ -1,0 +1,3 @@
+Danışma Kurulu
+Madde 9 —Merkez Danışma Kurulu, müdür dışında, bu Yönetmeliğin 7. maddesinde belirtilen alanlarda ulusal ve uluslararası düzeyde tanınmış, Merkez Yönetim Kurulunca üç yıllığına seçilen ve Rektör tarafından onaylanan altı uzmandan oluşur. Danışma Kurulu yılda en az bir kez olmak üzere, müdürün çağrısı üzerine toplanır. Kurul, toplantılarda Merkezin çalışma alanları ile ilgili konularda tavsiyelerde bulunur. Rektör, arzu ettiği takdirde Danışma Kurulu toplantılarına başkanlık edebilir.
+Gerekli görüldüğü hallerde, Merkez Yönetim Kurulunun teklifi ve Rektörün onayı ile, bu Yönetmeliğin 3 üncü maddesinde belirtilen çalışma alanlarından her birine özel Alt Danışma Kurulları da kurulabilir.

@@ -1,0 +1,2 @@
+Amaç
+Madde 2 —Stratejik Araştırmalar Merkezi’nin amacı, başta Türkiye’ye birinci kuşak komşu ülkeler olmak üzere,ABD, Almanya, Fransa gibi yoğun çıkar ilişkilerimizin olduğu ülkelerin, ikili ve çok taraflı bölgesel veya uluslararası ilişkilerini kapsayan tarihi, kültürel, siyasi, iktisadi, hukuki, sosyolojik, jeopolitik ve stratejik yapılarına yönelik bilimsel araştırma, inceleme ve değerlendirmeler yapmak ve bu ilişkilere yönelik Türkiye’nin çıkarları doğrultusunda karar seçenekleri üretmektir.
