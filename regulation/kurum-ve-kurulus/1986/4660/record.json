@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.4660",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TASARRUFU KISITLANAN BİNA, ARSA VE ARAZİ HAKKINDA YÖNETMELİK",
+  "number": "4660",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1986/4660",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4660&MevzuatTertip=5",
+  "source_sha256": "392f92fb16ad66bf9850577fc2bcd9937a06b2d848832ed508b0ed4a323efe6b",
+  "source_bytes": 20265,
+  "published": "1986-11-17",
+  "gazette": "19284",
+  "in_force": "1987-05-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/05/1987\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "1987-05-15",
+      "RG-15/05/1987",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik 9/11/1985 tarihinden itibaren uygulanmak üzere Resmi Gazete’de yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 677,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
