@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3956",
+  "year": 1940,
+  "title": "23 Haziran 1939 tarihli Anlaşmaya merbut protokolün ikinci maddesi hükümlerine tevfikan Fransa'ya tesviye edilen 7 milyon Fransız frangının tenzilâta tabi olmadığı hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-01-02",
+  "gazette_issue": "4701",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4701.pdf",
+  "source_sha256": "75fd2e711f7d713b59875f0eb1a4531db7b0a67f7c92e645a61cd506866ac3dd",
+  "text_sha256": "c1c7eb48d4caba20c65d1c146d49e629f8a584b3f72c3d942e5389c7977c9d8b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      28,
+      44
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203956.pdf",
+    "source_sha256": "c04a4f05e91ea778b26717bc795f12653d19b45ad52c15aec6871620a3239722",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9811,
+    "bag": 0.9399,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9783,
+    "rg_words": 93,
+    "kd_words": 92,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
