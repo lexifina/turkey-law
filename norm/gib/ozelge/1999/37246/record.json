@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6624-64",
+  "source_id": 37246,
+  "date": "1999-05-25",
+  "title": "Oyun ve eğlence amaçlı olarak faaliyet gösteren ve ruhsatlarında İnternet-Cafe yazılı yerlerden eğlence vergisi alınmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37246",
+  "source_sha256": "44556fbd9aaaa873d62c82af6a63af1ce3b930fcce7b07028f6ac46139309754",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
