@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/1806",
+  "list_number": "1806",
+  "decision_date": "2004-04-29",
+  "title": "YSK ilke kararı 2004/1806",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3863/2004-1806-karar.htm",
+  "source_sha256": "4b9deab1b6deeae408783a0d6d16b29a000511f5de3030ed02255ea9ef9ad3a5",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-04-29",
+  "law_text_complete": false
+}
