@@ -1,0 +1,2 @@
+Yeniden Orman Suçu işlenmesi:
+Madde 13- Zaptolunan suç nakil vasıtasının sahibine iadesinden sonra aynı vasıta ile yeniden orman suçu işlenmesi halinde, her yeni suç için vasıtanın o günkü rayiç değeri 11 nci madde hükmüne göre yeniden takdir edilir. Bu vasıtanın sahibine iade olunabilmesi için takdir edilen bedel karşılığının nakit veya Devlet Tahvili veya limit dahili süresiz Banka Teminat Mektubu alınarak verilmesi mecburidir.

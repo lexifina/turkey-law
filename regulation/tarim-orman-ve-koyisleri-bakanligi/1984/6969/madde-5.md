@@ -1,0 +1,3 @@
+Satış :
+Madde 5- Zaptolunan orman emvali muhafazası müşkül ve masraflı ve çürüyecek ve bozulacak evsafta değilse dava sonuna kadar orman depolarında muhafaza edilir.
+Muhafazası müşkül ve masraflı olanlarla, çürüyecek ve bozulacak olanların bu durumları bir tutanakla tesbit edilerek satılacağı hususu Cumhuriyet Savcılığına yazılı olarak bildirilir. Bu bildirimin Savcılıkça teslim alındığı tarihten itibaren onbeş gün içinde C.Savcılığı veya ilgili Mahkemece delil tesbiti yapılmadığı taktirde başkaca hiçbir işleme gerek kalmaksızın bu emval müsadereli Mallar Satış Komisyonlarınca mahalli veya Pazar yerlerinde mutad vasıtalar ile ilan edilmek suretiyle derhal satılır.

@@ -1,0 +1,3 @@
+İade:
+Madde 7- (Değişik: RG 12/7/1987) Zaptolunan suç aletlerinin sahipleri tarafından iadelerinin istenmesi halinde, müsadereli mallar satış komisyonlarınca takdir ve tespit edilecek rayiç değerleri karşılığında, kanunen muteber teminat veya muteber müteselsil kefil göstermeleri ve dava neticesinde müsaderesine karar verildiği takdirde aynen iade edilmeleri şartıyla sahiplerine teslim edilir. Suç aleti trafiğe kayıtlı veya trafiğe kayıt edilmesi gereken motorlu bir araç ise, trafik kaydına orman suçundan zaptolunduğuna dair şerh koydurulduktan sonra sahiplerine teslim edilir.
+İade edilen suç aletleri ile yeniden orman suçu işlenmesi halinde, bu yönetmeliğin 13 ncü maddesi gereğince işlem yapılır.

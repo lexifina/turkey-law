@@ -1,0 +1,1 @@
+Madde 25- Kaçağı haber verme ve yakalayıp zaptetme ikramiyeleri, hak sahiplerine ve ödenecek ikramiye miktarını beliren belge suretleri Orman Genel Müdürlüğüne gönderilmek ve gerekli izin alınmak sureti ile ödenir.

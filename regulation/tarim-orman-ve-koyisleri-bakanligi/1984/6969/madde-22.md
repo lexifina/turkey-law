@@ -1,0 +1,1 @@
+Madde 22- Polis, Jandarma, Köy muhtarı, ihtiyar heyeti üyelerinin suç konusu orman emvalini, suç nakil vasıtasını ve varsa suç aletlerini bilfiil yakalayarak orman idaresine teslim ve suçluları tesbit etmeleri halinde, bunlar hakkında da 21 nci madde hükmü uygulanır.
