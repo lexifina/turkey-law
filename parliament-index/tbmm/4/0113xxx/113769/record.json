@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 113769,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Kuşpalazı serumu hakkındaki mukavelenamesinin tasdikina dair",
+  "title": "Kuşpalazı serumu hakkındaki mukavelenamesinin tasdikina dair",
+  "first_sitting_date": "1931-07-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 22,
+      "sitting_date": "1931-07-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003fih.pdf",
+      "pages": [
+        "44"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 10,
+      "sitting_date": "1931-12-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005fih.pdf",
+      "pages": [
+        "14"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 12,
+      "sitting_date": "1931-12-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005fih.pdf",
+      "pages": [
+        "34"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 14,
+      "sitting_date": "1931-12-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005fih.pdf",
+      "pages": [
+        "52:53",
+        "59"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cdda9700527201ec86284ba36b086ea20c135a2ca24ce3b1a62e71ff86676c9d",
+  "in_force": "1931-07-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
