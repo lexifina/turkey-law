@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6518-88/62439",
+  "source_id": 38237,
+  "date": "2004-12-27",
+  "title": "Dayanıklı tüketim mallarının yanısıra züccaciye ve motor yağı satışının da olduğu tespit edilen...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38237",
+  "source_sha256": "4a0dc429f9b33fc567664f1a5287ccec16d54c2fdd711d5cce7a3d437ca538cd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
