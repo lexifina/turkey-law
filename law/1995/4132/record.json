@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4132",
+  "year": 1995,
+  "title": "İller Bankası Kanununun Bir Maddesinde Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "1995-11-13",
+  "adopted_as_published": "13/11/1995",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.11.1995 No: 22465",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc078/kanuntbmmc078/kanuntbmmc07804132.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 78",
+  "committee_reports": [
+    {
+      "label": "TBMM 776 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c097/tbmm19097030ss0776.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 281955,
+      "title": "İller Bankası Kanununun Bir Maddesinde Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "13/11/1995",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc078/kanuntbmmc078/kanuntbmmc07804132.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 776 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c097/tbmm19097030ss0776.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 77,
+          "sitting": 65,
+          "sitting_date": "1995-01-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c077/tbmm19077065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c077/tbmm19077fih.pdf",
+          "pages": [
+            "217"
+          ]
+        },
+        {
+          "cilt": 79,
+          "sitting": 74,
+          "sitting_date": "1995-02-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c079/tbmm19079074.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c079/tbmm19079fih.pdf",
+          "pages": [
+            "16"
+          ]
+        },
+        {
+          "cilt": 97,
+          "sitting": 30,
+          "sitting_date": "1995-11-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c097/tbmm19097030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c097/tbmm19097fih.pdf",
+          "pages": [
+            "233:246"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=301&v_kullanici_id=27483194",
+      "page_sha256": "ee38aa25cdf2e92e09a604cd11038c74e41a0c5641c3632f22d17a1215389160"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ee38aa25cdf2e92e09a604cd11038c74e41a0c5641c3632f22d17a1215389160",
+  "issuer": "TBMM",
+  "in_force": "1995-11-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 13/11/1995; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
