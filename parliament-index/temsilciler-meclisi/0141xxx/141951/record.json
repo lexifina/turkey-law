@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 141951,
+  "assembly": "Temsilciler Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Millî Birlik Komitesi Üyesi Vehbi Ersü ve Temsilciler Meclisi Üyesi Necip San'ın, 6085 sayılı Karayolları Trafik Kanununun 232 sayılı Kanunla değiştirilen 57. maddesinin 1. bendine bir fıkra eklenmesi hakkında (1/9)",
+  "title": "Millî Birlik Komitesi Üyesi Vehbi Ersü ve Temsilciler Meclisi Üyesi Necip San'ın, 6085 sayılı Karayolları Trafik Kanununun 232 sayılı Kanunla değiştirilen 57. maddesinin 1. bendine bir fıkra eklenmesi hakkında (1/9)",
+  "first_sitting_date": "1961-05-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 66,
+      "sitting_date": "1961-05-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c005/tm__00005066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c005/tm__00005fih.pdf",
+      "pages": [
+        "266"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8d950cb432dd83a71b440747622b7eda70e88e1579633df98ca8d3b77b5c3b89",
+  "in_force": "1961-05-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
