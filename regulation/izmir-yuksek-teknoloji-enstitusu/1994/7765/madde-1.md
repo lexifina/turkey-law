@@ -1,0 +1,1 @@
+Madde 1- İzmir Yüksek Teknoloji Enstitüsünde, “Üniversitelerde Akademik Teşkilat Yönetmeliğinin” ek 1 inci maddesi uyarınca kurulan Bilgisayar Uygulama ve Araştırma Merkezi için bu Yönetmelik hükümleri uygulanır.
