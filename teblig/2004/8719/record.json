@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8719",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK VERGİSİ ASKIYA ALINMASI VE AVRUPA BİRLİĞİ TARAFINDAN TARİFE KONTENJANI AÇILMASI PLANLANAN ÜRÜNLERE İLİŞKİN TEBLİĞ İthalat Tebliğ No. 2004/20",
+  "number": "8719",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2004/8719",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8719&MevzuatTertip=5",
+  "source_sha256": "bdcbfeb3fe08104bbff23d7d83c4e8ced0811173eff32b0755f7adb423de7dc1",
+  "source_bytes": 127290,
+  "published": "2004-05-25",
+  "gazette": "25472",
+  "in_force": "2004-05-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.05.2004); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1871,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
