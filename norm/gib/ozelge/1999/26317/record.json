@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-423/024322",
+  "source_id": 26317,
+  "date": "1999-06-16",
+  "title": "Her yıl belirlenen tutarların altında kalan satışlarda Ö.K.C. kullanma mecburiyetinin bulunduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26317",
+  "source_sha256": "259809dc93b4990f7e8411c22034147771d6d54f0e75560a8d85c4f0f3b06df9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
