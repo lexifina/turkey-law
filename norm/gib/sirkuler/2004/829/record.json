@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-12/2004-10/ Yeniden Değerleme Oranı Uygulaması-2",
+  "source_id": 829,
+  "date": "2004-10-01",
+  "title": "2004 yılı üçüncü geçici vergi döneminde uygulanacak yeniden değerleme oranı % 7,3 ( yüzde yedi virgül üç) olarak tespit edilmiştir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/829",
+  "source_sha256": "a412cd9f1ed49531aab913f00966888049933d573311e41a2dfd638e1d859ed2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
