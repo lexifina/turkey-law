@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-302-01898",
+  "source_id": 38286,
+  "date": "1998-01-22",
+  "title": "Yeni kurulan şirkette ödeme kaydedici cihaz kullanma mecburiyetinin başlama tarihinin tespiti.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38286",
+  "source_sha256": "55040607455946dfd399d4cea48cd46c72c623d24ee9400110828470d4851462",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
