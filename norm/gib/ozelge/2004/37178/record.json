@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6685-4879/7193",
+  "source_id": 37178,
+  "date": "2004-02-23",
+  "title": "2 nci derece sit alanındaki tescilsiz gayrimenkullerin Emlak Vergisi Kanunu ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37178",
+  "source_sha256": "076fd429b873cda45fa11dbbd5ff4f5671a0319b6ebdedeae8215af3e3e0c6b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
