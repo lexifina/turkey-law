@@ -1,0 +1,1 @@
+Madde 783 – Malik rehin ile takyit edilmiş olan gayri menkulün temin edildiği alacağın yirmide birinden az kıymeti olan bir parçasını mülkünden çıkarır ise; alacaklı kendisine alelhesap bu parçanın kıymeti ile mütenasip bir miktar tediyede bulunulduğu veya gayrimenkulün kalan kısmı kafi bir teminat teşkil ettiği takdirde o parça üzerindeki rehinin fekkinden, imtina edemez.

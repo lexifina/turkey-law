@@ -1,0 +1,1 @@
+Madde 836 – Metinleri sicil kaydına mutabık olmayan veya sicil kaydı bulunmayan ipotekli borç senedi ile irat senetleri hakkında, tapu sicil kaydına itibar olunur. Bu senetleri hüsnü niyetle iktisap etmiş olan kimse tapu sicilli hakkında muayyen hükümler dairesinde düçar olduğu zararın tazminini isteyebilir.

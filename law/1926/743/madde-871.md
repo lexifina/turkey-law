@@ -1,0 +1,2 @@
+III. Emtiayı temsil eden evrak ile Varant:
+Madde 871 – Emtia temsil eden evrakın, teslimi meşrut şekilde rehin edilmesi; o eşya üzerinde rehin hakkını hasıl eder. Emtia temsil eden senetten müstakil olarak hususi bir rehin senedi (varant) tanzim edildiği halde asıl senet üzerinde temin edilen meblağ ile vade işaret edilmek şartiyle varantın rehin edilmesi emtianın teslimi meşrut şekilde, rehne muadil olur.

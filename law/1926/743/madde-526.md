@@ -1,0 +1,3 @@
+I. Gaibin mirası:
+1 – Mirasa vaz'ıyed ve teminat iraesi:
+Madde 526 – Bir kimsenin gaipliğine hükmedilmiş ise mirasçısı veya mirastan müstefit olacak diğer kimse, mirasa vaz'ıyed etmezden evvel icabı takdirinde; mevrus malı bizzat gaibe veya kendilerine müreccah olan hak sahiplerine iade edeceklerine dair teminat göstermeğe mecburdurlar. Bu teminat, gaiplik hükmü ölüm tehlikesi içinde gaip olmaktan naşi ise beş sene ve çoktanberi haber alınamamaktan mütevellit ise on beş sene ve her halde azami olarak gaibin yüz yaşına vasıl olacağı zaman için gösterilir. Bu beş senenin başlangıcı, mirasa vaz'ıyed edildiği günden ve on beş seneninki gaipten alınan son haber tarihinden başlar.

@@ -1,0 +1,2 @@
+II. Babaya ve çocuğa karşı:
+Madde 312 – Babaya nisbeti babalık hükmü ile veya tanınmak suretiyle taayyün eden çocuk, babanın aile ismini taşır ve onun vatandaşlık hakkını iktisap eder. Babasının ve anasının ailelerine karşı sahih olmayan nesep üzerine terettüp eden hak ve vazifelere dahi sahip olur. Babanın borçları ise tıpkı nesebi sahih çocuğa karşı olan borçları gibidir. Mahkeme, velayeti baba veya anaya verebilir.

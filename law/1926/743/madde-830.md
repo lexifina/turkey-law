@@ -1,0 +1,2 @@
+5 – Tediye mahalli :
+Madde 830 – Rehin senedi hilafını tayin etmediği takdirde senet, hamile muharrer olsa dahi borçlu bütün tediyatını alacaklının ikametgahında yapmağa mecburdur. Alacaklının ikametgahı malüm olmaz yahut borçlunun zararına olarak tebdil edilirse borçlu tediyatını kendi yahut alacaklının evvelki ikametgahındaki tapu dairesine yatırmak suretiyle borcundan kurtulabilir. Senedin faiz kuponları varsa, faiz tediyatı, kuponu ibraz edene yapılır.

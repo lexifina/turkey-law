@@ -1,0 +1,2 @@
+2 – Alacağın ve rehnin sukutu :
+Madde 793 – Devletin yardımı olmaksızın icra edilen arazi ıslahatında masraf hisselerine karşılık olarak kaydolunan borç, resülmalin yüzde beşinden az olmamak üzere senevi taksitlerle ödenir. Rehin hakkı gerek alacak gerek senevi taksitler hakkında bunların muaccel oldukları tarihten itibaren üç sene sonra sakıt olur. Sonra gelen alacaklılar, sıralarına göre ileri geçerler.

@@ -1,0 +1,2 @@
+II. Hisselerin teşkili:
+Madde 590 – Hisseler, mirasçılardan sağ olanlar ile istihlaf edilenlerin adedince teşkil olunur. Mirasçılar uyuşamazlarsa, içlerinden herhangi biri, hisselerin mahkemece teşkil edilmesini talep edebilir. Hisselerin teşkilinde mahkeme mahalli adetleri, mirasçıların hal ve şanlarını ve ekseriyetin arzularını nazarı itibara alır. Hisselerin tahsisi, mirasçıların kendi aralarında uyuşmasiyle olur. Bu mümkün olmazsa, kur'a çekilir.

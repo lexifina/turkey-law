@@ -1,0 +1,1 @@
+Madde 725 – İntifa hakkı sahibi mecburiyet olmaksızın masraf yapmış yahut yeni imalat vücuda getirmiş ise intifaın hitamında, başkasının işlerini idareye mahsus hükümlere tevfikan tazminat isteyebilir ve malikin tazminden imtina ettiği tesisatı, malı eski haline iade etmek şartiyle söküp alabilir.

@@ -1,0 +1,7 @@
+VI - Evlilik birliğinin sarsılması veya müşterek hayatın yeniden kurulamaması
+Madde 134 – (Değişik: 4/5/1988 - 3444/4. md.)
+Evlilik birliği, müşterek hayatı sürdürmeleri kendilerinden beklenmeyecek derecede temelinden sarsılmış olursa eşlerden her biri boşanma davası açabilir.
+Yukarıdaki fıkrada belirtilen hallerde, davacının kusuru daha ağır ise, davalının açılan davaya itiraz hakkı vardır. Bununla beraber bu itiraz, hakkın kötüye kullanılması niteliğinde ise ve evlilik birliğinin devamında davalı ve çocuklar bakımından korunmaya değer bir yarar kalmamışsa boşanmaya karar verilebilir.
+Evlilik en az bir yıl sürmüşse, eşlerin birlikte başvurması ya da bir eşin diğerinin davasını kabul etmesi halinde evlilik birliği temelinden sarsılmış sayılır. Bu halde boşanma kararı verilebilmesi için, hakimin bizzat tarafları dinleyerek iradelerin serbestçe açıklandığına kanaat getirmesi ve boşanmanın mali sonuçları ile çocukların durumu hususunda taraflarca kabul edilecek düzenlemeyi uygun bulması şarttır. Hakim, tarafların ve çocukların menfaatlerini nazara alarak bu anlaşmada gerekli gördüğü değişiklikleri yapabilir. Bu değişikliklerin taraflarca da kabulü halinde boşanmaya hükmolunur. Bu halde 150 nci maddenin (3) numaralı bendi hükmü uygulanmaz.
+Boşanma sebeplerinden herhangi biriyle açılmış bulunan davanın reddine karar verilmesi ve bu kararın kesinleştiği tarihten itibaren üç yıl geçmesi halinde, her ne sebeple olursa olsun müşterek hayat yeniden kurulamamışsa eşlerden birinin talebi üzerine boşanmaya karar verilir.
+(B) DAVA :

@@ -1,0 +1,2 @@
+5 – İntifa hakkı veya irat teberruları hakkında:
+Madde 510 – Temadisi tahmin edilebilen müddetlerine nazaran sermayeye tahvilleri halinde tasarruf nisabını tecavüz edecek miktara baliğ bir intifa hakkı veya irat ile terekesini mukayyet kılan murisin, mirasçıları; bu intifa hakkını ve iradı haddi layikına tenkis ettirmek yahut tasarruf nisabı miktarını vererek mirasını kayıttan kurtarmakta, muhayyerdir.

@@ -1,0 +1,2 @@
+I - Malların tahsisi :
+Madde 50 – Zeval bulan hükmi şahsın malları kanunda, nizamnamesinde veya tesis senedinde hilafına hükümler bulunmaz yahut salahiyettar uzvu hilafına karar vermiş olmazsa gayesinin taalluk ettiği hukuku amme müesseselerine intikal eder. Bu malların evvelki ciheti tahsisi mümkün mertebe muhafaza edilir. Gayesi kanuna veya adaba umumiyeye mugayir olduğu için hakim tarafından feshedilen hükmi şahsiyetlerin malları, hilafına dair olan şartlara bakılmaksızın hukuku amme müessesesine intikal eder.

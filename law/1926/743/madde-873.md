@@ -1,0 +1,2 @@
+I. Alacaklının hakkının şümulü :
+Madde 873 – Faiz getiren yahut temettü hissesi gibi muayyen zamanlarda gelir hasıl eden alacaklar üzerindeki rehin, hilafına mukavele olmadıkça vadeleri evvelce hulül etmiş olanlara sari olmayıp ondan sonra verilecek şeylere şamil olur. Alacağın bu teferruatı ayrı senetlere merbut ise, hilafına mukavele olmadıkça ve kanuna muvafık surette ayrıca rehin edilmedikçe; asıl rehinde dahil olmazlar.

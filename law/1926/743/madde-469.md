@@ -1,0 +1,2 @@
+II. Namzede intikal :
+Madde 469 – Tasarrufta, hilafına sarahat bulunmadıkça; miras naklile mükellef mirasçının vefatiyle, namzede intikal eder. Tasarrufta bir müddet tayin edilip te nakil mükellefiyeti olan mirasçı müddetin hitamından evvel vefat ederse; miras teminat vermek şartiyle mirasçılarına intikal eder. Her hangi sebepten dolayı mirasın namzede intikali mümkün olmadığı takdirde mükellefin mirasçıları, kati surette mirasa sahip olur.

@@ -1,0 +1,3 @@
+III. Lehine muayyen şey vasiyet edilen kimse:
+1 – İktisap:
+Madde 541 – Kendisine muayyen bir şey vasiyet edilen kimse, bu vasiyeti ifa ile mükellef olan varsa ona, yoksa kanuni ve mansup mirasçılara karşı dava ikamesi hakkına maliktir. Bu hak davası, vasiyetçinin hilafını kasdettiği vasiyetnameden anlaşılmadıkça vasiyet olunan şeyi teslim ile mükellef olan kimsenin mirası kabul ettiği veya reddedebilmek hakkının sakıt olduğu tarihten başlar. Lehine vasiyet yapılana karşı kendilerine terettüp eden borçları ifa etmeyen mirasçılar aleyhine, vasiyet edilen muayyen şeylerin tesellümü davası ikame edileceği gibi vasiyet olunan şey her hangi bir tasarrufu icra ise maddi tazminat davası dahi ikame olunabilir.

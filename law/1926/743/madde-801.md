@@ -1,0 +1,2 @@
+Madde 801 – Alacaklılar, gayri menkulü iktisap eden kimsenin bu baptaki teklifi kendilerine tebliğ ettiği günden itibaren bir ay içinde masraflarını peşin vererek rehnin aleni müzayedesini, talep edebilir. Bu müzayedenin, ilandan sonra ve talebin vuku bulduğu günden itibaren ikinci ay içinde yapılması lazımdır.
+Müzayede bedeli, teklif edilen meblağdan fazla olduğu takdirde bu bedel alacaklılar arasında tevzi edilir. Müzayede masrafı, müzayede bedelinin teklif olunan meblağdan fazla olması halinde teklif sahibine ve aksi takdirde müzayedeyi istiyen alacaklıya ait olur.

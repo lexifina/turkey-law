@@ -1,0 +1,21 @@
+{
+  "source_id": "5.3.743",
+  "path": "law/1926/743",
+  "number": "743",
+  "tertip": "3",
+  "title": "TÜRK KANUNU MEDENİSİNİN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1926-02-17",
+  "published": "1926-04-04",
+  "in_force": "1997-05-22",
+  "in_force_basis": "Source labelled entry-into-force table row: 4248 — 22/5/1997",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=743&MevzuatTertip=3",
+  "source_sha256": "53f9798a9ca15df583649a530ac34f6f20f7ae16b381f002855072959d53c509",
+  "words": 49120,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "first_law": null,
+  "history_note": "Earlier versions are not established by this current HTML source."
+}

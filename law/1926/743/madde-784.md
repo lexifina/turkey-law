@@ -1,0 +1,3 @@
+V. Sonradan tesis edilen ayni haklar:
+Madde 784 – Malikin, merhun olan gayrimenkulü başka ayni haklarla takyit etmek salahiyetinden feragati muteber değildir. Alacaklının gayrimenkul üzerindeki rehin hakkı, o gayrimenkulün üzerinde müsaadesi olmaksızın sonradan tesis edilen bütün irtifak haklarına ve gayri menkul mükellefiyetlerine takaddüm eder. Merhun nakde tahvil edilirken evvelki alacaklıyı izrar eden bu haklar, terkin olunur.
+Evvelki alacaklının talebi ile irtifak haklarının veya gayri menkul mükellefiyetlerinin terkini halinde bu hakların sahipleri merhunun nakde tahvilinde alacakları sonradan kaydolunan alacaklılara karşı, haklarının kıymetini o nakitten istifa etmekte, rüçhanı haizdirler.

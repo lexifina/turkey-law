@@ -1,0 +1,2 @@
+6 – Dikilen şeyler :
+Madde 655 – Bir kimse başkasının fidanını kendi tarlasına yahut kendi fidanını başkasının tarlasına dikerse alakadar olan kimseler başkasının levazımı ile kendi arsasında veya kendi levazımı ile başkasının arsasına bina yapmak veya menkul bir inşaatta bulunmak hallerinde alakadar kimselerin haklarını haiz ve borçları ile mükelleftirler. Ağaçlar ve ormanlar üzerinde üst hakkı tesisi memnudur.

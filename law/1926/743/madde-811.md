@@ -1,0 +1,4 @@
+Madde 811 – Rehin nakde tahvil edildiği zaman işçiler ve mütaahhitler bütün alacaklarını istifa edememek suretiyle zarara uğrarlarsa; bu zararın vukuunu evvelden bilen veya bilmesi lazımgelen mukaddem sıradaki alacaklılar, hisselerine düşen miktarın mecmuundan arsanın kıymetine isabet eden miktar tenzil edildikten sonra mütebakisinden vaki olan zararı tazmin ile mükellef olur. Evvelki sırada bulunan alacaklı, gayri menkul rehin senedini başkasına temlik etmiş ise işçinin ve mütaahhidin temlik sebebiyle mahrum kaldıkları miktardan mesul olur. İşe başlanıldığı, alakadarın ihbarı üzerine tapu siciline işaret edilince; tescil müddetinin hitamına kadar, o gayrimenkulde ipotekten başka bir şekilde teminat tescil edilemez.
+ÜÇÜNCÜ FASIL
+İpotekli borç senedi ve irat senedi
+(A) İPOTEKLİ BORÇ SENEDİ:

@@ -1,0 +1,2 @@
+Madde 671 – Tarikı amme çıkmak için kafi bir yolu bulunmayan gayrimenkul sahibi tam bir ivaz mukabilinde komşularından kendisine geçmek için munasip bir yerin terkini talep edebilir. Bu hak mülklerin ve onlara giden yolların evvelki hallerine göre bu yolun nereden geçmesi lazımgeliyorsa oranın malikine ve icabında bu yolun açılmasından en az mutazarrır olan kimseye karşı kullanılır. Bu yolun tayininde iki tarafın menfaatleri gözetilir.
+b) Mürur hakkının tescili:

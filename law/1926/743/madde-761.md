@@ -1,0 +1,1 @@
+Madde 761 – Hakiki kıymetin daha az olduğunu ispat etmek salahiyeti baki kalmak şartiyle; iştira, gayrimenkul mükellefiyetinin kıymeti olmak üzere tapu sicilinde mukayyet olan meblağ mukabilinde, icra edilir.

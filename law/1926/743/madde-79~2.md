@@ -1,0 +1,2 @@
+II. Gayenin tebdili:
+Madde 79 – Tesisteki gayenin mahiyet ve şumulü; tesis ile tesis edenin arzusu arasındaki tevafuku açıktan açığa izale edecek derecede tebeddül etmiş olursa İcra Vekilleri Heyeti; teftiş makamının teklifi üzerine tesisin idare heyetinin tahriri mütalaasını aldıktan sonra, gayesini tebdil edebilir. Tesisin gayesini tehlikeye koyan vezaif ve şeraitin ilga veya tebdili dahi aynı hükümlere tabidir.

@@ -1,0 +1,2 @@
+2 – Alacaklının ilan ile davet edilmesi:
+Madde 840 – İpotekli borç senedi ile alacaklı olan kimse on seneden beri meydanda olmaz ve bu müddet zarfında hiç bir faiz talep edilmemiş bulunursa takyit edilen gayri menkul maliki, gaiplik kararına dair hükümlere tevfikan, alacaklıyı ilan tarikiyle yapılacak bir tebliğ ile davet etmesini, hakimden istiyebilir. Alacaklı kendisini bildirmez ve yapılan tahkikattan ağlep bir ihtimale göre alacağın kalmadığı anlaşılır ise hakim senedin hükümsüzlüğüne ve tapu sicilindeki derecenin boş bırakılmasına karar verir.

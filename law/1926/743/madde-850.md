@@ -1,0 +1,2 @@
+Madde 850 – Senetlerin bedelleri; ihraç sırasında kararlaştırılmış veya verilen salahiyet dairesinde mutavassıt müessese tarafından tanzim edilmiş olan itfa planına tevfikan, ödenir. Ödenen senet iptal edilir. Hilafına mukavele yok ise gayri menkulün karşılık tutulduğu tahvillerin hepsi buna müteferri borçlar itfa edilip bütün kuponlarla birlikte iptal edilmedikçe yahut kalan kuponların bedelleri yatırılmadıkça tapu sicilindeki kayıt terkin edilemez.
+b) Murakabe :

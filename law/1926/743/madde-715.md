@@ -1,0 +1,2 @@
+Madde 715 – İrtifak hakkından istifade eden gayrimenkul taksim olundukta asıl olan, irtifak hakkının her kısım için devamıdır. Şu kadar ki bu haktan fiilen yalnız bir kısım istifade edebiliyorsa tahmil edilen gayrimenkul sabibi, irtifak hakkının, diğer kısımlardan terkinini talep edebilir. Tapu idaresi bu talebi, irtifak hakkı sahibine tebliğ eder ve bir ay içinde itiraz olunmazsa terkini yapar.
+b) İrtifak hakkiyle mukayyet olan gayrimenkulün taksimi :

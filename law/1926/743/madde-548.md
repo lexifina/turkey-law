@@ -1,0 +1,2 @@
+3 – Ret hakkının intikali :
+Madde 548 – Mirası reddetmeden vefat eden mirasçının ret hakkı, kendi mirasçısına intikal eder. Bu takdirde bu mirasçının ret müddeti birinci mirasın kendi murisine intikaline muttali olduğu günden başlar. Şu kadar ki kendi murisinin mirasına karşı haiz olduğu ret müddeti münkazi olmadan, hitam bulmaz. Reddedilen miras evvelce hakkı olmayan bir mirasçıya intikal ederse bu mirasçı için müddet, mirasın reddine muttali olduğu günden başlar.

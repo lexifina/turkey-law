@@ -1,0 +1,1 @@
+Madde 689 – Taksit ile mal satan kimse mülkiyeti muhafaza mukavelesine istinat ile sattığı malın iadesini ancak almış olduğu taksitlerden malın kullanılmakla eskimesinden mütevellit tazminat ve münasip bir ücret miktarını tenzil ederek mütebakiyi geriye vermek şartiyle talep edebilir.

@@ -1,0 +1,1 @@
+Madde 734 – İntifa hakkı sahibi, kendisine verilen kafi bir mühlet içinde teminat vermez veya malikin men'i hilafına haksız kullanmakta devam ederse, hakim başka bir tarz takarrür edinceye kadar intifa eden kimsenin yedini refederek malı, bir kayyıma tevdi eder.

@@ -1,0 +1,2 @@
+I. Sebepleri :
+Madde 427 – Vasinin, vasiliğe gayri layık bir hali anlaşılır veya vazifesini ifada sui istimali veya fahiş bir ihmali görülürse mahkemei asliye tarafından azlolunur. Borcunu ödemekten aciz kalan vasi hakkında da hüküm böyledir. Sulh hakimi, vesayet altındaki kimsenin menfaatlerini tehlikede gördüğü anda; vazifesini gereği gibi ifa edemiyen vasinin başka bir kusuru olmasa bile, vazifesine nihayet verebilir.

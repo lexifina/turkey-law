@@ -1,0 +1,5 @@
+Yabancı para üzerinden rehin tesisi
+Madde 766/a – (Ek: 14/11/1990 - 3678/28 md.)
+Yabancı para üzerinden gayrimenkul rehni tesisi, vadesi 5 yıl ve daha fazla olan dış kaynaklı krediler için mümkündür. Bu halde, her derecenin ifade ettiği miktar, rehin konusu alacağın tespit edildiği para türü üzerinden gösterilir. Ancak aynı derecede birden fazla para türü kullanılarak rehin tesis edilemez.
+Yabancı para ile tesis edilmiş rehne ait bir derecenin boşalması halinde, yerine, tescil edileceği tarihdeki karşılığı Türk parası veya yabancı diğer bir para üzerinden rehin tesis edilebilir. Türk parası ile tesis edilmiş bir rehne ait derecenin boşalması halinde ise, yerine tescil edileceği tarihdeki karşılığı yabancı para üzerinden rehin tesis edilebilir.
+Yabancı veya Türk parası karşılıklarının hesabında hesap günündeki Türkiye Cumhuriyeti Merkez Bankasının döviz alış kuru esas alınır. Rehin haklarının hangi yabancı para üzerinden tesis edilebileceği Hazine ve Dış Ticaret Müsteşarlığınca belirlenir.

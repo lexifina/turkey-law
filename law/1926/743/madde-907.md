@@ -1,0 +1,2 @@
+Madde 907 – Bir şeye hüsnü niyetle zilyed bulunan kimse o şeyin reddini isteyen müddeiden yapmış olduğu zaruri ve faydalı sarfiyatın iadesini talep ve tediye zamanına kadar o şeyi hapsedebilir. Diğer sarfiyattan dolayı tazminat iddiasında bulunamaz. Fakat müddei, kıymetlerinin tazminine talip olmadıkça zilyed kendi tarafından asıl şey ile birleştirilen ve zararsız ayrılması mümkün olan ziyadeleri refedebilir.
+Zilyedin elde ettiği semereler kendi sarfiyatı dolayısiyle olan alacaklarına mahsup edilir.

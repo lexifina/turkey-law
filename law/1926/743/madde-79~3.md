@@ -1,0 +1,6 @@
+D) İdare ve gayede değişiklik, malların değiştirilmesi :
+I - İdarenin değiştirilmesi :
+Madde 79 – (Değişik: 13/7/1967-903/1 md.)
+Vakfın mallarının muhafaza veya gayesini devam ettirmek için kesin ihtiyaç bulunduğu halde yetkili asliye mahkemesi, idare uzvunun teklifi üzerine, teftiş makamının yazılı düşüncesini aldıktan sonra vakfın idare şeklini değiştirebilir.
+Yetkili asliye mahkemesi, teftiş makamının tüzükte gösterilen sebeplere dayanarak yapacağı müracaat üzerine duruşma yaparak idare edenleri işten uzaklaştırabilir ve vakıf senedinde ayrı bir hüküm yoksa yenisini seçebilir. İstihdam edilenlere ve işçilere yardım vakıflarında vakıf senedinin, faydalananların vakıftan faydalanma şartlarına ve idareye iştiraklerine dair hükümlerinde yapılacak değişiklikler, vakıf senedinde bu hususta yetkili olduğu belirtilen uzvun kararı üzerine, teftiş makamının yazılı düşüncesi alındıktan sonra asliye mahkemesi tarafından kararlaştırılır.
+Bu kanunda gösterilen yetkili merciler dışında bir kişi veya kuruluşun vakfın idaresinde doğrudan doğruya veya dolaylı olarak müdahale etmesi halinde, bu müdahaleye yer veren veya göz yuman, idare edenler, yukardaki fıkra hükmü gereğince her halde işten uzaklaştırılır ve yerlerine yenileri seçilir.

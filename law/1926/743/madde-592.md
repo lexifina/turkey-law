@@ -1,0 +1,2 @@
+I. Kül teşkil eden eşya, aile evrakı, hatıralar :
+Madde 592 – Mirasçılardan birinin muhalefeti halinde, asıl ve maksat itibariyle bir kül teşkil eden eşya, taksim edilemez. Mirasçılardan birinin muhalefeti halinde, aile evrakı ve hatıra teşkil eden eşya satılamaz. Mirasçılar arasında ihtilaf vukuunda, sulh hakimi, bu gibi eşyanın satılmasına yahut mahalli adetlere ve adet mevcut değilse mirasçıların hal ve şanlarına nazaran hissesinden mahsup edilmek üzere mirasçılardan birine tahsisine karar verebilir.

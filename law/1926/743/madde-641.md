@@ -1,0 +1,2 @@
+6 – Sahipsiz şeyler ve umuma ait mallar :
+Madde 641 – Sahipsiz şeyler ile menfaati umuma ait olan mallar Devletin hüküm ve tasarrufu altındadır. Hilafı sabit olmadıkça menfaatı umuma ait sular ile ziraate elverişli olmıyan yerler, kayalar, tepeler, dağlar ve onlardan çıkan kaynaklar kimsenin mülkü değildir. Sahipsiz şeylerin ihraz ve işgali, yollar ve meydanlar, akar sular ile yatakları gibi menfaati umuma ait malların işletilmesi ve kullanılması hakkında ahkamı mahsusa vazolunur.

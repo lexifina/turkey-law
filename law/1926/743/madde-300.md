@@ -1,0 +1,1 @@
+Madde 300 – Ana ve çocuğun ikametgahı Türkiye haricinde olup ta aleyhine babalık davası ikame olunan Türk de ecnebi bir memlekette sakin ise, dava anın Türkiye'de mukayyet olduğu mahal mahkemesi huzurunda ikame olunabilir.

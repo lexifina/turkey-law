@@ -1,0 +1,2 @@
+II - Hükümleri :
+Madde 458 – Miras hakkından iskat olunan kimse, terekeden hisse talep edemiyeceği gibi tenkis davası dahi açamaz. Müteveffa tarafından diğer suretle tasarruf vaki olmamış ise; iskat edilen kimse, müteveffadan evvel ölmüş gibi, hissesi müteveffanın kanuni mirasçıları arasında taksim olunur. Miras hakkından iskat edilen kimsenin füruları o kimse müteveffadan evvel ölmüş gibi mahfuz hisselerini isteyebilirler.

@@ -1,0 +1,3 @@
+2 – Gayrimenkulün taksimi:
+Madde 804 – İpotekle takyit edilmiş gayrimenkulün bir kısmı, yahut aynı malikin bu suretle mukayyet müteaddit gayri menkullerden birisi, ahare temlik yahut gayri menkul taksim edilirse; hilafına bir mukavele bulunmadıkça, teminat her kısmın kendi kıymetine göre mütenasiben tevzi olunur. Bu tevzii kabul etmiyen alacaklı, tevziin kesbi katiyet ettiği tarihten itibaren bir ay içinde alacağının bir sene zarfında ödenmesini istiyebilir.
+Gayri menkulü iktisap edenler borçtan kendi parçalarına düşen hisseyi kabul ettikleri takdirde eğer alacaklı, hakkını evvelki borçluya karşı muhafaza ettiğini senesi içinde tahriren beyan etmemiş ise, evvelki borçlu borcundan kurtulur.

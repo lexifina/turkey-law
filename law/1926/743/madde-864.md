@@ -1,0 +1,2 @@
+Madde 864 – Borçlunun rızasiyle menkul eşyasına yahut kıymetli evrakına zilyed olan alacaklı, muaccel ve bu eşya ve evrakla tabii bir irtibatı bulunan alacağını istifa edinceye kadar; bunları, yedinde hapsetmek hakkını haizdir.
+Bu irtibat, tacirler hakkında zilyedlik ve alacağın beyinlerindeki ticari münasebetlerinden tevellüt etmiş olması halinde mevcut addolunur. Hapis hakkı, alacaklı tarafından hüsnü niyetle kabzedilmiş olmak şartiyle borçlunun malik olmadığı eşyayı da şamil olur. Bununla beraber üçüncü şahısların evvelki zilyedliklerinden mütevellit hakları mahfuzdur.

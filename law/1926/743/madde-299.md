@@ -1,0 +1,2 @@
+Madde 299 – Babalık davası müddeniin doğum zamanında Türkiye'deki ikametgahının bulunduğu mahal mahkemesinde ikame edilebileceği gibi müddeaaleyhin dava zamanındaki ikametgahının bulunduğu mahal mahkemesinde dahi ikame olunabilir. Babalığın hükmen tayini maksadiyle vakı olan dava, menfaatlerini sıyanet edebilmesi için hakim tarafından doğrudan doğruya müddeaaleyhin ikametgahındaki hazine memuruna tebliğ olunur.
+b) Sicil kaydının bulunduğu mahal salahiyeti :

@@ -1,0 +1,1 @@
+Madde 307 – Ahval ehemmiyetli surette değişmiş ise nafakanın miktarına dair olan karar, iki taraftan birinin istidası üzerine tadil olunabilir. İçtimai vaziyete göre, kafi derecede şahsi geliri olduğu gün, çocuğun nafakası kesilebilir.

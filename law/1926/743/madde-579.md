@@ -1,0 +1,2 @@
+Madde 579 – Hüsnü niyet sahibi zilyede karşı miras sebebi ile istihkak davasının müruru zaman müddeti, davacının kendi hakkının racih olduğuna ve hasmının zilyet bulunduğuna ıttılaından itibaren bir sene ve her halde murisin vefatından veya vasiyetnamenin açılmasından itibaren on senedir. Suiniyet sahibi zilyetlere karşı müruru zaman müddeti otuz senedir.
+(D) KENDİSİNE MUAYYEN BİR ŞEY VASİYET EDİLENİN İSTİHKAK DAVASI:

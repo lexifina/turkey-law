@@ -1,0 +1,2 @@
+II. Miras hissesinden fazla olan teberrular :
+Madde 606 – İadeye tabii teberruların miktarı, iade ile mükellef mirasçının miras hissesinin baliğ olduğu kıymetten ziyade olup ta; bu ziyadenin mirasçıya kalmasının müteveffaca maksut olduğu isbat edilirse, tenkis davası hakkı mahfuz kalmak üzere ziyadenin iadesi lazım gelmez. Fürulara evlenirken mutad derecede verilen eşya ile yapılan sarfiyatın iadeye tabi olmaması, asıldır.

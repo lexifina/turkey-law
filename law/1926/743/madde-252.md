@@ -1,0 +1,1 @@
+Madde 252 – Nesebi tashih edilen çocuk, ana ve babasına ve onların hısımlarına karşı ayniyle nesebi sahih olan çocuğun hukukunu haizdir; nesebi sahih füruu dahi tashihten müstefit olur. Tashih, hem ana babanın mukayyet olduğu hem çocuğun doğduğu mahallin nüfus memuruna tebliğ edilir.

@@ -1,0 +1,2 @@
+Madde 829 – İpotekli borç senedi veya irat senedi tesis olundukta tediyatı icra ve ahz, tebligatı kabul, teminatın tenkisine muvafakat ve umumiyetle alacaklının ve borçlunun ve malikinin hukukunu tam bir ihtimam ve bir bitaraflık ile muhafaza mükellefiyetlerini haiz olmak üzere bir vekil tayin olunabilir.
+Vekilin ismi tapu siciline ve rehin senedine kaydolunur. Vekalet, hitam bulduğu takdirde eğer alakadarlar ittifak edemezlerse hakim icap eden tedbirleri ittihaz eyler.

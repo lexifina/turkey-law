@@ -1,0 +1,2 @@
+Madde 741 – İntifa hakkı sahibi, intifa edilen şeyin tahsis edilmiş bulunduğu ciheti, malike ehemmiyetli bir zararı mucip olacak surette değiştiremez. Hususiyle üzerinde intifa hakkı bulunan şeyin ne şeklini değiştirebilir ne de onu esaslı bir surette tadil edebilir; gayrimenkulün tahsis edilmiş bulunduğu cihette esaslı tadilatı mucip olmadığı hallerde bile malike haber vermeksizin taş, kis ve turp ocakları açamıyacağı gibi buna benzer diğer imalatta da bulunamaz.
+c) Ormanlar :

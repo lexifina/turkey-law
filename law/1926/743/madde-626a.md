@@ -1,0 +1,7 @@
+Hissedarlıktan çıkarılma
+Madde 626/a – (Ek : 14/11/1990 - 3678/14 md.)
+Kendi tutum ve davranışları veya malın kullanılmasını bıraktığı ya da fiillerinden sorumlu olduğu kişilerin tutum ve davranışları ile diğer hissedarların tümüne veya bir kısmına karşı olan yükümlülüklerini ağır surette ihlal eden hissedar, bu yüzden onlar için müşterek mülkiyet ilişkisinin devamını çekilmez hale getirmişse mahkeme kararıyla hissedarlıktan çıkarılabilir.
+Davanın açılması, aksine bir anlaşma yoksa, hissedarların hem hisse hem de sayı bakımından çoğunlukla karar vermelerine bağlıdır.
+Hakim, çıkarma talebini haklı gördüğü takdirde,çıkarılacak hissedarın hissesini karşılayacak kısmı maldan ayırmak mümkün ise bu ayırmayı yaparak ayrılan parçanın müşterek mülkiyetten çıkarılana tahsisine karar verir.
+Aynen ayırımı mümkün bulunmayan maldaki hissenin dava tarihindeki değeri ile kendilerine devrini isteyen hissedar veya hissedarlar bunu hissedarlıktan çıkarma talebi ile birlikte istemek zorundadırlar. Hakim, hükmünden önce re'sen tayin edeceği münasip bir mehil içinde hisse değerinin tediye veya tevdiine karar verir. Davanın kabulü halinde hissenin talep eden adına tesciline hükmolunur.
+Hisseyi karşılayacak kısmın maldan aynen ayrılması mümkün olmaz ve bu hisseye talip olan hissedar bulunmazsa hakim, davalıya hissesini temlik etmesi için bir süre tayin eder ve bu süre içinde temlik edilmeyen hissenin açık artırma ile satışına karar verir. Satış kararı cebri icra yoluyla paraya çevirmeye dair hükümler uyarınca yerine getirilir.

@@ -1,0 +1,3 @@
+II. Kiralar:
+Madde 778 – Kiraya verilmiş bir gayrimenkulü takyit eden rehin, merhunun nakde tahvili için alacaklı tarafından başlayan takibattan veya borçlunun iflasına hükümden nakde tahvil zamanına kadar geçen müddete ait kiralara da şamil olur. Bu hak, kiracıya karşı ancak takibatın kendisine tebliğinden veya iflasın ilanından sonra dermeyan olunabilir.
+Vadesi hülul etmeyen kiraya müteallik olarak malik tarafından icra olunan hukuki tasarruflar veya bu kiralar üzerine başka alacaklılar tarafından konulan hacizler, kiranın muacceliyet kesbetmesinden evvel, rehnin nakde tahvili için takibatta bulunan alacaklı hakkında muteber değildir.

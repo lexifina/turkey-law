@@ -1,0 +1,1 @@
+Madde 925 – İspat ve tevsik edilmiyen her talep, reddolunur.Bununla beraber eğer tescil, tadil veya kaydin terkinini mucip olan sebep mevcut olup ta buna ait vesaikin noksanının ikmale ihtiyaç bulunursa talip, malikin muvafakatiyle veya hakimin kararına binaen sicile muvakkaten şerh verdirilir.

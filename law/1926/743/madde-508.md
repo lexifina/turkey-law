@@ -1,0 +1,1 @@
+Madde 508 – Kendisine tenkise tabi bir teberru yapılmış olan kimse, hüsnü niyet sahibi ise yalnız mirasın açıldığı gün o teberru veya hasılatından elinde kalan miktarı geri vermekle mükelleftir. Miras mukavelesiyle teberrua nail olan kimse, tenkise maruz kalırsa, murise ıvaz olarak verdiği şeyden tenkis ile mütenasip miktarı geri isteyebilir.

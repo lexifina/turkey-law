@@ -1,0 +1,2 @@
+VII. Reddeden mirasçının alacaklılarını himaye:
+Madde 557 – Mevcudu borcuna yetmiyen mirasçı, alacaklılarını izrar kaydiyle mirası reddederse: alacakları ve iflas takdirinde masası, kendilerine teminat verilmedikçe bu redde karşı üç ay müddet zarfında itiraz edebilirler. Reddin iptaline hüküm olunursa miras resmen tasfiye olunur. Bu suretle tasfiye edilen mirastan mirasçının hissesine bir şey isabet ederse bundan evvela redde itiraz eden alacaklıların saniyen diğer alacaklıların alacakları tesviye olunur. Artarsa, ret lehine vaki olan mirasçıya ait olur.

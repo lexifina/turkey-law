@@ -1,0 +1,2 @@
+II. Alelade tasfiye :
+Madde 575 – Resmi tasfiye, müteveffanın işlerinin tesviyesi ve borçlarının ifası, alacaklarının tahsili ve muayyen şeylere dair vasiyetin mevcuda göre ifası ve icabında hak ve taahhütlerinin mahkemece tesbiti ve mallarının paraya tahvili hususlarını ihtiva eder. Mirasçılar, pazarlık şartiyle uyuşamazlarsa müteveffanın gayri menkul malları müzayede ile satılır. Mirasçılar, tasfiye için lüzumlu olmıyan eşya ve nukudun tamamen veya kısmen kendilerine tevdiini, tasfiye esnasında talep edebilirler.

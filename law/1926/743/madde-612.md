@@ -1,0 +1,2 @@
+II. Miras hisseleri hakkında mukavele :
+Madde 612 – Miras haklarının temlikine mütaallik mirasçıların birbirleriyle akdedeceği mukaveleler ile hayatta bulunan ana yahut babanın müteveffa karı ve kocasından olan çocuklariyle bu çocuklara müteveffadan isabet eden hissenin temlikine mütaallik akdedecekleri mukavelenin, yazılı olması şarttır. Mirasçılardan biriyle hissesinin temlikine dair üçüncü bir şahıs arasında akdedilmiş olan mukavele üçüncü şahsa, taksime müdahale hakkı vermez. Üçüncü şahsın hakkı, ancak temlik eden mirasçıya ayrılan hissenin talebine münhasırdır.

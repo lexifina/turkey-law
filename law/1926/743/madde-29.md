@@ -1,0 +1,3 @@
+Madde 29 – Doğum ve ölüm nüfus sicilindeki kayıtlarla ispat olunur. Nüfus sicilinde kayıt bulunmaz veya mevcut kaydın doğru olmadığı tahakkuk ederse keyfiyet her hangi bir delil ile ispat olunabilir.
+(Ek: 4/5/1988 - 3444/2. md.) Doğumdan sonra meydana gelen cinsiyet değişikliğinin asgari sağlık kurulu raporu ile belgelendirilmesi halinde nüfus sicilinde gerekli düzeltme yapılır. Bu konuda açılacak davalarda cinsiyeti değiştirilen kişi evli ise, eşe de husumet yöneltilir ve aynı mahkeme, varsa ortak çocukların velayetinin kime verileceğini de tayin eder, cinsiyet değişikliği kararının kesinleştiği tarihte, evlilik kendiliğinden son bulur.
+b) Ölüme karine:

@@ -1,0 +1,2 @@
+III. Borcunu ödemekten aciz halinde :
+Madde 866 – Borçlu; borcunu ödemekten aciz olduğu halde alacaklı henüz alacağı muaccel olmasa bile onun temini için hapis hakkını kullanabilir. Borcunu ödemekten aciz keyfiyeti eşyanın tesliminden sonra tahakkuk eder veya alacaklının ıttılaına vasıl olursa alacaklı o eşyanın muayyen bir surette kullanılmasına dair önceden bir borç iltizam etmiş veya borçlunun bu bapta verilmiş bir talimatı bulunmuş olsa bile hapis hakkını kullanabilir.

@@ -1,0 +1,2 @@
+Madde 648 – Bir kimse başkasının inşaat levazımiyle kendi arsası üzerine yahut kendi levazımiyle başkasının arsası üzerine bina yapmış olsa bu levazım, arsanın mütemmim cüzü olur. Şu kadar ki levazım, malikin rızası olmaksızın alınıp kullanılmış ise kal'i fahiş bir zararı müeddi olmadıkça maliki onu kali ile istirdadını talebedebilir ve masarifi arsa sahibine ait olur. Eğer bina arsa sahibinin rızası olmaksızın levazım sahibi tarafından yapılmış ise kal'i fahiş bir zararı müeddi olmadıkça arsa sahibi kal'ini istiyebilir ve masarifi levazım sahibine ait olur.
+b) Tazminat :

@@ -1,0 +1,2 @@
+Madde 600 – Kendisine iktisadi bir vahdet halinde işletilmekte olan zirai mallar tahsis edilen mirasçı, diğer mirasçıların hisselerinin bedelini mallarını fazla miktarda borç altına koymadan ödeyebilecek bir hale gelirse; mirasçılardan her biri, şirketi emvalin feshini ve hissenin ödenmesini isteyebilir.
+Mallar kendisine tahsis edilen mirasçı dahi, hilafına mukavele yoksa şirketi her zaman feshedebilir.

@@ -1,0 +1,2 @@
+Madde 770 – Birden ziyade gayrimenkul, aynı malike veya müştereken ve müteselsilen borçlu olan kimselere ait olduğu takdirde; aynı alacak için, rehin edilebilir. Aynı alacak için birden ziyade gayrimenkul üzerinde rehin tesis olunan diğer bütün hallerde, gayrimenkullerden herbiri bu alacağın muayyen bir hissesi için takyit edilmek iktiza eder. Hilafına mukavele olmadıkça teminatın tevzii, muhtelif gayrimenkullerin kıymeti ile mütenasip olmak lazımgelir.
+(B) TESİS VE SUKUT:

@@ -1,0 +1,1 @@
+Madde 13 – Yaşının küçüklüğü sebebiyle yahut akıl hastalığı veya akıl zayıflığı veya sarhoşluk ve bunlara benzer sebeplerden biriyle makul surette hareket etmek iktidarından mahrum olmayan her şahıs, Kanunu Medenice mümeyyizdir.

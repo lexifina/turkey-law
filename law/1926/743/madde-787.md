@@ -1,0 +1,2 @@
+3 – Boş dereceler :
+Madde 787 – Bir rehin hakkı muahhar bir sırada olarak tesis olunduğu ve ona tekaddüm eden başka rehinler mevcut olmadığı veya borçlu mukaddem bir rehin senedini kullanmadığı, yahut mukaddem alacak kaydolunmuş meblağ miktarına vasıl olmadığı takdirde; nakte tahvili halinde gayrimenkulün semeni, boş dereceler nazarı itibara alınmaksızın, sıralarına göre teminatlı alacaklılara verilir.

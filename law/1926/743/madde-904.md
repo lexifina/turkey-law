@@ -1,0 +1,1 @@
+Madde 904 – Bir menkule sui niyetle zilyed olan kimse her zaman evvelki zilyed tarafından iadeye icbar olunabilir. Bununla beraber evvelki zilyedin iktisabı hüsnü niyetle vukubulmamış ise bu zilyed kendisinden sonraki hiç bir zilyed aleyhine istihkak davası ikame edemez.
