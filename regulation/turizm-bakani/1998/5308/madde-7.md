@@ -1,0 +1,8 @@
+Temsilci Üyeler
+Madde 7 - Şuranın temsilci üyeleri aşağıda belirtilmiştir.
+a) Bakanlıktan;
+1) Teftiş Kurulu Başkanlığınca görevlendirilecek 3 Bakanlık Müfettişi, 2) Bakanlık Makamınca görevlendirilecek 3 Bakanlık Müşaviri, 3) Bakanlık Merkez Birimlerince görevlendirilecek birer Daire Başkanı, 4) APK Kurulu Başkanlığınca görevlendirilecek 3 APK Uzmanı, 5) Bakanlık Kontrolörlerinden görevlendirilecek 3 Kontrolör, 6) Bakanlık Merkez Birimlerince görevlendirilecek birer Şube Müdürü, 7) Bakanlık Makamınca seçilecek her coğrafi bölgeden üçer İl Turizm Müdürü, birer Danışma Müdürü, 8) Turizm Eğitimi Genel Müdürlüğünce, Turizm Eğitim Merkezlerinden görevlendirilecek 4 Turizm Eğitim Merkezi Müdürü ile her branştan birer eğitici.
+b) Diğer Kurum ve Kuruluşlardan;
+1) Bakanlık Makamınca; Şuranın gündemine göre belirlenecek, ilgili Bakanlıkların Müsteşarları ile diğer kurum ve kuruluşlardan görevlendirilecek en çok 15 üye, 2) Milli Güvenlik Kurulu Genel Sekreterliğince görevlendirilecek 2 temsilci, 3) Radyo ve Televizyon Üst Kurulu Başkanlığı, Türkiye Radyo-Televizyon Kurumu Genel Müdürlüğü, Basın Yayın ve Enformasyon Genel Müdürlüğü ve Anadolu Ajansı Genel Müdürlüğü'nden birer temsilci, 4) Hazine Müsteşarlığı, Dış Ticaret Müsteşarlığı, Devlet İstatistik Enstitüsü Başkanlığı, Türk Hava Yolları Anonim Ortaklığı ve Türkiye Denizcilik İşletmeleri Anonim Şirketi üst kademe yöneticileri veya görevlendirecekleri birer temsilcileri, 5) Her coğrafi bölgeden gerektiği sayıda; Vali, Kaymakam, Belediye Başkanı veya görevlendirecekleri birer temsilci,
+c) Turizm Özel Sektör Temsilcileri;
+Turizm sektörü meslek kuruluşları başkanlıklarından, oluşturulacak Alt Komisyonların her birinde görev yapmak üzere birer temsilci.
