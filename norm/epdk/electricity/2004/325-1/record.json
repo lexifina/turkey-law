@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "325/1",
+  "decision_date": "2004-06-04",
+  "title": "Rüzgar enerjisine dayalı üretim lisansı başvuruları ile ilgili",
+  "categories": [
+    "Başvuru"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tCaGIXaWTJU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tCaGIXaWTJU="
+  ],
+  "source_sha256": "a01f859affaf57542cdd231dc7405bee080c62aa40a578d49864f249ab16487c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33883,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-06-04",
+  "law_text_complete": false
+}
