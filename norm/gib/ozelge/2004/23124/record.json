@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4117-05/52068",
+  "source_id": 23124,
+  "date": "2004-11-03",
+  "title": "Çiftçilere ödenen Doğrudan Gelir Desteği ödemeleri gelirlerine eklenip vergileri ödenecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23124",
+  "source_sha256": "323efdcadfef9097b56f95704d118967bdf1c0ea4803a65bcd4de4b68fef591a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
