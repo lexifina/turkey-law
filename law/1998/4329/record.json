@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4329",
+  "year": 1998,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Çek Cumhuriyeti Hükümeti Arasında Hava Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "1998-01-21",
+  "adopted_as_published": "21/01/1998",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.01.1998 No: 23240",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc081/kanuntbmmc081/kanuntbmmc08104329.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 81",
+  "committee_reports": [
+    {
+      "label": "TBMM 263 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c043/tbmm20043045ss0263.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 20,
+      "kayit_no": 413214,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Çek Cumhuriyeti Hükümeti Arasında Hava Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "21/01/1998",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc081/kanuntbmmc081/kanuntbmmc08104329.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 263 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c043/tbmm20043045ss0263.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 61,
+          "sitting_date": "1996-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c006/tbmm20006061.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c006/tbmm20006fih.pdf",
+          "pages": [
+            "527"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 75,
+          "sitting_date": "1997-04-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024fih.pdf",
+          "pages": [
+            "81"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 45,
+          "sitting_date": "1998-01-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c043/tbmm20043045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c043/tbmm20043fih.pdf",
+          "pages": [
+            "232:233",
+            "235",
+            "252:257"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=249&v_gelecek_sayfa=101&v_kullanici_id=27483195",
+      "page_sha256": "9d74b1e01dafe64c639249129b3e42d8f300df5d46255b494150186d22c7a61a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9d74b1e01dafe64c639249129b3e42d8f300df5d46255b494150186d22c7a61a",
+  "issuer": "TBMM",
+  "in_force": "1998-01-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/01/1998; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
