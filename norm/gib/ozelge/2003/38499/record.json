@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3224-",
+  "source_id": 38499,
+  "date": "2003-09-14",
+  "title": "Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Genel Tebliğine göre mi...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38499",
+  "source_sha256": "1e3195c2e7be48694b4836f3e928fd069b0236728ad0ad503007f13560a0e6a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
