@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1996-07-13",
+      "13.07.1996",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "22695",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1996-07-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/1996/6753",
+  "published": "1996-07-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6753&MevzuatTertip=5",
+  "source_bytes": 22556,
+  "source_id": "8.5.6753",
+  "source_sha256": "fad4187258819fb3bd151adf1c669bac3f6a2a5cc53e88741f9af00f5a1a9f1d",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nMEDİSİNAL KİMYA ARAŞTIRMA, GELİŞTİRME VE UYGULAMA \r\nMERKEZİ YÖNETMELİĞİ (MAGUM)",
+  "university_id": 199,
+  "word_count": 886
+}

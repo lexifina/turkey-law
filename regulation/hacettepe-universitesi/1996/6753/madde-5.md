@@ -1,0 +1,10 @@
+Amaç
+Madde 5 — Merkezin amacı aşağıda gösterilmiştir.
+a) Tedavide kullanılabilecek yeni ilaç moleküllerinin tasarımı, hazırlanması yapı-etki ilişkileri ve diğer farmakodinamik aktivite çalışmaları, medisinal kimya, ilaçların ve hammaddelerinin analiz sistemlerinin oluşturulması ve ilaç hammaddelerinin kalite kontrolleri, moleküler modelleme sisteminde mevcut çalışmaların değerlendirilmesi için eği tim, araştırma ve uygulama faaliyetlerininin yürütülmesi,
+b) Bilimsel ve maddi kaynak sağlanabilmesi için, ilgili bilim dallarında temel ve uygulamalı araştırmalar düzenlemek, teşvik etmek, koordine etmek, bu amaçlarla yurt içi ve yurt dışı benzer kuruluşlarla işbirliği yapmak ve bunlarla bilimsel endüstriyel ve teknik bilgi ve hizmet akışının sağlanması,
+c) Katı ve solüsyon faz peptit sentezleri, saflaştırma yöntemlerinin geliştirilmesi ve standardizasyonu, yapı aydınlatılması, yeni peptidomimetik ilaçların moleküler tasarımı, yapı-etki ilişkilerinin araştırılması,
+d) Merkezin çalışma alanlarında ileri düzeyde uzmanlık kursları, sertifika programları düzenlenmesi, ulusal ve uluslararası düzeyde seminer, konferans, kongre, sempozyum, yaz okulları gibi bilimsel toplantılar düzenlenmesi ve bu gibi faaliyetlere katılması, bu amaçlarla yurt dışı bilimsel kuruluşlarla ortak programlar düzenlenmesi,
+e) Konusu ile ilgili alanlarda teorik ve pratik bilgi birikimi ve deneyimi sağlamak üzere ilgili öğretim elemanlarına, eczacılık eğitimi gören öğrenci ve mezunlarına yurtiçi ve yurt dışı burslar verilmesi, bu amaçla çeşitli ödüllü yarışmalar düzenlenmesi,
+f) Hacettepe Üniversitesinin ilgili birimlerinin ve üniversitenin ilaç araştırma, geliştirme ve uygulama alanında protokol antlaşması olan özel sektör ve kamu kuruluşlarındaki her seviyedeki öğretim elemanı, personel ve öğrencinin eğitimlerinin yapılması,
+g) Merkezin çalışmaları sonunda elde edilecek patentlenebilir ürünler için yerli ve yabancı patent kurumlarına başvurulup, patent alınması,
+h) Merkez Yönetim Kurulunun kararlaştıracağı diğer faaliyetlerde bulunulması olarak tespit edilmiştir.
