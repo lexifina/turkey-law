@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 310846,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Anayasa nizamını, Millî Güvenlik ve huzuru bozan bâzı fiiller hakkında 5.3:1962 tarih ve 38 sayılı Kanunun yürürlükten kaldırılması hakkında (Millet Meclisi 1/589, Cumhuriyet Senatosu 1/1008) (S. Sayısı1269)",
+  "title": "Anayasa nizamını, Millî Güvenlik ve huzuru bozan bâzı fiiller hakkında 5.3:1962 tarih ve 38 sayılı Kanunun yürürlükten kaldırılması hakkında (Millet Meclisi 1/589, Cumhuriyet Senatosu 1/1008) (S. Sayısı1269)",
+  "first_sitting_date": "1969-04-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 53,
+      "sitting": 55,
+      "sitting_date": "1969-04-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053fih.pdf",
+      "pages": [
+        "141",
+        "247",
+        "485:502"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2010&v_gelecek_sayfa=1201&v_kullanici_id=27484916",
+  "source_sha256": "9470d86db968c5e555f4a8bdc3ab170f017d99c930395fca7fb706425db3b81d",
+  "in_force": "1969-04-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
