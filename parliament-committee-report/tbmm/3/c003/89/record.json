@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "89",
+  "label": "TBMM 89 no'lu Komisyon Raporu",
+  "title": "Tababet ve Şuabatı Sanatlarının Tarzı İcrasına Dair Kanun",
+  "document_date": "1928-03-29",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 3, birleşim 54)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003054ss0089.pdf",
+  "pdf_sha256": "ba2d97b6a899b9afde4aedaa79beb5397fb4ea25366f5faa01dbd7e6d8304540",
+  "pdf_bytes": 2542304,
+  "pdf_pages": 20,
+  "index_entries": [
+    120023
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=1&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1928-03-29",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
