@@ -1,0 +1,78 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2929",
+  "year": 1983,
+  "title": "İktisadi Devlet Teşekkülleri ve Kamu ve İktisadi Kuruluşları Hakkında Kanun. ( İktisadi Devlet Teşekkülleri ve Kamu İktisadi Kuruluşları Hakkında 11.4.1983 Tarihli ve 60 Sayılı Kanun Hükmünde Kararname ve Aynı Kararnamenin Geçici 6 ncı Maddesinin Birinci Fıkrasının Değiştirilmesine İlişkin 21.7.1983 Tarihli ve 73 Sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun )",
+  "adopted": "1983-10-19",
+  "adopted_as_published": "19/10/1983",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "22.10.1983 No: 18199",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602929.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 66",
+  "committee_reports": [
+    {
+      "label": "MGK 701 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c011/mgk_01011176ss0701.pdf"
+    },
+    {
+      "label": "DM 560no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c022/dm__02022167ss0560.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 151578,
+      "title": "İktisadi Devlet Teşekkülleri ve Kamu ve İktisadi Kuruluşları Hakkında Kanun. ( İktisadi Devlet Teşekkülleri ve Kamu İktisadi Kuruluşları Hakkında 11.4.1983 Tarihli ve 60 Sayılı Kanun Hükmünde Kararname ve Aynı Kararnamenin Geçici 6 ncı Maddesinin Birinci Fıkrasının Değiştirilmesine İlişkin 21.7.1983 Tarihli ve 73 Sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun )",
+      "adopted_as_published": "19/10/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602929.pdf",
+      "committee_reports": [
+        {
+          "label": "MGK 701 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c011/mgk_01011176ss0701.pdf"
+        },
+        {
+          "label": "DM 560no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c022/dm__02022167ss0560.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=601&v_kullanici_id=27483250",
+      "page_sha256": "cc012970ee5fa3446478febbceefc937daa16d2b31b4a127abb4d7268fe66fb0"
+    },
+    {
+      "assembly": "Danışma Meclisi",
+      "term": null,
+      "kayit_no": 144009,
+      "title": "İktisadî Devlet Teşekkülleri ve Kamu iktisadî Kuruluşları Hakkında Kanun (İktisadi Devlet Teşekkülleri ve Kamu İktisadî Kuruluşları Hakkında 11.4.1983 Tarihli ve 60 Sayılı Kanun Hükmünde Kararname ve Aynı Kararnamenin Geçici 6 ncı Maddesinin Birinci Fıkrasının Değiştirilmesine İlişkin 21.7.1983 Tarih ve 73 Sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun)",
+      "adopted_as_published": "19/10/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanundmc066/kanundmc06602929.pdf",
+      "committee_reports": [
+        {
+          "label": "DM 560 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c022/dm__02022167ss0560.pdf"
+        },
+        {
+          "label": "MGK 701no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c011/mgk_01011176ss0701.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=322&v_gelecek_sayfa=301&v_kullanici_id=27483253",
+      "page_sha256": "c2bceecd9a1486ab09eac63e7575b676a74f6e27da676d8006bbf3cd71c48aa8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cc012970ee5fa3446478febbceefc937daa16d2b31b4a127abb4d7268fe66fb0",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1983-10-19",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 19/10/1983; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
