@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3070",
+  "year": 1936,
+  "title": "Türk parasının kıymetini koruma hakkındaki 1567 numaralı Kanunun dördüncü maddesini değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-12-02",
+  "gazette_issue": "3474",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3474.pdf",
+  "source_sha256": "b0ed0843e381f7baced37d2a89bbca283291d18f285f3b49c11072ac99874083",
+  "text_sha256": "e7503a7c4b12e96e6802d2e9d6329b5896e3cdc35c83b79a9ec045c21ba30e58",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      18,
+      101
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703070.pdf",
+    "source_sha256": "0db9acc9fc68ff709e6d3142fa0b4d028800c66ce5f9be43b3735a9d86c3969c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.978,
+    "bag": 0.9376,
+    "kd_coverage": 0.9928,
+    "kd_body_compared": 0.9858,
+    "rg_words": 284,
+    "kd_words": 281,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
