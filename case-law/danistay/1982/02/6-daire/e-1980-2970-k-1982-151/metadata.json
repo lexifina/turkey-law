@@ -1,0 +1,17 @@
+{
+  "court": "Danıştay",
+  "chamber": "6. Daire",
+  "chamber_as_listed": "6. Daire",
+  "esas_no": "1980/2970",
+  "karar_no": "1982/151",
+  "decision_date": "1982-02-18",
+  "source_url": "https://karararama.danistay.gov.tr/getDokuman?id=17643700&arananKelime=",
+  "source_id": "17643700",
+  "listing": "https://karararama.danistay.gov.tr/aramadetaylist",
+  "source_sha256": "5a91677ea51139beabde6eeeaa96121bbf1e86c9066be9d91ca561e5fa3b00c4",
+  "text_status": "as-published",
+  "anonymisation": "as published by the Danıştay (names replaced by \"...\")",
+  "source_images": 0,
+  "images_status": "none-detected",
+  "missing_components": []
+}
