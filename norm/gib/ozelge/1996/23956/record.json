@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5417-1460/61684",
+  "source_id": 23956,
+  "date": "1996-12-24",
+  "title": "Orman Genel Müdürlüğüne ödenen irtifak hakkı bedeli için düzenlenen makbuzda gösterilen KDV'nin şirketçe indirim konusu yapılabilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/23956",
+  "source_sha256": "92cc9f564d3b6f744949c601eab0ba039a10bc229908f26b96749782a907ec4a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
