@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6840",
+  "year": 1956,
+  "title": "Karayolları Umum Müdürlüğü 1956 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-09-10",
+  "gazette_issue": "9403",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9403.pdf",
+  "source_sha256": "b8e0c61de620d266c4170b14c0bf92fa7846ed9645a530b5683ebc46e0f7c8d3",
+  "text_sha256": "14c0a9e11f2ba23b51c89bd2997ae5dc9afc9a6d04d077df2ed0d1ba5f0f617b",
+  "text_status": "ocr",
+  "pages": [
+    7
+  ],
+  "line_span": [
+    [
+      992,
+      1006
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806840.pdf",
+    "source_sha256": "4b470bf056ee5fdccb11bb7513c0f2133cf4395c632b23c8c34292714fb10665",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9779,
+    "bag": 0.9101,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9787,
+    "rg_words": 97,
+    "kd_words": 94,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
