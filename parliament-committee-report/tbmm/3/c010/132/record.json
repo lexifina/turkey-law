@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "132",
+  "label": "TBMM 132 no'lu Komisyon Raporu",
+  "title": "Halil İbrahim ve İbrahim Beylerin istiklâl madalyaları hakkında",
+  "document_date": "1929-04-13",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 10, birleşim 52)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c010/tbmm03010052ss0132.pdf",
+  "pdf_sha256": "aefad4272451c533accbffac10d49e7a2945513f73443768f9314f5e1ba569ca",
+  "pdf_bytes": 106869,
+  "pdf_pages": 2,
+  "index_entries": [
+    120769
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=2&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1929-04-13",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
