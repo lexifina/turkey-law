@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.43/4305-188/14869",
+  "source_id": 24810,
+  "date": "2000-04-04",
+  "title": "Gayrimenkullerin iktisap tarihinden başlayarak dört yıl içinde elden çıkarılmasından doğan kazançlar değer artışı kazancı olarak vergiye tabi tutulacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24810",
+  "source_sha256": "059a5332b78c7cd91b4a2eeadd22a5121db8f6429f03a688abed4268056213ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
