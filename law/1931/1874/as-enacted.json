@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1874",
+  "year": 1931,
+  "title": "Türkiye Cumhuriyeti ile Sovyet Sosyalist Cumhuriyetleri İttihadı Hükümeti arasında münakit ticaret ve seyrisefain muahedenarnesînin tasdikina mütedair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-08-05",
+  "gazette_issue": "1865",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1865.pdf",
+  "source_sha256": "ed6f889c483bf9dbfb7975de1d3eb07028f29927f6019b0afd96e823fba5c73d",
+  "text_sha256": "c792c017022d085e7182fb89b1f6f353c853a4e252a63eb5858eec7397cd81a9",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      4,
+      1053
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001874.pdf",
+    "source_sha256": "648c02d6588e48e615f944fca75bc3399db0951075f52799d987e0d4f5daafd6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9539,
+    "bag": 0.906,
+    "kd_coverage": 0.9991,
+    "kd_body_compared": 0.9991,
+    "rg_words": 3434,
+    "kd_words": 3399,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
