@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 442931,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Milletlerarası Para Fonu ile Milletlerarası fmar ve Kalkınma Bankasına katılmak için Hükümete Yetki Verilmesine dair 5016 sayılı Kanuna ek Milletlerarası Para Fonu Ana'sözleşmesinde Değişiklik Yapılmasına dair Anlaşmanın uygun görülmesi ve Milletlerarası Para Fonu ile Milletlerarası lmar ve Kalkınma Bankasına katılmak için Hükümete Ye;ki Verilmesine dair Kanunun 798 sayılı Kanunla değişik 2. maddesini değiştiren 2R.5.I970 tarih ve 1265 sayılı Kanunun 1. ve 2. maddeleri ile Milletlerarası Finansman Kurumuna katılmak için yetki verilmesine dair 6850 sayılı Kanunun 2. maddesinin değiştirilmesi hakkında kanun tasarısı. (1/50)",
+  "title": "Milletlerarası Para Fonu ile Milletlerarası fmar ve Kalkınma Bankasına katılmak için Hükümete Yetki Verilmesine dair 5016 sayılı Kanuna ek Milletlerarası Para Fonu Ana'sözleşmesinde Değişiklik Yapılmasına dair Anlaşmanın uygun görülmesi ve Milletlerarası Para Fonu ile Milletlerarası lmar ve Kalkınma Bankasına katılmak için Hükümete Ye;ki Verilmesine dair Kanunun 798 sayılı Kanunla değişik 2. maddesini değiştiren 2R.5.I970 tarih ve 1265 sayılı Kanunun 1. ve 2. maddeleri ile Milletlerarası Finansman Kurumuna katılmak için yetki verilmesine dair 6850 sayılı Kanunun 2. maddesinin değiştirilmesi hakkında kanun tasarısı. (1/50)",
+  "first_sitting_date": "1978-03-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 35,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c002/mm__05002035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c002/mm__05002fih.pdf",
+      "pages": [
+        "379"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 122,
+      "sitting_date": "1978-03-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c005/mm__05005122.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c005/mm__05005fih.pdf",
+      "pages": [
+        "30",
+        "241:255",
+        "267",
+        "277:280"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=101&v_kullanici_id=27484850",
+  "source_sha256": "700dd4e98b4ac19ed7829b4f869f54738cd98dd9a4b6c19f51d757f14a7ff708",
+  "in_force": "1978-03-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
