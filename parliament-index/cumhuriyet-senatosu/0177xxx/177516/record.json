@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 177516,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Dışişleri Bakanlığının yabancı memleketlerde görevli telsizcilerin ücretleri hakkındaki kanun tasarısına dair-(Millet Meclisi 3/763, Cumhuriyet Senatosu 1/545) (S. Sayısı:630)",
+  "title": "Dışişleri Bakanlığının yabancı memleketlerde görevli telsizcilerin ücretleri hakkındaki kanun tasarısına dair-(Millet Meclisi 3/763, Cumhuriyet Senatosu 1/545) (S. Sayısı:630)",
+  "first_sitting_date": "1965-06-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 28,
+      "sitting": 88,
+      "sitting_date": "1965-06-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028088.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028fih.pdf",
+      "pages": [
+        "95"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 89,
+      "sitting_date": "1965-06-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028fih.pdf",
+      "pages": [
+        "152"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 90,
+      "sitting_date": "1965-06-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028090.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028fih.pdf",
+      "pages": [
+        "223",
+        "276:279"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=1301&v_kullanici_id=27484903",
+  "source_sha256": "7239824c282a1332d1cd156f8416475ffe6b5da5a813b5858bd3119fe353b56e",
+  "in_force": "1965-06-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
