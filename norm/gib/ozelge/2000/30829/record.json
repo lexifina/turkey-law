@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52-5201-64/26122",
+  "source_id": 30829,
+  "date": "2000-05-31",
+  "title": "Taşımacılık hizmetinin başlaması ile hizmet verilmeye başlanacağından, her bir vergilendirme döneminde yapılan hizmetler için hesaplanan bedellerin tahsil edilip edilmemesinin, katma değer vergisi beyanını engellemeyeceği açıktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30829",
+  "source_sha256": "88e29def35ef915d7cd3f0c25e22fc7130d2849258fb719787eaac250c57f624",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
