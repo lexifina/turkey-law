@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7125",
+  "year": 1958,
+  "title": "6309 sayılı Maden Kanununun 6688 sayılı Kanunla muaddel 156. maddesinin (a) bendinde yazılı iki yıllık müddetin dört yıl daha uzatılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-06-11",
+  "gazette_issue": "9929",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9929.pdf",
+  "source_sha256": "9aea4f042b3229d077e8132834edff715d232d210b81d7ebda555fb5514a66e5",
+  "text_sha256": "3de1389e3d9d8f3b7f73ce3aa78c72c1427f9ef231e30e19b8cb35489628abfd",
+  "text_status": "ocr",
+  "pages": [
+    36
+  ],
+  "line_span": [
+    [
+      12370,
+      12396
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007125.pdf",
+    "source_sha256": "b58e62a94e0512cf6f9e2d8a9e70614538c1d09a09350e7062460c4b8078b763",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9281,
+    "bag": 0.7515,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9775,
+    "rg_words": 78,
+    "kd_words": 89,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
