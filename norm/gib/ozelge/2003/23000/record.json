@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1289/28430",
+  "source_id": 23000,
+  "date": "2003-07-02",
+  "title": "Otobüs işletmeciliği faaliyetinizden dolayı daha önce gerçek usulde vergilendirildiğinizden basit usule dönmeniz mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23000",
+  "source_sha256": "f714c86f01303d7599b23bc8824d47e25a259ac7cfd8a672a2c1fb7891410d68",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
