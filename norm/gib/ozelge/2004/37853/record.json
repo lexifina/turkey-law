@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4236-1/45743",
+  "source_id": 37853,
+  "date": "2004-09-27",
+  "title": "Şirketinizde kampanya dönemlerinde çalışan mevsimlik işçilerin yeni kampanya dönemine kadar iş...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37853",
+  "source_sha256": "284efefbde3a6311fd6a0bdc0cbf5d2a002b13316936560264fa83f24694859d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
