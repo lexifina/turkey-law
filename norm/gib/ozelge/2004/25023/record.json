@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2810-13-949/30311",
+  "source_id": 25023,
+  "date": "2004-06-28",
+  "title": "Mücbir sebeplerin varlığını ibraz için alınan raporların, hangi kuruluşlardan alınması halinde geçerli olacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25023",
+  "source_sha256": "47c92bd6c0b72286b7c4b7f7137eb6faabd98d39e42bdbe86af894a5a6d92815",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
