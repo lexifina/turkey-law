@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-864/9784",
+  "source_id": 38302,
+  "date": "2002-03-06",
+  "title": "YMM'ler tarafından cari yılda düzenlenen katma değer vergisi iadesi tasdik raporları ekinde; gelir vergisi mükelleflerinde mart ayının sonuna kadar, kendilerine özel hesap dönemi tayin edilmemiş kurumlar vergisi mükelleflerinde ise nisan ayı sonuna kadar ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38302",
+  "source_sha256": "7e9a3802b7778e0cf249b5d5ec003c327bcce35b8eafd2c06b1f1a3ab3f1f44f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
