@@ -1,0 +1,6 @@
+Yapıyla ilgili değerlendirme sonuçları:
+Madde 14 - (Değişik fıkra - R.G.: 18.8.1987 - 19548) 13 üncü maddedeki tesbit ve değerlendirme çalışmaları sonucu, yapının, Kanunun 4 üncü maddesine göre hangi gruba girdiği, tehlike durumu da belirtilmek suretiyle değerlendirme formuna işlenir. Ayrıca, bu formda otopark bedeli, Fon Yönetmeliği hükümlerine göre hesaplanan harçlar ve arsa bedelleri gösterilir.
+Y.Ö.T.B. yaptığı tesbit ve değerlendirme çalışmalarına ve buna ilişkin bilgi ve belgeleri, yapı, imar mevzuatına aykırı ise, üç nüsha, gecekondu ise, dört nüsha olmak üzere tanzim ederek imzalar.
+Yeminli Özel Teknik Büro;
+(Değişik fıkra - R.G.: 13.8.1986 - 19194) Yapı, imar mevzuatına aykırı ise, 3 adet düzenlenen dosyanın 1 nüshasını gerektiğinde ilgili idarelere ve Bakanlığa ibraz etmek üzere muhafaza eder, bir nüshasını yapı sahibine imza karşılığı, diğer nüshasını belediye veya valiliğe zimmet karşılığı teslim eder. Yapı gecekondu ise, 4 adet düzenlenen dosyanın 1 nüshasını gerektiğinde ilgili idarelere veya Bakanlığa ibraz etmek üzere muhafaza eder, 1 nüshasını yapı sahibine imza karşılığı, 1 nüshasını arsa tahsisini yapacak kuruluşa, 1 nüshasını belediye veya valiliğe teslim eder.
+Tesbit ve değerlendirme formlarının düzenlenmesinde dikkat edilecek hususlar :

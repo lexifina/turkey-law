@@ -1,0 +1,6 @@
+Kapsam:
+Madde 3 - Bu yönetmelik, Kanunda belirtilen ve aşağıda a, b ve c bendlerinde sayılan alanlardaki 10.11.1985 tarihinden önce inşa edilmiş ya da inşa halindeki gecekondular ve imar mevzuatına aykırı yapılara ve ayrıca (d) bendi kapsamındaki gecekondu ve imar mezuatına, ruhsat ve eklerine aykırı yapılara uygulanır. Kanunun uygulanması bakımından, gecekonduların, iktisap veya eldeğiştirme tarihine bakılmaksızın inşa edildiği tarih esastır.
+a) Belediye ve mücavir alan sınırları içinde 17 Ocak 1957 tarihinden sonra yapılan gecekondu ve imar mevzuatına, ruhsat ve eklerine aykırı yapılar ile bu tarihten sonra kurulmuş belediyeler ve yine bu tarihten sonra onaylanmış mücavir alan sınırları içinde yapılmış olan gecekondu ve imar mevzuatına, ruhsat ve eklerine aykırı yapılar.
+b) 6785 Sayılı Kanuna 1605 Sayılı Kanun ile eklenen ek 7. ve 8. maddeler gereğince çıkartılan yönetmeliğin 1.03. maddesi kapsamına giren alanlardaki gecekondu, imar mevzuatına, ruhsat ve eklerine aykırı yapılar.
+c) (b) bendi dışında kalan sanayi yapıları, depo tesisleri, turistik ve tarımsal yapılar.
+d) İstanbul Boğazı, Sahil şeridi ve öngörünüm bölgeleri ile Çanakkale Boğazı'nda 2 Haziran 1981 tarihinden önce yapılan gecekondular ile 1 Ekim 1983 tarihinden önce yapılan veya inşaasına başlanan imar mevzuatına, ruhsat ve eklerine aykırı yapılır.

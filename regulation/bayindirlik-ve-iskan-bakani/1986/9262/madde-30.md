@@ -1,0 +1,10 @@
+Özel Hükümler:
+Madde 30 - a) Kanun ve bu Yönetmelik hükümlerinin uygulanacağı yapılarda, su ve elektrik bağlantı ve hizmetleri, hiç bir belge aranmadan yapılır ve normal tarife uygulanır.
+b) Kamu kurum ve kuruluşlarına ait yapılarla ilgili tesbit ve değerlendirme işlemleri, ilgili valilik veya belediyelerce sonuçlandırılır.
+c) Y.Ö.T.B. bulunmayan veya belediye veya valiliklerce lüzum görülen yerlerde, müracaatcının isteği üzerine, yapının tesbit ve değerlendirilmesi ile ilgili işlemler, belediye veya valilikçe yürütülür.
+d) (Değişik - R.G.: 18.8.1987 - 19548) Kanun uyarınca ruhsat ve yapı kullanma iznine bağlanacak yapıların otopark Yönetmeliğine göre belirlenecek otopark ihtiyacının, parselinde karşılanamaması halinde, bölgeleme esasına göre belirlenecek otopark bedelinin 1/4'i tahsil edilir.
+e) İstanbul Adalar İlçesinde, 2981 Sayılı Kanunun 3290 sayılı Kanun ile değişik geçici 2 nci madde (d) bendi uyarınca, orman sınırı dışına çıkarılmış alanlardaki, tarihi eser olarak tescilli yapılar dışında kalan, gecekondular ve imar mevzuatına, ruhsat ve eklerine aykırı yapılarla ilgili tesbit ve değerlendirme işlemleri, Yönetmeliğin 13 üncü ve 14 üncü maddelerine göre yürütülür.
+Bu alanlarda, öncelikle ıslah imar planları yapılır. Kanunun 13. madde (a) bendi uyarınca belirlenen gecekondu hak sahiplerine, gecekondularını belediyesince hazırlanan tip projelere uygun hale getirmesi koşulu ile tapu verilir.
+f) (Ek - R.G.: 18.8.1987 - 19548) Islah imar planları sonucu bu Kanun kapsamında kalan gecekondu hak sahiplerine yapılan tahsis işlemlerinden sonra, arta kalan belediye veya valiliğe ait boş imar parselleri, arsa bedeli 2942 Sayılı Kamulaştırma Kanununa göre tesbit edilerek, 775 Sayılı Gecekondu Kanunu uyarınca belirlenecek hak sahiplerine valilik veya belediyelerce tahsis edilir.
+g) (Ek - R.G.: 18.8.1987 - 19548) Kanun ve Yönetmelik uyarınca ruhsat ve kullanma iznine bağlanacak yapılardan, ruhsat aşamasında, Kanunun öngördüğü bina inşaat harcı, iskan harcı, ilave harç ve otopark bedeli tahsil edilir.
+Diğer Kanunlar uyarınca ödenmesi gereken vergi, resim, harç v.b. ödemeler için ruhsat verildikten sonra ilgili kuruluşlara bilgi verilir.

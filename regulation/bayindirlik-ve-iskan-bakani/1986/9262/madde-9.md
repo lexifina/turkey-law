@@ -1,0 +1,3 @@
+Müracaatçı - Y.Ö.T.B. ilişkileri:
+Madde 9 - a) 2805 Sayılı kanuna göre müracaat edildiği halde, belediye veya valiliklerce tesbit ve değerlendirme işlemleri tamamlanmamış yapı sahipleri ile, 2981 Sayılı Kanun uyarınca müracaat edildiği halde tesbit ve değerlendirme işlemleri yaptırılmak üzere Y.Ö.T.B. lara başvurmayan yapı sahipleri, ellerindeki eski müracaat formları ile birlikte tesbit ve değerlendirme işlemlerini tamamlatmak üzere herhangi bir Y.Ö.T.B.ya başvuruda bulunurlar.
+b) 3290 Sayılı Kanuna göre belediyeler veya Valiliklere Kanun uyarınca müraacatta bulunanlar ellerinde bulunan müracaat formunun 2 nci nüshaları ile, tesbit ve değerlendirme işlemlerini yaptırmak üzere süresi içerisinde herhangi bir Y.Ö.T.B. ya buşvuruda bulunurlar.
