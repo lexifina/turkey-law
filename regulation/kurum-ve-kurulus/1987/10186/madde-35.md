@@ -1,0 +1,2 @@
+Uzman ve Yetkililerin Dinlenmesi
+MADDE 35. Kurullar lüzum gördüğü hallerde bağlı bulundukları makam ve kurumların muvafakatını alarak ilgili görevlileri veya yetkili uzmanları açıklamalarda bulunmak için toplantılara davet edebilirler. Bu suretle davet edilenler, bu görev dolayısı ile öğrendikleri hususların gizliliğine uymakla yükümlüdür. Görevlendirilenlerin yolluk ve zaruri masrafları Yükseköğretim Kurulu bütçesinden karşılanır.

@@ -1,0 +1,2 @@
+Yürütme Kurulu
+MADDE 7. Yürütme Kurulu, Başkan, Başkanvekilleri ve Genel Kurulca seçilecek altı üye olmak üzere dokuz kişiden oluşur. Yürütme Kuruluna katılacak üyelerden ikisi Cumhurbaşkanı tarafından seçilmiş olan üyeler arasından; ikisi Bakanlar Kurulu ve Genelkurmay Başkanlığınca seçilmiş olan üyeler arasından; ikisi de Üniversitelerarası Kurulca seçilmiş olan üyeler arasından Genel Kurul tarafından seçilir.

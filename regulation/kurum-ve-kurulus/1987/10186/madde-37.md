@@ -1,0 +1,2 @@
+Üyeliğin Boşalması
+MADDE 37. Yükseköğretim Kurulu üyeliklerinden birisinin herhangi bir nedenle boşalması halinde gecikilmeden; süresinin sona ermesi halinde bir ay önceden keyfiyet Başkan tarafından Cumhurbaşkanlığı Genel Sekreterliğine ve ayrıca üyenin seçildiği gruba göre; Başbakanlığa, Genelkurmay Başkanlığına, Milli Eğitim Bakanlığına veya Üniversitelerarası Kurul Başkanlığına gerekli işlem yapılmak üzere bildirilir.

@@ -1,0 +1,2 @@
+Gizli Tezkiye ile İlgili Düzenleme
+MADDE 49. Bağlı birimlerde çalışan memurların tezkiye amirleri ile tâbi tutulacakları gizli tezkiye varakası, Bakanlar Kurulunun 27/7/1951 gün ve 3/13417 sayılı kararı ile onanan Türkiye Cumhuriyeti Emekli Sandığı ile İlgili Memur ve Hizmetlilerin Sicilleri Üzerine Emekliye Sevkleri Hakkındaki Tüzük’ün 3. ve 5. maddeleri gözönünde tutularak ayrı bir yönetmelikle düzenlenir.
