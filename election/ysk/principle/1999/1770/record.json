@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/1770",
+  "list_number": "1770",
+  "decision_date": "1999-06-05",
+  "title": "YSK ilke kararı 1999/1770",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4588/1999-1770-karar.htm",
+  "source_sha256": "65c91ae522ead9e9604b5fd8d4d2e6543d7d02be0cc9ae76bcde4b2f743d1c12",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-06-05",
+  "law_text_complete": false
+}
