@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3757",
+  "year": 1939,
+  "title": "Cezaevleri ile mahkeme binaları inşası karşılığı olarak alınacak harçlar ve mahkûmlara ödettirilecek yiyecek bedelleri hakkındaki kanunun bazı hükümlerini değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-01-06",
+  "gazette_issue": "4403",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4403.pdf",
+  "source_sha256": "e23115c54dc1e9daf101e773337a411fcae542e7cd2bba6cb25344c04e78dd72",
+  "text_sha256": "154152581475bfb6204bd615ee10171d463fca92cc3d649b45ea52b90a0992ac",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      10,
+      52
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103757.pdf",
+    "source_sha256": "1a7dbc79821a1df71bfe0d6bdc776526ec9bf4ff13a4551e65dc9c09fb43ffc2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9682,
+    "bag": 0.9141,
+    "kd_coverage": 0.9664,
+    "kd_body_compared": 0.9664,
+    "rg_words": 253,
+    "kd_words": 268,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
