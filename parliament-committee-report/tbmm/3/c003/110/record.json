@@ -1,0 +1,25 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "110",
+  "label": "TBMM 110 no'lu Komisyon Raporu",
+  "title": "Bazı devairin 1927 senei maliyesi bütçelerine tahsisatı fevkalade ve munzamma itasına ve bazı devair bütçelerinde münakale icrasına ve saireye dair Kanun",
+  "document_date": "1928-04-19",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 3, birleşim 62)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003062ss0110.pdf",
+  "pdf_sha256": "c240b96329822312a53c811b93c341cf8589510f30443e9dbd65e1cff4c6703b",
+  "pdf_bytes": 16673101,
+  "pdf_pages": 239,
+  "index_entries": [
+    120029,
+    120035
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=1&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1928-04-19",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
