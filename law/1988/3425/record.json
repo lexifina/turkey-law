@@ -1,0 +1,236 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3425",
+  "year": 1988,
+  "title": "1988 Malî Yılı Bütçe Kanunu",
+  "adopted": "1988-04-20",
+  "adopted_as_published": "20/04/1988",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.04.1988 No: 19798 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc071/kanuntbmmc071/kanuntbmmc07103425.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 71",
+  "committee_reports": [
+    {
+      "label": "TBMM 22 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c006/tbmm18006045ss0022.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 225361,
+      "title": "1988 Malî Yılı Bütçe Kanunu",
+      "adopted_as_published": "20/04/1988",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc071/kanuntbmmc071/kanuntbmmc07103425.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 22 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c006/tbmm18006045ss0022.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 22,
+          "sitting_date": "1988-02-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c002/tbmm18002022.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c002/tbmm18002fih.pdf",
+          "pages": [
+            "383"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 45,
+          "sitting_date": "1988-04-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c006/tbmm18006045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c006/tbmm18006fih.pdf",
+          "pages": [
+            "3:152"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 46,
+          "sitting_date": "1988-04-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007fih.pdf",
+          "pages": [
+            "6:116"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 47,
+          "sitting_date": "1988-04-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007fih.pdf",
+          "pages": [
+            "218:234"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 48,
+          "sitting_date": "1988-04-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007fih.pdf",
+          "pages": [
+            "240:352"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 49,
+          "sitting_date": "1988-04-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007fih.pdf",
+          "pages": [
+            "357:479"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 50,
+          "sitting_date": "1988-04-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007fih.pdf",
+          "pages": [
+            "488:665"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 51,
+          "sitting_date": "1988-04-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c008/tbmm18008051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c008/tbmm18008fih.pdf",
+          "pages": [
+            "5:132"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 52,
+          "sitting_date": "1988-04-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c008/tbmm18008052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c008/tbmm18008fih.pdf",
+          "pages": [
+            "137:353"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 53,
+          "sitting_date": "1988-04-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c008/tbmm18008053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c008/tbmm18008fih.pdf",
+          "pages": [
+            "361:502"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 54,
+          "sitting_date": "1988-04-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c008/tbmm18008054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c008/tbmm18008fih.pdf",
+          "pages": [
+            "505:681"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 55,
+          "sitting_date": "1988-04-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c009/tbmm18009055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c009/tbmm18009fih.pdf",
+          "pages": [
+            "8:127"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 56,
+          "sitting_date": "1988-04-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c009/tbmm18009056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c009/tbmm18009fih.pdf",
+          "pages": [
+            "134:278"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 57,
+          "sitting_date": "1988-04-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c009/tbmm18009057.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c009/tbmm18009fih.pdf",
+          "pages": [
+            "291:445"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 58,
+          "sitting_date": "1988-04-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c009/tbmm18009058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c009/tbmm18009fih.pdf",
+          "pages": [
+            "452:594"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 59,
+          "sitting_date": "1988-04-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c009/tbmm18009059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c009/tbmm18009fih.pdf",
+          "pages": [
+            "601:693"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 60,
+          "sitting_date": "1988-04-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c010/tbmm18010060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c010/tbmm18010fih.pdf",
+          "pages": [
+            "4:140"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "a4afc1ea96cb3fdb44158af5480d817298e90d8f87ef55ba3064444103967b6f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a4afc1ea96cb3fdb44158af5480d817298e90d8f87ef55ba3064444103967b6f",
+  "issuer": "TBMM",
+  "in_force": "1988-04-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 20/04/1988; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
