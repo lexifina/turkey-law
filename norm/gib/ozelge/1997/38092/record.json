@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5400-2976/20840",
+  "source_id": 38092,
+  "date": "1997-05-21",
+  "title": "Yapılan mal ihracına ilişkin olarak ödenen genel yönetim giderlerinden mamüle pay verilmesi halinde, indirilebilir vergi olarak dikkate alınan K.D.V.den indirilemeyen kısmın iade edilebilmesi mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38092",
+  "source_sha256": "1eaaeaf5959b329d52cb5f446d6304007227ba49d07ee544675ded4db99f1119",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
