@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "40",
+  "year": 1962,
+  "title": "6183 Sayılı Amme Alacaklarının Tahsili ve Usulü Hakkında Kanuna Geçici Bir Madde Eklenmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-03-12",
+  "gazette_issue": "11054",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11054.pdf",
+  "source_sha256": "cfac819d5fb2d58ca5645795b7876fb84047dadacc18020b41eafb106ba1519b",
+  "text_sha256": "87cd4998ca95b6e70a7c4f4377de9663fcd36fb7073b07dd8413577fc7117fa2",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      78,
+      115
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500040.pdf",
+    "source_sha256": "4a51ce69fd326564fc663502b43aa3f333fe2b3c8ee78e5166068ce0b0270d87",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9809,
+    "bag": 0.9474,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9833,
+    "rg_words": 239,
+    "kd_words": 240,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
