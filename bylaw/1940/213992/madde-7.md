@@ -1,0 +1,1 @@
+Madde 7 – Müessese sahipleri, imal ettikleri her türlü harb silah ve mühimmatı ile her nevi bomba ve tahrip malzemesinin cins, nevi ve miktarlarını ve yevmiye ile çalışan işçi mevcudu ile bunlara verilen vasati yevmiye miktarını, her mali yıl sonunda, resmi bir beyanname ile Milli Müdafaa, Dahiliye ve İktisat Vekaletlerine bildireceklerdir.

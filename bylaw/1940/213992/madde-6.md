@@ -1,0 +1,1 @@
+Madde 6 – Gerek faaliyette bulunan ve gerek yeniden kurulacak ve işletilecek olan Fabrikaların tesisatında yapılacak değişikliğin bu değişikliğe başlamadan evvel ve faaliyetlerinin tatilinin, kapanmaları tarihinden itibaren bir ay içinde mucip sebepleri ile birlikte Milli Müdafaa, Dahiliye ve İktisat Vekaletlerine bildirilmesi mecburidir.

@@ -1,0 +1,1 @@
+Madde 1 – Kısmen veya tamamen her türlü harb silah ve mühimmatı ile her nevi bomba ve tahrip malzemesi yapmak üzere tesis edilen, işletilen ve yeniden kurulacak olan hususi sanayi müesseseleri bu nizamname hükümleri dahilinde kontrola tabidir.

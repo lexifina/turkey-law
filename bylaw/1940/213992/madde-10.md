@@ -1,0 +1,1 @@
+Madde 10 – 1055 sayılı Teşviki Sanayi Kanununun muaddel 30 uncu maddesi mucibince her sene için hazırlamak ile mükellef bulundukları iş cetvellerinin bir sureti, bu müesseselerce Milli Müdafaa Vekaletine gönderilir.
