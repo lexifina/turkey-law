@@ -1,0 +1,1 @@
+Madde 27 – Tetkik merciinde her iş için bir dosya ve duruşmalar için ayrıca Hukuk Usulü Muhakemeleri Kanununa göre zabıtname tutulması ve gerek şikayet gerek itiraz üzerine verilecek kararların mezkür Usul Kanununun 388 inci maddesinde yazılı hususları ihtiva etmesi lazımdır. Mezkür Usulü Muhakeme Kanununun 389, 390, 391 ve 392 nci maddeleri hükümleri burada da tatbik olunur.

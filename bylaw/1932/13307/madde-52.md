@@ -1,0 +1,1 @@
+Madde 52 – Müflisin defter ve vesikaları, iflas konkordato aktile veya basit yahut adi tasfiye suretiyle neticelendikten sonra kendisine ve müflis bir şirket ise şeriklerin muvafakatlariyle içlerinden birisine teslim olunur. Evrak ve defterler on sene içinde daireden alınmazsa on sene hitamında imha olunabilir.

@@ -1,0 +1,1 @@
+Madde 42 – Müflis kollektif veya komondit bir şirket ise mevcudu hakkındaki beyan gayri mahdut mesuliyetli şeriklerden idareye memur olanlar tarafından ve sermayesi eshama münkasim veya limited veya kooperatif bir şirket ise mümessilleri tarafından yapılmak ve beyan yaptırılmamış ise sebebi tasrih edilmek lazımdır.

@@ -1,0 +1,2 @@
+Madde 43 – Müflise terki tensip edilen lüzumlu eşya ve mesken olarak bırakılan gayrimenkul ile varsa aile yurdu mevcudat defterinin sonunda şerh suretinde gösterilir ve şerhte bu malların mevcudat defterinde hangi numaralarda mukayyet bulundukları gösterilir. Eşya terkine mütaallik olan karar müflise beyan sırasında tefhim yahut yazı ile tebliğ olunur.
+Müflis bu husustaki haklarının tamamından yahut bir kısmından feragat ettiği takdirde bu feragati zaptolunur ve kendisine imza ettirilir.

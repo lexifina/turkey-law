@@ -1,0 +1,2 @@
+Madde 8 – İcra ve iflas dairelerinde tutulacak defterler kullanılmadan evvel her sahifesine sıra ile numara ve her sahifenin faslı müşterekine daireye mahsus mühür vazı ile birinci ve son sahifelerinde defterin kaç sahifeden ibaret olduğu memur tarafından şerh ve imza ile tasdik edilir.
+Tetkik mercilerinde tutulan defterler dahi bu suretle her sahifesi mercie mahsus mühür ve sahife numarası yazı ile başladığı ve bittiği yerlerde merci vazifesini ifa eden hakim tarafından defterin kaç sahifeden ibaret olduğu şerh ve imza ile tasdik olunur.

@@ -1,0 +1,2 @@
+Madde 28 – Haciz muamelesine dair olan zabıt varakaları İcra ve İflas Kanununun 102 nci maddesindeki tarifata muvafık olarak mahallinde tutulur. Bu zabıt varakalarının işin ait olduğu dosyaya konulması ve muamelenin ifasını mütaakıp keyfiyetin takip defterine kaydı lazımdır.
+Yeni alacaklıların hacze iştiraki ve bu yüzden ilave suretiyle yapılan yeni hacizler bu zabıt varakasının altına işaret olunur.

@@ -1,0 +1,2 @@
+Madde 41 – Mevcut defterinin nihayetine kayıt muamelesinin ne kadar devam ettiği ve tanzimine iştirak eden bütün şahısların isimleri yazılıp altı memur ve davet edilmiş ehlivukuf varsa bunlar tarafından imza edilir. Bundan sonra memur hakikata muhalif beyanın kanuni hükümlerini müflise ihtar ile defterin tam ve doğru olup olmadığını beyana davet eder. Müflisin beyanları defterin altına şerhedilir ve kendisine aynen okunup imza ettirilir.
+Bu beyan müflis vefat etmiş ise mirasçılarına ve firarda ise hanesi halkından reşit olanlara yaptırılır.
