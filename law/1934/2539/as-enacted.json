@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2539",
+  "year": 1934,
+  "title": "Ankara'da Hâkimiyeti Milliye meydanında rekzedilmiş olan zafer âbidesinin ecnebi memleketlerden getirilmiş kısımlarının gümrük resminden muafiyetine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-07-03",
+  "gazette_issue": "2742",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2742.pdf",
+  "source_sha256": "acaea81f1276fc29ce6b1153d9645271bba4f844ec30500c93f457aed601426f",
+  "text_sha256": "362fc47f28cf564e5fe8d3dc4d22fa71f22da05a2e845026616057f5e3354bee",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      1337,
+      1382
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302539.pdf",
+    "source_sha256": "86fc86db999dbf548bade83ceb041f54bc5d8e13ec27fa394477d6918515dae4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9462,
+    "bag": 0.8066,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9765,
+    "rg_words": 98,
+    "kd_words": 85,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
