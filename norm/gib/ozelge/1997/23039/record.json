@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.49/4929-118/35480",
+  "source_id": 23039,
+  "date": "1997-08-21",
+  "title": "Senelere sari inşaat işlerinde hakedişlerden yapılan tevkifatların iadesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/23039",
+  "source_sha256": "763b5cc9ea24109f69e2551b0bd68d49383f261d377b0b6b9503f2e8ee695e02",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
