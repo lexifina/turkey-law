@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4791",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÖÇMEN İŞÇİ ÇOCUKLARININ EĞİTİMİNE İLİŞKİN YÖNETMELİK",
+  "number": "4791",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2002/4791",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4791&MevzuatTertip=5",
+  "source_sha256": "44ca0a7b57fee17ca54485ee3d2c3e3ae8f733ba80b7c75f5f7a0237f7f3f97e",
+  "source_bytes": 22464,
+  "published": "2002-11-14",
+  "gazette": "24936",
+  "in_force": "2002-11-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.11.2002); own commencement article: \"Bu Yönetmelik, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 599,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
