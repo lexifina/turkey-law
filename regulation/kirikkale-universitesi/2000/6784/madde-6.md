@@ -1,0 +1,2 @@
+Yürürlükten Kaldırılan Yönetmelikler
+Madde 6- 4 Kasım 1994 tarih ve 22101 sayılı Resmi gazetede yayınlanan Kırıkkale Üniversitesi Döner Sermaye İşletmesi yönetmeliği, 16 Aralık 1997 tarih ve 23202 sayılı Resmi gazetede yayınlanan Kırıkkale Üniversitesi Tıp Fakültesi Döner Sermaye İşletmesi yönetmeliği ve 26 Mart 1998 tarih ve 23298 sayılı Resmi Gazetede yayınlanan Kırıkkale Üniversitesi Tıp Fakültesi Hariç Diğer Birimlerine İlişkin Döner Sermaye İşletmesi yönetmelik ve yönetmelik değişiklikleri yürürlükten kaldırılmıştır.

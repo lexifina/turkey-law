@@ -1,0 +1,2 @@
+Geçici Madde 1- Bu yönetmelik yayımı tarihinden önce mevcut Döner Sermaye İşletmesi yönetmeliklerine göre başlanmış bulunan sözleşmeler ve diğer işler sonuçlanıncaya kadar eski mevzuatın uygulanmasına devam olunur.
+Geçiçi Madde 2- Kırıkkale Üniversitesi bünyesinde mevcut Döner Sermaye İşletmelerinin bütün mal varlığı, personeli başka bir işleme gerek kalmaksızın bu yönetmelikle kurulan Döner Sermaye İşletmesine devredilir.
