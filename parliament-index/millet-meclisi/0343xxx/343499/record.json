@@ -1,0 +1,61 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 343499,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Maden Kanununun bazı maddelerinin değiştirilmesi, bazı maddelerinin kaldırılması ve bu kanuna bazı maddeler eklenmesi hakkında (1/285)",
+  "title": "Maden Kanununun bazı maddelerinin değiştirilmesi, bazı maddelerinin kaldırılması ve bu kanuna bazı maddeler eklenmesi hakkında (1/285)",
+  "first_sitting_date": "1962-11-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 4,
+      "sitting_date": "1962-11-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c009/mm__01009004.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c009/mm__01009fih.pdf",
+      "pages": [
+        "83"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 69,
+      "sitting_date": "1963-04-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016fih.pdf",
+      "pages": [
+        "179",
+        "594"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 89,
+      "sitting_date": "1963-06-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017fih.pdf",
+      "pages": [
+        "442",
+        "477",
+        "514",
+        "526",
+        "629"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=4401&v_kullanici_id=27484850",
+  "source_sha256": "13821255be207bac870dd5029ff97a22a242c0bb25673aa0123adaf0a651f383",
+  "in_force": "1962-11-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
