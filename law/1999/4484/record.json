@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4484",
+  "year": 1999,
+  "title": "Doğal Afetlere Karşı Alınacak Önlemler ve Doğal Afetler Nedeniyle Doğan Zararların Giderilmesi İçin Yapılacak Düzenlemeler Hakkında Yetki Kanununun 1 ve 2 nci Maddelerinde Değişiklik Yapılmasına ve Süresinin Uzatılmasına İlişkin Kanun",
+  "adopted": "1999-12-02",
+  "adopted_as_published": "02/12/1999",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "04.12.1999 No: 23896",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc084/kanuntbmmc084/kanuntbmmc08404484.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 84",
+  "committee_reports": [
+    {
+      "label": "TBMM 215 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c018/tbmm21018028ss0215.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 419497,
+      "title": "Doğal Afetlere Karşı Alınacak Önlemler ve Doğal Afetler Nedeniyle Doğan Zararların Giderilmesi İçin Yapılacak Düzenlemeler Hakkında Yetki Kanununun 1 ve 2 nci Maddelerinde Değişiklik Yapılmasına ve Süresinin Uzatılmasına İlişkin Kanun",
+      "adopted_as_published": "02/12/1999",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc084/kanuntbmmc084/kanuntbmmc08404484.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 215 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c018/tbmm21018028ss0215.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 17,
+          "sitting": 22,
+          "sitting_date": "1999-11-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c017/tbmm21017022.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c017/tbmm21017fih.pdf",
+          "pages": [
+            "96"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 25,
+          "sitting_date": "1999-11-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c017/tbmm21017025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c017/tbmm21017fih.pdf",
+          "pages": [
+            "547"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 28,
+          "sitting_date": "1999-12-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c018/tbmm21018028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c018/tbmm21018fih.pdf",
+          "pages": [
+            "308:333",
+            "350:373"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "54720ffdd2ec500138bad83b0778f9de490b7a834e1c043027979aa301267ba5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "54720ffdd2ec500138bad83b0778f9de490b7a834e1c043027979aa301267ba5",
+  "issuer": "TBMM",
+  "in_force": "1999-12-02",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 02/12/1999; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
