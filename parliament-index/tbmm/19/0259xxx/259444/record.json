@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 259444,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "CUMHURBAŞKANINCA GERİ GÖNDERİLEN KANUNLAR",
+  "heading_as_published": "Cumhurbaşkanınca Geri Gönderilen Kanunlar",
+  "name": "KANUN NO:3801",
+  "summary": "Ceza Muhakemeleri Usulü Kanunu ile Devlet Güvenlik Mahkemelerinin Kuruluş ve Yargılama Usulleri Hakkında Kanunun Bazı Maddelerinde Değişiklik Yapılmasına, Polis Vazife ve Salahiyet Kanununun ve Terörle Mücadele Kanununun Bazı Hükümlerinin Yürürlükten Kaldırılmasına Dair Kanun",
+  "title": "Ceza Muhakemeleri Usulü Kanunu ile Devlet Güvenlik Mahkemelerinin Kuruluş ve Yargılama Usulleri Hakkında Kanunun Bazı Maddelerinde Değişiklik Yapılmasına, Polis Vazife ve Salahiyet Kanununun ve Terörle Mücadele Kanununun Bazı Hükümlerinin Yürürlükten Kaldırılmasına Dair Kanun",
+  "first_sitting_date": "1992-11-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 28,
+      "sitting_date": "1992-11-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c021/tbmm19021028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c021/tbmm19021fih.pdf",
+      "pages": [
+        "53:70",
+        "73:101"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "51fe61902166d00f6e5135be1406d16664dfbcc732bf834a1ebac19f27f67c19",
+  "in_force": "1992-11-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
