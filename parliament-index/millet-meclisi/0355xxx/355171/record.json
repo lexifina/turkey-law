@@ -1,0 +1,103 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 355171,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "AHMET NUSRET TUNA (KASTAMONU)",
+  "summary": "Anayasayı ihlâl suçundan Yüksek Adalet Divanınca mahkûm edilenlerin cezalarının kısmen affı hakkındaki 78 Sayılı Kanunun 2. maddesine bir fıkra eklenmesi hakkında (2/771)",
+  "title": "Anayasayı ihlâl suçundan Yüksek Adalet Divanınca mahkûm edilenlerin cezalarının kısmen affı hakkındaki 78 Sayılı Kanunun 2. maddesine bir fıkra eklenmesi hakkında (2/771)",
+  "first_sitting_date": "1964-12-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 34,
+      "sitting": 29,
+      "sitting_date": "1964-12-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+      "pages": [
+        "309"
+      ]
+    },
+    {
+      "cilt": 35,
+      "sitting": 49,
+      "sitting_date": "1965-02-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035049.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035fih.pdf",
+      "pages": [
+        "349"
+      ]
+    },
+    {
+      "cilt": 35,
+      "sitting": 54,
+      "sitting_date": "1965-02-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035054.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035fih.pdf",
+      "pages": [
+        "412",
+        "425:426"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 79,
+      "sitting_date": "1965-03-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037fih.pdf",
+      "pages": [
+        "533"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 84,
+      "sitting_date": "1965-03-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037084.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037fih.pdf",
+      "pages": [
+        "721"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=4&meclis_kisa_adi=MM&diger_donem_adi=d01"
+    },
+    {
+      "cilt": 38,
+      "sitting": 85,
+      "sitting_date": "1965-04-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038085.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038fih.pdf",
+      "pages": [
+        "40"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 89,
+      "sitting_date": "1965-04-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038fih.pdf",
+      "pages": [
+        "175:176"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=6001&v_kullanici_id=27484893",
+  "source_sha256": "649c43de03685cb893514fb90f507f8b2b0f254beaeb5e0e1b67fee6a2e52d28",
+  "in_force": "1964-12-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
