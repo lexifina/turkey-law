@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102-",
+  "source_id": 23099,
+  "date": "2004-12-27",
+  "title": "Mükellefiyet tesis tarihi belirlenirken zamanaşımı sürelerinin dikkate alınması gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23099",
+  "source_sha256": "a1c4738fe9152fb46201d314f260e2219dd6f3207d7b1ab76b7fa640eb71ed6f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
