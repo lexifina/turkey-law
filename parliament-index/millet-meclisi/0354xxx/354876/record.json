@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 354876,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "title": "Millet Meclisi fihrist kaydı 354876 (Tasarılar)",
+  "first_sitting_date": "1965-05-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 41,
+      "sitting": 117,
+      "sitting_date": "1965-05-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c041/mm__01041117.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c041/mm__01041fih.pdf",
+      "pages": [
+        "134",
+        "247",
+        "658:672"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 125,
+      "sitting_date": "1965-06-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042125.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042fih.pdf",
+      "pages": [
+        "37:38",
+        "49:80"
+      ]
+    },
+    {
+      "cilt": 43,
+      "sitting": 140,
+      "sitting_date": "1965-07-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043140.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043fih.pdf",
+      "pages": [
+        "73",
+        "128:129"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=5401&v_kullanici_id=27484850",
+  "source_sha256": "8c459897c94712de137889d21eb7d6eb7c228690bd7e5eebaf91138dcdde4217",
+  "in_force": "1965-05-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
