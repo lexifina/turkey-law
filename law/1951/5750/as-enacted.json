@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5750",
+  "year": 1951,
+  "title": "Avrupa Ekonomik İş Birliği Sözleşmesi ve Marshall Yardım Plânı Çerçevesi Dâhilinde Temin Edilen Yardımlar Karşılığı Türk Liralarından Bütçeye Taallûku Gerekenlerin Bütçe Hesaplarına İntikal Şekli Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-02-28",
+  "gazette_issue": "7746",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7746_1.pdf",
+  "source_sha256": "f17813ba83811e37e671dbe212ea26531c1c68a2c6f34436c748c777a18b8f3c",
+  "text_sha256": "ebc39556fecfc450a89b4e749f1987d8235beab4f46a2f9a1c2cb7da3f650ca0",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      0,
+      45
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305750.pdf",
+    "source_sha256": "97b0a9ec6184df6f1c9e91e935f16d128f8211710d7b3d6b70adeaf61bbf404a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9231,
+    "bag": 0.8805,
+    "kd_coverage": 0.9673,
+    "kd_body_compared": 0.9585,
+    "rg_words": 244,
+    "kd_words": 217,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
