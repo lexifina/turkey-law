@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4417-302/12913",
+  "source_id": 24671,
+  "date": "2000-03-24",
+  "title": "Taksi işleten ve götürü usulde vergilendirilen mükellefler, 1.1.1999 tarihinden itibaren basit usulde vergilendirme kapsamına alındığından bu tarihten itibaren bu mükelleflere yapılan ödemeler vergi tevkifatına tabi tutulmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24671",
+  "source_sha256": "508ac7c83d383d4695929ac10f3ed032df25bb200e72700fab890df9dc67f23a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
