@@ -1,0 +1,61 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1077",
+  "year": 1927,
+  "title": "Askeri Ceza Kanununa Müzeyyel Kanun",
+  "adopted": "1927-06-16",
+  "adopted_as_published": "16/06/1927",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "23.06.1927 No: 615",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc005/kanuntbmmc005/kanuntbmmc00501077.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 5",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 126961,
+      "title": "Askeri Ceza Kanununa Müzeyyel Kanun",
+      "adopted_as_published": "16/06/1927",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc005/kanuntbmmc005/kanuntbmmc00501077.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 32,
+          "sitting": 73,
+          "sitting_date": "1927-05-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/tbmm02032073.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/ehttbmm02032073.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/tbmm02032fih.pdf",
+          "pages": [
+            "658:660"
+          ]
+        },
+        {
+          "cilt": 33,
+          "sitting": 75,
+          "sitting_date": "1927-06-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/tbmm02033075.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/ehttbmm02033075.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/tbmm02033fih.pdf",
+          "pages": [
+            "67:68"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=701&v_kullanici_id=27483145",
+      "page_sha256": "a68ac9c0e496a5b3eadd797b6890b51e53339514700bfb29c46e3fe1723b3c25"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a68ac9c0e496a5b3eadd797b6890b51e53339514700bfb29c46e3fe1723b3c25",
+  "issuer": "TBMM",
+  "in_force": "1927-06-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 16/06/1927; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
