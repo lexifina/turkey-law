@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 225580,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının (GATT) VII. Maddesinin Uygulanmasına Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun Tasarısına ilişkin",
+  "title": "Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının (GATT) VII. Maddesinin Uygulanmasına Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun Tasarısına ilişkin",
+  "first_sitting_date": "1988-05-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 68,
+      "sitting_date": "1988-05-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c011/tbmm18011068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c011/tbmm18011fih.pdf",
+      "pages": [
+        "129:133",
+        "147:152"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=993&v_gelecek_sayfa=101&v_kullanici_id=27484371",
+  "source_sha256": "8b31f0ee5e64e25cef2a14f9f2b46108904a95040fb303dba7aeed67ca93af4b",
+  "in_force": "1988-05-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
