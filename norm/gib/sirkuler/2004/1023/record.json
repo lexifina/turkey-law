@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "DV-6/2004-5/ Krediler",
+  "source_id": 1023,
+  "date": "2004-01-30",
+  "title": "Bankalar, Yurt Dışı Kredi Kuruluşları ve Uluslararası Kurumlarca Kullandırılacak Kredilerde Damga Vergisi İstisnası Uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/sirkuler/1023",
+  "source_sha256": "7192aff6e16b6076c905daa2f754e832cde0b3f38048698699edb40f0e70f1d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
