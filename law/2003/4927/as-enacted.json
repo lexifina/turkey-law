@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4927",
+  "year": 2003,
+  "title": "Bayındırlık ve İskan Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-07-22",
+  "gazette_issue": "25176",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030722.htm",
+  "source_sha256": "b092d0c19adc15dddbbc2ce8a952ab868bcf693d6c3913524bc8b7847f873a03",
+  "text_sha256": "47d60cb431bf8921ff4c9ec028d727c88c13c9dae64db48cf756786d2373ac24",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/07/22/25176-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030722.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
