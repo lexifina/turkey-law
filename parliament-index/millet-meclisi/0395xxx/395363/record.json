@@ -1,0 +1,100 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 395363,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Çorum Milletvekili Abdurrahman Güler, Tunceli Milletvekili Kenan Aral, Muş Milletvekili Nermin Neftçi, İstanbul Milletvekili Reşit Ülker, Konya Milletvekili Mustafa Kubilay İmer ve Van Milletvekili Salih Yıldız'in, İçtüzük teklifi (2/706)",
+  "title": "Çorum Milletvekili Abdurrahman Güler, Tunceli Milletvekili Kenan Aral, Muş Milletvekili Nermin Neftçi, İstanbul Milletvekili Reşit Ülker, Konya Milletvekili Mustafa Kubilay İmer ve Van Milletvekili Salih Yıldız'in, İçtüzük teklifi (2/706)",
+  "first_sitting_date": "1972-02-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 30,
+      "sitting": 17,
+      "sitting_date": "1972-02-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c030/mm__03030017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c030/mm__03030fih.pdf",
+      "pages": [
+        "30",
+        "62",
+        "69",
+        "98",
+        "100",
+        "158",
+        "188",
+        "219",
+        "275",
+        "305",
+        "307",
+        "355",
+        "414",
+        "690"
+      ]
+    },
+    {
+      "cilt": 31,
+      "sitting": 27,
+      "sitting_date": "1972-12-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c031/mm__03031027.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c031/mm__03031fih.pdf",
+      "pages": [
+        "10",
+        "339",
+        "354"
+      ]
+    },
+    {
+      "cilt": 32,
+      "sitting": 38,
+      "sitting_date": "1973-01-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032fih.pdf",
+      "pages": [
+        "81:96",
+        "506:528",
+        "550"
+      ]
+    },
+    {
+      "cilt": 33,
+      "sitting": 51,
+      "sitting_date": "1973-02-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c033/mm__03033051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c033/mm__03033fih.pdf",
+      "pages": [
+        "134:138",
+        "457:473",
+        "473:497",
+        "497",
+        "546",
+        "581:606"
+      ]
+    },
+    {
+      "cilt": 35,
+      "sitting": 72,
+      "sitting_date": "1973-03-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035fih.pdf",
+      "pages": [
+        "639:658"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=3201&v_kullanici_id=27484893",
+  "source_sha256": "5715c177d7a74788e86016bdf4e4d670986eb37a0279c99547a6be942fbd2ccd",
+  "in_force": "1972-02-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
