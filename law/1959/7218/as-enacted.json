@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7218",
+  "year": 1959,
+  "title": "Hudut ve Sahiller Sıhhat Umum Müdürlüğü 1958 yılı bütçesinde değişiklik yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-02-25",
+  "gazette_issue": "10144",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10144.pdf",
+  "source_sha256": "c1e8f29d5eb6275ed7ca8fc8db18b9601fad2d77f643a532c3475349812874d5",
+  "text_sha256": "06fd74a73ede2b409698338f1193b1d6ae89587daeb36f13337dfbd5b87f3741",
+  "text_status": "ocr",
+  "pages": [
+    8
+  ],
+  "line_span": [
+    [
+      1780,
+      1806
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107218.pdf",
+    "source_sha256": "ca059f10af7e92b2d8546ad1a1664d634a4dcb38b061dbe7110fdcca0530e407",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9563,
+    "bag": 0.8449,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9789,
+    "rg_words": 94,
+    "kd_words": 95,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
