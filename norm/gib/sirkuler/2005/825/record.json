@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-16/2005-3/ Performans Derecelendirme Bildirimi Uygulaması-1",
+  "source_id": 825,
+  "date": "2005-03-03",
+  "title": "Performans Derecelendirme Bildirimi Uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/825",
+  "source_sha256": "445755b06d2b686a833cd9f569c8e6e9b6eeeb742867b8efeb850a24bd002e1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
