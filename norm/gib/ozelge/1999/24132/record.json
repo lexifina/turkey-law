@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4425-171/22688",
+  "source_id": 24132,
+  "date": "1999-06-04",
+  "title": "Basit usulde vergilendirilen mükelleflerin amortismana tabi iktisadi kıymet teslimleri katma değer vergisine tabi bulunmamakta olup, iktisadi kıymetlerin satışından elde edilen hasılat ticari kazancın tespitinde dikkate alınmayacaktır. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24132",
+  "source_sha256": "e1707284907af960c3e21690ac7736045a2d09b8c134b6ee5a4bba90921b3415",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
