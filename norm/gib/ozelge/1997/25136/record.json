@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6015-4288/05375",
+  "source_id": 25136,
+  "date": "1997-02-17",
+  "title": "Veraset ve İntikal Vergisinde mükellefin beyanda matrah hatası yapması halinde takdir komisyonunca belirlenen matrah üzerinden verginin tarh edilmesi ve fazla tarh olunan verginin terkini, tahsil edilmiş ise ilgiliye iadesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/25136",
+  "source_sha256": "ace94a2de3ac8fe752bf793217e809759d61baad2e8a60425fc07c3d277cb91d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
