@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5247",
+  "year": 2004,
+  "title": "Avrupa Birliği ile Türkiye Cumhuriyeti Arasında Türkiye Cumhuriyetinin Makedonya Eski Yugoslav Cumhuriyetindeki Avrupa Birliği Kuvvetine Katılımına İlişkin Anlaşma ve Buna Bağlı Malî Düzenlemenin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2004-10-20",
+  "adopted_as_published": "20/10/2004",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.10.2004 No: 25626",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905247.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 89",
+  "committee_reports": [
+    {
+      "label": "TBMM 657 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c061/tbmm22061008ss0657.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 199508,
+      "title": "Avrupa Birliği ile Türkiye Cumhuriyeti Arasında Türkiye Cumhuriyetinin Makedonya Eski Yugoslav Cumhuriyetindeki Avrupa Birliği Kuvvetine Katılımına İlişkin Anlaşma ve Buna Bağlı Malî Düzenlemenin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "20/10/2004",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905247.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 657 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c061/tbmm22061008ss0657.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 49,
+          "sitting": 90,
+          "sitting_date": "2004-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c049/tbmm22049090.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c049/tbmm22049fih.pdf",
+          "pages": [
+            "335"
+          ]
+        },
+        {
+          "cilt": 60,
+          "sitting": 120,
+          "sitting_date": "2004-09-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c060/tbmm22060120.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c060/tbmm22060fih.pdf",
+          "pages": [
+            "6"
+          ]
+        },
+        {
+          "cilt": 61,
+          "sitting": 8,
+          "sitting_date": "2004-10-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c061/tbmm22061008.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c061/tbmm22061fih.pdf",
+          "pages": [
+            "635:636",
+            "653:667"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=401&v_kullanici_id=27483198",
+      "page_sha256": "48bd612a80b7f74f51d30c16bc0ba7cd7e6341df596568c61d8c08c42b65c32c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "48bd612a80b7f74f51d30c16bc0ba7cd7e6341df596568c61d8c08c42b65c32c",
+  "issuer": "TBMM",
+  "in_force": "2004-10-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 20/10/2004; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
