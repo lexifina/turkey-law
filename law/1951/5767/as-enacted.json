@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5767",
+  "year": 1951,
+  "title": "1944 Bütçe yılı Kesinhesap Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-05-25",
+  "gazette_issue": "7817",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7817.pdf",
+  "source_sha256": "fa80b891a566df7441abe68c39821d37850722a260b77fd96215dc1633a7b55a",
+  "text_sha256": "d371a38744ee838d5f09fca5fc8c876747e64ad27fddcad170fc6d5a74b23466",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      14,
+      46
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305767.pdf",
+    "source_sha256": "dfb53a5c2df06f6d12e8d35eac0236e7bc3bdef46fcbbce67a7ec56786fec824",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9752,
+    "bag": 0.952,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9923,
+    "rg_words": 262,
+    "kd_words": 261,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
