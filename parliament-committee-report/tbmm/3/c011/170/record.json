@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "170",
+  "label": "TBMM 170 no'lu Komisyon Raporu",
+  "title": "Tapu harçları kanunu",
+  "document_date": "1929-05-16",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 11, birleşim 65)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c011/tbmm03011065ss0170.pdf",
+  "pdf_sha256": "f49de4c11052b3c459a3a19a382e6b25426b257a195325a73c62c63ad1b76ce9",
+  "pdf_bytes": 2684927,
+  "pdf_pages": 27,
+  "index_entries": [
+    120256
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=2&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1929-05-16",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
