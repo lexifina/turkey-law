@@ -1,0 +1,98 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5799",
+  "year": 1951,
+  "title": "Türkiye-Belçika Ödeme Anlaşmasının 13 ncü Maddesinin Değiştirilmesi İçin Belçika Elçiliği ile Teati Olunan Mektupların Onanması Hakkında Kanun",
+  "adopted": "1951-06-27",
+  "adopted_as_published": "27/06/1951",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "03.07.1951 No: 7850",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305799.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 33",
+  "committee_reports": [
+    {
+      "label": "TBMM 204 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008092ss0204.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 61963,
+      "title": "Türkiye-Belçika Ödeme Anlaşmasının 13 ncü Maddesinin Değiştirilmesi İçin Belçika Elçiliği ile Teati Olunan Mektupların Onanması Hakkında Kanun",
+      "adopted_as_published": "27/06/1951",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305799.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 204 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008092ss0204.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 8,
+          "sitting": 91,
+          "sitting_date": "1951-06-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008091.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008fih.pdf",
+          "pages": [
+            "259"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 92,
+          "sitting_date": "1951-06-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008092.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008fih.pdf",
+          "pages": [
+            "285"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 94,
+          "sitting_date": "1951-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008094.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008fih.pdf",
+          "pages": [
+            "364",
+            "365:366",
+            "377:380"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 95,
+          "sitting_date": "1951-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008fih.pdf",
+          "pages": [
+            "387",
+            "401",
+            "407:408",
+            "435:438"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=746&v_gelecek_sayfa=101&v_kullanici_id=27483180",
+      "page_sha256": "d5209beaac12ed93dc94c226398bc069387213d91b438920adaa01fcd682b822"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d5209beaac12ed93dc94c226398bc069387213d91b438920adaa01fcd682b822",
+  "issuer": "TBMM",
+  "in_force": "1951-06-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/06/1951; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
