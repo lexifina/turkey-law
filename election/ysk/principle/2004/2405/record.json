@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/2405",
+  "list_number": "2405",
+  "decision_date": "2004-07-14",
+  "title": "YSK ilke kararı 2004/2405",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3816/2004-2405-karar.htm",
+  "source_sha256": "09c68a8eb97d5e1e2c70ca10e716dec8c0e864029eb07f12c8bdecbbccf4c913",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-07-14",
+  "law_text_complete": false
+}
