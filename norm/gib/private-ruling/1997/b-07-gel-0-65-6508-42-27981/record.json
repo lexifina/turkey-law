@@ -1,0 +1,18 @@
+{
+  "checked_on": "2026-11-14",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "kind": "private-ruling",
+  "official_date": "1997-07-04",
+  "official_number": "B.07.GEL.0.65/6508-42/27981",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38292",
+  "source_id": "ozelge:38292",
+  "source_row_sha256": "f1095a3ce391c83072efb96bb402c8fad576930fd71a7bcf6fbb6e190ce8178d",
+  "title": "Rakam kapasitesi düşük olan ÖKC'lerin mali hafızası dolup değişmesi gerektiği zaman daha yüksek kapasiteli bir hafıza takılarak her günün sonunda bir \"Z raporu\" alacak şekilde düzenlenmesi gerekmektedir.",
+  "version_label": "as-enacted",
+  "word_count": 168
+}
