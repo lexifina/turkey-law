@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2317",
+  "year": 1933,
+  "title": "Çubuk barajı ve Bursa ovası ıslahat ve inşaat işleri için bono çıkarılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-06-24",
+  "gazette_issue": "2435",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2435.pdf",
+  "source_sha256": "9744ba7b87c498fd4d51bd37a147f8f85d583da0c4889d9c3d89ec3bf28350c6",
+  "text_sha256": "93ae468aa3dcd300a8c6f6cacaa489db4a8047aaf770d69ffa611736b9497cf6",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      1644,
+      1686
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202317.pdf",
+    "source_sha256": "8f934917011fd13f202c7568d0a8b179e21206c641de15bd5e0aea0836b3e538",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9537,
+    "bag": 0.9527,
+    "kd_coverage": 0.9662,
+    "kd_body_compared": 0.9536,
+    "rg_words": 152,
+    "kd_words": 151,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
