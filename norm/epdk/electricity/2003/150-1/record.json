@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "150/1",
+  "decision_date": "2003-06-05",
+  "title": "21/3/2003 tarihli ve 112-119 sayılı Kurul Kararlarında tadilat",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uqNhrjMxQhI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uqNhrjMxQhI="
+  ],
+  "source_sha256": "cf83ef84d1a4fdead916f281a12f74d37fc6cf63de504a29aa7f588db00e023b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-06-05",
+  "law_text_complete": false
+}
