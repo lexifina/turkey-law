@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": null,
+  "date_quote": "3.8.1965 | 6/5120 | - | 20.9.1965",
+  "first_law": null,
+  "gazette": "8901",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1965-09-20",
+  "in_force_basis": "latest source-printed amendment commencement or Resmi Gazete date (current consolidated text)",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1955-01-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=44083&MevzuatTertip=3",
+  "source_bytes": 73103,
+  "source_id": "2.3.44083",
+  "source_sha256": "bb0f93c7fe207785915409fe52d4db8280ac7c6b8d52fd281c3999243cf01a9c",
+  "source_type": "Tüzükler",
+  "title": "PETROL OFİSİ KEFALET SANDIĞI TÜZÜĞÜ",
+  "word_count": 2171
+}
