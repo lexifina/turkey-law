@@ -1,0 +1,2 @@
+Kaldırılan Hükümler
+Madde 15 – 213 sayılı Vergi Usul Kanununun 46 ncı ve geçici 2 nci maddelerine dayanılarak aynı kanunun 85 inci maddesi gereğince tadil olunan Zirai Kazançlar Merkez Komisyonunca hazırlanan ve Bakanlar Kurulunun 31/5/1961 tarihli ve 5/1247 sayılı Kararı ile 1/4/1961 tarihinden itibaren yürürlükte olan Zirai Kazanç Ölçülerinin tespiti hakkındaki yönetmelik yürürlükten kaldırılmıştır.

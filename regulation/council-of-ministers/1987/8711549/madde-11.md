@@ -1,0 +1,3 @@
+Ortalama Satış Fiyatının Tespiti
+Madde 11 – Ortalama satış fiyatı; ticari teamüllere göre beher satış birimi için (örneğin kilo ile satılan ürünlerde kilo, litre ile satılan ürünlerde litre, sayıyla satılanlarda adet gibi) Zirai Kazançlar İl ve Merkez Komisyonlarınca belirlenen satış fiyatıdır. Ancak: Resmi Kuruluşlar ve Birliklerce tesbit ve ilan olunan (destekleme alımları gibi) ürünler için her yıl açıklanan en son fiyatlar ortalama satış fiyatı olarak esas alınır.
+Ortalama satış fiyatının tesbitinde Borsalardan, Belediyelerden ve diğer Kamu Kuruluşlarından sağlanacak bilgilerden yararlanılabilinir.

@@ -1,0 +1,4 @@
+Ücret Karşılığı Başka Çiftçilerin Zirai İşlerinde Çalıştırılan Zirai Alet ve Makinalar İçin Ortalama Hasılat ve Gider Tespiti
+Madde 12 – Zirai alet ve makinaların başka çiftçilerin zirai işlerinde ücretle çalıştırılması zirai bir faaliyet sayılmış ve bu suretle sağlanan hasılat vergi kapsamına alınmıştır.
+Bu konuda takdir yapılırken yerine göre ayrı ayrı ortalama hasılat takdir ve tesbit olunabilir. Bunun için kamu kuruluşlarından ve mahalli sair teşekküllerden rayiçler alınabilir.
+Ziraat makina ve aletleriyle başka çiftçilerin zirai istihsal işlerinin yapılması karşılığında alınan ücretlerin (hasılatın) yüzde 70'i ortalama maliyeti (gideri) oluşturur. Ancak, tevsik edilmek ve beyannamede gösterilmek şartıyla zirai faaliyette kullanılan zirai alet ve makinaların iktisabı ile ilgili borç paraların faizleri ayrıca maliyete eklenebilir.
