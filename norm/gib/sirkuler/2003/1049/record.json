@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "B.07.0.GEL.0.60/6019-1650",
+  "source_id": 1049,
+  "date": "2003-12-18",
+  "title": "Veraset ve intikal vergisine konu olacak gayrimenkullerin değerlenmesi hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/sirkuler/1049",
+  "source_sha256": "622b8ddd7078dd45b809e940a2797b7ef0f6b86a2808974bc67490ab8bf893c9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
