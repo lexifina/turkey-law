@@ -1,0 +1,93 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3049",
+  "year": 1984,
+  "title": "3049 sayılı Kanun",
+  "adopted": "1984-10-03",
+  "adopted_as_published": "03/10/1984",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "19.10.1984 No: 18550 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803049.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 68",
+  "committee_reports": [
+    {
+      "label": "TBMM 86 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007007ss0086.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 241238,
+      "title": "3049 sayılı Kanun",
+      "adopted_as_published": "03/10/1984",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803049.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 86 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007007ss0086.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 10,
+          "sitting_date": "1983-12-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c001/tbmm17001010.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c001/tbmm17001fih.pdf",
+          "pages": [
+            "61"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 88,
+          "sitting_date": "1984-07-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c005/tbmm17005088.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c005/tbmm17005fih.pdf",
+          "pages": [
+            "51"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 6,
+          "sitting_date": "1984-10-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007fih.pdf",
+          "pages": [
+            "113"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 7,
+          "sitting_date": "1984-10-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007007.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007fih.pdf",
+          "pages": [
+            "163:168"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "5e6f3e9d8585a78cfeef2a4f773b727decbc15e07e160f9a598887f4937cfafa"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5e6f3e9d8585a78cfeef2a4f773b727decbc15e07e160f9a598887f4937cfafa",
+  "issuer": "TBMM",
+  "in_force": "1984-10-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 03/10/1984; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
