@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5313-512",
+  "source_id": 31398,
+  "date": "2005-03-11",
+  "title": "Bir LTD. Şti. tarafından D.H.M.İ. Milas Bodrum Havalimanı Başmüdürlüğünün açmış olduğu Akaryakıt Pompa İstasyonu kurulması ihalesi alınmış olup söz konusu akaryakıt pompa istasyonu inşaatı işinin Katma Değer Vergisi Kanunu 13/e maddesinde yer alan istisna",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31398",
+  "source_sha256": "31c186e8bd79959153ec8053147b395a63e54abc85135591441ffe790b58d4b6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
