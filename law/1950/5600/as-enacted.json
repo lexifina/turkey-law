@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5600",
+  "year": 1950,
+  "title": "Köy inşaatı dolayısıyle köylülerle muhtarlardan alınan Kazanç vergilerinin silinmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-03-21",
+  "gazette_issue": "7462",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7462.pdf",
+  "source_sha256": "a47bc22ac9050ddf290d430f8b64b1a9ae1d69a70fa8ef26ba6a70081cd62e80",
+  "text_sha256": "e8233740e04d20cb642b9867dcfc23d32ad50fad56523577e3530f40a911dc88",
+  "text_status": "ocr",
+  "pages": [
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      591,
+      617
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205600.pdf",
+    "source_sha256": "0387b53c1d3f4cc0fa1985a540a2095e39749ae0aeb6b2eb08077ab334ac983a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9688,
+    "bag": 0.8914,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9144,
+    "rg_words": 179,
+    "kd_words": 187,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
