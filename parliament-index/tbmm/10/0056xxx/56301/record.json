@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 56301,
+  "assembly": "TBMM",
+  "term": 10,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "HÜSNÜ GÖKTUĞ (ELAZIĞ)",
+  "summary": "Astsubay Kanununun bâzı maddelerinin değiştirilmesi hakkında (2/225)",
+  "title": "Astsubay Kanununun bâzı maddelerinin değiştirilmesi hakkında (2/225)",
+  "first_sitting_date": "1956-01-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 24,
+      "sitting_date": "1956-01-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c009/tbmm10009024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c009/tbmm10009fih.pdf",
+      "pages": [
+        "99"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 64,
+      "sitting_date": "1956-05-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c011/tbmm10011064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c011/tbmm10011fih.pdf",
+      "pages": [
+        "331"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 75,
+      "sitting_date": "1956-06-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c012/tbmm10012075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c012/tbmm10012fih.pdf",
+      "pages": [
+        "283:285"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 80,
+      "sitting_date": "1956-06-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c012/tbmm10012080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c012/tbmm10012fih.pdf",
+      "pages": [
+        "447:443"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=539&v_gelecek_sayfa=101&v_kullanici_id=27484274",
+  "source_sha256": "c7535347bd8cc5003dacd3075a290c68d3cc9d12df9114687352da5acb411922",
+  "in_force": "1956-01-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
