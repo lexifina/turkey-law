@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6001-680/037759",
+  "source_id": 36355,
+  "date": "1999-09-07",
+  "title": "Sağlık ve Eğitim konularında faaliyette bulunmak üzere kurulduğu anlaşılan Ankara Lösemili Çocuklar Vakfına, Özel Bir TV Kanalı tarafından yapılan bağışlar V.İ.V.K.'na göre vergiden muaftır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36355",
+  "source_sha256": "c3c07898f6a0f380de75e5ccadfe8ad800a29a8496fcd9400b54ab4f2b8748e4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
