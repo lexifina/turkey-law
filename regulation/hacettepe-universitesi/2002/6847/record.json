@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 12 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2002-06-30",
+      "30.06.2002",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 12 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24801",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2002-06-30",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2002/6847",
+  "published": "2002-06-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6847&MevzuatTertip=5",
+  "source_bytes": 27007,
+  "source_id": "8.5.6847",
+  "source_sha256": "721e140e87d21dad75712c3ec1c7d2bdc05b3c0182460d6210a7d36796b35460",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nTÜKETİCİ – PAZAR – ARAŞTIRMA – DANIŞMA\r\nTEST VE EĞİTİM MERKEZİ (TÜPADEM)\r\nYÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 1114
+}

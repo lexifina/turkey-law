@@ -1,0 +1,2 @@
+Amaç
+Madde 2 — Hacettepe Üniversitesine bağlı bir birim olan Merkezin amacı; Üniversitenin ilgili bölüm ve anabilim dallarının işbirliği ile Tüketici ve Pazar ilişkileri ile ilgili her alanda araştırma yapmak, eğitim ve danışmanlık hizmeti vermek suretiyle Üniversitenin kamu ve özel sektörde yeralan kuruluşlarla işbirliğini gerçekleştirmek ve kamuoyunun bu alanda bilgilendirilmesine ve eğitilmesine katkıda bulunmaktır.
