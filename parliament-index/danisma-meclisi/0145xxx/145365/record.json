@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 145365,
+  "assembly": "Danışma Meclisi",
+  "heading": "TASARI VE RAPORLAR",
+  "heading_as_published": "Tasarı Ve Raporlar",
+  "summary": "Tarımda Kendi Nam ve Hesabına Çalışanlar Sosyal Sigortalar Kanunu Tasarısı ve Sağlık ve Sosyal işler Komisyonu Raporu (1/706) (S. Sayısı:523)",
+  "title": "Tarımda Kendi Nam ve Hesabına Çalışanlar Sosyal Sigortalar Kanunu Tasarısı ve Sağlık ve Sosyal işler Komisyonu Raporu (1/706) (S. Sayısı:523)",
+  "first_sitting_date": "1983-08-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 139,
+      "sitting_date": "1983-08-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c020/dm__02020139.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c020/dm__02020fih.pdf",
+      "pages": [
+        "182"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 20,
+      "sitting": 146,
+      "sitting_date": "1983-08-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c020/dm__02020146.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c020/dm__02020fih.pdf",
+      "pages": [
+        "523:550"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 20,
+      "sitting": 147,
+      "sitting_date": "1983-08-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c020/dm__02020147.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c020/dm__02020fih.pdf",
+      "pages": [
+        "553:590"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARI%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARI%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1312&v_gelecek_sayfa=901&v_kullanici_id=27484982",
+  "source_sha256": "f682b38f68033bafd74c3767f3b34e9f8a34d575c9f90a83e80802a882472b01",
+  "in_force": "1983-08-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
