@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3588",
+  "year": 1939,
+  "title": "Muvazene vergisi Kanununun birinci maddesinin muaddel beşinci fıkrasının değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-02-07",
+  "gazette_issue": "4126",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4126.pdf",
+  "source_sha256": "8125f93f4988ec4a2096147d2a37833cfecfcdb88131b2671ab73a5f4384bc39",
+  "text_sha256": "6a0246e4482570e1fbb607e65baa0be8fe0fb434bd3766846a95ac4648486d51",
+  "text_status": "ocr",
+  "pages": [
+    14
+  ],
+  "line_span": [
+    [
+      2879,
+      2914
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc019/kanuntbmmc019/kanuntbmmc01903588.pdf",
+    "source_sha256": "791fdd18f35a5d053855a16a2edd778451e9c749cc142e1178daeba356fe95aa",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9919,
+    "bag": 0.9269,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.991,
+    "rg_words": 219,
+    "kd_words": 221,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
