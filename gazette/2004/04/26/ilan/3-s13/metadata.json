@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-04-26",
+  "issue": "25444",
+  "edition": "regular",
+  "item": 13,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "TEDAŞ Genel Müdürlüğü Erzurum Elektrik Dağıtım Müessesesinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/04/20040426-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (22 = 22)",
+  "ilan_codes": [
+    "5120/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/04/20040426-3.htm",
+  "category_page_sha256": "e6c04e4e2cb36f7f17aca7aac95de923734a67c2f2df5ca9e8592f34bd52e495",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/04/20040426.htm",
+  "index_sha256": "ce96da6aa322a26a1fbf793fac3b7a26e60c268d59361b1e4a846338afe9875b",
+  "index_header": "26 Nisan 2004 ... Sayı : 25444",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
