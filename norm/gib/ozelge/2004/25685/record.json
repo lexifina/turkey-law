@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3032-359-102/31601",
+  "source_id": 25685,
+  "date": "2004-07-05",
+  "title": "Sahte hurda araç ruhsatı düzenleyen ve kullanan mükellef adına kaçakçılık raporu düzenlenmesine ve cumhuriyet savcılığına suç duyurusunda bulunulmasına imkan bulunmamaktadır. Ancak, sahte hurda araç ruhsatı kullanmak suretiyle haksız yere özel tüketim ver",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25685",
+  "source_sha256": "832f2aeb40350d5efc000b68af47a56f3c06d4eacaeef2a871d86c4657cc37fd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
