@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.49/4926-13/16637",
+  "source_id": 38511,
+  "date": "2000-04-12",
+  "title": "Tasarruf Mevduatı Sigorta Fonu'na aktarılan Bankanın iade edilecek K.V.nin Teminat aranmaksızın iadesinin yapılıp  yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38511",
+  "source_sha256": "674943a264879edc46ae81fef862b0f7da2f9725d046c8e66d09371fd3b2639b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
