@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7278",
+  "year": 1959,
+  "title": "1861 sayılı Jandarma efradı Kanununun bazı maddelerinin tadiline bu kanuna ek ve iki muvakkat madde eklenmesine ve muvakkat 3. maddesinin kaldırılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-05-26",
+  "gazette_issue": "10214",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10214.pdf",
+  "source_sha256": "48ecc7a594c960f4191885fdbaf2da54bc457e13eb33ce7b40c77eca576efe09",
+  "text_sha256": "3adbff4f4d3044880e58f7827c5bff7ef349f1cecafb813d6e52b73854caacf7",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      68
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107278.pdf",
+    "source_sha256": "a35f55c8a96384b1f468a8a8d8cbcc9af207cceeec6a46a835df953bae2fc653",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9577,
+    "bag": 0.9083,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9946,
+    "rg_words": 362,
+    "kd_words": 371,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
