@@ -1,0 +1,93 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3275",
+  "year": 1986,
+  "title": "3275 sayılı Kanun",
+  "adopted": "1986-04-16",
+  "adopted_as_published": "16/04/1986",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "25.04.1986 No: 19088",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903275.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 69",
+  "committee_reports": [
+    {
+      "label": "TBMM 422 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027093ss0422.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 245847,
+      "title": "3275 sayılı Kanun",
+      "adopted_as_published": "16/04/1986",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903275.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 422 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027093ss0422.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 26,
+          "sitting": 83,
+          "sitting_date": "1986-03-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c026/tbmm17026083.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c026/tbmm17026fih.pdf",
+          "pages": [
+            "439"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 88,
+          "sitting_date": "1986-04-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027088.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027fih.pdf",
+          "pages": [
+            "245"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 89,
+          "sitting_date": "1986-04-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027089.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027fih.pdf",
+          "pages": [
+            "318"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 93,
+          "sitting_date": "1986-04-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027fih.pdf",
+          "pages": [
+            "569"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=301&v_kullanici_id=27483190",
+      "page_sha256": "a89a8099205e99f3a3db082e7b9daccd4c0c77c77adee9bd7d62596a8857dc62"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a89a8099205e99f3a3db082e7b9daccd4c0c77c77adee9bd7d62596a8857dc62",
+  "issuer": "TBMM",
+  "in_force": "1986-04-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 16/04/1986; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
