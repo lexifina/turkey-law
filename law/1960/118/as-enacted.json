@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "118",
+  "year": 1960,
+  "title": "İhracatı Geliştirme Etüd Merkezi kurulması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-11-02",
+  "gazette_issue": "10644",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10644.pdf",
+  "source_sha256": "7bc910acbddb3bd46a1c82686e3e412653cbe37c59770f0a5dbe4f4a3541a11c",
+  "text_sha256": "a0fad5678c2b182fa0881cd463bea0e1b8070c173ab122e855166676919ca25f",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      76,
+      180
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300118.pdf",
+    "source_sha256": "d99cb4dbfd459103816f00b54c9c8c651e59f5682f29f5c15bdc7a17016d760f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9437,
+    "bag": 0.854,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9865,
+    "rg_words": 467,
+    "kd_words": 443,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
