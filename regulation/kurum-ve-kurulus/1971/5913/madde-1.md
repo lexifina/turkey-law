@@ -1,0 +1,1 @@
+Madde 1 - 25/8/1971 tarih ve 1473 sayılı Kanunla, Türk Hava Kuvvetlerinin güçlendirilmesi ve Millî Hava Sanayiimizin kurulması amacı ile ihdas olunan katılma paylarının tahsil, muhasebe ve ödenmesine ilişkin işlemler bu Yönetmelik hükümlerine göre yürütülür.

@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.5913",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK HAVA KUVVETLERİNİN GÜÇLENDİRİLMESİ VE MİLLÎ HAVA SANAYİİMİZİN KURULMASI AMACI İLE İHDAS OLUNAN KATILMA PAYLARININ TAHSİL, MUHASEBE VE ÖDENMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "5913",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1971/5913",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5913&MevzuatTertip=5",
+  "source_sha256": "b9ba5b0b6d0751556c2cba57f4d2148a98e2b931b919c429c37d1e73f4c43854",
+  "source_bytes": 67791,
+  "published": "1971-09-18",
+  "gazette": "13960",
+  "in_force": "1971-09-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.09.1971); own commencement article: \"bu Yönetmelik mezkûr kanunun yürürlük tarihinden itibaren geçerli olmak üzere yayım tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik mezkûr kanunun yürürlük tarihinden itibaren geçerli olmak üzere yayım tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 715,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
