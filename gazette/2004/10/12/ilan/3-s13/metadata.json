@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-10-12",
+  "issue": "25611",
+  "edition": "regular",
+  "item": 13,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Elektrik Üretim A.Ş. Afşin-Elbistan A Termik Santralı İşletme Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/10/20041012-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (31 = 31)",
+  "ilan_codes": [
+    "12532/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/10/20041012-3.htm",
+  "category_page_sha256": "2ef03b13b7446eda14dd80be6bffb07c1ab14841b80f245dfa92e96d9ec0ab7a",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/10/20041012.htm",
+  "index_sha256": "45d30b5526adad4446b5f955f42d7525a0885d7e7f310532a4d545e3afdae281",
+  "index_header": "12 Ekim 2004 ... Sayı : 25611",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
