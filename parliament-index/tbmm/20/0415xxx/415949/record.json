@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 415949,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "YUSUF SELAHATTİN BEYRİBEY (KARS)",
+  "summary": "6136 Sayılı Ateşli Silâhlar ve Bıçaklar ile Diğer Aletler Hakkında Kanuna 29.8.1996 Gün ve 4178 Sayılı Kanunla Eklenen Geçici Madde 9'da Yer Alan Sürenin Uzatılmasına Dair (2/653,2/735)",
+  "title": "6136 Sayılı Ateşli Silâhlar ve Bıçaklar ile Diğer Aletler Hakkında Kanuna 29.8.1996 Gün ve 4178 Sayılı Kanunla Eklenen Geçici Madde 9'da Yer Alan Sürenin Uzatılmasına Dair (2/653,2/735)",
+  "first_sitting_date": "1998-01-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 42,
+      "sitting": 42,
+      "sitting_date": "1998-01-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c042/tbmm20042042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c042/tbmm20042fih.pdf",
+      "pages": [
+        "220:221"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "66e31df510dc8cdc05eea8327a495feb009ab5810f1fc3d501614e373a2948d1",
+  "in_force": "1998-01-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
