@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2171",
+  "year": 1933,
+  "title": "Vaiz ve dersiam maaşları hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-05-14",
+  "gazette_issue": "2400",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2400.pdf",
+  "source_sha256": "6dfd9d10eaf6dd1369a49401d0485ed5141536731045c2b30a4946e8be31378d",
+  "text_sha256": "b74a579487279a9c6cc4d5a92f6aadc01c76ec72f9ec4c4a9cab955a4125b344",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      69,
+      88
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202171.pdf",
+    "source_sha256": "bbd930ff7ca10596e8a1efffa8e78ca3db8c5f754d1e41344987c47a3849ddc7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9219,
+    "bag": 0.8439,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9551,
+    "rg_words": 88,
+    "kd_words": 89,
+    "own_anchor": false,
+    "foreign_anchors": 8
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
