@@ -1,0 +1,165 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1737",
+  "year": 1973,
+  "title": "5539 sayılı Karayolları Genel Müdürlüğü Kuruluş ve Görevleri hakkındaki Kanunda bazı değişiklikler yapılmasına dair kanun",
+  "adopted": "1973-05-30",
+  "adopted_as_published": "30/05/1973",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.06.1973 No: 14557",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601737.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 56",
+  "committee_reports": [
+    {
+      "label": "MM 872 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037101ss0872.pdf"
+    },
+    {
+      "label": "CS 264no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c011/cs__12011069ss0264.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 393245,
+      "title": "5539 sayılı Karayolları Genel Müdürlüğü Kuruluş ve Görevleri hakkındaki Kanunda bazı değişiklikler yapılmasına dair kanun",
+      "adopted_as_published": "30/05/1973",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601737.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 872 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037101ss0872.pdf"
+        },
+        {
+          "label": "CS 264no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c011/cs__12011069ss0264.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 36,
+          "sitting": 76,
+          "sitting_date": "1973-03-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036076.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036fih.pdf",
+          "pages": [
+            "249"
+          ]
+        },
+        {
+          "cilt": 36,
+          "sitting": 92,
+          "sitting_date": "1973-04-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036092.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036fih.pdf",
+          "pages": [
+            "526"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 101,
+          "sitting_date": "1973-04-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037101.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+          "pages": [
+            "22:35"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 103,
+          "sitting_date": "1973-05-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037103.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+          "pages": [
+            "115:116",
+            "158:162"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 104,
+          "sitting_date": "1973-05-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037104.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+          "pages": [
+            "170:175"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 106,
+          "sitting_date": "1973-05-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037106.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+          "pages": [
+            "200",
+            "220",
+            "226:229"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1001&v_kullanici_id=27483225",
+      "page_sha256": "527fe61057172c75db7e994b7bc2d86caa3d426114acd67ad09f586a4f03c72e"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 321847,
+      "title": "5539 sayılı Karayolları Genel Müdürlüğü Kuruluş ve Görevleri hakkındaki Kanunda bazı değişiklikler yapılmasına dair Kanun.",
+      "adopted_as_published": "30/05/1973",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601737.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 872 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037101ss0872.pdf"
+        },
+        {
+          "label": "CS 264no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c011/cs__12011069ss0264.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 64,
+          "sitting_date": "1973-05-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c011/cs__12011064.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c011/cs__12011fih.pdf",
+          "pages": [
+            "163",
+            "336",
+            "476:480",
+            "491",
+            "520",
+            "525:526"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1701&v_kullanici_id=27483235",
+      "page_sha256": "b72c34be4a1905335c6e8be089c858335765608ea5d4dfd7757ae144141b09fa"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "527fe61057172c75db7e994b7bc2d86caa3d426114acd67ad09f586a4f03c72e",
+  "issuer": "Millet Meclisi",
+  "in_force": "1973-05-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 30/05/1973; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
