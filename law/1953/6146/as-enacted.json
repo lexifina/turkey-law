@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6146",
+  "year": 1953,
+  "title": "Jandarma Efradı Kanununun 19 ncu Maddesinin Değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-17",
+  "gazette_issue": "8460",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8460.pdf",
+  "source_sha256": "aed080799b61262f14ab6b4c8a554f1f2984fb3b2341382225dcf714687dba94",
+  "text_sha256": "44b98b216a404ce062deae7b80bc6f0c30a6f774f1f3ff7ece0766ae8d1eabc4",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      1300,
+      1319
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506146.pdf",
+    "source_sha256": "ec1ea0a73e033020e0a83961f95e7f9ae76542f30f2cc50282f885f4ddc0a8ed",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9742,
+    "bag": 0.8714,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9722,
+    "rg_words": 70,
+    "kd_words": 72,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
