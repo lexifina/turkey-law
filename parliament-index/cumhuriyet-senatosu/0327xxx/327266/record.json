@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 327266,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "25.6.1973 tarih ve 1765 sayılı Üniversite Personel Kanununun bazı maddelerinin değiştirilmesi, bazı maddelerinin kaldırılması ve kanuna bazı maddeler eklenmesi hakkında kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Millî Eğitim, Gençlik ve Spor ve Kültür ve Bütçe ve Plan komisyonları raporları. (Millet Meclisi;1/276;Cumhuriyet Senatosu:1/413) (S. Sayısı:570)",
+  "title": "25.6.1973 tarih ve 1765 sayılı Üniversite Personel Kanununun bazı maddelerinin değiştirilmesi, bazı maddelerinin kaldırılması ve kanuna bazı maddeler eklenmesi hakkında kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Millî Eğitim, Gençlik ve Spor ve Kültür ve Bütçe ve Plan komisyonları raporları. (Millet Meclisi;1/276;Cumhuriyet Senatosu:1/413) (S. Sayısı:570)",
+  "first_sitting_date": "1976-04-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 27,
+      "sitting": 55,
+      "sitting_date": "1976-04-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027fih.pdf",
+      "pages": [
+        "423:465"
+      ]
+    },
+    {
+      "cilt": 27,
+      "sitting": 56,
+      "sitting_date": "1976-04-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027056.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027fih.pdf",
+      "pages": [
+        "481:482",
+        "503"
+      ]
+    },
+    {
+      "cilt": 27,
+      "sitting": 58,
+      "sitting_date": "1976-04-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027fih.pdf",
+      "pages": [
+        "559:569",
+        "601:602"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=4301&v_kullanici_id=27484903",
+  "source_sha256": "8a5d561df49f381c44d631ba804f50acbd3d37f136d30e1d3d4619d5b27e1f42",
+  "in_force": "1976-04-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
