@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": null,
+  "date_quote": "22.2.1946 | 3/3819 | - | 7.3.1946",
+  "first_law": null,
+  "gazette": "976",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1946-03-07",
+  "in_force_basis": "latest source-printed amendment commencement or Resmi Gazete date (current consolidated text)",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1928-08-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=7044&MevzuatTertip=3",
+  "source_bytes": 24605,
+  "source_id": "2.3.7044",
+  "source_sha256": "bf07564ec4bde5cbe5151409b35d9a2a8380ce5f9db80b80c621b7b0ea8893aa",
+  "source_type": "Tüzükler",
+  "title": "SULAR KANUNUNUN UYGULANIŞINI GÖSTEREN TÜZÜK",
+  "word_count": 741
+}

@@ -1,0 +1,1 @@
+Madde 1 – İhtiyacatı ammeyi temine mahsus suların tedarik ve idaresi belediyelere ve belediye teşkilatı olmıyan mahallerde ihtiyar meclislerine tevdi edildiğine göre bu kabilden olan vakıf sular da atideki esaslar dairesinde belediyelere veya ihtiyar meclislerine devrolunur.

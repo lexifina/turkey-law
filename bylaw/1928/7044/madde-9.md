@@ -1,0 +1,1 @@
+Madde 9 – Mülhak vakıflardan sular için meşrut olup da halen kafi derecede olmıyan muhassasatı kadime vakıflarının varidatı müsait olduğu surette vakfın diğer cihatı hayriyesi de nazarı itibara alınarak muhassasatı mezküre imkan derecesinde müdüriyeti umumiyece tezyit edilecektir.

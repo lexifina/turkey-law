@@ -1,0 +1,1 @@
+Madde 10 – Belediye ve köylere devri icap eden suların mevkufatından sular hakkındaki kanunun neşrinden sonra evkafça nakde tahvil ve yahut istibdal edilmiş bulunanların bedelatı belediye ve köylere devrolunur .
