@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-1/2003-1/Yatırım İndirimi-1",
+  "source_id": 656,
+  "date": "2003-06-20",
+  "title": "24/04/2003 tarihinden itibaren yapılacak müracaatlara ilişkin olarak düzenlenecek teşvik belgeleri kapsamında yapılacak yatırımlara konu iktisadi kıymetler Gelir Vergisi Kanununun 19 uncu maddesi hükmü çerçevesinde yatırım indiriminden yararlanacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/656",
+  "source_sha256": "21782fda79f08e5850d92a7a58b3bebd969986f8504c1ce65a82f97d0eeaec27",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
