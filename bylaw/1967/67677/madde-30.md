@@ -1,0 +1,1 @@
+Madde 30 – Ticarette Tağşişin Men'i ve İhracatın Murakabe ve Korunması hakkındaki 1705 ve 3018 sayılı ve Türk Standardları Enstitüsü Kuruluşu hakkındaki 18/11/1960 tarih ve 132 sayılı Kanunlara dayanılarak düzenlenen ve Danıştayca incelenmiş bulunan bu Tüzük hükümleri Resmi Gazete'de yayımı tarihinden on beş gün sonra yürürlüğe girer.

@@ -1,0 +1,1 @@
+Madde 9 – Denetleme görevi, denetlenen malların duysal incelemesi yapılmak, tartma veya ölçme yoluyla muayene edilmek ve gerektiğinde fiziksel ve kimyasal deneyler yapılmak veya yaptırılmak suretiyle yerine getirilir.

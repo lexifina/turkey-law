@@ -1,0 +1,3 @@
+Madde 12 – 11 inci maddede belirtilen tutanak dört nüsha olarak düzenlenir. Bu tutanağa; numunesi alınmış olan malın bulunduğu yer ve miktarı ile cinsi, malı üreten veya satan firmanın adı ve adresi, varsa üretim seri numarası, faturalarının tarih ve numaraları yazılır ve numune alma sebepleri de belirtilir.
+Alınan numunelerin bir takımı, tutanağın bir nüshası ile birlikte, mal sahibine veya temsilcisine verilir; tutanağın bir nüshası ilgili bakanlığa gönderilir; tutanağın diğer nüshalariyle numuneler, denetlemeyi yapan tarafından veya bağlı bulunduğu dairede alıkonulur.
+Alınan numunelerin başka yere taşınması veya korunması güç yahut sakıncalı ise, durum, tutanağa yazılarak bunlar, mal sahibine veya temsilcisine saklanmak üzere bırakılabilir.

@@ -1,0 +1,1 @@
+Madde 7 – Denetleme ile görevlendirilenler. Denetliyecekleri mallardan numune alabilirler. Bu numunelerin miktarları ile alınma şekil ve usulleri, malların yapılarına ve özelliklerine göre, muayene ve deneylerinin gerektirdiği ölçüyü aşmamak üzere, standardlarında gösterilir. Alınacak bu numuneler dört takımı geçemez.

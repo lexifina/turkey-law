@@ -1,0 +1,1 @@
+Madde 2 – Bu Tüzükte geçen mal deyimi; 1 inci maddede yazılı maddeler ile yarı ve tam mamullerine ve bunların bileşimlerinden meydana gelen maddeleri ve varsa ambalajlarını ve koruyucu kılıflarını da kapsar.

@@ -1,0 +1,2 @@
+Madde 15 – 14 üncü madde gereğince yapılan denetlemede, malın laboratuvarlarda muayene ve deneyleri gerekli görüldüğü takdirde, maldan alınan numunenin bir takımı ile tutanağının bir nüshası, denetlemeyi yapan veya bağlı bulunduğu daire tarafından muayene ve deneyler için, ilgili bakanlıkça gösterilen laboratuvara gönderilir.
+Laboratuvar, muayene ve deneyleri en kısa zamanda yaparak sonucunu bir raporla tesbit eder ve bu rapordan iki nüshasını ilgili daireye gönderir.

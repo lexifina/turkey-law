@@ -1,0 +1,4 @@
+BİRİNCİ KISIM
+Genel hükümler
+Madde 1 – 1705 ve 3018 sayılı kanunlar gereğince iç ve dış ticaret menfaatlerini korumak ve ticaret malları üzerinde tağşiş ve hilelere mani olmak üzere bitki, hayvan ve maden asıllı maddelerin tümü ile bunların yarı veya tam mamullerinin yahut bunların bileşiminden meydana gelen maddelerin hazırlanmasına, imaline, temizlenmesine, belirli sınıf ve nevilere ayrılmasına ilişkin olup 18/11/1960 tarihli ve 132 sayılı kanuna dayanılarak kabul olunan Türk Standardlarından Bakanlar Kurulu karariyle mecburi kılınanların uygulanması bu Tüzük hükümlerine tabidir.
+Bu standardlar, yukarıda yazılı maddelerin ambalajlarına, koruyucu kılıflarına, alım, satım, nakil ve muhafazalarına ve bu hususlarda uygulanacak usul ve şartlara, özel veya ulusal işaretlere ve gerekli açıklamalara ilişkin esasları da içine alabilir.

@@ -1,0 +1,1 @@
+Madde 11 – Denetleme sırasında maldan numune alındığı takdirde, durum, bir tutanakla belirtilir. Numuneler özelliklerine göre mühürleri bozulmadan açılamıyacak şekilde denetlemeyi yapan ile mal sahibi veya temsilcisi tarafından birlikte mühürlenir ve üzerlerine tutanakla bağlantılarını açık olarak gösteren ve tarafların imzalarını taşıyan etiketler konulur.
