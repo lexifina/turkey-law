@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2321",
+  "year": 1933,
+  "title": "Cumhuriyetin ilanına müsadif 29 teşrinievvel gününün millî bayram addi hakkındaki 19 nisan 1341 tarih ve 638 numaralı kanuna müzeyyel kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-10-23",
+  "gazette_issue": "2536",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2536.pdf",
+  "source_sha256": "6eb4579686c7e9e7f72df915675b257add6ce736906e4b3f9bd0704b3a5264bd",
+  "text_sha256": "2bcd8fde6f361698bab114a5637b6c7d6514c4bf56771535e647d765fd33bc1d",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      55,
+      71
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202321.pdf",
+    "source_sha256": "788ac2c71b4c0a576be2326cf63158a74dd10198a0d7665c18df4184854a6921",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9082,
+    "bag": 0.8571,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9796,
+    "rg_words": 79,
+    "kd_words": 98,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
