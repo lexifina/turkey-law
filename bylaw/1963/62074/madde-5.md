@@ -1,0 +1,4 @@
+Madde 5 – (Değişik: 9.12.1974 - 7/9293 K.)
+Laboratuvar şefleri yanlarında çalışan asistanların görevlerine bağlılık, çalışma, mesleki bilgi, teknik yeterlik, idari yetenek ve ahlaki durumları hakkında her yıl 100 (yüz) tam not üzerinden değerlendirmek suretiyle hazırladıkları yeterlik fişini enstitü veya istasyon müdürlüğüne verirler. Bu fişte 70 (yetmiş) not alanlar yeterli sayılırlar.
+Birinci yıl sonunda, yukarıki fıkra gereğince yetersiz oldukları anlaşılanlara, enstitü veya istasyon müdürlüğünce yazılı uyarma yapılır.
+İkinci yıl sonunda asistanın durumu, laboratuvar şefi tarafından verilmiş olan yeterlik fişleri ile asistanın kendi çalışma konuları hakkında verdiği raporlar ve varsa diğer belgeler gözönünde tutularak 4 üncü maddede yazılı komisyonca incelenir; varılacak sonuç Gıda-Tarım ve Hayvancılık Bakanlığına bildirilir.

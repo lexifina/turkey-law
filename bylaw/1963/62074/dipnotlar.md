@@ -1,0 +1,1 @@
+[1] 9.12.1974 tarih ve 7/9293 sayılı Kararname ile bu Tüzük'te geçen müte hassıs deyimi uzman, ihtisas deyimi uzmanlık, Tarım Bakanlığı deyimi Gıda-Tarım ve Hayvancılık Bakanlığı olarak değiştirilmiştir.
