@@ -1,0 +1,2 @@
+Bariyersiz ve Bekçisiz Hemzemin Geçitlerde Geçiş
+Madde 17- Bariyer ve geçit bekçisi olmayan hemzemin geçitlerden yayalar ve karayolu taşıt araçları, demiryoluna 5 metre mesafede durarak kendi emniyetlerini kendileri sağlamak ve Karayolu Trafik Kanunun 76 ıncı ve Karayolu Trafik Yönetmeliğinin 164 üncü maddelerine uygun olarak geçmek mecburiyetindedirler. Bu hemzemin geçitlerde geçiş esnasında meydana gelecek kaza ve zararlardan idare sorumlu tutulamaz.

@@ -1,0 +1,4 @@
+ALTINCI KISIM
+Çeşitli hükümler
+Emirleri Bilmek Mecburiyeti
+Madde 21- Geçit bekçileri; Türkiye Demiryollarının Usulü Zabıtasına Dair Nizamname ve TCDD İşaret Yönetmeliği ile 509 No’lu Genel Emir’de yazılı yol personelini ilgilendiren drezin ve vagonetlerin seyrüseferine, tarifeli ve tarifesiz ve özel trenlerin sefere konulması ve kaldırılmasına ilişkin kısımlar ile istasyonlardan vagon kaçması, trenin koşum takımlarının koparak ayrılması, dingillerinin kırılması, derayman, çarpışma, feyezan, heyelan gibi olağanüstü durumlarda alıncak önlemleri ve günlük trenin geneline ait aksamı ve kendisini ilgilendiren bütün emirleri ayrıca hemzemin geçitlerde yolun kardan temizlenmesi için kar mevsiminde alınacak tedbirler hakkında 102 No.lu Genel Emir ve kazalardan korunma usullerini bilmek ve uygulamak zorundadırlar.

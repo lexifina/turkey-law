@@ -1,0 +1,6 @@
+Geçit Bekçisi Adaylarının Sınavı
+Madde 23- Geçit bekçiliğine ilk defa girenlerin sınavları yazılı ve mülakat olarak yapılır.
+TCDD Personeli Dışında Geçit Bekçisi Olarak Geçitte Görevlendirme
+Diğer Kamu Kurum veya Kuruluşlarınının, kendi sorumluluklarındaki yollarda teşekkül eden hemzemin geçitlerde kazaların önlenmesi amacı ile bekçili bariyer konulması hususunda taleplerinin olması halinde, geçitte istihdam edilecek personel, Kamu Kurum veya Kuruluşunda geçit bekçisi olabilme şartlarına haiz eleman olması, TCDD’ce ücreti karşılığında mevzuata uygun olarak düzenlenecek kurslarda eğitilmesi, geçitte görevli kaldığı sürece her türlü hakedişleri ve maaşları talep sahibi Kuruluşça karşılanması şartıyla 23 üncü maddeye göre sınav yapılarak geçitte görevlendirileceklerdir.
+Diğer Kamu Kurum veya Kuruluş personelinin geçit bekçisi olarak görev yaptığı geçitlerde geçit bekçisinin kusuru sonucu meydana gelebilecek kaza ve olaylardan doğacak maddi ve manevi zarar ve ziyan geçit bekçisinin ait olduğu Kamu Kurum veya Kuruluşuna aittir.
+Hemzemin geçitlerde, bağlı olduğu Kamu Kurum veya Kuruluş personelinin geçit bekçisi olarak görevlendirilebilmesi için, TCDD ile bu Kurum veya Kuruluşlar arasında protokol imzalanması ve protokolun ilgili Kuruluşun karar organınca (Belediye Encümeni vb.) ve Noter tarafından da onaylanması zorunludur.
