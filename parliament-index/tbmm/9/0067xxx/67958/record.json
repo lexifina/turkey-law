@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 67958,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "TEFSİRLER",
+  "heading_as_published": "Tefsirler",
+  "summary": "Gümrük para cezalarının 5677 sayılı Af Kanununun 7. maddesinin şümulüne girip girmediğinin tefsiri",
+  "title": "Gümrük para cezalarının 5677 sayılı Af Kanununun 7. maddesinin şümulüne girip girmediğinin tefsiri",
+  "first_sitting_date": "1953-01-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 19,
+      "sitting": 28,
+      "sitting_date": "1953-01-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c019/tbmm09019028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c019/tbmm09019fih.pdf",
+      "pages": [
+        "214"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 30,
+      "sitting_date": "1953-01-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c019/tbmm09019030.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c019/tbmm09019fih.pdf",
+      "pages": [
+        "303"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d8185c0a05ebf482760f5bff26c96a4c5627617500e09b55a238ca121ebb1125",
+  "in_force": "1953-01-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
