@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-6/2004-4/Teknoloji Geliştirme Bölgeleri _ 2",
+  "source_id": 1112,
+  "date": "2004-03-15",
+  "title": "Teknoloji geliştirme bölgelerinde uygulanan vergisel düzenlemelerde yapılan değişikliklere ilişkin açıklamalar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1112",
+  "source_sha256": "cdf684b4e41ef61b42e671163172266f96cdaa99b73565d8f508edec566c7b6f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
