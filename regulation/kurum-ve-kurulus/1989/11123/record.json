@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.11123",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MEZUNİYET BELGESİNE SAHİP OLMADAN MESLEKLERİNİ İCRA ETMEKTE OLAN DİŞ TEKNİSYENLERİNE EHLİYET SINAVI İLE DİŞ PROTEZ TEKNİSYENİ UNVANI KAZANDIRILMASINA DAİR YÖNETMELİK",
+  "number": "11123",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1989/11123",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11123&MevzuatTertip=5",
+  "source_sha256": "26e0bd3a8612a93c42acb7a8cb439b994f1eb823af035d564572e8b1e3565122",
+  "source_bytes": 48329,
+  "published": "1989-12-20",
+  "gazette": "20378",
+  "in_force": "1991-05-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/05/1991\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "1991-05-31",
+      "RG-31/05/1991",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 904,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
