@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2135",
+  "year": 1933,
+  "title": "Elâziz şube hattının inşasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-04-04",
+  "gazette_issue": "2370",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2370.pdf",
+  "source_sha256": "4bf3e450abbd75bb1f03e0fe2e6a140bb386b6f94b716349c5892a96f65443b5",
+  "text_sha256": "c8c98c39cff24b5f81544b8835b17763d8e46923d7d99388ca3cdf78f5254e07",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      582,
+      603
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202135.pdf",
+    "source_sha256": "6a26540157d277040145faf7a4f36f6680cd03bce3a5c44a54576b2a649e28b7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9586,
+    "bag": 0.92,
+    "kd_coverage": 0.9898,
+    "kd_body_compared": 0.9703,
+    "rg_words": 102,
+    "kd_words": 101,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
