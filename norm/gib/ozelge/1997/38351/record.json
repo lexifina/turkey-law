@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-821/20824",
+  "source_id": 38351,
+  "date": "1997-05-21",
+  "title": "Yatırım teşvik belgesine istinaden kullandırılan orta ve uzun vadeli kredilerde B.S.M.V. istisnası uygulanıp uygulanmayacağı hakkında. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38351",
+  "source_sha256": "4a7fc4f39f49bd96ce12a1fedfdd0f31541c28b9d490ec588721f10311a044b6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
