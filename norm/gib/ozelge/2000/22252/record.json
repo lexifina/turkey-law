@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4015-22/13207",
+  "source_id": 22252,
+  "date": "2000-03-27",
+  "title": "Zirai faaliyette bulunan ödevlilerin kendi zirai işlerinde kullandıkları kamyon ve benzeri araçların, ayrıca nakliyecilik yapılmaması şartıyla trafik kaydının gayri ticari olması mümkün olup, gerçek durumlarının yoklama yoluyla tespit edilmesi gerekmekted",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22252",
+  "source_sha256": "7e844071c0a63434fb5a0222211806cc808f73ba937ec894c8f9e1a765081edc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
