@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3503",
+  "year": 1938,
+  "title": "Kefalet Kanununun üçüncü maddesinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-07-09",
+  "gazette_issue": "3955",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3955.pdf",
+  "source_sha256": "17219eefccb5bc196216104ae93cb26852fd117d20c94114bdfe508596e45b1b",
+  "text_sha256": "58504d849a59629a7996bec69f087ded45e046f23c654ad018a60e0e86273426",
+  "text_status": "ocr",
+  "pages": [
+    41
+  ],
+  "line_span": [
+    [
+      13436,
+      13452
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803503.pdf",
+    "source_sha256": "980f554165473e708bf1c1b052b0c9253a0d4f52660ab35a88338c9499b2d1de",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9211,
+    "bag": 0.8263,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9808,
+    "rg_words": 111,
+    "kd_words": 104,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
