@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-09-23",
+  "issue": "25238",
+  "edition": "regular",
+  "item": 14,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-1",
+  "title": "TEDAŞ Genel Müdürlüğü Proje ve Tesis Dairesi Başkanlığı TEDAŞ Genel Müdürlüğü Adana Elektrik Dağıtım Müessesesi Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030923-3-1.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (35 = 35)",
+  "ilan_codes": [
+    "34896/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030923-3-1.htm",
+  "category_page_sha256": "e3387eaaab9a14660cc2c9865d99cbc5244ad3e58e0f3ee1a11649e5943a0aa0",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030923.htm",
+  "index_sha256": "b053440ca41c5d5f66e51969db0cb8effea0d669d056617dcbaec9c9fd2ce101",
+  "index_header": "23 Eylül 2003 ... Sayı : 25238",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
