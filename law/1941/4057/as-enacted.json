@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4057",
+  "year": 1941,
+  "title": "Diyarbakır ve Elâzığ istasyonlarından Irak ve İran hudutlarına kadar yapılacak demiryollarının inşası için istikraz aktine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-06-06",
+  "gazette_issue": "4827",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4827.pdf",
+  "source_sha256": "39945c8380d7ff19083cbd6ae8e067ef5a553a767ae8d6f4e22137d52e8beb5e",
+  "text_sha256": "9af0c84526d90c3dc41da41c317178c9e5c3d6c8a5b4f7252fd9ebe69dbcbe2c",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      330,
+      332
+    ],
+    [
+      335,
+      390
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204057.pdf",
+    "source_sha256": "f50f03ab7612e112ce6346054d4efa0cb65616db99290be94854f233a6ee3292",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.987,
+    "bag": 0.9419,
+    "kd_coverage": 0.994,
+    "kd_body_compared": 0.9941,
+    "rg_words": 496,
+    "kd_words": 505,
+    "own_anchor": false,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
