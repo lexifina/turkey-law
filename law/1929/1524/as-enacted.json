@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1524",
+  "year": 1929,
+  "title": "Samsun sahil demiryolları hisse senedatının mubayaasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-11",
+  "gazette_issue": "1213",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1213.pdf",
+  "source_sha256": "6d044fbba6569dd6bfd694011f0e825fe923da4532cb9ed814f23e15fa5e21c7",
+  "text_sha256": "4d9d25fae35729b5ece78ba9893012ba825d0de4d06df74f556c3616df2184f8",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      324,
+      351
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701524.pdf",
+    "source_sha256": "c0b3b6040ab45218019a16c05e17866350c2f9daa61ace1158c6cd9cc811a7ea",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9245,
+    "bag": 0.8249,
+    "kd_coverage": 0.9841,
+    "kd_body_compared": 0.9841,
+    "rg_words": 133,
+    "kd_words": 126,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
