@@ -1,0 +1,175 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2177",
+  "year": 1979,
+  "title": "5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun Bazı Maddelerinin Değiştirilmesine ve Aynı Kanuna Bir Ek Madde İle Geçici Maddeler Eklenmesine ilişkin Kanun",
+  "adopted": "1979-01-18",
+  "adopted_as_published": "18/01/1979",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "31.01.1979 No: 16536",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202177.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 62",
+  "committee_reports": [
+    {
+      "label": "MM 117 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006156ss0117.pdf"
+    },
+    {
+      "label": "MM 117ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c008/mm__05008037ss0117ek01.pdf"
+    },
+    {
+      "label": "CS 806no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038071ss0806.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 453636,
+      "title": "5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun Bazı Maddelerinin Değiştirilmesine ve Aynı Kanuna Bir Ek Madde İle Geçici Maddeler Eklenmesine ilişkin Kanun",
+      "adopted_as_published": "18/01/1979",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202177.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 117 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006156ss0117.pdf"
+        },
+        {
+          "label": "MM 117ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c008/mm__05008037ss0117ek01.pdf"
+        },
+        {
+          "label": "CS 806no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038071ss0806.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 86,
+          "sitting_date": "1978-01-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c002/mm__05002086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c002/mm__05002fih.pdf",
+          "pages": [
+            "123"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 156,
+          "sitting_date": "1978-06-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006156.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006fih.pdf",
+          "pages": [
+            "262:263",
+            "296:301"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 159,
+          "sitting_date": "1978-06-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006159.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006fih.pdf",
+          "pages": [
+            "350",
+            "380",
+            "414:417"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 37,
+          "sitting_date": "1979-01-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c008/mm__05008037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c008/mm__05008fih.pdf",
+          "pages": [
+            "512",
+            "538:541"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "7a740f64a552447b8129a88f3d2f4df24e0d020a643e9dcd5d7789377fc9d296"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 332617,
+      "title": "5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun Bazı Maddelerinin Değiştirilmesine ve Aynı Kanuna bir Ek Madde ile Geçidi Maddeler Eklenmesine İlişkin Kanun",
+      "adopted_as_published": "18/01/1979",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202177.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 117 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006156ss0117.pdf"
+        },
+        {
+          "label": "MM 117ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c008/mm__05008037ss0117ek01.pdf"
+        },
+        {
+          "label": "CS 806no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038071ss0806.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 38,
+          "sitting": 67,
+          "sitting_date": "1978-06-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038067.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038fih.pdf",
+          "pages": [
+            "49"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 70,
+          "sitting_date": "1978-06-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038fih.pdf",
+          "pages": [
+            "165"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 71,
+          "sitting_date": "1978-06-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038fih.pdf",
+          "pages": [
+            "272:276",
+            "287",
+            "300:310"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2101&v_kullanici_id=27483235",
+      "page_sha256": "5968d4b2c253a1860b028e1dc7851eac90ae7fee6ea9ef01b19c36bdc0393519"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7a740f64a552447b8129a88f3d2f4df24e0d020a643e9dcd5d7789377fc9d296",
+  "issuer": "Millet Meclisi",
+  "in_force": "1979-01-18",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 18/01/1979; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
