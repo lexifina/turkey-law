@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6203-495/34822",
+  "source_id": 35331,
+  "date": "1999-08-16",
+  "title": "Damga Vergisinin Kanuni süresinde ödenmediği takdirde vergi ziyaı cezası uylanmaz, özel usulsüzlük cezası uygulanır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35331",
+  "source_sha256": "caa1ca61132d8652c5053bf2a8aff8f8c792a32fcb1294362a7ad21fd36b8b24",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
