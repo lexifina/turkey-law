@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-2649/23715",
+  "source_id": 30027,
+  "date": "1997-06-09",
+  "title": "Belediyeye ait 4 adet dükkanın,borcu nedeniyle Dağıtım Müessesesine verilmesinde birden fazla alıcının katılması söz konusu olmadığından, müzayede kapsamına girmeyen bu satışlara katma değer vergisi uygulanmaması gerekmektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30027",
+  "source_sha256": "50b639302375666624afe1e752f545229b49ef529e17277f578ddaba110502c5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
