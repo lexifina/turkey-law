@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4022-33/60915",
+  "source_id": 37850,
+  "date": "2004-12-17",
+  "title": "Mükelleflerin dilerlerse ortağı bulundukları adi ortaklık veya kollektif şirketlerin müteselsilen sorumlu oldukları vergi borçlarına mahsuben iade talebinde bulunabileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37850",
+  "source_sha256": "2a09445be7fcc973e2402efbff18cf0f17f433c8f324956d3257c19ea2f71e61",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
