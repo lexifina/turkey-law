@@ -1,0 +1,1 @@
+Madde 52 — Sözleşmeli görevliler, kendilerine verilecek her türlü küçük veya büyük rolleri, (Sadece sözlü dahi olsa) partileri ve görevleri yapmak zorundadırlar. Ancak, görevli verilen görevi yeteneklerinin üstünde gördüğü takdirde Genel Müdür veya müdürlüklere durumu bildirir. Bu konuda bir karara varılıncaya kadar görevli çalışma ve provalara devam eder.

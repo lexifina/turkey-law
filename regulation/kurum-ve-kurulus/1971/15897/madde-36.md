@@ -1,0 +1,3 @@
+Madde 36 — a - Disiplin Kurulu, ilgililer tarafından görüşülecek konu bulunduğu bildirildiği zaman veya önceden verilmiş kendi kararı uyarınca toplanır. Başkan tarafından toplantı zamanı ve gündemi tespit edilerek, üyelere en ivedi araçla duyurulur.
+b - Disiplin Kurulu, kanun ve yönetmelikle belli üyelerinin salt çoğunluğu hazır bulunduğu zaman toplantı yapabilir. Kararlar, toplantıda hazır bulunan üyelerin salt çoğunluğunun oyları ile alınır.
+c - Özürsüz olarak arka arkaya üç toplantıya katılmıyan solo, bale, orkestra ve koro temsilcileri üyelikten çekilmiş sayılırlar, özürsüz toplantılara katılmıyan Kurulun diğer üyeleri hakkında idarî işlem yapılır.

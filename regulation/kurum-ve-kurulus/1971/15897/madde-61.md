@@ -1,0 +1,3 @@
+Madde 61 — Sözleşmeli görevliler, kuruluş doktorlarına başvurarak muayene ve tedavilerini yaptırırlar Kuruluş doktorları lüzum gösterdiği takdirde, görevli, İdare tarafından hastaneye gönderilir.
+Görevliler, kuruluş doktoru tarafından lüzum gösterilmeden ve İdarenin gönderme yazısını almadan, kendiliğinden hastanelere başvuramazlar. Aksi halde aldıkları rapor geçersiz sayılır ve haklarında izinsiz göreve gelmiyenler gibi işlem yapılır.
+Ani ve acil hallerde, hastaneye kaldırılmak suretiyle tedavilerine başlanmış olanlar, acil durumları, hastane raporuyla belirtildiği takdirde, birinci ve ikinci fıkra hükümlerinden ayrık tutulurlar.

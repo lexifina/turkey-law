@@ -1,0 +1,1 @@
+Madde 33 — Devlet Opera ve Balesi Müdürlükleri Disiplin Kurulu, Müdür veya yardımcısının başkanlığında, hukuk müşaviri, müzik işleri yöneticisi, başrejisör, başkoreograf, bale başöğretmeni, teknik işler yöneticisi ile iki yılda bir solo, bale, orkestra ve koro sanatçılarının kendi aralarından seçecekleri birer sanatçıdan oluşur

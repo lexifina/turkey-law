@@ -1,0 +1,2 @@
+Madde 62 — Genel Müdürlük ve Müdürlük hekimleri yirmi güne kadar istirahat raporu vermeğe yetkilidirler. Daha uzun süreli rapor ancak resmî sağlık kuruluş ve kurullarınca usulüne uygun şekilde verildiği takdirde geçerlidir.
+Hastanın tedavi ve istirahati uygun görüldüğü zaman, düzenlenecek raporda, istirahatin süresi, nerede ve nasıl geçirileceği mutlaka, açıkça ve ayrıntılarıyla yazılacaktır. Görevli hasta, raporunda belirtilen şekilde hareket etmeğe mecburdur.

@@ -1,0 +1,2 @@
+Madde 41 — Genel Müdürlükçe, Hükümetimizin tespit ettiği programa uygun olarak, kültürel ilişkiler sebebiyle dost hükümetler veya milletlerarası üne sahip operalar tarafından, konser ve temsillere katılmak üzere davet edilen sanatçılara kendi asli görevlerini aksatmamaları kaydı ile izin verilebilir.
+İzin dönüşü, sanatçı, program ve reklâm materyalleriyle, eleştiri yazılarını idareye sunmak zorundadır.

@@ -1,0 +1,1 @@
+Madde 44 — Sözleşmeli görevliler, hiçbir şekilde Devlet Opera ve Balesini, âmirlerini ve arkadaşlarını küçük düşürecek konuşma, eylem ve işlem yapamazlar; âmirlere karşı gelmek, verilen emirleri dinlememek, başkalarını kuruluş aleyhine tahrik etmek, beyanatta bulunmak, yayın yapmak veya yaptırmak yasaktır.

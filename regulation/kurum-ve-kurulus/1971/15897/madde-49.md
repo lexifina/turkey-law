@@ -1,0 +1,2 @@
+Madde 49 — (Değişik:RG-11/10/1972-14333)
+Sözleşmeli görevlilere, idarece, bir temsil için gerekli bütün araç ve gereçler teslim edilir. Teslim aldıkları arasında demirbaş ve miatlı araç ve gereçleri, temsil sonunda, görevliler ilgililere iade etmeğe mecburdurlar. Aksi halde, bunların günlük satın alma rayiç bedelleri iade görevini yerme getirmeyenlerin aylık ücretlerinden derhal kesilir. Temindeki gecikmeden doğacak zararlar da ayrıca alınır.

@@ -1,0 +1,2 @@
+Madde 46 — Sözleşmeli görevliler, usulsüz, bir işlem veya eylemle karşılaştıklarını düşündükleri zaman önce kendi bölümlerindeki ilgili rejisör veya şefe başvururlar. Konu bu katta aydınlığa kavuşturulamazsa, ilgili durumu yazılı olarak Genel Müdürlük veya Müdürlüğe bildirir.
+Genel Müdürlük veya Müdürlükçe varılacak sonuç kesindir, itiraz olunamaz. Şikâyetçi görevli, şikâyet sonuçlandırılıncaya kadar aralıksız görevini yapar, verilen emirlere uyar.

@@ -1,0 +1,1 @@
+Madde 63 — Kadın görevlilerin gebelik hallerinde, kuruluş doktorları doğumdan bir buçuk ay önce ve doğumdan bir buçuk ay sonra olmak üzere üç aylık istirahat verebilirler. Bale sanatçılarının gebelik hallerinde sağlık kurullarından çalışmalarının sakıncalı olacağına dair alacakları rapora göre işlem yapılır.

@@ -1,0 +1,2 @@
+Madde 45 — Bütün görevliler, ilân tahtalarındaki çalışma programlarını emir ve genelgeleri okumaya, değişiklikleri günü gününe izlemeğe ve gereğini yapmağa mecburdurlar. İzinli ve raporlu bulunan görevliler de, izinlerinin ve raporlarının bitiminde bizzat programı izlerler.
+Görevliler prova ve temsil sonu, kuruluşdan ayrılmadan once, mutlaka ertesi günü çalışma programında kendilerini ilgilendiren bir görev olup olmadığını öğrenmek zorundadırlar.

@@ -1,0 +1,2 @@
+Madde 38 — a) İdare ile yapılan tip sözleşmede gösterilen para cezası kesilmesi gerektiren eylemi sebebiyle, para cezası verilen sanatçı; uygulatıcı uzman ve uzmanın ilk maaşından kesilmek üzere durum Tahakkuk Şubesine bildirilir; Tahakkuk Şubesi ceza işlemini uygular.
+b) Kanunda ve anılan sözleşmede gösterilen sözleşmenin feshi cezasını gerektiren eylemi sebebiyle hakkında fesih cezası uygulanan sanatçı, uygulatıcı uzman ve uzmanın kuruluşla ilgisi derhal kesilir.
