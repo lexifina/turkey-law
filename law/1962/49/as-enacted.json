@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "49",
+  "year": 1962,
+  "title": "11.10.1960 tarihli ve 97 sayılı Kanunun geçici ikinci maddesi son bendinin değiştirilmesine dair kanun.",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-05-18",
+  "gazette_issue": "11106",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11106.pdf",
+  "source_sha256": "d7c73ae83cb0e7257036bb8ca1ebc086da72acf8cda1be556bd5df2fcb408bce",
+  "text_sha256": "50fa324a022c2837d539da83698d5b36bd3c07f151d7f262c67ccceeae918f4e",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      138,
+      162
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500049.pdf",
+    "source_sha256": "cba69292bee2445e83c3476708102107f55dd67b2a34ccb34f0f666b6e49a67e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9744,
+    "bag": 0.9125,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9559,
+    "rg_words": 133,
+    "kd_words": 136,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
