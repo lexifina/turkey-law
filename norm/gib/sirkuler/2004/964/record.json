@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-20  /2004-20",
+  "source_id": 964,
+  "date": "2004-07-27",
+  "title": "KOSGEB tarafından nitelikli eleman istihdamı ve yurtiçi fuarları finansal programı kapsamında geri dönüşümsüz olarak verilen destekler kapsamındaki ödemeler bir teslim ve hizmetin karşılığı olarak ortaya çıkmadığından katma değer vergisinin konusuna girme",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/964",
+  "source_sha256": "2218256b6f11d780625bd9a019cd14fdf3fa08833939009ce3d0fb77313f2b1b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
