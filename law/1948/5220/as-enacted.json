@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5220",
+  "year": 1948,
+  "title": "Belediye Yapı ve Yollar Kanununun bazı maddelerinin değiştirilmesine dair olan 4585 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1948-06-23",
+  "gazette_issue": "6939",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6939.pdf",
+  "source_sha256": "c1598086e634264feb65406af777d8da2bcaaf985c78f55e2e4a03312d0a1399",
+  "text_sha256": "bc7d6a0577f3f5b775b5124fff9c223db516d6ab7b47f1bf5c5ac055890ceb24",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      7,
+      16
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/kanuntbmmc030/kanuntbmmc03005220.pdf",
+    "source_sha256": "4730e4088f87d11d019323a60357ad70c25ac3bda2f6f5670ad1a97de741b7b9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9801,
+    "bag": 0.967,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9574,
+    "rg_words": 46,
+    "kd_words": 47,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
