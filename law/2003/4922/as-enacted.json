@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4922",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti ile Çek Cumhuriyeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşmasının ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-07-12",
+  "gazette_issue": "25166",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030712.htm",
+  "source_sha256": "521783afc877916caebc5e11399169462d42b0d631cb83cdfe1563509cb6ddd4",
+  "text_sha256": "b42b84ef902296ab6bf6ceca1d539da017a7c36a0da83624b63b33173998aee7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/07/12/25166-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030712.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
