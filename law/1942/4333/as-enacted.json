@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4333",
+  "year": 1942,
+  "title": "Posta, telraf ve telefon Umum Müdürlüğü süvari müvezzilerine hayvan yem bedeli verilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-12-29",
+  "gazette_issue": "5292",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5292.pdf",
+  "source_sha256": "5b514c1118f5c9be846a1a6039a719b2f5faafd0e5a2ca64ffe08d0a430ac6ad",
+  "text_sha256": "f63cbd21b5ba7e58408931e846543d7a2e172b0c1692544593615c8b34132ce8",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      54,
+      98
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc024/kanuntbmmc024/kanuntbmmc02404333.pdf",
+    "source_sha256": "115304c1d7ec1e1679dc7b3ee579f26a9008ff6242b87ff0f5ac6d38a1614236",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9825,
+    "bag": 0.931,
+    "kd_coverage": 0.9965,
+    "kd_body_compared": 0.9897,
+    "rg_words": 292,
+    "kd_words": 291,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
