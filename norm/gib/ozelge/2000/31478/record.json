@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5209-10/10918",
+  "source_id": 31478,
+  "date": "2000-03-07",
+  "title": "A.Ş.' nin başka firmalar aracılığıyla da olsa yurt dışı gönderileri için gönderi sahipleri adına düzenleyeceği fatura veya benzeri belgelerde katma değer vergisi istisnası uygulanabilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31478",
+  "source_sha256": "df1586680316023ab666a9e792f7376aa0ab3e8f4316df406fa11de7a5c8c6ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
