@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.032/3204-1031",
+  "source_id": 25021,
+  "date": "2004-10-11",
+  "title": "Mükelleflerin tasdik konusu ile ilgili defter ve belgelerin vergi inceleme elemanları tarafından incelenmek üzere alındığı durumlarda bunun tevsik edilmesi kaydıyla tam tasdik raporlarının vergi incelemesinin tamamlanmasından sonra düzenlenmesi mümkün bul",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/25021",
+  "source_sha256": "6d0f00fa6ba399506e1508cbdde8cc7a36847a5d43a81f9cac789a22c4690fb0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
