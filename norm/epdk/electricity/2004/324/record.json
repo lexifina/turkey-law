@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "324",
+  "decision_date": "2004-05-28",
+  "title": "Dağıtım tarifesi usul ve esasları",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gQGQTW5XX94=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gQGQTW5XX94="
+  ],
+  "source_sha256": "137e368ac0361027f5e460b61ca0ac77d5ed5093aab5d1ec5488eb93bc1f6d4d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-05-28",
+  "law_text_complete": false
+}
