@@ -1,0 +1,3 @@
+Kuruluş
+Madde 3. Bilim ve Teknoloji Yüksek Kurulu, Başbakan'ın başkanlığında, ilgili Devlet Bakanı, Milli Savunma Bakanı, Maliye ve Gümrük Bakanı, Milli Eğitim Bakanı, Sağlık Bakanı, Tarım Orman ve Köyişleri Bakanı, Sanayi ve Ticaret Bakanı, Enerji ve Tabii Kaynaklar Bakanı, YÖK Başkanı, Devlet Plânlama Teşkilatı Müsteşarı, Hazine ve Dış Ticaret Müsteşarı, TÜBİTAK Başkanı ile bir yardımcısı, TAEK Başkanı, TRT Genel Müdürü, TOBB Başkanı ve YÖK'ün belirleyeceği konu ile ilgili gelişmiş bir üniversitenin seçeceği bir üyeden oluşur.
+Gerektiği takdirde diğer Bakanlar ile müsbet bilimler alanında temel ve uygulamalı araştırma yapan kamu ve özel kuruluşların sorumluları, bilim ve teknoloji alanında uzman kişiler Yüksek Kurul toplantısına davet edilebilirler.

@@ -1,0 +1,1 @@
+Geçici Madde 1. Bu Yönetmeliğin yürürlüğe giriş tarihinden önce başlatılmış olup, birden fazla kuruluşun katılması ile yürütülen projeler için bu Yönetmeliğin 7 nci maddesinin ikinci fıkrası uygulanmaz. Bu projelerin finansmanı başlatıldığı biçimde sürdürülür.
