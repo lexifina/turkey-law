@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5220-9/12448",
+  "source_id": 32010,
+  "date": "2001-03-01",
+  "title": "Belediyeye ödenen atık su ile ilgili Çevre Temizlik Vergisinin, su teslimine ilişkin hesaplanacak KDV matrahına dahil edilip edilmemesi gerekmektedir..",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32010",
+  "source_sha256": "49e6af89a09978763a6682a3885e394792e2e9d73a13fb790d7120b3f947c35e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
