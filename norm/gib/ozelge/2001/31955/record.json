@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5108-266/3580",
+  "source_id": 31955,
+  "date": "2001-01-18",
+  "title": "Kamuya yararlı derneklerin katma değer vergisi, harç vergisi , damga vergisi, emlak vergisi ve belediye gelirleri yönünden vergiye tabi olamalrı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/31955",
+  "source_sha256": "6df12e81c58ea9db30d4d50d0b0b3a003ea413b45edf3cd8b3045ce6f00d3037",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
