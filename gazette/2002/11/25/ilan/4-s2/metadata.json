@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-11-25",
+  "issue": "24947",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Petrol İşleri Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021125-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (2 = 2)",
+  "ilan_codes": [
+    "33452/1-1",
+    "33453/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021125-4.htm",
+  "category_page_sha256": "6fbdee11e9483dd5eac792986761d6ed131306f8374a3c317a50d50843c74002",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021125.htm",
+  "index_sha256": "7758c425a25569701558a6f04efa1449c0a1e1940f8029106c3d1881255eb00f",
+  "index_header": "25 Kasım 2002 ... Sayı : 24947",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
