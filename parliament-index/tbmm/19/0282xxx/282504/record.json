@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 282504,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Uyuşturucu ve Psikotrop Maddelerin Kaçakçılığına Karşı Birleşmiş Milletler Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun Tasarısı ve Adalet ve Dışişleri Komisyonları Raporları (2/696, 2/1294, 2/1302, 2/1335) (S. Sayısı: 787) (1)",
+  "title": "Uyuşturucu ve Psikotrop Maddelerin Kaçakçılığına Karşı Birleşmiş Milletler Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun Tasarısı ve Adalet ve Dışişleri Komisyonları Raporları (2/696, 2/1294, 2/1302, 2/1335) (S. Sayısı: 787) (1)",
+  "first_sitting_date": "1995-11-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 98,
+      "sitting": 35,
+      "sitting_date": "1995-11-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c098/tbmm19098035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c098/tbmm19098fih.pdf",
+      "pages": [
+        "174:182",
+        "183:186"
+      ]
+    },
+    {
+      "cilt": 98,
+      "sitting": 38,
+      "sitting_date": "1995-11-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c098/tbmm19098038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c098/tbmm19098fih.pdf",
+      "pages": [
+        "294:295",
+        "298",
+        "309:313"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=961&v_gelecek_sayfa=901&v_kullanici_id=27484430",
+  "source_sha256": "6988b0d6eeb5e8e393009f875d16b17f1e002b22e4a185e07e9f9b26f8a75450",
+  "in_force": "1995-11-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
