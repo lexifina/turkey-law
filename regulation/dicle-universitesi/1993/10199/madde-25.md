@@ -1,0 +1,2 @@
+Madde 25- II. Safha EDÖ için Ekim ayının I. Safha EDÖ için ise Şubat ayının ikinci haftası içinde program koordinatörlerinin dağıtacağı “EDÖ için Başvuru Formu”, bildirilen tarihe kadar öğrencilerce doldurulup program koordinatörlerine teslim edilir.
+İşyerleri kontenjanlarını, bu istekleri dikkate alarak dağıtan Program Kurulları, her öğrenci için bir “EDÖ için Yerleştirme Formu” doldurur. Bu formlardan biri ilerde öğrencilerin rapor dosyalarına konulmak üzere saklanır.

@@ -1,0 +1,3 @@
+Madde 22- Öğrenciler “Yüksek Öğretim Kurumları Öğrenci Disiplin Yönetmeliği” hükümleri yanında EDÖ’mlerini sürdürdükleri işyerlerinin çalışma, disiplin ve emniyeti ile ilgili kurallarına da aynen uyarlar. Kurallara aykırı hareket eden öğrencinin durumu işveren tarafından Okul Müdürlüğüne yazılı olarak bildirilir.
+a) Vardiya sisteminin uygulandığı yerlerde öğrenci gündüz vardiyasında çalışır.
+b) Cumartesi günleri de çalışan bir işyerinde, öğrenci her hafta isterse ancak yarım gün fazla mesai yapabilir. Bu durumda EDÖ süresi II. hafta sonunda tamamlanmış sayılır. Öğrenci bu şekilde çalıştığını işyeri personel müdürlüğünden aldığı ve Okul Müdürlüğüne hitaben yazılmış resmi bir mektupla belgelemek zorundadır.

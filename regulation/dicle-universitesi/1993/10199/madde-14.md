@@ -1,0 +1,7 @@
+Değerlendirme Ziyaretleri Yapacak Öğretim Elamanlarının Görevleri
+Madde 14- EDÖ’i değerlendirmek amacıyla endüstri ziyaretleri yapacak öğretim elemanları şu görevleri yapar:
+a) Onuncu Maddenin (c) bendine göre düzenlenen program çerçevesinde görevlerini tamamlar.
+b) Ziyaret ettiği işyerindeki üretim süreci ve düzenini bütün boyutlarıyla öğrenir. Edindiği izlenime göre uygulama programlarında yer alan iş ve işlemlerin o işyerinde gerçekleştirebileceğine kanaat getirirse bu hususları işyeri yetkilileriyle görüşür.
+c) I. ve II. Safha EDÖ programları ve niteliklerini ve öğrenci çalışmalarının nasıl değerlendireceğini işyeri ilgililerine iyice anlatır, uygulamalarda karşılaşılabilecek güçlüklerin giderilmesine azami derecede yardımcı olur.
+d) I. ve II. Safha EDÖ çalışmalarını sürdüren öğrencilerin işyerlerine intibakta ve uygulamalarda karşılaştıkları güçlüklerin çözülmesine, bu amaçla işyeri ilgili ve yetkililerinin güven ve saygı duyacağı bir ilişki ortamının gelişmesine önayak olur.
+e) Ziyaretlerinde işyeri ilgilileri veya işverenle ilişki kurarak, EDÖ faaliyetlerini o işyerinde sürdüren öğrencilerin durumlarının değerlendirilmesini yapar. Bu değerlendirmede öğrencilerin çalışmalarını, teknikerlik mesleğine geçiş yeterliklerini girişimciliklerini, işe ilgi ve çalışanlarla geçim derecelerini iş güvenliği kurallarına uyumlarını vb. hususları dikkate alarak Ziyaretçi Öğretim Elamanı Rapor Formu’nu doldurur ve bunu ilgili program koordinatörüne verir.

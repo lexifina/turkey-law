@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.10199",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "DİCLE ÜNİVERSİTESİ YÜKSEKÖĞRETİM KURULU DÜNYA BANKASI ENDÜSTRİYEL EĞİTİM PROJESİ KAPSAMINA GİREN MESLEK YÜKSEKOKULLARININ ENDÜSTRİYE DAYALI ÖĞRETİM YÖNETMELİĞİ",
+  "number": "10199",
+  "issuer": "DİCLE ÜNİVERSİTESİ",
+  "issuer_slug": "dicle-universitesi",
+  "path": "regulation/dicle-universitesi/1993/10199",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10199&MevzuatTertip=5",
+  "source_sha256": "52377b0e1a434aca6099c49638294eee59741cf416fa8b0e4733d14dc659a810",
+  "source_bytes": 51901,
+  "published": "1993-03-23",
+  "gazette": "21533",
+  "in_force": "1993-03-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.03.1993); own commencement article: \"Bu Yönetmelik 1992–1993 Eğitim-Öğretim yılı başından itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1992–1993 Eğitim-Öğretim yılı başından itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2163,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

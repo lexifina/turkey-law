@@ -1,0 +1,1 @@
+Madde 21- Öğrenciler akademik takvimde belirtilen tarihlerde ve program kurullarınca onaylanan işyerlerinden I. ve II. Safha EDÖ’lerini tamamlamak zorundadırlar. Gerekli ve yararlı durumlarda Program Kurulunun önceden onayı alınarak herhangi bir safha EDÖ iki ayrı yerinde tamamlanabilir.

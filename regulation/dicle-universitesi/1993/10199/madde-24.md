@@ -1,0 +1,1 @@
+Madde 24- “ Öğrenci EDÖ’e devam durumunu işyerine Devam Çizelgesi”ni çalıştığı yerde günü gününe doldurtarak tesbit ettirir. İkişer nüsha olarak doldurulan çizelgeler işyeri yetkilisince onaylanır. Asılları işveren raporu ile birlikte Okul müdürlüğüne gönderilir.

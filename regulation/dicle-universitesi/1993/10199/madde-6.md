@@ -1,0 +1,2 @@
+Öğretime Hazırlık
+Madde 6- Her Akademik yılda yapılacak I. ve II. safha Endüstriye Dayalı Öğretim çalışmalarının ve Yönetmelik doğrultusunda hangi işlem ve uygulamalarla tamamlanacağı, hazırlanacak bir “EDÖ çalışmaları takvimi”nde gösterilir. Bu takvim ve alınacak önlemler, her yılın Ekim ayının üçüncü haftası içinde Endüstri Koordinatörlüğü görevini üstlenmiş Müdür Yardımcısının Başkanlığında, Program Koordinatörlerinden oluşan bir çalışma grubunca ve Müdür’ün onayı alınarak uygulamaya konur.
