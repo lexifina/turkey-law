@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2924-232-2053/599l2",
+  "source_id": 37678,
+  "date": "1996-12-16",
+  "title": "Nev'i değişikliğinde, önceki kurumun defter ve belgelerinin yeni kurum tarafından kullanılıp kullanılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37678",
+  "source_sha256": "c421d3f6fc1cf8d6259dbd1d9fdf585b0c18f9d2ce4094be2215f3dbb4b72332",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
