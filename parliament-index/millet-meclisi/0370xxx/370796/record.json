@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 370796,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "TC Emekli Sandığı Kanununun 64. maddesine (Ç) fıkrasından sonra 6306 sayılı Kanunla eklenen (d) fıkrası ve geçici maddenin değiştirilmesi hakkında (1/237)",
+  "title": "TC Emekli Sandığı Kanununun 64. maddesine (Ç) fıkrasından sonra 6306 sayılı Kanunla eklenen (d) fıkrası ve geçici maddenin değiştirilmesi hakkında (1/237)",
+  "first_sitting_date": "1968-01-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 23,
+      "sitting": 31,
+      "sitting_date": "1968-01-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023fih.pdf",
+      "pages": [
+        "580:581"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 74,
+      "sitting_date": "1968-06-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028fih.pdf",
+      "pages": [
+        "9"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=3601&v_kullanici_id=27484850",
+  "source_sha256": "b7a0038228047c8835900b145e6f1e81253618139839147daa05a3fad2ca1655",
+  "in_force": "1968-01-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
