@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6026-107-31476",
+  "source_id": 36321,
+  "date": "1998-09-02",
+  "title": "Boşanma karşılığında tazminat olarak intikal eden menkul ve gayrimenkul mallar, veraset ve intikal vergisinin konusuna girmez.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36321",
+  "source_sha256": "b32d82776dc29a1dbe295bc0f40d6274acda9e96f66516bedfac6e0bb4bc9ec8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
