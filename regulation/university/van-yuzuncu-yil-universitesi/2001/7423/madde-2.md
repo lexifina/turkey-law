@@ -1,0 +1,2 @@
+Amaç
+Madde 2 — Merkezin kuruluş amacı, fiziki çevre ile tüm canlıların etkileşimlerini ve ortaya çıkan sorunları bilimsel olarak belirlemek, araştırmalar yaparak bunlara çözüm yöntemleri geliştirmek ve uygulamak; geliştirilen bu yöntemleri ve araştırma sonuçlarına dayanarak gelecekte çevre yönünden sorun olabilecek konuları yetkililere duyurmak ve uyarmak, kamu ve özel kuruluşların çevre sorunları ile ilgili başvurularını ele almak, bunlar üzerinde araştırma yapmak ve yaptırmak; çevre sorunları alanında araştırmacılar yetiştirmektir.
