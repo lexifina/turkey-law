@@ -1,2 +1,2 @@
-GEÇİCİ MADDE 8- 3996 sayılı Kanun hükümleri çerçevesindeki Hazine garantileri, bu Kanunun yayımı tarihinden önce kararlaştırılmış bulunan projeler için 2002 yılı sonu itibarıyla işletmeye geçmeleri kaydıyla verilebilir. Bu projelerden Hazine garantisi verilmiş olanların 2002 yılı sonu itibarıyla işletmeye alınamaması halinde Hazine garantileri geçersiz olur.
+GEÇİCİ MADDE 8- (İptal birinci fıkra: Anayasa Mahkemesi‘ nin 13/12/2002 tarihli ve E.:2001/293, K.:2002/28 sayılı Kararı ile.) (2).
 Bu projeler haricinde 8/6/1994 tarihli ve 3996 sayılı Kanun ile 16/7/1997 tarihli ve 4283 sayılı Kanun hükümleri çerçevesinde Hazine garantisi verilemez.

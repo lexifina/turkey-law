@@ -1,2 +1,2 @@
-GEÇİCİ MADDE 4- Kamuya ait elektrik enerjisi üretim ve dağıtım tesislerinden işletme hakları devri öngörülenlerden devir işlemlerini 31 Ekim 2001 tarihine kadar tamamlayamayan şirketlerin mevcut sözleşmeleri hükümsüzdür. (1)(2)
+GEÇİCİ MADDE 4- (İptal birinci fıkra: Anayasa Mahkemesi‘ nin 13/12/2002 tarihli ve E.:2001/293,K.: 2002/28 sayılı Kararı ile.) (1)
 İşletme hakkı devir işlemleri yukarıdaki birinci fıkrada belirtilen tarihe kadar tamamlananlardan, çevre kirliliğini önleyici tesisleri TEAŞ tarafından yapılanların bitirilmesi ve çevre mevzuatı açısından gerekli izinlerin alınması için, devir tarihinden itibaren iki yıllık süre tanınır. Bu süre zarfında söz konusu tesislerdeki elektrik üretim faaliyeti bu gerekçeyle durdurulamaz.
