@@ -1,0 +1,1 @@
+Madde 5 - Merkezin Yönetim Kurulu, Müdür ve dört üyeden oluşur. Yönetim kurulu üyeleri Müdürün görüşü alınarak, tercihen konu ile ilgili çalışmalar yapan öğretim üyeleri arasından, üç yıllık bir süre için Rektör tarafından atanır. Müdür, müdür yardımcısı ve Yönetim Kurulu üyeleri, atandıkları usulle görevlerinden alınabilirler.
