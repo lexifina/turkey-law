@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5296",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti ve Suriye Arap Cumhuriyeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-02-08",
+  "gazette_issue": "2572",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208-7.htm",
+  "source_sha256": "f68916464aa8ea297d74950d95b9e1ddc53fd0a655f2910a206bfd273c1ef4cd",
+  "text_sha256": "2504e0f80fbd56f6917e915a8701cdc5ae580caf05bfcb8c6e46e36de1c9c25e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/02/08/2572-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
