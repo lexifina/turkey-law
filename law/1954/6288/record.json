@@ -1,0 +1,86 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6288",
+  "year": 1954,
+  "title": "Hudut ve Sahiller Sağlık Umum Müdürlüğü 1954 Yılı Bütçe Kanunu",
+  "adopted": "1954-02-26",
+  "adopted_as_published": "26/02/1954",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "02.03.1954 No: 8647",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606288.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 36",
+  "committee_reports": [
+    {
+      "label": "TBMM 107 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028050ss0107.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 62452,
+      "title": "Hudut ve Sahiller Sağlık Umum Müdürlüğü 1954 Yılı Bütçe Kanunu",
+      "adopted_as_published": "26/02/1954",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606288.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 107 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028050ss0107.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 28,
+          "sitting": 42,
+          "sitting_date": "1954-02-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028fih.pdf",
+          "pages": [
+            "229"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 50,
+          "sitting_date": "1954-02-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028fih.pdf",
+          "pages": [
+            "971:989",
+            "992:994"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 51,
+          "sitting_date": "1954-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028fih.pdf",
+          "pages": [
+            "1015",
+            "1032",
+            "1036",
+            "1099:1102"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=746&v_gelecek_sayfa=701&v_kullanici_id=27483180",
+      "page_sha256": "cd207f3825eded5a93fd40f12782a7647091ce8f1ed84013d70c6fb9e2afa197"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cd207f3825eded5a93fd40f12782a7647091ce8f1ed84013d70c6fb9e2afa197",
+  "issuer": "TBMM",
+  "in_force": "1954-02-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 26/02/1954; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
