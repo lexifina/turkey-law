@@ -1,0 +1,2 @@
+Amaç
+Madde 2 — Merkezin amacı, kuruluş gerekçesine uygun olarak, ailenin; toplumun temeli olduğu gerçeğiyle, toplum yapışım ve bu yapı içerisindeki aile olgusunu; yapısı, tarihsel süreci, fonksiyonları ve özelliklen bakımından incelemek; durum tespitinde bulunmak; bilimsel yöntem ve tekniklerle araştırmalar yapmak; yapılan bu bilimsel çalışmaların sonuçlarını yayımlamak; sile eğitimini gerçekleştirmek ve toplumun en küçük birimi olan aileden hareketle, sosyal kültürel ve ekonomik alanda, ülkenin kalkınmasına katkıda bulunmaktır.
