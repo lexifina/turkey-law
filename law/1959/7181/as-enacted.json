@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7181",
+  "year": 1959,
+  "title": "İnhisarlar Umum Müdürlüğü 1958 yılı Bütçe Kanununa bağlı (A/1) işaretli cetvelde değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-01-10",
+  "gazette_issue": "10105",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10105.pdf",
+  "source_sha256": "3acfa2a9c15f54d86cebbffbb526c46aae56d6c55948540a329e3d4d00459fb1",
+  "text_sha256": "e91369e1f9c61096fc7cd6c57ef0026c15001bb170cf7509cab3ff33de3941d1",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      150,
+      167
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107181.pdf",
+    "source_sha256": "8d712a8e69523d2dcd8d7e6c674b93fc6428666ba005d677700a79975f2e3668",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9637,
+    "bag": 0.8914,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9785,
+    "rg_words": 84,
+    "kd_words": 93,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
