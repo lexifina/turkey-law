@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "15",
+  "decision_date": "2002-01-30",
+  "title": "2002 yılı için uygulanacak serbest tüketici limiti",
+  "resmi_gazete_date": "2002-01-02",
+  "resmi_gazete_number": "24656",
+  "categories": [
+    "Serbest Tüketici"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=i7BP5W3qjxI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=i7BP5W3qjxI="
+  ],
+  "source_sha256": "ba5f3598556456a83085cfe4691aeec45a0fb2cd68c7650fef6f57f59b2851fe",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33857,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2002-01-30",
+  "law_text_complete": false
+}
