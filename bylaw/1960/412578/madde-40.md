@@ -1,0 +1,1 @@
+Madde 40 – Tabip ve diş tabibi, paramedikal meslek mensupları ile mesleki münasebetlerinde, onların bağımsızlığını ihlal etmemeli, kendilerine nezaket göstermeli, onları, hastalarına karşı müşkül bir duruma koyabilecek hareketlerinden sakınmalıdır.

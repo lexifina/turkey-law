@@ -1,0 +1,1 @@
+Madde 32 – Tabip ve diş tabibinin, kendi meslekdaşları ile bunların bakmakla mükellef oldukları usul ve furuunun ve karı veya kocalarının muayene ve tedavileri için ücret almaması uygundur. Bu hallerde, zaruri masraflarını istiyebilir.

@@ -1,0 +1,1 @@
+Madde 45 – 6023 sayılı kanunun 59 uncu maddesinin (g) bendine müsteniden hazırlanmış ve Şürayı Devletçe tetkik edilmiş olan bu Nizamname hükümleri, Resmi Gazete ile neşri tarihinden iki ay sonra yürürlüğe girer.

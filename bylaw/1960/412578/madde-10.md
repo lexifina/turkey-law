@@ -1,0 +1,2 @@
+Madde 10 – Araştırma yapmakta olan tabip ve diş tabibi, bulduğu teşhis ve tedavi usulünü, yeter derecede tecrübe ederek faydalı olduğuna veya zararlı neticeler tevlit etmiyeceğine kanaat getirmedikçe, tatbik veya tavsiye edemez. Ancak, yeter derecede tecrübe edilmemiş olan yeni bir keşfin tatbikatı sırasında alınacak tedbirler hakkında ilgililerin dikkatini celbetmek ve henüz tecrübe safhasında olduğunu ilave etmek şartı ile, bu keşfi tavsiye edebilir.
+Bir keşif hakkında yanlış kanaat uyandıracak ifadeler kullanılması yasaktır.

@@ -1,0 +1,1 @@
+Madde 28 – Konsültan tabip veya diş tabibi ile müdavi tabibin kanaatları arasında aykırılık hasıl olur ve hasta, konsültan tabip veya diş tabibinin kanaatını tercih eder ise, müdavi tabip kendi görüşünde israr ettiği takdirde hastayı terkedebilir.

@@ -1,0 +1,1 @@
+Madde 17 – Tabip ve diş tabibi, hastanın hususi veya ailevi işlerine karışamaz. Ancak, hayati ehemmiyeti haiz bulunan veya sağlık bakımından zaruri görülen hallerde, mümkün olan kolaylığı ve manevi yardımı sağlar.

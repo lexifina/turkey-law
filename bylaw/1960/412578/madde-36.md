@@ -1,0 +1,1 @@
+Madde 36 – Bu Nizamnamenin yirmi birinci maddesinde yazılı sağlık tesislerinde çalışan tabip ve diş tabibi, bu daire ve müesseselere ait sağlık kurullarına başvurmuş olan hastaları muayenehane veya laboratuvarına celbederek ücretle tedavi edemez.
