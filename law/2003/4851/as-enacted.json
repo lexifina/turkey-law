@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4851",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti ve Hollanda Krallığı Arasında Uluslararası Karayolu Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-04-24",
+  "gazette_issue": "25088",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/04/20030424.htm",
+  "source_sha256": "1faa3f859b6d1726704c85fffd37d88fffe6119c77ea1ef624661dda443688d7",
+  "text_sha256": "2ad4f22cd8cc1b02035c8ac593d631b589a75fa7f19a9ca02245bfdd2eee3b95",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/04/24/25088-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/04/20030424.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
