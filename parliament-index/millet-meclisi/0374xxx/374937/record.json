@@ -1,0 +1,56 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 374937,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Sağlık hizmetlerinin sosyalleştirilmesi hakkında 224 sayılı Kanunun 15, 20 ve 24. maddelerinin değiştirilmesine ve mezkûr kanuna geçici bir madde eklenmesine dair (1/583)",
+  "title": "Sağlık hizmetlerinin sosyalleştirilmesi hakkında 224 sayılı Kanunun 15, 20 ve 24. maddelerinin değiştirilmesine ve mezkûr kanuna geçici bir madde eklenmesine dair (1/583)",
+  "first_sitting_date": "1968-12-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 30,
+      "sitting": 18,
+      "sitting_date": "1968-12-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030fih.pdf",
+      "pages": [
+        "4"
+      ]
+    },
+    {
+      "cilt": 35,
+      "sitting": 70,
+      "sitting_date": "1969-03-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c035/mm__02035070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c035/mm__02035fih.pdf",
+      "pages": [
+        "299"
+      ]
+    },
+    {
+      "cilt": 36,
+      "sitting": 83,
+      "sitting_date": "1969-04-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036083.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036fih.pdf",
+      "pages": [
+        "17:35"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=3801&v_kullanici_id=27484850",
+  "source_sha256": "56506186a7335a207e2d4f567fe9412db914130203e297be3618879042babb64",
+  "in_force": "1968-12-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
