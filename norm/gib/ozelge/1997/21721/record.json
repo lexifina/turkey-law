@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45.4500/28578/52234",
+  "source_id": 21721,
+  "date": "1997-12-03",
+  "title": "Yatırıma başlama tarihi ile Yatırım Teşvik Belgesi alınma tarihi arasında geçen süreye, yatırım indirimi uygulanacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21721",
+  "source_sha256": "1ecc28f2f107655c9aa350a7dfe61b45d0a1a404b587c948aa1831c6cde5d1df",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
