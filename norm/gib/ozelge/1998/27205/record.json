@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3026-354-459/13360",
+  "source_id": 27205,
+  "date": "1998-04-15",
+  "title": "Mükellefin sevk irsaliyesi ve belge düzenine uymadığı anlaşıldığından, işyerinin kapatılıp kapatılmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27205",
+  "source_sha256": "d31ab2ea9464cff081c2ee386184974695b2fd3f0fe9024aa9a2d35986b4a5ca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
