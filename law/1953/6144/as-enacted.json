@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6144",
+  "year": 1953,
+  "title": "Devlet Demiryolları ve Limanları İşletme Umum Müdürlüğü İhtiyaçları için Gelecek Yıllara Geçici Taahhütlere Girişilmesi hakkındaki Kanunda Tadilât Yapılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-17",
+  "gazette_issue": "8460",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8460.pdf",
+  "source_sha256": "aed080799b61262f14ab6b4c8a554f1f2984fb3b2341382225dcf714687dba94",
+  "text_sha256": "609cb85f975221d362eb53d78994f1f4064d1913749bfb964c9b348d8ba450fe",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      609,
+      648
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506144.pdf",
+    "source_sha256": "b9a44ce378ab53ba7fe109f0889ca0a12012d447491020d3ec614627e33ba180",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9741,
+    "bag": 0.8613,
+    "kd_coverage": 0.9831,
+    "kd_body_compared": 0.9669,
+    "rg_words": 171,
+    "kd_words": 181,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
