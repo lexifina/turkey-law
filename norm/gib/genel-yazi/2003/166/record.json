@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "genel-yazi",
+  "number": null,
+  "source_id": 166,
+  "date": "2003-03-15",
+  "title": "VERGİ BARIŞI KANUNUNUN DEPREM BÖLGESİNDE UYGULANMASINA İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/458/genelyazilar/166",
+  "related_law": "4811 sayılı VERGİ BARIŞI KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/genelYazilar/list",
+  "source_listing": "evidence/list/2026-11-16/genelYazilar-p000.json",
+  "source_listing_sha256": "7fa6cf53cc6e422afa260107b4b730e46ac896bef1c1d196cf603add29126053",
+  "source_sha256": "efae69bd99f3dbb3bf5b66515eb5fed807a3797421ed99c8b227458718fbd0a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
