@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1748",
+  "year": 1931,
+  "title": "1930 bütçe kanununun 5. maddesine merbut (D) cetvelinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-02-26",
+  "gazette_issue": "1734",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1734.pdf",
+  "source_sha256": "4998d1d18cd1305289fc07822c5031a2ef2ba6654b12ca9e22802da0d5fe17dd",
+  "text_sha256": "81d414ae5f411c1b6f876ecd1d6b915d3b21a4d1bc6ee968725b253a13ee518b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      29
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901748.pdf",
+    "source_sha256": "367c80446fc6574f25e0e2a5cddac3a7ade61e9ad2a871b174c7b4281d052401",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9492,
+    "bag": 0.8947,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9677,
+    "rg_words": 100,
+    "kd_words": 93,
+    "own_anchor": false,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
