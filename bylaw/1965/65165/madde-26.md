@@ -1,0 +1,2 @@
+IV. Hayvan rehninin haciz sırasında nazara alınması
+Madde 26 – Hayvan haczi sırasında, haczi yapacak olan icra memuru kendi dairesi veya o mahaldeki görevli icra dairesi tarafından tutulan sicile bakarak, borçlunun hayvanları üzerinde bir rehin hakkı tesis edilip edilmediğini re'sen araştırır. Haczedilen hayvan üzerinde rehin hakkı mevcutsa, hayvanın rehnedilmiş olduğunu, rehin borcunun miktarını, rehin hakkının tesis tarihini, gereği yapılmak üzere, haciz ve icra tutanaklarına kaydeder.

@@ -1,0 +1,4 @@
+Madde 10 – Rehin verenin ikametgahı, sicile kayıt sırasında, rehnedilen hayvanların mütat olarak bulunduğu yerden başka bir icra memurluğunun yetki çevresi içinde ise veya ikametgah, kayıt yapıldıktan sonra başka bir yere nakledilirse, 9 uncu maddenin birinci fıkrasında gösterilen icra dairesi kaydın bir örneğini rehin verenin ikametgahının bulunduğu yer icra dairesine gönderir.
+Rehin verenin ikametgahı icra dairesi, kendisine gönderilen kayıt örneğindeki hususları, asıl kaydın yapıldığı yer ile kayıt numarasını ve tarihini de özel hanesine işaret etmek suretiyle sicil defterinin birinci bölümüne kaydeder.
+Rehin verenin ikametgahı, özel kaydın yapıldığı yerden başka bir mahalle nakledilirse, hayvanların mütat olarak bulunduğu yer dışında olmak şartiyle, bu yeni mahalde, yukarıki fıkralar gereğince, yeniden bir özel kayıt yapılır.
+2. Kayıt yenilenmesini, kaydın değiştirilmesini veya düzeltilmesini yahut silinmesini bildirme
