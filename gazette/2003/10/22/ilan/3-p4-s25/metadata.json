@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-10-22",
+  "issue": "25267",
+  "edition": "regular",
+  "item": 25,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "Dr.Hulusi Alataş Elmadağ Devlet Hastanesi Satın Alma Komisyon Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/10/20031022-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (40 = 40)",
+  "ilan_codes": [
+    "40362/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/10/20031022-3-4.htm",
+  "category_page_sha256": "522478504dd8619692f4f67106a1d35bd857029f484f968f25b12b1898970fe7",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/10/20031022.htm",
+  "index_sha256": "e8f992a02fd702508dabe71ced0d9f9979dd3541181d7f77764e51d7d6186c14",
+  "index_header": "22 Ekim 2003 ... Sayı : 25267",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
