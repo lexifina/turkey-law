@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 364693,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "6368 sayılı Kanunla onaylanan Milletlerarası Sağlık Tüzüğünün bâzı hükümlerini değiştiren 12 Mayıs 1965 tarihli ek tüzüğün onaylanmasının uygun bulunduğu hakkında (1/260)",
+  "title": "6368 sayılı Kanunla onaylanan Milletlerarası Sağlık Tüzüğünün bâzı hükümlerini değiştiren 12 Mayıs 1965 tarihli ek tüzüğün onaylanmasının uygun bulunduğu hakkında (1/260)",
+  "first_sitting_date": "1966-11-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 1,
+      "sitting_date": "1966-11-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c009/mm__02009001.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c009/mm__02009fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 25,
+      "sitting_date": "1966-12-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c010/mm__02010025.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c010/mm__02010fih.pdf",
+      "pages": [
+        "170"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 79,
+      "sitting_date": "1967-04-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015fih.pdf",
+      "pages": [
+        "453",
+        "500:503"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=3201&v_kullanici_id=27484850",
+  "source_sha256": "caa18d4fb38a16d87a528db89752a9dd8c4383b937cbede86705c3d9e951d8cd",
+  "in_force": "1966-11-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
