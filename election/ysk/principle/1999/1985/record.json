@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/1985",
+  "list_number": "1985",
+  "decision_date": "1999-07-10",
+  "title": "YSK ilke kararı 1999/1985",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4532/1999-1985-karar.htm",
+  "source_sha256": "fb27f325275a83858e53feea12c82fac935315887e94dd0a42f1ecc1a26fb050",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-07-10",
+  "law_text_complete": false
+}
