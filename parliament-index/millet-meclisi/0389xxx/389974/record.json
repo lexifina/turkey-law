@@ -1,0 +1,101 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 389974,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "29.7.1970 tarih ve 1319 sayılı Emlâk Vergisi Kanununun bâzı maddelerinin kaldırılması, değiştirilmesi ve bu kanuna bâzı hükümler eklenmesi hakkında kanun tasarısı (1/546)",
+  "title": "29.7.1970 tarih ve 1319 sayılı Emlâk Vergisi Kanununun bâzı maddelerinin kaldırılması, değiştirilmesi ve bu kanuna bâzı hükümler eklenmesi hakkında kanun tasarısı (1/546)",
+  "first_sitting_date": "1971-11-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 19,
+      "sitting": 4,
+      "sitting_date": "1971-11-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019004.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019fih.pdf",
+      "pages": [
+        "44"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 38,
+      "sitting_date": "1972-02-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020fih.pdf",
+      "pages": [
+        "715"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 67,
+      "sitting_date": "1972-04-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c023/mm__03023067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c023/mm__03023fih.pdf",
+      "pages": [
+        "498",
+        "576",
+        "649",
+        "694"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 85,
+      "sitting_date": "1972-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024085.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024fih.pdf",
+      "pages": [
+        "445"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 105,
+      "sitting_date": "1972-06-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c025/mm__03025105.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c025/mm__03025fih.pdf",
+      "pages": [
+        "378",
+        "446",
+        "496",
+        "571",
+        "639"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 113,
+      "sitting_date": "1972-06-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026113.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026fih.pdf",
+      "pages": [
+        "20",
+        "64",
+        "116",
+        "131",
+        "136",
+        "182"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2401&v_kullanici_id=27484850",
+  "source_sha256": "246910b0e960659140840f2fb92afe3e1a569beef64becf7bc47ed29b1610b05",
+  "in_force": "1971-11-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
