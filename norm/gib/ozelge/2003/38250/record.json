@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6516-741/016376",
+  "source_id": 38250,
+  "date": "2003-04-16",
+  "title": "Perakende ticaretle uğraşan veya hizmet ifa eden birinci ve ikinci sınıf tacirlerin, ödeme...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38250",
+  "source_sha256": "79ac72045c680c5122ed66598da3fa70effd2d2e4a46fb24abcb708e5e837a13",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
