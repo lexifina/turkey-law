@@ -1,0 +1,1 @@
+Madde 1 – Romanya'da alınmış olan millileştirme tedbirleri veya buna benzer kanuni ve idari diğer tedbirlerden zarar görenler için 1/12/1966 gün ve 789 sayılı Kanunla tasdik edilmiş anlaşma gereğince Romen Hükümetinin ödediği tazminat 1987 sayılı Kanunun 7. maddesine göre bu Yönetmelikte belirtilen esaslar dairesinde hak sahiplerine takdir ve tevzi olunur.
