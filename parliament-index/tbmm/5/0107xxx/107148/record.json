@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 107148,
+  "assembly": "TBMM",
+  "term": 5,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Nafia Vekâleti 1934 yılı bütçesinde 4 104 liralık münakale yapılmasına ve fevkalâde tahsisat verilmesine dair 1/63, bazı dairelerin 1934 yılı bütçesinde 33 800 liralık münakale yapılması hakkında 1/74, bazı dairelerin 1934 yılı bütçesinde 69 770 liralık münakale yapılmasına dair 1/75, Harita Umum Müdürlüğü 1934 yılı bütçesinde 2 271 liralık münakale yapılması hakkında 1/76, Tapu ve Kadastro Umum Müdürlüğü 1934 yılı bütçesinde 3 830 liralık münakale yapılması hakkında 1/77, Emniyet işleri Umum Müdürlüğü 1934 yılı bütçesinde 10 500 liralık münakale yapılması hakkında 1/80, Millî Müdafaa Vekâleti 1934 yılı deniz bütçesinde 49 024 liralık münakale yapılması hakkında 1/82, Başvekâletle Şûrayi Devlet ve İstatistik Umum Müdürlüğü 1934 yılı bütçesinde 12 972 liralık münakale yapılmasına dair 1/83, Maarif ve Millî Müdafaa vekâletleri 1934 yılı bütçesinde 60 558 liralık münakale yapılması hakkında 1/84, Sıhhat ve İçtimaî Muavenet Vekâleti 1934 yılı bütçesinde 15 800 liralık münakale yapılmasına dair 1/88 numaralı kanun lâyihalarile İdare Heyetinin, Divani muhasebat 1934 yılı bütçesinde 3 099 liralık münakale yapılması hakkında 2/8 numaralı kanun teklifine dair",
+  "title": "Nafia Vekâleti 1934 yılı bütçesinde 4 104 liralık münakale yapılmasına ve fevkalâde tahsisat verilmesine dair 1/63, bazı dairelerin 1934 yılı bütçesinde 33 800 liralık münakale yapılması hakkında 1/74, bazı dairelerin 1934 yılı bütçesinde 69 770 liralık münakale yapılmasına dair 1/75, Harita Umum Müdürlüğü 1934 yılı bütçesinde 2 271 liralık münakale yapılması hakkında 1/76, Tapu ve Kadastro Umum Müdürlüğü 1934 yılı bütçesinde 3 830 liralık münakale yapılması hakkında 1/77, Emniyet işleri Umum Müdürlüğü 1934 yılı bütçesinde 10 500 liralık münakale yapılması hakkında 1/80, Millî Müdafaa Vekâleti 1934 yılı deniz bütçesinde 49 024 liralık münakale yapılması hakkında 1/82, Başvekâletle Şûrayi Devlet ve İstatistik Umum Müdürlüğü 1934 yılı bütçesinde 12 972 liralık münakale yapılmasına dair 1/83, Maarif ve Millî Müdafaa vekâletleri 1934 yılı bütçesinde 60 558 liralık münakale yapılması hakkında 1/84, Sıhhat ve İçtimaî Muavenet Vekâleti 1934 yılı bütçesinde 15 800 liralık münakale yapılmasına dair 1/88 numaralı kanun lâyihalarile İdare Heyetinin, Divani muhasebat 1934 yılı bütçesinde 3 099 liralık münakale yapılması hakkında 2/8 numaralı kanun teklifine dair",
+  "first_sitting_date": "1935-04-08",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 12,
+      "sitting_date": "1935-04-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c002/tbmm05002012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c002/tbmm05002fih.pdf",
+      "pages": [
+        "40",
+        "56:59",
+        "62:65"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2177&v_gelecek_sayfa=1701&v_kullanici_id=27483922",
+  "source_sha256": "e7e61ab3edad7000cf77e1579f9ab6d2b15542720b472d95bdb90a9a90de5989",
+  "in_force": "1935-04-08",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
