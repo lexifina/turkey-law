@@ -1,0 +1,2 @@
+VIII. Sicildeki hataların düzeltilmesi
+Madde 17 – Sicile kayıt düşürülürken, kayda esas teşkil eden belgelerden açıkça anlaşılan bir yazı veya rakam hatası yapılmışsa, sicili tutan memur, bu maddi hatayı re'sen veya tarafların isteği üzerine düzeltir. Düzeltme sırasında, yanlış kelime veya rakam yatay bir çizgi ile okunabilir şekilde iptal edilerek üstüne doğrusu yazılır. Sicil defterinin düşünceler hanesinde düzeltmenin sebebi ve tarihi gösterilir.

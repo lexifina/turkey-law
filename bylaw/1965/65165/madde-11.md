@@ -1,0 +1,2 @@
+Madde 11 – Asıl kaydın bulunduğu yer icra dairesi, kaydın 15 inci maddeye göre yenilendiğini, 16 ncı maddeye göre değiştirildiğini veya 17 inci maddeye göre düzeltildiğini yahut 18 inci maddeye göre silindiğini, sicile işlemek üzere, 9 uncu maddenin dördüncü fıkrası ile 10 uncu maddede sözü geçen icra dairelerine bildirilir.
+14 üncü madde gereğince yeniden tescil yapıldığının bildirilmesi halinde, rehin verenin ikametgahındaki icra dairesi, bunu sicile değişiklik olarak işaret eder.
