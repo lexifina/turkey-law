@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2371",
+  "year": 1933,
+  "title": "İskân kerestelerinden kalmış olanların satılarak bedellerinin Dahiliye bütçesine tahsisat olarak ilâvesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-01-03",
+  "gazette_issue": "2595",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2595.pdf",
+  "source_sha256": "4b30ed0d5583b0cbdb9723a55b87edf3085f45b7060793e53d608076873070ec",
+  "text_sha256": "56a35b4334fb1652af5c199a678690ab3800cd61c42a8d8ec206981b46037458",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      142,
+      156
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [2] (no text layer)",
+    "tesseract_pages": [
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302371.pdf",
+    "source_sha256": "d87a70af54faa05906c769135ca4d32669d6afd6adffd85df09a0a87410f45a6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9485,
+    "bag": 0.8816,
+    "kd_coverage": 0.9859,
+    "kd_body_compared": 0.9595,
+    "rg_words": 81,
+    "kd_words": 74,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
