@@ -1,0 +1,67 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 382464,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Kayseri Milletvekili Enver Turgut ve 8 arkadaşının, 17.7.1967 tarihli 506 sayılı Kanunun 123. maddesinin 2 ve 3. fıkrasının kaldırılması ve bir fıkra eklenmesi ile İzmir Milletvekili Burhanettin Asutay ve 4 arkadaşının, 506 sayılı Sosyal Sigortalar Kanununun 123. maddesinin değiştirilmesine dair kanun teklifleri ve Çalışma ve Plân komisyonlarından 8'er üyeden kurulu 41 numaralı Geçici Komisyon rapora (2/496, 2/323)",
+  "title": "Kayseri Milletvekili Enver Turgut ve 8 arkadaşının, 17.7.1967 tarihli 506 sayılı Kanunun 123. maddesinin 2 ve 3. fıkrasının kaldırılması ve bir fıkra eklenmesi ile İzmir Milletvekili Burhanettin Asutay ve 4 arkadaşının, 506 sayılı Sosyal Sigortalar Kanununun 123. maddesinin değiştirilmesine dair kanun teklifleri ve Çalışma ve Plân komisyonlarından 8'er üyeden kurulu 41 numaralı Geçici Komisyon rapora (2/496, 2/323)",
+  "first_sitting_date": "1971-04-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 92,
+      "sitting_date": "1971-04-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013092.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013fih.pdf",
+      "pages": [
+        "31"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 141,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016141.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016fih.pdf",
+      "pages": [
+        "370"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 149,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016149.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016fih.pdf",
+      "pages": [
+        "684:706"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 154,
+      "sitting_date": "1971-08-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017154.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017fih.pdf",
+      "pages": [
+        "185:197"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2301&v_kullanici_id=27484836",
+  "source_sha256": "e2396a49bcf49f0495ababce48ae860530af86754171d2569261a2423dcd2aa3",
+  "in_force": "1971-04-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
