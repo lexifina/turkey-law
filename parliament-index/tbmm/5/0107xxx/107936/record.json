@@ -1,0 +1,76 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 107936,
+  "assembly": "TBMM",
+  "term": 5,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Askerî ve mülkî tekaüd kanununun 60. maddesinin birinci fıkrasının değiştirilmesi hakkında 1/482 sayılı kanun lâyihası ve Millî Müdafaa ve Maliye encümenleri mazbatalarile askerî ve mülkî tekaüd kanununa ek 1/492 sayılı kanun lâyihasına dair",
+  "title": "Askerî ve mülkî tekaüd kanununun 60. maddesinin birinci fıkrasının değiştirilmesi hakkında 1/482 sayılı kanun lâyihası ve Millî Müdafaa ve Maliye encümenleri mazbatalarile askerî ve mülkî tekaüd kanununa ek 1/492 sayılı kanun lâyihasına dair",
+  "first_sitting_date": "1937-01-08",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 15,
+      "sitting": 21,
+      "sitting_date": "1937-01-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c015/tbmm05015021.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c015/tbmm05015fih.pdf",
+      "pages": [
+        "22",
+        "31",
+        "32",
+        "85",
+        "143:144"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 21,
+      "sitting_date": "1937-01-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c015/tbmm05015021.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c015/tbmm05015fih.pdf",
+      "pages": [
+        "22",
+        "31:32",
+        "85",
+        "143:144"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 10,
+      "sitting_date": "1938-12-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c028/tbmm05028010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c028/tbmm05028fih.pdf",
+      "pages": [
+        "14",
+        "74:75"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 16,
+      "sitting_date": "1939-01-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c029/tbmm05029016.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c029/tbmm05029fih.pdf",
+      "pages": [
+        "4"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2177&v_gelecek_sayfa=1601&v_kullanici_id=27483922",
+  "source_sha256": "b7ef9e9248bfd0111d84be0542f4d200dee69bf2fe7bb5a6a34cde645170d154",
+  "in_force": "1937-01-08",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
