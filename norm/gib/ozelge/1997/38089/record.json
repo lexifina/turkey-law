@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5411-1957/23858",
+  "source_id": 38089,
+  "date": "1997-06-10",
+  "title": "Sanayi Sicil Belgesine sahip olmayan şirketin ihraç kaydıyla yapılan teslimleri için tecil-terkin talebinde bulunduğu, ancak söz konusu belgenin iade talep edilen dönemlerden sonra alınması sebebiyle bu dönemlere ilişkin talebi yerindedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38089",
+  "source_sha256": "d2a0f51556aef522152943b50c52a97fb5faf02a1c15986a3a3d68d7259f3c93",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
