@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2005/75",
+  "list_number": "75",
+  "decision_date": "2005-02-26",
+  "title": "YSK ilke kararı 2005/75",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3742/2005-75-karar.htm",
+  "source_sha256": "dd987fee5777018ce08b002ac6e231d9798284496a35f99dbe351f46d08d2a7d",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2005-02-26",
+  "law_text_complete": false
+}
