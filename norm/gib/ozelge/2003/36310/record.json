@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6004-808/32598",
+  "source_id": 36310,
+  "date": "2003-07-28",
+  "title": "İlgililerin iradesi dışında tasfiye nedeniyle yurtdışından Türkiye'ye zorunlu olarak aktarılan bir mevduat olduğundan, bu mevduatın (malın) veraset ve intikal vergisinin uygulaması açısından Türkiye'de bulunan bir mevduat (mal) olarak değerlendirilmemesi,",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36310",
+  "source_sha256": "81fc9f8718538c679da9f752d2a0ec97e54e4801546b78ec22d188099cd00edc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
