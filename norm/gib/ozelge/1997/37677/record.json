@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5024-17/21257",
+  "source_id": 37677,
+  "date": "1997-05-22",
+  "title": "A.Ş.'ne dönüşen limited şirket bünyesinde başlanılan ve halen tamamlanmamış yatırımlar nedeniyle ayrılmış olan finansman fonunun ne şekilde işleme tabi tululacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37677",
+  "source_sha256": "61ac2b60224d3c7bbbaa86135d59563cf4dfabf9e7c4c226817c6ed4c7f74634",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
