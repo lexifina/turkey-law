@@ -1,0 +1,4 @@
+Emlâk Müdür Yardımcıları ve Millî Emlâk Müdür Yardımcılarının Görev ve Sorumluluğu
+Madde 19- Emlâk müdür yardımcıları ve millî emlâk müdür yardımcıları, kendilerine bağlı servislerin iş ve işlemlerinin mevzuata uygun olarak ve zamanında yapılması ile görevlidir.
+Sahip oldukları ve emlâk müdürü ve millî emlâk müdürü tarafından devredilen yetkileri iyiye kullanmamaktan, devrettiği yetkilerin iyiye kullanılmamasından ve görevlerinin mevzuata uygun ve zamanında yapılmamasından dolayı ilgililerle birlikte emlâk müdürüne ve millî emlâk müdürüne karşı sorumludurlar.
+Tahakkuk ve tahsilata ilişkin iş ve işlemlerin zamanında ve doğru olarak yerine getirilmemesinden doğan Hazine zararlarından, o iş ve işlemi yapan millî emlâk uzmanı, millî emlâk uzman yardımcısı, servis şefi ve memurlar ile birlikte sorumludur.
