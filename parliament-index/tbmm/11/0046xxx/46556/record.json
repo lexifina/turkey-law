@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 46556,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "BURHANETTİN ONAT (ANTALYA)",
+  "summary": "Gümrük Kanununun 17 ncî maddesinin 7 numaralı bendine 5651 sayılı Kanunla eklenen ve 8068 sayılı Kanunla değiştirilen (C) fıkrasının tadili hakkında (2/248)",
+  "title": "Gümrük Kanununun 17 ncî maddesinin 7 numaralı bendine 5651 sayılı Kanunla eklenen ve 8068 sayılı Kanunla değiştirilen (C) fıkrasının tadili hakkında (2/248)",
+  "first_sitting_date": "1958-12-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 17,
+      "sitting_date": "1958-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c006/tbmm11006017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c006/tbmm11006fih.pdf",
+      "pages": [
+        "218"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 73,
+      "sitting_date": "1959-05-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c009/tbmm11009073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c009/tbmm11009fih.pdf",
+      "pages": [
+        "347:348"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 31,
+      "sitting_date": "1960-02-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c011/tbmm11011031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c011/tbmm11011fih.pdf",
+      "pages": [
+        "440:445"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=475&v_gelecek_sayfa=301&v_kullanici_id=27484313",
+  "source_sha256": "aa83ad34dd7ca54b0918452386436fb64163b26be4929ec1f96c5cd9c8287056",
+  "in_force": "1958-12-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
