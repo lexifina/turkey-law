@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6248",
+  "year": 1954,
+  "title": "Devlet Memurları Aylıklarının Tevhit ve Teadülü Hakkındaki Kanuna Bağlı (l) sayılı Cetvel ile Tadil ve Eklerinin İçişleri Vekaletine Ait Kısmında Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-02-19",
+  "gazette_issue": "8638",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8638.pdf",
+  "source_sha256": "025873e51775a67ec053dde1ca94f7b3474930ccc9c978df43a1c82ac75b3a7e",
+  "text_sha256": "258ad8fdf22b91faa768b43d24a426464b69d1748af32d77b532c9fe333f13cb",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      36
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606248.pdf",
+    "source_sha256": "655de7712502c361933650ec51738a67d50cc377e9c79d3344ca27e411f0705d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9338,
+    "bag": 0.8889,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8696,
+    "rg_words": 105,
+    "kd_words": 138,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
