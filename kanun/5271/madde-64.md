@@ -1,0 +1,8 @@
+Bilirkişi olarak atanabilecekler
+MADDE 64.- (1) Bilirkişiler, il adlî yargı adalet komisyonları tarafından her yıl düzenlenen bir listede yer alan gerçek veya tüzel kişiler arasından seçilirler. Cumhuriyet savcıları ve hâkimler, yalnız bulundukları il bakımından yapılmış listelerden değil, diğer illerde oluşturulmuş listelerden de bilirkişi seçebilirler. Bu listelerin düzenlenmesine veya listelerde yer verilenlerin çıkarılmalarına ilişkin esas ve usuller, yönetmelikte gösterilir.
+(2) Atama kararında, gerekçesi de gösterilmek suretiyle, birinci fıkrada belirtilen listelere girmeyenler arasından da bilirkişi seçilebilir.
+(3) Kanunların belirli konularda görevlendirdiği resmî bilirkişiler öncelikle atanırlar. Ancak kamu görevlileri, bağlı bulundukları kurumla ilgili davalarda bilirkişi olarak atanamazlar.
+(4) Bilirkişi olarak atanan bir tüzel kişi ise, kendisi adına incelemeyi yapacak gerçek kişi veya kişilerin isimlerini, bilirkişi atayacak yargı merciinin onayına sunar.
+(5) Listelere kaydedilen bilirkişiler, il adlî yargı adalet komisyonu huzurunda "Görevimi adalete bağlı kalarak, bilim ve fenne uygun olarak, tarafsızlıkla yerine getireceğime namusum ve vicdanım üzerine yemin ederim." sözlerini tekrarlayarak yemin ederler. Bu bilirkişilere görevlendirildikleri her işte yeniden yemin verilmez.
+(6) Listelerde yer almamış bilirkişiler, görevlendirildiklerinde kendilerini atamış olan merci huzurunda yukarıdaki fıkrada öngörülen biçimde yemin ederler. Yeminin yapıldığına ilişkin tutanak hâkim veya Cumhuriyet savcısı, zabıt kâtibi ve bilirkişi tarafından imzalanır.
+(7) Engel bulunan hâllerde yemin yazılı olarak verilebilir ve metni dosyaya konulur. Ancak bu hâle ilişkin gerekçenin kararda gösterilmesi zorunludur.

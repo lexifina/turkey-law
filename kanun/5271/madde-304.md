@@ -1,0 +1,5 @@
+Yargıtay kararının gönderileceği merci
+MADDE 304. -(1) Yargıtayca 302 nci maddenin birinci fıkrası veya 303 üncü madde uyarınca verilen kararlara ilişkin dosya, hükmü veren bölge adliye mahkemesine gönderilmesi için Yargıtay Cumhuriyet Başsavcılığına verilir. Bölge adliye mahkemesi, dosyayı Yargıtaydan geldiği tarihten itibaren yedi gün içinde gereğinin yapılması için ilgili ilk derece mahkemesine gönderilmek üzere bölge adliye mahkemesi Cumhuriyet Başsavcılığına verir.
+(2) Yargıtay, dosyayı 303 üncü maddede belirtilenlerin dışında kalan hâllerde yeniden incelenmek ve hüküm verilmek üzere hükmü bozulan bölge adliye mahkemesine veya diğer bir bölge adliye mahkemesine gönderir.
+(3) Hüküm, mahkemenin hukuka aykırı olarak kendisini görevli veya yetkili görmesinden dolayı bozulmuşsa, Yargıtay aynı zamanda dosyayı görevli veya yetkili mahkemeye gönderir.
+(4) İlk derece mahkemesi tarafından doğrudan temyiz yolu açık bulunan hükümlerle ilgili olarak verilen karara ilişkin dosya, hükmü veren ilk derece mahkemesine gönderilmek üzere Yargıtay Cumhuriyet Başsavcılığına verilir.

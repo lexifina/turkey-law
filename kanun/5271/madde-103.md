@@ -1,0 +1,3 @@
+Cumhuriyet savcısının tutuklama kararının geri alınmasını istemesi
+MADDE 103.- (1) Cumhuriyet savcısı, şüphelinin adlî kontrol altına alınarak serbest bırakılmasını sulh ceza hâkiminden isteyebilir. Hakkında tutuklama kararı verilmiş şüpheli ve müdafii de aynı istemde bulunabilirler. Bu hâlde sulh ceza hâkimi, Cumhuriyet savcısı ile şüpheli ve müdafiini dinledikten sonra üç gün içinde karar verir.
+(2) Soruşturma evresinde Cumhuriyet savcısı adlî kontrol veya tutuklamanın artık gereksiz olduğu kanısına varacak olursa, şüpheliyi re'sen serbest bırakır. Kovuşturmaya yer olmadığı kararı verildiğinde şüpheli serbest kalır.

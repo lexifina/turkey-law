@@ -1,0 +1,2 @@
+Genetik inceleme sonuçlarının gizliliği
+MADDE 80.- (1) 75, 76 ve 78 inci maddeler hükümlerine göre alınan örnekler üzerinde yapılan inceleme sonuçları, kişisel veri niteliğinde olup, başka bir amaçla kullanılamaz; dosya içeriğini öğrenme yetkisine sahip bulunan kişiler tarafından bir başkasına verilemez. Bu bilgiler, kovuşturmaya yer olmadığı kararına itiraz süresinin dolması, itirazın reddi veya hükmün kesinleşmesi hallerinde en geç on gün içinde Cumhuriyet savcısının huzurunda yok edilir ve bu husus dosyasında muhafaza edilmek üzere tutanağa geçirilir.

@@ -1,0 +1,13 @@
+DÖRDÜNCÜ KISIM
+Koruma Tedbirleri
+BİRİNCİ BÖLÜM
+Yakalama ve Gözaltı
+Yakalama ve yakalanan kişi hakkında yapılacak işlemler
+MADDE 90.- (1) Aşağıda belirtilen hâllerde, herkes tarafından geçici olarak yakalama yapılabilir:
+a) Kişiye suçu işlerken rastlanması.
+b) Suçüstü bir fiilden dolayı izlenen kişinin kaçması olasılığının bulunması veya hemen kimliğini belirleme olanağının bulunmaması.
+(2) Kolluk görevlileri, tutuklama kararı veya yakalama emri düzenlenmesini gerektiren ve gecikmesinde sakınca bulunan hâllerde; Cumhuriyet savcısına veya âmirlerine derhâl başvurma olanağı bulunmadığı takdirde, yakalama yetkisine sahiptirler.
+(3) Soruşturma ve kovuşturması şikâyete bağlı olmakla birlikte, çocuklara, beden veya akıl hastalığı, malûllük veya güçsüzlükleri nedeniyle kendilerini idareden aciz bulunanlara karşı işlenen suçüstü hallerinde kişinin yakalanması şikâyete bağlı değildir.
+(4) Kolluk, yakalanan kişiye kanunî haklarını derhâl bildirir.
+(5) Birinci fıkraya göre yakalanıp kolluğa teslim edilen veya ikinci fıkra uyarınca görevlilerce yakalanan kişi, düzenlenecek soruşturma belgesiyle birlikte hemen Cumhuriyet Savcılığına gönderilir.
+(6) Yakalama emrine konu işlemin yerine getirilmesi nedeniyle yakalama emrinin çıkarılma amacının ortadan kalkması durumunda mahkeme, hâkim veya Cumhuriyet savcısı tarafından yakalama emrinin derhâl iadesi istenir.

@@ -1,0 +1,2 @@
+Açıklığın kaldırılması hakkında karar
+MADDE 184. (1) 182 nci maddede gösterilen hâllerde, açıklığın kaldırılması istemine ilişkin olarak yapılacak duruşma, istem üzerine veya mahkemece uygun görülürse kapalı yapılır.

@@ -1,0 +1,3 @@
+Fizik kimliğin tespiti
+MADDE 81.- (1) Üst sınırı iki yıl veya daha fazla hapis cezasını gerektiren bir suçtan dolayı şüpheli veya sanığın, kimliğinin teşhisi için gerekli olması halinde, Cumhuriyet savcısı veya hâkim kararıyla, fotoğrafı, beden ölçüleri, parmak ve ayak izi, bedeninde yer almış olup teşhisini kolaylaştıracak diğer özellikleri ile sesi ve görüntüleri kayda alınarak, soruşturma ve kovuşturma işlemlerine ilişkin dosyaya konulur.
+(2) Kovuşturmaya yer olmadığı veya beraat kararı verilmesi hâllerinde söz konusu kayıtlar Cumhuriyet savcısının huzurunda derhâl yok edilir ve bu husus tutanağa geçirilir.

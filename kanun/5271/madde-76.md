@@ -1,0 +1,5 @@
+Diğer kişilerin beden muayenesi
+MADDE 76. - (1) Bir suça ilişkin delil elde etmek amacıyla, mağdurun bedeni üzerinde tıbbî muayene yapılabilmesine veya kan, saç, tükürük, tırnak, cinsel salgı gibi örnekler alınabilmesine; sağlığını tehlikeye düşürmemek koşuluyla, Cumhuriyet savcısının istemiyle ya da re'sen hâkim veya mahkeme tarafından karar verilebilir.
+(2) Çocuğun soy bağının araştırılmasına gerek duyulması halinde, bu araştırmanın yapılabilmesi için, birinci fıkra hükmüne göre karar alınması gereklidir.
+(3) Tanıklıktan çekinme sebepleri ile muayeneden veya bedenden örnek alınmasından kaçınılabilir. Çocuk ve akıl hastasının çekinmesi konusunda kanunî temsilcisi karar verir. Çocuk veya akıl hastasının, tanıklığın hukukî anlam ve sonuçlarını algılayabilecek durumda olması hâlinde, görüşü de alınır. Kanunî temsilci de şüpheli veya sanık ise bu konuda hâkim tarafından karar verilir. Ancak, bu hâlde elde edilen deliller davanın ileri aşamalarında şüpheli veya sanık olmayan kanunî temsilcinin izni olmadıkça kullanılamaz.
+(4) Bu madde gereğince alınacak hâkim veya mahkeme kararlarına itiraz edilebilir.
