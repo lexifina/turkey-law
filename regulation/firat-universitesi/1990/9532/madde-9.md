@@ -1,0 +1,3 @@
+Eğitim Birimi ve Görevleri
+Madde 9 — Eğitim Birimi Personel Daire Başkanlığı veya Müdürlüğü bünyesinde kurulmuş, bu Yönetmeliğin öngördüğü eğitim faaliyetlerinin yürütülmesi ve çalışmaların koordine edilmesi ile görevlidir.
+Eğitim birimlerinde konuya ilişkin alanlarda yüksek öğrenim görmüş ve gerekli bilgi ve tecrübeye sahip eğitim uzmanları görevlendirilir. Eğitim uzmanları, eğitim araştırmaları yapmak, eğitim Plân ve Programlarının düzenlenmesi, izlenmesi, değerlendirilmesi, eğitim metod ve tekniklerinin geliştirilmesi, eğitim bütçe ve istatistiklerinin hazırlanması ve gerektiğinde eğitim görevlisi olarak eğitime katılmaktan sorumludur.

@@ -1,0 +1,2 @@
+Eğitim Konuları
+Madde 16 — Bu Yönetmeliğe göre yapılacak Hizmet İçi Eğitimde yer alacak konular; personelin hizmet ve çalışma alanına göre, gerçek ihtiyaçlar doğrultusunda ve sorunların çözümüne yardım sağlayacak nitelikte olanlardan seçilir. Bunlardan başka Atatürk İlkeleri, Halkla İlişkiler, Davranış Kuralları, Yabancı Dil, Personel Yönetimi, Araştırma Metodları, Yönetim Bilimindeki Yenilikler ve benzeri konulara yer verilir.
