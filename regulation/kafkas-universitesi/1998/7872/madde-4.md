@@ -1,0 +1,12 @@
+Madde 4-Yüksek lisans ve doktora programlarına, aşağıdaki şartları taşıyanlar ve giriş sınavlarını (Yabancı dil ve mülakat) başaranlar öğrenci olarak kabul edilir.
+a) Yüksek lisans programlarına lisans başarı ortalaması tam not üzerinden en az %55 olan (Kafkas Üniversitesi kadrosundaki Öğretim Elamanlarından bu şart aranmaz) ve Lisansüstü Eğitim sınavı (LES) sınavından en az % 45 alanlar başvurabilir.
+b)Tezli ve Tezsiz yüksek lisans sınavı, yabancı dil ve mülakat sınavlarından oluşur. Başarılı olabilmek için yabancı dil sınavından % 60 ve mülakat sınavından da % 65 alınması gerekir.
+c) Tezli ve Tezsiz yüksek lisans programlarına başvuran adaylardan Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavına girip de tam not üzerinden en az % 40 almış olanlar, yabancı dil sınavından muaf tutulurlar.
+d) Doktora programına başvurabilmek için adayların bir yüksek lisans derecesine sahip olması gerekir.
+e) Doktora programlarına; lisans başarı ortalaması tam not üzerinden en az % 55, tezli ve tezsiz yüksek lisans başarı ortalaması tam not üzerinden % 60 olanlar ile ÖSYM’ce Merkezi olarak yapılan Lisansüstü Eğitim Giriş Sınavı (LES)’den program türlerine göre en az % 45 almış olanlar başvurabilir.
+f) Öğrenim süresi 5 yıl ya da daha fazla süreli olup da doktora programına girmek isteyenlerin ise başarı ortalamasının tam not üzerinden % 60 olması gerekir.
+g) Doktora giriş sınavı, yabancı dil ve mülakat sınavlarından oluşur. Başarılı olabilmek için yabancı dil sınavından tam not üzerinden en az % 70 ya da Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavından tam not üzerinden en az % 50 alınması, mülakat sınavından ise tam not üzerinden % 75 alınması gerekir.
+h) Yabancı uyruklu adaylarla yurt dışında ikâmet eden Türk adayların lisansüstü programlara kabulü için diplomalarının ilgili alana eşdeğerliliğinin onaylanmış olması gerekir.
+i) Yüksek lisans ve doktora programlarına giriş için nihai başarı puanı mülakat sınavının % 10’si ve lisans ortalamasının % 40’u ile LES puanının % 50’si toplanarak belirlenir.
+j) Ortaöğretim Fen ve Matematik Alanları Eğitimi Anabilim Dalı ile Ortaöğretim Sosyal Alanlar Eğitimi Anabilim Dalı Tezsiz Yüksek lisans programı için nihai başarı puanı Les puanının % 50’si ile Lisans ortalamasının %50’si olarak belirlenir.
+k) Giriş sınavı jürileri, sınav tarihleri, yeri ve saati ve sonucun değerlendirilmesi gibi işlemler Enstitü Yönetim Kurulu’nca düzenlenir; Enstitü Müdürü tarafından yürütülür ve denetlenir.

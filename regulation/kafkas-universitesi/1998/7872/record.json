@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.7872",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "KAFKAS ÜNİVERSİTESİ SOSYAL BİLİMLER ENSTİTÜSÜ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "7872",
+  "issuer": "KAFKAS ÜNİVERSİTESİ",
+  "issuer_slug": "kafkas-universitesi",
+  "path": "regulation/kafkas-universitesi/1998/7872",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7872&MevzuatTertip=5",
+  "source_sha256": "53fde94d9fbe825c0552e7e1b84dbfa36506e2adb9a96c30b2c77777a93eab81",
+  "source_bytes": 81575,
+  "published": "1998-06-07",
+  "gazette": "23365",
+  "in_force": "1998-06-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.06.1998); own commencement article: \"Bu Yönetmelik 1997-1998 Eğitim-Öğretim yılından geçerli olmak üzere yayımı tarihinden yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1997-1998 Eğitim-Öğretim yılından geçerli olmak üzere yayımı tarihinden yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4811,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

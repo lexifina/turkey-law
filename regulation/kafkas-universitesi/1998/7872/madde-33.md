@@ -1,0 +1,4 @@
+Süre
+Madde 33-a) Doktora programını tamamlama süresi sekiz yarıyıldır. Daha kısa sürede mezun olabilecek öğrencilerle ilgili düzenlemeler danışmanın önerisi anabilim dalı ile Enstitü Yönetim Kurulu’nun kararı ve Senato onayı ile mümkün olabilir. Ancak bu süre tez önerisinin kabülünden itibaren en az iki yarıyıldır. Başarısız olan öğrencinin ilişkisi bu süreden önce kesilebilir.
+b) Dört Yarıyıl Sonunda kredili derslerini başarıyla tamamlayaman öğrencinin Enstitüsü ile ilişkisi kesilir.
+c) Kredili derslerini başarıyla bitiren, yeterlik sınavında başarılı bulunan ve tez önerisi kabul edilen, ancak tez çalışmasını sekiz yarıyıl sonuna kadar tamamlayamadığı için tez sınavına giremeyen bir öğrenciye, ilgili Enstitü Anabilim Dalı Başkanlığı’nın önerisi ve Enstitü Yönetim Kurulu onayı ile tezini jüri önünde savunması için en fazla dört yarıyıl ek süre verilebilir.

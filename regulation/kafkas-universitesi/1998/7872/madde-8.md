@@ -1,0 +1,2 @@
+Madde 8-a) Özel öğrenci programına, özellikle belirli bir konuya ilgi duyup da bilgisini artırmak isteyenlerle, lisansüstü programlara süresi içerisinde başvurmayan adaylar özel öğrenci olarak kabul edilebilir.
+b) Özel öğrenci kabul koşulları 3 ve 4’üncü maddedeki esaslara göredir. Özel öğrencilik süresi en çok iki yarıyıldır. Bunlar öğrencilik haklarından yararlanamazlar. Derslere devam etmek, verilen ödevleri yapmak, sınavlara girmek zorundadırlar.

@@ -1,0 +1,6 @@
+Yatay Geçiş
+Madde 9-İlgili Üniversite veya İleri teknoloji Enstitüsü içindeki başka bir Enstitü anabilim dalında veya başka bir yükseköğretim kurumunun lisansüstü programında en az bir yarıyılı tamamlamış olan başarılı öğrenci , aşağıdaki aşağıda belirtilen koşullarla lisansüstü programlara yatay geçiş yoluyla kabul edilebilir.
+a)Yatay geçişler ancak eşdeğer eğitim uygulayan programlar arasında yapılabilir.
+b)Yatay geçişler enstitü kurullarının belirleyeceği kontenjan dahilinde yapılır.
+Kontenjanların ilan edilmesi ve başvuruların kabul edilmesinden sonra adaylar arasında disiplin cezası almamış ve not ortalamaları en yüksek olanlar seçilir. Geçiş için başvuruda bulunan öğrenciden geçiş yapmak istediği Enstitünün öğrenci koşulları ve ders geçme koşullarının uygun olduğu aranır ve öğrenci geçiş başvurusunu, yarıyılın başlamasından en az bir ay önce geçerli nedenlerini belirterek yapmak zorundadır.
+c) Yatay geçiş yapanlar, geldikleri programda sağladıkları kredi ne olursa olsun, yeni geldikleri anabilim dalının istediği kredi toplamının en çok üçte birine karşılık gelen kredi kadar ders saydırabilirler. İki takvim yılından önce alınan derslerin kredileri saydırılamaz.Bu saydırma işlemi ilgili anabilim dalının teklifi ve Enstitü Yönetim Kurulu’nun onayı ile olur.

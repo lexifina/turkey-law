@@ -1,0 +1,2 @@
+Madde 19-Yarıyıl sınavlarına Enstitü Yönetim Kurulu tarafından kabul edilen mazereti nedeniyle katılmayan öğrenciler bir sonraki yarıyıl başlamadan önce bir sınav hakkı verilebilir.
+Tekrar edilmesi gereken dersin veya derslerin müteakip yarıyılda açılmaması halinde Enstitü Yönetim Kurulu kararı ile tekrara kalan öğrenci en çok iki yarıyıl izinli sayılabilir. Yahut tekrar dersleri açılmayacak ise danışman ve anabilim dalı önerisiyle ve Enstitü Yönetim Kurulu kararı ile derslerin yerine başka dersler verebilir.
