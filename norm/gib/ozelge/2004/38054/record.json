@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-22S3",
+  "source_id": 38054,
+  "date": "2004-05-28",
+  "title": "Türkiye'de ticari, sınai, zirai faaliyet ve serbest meslek faaliyet...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38054",
+  "source_sha256": "f9d0643862751b1c7c679677ac1308c07af75778aa8d6430fbd85262d51ed6db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
