@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "115",
+  "year": 1960,
+  "title": "13.06.1946 tarih ve 4936 sayılı Üniversiteler Kanununun bazı maddelerinin değiştirilmesi ve bu kanuna madde eklenmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-10-28",
+  "gazette_issue": "10641",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10641.pdf",
+  "source_sha256": "8a4032f7b0bfe2856b5043ccf523bd5a5e15e81e5e09ff77aca78220c014df46",
+  "text_sha256": "34cafb8b4e76a545c6bbb5996a4e9f31d4e20d4396dfcc393abaf7fa0eb2ebf9",
+  "text_status": "ocr",
+  "pages": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "line_span": [
+    [
+      1013,
+      1640
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300115.pdf",
+    "source_sha256": "2d1ba839f07ad7a6fd2fa29fcb903ab87a130b35267732e58e9d96ee36c6f93c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9612,
+    "bag": 0.9438,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9996,
+    "rg_words": 4585,
+    "kd_words": 4622,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
