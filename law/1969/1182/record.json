@@ -1,0 +1,146 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1182",
+  "year": 1969,
+  "title": "Anayasa nizamını, millî güvenlik ve huzuru bozan bazı fiiller hakkında 5.3.1962 tarih ve 38 sayılı Kanunun yürürlükten kaldırılması hakkında Kanun",
+  "adopted": "1969-05-15",
+  "adopted_as_published": "15/05/1969",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.05.1969 No: 13210",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201182.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 52",
+  "committee_reports": [
+    {
+      "label": "MM 789 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036084ss0789.pdf"
+    },
+    {
+      "label": "CS 1269no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053063ss1269.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 373370,
+      "title": "Anayasa nizamını, millî güvenlik ve huzuru bozan bazı fiiller hakkında 5.3.1962 tarih ve 38 sayılı Kanunun yürürlükten kaldırılması hakkında Kanun",
+      "adopted_as_published": "15/05/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201182.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 789 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036084ss0789.pdf"
+        },
+        {
+          "label": "CS 1269no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053063ss1269.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 30,
+          "sitting": 21,
+          "sitting_date": "1969-01-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030fih.pdf",
+          "pages": [
+            "211"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 40,
+          "sitting_date": "1969-01-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c031/mm__02031040.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c031/mm__02031fih.pdf",
+          "pages": [
+            "621:622"
+          ]
+        },
+        {
+          "cilt": 36,
+          "sitting": 84,
+          "sitting_date": "1969-04-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036084.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036fih.pdf",
+          "pages": [
+            "53:80"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1501&v_kullanici_id=27483225",
+      "page_sha256": "66251c4483ca186d733ac0d6ddf330376a3f317f3ebe9b3ad35f2b553c9b6259"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 313043,
+      "title": "Anayasa nizamını, milli güvenlik ve huzuru bozan bâzı fiiller hakkında 5.3.1962 tarih ve 38 sayılı Kanunun yürürlükten kaldırılması hakkında Kanun",
+      "adopted_as_published": "15/05/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201182.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 789 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036084ss0789.pdf"
+        },
+        {
+          "label": "CS 1269no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053063ss1269.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 53,
+          "sitting": 53,
+          "sitting_date": "1969-04-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053fih.pdf",
+          "pages": [
+            "63"
+          ]
+        },
+        {
+          "cilt": 53,
+          "sitting": 55,
+          "sitting_date": "1969-04-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053fih.pdf",
+          "pages": [
+            "141"
+          ]
+        },
+        {
+          "cilt": 53,
+          "sitting": 56,
+          "sitting_date": "1969-05-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053fih.pdf",
+          "pages": [
+            "227"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1101&v_kullanici_id=27483235",
+      "page_sha256": "1eaad7ada00aca89de2fafea1c48fe47bacb9ae26f5a743f31a7c677dcbb0e77"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "66251c4483ca186d733ac0d6ddf330376a3f317f3ebe9b3ad35f2b553c9b6259",
+  "issuer": "Millet Meclisi",
+  "in_force": "1969-05-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 15/05/1969; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
