@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8771",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALİNDE TEK TARAFLI KONTROL SİSTEMİ KAPSAMINDA KOTA UYGULANAN TEKSTİL ÜRÜNLERİNE AİT KOTALARIN İKİNCİ BÖLÜMÜNÜN DAĞITIMI VE YÖNETİMİNE İLİŞKİN TEBLİĞ (2004/7)",
+  "number": "8771",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2004/8771",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8771&MevzuatTertip=5",
+  "source_sha256": "0cf9fe302bc932b3aaf91548b568532c763f6b28d0f6961723b3e673569c2291",
+  "source_bytes": 172840,
+  "published": "2004-06-03",
+  "gazette": "25481",
+  "in_force": "2004-06-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.06.2004); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1207,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
