@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5111-49/54898",
+  "source_id": 37682,
+  "date": "1997-12-17",
+  "title": " Şirketlerin faaliyetlerinin yürütülmesi için tahsis edilmesi söz konusu olmayan, satmak amacıyla inşa edilen iş yerleri ve konutların satışından doğan kazançların, kurumlavergisinden müstesna tutulması mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37682",
+  "source_sha256": "b4f2fd2207218e022efb8b395d1f163483022a7b24d3b54226d224209ae3c74a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
