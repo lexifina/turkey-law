@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 21,
+  "legislative_year": 2,
+  "esas_no": "7/2026",
+  "submitted": "2000-01-03",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Musa UZUNKAYA",
+  "province": "Samsun",
+  "summary": "Öğrencilere kuduzla ilgili yeterli bilgi verilip verilmediğine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bd-8ac6-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "a7b3be1344da47d11e3245f694b0d507d5278b9f5b3554cd0a30dff295502872",
+  "in_force": "2000-01-03",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
