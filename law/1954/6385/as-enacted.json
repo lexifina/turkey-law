@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6385",
+  "year": 1954,
+  "title": "Bazı Orman Suçlarının Affına ve Bazı Suçlardan Mütevellit Tazminatın Terkinine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-18",
+  "gazette_issue": "8661",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8661.pdf",
+  "source_sha256": "08b96f1014baa5b1cb0c50921dda0c3788c54fa75ac532bb00753614147b1cba",
+  "text_sha256": "f51a7f40d5d614f8c504117e7e8c122503b358ed41f09842c0d7e0f7c62bcf38",
+  "text_status": "ocr",
+  "pages": [
+    23
+  ],
+  "line_span": [
+    [
+      3410,
+      3433
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606385.pdf",
+    "source_sha256": "86e94539c1c4e7d3edac523ddd533e4debdfd74d98df2bb782220af892714d6c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9911,
+    "bag": 0.9377,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9892,
+    "rg_words": 185,
+    "kd_words": 186,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
