@@ -1,0 +1,2 @@
+Üyelik
+MADDE 3 - Madde l'de açıklanan amaçlar doğrultusunda, öğretim ve araştırma ve üretim alanında bilfiil çalışan, katkıda bulunan ve ilgi duyan gerçek kişiler ve kuruluşlar, Milli Komite'ye üye kabul edilebilirler. Bir kişi veya kuruluşun üye seçilebilmesi için,iki üye tarafından teklif edilmesi ve bu teklifin yönetim kurulunca onaylanması gerekir. Milli Komiteye üyelik için T.C vatandaşlığı gereklidir. Kuruluşlar, Milli Komitede birer üyelik için T.C vatandaşlığı gereklidir. Kuruluşlar, Milli Komitede birer üye ile temsil edilirler.

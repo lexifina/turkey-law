@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayını tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1990-05-17",
+      "17.05.1990",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayını tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "20521",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1990-05-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/1990/7161",
+  "published": "1990-05-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7161&MevzuatTertip=5",
+  "source_bytes": 20844,
+  "source_id": "8.5.7161",
+  "source_sha256": "89048ad4ef72089d6142bb679ce7f3fe1dca2d39e2c22fea6a6fbc8e0e5b2bba",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ\r\nHAVA İLE ÇALIŞAN MOTORLAR TÜRK MİLLİ \r\nKOMİTESİ YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 756
+}
