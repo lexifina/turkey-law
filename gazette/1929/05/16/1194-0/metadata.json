@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-issue",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "1929-05-16",
+  "issue": "1194",
+  "issue_basis": "official archive file name /arsiv/<issue>.pdf (the archive numbers its files by issue; e.g. 24091.pdf = 26.06.2000, the issue before HTML issue 24092)",
+  "edition": "regular",
+  "archive_mukerrer_flag": null,
+  "item": 0,
+  "section": null,
+  "heading": null,
+  "title": "16.05.1929 tarihli Resmi Gazete",
+  "official_link": "https://www.resmigazete.gov.tr/arsiv/1194.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/Home/Filter",
+  "index_request": {
+    "method": "POST",
+    "searchtype": 2,
+    "arsivaramayeri": "1",
+    "from": "1929-01-01",
+    "to": "1929-12-31"
+  },
+  "index_sha256": "83e23313d84b970ab9fa0d87b570969cf59fd8e049f8caa8f5e5de75269b6888",
+  "index_header": "official archive listing date 16.05.1929",
+  "issue_pdf": "https://www.resmigazete.gov.tr/arsiv/1194.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; whole issue published as a scanned PDF (no OCR); items not listed"
+}
