@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5428- 1884",
+  "source_id": 33205,
+  "date": "2005-03-10",
+  "title": "Çavdar ekmeği ile buğday ununa kepek dışındaki bazı ilavelerle yapıldığı anlaşılan tahıl ekmeği teslimlerinde %8 oranında katma değer vergisi uygulanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33205",
+  "source_sha256": "52fdbbcd37f9b847a814045d264ccd944e3f3a92e26affa846970fc7f9c87063",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
