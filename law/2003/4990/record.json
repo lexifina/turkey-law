@@ -1,0 +1,72 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4990",
+  "year": 2003,
+  "title": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesine Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2003-10-16",
+  "adopted_as_published": "16/10/2003",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "21.10.2003 No: 25266",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08804990.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 88",
+  "committee_reports": [
+    {
+      "label": "TBMM 203 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c028/tbmm22028008ss0203.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 207530,
+      "title": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesine Katılmamızın Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "16/10/2003",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08804990.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 203 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c028/tbmm22028008ss0203.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 24,
+          "sitting_date": "2003-01-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003fih.pdf",
+          "pages": [
+            "204"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 8,
+          "sitting_date": "2003-10-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c028/tbmm22028008.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c028/tbmm22028fih.pdf",
+          "pages": [
+            "129:132",
+            "316:339"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=201&v_kullanici_id=27483198",
+      "page_sha256": "279fbda299ebb8ffb2c98e49d95591811569006030ab91c6e92bb9737e7dd9e7"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "279fbda299ebb8ffb2c98e49d95591811569006030ab91c6e92bb9737e7dd9e7",
+  "issuer": "TBMM",
+  "in_force": "2003-10-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 16/10/2003; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
