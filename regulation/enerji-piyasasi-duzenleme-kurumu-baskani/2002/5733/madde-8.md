@@ -1,0 +1,4 @@
+Mevcut sözleşmelerin tadili
+Madde 8 — Mevcut sözleşmeleri kapsamında birden fazla piyasa faaliyetini bir arada sürdüren veya sürdürmesi öngörülen tüzel kişiler, görev verilmesine ilişkin imtiyaz sözleşmelerinde; Kanunun 2 nci maddesinin dördüncü fıkrasının (a) bendinin (2) numaralı alt bendi ve (b) bendi, 3 üncü maddesi ve 4 üncü maddesi ile geçici 3 üncü maddesi hükümlerine göre yapılması gerekli görülen değişikliklerin kapsamı ve süresinin belirlenerek bildirilmesi hususunda, bu Yönetmeliğin yayımı tarihinden itibaren yirmi iş günü içerisinde Kuruma yazılı olarak başvurur.
+Kurumca bildirilen değişiklikler yerine getirilmediği sürece, bu tüzel kişilerin üretim ve/veya dağıtım lisansı başvuruları değerlendirmeye alınmaz.
+Mevcut sözleşmelerin tarafları, sözleşmelerin tadiline ilişkin çalışmalarda Kurum temsilcisinin katılımını talep etmeleri halinde, Kurum temsilcisi görevlendirilebilir.

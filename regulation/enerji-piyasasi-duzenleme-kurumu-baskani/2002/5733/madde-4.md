@@ -1,0 +1,3 @@
+İletim tesislerinin devri yükümlülüğü
+Madde 4 — Mevcut sözleşmeleri kapsamında iletim faaliyetini sürdürmekte olan özel hukuk tüzel kişileri, işletmekte oldukları iletim tesislerini tüm hak ve yetkileri ile birlikte bu Yönetmelik hükümleri uyarınca TEİAŞ’a devretmekle yükümlüdür.
+İletim sisteminin işletilmesine ilişkin tüm hak ve yetkilerin TEİAŞ tarafından kullanılmasını teminen iletim tesislerinin devrinin en geç 31/12/2002 tarihine kadar gerçekleştirilmesi zorunludur. Söz konusu süre, tarafların ortak talebiyle, bir defaya mahsus olmak üzere Kurul kararıyla en fazla bir aya kadar uzatılabilir.

@@ -1,0 +1,3 @@
+İletim, üretim ve dağıtım tesislerinin devrine ilişkin yöntem ve devrin kapsamı
+Madde 7 — Mevcut sözleşmeleri kapsamında birden fazla piyasa faaliyetini bir arada sürdüren tüzel kişilerce işletilen iletim, üretim ve dağıtım tesislerinin devrine ilişkin olarak uygulanacak yöntem ve devrin kapsamı, sözleşmede yer alan hak ve yükümlülükler ile bu Yönetmelik hükümleri dikkate alınarak taraflarca belirlenir.
+Devreden ve devralan tüzel kişilerin; hizmetin aksamaması için devir konusu piyasa faaliyetlerinin yürütülmesi ile ilgili gerekli önlemleri almadığı hallerde, fiilin niteliğine göre Kanunun 11 inci maddesi hükümleri uygulanır.
