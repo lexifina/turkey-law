@@ -1,0 +1,51 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 43801,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Karayolları Umum Müdürlüğü 1960 yılı Bütçe kanunu lâyihasına dair (1/465)",
+  "title": "Karayolları Umum Müdürlüğü 1960 yılı Bütçe kanunu lâyihasına dair (1/465)",
+  "first_sitting_date": "1960-02-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 37,
+      "sitting_date": "1960-02-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c011/tbmm11011037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c011/tbmm11011fih.pdf",
+      "pages": [
+        "803"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 48,
+      "sitting_date": "1960-02-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c012/tbmm11012048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c012/tbmm11012fih.pdf",
+      "pages": [
+        "676:719",
+        "794:798",
+        "1076:1077",
+        "1081",
+        "1086",
+        "1101:1105"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1113&v_gelecek_sayfa=901&v_kullanici_id=27484293",
+  "source_sha256": "91301e9678a127e0ba66c634bfc5ddffff42dc788a20c9a5d7795b696b57060b",
+  "in_force": "1960-02-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
