@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2088",
+  "year": 1933,
+  "title": "Konya ovası sulama idaresinin 1932 malî senesi Bütçe Kanununa bazı maddeler tezyiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-01-17",
+  "gazette_issue": "2306",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2306.pdf",
+  "source_sha256": "cee1c6b526a2994b3f2dbc036bcdc5750b916a4ff888e1413ccd3727874ddc82",
+  "text_sha256": "43ed59cd2f38d6b28c5dd45b91809739011a7d2620cb9e930c0768f3acf55b72",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      41
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202088.pdf",
+    "source_sha256": "3724bbf71e1bbb94f9da35d3f81bda0628836b410573444f9457a75a25f4b15b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9628,
+    "bag": 0.9123,
+    "kd_coverage": 0.9737,
+    "kd_body_compared": 0.9569,
+    "rg_words": 117,
+    "kd_words": 116,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
