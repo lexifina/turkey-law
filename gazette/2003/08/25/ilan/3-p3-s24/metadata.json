@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-08-25",
+  "issue": "25210",
+  "edition": "regular",
+  "item": 24,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "Dikili Belediye Başkanlığı İhale Komisyon Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030825-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (41 = 41)",
+  "ilan_codes": [
+    "31045/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030825-3-3.htm",
+  "category_page_sha256": "1b02af867d1020cbafabd5c73bb3a65324676be6c6d3bbc2293aa9b033435128",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030825.htm",
+  "index_sha256": "4946e9335da0a35b79ab5c0c5fc2b972d80429bb0dec1f2deae6a411e719bfb5",
+  "index_header": "25 Ağustos 2003 ... Sayı : 25210",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
