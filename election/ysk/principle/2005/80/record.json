@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2005/80",
+  "list_number": "80",
+  "decision_date": "2005-02-26",
+  "title": "YSK ilke kararı 2005/80",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3740/2005-80-karar.htm",
+  "source_sha256": "0db95d0c929fdf945f7d33126a9059a157ea4a3a6ff90677e1d49741dbb58265",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2005-02-26",
+  "law_text_complete": false
+}
