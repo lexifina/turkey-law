@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.64/6431- 235/18679",
+  "source_id": 37445,
+  "date": "1997-05-07",
+  "title": "1.3.1984 tarihinden sonra OYAK'tan alınan kredinin konut edindirme kredisi olduğunun krediyi veren kurumca beyan edilmesi ve konutun 150m2'den küçük olması halinde bununla ilgili olarak tesis olunan ipotek damga vergisi ve harçtan istisnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/37445",
+  "source_sha256": "0d3f477090979c486c576100e03a674b2bafd399d68212ceaec964e8e01522a0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
