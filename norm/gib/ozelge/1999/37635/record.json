@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5910-45/044750",
+  "source_id": 37635,
+  "date": "1999-10-19",
+  "title": "Kozmetik imalinde üretim girdisi olarak kullandığı propan ve bütan gazından dolayı Akaryakıt Tüketim Vergisine tabi tutulmaması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/591/ozelge/37635",
+  "source_sha256": "53fcda031b7e83b5086f67b4319bb13018559ff7cf4d7a34e45ef7b3a4a7a986",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
