@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": null,
+  "date_quote": "28/8/2002 | 2002/4724 | - | 24/9/2002",
+  "first_law": null,
+  "gazette": "23247",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2002-09-24",
+  "in_force_basis": "latest source-printed amendment commencement or Resmi Gazete date (current consolidated text)",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1998-02-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=9810514&MevzuatTertip=5",
+  "source_bytes": 55202,
+  "source_id": "2.5.9810514",
+  "source_sha256": "ac756b8da77a229429fb4e21cd1c3af7e219090702757399dd7641990a09b6f8",
+  "source_type": "Tüzükler",
+  "title": "SANAYİ VE TİCARET BAKANLIĞI KONTROLÖRLER TÜZÜĞÜ",
+  "word_count": 1590
+}
