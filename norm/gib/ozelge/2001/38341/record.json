@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1120/5316",
+  "source_id": 38341,
+  "date": "2001-01-26",
+  "title": "İhracat sayılan satış ve işlemlere ilişkin olarak yapılan kambiyo işlelerinden doğan kambiyo BSMV istisna kapsamındadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38341",
+  "source_sha256": "8016fbf8a489c601eed453b58aa2c2915bfd7df9c8ba1dcf7dfd895fbb9544dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
