@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.6913",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "CEZA İNFAZ KURUMLARI ILE TEVKIFEVLERINDE GÖREV YAPAN PERSONELIN ÖDÜLLENDIRILMESINE DAIR YÖNETMELIK",
+  "number": "6913",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1981/6913",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6913&MevzuatTertip=5",
+  "source_sha256": "6a3a52bd662834f61b958e32d47ea21b00c47c2a69940f9158b3428630dcd626",
+  "source_bytes": 38913,
+  "published": "1981-05-28",
+  "gazette": "17353",
+  "in_force": "1981-05-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.05.1981); own commencement article: \"Bu yönetmelik yayınlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu yönetmelik yayınlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 399,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

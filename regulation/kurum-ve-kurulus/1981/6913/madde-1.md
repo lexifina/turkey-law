@@ -1,0 +1,1 @@
+Madde 1- Ceza infaz Kurumları ile Tevkifevlerinde görev yapan ve bu kurumlarda yetki ile çalışan personele 2416 sayılı 1981 Yılı Bütçe Kanununun 36 ncı maddesinin A/d fıkrası gereğince verilecek ödülün esasları ile miktarı ve ödeme usulü bu yönetmelikle düzenlenmiştir.

@@ -1,0 +1,1 @@
+Madde 3- 2 nci maddenin (d), (f). (g) bendlerinde yazılı hallerin ödüle hak kazanmak maksadıyla, bizzat görevli personel tarafından tertiplenip tertiplenmediği, Cumhuriyet Savcılığınca tahkik edilir. Bu hallerin görevli personel tarafından aynı amaçla meydana getirdiği anlaşıldığı takdirde kendilerine ödül verilmez.
