@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4151",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ TAKIM MENSUPLARININ SİGORTALANMALARI HAKKINDA YÖNETMELİK",
+  "number": "4151",
+  "issuer": "Gençlik ve Spor Genel Müdürü",
+  "issuer_slug": "genclik-ve-spor-genel-muduru",
+  "path": "regulation/genclik-ve-spor-genel-muduru/1991/4151",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4151&MevzuatTertip=5",
+  "source_sha256": "9ef5b8e9dcc1c835077f47f8a1e9762e493977771ffd5c095ef7e77f10e8d5ea",
+  "source_bytes": 46030,
+  "published": "1991-08-13",
+  "gazette": "20959",
+  "in_force": "1991-08-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.08.1991); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 510,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
