@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6508-69",
+  "source_id": 27196,
+  "date": "2000-04-11",
+  "title": "İşlem tarihi hatalı olan ödeme kaydedici cihaz fişleri ile ilgili olarak Vergi Usul Kanununun 352/II-7. maddesi uyarınca ikinci derece usulsüzlük cezasının kesilmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/27196",
+  "source_sha256": "1582fd458b3f8e3d18e05aeb1187351ca24eb493da46b880063123b68c783038",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
