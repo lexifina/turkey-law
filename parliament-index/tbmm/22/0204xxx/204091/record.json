@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 204091,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Türk Silahlı Kuvvetleri İç Hizmet Kanununda Değişiklik Yapılmasına Dair (1/683, 1/577)",
+  "title": "Türk Silahlı Kuvvetleri İç Hizmet Kanununda Değişiklik Yapılmasına Dair (1/683, 1/577)",
+  "first_sitting_date": "2005-02-23",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 75,
+      "sitting": 62,
+      "sitting_date": "2005-02-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c075/tbmm22075062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c075/tbmm22075fih.pdf",
+      "pages": [
+        "395:402"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1277&v_gelecek_sayfa=801&v_kullanici_id=27484575",
+  "source_sha256": "d91343ffb7db24c728fa3757c35e4792f67260c44a71b89c2cdd5cf515e3652a",
+  "in_force": "2005-02-23",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
