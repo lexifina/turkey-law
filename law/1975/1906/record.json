@@ -1,0 +1,226 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1906",
+  "year": 1975,
+  "title": "6831 sayılı Orman Kanununun 20.6.1973 tarih ve 1744 sayılı Kanunla değişik 34.ncü maddesi ile ek 3.ncü maddesinin değiştirilmesine dair Kanun.",
+  "adopted": "1975-06-05",
+  "adopted_as_published": "05/06/1975",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.06.1975 No: 15265",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801906.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 58",
+  "committee_reports": [
+    {
+      "label": "MM 24 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c003/mm__04003065ss0024.pdf"
+    },
+    {
+      "label": "MM 24ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012082ss0024ek01.pdf"
+    },
+    {
+      "label": "CS 354no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017064ss0354.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 448260,
+      "title": "6831 sayılı Orman Kanununun 20.6.1973 tarih ve 1744 sayılı Kanunla değişik 34.ncü maddesi ile ek 3.ncü maddesinin değiştirilmesine dair Kanun.",
+      "adopted_as_published": "05/06/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801906.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 24 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c003/mm__04003065ss0024.pdf"
+        },
+        {
+          "label": "MM 24ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012082ss0024ek01.pdf"
+        },
+        {
+          "label": "CS 354no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017064ss0354.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 27,
+          "sitting_date": "1974-01-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c001/mm__04001027.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c001/mm__04001fih.pdf",
+          "pages": [
+            "122"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 56,
+          "sitting_date": "1974-03-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c002/mm__04002056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c002/mm__04002fih.pdf",
+          "pages": [
+            "288"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 65,
+          "sitting_date": "1974-04-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c003/mm__04003065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c003/mm__04003fih.pdf",
+          "pages": [
+            "139:172"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 96,
+          "sitting_date": "1974-06-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006096.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006fih.pdf",
+          "pages": [
+            "151"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 100,
+          "sitting_date": "1974-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006100.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006fih.pdf",
+          "pages": [
+            "270"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 82,
+          "sitting_date": "1975-05-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012fih.pdf",
+          "pages": [
+            "365:375"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 85,
+          "sitting_date": "1975-06-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012085.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012fih.pdf",
+          "pages": [
+            "453:456"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=301&v_kullanici_id=27483225",
+      "page_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 325117,
+      "title": "6831 sayılı Orman Kanununun 20.6.1973 tarih ve 1744 sayılı Kanunla değişik 34 ncü maddesi ile ek 3 ncü maddesinin değiştirilmesine dair kanun",
+      "adopted_as_published": "05/06/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801906.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 24 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c003/mm__04003065ss0024.pdf"
+        },
+        {
+          "label": "MM 24ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012082ss0024ek01.pdf"
+        },
+        {
+          "label": "CS 354no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017064ss0354.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 46,
+          "sitting_date": "1974-04-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c014/cs__14014046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c014/cs__14014fih.pdf",
+          "pages": [
+            "146"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 54,
+          "sitting_date": "1974-05-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c015/cs__14015054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c015/cs__14015fih.pdf",
+          "pages": [
+            "222"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 64,
+          "sitting_date": "1974-05-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c017/cs__14017064.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c017/cs__14017fih.pdf",
+          "pages": [
+            "55:80"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 65,
+          "sitting_date": "1974-06-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c017/cs__14017065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c017/cs__14017fih.pdf",
+          "pages": [
+            "95:97",
+            "103:104"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 66,
+          "sitting_date": "1974-06-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c017/cs__14017066.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c017/cs__14017fih.pdf",
+          "pages": [
+            "112:115",
+            "121:123"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1901&v_kullanici_id=27483235",
+      "page_sha256": "b03516e6e4516fd0e8518e72928e38bf7e13c854ce0bd904282a9e657cec2cef"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb",
+  "issuer": "Millet Meclisi",
+  "in_force": "1975-06-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 05/06/1975; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
