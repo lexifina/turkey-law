@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1455",
+  "year": 1929,
+  "title": "Askeri memurlar hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-05-27",
+  "gazette_issue": "1200",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1200.pdf",
+  "source_sha256": "a77141f639f8a78d6380d5ac5fb38b3aeb63d69d977dcf28928e7191ae2232ec",
+  "text_sha256": "f924c3c13513c6872581275a8e2eb27fe2917bdbf219a72bddc3c5df064abcc1",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      48,
+      102
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [2, 3] (no text layer)",
+    "tesseract_pages": [
+      2,
+      3
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701455.pdf",
+    "source_sha256": "e2595ea503df7562e69e8369b6515ad5aea295128bdb7e00caf62008db6c35cd",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9618,
+    "bag": 0.8856,
+    "kd_coverage": 0.9981,
+    "kd_body_compared": 0.9946,
+    "rg_words": 579,
+    "kd_words": 560,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
