@@ -1,0 +1,1 @@
+Madde 4 — Sertifikaya yönelik eğitim programını: başvuru koşulları, kayıt ve kabul işlemleri ile gerekti durumlarda sınavlarla ilgili bilgiler SEM tarafından duyurulur ve bunlara ilişkin uygulamalar SEM tarafından yapılır.
