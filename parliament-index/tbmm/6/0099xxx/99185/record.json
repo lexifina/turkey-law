@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 99185,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Hudut ve Sahiller Sıhhat Umum Müdürlüğü 1937 malî yılı hesabı katîsine ait mutabakat beyannamesinin sunulduğuna dair Divanı Muhasebat Riyaseti tezkeresiyle Hudut ve Sahiller Sıhhat Umum Müdürlüğü 1937 malî yılı hesabı katîsi hakkındaki kanun lâyihasına dair (3/245, 1/57)",
+  "title": "Hudut ve Sahiller Sıhhat Umum Müdürlüğü 1937 malî yılı hesabı katîsine ait mutabakat beyannamesinin sunulduğuna dair Divanı Muhasebat Riyaseti tezkeresiyle Hudut ve Sahiller Sıhhat Umum Müdürlüğü 1937 malî yılı hesabı katîsi hakkındaki kanun lâyihasına dair (3/245, 1/57)",
+  "first_sitting_date": "1940-05-08",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 48,
+      "sitting_date": "1940-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c011/tbmm06011048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c011/tbmm06011fih.pdf",
+      "pages": [
+        "30",
+        "53",
+        "60",
+        "64:67"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1922&v_gelecek_sayfa=101&v_kullanici_id=27484000",
+  "source_sha256": "2ee1ef0484a57c49d9ecfcfc9922dd7dfeacba065a49ad4dbd919d74511b0711",
+  "in_force": "1940-05-08",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
