@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2000/1",
+  "source_id": 500,
+  "date": "2000-02-01",
+  "title": "VERASET VE İNTİKAL VERGİSİ KANUNU İÇ GENELGESİ SERİ NO : 2000/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/icgenelge/500",
+  "source_sha256": "e84c24c196fd0042a94674711c82f3274e5aec27b740d14bb89e690495a9a1ce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/38213",
+        "quote": "01/02/2000 tarih ve 2000/1 Seri No.lu Veraset ve İntikal Vergisi Kanunu İç Genelgesinde"
+      }
+    ]
+  }
+}
