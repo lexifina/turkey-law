@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4737",
+  "year": 1945,
+  "title": "Millî Eğitim Bakanlığı merkez kuruluşu ve görevleri hakkındaki 2287 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-05-18",
+  "gazette_issue": "6009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6009.pdf",
+  "source_sha256": "12c336e7d6e2f1125cb19fe6b3a6b9053aeed838ef4767c82867e7b99fdb8518",
+  "text_sha256": "9c2410aa01419c7c3b6eabdcd1fa9f14d3fe7b4e8bd26bad5a52f57fd273dba4",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      46,
+      111
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704737.pdf",
+    "source_sha256": "161a098959db042126027511c848b3497372814c3c27917b8185b7abbaf6dac3",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.962,
+    "bag": 0.92,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 340,
+    "kd_words": 360,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
