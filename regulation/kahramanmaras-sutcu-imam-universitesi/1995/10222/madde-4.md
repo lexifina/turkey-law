@@ -1,0 +1,1 @@
+Madde 4- Genel Kurul. Müdürün başkanlığında, Kahramanmaraş Sütçü İmam Üniversitesi'ne bağlı çeşitli fakülte, enstitü ve yüksekokullarda Atatürk İlkeleri ve İnkılâp Tarihi derslerini okutan öğretim elemanlarından ve fakülte kurullarınca seçilecek birer üyeden oluşur.

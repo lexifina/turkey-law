@@ -1,0 +1,1 @@
+Madde 5- Genel Kurul, ilke olarak yılda en az bir kere Müdürün yazılı çağrısı üzerine toplanır. Müdür, gerekli gördüğü hallerde Genel Kurulu ayrıca toplantıya çağırabilir. Genel Kurul yapılmış çalışmaları görüşür; yapılacak faaliyetleri plânlayıp karara bağlar. Yönetim Kurulu'na üye adayı seçer.

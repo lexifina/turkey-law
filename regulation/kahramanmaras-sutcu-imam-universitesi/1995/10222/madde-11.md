@@ -1,0 +1,1 @@
+Madde 11- Merkez'in bütçesi, Yönetim Kurulu'nca hazırlanarak. Rektörlüğe sunulur. Bütçe harcamalarında Merkez'in İta Amiri Rektör"dür. Rektör İta Amirliğini Rektör Yardımcılarına veya Merkez'in Müdürüne devredebilir.

@@ -1,0 +1,1 @@
+Madde 6- Yönetim Kurulu, Müdürün başkanlığında, Genel Kurul tarafından kendi içinden gösterilecek (6) aday arasından. Rektör'ün onaylayacağı (3) üyeden oluşur. Yönetim Kurulu'nun görev süresi (3) yıldır. Süresi biten üyeler yeniden seçilebilir. Yönetim Kurulu Merkez'in karar organıdır. Müdür tarafından getirilen teklifleri görüşür ve karara bağlar.
