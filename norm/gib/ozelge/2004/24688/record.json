@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1335 / 12086",
+  "source_id": 24688,
+  "date": "2004-03-23",
+  "title": "Bankaların yurtdışındaki finansal şirketlere yapmış olduğu komisyon ödemeleri ticari mahiyette olduğundan bu ödemeler üzerinden  gelir ve kurumlar vergisi tevkifatı yapılmayacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/24688",
+  "source_sha256": "8bad8654951a434b1a4bb4c0f6d895a16288f7c6550f72961ec5f94f343f5689",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
