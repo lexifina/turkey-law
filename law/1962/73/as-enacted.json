@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "73",
+  "year": 1962,
+  "title": "3499 Sayılı avukatlık Kanununun 49 uncu maddesinin değiştirilmesine ve 117 nci maddesinin kaldırılmasına dair kanun.",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-10-05",
+  "gazette_issue": "11224",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11224.pdf",
+  "source_sha256": "c26fc4e1554e49c18a5a543c1a5d19aa7c89ee31fa6e27b9fcdd2a99a07f61a5",
+  "text_sha256": "3937a5a5b9c8fafa67a610de460a2feedb82ba25740714641df10a916ac441d4",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      9,
+      41
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500073.pdf",
+    "source_sha256": "7b4844c2acd235238d8f0d861c65d84f9040a0aa6681c12319f26f423bb91e91",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9507,
+    "bag": 0.884,
+    "kd_coverage": 0.9906,
+    "kd_body_compared": 0.9417,
+    "rg_words": 195,
+    "kd_words": 223,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
