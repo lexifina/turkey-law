@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2887",
+  "year": 1936,
+  "title": "Tunceli vilâyeti halkından olubda nüfus ve askerlik kanunlarına göre kendilerine verilmesi lâzımgelen bazı cezaların affına ve nüfus yazımı ile askerlik işlerine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-01-13",
+  "gazette_issue": "3204",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3204.pdf",
+  "source_sha256": "24202c4ea0253180400c0c97ae194f20944d51866fc828d7d60500cd29631f3c",
+  "text_sha256": "c30803644a04630b3065586cf482c70b12440bbbc1f75f962eb01df376f25f09",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      14,
+      50
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602887.pdf",
+    "source_sha256": "1a9154ad0c1d7ed704cc6a78262a07dcc9ac0db55f6935a9a7942dfdb3e4eea8",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9716,
+    "bag": 0.8747,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9899,
+    "rg_words": 195,
+    "kd_words": 198,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
