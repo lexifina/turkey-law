@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4413",
+  "year": 1999,
+  "title": "Hakimler ve Savcılar Yüksek Kurulu Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "1999-07-21",
+  "adopted_as_published": "21/07/1999",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "25.07.1999 No: 23766",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc083/kanuntbmmc083/kanuntbmmc08304413.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 83",
+  "committee_reports": [
+    {
+      "label": "TBMM 29 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006036ss0029.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 426065,
+      "title": "Hakimler ve Savcılar Yüksek Kurulu Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "21/07/1999",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc083/kanuntbmmc083/kanuntbmmc08304413.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 29 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006036ss0029.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 26,
+          "sitting_date": "1999-06-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c005/tbmm21005026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c005/tbmm21005fih.pdf",
+          "pages": [
+            "5"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 33,
+          "sitting_date": "1999-07-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006fih.pdf",
+          "pages": [
+            "263"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 36,
+          "sitting_date": "1999-07-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006fih.pdf",
+          "pages": [
+            "552:584"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "54720ffdd2ec500138bad83b0778f9de490b7a834e1c043027979aa301267ba5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "54720ffdd2ec500138bad83b0778f9de490b7a834e1c043027979aa301267ba5",
+  "issuer": "TBMM",
+  "in_force": "1999-07-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/07/1999; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
