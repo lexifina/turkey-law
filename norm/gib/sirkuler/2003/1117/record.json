@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-1/ 2003-1 / Teknoloji Geliştirme Bölgeleri - 1",
+  "source_id": 1117,
+  "date": "2003-10-28",
+  "title": "Teknoloji geliştirme bölgelerinde faaliyet gösteren mükellefler ile yönetici şirketlerin yararlanabilecekleri vergisel teşviklere yönelik açıklamalar hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1117",
+  "source_sha256": "93e203da2bf54ea44c28d957ad51a871104cb7e5739884f773cf46d2a2b645d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
