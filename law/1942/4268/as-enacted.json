@@ -1,0 +1,51 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4268",
+  "year": 1942,
+  "title": "Madenlerin aranma ve işletilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-06-23",
+  "gazette_issue": "5139",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5139.pdf",
+  "source_sha256": "6bf5dbd3a9a7e2ae89e1c2f3e39ce7f65ce0f93cb5d26da3b3f69197d014e7d4",
+  "text_sha256": "8290e64777e3c775397dbbf9572355cd7a5c9c0d6c1c820f112e488d84c1fc79",
+  "text_status": "ocr",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      440,
+      756
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [3, 4, 5] (no text layer)",
+    "tesseract_pages": [
+      3,
+      4,
+      5
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304268.pdf",
+    "source_sha256": "de4f1118c9b49863fe7ed9166f958b4d3e6ac706fcbd7da726717119db05b282",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.978,
+    "bag": 0.9214,
+    "kd_coverage": 0.9992,
+    "kd_body_compared": 0.9984,
+    "rg_words": 2402,
+    "kd_words": 2434,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
