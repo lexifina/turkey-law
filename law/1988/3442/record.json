@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3442",
+  "year": 1988,
+  "title": "Rehine Alınmasına Karşı Uluslararası Sözleşmeye Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "adopted": "1988-04-21",
+  "adopted_as_published": "21/04/1988",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.04.1988 No: 19799",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc071/kanuntbmmc071/kanuntbmmc07103442.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 71",
+  "committee_reports": [
+    {
+      "label": "TBMM 42 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c010/tbmm18010061ss0042.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 225378,
+      "title": "Rehine Alınmasına Karşı Uluslararası Sözleşmeye Katılmamızın Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "21/04/1988",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc071/kanuntbmmc071/kanuntbmmc07103442.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 42 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c010/tbmm18010061ss0042.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 13,
+          "sitting_date": "1988-01-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c001/tbmm18001013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c001/tbmm18001fih.pdf",
+          "pages": [
+            "561"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 41,
+          "sitting_date": "1988-03-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c005/tbmm18005041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c005/tbmm18005fih.pdf",
+          "pages": [
+            "249:250"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 61,
+          "sitting_date": "1988-04-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c010/tbmm18010061.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c010/tbmm18010fih.pdf",
+          "pages": [
+            "185:186",
+            "188",
+            "243:248"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "a4afc1ea96cb3fdb44158af5480d817298e90d8f87ef55ba3064444103967b6f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a4afc1ea96cb3fdb44158af5480d817298e90d8f87ef55ba3064444103967b6f",
+  "issuer": "TBMM",
+  "in_force": "1988-04-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/04/1988; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
