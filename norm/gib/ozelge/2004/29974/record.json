@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55 / 5501 - 2837 / 16284",
+  "source_id": 29974,
+  "date": "2004-04-14",
+  "title": "Köy tüzel kişiliğince gerçekleştirilen kömür satış faaliyetleri, köy tüzel kişiliğinin devamlı olarak faaliyette bulunmamasından ötürü kömür satışlarının ticari faaliyet olarak değerlendirilmesi mümkün olmadığından bu teslimler üzerinden katma değer vergi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29974",
+  "source_sha256": "04d92b6763b586bdbd3fb064dbac5f1993b7861bd15b041f050ad280fe1b2a63",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
