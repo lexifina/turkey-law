@@ -1,0 +1,2 @@
+KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ KAHRAMANMARAŞ VE YÖRESİ KÜLTÜR DEĞERLERİNİ ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ
+Madde 1. Kahramanmaraş Sütçü İmam Üniversitesi Kahramanmaraş ve Yöresi Kültür Değerlerini Araştırma ve Uygulama Merkezi; Kahramanmaraş Sütçü İmam Üniversitesi Senatosunun 94/14 sayılı kararı ve Yükseköğretim Kurulu'nun onayı ile Üniversitelerde Akademik Teşkilat Yönetmeliğinin ek 1. maddesi uyarınca, Kahramanmaraş Sütçü İmam Üniversitesi Rektörlüğüne bağlı olarak kurulmuştur.
