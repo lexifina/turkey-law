@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2223/25180",
+  "source_id": 36330,
+  "date": "2001-05-08",
+  "title": "Vasiyetnameye dayalı olarak veraset ve intikal vergisinin kimler tarafından beyan edileceği ile vasiyetnamenin dava konusu yapılması halinde mahkeme kararına göre düzeltme işlemleri yapılacağı açıklanmıştır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36330",
+  "source_sha256": "34c959dfa1ff7818db216144e4e839f2aca884d802e69d17a52bb32f2ad3d132",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
