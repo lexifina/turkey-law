@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-03-15",
+  "issue": "25403",
+  "edition": "regular",
+  "item": 24,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Kahramanmaraş TEDAŞ Müessese Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/03/20040315-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (31 = 31)",
+  "ilan_codes": [
+    "3054/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/03/20040315-3.htm",
+  "category_page_sha256": "7d68543f5b294b4bc7da67a48d5d3a50c2591e81f00c2a4afc4ec264ea32d124",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/03/20040315.htm",
+  "index_sha256": "77ed4b676148198ae6430eff0bf931011959c13363bc1f6536dc1707f4828422",
+  "index_header": "15 Mart 2004 ... Sayı : 25403",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
