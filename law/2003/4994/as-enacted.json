@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4994",
+  "year": 2003,
+  "title": "Kuzey Atlantik Antlaşmasına Slovenya Cumhuriyetinin Katılımına İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-11-08",
+  "gazette_issue": "25283",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/11/20031108.htm",
+  "source_sha256": "cb1fa9ecc63925ad3cf99c6b1ac05648844a1fefbd29999cafe0a92742627ece",
+  "text_sha256": "d18185250a3151309b940ebbd16b40726cd353f33e6aaf4e9d4accd9f851cad5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/11/08/25283-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/11/20031108.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
