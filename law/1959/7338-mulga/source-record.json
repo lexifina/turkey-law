@@ -1,0 +1,102 @@
+{
+  "source_id": "5.3.7338",
+  "path": "law/1959/7338-mulga",
+  "number": "7338",
+  "tertip": "3",
+  "title": "VERASET VE İNTİKAL VERGİSİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "document": "repealed-provisions",
+  "companion_of": "law/1959/7338",
+  "enacted": "1959-06-08",
+  "enacted_as_printed": "08.06.1959",
+  "published": "1959-06-15",
+  "gazette": "10231",
+  "in_force": "1998-07-22",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"9 - 22/7/1998 tarih ve 4369 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:7,9,16,17,19.)\"",
+  "date_evidence": [
+    [
+      "1998-07-22",
+      "9 - 22/7/1998 tarih ve 4369 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:7,9,16,17,19.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1997-12-16",
+      "R.G.: 16/12/1997",
+      "an amendment note (Resmî Gazete date)"
+    ],
+    [
+      "1994-06-24",
+      "8 - 24/6/1994 tarih ve 4008 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları:4,16)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1994-06-24",
+      "(Değişik: 24/6/1994 - 4008/37 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "1991-06-29",
+      "R.G.:29/6/1991",
+      "an amendment note (Resmî Gazete date)"
+    ],
+    [
+      "1987-06-30",
+      "Diğer maddeleri 30/6/1987",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "1987-01-01",
+      "3393 11 ve 12 nci maddeleri 1/1/1987",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "1985-06-15",
+      "3219 – 15/6/1985",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "1985-06-06",
+      "7 - 6/6/1985 tarih ve 3219 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 4,7, 19)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1985-06-06",
+      "(Ek: 6/6/1985 - 3219/4 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "1984-04-27",
+      "2997 – 27/4/1984",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "1984-04-18",
+      "6 - 18/4/1984 tarih ve 2997 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri:(Madde numaraları: 19)",
+      "a repeal note (enactment date of the repealing act)"
+    ]
+  ],
+  "repeal_notes": [
+    "1 - 4/1/1961 tarih ve 213 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri:(Madde numaraları: 15)",
+    "2 - 15/2/1963 tarih ve 188 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri : (Madde numaraları:10, Geçici 1)",
+    "3 - 29/7/1970 tarih ve 1318 Sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri:(Madde numaraları: 10)",
+    "4 - 8/12/1980 tarih ve 2353 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları : 4,19)",
+    "5 - 21/1/1982 tarih ve 2591 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri:(Madde numaraları: 10,16,19)",
+    "6 - 18/4/1984 tarih ve 2997 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri:(Madde numaraları: 19)",
+    "7 - 6/6/1985 tarih ve 3219 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 4,7, 19)",
+    "8 - 24/6/1994 tarih ve 4008 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları:4,16)",
+    "9 - 22/7/1998 tarih ve 4369 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:7,9,16,17,19.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=7338&MevzuatTertip=3",
+  "source_sha256": "d445bf1abe35c6f55b3a779f091ded94b48dcf30061bfc79588afef145b9feb2",
+  "source_bytes": 97689,
+  "words": 2311,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
