@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6654-256/7797",
+  "source_id": 37188,
+  "date": "1999-03-02",
+  "title": "Emekli aylığı alan ve kendi üzerine kayıtlı meskeni bulunmayan adı geçenin kendisinin ve eşinin başka bir gelirinin olmaması, ayrıca Türkiye sınırları içinde eşi üzerine tek meskenin kayıtlı olması şartıyla tek mesken için eşinin 1999 yılında indirimli ve",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37188",
+  "source_sha256": "3d417727474691f7f09d023a6b10fb79b6ae7fb7ad6bc0044899b8370994f1fb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
