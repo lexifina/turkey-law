@@ -1,0 +1,112 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82535,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "title": "TBMM fihrist kaydı 82535 (Teklifler)",
+  "first_sitting_date": "1946-09-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 18,
+      "sitting_date": "1946-09-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c001/tbmm08001018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c001/tbmm08001fih.pdf",
+      "pages": [
+        "432"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 77,
+      "sitting_date": "1948-06-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012fih.pdf",
+      "pages": [
+        "385"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 80,
+      "sitting_date": "1948-07-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012fih.pdf",
+      "pages": [
+        "590:632"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 81,
+      "sitting_date": "1948-07-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012081.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012fih.pdf",
+      "pages": [
+        "635:704"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 82,
+      "sitting_date": "1948-07-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012082.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012fih.pdf",
+      "pages": [
+        "707:752"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 83,
+      "sitting_date": "1948-07-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012083.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012fih.pdf",
+      "pages": [
+        "783"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 83,
+      "sitting_date": "1948-07-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012083.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012fih.pdf",
+      "pages": [
+        "877:922"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 86,
+      "sitting_date": "1948-07-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012086.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012fih.pdf",
+      "pages": [
+        "1097",
+        "1104:1110"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "89cc5dc0771589931f54f69e2061a823b93c6e7c7053bfb30e7d1db40ada367c",
+  "in_force": "1946-09-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
