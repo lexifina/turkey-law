@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "202",
+  "year": 1961,
+  "title": "6327 sayılı Türkiye Petrolleri Anonim ortaklığı Kanununa bir madde eklenmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1961-01-09",
+  "gazette_issue": "10702",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10702.pdf",
+  "source_sha256": "ae67ffa8544f46868bf20262cbb061ca46cf9040645b773239646e978a96cf3d",
+  "text_sha256": "ad964411c8d00a625e3b2037236e7d7b54432d8ff19984478ec3fb7bdc1396c4",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      597,
+      610
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [5, 6] (no text layer)",
+    "tesseract_pages": [
+      5,
+      6
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300202.pdf",
+    "source_sha256": "2ab4772fee1b957f2c5f5d9358a881cedf5696d72bc045071d1038f08f8a4007",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9431,
+    "bag": 0.8171,
+    "kd_coverage": 0.9753,
+    "kd_body_compared": 0.8876,
+    "rg_words": 85,
+    "kd_words": 89,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
