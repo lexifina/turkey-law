@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4535-5-237",
+  "source_id": 37856,
+  "date": "2004-09-15",
+  "title": "Mükellef tarafından mülkiyeti Amasra Kaymakamlığı Köylere Hizmet Götürme Birliği ile Amasra...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37856",
+  "source_sha256": "f9417548663fdd15702685c246bfc94e35e2a8c50dea08759ce74218a530cb25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
