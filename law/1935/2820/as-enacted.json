@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2820",
+  "year": 1935,
+  "title": "Buğdayı koruma karşılığı Kanununu değiştiren 2643 sayılı Kanunun birinci maddesi ile değiştirilen 9. maddesinin B fıkrasına bir fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-06-24",
+  "gazette_issue": "3036",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3036.pdf",
+  "source_sha256": "f133f23cb09a0de7c6d36652897d840ef57393f0cf91a4cc5ff495dad9cfb347",
+  "text_sha256": "94f5e9c9c35c5f573b7af95b6c1584b1b2b9e294f81168d5ba35e9c2ba76ed43",
+  "text_status": "ocr",
+  "pages": [
+    15
+  ],
+  "line_span": [
+    [
+      3115,
+      3149
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502820.pdf",
+    "source_sha256": "1948966dcbf267c8f67d4909ae35a1bcaed65e40907b04c85db360f9d9e26e38",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9823,
+    "bag": 0.9191,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 120,
+    "kd_words": 115,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
