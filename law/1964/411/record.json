@@ -1,0 +1,161 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "411",
+  "year": 1964,
+  "title": "Petrol Dairesi Başkanlığının 1960 Bütçe Yılı Kesinhesap Kanunu",
+  "adopted": "1964-02-18",
+  "adopted_as_published": "18/02/1964",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.02.1964 No: 11642",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700411.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 47",
+  "committee_reports": [
+    {
+      "label": "MM 476 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024029ss0476.pdf"
+    },
+    {
+      "label": "CS 393no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019044ss0393.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 347480,
+      "title": "Petrol Dairesi Başkanlığının 1960 Bütçe Yılı Kesinhesap Kanunu",
+      "adopted_as_published": "18/02/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700411.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 476 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024029ss0476.pdf"
+        },
+        {
+          "label": "CS 393no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019044ss0393.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 22,
+          "sitting": 149,
+          "sitting_date": "1963-10-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c022/mm__01022149.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c022/mm__01022fih.pdf",
+          "pages": [
+            "206"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 29,
+          "sitting_date": "1964-01-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024029.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024fih.pdf",
+          "pages": [
+            "360:361",
+            "379:382"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 30,
+          "sitting_date": "1964-01-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024fih.pdf",
+          "pages": [
+            "416",
+            "439:442"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 31,
+          "sitting_date": "1964-01-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025fih.pdf",
+          "pages": [
+            "8",
+            "49:52"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2001&v_kullanici_id=27483225",
+      "page_sha256": "0190b5d3e712a47a9416ed66ca93fb48a7dc71af149d929697c5f08cf9e0b36c"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 162515,
+      "title": "Petrol Dairesi Başkanlığının 1960 bütçe yılı Kesinhesap Kanunu",
+      "adopted_as_published": "18/02/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700411.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 476 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024029ss0476.pdf"
+        },
+        {
+          "label": "CS 393no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019044ss0393.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 17,
+          "sitting": 30,
+          "sitting_date": "1964-01-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c017/cs__03017030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c017/cs__03017fih.pdf",
+          "pages": [
+            "462"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 34,
+          "sitting_date": "1964-02-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c018/cs__03018034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c018/cs__03018fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 44,
+          "sitting_date": "1964-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019fih.pdf",
+          "pages": [
+            "12:13",
+            "36:38"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=401&v_kullanici_id=27483235",
+      "page_sha256": "b27864a2411d79e2f3620f821cf17fe5c23dbd74ad2aa8fabc8d647341892a48"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0190b5d3e712a47a9416ed66ca93fb48a7dc71af149d929697c5f08cf9e0b36c",
+  "issuer": "Millet Meclisi",
+  "in_force": "1964-02-18",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 18/02/1964; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
