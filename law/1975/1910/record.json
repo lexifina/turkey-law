@@ -1,0 +1,133 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1910",
+  "year": 1975,
+  "title": "1868 sayılı 1975 yılı Bütçe Kanununa bağlı (A) ve (R) işaretli cetvellerde değişiklik yapılması hakkında Kanun",
+  "adopted": "1975-06-12",
+  "adopted_as_published": "12/06/1975",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18.06.1975 No: 15269",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801910.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 58",
+  "committee_reports": [
+    {
+      "label": "MM 172 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012086ss0172.pdf"
+    },
+    {
+      "label": "CS 486no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022062ss0486.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 448268,
+      "title": "1868 sayılı 1975 yılı Bütçe Kanununa bağlı (A) ve (R) işaretli cetvellerde değişiklik yapılması hakkında Kanun",
+      "adopted_as_published": "12/06/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801910.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 172 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012086ss0172.pdf"
+        },
+        {
+          "label": "CS 486no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022062ss0486.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 12,
+          "sitting": 81,
+          "sitting_date": "1975-05-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012081.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012fih.pdf",
+          "pages": [
+            "33"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 86,
+          "sitting_date": "1975-06-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012fih.pdf",
+          "pages": [
+            "516",
+            "526:529",
+            "544",
+            "552:555"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 88,
+          "sitting_date": "1975-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012088.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012fih.pdf",
+          "pages": [
+            "600",
+            "606",
+            "615:618"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=301&v_kullanici_id=27483225",
+      "page_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 325121,
+      "title": "1868 sayılı 1975 yılı Bütçe Kanununa bağlı (A) ve (R) işaretli cetvellerde değişiklik yapılması hakkında kanun.",
+      "adopted_as_published": "12/06/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801910.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 172 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012086ss0172.pdf"
+        },
+        {
+          "label": "CS 486no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022062ss0486.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 22,
+          "sitting": 62,
+          "sitting_date": "1975-06-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022062.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022fih.pdf",
+          "pages": [
+            "273",
+            "276",
+            "277",
+            "288",
+            "301:302"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1901&v_kullanici_id=27483235",
+      "page_sha256": "b03516e6e4516fd0e8518e72928e38bf7e13c854ce0bd904282a9e657cec2cef"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb",
+  "issuer": "Millet Meclisi",
+  "in_force": "1975-06-12",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 12/06/1975; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
