@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4344",
+  "year": 1998,
+  "title": "Türkiye Cumhuriyeti ile İsrail Devleti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "1998-02-26",
+  "adopted_as_published": "26/02/1998",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "03.03.1998 No: 23275",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc081/kanuntbmmc081/kanuntbmmc08104344.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 81",
+  "committee_reports": [
+    {
+      "label": "TBMM 325 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c046/tbmm20046060ss0325.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 20,
+      "kayit_no": 413229,
+      "title": "Türkiye Cumhuriyeti ile İsrail Devleti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "26/02/1998",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc081/kanuntbmmc081/kanuntbmmc08104344.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 325 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c046/tbmm20046060ss0325.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 83,
+          "sitting_date": "1997-04-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c025/tbmm20025083.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c025/tbmm20025fih.pdf",
+          "pages": [
+            "196"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 103,
+          "sitting_date": "1997-06-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c028/tbmm20028103.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c028/tbmm20028fih.pdf",
+          "pages": [
+            "318"
+          ]
+        },
+        {
+          "cilt": 46,
+          "sitting": 60,
+          "sitting_date": "1998-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c046/tbmm20046060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c046/tbmm20046fih.pdf",
+          "pages": [
+            "188:189",
+            "195",
+            "220:226"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=249&v_gelecek_sayfa=201&v_kullanici_id=27483195",
+      "page_sha256": "33956d32d720f9c13311f62e2a6a841667e7a4aed200c08184e0e29c11b84914"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "33956d32d720f9c13311f62e2a6a841667e7a4aed200c08184e0e29c11b84914",
+  "issuer": "TBMM",
+  "in_force": "1998-02-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 26/02/1998; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
