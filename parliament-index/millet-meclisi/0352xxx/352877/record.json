@@ -1,0 +1,78 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 352877,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Cumhuriyet Senatosu Kastamonu Üyesi Ahmet Nusret Tuna'nın, Anayasayı ihlal suçundan Yüksek Adalet Divanınca mahkum edilenlerin cezalarının kısmen affı hakkındaki 78 Sayılı Kanunun 2. maddesine bir fıkra eklenmesi hakkındaki Kanun teklifine dair (2/771)",
+  "title": "Cumhuriyet Senatosu Kastamonu Üyesi Ahmet Nusret Tuna'nın, Anayasayı ihlal suçundan Yüksek Adalet Divanınca mahkum edilenlerin cezalarının kısmen affı hakkındaki 78 Sayılı Kanunun 2. maddesine bir fıkra eklenmesi hakkındaki Kanun teklifine dair (2/771)",
+  "first_sitting_date": "1965-02-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 35,
+      "sitting": 49,
+      "sitting_date": "1965-02-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035049.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035fih.pdf",
+      "pages": [
+        "349"
+      ]
+    },
+    {
+      "cilt": 35,
+      "sitting": 54,
+      "sitting_date": "1965-02-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035054.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035fih.pdf",
+      "pages": [
+        "425:426"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 84,
+      "sitting_date": "1965-03-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037084.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037fih.pdf",
+      "pages": [
+        "721"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 85,
+      "sitting_date": "1965-04-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038085.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038fih.pdf",
+      "pages": [
+        "40"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 89,
+      "sitting_date": "1965-04-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038fih.pdf",
+      "pages": [
+        "175:176"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=6901&v_kullanici_id=27484836",
+  "source_sha256": "b6aeae299cd97d47021ef3ae0e1ed1756ace53a8dba94cdb2d93568a5d023260",
+  "in_force": "1965-02-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
