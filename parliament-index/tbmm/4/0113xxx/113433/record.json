@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 113433,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Düyunu Umumiye 1932 senesi bütçesinde 3 113 231 liranın tenzilde bazı devairin ayni sene bütçelerine munzam ve fevkalâde tahsisat olarak verilmesine dair",
+  "title": "Düyunu Umumiye 1932 senesi bütçesinde 3 113 231 liranın tenzilde bazı devairin ayni sene bütçelerine munzam ve fevkalâde tahsisat olarak verilmesine dair",
+  "first_sitting_date": "1933-04-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 40,
+      "sitting_date": "1933-04-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c014/tbmm04014040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c014/tbmm04014fih.pdf",
+      "pages": [
+        "80"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 44,
+      "sitting_date": "1933-05-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015044.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 45,
+      "sitting_date": "1933-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015fih.pdf",
+      "pages": [
+        "16",
+        "21",
+        "24"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1296&v_gelecek_sayfa=501&v_kullanici_id=27483843",
+  "source_sha256": "b6f1edf00d50af5a15ea86191f4142f49c81ed57751954a28ddcc89095fbd547",
+  "in_force": "1933-04-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
