@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034 -682/8487",
+  "source_id": 23142,
+  "date": "2004-02-27",
+  "title": "Devlet tahvillerinden (eurobond) elde edilen faiz gelirleri ve  alım-satım kazançlarının vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23142",
+  "source_sha256": "797ad385c062d14e3242f64d8d275835c4efe3ee4addce030eb22f213ecaa05f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
