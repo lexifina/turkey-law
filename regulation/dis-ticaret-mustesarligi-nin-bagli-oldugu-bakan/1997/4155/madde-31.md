@@ -1,0 +1,6 @@
+İstatistiki Bilgiler
+Madde 31- a) İstatistik Pozisyonlarına Bölünmüş Gümrük Giriş Tarife Cetveli'nin XI inci Bölümünde yer alan tekstil ürünleri ile EK I B'de gösterilen diğer tekstil ürünlerinin ithalat miktarları, Gümrük Müsteşarlığınca, her ayın bitiminden itibaren 30 (otuz) gün içinde, 12’li G.T.İ.P., bu G.T.İ.P.’na ait ölçü birimi ve varsa özel ölçü birimi, yer aldığı kategori de belirtilmek suretiyle Müsteşarlığa (Genel Müdürlük) bildirilir.
+b) İthali ileriye yönelik gözetime veya miktar kısıtlamasına tabi tekstil ürünlerinin ithalatıyla ilgili istatistiki veriler (ürünün ticari tanımı, 12'li G.T.İ.P., bu G.T.İ.P.'na ait ölçü birimi ve varsa özel ölçü birimi, yer aldığı kategori, ilgili kategori için belirlenen ölçü birimi cinsinden miktarı, 12’li G.T.İ.P’na ait ölçü birimi farklı ise ayrıca kilogram cinsinden miktarı, fiyatı, menşe veya ihracatçı ülkesi vs.):
+1) (Değişik: RG-21/07/2000-24116)(1) Gümrük yükümlülüğünün doğduğu ayı izleyen ayın ilk 15 (onbeş) iş günü içinde, ilgili gümrük idaresince,
+2) (Değişik: RG-21/07/2000-24116)(1) Gümrük yükümlülüğünün doğduğu tarihi müteakip en geç 15 (onbeş) iş günü içinde, adına ithal lisansı düzenlenmiş olan ithalatçılar tarafından,
+Müsteşarlığa (Genel Müdürlük) bildirilir.

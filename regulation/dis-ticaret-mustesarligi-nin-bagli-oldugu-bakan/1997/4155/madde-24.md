@@ -1,0 +1,2 @@
+Ekonomik Etkili Hariçte İşleme
+Madde 24- Belirli Üçüncü Ülkelerde İşlem Gördükten Sonra Türkiye’ye Geri İthal Edilen Belirli Tekstil Ürünlerine ve Giyim Eşyasına Uygulanan Ekonomik Etkili Hariçte İşleme Rejimi Yönetmeliği hükümleri çerçevesinde EK VII’de hariçte işleme kotası tesbit edilen ve yine aynı ekte yer alan ülkelerde işlem gördükten sonra Türkiye’ye geri ithal edilen tekstil ürünleri EK V’de belirtilen miktar kısıtlamasına tabi tutulmaz.

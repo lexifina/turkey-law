@@ -1,0 +1,2 @@
+Madde 34- 1/6/1995 tarih ve 22300 mükerrer sayılı Resmi Gazete’de yayımlanan İkili Anlaşmalar, Protokoller veya Diğer Düzenlemeler Kapsamı Dışında, Belirli Ülkeler Menşeili Tekstil Ürünleri İthalatında Gözetim ve Korunma Önlemleri Hakkında Yönetmelik ile ek ve değişiklikleri yürürlükten kaldırılmıştır.
+Geçici Madde : Bu Yönetmeliğin yürürlüğe girdiği tarihe kadar başlamış bulunan işlemler kaldırılan Yönetmelik hükümlerine tabidir.

@@ -1,0 +1,2 @@
+İthal Lisanslarının Kaybı
+Madde 23- İthal lisanslarının kaybedilmesi halinde, lisans sahibinin başvurusu üzerine, Müsteşarlıkça (Genel Müdürlük) üzerine "kaybından dolayı yeniden düzenlenmiştir" şerhi düşülerek yeni ithal lisansı düzenlenebilir. Yeniden düzenlenen ithal lisansının tarih ve sayısı, aslı ile aynı olacaktır. Ancak, lisans sahibinden, lisansın bulunması halinde kullanılmayacağına ve Müsteşarlığa (Genel Müdürlük) iade edileceğine dair taahhütname alınır.

@@ -1,0 +1,2 @@
+Acil Önlemler
+Madde 18- Başvuru üzerine veya re'sen yapılan bir soruşturma sırasında, 17 nci maddenin birinci fıkrasının (a) ve (b) bentlerinde belirtilen şartların gerçekleştiğinin tespit edildiği ve gecikmenin onarılması güç zararlara yol açabileceği olağandışı ve kritik durumlarda, Müsteşarlığın (Genel Müdürlük) durumun aciliyetinin sebeplerini de açıklayarak, yapacağı teklif üzerine, Kurul tarafından gözetim veya korunma önlemlerinin uygulanmasına karar verilebilir. Bu karar, Resmi Gazete'de yayımlanarak yürürlüğe girer.
