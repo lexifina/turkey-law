@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 153489,
+  "assembly": "Milli Güvenlik Konseyi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Çocuk Mahkemelerinin Kuruluşu, Görev ve Yargılama Usulleri Hakkındaki 2253 Sayılı Kanunun Ilgasına Dair Kanun Teklifi (2/87)",
+  "title": "Çocuk Mahkemelerinin Kuruluşu, Görev ve Yargılama Usulleri Hakkındaki 2253 Sayılı Kanunun Ilgasına Dair Kanun Teklifi (2/87)",
+  "first_sitting_date": "1982-04-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 101,
+      "sitting_date": "1982-04-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c006/mgk_01006101.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c006/mgk_01006fih.pdf",
+      "pages": [
+        "559:560"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=MGK&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "10aa826864421241144b98d5060dc3cbee8e1a60a0b50421297152784b6f8b2f",
+  "in_force": "1982-04-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
