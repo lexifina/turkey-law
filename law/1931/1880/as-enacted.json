@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1880",
+  "year": 1931,
+  "title": "İlk ve orta tedrisat muallimlerinin terfi ve tecziyeleri hakkındaki Kanunun bazı maddelerinin tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-08-03",
+  "gazette_issue": "1863",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1863.pdf",
+  "source_sha256": "39ca422c33d487cf3aa72730cf065a1b3435cf60bc90e3898ed5a4a3503a2a39",
+  "text_sha256": "1012a6359fcc1eabc14d18712e3d2903816ea91550a2ff7c54443a8b724148e3",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      119,
+      426
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001880.pdf",
+    "source_sha256": "1f71239ee399b5725bc9fb0126a59d0a396f9ce5c1339566199ac21147deb8c2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9602,
+    "bag": 0.9161,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9978,
+    "rg_words": 949,
+    "kd_words": 913,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
