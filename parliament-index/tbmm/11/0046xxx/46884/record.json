@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 46884,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MAHMUT GOLOĞLU (TRABZON)",
+  "summary": "Divanı Muhasebat Kanununun 4. maddesinin tadiline dair (2/63)",
+  "title": "Divanı Muhasebat Kanununun 4. maddesinin tadiline dair (2/63)",
+  "first_sitting_date": "1957-12-25",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 19,
+      "sitting_date": "1957-12-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001fih.pdf",
+      "pages": [
+        "233"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "f9fdd836172b5db5498669322daae8b9c5bdaaf7c78df90da004c18fc584633b",
+  "in_force": "1957-12-25",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
