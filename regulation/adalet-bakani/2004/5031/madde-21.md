@@ -1,0 +1,3 @@
+Sınav Şekli
+Madde 21— Eğitime katılan kurum personelinin başarısı, öğretim konularından eğitim sonunda yapılan yazılı sınavlarla ölçülür. Gerektiğinde uygulamalı sınav da yapılabilir. Sınavın şekli ve soruları o dersin öğretim görevlisi tarafından tespit edilir.
+Eğitimin sonunda tüm dersleri kapsayan genel bir sınav veya her dersten ayrı sınav yapılabilir. Sınavlar, kursun bitiminden en geç yedi gün sonra başlar. Sınav soruları, öğretim görevlisince hazırlanan sorular arasından sınav komisyonunca tespit edilir. Tüm dersler için tek sınav yapılması hâlinde sınav soruları kursta verilen derslerin yoğunluğuna göre belirlenir. Her dersten ayrı sınav yapılması hâlinde bir günde en fazla iki sınav yapılabilir.

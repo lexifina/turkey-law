@@ -1,0 +1,2 @@
+Sınav Belgelerinin Saklanması
+Madde 27 — Sınavlarda başarı gösterenlerin sınavla ilgili belgeleri, ilgililerin özlük ve sicil dosyalarında süresiz olarak; sınavla ilgili diğer belgeler, dava açma süresinden az olmamak kaydıyla, bir sonraki sınava kadar saklanır. Diğer belgelerin saklanması hakkında 22/3/1989 tarihli ve 20116 sayılı Resmî Gazetefde yayımlanan Adalet Bakanlığı Merkez ve Taşra Teşkilâtı ile Bağlı Kuruluşları Arşiv Yönetmeliği hükümleri uygulanır.

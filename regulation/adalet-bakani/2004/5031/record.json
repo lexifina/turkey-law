@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.5031",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "CEZA İNFAZ KURUMLARI VE TUTUKEVLERİ PERSONELİ HİZMET İÇİ EĞİTİM YÖNETMELİĞİ",
+  "number": "5031",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2004/5031",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5031&MevzuatTertip=5",
+  "source_sha256": "ac2007f0939e4e08e17dd966b2e605ef11925c267c69fcbf7f4bb2339246f728",
+  "source_bytes": 160709,
+  "published": "2004-05-04",
+  "gazette": "25452",
+  "in_force": "2004-05-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.05.2004); own commencement article: \"Bu Yönetmelik Resmî Gazetefde yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmî Gazetefde yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2472,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
