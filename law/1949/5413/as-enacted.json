@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5413",
+  "year": 1949,
+  "title": "Demiryollar ve limanlar inşaatı için gelecek yıllara geçici yüklenmelere girişilmesi hakkında 4643 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-06-06",
+  "gazette_issue": "7225",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7225.pdf",
+  "source_sha256": "81db992c80bec6e6bf28f3889498f2677fe3fd62fb4bdb6d50db06561284d150",
+  "text_sha256": "3c96e3309a0eafbc4f816986e4629c11a3140fa34516692decce9776450f60f3",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      908,
+      921
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105413.pdf",
+    "source_sha256": "9888a3bf36e97ed9f00eb3b43039696cd3e6bf1806b41dbd0f98f46e67510ab4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9615,
+    "bag": 0.9167,
+    "kd_coverage": 0.988,
+    "kd_body_compared": 0.9651,
+    "rg_words": 85,
+    "kd_words": 86,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
