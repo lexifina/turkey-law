@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6527-187/19800",
+  "source_id": 38241,
+  "date": "2004-05-04",
+  "title": "Türkiye Elektrik Kurumunun elektrik şebekesi tesis etmediği yerlerde...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38241",
+  "source_sha256": "2957ef6ac6723de575dab690acfaa4692ccefecced39272fcce5395fc0826258",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
