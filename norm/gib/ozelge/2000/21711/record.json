@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500/30417",
+  "source_id": 21711,
+  "date": "2000-06-23",
+  "title": "01.01.1999 tarihinden sonra alınmış (1999 yılı beyanname verme süresi geçmeyen) yatırım teşvik belgesi kapsamında, 2000 yılında yapılması öngörülen yatırım harcamaları üzerinden hesaplanan yatırım indirimi tutarı, 1999 yılına ilişkin yıllık beyannamede di",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21711",
+  "source_sha256": "11d31e020be27f67f1d92500aeb7f166f7bb4d69e25f634ea02f390fba239030",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
