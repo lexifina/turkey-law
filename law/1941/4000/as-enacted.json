@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4000",
+  "year": 1941,
+  "title": "Erzincan'da ve Erzincan yersarsıntısından müteessir olan mıntakada zarar görenlere yapılacak yardım hakkındaki kanunun 5. maddesine bir fıkra ilâvesine ve bu kanuna yeniden bazı hükümler eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-04-24",
+  "gazette_issue": "4792",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4792.pdf",
+  "source_sha256": "5067e1ef7682bf4472e1245b88c73a4512f9ee364aa02228aae882455e0ea328",
+  "text_sha256": "afe6ca3e3d2dae7be6ef2eeef2b05878e6b3801041771acb460e369d52d1903e",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      45
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204000.pdf",
+    "source_sha256": "b16a9d3a1960c8fb2c914e17c3c630b3e18b46529c77e7ccb71491909377e3bd",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9813,
+    "bag": 0.9286,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9891,
+    "rg_words": 182,
+    "kd_words": 184,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
