@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5202",
+  "year": 1948,
+  "title": "Deniz ve kıyılarında görülecek başıboş mayın, patlayıcı madde ve şüpheli cisimlerin yokedilmeleri hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1948-05-25",
+  "gazette_issue": "6914",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6914.pdf",
+  "source_sha256": "3a0226a683e29c104b83b79c3a4bf7992ea9cf2aac1c9acc31976786e68ae209",
+  "text_sha256": "510d5965213947e0ba53a97fff2f7495574552c2ca1e142e5ae7c7e8fe17c9ab",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      325,
+      445
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/kanuntbmmc030/kanuntbmmc03005202.pdf",
+    "source_sha256": "df1a2ef7ae50a5c49169c3cbf540d0c61b59064d8826ffc20261907622cc1812",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9777,
+    "bag": 0.9525,
+    "kd_coverage": 0.9986,
+    "kd_body_compared": 0.9958,
+    "rg_words": 708,
+    "kd_words": 706,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
