@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5330- 104-11090",
+  "source_id": 21234,
+  "date": "2005-03-08",
+  "title": "KDVK. 18. maddesindeki istisnadan vazgeçmek ve KDVK 17/4-g kapsamındaki işler dolayısıyla vergiye tabi tutulmak istenmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/21234",
+  "source_sha256": "9ad9d0380febdd5aab56314f98ae4af7bbf5a11d8fc9467d29cca30e4de7ce34",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
