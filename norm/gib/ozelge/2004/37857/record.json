@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4236-1/41754",
+  "source_id": 37857,
+  "date": "2004-09-08",
+  "title": "Mükelleflerin yanlarında bir aydan daha az çalışan işçilerin teşvikten yararlanıp...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37857",
+  "source_sha256": "e31aff5d7f07931a762c6ca42ff7f606759bb30e8310bc1fbec933ba26fca46e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
