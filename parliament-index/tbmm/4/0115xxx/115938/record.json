@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 115938,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Yozgad Mebusu Süleyman Sırrı Beyin, belediye vergi ve resimleri Kanununun 6. maddesindeki apartıman kaydının tefsiri hakkında 4/41 numaralı takririne dair",
+  "title": "Yozgad Mebusu Süleyman Sırrı Beyin, belediye vergi ve resimleri Kanununun 6. maddesindeki apartıman kaydının tefsiri hakkında 4/41 numaralı takririne dair",
+  "first_sitting_date": "1933-01-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 12,
+      "sitting": 20,
+      "sitting_date": "1933-01-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c012/tbmm04012020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c012/tbmm04012fih.pdf",
+      "pages": [
+        "18"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 21,
+      "sitting_date": "1933-01-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c012/tbmm04012021.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c012/tbmm04012fih.pdf",
+      "pages": [
+        "29"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=501&v_kullanici_id=27483870",
+  "source_sha256": "400da46beee2404076f751d8580de2e7708d340b2358e8b2929f1e8726c186c8",
+  "in_force": "1933-01-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
