@@ -1,0 +1,80 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1575",
+  "year": 1930,
+  "title": "Gazete primleri hakkında kanun",
+  "adopted": "1930-03-27",
+  "date_basis": "last-sitting",
+  "official_gazette_as_published": "29.03.1930 No: 1457",
+  "committee_reports": [
+    {
+      "label": "TBMM 88 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c017/tbmm03017040ss0088.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120413,
+      "title": "Gazete primleri hakkında kanun",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [
+        {
+          "label": "TBMM 88 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c017/tbmm03017040ss0088.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 15,
+          "sitting": 23,
+          "sitting_date": "1930-01-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c015/tbmm03015023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c015/tbmm03015fih.pdf",
+          "pages": [
+            "16"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 37,
+          "sitting_date": "1930-03-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c017/tbmm03017037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c017/tbmm03017fih.pdf",
+          "pages": [
+            "18:21"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 40,
+          "sitting_date": "1930-03-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c017/tbmm03017040.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c017/tbmm03017fih.pdf",
+          "pages": [
+            "71:72",
+            "86:89"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=663&v_gelecek_sayfa=401&v_kullanici_id=27483152",
+      "page_sha256": "8db7312e04e5a80f2ed522d4bcac61f09a433a11adc1c49d3c5a5683300858ff"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8db7312e04e5a80f2ed522d4bcac61f09a433a11adc1c49d3c5a5683300858ff",
+  "issuer": "TBMM",
+  "in_force": "1930-03-27",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (1930-03-27); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
