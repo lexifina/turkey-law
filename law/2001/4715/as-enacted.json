@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4715",
+  "year": 2001,
+  "title": "14 Aralık 1972 Tarihli Avrupa Sosyal Güvenlik Sözlemesinin 7 nci ve 26 ncı Maddeleri Uyarınca, 5 Nisan 1966 Tarihli Hollanda Krallığı ile Türkiye Cumhuriyeti Arasında Sosyal Güvenlik Sözleşmesinin Revizyonunu Amaçlayan Hollanda Krallığı ile Türkiye Cumhuriyeti Arasında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-10-24",
+  "gazette_issue": "24563",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/10/20011024.htm",
+  "source_sha256": "605437c0920c01691caa72a44a1af05e6e6187b7664eef6c2e365365f7f1776d",
+  "text_sha256": "b2a31e467777bfbcc6cce624e3b3c9dd619ca8ca37eca7da9981919b79c235f2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/10/24/24563-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/10/20011024.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
