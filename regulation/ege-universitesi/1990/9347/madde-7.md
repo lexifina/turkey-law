@@ -1,0 +1,3 @@
+Yönetim Kurulu
+Madde 7- Yönetim Kurulu, tabii üye olan Müdür ve Müdür Yardımcıları dahil 7 kişiden oluşur. Diğer 4 üye, Merkezin çalışma alnı ile ilgili tercihen öğretim üyeleri olmak üzere, öğretim elemanları arasından Rektör tarafından 3 yıl süre ile atanır. Müddeti biten üyeler yeniden seçilebilir. Müddeti bitmeden ayrılanların veya 6 aydan fazla üniversite dışında görevlendirilenlerin yerine müddeti doldurmak üzere yeniler seçilir.
+Yönetim Kurulu çoğunluk ile toplanır. Oylamalar kapalı oy ile yapılır ve kararlar salt çoğunlukla verilir. Oy eşitliğinde Müdürün oyunun bulunduğu taraf esas alınır.

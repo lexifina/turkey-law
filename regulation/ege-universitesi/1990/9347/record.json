@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1990-12-20",
+      "20.12.1990",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "20731",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1990-12-20",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ege Üniversitesi",
+  "issuer_slug": "ege-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ege-universitesi/1990/9347",
+  "published": "1990-12-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=9347&MevzuatTertip=5",
+  "source_bytes": 19116,
+  "source_id": "8.5.9347",
+  "source_sha256": "27292807e26d6bf3d7aa5570cf8602077550155d5b83a4318b56a4e3905710e1",
+  "text_status": "as-enacted",
+  "title": "EGE ÜNİVERSİTESİ ÇEVRE SORUNLARI UYGULAMA VE \r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 191,
+  "word_count": 845
+}
