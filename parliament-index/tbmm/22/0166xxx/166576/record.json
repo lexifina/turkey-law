@@ -1,0 +1,138 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 166576,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İş Kanunu Tasarısına ilişkin",
+  "title": "İş Kanunu Tasarısına ilişkin",
+  "first_sitting_date": "2003-03-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 45,
+      "sitting_date": "2003-03-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c007/tbmm22007045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c007/tbmm22007fih.pdf",
+      "pages": [
+        "148:222"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 46,
+      "sitting_date": "2003-03-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c007/tbmm22007046.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c007/tbmm22007fih.pdf",
+      "pages": [
+        "240:342",
+        "347:350",
+        "367:462"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 75,
+      "sitting_date": "2003-05-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c013/tbmm22013075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c013/tbmm22013fih.pdf",
+      "pages": [
+        "451:495"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 76,
+      "sitting_date": "2003-05-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c013/tbmm22013076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c013/tbmm22013fih.pdf",
+      "pages": [
+        "545:587",
+        "590:642"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 77,
+      "sitting_date": "2003-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c014/tbmm22014077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c014/tbmm22014fih.pdf",
+      "pages": [
+        "22:135"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 78,
+      "sitting_date": "2003-05-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c014/tbmm22014078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c014/tbmm22014fih.pdf",
+      "pages": [
+        "175:243"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 79,
+      "sitting_date": "2003-05-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c014/tbmm22014079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c014/tbmm22014fih.pdf",
+      "pages": [
+        "349:498"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 80,
+      "sitting_date": "2003-05-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c014/tbmm22014080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c014/tbmm22014fih.pdf",
+      "pages": [
+        "562:633"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 82,
+      "sitting_date": "2003-05-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c014/tbmm22014082.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c014/tbmm22014fih.pdf",
+      "pages": [
+        "782:847"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 83,
+      "sitting_date": "2003-05-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c015/tbmm22015083.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c015/tbmm22015fih.pdf",
+      "pages": [
+        "25:100",
+        "111:134"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "fd4b6c5bdba1f03dec056d453dca5c59c59465b380bdbfd05adaf432717075df",
+  "in_force": "2003-03-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
