@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-09-10",
+  "issue": "25579",
+  "edition": "regular",
+  "item": 9,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "YEAŞ Yatağan Termik Santralı İşletme Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/09/20040910-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (24 = 24)",
+  "ilan_codes": [
+    "10997/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/09/20040910-3.htm",
+  "category_page_sha256": "8d8512174c0a7f8be09858f5b61a8e0343e29ba26b86d11e2be59689b4b26757",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/09/20040910.htm",
+  "index_sha256": "36646ce1e74d48137a14380b77bb35d554522b3b7b6ed1b84f6ec91f5b735410",
+  "index_header": "10 Eylül 2004 ... Sayı : 25579",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
