@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1932",
+  "year": 1932,
+  "title": "İstanbul Darülfünunu 1931 malî senesi bütçesine merbut «C» cetvelinde tadilât icrası hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-03-23",
+  "gazette_issue": "2058",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2058.pdf",
+  "source_sha256": "dbd7126880e9e91026a5bb83ae62b05874b56f42f02d87488f37cf7bad3da004",
+  "text_sha256": "95df34c533eddf0ac7c46242d26098885acb8ae8fb80c67340c959d031b83564",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      9,
+      49
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101932.pdf",
+    "source_sha256": "d06e1c89e1f49629b8226d32eca491d82365cb19ce35f13c35992df35b53f96d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9619,
+    "bag": 0.9442,
+    "kd_coverage": 0.9744,
+    "kd_body_compared": 0.9583,
+    "rg_words": 118,
+    "kd_words": 120,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
