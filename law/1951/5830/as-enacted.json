@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5830",
+  "year": 1951,
+  "title": "Resmî Daire ve Müesseselerin Siyasî Partilere Bedelsiz Mal Devredemiyeceklerine ve Bu Daire ve Müesseselerle Münfesih Derneklere Ait Olup Siyasi Partilere Terkedilmiş Olan Gayrimenkul Mallarla Bu Partiler Tarafından Genel Menfaatler İçin Yaptırılmış:Olan Binaların Sahiplerine ve Hazineye İadesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-08-11",
+  "gazette_issue": "7882",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7882.pdf",
+  "source_sha256": "d896a78097c0e8bd2aae251cae3e773aff1ff7eea35df58a2fb2fc7d5266c265",
+  "text_sha256": "30709a0f755642e1cac54d98af6f7c4ee2be568bc6d5db5f41a14b9e68fd9b04",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      134,
+      409
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305830.pdf",
+    "source_sha256": "afbb26ae72b4f97cad8dc7a10bf01968ed021f6b3a1aef80244e37af7c0880e2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9783,
+    "bag": 0.7685,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9983,
+    "rg_words": 1018,
+    "kd_words": 1144,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
