@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.5925",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YURT DIŞINDA BULUNAN GEMİ VE UÇAKLARIN İHTİYAÇLARININ SAĞLANMASINA AİT YÖNETMELİK",
+  "number": "5925",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1984/5925",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5925&MevzuatTertip=5",
+  "source_sha256": "f30c54728787a55f162110bc5dbafbdbea205a72e6d33ccdc51a42d2ff79584f",
+  "source_bytes": 34296,
+  "published": "1984-06-22",
+  "gazette": "18439",
+  "in_force": "1984-06-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.06.1984); own commencement article: \"bu Yönetmelik Resmî Gazete'de yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik Resmî Gazete'de yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 229,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

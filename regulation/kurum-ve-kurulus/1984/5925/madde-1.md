@@ -1,0 +1,1 @@
+Madde 1- 2886 sayılı Devlet İhale Kanunu kapsamındaki idarelerin yurt dışında bulunan gemi ve uçaklarının o yerden sağlanması zorunlu olan ihtiyaç maddelerinin alımı ile acele onarımlarının vesair giderlerinin yapılması bu Yönetmelikte yazılı esaslara göre yürütülür.
