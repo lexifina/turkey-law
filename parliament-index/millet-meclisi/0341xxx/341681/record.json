@@ -1,0 +1,111 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 341681,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "title": "Millet Meclisi fihrist kaydı 341681 (Raporlar)",
+  "first_sitting_date": "1963-04-29",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 16,
+      "sitting": 79,
+      "sitting_date": "1963-04-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016fih.pdf",
+      "pages": [
+        "564"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 89,
+      "sitting_date": "1963-06-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017fih.pdf",
+      "pages": [
+        "426:428"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 92,
+      "sitting_date": "1963-06-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017092.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017fih.pdf",
+      "pages": [
+        "630:652"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 93,
+      "sitting_date": "1963-06-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+      "pages": [
+        "4"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 94,
+      "sitting_date": "1963-06-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018094.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+      "pages": [
+        "56"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 97,
+      "sitting_date": "1963-06-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018097.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+      "pages": [
+        "233"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 105,
+      "sitting_date": "1963-07-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019105.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+      "pages": [
+        "6:30",
+        "59:62"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 106,
+      "sitting_date": "1963-07-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019106.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+      "pages": [
+        "90:94"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=5901&v_kullanici_id=27484836",
+  "source_sha256": "8a4eb75129b9439d87457f013439eb143b61cabee741da27159a5ce4ab225aec",
+  "in_force": "1963-04-29",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
