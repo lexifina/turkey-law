@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6195",
+  "year": 1953,
+  "title": "Cumhuriyet Halk Partisinin İktisaplarının İadesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-12-16",
+  "gazette_issue": "8584",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8584.pdf",
+  "source_sha256": "81677958fb513fcb666be55e94db9c9131c15dabd7492e5eab155158d536103a",
+  "text_sha256": "a186a164ba473119d0bf928ed1bdfe7bc1b4f9b4a7c4cd865fa474c7739b9041",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      28,
+      86
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606195.pdf",
+    "source_sha256": "a2e007aebfe596f254cdea9a9de3efc924f5dd6a93428e10bfb449fadf49885f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.934,
+    "bag": 0.7478,
+    "kd_coverage": 0.9847,
+    "kd_body_compared": 0.9784,
+    "rg_words": 452,
+    "kd_words": 462,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
