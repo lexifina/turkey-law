@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 382550,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "17 Ocak 1963 tarih ve 144 sayılı Uçuş hizmetleri Tazminat Kanununun bâzı maddelerinin değiştirilmesine dair 23 Nisan 1970 tarih ve 1256 sayılı Kanunun geçici 2. maddesinin son fıkrasının değiştirilmesi hakkında kanun tasarısına dair (1/384)",
+  "title": "17 Ocak 1963 tarih ve 144 sayılı Uçuş hizmetleri Tazminat Kanununun bâzı maddelerinin değiştirilmesine dair 23 Nisan 1970 tarih ve 1256 sayılı Kanunun geçici 2. maddesinin son fıkrasının değiştirilmesi hakkında kanun tasarısına dair (1/384)",
+  "first_sitting_date": "1971-05-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 101,
+      "sitting_date": "1971-05-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013101.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013fih.pdf",
+      "pages": [
+        "474"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 108,
+      "sitting_date": "1971-06-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014108.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014fih.pdf",
+      "pages": [
+        "62:64"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2301&v_kullanici_id=27484836",
+  "source_sha256": "e2396a49bcf49f0495ababce48ae860530af86754171d2569261a2423dcd2aa3",
+  "in_force": "1971-05-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
