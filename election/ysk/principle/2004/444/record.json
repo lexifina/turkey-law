@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/444",
+  "list_number": "444",
+  "decision_date": "2004-03-02",
+  "title": "YSK ilke kararı 2004/444",
+  "summary": "Adaylıkları eksik belge (Adli sicil kaydı, nüfus cüzdanı örneği ve öğrenim belgesi) nedeniyle reddedilen ve bu nedenle ilgili siyasi partiye yeni aday listesi verilmesi için tanınan sürede siyasi parti tarafından aynı adayın belge eksikliğinin tamamlanması durumunda yeniden aynı sıradan aday gösterilebilmeleri mümkündür. Buna karşın siyasi parti adaylarının belgelerinin tamamlanmaması durumunda ise bu partinin eksik liste ile seçime katılması gerekir.",
+  "concepts": "EKSİK BELGE NEDENİYLE REDDEDİLEN ADAYIN YENİDEN ADAY OLMASI,  ADAY EKSİK BELGELERİNİ TAMAMLARSA YENİDEN ADAY OLABİLİR, ADAYLIKTA EKSİK BELGELERİN SONRADAN TAMAMLANMASI DURUMU",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4020/2004-444-karar.htm",
+  "source_sha256": "f32907f03781fac0db1522b40e672855810f52b153a0995f8628e1c39528d270",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "2004-03-02",
+  "law_text_complete": true
+}
