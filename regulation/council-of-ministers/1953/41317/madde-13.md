@@ -1,0 +1,1 @@
+Madde 13 – Bu Talimatnamenin 12 nci maddesi gereğince seleksiyona tabi tutulan kozalardan hangi partilerden ne miktarının (Eleme) tohum istihsaline tahsis olunacağı alakadar ipek böcekçiliği müesseseleri elemanları tarafından tayin ve tesbit edilir.

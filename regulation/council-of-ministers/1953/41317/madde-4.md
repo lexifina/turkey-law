@@ -1,0 +1,1 @@
+Madde 4 – Tohum istihsalinde kanunun 1 inci maddesinde belirtilmiş olan teftiş ve murakabenin tam olarak yapılabilmesi için istihsal yerlerinin her zaman salahiyetli memurlara açık bulundurulması mecburidir.

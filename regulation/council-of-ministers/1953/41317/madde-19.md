@@ -1,0 +1,1 @@
+Madde 19 – Silkilen tohumlar temizlendikten sonra kalınlıkları 5 Sm. yi geçmemek üzere ya tülbent torbalar veya altı bez çerçeveler içersinde ve kerevet üzerinde sıcaklığı en çok 15 derece olan serin bir mahalde muhafaza edilecektir.

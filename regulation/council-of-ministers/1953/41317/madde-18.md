@@ -1,0 +1,2 @@
+Madde 18 – Partiler kelebek muayenesinden sonra kontrola tabi tutulur. Bu kontrolda hastalık bulunduğu tesbit edilen partiler tekrar muayene ettirilir. Hastalık görülmiyen partilerde ise ortalama kese randımanı tayin edilerek partinin vereceği tohum miktarı tesbit edilir ve bunu mütaakıp silkmeye müsaade olunur.
+Gerek kese sondaj ve gerekse kelebek muayenesi ve kontrolu sonunda ayrılan hastalıklı keseler muhteviyatı ile beraber tohumcu veya yazılı olarak salahiyattar kılacağı mümessili ile kontrolör huzurunda yakılır ve keyfiyet bir zabıtla tesbit olunur.

@@ -1,0 +1,1 @@
+Madde 5 – Memleket menfaati icabı olarak her nevi saf veya melez ırk tohumlarının istihsali zaruri görüldüğü takdirde tohum müstahsilleri Tarım Vekaletince istenen tohumlardan istenen miktarı istihsale mecburdurlar.

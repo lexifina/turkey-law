@@ -1,0 +1,1 @@
+Madde 25 – Bandrollanmış veya henüz bandrollanmamış olarak nakledilecek tohumlar için nakliye tezkeresi alınması mecburidir. Nakliye tezkereleri ipek böcekçiliği teşkilatı, bulunmıyan yerlerde ise ziraat teşkilatı tarafından tanzim edilir. Bandrollanmış veya henüz bandrollanmamış tohumlar nakliye tezkeresiz naklolunduğu takdirde kanunun 20 nci maddesi tatbik olunur.

@@ -1,0 +1,1 @@
+Madde 24 – Tohumlar ya kese içersinde kelebekli veya silkilmiş olarak en az (250) şer gramlık hiç kullanılmamış yeni ve temiz bez torbalar içersinde veyahutta Talimatnamenin (22) nci maddesinde zikrolunan (25) gramlık kutularda havadar, tazyike mütehammil ambalajlar içersinde nakliye tezkeresi ile naklolunur.

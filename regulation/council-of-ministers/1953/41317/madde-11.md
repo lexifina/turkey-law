@@ -1,0 +1,1 @@
+Madde 11 – Damızlık kozalar satış yerlerinde ve tohum istihsal evlerinde tekrar kontrol edilerek raporları vize edilir. Bu kontrolda damızlık vasıfları taşımadıkları veya bu vasfı kaybettikleri anlaşılan kozaların raporları geri alınır.

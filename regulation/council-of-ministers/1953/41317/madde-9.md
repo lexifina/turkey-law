@@ -1,0 +1,1 @@
+Madde 9 – Damızlık beslemede muvaffak olabilmek için bir gram tohumdan en az 2,5 Kg. yaş koza alınması ve elde olunan kozular üzerinde vasıf bakımından yapılacak analizde asgari üçte ikisinin damızlığa elverişli bulunması şarttır. Analiz sonunda bulunan nispete göre hesabı yapılarak damızlık koza miktarı tayin edilir ve ona göre raporu verilir.

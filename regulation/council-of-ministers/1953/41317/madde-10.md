@@ -1,0 +1,1 @@
+Madde 10 – Damızlık kozaların istihsal yerlerinden satış mahallerine veya tohum istihsal evlerine nakilleri 12 saatten fazla süremez. Bunların temiz, havadar ve tazyike mütehammil ambalajlar içersinde nakli lazımdır. Bu madde hükmüne aykırı olarak taşınan kozalar damızlık olarak kullanılamaz ve raporu geri alınır.

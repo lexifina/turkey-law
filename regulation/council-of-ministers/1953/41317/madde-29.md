@@ -1,0 +1,1 @@
+Madde 29 – Memleket içersinde sarf olunacak ipek böceği tohumlarının kışlaklarda kanunun 17. maddesi hükmüne göre üç ay kışlatılması mecburidir. Bölgelere göre tohumların kışlaktan çıkma zamanı müesseselerce tayin edilir ve müstahsillere bildirilir. Tohumların kışlaktan çıkış tarihi kutular üzerine kaydedilir.

@@ -1,0 +1,1 @@
+Madde 15 – Tohum müstahsillerinin kelebek muayenesine başlamadan en az 15 gün evvel muayene günü ve yerini bölgesinin ipek böcekçiliği müessesesine veya bölge kontrolörlüğüne bildirmesi mecburidir. Bildirilen muayene tarihinin tehiri veya ara verilmesi halinde tohum müstahsilinin vaziyeti alakalı ipek böcekçiliği müessesesi veya kontrolörlüğüne bildirmesi lazımdır.
