@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6765",
+  "year": 1956,
+  "title": "Harçlar Kanununun 125 nci Maddesinin Değiştirilmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-07-04",
+  "gazette_issue": "9349",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9349.pdf",
+  "source_sha256": "36918c5f3f16b39c1603c4eb0db4fb3ede997a454f7451baaf819379121440dc",
+  "text_sha256": "19b33a9521dd2276f4b70fab949a369abc1fb81b10822153ff0e4b08e5592068",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      39,
+      109
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806765.pdf",
+    "source_sha256": "72f7cfa17f0d4047f9e2b31c4d79336eb68296674b90696f84ea36f95558ebb9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9372,
+    "bag": 0.863,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9847,
+    "rg_words": 276,
+    "kd_words": 261,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
