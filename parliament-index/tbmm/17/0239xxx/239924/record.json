@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 239924,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "REŞİT ÜLKER (İSTANBUL)",
+  "summary": "6570 Sayılı Gayrimenkul Kiralan Hakkındaki Yasaya 11.10.1983 Gün ve 2912 Sayılı Yasa ile Eklenen Geçici Maddede Değişiklik Yapılmasına İlişkin (2/57)",
+  "title": "6570 Sayılı Gayrimenkul Kiralan Hakkındaki Yasaya 11.10.1983 Gün ve 2912 Sayılı Yasa ile Eklenen Geçici Maddede Değişiklik Yapılmasına İlişkin (2/57)",
+  "first_sitting_date": "1984-05-08",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 62,
+      "sitting_date": "1984-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c003/tbmm17003062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c003/tbmm17003fih.pdf",
+      "pages": [
+        "506"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 72,
+      "sitting_date": "1984-05-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+      "pages": [
+        "117:129"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "6310cd91be4dc11cad5e1f3c3f80d3f26cb7e2368723a70ab53034bec8360363",
+  "in_force": "1984-05-08",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
