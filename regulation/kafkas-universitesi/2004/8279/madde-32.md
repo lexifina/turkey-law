@@ -1,0 +1,2 @@
+Mezuniyet Tarihi
+Madde 32 — Öğrencinin mezuniyet tarihi Yüksekokul Yönetim kurulunun aldığı karar tarihidir. Ancak bu tarihe kadar öğretmenlik uygulaması (Staj), uygulama, bitirme ödevi ve benzeri sebeplerle mezun olamayan öğrenciler bu çalışmaların tamamlanarak kabul edildiği tarihte mezun olurlar. Mezuniyetleri müteakip ilgili akademik yıla taşan öğrenciler ise o yarıyılın katkı payını veya ikinci öğretim ücretini öderler.

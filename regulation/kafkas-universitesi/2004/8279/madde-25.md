@@ -1,0 +1,2 @@
+Ek Sınav
+Madde 25 — Kafkas Üniversitesi Kayıt, Eğitim-Öğretim ve Sınav Yönetmeliğinin 12 nci maddesinde belirtilen durumdaki öğrencilere kendi müracaatları ve Yönetim Kurulunun kararıyla açılır. Öğrenciler ek sınav haklarını azami öğrenim sürelerini tamamladıkları yarıyılı izleyen ilk ve ikinci genel sınav dönemlerinde kullanırlar. Bu sınavlarda 50 puan alan öğrenci dersten başarılı olmuş sayılır.

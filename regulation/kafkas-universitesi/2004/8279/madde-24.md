@@ -1,0 +1,4 @@
+Mazeret Sınavı
+Madde 24 — Mazeretleri yönetmeliklere uygun olan ve Yönetim Kurulunca kabul edilen öğrencilere açılan sınavdır. Mazeret sınavı ara sınav ve bütünleme sınavları için açılır. Mazereti olan öğrenci mazeretiyle ilgili belgesini hangi derslerin mazeret sınavına katılmak istediğini belirtir bir dilekçe ekinde mazeretinin bitim tarihinden itibaren en geç bir hafta içinde müdürlüğe ulaştırır.
+Ara sınavlara ve bütünleme sınavlarına girmeyenlerin dilekçeleri ve mazeret belgeleri Yönetim Kurulunda görüşülür, mazeretlerinin haklı ve geçerli bir neden taşıdığı anlaşılanlara mazeret sınav hakkı tanınır, mazeret sınavlarının hangi tarihte yapılacağı Yönetim Kurulunca belirlenir ve müdürlükçe ilan edilir.
+Ara sınavlara ait mazeret sınavları o yarıyılın son haftası içinde, bütünleme sınavlarına ait mazeret sınavları, müteakip yarıyılların ilk haftası içinde yapılır. Yarıyıl/yıl sonu, mazeret, tek ders ve muafiyet sınavının mazereti sınavı yoktur.

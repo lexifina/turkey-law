@@ -1,0 +1,2 @@
+Öğretmenlik Uygulaması (Staj) ve Okul Deneyimi Dersleri
+Madde 31 — Öğrencilerin öğretmenlik uygulaması (Staj) çalışmaları ile okul deneyimi 1 ve 2 derslerine ait yöntem ve değerlendirmeler Milli Eğitim Bakanlığınca hazırlanan öğretmen adaylarının Milli Eğitim Bakanlığına bağlı eğitim - öğretim kurumlarında yapacakları öğretmenlik uygulamasına ilişkin Yönergeye göre, Yüksekokul Müdürlüğünce hazırlanan ve Kafkas Üniversitesi Senatosunca kabul edilen Yüksekokul öğretmenlik uygulaması (Staj) ve okul deneyimi dersleri uygulamasına ilişkin yönerge esaslarına göre yürütülür.

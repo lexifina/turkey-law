@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 47 — Bu Yönetmelik 2003-2004 Eğitim-Öğretim yılından itibaren geçerli olmak üzere, yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2004-01-25",
+      "25.01.2004",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 47 — Bu Yönetmelik 2003-2004 Eğitim-Öğretim yılından itibaren geçerli olmak üzere, yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "25357",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2004-01-25",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kafkas Üniversitesi",
+  "issuer_slug": "kafkas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kafkas-universitesi/2004/8279",
+  "published": "2004-01-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=8279&MevzuatTertip=5",
+  "source_bytes": 92486,
+  "source_id": "8.5.8279",
+  "source_sha256": "7a264fea0ebbc8f97529bc46906ca68aa2194b43839051729094d551ff1cfdb7",
+  "text_status": "as-enacted",
+  "title": "KAFKAS ÜNİVERSİTESİ SARIKAMIŞ BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU GİRİŞ SINAVI, KAYIT, EĞİTİM – ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 206,
+  "word_count": 4979
+}

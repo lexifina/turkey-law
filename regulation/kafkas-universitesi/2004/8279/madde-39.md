@@ -1,0 +1,4 @@
+İzin
+Madde 39 — Aşağıdaki hallerde öğrencilere Yüksekokul Yönetim Kurulunun kararı ve Kafkas Üniversitesi Yönetim Kurulunun onayı ile izin verilir.
+a) Öğrencinin eğitim ve öğretimine katkıda bulunacak üniversite dışı burs, staj, araştırma gibi imkanların doğması halinde,
+b) Sosyal, kültürel ve sportif etkinliklere üniversite adına katılacaklar ile 3289 sayılı Gençlik ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkındaki Kanunun 29 uncu Maddesi gereğince milletlerarası seviyede yurtiçi ve yurtdışında müsabakalara ve bunların hazırlık çalışmalarına katılacak olanlardan, Yüksekokul Müdürlüğünün Yönetim Kurulu Kararı ve Rektörün uygun görüşü ile görevlendirilenlerden, bu Yönetmeliğin konuyla ilgili diğer maddeleri dikkate alınmak suretiyle görevlendirme süresi içerisinde giremedikleri ders veya sınavlar için izinli ve mazeretli sayılırlar.

@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Sınav Türleri ve Değerlendirme Esasları
+Sınav Türleri
+Madde 19 — Sınavlar; ara sınavlar, yarıyıl yıl sonu, bütünleme, 1/3 baraj sınavı, mazeret sınavı, ek sınav, muafiyet ve tek ders mezuniyet sınavı olarak düzenlenir. Sınavlar; uygulaması olan dersler yazılı-uygulama, sözlü-uygulama olarak, uygulaması olmayan dersler yazılı ya da sözlü veya yazılı-sözlü, olarak yapılır. Sınavların nasıl ve hangi türde yapılacağı Yüksekokul Yönetim Kurulunda karara bağlanır ve bu durum sınav programında belirtilir. Sınav programı Yüksekokul Müdürlüğünce tespit edilir ve sınavlardan en az iki hafta önce ilan edilir. Dini ve Milli Bayramlar dışında Cumartesi ve Pazar günleri de sınav yapılabilir.
+Yarıyıl/yıl sonu sınav sonuçları sınavın yapıldığı tarihi izleyen 10 gün içinde, 1/3 baraj sınavı sınavın yapıldığı tarihi izleyen iki gün içinde, bütünleme sınav sonuçları, sınavların yapıldığı tarihi izleyen 15 gün içinde müdürlükçe ilan edilir. Sınav evrakı ve tutanakları ilgili öğretim elemanlarınca bir ay içerisinde müdürlüğe teslim edilir ve bu evraklar iki yıl süreyle müdürlükçe muhafaza edilir.

@@ -1,0 +1,2 @@
+Sınav Sonuçlarına İtiraz
+Madde 29 — Sınav sonuçlarına itirazı olan öğrenci sonuçların ilanından sonra en geç 5 iş günü içinde, itirazını bir dilekçe ile Yüksekokul Müdürlüğüne yapar ve sınav evrakının yeniden incelenmesini isteyebilir. İtiraz, ilgili öğretim elemanına iletilir. Not düzeltmeleri ancak maddi hata görüldüğünde, öğretim elemanının önerisi üzerine Yüksekokul Müdürlüğünce yapılır. İnceleme sonucu kesindir, sonuç öğrenciye tebliğ edilir.

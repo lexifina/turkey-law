@@ -1,0 +1,2 @@
+Eğitim-Öğretim Kapsamı
+Madde 12 — Eğitim-öğretim; teorik dersler, uygulamalar, sportif uygulamalar, laboratuvar çalışmaları, pratik çalışmalar, seminerler, ödevler, paneller, okul deneyimi, staj (öğretmenlik uygulaması) bitirme tezi ve benzeri çalışmaları kapsar. Okul deneyimi dersleri ve staj (öğretmenlik uygulamaları) uygulamaları, yüksekokul öğretmenlik uygulaması (Staj) ve okul deneyimi dersleri uygulamasına ilişkin yönerge doğrultusunda yürütülür.

@@ -1,0 +1,2 @@
+Yüksekokuldan Ayrılma
+Madde 41 — Kendi istekleri ile öğrencilikten ayrılacak olanlar Yüksekokul Müdürlüğüne veya Kafkas Üniversitesi Öğrenci İşleri Daire Başkanlığına dilekçe ile başvuruda bulunurlar. Kaydı silinen öğrencinin Kafkas Üniversitesine kayıt esnasında verdiği lise veya dengi okul diploması isteği üzerine kendisine geri verilir. Diplomasının arkasına, Öğrenci İşleri Daire Başkanlığınca ilişiğinin kesildiği belirtilir, mühürlenir ve imzalanır. Bu yolla ayrılan öğrencinin yeniden kaydı yapılmaz.

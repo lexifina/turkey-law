@@ -1,0 +1,2 @@
+Öğrenci İşleri
+Madde 7 — Yüksekokul öğrencilerinin kayıt yenileme ve kayıt silme işlemleri ile diğer eş değer yükseköğretim kurumlarından gelenlerin kabulü, intibaklarının yapılması, öğretim ve sınavlara ilişkin işlemler konusunda Yüksekokul Yönetim Kurulu yetkilidir. Kafkas Üniversitesi Öğrenci İşleri Daire Başkanlığınca yürütülen ve Rektörlük makamının onaylarıyla Yüksekokul Müdürlüğüne devredilen işler, Yüksekokul Müdürlüğünün ilgili birimlerince yürütülür.
