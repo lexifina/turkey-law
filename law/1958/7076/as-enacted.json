@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7076",
+  "year": 1958,
+  "title": "Makina ve Kimya. Endüstrisi Kurumu Kanununun 11. maddesiyle 13. maddesinin son fıkrasının kaldırılması ve bu ka nuna muvakkat bir madde eklen mesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-02-15",
+  "gazette_issue": "9835",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9835.pdf",
+  "source_sha256": "56c4c4a7cdf52263702ec33e40007723d73eb8495b8e32e0ca4fe587ba2f6ccd",
+  "text_sha256": "cc1a408a0330786c6d93f7fc9c385f934653e38abdae9feafba52fdef743f28e",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      88,
+      102
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007076.pdf",
+    "source_sha256": "729544f2a7567ca010cfb154ffbbf21b200ed00559df92197a380853affccbef",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9581,
+    "bag": 0.881,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9767,
+    "rg_words": 84,
+    "kd_words": 86,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
