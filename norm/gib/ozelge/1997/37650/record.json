@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5301- 2081/22381",
+  "source_id": 37650,
+  "date": "1997-05-30",
+  "title": "Kat karşılığı arsa alarak konut inşa eden kooperatiflerin Kurumlar vergisi ve K.D.V. İstisnasından yararlanamayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37650",
+  "source_sha256": "372582072d98955cbd094100999d58c7d3c56f7853552322476ca96eef0c6556",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
