@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2758",
+  "year": 1935,
+  "title": "Türkiye ile İtalya arasında akid ve imza edilib 12 Haziran 1934 tarih ve 2498 sayılı kanunla tasdık olunan ticaret muahedenamesı ile tediyatın tanzimine dair olan itilâfname ve merbutları meriyet müddetinin dokuz ay uzatılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-06-08",
+  "gazette_issue": "3023",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3023.pdf",
+  "source_sha256": "57a8ad43ef3c77dee5782d479beccd4bb199f65a2165b800c30d8d44ef6066c9",
+  "text_sha256": "db450954b68e29e7fc26ee207f55e3e42a409e2cb574cdefe7c8cb85bb870214",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      632,
+      653
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502758.pdf",
+    "source_sha256": "f3dd05c1fd16879d49a0327af2cc72f897956ad0859a25d47a2b8cba2ce2297b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9593,
+    "bag": 0.8657,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 105,
+    "kd_words": 96,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
