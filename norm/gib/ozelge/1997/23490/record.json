@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-286/31711",
+  "source_id": 23490,
+  "date": "1997-07-29",
+  "title": "\"Özel Gider İndirimine Ait Bildirim\" ekinde bilerek sahte fatura kullandığı tespit edilen kişiye ilişkin özel gider indirimi tutarının ne şekilde hesap ve tahsil edileceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/23490",
+  "source_sha256": "68db09dd4abd0d0478bfcb27f6dad3d4c2cac0a7a043cc772d56ebe6764684ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
