@@ -1,0 +1,101 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 343905,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "HÜSAMETTİN TİYANŞAN (İSTANBUL)",
+  "summary": "232 sayılı Kanunla değiştirilen 6085 sayılı Karayolları Trafik Kanununa bir madde ilâvesi hakkında (2/350)",
+  "title": "232 sayılı Kanunla değiştirilen 6085 sayılı Karayolları Trafik Kanununa bir madde ilâvesi hakkında (2/350)",
+  "first_sitting_date": "1962-11-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 10,
+      "sitting_date": "1962-11-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c009/mm__01009010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c009/mm__01009fih.pdf",
+      "pages": [
+        "398"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 28,
+      "sitting_date": "1963-01-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011fih.pdf",
+      "pages": [
+        "3"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 61,
+      "sitting_date": "1963-03-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014fih.pdf",
+      "pages": [
+        "459"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 91,
+      "sitting_date": "1963-06-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017091.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017fih.pdf",
+      "pages": [
+        "605:608"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 95,
+      "sitting_date": "1963-06-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018095.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+      "pages": [
+        "140:145"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 99,
+      "sitting_date": "1963-06-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+      "pages": [
+        "317:318"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 141,
+      "sitting_date": "1963-09-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021141.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021fih.pdf",
+      "pages": [
+        "477"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=5201&v_kullanici_id=27484893",
+  "source_sha256": "e1f300bc36d495f8a136d64e4db45985f0908f8f3a5a0742763e43ba7dafc079",
+  "in_force": "1962-11-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
