@@ -1,0 +1,1 @@
+Madde 28 – Müstakillen vazife gördükleri mevkilerde Hayvan Sağlık Zabıtası Kanununa dahil hastalıklardan şüphe veya bunlardan birini tesbit ettikleri takdirde derhal salahiyetleri dahilindeki ilk tedbirleri alırlar ve keyfiyeti en seri vasıta ile mafevk teknik veya idari makama bildirirler.

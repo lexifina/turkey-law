@@ -1,0 +1,1 @@
+Madde 32 – Kendilerine verilecek program dahilinde hayvanların bakımı, hayvan barındırılan yerlerin sıhhi icaplara uydurulması ve hayvanların sıhhi durumlarının tetkik ve takibi hususlarında köylüyü tenvir ederler.

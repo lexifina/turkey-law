@@ -1,0 +1,1 @@
+Madde 2 – Hayvan Sağlık Memurları Mektebi bütçede mevcut tahsisata ve bu tahsisatın ne yolda sarfolunacağını gösteren Bütçe Kanunu hükümlerine ve (Sarih hüküm bulunmadığı takdirde) Ziraat Vekilinin vereceği direktiflere göre idare edilir.

@@ -1,0 +1,1 @@
+Madde 9 – Yukarıki maddede gösterilen şartları haiz olmak üzere müracaat edenlerin miktarı kadrodan fazla bulunduğu takdirde talipler arasında müsabaka imtihanı yapılarak içlerinden en ehliyetlileri seçilir. Müsavi ehliyet gösterenler arasında yabancı garp lisanı bilenler tercih olunur.

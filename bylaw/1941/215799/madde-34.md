@@ -1,0 +1,1 @@
+Madde 34 – Mıntakayı teşkil eden köylerin çiftliklerin münferit ağılların sayısı topoğrafik vaziyetleri yolları ve mevsim de gözönünde tutulmak şartiyle sağlık memurlarının kendi mıntakalarını hiç olmazsa senede üç defa devir ve teftiş etmeleri mecburidir. Kendilerine verilecek iş programı bu esasa göre hazırlanır.

@@ -1,0 +1,1 @@
+Madde 36 – Hayvan Sağlık Zabıtası Nizamnamesinin 53 üncü maddesinin muhtelif fıkralarında gösterilmiş olup hastalık zuhurunda zabıta, köy ihtiyar heyetleri ve hayvan sahipleri tarafından yapılacak mükellefiyetleri ve alınacak tedbirleri noksansız olarak tatbik ettirirler.

@@ -1,0 +1,1 @@
+Madde 43 – Veteriner ve hekim bulunmıyan yerlerdeki hayvan sağlık memurları Hayvan Sağlık Zabıtası Nizamnamesinin hükümleri dahilinde ancak kendilerine verilen direktifler dairesinde et muayenelerini yaparlar

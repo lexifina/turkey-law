@@ -1,0 +1,1 @@
+Madde 30 – Kendi mıntakalarındaki hayvan hastalıklarının ihbar, istihbar ve filyasyon (Hastalığın nereden geldiğini araştırma) işlerinde Hayvan Sağlık Zabıtası Nizamnamesiyle vazifeli kılınan kimseler gibi vazifeli ve mesuldürler. Ve haber aldıkları hastalık mahalline hiç bir emir beklemeden giderek salahiyetli bulundukları ilk tedbirleri almağa mecburdurlar.

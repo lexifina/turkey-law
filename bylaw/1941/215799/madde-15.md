@@ -1,0 +1,1 @@
+Madde 15 – Sınıf geçebilmek için yazılı ve sözlü imtihanlarda her bir dersten kazanılan numaraların vasatisi 5 den aşağı düşmemek şarttır. Vasatilerde yarım numaralar talebe lehine 1 numaraya iblağ olunur. Mesela herhangi bir dersten yazılı imtihanda 7, sözlü imtihanda 8 numara kazanılmış olduğu takdirde bunların vasatisi olan 7,5 numara 8 sayılır.

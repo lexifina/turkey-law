@@ -1,0 +1,3 @@
+Müesseselerde ve hayvan hastahanelerindeki vazifeler
+Madde 45 – (Değişik : 26.1.1973 - 7/5680 K.)
+Hayvan sağlığı memurları, bakteriyoloji enstitüsüyle laboratuvarlarda takim, kültür vasatları, kan alma , otopsi, serom dekantasyonu, virus zerki, dil epiteli alınması, defterlerin kayıt ve tescili, serom ve aşı hazırlanmasına ait fenni kayıtların düzenlenmesi, fenn' alet ve edevatın iyi muhafazası, cam aletler yapılması, mikrop boyanması ve mikrotom işlerinde tecrübeye tabi hayvanlarla tecrübe hayvanlarının umumi hallerinin takibi hususunda laboratuvar şeflerinin vereceği direktifler dahilinde çalışırlar.

@@ -1,0 +1,6 @@
+İç memleket hayvan hareketlerindeki vazifeler
+Madde 26 – Hayvan sağlık memurlarının iç memleket hayvan hareketlerine ait vazifeleri aşağıda gösterilmiştir:
+A) Münferiden hizmet gördükleri herhangi bir mevkiden hareket edecek veya muayene istasyonundan geçecek olan hayvanların birer birer muayenelerini yapar ve vesikalarını kontrol ederler. Bu muayenelerde Hayvan Sağlık Zabıtası Kanununa dahil hastalıklardan, birisini buldukları veya şüphe ettikleri takdirde salahiyetleri dahilindeki ilk tedbirleri alır ve keyfiyeti bağlı bulundukları veterinere veyahut mahallin mülkiye amirine en seri vasıta ile bildirirler.
+B) (Değişik: 26.1.1973 - 7/5680 K.) Hayvanların belgeleri tam, uygun ve hayvanlar sağlam bulunduğu takdirde, menşe şahadetnamelerini veya sağlık raporlarını (Hayvanlar ve belgeler muayene edilmiş, tam ve sağlam bulunmuştur.) kaydiyle vize ederler, altlarına açık adreslerini yazdıktan sonra resmi mühürle ve imzalariyle tasdik ederek hayvanların geçmesine izin verirler ve durumu en seri vasıta ile bağlı bulundukları veterinere, veteriner yoksa mülkiye amirine bildirirler.
+Ç) (Ek: 26.1.1973 - 7/5680 K.) Hayvan park ve pazar kurumlarında, yönetmeliği gereğince idare amirliğince verilecek direktifler dairesinde hizmet görürler.
+(IV)
