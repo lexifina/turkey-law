@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 320465,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Beden Terbiyesi Genel Müdürlüğü 1967 bütçe yılı Kesinhesap kanunu tasarısı (Millet Meclisi 1/50; Cumhuriyet Senatosu 1/32) (S. Sayısı:42)",
+  "title": "Beden Terbiyesi Genel Müdürlüğü 1967 bütçe yılı Kesinhesap kanunu tasarısı (Millet Meclisi 1/50; Cumhuriyet Senatosu 1/32) (S. Sayısı:42)",
+  "first_sitting_date": "1972-01-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 18,
+      "sitting_date": "1972-01-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c001/cs__11001018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c001/cs__11001fih.pdf",
+      "pages": [
+        "333"
+      ]
+    },
+    {
+      "cilt": 2,
+      "sitting": 29,
+      "sitting_date": "1972-02-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c002/cs__11002029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c002/cs__11002fih.pdf",
+      "pages": [
+        "477"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 35,
+      "sitting_date": "1972-02-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c003/cs__11003035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c003/cs__11003fih.pdf",
+      "pages": [
+        "435:436",
+        "508:509"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2010&v_gelecek_sayfa=1601&v_kullanici_id=27484916",
+  "source_sha256": "46d92f20f8a83c42824012c4d9c00ea960a273094c41ac957910bfb8b5ed7d8a",
+  "in_force": "1972-01-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
