@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 166545,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Kültür ve Turizm Bakanlığı Teşkilât ve Görevleri Hakkında Kanun Tasarısı ile 13.12.1983 Tarihli ve 187 Sayılı Kültür ve Turizm Bakanlığı Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararname, 8.6.1984 Tarihli ve 216 Sayılı Kültür ve Turizm Bakanlığının Teşkilât ve Görevleri Hakkında 13.12.1983 Tarihli ve 187 Sayılı Kanun Hükmünde Kararnamenin Bazı Hükümlerinde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname, 24.1.1989 Tarihli ve 354 Sayılı Kültür Bakanlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararname, 24.1.1989 Tarihli ve 355 Sayılı Turizm Bakanlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararname, 17.3.1989 Tarihli ve 364 Sayılı 190, 354 ve 355 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname, 13.9.1989 Tarihli ve 379 Sayılı 190 ve 354 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname, 25.3.1990 Tarihli ve 411 Sayılı 190 ve 355 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname, 13.12.1991 Tarihli ve 468 Sayılı 190 ve 354 Sayılı Kanun Hükmünde Kararnameye ilişkin",
+  "title": "Kültür ve Turizm Bakanlığı Teşkilât ve Görevleri Hakkında Kanun Tasarısı ile 13.12.1983 Tarihli ve 187 Sayılı Kültür ve Turizm Bakanlığı Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararname, 8.6.1984 Tarihli ve 216 Sayılı Kültür ve Turizm Bakanlığının Teşkilât ve Görevleri Hakkında 13.12.1983 Tarihli ve 187 Sayılı Kanun Hükmünde Kararnamenin Bazı Hükümlerinde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname, 24.1.1989 Tarihli ve 354 Sayılı Kültür Bakanlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararname, 24.1.1989 Tarihli ve 355 Sayılı Turizm Bakanlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararname, 17.3.1989 Tarihli ve 364 Sayılı 190, 354 ve 355 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname, 13.9.1989 Tarihli ve 379 Sayılı 190 ve 354 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname, 25.3.1990 Tarihli ve 411 Sayılı 190 ve 355 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname, 13.12.1991 Tarihli ve 468 Sayılı 190 ve 354 Sayılı Kanun Hükmünde Kararnameye ilişkin",
+  "first_sitting_date": "2003-04-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 12,
+      "sitting": 67,
+      "sitting_date": "2003-04-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c012/tbmm22012067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c012/tbmm22012fih.pdf",
+      "pages": [
+        "106:125",
+        "127:154",
+        "157:173",
+        "178:223"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "fd4b6c5bdba1f03dec056d453dca5c59c59465b380bdbfd05adaf432717075df",
+  "in_force": "2003-04-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
