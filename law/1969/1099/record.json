@@ -1,0 +1,249 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1099",
+  "year": 1969,
+  "title": "Ankara Üniversitesi kuruluş kadroları hakkındaki 5239 sayılı Kanuna ek Adana Ziraat Fakültesi kuruluş Kanunu",
+  "adopted": "1969-02-03",
+  "adopted_as_published": "03/02/1969",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "13.02.1969 No: 13126",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201099.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 52",
+  "committee_reports": [
+    {
+      "label": "MM 441 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023030ss0441.pdf"
+    },
+    {
+      "label": "MM 441ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023030ss0441ek01.pdf"
+    },
+    {
+      "label": "MM 441ek02no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028077ss0441ek02.pdf"
+    },
+    {
+      "label": "MM 441ek03no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c032/mm__02032042ss0441ek03.pdf"
+    },
+    {
+      "label": "CS 1104no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c046/cs__07046040ss1104.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 373283,
+      "title": "Ankara Üniversitesi kuruluş kadroları hakkındaki 5239 sayılı Kanuna ek Adana Ziraat Fakültesi kuruluş Kanunu",
+      "adopted_as_published": "03/02/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201099.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 441 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023030ss0441.pdf"
+        },
+        {
+          "label": "MM 441ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023030ss0441ek01.pdf"
+        },
+        {
+          "label": "MM 441ek02no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028077ss0441ek02.pdf"
+        },
+        {
+          "label": "MM 441ek03no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c032/mm__02032042ss0441ek03.pdf"
+        },
+        {
+          "label": "CS 1104no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c046/cs__07046040ss1104.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 20,
+          "sitting": 134,
+          "sitting_date": "1967-07-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c020/mm__02020134.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c020/mm__02020fih.pdf",
+          "pages": [
+            "429"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 147,
+          "sitting_date": "1967-07-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c021/mm__02021147.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c021/mm__02021fih.pdf",
+          "pages": [
+            "585"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 22,
+          "sitting_date": "1967-12-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023022.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023fih.pdf",
+          "pages": [
+            "79"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 30,
+          "sitting_date": "1968-01-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023fih.pdf",
+          "pages": [
+            "543:554"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 60,
+          "sitting_date": "1968-03-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027fih.pdf",
+          "pages": [
+            "238"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 67,
+          "sitting_date": "1968-04-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027067.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027fih.pdf",
+          "pages": [
+            "505"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 77,
+          "sitting_date": "1968-06-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028fih.pdf",
+          "pages": [
+            "201:202"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 33,
+          "sitting_date": "1969-01-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c031/mm__02031033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c031/mm__02031fih.pdf",
+          "pages": [
+            "296"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 42,
+          "sitting_date": "1969-02-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c032/mm__02032042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c032/mm__02032fih.pdf",
+          "pages": [
+            "81:83"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1501&v_kullanici_id=27483225",
+      "page_sha256": "66251c4483ca186d733ac0d6ddf330376a3f317f3ebe9b3ad35f2b553c9b6259"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 312959,
+      "title": "Ankara Üniversitesi kuruluş kadroları hakkındaki 5239 sayılı Kanuna ek Adana Ziraat Fakültesi Kuruluş Kadroları Kanunu",
+      "adopted_as_published": "03/02/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201099.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 441 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023030ss0441.pdf"
+        },
+        {
+          "label": "MM 441ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023030ss0441ek01.pdf"
+        },
+        {
+          "label": "MM 441ek02no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028077ss0441ek02.pdf"
+        },
+        {
+          "label": "MM 441ek03no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c032/mm__02032042ss0441ek03.pdf"
+        },
+        {
+          "label": "CS 1104no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c046/cs__07046040ss1104.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 44,
+          "sitting": 22,
+          "sitting_date": "1968-01-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044022.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044fih.pdf",
+          "pages": [
+            "831"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 37,
+          "sitting_date": "1968-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045fih.pdf",
+          "pages": [
+            "489"
+          ]
+        },
+        {
+          "cilt": 46,
+          "sitting": 40,
+          "sitting_date": "1968-03-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c046/cs__07046040.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c046/cs__07046fih.pdf",
+          "pages": [
+            "84:86",
+            "89:91"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1001&v_kullanici_id=27483235",
+      "page_sha256": "094cb387034ac00eea805b544e30971275b2ef020692510be97000c9900f57c8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "66251c4483ca186d733ac0d6ddf330376a3f317f3ebe9b3ad35f2b553c9b6259",
+  "issuer": "Millet Meclisi",
+  "in_force": "1969-02-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 03/02/1969; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
