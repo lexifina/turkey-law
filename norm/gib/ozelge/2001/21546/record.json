@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/ 4207-29/11001",
+  "source_id": 21546,
+  "date": "2001-02-22",
+  "title": "Sendika yöneticilerine görev sürelerinin sonunda ödenen hizmet ödeneğinin,  İş Kanununda öngörülen kıdem tazminatı olarak kabul edilmesi mümkün bulunmamakta olup, söz konusu ödemelerin ücret kabul edilerek vergilendirilmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21546",
+  "source_sha256": "56d10af90235b064395924b6457816f44de654c71fa8d0bbb20470190383449c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
