@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5029-75/37142",
+  "source_id": 24689,
+  "date": "1997-09-02",
+  "title": "Kurum dönem safi karının dağıtılması veya dağıtılmaması hallerinde vergilendirme durumu hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/24689",
+  "source_sha256": "dbb6082532e4f73fbddbe3268432c594639572ae3ba8eda067df7eca51d955d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
