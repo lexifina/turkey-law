@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "Millet Meclisi",
+  "assembly": "MİLLET MECLİSİ",
+  "term_label": "4. Dönem",
+  "cilt": 11,
+  "sitting": 71,
+  "label": "71. Birleşim",
+  "sitting_date": "1975-04-30",
+  "date_as_published": "30 Nisan 1975",
+  "weekday": "Çarşamba",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011071.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011071gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=4&meclis_kisa_adi=MM&diger_donem_adi=d04",
+  "source_sha256": "e5c1531e40c5083254588f0ab3a3d87bcf92ea58692c89046e7775141ed648a1",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
