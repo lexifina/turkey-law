@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "40",
+  "decision_date": "1990-03-08",
+  "title": "ODUNLUK 1,2,3 PAFTA GÜMÜŞTEPE K. H-21 C-10 A-B PAF.11,112,113,134,350,358 359,360,361,371,480,470, 2432,2434,2430 PARSELLER",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1387_MEC1990-3_40.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1990",
+  "listing_sha256": "59f2f8d5146a88097d2c6cef9eaf3c3437ea9ecbd4195d41630cce207e452f12",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
