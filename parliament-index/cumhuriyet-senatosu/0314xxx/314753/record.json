@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 314753,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "28 Şubat 1959 tarihli ve 7245 sayılı Kanunun 1. maddesiyle 14 Ocak 1938 tarihli ve 3312 sayılı Hariciye Vekâleti Teşkilâtı Kanununa eklenen maddenin değiştirilmesine, mezkûr 3312 sayılı Kanunun 4. maddesine bir fıkra eklenmesine, 30 Haziran 1939 tarihli ve 3656 sayılı Kanuna bağlı (1) sayılı cetvelin Dışişleri Bakanlığı kısmına bâzı kadrolar eklenmesine ve 5 Mayıs 1969 tarihli ve 1173 sayılı Kanuna ek (3) sayılı cetvelin değiştirilmesine dair (Millet Meclisi 2/110; Cumhuriyet Senatosu 2/287) (S. Sayısı, 1407)",
+  "title": "28 Şubat 1959 tarihli ve 7245 sayılı Kanunun 1. maddesiyle 14 Ocak 1938 tarihli ve 3312 sayılı Hariciye Vekâleti Teşkilâtı Kanununa eklenen maddenin değiştirilmesine, mezkûr 3312 sayılı Kanunun 4. maddesine bir fıkra eklenmesine, 30 Haziran 1939 tarihli ve 3656 sayılı Kanuna bağlı (1) sayılı cetvelin Dışişleri Bakanlığı kısmına bâzı kadrolar eklenmesine ve 5 Mayıs 1969 tarihli ve 1173 sayılı Kanuna ek (3) sayılı cetvelin değiştirilmesine dair (Millet Meclisi 2/110; Cumhuriyet Senatosu 2/287) (S. Sayısı, 1407)",
+  "first_sitting_date": "1970-03-31",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 57,
+      "sitting": 55,
+      "sitting_date": "1970-03-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057fih.pdf",
+      "pages": [
+        "502",
+        "853",
+        "898",
+        "908:910"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=401&v_kullanici_id=27484924",
+  "source_sha256": "43e569bad21ed2adc7f6a66158069b7ff55af015f13de3a87c2dfe94e8b0727f",
+  "in_force": "1970-03-31",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
