@@ -1,0 +1,80 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1189",
+  "year": 1969,
+  "title": "991 sayılı Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü İçişleri Emekli Sandığı ile Askerî Fabrikalar Tekaüt ve muavenet Sandığının Sosyal Sigortalar Kurumuna devri hakkındaki Kanuna ek geçici maddeler eklenmesine dair Kanun",
+  "adopted": "1969-11-13",
+  "adopted_as_published": "13/11/1969",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "22.11.1969 No: 13358",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301189.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 53",
+  "committee_reports": [
+    {
+      "label": "CS 1280 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c054/cs__09054006ss1280.pdf"
+    },
+    {
+      "label": "MM 886no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036098ss0886.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 313658,
+      "title": "991 sayılı Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü İçişleri Emekli Sandığı ile Askerî Fabrikalar Tekaüt ve muavenet Sandığının Sosyal Sigortalar Kurumuna devri hakkındaki Kanuna ek geçici maddeler eklenmesine dair Kanun",
+      "adopted_as_published": "13/11/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301189.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 1280 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c054/cs__09054006ss1280.pdf"
+        },
+        {
+          "label": "MM 886no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036098ss0886.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 53,
+          "sitting": 68,
+          "sitting_date": "1969-06-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c053/cs__09053068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c053/cs__09053fih.pdf",
+          "pages": [
+            "579"
+          ]
+        },
+        {
+          "cilt": 54,
+          "sitting": 6,
+          "sitting_date": "1969-11-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c054/cs__09054006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c054/cs__09054fih.pdf",
+          "pages": [
+            "313",
+            "330:334"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1101&v_kullanici_id=27483235",
+      "page_sha256": "1eaad7ada00aca89de2fafea1c48fe47bacb9ae26f5a743f31a7c677dcbb0e77"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1eaad7ada00aca89de2fafea1c48fe47bacb9ae26f5a743f31a7c677dcbb0e77",
+  "issuer": "Cumhuriyet Senatosu",
+  "in_force": "1969-11-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Cumhuriyet Senatosu) as printed in the official TBMM kanunlar index: 13/11/1969; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
