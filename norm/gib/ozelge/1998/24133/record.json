@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.43/4305-46/50440",
+  "source_id": 24133,
+  "date": "1998-12-30",
+  "title": "Ölüm nedeniyle, faaliyeti durdurulan işletmedeki hisselerin mirasçılarca diğer mirasçılara veya mirasçı olmayanlara devredilmesi halinde elde edilecek kazancın değer artış kazancı olarak vergilendirilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24133",
+  "source_sha256": "ae012c60e26c2eae286c1a8a95cf99dad73d4c28a70e5c1664a45ab6e3004137",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
