@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07 .0.GEL.0.28/2803-5- 746/ 16933",
+  "source_id": 24989,
+  "date": "1997-04-29",
+  "title": "Vergi Denetmeni tarafından mükellef hakkında düzenlenen inceleme raporu örneğinin diğer  resmi kurumlarca talep edilmesi halinde, bu kurumlarca verilip verilmeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24989",
+  "source_sha256": "3da8b8e4e014b9b2d3950392cee6cb65d47d96ffb619523fe9a6eec8721771c4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
