@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3929",
+  "year": 1940,
+  "title": "Askerî muhakeme usulü kanunun 53. maddesini değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-12-04",
+  "gazette_issue": "4677",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4677.pdf",
+  "source_sha256": "53ec859577027d01512bb48b8d164fc722c18553fc73b542ce5cedc3ad8c6b8a",
+  "text_sha256": "5ab851f7a7321a935477ca84a64c3b922b49f2017ab2e8e42689c480927499c7",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      15,
+      33
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203929.pdf",
+    "source_sha256": "eb700179f7af1d164c5281e8e46bf05d0feb6a5f5562868f05ddbcefe5acc96d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9781,
+    "bag": 0.9109,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9806,
+    "rg_words": 101,
+    "kd_words": 103,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
