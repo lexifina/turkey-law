@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 282032,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Terörle Mücadele Kanunumda Değişiklik Yapılması Hakkında Kanun Tasarıları ile Bolu Milletvekili Necmi Hoş ver ve 69 Arkadaşının Terörle Mücadele Kanununa Bir Ek Madde Eklenmesi Hakkında Kanun Teklifine ilişkin",
+  "title": "Terörle Mücadele Kanunumda Değişiklik Yapılması Hakkında Kanun Tasarıları ile Bolu Milletvekili Necmi Hoş ver ve 69 Arkadaşının Terörle Mücadele Kanununa Bir Ek Madde Eklenmesi Hakkında Kanun Teklifine ilişkin",
+  "first_sitting_date": "1995-11-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 97,
+      "sitting": 30,
+      "sitting_date": "1995-11-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c097/tbmm19097030.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c097/tbmm19097fih.pdf",
+      "pages": [
+        "187:233"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=688&v_gelecek_sayfa=601&v_kullanici_id=27484415",
+  "source_sha256": "d29a567754a62489b34ac10d0d9ce807861c7ba2e6595956f47f5c00e72a2d52",
+  "in_force": "1995-11-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
