@@ -1,0 +1,91 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82713,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MEHMET ŞEFİK TUGAY (MALATYA)",
+  "summary": "Milli Korunma Kanununun 5020 sayılı Kanunla değiştirilen 30. maddesinin değiştirilmesi ve bu kanuna bir madde, eklenmesi hakkında (2/160)",
+  "title": "Milli Korunma Kanununun 5020 sayılı Kanunla değiştirilen 30. maddesinin değiştirilmesi ve bu kanuna bir madde, eklenmesi hakkında (2/160)",
+  "first_sitting_date": "1949-04-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 63,
+      "sitting_date": "1949-04-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 66,
+      "sitting_date": "1949-04-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018fih.pdf",
+      "pages": [
+        "141"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 67,
+      "sitting_date": "1949-04-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018fih.pdf",
+      "pages": [
+        "187"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 78,
+      "sitting_date": "1949-04-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018fih.pdf",
+      "pages": [
+        "722"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 87,
+      "sitting_date": "1949-05-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019087.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019fih.pdf",
+      "pages": [
+        "447"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 3,
+      "sitting_date": "1949-11-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c021/tbmm08021003.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c021/tbmm08021fih.pdf",
+      "pages": [
+        "31"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=265&v_gelecek_sayfa=101&v_kullanici_id=27484152",
+  "source_sha256": "212ed156472b974b03e9914d300965ddabdc488993ebc676ecc90f85dcbf28e6",
+  "in_force": "1949-04-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
