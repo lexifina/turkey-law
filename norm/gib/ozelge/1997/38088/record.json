@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53-5301-2688/26862",
+  "source_id": 38088,
+  "date": "1997-06-11",
+  "title": "Genel ve katma bütçeli idarelere ait yemekhanelerden, ilgili idare mensupları ile diğer genel ve katma bütçeli idareler mensuplarının faydalanması halinde KDV'ye tabi olmayacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38088",
+  "source_sha256": "b74f8d4c2d30b91b6c0905224562fc851ca7c176a3ef3f18952e753a29d07964",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
