@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4041-47/38601",
+  "source_id": 22721,
+  "date": "2000-08-15",
+  "title": "Tüketilen elektrik bedelleri ile satın alınan haberleşme hizmetlerine ait faturalardaki katma değer vergisinin, bu teslim ve hizmetleri satın alan mükelleflerce söz konusu belgelerin defterlerine kaydedildiği dönemde indirim konusu yapılması mümkün bulunm",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22721",
+  "source_sha256": "fc39382d13187da8ef82220b95ed0896291fd24ea4d90e87026e05d8c820a44b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
