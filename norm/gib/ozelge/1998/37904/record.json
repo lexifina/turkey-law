@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4090-232/11068",
+  "source_id": 37904,
+  "date": "1998-03-24",
+  "title": "T.C. Merkez Bankası nezdinde açılmış olan kredi mektuplu döviz tevdiat hesaplarına ilişkin faiz gelirlerinden ibaret olması halinde bu gelirleriniz için tutarı ne olursa olsun beyanname verilmemesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37904",
+  "source_sha256": "555cfbfba0d4dd0c9f1836209a5ff5e37c70fee8114836ec23f56d5fc23d1717",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
