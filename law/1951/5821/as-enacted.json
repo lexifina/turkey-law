@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5821",
+  "year": 1951,
+  "title": "Yabancı Sermaye Yatırımlarını Teşvik Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-08-09",
+  "gazette_issue": "7880",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7880.pdf",
+  "source_sha256": "532a0eb68e9030d329f929b27114a4496bfa25446ac79dc10581718578e85dba",
+  "text_sha256": "8f59f42377125cf89b55442e88900b418bae48a23d6dad021ac67ee53ec7efd8",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      18,
+      141
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305821.pdf",
+    "source_sha256": "153a33682513e01209819ab949238aea3f06d25ce407e1d4486dad7050dd11ae",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9452,
+    "bag": 0.7407,
+    "kd_coverage": 0.9725,
+    "kd_body_compared": 0.9699,
+    "rg_words": 641,
+    "kd_words": 731,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
