@@ -1,0 +1,85 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3119",
+  "year": 1984,
+  "title": "Selçuk Üniversitesi 1983 Yılı Kesinhesap Kanunu",
+  "adopted": "1984-12-16",
+  "adopted_as_published": "16/12/1984",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "10.01.1985 No: 18631 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803119.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 68",
+  "committee_reports": [
+    {
+      "label": "TBMM 183 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c010/tbmm17010043ss0183.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 241309,
+      "title": "Selçuk Üniversitesi 1983 Yılı Kesinhesap Kanunu",
+      "adopted_as_published": "16/12/1984",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803119.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 183 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c010/tbmm17010043ss0183.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 1,
+          "sitting_date": "1984-09-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c006/tbmm17006001.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c006/tbmm17006fih.pdf",
+          "pages": [
+            "6"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 43,
+          "sitting_date": "1984-12-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c010/tbmm17010043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c010/tbmm17010fih.pdf",
+          "pages": [
+            "258:332",
+            "391:394"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 44,
+          "sitting_date": "1984-12-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c011/tbmm17011044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c011/tbmm17011fih.pdf",
+          "pages": [
+            "32",
+            "70",
+            "164:167"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=101&v_kullanici_id=27483190",
+      "page_sha256": "ea56a9603e47224a927a44e02ec5568f795bda52beced9e9df249912bcba60cd"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ea56a9603e47224a927a44e02ec5568f795bda52beced9e9df249912bcba60cd",
+  "issuer": "TBMM",
+  "in_force": "1984-12-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 16/12/1984; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
