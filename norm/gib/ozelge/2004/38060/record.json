@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5732-62/009896",
+  "source_id": 38060,
+  "date": "2004-03-03",
+  "title": "Bir A.Ş. tarafından ihraç kaydıyla ma! tesliminde bulunduğu bir Ltd. Şti.'nin karşı vergi dairesine yapılan fatura teyidinde işyerinin sürekli kapalı olması, şirket ortağının adresinde yapılan tespitte tanınmaması ve muhtarlık kayıtlarında yer almaması, A",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38060",
+  "source_sha256": "bf08655c2308565c7748e0ea4985861cade665f342cd0efb3afd6b7dca56cf67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
