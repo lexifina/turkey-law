@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4620",
+  "year": 2001,
+  "title": "Çocuk Haklarının Kullanılmasına İlişkin Avrupa Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-02-01",
+  "gazette_issue": "24305",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/02/20010201.htm",
+  "source_sha256": "5de70f59a1f3f0ec8fb5fee68a984542f27388aaa414383e9e41755167a40365",
+  "text_sha256": "67284a6f5a53744701d64b1d3afe2de57329bf11ecc03a05a36c7ba4eb31d3df",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/02/01/24305-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/02/20010201.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
