@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2002/813",
+  "list_number": "813",
+  "decision_date": "2002-10-25",
+  "title": "YSK ilke kararı 2002/813",
+  "summary": "Oy kullandırmada bilgisayar ortamında düzenlenen en son listenin esas alınması gerektiğinden, bu listede adı bulunmayan kişilerin oy kullanmaları mümkün olmaz. Kesinleşen sandık seçmen listelerinde ve seçmen bilgi kartlarında tespit edilen  harf hatası, doğum tarihi hatası, isim yanlışlığı, cinsiyet, doğum yeri ve nüfusa kayıtlı olduğu yerlerdeki yazım ve maddi hatadan kaynaklanan yanlışlar nüfus kaydı esas alınarak ilçe seçim kurulu başkanlığınca düzeltilebilir.",
+  "concepts": "KESİNLEŞEN SANDIK SEÇMEN LİSTELERİNDEKİ EKSİKLİK VE HATALAR, SANDIK SEÇMEN LİSTELERİNDEKİ HATA VE EKSİKLİKLER, SEÇMEN LİSTELERİNDEKİ HATALARIN DÜZELTİLMESİ",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4173/2002-813-karar.htm",
+  "source_sha256": "833e778b672b0ec93f5d3b98f6645bbd4d9d07504f5c8fbd66dedbee83db8a14",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "2002-10-25",
+  "law_text_complete": true
+}
