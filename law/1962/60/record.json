@@ -1,0 +1,223 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "60",
+  "year": 1962,
+  "title": "60 sayılı Kanun",
+  "adopted": "1962-07-05",
+  "adopted_as_published": "05/07/1962",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "11.07.1962 No: 11151",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500060.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 45",
+  "committee_reports": [
+    {
+      "label": "MM 56 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004073ss0056.pdf"
+    },
+    {
+      "label": "CS 71no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004077ss0071.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 335374,
+      "title": "60 sayılı Kanun",
+      "adopted_as_published": "05/07/1962",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500060.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 56 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004073ss0056.pdf"
+        },
+        {
+          "label": "CS 71no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004077ss0071.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 25,
+          "sitting_date": "1961-12-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c001/mm__01001025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c001/mm__01001fih.pdf",
+          "pages": [
+            "357"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 71,
+          "sitting_date": "1962-04-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+          "pages": [
+            "304"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 73,
+          "sitting_date": "1962-04-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+          "pages": [
+            "440:442"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 75,
+          "sitting_date": "1962-04-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+          "pages": [
+            "494:505"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 76,
+          "sitting_date": "1962-04-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004076.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+          "pages": [
+            "533:536"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 77,
+          "sitting_date": "1962-04-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+          "pages": [
+            "565"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 81,
+          "sitting_date": "1962-04-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005081.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+          "pages": [
+            "11:20"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 84,
+          "sitting_date": "1962-05-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005084.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+          "pages": [
+            "148:153"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 85,
+          "sitting_date": "1962-05-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005085.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+          "pages": [
+            "165:166"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1601&v_kullanici_id=27483225",
+      "page_sha256": "bbdd867e769c8bf5b4742e47e941c611bd3a2472815a799bfa1c73e5cfba7238"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 156408,
+      "title": "60 sayılı Kanun",
+      "adopted_as_published": "05/07/1962",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500060.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 56 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004073ss0056.pdf"
+        },
+        {
+          "label": "CS 71no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004077ss0071.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 61,
+          "sitting_date": "1962-05-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004061.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+          "pages": [
+            "112"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 74,
+          "sitting_date": "1962-06-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004074.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+          "pages": [
+            "333:335"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 76,
+          "sitting_date": "1962-07-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004076.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+          "pages": [
+            "358"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 77,
+          "sitting_date": "1962-07-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+          "pages": [
+            "416:423"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "1d71d5ca37a597738ce2edfca2bb8ceb18a16f1ab45d81f98c9f010fbc9ac7a2"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "bbdd867e769c8bf5b4742e47e941c611bd3a2472815a799bfa1c73e5cfba7238",
+  "issuer": "Millet Meclisi",
+  "in_force": "1962-07-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 05/07/1962; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
