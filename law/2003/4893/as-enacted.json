@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4893",
+  "year": 2003,
+  "title": "Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-06-17",
+  "gazette_issue": "25141",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030617.htm",
+  "source_sha256": "f3f820b251a2d432b90febbd5c3de2de16d17da155b6022113612e28a948558d",
+  "text_sha256": "92bef5dcc631f1a7ea94eab0daf22d3d2f28630c76733fce51e5a9bc581e2e41",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/06/17/25141-16",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030617.htm#16",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
