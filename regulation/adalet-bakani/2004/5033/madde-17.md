@@ -1,0 +1,2 @@
+Oylama Raporunun Hazırlanması
+Madde 17 – Oylama görevlisi İcra ve İflâs Kanununun 309/o maddesinin (8) numaralı bendi uyarınca, asliye ticaret mahkemesine oylama sürecine ilişkin ayrıntıların bildirilmesi amacıyla verilecek olan oylama sürecini ve sonucunu gösteren bir rapor hazırlar. Raporda Örnek-5fde yer alan bilgiler bulunur. Oylama görevlisi oylamaya ilişkin olarak uygun bulduğu diğer bilgilere de raporunda yer verebilir. Hâzırûn cetveli ile oy pusulaları rapora eklenir.
