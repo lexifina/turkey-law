@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.54/5411-1958/25049",
+  "source_id": 31098,
+  "date": "1997-06-16",
+  "title": "Gümrük Çıkış Beyannamelerinde imalatçı firmanın isminin yer almaması nedeniyle tecil-terkin uygulamasından faydalanamayacak fakat vergi dairesince inceleme sonunda işlem mümkün olacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31098",
+  "source_sha256": "602917b4030f52c88d2e62a1dc7c7f54cc5c558690912ac20304e2566242370a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
