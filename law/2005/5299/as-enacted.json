@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5299",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti ve Güney Afrika Cumhuriyeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-02-08",
+  "gazette_issue": "2572",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208-10.htm",
+  "source_sha256": "9a91ee5b6b6904cd3ae448f1511f2f2b52e376cf56f5f651158052a9038eccf4",
+  "text_sha256": "292b593ea971db67ee838b99230a1b11f76b262e7d323e78ec7036ed22a2984f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/02/08/2572-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
