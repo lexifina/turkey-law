@@ -1,0 +1,1 @@
+Geçici Madde 1- 1990-1991 Eğitim-Öğretim yılında Döner Sermaye İşletmesi tarafından açılan kursa kayıt yaptıran ve devam eden kursiyerler kendi istekleri ile bu Yönetmelik hükümlerinden yararlanabilir.

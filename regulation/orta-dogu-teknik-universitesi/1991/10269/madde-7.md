@@ -1,0 +1,2 @@
+Başarı ve Değerlendirme
+Madde 7- Kursiyerlerin başarı durumları yıl içinde yapılan ara sınavlar ve "Yıl Sonu Sınavı" ile belirlenir. Programı basan ile bitirme notu en az %65'dir. Ara sınav sayılan ile bitirme notuna ara sınavlardan ve yıl sonu sınavlarından alınan notun katılma oranlan Yabancı Diller Yüksekokulu tarafından belirlenir ve Sürekli Eğitim Merkezince kayıtlar sırasında kursiyerlere duyurulur.

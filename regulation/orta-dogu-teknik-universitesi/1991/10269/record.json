@@ -1,0 +1,28 @@
+{
+  "source_id": "8.5.10269",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ SÜREKLİ EĞİTİM MERKEZİ ODTÜ YABANCI DİL SERTİFİKASI YÖNETMELİĞİ",
+  "number": "10269",
+  "issuer": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ",
+  "issuer_slug": "orta-dogu-teknik-universitesi",
+  "path": "regulation/orta-dogu-teknik-universitesi/1991/10269",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10269&MevzuatTertip=5",
+  "source_sha256": "a05632bfd7f844c17696a5ee5251847fd35d11e31717a6dd57f426f4e4750fb2",
+  "source_bytes": 16059,
+  "published": "1991-03-29",
+  "gazette": "20829",
+  "in_force": "1991-03-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.03.1991)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 507,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
