@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2005/27",
+  "list_number": "27",
+  "decision_date": "2005-01-29",
+  "title": "YSK ilke kararı 2005/27",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3762/2005-27-karar.htm",
+  "source_sha256": "d770caea2d38cce14962a6bfecc9a43fe68b43c59b3e9139bcd183c658929f32",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2005-01-29",
+  "law_text_complete": false
+}
