@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 3303,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Tasfiye kararnamesinin ilgasına dair kanun lâyihası, Memaliki müstahlasadan firar veya gaybubet eden ahalinin emvali menkule ve gayrimenkulelerinin idaresi hakkındaki 20 Nisan 1338 tarihli Kanunun birinci maddesine bir fıkra ilâvesine dair kanun lâyihası ve 20 Nisan 1338 tarihli Emvali Metruke Kanununa tezyili istenilen kanun lâyihası, Emvali Metruke Kanununun beşinci maddesinin tadiline dair kanun lâyihası, 20 Nisan 1338 tarihli Emvali Metruke Kanununun ilgasına dair kanun lâyihası, gayrimenkul emvali metrukenin satılıp satılmaması hakkında Heyeti Vekile arasında çıkan ihtilâfın halledilmesine dair İcra Vekilleri Heyeti tezkeresi hakkında",
+  "title": "Tasfiye kararnamesinin ilgasına dair kanun lâyihası, Memaliki müstahlasadan firar veya gaybubet eden ahalinin emvali menkule ve gayrimenkulelerinin idaresi hakkındaki 20 Nisan 1338 tarihli Kanunun birinci maddesine bir fıkra ilâvesine dair kanun lâyihası ve 20 Nisan 1338 tarihli Emvali Metruke Kanununa tezyili istenilen kanun lâyihası, Emvali Metruke Kanununun beşinci maddesinin tadiline dair kanun lâyihası, 20 Nisan 1338 tarihli Emvali Metruke Kanununun ilgasına dair kanun lâyihası, gayrimenkul emvali metrukenin satılıp satılmaması hakkında Heyeti Vekile arasında çıkan ihtilâfın halledilmesine dair İcra Vekilleri Heyeti tezkeresi hakkında",
+  "first_sitting_date": "1923-04-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 29,
+      "sitting": 24,
+      "sitting_date": "1923-04-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c029/tbmm01029024.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c029/ehttbmm01029024.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c029/tbmm01029fih.pdf",
+      "pages": [
+        "138:146"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 24,
+      "sitting_date": "1923-04-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c029/tbmm01029024.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c029/ehttbmm01029024.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c029/tbmm01029fih.pdf",
+      "pages": [
+        "159:167",
+        "169:175"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1993&v_gelecek_sayfa=1901&v_kullanici_id=27483712",
+  "source_sha256": "4b2364388a02b41392e73d2e2cb373faf665211af4964b685fdaf8cae4f65836",
+  "in_force": "1923-04-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
