@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-10-18",
+  "issue": "25617",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlân",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Çalışma ve Sosyal Güvenlik Bakanlığı Sosyal Sigortalar Kurumu Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/10/20041018-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (1 = 1)",
+  "ilan_codes": [
+    "13000/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/10/20041018-4.htm",
+  "category_page_sha256": "4a5274f20ef106bc773f9bdc34cfd226c8d221ad86ab2cbf64f0a072a49a517e",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/10/20041018.htm",
+  "index_sha256": "09835d9719f0fd2ac1e18082d11f014f20d1955a241185f97a92b0aa877c65e1",
+  "index_header": "18 Ekim 2004 ... Sayı : 25617",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
