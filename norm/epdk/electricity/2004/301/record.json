@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "301",
+  "decision_date": "2004-02-23",
+  "title": "Reaktif Enerji Bedeline Tabii Olacaklar Hakkında",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=h4jmJsFET7U=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=h4jmJsFET7U="
+  ],
+  "source_sha256": "ba66b2c877d6f28d7eba6cec0983804954dd580fed0b6604328ad9ea96c6624b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-02-23",
+  "law_text_complete": false
+}
