@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/1746",
+  "list_number": "1746",
+  "decision_date": "2004-04-27",
+  "title": "YSK ilke kararı 2004/1746",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3867/2004-1746-karar.htm",
+  "source_sha256": "c8f120aa61c36e5fcf7cbd50d7dc34adcd5f0f404285dc22286d11111ba17b39",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-04-27",
+  "law_text_complete": false
+}
