@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4417-324/66094",
+  "source_id": 24660,
+  "date": "2001-12-09",
+  "title": "Vergilendirme işleminde uzlaşmaya konu edilmiş ve uzlaşmanın sağlanması sonucu kesinleşmiş bulunan tarhiyatta yapılmış olan mevzu hatasının uzlaşma görüşmeleri sırasında dikkate alınmamış olması nedeniyle, hatalı olarak uzlaşma yoluyla da kesinleşen mikta",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24660",
+  "source_sha256": "9aee5a1fbc89f28d375f83596497828cbdc81cc6b2bc2760f034641a18d01484",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
