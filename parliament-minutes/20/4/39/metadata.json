@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 20,
+  "legislative_year": 4,
+  "sitting": 39,
+  "sitting_date": "1999-01-05",
+  "listed_date": "05 Ocak 1999 Salı",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/20/4/39/5cc4591c-0f69-4f47-99ca-1d0f773810e3.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=784acc91-029f-46a1-b2b6-0185ceac82af",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=20&YasamaYili=4",
+  "source_sha256": "e04226d4225b19c9349ed372e69da9518f5a180eac1ab238ec31e6b3cb394ba7",
+  "source_bytes": 266167,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
