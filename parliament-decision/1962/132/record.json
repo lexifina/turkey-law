@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "132",
+  "year": 1962,
+  "title": "Urfa Milletvekili Bekir Sami Karahanlı'nın, yasama dokunulmazlığının kaldırılmasına mahal olmadığına dair",
+  "adopted": "1962-10-22",
+  "adopted_as_published": "22/10/1962",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/karartbmmc045/karartbmmc04500132.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 45",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 335572,
+      "title": "Urfa Milletvekili Bekir Sami Karahanlı'nın, yasama dokunulmazlığının kaldırılmasına mahal olmadığına dair",
+      "adopted_as_published": "22/10/1962",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/karartbmmc045/karartbmmc04500132.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 106,
+          "sitting_date": "1962-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006106.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006fih.pdf",
+          "pages": [
+            "107"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 128,
+          "sitting_date": "1962-10-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007128.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007fih.pdf",
+          "pages": [
+            "455"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 134,
+          "sitting_date": "1962-10-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c008/mm__01008134.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c008/mm__01008fih.pdf",
+          "pages": [
+            "231"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=684&v_gelecek_sayfa=501&v_kullanici_id=27483296",
+      "page_sha256": "7ee75d8ff77cc2a29f06b9327ac8218720a696c385a7cab491896103bdc49c10"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7ee75d8ff77cc2a29f06b9327ac8218720a696c385a7cab491896103bdc49c10",
+  "issuer": "Millet Meclisi",
+  "in_force": "1962-10-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kararlar index: 22/10/1962; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
