@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-20",
+  "issue": "25113",
+  "edition": "regular",
+  "item": 50,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "DSİ Genel Müdürlüğü İdari ve Mali İşler Dairesi Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030520-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (50 = 50)",
+  "ilan_codes": [
+    "15228/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030520-3-4.htm",
+  "category_page_sha256": "23974eaf370771da8a4f2badfa947bdcd31c0fbdf2a824674dc2e09bd5d94dca",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030520.htm",
+  "index_sha256": "922e83711f9ae9ed4e4c20ce1f18959f96cfdc6c678b4ab0bc9f72bc9824099f",
+  "index_header": "20 Mayıs 2003 ... Sayı : 25113",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
