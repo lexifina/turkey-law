@@ -1,0 +1,2 @@
+Uygulanacak Diğer Hükümler
+Madde 124 – Bu Tüzük kapsamına giren patlayıcı maddelerin kullanılmasında, bu Tüzükte hüküm bulunmayan hallerde Maden ve Taş Ocakları İşletmelerinde ve Tünel Yapımında Alınacak İşçi Sağlığı ve İş Güvenliği Önlemlerine İlişkin Tüzüğün ilgili maddeleri uygulanır. Ancak, sözü edilen maddelerle diğer Bakanlıklara verilmiş olan yetkiler, maden ve taş ocakları işletmeleriyle tünel yapımı dışındaki yerlerde İçişleri Bakanlığı tarafından kullanılır.

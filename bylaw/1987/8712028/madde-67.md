@@ -1,0 +1,2 @@
+Taşıta Flama ve Levha Asma Zorunluluğu
+Madde 67 – Patlayıcı madde taşıyacak taşıtların ön ve arkasına, her iki taraftan görünecek biçimde, eni ve boyu otuz santimetre olan kırmızı renkte flamalar asılması, ön, arka ve yanlarına da boyu yirmi, çizgi kalınlığı iki buçuk santimetreden az olmayan beyaz renkli harflerle, kırmızı zemin üzerine, "PATLAYICI MADDE" sözcükleri yazılı levhalar konulması zorunludur.

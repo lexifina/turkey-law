@@ -1,0 +1,3 @@
+Vagon Tahsisi İçin Başvuru
+Madde 73 – Demiryoluyla patlayıcı madde taşımak isteyenlerin, vagon tahsisi için, taşımanın yapılacağı tarihten en az üç gün önce, taşımanın yapılacağı günü belirten bir dilekçeyle ve taşıma izin belgesini göstermek suretiyle, yükleme yapılacak istasyon veya ambarın veya işletilmesi T.C. Devlet Demiryolları İşletmesi Genel Müdürlüğüne verilmiş bulunan limanın yetkili amirine başvurmaları gerekir.
+Yapılan başvuru üzerine, istasyon, liman veya ambarın yetkili amiri patlayıcı maddeye, en kısa zamanda ve diğer maddelere göre öncelikle vagon tahsisi için gereken önlemleri alarak yüklemenin yapılacağı gün ve saati yirmi dört saat içerisinde başvurana bildirir.

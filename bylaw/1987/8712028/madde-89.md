@@ -1,0 +1,3 @@
+Dinamit ve Kapsüllerin Depolanması
+Madde 89 – Kartuş halindeki dinamitler, depolarda, sürekli olarak ambalajlarında bulundurulur.
+Sürekli ve geçici depolarda dinamit ve kapsüllerin aynı depoda birlikte bulundurulması halinde, dinamit ve kapsüllerin bulunduğu bölümlerin kapılarının ayrı olması ve bölümlerin bitişik duvarları arasında sekiz ton kapasiteye kadar depolar için en az otuz santimetre, sekiz tondan on iki ton kapasiteye kadar depolar için en az kırk santimetre, on iki ton kapasiteden yukarı depolar içinse en az elli santimetre boşluk bulunması ve ara duvar kalınlıklarının en az on dokuz santimetre olması zorunludur.

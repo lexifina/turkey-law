@@ -1,0 +1,12 @@
+Sürekli Depolar
+Madde 99 – (Değişik: 14/5/2001 - 2001/2443 K.)
+Sürekli depolar yerüstü veya yeraltında yapılabilir.
+A - Yerüstü depoları:
+1- Hafif yapılı depolar; yan duvarları en az 225 milimetre kalınlığında normal dolgu tuğla veya en az 275 milimetre kalınlığında delikli tuğladan inşa edilir.
+2- İglo tipi (üstü toprakla örtülü) depolar; üzeri 60 santimetre toprakla örtülü, yan ve arka tarafı en az 26 en fazla 33 derece eğimli, yan duvarları en az 30 tavanı ise en az 15 santimetre betonarme, kapıları en az 7 bar basınca dayanıklı malzemeden inşa edilir. Bu depoların kapısı, varsa komşu deponun kapısına bakmayacak yönde yapılır.
+3- Kalın duvarlı ve sağlam yapılı depolar; duvarları en az 680 milimetre kalınlıkta tuğla veya en az 450 milimetre kalınlıkta betonarme veya eşdeğer dayanıklı malzemeden, tavanı en az 15 santimetre betonarme veya eşdeğer malzemeden inşa edilir.
+Yerüstü depoları Ek-1’de belirtilen güvenlik uzaklıklarına uygun, tek katlı ve patlama olduğunda uzaklara tehlikeli parçalar saçmayacak malzemeyle geniş saçaklı olarak yapılır, çatıları da hafif ve yanmaz malzemeyle örtülür.
+Bu depoların zemini çivi, vida, herhangi bir yarık ve çatlak bulunmayan, düzgün, sızdırmaz, herhangi bir cismin çarpmasıyla kıvılcım çıkarmaz ve kolay temizlenir biçimde çimento şap veya mozaikle kaplanır. Duvarları nem geçirmez bir harçla çatlaksız ve düz olarak sıvanır, havalandırma delikleri konur, açık renkte badana ile boyanır. Pencereleri çatıya yakın yükseklikte ve güneş ışınlarının doğrudan depo içine girmesini önleyecek biçimde demir parmaklıklı olarak yapılır. Ayrıca, pencerelerine sağlam pirinç veya galvaniz tel kafes konur, dış kısımlarına ise dışarıya açılır ve içeriden mandallanabilir sağlam tahta kapaklar yapılır. Dış kapıları sağlam saç malzemeden yapılır, gizli kilit takılır ve kanatları dışarıya açılır. İç kapıları ahşap olarak yapılır. Yağmur olukları sık sık kontrol edilerek çalışır durumda bulundurulmaları sağlanır. Bu baskınına karşı binanın etrafına kanallar açılır.
+B- Yeraltı depoları:
+Yeraltı (galeri tipi) depoları, maden işletmelerinde yer altında ve ocak içinde yapılabileceği gibi, bir yamaçta açılacak galeriyle girilmek suretiyle de yapılabilir.
+Ek-6’daki esaslara uygun olarak yapılan yeraltı depolarının çıkış ağzına gerektiğinde Ek-5’e göre sütre yapılır. Su girmemesi ve nem oluşmaması için gerekli önlemler alınır. Depo içi sıcaklığının 25 dereceyi geçmesini önleyecek havalandırma düzeni yapılır ve patlama etkisini azaltmak amacıyla uygun yerlere oyuk ve boşluklar açılır.

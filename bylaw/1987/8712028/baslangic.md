@@ -1,0 +1,6 @@
+TEKEL DIŞI BIRAKILAN PATLAYICI MADDELERLE AV MALZEMESİ VE BENZERLERİNİN ÜRETİMİ, İTHALİ, TAŞINMASI, SAKLANMASI, DEPOLANMASI, SATIŞI, KULLANILMASI, YOK EDİLMESİ,
+DENETLENMESİ USUL VE ESASLARINA İLİŞKİN TÜZÜK
+Bakanlar Kurulu Kararının Tarihi : 14/8/1987 No : 87/12028
+Dayandığı Kanunun Tarihi : 9/5/1955 No : 6551
+Yayımlandığı Resmî Gazetenin Tarihi : 29/9/1987 No : 19589
+Yayımlandığı Düsturun Tertibi : 5 Cildi : 27 Sayı : 1154

@@ -1,0 +1,3 @@
+Gruplara Göre Taşıma
+Madde 72 – Birinci ve ikinci gruba giren patlayıcı maddeler ayrı ayrı vagonlarla taşınırlar ve bu vagonlara başka patlayıcı maddelerle başka eşya konulmaz. Şenlik fişeklerinden brüt üç yüz kilograma, bunun dışında kalan birinci gruba giren patlayıcı maddelerden yüz kilograma, ikinci gruba giren bütün patlayıcı maddelerden de kırk kilograma kadar olan miktarlar aynı vagon içinde ve bir arada taşınabilirler.
+Üçüncü ve dördüncü gruplara giren patlayıcı maddeler bu Tüzük hükümlerine göre ambalajlanmak ve kolay yanıcı maddelerle bir arada bulunmamak koşuluyla diğer eşyayla birlikte taşınabilirler.

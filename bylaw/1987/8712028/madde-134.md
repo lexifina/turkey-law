@@ -1,0 +1,2 @@
+Yönetmelik
+Madde 134 – Tüzük kapsamına giren patlayıcı maddelerin standart stabilite testlerinin usul ve esaslarıyla, kusurları giderilemeyecek derecede hatalı ve bozuk olduğu, depolarda uzun süre bekleme gibi nedenlerle özelliğini yitirdiği muayene sonucu anlaşılan patlayıcı maddelerin ve üretim sırasında oluşan artıkların yok edilme usul ve esasları, Tüzüğün yürürlüğe girdiği tarihi izleyen bir yıl içinde, İçişleri Bakanlığıyla Sanayi ve Ticaret Bakanlığının ortaklaşa hazırlayacakları bir yönetmelikle belirlenir.

@@ -1,0 +1,2 @@
+Depolarda Onarım
+Madde 90 – Depolarda değişiklik ve onarım yapmak gerektiğinde, patlayıcı maddeler, depolardan uzaklaştırılır, kalaslar üzerine düzenli biçimde yerleştirilir, üzerleri su sızdırmayan, güneş ışığını geçirmeyen branda bezleriyle örtülür ve bir görevlinin gözetiminde korumaya alınır. Bu işlerin hava kararmadan bitirilip patlayıcı maddelerin depoya konulması, bu mümkün olamayacaksa patlayıcı maddelerin başka bir depoya taşınması zorunludur.

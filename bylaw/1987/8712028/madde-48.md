@@ -1,0 +1,2 @@
+Grizu ve Kömür Tozuna Karşı Güvenli Dinamit İthali
+Madde 48 – Kömür ve maden ocaklarında kullanılan grizu ve kömür tozlarına karşı güvenli dinamitlerin ithaline İçişleri Bakanlığınca izin verilebilmesi için, bileşim, özellik ve ambalajları belirlenmiş tipler üzerinden Enerji ve Tabii Kaynaklar Bakanlığınca Maden ve Taş Ocakları İşletmelerinde ve Tünel Yapımında Alınacak İşçi Sağlığı ve İş güvenliği Önlemlerine İlişkin Tüzük hükümlerine göre kullanma izni verilmiş olması ve bunların galeri denemelerinin yapıldığının belgelendirilmesi gerekir.
