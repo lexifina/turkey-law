@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "278",
+  "decision_date": "2003-12-31",
+  "title": "1 Ocak 2004 tarihinden geçerli olmak üzere Körfez Elektrik Dağıtım Anonim Şirketi tarafından uygulanacak olan Perakende Satış Tarifeleri hakkında",
+  "resmi_gazete_date": "2004-01-07",
+  "resmi_gazete_number": "25339",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Py8DReTDmfo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Py8DReTDmfo="
+  ],
+  "source_sha256": "6324dfbce88750cb6007fb1704423aaec9d1a2bb478b803a01ceffeafe514d7d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-12-31",
+  "law_text_complete": false
+}
