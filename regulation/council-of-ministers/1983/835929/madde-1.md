@@ -1,0 +1,1 @@
+Madde 1 – Bu Yönetmelikte, konusu birden fazla Kamu Kurum ve Kuruluşunu ilgilendiren soruşturmalarda görev alacak bakanlık veya bağlı ve ilgili kuruluşları müfettişlerinin, nasıl görevlendireceği hususu düzenlenmiştir.
