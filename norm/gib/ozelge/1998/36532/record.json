@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.61/6160/-25/39953",
+  "source_id": 36532,
+  "date": "1998-11-09",
+  "title": "Banka şubelerinin, M.T.Vergisini trafik tescil belgesindeki kişi adına ve plaka numarasına göre tahsil etmeleri  gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36532",
+  "source_sha256": "327d8567263c51982f6efc53483be661db5bd8f4c9b94dc182aa9b65e2413324",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
