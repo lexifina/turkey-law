@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "",
+  "source_id": 634,
+  "date": "1995-07-20",
+  "title": "BANKA VE SİGORTA MUAMELELERİ VERGİSİ İÇ GENELGESİ SIRA NO : 1995/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/icgenelge/634",
+  "source_sha256": "b33e247d61e8f7211b3039ca1c46501071bdc842eaf53c304f08b3d855dd42fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
