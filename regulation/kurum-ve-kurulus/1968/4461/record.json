@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4461",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VAKIF TAŞINMAZ MALLARIN ENVANTERİNİN YAPILMASI YENİ KÜTÜKLER İLE SİCİL FİŞLERİNİN DÜZENLENMESİ HAKKINDA YÖNETMELİK",
+  "number": "4461",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1968/4461",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4461&MevzuatTertip=5",
+  "source_sha256": "3e03e311c99da87a28ff65d971fabed7f26ddab4dac3f41c0fbdfebd8f953846",
+  "source_bytes": 77936,
+  "published": "1968-05-28",
+  "gazette": "12909",
+  "in_force": "1968-05-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.05.1968); own commencement article: \"Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3937,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
