@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 373795,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Türkiye Cumhuriyeti Hükümeti ile Haşimî Ürdün Krallığı arasında imzalanmış olan Kültür Anlaşmasının onaylanmasının uygun bulunduğuna dair kanun tasarısı hakkında (3/531)",
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Haşimî Ürdün Krallığı arasında imzalanmış olan Kültür Anlaşmasının onaylanmasının uygun bulunduğuna dair kanun tasarısı hakkında (3/531)",
+  "first_sitting_date": "1969-01-23",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 31,
+      "sitting": 35,
+      "sitting_date": "1969-01-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c031/mm__02031035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c031/mm__02031fih.pdf",
+      "pages": [
+        "416"
+      ]
+    },
+    {
+      "cilt": 32,
+      "sitting": 42,
+      "sitting_date": "1969-02-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c032/mm__02032042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c032/mm__02032fih.pdf",
+      "pages": [
+        "70:71",
+        "127:130",
+        "158",
+        "203:206"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=4801&v_kullanici_id=27484836",
+  "source_sha256": "eed1ed8a825b108f98046d0e3c8342d0dc1b870efbd78d48998383ee21fb92c1",
+  "in_force": "1969-01-23",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
