@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4031 -63/66",
+  "source_id": 24790,
+  "date": "2005-01-03",
+  "title": "Yabancı Memleketlerde Ödenen Vergilerin Mahsubu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24790",
+  "source_sha256": "2d3c17060bb94347ba4b596d365fa9bb02e73c9e5e92e5d38eee68da0c0b48f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
