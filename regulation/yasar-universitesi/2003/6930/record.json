@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.6930",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "YAŞAR ÜNİVERSİTESİ ATATÜRK İLKELERİ VE İNKILÂP TARİHİ ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "number": "6930",
+  "issuer": "YAŞAR ÜNİVERSİTESİ",
+  "issuer_slug": "yasar-universitesi",
+  "path": "regulation/yasar-universitesi/2003/6930",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6930&MevzuatTertip=5",
+  "source_sha256": "f22fe87a7071c0fb0e4690040fa85a0e3f3610a6cc98a9eded69800dd5e509f2",
+  "source_bytes": 29444,
+  "published": "2003-02-06",
+  "gazette": "25016",
+  "in_force": "2003-02-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.02.2003); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1092,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

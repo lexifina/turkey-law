@@ -1,0 +1,4 @@
+YAŞAR ÜNİVERSİTESİ ATATÜRK İLKELERİ VE İNKILÂP
+TARİHİ ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ
+Kuruluş
+Madde 1 — 2547 sayılı Kanunun 7/d-2 maddesi ile Üniversitelerde Akademik Teşkilat Yönetmeliğinin EK: 1. maddesi uyarınca, Yaşar Üniversitesi Rektörlüğüne bağlı olarak Atatürkçü düşünceyi, Atatürk İlke ve İnkılâplarını, Türkiye Cumhuriyeti tarihini bilimsel yollardan araştırmak, bilim dünyasına tanıtmak, yaymak ve bu konularda yayınlar yapmak amacıyla "Yaşar Üniversitesi Atatürk İlkeleri ve İnkılâp Tarihi Araştırma ve Uygulama Merkezi" kurulmuştur.
