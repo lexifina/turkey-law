@@ -1,0 +1,75 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 93201,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MAHMUD NEDİM ZABCI (MALATYA)",
+  "summary": "Ve Arkadaşları Fevkalâde Vaziyet dolayısiyle bazı vergi ve resimlere zam icrasına dair olan 3828 numaralı kanuna ek 4040 sayılı kanunun 6. maddesinin değiştirilmesine dair (2/42)",
+  "title": "Ve Arkadaşları Fevkalâde Vaziyet dolayısiyle bazı vergi ve resimlere zam icrasına dair olan 3828 numaralı kanuna ek 4040 sayılı kanunun 6. maddesinin değiştirilmesine dair (2/42)",
+  "first_sitting_date": "1944-05-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 52,
+      "sitting_date": "1944-05-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010052.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010fih.pdf",
+      "pages": [
+        "4"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 21,
+      "sitting_date": "1945-01-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c015/tbmm07015021.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c015/tbmm07015fih.pdf",
+      "pages": [
+        "24",
+        "72",
+        "111",
+        "113",
+        "117:120"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 23,
+      "sitting_date": "1945-01-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c015/tbmm07015023.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c015/tbmm07015fih.pdf",
+      "pages": [
+        "72"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 25,
+      "sitting_date": "1945-01-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c015/tbmm07015025.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c015/tbmm07015fih.pdf",
+      "pages": [
+        "111",
+        "113",
+        "117:120"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b727f632c9ca114eefa7efe32894167d2f81ba6a2466dd157f901b16b86ca151",
+  "in_force": "1944-05-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
