@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4183",
+  "year": 1942,
+  "title": "Çeltikçi çiftliğinin satılması ve ilk satış bedellerinden kalan alacağın terkinine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-02-03",
+  "gazette_issue": "5023",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5023.pdf",
+  "source_sha256": "15c5cda8a5081b65fd40278352bfb463b8af8529a0000bd938fedd0836c8bd66",
+  "text_sha256": "6791e83de209cadfdcb085ed1ec8d69537f4c51731c822f29512f7e0302f7543",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      1198,
+      1219
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304183.pdf",
+    "source_sha256": "b8773cb3e5d180467e1a128b253d829b249c892713aed88adeae13df18b23264",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9625,
+    "bag": 0.9155,
+    "kd_coverage": 0.979,
+    "kd_body_compared": 0.9589,
+    "rg_words": 144,
+    "kd_words": 146,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
