@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3923",
+  "year": 1940,
+  "title": "Yedeksubay ve askerî memurlar hakkındaki 1076 sayılı kanunun 3. maddesinin değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-09-19",
+  "gazette_issue": "4616",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4616.pdf",
+  "source_sha256": "264b2a109f312fe8e93720bf5b23c62fe5cff3b94d3d057de3fe70d478e0d5a0",
+  "text_sha256": "3e70ae7f326b76074fc12ae93595c9927592680544756932a8fdeb6e1df50589",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      231,
+      418
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103923.pdf",
+    "source_sha256": "7b6f3eabdda996f6e2f7f93bd141e2d8a70f69d822b21ddc804292f7a2633315",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9446,
+    "bag": 0.8766,
+    "kd_coverage": 0.999,
+    "kd_body_compared": 0.9971,
+    "rg_words": 986,
+    "kd_words": 1027,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
