@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5417- 2048-15038",
+  "source_id": 29975,
+  "date": "2004-04-06",
+  "title": "Katma değer vergisinden istisna olarak temin edilen banka kredilerinin, herhangi bir fark ilave edilmeksizin grup şirketlerine yansıtılması işlemi katma değer vergisinden istisnadır. Ayrıca söz konusu kredi ve giderlerin, yansıtmayı yapacak firmanın gider",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29975",
+  "source_sha256": "ec7887e8fc0bab87c56a2ee2f0a97702756866121c060c3db40b57d36de90031",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
