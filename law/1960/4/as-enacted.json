@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4",
+  "year": 1960,
+  "title": "Hürriyet mücadelesi uğrunda işlenen bazı suçların affına dair Geçici Kanun. (BASILI GENEL KURUL TUTANAGI BULUNMAMAKTADIR)",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-06-30",
+  "gazette_issue": "10539",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10539.pdf",
+  "source_sha256": "891dc70b8232e37f6a8eb267613b8fa04ab583840a429b5f49011319918911a7",
+  "text_sha256": "25540bd1a213923e7c657d3c1a1fb9a9378e1dcc4902086cdb4bc4388d35cb05",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      32
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300004.pdf",
+    "source_sha256": "7a7de007d7bb883fceb21128c4ba2838cefb9c57fbfbf06f199586781aa108b5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.963,
+    "bag": 0.9329,
+    "kd_coverage": 0.9929,
+    "kd_body_compared": 0.9527,
+    "rg_words": 142,
+    "kd_words": 148,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
