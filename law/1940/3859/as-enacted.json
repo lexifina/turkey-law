@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3859",
+  "year": 1940,
+  "title": "Türkiye-İngiltere Ticaret ve Kliring anlaşmasına bağlı ve hususi takasa mevzu teşkil eden Türk malları listesine bedelleri Commodities limited şirketlerine ödenecek eşya müstesna olmak üzere bütün Türk emtiasının iptali için teati olunan notaların tasdiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-06-05",
+  "gazette_issue": "4527",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4527.pdf",
+  "source_sha256": "ff0b29f155b31cfbf2e5b65ce15e3b89bb341cc235d5cf91be98a43bef2d6d34",
+  "text_sha256": "5f097b5b5b18a19a9fcaf160bb1fec86779836ef4d56c5fdd2fe110899a809aa",
+  "text_status": "ocr",
+  "pages": [
+    16,
+    17
+  ],
+  "line_span": [
+    [
+      3058,
+      3194
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103859.pdf",
+    "source_sha256": "49cdd8c39fea056cc24d17b92a2580827754e8a4f7b658894965f1b042fcaa63",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9737,
+    "bag": 0.933,
+    "kd_coverage": 0.9957,
+    "kd_body_compared": 0.9957,
+    "rg_words": 926,
+    "kd_words": 928,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
