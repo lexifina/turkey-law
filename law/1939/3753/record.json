@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3753",
+  "year": 1939,
+  "title": "Türkiye Cumhuriyetiyle Macaristan Krallığı arasında akit ve imza olunan konsolosluk mukavelesiyle merbutlarının tasdiki hakkında kanun",
+  "adopted": "1939-12-20",
+  "adopted_as_published": "20/12/1939",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.12.1939 No: 4395",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103753.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 21",
+  "committee_reports": [
+    {
+      "label": "TBMM 12 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007012ss0012.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96215,
+      "title": "Türkiye Cumhuriyetiyle Macaristan Krallığı arasında akit ve imza olunan konsolosluk mukavelesiyle merbutlarının tasdiki hakkında kanun",
+      "adopted_as_published": "20/12/1939",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103753.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 12 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007012ss0012.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 11,
+          "sitting_date": "1939-12-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007fih.pdf",
+          "pages": [
+            "38"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 12,
+          "sitting_date": "1939-12-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007fih.pdf",
+          "pages": [
+            "44"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 15,
+          "sitting_date": "1939-12-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007015.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007fih.pdf",
+          "pages": [
+            "78",
+            "83",
+            "93:96"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "f15a5671fc667e191e72d3ae85666559809efb3effef55607c685f24c613ad56"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "f15a5671fc667e191e72d3ae85666559809efb3effef55607c685f24c613ad56",
+  "issuer": "TBMM",
+  "in_force": "1939-12-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 20/12/1939; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
