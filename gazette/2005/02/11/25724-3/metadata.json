@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-11",
+  "issue": "25724",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğ",
+  "title": "Dış Ticarette Standardizasyon Tebliğinde Değişiklik Yapılması Hakkında Tebliğ (No: 2005/9)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050211-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050211.htm",
+  "index_sha256": "e5f9a9db0bd30cc0cd9f0924480f1b80645f5289efb4de645087047e6ccc4dc0",
+  "index_header": "11 Şubat 2005 ... Sayı : 25724",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
