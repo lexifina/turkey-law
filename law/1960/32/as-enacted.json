@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "32",
+  "year": 1960,
+  "title": "6964 sayılı Ziraat Odaları ve Ziraat Odaları Birliği Kanununun muvakkat 2 nci maddesinin değiştirilmesi hakkında geçici Kanun (BASILI GENEL KURUL TUTANAGI BULUNMAMAKTADIR)",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-07-29",
+  "gazette_issue": "10564",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10564.pdf",
+  "source_sha256": "09deda7341bde8e9bd56ed24966e4fd59061f1e28705994288afc6eae9356f58",
+  "text_sha256": "b81d5ec94283fedf0e849f2423fa03af420e0b46712bf6b03241c3e1567a6953",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      15,
+      28
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300032.pdf",
+    "source_sha256": "26d4524b05286ac59821ead174d19fb6ade313c2eb99f454f9a2e6b88bc928ab",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.913,
+    "bag": 0.8916,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9375,
+    "rg_words": 76,
+    "kd_words": 96,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
