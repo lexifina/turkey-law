@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5844",
+  "year": 1951,
+  "title": "Türk Ceza Kanununun 141 ve 142. Maddelerinin Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-12-11",
+  "gazette_issue": "7979",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7979.pdf",
+  "source_sha256": "583efd1db89a20f8b93068c5c2b6963480de10c48f49c99cbf5f1109463d4be3",
+  "text_sha256": "bad9984416796600966aade92d545f01fa1aa6ff62153d90f059588bc73548e2",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      12,
+      99
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405844.pdf",
+    "source_sha256": "e2076e9b31a80db8e2b4a6ac8f469d83acf699d580ccb569f0b3092517f40320",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9674,
+    "bag": 0.9174,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9971,
+    "rg_words": 682,
+    "kd_words": 700,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
