@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 132706,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEFSİRLER",
+  "heading_as_published": "Tefsirler",
+  "summary": "Affı Umumî Kanununda, silki askeriden tard ile tekaütlük hakkında bir sarahat olmamasından dolayı bu gibi mücazatı müstelzim ceraim mürtekipleri hakkında ne yolda tahfifi ceza olunacağının tayini için mezkûr kanunun tefsiri.",
+  "title": "Affı Umumî Kanununda, silki askeriden tard ile tekaütlük hakkında bir sarahat olmamasından dolayı bu gibi mücazatı müstelzim ceraim mürtekipleri hakkında ne yolda tahfifi ceza olunacağının tayini için mezkûr kanunun tefsiri.",
+  "first_sitting_date": "1924-03-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 3,
+      "sitting_date": "1924-03-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/tbmm02007003.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/ehttbmm02007003.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/tbmm02007fih.pdf",
+      "pages": [
+        "73"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 13,
+      "sitting_date": "1924-03-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/tbmm02007013.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/ehttbmm02007013.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/tbmm02007fih.pdf",
+      "pages": [
+        "522:523"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 101,
+      "sitting_date": "1926-05-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025101.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/ehttbmm02025101.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025fih.pdf",
+      "pages": [
+        "192"
+      ]
+    },
+    {
+      "cilt": 33,
+      "sitting": 81,
+      "sitting_date": "1927-06-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/tbmm02033081.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/ehttbmm02033081.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/tbmm02033fih.pdf",
+      "pages": [
+        "581",
+        "617"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=383&v_gelecek_sayfa=201&v_kullanici_id=27483770",
+  "source_sha256": "1a3185e4ec2591c9dd907c15be22c7c74680a5c059abeefe9da87a40934a2992",
+  "in_force": "1924-03-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
