@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6001-688/62224",
+  "source_id": 36316,
+  "date": "2000-12-22",
+  "title": "Şirkete ait olan ve vakfa bağışlanan arazi ve üzerindeki tesis ve demirbaşların, yine bu şirkete bedelsiz olarak  yasal zorunluluk nedeniyle devredilmesinde, Veraset ve İntikal Vergisinin aranılıp aranılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36316",
+  "source_sha256": "3d9c1d945c8afd1a7553cece7f97fbc6d3f47c3057cdbededf49eca283193c94",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
