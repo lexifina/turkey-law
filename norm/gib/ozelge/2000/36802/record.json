@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-269/6124",
+  "source_id": 36802,
+  "date": "2000-02-11",
+  "title": "Finansal Kiralama Şirketlerinin yaptıkları peşin döviz işlemleri ve vadeli döviz işlemleri sonucunda meydana gelen arbitraj işlemi ile bu işlemler sonucu dövizler arasındaki kur farkından lehe kalan paraların B.S.M.Vergisinden istisna edilip edilmeyeceği ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36802",
+  "source_sha256": "f3d3e4f13d9f84dd76e2fec7407b7e0afb2f32f317be61c2f91bdae04ce8bd8c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
