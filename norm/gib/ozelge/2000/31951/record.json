@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.6EL.0.53/5317-1737/15423",
+  "source_id": 31951,
+  "date": "2000-04-06",
+  "title": "Genel bütçeli bir kamu kuruluşunun dışındaki dernek, kurum ve kuruluşlar tarafından bağış ve hibe yoluyla gönderilen tıbbi cihaz ve malzemeler için katma değer vergisi ödememesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31951",
+  "source_sha256": "89f3e6853de823a1a955b7b5a431e82dac0c40d930b6711e2e783104a2bdc92c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
