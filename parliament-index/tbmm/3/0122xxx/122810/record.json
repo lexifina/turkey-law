@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 122810,
+  "assembly": "TBMM",
+  "term": 3,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Anadolu-Bağdat demiryolları ve Haydarpaşa liman ve rıhtım idaresinin 1341-1925 senesi adi ve fevkalade bütçeleri hesabı katileri hakkında kanun lâyihasile Anadolu-Bağdat demiryolları ye Haydarpaşa liman ve rıhtım idaresinin 1341 senesi fevkalâde bütçesine ait mutabakat beyannamesinin takdim kılındığına dair ve Anadolu-Bağdat demiryolları ve Haydarpaşa liman ve rıhtım idaresinin 1341 senesi bütçesine ait mutabakat beyannamesinin takdim kılındığına dair Divanı muhasebat riyaseti tezkereleri hakkında.",
+  "title": "Anadolu-Bağdat demiryolları ve Haydarpaşa liman ve rıhtım idaresinin 1341-1925 senesi adi ve fevkalade bütçeleri hesabı katileri hakkında kanun lâyihasile Anadolu-Bağdat demiryolları ye Haydarpaşa liman ve rıhtım idaresinin 1341 senesi fevkalâde bütçesine ait mutabakat beyannamesinin takdim kılındığına dair ve Anadolu-Bağdat demiryolları ve Haydarpaşa liman ve rıhtım idaresinin 1341 senesi bütçesine ait mutabakat beyannamesinin takdim kılındığına dair Divanı muhasebat riyaseti tezkereleri hakkında.",
+  "first_sitting_date": "1929-11-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 4,
+      "sitting_date": "1929-11-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c013/tbmm03013004.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c013/tbmm03013fih.pdf",
+      "pages": [
+        "22",
+        "25"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1561&v_gelecek_sayfa=801&v_kullanici_id=27483795",
+  "source_sha256": "4b5f7ce6b7884b8787b8a0b832dea67e0525bbb222eec00d7307f09e6b2c4803",
+  "in_force": "1929-11-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
