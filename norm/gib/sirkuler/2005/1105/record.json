@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-13/2005-1/Serbest Bölgeler Uygulaması-1",
+  "source_id": 1105,
+  "date": "2005-01-07",
+  "title": "Yurtdışında yerleşik ve Türkiye'de ticaret sicili kaydı bulunmayan firmalar faaliyette bulundukları serbest bölge müdürlüklerinden alacakları ve 'serbest bölgedeki işyerinde imalat faaliyetinde bulunduklarına ilişkin' bir yazıyı verecekleri ilk geçici ver",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1105",
+  "source_sha256": "322dfbf9d2dc52c56d8c20bf395c20d107fea36b3f609f818a6a6f983f854d37",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
