@@ -1,0 +1,151 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "234",
+  "year": 1963,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Amerika Birleşik Devletleri Hükümeti arasında imzalanan İstikraz Andlaşmasının onaylanmasının uygun bulunduğuna dair Kanun",
+  "adopted": "1963-05-24",
+  "adopted_as_published": "24/05/1963",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.06.1963 No: 11417",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600234.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 46",
+  "committee_reports": [
+    {
+      "label": "MM 52 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012045ss0052.pdf"
+    },
+    {
+      "label": "CS 123no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011068ss0123.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 340761,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Amerika Birleşik Devletleri Hükümeti arasında imzalanan İstikraz Andlaşmasının onaylanmasının uygun bulunduğuna dair Kanun",
+      "adopted_as_published": "24/05/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600234.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 52 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012045ss0052.pdf"
+        },
+        {
+          "label": "CS 123no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011068ss0123.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 111,
+          "sitting_date": "1962-09-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006111.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006fih.pdf",
+          "pages": [
+            "296"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 39,
+          "sitting_date": "1963-02-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011fih.pdf",
+          "pages": [
+            "418"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 45,
+          "sitting_date": "1963-02-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012fih.pdf",
+          "pages": [
+            "203:205",
+            "234:237"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 46,
+          "sitting_date": "1963-02-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012fih.pdf",
+          "pages": [
+            "246",
+            "265",
+            "279",
+            "315:318"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1801&v_kullanici_id=27483225",
+      "page_sha256": "33cf0b4851d47949e2eebb18398e9f799f6d84f9701f66640a4cbe2215be964f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 173520,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Amerika Birleşik Devletleri Hükümeti Arasında İmzalanan İstikraz Andlaşmasmın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "24/05/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600234.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 52 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012045ss0052.pdf"
+        },
+        {
+          "label": "CS 123no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011068ss0123.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 45,
+          "sitting_date": "1963-02-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c010/cs__02010045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c010/cs__02010fih.pdf",
+          "pages": [
+            "87"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 68,
+          "sitting_date": "1963-05-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011fih.pdf",
+          "pages": [
+            "308:309",
+            "325:326"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=201&v_kullanici_id=27483235",
+      "page_sha256": "556899a76dfbaf68914e5dd95f82a8639a02df8d2ff256048f22c24a0c15d660"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "33cf0b4851d47949e2eebb18398e9f799f6d84f9701f66640a4cbe2215be964f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1963-05-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 24/05/1963; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
