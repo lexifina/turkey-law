@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2796",
+  "year": 1935,
+  "title": "Dahilî istihlâk vergisi Kanununun 10. maddesinin tadili ve muvakkat bir madde ilâvesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-06-22",
+  "gazette_issue": "3035",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3035.pdf",
+  "source_sha256": "97e9fd7c3f8f0524cd3720b5a4b47ec24747deec6e929b14491c67750c9f3f6e",
+  "text_sha256": "77c42d852e7fa20c5c5c09e88edf425b126a307f32a0baf0937d025b2c2f45b0",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      779,
+      823
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502796.pdf",
+    "source_sha256": "9e0cdca2ee69a4010e8efd88111c67437dadeb2e438be324587b9b5954e6c604",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9652,
+    "bag": 0.9016,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9912,
+    "rg_words": 212,
+    "kd_words": 227,
+    "own_anchor": false,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
