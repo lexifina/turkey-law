@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1500",
+  "year": 1929,
+  "title": "Hükümetle İzmir-Kasaba demiryolu ve temdidi şirketi arasında kararlaştırılan itilâfnamenin imza ve teatisine mezuniyeti mutazammın kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-06",
+  "gazette_issue": "1209",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1209.pdf",
+  "source_sha256": "53dd83954bbda8654123de027a06c04ff5d1e61ed49797a307969d3c79753ad0",
+  "text_sha256": "3420881ba03c392d14aadd038dfc55da0a95e52113ba106174c27c8b34ff90db",
+  "text_status": "ocr",
+  "pages": [
+    3,
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      86,
+      353
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701500.pdf",
+    "source_sha256": "d370e09ddef095c859809082285af4f4074066b6029c91589efe74fb231ebd52",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9445,
+    "bag": 0.7986,
+    "kd_coverage": 0.9863,
+    "kd_body_compared": 0.9863,
+    "rg_words": 1019,
+    "kd_words": 1021,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
