@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5921-292",
+  "source_id": 33873,
+  "date": "2004-09-10",
+  "title": "ÖTV Kanunu ekindeki I numaralı listede yer almayan bir maldan, listede yer alan yeni bir malın üretilmesi halinde bu yeni malın ÖTV'ye tabi olması gerektiği hakında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33873",
+  "source_sha256": "c5da7c0f4f9c829fe94b293879d53bdfba147107d641646bafcc2df77a1d0fe1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
