@@ -1,0 +1,62 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3872",
+  "year": 1940,
+  "title": "Beden Terbiyesi Genel direktörlüğünün 1940 malî yılı Bütçe kanunu",
+  "adopted": "1940-06-01",
+  "adopted_as_published": "01/06/1940",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.06.1940 No: 4528",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103872.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 21",
+  "committee_reports": [
+    {
+      "label": "TBMM 184 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c012/tbmm06012061ss0184.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96334,
+      "title": "Beden Terbiyesi Genel direktörlüğünün 1940 malî yılı Bütçe kanunu",
+      "adopted_as_published": "01/06/1940",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103872.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 184 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c012/tbmm06012061ss0184.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 12,
+          "sitting": 61,
+          "sitting_date": "1940-06-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c012/tbmm06012061.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c012/tbmm06012fih.pdf",
+          "pages": [
+            "3:12",
+            "14",
+            "19:23"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=794&v_gelecek_sayfa=101&v_kullanici_id=27483166",
+      "page_sha256": "29501483f38f95dd8d88114aa5fdbf99ef4723a6b3d5255a78b9c96c933510ff"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "29501483f38f95dd8d88114aa5fdbf99ef4723a6b3d5255a78b9c96c933510ff",
+  "issuer": "TBMM",
+  "in_force": "1940-06-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 01/06/1940; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
