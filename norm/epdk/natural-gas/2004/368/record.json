@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "368",
+  "decision_date": "2004-09-27",
+  "title": "Doğal Gaz Piyasasında taşıma bedeline ilişkin",
+  "resmi_gazete_date": "2004-09-29",
+  "resmi_gazete_number": "25598",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MeutQXz15po=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MeutQXz15po="
+  ],
+  "source_sha256": "4510e8da57690a7bcaa1ef8280422654d463d523f25b49fec16d84d3ccf6eb30",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-09-27",
+  "law_text_complete": false
+}
