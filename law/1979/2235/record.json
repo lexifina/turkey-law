@@ -1,0 +1,134 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2235",
+  "year": 1979,
+  "title": "5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa geçici bir madde eklenmesine dair Kanun",
+  "adopted": "1979-05-22",
+  "adopted_as_published": "22/05/1979",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "31.05.1979 No: 16652",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202235.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 62",
+  "committee_reports": [
+    {
+      "label": "MM 81 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012082ss0081.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 453702,
+      "title": "5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa geçici bir madde eklenmesine dair Kanun",
+      "adopted_as_published": "22/05/1979",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202235.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 81 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012082ss0081.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 79,
+          "sitting_date": "1977-12-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c001/mm__05001079.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c001/mm__05001fih.pdf",
+          "pages": [
+            "488"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 137,
+          "sitting_date": "1978-04-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c005/mm__05005137.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c005/mm__05005fih.pdf",
+          "pages": [
+            "327"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 82,
+          "sitting_date": "1979-04-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012fih.pdf",
+          "pages": [
+            "353:354"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=101&v_kullanici_id=27483225",
+      "page_sha256": "4a6dd473ee82376e4b9ef55568d9ed70f059194dfce0b327d385c91415064a57"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 332696,
+      "title": "5434 sayılı TC Emekli Sandığı Kanununa Geçici Bir Madde Eklenmesine Dair Kanun.",
+      "adopted_as_published": "22/05/1979",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202235.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 81 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012082ss0081.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 43,
+          "sitting": 61,
+          "sitting_date": "1979-05-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043061.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043fih.pdf",
+          "pages": [
+            "562"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 62,
+          "sitting_date": "1979-05-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043062.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043fih.pdf",
+          "pages": [
+            "570"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 67,
+          "sitting_date": "1979-05-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043067.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043fih.pdf",
+          "pages": [
+            "735:736"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2201&v_kullanici_id=27483235",
+      "page_sha256": "0799c7d26ace75dbc81a41d8398841fbf4d8af100f546707cbe58b5a0be8c0b4"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4a6dd473ee82376e4b9ef55568d9ed70f059194dfce0b327d385c91415064a57",
+  "issuer": "Millet Meclisi",
+  "in_force": "1979-05-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 22/05/1979; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
