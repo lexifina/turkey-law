@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5417-1680/6547",
+  "source_id": 31962,
+  "date": "1998-02-24",
+  "title": "Milli Eğitim Müdürlüğünce yapılan ihale sonucu bedeli genel bütçeden ödenen ve Belediye tarafından yapılan öğrenci taşıma hizmetinin KDV'ne",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31962",
+  "source_sha256": "9b4fde6260510158b437e763f45a632c1019401607aeb6491b45ec102969f5b0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
