@@ -1,0 +1,81 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 343430,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "«Hususi kredi» ve «Silâhlanma istikrazı» ndan doğan İngiliz alacakları bakiyesinin tesviyesi için Birleşik Krallıkla Türkiye arasında mektup teatisi suretiyle yapılan 23 Haziran 1962 tarihli Andlaşmanın onaylanmasının uygun bulunduğu hakkında (1/348)",
+  "title": "«Hususi kredi» ve «Silâhlanma istikrazı» ndan doğan İngiliz alacakları bakiyesinin tesviyesi için Birleşik Krallıkla Türkiye arasında mektup teatisi suretiyle yapılan 23 Haziran 1962 tarihli Andlaşmanın onaylanmasının uygun bulunduğu hakkında (1/348)",
+  "first_sitting_date": "1962-12-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 18,
+      "sitting_date": "1962-12-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010fih.pdf",
+      "pages": [
+        "179"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 72,
+      "sitting_date": "1963-04-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016fih.pdf",
+      "pages": [
+        "306",
+        "309"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 93,
+      "sitting_date": "1963-06-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+      "pages": [
+        "3",
+        "595"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 131,
+      "sitting_date": "1963-09-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021131.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021fih.pdf",
+      "pages": [
+        "22",
+        "23",
+        "62",
+        "65",
+        "87",
+        "130",
+        "133",
+        "148",
+        "189",
+        "192",
+        "202",
+        "248",
+        "251"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=4401&v_kullanici_id=27484850",
+  "source_sha256": "13821255be207bac870dd5029ff97a22a242c0bb25673aa0123adaf0a651f383",
+  "in_force": "1962-12-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
