@@ -1,0 +1,1 @@
+[1] Her ne kadar, bu tüzüğün dayanağını teşkil eden 521 sayılı Kanun yürürlükten kalkmış ise de, 6.1.1982, tarih ve 2575 sayılı Kanunun geçici 3 üncü maddesi gereğince bu konuda yeni tüzük çıkıncaya kadar bu tüzüğün söz konusu kanuna aykırı olmayan hükümleri uygulanacaktır.

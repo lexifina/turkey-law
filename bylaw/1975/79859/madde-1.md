@@ -1,0 +1,1 @@
+Madde 1 – Danıştay meslek mensuplarının, idare hukuku alanında bilimsel araştırmalar yapmak ve mesleki incelemelerde bulunmak amacı ile idari yargı sisteminin uygulandığı yabancı ülkelere gönderilmeleri bu Tüzük hükümlerine bağlıdır.

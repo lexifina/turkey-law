@@ -1,0 +1,4 @@
+Burs alanlar ve kendi hesaplarına aylıksız gidenler:
+Madde 6 – Herhangi bir ulusal veya uluslararası kurumdan burs sağlanan meslek mensupları, 4 üncü maddedeki şartları haiz olmak kaydı, Başkanlar Kurulunun kararı ve Birinci Başkanın izni ile dış ülkelere gönderilebilirler.
+Bu şekilde gideceklere aylıkları, yüklenme ve kefalet senedi ve pasaport harcı ve burs veren devlet veya kurum tarafından karşılanmadığı takdirde yol giderleri ile, sağlanan burs gidilecek ülke için saptanan bir aylık gündelik tutarından düşük olduğu takdirde aradaki fark, Danıştay Bütçesinden verilir.
+Kendi hesaplarına aylıksız izinli olarak inceleme ve araştırma yapmak isteyenler, 4. maddenin (b) bendinde yazılı şartları haiz olup olmadıklarına bakılmaksızın, Başkanlar Kurulunun kararı ve Birinci Başkanın izni ile dış ülkelere gönderilebilirler.
