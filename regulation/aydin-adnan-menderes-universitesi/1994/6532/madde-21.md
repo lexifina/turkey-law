@@ -1,0 +1,5 @@
+ALTINCI BÖLÜM
+Değer Takdir Komisyonu
+Madde 21- Değer Takdir Komisyonu, Üniversite mensuplarıyla, öğrencilerin kaybettikleri kitap ve diğer materyalin genel rayiç değerleri gözönüne alınarak değerinin takdir edilmesi ve bu değerin Üniversite gelir bütçesine aktarılması konusunda Rektörün tesbit edeceği en az 3 (üç) kişiden oluşur.
+Değer Takdir Komisyonu, kayıp veya zayi olan kitap veya diğer materyalin değerinin tesbitinden piyasa araştırması yapar, basılmış bütün yayınların fiyatları dahil her türlü bilgiyi içeren Books In Prınt, Serials Director ve yayınevleri kataloglarını inceler, bu materyalin hacmi, cilt bedeli, kağıt kalitesi, ulaşım masrafları, paranın zaman içerisindeki değer kaybı, antika ve sanatsal değerleri, nadir eser olup olmadığı gibi hususları gözönünde bulundurarak değer saptamasında bulunur. Değer Takdir Komisyonunun kararı ita amirinin onayına sunulur.
+Kütüphanelerimize bağış yoluyla gelen ve fiyatı belli olmayan materyalin değerini demirbaş kayıtlarına geçirmek üzere tesbit eder.

@@ -1,0 +1,5 @@
+Gününde İade Edilmeyen Kitap ve Diğer Materyal
+Madde 19- Ödünç aldığı kitap ve diğer materyali en geç ödünç verme süresi sonunda iade etmeyen veya süresini uzatmayan kişiden, başkaca hiçbir işleme gerek bulunmaksızın, süre sonunu izleyen günden itibaren geçen her gün için para cezası alınır. Yıl içinde uygulanacak günlük ceza miktarı her yıl Daire Başkanının önerisi ile Rektör tarafından belirlenir. Kendisine gecikme cezası uygulanmasına başlanmış olan bir kişiye, ödünç aldığı materyali iade etmediği ve tahakkuk eden gecikme cezası miktarından tamamını ödemediği sürece, hiçbir şekilde başka bir kitap veya materyal ödünç verilmez.
+Gecikme cezası uygulanan gün sayısının 30 (otuz) günü aşması halinde, kütüphane yöneticileri, gecikme cezasını uygulamaya devam etmekte veya o kitap veya materyal hakkında kaybedilmiş gibi işlem yapmakta serbesttirler.
+Üniversite öğretim elemanları ve personeline ait ödenmeyen para cezaları aylıklarından kesilir.
+Gecikme cezaları, Adnan Menderes Üniversitesi Çevre Fonu makbuzları ile tahsil edilir. (1)

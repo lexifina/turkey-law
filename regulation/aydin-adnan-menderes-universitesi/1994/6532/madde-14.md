@@ -1,0 +1,4 @@
+Madde 14- Okuyucu hizmetlerini oluşturan servisler:
+a) Müracaat Servisi: Kütüphane koleksiyonunun ve kullanımının üniversite içinde ve dışında okuyucuya tanıtımını sağlayan servistir. Bu servis, kütüphane materyallerinin kullanımına yardımcı olmak amacıyla hizmet içi eğitim programları düzenlemek, bibliyografya taramaları yapmak, yeni çıkan yayınları okuyucuya duyurmak ve enformasyon hizmetlerini yürütmekle görevlidir.
+b) Ödünç Verme Servisi: Kütüphane koleksiyonunun, kütüphane içi ve dışı dolaşımını sağlamak-denetlemek, kütüphaneler arası (gerekirse yurt dışından) kaynak alış-verişinde bulunmak ve kütüphane materyali ile ilgili fotokopi işlerini yapmakla görevli servistir.
+c) Görsel-işitsel Hizmetler Servisi: Eğitimi destekleyecek görsel ve işitsel araç ve gereçleri seçmek, üretmek, çoğaltmak, sağlamak, belli bir düzen içinde hizmete sunmak ve bakımını yapmakla görevli servistir.
