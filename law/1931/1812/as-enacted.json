@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1812",
+  "year": 1931,
+  "title": "Mektep kitapları mütedavil sermayesine munzam tahsisat kayid ve mahsubuna dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-05-31",
+  "gazette_issue": "1810",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1810.pdf",
+  "source_sha256": "36f2a826a8eed7534b92d87f74f5f7e529f1d7c3061606f205b321f6caafdbb1",
+  "text_sha256": "9fb449453c02a2a868f50d45a28268e4e5d927ca0c169d9f01601fe24cdfa4ea",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      1137,
+      1166
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001812.pdf",
+    "source_sha256": "666e7f5db81f9f29fa8f9520062b0bae5680ac4493a1d0769e5d5aba6afc402f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9089,
+    "bag": 0.8018,
+    "kd_coverage": 0.9508,
+    "kd_body_compared": 0.9508,
+    "rg_words": 101,
+    "kd_words": 122,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
