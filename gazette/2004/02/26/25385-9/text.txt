@@ -1,0 +1,677 @@
+Telekomünikasyon
+Kurumundan:
+Numaralandırma
+Yönetmeliği
+BİRİNCİ
+BÖLÜM
+Genel
+Hükümler
+Amaç
+Madde
+1 — Bu Yönetmeliğin amacı,
+telekomünikasyon şebekelerinde kullanılan numaraların ulusal kapsamda plânlanması
+ve yapılan plâna uygun olarak etkin ve verimli kullanılmasını sağlayacak
+usûl ve esasları düzenlemektir.
+Kapsam
+Madde
+2 — Bu Yönetmelik, telekomünikasyon
+şebekelerinde kullanılan numaraların ulusal kapsamda plânlanması, plâna
+uygun olarak tahsis edilmesi, tahsis edilen numaraların etkin ve verimli kullanımının
+sağlanması, geri alımı ve benzeri konularda uygulanacak usûl ve esasları
+kapsar.
+Hukuki
+Dayanak
+Madde
+3 — Bu Yönetmelik 406 sayılı
+Telgraf ve Telefon Kanunu ile 2813 sayılı Telsiz Kanununa dayanılarak hazırlanmıştır.
+Tanımlar
+ve Kısaltmalar
+Madde
+4 — Bu Yönetmelikte geçen;
+Kurum:
+Telekomünikasyon Kurumunu,
+Kurul:
+Telekomünikasyon Kurulunu,
+Numara:
+Şebeke ve/veya şebeke sonlanma noktasını tanımlayan, sözkonusu noktaya çağrının
+yönlendirilmesini sağlayan ve kullanıldığı yere göre abone, uygulama, işletmeci,
+telekomünikasyon şebekesi ve/veya telekomünikasyon hizmeti ile ilişkilendirilebilen
+bilgiyi içeren harf ve/veya rakamlar dizini veya sembolleri,
+Numara
+bloğu: Ulusal numaralandırma plânında 1.000, 10.000, 100.000 veya 1.000.000
+adet numara olacak şekilde ardışık numara dizinini,
+Ulusal
+numaralandırma plânı : Numaraların yapısını tanımlayan, yönlendirme,
+adresleme, ücretlendirme veya hizmet türüne ilişkin bilgi vermek üzere bölümlere
+ayrılarak tanımlanabilen Türkiye numaralandırma plânını,
+Abone:
+Telekomünikasyon hizmeti sunan bir işletmeci ile ilgili hizmetten yararlanmaya
+ilişkin sözleşme yapan gerçek veya tüzel kişiyi,
+Arama
+plânı: Ulusal numaralandırma plânında kullanılan yöntemi tanımlayan, çağrı
+sonlandırmasını sağlayacak şekilde önek (prefiks) ve ek bilgilerin kullanımını
+içeren, ondalık rakamlar, semboller ve ek bilgilerin kombinasyonu veya
+dizinini,
+Birincil
+tahsis: Numara ve/veya numara
+bloklarının Kurum tarafından işletmeciye tahsis edilmesini,
+Doluluk
+oranı: Aynı numara türünde hizmete verilmiş numaraların tahsis edilen
+toplam numara sayısına oranını,
+Hizmete
+veriliş: Münferit olarak tahsis edilen numaralarda numaranın şebekede tanımlanması
+ve/veya numara bloğundan en az bir numaranın aboneye tahsis edilmek suretiyle
+aktif hale getirilmesini,
+DDI:
+Doğrudan Dahili Aramayı (Direct Dialing Inward),
+İkincil
+tahsis : Birincil tahsis yapılan işletmecinin, kendisine tahsis edilmiş
+numaraları abonelerine tahsisini,
+ITU:
+Uluslararası Telekomünikasyon Birliğini (International Telecommunication
+Union),
+İlgili
+mevzuat: Telekomünikasyon sektörüne ilişkin kanun, Bakanlar Kurulu Kararı,
+tüzük, yönetmelik, tebliğ, lisans, genel izin, genelge, usûl ve esaslar,
+Kurul kararı ve ilgili diğer düzenleme ve mevzuatı,
+İşletmeci:
+Türk Telekom da dahil olmak üzere, Kurum ile yapılan görev sözleşmesi,
+imtiyaz sözleşmesi ve/veya Kurumdan alınan bir telekomünikasyon ruhsatı
+veya genel izin uyarınca telekomünikasyon hizmeti yürüten ve/veya telekomünikasyon
+altyapısı işleten bir sermaye şirketini,
+Kamu
+telefon şebekesi: Şebeke sonlanma noktaları arasında ses, faks, veri ve diğer
+benzeri haberleşme formlarının iletimini destekleyen kamuya açık telefon
+hizmetlerini sağlamak amacıyla kullanılan telekomünikasyon şebekesini,
+Kullanıcı:
+Aboneliği olup olmamasına bakılmadan telekomünikasyon hizmetlerinden
+yararlanan gerçek veya tüzel kişiyi,
+Numara
+taşınabilirliği: Kamu telefon şebekesinde abonenin numarasını değiştirmeden
+hizmet aldığı işletmeciyi, bulunduğu fiziksel konumu ve/veya aldığı
+hizmetin türünü değiştirebilmesini,
+Numara
+ücreti: Numara türüne göre belirlenen ve birincil tahsiste alınan
+yetkilendirme ücreti kapsamındaki ücreti,
+Paralel
+çalışma: Ulusal numaralandırma plânı değişikliklerinde, eski ve yeni
+numaraların önceden belirlenmiş sınırlı bir süre için birlikte yürürlükte
+ve çalışır durumda olmasını,
+Sermaye
+şirketi: Kurum tarafından aranacak şartları taşıyan, Türkiye’de kurulmuş
+veya kurulacak bir sermaye şirketini,
+Şebeke:
+İki veya daha fazla nokta arasında telekomünikasyonu sağlamak için bu
+noktalar arası bağlantıyı teşkil eden anahtarlama ekipmanları ve hatlar da
+dahil olmak üzere her türlü iletim sistemleri ağını,
+Şebeke
+sonlanma noktası: Telekomünikasyon şebekesinde aboneye erişimin sağlandığı
+fiziksel noktayı, anahtarlama veya yönlendirme ihtiva eden şebekelerde ise,
+abone numarası veya ismi ile ilişkilendirilebilen özel bir şebeke adresiyle
+tanımlanan noktayı,
+Taşıyıcı:
+Bir çağrının başlatılması, sonlandırılması veya taşınması
+hizmetlerinin tümünü veya bir kısmını sunan işletmeciyi,
+Taşıyıcı
+seçimi: Kamu telefon şebekesinde kendisinden hizmet alınmak istenen taşıyıcının,
+Çağrı Bazında Taşıyıcı Seçimi ve/veya Taşıyıcı Ön Seçimi ile
+seçilmesini,
+Taşıyıcı
+seçim kodu: Taşıyıcılara Çağrı Bazında Taşıyıcı Seçimi amacıyla
+Kurum tarafından tahsis edilen kodu,
+Çağrı
+bazında taşıyıcı seçimi: Kamu telefon şebekesinde her bir çağrı için
+hizmet alınmak istenen taşıyıcının, kendisine Kurum tarafından tahsis
+edilmiş olan taşıyıcı seçim kodu çevrilmesi suretiyle seçilmesi
+mekanizmasını,
+Taşıyıcı
+ön seçimi: Kendisinden hizmet alınmak istenen taşıyıcının, taşıyıcı
+seçim kodu çevrilmeksizin seçilmesine imkan sağlayacak şekilde önceden seçilmesi
+mekanizmasını,
+Yetkilendirme:
+Kurumun, telekomünikasyon hizmetinin yürütülmesi ve/veya altyapısının
+kurulması ve işletilmesi için sermaye şirketleri ile görev ya da imtiyaz sözleşmesi
+imzalaması, bu şirketlere telekomünikasyon ruhsatı vermesi veya genel izin
+kapsamında kayıtlaması işlemini,
+ifade
+eder.
+Ayrıca,
+bu Yönetmelikte geçen ve yukarıda yer almayan tanımlar için ilgili
+mevzuatta yer alan tanımlar geçerlidir.
+Yönetmelik
+Kapsamında Bulunan Numaralar
+Madde
+5 — Bu Yönetmelik kapsamında
+bulunan numaralar, telekomünikasyon şebekelerinde kullanılan ve ulusal plânlama
+gerektiren numaralardır. Uluslararası Telekomünikasyon Birliği tarafından
+tanımlanan küresel uluslararası numaralandırma plânlarında ülkelerin düzenlemeleri
+gereken hususlar da bu Yönetmeliğin
+kapsamındadır.
+Numara
+Türlerine Özel Hususlar
+Madde
+6 — Numara türlerine özel
+hususlar bu Yönetmeliğin eklerinde düzenlenmiştir.
+Numara
+Ücreti
+Madde
+7 — Numara tahsislerinde,
+tahsis edilecek numara sayısı ile orantılı olacak şekilde yetkilendirme ücreti
+kapsamında numara ücreti alınır. Alınacak numara ücretleri, Kurumun,
+ulusal numaralandırma plânının yönetimi ve numara kaynaklarının kontrolü
+görevlerinden kaynaklanan masrafları, tahsis edilebilir numara kaynağının
+kapasitesi ile kaynağın etkin ve
+verimli kullanılması gerekleri esas alınmak suretiyle belirlenir.
+İlkeler
+Madde
+8 — Bu Yönetmeliğin
+uygulanmasında aşağıdaki temel ilkeler gözetilir:
+a)
+Objektif nedenler aksini gerektirmedikçe, niceliksel ve niteliksel devamlılık,
+adil, ayrımcı olmama, düzenlilik, verimlilik, açıklık, şeffaflık ve
+kaynakların etkin kullanılması,
+b)
+Millî güvenlik, kamu düzeni gerekleri ve acil durum ihtiyaçlarına öncelik
+verilmesi,
+c)
+Taraf olunan uluslararası kuruluşların düzenlemelerine uyulması,
+d)
+Kullanımı kolay ve kamu menfaatine yönelik uygulamaların teşvik edilmesi,
+e)
+Tüketici haklarının korunması,
+f)
+Etkin ve sürdürülebilir rekabet ortamının sağlanması ve devamlılığına
+yönelik uygulamaların teşvik edilmesi.
+İKİNCİ
+BÖLÜM
+Başvuru
+Usûl ve Esasları
+Numara
+Tahsis Başvurusu
+Madde
+9 — Numara tahsisi için işletmeciler
+veya yetkilendirme için ilgili mevzuat uyarınca Kuruma müracaat eden sermaye
+şirketleri başvurabilir. İhale usûlü ile yapılacak yetkilendirmelerde,
+yetkilendirme mevzuatı hükümleri çerçevesinde gerekli işlemler yapılır.
+Numara türlerine göre başvuruya özel durumlar bu Yönetmeliğin eklerinde düzenlenmiştir.
+Başvurunun
+Yapılması
+Madde
+10 — Başvurunun yapılmasına
+ilişkin hususlar aşağıda belirtilmiştir:
+a)
+Sermaye Şirketlerinin Başvurusu : Numara tahsisi gerektiren bir telekomünikasyon
+hizmeti sunmak ve/veya altyapısı kurmak ve işletmek üzere yetkilendirilme
+amacıyla ilgili mevzuata uygun olarak Kuruma başvuran sermaye şirketleri,
+numara tahsisi için de başvurmuş sayılır. Ancak, Kurum, gerekli
+görmesi halinde, başvuru sahibinden tahsis talebinde bulunduğu numara kaynağına
+göre, bu Yönetmeliğin eklerinde düzenlenen başvuru formlarını doldurmasını
+ister.
+Sermaye
+şirketlerinin yetkilendirme başvurusu ile birlikte yapacakları numara tahsis
+başvuruları bu Yönetmelik hükümleri çerçevesinde yetkilendirme başvuruları
+ile paralel olarak değerlendirilir.
+b)
+İşletmecilerin Başvurusu : İşletmeci, Kurum düzenlemelerine uygun olarak sürdürdüğü
+faaliyeti kapsamında talep ettiği numaralar için ekteki başvuru formlarından
+uygun olanını eksiksiz doldurarak, numara tahsis talebini içeren dilekçeyle
+Kuruma başvurur. Başvuruda istenen bilgi ve belgeler, bu Yönetmeliğin
+eklerinde numara türüne göre düzenlenen başvuru formlarında gösterilmektedir.
+Başvurular,
+istisnai haller dışında, tahsisi talep edilen numaraların plânlanan hizmete
+veriliş tarihinden önceki altı (6) ay içerisinde yapılır.
+Yeni
+bir numara grubunun kullanıma açılması halinde Kurum buna ilişkin duyuruyu
+başvuruların alınmaya başlanacağı tarihi de belirtecek şekilde internet
+sitesinde iki (2) hafta öncesinden yayımlar.
+Başvurunun
+Değerlendirilmesi
+Madde
+11 — Kurum, yapılan başvuruları
+inceler, belgelerinde eksiklik bulunan başvuru sahibinden bu eksikliklerin
+giderilmesini ister. Eksikliklerin Kurum tarafından başvuru sahibine
+bildirilmesini müteakip üç (3) ay içerisinde tamamlanmaması halinde başvuru
+işlemden kaldırılır.
+Kuruma
+eksiksiz yapılan başvurular, başvuru sırasına göre değerlendirmeye alınır
+ve üç (3) hafta içerisinde sonuçlandırılır. Başvuru sırasının
+tespitinde, başvurunun Kuruma eksiksiz yapıldığı tarih esas alınır.
+Ancak, millî güvenlik ve kamu düzeni gerekleri ile acil durum ihtiyaçlarına
+öncelik verilir.
+Kurum,
+başvurunun değerlendirilmesinde, başvuru sahibinden ek bilgi ve belge
+isteyebilir. Bu ve benzeri durumlarda yukarıda belirtilen değerlendirme süresi
+aşılabilir. Talep edilen ek bilgi ve belgelerin, Kurum tarafından belirlenen
+süre içerisinde teslim edilmemesi halinde, başvuru sahibi başvuru değerlendirmesinde
+öncelik sırasını
+kaybeder.
+ÜÇÜNCÜ
+BÖLÜM
+Numara
+Tahsis ve Kullanımı
+Tahsis
+Koşulları
+Madde
+12 — Numara tahsisinde aşağıdaki
+koşullar aranır:
+a)
+Başvuruda belirtilen numara tahsis talebinin ulusal numaralandırma plânına
+uygun olması,
+b)
+Talep edilen numaraların tahsis
+edilebilir durumda olması,
+c)
+Talep edilen numaraların, ilgili olduğu hizmetin coğrafi kapsamıyla uyumlu
+olması,
+d)
+Talep edilen numara sayısına uygun teknik kapasitenin yeterliliği, abone sayısını
+destekleyecek pazar projeksiyonunun ve yatırım plânının olması.
+İlave
+numara tahsislerinde, başvuru sahibinin tahsisini talep ettiği numara kaynağına
+uygun yetkilendirmenin bulunması ve tahsisli numaralarda istenilen doluluk oranına
+erişilmiş olması koşulları da aranır.
+Numara
+tahsisinde uygulanacak numara türlerine
+özel koşullar bu Yönetmeliğin eklerinde düzenlenmiştir.
+Tahsisin
+Yapılması
+Madde
+13 — Tahsis talebinin Kurum
+tarafından uygun görülmesi halinde numara tahsisi yapılır. Kurum tahsis
+edilen numaraları başvuru sahibine yazılı olarak bildirir.
+Talebin
+Reddedilmesi
+Madde
+14 — Bu Yönetmeliğin 9 uncu
+ve 10 uncu maddelerinde yer alan hükümlere uygun olmayan başvurular ile 12
+nci maddesinde belirtilen koşulları karşılamayan tahsis talepleri
+reddedilir. Bu durumda, başvuru sahibine reddedilme gerekçesi yazılı olarak
+bildirilir.
+Kısmî
+Tahsis
+Madde
+15 — Kurum, gerekli görmesi
+halinde, talep edilen numaraların yalnız belirli bir kısmını gerekçesini
+belirterek tahsis edebilir.
+Tekrar
+Tahsis
+Madde
+16 — Herhangi bir nedenle
+kullanımına son verilmiş numara veya numara blokları, istisnai haller dışında,
+kullanımına son verildiği tarihten itibaren en erken altı (6) ay sonra
+tekrar tahsis edilebilir.
+Tahsisli
+Numaraların Kullanım Süresi
+Madde
+17 — Tahsisli numaraların
+kullanım süresi, ilgili yetkilendirme süresi ile sınırlıdır. Kurum,
+yetkilendirmesi sona eren veya fesh/iptal edilenlerden, ilgili yetkilendirme
+kapsamında kendilerine tahsis edilmiş numaraları geri alır.
+Kullanım
+Koşulları
+Madde
+18 — Tahsis edilen numaraların
+kullanımında aşağıdaki koşullar geçerlidir:
+a)
+Tahsis edilen numaralar bu Yönetmelik hükümlerine ve başvuruda belirtilen
+amaca uygun olarak kullanılır.
+b)
+İkincil ve müteakip tahsisler, birincil tahsisin amacına uygun olarak yapılır.
+c)
+Tahsis edilen numaralar, rekabeti
+bozacak, tüketici haklarını ihlal edecek şekilde kullanılamaz.
+d)
+Tahsisli numaralar, Kurumun izni olmadan başkasına devredilemez.
+e)
+Birleşme veya devralmalarda, tahsisli numaraların kullanım hakkına ilişkin
+düzenlemeler Kurum tarafından yapılır.
+f)
+Tahsis edilen numaralar, numara türleri ile ilişkili tarife düzenlemelerine
+uygun olarak kullanılır.
+g)
+Tahsis edilen numaralar, tahsis tarihinden itibaren en geç bir (1) yıl içerisinde
+hizmete sunulur.
+h)
+Kurum tarafından tahsis edilmiş numaralar dışında ulusal numaralandırma plânından
+numara kullanılamaz.
+i)
+İşletmeci, kendisine tahsisli numaraları, ulusal numaralandırma plânında
+bulunan numaralarla karışıklığa neden olacak şekilde kullanamaz.
+j)
+Arama plânına uygun olarak bir numaraya yapılan çağrılar, çağrı yönlendirme
+ve benzeri durumlar hariç, aynı noktada sonlanır.
+Kurum,
+yukarıdaki koşullara ilave olarak, hizmet veya numara türüne özel koşullar
+getirebilir.
+DÖRDÜNCÜ
+BÖLÜM
+Numaraların
+Değiştirilmesi,
+İadesi
+veya Geri Alımı
+Tahsisli
+Numaralarda Değişiklik
+Madde
+19 — Kurum, aşağıda
+belirtilen hallerde tahsis edilen numaralarda değişiklik yapabilir:
+a)
+Millî güvenlik, kamu düzeni ve acil durum ihtiyaçlarının gerektirmesi
+halinde,
+b)
+Taraf olunan uluslararası kuruluşların düzenlemeleri doğrultusunda,
+c)
+Ulusal numaralandırma plânında yapılacak değişiklikler doğrultusunda,
+d)
+İşletmecinin talep etmesi ve Kurumun bu talebi uygun bulması durumunda.
+Kullanımda
+olan numaralarda yapılacak değişikliklerde, Kurum gerekli görmesi halinde
+ilgili tarafların görüşlerini alır ve değişikliğe yönelik kararını
+makûl bir süre öncesinden bildirir.
+Tahsisli
+Numaraların İadesi
+Madde
+20 — Kendilerine numara
+tahsisi yapılanlar kullanımda bulunmayan ve/veya ihtiyacının olmadığını
+değerlendirdiği numaraları Kuruma iade edebilir. Bu durumda iade edilen
+numaralar için Kurumdan herhangi bir hak iddiasında bulunulamaz.
+Tahsisli
+Numaraların Geri Alınması
+Madde
+21 — Kurum, tahsis edilen
+numaraları aşağıdaki hallerde, kısmen veya tamamen geri alabilir:
+a)
+Millî güvenlik, kamu düzeni ve acil durum ihtiyaçlarının gerektirmesi,
+b)
+İlgili numara kaynağına yönelik yetkilendirmenin herhangi bir nedenle sona
+ermesi,
+c)
+Bu Yönetmelik hükümlerine uyulmaması,
+d)
+Taraf olunan uluslararası kuruluşların düzenlemelerine uyumun gerekliliği,
+e)
+Tahsis edilen tüm numaraların hizmet dışı bırakılması,
+f)
+Tahsis edilen numara veya numara bloklarının tahsis tarihinden itibaren bir
+(1) yıl içerisinde hizmete verilmemesi,
+g)
+İlave numara kapasitesi ihtiyacının zorunlu kılması,
+h)
+Numaralandırmaya ilişkin yapılacak düzenlemelerin veya Ulusal numaralandırma
+plânında yapılacak değişikliklerin gerektirmesi,
+i)
+Numara tahsisine dayanak teşkil eden koşulların geçerliliğini yitirmesi
+halinde,
+j)
+Numara tahsisinin dayanağını teşkil
+eden bilgi veya belgelerin yanlış veya yanıltıcı olduğunun tespit
+edilmesi,
+Bu
+maddenin (a), (d), (g) ve (h) bentlerine dayanılarak geri alınan numaralar için
+Kurum tarafından yeni tahsis yapılabilir. Bu durumda numara tahsisi için ücret
+alınmaz.
+Tahsisli
+numaraların geri alınmasında aşağıdaki prosedür izlenir:
+a)
+Tahsisli numaraların geri alınmasına yönelik karar, gerekçesi ile birlikte,
+geri alıma kadar belli bir süre verilecek şekilde ilgili taraflara
+bildirilir. Bildirilecek süre, geri alınacak numaraların sayısı, telekomünikasyon
+sektörüne etkileri, teknik zorluklar gibi hususlar dikkate alınarak Kurum
+tarafından belirlenir.
+b)
+İşletmeciler, Kurum tarafından belirlenecek süre içerisinde şebekelerinde
+yukarıdaki fıkra hükümlerine göre gerekli düzenlemeleri
+yapar.
+BEŞİNCİ
+BÖLÜM
+İşletmecinin
+Hak ve Yükümlülükleri
+İşletmecinin
+Hakları
+Madde
+22 — Tahsisli numaralara ilişkin
+işletmecinin hakları, mülkiyet hakkı olmayıp kullanım hakkıdır. İşletmeci,
+kendisine tahsisli numaralar kapsamında, numara türüne göre, ikincil tahsis
+yapabilir. İkincil tahsisin mümkün olduğu numara türleri eklerde belirtilmiştir.
+İşletmecinin
+Yükümlülükleri
+Madde
+23 — İşletmecinin tahsisli
+numaralara ilişkin yükümlülükleri aşağıda düzenlenmiştir:
+a)
+İşletmeci, bu Yönetmelik hükümlerine, ulusal numaralandırma plânına ve
+numaralandırma konusunda Kurumun yapacağı düzenlemelere uymakla yükümlüdür.
+b)
+İşletmeci, ulusal numaralandırma plânına uygun olarak şebekelerinde
+gerekli düzenlemeleri yapar.
+c)
+İşletmeci, numara tahsisine
+dayanak teşkil eden koşulların değişmesi halinde, bu durumu değişiklik
+tarihinden itibaren bir (1) ay içerisinde Kuruma bildirmekle yükümlüdür.
+d)
+İşletmeci, kendisine münferit veya blok olarak tahsis edilen numaraları,
+hizmete verilmesini müteakip bir (1) ay içerisinde
+Kuruma bildirir.
+e)
+İşletmeci, ulusal numaralandırma plânında veya kendilerine tahsisli numara
+değişikliklerinde, iadesinde ve/veya geri alınmasında bu durumdan
+etkilenecek abonelerine uygun süre öncesinden bildirimde bulunur, eski ve yeni
+numaranın paralel çalışmasını sağlar ve eski numaraya yapılan aramalarda
+yeni numarayı bildirecek şekilde kullanıcılara Kurumun belirleyeceği şekil
+ve süre ile sesli anons hizmetini ücretsiz verir.
+f)
+İşletmeci, kendisine tahsisli tüm numaraların kaydını tutar ve Kuruma her
+yıl Şubat ayı sonuna kadar bir önceki yıla ilişkin yazılı rapor verir.
+Rapor asgarî aşağıdaki hususları içerir:
+1)
+Her bir numara türündeki abone sayısı ile numara türüne göre düzenlenmiş
+şekilde abonelere tahsisli bulunan toplam numara sayısı,
+2)
+Her bir numara türündeki tahsis edilebilir numara sayısı,
+3)
+Doğrudan Dahili Arama grupları için ayrılmış numaralar,
+4)
+Gelecekte verilecek hizmetler için boş tutulan numaraların sayısı,
+5)
+Abonelere tahsis edilenler dışında
+kullanılan numaralar ve kullanım amaçları,
+6)
+Numara kullanımına ilişkin gelecek 3 yıllık plân,
+7)
+Kurum tarafından istenen diğer bilgiler.
+ALTINCI
+BÖLÜM
+Diğer
+Hükümler
+Ulusal
+Numaralandırma Plânında Değişiklik Yapılması
+Madde
+24 — Kurum, kamu düzeni,
+acil durum veya millî güvenliğin gerektirdiği haller, taraf olunan
+uluslararası kuruluşların düzenlemeleri veya numara kapasitesi ihtiyacı
+nedeniyle ulusal numaralandırma plânında değişiklik yapabilir. Plânda yapılacak
+değişikliklerde işletmecilerin görüşleri alınır. Değişikliklerin
+uygulanması amacıyla işletmecilere uluslararası normlara uygun süre
+verilir. İşletmeciler bu değişiklikleri uygular ve gerekli önlemleri alır.
+İşletmeciler, ulusal numaralandırma plânındaki değişikliklere uyum
+sürecinde doğacak gider kalemleri için Kurumdan veya abonelerden herhangi bir
+ücret talebinde bulunamaz.
+Ulusal
+numaralandırma plânında yapılacak değişikliklerin Uluslararası Telekomünikasyon
+Birliğine bildirimi Kurum tarafından yapılır.
+Alfanümerik
+Karakter Kullanımı
+Madde
+25 Tahsis edilen numaraların
+alfanümerik olarak gösteriminde ve kullanılmasında Uluslararası Telekomünikasyon
+Birliği’nin E.161 Tavsiye Kararı esas alınır. Buna göre, harf-rakam ilişkisi
+aşağıda gösterildiği şekildedir.
+1
+2
+ABC
+3
+DEF
+4
+GHI
+5
+JKL
+6
+MNO
+7
+PQRS
+8
+TUV
+9
+WXYZ
+0
+Numara
+Taşınabilirliği
+Madde
+26 — İşletmeci, Kurumun
+numara taşınabilirliği konusunda yapacağı düzenlemelere uyar. Buna göre işletmeci,
+kendisine tahsis edilen numaralar için Kurum düzenlemelerine uygun olarak
+numara taşınabilirliği sağlamakla yükümlüdür.
+Taşıyıcı
+Seçimi
+Madde
+27 — İşletmeci, taşıyıcı
+seçimine ilişkin olarak Kurumun yapacağı düzenlemelere uyar. Çağrı bazında
+taşıyıcı seçimi kapsamında taşıyıcı seçim kodu tahsisine yönelik
+hususlar bu Yönetmeliğin ekinde düzenlenmiştir.
+Düzenlemelerin
+Yayımlanması
+Madde
+28 — Kurum, aksi yönde bir
+millî güvenlik gerekçesi olmadığı sürece bu Yönetmelik ve eklerini,
+bunlarda yapılacak değişiklikleri, kullanıma açılan numaraları ve numara
+tahsis kararlarını internet sitesinde yayımlar.
+Kurum,
+tahsisli numaraların kullanım
+durumuna ilişkin her yıl rapor düzenler ve internet sitesinde yayımlar.
+İdari
+Para Cezaları
+Madde
+29 — Bu Yönetmelik uyarınca,
+a)
+İşletmeciye tahsis edilen numaraların, başvuruda belirtilen amaca uygun
+olarak kullanılmaması durumunda veya işletmecinin yaptığı ikincil ve müteakip
+tahsislerin birincil tahsis amacına uygun olmaması durumunda işletmeciye bir
+önceki takvim yılındaki cirosunun bindebeş (% 0,5)’ine kadar,
+b)
+İşletmecinin, kendisine tahsis edilen numaraları, rekabeti bozacak şekilde
+veya diğer işletmecilerin faaliyetini engelleyecek veya şebeke bütünlüğünü
+bozacak şekilde kullanması durumunda, işletmeciye bir önceki takvim yılındaki
+cirosunun bindebeş (% 0,5)’ine kadar,
+c)
+İşletmeciye tahsis edilmiş numaraların, Kurumun izni olmadan devredilmesi
+durumunda işletmeciye bir önceki takvim yılındaki cirosunun bindeüç (%
+0,3)’üne kadar,
+d)
+Tahsis edilen numaraların, bu Yönetmelik veya ulusal numaralandırma plânına
+uygun olarak kullanılmaması durumunda, işletmeciye bir önceki takvim yılındaki
+cirosunun yüzdebir (% 1)’ine kadar,
+e)
+İşletmecinin Kurum tarafından kendisine tahsis edilmiş numaralar dışında
+ulusal numaralandırma plânından numara kullanması durumunda, işletmeciye
+bir önceki takvim yılındaki cirosunun yüzdebir (%
+1)’ine kadar,
+f)
+İşletmecinin kendisine tahsisli numaraları, ulusal numaralandırma plânında
+bulunan diğer numaralarla karışıklığa neden olacak şekilde kullanması
+durumunda, işletmeciye bir önceki takvim yılındaki cirosunun bindebeş (%
+0,5)’ine kadar,
+g)
+İşletmecinin ulusal numaralandırma plânı kapsamında şebekelerinde gerekli
+düzenlemeleri yapmaması veya kasıtlı olarak geciktirmesi durumunda, işletmeciye
+bir önceki takvim yılındaki cirosunun yüzdeiki (% 2)’sine kadar,
+h)
+İşletmecinin bu Yönetmelik hükümlerinde belirtilen sürelere uygun olarak
+Kuruma yapacağı bildirimleri yapmaması durumunda, işletmeciye bir önceki
+takvim yılındaki cirosunun bindebeş (% 0,5)’ine kadar,
+i)
+İşletmecinin ulusal numaralandırma plânında veya kendisine tahsisli
+numaralarda yapılan değişikliklere ilişkin olarak bu Yönetmelikte
+belirtilen yükümlülükleri yerine getirmemesi durumunda, işletmeciye bir önceki
+takvim yılındaki cirosunun yüzdebir (% 1)’ine kadar,
+ihlâlin
+niteliğine göre Kurum tarafından belirlenecek oranlarda idarî para cezası
+uygulanır.
+Kurum,
+bu Yönetmelikte öngörülen idarî para cezalarının uygulanmasından önce
+ilgili işletmeciye Kurul kararıyla belirlenecek bir süre içerisinde yükümlülüğünü
+yerine getirmesini ihtar eder. Bu süre içerisinde yükümlülüğünü yerine
+getirmeyen işletmeciye Kurul kararı ile belirlenen oranda idarî para cezası
+uygulanır.
+Bu
+madde uyarınca, idarî para cezalarının uygulanması bu Yönetmelikle
+getirilen yükümlülükleri ortadan kaldırmaz. İhlal konusu fiilin tekrarı
+veya devamı halinde işletmecinin bir önceki takvim yılındaki cirosunun yüzdeüç
+(% 3)’ünü aşmamak kaydıyla idarî para cezası uygulanır. İhlalin tekerrürü
+halinde, idarî para cezalarına ek olarak bu Yönetmelikte yer alan tahsisli
+numaraların geri alınmasına ilişkin hükümler
+uygulanır.
+01.08.2002
+tarih ve 24833 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren
+"Telekomünikasyon Kurumu Tarafından İşletmecilere Uygulanacak İdari
+Para Cezalarına İlişkin Yönetmelik" hükümleri saklıdır.
+Yönetmeliğin
+Ekleri
+Madde
+30 — Bu Yönetmeliğin
+Ekleri, Numara Türlerine Özel Ekler (EK-A) ve Başvuru Formlarından (EK-B)
+oluşur.
+Kurum
+bu Yönetmeliğe ilave olarak, numara türlerine özel ekler yayımlayabilir.
+Tahsisli
+Numaralar
+Madde
+31 — Bu Yönetmeliğin ilgili
+hükümleri, bu Yönetmelik yürürlüğe girinceye kadar yapılmış numara
+tahsisleri için de uygulanır.
+Numaralandırma
+Komitesi
+Madde
+32 — Kurum, bu Yönetmelik hükümlerinin
+uygulanması sırasında veya numaralandırmaya ilişkin düzenlemelerde gerek
+duyulan konularda çalışmalar yapmak üzere, ilgili işletmecilerden
+temsilcilerin katılımı ile numaralandırma komitesi teşkil edebilir. Komite,
+çalışma konuları ile çalışma usûl ve esaslarını kendisi belirler.
+Komiteye gerekli görülmesi halinde, telekomünikasyon sektöründe üretici
+firmalar, tüketicileri
+temsilen ilgili dernek veya kuruluş temsilcileri, üniversiteler ile ilgili
+kurum ve kuruluşlardan temsilciler veya uzmanlar davet edilir.
+Kaldırılan
+Hükümler
+Madde
+33 — Bu Yönetmelikle,
+23/06/2003 tarihli ve 2003/241 sayılı Telekominikasyon Kurulu kararı ile yürürlüğe
+giren Üç Haneli Kısa Numaralara İlişkin Usûl ve Esaslar yürürlükten
+kaldırılmıştır. Bu Yönetmeliğin yürürlüğe girdiği tarihe kadar Üç
+Haneli Kısa Numaralara İlişkin Usûl ve Esaslara yapılmış atıflar, bu Yönetmeliğe
+yapılmış sayılır.
+Hüküm
+Bulunmayan Haller
+Madde
+34 — Numaralandırma kapsamında
+bu Yönetmelikte hüküm bulunmayan haller için tebliğ veya Kurul kararı ile
+düzenleme yapılır.
+Geçici
+Hükümler
+Geçici
+Madde 1 — Bu Yönetmeliğin yürürlüğe
+girmesini müteakip üç (3) ay içerisinde, bu Yönetmelik kapsamında bulunan
+ve tahsis edilmemiş boş numara ve numara blokları Kurum tarafından devralınır.
+Türk Telekom numaraların kullanım durumu bilgisini ve kanıtlayıcı bilgi ve
+belgeleri Kuruma verir.
+Devir
+işlemi yapılıncaya kadar, Kurum, talep edilen numara kaynağının durumuna yönelik
+olarak gerekli gördüğü takdirde Türk Telekom ile koordinasyon yaparak, başvuru
+sahiplerine bu Yönetmelik hükümlerine uygun olarak numara tahsisi yapar.
+Yürürlük
+Madde
+35 — Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+Madde
+36 — Bu Yönetmelik hükümlerini
+Telekomünikasyon Kurulu Başkanı yürütür.
+NUMARALANDIRMA YÖNETMELİĞİNİN EKLERİ.doc
