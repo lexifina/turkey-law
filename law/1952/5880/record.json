@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5880",
+  "year": 1952,
+  "title": "Sağlık ve Sosyal Yardım Bakanlığı Kuruluş ve Memurları Kanununa Ek 4862 Sayılı Kanuna Bağlı Kadro Cetvellerinde Değişiklik Yapılmasına ve 4871 Sayılı Kanunun 3 ncü Maddesinin 2 nci Fıkrasının Kaldırılmasına Dair Kanun",
+  "adopted": "1952-02-13",
+  "adopted_as_published": "13/02/1952",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.02.1952 No: 8039",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405880.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 34",
+  "committee_reports": [
+    {
+      "label": "TBMM 99 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013038ss0099.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 62044,
+      "title": "Sağlık ve Sosyal Yardım Bakanlığı Kuruluş ve Memurları Kanununa Ek 4862 Sayılı Kanuna Bağlı Kadro Cetvellerinde Değişiklik Yapılmasına ve 4871 Sayılı Kanunun 3 ncü Maddesinin 2 nci Fıkrasının Kaldırılmasına Dair Kanun",
+      "adopted_as_published": "13/02/1952",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405880.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 99 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013038ss0099.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 13,
+          "sitting": 34,
+          "sitting_date": "1952-02-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 37,
+          "sitting_date": "1952-02-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013fih.pdf",
+          "pages": [
+            "96"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 38,
+          "sitting_date": "1952-02-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013fih.pdf",
+          "pages": [
+            "186:187",
+            "245:253"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=746&v_gelecek_sayfa=101&v_kullanici_id=27483180",
+      "page_sha256": "d5209beaac12ed93dc94c226398bc069387213d91b438920adaa01fcd682b822"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d5209beaac12ed93dc94c226398bc069387213d91b438920adaa01fcd682b822",
+  "issuer": "TBMM",
+  "in_force": "1952-02-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 13/02/1952; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
