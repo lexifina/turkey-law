@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6918",
+  "year": 1957,
+  "title": "1956 malî yılı Muvazenei Umumiye Kanununa bağlı (A/1) ve (A/2) işaretli cetvellerde değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-02-23",
+  "gazette_issue": "9543",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9543.pdf",
+  "source_sha256": "6868a0b19c2a64eda94db2184d3cc77cac74b351ffa375d33cc5ea968142c8d3",
+  "text_sha256": "e655baa2a644300ce9df104f331c8b7b224df834de269136bb46ea68a30b9a02",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      980,
+      1017
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906918.pdf",
+    "source_sha256": "9691e0e530e2b2b13029953201259f69c3875c648a724369561e64cfb4ceda96",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9415,
+    "bag": 0.9172,
+    "kd_coverage": 0.9717,
+    "kd_body_compared": 0.2958,
+    "rg_words": 143,
+    "kd_words": 497,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
