@@ -1,0 +1,136 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1577",
+  "year": 1972,
+  "title": "6990 sayılı Atatürk Üniversitesi kuruluş Kanununa ek Kanun",
+  "adopted": "1972-03-25",
+  "adopted_as_published": "25/03/1972",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "02.04.1972 No: 14147",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501577.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 55",
+  "committee_reports": [
+    {
+      "label": "MM 494 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c022/mm__03022051ss0494.pdf"
+    },
+    {
+      "label": "CS 83no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004043ss0083.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 387504,
+      "title": "6990 sayılı Atatürk Üniversitesi kuruluş Kanununa ek Kanun",
+      "adopted_as_published": "25/03/1972",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501577.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 494 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c022/mm__03022051ss0494.pdf"
+        },
+        {
+          "label": "CS 83no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004043ss0083.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 20,
+          "sitting": 33,
+          "sitting_date": "1972-01-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020fih.pdf",
+          "pages": [
+            "458"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 48,
+          "sitting_date": "1972-02-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c022/mm__03022048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c022/mm__03022fih.pdf",
+          "pages": [
+            "110"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 51,
+          "sitting_date": "1972-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c022/mm__03022051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c022/mm__03022fih.pdf",
+          "pages": [
+            "559:560"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=801&v_kullanici_id=27483225",
+      "page_sha256": "a5c6fd2bb5c9b73d64ad49838a3a54a257c189cf96cdf2bd05acb20e57852516"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 319830,
+      "title": "6990 sayılı Atatürk Üniversitesi Kuruluş Kanununa ek Kanun",
+      "adopted_as_published": "25/03/1972",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501577.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 494 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c022/mm__03022051ss0494.pdf"
+        },
+        {
+          "label": "CS 83no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004043ss0083.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 37,
+          "sitting_date": "1972-02-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c003/cs__11003037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c003/cs__11003fih.pdf",
+          "pages": [
+            "586"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 43,
+          "sitting_date": "1972-03-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004fih.pdf",
+          "pages": [
+            "173",
+            "174:176"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1501&v_kullanici_id=27483235",
+      "page_sha256": "90862d0a2d3ca4f6b8e6290e83307dc4f5ad5af6e60426a878c750f3d8f66877"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a5c6fd2bb5c9b73d64ad49838a3a54a257c189cf96cdf2bd05acb20e57852516",
+  "issuer": "Millet Meclisi",
+  "in_force": "1972-03-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 25/03/1972; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
