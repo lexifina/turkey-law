@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 68602,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "İZZET AKIN (VAN)",
+  "summary": "İskân Kanununu tadil eden 5098 sayılı Kanunun 12. maddesinin değiştirilmesi ve yasaklığı kaldırılan yerlerle 5227 sayılı Kanunun 1. maddesinin 4. bendinde zikredilen idareten boşaltılmış bölgelerde köyler teşkili ve halkının yerleştirilmesi hakkındaki 5826 sayılı Kanunun 2. maddesinin son fıkrasiyle 3. maddesinin A bendinin kaldırılmasına, 4. maddesinin tadiline ve aynı kanuna yeniden bazı hükümler ilâvesine dair (2/518)",
+  "title": "İskân Kanununu tadil eden 5098 sayılı Kanunun 12. maddesinin değiştirilmesi ve yasaklığı kaldırılan yerlerle 5227 sayılı Kanunun 1. maddesinin 4. bendinde zikredilen idareten boşaltılmış bölgelerde köyler teşkili ve halkının yerleştirilmesi hakkındaki 5826 sayılı Kanunun 2. maddesinin son fıkrasiyle 3. maddesinin A bendinin kaldırılmasına, 4. maddesinin tadiline ve aynı kanuna yeniden bazı hükümler ilâvesine dair (2/518)",
+  "first_sitting_date": "1953-04-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 68,
+      "sitting_date": "1953-04-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c021/tbmm09021068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c021/tbmm09021fih.pdf",
+      "pages": [
+        "367"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 77,
+      "sitting_date": "1953-05-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c022/tbmm09022077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c022/tbmm09022fih.pdf",
+      "pages": [
+        "33:34"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 90,
+      "sitting_date": "1953-06-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c023/tbmm09023090.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c023/tbmm09023fih.pdf",
+      "pages": [
+        "3"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=676&v_gelecek_sayfa=501&v_kullanici_id=27484220",
+  "source_sha256": "e5f1a9a88c2ae136a10ad394c2949fc810a7e4983576aecfa1ad85f2284f89ba",
+  "in_force": "1953-04-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
