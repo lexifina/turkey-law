@@ -1,6 +1,22 @@
 MEVZUATI GÖSTERİR LİSTE
-4760 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
-MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
-GÖSTERİR LİSTE
-Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4760 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
-4962 | 7, 8, 12, GEÇİCİ MADDE 3, (I) sayılı liste | 7/8/2003
+4760 SAYILI KANUNUN EKİ CETVELLERDE DEĞİŞİKLİK YAPAN
+MEVZUATI GÖSTERİR LİSTE
+Mevzuatın | Yayımlandığı Resmi Gazete’nin
+Türü | Numarası | Tarihi | Numarası
+B.K.K | 2004/7640 | 1/8/2004 | 25540
+B.K.K | 2004/7674 | 10/8/2004 | 25549
+B.K.K | 2004/7730 | 9/8/2004 | 25563
+B.K.K | 2004/7792 | 29/8/2004 | 25568 (Mükerrer)
+B.K.K | 2004/7814 | 9/9/2004 | 25578
+B.K.K | 2004/7888 | 23/9/2004 | 25592
+B.K.K | 2004/7890 | 28/9/2004 | 25597
+B.K.K | 2004/7893 | 30/9/2004 | 25599
+B.K.K | 2004/8021 | 21/10/2004 | 25620
+B.K.K | 2004/8032 | 2/11/2004 | 25631
+B.K.K | 2004/8059 | 9/11/2004 | 25638
+B.K.K | 2004/8118 | 3/12/2004 | 25659
+B.K.K | 2004/8128 | 4/12/2004 | 25660
+B.K.K | 2004/8187 | 18/12/2004 | 25674
+B.K.K | 2004/8229 | 25/12/2004 | 25681
+B.K.K | 2004/8266 | 31/12/2004 | 25687(3.Mükerrer)
+KANUN | 5281 | 31/12/2004 | 25687(3.Mükerrer)
