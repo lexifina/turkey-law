@@ -1,0 +1,97 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3981",
+  "year": 1994,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Gürcistan Cumhuriyeti Hükümeti Arasında Eğitim, Bilim, Kültür ve Spor Alanlarında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "1994-04-05",
+  "adopted_as_published": "05/04/1994",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09.04.1994 No: 21900",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703981.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 77",
+  "committee_reports": [
+    {
+      "label": "TBMM 227 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c056/tbmm19056084ss0227.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 268610,
+      "title": "Türkiye Cumhuriyeti Hükümeti ve Gürcistan Cumhuriyeti Hükümeti Arasında Eğitim, Bilim, Kültür ve Spor Alanlarında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "05/04/1994",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703981.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 227 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c056/tbmm19056084ss0227.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 18,
+          "sitting": 13,
+          "sitting_date": "1992-10-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c018/tbmm19018013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c018/tbmm19018fih.pdf",
+          "pages": [
+            "394"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 53,
+          "sitting_date": "1993-01-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c027/tbmm19027053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c027/tbmm19027fih.pdf",
+          "pages": [
+            "14"
+          ]
+        },
+        {
+          "cilt": 56,
+          "sitting": 84,
+          "sitting_date": "1994-03-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c056/tbmm19056084.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c056/tbmm19056fih.pdf",
+          "pages": [
+            "244:245",
+            "247",
+            "294:298"
+          ]
+        },
+        {
+          "cilt": 56,
+          "sitting": 85,
+          "sitting_date": "1994-04-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c056/tbmm19056085.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c056/tbmm19056fih.pdf",
+          "pages": [
+            "319",
+            "345",
+            "390:394"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=201&v_kullanici_id=27483194",
+      "page_sha256": "2ed704f93574c719c805e61fefaefa27aa942ed14954cfb0a63361110561de0c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2ed704f93574c719c805e61fefaefa27aa942ed14954cfb0a63361110561de0c",
+  "issuer": "TBMM",
+  "in_force": "1994-04-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 05/04/1994; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
