@@ -1,0 +1,1 @@
+Madde 9 – Bu talimatname mucibince defterler, alınacak taahhütname vesair vesikalar Vilayette Milli Emlak Müdürlüğünde, Kazalarda Milli Emlak olan yerlerde bu memurlukça, olmayan yerlerde Varidat Memurluğunca tutulur ve muhafaza olunur.

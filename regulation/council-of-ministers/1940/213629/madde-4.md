@@ -1,0 +1,1 @@
+Madde 4 – Tarla, bağ, bahçe, meyvelik ve emsali topraklar içindeki evlerle birlikte, bunların hukuki vaziyetleri teayyün ettikten sonra kendilerine tefviz imkanları araştırılmak üzere, bu yerleri işletecek evsaf ve kaabiliyetteki metrük ziraat erbabını idare ve muhafazaları altına konur. Ve bu gayrimenkullerin hasılatı, muhafaza ücreti olarak kendilerine terk olunur.

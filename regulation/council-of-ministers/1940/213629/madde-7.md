@@ -1,0 +1,1 @@
+Madde 7 – Şehir ve kasaba dahilindeki binalar kiraya verilmek suretiyle idare edilir. Ancak muhacir, mülteci ve naklolunan şahıslar 4 - 5. maddelerdeki şartlar dahilinde bu binalara yerleştirilebilirler. İcara verilen gayrimenkuller için ayrıca bir defter tanzim olunur.

@@ -1,0 +1,1 @@
+Madde 1 – Hatay'ın Anavatana ilhakı dolayısiyle Türkiye haricine göç eden şahıslardan metrük gayrimenkullerin harabinden vikaye ve muhafazalarını temin maksadiyle Vekiller Heyetince müttehaz 31/5/1940 tarih ve 2/13629 numaralı Kararname Hatay Vilayetince işbu talimatname dairesinde tatbik olunur.
