@@ -1,0 +1,2 @@
+Madde 9- a) Sınav sonuçları, adaylar hakkında gerekli güvenlik tahkikatı yapıldıktan sonra başarı sırasına göre ilgili birimlerce ilan edilir.
+b) Dış Kuruluşlarda yapılan sınavı kazanan adayın atamasının yapılabilmesi için, sınava ait tutanağın imtihan kağıtları ile birlikte Personel Dairesince incelenerek İşbu Yönetmeliğe uygunluklarının tespit edilmesi ve adaylar hakkında yapılacak güvenlik tahkikatının olumlu sonuçlanması gerekmektedir. Sınav sonuçları ancak bu işlemler tamamlandıktan sonra ilgili birimce açıklanabilir.

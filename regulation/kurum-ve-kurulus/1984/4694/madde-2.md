@@ -1,0 +1,1 @@
+Madde 2- Sınava katılmak isteyenler sınav tarihinden en az iki hafta önceye kadar bir dilekçe ve adaylarda aranan nitelikleri haiz olduğunu ispatlayıcı belgelerle ilgili birime müracaatla kayıtlarını yaptırırlar.

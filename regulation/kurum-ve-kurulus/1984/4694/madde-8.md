@@ -1,0 +1,1 @@
+Madde 8- Sınav Kurulu Başkanı ve üyeleri tarafından sınav sonunda adayların aldıkları notları gösteren sınav tutanağı düzenlenir. Sınav tutanağı imtihan kağıtları ile birlikte Personel Dairesi Başkanlığına iletilir.

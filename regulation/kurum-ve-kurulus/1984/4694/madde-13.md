@@ -1,0 +1,1 @@
+Madde 13- Sınava katılanlar sınav sonuçlarına yazılı olarak itiraz edebilirler. İtirazlar, sınav sonuçlarının ilanından itibaren yedi gün içinde bir dilekçe ile Bakanlık Personel Dairesi Başkanlığına dış kuruluşlarda da ilgili misyona yapılır. Bu itirazlar Sınav kurulunca incelenir, bu ikinci incelemeden sonra verilecek notlar kesindir.
