@@ -1,0 +1,74 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3301",
+  "year": 1938,
+  "title": "Türkiye Cumhuriyeti ile Sovyet Cumhuriyetleri İttihadı arasında akid ve imza edilmiş olan 16 mart 1931 tarihli ticaret ve seyrisefain mukavelesi müddetinin uzattlmasının tasdikına dair kanun",
+  "adopted": "1938-01-03",
+  "adopted_as_published": "03/01/1938",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "11.01.1938 No: 3805",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803301.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 18",
+  "committee_reports": [
+    {
+      "label": "TBMM 37 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c021/tbmm05021021ss0037.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104515,
+      "title": "Türkiye Cumhuriyeti ile Sovyet Cumhuriyetleri İttihadı arasında akid ve imza edilmiş olan 16 mart 1931 tarihli ticaret ve seyrisefain mukavelesi müddetinin uzattlmasının tasdikına dair kanun",
+      "adopted_as_published": "03/01/1938",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803301.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 37 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c021/tbmm05021021ss0037.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 21,
+          "sitting": 21,
+          "sitting_date": "1937-12-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c021/tbmm05021021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c021/tbmm05021fih.pdf",
+          "pages": [
+            "123"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 23,
+          "sitting_date": "1938-01-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c022/tbmm05022023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c022/tbmm05022fih.pdf",
+          "pages": [
+            "4",
+            "8",
+            "16",
+            "21:24"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=920&v_gelecek_sayfa=401&v_kullanici_id=27483162",
+      "page_sha256": "5d4c9d05a21c82ead5c5c2152fe5952714bb55e2f4c368e0093bff3034e32ca3"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5d4c9d05a21c82ead5c5c2152fe5952714bb55e2f4c368e0093bff3034e32ca3",
+  "issuer": "TBMM",
+  "in_force": "1938-01-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 03/01/1938; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
