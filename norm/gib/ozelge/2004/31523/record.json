@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5317-1922-3131",
+  "source_id": 31523,
+  "date": "2004-01-22",
+  "title": "Hurda ve atık mahiyetindeki metal, plastik, kağıt ve camin müdürlüğünüz tarafından tesliminde, istisna kapsamında işlem yapılması gerekmektedir. Bu ürünlerin ithalide vergiden müstesnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31523",
+  "source_sha256": "4dc4d71495be4dcddfced9302d011d589a3d0fb5f58ca77a01b9503322498ed9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
