@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.GEL 0. 56/5601- 846/27239",
+  "source_id": 36812,
+  "date": "1997-06-30",
+  "title": "Kur farklarının banka ve sigorta muameleleri vergisine tabi olup olmadığı hakında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36812",
+  "source_sha256": "f8f7c4c8c393de7e329ff20a43b5b80da13a6404c183f40108078e0f5631b46d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
