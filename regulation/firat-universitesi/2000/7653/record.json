@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 17 - Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2000-02-14",
+      "14.02.2000",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 17 - Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "23964",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2000-02-14",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Fırat Üniversitesi",
+  "issuer_slug": "firat-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/firat-universitesi/2000/7653",
+  "published": "2000-02-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7653&MevzuatTertip=5",
+  "source_bytes": 29203,
+  "source_id": "8.5.7653",
+  "source_sha256": "2bfb029d12a22a62f1202c2bb4ab203c003f8017f378e45931d20dbe0532b157",
+  "text_status": "as-enacted",
+  "title": "FIRAT ÜNİVERSİTESİ DOĞAL AFETLER ARAŞTIRMA MERKEZİ\r\nYÖNETMELİĞİ",
+  "university_id": 193,
+  "word_count": 713
+}

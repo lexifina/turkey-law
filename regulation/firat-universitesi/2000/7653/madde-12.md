@@ -1,0 +1,2 @@
+Danışma Kurulu
+Madde 12 - Fırat Üniversitesi'nin doğal afetlerle ilgili programlarının anabilim dalı ve bölüm başkanlarıyla, bunların bulundukları Fakülte ve Yüksekokul yöneticilerinden oluşur. Ayrıca Tıp Fakültesi öğretim üyelerinden ilk ve acil yardım anabilim dalından ve psikiyatri anabilim dalından bir öğretim üyesi Fakülte Dekanlığınca bu kurulda görev yapmak üzere görevlendirilir. Yılda en az bir defa toplanarak merkezin çalışmaları ile ilgili görüş ve emirlerini Yönetim Kurulu 'na bildirir.
