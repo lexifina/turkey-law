@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-10-17",
+  "issue": "24909",
+  "edition": "regular",
+  "item": 63,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Taşköprü Devlet Orman İşletmesi Müdürlüğünden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/10/20021017-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (75 = 75)",
+  "ilan_codes": [
+    "28900/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/10/20021017-3.htm",
+  "category_page_sha256": "34dbe37cf6be7341ade5683212fbe5b7be676ffce8495dadb249d0793871f9ae",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/10/20021017.htm",
+  "index_sha256": "225cec8e5468e488d5f9ca07d2811a6bc49113d3deb025c699113a68c551882a",
+  "index_header": "17 Ekim 2002 ... Sayı : 24909",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
