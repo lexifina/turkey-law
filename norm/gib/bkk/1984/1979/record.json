@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "84/8791",
+  "source_id": 1979,
+  "date": "1984-12-02",
+  "title": "VERGİ İADESİ UYGULAMASINDAN DOĞAN CEZALAR İLE 1984 YILINA AİT VERGİ İADE BEYANNAMESİNİN VERİLME SÜRESİNİN UZATILMASI VE VERGİ İADE ORANLARININ DEĞİŞTİRİLMESİ HAKKINDA KARAR",
+  "source": "https://gib.gov.tr/mevzuat/kanun/589/bkk/1979",
+  "related_law": "2978 sayılı VERGİ İADESİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "a4343aa78ea3d5417dba612e345f1c52ada89e56f598774384bf2133b68b3478",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
