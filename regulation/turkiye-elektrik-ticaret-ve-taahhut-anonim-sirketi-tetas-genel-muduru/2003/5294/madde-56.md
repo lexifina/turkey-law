@@ -1,0 +1,8 @@
+İhalenin Karara Bağlanması ve Onaylanması
+Madde 56- Yapılan değerlendirmeler sonucunda; ihale, en uygun (ekonomik açıdan en avantajlı) teklifi veren isteklinin üzerinde bırakılır. En uygun teklif; teklif fiyatı, işletme ve bakım maliyeti, verimlilik, kalite ve teknik üstünlükler gibi unsurlar dikkate alınarak belirlenir.
+Ekonomik açıdan en avantajlı teklifin, fiyat dışındaki unsurlar da dikkate alınarak belirleneceği ihalelerde, ihale dokümanında bunu belirleyen unsurların açıkça ifade edilmesi zorunludur.
+İhale dokümanında, yerli istekliler lehine fiyat avantajı sağlanacağı belirtilen ihalelerde, bu fiyat avantajı da uygulanmak suretiyle ekonomik açıdan en avantajlı teklif belirlenerek ihale sonuçlandırılır.
+En düşük fiyatın, ekonomik açıdan en avantajlı teklif olarak değerlendirildiği ihalelerde, birden fazla istekli tarafından aynı fiyatın teklif edildiği ve bunların da ekonomik açıdan en avantajlı teklif olduğu anlaşıldığı takdirde, ikinci fıkrada belirtilen fiyat dışındaki unsurlar dikkate alınmak suretiyle veya 53 ncü maddeye göre açık eksiltme yapılarak ekonomik açıdan en avantajlı teklif belirlenir ve ihale sonuçlandırılır.
+İhale komisyonu gerekçeli kararını belirleyerek, ihaleyi yetki limitlerine göre onaya sunar. Kararlarda isteklilerin adları veya ticaret unvanları, teklif edilen bedeller, ihalenin tarihi ve hangi istekli üzerine hangi gerekçelerle yapıldığı, ihale yapılmamış ise nedenleri belirtilir.
+Onay mercii, karar tarihini izleyen en geç yirmi bir takvim günü içinde ihale kararını onaylar veya yeniden görüşülmek üzere Komisyona iade eder yada gerekçesini açıkça belirtmek suretiyle ihaleyi iptal eder.
+İhale; kararın onaylanması halinde geçerli, iptal edilmesi halinde ise hükümsüz sayılır.

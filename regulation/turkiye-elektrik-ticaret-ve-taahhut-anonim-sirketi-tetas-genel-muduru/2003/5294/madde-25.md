@@ -1,0 +1,9 @@
+Belli İstekliler Arasında İhale Usulü
+Madde 25- Belli istekliler arasında ihale usulü; ihtiyacın özelliğine göre talep sahibi birimin teklifi ve ihale yetkilisinin onayı ile Teşekkülce yeterli görülen firmaların ihaleye davet edilmesi suretiyle yapılan ihale usulüdür.
+Teşekkül, ihtiyacın özelliklerine göre ihaleye davet edeceği firmaları talep sahibi birimin teklifi ve ihale yetkilisinin onayı ile belirleyebileceği gibi, ilan vermek suretiyle yapacağı ön yeterlik ihalesi sonucunda da belirleyebilir.
+Teşekkül gerekli gördüğü ihaleyi, yetki limitlerine göre onay merciinden gerekçeli onay almak suretiyle yukarıda belirtilen usullerden birisi ile yapabilir.
+İşin özelliğinin uzmanlık ve/veya yüksek teknoloji gerektirmesi nedeniyle açık ihale usulünün uygulanamadığı mal veya hizmet alımları ile yapım işlerinin ihalesi bu usule göre yaptırılabilir.
+Bu usule göre yapılacak ihalelerde davet edilecek firmaların belirlenmesi için ön yeterlilik ihalesi yapılacaksa; adayların başvurularını hazırlayabilmeleri için en az on takvim günü süre tanınarak ön yeterlik ilânı yapılır. Ön yeterlik dokümanı ile ön yeterlik ilânında belirtilen değerlendirme kriterlerine göre adayların ön yeterlik değerlendirmesi yapılır. Belirtilen asgari yeterlik koşullarını sağlayamayanlar yeterli kabul edilmez. Yeterli olduğu tespit edilen bütün adaylara ihaleye davet mektubu gönderilir.
+İşin niteliğine göre rekabeti engellemeyecek şekilde ihale dokümanı ile davet mektubunda belirtilen değerlendirme kriterlerine göre tekliflerin değerlendirmesi yapılarak ihale sonuçlandırılır.
+İhaleye davet edilen firmalardan teklif veren istekli sayısının üçten az olması halinde ihale iptal edilir.
+Teklif veren istekli sayısının üçten az olması nedeniyle ihalenin iptal edilmesi durumunda, ihale dokümanı gözden geçirilerek varsa hatalar ve eksiklikler giderilmek suretiyle, yeterliği tespit edilen bütün istekliler tekrar davet edilerek ihale sonuçlandırılabilir.

@@ -1,0 +1,2 @@
+İthalat ve İhracat İşlemleri
+Madde 65- İthalatla ilgili her türlü işlemler Teşekkül tarafından yapılır/yaptırılır. Bütün dış piyasa alımları ile ilgili; yurt dışında transfer şeklinde yapılacak kambiyo mevzuatına tabi mal ve hizmet bedeli ödemeleri, sevkiyatın ve giriş işlemlerinin takibi, sonuçlandırılması, gelen malların yerine teslimi, yürütülen ve sözleşmeleri yapılan işler için gerektiğinde teşvik alınması-kapatılması ve gümrük işlemleri Ticaret ve Yatırım Müdürlüğünce yapılır.

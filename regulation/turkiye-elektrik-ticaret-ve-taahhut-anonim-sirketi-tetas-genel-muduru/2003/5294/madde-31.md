@@ -1,0 +1,2 @@
+İhtiyaç talep esasları
+Madde 31- Alımlar, talep sahibi ünitece düzenlenen ve gerekli idari ve teknik bilgileri tam olarak kapsayan, yetki limitlerine göre onaylı ihale belgelerine dayanılarak satınalma ve ihale organı tarafından ödeneği dahilinde yapılır. Alım tutarının bildirilen ödeneği aşacağının anlaşılması halinde alım yapılmaz ve ek ödenek sağlanması için durum, alımın yapılmasını talep sahibi birime bildirilir.

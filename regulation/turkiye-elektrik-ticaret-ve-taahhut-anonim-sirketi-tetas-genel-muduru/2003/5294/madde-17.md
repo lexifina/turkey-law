@@ -1,0 +1,2 @@
+Satınalma ve İhale Komisyonu Kararları
+Madde 17- Satınalma ve ihale komisyonlarında kararlar çoğunlukla alınır. Başkan ve üyeler tek oy sahibidir. Üyeler çekimser oy kullanamazlar. Muhalif kalan üye, muhalefet sebeplerini karara yazarak imzalar. Böyle durumlarda onay mercii gerekli incelemeyi yapar ve kararını verir. İhaleye çıkma, teklif zarfları açma, eksik belgelerin tamamlanması ve indirim isteme kararları hariç olmak üzere, diğer satınalma ve ihale komisyonu kararları yetki limitine göre onay merciinin onayı ile yürürlüğe girer.

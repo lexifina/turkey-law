@@ -1,0 +1,2 @@
+İhale Kapsamını Artırma veya Eksiltme
+Madde 70- Malzeme ve hizmet siparişlerinde, ihale safhasında veya sözleşme süresi içerisinde doğacak ihtiyaçların karşılanması için, fiyat ve piyasa durumları bakımından fayda görülmesi halinde; sözleşmeden önce yaklaşık maliyetin veya sözleşmeden sonra sözleşme bedelinin %30’una kadar, yetki limitleri dahilinde, ihale makamının onayı ile ihale kapsamında artırma veya eksiltme yapılabilir.

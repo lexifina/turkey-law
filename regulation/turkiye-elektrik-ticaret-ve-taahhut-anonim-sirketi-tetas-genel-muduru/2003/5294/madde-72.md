@@ -1,0 +1,2 @@
+Sözleşmenin Feshi
+Madde 72- Yüklenicinin sözleşme hükümlerine uymaması durumunda, yükleniciye sözleşmesinde belirtilen usulde ihtarda bulunulur. Yüklenicinin sözleşme hükümlerine aykırı tutumunun devam etmesi halinde ise mevcut sözleşme ihale yetkilisinin onayı ile feshedilerek kesin teminatı gelir kaydedilir. Taahhüdün kalan kısmı için Borçlar Kanununa göre işlem yapılır. Sözleşmenin feshi ile ilgili hususlar idari şartnamelerde açıkça belirtilir.

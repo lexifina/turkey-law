@@ -1,0 +1,2 @@
+Sözleşme Yapılmasında Teşekkülün Görev ve Sorumluluğu
+Madde 62- Teşekkül, belirlenen süre içinde sözleşme yapılması hususunda kendisine düşen görevleri yapmakla yükümlüdür. Teşekkülün bu yükümlülüğü yerine getirmemesi halinde, ihaleyi kazanan istekli sürenin bitmesini izleyen günden itibaren en geç beş takvim günü içinde, on takvim günü süreli bir noter ihbarnamesi ile bildirmek şartıyla taahhüdünden vazgeçebilir. Bu takdirde, geçici teminat geri verilir ve istekli teminat vermek için yaptığı belgelendirilmiş giderleri istemeye hak kazanır.

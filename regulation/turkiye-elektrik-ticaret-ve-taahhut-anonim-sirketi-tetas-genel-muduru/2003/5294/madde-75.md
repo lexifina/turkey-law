@@ -1,0 +1,2 @@
+Süre Uzatımı Başvurusu
+Madde 75- Süre uzatımı konusu, yüklenicinin sözleşmesindeki süre ve koşullara uygun talebi halinde incelenebilir. Süre uzatımının verilebilmesi için oluşan nedenlerin sözleşme süresi içerisinde meydana gelmesi ve yüklenicinin belgeleriyle birlikte zorunlu nedenin meydana geldiği tarihten itibaren 7 gün içinde Teşekküle müracaatı esastır. Süre uzatımını gerektiren sebebin ortadan kalktığı tarih, yüklenici tarafından ayrıca belgelendirilecektir. Süre uzatımı, ihale yetkilisinin onayından sonra verilir.

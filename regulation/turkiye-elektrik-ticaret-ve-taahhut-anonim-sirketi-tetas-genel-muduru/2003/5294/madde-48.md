@@ -1,0 +1,13 @@
+Geçici Teminat ve Teminat Olarak Kabul Edilecek Değerler
+Madde 48- İhalelerde, teklif edilen bedelin % 3’ünden az olmamak üzere istekli tarafından verilecek tutarda geçici teminat alınır. İhale dokümanında belirtilmesi şartıyla, danışmanlık hizmeti ihalelerinde geçici teminat alınması zorunlu değildir.
+Teminat olarak kabul edilecek değerler aşağıda gösterilmiştir:
+a) Tedavüldeki Türk Parası,
+b) Bankalar ve özel finans kurumları tarafından verilen teminat mektupları.
+c) Hazine Müsteşarlığınca ihraç edilen devlet iç borçlanma senetleri ve bu senetler yerine düzenlenen belgeler,
+d) İlgili mevzuatına göre Türkiye'de faaliyette bulunmasına izin verilen yabancı bankaların düzenleyecekleri teminat mektupları ile Türkiye dışında faaliyette bulunan banka veya benzeri kredi kuruluşlarının kontrgarantisi üzerine Türkiye'de faaliyette bulunan bankaların veya özel finans kurumlarının düzenleyecekleri teminat mektupları,
+(c) bendinde belirtilen senetler ve bu senetler yerine düzenlenen belgelerden nominal değere faiz dahil edilerek ihraç edilenler, anaparaya tekabül eden satış değeri üzerinden teminat olarak kabul edilir.
+Teminat mektupları dışındaki teminatlar, Mali İşler ve Finans Yönetimi Dairesi Başkanlığına yatırılır. Firmalar banka teminat mektuplarını veya diğer teminatlar karşılığı aldıkları makbuzları teklifleri ekine koyarlar. Banka teminat mektupları veya teminat karşılığı alınan makbuzlar dışındaki teminatlar ihale komisyonlarınca teslim alınmaz.
+Değerlendirme sonucunda teklifi şartnameye uygun bulunan ilk üç firmanın geçici teminatları sözleşmenin yürürlüğe girmesi veya opsiyon sürelerinin sonuna kadar tutulur. İhale üzerinde kalan istekli ile ekonomik açıdan en avantajlı ikinci ve üçüncü teklif sahibi isteklilere ait teminat mektupları dışında kalan isteklilere ait teminatlar firmalarına hemen iade edilir. Ancak işin ve tekliflerin niteliğine göre satınalma ve ihale organınca gerekli görülmesi halinde, diğer tekliflere ait geçici teminatlar da sözleşme imzalanmasına veya opsiyon süresinin sonuna kadar tutulabilir. İhale üzerinde kalan istekli ile sözleşme imzalanması halinde diğer isteklilere ait teminatlar sözleşmenin yürürlüğe girmesinden hemen sonra iade edilir.
+Teklifler açıldıktan sonra opsiyon süresi dolmadan teklifinden dönen veya sözleşme imzalamaktan kaçınan, sözleşmenin yürürlüğe girmesi için gerekli işlemleri tamamlamayan, teklifi ile birlikte yanıltıcı ve sahte belge veren, satınalma ve ihale işlemlerine hile ve fesat karıştıran isteklinin geçici teminatı gelir kaydedilir.
+Teminatlar, teminat olarak kabul edilen diğer değerlerle değiştirilebilir.
+Her ne suretle olursa olsun, Teşekkülce alınan teminatlar haczedilemez ve üzerine ihtiyati tedbir konulamaz.

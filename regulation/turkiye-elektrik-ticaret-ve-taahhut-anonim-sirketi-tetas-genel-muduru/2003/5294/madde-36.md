@@ -1,0 +1,25 @@
+Şartnamelerde Bulunması Gereken Hususlar
+Madde 36- İhale dokümanında; idari şartnameler ile yaptırılacak işin varsa projesini de kapsayan teknik şartnameler, sözleşme tasarısı ve gerekli diğer bilgi ve belgeler bulunur. Ön yeterlik dokümanında ise adaylarda aranılan şartlara, ön yeterlik kriterlerine ve gerekli diğer bilgi ve belgelere yer verilir.
+İdari Şartnamede, ihale konusuna göre asgari aşağıdaki hususların belirtilmesi zorunludur :
+a) İşin adı, niteliği, türü ve miktarı, hizmetlerde iş tanımı,
+b) Teşekkülün adı, adresi, telefon ve faks numarası,
+c) İhale usulü, ihale tarih ve saati ile tekliflerin verileceği adres,
+d) İsteklilere talimatlar,
+e) İsteklilerde aranılan şartlar, belgeler ve yeterlik kriterleri,
+f) İhale dokümanında açıklama isteme ve yapılma yöntemleri,
+g) Tekliflerin geçerlilik süresi,
+h) İhale konusu işin tamamına veya bir kısmına teklif verilmesinin mümkün olup olmadığı, mal alımı ihalelerinde alternatif teklif verilip verilemeyeceği,
+ı) Ulaşım, sigorta, gümrük, vergi, resim ve harç giderlerinden hangisinin teklif fiyatına dahil olacağı,
+j) Tekliflerin alınması, açılması ve değerlendirilmesinde uygulanması gereken ve bu Yönetmelikte belirtilen usul ve esaslar,
+k) İhale kararının alınmasından sözleşmenin imzalanmasına kadar uygulanması gereken usul ve esaslar,
+l) İhalenin sadece yerli isteklilere açık olup olmadığı ve yerli istekliler lehine fiyat avantajı uygulanıp uygulanmayacağı,
+m)Teklif türü (açık, kapalı zarf, pazarlığa tabi..vb),
+n) Geçici ve kesin teminat oranları ile teminatlara ait şartlar,
+o) İhale gününden önce ihalenin iptal edilmesinde Teşekkülün serbest olduğu,
+p) Bütün tekliflerin reddedilmesi ve ihalenin iptal edilmesinde Teşekkülün serbest olduğu,
+r) İhale konusu işin başlama ve bitirme tarihi, yapılma yeri, teslim şartları ve gecikme halinde alınacak cezalar,
+s) Ödeme yeri ve şartlarıyla avans verilip verilmeyeceği, verilecekse şartları ve miktarı ile sözleşme konusu işler için eğer ödenecekse fiyat farkının ne şekilde ödeneceği,
+t) Süre uzatımı verilebilecek haller ve şartları,
+u) Sözleşme ile ilgili vergi, resim ve harçlar ile diğer giderlerin kimin tarafından ödeneceği,
+v) Denetim, muayene ve kabul işlemlerine ilişkin şartlar,
+y) Anlaşmazlıkların çözümü.

@@ -1,0 +1,2 @@
+Hizmet Alımları Süre Uzatımı
+Madde 79- Hizmet alımlarına ilişkin sözleşmelerin sürelerinin bitiminde, fiyat ve piyasa durumu bakımlarından fayda görülmesi, yüklenicinin hizmetlerinden memnun kalınması ve Teşekkülün sahip olacağı diğer avantajlar göz önünde bulundurulması kaydıyla yeni bir ihaleye çıkılmaksızın aynı fiyat ve şartlarla (kanuni artışlar ile sözleşmesinde yer alan artışlar hariç) bir yıl veya sözleşmesinde yazılı süre kadar uzatılabilir.
