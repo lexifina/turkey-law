@@ -1,0 +1,61 @@
+{
+  "id": "2b58b7a1-8901-644f-99c8-1fa29924294b",
+  "decision_number": "1975/198",
+  "case_number": "1975/145",
+  "decision_date": "1975-10-14",
+  "published_date": "1976-03-11",
+  "source_publication_date": "1975-10-17",
+  "gazette_number": 15525,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1975/198",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "a95b28f10e6cb636e133c1c21aa8ddc0c378e3bdd3c623d89e18171d46ecb12c",
+  "version_label": "as-enacted",
+  "in_force": "1975-10-14",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": false,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1975-05-15",
+      "normNumaraAdParamId": "280bc8a7-de68-4f39-893b-b3dcd290bb25",
+      "incelemeturuKarsonucuParamId": "b70853bc-8190-61fb-36c6-4565bb3e5124",
+      "sonucGerekcesiParamId": "e593c292-8963-c0be-721c-41882e63ae9b",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "tamamı",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/85"
+        },
+        {
+          "hukum": "1961/92"
+        },
+        {
+          "hukum": "1961/136"
+        },
+        {
+          "hukum": "1961/152"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 22643
+}
