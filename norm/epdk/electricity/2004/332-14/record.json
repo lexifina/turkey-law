@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "332/14",
+  "decision_date": "2004-06-22",
+  "title": "Tüzel kişilerin lisanslarında tadil yapılmaksızın elektrik enerjisi nakil izninin 31/12/2004 tarihine kadar uzatılması",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TwEoEpuX5uA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TwEoEpuX5uA="
+  ],
+  "source_sha256": "a2891e9da2fa09e6fc8fe4cf9296c1b1cc8d3e666089e3c1318398b3d31a0a52",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-06-22",
+  "law_text_complete": false
+}
