@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1581",
+  "year": 1930,
+  "title": "İstiklâl harbi malullerine verilecek para mükâfatı hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-04-17",
+  "gazette_issue": "1474",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1474.pdf",
+  "source_sha256": "f2783c44bea5b96224b03e9c24bfbb21f8eaef1e7ab06764246b4d974f368949",
+  "text_sha256": "3a81c0247d6930e09aa57968ec528dfaa3f73bf4039c1f815c4e0a8849972b98",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      28
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801581.pdf",
+    "source_sha256": "9dc24894dd4f7ed20fcbe2b08bef4dbdc6c2dea7dc1701fd1a282266c99b9514",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9286,
+    "bag": 0.9298,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9344,
+    "rg_words": 57,
+    "kd_words": 61,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
