@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 63574,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "«Türkiye Cumhuriyeti Hükümeti ile Yugoslavya Hükümeti arasında 26 Şubat 1953 tarihinde Ankara'da imzalanan Ticaret ve Ödeme Anlaşmalariyle eklerinin kabulü hakkında (1/583)",
+  "title": "«Türkiye Cumhuriyeti Hükümeti ile Yugoslavya Hükümeti arasında 26 Şubat 1953 tarihinde Ankara'da imzalanan Ticaret ve Ödeme Anlaşmalariyle eklerinin kabulü hakkında (1/583)",
+  "first_sitting_date": "1953-04-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 67,
+      "sitting_date": "1953-04-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c021/tbmm09021067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c021/tbmm09021fih.pdf",
+      "pages": [
+        "350"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 109,
+      "sitting_date": "1953-07-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024109.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024fih.pdf",
+      "pages": [
+        "670",
+        "793:794",
+        "798",
+        "801",
+        "849:852"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=966&v_gelecek_sayfa=601&v_kullanici_id=27484167",
+  "source_sha256": "4d1e08c4f004a7f548d1614611666a1947c761803c39d8868fa1d63dc2bf6913",
+  "in_force": "1953-04-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
