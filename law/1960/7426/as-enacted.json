@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7426",
+  "year": 1960,
+  "title": "6309 sayılı Maden Kanununa ek Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-02-13",
+  "gazette_issue": "10431",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10431.pdf",
+  "source_sha256": "36b9427730e510a725bd601847e8a482ed45b776b8bc842023ae97caca6c1a6a",
+  "text_sha256": "16b84a63715b14379dca10e0bb47290cfca78c54cfad64757c4e0c6a0b23d69a",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      58,
+      111
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1, 2] (no text layer)",
+    "tesseract_pages": [
+      1,
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/kanuntbmmc042/kanuntbmmc04207426.pdf",
+    "source_sha256": "c811faef17c8211e44b6c2486224f72f889e51a872751b1acdc902d344edb4e8",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9403,
+    "bag": 0.8522,
+    "kd_coverage": 0.9735,
+    "kd_body_compared": 0.9735,
+    "rg_words": 383,
+    "kd_words": 378,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
