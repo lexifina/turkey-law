@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1816",
+  "year": 1931,
+  "title": "Şehir ve köy yatı mekteplerinin 1931 haziran ve temmuz ayları masarifile sanat mekteplerine yapılacak muavenet hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-05-31",
+  "gazette_issue": "1810",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1810.pdf",
+  "source_sha256": "36f2a826a8eed7534b92d87f74f5f7e529f1d7c3061606f205b321f6caafdbb1",
+  "text_sha256": "ed5680850db45779752776b2c46a84c4ebca47979f5d7fff0edebfb78e4a34f2",
+  "text_status": "ocr",
+  "pages": [
+    11
+  ],
+  "line_span": [
+    [
+      2518,
+      2559
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001816.pdf",
+    "source_sha256": "0abe9fa5276add4f8419cd80c935310c3ce5067a6bac640ca6055cfda3ddbcba",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9551,
+    "bag": 0.8745,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9839,
+    "rg_words": 125,
+    "kd_words": 124,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
