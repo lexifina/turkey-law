@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4638",
+  "year": 2001,
+  "title": "Emniyet Teşkilatı Kanununda Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-04-21",
+  "gazette_issue": "24380",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/04/20010421.htm",
+  "source_sha256": "a221f98aa8ef41eeac60ef608c1383aa73a6cbc3554ed34c89464732611a63cf",
+  "text_sha256": "6f0e340b97f9f510f56d4c23faedea1bf3e247fefde5fbe9bd3e407a75a4a36c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/04/21/24380-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/04/20010421.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
