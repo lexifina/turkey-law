@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2231",
+  "year": 1933,
+  "title": "Seyrisefain İdaresinin bütçelerine aid hizmetler için yapılmış tediyatın tasfiye ve mahsubu hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-06-03",
+  "gazette_issue": "2417",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2417.pdf",
+  "source_sha256": "6ccbe9a246171f204c2f0e36f3d78f9a52200afa21fdeb750145b91ebd8850c1",
+  "text_sha256": "ffece56ed0d9520ce9b878398eb7d6f2570b62c6da644e78b1e0f7e0e3604d3d",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      56,
+      74
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202231.pdf",
+    "source_sha256": "cffd1a1095b6c2260e5917a6a0ffc90bb9dd8fec9f5e6c7ce99e479b771061f3",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9614,
+    "bag": 0.9192,
+    "kd_coverage": 0.9892,
+    "kd_body_compared": 0.9688,
+    "rg_words": 105,
+    "kd_words": 96,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
