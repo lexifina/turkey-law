@@ -1,0 +1,1 @@
+Madde 4 —Bu Tebliğ eki sınıflandırma kararlarına uymayan Bağlayıcı Tarife Bilgileri 4458 Sayılı Gümrük Kanununun 9 uncu maddesinin 4 üncü fıkrası gereğince, bu Tebliğin yayımı tarihinde geçerliliğini yitirir.
