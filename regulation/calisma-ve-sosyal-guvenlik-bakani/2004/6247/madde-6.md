@@ -1,0 +1,2 @@
+Yüzdelerin belgelenmesi
+Madde 6 — Yüzde usulünün uygulandığı işyerlerinde, işveren, her hesap pusulasının genel toplamını gösteren belgeyi, toplu iş sözleşmesinin uygulandığı işyerlerinde sendika temsilcisine, diğer işyerlerinde bu Yönetmeliğin 8 inci maddesinde belirtilen seçilmiş işçi temsilcisine vermekle yükümlüdür. Bu belgenin şekil ve uygulama usulleri, iş sözleşmelerinde veya toplu iş sözleşmelerinde gösterilir. Bu belgeler ve belgelerin esas alındığı kayıtlar, beş yıl süreyle saklanır.

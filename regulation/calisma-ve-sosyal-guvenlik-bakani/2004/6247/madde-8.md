@@ -1,0 +1,4 @@
+Değerlendirme kurulunun oluşturulması
+Madde 8 — Hizmet süreleri ile başarı durumları, işyerlerinde oluşturulacak değerlendirme kurulu tarafından tespit edilir. Değerlendirme Kurulu; işveren veya temsilcisinin başkanlığında, sendika temsilcisi ve işveren vekili sıfatını taşımayan en kıdemli birim amirinden oluşur. İşyerinde uygulanan toplu iş sözleşmesi yoksa, tüm işçilerin katılımıyla, işçilerin kendi aralarında, gizli oy açık sayımla seçecekleri, işçi temsilcisi kurula katılır.
+Bu işçi temsilcinin seçimi ile ilgili gerekli işlemler, işveren temsilcisi ile biri servis içi diğeri servis dışı olmak üzere, en kıdemli iki birim amiri tarafından yapılır. Seçim sonucu tutanakla belgelenir ve işyerinde ilan edilir. Temsilcinin herhangi bir nedenle iş sözleşmesinin sona ermesi halinde, aynı usulle yenisi seçilir.
+Temsilci seçimine ilişkin belgeler, işyeri kayıtları arasında saklanır.
