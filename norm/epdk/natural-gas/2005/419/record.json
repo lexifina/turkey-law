@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "419",
+  "decision_date": "2005-01-11",
+  "title": "Doğal gaz şebekelerine yapılacak bağlantılara ilişki n( son hali )",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ri1dLmwKM8g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ri1dLmwKM8g="
+  ],
+  "source_sha256": "af2dc36cdae9909fcbf237e2a9c772e00c1d6763de74d745c4e7717863ef023d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-01-11",
+  "law_text_complete": false
+}
