@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5501-2634/20136",
+  "source_id": 30033,
+  "date": "1997-05-15",
+  "title": "Tarım ve Köyişleri Bakanlığına verilen Televizyonla Yaygın Çiftçi Eğitim Projesi (YAYÇEP) yayın hizmeti, Kanunun 17/I-a maddesinde yer alan istisnalar kapsamına girmediğinden, söz konusu yayın hizmeti Kanunun I/3-a maddesine göre katma değer vergisine tab",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30033",
+  "source_sha256": "5f663bcbdcd319a36a941e9fb2f10d7236d3e6c0c8513c45a39f042d7b8662a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
