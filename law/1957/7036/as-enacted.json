@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7036",
+  "year": 1957,
+  "title": "İstimlâk Kanununun 27. maddesine bir fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-29",
+  "gazette_issue": "9646",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9646.pdf",
+  "source_sha256": "d9089e85df932eb15335bf3aae07c52ba11195839a794346174d67a640c96011",
+  "text_sha256": "8438acae9e751718efcf9b3f9e3e1ec45f1c891d4d8ae60162892fbea3f873e2",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      9,
+      23
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907036.pdf",
+    "source_sha256": "0a9edf762265f4bacd7dbe962268e225de233e61c636942eafe0373efeb148eb",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9916,
+    "bag": 0.9432,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.967,
+    "rg_words": 88,
+    "kd_words": 91,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
