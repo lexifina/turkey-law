@@ -1,0 +1,2 @@
+Ön İnceleme
+Madde 6- Şikayet üzerine veya re'sen bir inceleme yapılması için yeterli delilin mevcut olduğunun görülmesi halinde, 45 (kırkbeş) gün içerisinde ön inceleme tamamlanarak inceleme başlatılıp başlatılmayacağı hususundaki Genel Müdürlük önerisi Kurula sunulur. Bu süre, talep halinde, şikayetçinin iddiasının tam olarak değerlendirilmesi için ihtiyaç duyulan tamamlayıcı bilgilerin getirilmesini teminen askıya alınabilir.

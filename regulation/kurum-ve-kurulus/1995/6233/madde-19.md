@@ -1,0 +1,2 @@
+Uzlaşma
+Madde 19- İnceleme prosedürü sonucunda veya daha önceki bir süreçte ve uluslararası uyuşmazlıkların çözümü prosedürü sırasında veya sonrasında bir ticari engel nedeniyle ortaya çıkan ihtilafın çözümlenmesinin en uygun yolunun, ilgili ülke veya ülkelerle bu konuda bir anlaşmaya varılması olduğu kanaatine ulaşıldığı takdirde, yürütülen prosedür askıya alınır ve bu konudaki uluslararası görüşmelere başlanır. Bu çerçevede diğer ülkelerden gelebilecek uzlaşma teklifleri Genel Müdürlükçe Kurula iletilir. Kurulun bu konudaki kararı Müsteşarlıkça Resmi Gazete'de yayımlanır.

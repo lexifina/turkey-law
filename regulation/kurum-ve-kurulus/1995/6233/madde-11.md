@@ -1,0 +1,2 @@
+Toplantı Düzenlenmesi
+Madde 11- Genel Müdürlük, talep edilmesi halinde, tarafların karşıt görüşlerinin ortaya konması amacıyla toplantı düzenleyebilir. Bu çerçevede, tarafların bu konudaki istemi ve gerekli gizliliğin korunması hususu dikkate alınır. Ancak, tarafların bu tür bir toplantıya katılma yükümlülükleri bulunmayıp, bu durum toplantıya katılmayanların bu Yönetmelik kapsamındaki haklarında herhangi bir kayba neden olmaz.

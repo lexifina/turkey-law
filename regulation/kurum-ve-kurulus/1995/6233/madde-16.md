@@ -1,0 +1,3 @@
+Olumsuz Ticari Etki ve Olumsuz Ticari Etki Tehdidinin Kanıtlanması
+Madde 16- Olumsuz ticari etki; bir ticari engel sonucunda, bir mal veya hizmet ile ilgili ticaret akışının engellendiği, zorlaştırıldığı veya saptırıldığı ya da ticari engelin Türk Müteşebbislerinin çıktı veya girdilerini maddi olarak etkilediği durumlarda meydana gelir.Olumsuz ticari etkinin kanıtlanmasında 14. maddede belirtilen faktörlerden ilgili olanları dikkate alınır.
+Olumsuz ticari etki tehdidinin iddia edildiği durumlarda, bu durumun fiili bir olumsuz ticari etkiye dönüşme olasılığı, 15. maddede belirtilen faktörlerden ilgili olanları dikkate alınarak, Müsteşarlıkça (Genel Müdürlük) incelenir.

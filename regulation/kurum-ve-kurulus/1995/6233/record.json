@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.6233",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE'NİN TİCARİ HAKLARININ KORUNMASI HAKKINDA YÖNETMELİK",
+  "number": "6233",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1995/6233",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6233&MevzuatTertip=5",
+  "source_sha256": "05d0f45a656d8608226712ed8b768485152a0029dca584664c740e0e70a44012",
+  "source_bytes": 73859,
+  "published": "1995-12-31",
+  "gazette": "22510",
+  "in_force": "1995-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.1995); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2365,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
