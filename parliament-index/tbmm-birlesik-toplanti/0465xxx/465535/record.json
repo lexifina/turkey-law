@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 465535,
+  "assembly": "TBMM Birleşik Toplantı",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "name": "ALİ RIZA GÜLLÜOĞLU (ADANA)",
+  "summary": "Üreticinin ürünlerini ve tarımla uğraşanların emeğini değerlendirmek için gereken tedbirleri almadığı ve bu eyleminin Türk Ceza Kanunu'nun 230 ve 240. maddelerine uyduğu iddiasıyla, Ticaret eski Bakanı Naim Talû hakkında Anayasanın 90. ve TBMM Birleşik Toplantısı İçtüzüğünün 12. maddesi uyarınca Meclis Soruşturması açılmasına dair önergesi ve 26 Numaralı TBMM Soruşturma Hazırlık Komisyonu raporu (9/26)",
+  "title": "Üreticinin ürünlerini ve tarımla uğraşanların emeğini değerlendirmek için gereken tedbirleri almadığı ve bu eyleminin Türk Ceza Kanunu'nun 230 ve 240. maddelerine uyduğu iddiasıyla, Ticaret eski Bakanı Naim Talû hakkında Anayasanın 90. ve TBMM Birleşik Toplantısı İçtüzüğünün 12. maddesi uyarınca Meclis Soruşturması açılmasına dair önergesi ve 26 Numaralı TBMM Soruşturma Hazırlık Komisyonu raporu (9/26)",
+  "first_sitting_date": "1976-04-07",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 15,
+      "sitting": 5,
+      "sitting_date": "1976-04-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t15/c015/tbmm15015005.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t15/c015/tbmm15015fih.pdf",
+      "pages": [
+        "105",
+        "146"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 6,
+      "sitting_date": "1976-05-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t15/c015/tbmm15015006.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t15/c015/tbmm15015fih.pdf",
+      "pages": [
+        "176:177"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=8&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=8&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=324&v_gelecek_sayfa=301&v_kullanici_id=27484928",
+  "source_sha256": "93ca732bf5f67bedef5bda79d0338f7ef9ee02fbc2c2ad1ad21956bf9dcaca34",
+  "in_force": "1976-04-07",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
