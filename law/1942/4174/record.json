@@ -1,0 +1,52 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4174",
+  "year": 1942,
+  "title": "Devlet Meteoroloji İşleri Umum Müdürlüğü teşkilât ve vazifelerine dair 3127 sayılı kanuna ek kanun",
+  "adopted": "1942-01-26",
+  "adopted_as_published": "26/01/1942",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.01.1942 No: 5020",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304174.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 23",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96636,
+      "title": "Devlet Meteoroloji İşleri Umum Müdürlüğü teşkilât ve vazifelerine dair 3127 sayılı kanuna ek kanun",
+      "adopted_as_published": "26/01/1942",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304174.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 28,
+          "sitting_date": "1942-01-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c023/tbmm06023028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c023/tbmm06023fih.pdf",
+          "pages": [
+            "102",
+            "117",
+            "143"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=794&v_gelecek_sayfa=401&v_kullanici_id=27483166",
+      "page_sha256": "e4dd672da18c737202618fabb6a0bb28c4b3f1588417be42fd7a3d2ebb8da51d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e4dd672da18c737202618fabb6a0bb28c4b3f1588417be42fd7a3d2ebb8da51d",
+  "issuer": "TBMM",
+  "in_force": "1942-01-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 26/01/1942; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
