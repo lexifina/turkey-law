@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.9200",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EMNİYET TEŞKİLATI KURTARICI ARAÇLARININ KULLANILMASINA AİT YÖNETMELİK",
+  "number": "9200",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/1983/9200",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9200&MevzuatTertip=5",
+  "source_sha256": "afedf1f326dcb8eee0631b4896cf9901ac391eb7dded9ce149d5a1b6d7415055",
+  "source_bytes": 32398,
+  "published": "1983-06-29",
+  "gazette": "18092",
+  "in_force": "1983-06-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.06.1983); own commencement article: \"Bu Yönetmelik Resmi Gazete'de yayım tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete'de yayım tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 886,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

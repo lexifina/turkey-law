@@ -1,0 +1,2 @@
+Madde 12 - Kurtarma araçlarının, bu Yönetmeliğin 10 uncu maddesi uyarınca özel araçların kurtarma ve çekme hizmetlerinde kullanılabilmesi için araç sahibinin veya sürücüsünün İl Emniyet Müdürlüğüne yazılı müracaatta bulunması ve bu müracaatın mülki amirce uygun görülmesi şarttır.
+Kurtarılması ve çekilmesi uygun görülen aracın sahibi veya sürücüsünden kurtarma ve çekme esnasında meydana gelecek zarar ve ziyandan dolayı idareyi sorumlu tutmayacağına dair yazılı belge alınır ve kurtarma defterine gerekli kayıt düşülür.

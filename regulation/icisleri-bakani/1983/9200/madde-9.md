@@ -1,0 +1,1 @@
+Madde 9 - Emniyet Teşkilatına ait kurtarıcı araçlar, resmi kurum ve kuruluşların yetkili amirlerinin yazılı başvurusu üzerine, birim amirinin izni ile o kuruma ait resmi araçların kurtarılmasında kullanılabilir.
