@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2968-298-364-15378",
+  "source_id": 26790,
+  "date": "2005-02-09",
+  "title": "Parasal olmayan kıymetlerin enflasyon düzeltmesi ve dönem kazancının tespitinde gider olarak kabul edilip edilemeyeği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26790",
+  "source_sha256": "e6a9992f667931bba1673262c2ef1f44c1ef9c0610fe0bf6903b44ecb191bb20",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
