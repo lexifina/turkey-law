@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.6159",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 341)",
+  "number": "6159",
+  "path": "teblig/2004/6159",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6159&MevzuatTertip=5",
+  "source_sha256": "47b8db74db261dc3c46a7819b42a766b53aa837c297625bae1ffe523d7b46a68",
+  "source_bytes": 11367,
+  "published": "2004-11-20",
+  "gazette": "25646",
+  "in_force": "2004-11-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.11.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 139,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
