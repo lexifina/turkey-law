@@ -1,0 +1,93 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4550",
+  "year": 2000,
+  "title": "Karayolları Trafik Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "2000-03-08",
+  "adopted_as_published": "08/03/2000",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.03.2000 No: 23991",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc084/kanuntbmmc084/kanuntbmmc08404550.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 84",
+  "committee_reports": [
+    {
+      "label": "TBMM 307 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c028/tbmm21028066ss0307.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 419565,
+      "title": "Karayolları Trafik Kanununda Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "08/03/2000",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc084/kanuntbmmc084/kanuntbmmc08404550.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 307 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c028/tbmm21028066ss0307.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 19,
+          "sitting": 31,
+          "sitting_date": "1999-12-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c019/tbmm21019031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c019/tbmm21019fih.pdf",
+          "pages": [
+            "4"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 44,
+          "sitting_date": "1999-12-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c022/tbmm21022044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c022/tbmm21022fih.pdf",
+          "pages": [
+            "231"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 66,
+          "sitting_date": "2000-03-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c028/tbmm21028066.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c028/tbmm21028fih.pdf",
+          "pages": [
+            "44:52"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 67,
+          "sitting_date": "2000-03-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c028/tbmm21028067.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c028/tbmm21028fih.pdf",
+          "pages": [
+            "348:367"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=101&v_kullanici_id=27483196",
+      "page_sha256": "c2cfe2238783fc9740f96b415d225749684ec3a57b63b112c834c661930cccae"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "c2cfe2238783fc9740f96b415d225749684ec3a57b63b112c834c661930cccae",
+  "issuer": "TBMM",
+  "in_force": "2000-03-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 08/03/2000; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
