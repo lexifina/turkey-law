@@ -1,0 +1,3 @@
+Daireler:
+Madde 5 – (Değişik birinci fıkra: 11/12/1981 - 2563/2 md.) Her dairede bir başkan ve yedi üye bulunur. Ancak, iş hacmine göre Askeri Yargıtay Genel Kurulunun teklifi ve Genelkurmay Başkanlığının uygun görmesi üzerine Milli Savunma Bakanlığınca dairelerdeki üye sayısı 5'e kadar indirilebilir. Bu şekildeki indirme sonunda üyeler kadroları ile görevlerine devam ederler. Ancak, üye sayısı tespit edilen miktara ininceye kadar üye seçimi yapılmaz. Daireler bir başkan ve dört üyenin katılması ile toplanarak karar ve hüküm verirler.
+Daire Başkanının bulunmadığı hallerde, o dairenin en kıdemli üyesi başkanlık görevini yapar.

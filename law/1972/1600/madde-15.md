@@ -1,0 +1,2 @@
+Madde 15 – Başsavcı başyardımcısı, albay rütbesinde birinci sınıf askeri hakimlerden başsavcı tarafından gösterilecek üç aday arasından Milli Savunma Bakanınca usulüne göre atanır.
+Başsavcı yardımcılarının seçilmesinde de bu hizmetin gereklerine uygun tecrübe ve nitelik aranır ve genel atanma şartları da dikkate alınarak başsavcı tarafından, boş yerlerin üç katı olarak gösterilen adaylar arasından Askeri Hakimler ve Askeri Savcılar Kanunu hükümlerine göre atanmaları yapılır.
