@@ -1,0 +1,1 @@
+Geçici Madde 2- Güzel Sanatlar Akademisi Başkanlığı’na bağlı olarak kurulmuş olan Türk Sanat Tarihi Enstitüsü de Mimar Sinan Üniversitesi Türk Sanatı Tarihi Uygulama ve Araştırma Merkezi haline dönüştüğünden Enstitü’nün bütün mal varlığı Merkez’e devrolunur.
