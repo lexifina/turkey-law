@@ -1,0 +1,1 @@
+Madde 1 – Yugoslav Federatif Halk Cumhuriyeti tarafından mal, hak ve menfaatleri devletleştirilen ve diğer tahdidi tedbirlere tabi tutulan, Türk vatandaşlarının alacaklarına karşılık 7050 sayılı Kanunla tasdik olunan anlaşmaya göre alınan tazminat, Kanunda yazılı şekilde tespit ve takdir olunarak bu Yönetmelikte belirtilen esaslar dairesinde hak sahiplerine ödenir.
