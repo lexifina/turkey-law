@@ -1,0 +1,1 @@
+Madde 14- Fakülte/Yüksekokul mezunu olarak programa başvuranların Harran Üniversitesi Döner Sermaye Saymanlığına öğrenci harcı yatırmaları gerekir. Harç miktarı Fakülte Yönetim Kurulu’nun kararı ve Üniversite Yönetim Kurulu onayı ile tespit edilir.

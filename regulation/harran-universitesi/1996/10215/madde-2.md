@@ -1,0 +1,1 @@
+Madde 2- Bu programa, Milli Eğitim Bakanlığı’nca uygun görülen öğretmenlikle ilgili Fakülte ve Yüksekokullarda öğrenim yapmakta olan Harran Üniversitesi öğrencileri ve mezunları ile diğer üniversitelerin benzer Fakülte ve Yüksekokullarından mezun olanlar başvurabilirler.

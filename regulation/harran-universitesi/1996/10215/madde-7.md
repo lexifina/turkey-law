@@ -1,0 +1,1 @@
+Madde 7- ÖMB 402 Özel Öğretim Yöntemleri ve Uygulaması dersini alabilmek için öğrencilerin bu ders dışındaki tüm dersleri başarmış olmaları gerekir. Fakülte/Yüksekokul mezunu olarak programa kaydolanların ÖMB 402 Özel Öğretim Yöntemleri ve Uygulaması dersini alabilmeleri için I.yarıyılda yer alan dersleri başarmış olmaları gerekir.

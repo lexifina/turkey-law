@@ -1,0 +1,1 @@
+Madde 11- Öğretmenlik Meslek Bilgisi Programına başvuranlar; derse devam, ders geçme ve sınavlarla ilgili konularda Harran Üniversitesi Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinin hükümlerine tabidirler. Lisans mezunu olarak başvuranlardan birinci tekrardan sonra başarısız olanların kaydı silinir.

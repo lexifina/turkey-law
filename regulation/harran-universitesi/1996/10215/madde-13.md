@@ -1,0 +1,1 @@
+Madde 13- Lisans öğrenimini tamamlayarak Öğretmenlik Meslek Bilgisi Programını başarıyla bitirenlere Harran Üniversitesi Fen-Edebiyat Fakültesi Öğretmenlik Meslek Bilgisi Sertifikası verilir. Lisans öğrenimlerini tamamlamayanlara Öğretmenlik Meslek Bilgisi Sertifikası verilmez.

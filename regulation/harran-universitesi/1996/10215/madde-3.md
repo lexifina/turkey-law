@@ -1,0 +1,1 @@
+Madde 3- Bu program, Harran Üniversitesi Takvimine uygulanabileceği gibi kursun süresi 28 haftadan aşağı olmamak kaydıyla ayrı iki yarıyıl şeklinde uygulanabilir. Bu kursların açılması, yeri, şekli, süresi ve devam edecek öğrencilerin sayısı ve seçimi ile ilgili hususlar, Harran Üniversitesi Fen-Edebiyat Fakülte Kurulu’nun teklifi ve Üniversite Senatosu’nun kararı ile belirlenir.

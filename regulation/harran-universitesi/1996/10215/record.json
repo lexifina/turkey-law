@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.10215",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "HARRAN ÜNİVERSİTESİ FEN-EDEBİYAT FAKÜLTESİ ÖĞRETMENLİK MESLEK BİLGİSİ PROGRAMI HAKKINDA YÖNETMELİK",
+  "number": "10215",
+  "issuer": "HARRAN ÜNİVERSİTESİ",
+  "issuer_slug": "harran-universitesi",
+  "path": "regulation/harran-universitesi/1996/10215",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10215&MevzuatTertip=5",
+  "source_sha256": "3ae95cf006e0162d5cdfe856af60354927a61f88d7cb47d110c4fdc0815c506e",
+  "source_bytes": 23471,
+  "published": "1996-10-28",
+  "gazette": "22801",
+  "in_force": "1996-10-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.10.1996); own commencement article: \"Bu yönetmelik 1996-1997 Eğitim-Öğretim yılından itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu yönetmelik 1996-1997 Eğitim-Öğretim yılından itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 655,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
