@@ -1,0 +1,1 @@
+Madde 1 – Bu Kanunun amacı; çeşitli sosyal güvenlik kurumlarına tabi olarak geçen hizmet sürelerinin birleştirilmesi suretiyle ilgililerin sosyal güvenliklerinin sağlanması usul ve esaslarının düzenlenmesidir.

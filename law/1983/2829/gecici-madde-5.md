@@ -1,0 +1,2 @@
+Geçici Madde 5– (Ek: 27/1/2000 - 4505/1 md.)
+Bu Kanunun yürürlük tarihinden önce kendilerine bu Kanunun 8 inci maddesinin birinci fıkrası hükmü uygulanmak suretiyle herhangi bir sosyal güvenlik kuruluşunca aylık bağlananların veya bunlardan ölenlerin dul ve yetimlerinin istekleri halinde, müracaat tarihini takip eden ay başından itibaren aynı maddenin ikinci fıkrası hükmü uygulanmak suretiyle son defa tabi olduğu kurumca bu kurum mevzuatına göre aylık bağlanır ve ödenir. Diğer sosyal güvenlik kuruluşlarınca bağlanmış aylıkları aynı tarihten itibaren kesilir.

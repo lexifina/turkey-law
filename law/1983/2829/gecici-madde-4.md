@@ -1,0 +1,1 @@
+Geçici Madde 4 – Sosyal güvenlik kurumlarına devrolunan sandıklar üyeleri ile hak sahiplerinin, 28/1/1970 gün ve 1214 sayılı Kanunla değişik 5/1/1961 gün ve 228 sayılı Kanundan doğan hizmet ihyasına ilişkin hakları saklıdır.

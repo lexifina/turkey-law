@@ -1,0 +1,1 @@
+Geçici Madde 3 – 1479 sayılı Esnaf ve Sanatkarlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanununa 2229 sayılı Kanunla eklenen ve 2654 sayılı Kanunla değişik ek geçici 4 üncü madde hükmü uyarınca borçlanılan hizmet süreleri, Bağ - Kur tarafından bağlanacak aylıklar hariç,diğer kurumlarda geçen hizmet süreleri ile birleştirilmez.

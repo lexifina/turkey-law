@@ -1,0 +1,3 @@
+Geçici Madde 1 – 5/1/1961 gün ve 228 sayılı Kanunun 6 ncı maddesinin 28/1/1970 gün ve 1214 sayılı Kanunla değişmeden önceki hükmüne göre bağlanmış olup da, halen ödenmekte bulunan emekli, yaşlılık, malullük veya ölüm aylıkları 1214 sayılı Kanun hükümlerine göre yeniden hesaplanarak ödenir.
+Bu Kanunun yürürlüğe girdiği tarihte ödenmekte bulunan aylıklar, yukarıdaki hükme göre hesaplanacak aylıktan fazla olduğu takdirde, aradaki fark, ileride çeşitli nedenlerle giderilinceye kadar önceki aylıkların ödenmesine devam olunur.
+228 sayılı Kanunun 6 ncı maddesinin 1214 sayılı Kanunla değişmeden önceki hükmü kapsamında olup bu Kanunun yürürlük tarihinden sonra bağlanacak aylıklar hakkında birinci fıkra hükümleri uygulanır.

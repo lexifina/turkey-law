@@ -1,0 +1,4 @@
+Emekli ikramiyesi:
+Madde 12 – Son defa T.C. Emekli Sandığına tabi görevlerden emekliye ayrılan ve kendilerine bu Kanunun 8 inci maddesi uyarınca birleştirilen hizmet süreleri üzerinden aylık bağlananlara,T.C. Emekli Sandığına tabi daire,kuruluş ve ortaklıklarda prim veya kesenek ödemek suretiyle geçen sürelerinin toplamı üzerinden, 5434 sayılı T.C. Emekli Sandığı Kanunu hükümlerine göre emekli ikramiyesi ödenir.
+Ancak, ilgililere, her ne suretle olursa olsun evvelce kıdem tazminatı veya emekli ikramiyesi ödenmiş süreler, emekli ikramiyesinin hesabında dikkate alınmaz.
+Ayrıca, 8 inci maddenin birinci fıkrası gereğince aylık bağlananlara, emekli oldukları son görevlerinden dolayı ilgili bulundukları sosyal güvenlik kurumu kanununun emekli ikramiyesine veya iş kanununun kıdem tazminatına ilişkin hükümleri uygulanır.
