@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6327-21",
+  "source_id": 35994,
+  "date": "2003-08-15",
+  "title": "Konsolosluklar tarafından yapılacak noter işlemlerinde uygulanacak noter harçları hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35994",
+  "source_sha256": "9cde56e4716bce5fd1af8b69b3824cf1d2ca365a3897f327533fd47e53a74113",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
