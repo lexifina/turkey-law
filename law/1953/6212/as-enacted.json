@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6212",
+  "year": 1953,
+  "title": "Sermayesinin Tamamı Devlet Tarafından Verilmek Suretiyle Kurulan İktisadi Teşekküllerin Teşkiâtiyle İdare ve Murakabeleri Hakkındaki Kanunun 45 nci Maddesinin 3 ve 4 ncü Bentlerinin Değiştirilmesine ve Bu Kanuna Bir Madde Eklenmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-12-30",
+  "gazette_issue": "8596",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8596.pdf",
+  "source_sha256": "d3745b27fce96fd7b54626b5d9315cd42817db6c3b1bb3128bcb56c34d68147e",
+  "text_sha256": "f7265f765d961d082cda47ff5e4259b85e1797fe04178090c92c85f89224ccf3",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      85
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606212.pdf",
+    "source_sha256": "ce69620abe57000ec6192701d35e6a8b5e72eae8fc6bcd787501f5eab463f20a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9492,
+    "bag": 0.8251,
+    "kd_coverage": 0.9883,
+    "kd_body_compared": 0.9883,
+    "rg_words": 513,
+    "kd_words": 511,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
