@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.28/2803-5/814/47121",
+  "source_id": 24984,
+  "date": "2000-10-17",
+  "title": "Mükelleflerin iş merkezleri dışında muhtelif şube, satış mağazası gibi yerlerin her katında birden fazla reyonlarda mallarını teşhir ederek, tanıtarak veya müşteriler tarafından ücret karşılığı alış veriş yapılarak faaliyette bulunulması halinde o kat içi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24984",
+  "source_sha256": "522d9c31bbd26591de57b51f22e1fd84b564e715f18f4295983645de1a6582c7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
