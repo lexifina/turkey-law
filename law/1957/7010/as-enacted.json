@@ -1,0 +1,51 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7010",
+  "year": 1957,
+  "title": "Muğla, Denizli, Bolu, Aydın ve Sakarya vilâyetleri dâhilinde vukua gelen yer sarsıntısında zarar görenlere yapılacak yardım hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-20",
+  "gazette_issue": "9638",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9638.pdf",
+  "source_sha256": "549b564db2ffa24ecd61ab081b07c6d03ccd8d9d91cca8098c8e80fa47142561",
+  "text_sha256": "a689d3bebdee78b729bd76e2f1707541789bf62e57af99dc0fcf12c0e03cd9af",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "line_span": [
+    [
+      1117,
+      1327
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [5, 6, 7] (no text layer)",
+    "tesseract_pages": [
+      5,
+      6,
+      7
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907010.pdf",
+    "source_sha256": "bb4d6ba529294fe99cbc2235db57a295a8b13649bdc3c1669d67e8a5ae36d0fc",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9631,
+    "bag": 0.8877,
+    "kd_coverage": 0.9975,
+    "kd_body_compared": 0.9957,
+    "rg_words": 1605,
+    "kd_words": 1617,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
