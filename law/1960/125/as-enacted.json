@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "125",
+  "year": 1960,
+  "title": "42 sayılı Kanun gereğince emekliye ayrılan subaylardan isteklilerin öğretmenliğe alınması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-11-14",
+  "gazette_issue": "10654",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10654.pdf",
+  "source_sha256": "316b1c1dd2f39cbfacbb1487500cc3cdf17080f0004330971f2ff9978e1dfa07",
+  "text_sha256": "99f280d2a8b625f077adcd8fa1d132407d84ad03353924aec7b025e967f66a22",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      81,
+      123
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300125.pdf",
+    "source_sha256": "dca4b555323194347a14956e3758a589b446d9299b9b049db00ac8a0554bc091",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9679,
+    "bag": 0.9251,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9641,
+    "rg_words": 186,
+    "kd_words": 195,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
