@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "141/15",
+  "decision_date": "2003-04-30",
+  "title": "21/3/2003 tarihli ve 112-119 sayılı Kurul Kararlarında tadilat",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rkwXE4xfyEU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rkwXE4xfyEU="
+  ],
+  "source_sha256": "94e6637838600269e39d9422e5de70fcec96dcc5edc42ebb9da00380bff60b9e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-04-30",
+  "law_text_complete": false
+}
