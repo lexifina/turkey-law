@@ -1,0 +1,104 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 420542,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Yükseköğretim Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısına ilişkin",
+  "title": "Yükseköğretim Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısına ilişkin",
+  "first_sitting_date": "1999-12-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 36,
+      "sitting_date": "1999-12-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c020/tbmm21020036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c020/tbmm21020fih.pdf",
+      "pages": [
+        "182:183"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 39,
+      "sitting_date": "1999-12-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021fih.pdf",
+      "pages": [
+        "273"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 40,
+      "sitting_date": "1999-12-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021fih.pdf",
+      "pages": [
+        "440",
+        "451"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 41,
+      "sitting_date": "1999-12-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021041.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021fih.pdf",
+      "pages": [
+        "595:609"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 42,
+      "sitting_date": "1999-12-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021fih.pdf",
+      "pages": [
+        "740:763"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 43,
+      "sitting_date": "1999-12-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c022/tbmm21022043.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c022/tbmm21022fih.pdf",
+      "pages": [
+        "212:216",
+        "218:226"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 46,
+      "sitting_date": "1999-12-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c022/tbmm21022046.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c022/tbmm21022fih.pdf",
+      "pages": [
+        "715:776",
+        "998:1021"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=606&v_gelecek_sayfa=101&v_kullanici_id=27484520",
+  "source_sha256": "e61e9510bbd33948bdb1ab5e0c1644043a65db1539d5c889da19f86b41988e77",
+  "in_force": "1999-12-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
