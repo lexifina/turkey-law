@@ -1,0 +1,2 @@
+Danışma Kurulu
+Madde 11- Danışma Kurulu, Müdürün teklifi üzerine Yönetim Kurulu tarafından, merkezin amaç ve çalışmalarına ilgi gösteren veya uzmanlığından faydalanılabilecek olan kişiler arasından seçilen en fazla on beş kişiden oluşur. Bu kurulun üyeleri başka bir üniversite, kamu kuruluşlarının temsilcileri ve özel kişiler olabilir. Araştırma grup başkanları görev alanlarını ilgilendiren konularda kurul üyesi olarak danışma kurulu toplantılarına katılırlar.
