@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6003-157/010239",
+  "source_id": 36349,
+  "date": "2004-03-11",
+  "title": "Veraset ve İntikal Vergisi Kanunu'nun 3'üncü maddesi gereğince uygulanan veraset ve intikal vergisi muafiyetinin ülkeler arasında karşılıklılık esasına bağlı olduğu hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36349",
+  "source_sha256": "611e7c95c7798edfa614db0c0d9e1d88e7d426ad94e423e41a5d4899b47999aa",
+  "text_status": "metadata-only",
+  "text_omitted_reason": "Personal data in source text; metadata and official source link only.",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
