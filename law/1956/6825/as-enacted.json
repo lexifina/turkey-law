@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6825",
+  "year": 1956,
+  "title": "Türkiye ile İngiltere arasındaki 4 Mayıs 1945 tarihli Ticaret ve Tediye Anlaşması ile buna ek Protokolün 30 Haziran 1955 tarihine kadar iki ay müddetle uzatılmasına mütedair mektupların tasdiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-09-04",
+  "gazette_issue": "9398",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9398.pdf",
+  "source_sha256": "62b4d7bbdf76f78b84f2b5f829973d279e30ac3be7003c9d4b161690f3a5cc1c",
+  "text_sha256": "de4817fd127c77c98263f5a1c20424c462f82765c1d9e05b4586a102d7552eb3",
+  "text_status": "ocr",
+  "pages": [
+    8
+  ],
+  "line_span": [
+    [
+      1981,
+      2054
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806825.pdf",
+    "source_sha256": "e83f35f5560cbf4686c06f42c0b8712045f457b6517bbde584bf0d9f5c254798",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9653,
+    "bag": 0.9121,
+    "kd_coverage": 0.9959,
+    "kd_body_compared": 0.9959,
+    "rg_words": 473,
+    "kd_words": 485,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
