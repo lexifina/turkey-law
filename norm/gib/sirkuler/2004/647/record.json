@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-10/2004-2/Muhtasar Beyanname-1",
+  "source_id": 647,
+  "date": "2004-01-07",
+  "title": "Yıllık, muhtasar ve geçici vergi beyannamelerinin verilme süresi ile ödeme süreleri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/647",
+  "source_sha256": "9d8512b3c7362e7f005542e44559ed043c0f0baf2ceba8047ebf67c52d0658b6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
