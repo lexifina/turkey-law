@@ -1,0 +1,1 @@
+Madde 1 – Bu yönetmelik, kurumların personel planları doğrultusunda ihtiyaç duyulan görevlere mecburi hizmet karşılığı eleman yetiştirmek üzere yurt içindeki öğretim kurumlarında öğrenci okutma ve ihtisas yaptırmadaki usul ve esasları düzenler,

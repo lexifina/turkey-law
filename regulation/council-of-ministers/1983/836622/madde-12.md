@@ -1,0 +1,10 @@
+Sınav, Ayırma, Seçim ve Sonuçların Bildirilmesi:
+Madde 12 – Mecburi hizmet karşılığı okutulacak öğrencilerin açılacak sınavı kazanmış olmaları şarttır.
+I - Orta öğretimde; burslu veya yatılı öğrenci okutacak kurumlar özel şart ve kontenjanlarını en geç Ekim ayına kadar Milli Eğitim Bakanlığına bildirirler. Bu bildirimden sonra Milli Eğitim Bakanlığı, burslu veya yatılı öğrenci okutulacak meslek dallarını, hangi kurum adına ne sayıda öğrenci okutulacağını kapsayan bilgileri, sınavın yer, zaman, şekli başvuru süresi bu yönetmeliğin II nci maddesindeki genel şartları ve kurumların aradığı özel şartları ilan ederek aday kayıt ve sınav uygulama işlemlerini yürütür. Milli Eğitim Bakanlığı gerek gördüğü hallerde ilgili kurumlarla işbirliği yapar.
+A - Sınav sonuçlarının değerlendirilmesini müteakip başarı sırası esas alınarak kontenjan kadar asıl ve aynı sayıda yedek aday tesbit edilir.
+B - Sınav sonuç listeleri asıl ve yedekleri ve adresleri ile birlikte Milli Eğitim Bakanlığınca engeç Ağustos ayı başına kadar ilgili kurumlara bildirilir. Diğer işlemler kurumlarınca yürütülür.
+II - Yüksek Öğretimde;
+A - Birinci sınıftan itibaren burs vermede, Üniversitelerarası Seçme Sınavını kazanmış olanlardan isteklilerin sayısı kontenjandan az olduğunda tüm istekliler asıl aday olarak tespit olunur. İsteklilerin sayısı kontenjandan fazla olduğundan Üniversitelerarası Seçme Sınavında aldıkları puan esas alınarak kontenjan kadar asıl ve aynı sayıda yedek aday seçimi burs verecek kurumlarca yapılır.
+Ara sınıflarda okutulacak öğrencilere burs verilirken, Üniversitelerarası Seçme Sınavında aldıkları puanla birlikte bir önceki sınıftaki başarı durumları dikkate alınarak seçimleri kurumlarınca yapılır.
+Üniversitelerarası Seçme Sınavına tabi olmayan eğitim kurumlarında okutulacak öğrencilerin seçme sınavı burs verecek kurumlarca yapılarak, asıl ve yedek aday tesbit edilir.
+III - Yüksek Lisans veya Doktora eğitiminde; isteklilerin sayısı kontenjandan az olduğunda tüm istekliler asıl aday olarak, kontenjandan fazla olduğunda lisans üstü giriş sınavında aldıkları puan esas alınarak asıl ve aynı sayıda yedek aday seçimi kurumlarınca yapılır.
