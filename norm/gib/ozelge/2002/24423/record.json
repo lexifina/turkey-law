@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4010-130-30621",
+  "source_id": 24423,
+  "date": "2002-07-10",
+  "title": "Özel hesap dönemi olan mükellefin, bu dönemdeki işini Limited Şirkete devretmesi nedeniyle döneme ait gelirinin, ne zaman beyan edilip edilmeyeceği hakkında...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24423",
+  "source_sha256": "ef9a1722a527a2974ebbc91aee92524ed052fdfe3abacfc7d2567cf261625a47",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
