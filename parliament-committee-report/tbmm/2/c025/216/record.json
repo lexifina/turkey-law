@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 2,
+  "sira_sayisi": "216",
+  "label": "TBMM 216 no'lu Komisyon Raporu",
+  "title": "Ziraat Vekâletine merbut bazı mektep ve müesseselerin sureti idaresi hakkında Kanun",
+  "document_date": "1926-05-29",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 25, birleşim 109)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025109ss0216.pdf",
+  "pdf_sha256": "881921931113c660515f14fb316a780b56f7d038fed739c15778ce270da43d4f",
+  "pdf_bytes": 339789,
+  "pdf_pages": 3,
+  "index_entries": [
+    126747
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d02&v_yasama_yili=4&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1926-05-29",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
