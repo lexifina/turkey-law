@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 91831,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Büyük Millet Meclisi 1945 yılı Eylül ve Ekim ayları hesabı hakkında (5/39)",
+  "title": "Büyük Millet Meclisi 1945 yılı Eylül ve Ekim ayları hesabı hakkında (5/39)",
+  "first_sitting_date": "1946-01-25",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 28,
+      "sitting_date": "1946-01-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c021/tbmm07021028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c021/tbmm07021fih.pdf",
+      "pages": [
+        "110",
+        "119"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1343&v_gelecek_sayfa=801&v_kullanici_id=27484072",
+  "source_sha256": "1158db7f7bc8c8f367b558b47ea5695fcb5fb7e7ea6bb3ad3dc6c2a76ecf6ceb",
+  "in_force": "1946-01-25",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
