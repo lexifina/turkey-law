@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "",
+  "source_id": 633,
+  "date": "2000-02-10",
+  "title": "BANKA VE SİGORTA MUAMELELERİ VERGİSİ İÇ GENELGESİ SIRA NO : 2000/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/icgenelge/633",
+  "source_sha256": "21ce2537bfc3ee10100753bdb357e8803a7b5b9fd0c1cc4d65f7557a52bf5b06",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
