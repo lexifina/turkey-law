@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.49/4904-79/19379",
+  "source_id": 37651,
+  "date": "1997-05-09",
+  "title": "Derneğin hangi hallerde kurumlar vergisi mükellefi olabileceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37651",
+  "source_sha256": "261e3c5a96b033cd38c9bb5f4e2634b2d48e12ea2759d117d968eccc8a6e928e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
