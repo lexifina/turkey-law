@@ -1,0 +1,1 @@
+Madde 2 – Yukarıdaki madde hükümleri dairesinde alınacak İcra Vekilleri Heyeti kararları ile karar mevzuuna giren maddelerin stok miktarının alakalılar tarafından bir beyanname ile mahallin en büyük idare memuruna bildirilmesi mecburiyeti de vazolunabilir.

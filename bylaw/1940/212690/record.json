@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "date_gazette": "11036",
+  "date_quote": "8 - Bu karar yayımlandığı tarihten bir yıl sonra yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "4424",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 1,
+    "referenced": 0,
+    "source": 1
+  },
+  "images_omitted": [
+    {
+      "description": "marking figures referenced by Madde 1",
+      "normative": true,
+      "processing_note": "The marking figures are published as an image; OCR is off for this run. No image text was transcribed or corrected.",
+      "reason": "not extractable",
+      "source_position": 1,
+      "source_ref": "Mevzuat Bilgi Sistemi 2.3.212690, source image 1",
+      "source_url": "https://www.mevzuat.gov.tr/anasayfa/2.3.212690_dosyalar/image001.jpg"
+    }
+  ],
+  "in_force": "1963-02-15",
+  "in_force_basis": "The latest attached implementing decision, 6/180 of 5/2/1962, was published 15/2/1962 in Gazette 11036 and article 8 takes effect one year after publication. Source clause: 8 - Bu karar yayımlandığı tarihten bir yıl sonra yürürlüğe girer.",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1940-02-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=212690&MevzuatTertip=3",
+  "source_bytes": 22261,
+  "source_id": "2.3.212690",
+  "source_images": 1,
+  "source_sha256": "9becb357bbec823392b2861b4f1d167c01c673c68afd9d27aeae14b6c938383f",
+  "source_type": "Tüzükler",
+  "text_completeness": "all official HTML text; one normative image explicitly omitted and queued for later processing",
+  "title": "YERLİ SINAİ MAMULATIN İŞARETLENMESİ HAKKINDA NİZAMNAME",
+  "word_count": 791
+}

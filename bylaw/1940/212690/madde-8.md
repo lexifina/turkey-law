@@ -1,0 +1,1 @@
+Madde 8 – Ticarette tağşişin men'i ve ihracatın murakabesi ve korunması hakkındaki 1705 sayılı kanuna dayanılarak tanzim ve Devlet Şürasınca tetkik edilmiş olan bu Nizamname hükümleri neşri tarihinden itibaren on beş gün sonra yürümeğe başlar.

@@ -1,0 +1,1 @@
+Madde 4 – Yabancı memleketlere gönderilecek mevaddın, yerine göre, üzerine, zarf ve ambalajlarına ve etiketlerine, birinci madde mucibince konulacak ibare veya remiz ve milli alamete ilaveten ayrıca yabancı bir dilde Türkiye'de imal edildiklerini gösterir bir ibare de yazılabilir.
