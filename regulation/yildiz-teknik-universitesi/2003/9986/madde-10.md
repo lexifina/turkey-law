@@ -1,0 +1,22 @@
+Personel Daire Başkanlığının Görevleri
+Madde 10 — Personel Daire Başkanlığı;
+a) Eğitimle ilgili olarak, Üniversitenin hizmet içi eğitim faaliyetlerine ilişkin hizmetleri yürütmek,
+b) Yıllık eğitim planı ile hizmet öncesi ve hizmet içi eğitim programlarını hazırlamak,
+c) Eğitim Kurulunun sekreterya hizmetlerini yürütmek,
+d) Devlet Memurları Eğitimi Genel Planı, Kalkınma Planı tedbir ve önerileri ile iş programları ışığı altında; Rektörlüğün eğitim politikası ve amaçlarına uygun olarak, Daire Başkanlıklarının önerilerini dikkate alarak, yıllık eğitim plan taslağını ve eğitim faaliyetleri için gerekli eğitim harcamalarını saptayarak Eğitim Kuruluna sunmak,
+e) Eğitim Kurulunun görüşü ve Rektörün onayından sonra yıllık eğitim planına göre programlar hazırlamak,
+f) Hazırlanan eğitim programı göz önünde bulundurularak Rektörlük personelinin eğitimi ile ilgili bütün işleri planlayarak, organize etmek ve izlemek,
+g) Eğitim Kurulunca saptanan; okutulacak derslere, seçilecek öğretim görevlileri ve haftalık ders programları ile ilgili yazıları Rektörün onayına sunmak,
+h) Eğitim görevlileri ile kursiyerlerin devam durumlarını kontrol edip, bunlarla ilgili ders ücreti ve kurs gündelikleri puantajlarını tutmak,
+ı) Kurslarla ilgili araç, gereç ve sarf malzemelerini temin etmek,
+i) Görevde Yükselme Eğitimi sonunda yapılacak sınav ile ilgili hazırlıkları yapmak veya yaptırmak,
+j) Hizmet içi eğitim programına ve tespit edilecek prensiplere göre yapılan etkinliklerin başarısı ve verimi ile bu çalışmalara katılanların verecekleri raporları değerlendirmek,
+k) Hizmet içi eğitime katılanların bitirme belgeleri, katılım belgeleri ve puantajlarını, disiplin ve sicil belgelerini arşivlemek,
+l) Rektörlük personelinin eğitim ve öğretim durumlarına ait kayıtlarını tutmak,
+m) Eğitim ve öğretim için mevcut ve gerekli bina, araç ve gereçleri saptayarak eksikliklerin giderilmesi için plan ve program hazırlamak,
+n) Eğitim ile ilgili plan, program, etüt, proje ve araştırmaların zamanında gerçekleştirilmesi için gerekli tedbirleri alarak, karşılaşılan güçlükleri yetkililerle koordinasyon sağlayarak gidermek,
+o) Göreve yeni başlayan personelin eğitim ihtiyaçlarını tespit ederek, gerekli eğitim uygulamalarının yapılmasını sağlamak,
+ö) Her yıl sonunda hizmet içi eğitim çalışmalarından alınan sonuçları rapor halinde Rektöre sunmak,
+p) Hizmet içi eğitim sonuçlarını Eğitim Kuruluna sunmak,
+r) Hizmet içi eğitim başlamasından sonra en geç bir hafta içinde ilk, kapanışını izleyen iki hafta içerisinde de son raporu düzenleyerek ilgililere sunmak,
+s) Her eğitim programı için Rektörün onayı ile program yöneticisini tespit etmektir.

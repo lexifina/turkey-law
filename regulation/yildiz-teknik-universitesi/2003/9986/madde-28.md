@@ -1,0 +1,2 @@
+Saklı Hükümler
+Madde 28 —Bu Yönetmelikte hüküm bulunmayan hallerde "657 sayılı Devlet Memurları Kanunu, Devlet Memurları Eğitim Genel Planı, Yetiştirmek Amacıyla Yurtdışına Gönderilecek Devlet Memurları Hakkında Yönetmelik ile Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik" ve "Yüksek Öğretim Üst Kuruluşları ile Yüksek Öğretim Kurumları Personeli ile Üniversitelerde Görevde Yükselme Yönetmelik" hükümleri uygulanır.
