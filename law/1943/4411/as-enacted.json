@@ -1,0 +1,48 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4411",
+  "year": 1943,
+  "title": "Devlet Denizyolları İşletme Umum Müdürlüğünün 1943 malî yılı Bütçe Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-05-22",
+  "gazette_issue": "5410",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5410.pdf",
+  "source_sha256": "38ad0078df88fadd34a5f34c6299cad87634787f04482ef383bf252b65e0ddbc",
+  "text_sha256": "404291f42ef3d854736fa527310db613c3816c4554ba2a26a11f31007eedec2d",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      14,
+      569
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504411.pdf",
+    "source_sha256": "75d1373841aec128aba2e29ac28d8ee72cb15bb12c91b3e8d8cfb8026e81159a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9008,
+    "bag": 0.8822,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9985,
+    "rg_words": 2561,
+    "kd_words": 2673,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
