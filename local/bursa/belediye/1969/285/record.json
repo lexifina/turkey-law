@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Belediye Meclisi",
+  "number": "285",
+  "decision_date": "1969-02-01",
+  "title": "YILDIRIM SEMTİNİN ISLAHI",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1969-285.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1969",
+  "listing_sha256": "1a6de2185c8b481e7812e2f04eff94eb03c1ea50bac3d2c2fd523d528ee5b30b",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
