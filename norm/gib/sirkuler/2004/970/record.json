@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-14 / 2004-14",
+  "source_id": 970,
+  "date": "2004-05-05",
+  "title": "Bakanlığımıza intikal eden olaylardan, yurt içi teslimler ile ihraç kayıtlı teslimlerde aleyhe oluşan kur farklarının katma değer vergisine tabi tutulup tutulmayacağı konusunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/970",
+  "source_sha256": "51ab23307ecb4abd251991b65e29946f359d5506f8d38bb5f1c61717d31a0a20",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
