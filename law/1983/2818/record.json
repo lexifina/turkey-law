@@ -1,0 +1,110 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2818",
+  "year": 1983,
+  "title": "2429 Sayılı Ulusal Bayram ve Genel Tatiller Hakkında Kanunun 2 nci Maddesinin Birinci fıkrasının Değiştirilmesine Dair Kanun",
+  "adopted": "1983-04-20",
+  "adopted_as_published": "20/04/1983",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.4.1983 No: 18024 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602818.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 66",
+  "committee_reports": [
+    {
+      "label": "MGK 568 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c008/mgk_01008141ss0568.pdf"
+    },
+    {
+      "label": "DM 355no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016085ss0355.pdf"
+    },
+    {
+      "label": "DM 355ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016085ss0355ek01.pdf"
+    },
+    {
+      "label": "DM 381no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016085ss0381.pdf"
+    },
+    {
+      "label": "DM 381ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016085ss0381ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 151360,
+      "title": "2429 Sayılı Ulusal Bayram ve Genel Tatiller Hakkında Kanunun 2 nci Maddesinin Birinci fıkrasının Değiştirilmesine Dair Kanun",
+      "adopted_as_published": "20/04/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602818.pdf",
+      "committee_reports": [
+        {
+          "label": "MGK 568 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c008/mgk_01008141ss0568.pdf"
+        },
+        {
+          "label": "DM 355no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016085ss0355.pdf"
+        },
+        {
+          "label": "DM 355ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016085ss0355ek01.pdf"
+        },
+        {
+          "label": "DM 381no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016085ss0381.pdf"
+        },
+        {
+          "label": "DM 381ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016085ss0381ek01.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=501&v_kullanici_id=27483250",
+      "page_sha256": "c8f17855ba46fc768612c9928306ff488895bac71ffc91ce4c289d5bde1d88ce"
+    },
+    {
+      "assembly": "Danışma Meclisi",
+      "term": null,
+      "kayit_no": 143848,
+      "title": "2429 sayılı Ulusal Bayram ve Genel Tatiller Hakkında Kanunun 2 nci Maddesinin Birinci Fıkrasının Değiştirilme sine Dair Kanun",
+      "adopted_as_published": "20/04/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanundmc066/kanundmc06602818.pdf",
+      "committee_reports": [
+        {
+          "label": "DM 355 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016085ss0355.pdf"
+        },
+        {
+          "label": "DM 355ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016085ss0355ek01.pdf"
+        },
+        {
+          "label": "DM 381no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016085ss0381.pdf"
+        },
+        {
+          "label": "DM 381ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016085ss0381ek01.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=322&v_gelecek_sayfa=101&v_kullanici_id=27483253",
+      "page_sha256": "865902146506a3648609d3b60120d1560238fd89af425a017532a853430f753b"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "c8f17855ba46fc768612c9928306ff488895bac71ffc91ce4c289d5bde1d88ce",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1983-04-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 20/04/1983; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
