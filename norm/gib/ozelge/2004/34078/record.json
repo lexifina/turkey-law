@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5908-5",
+  "source_id": 34078,
+  "date": "2004-05-16",
+  "title": "Sanayi sicil belgesine haiz bir imalatçının yaptıracağı fason üretim için temin edeceği hammaddenin tecil-terkin kapsamında teslimi yapılamaz.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34078",
+  "source_sha256": "45866d9af9ae3f30de583289671d8a552649415920c30b3556de546e6c74a964",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
