@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-630/54800",
+  "source_id": 24662,
+  "date": "2001-10-15",
+  "title": "Elektrik abonelerinden tahsil edilen güvence bedellerinin güncelleştirilerek iade işleminde gelir vergisi ve fon payı kesintisi yapılması söz konusu değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24662",
+  "source_sha256": "e598a1b779aa419b7b9eccdc17f70ef6a17febbd6939feabaa47877bf8d0474d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
