@@ -1,0 +1,56 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2320",
+  "year": 1980,
+  "title": "1475 Sayılı İş kanununun 1927 Sayılı Kanunla Değişik 14 ncü Maddesinin Değiştirilmesi, 98 nci Maddesine Bir Fıkra Eklenmesi 193 Sayılı Gelir Vergisi Kanununun 1927 Sayılı Kanunla Değişik 25 nci Maddesinin 7 nci Fıkrasının Değiştirilmesi ve 4.7.1975 Tarihli 1927 Sayılı Kanunun 6 ncı Maddesinin Yürürlükten Kaldırılmasına Dair Kanun",
+  "adopted": "1980-10-17",
+  "adopted_as_published": "17/10/1980",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "23.10.1980 No: 17140",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc064/kanunmgkc064/kanunmgkc06402320.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 64",
+  "committee_reports": [
+    {
+      "label": "MGK 25 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c001/mgk_01001010ss0025.pdf"
+    },
+    {
+      "label": "MGK 25ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c001/mgk_01001010ss0025ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 150854,
+      "title": "1475 Sayılı İş kanununun 1927 Sayılı Kanunla Değişik 14 ncü Maddesinin Değiştirilmesi, 98 nci Maddesine Bir Fıkra Eklenmesi 193 Sayılı Gelir Vergisi Kanununun 1927 Sayılı Kanunla Değişik 25 nci Maddesinin 7 nci Fıkrasının Değiştirilmesi ve 4.7.1975 Tarihli 1927 Sayılı Kanunun 6 ncı Maddesinin Yürürlükten Kaldırılmasına Dair Kanun",
+      "adopted_as_published": "17/10/1980",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc064/kanunmgkc064/kanunmgkc06402320.pdf",
+      "committee_reports": [
+        {
+          "label": "MGK 25 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c001/mgk_01001010ss0025.pdf"
+        },
+        {
+          "label": "MGK 25ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c001/mgk_01001010ss0025ek01.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "2f3890ed3c96aad1fce2f114dda385453506188d7e47cb9a4f3f663ebcbcc392"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2f3890ed3c96aad1fce2f114dda385453506188d7e47cb9a4f3f663ebcbcc392",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1980-10-17",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 17/10/1980; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
