@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5317-2003-3846",
+  "source_id": 31936,
+  "date": "2005-01-27",
+  "title": "Bankalara ait ATM cihazlarının konulması amacıyla yapılan kiralama işlemlerinin, iktisadi işletmelere dahil olmayan gayrimenkullerin kiralanması niteliğinde olması ve bu tür kiralama işlemlerinde üretim veya işletme hakkının kiralanması gibi durumların da",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31936",
+  "source_sha256": "a9b7b9d41c8522b41c372b712c40f6abb52a8f59201b7944fae2885835633c8c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
