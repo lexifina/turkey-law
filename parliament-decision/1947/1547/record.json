@@ -1,0 +1,82 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1547",
+  "year": 1947,
+  "title": "1547 sayılı Karar",
+  "adopted": "1947-05-30",
+  "adopted_as_published": "30/05/1947",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09.06.1947 No: 6627",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/karartbmmc029/karartbmmc02901547.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 29",
+  "committee_reports": [
+    {
+      "label": "TBMM 162 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005066ss0162.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 8,
+      "kayit_no": 78431,
+      "title": "1547 sayılı Karar",
+      "adopted_as_published": "30/05/1947",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/karartbmmc029/karartbmmc02901547.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 162 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005066ss0162.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 53,
+          "sitting_date": "1947-04-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005fih.pdf",
+          "pages": [
+            "58"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 64,
+          "sitting_date": "1947-05-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005064.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005fih.pdf",
+          "pages": [
+            "216"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 66,
+          "sitting_date": "1947-05-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005066.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005fih.pdf",
+          "pages": [
+            "260"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "9fc7a908492f11447d671fb1f18178ed31018559fb1974401107463345d50af5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9fc7a908492f11447d671fb1f18178ed31018559fb1974401107463345d50af5",
+  "issuer": "TBMM",
+  "in_force": "1947-05-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 30/05/1947; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
