@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.61/6109-114/9055",
+  "source_id": 36442,
+  "date": "2001-02-14",
+  "title": "Otomobilin ithal vya yerli olmasının taşıt alım vegisini etkilemez.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36442",
+  "source_sha256": "0c7175d1945e138f13ba7509246a1517c5cde0bf063cbf4337b054f4eef232e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
