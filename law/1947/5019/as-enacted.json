@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5019",
+  "year": 1947,
+  "title": "İş Kazaları ile Meslek Hastalıkları ve Analık Sigortalan hakkında 4772 sayılı Kanunun bazı maddelerinin değiştirilmesine ve bazı maddelerinin kaldırılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-02-26",
+  "gazette_issue": "6542",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6542.pdf",
+  "source_sha256": "0eea5b27e34dda869baa6bb00066346fdba9864c605daada8d003279087a71db",
+  "text_sha256": "24560ecee8216250082ceeab880fe4fd841263c31c75bc8e5c13cd34c6ad4319",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      295,
+      479
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905019.pdf",
+    "source_sha256": "02d9eb83a4054faa04beb8dd1d3345e5685d09c16375941273b3e0b468d9085b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9556,
+    "bag": 0.7978,
+    "kd_coverage": 0.9978,
+    "kd_body_compared": 0.9957,
+    "rg_words": 894,
+    "kd_words": 920,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
