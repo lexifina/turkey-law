@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.0 7.0.GEL.0.53/5301-2680/22131",
+  "source_id": 30028,
+  "date": "1997-05-28",
+  "title": "Fakülte tarafından öğrencilere verilen pedagojik formasyon derslerine ilişkin bedel üzerinden K.D.V.'ye tabi olacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30028",
+  "source_sha256": "323dfe4e28ff47d8f3122aea67fbafdea72a1c7a3d435ef1bc6d2c54eda9bc1d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
