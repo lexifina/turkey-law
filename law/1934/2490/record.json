@@ -1,0 +1,93 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2490",
+  "year": 1934,
+  "title": "Arttırma ve eksiltme ve ihale Kanunu",
+  "adopted": "1934-06-02",
+  "adopted_as_published": "02/06/1934",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "10.06.1934 No: 2723",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302490.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 13",
+  "committee_reports": [
+    {
+      "label": "TBMM 140 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022051ss0140.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112612,
+      "title": "Arttırma ve eksiltme ve ihale Kanunu",
+      "adopted_as_published": "02/06/1934",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302490.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 140 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022051ss0140.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 22,
+          "sitting": 51,
+          "sitting_date": "1934-05-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022fih.pdf",
+          "pages": [
+            "115:129"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 52,
+          "sitting_date": "1934-05-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022fih.pdf",
+          "pages": [
+            "140:146"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 53,
+          "sitting_date": "1934-05-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022fih.pdf",
+          "pages": [
+            "161:176"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 63,
+          "sitting_date": "1934-06-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023063.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023fih.pdf",
+          "pages": [
+            "10:24"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=601&v_kullanici_id=27483155",
+      "page_sha256": "5f041f49ba2ca557390fd11af81fa00834bdb0331a9d785daae3de9cfbe2dd9c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5f041f49ba2ca557390fd11af81fa00834bdb0331a9d785daae3de9cfbe2dd9c",
+  "issuer": "TBMM",
+  "in_force": "1934-06-02",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 02/06/1934; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
