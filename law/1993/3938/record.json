@@ -1,0 +1,96 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3938",
+  "year": 1993,
+  "title": "Uluslararası Demiryolu Taşımalarına İlişkin Sözleşmenin Değiştirilmesine Dair 1989 ve 1990 Yıllarında Yapılan Revizyon Komisyonu Toplantılarında Kabul Edilen Ekler ile 1990 Protokolünün Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "adopted": "1993-12-07",
+  "adopted_as_published": "07/12/1993",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.12.1993 No: 21788",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703938.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 77",
+  "committee_reports": [
+    {
+      "label": "TBMM 248 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c045/tbmm19045036ss0248.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 268560,
+      "title": "Uluslararası Demiryolu Taşımalarına İlişkin Sözleşmenin Değiştirilmesine Dair 1989 ve 1990 Yıllarında Yapılan Revizyon Komisyonu Toplantılarında Kabul Edilen Ekler ile 1990 Protokolünün Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+      "adopted_as_published": "07/12/1993",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703938.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 248 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c045/tbmm19045036ss0248.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 18,
+          "sitting": 13,
+          "sitting_date": "1992-10-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c018/tbmm19018013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c018/tbmm19018fih.pdf",
+          "pages": [
+            "394"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 64,
+          "sitting_date": "1993-02-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c029/tbmm19029064.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c029/tbmm19029fih.pdf",
+          "pages": [
+            "73"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 36,
+          "sitting_date": "1993-12-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c045/tbmm19045036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c045/tbmm19045fih.pdf",
+          "pages": [
+            "171:172",
+            "264:268"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 37,
+          "sitting_date": "1993-12-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c045/tbmm19045037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c045/tbmm19045fih.pdf",
+          "pages": [
+            "338",
+            "357:358",
+            "438:443"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=101&v_kullanici_id=27483194",
+      "page_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1",
+  "issuer": "TBMM",
+  "in_force": "1993-12-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 07/12/1993; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
