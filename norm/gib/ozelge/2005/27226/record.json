@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3044-371-749/11230",
+  "source_id": 27226,
+  "date": "2005-03-08",
+  "title": "Pişmanlık zammı, yalnızca oran olarak gecikme zammına bağlanmış olup, her ay ve kesiri için hesaplanmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27226",
+  "source_sha256": "c6ba204d72e3d644e372558f192c3ade5ac83327ccfde8669caeb3557df7a792",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
