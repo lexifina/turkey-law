@@ -1,0 +1,13 @@
+{
+  "number": "00-46/488-266",
+  "type": "Rekabet İhlali",
+  "decision_date": "2000-11-23",
+  "publication_date": "2002-07-23",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=0a9be0c7-cc33-48a7-9b8a-d63104cc5bec",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1022",
+  "pdf_sha256": "1f6b59f19b4bc196dcdf63dee750f06a7d98fe5cd7a6b188c20479b3c2aa56cc",
+  "pdf_bytes": "329888",
+  "pages": "7",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
