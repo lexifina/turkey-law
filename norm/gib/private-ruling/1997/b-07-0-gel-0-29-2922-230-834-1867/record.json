@@ -1,0 +1,18 @@
+{
+  "checked_on": "2026-11-14",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "kind": "private-ruling",
+  "official_date": "1997-01-16",
+  "official_number": "B.07.0.GEL.0.29/2922-230-834/1867",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26205",
+  "source_id": "ozelge:26205",
+  "source_row_sha256": "6bf475c6ddc0d6c7e02fc7dfa6f271419ea23ba4557b852087ca8732525d37be",
+  "title": "Sevk irsaliyesi hakkında fiyat ve bedel ile ilgili bilgiler hariç olmak üzere, Vergi Usul Kanununun 230 ve 231 nci madde hükümleri uygulanmakta olup, irsaliyelerde malın nereye ve kime gönderildiği ayrıca belirtilir.",
+  "version_label": "as-enacted",
+  "word_count": 216
+}
