@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82541,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "EMİN HALİM ERGUN (ANKARA)",
+  "summary": "Ve 11 Arkadaşı Avukatlık Kanununun 8,14,15 ve 20. maddeleriyle bu Kanunun bazı maddelerinin değiştirilmesi hakkında 4359 sayılı Kanunun 1 ncive 19. maddelerinin değiştirilmesine ve geçici bir madde eklenmesine dair (2/85)",
+  "title": "Ve 11 Arkadaşı Avukatlık Kanununun 8,14,15 ve 20. maddeleriyle bu Kanunun bazı maddelerinin değiştirilmesi hakkında 4359 sayılı Kanunun 1 ncive 19. maddelerinin değiştirilmesine ve geçici bir madde eklenmesine dair (2/85)",
+  "first_sitting_date": "1948-01-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 31,
+      "sitting_date": "1948-01-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c009/tbmm08009031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c009/tbmm08009fih.pdf",
+      "pages": [
+        "30"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 42,
+      "sitting_date": "1948-02-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c010/tbmm08010042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c010/tbmm08010fih.pdf",
+      "pages": [
+        "105"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 43,
+      "sitting_date": "1948-02-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c010/tbmm08010043.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c010/tbmm08010fih.pdf",
+      "pages": [
+        "162:189"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "89cc5dc0771589931f54f69e2061a823b93c6e7c7053bfb30e7d1db40ada367c",
+  "in_force": "1948-01-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
