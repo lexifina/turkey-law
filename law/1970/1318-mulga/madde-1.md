@@ -1,0 +1,2 @@
+Madde 1 – (29/7/1970 tarih ve 1318 sayılı Kanunun hükmüdür.)
+Trafik şube veya bürolarına kayıtlı olan ve bu kanunun 4,5 ve 6 ncı maddelerinde yazılı tarifelerde gösterilen taşıtların ivaz mukabili veya hibe suretiyle intikalinde (Mülkiyeti muhafaza kaydiyle yapılan satışlar dahil) bu taşıtları satın alanlar veya hibe suretiyle edinenler ile trafik şube veya bürolarına kayıtlı olmıyan ve aynı tarifelerde yazılı taşıtları çeşitli yollarla iktisap edenler, taşıt alım vergisini ödemeye mecburdurlar.

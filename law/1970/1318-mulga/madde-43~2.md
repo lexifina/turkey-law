@@ -1,0 +1,3 @@
+Madde 43 – (25/6/1981 tarih ve 2484 sayılı Kanunun hükmüdür.)
+Arsa, arazi ve bunlar üzerindeki binaların (Bağımsız bölümler dahil) hisse üzerinden veya taksim veya ifraz suretiyle devir ve temlik edilmesi halinde, muameleye konu olan gayrimenkulün vergisi, gayrimenkulün tümü için rayiç bedel esas alınmak suretiyle hesaplanan verginin, muamele konusu gayrimenkule isabeteden kısmından aşağı olamaz. Bu verginin hesaplanmasında; muamele konusu gayrimenkulün iktisap maliyetinin, bu gayrimenkulün tümünün iktisap maliyetine olan oranı esas alınır.
+Muamele konusu gayrimenkulün iktisap maliyeti ise, bu gayrimenkul karşılığında iktisap olunan değerlerin gayrimenkulün tümünün rayiç bedeline oranlanması suretiyle bulunur.

@@ -1,0 +1,3 @@
+Madde 30 – (29/7/1970 tarih ve 1318 sayılı Kanunun hükmüdür.)
+İşletme Vergisini Satış Vergisi olarak ödemeye mecbur olanlar, Maliye Bakanlığınca hazırlanmış bulunan perakende satış vesikalarını her bir muamele için kullanmak mecburiyetindedirler. Bu vesikaları vermiyen mükelleflere aynı yıl için birinci tespitte 500 lira, ikinci tespitte 1.000 lira, üçüncü ve müteakip tespitlerde ikişer bin lira usulsüzlük cezası kesilir.
+Alıcılar, perakende satış vesikalarını talep, muhafaza ve sorulduğunda 31 inci maddede yazılı memurlara emtia ile birlikte ibraz etmeye mecburdurlar. Bu mükellefiyeti yerine getirmiyenlerden her bir muamele için 50 lira ceza alınır.

@@ -1,0 +1,4 @@
+Madde 46 – (25/6/1981 tarih ve 2484 sayılı Kanunun hükmüdür.)
+Tapu memurları ve noterler asgari verginin ödendiğine, tezyidi bedel farkı ödeyecek saymanlar bu vergi ile ilişiğinin bulunmadığına dair belge ibraz edilmedikçe işlem yapamaz ve ödemede bulunamazlar. Asgari verginin tamamen yatırılmasından önce işlem yapan tapu memurları ve noterler ile ilgili vergi dairesinden alınmış ilişiği bulunmadığına dair belge olmaksızın tezyidi bedel farkı ödeyen saymanlar vergilerin ödenmesinden mükellefler ile birlikte müteselsilen sorumludurlar.
+Bu madde gereğince vergiyi ödemek zorunda kalanlar,ödedikleri vergiler için mükelleflere rücu edebilirler.
+6 – 2/11/1984 tarih ve 3065 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları :47,48,49,50,51,52 ve 53)

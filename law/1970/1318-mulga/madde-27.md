@@ -1,0 +1,4 @@
+Madde 27 – (29/7/1970 tarih ve 1318 sayılı Kanunun hükmüdür.)
+Bu kanun yürürlüğe girdikten sonra, mükellefler onbirinci maddenin I inci veya II nci fıkralarında gösterilen vergilendirme şekillerinden hangisini tercih ettiklerini Maliye Bakanlığınca seçilecek haberleşme araçlarıyla yapılacak 3 gün süreli ilanlardan sonra geçecek 15 gün içinde ilgili vergi dairesine bildirmek mecburiyetindedirler. Bu bildirime süresinde uymayan mükellefler I inci fıkraya göre vergilendirilmeyi kabul etmiş sayılırlar.
+Yeniden işe başlayan mükellefler, işe başladıkları ay içinde vergilendirilme şeklini seçip ilgili vergi dairesine bildirmeye mecburdurlar.
+Onbirinci maddenin II nci fıkrasında gösterilen vergilendirme şeklini seçen mükellefler, aynı işe devam ettikleri müddetçe 3 yıl için bu usulden dönemezler. I inci fıkradaki vergilendirme şeklini seçen mükellefler ise, müteakıp yıl bu usulden dönebilirler.

@@ -1,0 +1,2 @@
+Madde 29 – (29/7/1970 tarih ve 1318 sayılı Kanunun hükmüdür.)
+İşletmede vergi dairelerince mühürlenmiş makinalı kasa veya Maliye Bakanlığınca hazırlanmış perakende satış vesikası bulundurmıyan mükelleflere birinci tespitte 3.000 lira, ikinci tespitte 5.000 lira usulsüzlük cezası kesilir; 3 üncü tespitte vergi dairesinin teklifi üzerine işletme, yetkili mahkemeler karariyle 3 aydan az olmamak üzere 1 seneye kadar süreyle kapatılır.

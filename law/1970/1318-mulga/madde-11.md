@@ -1,0 +1,5 @@
+Madde 11 – (29/7/1970 tarih ve 1318 sayılı Kanunun hükmüdür.)
+I– Bu Kanuna bağlı I numaralı tabloda gösterilen hizmet işletmelerini işletenler, mezkür tabloda gösterilen hadlerde işletme vergisini ödemeye mecburdurlar.
+II– Bu Kanuna bağlı II numaralı tabloda gösterilen işletmeleri işletenler ve aynı tabloda yazılı emtianın perakende satışını yapanlar ile I numaralı tabloda asgari ve azami hadleri gösterilen derecelere göre vergilendirilmek istemeyen mükellefler kendi talepleri üzerine, I ve II numaralı tablolarda gösterilen nispetler üzerinden ve Maliye Bakanlığınca hazırlanacak perakende satış vesikalarını veya aynı vesikaları makinalı kasalarda kullanmak suretiyle tahsil ettikleri işletme vergisini satış vergisi olarak ödemeye mecburdurlar.
+Makinalı kasaların işletilmesi ve perakende satış vesikalarının düzenlenmesi ile kullanılmasına müteallik esaslar, Maliye Bakanlığınca hazırlanacak bir yönetmelikte belirtilir.
+Bu maddede belirtilen tablolarda gösterilen konularda perakende satış yapan toptancı mükellefler de işletme vergisine tabidir.

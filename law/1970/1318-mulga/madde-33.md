@@ -1,0 +1,2 @@
+Madde 33 – (29/7/1970 tarih ve 1318 sayılı Kanunun hükmüdür.)
+Türkiye'deki arazi,arsa veya bunların üzerindeki binaların (Bağımsız bölümler dahil) ivazlı veya ivazsız (veraset yolu ile intikaller ve kanuni mirasçılara yapılan şartlı veya şartsız hibeler, kanuni mirasçılar arasında yapılan hernev'i taksim, ifraz, temlik veya trampalar ile müşterek malikler arasında yapılantaksim ve ifrazlar hariç) devir ve temlikinden ve bunların karşılıklı olarak trampa edilmesinden doğan değer farkları vergiye tabidir.

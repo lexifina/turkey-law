@@ -1,0 +1,3 @@
+Madde 46 – (29/7/1970 tarih ve 1318 sayılı Kanunun hükmüdür.)
+Tapu memurları, vergi teminatının yatırıldığını gösteren makbuz ibraz edilmedikçe, tapu işlemlerini yapamazlar. Gerekli teminatın tamamen yatırılmasından önce muamele yapan tapu memurları vergi teminatının ödenmesinden mükellefler ile birlikte müteselsilen sorumludurlar. İlgili memurlar bu madde gereğince ödemeye mecbur oldukları meblağlar için mükelleflere rücu edebilirler.
+5 – 21/1/1982 tarih ve 2588 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları : 33,34,35,36,37,38,39,40,41,42,43,44,45 ve 46)

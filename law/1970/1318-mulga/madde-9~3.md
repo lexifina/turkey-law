@@ -1,0 +1,5 @@
+Çeşitli Hükümler
+Madde 9 – (24/3/1988 tarihli ve 3418 sayılı Kanunun hükmüdür.)
+Trafik, belediye ve liman sicil memurları, noterler, gümrük memurları, Ulaştırma Bakanlığı sivil hava vasıtaları sicil memurları ile yetkili satıcılar ve motorlu araç ticareti yapanlar gibi, taşıtların her türlü iktisap, ithal ve devir işlemlerini yapanlar, iktisap, ithal ve devir işlemlerinin tamamlanmasından önce, ilgili vergi dairesince düzenlenmiş taşıt alım vergisinin ödendiğini gösterir belgeyi istemeye ve bu belgelerdeki bilgileri muhtevi listeleri, işlemlerin bitimini takip eden ayın 15 inci gününe kadar ilgili vergi dairesine göndermeye mecburdurlar.
+Bu mecburiyete uymamak suretiyle gerekli verginin ödenmesinden önce işlem yapanlar, ödenmeyen vergi, vergi cezası ve gecikme faizinden mükellef ile birlikte müteselsilen sorumludurlar. Ancak bunlar, ödemek mecburiyetinde kaldıkları vergiler için mükellefe rücu hakkına sahiptirler.
+Listelerin şekli ve muhtevası Maliye ve Gümrük Bakanlığınca tesbit olunur.

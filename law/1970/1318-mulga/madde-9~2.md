@@ -1,0 +1,3 @@
+Madde 9 – (26/11/1980 tarih ve 2346 sayılı Kanunun hükmüdür.)
+Trafik, belediye ve liman sicil memurları, noterler, gümrük memurları, Ulaştırma Bakanlığı Sivil Hava Vasıtaları sicil memurları ile yetkili satıcılar ve motorlu araç ticareti yapanlar, iktisap, ithal ve devir işlemlerinin tamamlanmasından önce, ilgili vergi dairesince düzenlenmiş Taşıt Alım Vergisinin ödendiğini gösterir belgeyi istemeye ve bu belgelerdeki bilgileri muhtevi listeleri, işlemlerin bitimini takip eden ayın 15 nci gününe kadar, ilgili vergi dairesine göndermeye mecburdurlar.
+Listelerin şekli ve muhtevası Maliye Bakanlığınca tespit olunur.

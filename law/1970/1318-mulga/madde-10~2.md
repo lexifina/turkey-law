@@ -1,0 +1,2 @@
+Madde 10 – (26/11/1980 tarih ve 2346 sayılı Kanunun hükmüdür.)
+Gerekli verginin ödenmesinden önce, işlemleri yapan veya 9 uncu maddedeki mecburiyete uymayan trafik, belediye, liman ve hava vasıtaları sicil memurları ile noterler ve gümrük memurları ve motorlu araç ticareti yapanlar, verginin ödenmesinden mükellef ile müteselsilen sorumludurlar. Ancak, bunlar ödemek mecburiyetinde kaldıkları vergiler için mükellefe rücu hakkına sahiptirler.
