@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "264/7",
+  "decision_date": "2003-12-31",
+  "title": "İletim Sistemi Sistem Kullanım ve Sistem İşletim Fiyatları Metodolojisi Bildirimi Hakkında",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=T81TsJPd6HE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=T81TsJPd6HE="
+  ],
+  "source_sha256": "bb222387e0a4740780fcbdb6633427344c35c7e939b94ebc83c6508a00b570ce",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-12-31",
+  "law_text_complete": false
+}
