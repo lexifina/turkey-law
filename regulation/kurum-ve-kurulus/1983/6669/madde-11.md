@@ -1,0 +1,3 @@
+Başvuru ve Yapılacak İşlem
+Madde 11- Sigortalı veya hak sahipleri tarafından, aylığa katılacak kurumlardan herhangi birine, bu kurumun mevzuatına göre tahsis için yapılan ve kurum kayıtlarına alınmış olan başvuru, aylığı başlayacağı Kurum mevzuatına göre de geçerli sayılır.
+Başvuruyu alan kurum, ilgilinin diğer kurumlarda geçen hizmet sürelerini ve kendi mevzuatına göre gerekli tahsis belgelerini temin eder. Ancak, aylığın diğer bir kurum tarafından bağlanması gerektiğinin anlaşılması halinde, yazılı başvurunun aslı ve bu zamana kadar temin edilmiş olan tahsis belgeleri ile birlikte kendisinde geçmiş hizmet sürelerini ve gerekli ise kazanç durumunu aylığı bağlıyacak Kuruma bildirir.

@@ -1,0 +1,2 @@
+Birleştirilmeyecek Hizmetler:
+Madde 5- 1479 sayılı Bağ-Kur Kanununun Ek Geçici 4. Maddesine göre isteğe bağlı sigortalıların geriye doğru yaptıkları 10 yıllık borçlanma karşılığı kazanılan hizmet süreleri diğer Kurum ve Sandıklardan aylık bağlanması halinde bu kurumlarda geçen hizmetlerle birleştirilmeyeceklerdir. Ancak, Bağ-Kur’dan aylık bağlanması halinde diğer Kurum ve Sandıklardaki hizmetlerle birleştirilir.

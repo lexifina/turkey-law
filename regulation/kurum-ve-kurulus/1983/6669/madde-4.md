@@ -1,0 +1,3 @@
+Sigortalılık Süresinin Başlangıcı:
+Madde 4- Kurumlardan herhangi birine ilk defa sigortalı olunan tarih, diğer kurumlarda da sigortalılık süresinin başlama tarihidir.
+Şu kadar ki, emeklilik veya yaşlılık aylığına hak kazanılıp, kazanılmadığının tespitinde 18 yaşın doldurulduğu tarih sigortalılığın başlangıcı olarak alınır. Ancak, 5434 sayılı T.C. Emekli Sandığı Kanununa 1425 sayılı kanunla eklenen Ek 7. Madde kapsamına giripte bir meslek öğrenimi göreerek, meslekleri ile ilgili görevlerde kazai rüşt kararı almak suretiyle 15 yaşını doldurduktan ve 1/12/1970 tarihinden sonra T.C. Emekli Sandığına tabi görevlere girenlerle, 1/4/1981 tarihinden önce Sosyal Sigortalar Kurumunda 18 yaşın dolumundan önce sigortalı olarak tescil edilmiş bulunanların hakları saklıdır.
