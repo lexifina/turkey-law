@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 235715,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "CUMHURBAŞKANINCA GERİ GÖNDERİLEN KANUNLAR",
+  "heading_as_published": "Cumhurbaşkanınca Geri Gönderilen Kanunlar",
+  "summary": "26.9.1990 Tarih ve 3661 Sayılı Türkiye Büyük Millet Meclisi Üyelerin ödenek, yolluk ve emekliliklerine Dair Kanun",
+  "title": "26.9.1990 Tarih ve 3661 Sayılı Türkiye Büyük Millet Meclisi Üyelerin ödenek, yolluk ve emekliliklerine Dair Kanun",
+  "first_sitting_date": "1990-10-10",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 49,
+      "sitting": 18,
+      "sitting_date": "1990-10-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c049/tbmm18049018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c049/tbmm18049fih.pdf",
+      "pages": [
+        "249:256"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7ebc8798fc8a39b6a62382a7a50fce7b7f2f6c195bfb7f7fc8c1fdfbac4b409b",
+  "in_force": "1990-10-10",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
