@@ -1,0 +1,68 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3707",
+  "year": 1939,
+  "title": "Tapu ve Kadastro Umum Müdürlüğünün Adliye Vekâletine bağlanmasına dair kanun",
+  "adopted": "1939-07-07",
+  "date_basis": "last-sitting",
+  "official_gazette_as_published": "14.07.1939 No: 4258",
+  "committee_reports": [
+    {
+      "label": "TBMM 192 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c004/tbmm06004037ss0192.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96169,
+      "title": "Tapu ve Kadastro Umum Müdürlüğünün Adliye Vekâletine bağlanmasına dair kanun",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [
+        {
+          "label": "TBMM 192 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c004/tbmm06004037ss0192.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 36,
+          "sitting_date": "1939-07-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c004/tbmm06004036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c004/tbmm06004fih.pdf",
+          "pages": [
+            "102"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 37,
+          "sitting_date": "1939-07-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c004/tbmm06004037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c004/tbmm06004fih.pdf",
+          "pages": [
+            "179"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=794&v_gelecek_sayfa=701&v_kullanici_id=27483166",
+      "page_sha256": "2bb1a805e5f1ffa20ac9d830ad43317bb39f7ac6939121fa2bb4d4913f11b56a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2bb1a805e5f1ffa20ac9d830ad43317bb39f7ac6939121fa2bb4d4913f11b56a",
+  "issuer": "TBMM",
+  "in_force": "1939-07-07",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (1939-07-07); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
