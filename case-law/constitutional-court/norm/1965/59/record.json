@@ -1,0 +1,70 @@
+{
+  "id": "c7610025-3153-2c7d-4646-a1d8af1d1ac8",
+  "decision_number": "1965/59",
+  "case_number": "1964/38",
+  "decision_date": "1965-11-16",
+  "published_date": "1966-01-12",
+  "source_publication_date": "1965-11-19",
+  "gazette_number": 12200,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1965/59",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "db4fbbb099291792290e82b0ca9c19996e7531758b80a347f67b37fff6c2a6e4",
+  "version_label": "as-enacted",
+  "in_force": "1965-11-16",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": true,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1964-07-17",
+      "normNumaraAdParamId": "8b28e149-668e-a4d0-c2d8-f44e67c2d567",
+      "incelemeturuKarsonucuParamId": "b70853bc-8190-61fb-36c6-4565bb3e5124",
+      "sonucGerekcesiParamId": "e593c292-8963-c0be-721c-41882e63ae9b",
+      "kararYururlulukDurumu": "1966-05-12 00:00:00",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "tamamı",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": true,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/7"
+        },
+        {
+          "hukum": "1961/14"
+        },
+        {
+          "hukum": "1961/15"
+        },
+        {
+          "hukum": "1961/16"
+        },
+        {
+          "hukum": "1961/30"
+        },
+        {
+          "hukum": "1961/31"
+        },
+        {
+          "hukum": "1961/32"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 4143
+}
