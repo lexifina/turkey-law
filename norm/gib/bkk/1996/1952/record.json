@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "95/7619",
+  "source_id": 1952,
+  "date": "1996-01-07",
+  "title": "3418 SAYILI KANUNUN 7 İNCİ MADDESİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/494/bkk/1952",
+  "related_law": "3418 sayılı EĞİTİM, GENÇLİK, SPOR VE SAĞLIK HİZMETLERİ VERGİSİNİN İHDASI İLE 3074 SAYILI AKARYAKIT TÜKETİM VERGİSİ KANUNU, 197 SAYILI MOTORLU TAŞITLAR VERGİSİ KANUNU, 1318 SAYILI FİNANSMAN KANUNU, 193 SAYILI GELİR VERGİSİ KANUNU, 213 SAYILI VERGİ USUL KANUNU, 6183 SAYILI AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN VE 492 SAYILI HARÇLAR KANUNUNDA DEĞİŞİKLİKLER YAPILMASI VE BU KANUNLARA BAZI HÜKÜMLER EKLENMESİNE DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "d2ab4200286a114b134740966ddcf505ce16197f382952e44c7d407c51c7e31f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
