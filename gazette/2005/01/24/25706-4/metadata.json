@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-01-24",
+  "issue": "25706",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "İzmir Ekonomi Üniversitesi Meslek Yüksekokulu Eğitim-Öğretim Süresiyle Sınav ve Değerlendirme Esaslarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050124-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050124.htm",
+  "index_sha256": "a8f5d786df7458f40bf4179ff4e53dfb8a8a0939167000b5f66a1ecd2b92a06f",
+  "index_header": "24 Ocak 2005 ... Sayı : 25706",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
