@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2177",
+  "year": 1933,
+  "title": "Devlet memurları maaşatının tevhid ve teadülüne dair olan 18.5.1929 tarih ve 1452 numaralı Kanunun 13 ncü maddesindeki 6 aylık kayitten Darülfünun müderris ve muallimlerinin istisnası hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-05-20",
+  "gazette_issue": "2405",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2405.pdf",
+  "source_sha256": "0e4c2f4d7082948b9753850a208319c84a6dc6af6d0178949fe7fbc8dcb53747",
+  "text_sha256": "6946b5e855bd16d854431e65d7209cc511902584506df24d498477fe0a19244f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      43,
+      69
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202177.pdf",
+    "source_sha256": "7265b68a897641c0ccbe24e258d11bcf862066bbc0d741b7f84ee07ee70129ce",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.922,
+    "bag": 0.8416,
+    "kd_coverage": 0.97,
+    "kd_body_compared": 0.7717,
+    "rg_words": 104,
+    "kd_words": 127,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
