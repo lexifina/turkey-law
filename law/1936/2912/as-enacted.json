@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2912",
+  "year": 1936,
+  "title": "Millî Müdafaa Vekâleti deniz kısmı 1935 malî yılı bütçesinde yeniden açılacak fasla 2 100 000 liralık fevkalâde tahsisat konulmasına ve 936 yılına sari taahhüdat icrasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-02-07",
+  "gazette_issue": "3226",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3226.pdf",
+  "source_sha256": "4b1a974542c9d4738e6130c94b5a8b96fc1b52d31dbf078634951d1dbfdd68f1",
+  "text_sha256": "92a8abd290ffbb0d2bbf68ac1359c957f93e986fe7c54efadaa2556fd66e73ce",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      65,
+      97
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602912.pdf",
+    "source_sha256": "c90b4dd160155aa088bcddef9ce5c096796023cf4f80e6dec6a5817ec2a707ec",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9491,
+    "bag": 0.8494,
+    "kd_coverage": 0.9922,
+    "kd_body_compared": 0.9771,
+    "rg_words": 131,
+    "kd_words": 131,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
