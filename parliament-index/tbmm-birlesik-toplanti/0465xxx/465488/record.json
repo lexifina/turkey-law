@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 465488,
+  "assembly": "TBMM Birleşik Toplantı",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Belediye Kanununda değişiklikler yapılmasına ve ilgili bazı kanunların kaldırılmasına dair kanun tasarısı ile Cumhuriyet Senatosu İçel Üyesi Cavit Tevfik Okyayuz ve 6 arkadaşının, 1580 sayılı Belediye Kanununa bazı maddeler eklenmesine, bazı maddelerinin değiştirilmesine ve kaldırılmasına ve 5669, 6424, 6555, 7363 sayılı kanunların kaldırılmasına dair kanun teklifi ve Edirne Milletvekili İlhami Ertem'in, 1580 sayılı Belediye Kanununun 76, 89, 91 ve 92. maddelerinin değiştirilmesi hakkında kanun teklifine dair (1/427, 2/191, 2/336)",
+  "title": "Belediye Kanununda değişiklikler yapılmasına ve ilgili bazı kanunların kaldırılmasına dair kanun tasarısı ile Cumhuriyet Senatosu İçel Üyesi Cavit Tevfik Okyayuz ve 6 arkadaşının, 1580 sayılı Belediye Kanununa bazı maddeler eklenmesine, bazı maddelerinin değiştirilmesine ve kaldırılmasına ve 5669, 6424, 6555, 7363 sayılı kanunların kaldırılmasına dair kanun teklifi ve Edirne Milletvekili İlhami Ertem'in, 1580 sayılı Belediye Kanununun 76, 89, 91 ve 92. maddelerinin değiştirilmesi hakkında kanun teklifine dair (1/427, 2/191, 2/336)",
+  "first_sitting_date": "1963-07-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 7,
+      "sitting_date": "1963-07-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t02/c002/tbmm02002007.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t02/c002/tbmm02002fih.pdf",
+      "pages": [
+        "128",
+        "130:132"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=8&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=8&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=324&v_gelecek_sayfa=101&v_kullanici_id=27484928",
+  "source_sha256": "6f644aa803915c9b98d2d1f98925c5febfb42ac1c0d491b81c38f5450d6e2e7f",
+  "in_force": "1963-07-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
