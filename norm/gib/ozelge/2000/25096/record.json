@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3028-355-34/17774",
+  "source_id": 25096,
+  "date": "2000-04-18",
+  "title": "Mükellefler tarafından muhtasar beyanname ve KDV yıllık bildirimlerinin süresinde verilmediğinin tespit edilmesi halinde, V.U.K.'na göre cezai işlem yapılıp yapılmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25096",
+  "source_sha256": "ae641178c79da391ee3303b64eff316c31380cc1543a1639bdd4d8f474e41572",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
