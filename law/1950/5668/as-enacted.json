@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5668",
+  "year": 1950,
+  "title": "Muamele Vergisi Kanununun 9ncu Maddesinin Değişik 12nci Fıkrasının (A) Bendinin Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-07-08",
+  "gazette_issue": "7553",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7553.pdf",
+  "source_sha256": "08b212eab2d5172d15f7caf3dc07061a6e4eb5bf554bdb0b37cdba3768250f04",
+  "text_sha256": "ea5388d70b88919b6d18677a234c27f922ddce82347f9bcb49ec0b559b5bfc31",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      113,
+      143
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305668.pdf",
+    "source_sha256": "8ebdda6559050e48b30be0ad8630d4eb7cc23b0547525b3bb3b1bb5c7298f001",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9572,
+    "bag": 0.8859,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.989,
+    "rg_words": 189,
+    "kd_words": 181,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
