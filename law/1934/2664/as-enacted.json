@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2664",
+  "year": 1934,
+  "title": "Ziraat Vekâletine bağlı Ankara Yüksek Ziraat Enstitüsü ile mektepler ve müesseselerde kullanılacak yabancı Devlet tebaasının profesör, mütehassıs ve ustalar hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-01-01",
+  "gazette_issue": "2895",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2895.pdf",
+  "source_sha256": "5af2cd87223ac89c929bcc19cb459eee2b8fdba2ff41924273cdb55f0268fc6f",
+  "text_sha256": "c350c07f311fef9a932de5d5e9319a18221d4bd7f2219c78907e239fbac25d45",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      505,
+      524
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402664.pdf",
+    "source_sha256": "16f11f5b71e880e6d2cf516b5ad4e0973f95f9b2e413db399723debfe1020344",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9264,
+    "bag": 0.9078,
+    "kd_coverage": 0.9559,
+    "kd_body_compared": 0.9296,
+    "rg_words": 75,
+    "kd_words": 71,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
