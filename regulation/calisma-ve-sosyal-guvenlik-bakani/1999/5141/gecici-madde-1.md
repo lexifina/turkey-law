@@ -1,0 +1,5 @@
+Geçici Madde 1- Bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren engeç 3 ay içerisinde Kurum merkez ve taşra teşkilatı norm kadroları belirlenir ve onaylanarak yürürlüğe konulur.
+Kurumun merkez ve taşra teşkilatında görevli mevcut personel belirlenen norm kadrolarla ilişkilendirilir.
+Bu işlemi takiben; personel sayısının o unvan için belirlenen norm kadro sayısından fazla olması halinde, bu fazlalık il içinde bulunan veya istekleri halinde memuriyet mahalli dışındaki boş kadrolara atamaları yapılarak giderilir. Fazlalığın giderilmesinde istekli olanlara öncelik verilir.
+Bu şekilde atamaları yapılamayan personel çalıştıkları yerde şahsa bağlı olarak eski görevlerini yapmaya devam ederler ve boş kadro temin edilmedikçe başka yerlere atanamazlar. Bu durumdaki personelin herhangi bir şekilde görevden ayrılması halinde yerlerine başka personel atanamaz. Şahsa bağlı olarak görev yapan personele en son kadrosu esas alınarak aylık ve özlük haklarının ödenmesine devam edilir.
+Memuriyet mahalli içindeki birimlerde şahsa bağlı olarak görev yapan personel, durumuna uygun olan bir kadro boşaldığında bu kadroya öncelikle atanır.
