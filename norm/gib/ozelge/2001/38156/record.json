@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.85/8500-24/014447",
+  "source_id": 38156,
+  "date": "2001-03-19",
+  "title": "Almanya'da ikamet eden vatandaşlarımızın Merkez Bankası nezdinde açtıkları hesaplardan elde ettikleri faiz gelirinin iki Devlet arasında ne şekilde vergilendirileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38156",
+  "source_sha256": "7c7997e5b19f57dfafc059effd9942755ae84f7982d7b16b7ea95ff6bea599ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
