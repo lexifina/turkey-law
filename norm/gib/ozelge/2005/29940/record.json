@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-2926",
+  "source_id": 29940,
+  "date": "2005-03-01",
+  "title": "Kamu ve kurum ve kuruluşları bünyesinde faal durumda bulunan  misafirhane  ve   kreş;   kar  amacı   taşımamak   ve  münhasıran  ilgili   kurum   ve  kuruluş mensuplarına hitap etmek koşuluyla katma değer vergisine tabi tutulmayacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29940",
+  "source_sha256": "56a1f95c4b70c260617a1e60d59e4b63bcfb5d598ec0f8e6a6c423ddbafb1d68",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
