@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2803-5-33",
+  "source_id": 24982,
+  "date": "2004-08-28",
+  "title": " 213 sayilı Vergi Usul Kanunu'nun 5. maddesiyle hukme baglanan vergi mahremiyeti kapsamındaki bilgiler 3.şahıslara açıklanamaz.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24982",
+  "source_sha256": "f91d3b07182fa636ffd8f9e1eaaefc7f382e930a8769b724c0716830c2e38956",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
