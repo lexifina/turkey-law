@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4038-88/32468",
+  "source_id": 22359,
+  "date": "2003-07-25",
+  "title": "İşletme hesabına göre defter tutan mükelleflerin maliyet bedeli arttırımı uygulamasından yararlanabilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22359",
+  "source_sha256": "6acdbca139dc635b5ab1cc65a58e9cb0df2f2982c4e463c86b00d05d1f096abc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
