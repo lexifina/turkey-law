@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 393857,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Devlet Kitapları Mütedavil Sermayesi hakkındaki 2133 sayılı Kanunun 2. maddesine bir fıkra eklenmesine dair 7380 sayılı Kanunun değiştirilmesi hakkında kanun tasarısına dair (1/249)",
+  "title": "Devlet Kitapları Mütedavil Sermayesi hakkındaki 2133 sayılı Kanunun 2. maddesine bir fıkra eklenmesine dair 7380 sayılı Kanunun değiştirilmesi hakkında kanun tasarısına dair (1/249)",
+  "first_sitting_date": "1973-04-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 36,
+      "sitting": 99,
+      "sitting_date": "1973-04-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036fih.pdf",
+      "pages": [
+        "754"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 103,
+      "sitting_date": "1973-05-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037103.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+      "pages": [
+        "152:153"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=3201&v_kullanici_id=27484836",
+  "source_sha256": "7b8c00f11b4e2eb3c9c8a808871926946340a6285728835da8f3260d4469bb33",
+  "in_force": "1973-04-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
