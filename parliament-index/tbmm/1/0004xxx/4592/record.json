@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 4592,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Muafiyeti Askeriye Vergisi hakkında",
+  "title": "Muafiyeti Askeriye Vergisi hakkında",
+  "first_sitting_date": "1921-07-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 51,
+      "sitting_date": "1921-07-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/tbmm01011051.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/ehttbmm01011051.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/tbmm01011fih.pdf",
+      "pages": [
+        "285:287",
+        "296:304"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 37,
+      "sitting_date": "1922-05-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c019/tbmm01019037.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c019/ehttbmm01019037.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c019/tbmm01019fih.pdf",
+      "pages": [
+        "451:480",
+        "485:498",
+        "499",
+        "507"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1993&v_gelecek_sayfa=1101&v_kullanici_id=27483712",
+  "source_sha256": "4f7ea1cc96720efca529a823db28d6de78c7fc99ceb339a9aed8657e9f15911a",
+  "in_force": "1921-07-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
