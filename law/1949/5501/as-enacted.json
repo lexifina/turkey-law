@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5501",
+  "year": 1949,
+  "title": "Ordu iç hizmet Kanununun 66. maddesinin değiştirilmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-01-06",
+  "gazette_issue": "7399",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7399.pdf",
+  "source_sha256": "f411e70e0394ab47725281b0e82c529523efe124daf505470bbb14c0256a99d4",
+  "text_sha256": "254887128f76a0dbe5434a9e953ba4440dde019a6046840b4b1e7caa8e2ce58c",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      40,
+      74
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205501.pdf",
+    "source_sha256": "e65b73e097385e9cd2b747e5cccc5f38803c2a4ceb65b068826285b969000d58",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9862,
+    "bag": 0.9124,
+    "kd_coverage": 0.9911,
+    "kd_body_compared": 0.9825,
+    "rg_words": 221,
+    "kd_words": 228,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
