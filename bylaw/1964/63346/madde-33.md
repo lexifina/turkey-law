@@ -1,0 +1,1 @@
+Madde 33 – Muayene edilmiş bir bitkinin gümrükten geçinceye kadar durum ve ambalajında bir değişiklik olursa, mal sahibi Zirai Karantina Teşkilatına haber vererek bu değişikliği istenilen şekilde düzeltmek zorundadır.

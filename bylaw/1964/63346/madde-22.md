@@ -1,0 +1,2 @@
+Madde 22 – İthali istenen bitkiler veya ambalajlarındaki hastalık veya zararlılar, ithale mani nevilerden olmamakla beraber mücadeleye tabi tutulan nevilerden ise ve fenni surette temizlenmeleri de mümkünse, giderleri malsahibinden peşin alınmak suretiyle, fenni temizleme yapıldıktan sonra yurda sokulabilir.
+Bitki ve ambalajlarındaki hastalık veya zararlılar ithale engel yahut mücadeleye tabi nevilerden değilse ve yeni bir bulaşma tehlikesi arzetmiyorsa bunların memlekete sokulmasına izin verilebilir.

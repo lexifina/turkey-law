@@ -1,0 +1,2 @@
+Madde 30 – Muayene sonunda verilen Menşe ve Sağlık Sertifikası, yaş sebze ve meyvalar için 10, kuru meyvalar (Kabuklular hariç) ile hububat ve kuru bakliyat için 20 gün süre ile geçerlidir. Bu husus sertifika üzerinde belirtilir. Bu süre içinde ihraç edilmeyen bitkiler yeniden muayeneye tabi tutulur ve önceki durumda bir değişiklik olmadığı takdirde Menşe ve Sağlık Sertifikası yenilenir.
+İhraç İzin Belgesi hakkında da aynı hükümler uygulanır.

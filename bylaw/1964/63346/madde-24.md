@@ -1,0 +1,1 @@
+Madde 24 – Hastalık veya zararlılarla kısmen bulaşık olan bitki ve ambalajların, temizlenmesi mümkün olan kısımları ayrılarak temizlenmeye tabi tutulur. Diğer kısımları için yukarıki maddeler hükümleri uygulanır.

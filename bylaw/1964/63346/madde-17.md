@@ -1,0 +1,1 @@
+Madde 17 – Dışardan PTT veya gümrük idarelerine gelen ve içinde bitki bulunduğu anlaşılan paketler ve kablar bu idarelerce veya Denizcilik Bankası, Devlet Demir ve Hava Yolları gibi diğer ilgili idareler tarafından ayrı bir yerde saklanır.

@@ -1,0 +1,1 @@
+Madde 18 – Türkiye'ye mektupla bitki sokulması yasaktır. İçinde bitki bulunduğu anlaşılan mektuplar PTT idarelerince, mektup sahibi ile tereddüt edilen ahvalde karantina memuru da çağrılmak suretiyle bunların önünde açılır ve içindeki bitki yakılarak yok edilir.

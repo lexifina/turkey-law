@@ -1,0 +1,2 @@
+Madde 51 – 46 ncı ve 50 inci maddelere göre ödenecek değerler, mahalli mülkiye amiri tarafından seçilecek bir, mahalli ziraat müdürlüğünce seçilecek iki ve köylerde ihtiyar heyetlerince, şehir ve kasabalarda ziraat odalarınca (Bulunmayan yerlerde belediye encümenlerince) seçilecek iki kişiden meydana gelen bir kurul tarafından takdir edilir.
+Mahalli mülkiye amirince seçilecek kimse, Kurula başkanlık eder. Değer takdirinde çoğunluğun ve oylar eşit olursa başkanın bulunduğu tarafın biçtiği değer esas tutulur.

@@ -1,0 +1,1 @@
+Madde 56 – Malsahibi veya temsilcisi numunelerin etiketini ve tutanağı imzalamaktan kaçınacak olurlarsa, itiraz sebeplerini tutanağın altına yazarak imzalayabilirler. Bunu yapmadıkları takdirde keyfiyet tutanakta belirtilir.

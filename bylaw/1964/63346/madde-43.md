@@ -1,0 +1,2 @@
+Madde 43 – İhbardan sonra Zirai Mücadele Teşkilatı veya bu teşkilatın bulunmadığı yerlerde ziraat teşkilatı, durumu yerinde inceler ve gerekli ilk koruma tedbirlerini alır.
+İhbar yolu ile veya herhangi bir suretle hastalık veya zararlıları tesbiteden teşkilat bir taraftan gerekli ilk koruma tedbirlerini almakla beraber diğer taraftan da keyfiyeti Tarım Bakanlığına bildirir. Bakanlık, 39 uncu madde uyarınca gerekli bütün tedbirleri alır veya aldırır.

@@ -1,0 +1,1 @@
+Madde 25 – Dışardan yurda gelen taşıtlarda yolcu ve mürettebatın iaşesi için bulundurulan veya teşhir amaciyle dış memleketlerden getirilen veya gönderilen bitkiler hakkında da yukarıki maddeler hükümleri uygulanır.

@@ -1,0 +1,2 @@
+Madde 20 – Gümrük kapılarına veya postahanelere gelen ve memlekete girmesi yasak olmıyan bitkilerin, belgesi tamam ve usulüne uygun ise, muayeneleri yapılır.
+Bu belgeler usulüne uygun olarak düzenlenmemiş, eksik veya hiç mevcut değilse tamamlanıncaya kadar bitkilerin muayeneleri geciktirilir ve bu süre içinde Zirai Karantina Teşkilatı bu maddeler üzerinde her türlü koruma tedbirlerini almaya ve aldırmaya yetkilidir.

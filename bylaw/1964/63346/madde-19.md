@@ -1,0 +1,1 @@
+Madde 19 – Muayene, Zirai Karantina Teşkilatı tarafından giriş gümrüğünde yapılır. Ancak, bitkinin niteliğine göre karantina memurunca lüzumlu görüldüğü takdirde muayene, giriş gümrüğü dışındaki bir yerde de yapılabilir.
