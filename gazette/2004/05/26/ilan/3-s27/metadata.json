@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-05-26",
+  "issue": "25473",
+  "edition": "regular",
+  "item": 27,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Telekomünikasyon Kurumundan :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/05/20040526-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (29 = 29)",
+  "ilan_codes": [
+    "6695/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/05/20040526-3.htm",
+  "category_page_sha256": "088442a11e1924d2855dfef8f4b52e067f813c1bc02f27b66c5b54fe654bfc72",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/05/20040526.htm",
+  "index_sha256": "ca4d3982e91fb0f939c5930a376d9584e165f0259c10ba1a6b371e12627a0a3b",
+  "index_header": "26 Mayıs 2004 ... Sayı : 25473",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
