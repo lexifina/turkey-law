@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4204-413/13506",
+  "source_id": 37841,
+  "date": "2005-03-22",
+  "title": "Serbest meslek kazancı için verilen gelir vergisi beyannamesinde ödenen damga vergilerinin, serbest meslek kazancının tespitinde gider olarak indirim konusu yapılması mümkün bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37841",
+  "source_sha256": "e8419f5782b76cf9e03d19fa90bf50b6c546a877b393d402615f0512df2d0056",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
