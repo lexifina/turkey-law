@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6458",
+  "year": 1955,
+  "title": "Temsil Ödeneği Kanununun birinci maddesine bir fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1955-02-08",
+  "gazette_issue": "8925",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8925.pdf",
+  "source_sha256": "95bba2539cb89983dea2e697fc0fa469df9ad095bc50d159753ff82508c7ba41",
+  "text_sha256": "a464bb444fac1c6e7b82f8df867138a2d02c2e3e405fa8e7c84320b3c8988270",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      38
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706458.pdf",
+    "source_sha256": "668298903ca6ff0fba19128b1b9f718c17cd08c829cf6314f8fd9d0ee2fbd121",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9885,
+    "bag": 0.902,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9623,
+    "rg_words": 51,
+    "kd_words": 53,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
