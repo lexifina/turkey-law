@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4219",
+  "year": 1942,
+  "title": "Örfî idare kanununun 7. maddesini değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-05-11",
+  "gazette_issue": "5103",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5103.pdf",
+  "source_sha256": "334d63f4857b60b4364954f90ddfc0e97c754cf34b6247c2bc221800072e19dd",
+  "text_sha256": "0cdfec031ee7f4f5e786b5143e550dc7e14c77f90244fc2fb33df8befee7e2c7",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      86,
+      111
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304219.pdf",
+    "source_sha256": "7f01c4f69f1b9798fc555da2e91dab445f7cc8820a7154b5b18b1bdcb9af4adc",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9809,
+    "bag": 0.9091,
+    "kd_coverage": 0.9865,
+    "kd_body_compared": 0.9735,
+    "rg_words": 150,
+    "kd_words": 151,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
