@@ -1,0 +1,1 @@
+Madde 1 – Devlet binalarının ve müştemilatının mimari, yapım yönünden bakım ve onarımlarının yapılması ve bu binaların içinde veya dışında olup bina ile ilgili tesis ve donatımın işletme, koruyucu bakımları onarımları ve temizlik işleri bu Yönetmelikteki hükümlere göre yürütülür.
