@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "161/37",
+  "decision_date": "2003-07-03",
+  "title": "Doğal Gaz Piyasasında İştirak İlişkisi",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=m5maTCL9ci0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=m5maTCL9ci0="
+  ],
+  "source_sha256": "2303414738ef13068b03b798bfc2f2cc7fb35ce5f2d5b3d9ef847f1c8acf3fac",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-07-03",
+  "law_text_complete": false
+}
