@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4479",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ARSA OFİSİ GENEL MÜDÜRLÜĞÜ TAŞINMAZ MAL İKTİSABI, SATIŞI, KİRAYA VERİLMESİ, DEVRİ, İNTİKALİ, TRAMPA ve İRTİFAK HAKKI TESİSİNE İLİŞKİN USUL ve ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "4479",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2002/4479",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4479&MevzuatTertip=5",
+  "source_sha256": "afdcea744e971888573c69542f39c6ffd0fb01dbc682f9bc9e6d9bb18acdc994",
+  "source_bytes": 70276,
+  "published": "2002-06-25",
+  "gazette": "24796",
+  "in_force": "2002-06-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.06.2002); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1428,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
