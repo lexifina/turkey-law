@@ -1,0 +1,128 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 355148,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MUSTAFA UYAR (İZMİR)",
+  "summary": "2836 Sayılı Kanunun 22. maddesinin değiştirilmesine dair (2/527)",
+  "title": "2836 Sayılı Kanunun 22. maddesinin değiştirilmesine dair (2/527)",
+  "first_sitting_date": "1965-01-29",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 35,
+      "sitting": 48,
+      "sitting_date": "1965-01-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035fih.pdf",
+      "pages": [
+        "309"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 96,
+      "sitting_date": "1965-04-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038096.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038fih.pdf",
+      "pages": [
+        "400"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 97,
+      "sitting_date": "1965-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038097.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038fih.pdf",
+      "pages": [
+        "460:465",
+        "488:491"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 98,
+      "sitting_date": "1965-05-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038098.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038fih.pdf",
+      "pages": [
+        "562:565"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 99,
+      "sitting_date": "1965-05-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038fih.pdf",
+      "pages": [
+        "576:577",
+        "602:607",
+        "611"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 100,
+      "sitting_date": "1965-05-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038100.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038fih.pdf",
+      "pages": [
+        "625",
+        "664.667"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 101,
+      "sitting_date": "1965-05-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039101.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039fih.pdf",
+      "pages": [
+        "8",
+        "56:59"
+      ]
+    },
+    {
+      "cilt": 43,
+      "sitting": 142,
+      "sitting_date": "1965-07-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043142.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043fih.pdf",
+      "pages": [
+        "193"
+      ]
+    },
+    {
+      "cilt": 43,
+      "sitting": 145,
+      "sitting_date": "1965-07-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043145.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043fih.pdf",
+      "pages": [
+        "361:363"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=6001&v_kullanici_id=27484893",
+  "source_sha256": "649c43de03685cb893514fb90f507f8b2b0f254beaeb5e0e1b67fee6a2e52d28",
+  "in_force": "1965-01-29",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
