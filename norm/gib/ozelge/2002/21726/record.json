@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-31948/5291",
+  "source_id": 21726,
+  "date": "2002-02-01",
+  "title": "Hibe finansmandan karşılanan harcamalar yatırım indirimi kapsamında değerlendirilerek geçici vergi ve kurumlar vergisi beyannamelerinde indirim konusu yapılamaz.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21726",
+  "source_sha256": "2731bbb7b8d1e212dc9eca3eea3b16f3a74ba4958d50714d0152e6bc33dcc1c8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
