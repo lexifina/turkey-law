@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayınlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1997-02-01",
+      "01.02.1997",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayınlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "22895",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1997-02-01",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/1997/10338",
+  "published": "1997-02-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10338&MevzuatTertip=5",
+  "source_bytes": 15572,
+  "source_id": "8.5.10338",
+  "source_sha256": "575d464d0c9daad18cb26818c115e50e1f06824ff4dd1d572a0288ec9292b756",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ AVRASYA YERBİLİMLERİ ENSTİTÜSÜ YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 703
+}
