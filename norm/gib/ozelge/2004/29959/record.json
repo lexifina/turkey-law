@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-2900-43271",
+  "source_id": 29959,
+  "date": "2004-09-15",
+  "title": "Yurt dışında mukim firmalardan yurt dışında eğitim hizmeti alınması işlemi, hizmet yurt dışında yapıldığından ve hizmetten yurt dışında faydalanıldığından katma değer vergisinin konusuna girmemektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29959",
+  "source_sha256": "92529e36664898511d936b9d0551ba85d40700c30121c978ee7513c83b583b88",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
