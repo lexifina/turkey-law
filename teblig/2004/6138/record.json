@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.6138",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SERBEST MUHASEBECİLİK, SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU GENEL TEBLİĞİ SIRA NO: 36",
+  "number": "6138",
+  "path": "teblig/2004/6138",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6138&MevzuatTertip=5",
+  "source_sha256": "491894e4e845c4a57794f87430a2b90c2835911827d9d22d0af9d51ac340b8d8",
+  "source_bytes": 34278,
+  "published": "2004-07-22",
+  "gazette": "25530",
+  "in_force": "2004-07-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.07.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1275,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.gelirler.gov.tr/gelir2.nsf/e7ec9b52dc95b56080256bd2003b69d7/dd5fcce518efe10380256bd200412f62?OpenDocument",
+    "http://www.gelirler.gov.tr/gelir2.nsf/3080a6349b67987886256aa4002edc9f/d14e9703805b2b5386256abc00381b57?OpenDocument"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
