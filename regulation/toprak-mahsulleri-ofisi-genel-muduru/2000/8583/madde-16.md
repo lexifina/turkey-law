@@ -1,0 +1,7 @@
+Kesin teminat
+Madde 16- Üzerinde ihale kalan yükleniciden ihale bedelinin en az %6 sı oranında kesin teminat alınır. Döviz bazında tespit edilen fiyatlarla yapılan mamul madde ihracına yönelik hububat ile bakliyatın depodan vadeli satışlarında %6 ya kadar kesin teminat alınabilir.
+Yurt içi ihalelerde kesin teminatın banka teminat mektubu olarak verilmesi durumunda süresiz teminat mektupları kabul edilir.
+Yurt dışı ihaleler ve alımlarla ilgili olarak alınacak teminat mektuplarında; en az taahhüt süresi ile bağlı olarak işin şartnamesinde belirtilen süreyle sınırlı veya süresiz kesin teminat mektubu alınabilir.
+Kesin teminat, işin sözleşme ve eklerine uygun olarak tamamlanıp kesin kabulü yapıldıktan ve yüklenicinin TMO ya borcu bulunmadığı tespit edildikten sonra, Vergi Dairesine herhangi bir borcu olmadığına dair belge ile Sosyal Sigortalar Kurumu’ndan alınacak ilişiksizlik belgesi getirilmesi durumunda iade edilir.
+Ancak yatırım ve imalatla ilgili olmayıp, doğrudan doğruya hazır yedek parçaların ve diğer benzeri malzemenin alımına ilişkin ihaleler ile, ekonomik ömrünü doldurmuş araç, gereç, hurda, demirbaş, çuval, örtülük muşamba ve polietilen gibi çeşitli malzemenin satış ihalelerinde Sosyal Sigortalar Kurumundan ilişiksizlik belgesi istenmesine gerek yoktur.
+Bayındırlık ve İskan Bakanlığı tip sözleşmesine uygun olarak yapılan inşaat işlerinde teminatın iade edilmesi sözleşme şartlarında yapılır.

@@ -1,0 +1,4 @@
+İç zarfların açılması
+Madde 26- İç zarflar yine geliş sıra numarasına göre açılarak, yüksek sesle okunur ve aynı anda tutanağa geçirilir. Teklifler açıldıktan sonra gelen teklifler hiçbir şekilde değerlendirmeye alınmaz.
+İlana ve şartnameye aykırı olan ve hiç bir çekiciliği bulunmayan teklifler, kesin ret kararı ile ihaleyi yapan birime verilir. Ancak; bunlardan ihale konusu işi kolaylaştıracak nitelikte ve TMO nun çıkarı bulunanları, aykırılıkları giderilmek, noksanlıkları tamamlatılmak ve süresi içinde diğer tekliflerle değerlendirmeye alınmak üzere ilgili birime vermeye, İhale Komisyonu yetkilidir.
+İhale Komisyonu Başkanı, yapılacak çalışmalar ve değerlendirmeler sonucu en uygun teklif sahibinin belirleneceğini, kararın yetkili makam onayı ile kesinleşeceğini ve şartnamede yazılı opsiyon içinde katılanlara bildirileceğini hazır bulunanlara duyurur.

@@ -1,0 +1,26 @@
+Tanımlar
+Madde 3- Bu Yönetmelik içerisinde geçen;
+a) TMO: Toprak Mahsulleri Ofisi Genel Müdürlük Merkezi ile İşletme ve Bölge Müdürlükleri ve bağlı birimlerini,
+b) Komisyon: İlgililerin katılımıyla oluşturulan ihale komisyonlarını,
+c) Alt Komisyon: Bu Yönetmeliğin 27 nci maddesine göre kurulan komisyonları,
+d) Sözleşme: TMO ile yüklenici arasında yapılan yazılı anlaşmayı,
+e) Şartname: Yapılacak işlerin genel, özel, teknik ve idari esas ve usullerini gösteren ve TMO tarafından hazırlanan, hazırlattırılan veya benimsenen belge veya belgeleri,
+f) Alım: TMO ihtiyacı olan her türlü malzeme, döşeme, demirbaş ve benzeri araç-gereç ile hizmet ve haklar dahil taşınır ve taşınmaz malların en iyi şekilde, uygun değer ve şartlarla zamanında satın alınmasını,
+g) Satım: TMO ihtiyacından fazla olan ya da herhangi bir nedenle satılması uygun görülen, hizmet ve haklar dahil malzeme ve malların en iyi şekilde, uygun değer ve şartlarla zamanında satılmasını,
+h) Yapım: Her türlü inşaat, imalat, tesisat, onarım, düzeltme, yıkım, iyileştirme, restorasyon, proje hazırlatma ve montaj işlerinin her birisini,
+ı) Taşıma: TMO ne ait ürün ve malzemenin en uygun yol ve araçlarla bir yerden başka bir yere götürülmesi işini,
+i)Yükleme-Boşaltma: TMO da yapılan her türlü ürün alım, satım ve yollamalar ile malzeme taşımalarında, ürün ve malzemenin insan gücü ya da araç-gereçlerle, gösterilen depo veya taşıtlara konulması ya da buralardan alınması işini,
+j) Hizmet: Kanun, tüzük ve özel yönetmeliklere göre yapılan, aylıklı, ücretli, yevmiyeli ve sözleşmeli personel çalıştırılması hariç olmak üzere, gerçek veya tüzel kişilere ücret karşılığında yaptırılan hizmetlerin tümünü,
+k) Kiralama: Taşınır ve taşınmaz mallarla, hizmet ve hakların kiralanması veya kiraya verilmesini,
+l) Trampa: Borçlar Kanunu ve Türk Medeni Kanununun trampa ile ilgili maddelerinde gösterilen işlemleri,
+m) Tahmin Edilen Bedel: İhale konusu işlerin önceden tahmin edilen bedelini ve yapım,onarım, tadilat işlerinde de keşif bedelini,
+n) Uygun Bedel: Artırmalarda tahmin edilen bedelden aşağı olmamak üzere teklif edilen bedellerin en yükseğini, eksiltmelerde tahmin edilen bedeli geçmemek üzere teklif edilen bedellerin tercihe layık görüleni, bedel tahmini yapılamayan ihalelerde teklif edilen bedellerin işin teknik yönünün de incelenmesi sonucu uygun görüleni,
+o) Ehliyet Belgesi: Genellikle yapım, taşıma ve hizmet ihaleleri ile gerektiğinde diğer ihalelerde isteklilerden istenilen, ihale konusu işte yeterliliklerini gösterir resmi belgeler veya komisyona güven verici nitelikteki belgelerin her birisini,
+ö) İhale: Bu Yönetmelikte belirlenen yöntem ve kurallar çerçevesinde, komisyonların her türlü alım, satım, yapım, onarım, yükleme, boşaltma, taşıma, hizmet ve gerektiğinde kiralama işlerini yaptırmaları konusundaki işlemlerin tamamını,
+p) İstekli: İhaleye katılan gerçek veya tüzel kişi veya kişileri,
+r) Yüklenici : İhale yöntemlerinden birisi ile işin üzerine ihale edildiği gerçek veya tüzel kişi veya kişileri,
+s) Kamu Kurum ve Kuruluşları: Genel ve katma bütçeli idareler, belediyeler, il özel idareleri, sermayesinin yarısından fazlası Devlete ait İktisadi Devlet Teşekkülleri, kamu yararına kanunla kurulmuş tüzel kişiliğe sahip kuruluşlarla tüm bu kurum ve kuruluşlara bağlı işletmeleri,
+ş) İş: Bu Yönetmelikte yazılı her türlü alım, satım, yapım, söküm, onarım, yükleme, boşaltma, taşıma, hizmet ve gerektiğinde kiralama ihalelerinin her birisini,
+t) Yetki Devri Talimatı: TMO daki yetki limitlerini ve kararların onay makamlarını belirlemek üzere, her yıl Yönetim Kurulu kararıyla kabul edilerek yürürlüğe konulan talimatı,
+u) İhale Onay Makamı: Yetki Devri Talimatı ile belirlenen onay makamlarını
+ifade eder.

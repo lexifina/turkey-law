@@ -1,0 +1,3 @@
+Teknik birim veya alt komisyonda inceleme gerekliliği
+Madde 27- Teklifler, İhale Komisyonunca konu gereği teknik birimlere veya oluşturulacak bir alt komisyona incelemeye verilebilir. Teknik birim ve/veya ilgili birimlerin elemanlarından oluşacak alt komisyon, İhale Komisyonunca belirlenir.
+Alt komisyon, teklifleri teknik, fiyat ve gerek görülmesi halinde idari şartname yönlerinden karşılaştırmalı olarak incelemesini yansıtacak şekilde bir cetvelde toplar. Görüşünü bir rapor halinde tutanağa bağlayıp İhale Komisyonunda görüşülmek üzere ihaleyi yapan birime teslim eder. Karar bu raporun değerlendirilmesi sonucu alınır.
