@@ -1,0 +1,279 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1376",
+  "year": 1971,
+  "title": "1971 yılı Bütçe Kanunu",
+  "adopted": "1971-02-28",
+  "adopted_as_published": "28/02/1971",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.03.1971 No: 13765",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401376.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 54",
+  "committee_reports": [
+    {
+      "label": "MM 257 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011049ss0257.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 381832,
+      "title": "1971 yılı Bütçe Kanunu",
+      "adopted_as_published": "28/02/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401376.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 257 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011049ss0257.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 9,
+          "sitting": 19,
+          "sitting_date": "1970-12-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c009/mm__03009019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c009/mm__03009fih.pdf",
+          "pages": [
+            "166"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 48,
+          "sitting_date": "1971-02-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010fih.pdf",
+          "pages": [
+            "554"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 49,
+          "sitting_date": "1971-02-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011fih.pdf",
+          "pages": [
+            "10:96",
+            "97:133;245:248 425:508"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 50,
+          "sitting_date": "1971-02-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011fih.pdf",
+          "pages": [
+            "251:328"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 51,
+          "sitting_date": "1971-02-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011fih.pdf",
+          "pages": [
+            "331:422"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 52,
+          "sitting_date": "1971-02-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011fih.pdf",
+          "pages": [
+            "425:508"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 53,
+          "sitting_date": "1971-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011fih.pdf",
+          "pages": [
+            "577:639"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 54,
+          "sitting_date": "1971-02-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011fih.pdf",
+          "pages": [
+            "649:743"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=601&v_kullanici_id=27483225",
+      "page_sha256": "289a6a3fb6cf89fae2d8a05f66e7b654a3cc8aecdfd898b5db709f11f0b70d44"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 316899,
+      "title": "1971 yılı Bütçe Kanunu",
+      "adopted_as_published": "28/02/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401376.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 257 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011049ss0257.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 62,
+          "sitting": 28,
+          "sitting_date": "1971-01-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c062/cs__10062028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c062/cs__10062fih.pdf",
+          "pages": [
+            "706"
+          ]
+        },
+        {
+          "cilt": 63,
+          "sitting": 29,
+          "sitting_date": "1971-01-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063029.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063fih.pdf",
+          "pages": [
+            "4:143"
+          ]
+        },
+        {
+          "cilt": 63,
+          "sitting": 30,
+          "sitting_date": "1971-01-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063fih.pdf",
+          "pages": [
+            "146:291"
+          ]
+        },
+        {
+          "cilt": 63,
+          "sitting": 31,
+          "sitting_date": "1970-01-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063fih.pdf",
+          "pages": [
+            "294:426"
+          ]
+        },
+        {
+          "cilt": 63,
+          "sitting": 32,
+          "sitting_date": "1971-01-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063fih.pdf",
+          "pages": [
+            "431:565"
+          ]
+        },
+        {
+          "cilt": 63,
+          "sitting": 33,
+          "sitting_date": "1970-01-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063fih.pdf",
+          "pages": [
+            "569:696"
+          ]
+        },
+        {
+          "cilt": 63,
+          "sitting": 34,
+          "sitting_date": "1971-02-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063fih.pdf",
+          "pages": [
+            "3:154"
+          ]
+        },
+        {
+          "cilt": 63,
+          "sitting": 35,
+          "sitting_date": "1971-02-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063fih.pdf",
+          "pages": [
+            "171:338"
+          ]
+        },
+        {
+          "cilt": 63,
+          "sitting": 36,
+          "sitting_date": "1971-02-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063fih.pdf",
+          "pages": [
+            "346:497"
+          ]
+        },
+        {
+          "cilt": 63,
+          "sitting": 37,
+          "sitting_date": "1971-02-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063fih.pdf",
+          "pages": [
+            "502:654"
+          ]
+        },
+        {
+          "cilt": 63,
+          "sitting": 38,
+          "sitting_date": "1971-02-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063fih.pdf",
+          "pages": [
+            "663:684",
+            "685:686"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1301&v_kullanici_id=27483235",
+      "page_sha256": "d5176558de59b9dcf211fea14e78f3108f5ed774b83c8bb3de13ebec8b61a347"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "289a6a3fb6cf89fae2d8a05f66e7b654a3cc8aecdfd898b5db709f11f0b70d44",
+  "issuer": "Millet Meclisi",
+  "in_force": "1971-02-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 28/02/1971; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
