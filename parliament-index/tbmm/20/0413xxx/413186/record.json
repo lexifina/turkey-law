@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 413186,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "KANUN HÜKMÜNDE KARARNAMELER",
+  "heading_as_published": "Kanun Hükmünde Kararnameler",
+  "summary": "625 Sayılı Özel Eğitim Kurumları Kanunu ile 222 Sayılı İlköğretim ve Eğitim Kanununun Bazı Hükümlerinin Değiştirilmesi Hakkında 254 Sayılı Kanun Hükmünde Kararname ile 625 Sayılı Özel Öğretim Kurumları Kanununun Bir Maddesinde Değişiklik Yapılmasına Dair 326 Sayılı",
+  "title": "625 Sayılı Özel Eğitim Kurumları Kanunu ile 222 Sayılı İlköğretim ve Eğitim Kanununun Bazı Hükümlerinin Değiştirilmesi Hakkında 254 Sayılı Kanun Hükmünde Kararname ile 625 Sayılı Özel Öğretim Kurumları Kanununun Bir Maddesinde Değişiklik Yapılmasına Dair 326 Sayılı",
+  "first_sitting_date": "1997-11-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 36,
+      "sitting": 14,
+      "sitting_date": "1997-11-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c036/tbmm20036014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c036/tbmm20036fih.pdf",
+      "pages": [
+        "206:223"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 22,
+      "sitting_date": "1997-12-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c037/tbmm20037022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c037/tbmm20037fih.pdf",
+      "pages": [
+        "463:467"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 43,
+      "sitting_date": "1998-01-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c042/tbmm20042043.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c042/tbmm20042fih.pdf",
+      "pages": [
+        "252:266"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20H%DCKM%DCNDE%20KARARNAMELER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20H%DCKM%DCNDE%20KARARNAMELER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "35401e048aa41de8039d8782185c35af72c292752bc31eea4c7c3204716a7612",
+  "in_force": "1997-11-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
