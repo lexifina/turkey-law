@@ -1,0 +1,5 @@
+MADDE 5 - ÜYELERİN SEÇİMİ
+Sayıştaydan katılacak iki üye Sayıştay üyeleri arasından Sayıştay Başkanlığı Maliye Başkanları ve Bütçe Dairesi Başkanları arasından seçilecek ikişer üye Bütçe ve Mali Genel Müdürü, Merkez Saymanlık Müdürleri arasından seçilecek iki üye ise Muhasebat Genel müdürü tarafından belirlenir.
+Yardımcısı başkanlık eder. Bütçe ve 1 Genel Müdürü ve Muhasebat Genel Müdürü ile 4 üncü maddede belirtilen hususlarla ilgili olarak Baş Hukuk Müşaviri ve Muhakemat Genel Müdürü, Gelirler Genel Müdürlüğü Emlak Genel Müdürü Kurulun daimi üyeleridir. Daimi üyelerin görev başında an halinde kendilerine vekalet edenler Kurulun daimi üyesidirler.
+Kurulun daimi üyeleri dışındaki üyeleri her yılın Ocak ayında bir yıllığına seçilir. Yıl yapılacak değişiklikler için ayrı onay alınır. Seçilen üyeler ertesi yıl veya yıllarda tekrar seçilebilirler.
+Sayıştaydan katılacak üyelerle maliye başkanları, bütçe dairesi başkanları, merkez saymanlık müdürleri arasından seçilen üyelerin herhangi bir nedenle toplantıya katılamamaları halinde yerlerine görev yapmak üzere bu maddenin birinci ve üçüncü fıkralarında açıklanan usulle birer yedek üye seçilir.

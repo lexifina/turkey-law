@@ -1,0 +1,2 @@
+MADDE 8 - SEKRETERYA HİZMETLERİ
+Kurula sevk edilecek dosyaların alınması, raportör üyelere gönderilmesi, görüşülecek Yönetmelik tasarımının tüm üyelere gönderilmesi, gerekli kayıtların tutulması, toplantı gündemlerinin hazırlanması, kararların yazılması ve ilgili yer ve makamlara gönderilmesi ile diğer sekreterya hizmetleri Muhasebat Genel Müdürü tarafından şube müdürleri arasından belirlenecek bir kurul sekreteri ve yeteri kadar personel tarafından yerine getirilir.
