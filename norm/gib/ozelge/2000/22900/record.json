@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.49/4929-209/16635",
+  "source_id": 22900,
+  "date": "2000-04-12",
+  "title": "Kurum tarafından maliyet-kar yönetimine göre düzenlenen sözleşmeler uyarınca taahhüt edilen inşaat işlerinin GVK' nun 42. maddesi kapsamına girip girmediği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/22900",
+  "source_sha256": "4c4be4e758fbe67dc5b735ae09644b28e5ad36b50637ec30b79f6dff2da95ce8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
