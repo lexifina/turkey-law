@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2125/036246",
+  "source_id": 25133,
+  "date": "1999-08-27",
+  "title": "Murisin kasasında bulunan parasal değeri olmayan gelecek yıllara ait kar payı kuponları ile sermaye arttırma kuponlarının hisse senedi gibi değerlendirilmesi mümkün olmadığından, V.İ.V.'ne tabi değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/25133",
+  "source_sha256": "95f8ad7ebabb08612bf3020c9ea64774edcb72b6ce627fb993ee48903d74c9c2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
