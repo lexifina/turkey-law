@@ -1,0 +1,60 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2004/39",
+  "date": "2004-09-17",
+  "title": "SPK Haftalık Bülteni 2004/39",
+  "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_39.pdf",
+  "source_sha256": "ad4281d27f9dfa79676e743d57f04a8e212aa40d33b417dc3d633e1038d6ba71",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "E. YENİ KURULUŞ VE FAALİYET İZİNLERİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2004 – 17.09.2004 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_39.pdf"
+    },
+    {
+      "heading": "B. 13.09.2004 – 17.09.2004 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_39.pdf"
+    },
+    {
+      "heading": "C. 13.09.2004 – 17.09.2004 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_39.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_39.pdf"
+    },
+    {
+      "heading": "E. YENİ KURULUŞ VE FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_39.pdf"
+    },
+    {
+      "heading": "F. DUYURULAR",
+      "status": "metadata-only",
+      "reason": "named-person-decision",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_39.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
