@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 133230,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "title": "TBMM fihrist kaydı 133230 (Teklifler)",
+  "first_sitting_date": "1923-10-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 37,
+      "sitting_date": "1923-10-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/tbmm02002037.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/ehttbmm02002037.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/tbmm02002fih.pdf",
+      "pages": [
+        "708"
+      ]
+    },
+    {
+      "cilt": 2,
+      "sitting": 40,
+      "sitting_date": "1923-10-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/tbmm02002040.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/ehttbmm02002040.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/tbmm02002fih.pdf",
+      "pages": [
+        "832"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d02&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 5,
+      "sitting": 85,
+      "sitting_date": "1924-01-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005085.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005085.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+      "pages": [
+        "163"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 93,
+      "sitting_date": "1924-01-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005093.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005093.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+      "pages": [
+        "511:514"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 102,
+      "sitting_date": "1924-02-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005102.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005102.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+      "pages": [
+        "849"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8624e88253901cba8a8c9206e90c87ecfbb984ab7bc7958443b23d60a228e180",
+  "in_force": "1923-10-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
