@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "Cumhuriyet Senatosu",
+  "assembly": "CUMHURİYET SENATOSU",
+  "term_label": "19. Toplantı Yılı",
+  "cilt": 46,
+  "sitting": 45,
+  "label": "45. Birleşim",
+  "sitting_date": "1980-03-13",
+  "date_as_published": "13 Mart 1980",
+  "weekday": "Perşembe",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046045.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046045gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=7&meclis_kisa_adi=CS&diger_donem_adi=t19",
+  "source_sha256": "da9423222a53345e25da23be51aafbd8f2abc73dd16e30fdde520ef6290b47a6",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
