@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2257/32068",
+  "source_id": 36313,
+  "date": "2002-07-19",
+  "title": "Ticari minibüse ait hat bedeli veraset ve intikal vergisine tabi olup, veraset yoluyla intikal eden ticari minibüsün rayiç bedel tespiti yapılırken minibüsün kendisi için ayrı, hat bedelini de içeren ticari plaka için ayrı rayiç bedel takdiri yapılması ge",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36313",
+  "source_sha256": "dbd731269aa9c13b49569c7e1b6f15ae174a5ecf9063195038900d064b2f499e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
