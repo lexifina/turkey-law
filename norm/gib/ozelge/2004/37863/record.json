@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4408-360",
+  "source_id": 37863,
+  "date": "2004-04-25",
+  "title": "Nakliyecilikte kullanılan araçların özel ihtiyaçlarda kullanılmaya elverişli olmayan otobüs, kamyon ve benzeri araçlardan olması halinde yapılması gereken işlemler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37863",
+  "source_sha256": "38255a7e73a0196fb8edc9c9fa0352a744dc92e17bff205738c1044644129dc2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
