@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/1752",
+  "list_number": "1752",
+  "decision_date": "1999-04-30",
+  "title": "YSK ilke kararı 1999/1752",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4642/1999-1752-karar.htm",
+  "source_sha256": "d3e4ff513946d0c4ce6447c3fcd4586132e565c896bfc3b79374eb89bf76d672",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-04-30",
+  "law_text_complete": false
+}
