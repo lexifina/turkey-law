@@ -1,0 +1,1 @@
+Madde 4 – 1 inci maddede yazılı şartları haiz asker ailelerine yapılacak yardımlar yiyecek erzak, oturacak bina tedarikinden veya bunları temine medar olacak para tevziinden ve köylerde tarlalarını bağ ve bahçelerini imece ile sürüp ekmek ve harmanlarını kaldırmaktan ibarettir.

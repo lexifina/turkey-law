@@ -1,0 +1,3 @@
+Madde 12 – Belediye veya belediye şubeleri iki nüsha olarak tanzim edeceği bu beyannamelerden birisini dip koçanında bırakarak diğer nüshası üzerinde lüzum ve tevsika muhtaç gördüğü takdirde askerde bulunanın hangi tarihde askere sevkolunduğunu gerek askerde bulunan gerek muavenet talep edenlerin ne gibi servet ve gelirleri bulunduğunu ve muavenet talep edenlerin çalışma kabiliyeti olup olmadığını ve verilecek ne gibi işleri yapabileceklerini tahkik ve tevsik eder.
+Bu tahkik işi en kısa bir zamanda bitirilir.
+Bu tetkik müddeti içinde asker ailelerine icab eden acil yardım yapılır. Muhtaç olmadıkları tebeyyün edenlerin yardımları derhal kesilir.

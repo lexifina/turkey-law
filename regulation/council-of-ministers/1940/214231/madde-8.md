@@ -1,0 +1,2 @@
+Yardım Vasıtaları:
+Madde 8 – Bu yardımlar şehir ve kasabalarda belediye veya belediye şubeleri ve köylerde ise köy muhtar ve ihtiyar meclisleri vasıtasile yapılacaktır. Şehir ve kasabalarda belediye veya belediye şubeleri bu yardım işini kendi bölgeleri dahilinde bir kül olarak mütalea ve tanzim etmek için kendi memurları arasında birer yardım bürosu teşkil edebilirler. (Bunlar için ayrı masraf ve teşkilat yapılmaz.)

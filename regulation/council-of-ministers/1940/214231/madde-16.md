@@ -1,0 +1,1 @@
+Madde 16 – Belediye encümenleri muhtaç asker ailelerine yardım edecek askerlik haricindeki eşhası kendi hududu dahilinde tesbit ve her yardımcının yapacağı yardım mikdarının azami ve asgari hadlerini tayin ve derecelerini tefrik eder.

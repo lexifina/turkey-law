@@ -1,0 +1,9 @@
+HAZARDA VE SEFERDE ASKERE GİDENLERİN AİLELERİNE 1111 SAYILI ASKERLİK KANUNUNUN 71, 72, 73 ÜNCÜ MADDELERİLE 442 SAYILI
+KÖY KANUNUNUN 13 ÜNCÜ MADDESİNİN 19 UNCU
+FIKRASINA GÖRE YAPILACAK YARDIM
+HAKKINDA YÖNETMELİK
+Bakanlar Kurulu Kararının Tarihi : 20.8.1940 No : 2/14231
+Dayandığı Kanunun Tarihi : 21.6.1927 No : 1111
+Yayımlandığı Resmî Gazetenin Tarihi : 5.9.1940 No : 4604
+Umumi Hükümler
+1. Yardıma Muhtaç Asker Aileleri:

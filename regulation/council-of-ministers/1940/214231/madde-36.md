@@ -1,0 +1,1 @@
+Madde 36 – Askere gidenlerin avdet etmeleri veya bunların izinsiz kıt'alarını terk etmeleri veyahut kıt'alarından firar etmeleri veyahut muhtaç aileleri efradının muhtaçlıktan çıkmaları halinde bu ailelere artık yardım yapılmaz.

@@ -1,0 +1,1 @@
+Madde 29 – Askere gidenlerin muhtaç ailelerine meskenleri yoksa veyahut meskenleri her hangi bir suretle yanmış veya yıkılmış ise köy muhtarları ihtiyar meclislerinin kararile bunlara köy dahilinde ikamet edecek süknaya salih bir yer göstereceklerdir.

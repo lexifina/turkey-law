@@ -1,0 +1,1 @@
+Madde 24 – Her ay gayesinde tahakkuk ve her ay başında tahsil edilecek bu yardım paraları yardımcılar tarafından müracaatı müteakip tesviye olunmadığı takdirde derhal tahsili emval kanununa tevfikan tahsil olunur.

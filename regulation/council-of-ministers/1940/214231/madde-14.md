@@ -1,0 +1,2 @@
+Madde 14 – Encümence verilen karar üzerine yardım edileceklerin beyannameleri muhteviyatı hususi bir deftere kaydedilecek ve bu defterin her sayfasının ziri belediye muhasibi ile belediye reisi veya belediye şube amiri tarafından imza olunacaktır. Bu defter kuyudatı her ay yapılacak erzak vesaire tevziatı için tanzim olunacak bordrolara ve yapılacak zirai yardımlarına ve sükna tahsisine esas teşkil edecektir.
+Şehir ve Kasabalarda Asker Ailelerine Yapılacak Muavenetlerin Nevi ve Miktarları ve Tatbik Şekilleri:

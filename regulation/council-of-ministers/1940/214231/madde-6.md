@@ -1,0 +1,1 @@
+Madde 6 – Yardımı yapacakların mali ve bedeni kudreti olmak şarttır. Bedeni kudreti olmayıp da mali kudreti olanlar yardıma iştirak edecekleri gibi mali kudreti olmayıp da yalnız çalışma kudreti bulunanlar da bu yardımı yapmakla mükelleftirler.

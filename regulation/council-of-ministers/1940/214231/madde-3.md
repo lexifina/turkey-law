@@ -1,0 +1,1 @@
+Madde 3 – Firarda ve izinsiz bulunan askerlerin ailelerine firarları veya izinsiz olarak kıt'asından ayrıldıkları tahakkuk ettiği tarihten sonra derdest edilip tekrar kıt'asına sevkolununcuya kadar yardım yapılmaz.

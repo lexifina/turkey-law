@@ -1,0 +1,1 @@
+Madde 32 – Mükelleflerden yardımla vazifelendirilenlerden ölenler ve askere gidenler, köyden başka tarafa nakli hane edenler yahut başka taraftan köye nakli hane edecekler bulunacağından her ay sonlarında ihtiyar meclisleri bu tebeddülatı göz önüne alarak bunlar hakkında yeni kararlar vererek ilan eder.

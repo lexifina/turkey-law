@@ -1,0 +1,1 @@
+Madde 38 – Kaza ve vilayet idarei hususiyelerinden, verilecek paraları köy muhtar ve ihtiyar heyetleri kat'iyen başka tarafa sarfetmeyip münhasıran muhtaç asker ailelerinin umur ve hususatına sarf etmeye mecburdurlar.

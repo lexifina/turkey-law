@@ -1,0 +1,2 @@
+Madde 37 – Seferde hususi muhasebe bütçelerine muhtaç asker ailelerine yardım için konacak tahsisattan icap ettiği kadarını valiler vilayet daimi encümeni kararile köylere tefrik ve tevzi ettirebilir.
+Bu takdirde tefrik ve tevzi olunan bu paralar hususi muhasebelerce makbuz mukabilinde köy muhtarlarına teslim edilir. Ve köy muhtarları da aldıkları bu paraları köy hesap defterinin irat sahifesinde (asker ailelerine yardım olarak hususi muhasebeden alınan para) diye irat kaydederek bu talimat ahkamı dairesinde sarfederler.

@@ -1,0 +1,1 @@
+Madde 23 – Seferde hususi muhasebelerde bütçelerine muhtaç asker ailelerine yardım için doğrudan doğruya veya münakale suretile umumi meclis veya daimi encümenler mümkün olabilen tahsisatı koyacaklardır.

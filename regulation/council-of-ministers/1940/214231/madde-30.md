@@ -1,0 +1,1 @@
+Madde 30 – Asker ailelerinin iaşe, iskana ihtiyaçları olmayıp da yalnız tarla, bağ ve bahçelerinin sürüp ekilmesi ve harmanlarının kaldırılması için köylünün muavenetine ihtiyaçları bulunursa köy muhtarları yine ihtiyar meclisleri kararile ve imece suretile bu yardımı da temin edecektir.
