@@ -1,0 +1,1 @@
+Madde 6 – Beşinci maddede yazılı vasati sıklık işleme esnasında makine üzerindeki çorapların konç ve ayak kısmının muayenesiyle tesbit edilir. Sıklık vasatisinin tesbiti için asgari 4 fontür üzerinde muayene icra edilir. Sıklık vasatisinin tayininde kabul edilen tolerans (- % 5) i tecavüz edemez.
