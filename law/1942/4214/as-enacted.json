@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4214",
+  "year": 1942,
+  "title": "Memurların tahsil müesseselerinde talebe olamayacaklarına dair 4007 numaralı kanunun birinci maddesinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-05-07",
+  "gazette_issue": "5100",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5100.pdf",
+  "source_sha256": "50011ec3e152809c8b2e0a4075e29f2ac267df7683583766accef6a5b9689abe",
+  "text_sha256": "2a5d23b95379564cddeeba246d944c479c48c01dfae27a347bdb5daf1e8e709f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      19,
+      34
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304214.pdf",
+    "source_sha256": "040d7dadc5bcfecab47931ce1e4337b5c1cf843c2084e4194c82e882b4c3c1cb",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9793,
+    "bag": 0.9,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9718,
+    "rg_words": 71,
+    "kd_words": 71,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
