@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5711-504 / 63881",
+  "source_id": 27220,
+  "date": "2004-12-31",
+  "title": "4811 Sayılı yasadan yararlanarak yasa kapsamına giren alacağın tamamını ödeyen veya teminat gösteren mükellefe kesinleşmiş yargı kararının vergi dairesine intikali halinde yapılan KDV iadesi hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27220",
+  "source_sha256": "2a1318f77762058e06310f26bae4759c8fcdc51ab05b298441844c2248d592fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
