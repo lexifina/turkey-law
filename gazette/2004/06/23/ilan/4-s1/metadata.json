@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-06-23",
+  "issue": "25501",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlân",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Milli Savunma Bakanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040623-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (1 = 1)",
+  "ilan_codes": [
+    "8049/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040623-4.htm",
+  "category_page_sha256": "5848c1dde10e9f73df79ffe93cd1bc3b4e408c6ac16f4948883691f401a54fe0",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040623.htm",
+  "index_sha256": "9f9cf22c5109ec634c2431348dcdbd88a1d1ba065a50ea093cdf8900a84ca4eb",
+  "index_header": "23 Haziran 2004 ... Sayı : 25501",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
