@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-21/2004-13/ Bağış ve yardımlar-1",
+  "source_id": 636,
+  "date": "2004-03-10",
+  "title": "Okul, sağlık tesisi ve öğrenci yurtlarına ilişkin bağış ve yardımların gelir vergisi matrahının tespitinde indirimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/636",
+  "source_sha256": "90a200cf53b182528fa56a2156550ad96b57f3123e7b0e82baa713e5b02e699d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
