@@ -1,0 +1,1 @@
+[1] Bu Tüzükteki para cezalarının uygulanması ile ilgili olarak 10.6.1949 tarih ve 5435 sayılı Kanunu değiştiren 21.1.1983 tarih ve 2790 sayılı Kanun ile 15.8.1957 tarih ve 9682 sayılı Resmi Gazete'de yayımlanan 20.5.1957 tarih ve E. 1, K. 12 sayılı Yargıtay İç. Bir. Kur. Kararına bakınız.

@@ -1,0 +1,3 @@
+Madde 15 – Maliye ve Gümrük ve İnhisarlar Vekaleti memurlarile ilgili diğer memurlar tarafından her nerede olursa olsun pulsuz veya noksan pullu olarak görülen ispençiyari ve tıbbi müstahzarlar hakkında da bir zabıt varakası tutulur.
+Resim ve ceza tahsil edilmeden evvel bu zabıt varakaları mahallinin en büyük sıhhiye memuruna gönderilerek varakada gösterilen müstahzarların kanunun tarif eylediği müstahzarlardan olup olmadığı tesbit ve Türkiye içinde mi yapıldığı dışardan mı getirildiği ve fiatının ne kadar olduğu tesbit ettirilir.
+Maliye memurları tarafından yapılacak zabıt varakalarında müstahzarın zarfı üzerindeki yazıların hepsi gösterilir ve altı müstahzarların sahiplerine de imzalattırılır.

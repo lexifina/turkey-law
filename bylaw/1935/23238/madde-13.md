@@ -1,0 +1,1 @@
+Madde 13 – Gümrükten mağazaya nakilden sonra bozulması, zarfların kırılması gibi sebeplerden dolayı kullanılamıyacağı anlaşılan müstahzarlar pul yapıştırılmasına bakmak üzere gönderilen sıhhiye idaresi memurunun karşısında yok edilir ve keyfiyet pulların bedel ve miktarı da yazılmak üzere bir zabıt varakasiyle saptanır.

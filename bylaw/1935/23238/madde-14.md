@@ -1,0 +1,2 @@
+Madde 14 – Sıhhat ve İçtimai Muavenet Vekaleti memurları imalathane, ecza deposu ve eczahanelerde yaptıkları araştırmalar sonunda pulsuz veya noksan pullu ispençiyari ve tıbbi müstahzarlara rastladıkları takdirde tutulacak zabıt varakasından bir nüshasını da mahalli malsandığına tevdi ederler.
+Bu zabıt varakasında tıbbi ve ispençiyari müstahzarların adı, imal edenin adı, fiatı, adedi yerli ve yabancı yapısı mı olduğu gösterilir.

@@ -1,0 +1,1 @@
+Madde 10 – Ismarlama izin kağıdında getirtilmesine izin verilen malın adedi, cinsi, adı, perakende satış fiatı ve fabrikanın adı gösterilir ve altı Sıhhat ve İçtimai Muavenet Vekaletince tasdik olunur.
