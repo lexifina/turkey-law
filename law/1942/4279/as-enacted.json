@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4279",
+  "year": 1942,
+  "title": "Yabancı memleketlere gönderilecek memurların harcırahları hakkındaki 3441 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-08-08",
+  "gazette_issue": "5179",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5179.pdf",
+  "source_sha256": "4a9f8c906329516473c30586b99c5c7b95e48b38c2cfb5cd1d4d136264d8d67f",
+  "text_sha256": "7e9020d6366b38814c7fceb904e74eb3654f468a4a46d52a6e7e5a90864d5bc6",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      207,
+      228
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304279.pdf",
+    "source_sha256": "e5b2eb224c7a092d99023e4139fb44ba5e374cac53b620c1c0fe85f1cbceae51",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9231,
+    "bag": 0.8586,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9813,
+    "rg_words": 86,
+    "kd_words": 107,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
