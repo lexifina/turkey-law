@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52-5200.01/92-1512",
+  "source_id": 38135,
+  "date": "2004-01-13",
+  "title": "Traktör için ÖTV ödeme belgesi düzenlenmesi hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38135",
+  "source_sha256": "66335b9305dd5666b43c3f46ab8b00fa303ce22011fe3413b20e9edcc6b743f2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
