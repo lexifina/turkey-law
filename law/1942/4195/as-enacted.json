@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4195",
+  "year": 1942,
+  "title": "Tasarruf bonoları ihracına dair olan 4058 ve 4120 sayılı kanunlara ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-04-08",
+  "gazette_issue": "5078",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5078.pdf",
+  "source_sha256": "51b6cbdb0c8be6112229d7094d96bc5cb2a99fdb135aae2e47a10ccb227e2dc8",
+  "text_sha256": "2fd8720bcc86c0d79a7567e13299af02822c177a1403768a149e85a7a983e944",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      16,
+      27
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304195.pdf",
+    "source_sha256": "a1ac591a79f3f0b757772d4e979b7d3fa3b1747388d18f84ad5e15d9feb74e82",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9568,
+    "bag": 0.8966,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9605,
+    "rg_words": 72,
+    "kd_words": 76,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
