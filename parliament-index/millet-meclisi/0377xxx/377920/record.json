@@ -1,0 +1,90 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 377920,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Cumhuriyet Senatosu Tunceli Üyesi Arslan Bora ve 5 arkadaşının, 444 sayılı Kanunun birinci maddesine bir fıkra eklenmesi hakkında Kanuna dair (2/229)",
+  "title": "Cumhuriyet Senatosu Tunceli Üyesi Arslan Bora ve 5 arkadaşının, 444 sayılı Kanunun birinci maddesine bir fıkra eklenmesi hakkında Kanuna dair (2/229)",
+  "first_sitting_date": "1970-02-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 49,
+      "sitting_date": "1970-02-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003049.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003fih.pdf",
+      "pages": [
+        "247"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 64,
+      "sitting_date": "1970-04-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+      "pages": [
+        "116"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 65,
+      "sitting_date": "1970-04-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+      "pages": [
+        "147"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 71,
+      "sitting_date": "1970-04-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+      "pages": [
+        "318:319"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 72,
+      "sitting_date": "1970-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+      "pages": [
+        "374:378",
+        "471:482"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 74,
+      "sitting_date": "1970-04-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+      "pages": [
+        "546:549"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=1901&v_kullanici_id=27484836",
+  "source_sha256": "e81aba40441027ac7ebff599f654f454ee5ac0c25841227b42fce13c5cf70df2",
+  "in_force": "1970-02-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
