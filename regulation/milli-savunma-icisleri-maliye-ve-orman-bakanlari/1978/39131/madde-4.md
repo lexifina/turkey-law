@@ -1,0 +1,1 @@
+Madde 4 — Bu personele, tayın bedeli olarak her ay Askeri Tayinat ve Yem Kanununda yeralan günlük er tayın istihkakının bir aylık tutarı peşin olarak ödenir. Ancak, Türk Silâhlı Kuvvetleri ve Jandarma Genel Komutanlığı fiili kadrolarında görevli personele, tamamen veya kısmen er istihkakındaki ölçüler içerisinde aynen de verilebilir.

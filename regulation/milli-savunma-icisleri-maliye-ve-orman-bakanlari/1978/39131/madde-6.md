@@ -1,0 +1,1 @@
+Madde 6 — Tayın bedeli; nakit olarak verilmesi halinde «TAZMİNATLAR» harcama kaleminden, aynen verilmesi halinde ilgili harcama kalemlerinden ödenir. Tayın bedelini, aynen alacakların adedi, yıllık olarak, her yılın TEMMU Z ayına kadar saptanır ve belirlenen adetler o yılın hazırlanacak bütçesine dahil edilir.

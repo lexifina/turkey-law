@@ -1,0 +1,1 @@
+Madde 1 — Bu Yönetmelik 22/6/1978 tarih ve 2155 sayılı bazı kamu personeline tayın bedeli verilmesi hakkındaki Kanunun 3 ncü maddesine dayanılarak, tayın bedelinin kimlere verileceğini, verilme şeklini, aylık miktarlarının hesaplanmasına ve yayınlanmasına ait ilke ve usûlleri açıklamak amacıyla hazırlanmıştır.

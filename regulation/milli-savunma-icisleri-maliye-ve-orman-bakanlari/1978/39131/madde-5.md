@@ -1,0 +1,1 @@
+Madde 5 — Er tayın istihkakının kısmen veya tamamen aynen verilmesi, halinde, verilecek erzakın nevi ve miktarı Askerî Tayinat ve Yem Kanununda yeralan esaslara uygun olarak ilgili Bakanlıklarca tayin ve tesbit olunur.
