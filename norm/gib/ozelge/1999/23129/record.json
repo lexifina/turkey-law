@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102-207/053748",
+  "source_id": 23129,
+  "date": "1999-12-08",
+  "title": "Bir biçerdövere sahip olan çiftçilerin kazançları gerçek usulde vergiye tabi olduklarından yıllık gelir vergisi beyannamesi, muhtasar beyanname ve katma değer vergisi beyannamesi vermesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23129",
+  "source_sha256": "7da2a22aa8cd79a71eaf73bb56298ab3dec5e808fe37ad1c81d3dc0e4162f0b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
