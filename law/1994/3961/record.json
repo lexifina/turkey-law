@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3961",
+  "year": 1994,
+  "title": "Yükseköğretim Kurumları Teşkilatı Hakkında 41 Sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair 28.3.1983 Tarihli ve 2809 Sayılı Kanuna Bir Ek Madde Eklenmesine İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun",
+  "adopted": "1994-01-13",
+  "adopted_as_published": "13/01/1994",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "15.01.1994 No: 21819",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703961.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 77",
+  "committee_reports": [
+    {
+      "label": "TBMM 508 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c051/tbmm19051064ss0508.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 268587,
+      "title": "Yükseköğretim Kurumları Teşkilatı Hakkında 41 Sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair 28.3.1983 Tarihli ve 2809 Sayılı Kanuna Bir Ek Madde Eklenmesine İlişkin Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun",
+      "adopted_as_published": "13/01/1994",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703961.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 508 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c051/tbmm19051064ss0508.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 39,
+          "sitting": 5,
+          "sitting_date": "1993-09-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c039/tbmm19039005.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c039/tbmm19039fih.pdf",
+          "pages": [
+            "601"
+          ]
+        },
+        {
+          "cilt": 51,
+          "sitting": 62,
+          "sitting_date": "1994-01-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c051/tbmm19051062.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c051/tbmm19051fih.pdf",
+          "pages": [
+            "87"
+          ]
+        },
+        {
+          "cilt": 51,
+          "sitting": 64,
+          "sitting_date": "1994-01-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c051/tbmm19051064.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c051/tbmm19051fih.pdf",
+          "pages": [
+            "246:258"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=101&v_kullanici_id=27483194",
+      "page_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1",
+  "issuer": "TBMM",
+  "in_force": "1994-01-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 13/01/1994; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
