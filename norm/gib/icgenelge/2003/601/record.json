@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2003/3",
+  "source_id": 601,
+  "date": "2003-06-27",
+  "title": "TAHSİLAT İÇ GENELGESİ SERİ NO: 2003/3",
+  "source": "https://gib.gov.tr/mevzuat/kanun/442/icgenelge/601",
+  "source_sha256": "ce35581f5c5146127935dc98f625934ecaae9a88b518aed95b334b82d1aaa9a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/442/icgenelge/591",
+        "quote": "27/06/2003 tarihli ve B.07.0.GEL.0.38/3802-69/27796 sayılı 2003/3 Seri No.lu Tahsilat İç Genelgesi. 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesine istinaden ekonomik ve mali zorluklar içinde bulunduklarını be"
+      }
+    ]
+  }
+}
