@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4401-205/24234",
+  "source_id": 24680,
+  "date": "1999-06-16",
+  "title": "Kooperatiflerin üyelerine yaptırdığı orman emvali kesme, sürütme, nakliye ve istif işleri karşılığında Orman İşletmesinden aldığı istihkakı üyelerine verirken % 2 oranında gelir vergisi ve hesaplanan gelir vergisi üzerinden de % 10 oranında fon payı tevki",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24680",
+  "source_sha256": "19fa76bda1b19107c0d696cc3b44df6d6532fe4a8ec0051986e26ce3693fbad3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
