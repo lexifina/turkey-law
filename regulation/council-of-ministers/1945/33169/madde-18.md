@@ -1,0 +1,1 @@
+Madde 18 – Teşkilat, talim ve terbiye için gerekli programlarla talim ve terbiyeyi hangi makamların denetliyecekleri ve yapılacak tatbikat Genelkurmay Başkanlığınca düzenlenecek talimata göre yapılır.

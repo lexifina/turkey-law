@@ -1,0 +1,4 @@
+Madde 15 – (Değişik: 12/12/1991 - 91/2492 K.)
+Hizmete çağrılanlardan ikametgahlarından enaz beş kilometre uzağa gönderileceklerin iaşe ve iskanının Milli Savunma Bakanlığı bütçesinden karşılanacağı hususu dikkate alınarak, müteakip yıl eğitime tabi tutulacak avcı birliklerinin miktarı, yeri ve suresi o yıl Ekim ayı sonuna kadar Milli Savunma Bakanlığına bildirilir.
+Hazarda avcı birliğinin iskan ve iaşesi seferde harekat kontroluna gireceği askeri birlik tarafından yerine getirilir. Ancak bu hizmetleri verebilecek imkana sahip olmayan jandarma birlikleri en yakın askeri birlik tarafından desteklenir. Seferberlik ve savaş halinde ise avcı birliğine verilecek göreve bağlı olarak iaşe ve iskan usulü, bölgeyi savunmaktan sorumlu komutanlıkça tespit edilir.
+İaşe, iskan ve kıyafet hizmetlerine dair diğer hususlar yönerge ile belirtilir.

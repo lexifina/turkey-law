@@ -1,0 +1,1 @@
+Madde 16 – Gruplarda vazife görenlerin tanınma işareti olarak sol kollarında beş santim genişliğinde (kırmızı kolluk) bulunur. Bu kolluklar vazife dışında veya bu hizmetle ilgili bulunmıyanlar tarafından takılamaz.

@@ -1,0 +1,3 @@
+Madde 14 – (Değişik: 12/12/1991 - 91/2492 K.)
+Avcı birliklerinin subay kadrolarında asteğmen-yarbay (dahil) rütbesindeki ödevlilere görev verilir. Zorunlu hallerde rütbe ile birlik seviyesi uygunluğu esası aranmaz.
+Askerlik çağı dışına çıkmış yedek subay ve astsubayların seçim ve görevlendirilmesi, seçme ve değerlendirme kurulunca yapılır. Kurul, askerlik çağı içinde olup da, sefer görevi verilmeyen yedek subayların avcı birliklerinde görevlendirilmesi için Milli Savunma Bakanlığına teklifte bulunur. Kaynağında yeterli yedek subay bulunmadığı takdirde, Bakanlık bu teklifleri en yakın diğer bölgelerdeki görev verilmemiş yedek subaylardan karşılar.
