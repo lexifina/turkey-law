@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1625",
+  "year": 1930,
+  "title": "Nahiye müdürlerinin hayvan yem bedelleri hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-05-24",
+  "gazette_issue": "1501",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1501.pdf",
+  "source_sha256": "4d9218ae2ce1ffaadf28a16007dd40223051d64622d19e3652923759eb3e0604",
+  "text_sha256": "459f4690dc618e45c9837e8c50ae2be503f88c27644a69ba8e3a04a90603fff7",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      972,
+      986
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801625.pdf",
+    "source_sha256": "dba5431f4141570df98d63e2b6e18e32efe987a3ee63ad1a5507a6b7fe5f06be",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9179,
+    "bag": 0.8333,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9492,
+    "rg_words": 64,
+    "kd_words": 59,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
