@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-issue",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "1954-03-04",
+  "issue": "8649",
+  "issue_basis": "official archive file name /arsiv/<issue>.pdf (the archive numbers its files by issue; e.g. 24091.pdf = 26.06.2000, the issue before HTML issue 24092)",
+  "edition": "regular",
+  "archive_mukerrer_flag": null,
+  "item": 0,
+  "section": null,
+  "heading": null,
+  "title": "04.03.1954 tarihli Resmi Gazete",
+  "official_link": "https://www.resmigazete.gov.tr/arsiv/8649.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/Home/Filter",
+  "index_request": {
+    "method": "POST",
+    "searchtype": 2,
+    "arsivaramayeri": "1",
+    "from": "1954-01-01",
+    "to": "1954-12-31"
+  },
+  "index_sha256": "ce29d575b5ec05a7bf275945c7516644ed48110ff9c14c6a18000b168d82c6be",
+  "index_header": "official archive listing date 04.03.1954",
+  "issue_pdf": "https://www.resmigazete.gov.tr/arsiv/8649.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; whole issue published as a scanned PDF (no OCR); items not listed"
+}
