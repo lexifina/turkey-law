@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5921- 292 / 45054",
+  "source_id": 33872,
+  "date": "2004-09-23",
+  "title": "Özel Tüketim Vergisi Kanununa ekli (I) sayılı listede yer alan malların tesliminde ÖTV uygulaması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33872",
+  "source_sha256": "e0859f1e573cf0c17cf01006719615fc34ea0997364556625256b44a700ce09e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
