@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 22,
+  "legislative_year": 2,
+  "sitting": 18,
+  "sitting_date": "2003-11-13",
+  "listed_date": "13 Kasım 2003 Perşembe",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/22/2/18/Tam/8817de97-3e38-4d54-afcb-23bbb9cf7519.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=9d978481-9004-4664-86a0-0185ceac79f7",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=22&YasamaYili=2",
+  "source_sha256": "a32253af3a07f0d27f332db0e056d515d33da89dceaee4fc5e38af8d3926d67c",
+  "source_bytes": 225594,
+  "source_encoding": "windows-1254",
+  "text_status": "as-published"
+}
