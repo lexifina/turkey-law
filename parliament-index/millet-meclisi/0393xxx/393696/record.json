@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 393696,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "6831 sayılı Orman Kanununun bazı maddelerinin değiştirilmesi ve bu kanuna bir ek madde eklenmesi-sine dair kanun tasarısı ve Antalya Milletvekili İhsan Ataöv ve 2 arkadaşının, 6831 sayılı Orman Kanununa geçici bir madde eklenmesine dair kanun teklifi ile, Cumhuriyet Senatosu Gaziantep Üyesi Salih Tanyeri ve 74 arkadaşının, 6831 sayılı Orman Kanununun bazı maddelerinin değiştirilmesinle ve bir ek madde ile bir geçici madde ilâvesine, 5237, 5422, 6969, 7336 ve 756 sayılı kanunlarla konu gelirlerin kaynak olacağı Orman Köylerini Kalkındırma Fonu teşkili ile Orman Köylerini Kalkındırma Kooperatifleri kurulması hakkında kanun teklifi Anayasa, Adalet, Orman ve Plân komisyonlarından 3'er üye seçilerek kurulan 73 numaralı Geçici Komisyon raporu (2/572)",
+  "title": "6831 sayılı Orman Kanununun bazı maddelerinin değiştirilmesi ve bu kanuna bir ek madde eklenmesi-sine dair kanun tasarısı ve Antalya Milletvekili İhsan Ataöv ve 2 arkadaşının, 6831 sayılı Orman Kanununa geçici bir madde eklenmesine dair kanun teklifi ile, Cumhuriyet Senatosu Gaziantep Üyesi Salih Tanyeri ve 74 arkadaşının, 6831 sayılı Orman Kanununun bazı maddelerinin değiştirilmesinle ve bir ek madde ile bir geçici madde ilâvesine, 5237, 5422, 6969, 7336 ve 756 sayılı kanunlarla konu gelirlerin kaynak olacağı Orman Köylerini Kalkındırma Fonu teşkili ile Orman Köylerini Kalkındırma Kooperatifleri kurulması hakkında kanun teklifi Anayasa, Adalet, Orman ve Plân komisyonlarından 3'er üye seçilerek kurulan 73 numaralı Geçici Komisyon raporu (2/572)",
+  "first_sitting_date": "1973-06-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 38,
+      "sitting": 120,
+      "sitting_date": "1973-06-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038120.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038fih.pdf",
+      "pages": [
+        "236"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=3201&v_kullanici_id=27484836",
+  "source_sha256": "7b8c00f11b4e2eb3c9c8a808871926946340a6285728835da8f3260d4469bb33",
+  "in_force": "1973-06-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
