@@ -1,0 +1,93 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3522",
+  "year": 1989,
+  "title": "506 Sayılı Sosyal Sigortalar Kanununun Bir Maddesinin Değiştirilmesi ve Bu Kanuna Bir Geçici Madde Eklenmesine, 308 Sayılı Kanun Hükmünde Kararnamenin Geçici Maddesinin Değiştirilmesine ve 352 Sayılı Kanun Hükmünde Kararnamenin Yürürlükten Kaldırılmasına Dair Kanun",
+  "adopted": "1989-02-16",
+  "adopted_as_published": "16/02/1989",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.02.1989 No: 20090",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc072/kanuntbmmc072/kanuntbmmc07203522.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 72",
+  "committee_reports": [
+    {
+      "label": "TBMM 218 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c023/tbmm18023059ss0218.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 228000,
+      "title": "506 Sayılı Sosyal Sigortalar Kanununun Bir Maddesinin Değiştirilmesi ve Bu Kanuna Bir Geçici Madde Eklenmesine, 308 Sayılı Kanun Hükmünde Kararnamenin Geçici Maddesinin Değiştirilmesine ve 352 Sayılı Kanun Hükmünde Kararnamenin Yürürlükten Kaldırılmasına Dair Kanun",
+      "adopted_as_published": "16/02/1989",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc072/kanuntbmmc072/kanuntbmmc07203522.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 218 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c023/tbmm18023059ss0218.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 22,
+          "sitting": 53,
+          "sitting_date": "1989-01-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c022/tbmm18022053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c022/tbmm18022fih.pdf",
+          "pages": [
+            "94"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 58,
+          "sitting_date": "1989-02-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c023/tbmm18023058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c023/tbmm18023fih.pdf",
+          "pages": [
+            "91"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 59,
+          "sitting_date": "1989-02-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c023/tbmm18023059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c023/tbmm18023fih.pdf",
+          "pages": [
+            "145:168"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 60,
+          "sitting_date": "1989-02-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c023/tbmm18023060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c023/tbmm18023fih.pdf",
+          "pages": [
+            "185:209"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=363&v_gelecek_sayfa=101&v_kullanici_id=27483192",
+      "page_sha256": "361a4fae696438e8cdcec3e14c7a6b3da7efee401becf429a81634f0a6406b9b"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "361a4fae696438e8cdcec3e14c7a6b3da7efee401becf429a81634f0a6406b9b",
+  "issuer": "TBMM",
+  "in_force": "1989-02-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 16/02/1989; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
