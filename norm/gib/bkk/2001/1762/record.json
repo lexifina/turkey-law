@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2001/2762",
+  "source_id": 1762,
+  "date": "2001-07-28",
+  "title": "YURT DIŞINA ÇIKIŞLARDA HARÇ ALINMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA KARAR",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/bkk/1762",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "52450f3cd3d671ca5027dc3635caa307a119d8a0bb5b4ef25063164c7afe316c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
