@@ -1,0 +1,1 @@
+MADDE 11 — 4.12.1984 tarihli ve 3096 sayılı Kanunun geçici 4 üncü maddesinin birinci fıkrasının son paragrafı "Enerji ve Tabiî Kaynaklar Bakanlığı Merkez Saymanlığı hesabına yatırılır ve bütçeye gelir kaydedilir." olarak değiştirilmiştir.

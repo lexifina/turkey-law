@@ -1,0 +1,3 @@
+MADDE 10 — 25.2.1998 tarihli ve 4342 sayılı Kanunun 30 uncu maddesinin birinci fıkrasında yer alan "Bu Kanunla Bakanlığa verilen görevlerin gerçekleştirilmesi amacıyla personel giderleri hariç her türlü carî, yatırım ve transfer giderleri ile huzur haklarının ödenmesinde kullanılmak üzere;" ibaresi madde metninden çıkarılmış ve aynı fıkranın son paragrafı ile son fıkrası aşağıdaki şekilde değiştirilmiştir.
+Tarım ve Köyişleri Bakanlığı Merkez Saymanlık Müdürlüğü hesabına yatırılır. Yatırılan bu tutarlar bütçeye gelir kaydedilir.
+Bu madde uyarınca yapılacak tahsilata ilişkin usul ve esaslar ile ödenecek huzur hakları Maliye Bakanlığının uygun görüşü üzerine Bakanlık tarafından çıkarılacak yönetmelikle düzenlenir.

@@ -1,0 +1,2 @@
+MADDE 12 — 13.10.1983 tarihli ve 2918 sayılı Kanunun 91 inci maddesinin üçüncü fıkrası aşağıdaki şekilde değiştirilmiştir.
+Sigorta yaptıranların, sigorta şirketlerine ödeyecekleri sigorta priminin % 5'i oranındaki tutar, sigorta şirketi tarafından tahsil edildiği ayı takip eden ayın en geç 20'sine kadar İçişleri Bakanlığı Merkez Saymanlığı hesabına yatırılır. Yatırılan bu tutarlar bütçeye gelir kaydedilir.
