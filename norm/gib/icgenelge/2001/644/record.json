@@ -1,0 +1,34 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2001/1",
+  "source_id": 644,
+  "date": "2001-03-20",
+  "title": "EMLAK VERGİSİ KANUNU İÇ GENELGESİ SERİ NO : 2001/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/icgenelge/644",
+  "source_sha256": "60e0c9d75ecc3591a139a0bac2b1db527dcf7adb2b70afb697f93fab9045a45e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/447/icgenelge/643",
+        "quote": "20.3.2001 tarihli ve B.07.0.GEL.0.66/6650-150/14882 sayılı 2001/1 Seri No.lu Emlak Vergisi Kanunu İç Genelgesinde açıklandığı şekilde, 213 sayılı Vergi Usul Kanununun 72 nci maddesine göre yeniden oluşturulacak arsa ve arazilere ait takdir"
+      }
+    ]
+  },
+  "unincorporated_annexes": [
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/emlakvericgenek.html",
+      "title": "CETVELİN DÜZENLENMESİNE İLİŞKİN ÖRNEK",
+      "status": "official-link-only; annex text not included"
+    }
+  ]
+}
