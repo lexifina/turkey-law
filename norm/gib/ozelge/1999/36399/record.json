@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2166/6257",
+  "source_id": 36399,
+  "date": "1999-02-23",
+  "title": "Mirasçılar tarafından verilen VİV beyenamesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36399",
+  "source_sha256": "0bb35b52fab78f68f45999799b7477b148e0956cf90c706b617277f14afab280",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
