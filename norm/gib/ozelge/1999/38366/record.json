@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6650-150/20762",
+  "source_id": 38366,
+  "date": "1999-05-25",
+  "title": "Yeni kurulan belediyelerde emlak ve çevre temizlik vergisi uygulamaları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/38366",
+  "source_sha256": "961f7434e25e4b97f2ab719481ed41d2f45a2a13a99feb2038f043a106393468",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
