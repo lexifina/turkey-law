@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3738",
+  "year": 1991,
+  "title": "Şikago'da 7 Aralık 1944 Tarihinde Âkit ve İmza Edilmiş Olan Milletlerarası Sivil Havacılık Anlaşmasına 83 (BIS) Maddesinin Eklenmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "1991-05-08",
+  "adopted_as_published": "08/05/1991",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "21.05.1991 No: 20877",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc074/kanuntbmmc074/kanuntbmmc07403738.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 74",
+  "committee_reports": [
+    {
+      "label": "TBMM 544 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c060/tbmm18060114ss0544.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 236222,
+      "title": "Şikago'da 7 Aralık 1944 Tarihinde Âkit ve İmza Edilmiş Olan Milletlerarası Sivil Havacılık Anlaşmasına 83 (BIS) Maddesinin Eklenmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "08/05/1991",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc074/kanuntbmmc074/kanuntbmmc07403738.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 544 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c060/tbmm18060114ss0544.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 46,
+          "sitting": 126,
+          "sitting_date": "1990-08-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c046/tbmm18046126.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c046/tbmm18046fih.pdf",
+          "pages": [
+            "419"
+          ]
+        },
+        {
+          "cilt": 58,
+          "sitting": 98,
+          "sitting_date": "1991-03-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c058/tbmm18058098.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c058/tbmm18058fih.pdf",
+          "pages": [
+            "201"
+          ]
+        },
+        {
+          "cilt": 60,
+          "sitting": 114,
+          "sitting_date": "1991-05-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c060/tbmm18060114.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c060/tbmm18060fih.pdf",
+          "pages": [
+            "165:166",
+            "168",
+            "281:285"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=363&v_gelecek_sayfa=301&v_kullanici_id=27483192",
+      "page_sha256": "00f6e264935372e640361cd09d4b62bd8cd3aa42dd1a608f72b219bd65964ef3"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "00f6e264935372e640361cd09d4b62bd8cd3aa42dd1a608f72b219bd65964ef3",
+  "issuer": "TBMM",
+  "in_force": "1991-05-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 08/05/1991; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
