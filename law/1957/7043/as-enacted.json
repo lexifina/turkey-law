@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7043",
+  "year": 1957,
+  "title": "Ordu mensuplariyle Emniyet Genel Müdürlüğü ve Gümrük muhafaza ve muamele sınıfı kadrolarında çalışanlara birer er tayını verilmesi hakkındaki 4367 sayılı Kanuna ek 4786 sayılı Kanunun 5605 sayılı Kanunla değiştirilen 1. maddesinin tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-09-13",
+  "gazette_issue": "9705",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9705.pdf",
+  "source_sha256": "02b45ede23affb364afa80e7b04176f5b3a4f96a030c17197b2e4ebd7273bb1f",
+  "text_sha256": "a8d4102521b01560ce1c66758822609fa54ba0982461d205b2252a1d739b051b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      15,
+      63
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907043.pdf",
+    "source_sha256": "57144d52022e92b500d37bd4063c19de0d957b8aa41ab5cc24438b73926afee4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9005,
+    "bag": 0.8232,
+    "kd_coverage": 0.995,
+    "kd_body_compared": 0.9851,
+    "rg_words": 180,
+    "kd_words": 202,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
