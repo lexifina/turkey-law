@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5171",
+  "year": 2004,
+  "title": "Yükseköğretim Kanunu ve Yüksek Öğretim Personel Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "2004-05-13",
+  "adopted_as_published": "13/05/2004",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "geri gönderme No:",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08805171.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 88",
+  "committee_reports": [
+    {
+      "label": "TBMM 441 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c049/tbmm22049088ss0441.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 207713,
+      "title": "Yükseköğretim Kanunu ve Yüksek Öğretim Personel Kanununda Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "13/05/2004",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08805171.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 441 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c049/tbmm22049088ss0441.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 48,
+          "sitting": 83,
+          "sitting_date": "2004-05-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c048/tbmm22048083.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c048/tbmm22048fih.pdf",
+          "pages": [
+            "60"
+          ]
+        },
+        {
+          "cilt": 48,
+          "sitting": 86,
+          "sitting_date": "2004-05-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c048/tbmm22048086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c048/tbmm22048fih.pdf",
+          "pages": [
+            "274"
+          ]
+        },
+        {
+          "cilt": 49,
+          "sitting": 88,
+          "sitting_date": "2004-05-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c049/tbmm22049088.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c049/tbmm22049fih.pdf",
+          "pages": [
+            "27:246",
+            "283:292"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=301&v_kullanici_id=27483198",
+      "page_sha256": "f5d80f4501b6771cf69ef5414174594130a3f7aa668cd5be26953a204f7808bf"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "f5d80f4501b6771cf69ef5414174594130a3f7aa668cd5be26953a204f7808bf",
+  "issuer": "TBMM",
+  "in_force": "2004-05-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 13/05/2004; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
