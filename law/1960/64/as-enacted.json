@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "64",
+  "year": 1960,
+  "title": "27 Mayıs İnkılapı sebebiyle emniyet ve nezaret altına alınan veya tevkif olunanların muhafazasında görevlendirilenlerin iaşeleri hakkında Kanun (BASILI GENEL KURUL TUTANAGI BULUNMAMAKTADIR)",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-08-22",
+  "gazette_issue": "10584",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10584.pdf",
+  "source_sha256": "0f46b01ccfb349d4c1e30fcdd7540aac40ed170c08a18acfdc7b736077777466",
+  "text_sha256": "870a659c64b60a962e2d67780bccaaf44a58e3316bc79749a6fde97889cd9955",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      135,
+      153
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300064.pdf",
+    "source_sha256": "242917e49e07f36d77abadb490e999c209dd1f7be38b10e8d32e5db282394cab",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9576,
+    "bag": 0.8571,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9326,
+    "rg_words": 85,
+    "kd_words": 89,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
