@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2004/8295",
+  "source_id": 1241,
+  "date": "2004-12-29",
+  "title": "GELİR VERGİSİ KANUNUNUN 19,21, 23/8,31,47,48,MÜKERRER 80,82,86 ve MÜKERRER 121 İNCİ MADDELERİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/bkk/1241",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "aadeb18978e64f6dee67519a38296d90e0023eeeec4b6b2e414501fdaf992edb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
