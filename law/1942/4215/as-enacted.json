@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4215",
+  "year": 1942,
+  "title": "Kazanç vergisi kanununun 3. maddesinin 13. fıkrasının değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-05-07",
+  "gazette_issue": "5100",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5100.pdf",
+  "source_sha256": "50011ec3e152809c8b2e0a4075e29f2ac267df7683583766accef6a5b9689abe",
+  "text_sha256": "963c427f7c50e5cd01bb53486b0304186734c0d783d022e84046bd94b115a7bb",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      87,
+      109
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304215.pdf",
+    "source_sha256": "58fc4d13aaebeae2c33809bccfe9d1a5f4e7b4b352d9ed02a8ba446216e6ee57",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9775,
+    "bag": 0.9048,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9692,
+    "rg_words": 126,
+    "kd_words": 130,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
