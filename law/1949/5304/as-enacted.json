@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5304",
+  "year": 1949,
+  "title": "Tababet ve şuabatı sanatlarının tarzı icrasına dair olan 1219 sayılı Kanunun 12. maddesinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-01-21",
+  "gazette_issue": "7111",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7111.pdf",
+  "source_sha256": "75fc059c2bcfa6c338586483e19f09459e9c3d2a227e5bff61cc17a64ae9aa2a",
+  "text_sha256": "9713f1aee513628877bf1830f6906a258bac8fc338e1077881dfcf1b77008b62",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      34
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105304.pdf",
+    "source_sha256": "60391b754dade5ab1221223adaf9f0a60fbe45c22002402cb8d05033cf9f7acf",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9461,
+    "bag": 0.8873,
+    "kd_coverage": 0.9865,
+    "kd_body_compared": 0.9669,
+    "rg_words": 138,
+    "kd_words": 151,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
