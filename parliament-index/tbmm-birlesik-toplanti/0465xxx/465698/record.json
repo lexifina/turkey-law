@@ -1,0 +1,33 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 465698,
+  "assembly": "TBMM Birleşik Toplantı",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "title": "TBMM Birleşik Toplantı fihrist kaydı 465698 (Raporlar)",
+  "first_sitting_date": "1962-04-25",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 14,
+      "sitting_date": "1962-04-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t01/c001/tbmm01001014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t01/c001/tbmm01001fih.pdf",
+      "pages": [
+        "135"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=8&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=8&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "6d8a02ffa0a172f88fb06a5d63cf6b6f1699137e6f3567c19cb954f87f074d89",
+  "in_force": "1962-04-25",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
