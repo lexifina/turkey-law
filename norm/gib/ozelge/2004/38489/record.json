@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL,0.32/3223-2813",
+  "source_id": 38489,
+  "date": "2004-08-14",
+  "title": "Beyanname verme süreleri uzatılan mükelleflere ait Yeminli Mali  Müşavirlik Tasdik Raporlarının beyanname verme süresinin bitimini takip eden iki ay içerisinde ilgili vergi dairelerine teslim edilebilmesi mümkün bulunması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38489",
+  "source_sha256": "e826109f72849aba14060aae941132e7da8adc1ba3a303db854d0219a3539142",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
