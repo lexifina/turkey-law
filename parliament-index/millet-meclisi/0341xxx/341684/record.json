@@ -1,0 +1,89 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 341684,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Belediye Kanununda değişiklikler yapılmasına ve ilgili bazı kanunların kaldırılmasına dair kanun tasarısı ile Cumhuriyet Senatosu İçel Üyesi Cavit Tevfik Okyayuz ye 6 arkadaşının 1580 sayılı Belediye Kanununa bazı maddeler eklenmesine, bazı maddelerinin değiştirilmesine ve kaldırılmasına ve 5669,6424,6555,8363 sayılı kanunların kaldırılmasına dair kanun teklifi ve Edirne Milletvekili İlhami Ertem'in, 1580 sayılı Belediye Kanununun 76,89,91 ve 92. maddelerinin değiştirilmesi hakkındaki kanun teklifine dair (1/427,2/191,2/336)",
+  "title": "Belediye Kanununda değişiklikler yapılmasına ve ilgili bazı kanunların kaldırılmasına dair kanun tasarısı ile Cumhuriyet Senatosu İçel Üyesi Cavit Tevfik Okyayuz ye 6 arkadaşının 1580 sayılı Belediye Kanununa bazı maddeler eklenmesine, bazı maddelerinin değiştirilmesine ve kaldırılmasına ve 5669,6424,6555,8363 sayılı kanunların kaldırılmasına dair kanun teklifi ve Edirne Milletvekili İlhami Ertem'in, 1580 sayılı Belediye Kanununun 76,89,91 ve 92. maddelerinin değiştirilmesi hakkındaki kanun teklifine dair (1/427,2/191,2/336)",
+  "first_sitting_date": "1963-06-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 104,
+      "sitting_date": "1963-06-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018104.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+      "pages": [
+        "617"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 106,
+      "sitting_date": "1963-07-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019106.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+      "pages": [
+        "94:109"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 107,
+      "sitting_date": "1963-07-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019107.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+      "pages": [
+        "120:143"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 108,
+      "sitting_date": "1963-07-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019108.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+      "pages": [
+        "193:207"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 109,
+      "sitting_date": "1963-07-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019109.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+      "pages": [
+        "244:266"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 110,
+      "sitting_date": "1963-07-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019110.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+      "pages": [
+        "276:293"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=6101&v_kullanici_id=27484836",
+  "source_sha256": "82b1f4138d32114a16e35579eb3f0842f9c4818d24c33e051f113c722e63658a",
+  "in_force": "1963-06-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
