@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-98/032030",
+  "source_id": 24673,
+  "date": "2004-07-07",
+  "title": "Banka faiz geliri üzerinden yapılan tevkifat için hesaplanan fon payının muhasebeleştirilmesi hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24673",
+  "source_sha256": "b981ad50260a8c610204eca7d0afb3bf412af70b3d8defe0a3202181a50c5aeb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
