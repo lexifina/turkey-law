@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1463/9198",
+  "source_id": 22992,
+  "date": "2005-02-28",
+  "title": "Daha önce gerçek usulde vergilendirildiğiniz faaliyet  ile yeni başladığınız faaliyetin aynı neviden olduğunun tespit edilmesi nedeniyle,gerçek usulde mükellefiyetinizin tesis edilmiştir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22992",
+  "source_sha256": "df47824db42a9a6f9837186f5c95b325ada59a77ee69a571f83919426549b01e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
