@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4099",
+  "year": 1941,
+  "title": "Ankara şehri lâğımları hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-08-13",
+  "gazette_issue": "4885",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4885.pdf",
+  "source_sha256": "829c3129e2855a83c6f74cbd38d739f49ec2cd0282ae0a799f7b643bb2ef5761",
+  "text_sha256": "b3c06c19305916485ab60483b6f08fcfd2f252bad1cad30a74687c07d4791752",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      481,
+      481
+    ],
+    [
+      573,
+      589
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204099.pdf",
+    "source_sha256": "b4b6da0b016852bd30f24d520425ad092491c0d804c6df33d1bc0437d6bc9202",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9725,
+    "bag": 0.8702,
+    "kd_coverage": 0.9697,
+    "kd_body_compared": 0.9489,
+    "rg_words": 132,
+    "kd_words": 137,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
