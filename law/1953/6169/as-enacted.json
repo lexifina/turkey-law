@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6169",
+  "year": 1953,
+  "title": "Köy Kanununa bazı Maddeler Eklenmesine ve 46 ncı Maddesinin Değiştirilmesine ve Bu Kanunun bazı Maddelerinin Kaldırılmasına dair 5672 sayılı Kanunun 5998 sayılı Kanunla Tadil Edilen Geçici Maddesinin Değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-24",
+  "gazette_issue": "8466",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8466.pdf",
+  "source_sha256": "b0172979bf69b5f900bf3a6fe66c575f0cf1ecb22d0ad4827961ac0ff03119ee",
+  "text_sha256": "2cd9f11ea9fa9e141b0a983c51e2881bc1b3d8a019f8d9533453e5f0799a6aa4",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      17,
+      34
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506169.pdf",
+    "source_sha256": "639d0784dbed2b78d9c2bc55d97b0ae44927776d0e951ffe8feee3f054ce0aad",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9328,
+    "bag": 0.8287,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.98,
+    "rg_words": 83,
+    "kd_words": 100,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
