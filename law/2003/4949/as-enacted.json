@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4949",
+  "year": 2003,
+  "title": "İcra ve İflas Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-07-30",
+  "gazette_issue": "25184",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030730.htm",
+  "source_sha256": "c1dc6b8a7f5155f838ed3bd342c6bc79438529eac5f1b5bb143e9d6b66ff50ff",
+  "text_sha256": "694ec9168de74f31d2851c3cbfb3395f9fe1f78c940e559c10ca5960f8737179",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/07/30/25184-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030730.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
