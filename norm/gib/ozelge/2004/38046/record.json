@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5411-2429",
+  "source_id": 38046,
+  "date": "2004-09-29",
+  "title": "Satış yapmak için istisna belgesi alan mükelleflerin 43 Seri No'lu KDV Genel ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38046",
+  "source_sha256": "5ebb08b143f134e77bfa59411c46350c11c745a21a94cba8e7a78b9ff047af32",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
