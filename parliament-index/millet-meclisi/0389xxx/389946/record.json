@@ -1,0 +1,73 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 389946,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Türkiye ile Avrupa Ekonomik Topluluğu arasında geçici anlaşma hükümleri uyarınca bu Anlaşmanın kapsamına giren maddelerin Gümrük vergilerinde anlaşmada yer alan esas ve oranlar çerçevesinde yapılan indirimlerin onaylanması hakkında kanun tasarısı (1/571)",
+  "title": "Türkiye ile Avrupa Ekonomik Topluluğu arasında geçici anlaşma hükümleri uyarınca bu Anlaşmanın kapsamına giren maddelerin Gümrük vergilerinde anlaşmada yer alan esas ve oranlar çerçevesinde yapılan indirimlerin onaylanması hakkında kanun tasarısı (1/571)",
+  "first_sitting_date": "1971-02-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 19,
+      "sitting": 10,
+      "sitting_date": "1971-02-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019fih.pdf",
+      "pages": [
+        "186"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 93,
+      "sitting_date": "1972-05-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024fih.pdf",
+      "pages": [
+        "823",
+        "869"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 124,
+      "sitting_date": "1972-07-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026124.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026fih.pdf",
+      "pages": [
+        "480"
+      ]
+    },
+    {
+      "cilt": 27,
+      "sitting": 136,
+      "sitting_date": "1972-09-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027136.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027fih.pdf",
+      "pages": [
+        "29",
+        "73",
+        "143",
+        "159",
+        "176",
+        "230"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2401&v_kullanici_id=27484850",
+  "source_sha256": "246910b0e960659140840f2fb92afe3e1a569beef64becf7bc47ed29b1610b05",
+  "in_force": "1971-02-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
