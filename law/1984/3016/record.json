@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3016",
+  "year": 1984,
+  "title": "20.7.1966 Tarihli ve 775 Sayılı Gecekondu Kanununun 26. Maddesinin Değiştirilmesine Dair Kanun",
+  "adopted": "1984-06-06",
+  "adopted_as_published": "06/06/1984",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.06.1984 No: 18437",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc067/kanuntbmmc067/kanuntbmmc06703016.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 67",
+  "committee_reports": [
+    {
+      "label": "TBMM 67 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004075ss0067.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 239358,
+      "title": "20.7.1966 Tarihli ve 775 Sayılı Gecekondu Kanununun 26. Maddesinin Değiştirilmesine Dair Kanun",
+      "adopted_as_published": "06/06/1984",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc067/kanuntbmmc067/kanuntbmmc06703016.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 67 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004075ss0067.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 59,
+          "sitting_date": "1984-05-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c003/tbmm17003059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c003/tbmm17003fih.pdf",
+          "pages": [
+            "459"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 74,
+          "sitting_date": "1984-06-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004074.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+          "pages": [
+            "182"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 75,
+          "sitting_date": "1984-06-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+          "pages": [
+            "226:234"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "5e6f3e9d8585a78cfeef2a4f773b727decbc15e07e160f9a598887f4937cfafa"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5e6f3e9d8585a78cfeef2a4f773b727decbc15e07e160f9a598887f4937cfafa",
+  "issuer": "TBMM",
+  "in_force": "1984-06-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 06/06/1984; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
