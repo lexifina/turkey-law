@@ -1,0 +1,2 @@
+Yıl Sonu Notu
+Madde 34- Kültür derslerinde 1-5 inci sınıflardaki meslek derslerinde bir dersin yıl sonu notu, öğrencinin o dersten aldığı birinci ve ikinci kanaat dönemi notlarının aritmetik ortalamasıdır. 6 ncı, 7 nci, 8 inci sınıflarda meslek derslerinde ise birinci kanaat dönemine % 30, ikinci kanaat dönemine % 30 ve yıl sonu sınavına % 40 ağırlık verilerek ilgili dersin toplam yıl sonu notu hesaplanır.

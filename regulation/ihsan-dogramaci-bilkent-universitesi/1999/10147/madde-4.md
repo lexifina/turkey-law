@@ -1,0 +1,22 @@
+Tanımlar
+Madde 4- Bu Yönetmelikte geçen;
+a) Bakanlık: Milli Eğitim Bakanlığını,
+b) Bakan: Milli Eğitim Bakanını,
+c) Üniversite: Bilkent Üniversitesini,
+d) Rektör: Üniversite Rektörünü,
+e) Fakülte: Bilkent Üniversitesi Müzik ve Sahne Sanatları Fakültesi’ni,
+f) Dekan: Fakülte Dekanı’nı,
+g) Okul: Bilkent Üniversitesi Müzik ve Sahne Sanatları Fakültesi Müzik Hazırlık Ilköğretim Okulunu,
+h) Müdür: Ilköğretim Okulu Müdürü,
+ı) Okul Yönetim Kurulu: Üniversite Mütevelli Heyet Başkanlığınca seçilen Yönetim Kurulunu,
+i) Meslek Dersleri: Müzik Bölümü ana sanat dallarıyla ilgili dersleri,
+j) Ortak Kültür Dersleri: Meslek dersleri dışındaki dersleri,
+k) Veli: Öğrencinin anne, baba, veya vasisi olan kişiyi yetkilendirilen kişiyi,
+l) Öğretim Elemanı: 2547 sayılı Kanunda belirtilen nitelikleri taşıyan eğitim ve öğretim görevlilerini ve 1739 sayılı Kanundaki öğretmenlik niteliklerini taşıyan kişileri,
+m) Zümre Öğretim Elemanları Kurulu: Aynı sınıf veya aynı dersi okutan öğretim elemanlarından oluşan kurulu,
+n) Şube Öğretim Elemanları Kurulu: 6 ncı,7 nci ve 8 inci sınıflarda aynı şubede ders okutan öğretim elemanlarından oluşan kurulu,
+o) Kanaat Dönemi: Derslerin başladığı tarihten dinlenme tatiline, dinlenme tatili bitiminden ders kesimine kadar geçen süreyi,
+ö) Ders Yılı: Derslerin başladığı günden, derslerin kesildiği güne kadar geçen ve iki kanaat dönemini kapsayan süreyi,
+p) Öğretim Yılı: Ders yılının başladığı tarihten ertesi ders yılının başladığı tarihe kadar geçen süreyi,
+r) Yıl Sonu Sınavı: 6 ncı, 7 nci ve 8 inci sınıflarda meslek derslerinden ders yılı sonunda yapılan kapsamlı sınavı,
+ifade eder.

@@ -1,0 +1,5 @@
+Öğrenci Başarısı
+Madde 36- Yıl sonu itibariyle 21 inci maddede verilen tablodaki not sistemi çerçevesinde yıl sonu başarı ortalaması 1.00 olan veya 6 veya daha fazla dersten başarısız olan öğrencilerin okul ile ilişiği kesilerek bakanlığa bağlı ilköğretim okullarına nakilleri sağlanır. 4 veya 5 genel kültür dersinden yıl sonunda başarısız olan öğrenci o sınıfı tekrar eder. Aynı sınıfta iki yıl üstüste başarısız duruma düşen öğrencinin okulla ilişiği kesilir. Yıl sonunda 3 veya daha az dersten başarısız olan öğrenciler tamamlama kursuna alınır ve bütünleme sınavlarına girerler.
+Bütünleme sınavları, eğitim-öğretim başlamadan en geç on beş (15) gün önce Müdürlükçe belirlenecek gün, saat ve yerde Okul Yönetim Kurulu tarafından oluşturulacak komisyonlar tarafından yapılır.
+Öğrencinin bu sınavlarda başarılı olabilmesi için bütünlemeye kaldığı ders/derslerinden yüz (100) tam puan üzerinden en az elli (50) puan alması zorunludur. Bu puan öğrencinin yıl sonu başarı notudur.
+Bu sınavlara mazeretsiz olarak girmeyen öğrenciye sıfır (0) not verilir.

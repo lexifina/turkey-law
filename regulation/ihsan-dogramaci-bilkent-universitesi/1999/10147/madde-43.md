@@ -1,0 +1,2 @@
+Kültür Derslerinden Ders Yılı Sonunda Başarı
+Madde 43- Okulda bir üst sınıfa devam etmek veya mezun olabilmek için öğrencinin iki kanaat dönemi notunun aritmetik ortalaması her kültür dersi için 2’den aşağı olamaz. Başarısız dersi veya dersleri olan öğrencilerin durumu 36 ve 37 inci maddeler esaslarına göre şube öğretim elemanları kurulunda görüşülür. Zümre Öğretim Elemanları Kurul kararı ile sınıf geçen öğrencilerin notları değiştirilmez. Okul kayıtlarına geçiş şekli yazılır. Bu durum öğrenci karnesinde de belirtilir.

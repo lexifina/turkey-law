@@ -1,0 +1,2 @@
+Sınav Sonuçlarının Duyurulması
+Madde 28- Öğretim elemanları, yaptıkları sınavların, verdikleri ödev ve projelerin sonuçlarını öğrencilere bildirirler. Yapılan başlıca ortak hataları sınıfta açıklarlar. Sözlü sınav sonucu o ders saati içinde yazılı sınav, uygulamalı ve ödev sonuçları ise yazılı sınavın yapıldığı, ödevin, uygulamanın veya projenin teslim edildiği tarihten başlayarak en çok on beş gün içinde öğrenciye duyurulur.

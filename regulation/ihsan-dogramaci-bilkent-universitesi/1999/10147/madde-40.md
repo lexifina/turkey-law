@@ -1,0 +1,4 @@
+Sınıf ve Program Yükseltme
+Madde 40- Okulun 1-5 inci sınıf öğrencilerinden beden ve zihince gelişmiş olup bilgi ve beceri bakımından sınıf düzeyinin üstünde olanlar, sınıf öğretim elemanının önerisi ile öğretim yılının ilk iki ayı içinde sınıf yükseltme sınavına alınırlar. Bu sınavda başarı sağlayanlar bir üst sınıfa yükseltilirler.
+Bu sınav, Okul Müdürünün başkanlığında sınıf öğretim elemanı ile bir üst sınıfın öğretim elemanından kurulacak en az üç kişilik komisyon tarafından yapılır. Ayrıca meslek derslerinde algılama ve kavrama yetilerinin gelişmiş olması nedeniyle ilgili öğretim elemanlarınca zaman zaman öğretim programının dışında öğrencinin ilgisi doğrultusunda ve kapasitesine uygun olarak bilgi aktarımında bulunulabilir.
+Sınav sonucu tutanakla tespit edilir. Bu tutanak, öğrencinin dosyasında saklanır. Başarı gösterenlerin durumu okul kayıtlarına ve öğrenci nakil belgesine de işlenir. Sınıf yükseltme bir kez yapılır.
