@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4016-75/30688",
+  "source_id": 22265,
+  "date": "1998-08-25",
+  "title": "Desinatörlük işini kendisinin yapmayıp başkalarına yaptırarak desenlerin satışı faaliyetinde bulunan mükellefin sahibi bulunduğu işyerinde çalıştırdığı işçilere desen çizimi işini yaptırması, bu işçilerin idaresi ve yönetimi ile uğraşması ve üretilen mamü",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22265",
+  "source_sha256": "b00765418edbfe0eea78e2198f8ffa48586ed63433d87a3ae81eca75e381f876",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
