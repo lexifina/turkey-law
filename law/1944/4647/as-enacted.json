@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4647",
+  "year": 1944,
+  "title": "Telgraf ve Telefon Kanununa ek 2722 sayılı kanunun bazı maddelerinin değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-08-10",
+  "gazette_issue": "5779",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5779.pdf",
+  "source_sha256": "9b4d874f4bc6918fef7b0b147402da2bfeaab739ad81f2ac7d2da1a0a75afa8f",
+  "text_sha256": "99412d4d8871780ed6564e51965d40c3006e685a37e0e78e55898f2af6cc8c89",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      600,
+      640
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604647.pdf",
+    "source_sha256": "27672ee9efa17862b1b764745d633bf7fb65e9a5062c2ad37ef151206c42a513",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9788,
+    "bag": 0.9291,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9922,
+    "rg_words": 253,
+    "kd_words": 257,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
