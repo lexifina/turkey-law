@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6601-704/13966",
+  "source_id": 37281,
+  "date": "2005-03-25",
+  "title": "Şehir şebekesine bağlı bahçe suyu kapsamında abone olanların çevre temizlik vergisi ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37281",
+  "source_sha256": "2e303655b20bb676f025aa3ae27c5bd78d86cd39539e35ec80ec6065c59d75cf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
