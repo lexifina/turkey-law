@@ -1,0 +1,39 @@
+{
+  "source_id": "5.5.3621",
+  "path": "law/1990/3621-mulga",
+  "number": "3621",
+  "tertip": "5",
+  "title": "KIYI KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "document": "repealed-provisions",
+  "companion_of": "law/1990/3621",
+  "enacted": "1990-04-04",
+  "enacted_as_printed": "04.04.1990",
+  "published": "1990-04-17",
+  "gazette": "20495",
+  "in_force": "1992-07-01",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"2 - 1/7/1992 tarih ve 3830 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası : 4)\"",
+  "date_evidence": [
+    [
+      "1992-07-01",
+      "2 - 1/7/1992 tarih ve 3830 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası : 4)",
+      "a repeal note (enactment date of the repealing act)"
+    ]
+  ],
+  "repeal_notes": [
+    "2 - 1/7/1992 tarih ve 3830 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası : 4)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=3621&MevzuatTertip=5",
+  "source_sha256": "ed0bb76a778cb7fdbbb562b078d318a12174ad42b5c1dda255a21dd759e80b32",
+  "source_bytes": 10180,
+  "words": 228,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
