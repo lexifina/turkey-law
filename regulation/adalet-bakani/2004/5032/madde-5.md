@@ -1,0 +1,2 @@
+Tutanaklar
+Madde 5- Velâyet, vesayet ve miras işleri için bir tutanak tutulur. Bu tutanakta; dosya esas numarası, vesayet altına alınan veya kendisine kayyım tayin olunan kimsenin, vasi veya kayyımın, mirasta terekesi yazılanın, defter tutma talebinde; mirasçı ve ilgililerin ve miras şirketi için tayin olunan temsilcinin adı, soyadı ve yerleşim yerleri yazılır. Bu tutanakta yapılan işlemlerin tarih ve sırası belirtilir, kararlar hâkim ve zabıt kâtibi tarafından imzalanır. Tutanaklara birbirini takip eden sayfa numarası verilir.
