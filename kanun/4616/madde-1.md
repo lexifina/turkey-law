@@ -12,7 +12,7 @@ Erteleme konusu suçun dava zamanaşımı süresi içinde bu suç ile aynı cins
 Bu bentle ilgili olarak bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay içinde dosyanın bulunduğu yargı merciine başvurmak suretiyle soruşturmaya veya davaya devam edilmesini istediklerini bildirenler hakkında soruşturma veya davaya devam olunur. Mahkûmiyet halinde verilen ceza, dava zamanaşımı süresince ertelenir. Bu süre içinde erteleme konusu suç ile aynı cins veya daha ağır şahsî hürriyeti bağlayıcı cezayı gerektiren bir suç işlendiğinde ertelenen ceza da infaz edilir. Aynı süre, erteleme konusu suç ile aynı cins veya daha ağır şahsî hürriyeti bağlayıcı cezayı gerektiren bir suç işlenmeksizin geçirildiğinde, mahkûmiyet vaki olmamış sayılır.
 5. Ancak;
 a) Türk Ceza Kanununun 125 ilâ 157, 161, 162, 168, 171, 172, 188, 191, 192, 202, 205, 208, 209, 211 ilâ 214, 216 ilâ 219, 240, 243, 264, 298, 301 ilâ 303, 305 inci maddelerinde, 312 nci maddenin ikinci fıkrasında, 313 üncü maddesinde, 314 üncü maddesinin birinci fıkrasında, 339 ilâ 349, 366, 367, 383, 394, 403 ilâ 408, 414 ilâ 418 ve 503 ilâ 506 ncı maddelerinde, (1)(2)
-b) Askerî Ceza Kanununun 54 ilâ 62, 69, 76, 78, 79 ilâ 82, 85, 87 ilâ 102, 118, 121 ilâ 129, 131, 134, 135, 140, 148, 153, 159 ve 160 ıncı maddelerinde,
+b) Askerî Ceza Kanununun 54 ilâ 62, 69, 76, 78, 79 ilâ 82, 85, 87 ilâ 102, 118, 121 ilâ 129, 131, 134, 135, 140, 148, 153, 159 ve 160 ıncı maddelerinde, (3)
 c) Kaçakçılığın Men ve Takibine Dair Kanunun 26 ilâ 30, 33 ve 36 ncı maddelerinde,
 d) Atatürk Aleyhine İşlenen Suçlar Hakkında Kanunda,
 e) Ateşli Silâhlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunun 12 nci maddesinde,
