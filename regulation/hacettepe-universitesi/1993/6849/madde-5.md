@@ -1,0 +1,4 @@
+Merkez Müdürü
+Madde 5 — Merkez Müdürü, Merkez'in çalışma alanı ile ilgili öğretim üyeleri arasından Rektörce üç yıl için atanır. Sûresi biten Müdür yeniden atanabilir.
+Merkez Müdürü, Merkez'in amaçlan doğrultusundaki çalışmaların düzenli bir biçimde yürütülmesinden, Merkez'in bütün etkinliklerinin gözetim ve denetiminin yapılmasından ve sonuçlarının alınmasından Rektöre karşı birinci derecede sorumludur. Merkez'i temsil eden Müdür, Merkez Yönetim Kuruluna başkanlık eder, Merkez çalışmalarının düzenli ve etkin bir biçimde yürütülmesi ve denetimi ile ilgili gerekli önlemleri alır.
+Merkez Müdürü görevinden ayrıldığı durumlarda, Merkez Yönetim Kurulu üyelerinden birini vekil bırakır. Vekil bırakmadan ayrılma durumunda Merkez Yönetim Kurulu üyelerinden öğretim görevinde en kıdemli olan öğretim üyesi Müdüre vekalet eder.
