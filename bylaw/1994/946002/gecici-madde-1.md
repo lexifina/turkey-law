@@ -1,0 +1,1 @@
+Geçici Madde 1 – Tüzüğün 5 inci maddesinde belirtilen sınav kurullarının beş yıllık kıdemi olan tüketici ve rekabet uzmanları arasından belirlenecek üyesi, bu koşulları taşıyan Genel Müdürlük personeli yetiştirilinceye kadar, Genel Müdürün tesbit edeceği bir genel müdür yardımcısı, sınav kurulu üyesi olarak görev yapar.
