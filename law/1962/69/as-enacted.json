@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "69",
+  "year": 1962,
+  "title": "Milli Eğitim Bakanlığına bağlı Ertik okulları mütedavil sermayesi hakkındaki 3423 sayılı Kanunun 3 üncü maddesinin değiştirilmesine dair kanun.",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-07-13",
+  "gazette_issue": "11153",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11153.pdf",
+  "source_sha256": "983ffb38e840ff4e5a0a9d31f9bbd1d200aba1db4813cb4768bb20c4147ef0b1",
+  "text_sha256": "8bd1da7b323f303f0b7e72e4fb7691e10c6a92a7d94ce51032725fe9a20537e9",
+  "text_status": "ocr",
+  "pages": [
+    7
+  ],
+  "line_span": [
+    [
+      1248,
+      1269
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500069.pdf",
+    "source_sha256": "64a774708fe3100c1678d285679145d56e2e3418533b7fb655cac821b1d1794c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9736,
+    "bag": 0.913,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9293,
+    "rg_words": 92,
+    "kd_words": 99,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
