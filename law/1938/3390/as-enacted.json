@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3390",
+  "year": 1938,
+  "title": "Bazı ihracat mallarımız için İtalya tarafından verilen munzam kontenjan listesinin kabulü ve buna mukabil İtalya'nın genel idhalât rejimimizden mutlak surette istifade etmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-05-21",
+  "gazette_issue": "3913",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3913.pdf",
+  "source_sha256": "db475dcdad88ad90f570586071716b8231b8dcfd1310eed1b2c1b49bcec4c6ac",
+  "text_sha256": "360c9b4f7679d2903485ab1a52afd256793b66fc9e823ff015d5381640b52087",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      203,
+      218
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803390.pdf",
+    "source_sha256": "1768384009a199cc0ce65273756cb59f07b9d878c978ba46cc2e2c0a0e4581d4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9874,
+    "bag": 0.9405,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.2274,
+    "rg_words": 85,
+    "kd_words": 365,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
