@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "Millet Meclisi",
+  "assembly": "MİLLET MECLİSİ",
+  "term_label": "3. Dönem",
+  "cilt": 27,
+  "sitting": 139,
+  "label": "139. Birleşim",
+  "sitting_date": "1972-09-29",
+  "date_as_published": "29 Eylül 1972",
+  "weekday": "Cuma",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027139.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027139gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=4&meclis_kisa_adi=MM&diger_donem_adi=d03",
+  "source_sha256": "d46c3768b1217c72806d31252475cf48aece7647ad19a1b58389497ab9411aa1",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
