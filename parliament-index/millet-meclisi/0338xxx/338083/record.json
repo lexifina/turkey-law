@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 338083,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "SUPHİ BATUR (SİNOP)",
+  "summary": "Transfer ücretlerinin ve tevsik primlerinin vergi, resim ve harclardan muaf tutulması hakkında (2/175)",
+  "title": "Transfer ücretlerinin ve tevsik primlerinin vergi, resim ve harclardan muaf tutulması hakkında (2/175)",
+  "first_sitting_date": "1962-03-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 67,
+      "sitting_date": "1962-03-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+      "pages": [
+        "192"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 118,
+      "sitting_date": "1962-09-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006118.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006fih.pdf",
+      "pages": [
+        "570"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 19,
+      "sitting_date": "1962-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010fih.pdf",
+      "pages": [
+        "328"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 61,
+      "sitting_date": "1963-03-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014fih.pdf",
+      "pages": [
+        "457"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=5001&v_kullanici_id=27484893",
+  "source_sha256": "10baa792ae503eb108c7b0344e809e2ab619ea059a5a61fbde3eefb404917899",
+  "in_force": "1962-03-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
