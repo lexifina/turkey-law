@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "143",
+  "decision_date": "2003-04-30",
+  "title": "TETAŞ tarafından uygulanacak toptan satış tarifesi hakkında",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DjBfdle8ac4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DjBfdle8ac4="
+  ],
+  "source_sha256": "7b24714f308f7dde30eff3c5a58edaa4f50351d767b249742e8c17c6abfc841d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-04-30",
+  "law_text_complete": false
+}
