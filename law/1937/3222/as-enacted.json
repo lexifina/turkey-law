@@ -1,0 +1,48 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3222",
+  "year": 1937,
+  "title": "Telsiz Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-06-23",
+  "gazette_issue": "3638",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3638.pdf",
+  "source_sha256": "b792b3d62dae514c8fd75ef6c4fcc3d863ce98e4e12b7463ed2f79b263f14ef5",
+  "text_sha256": "574f99d5e994ea116e4d40509dd399d97a3966689f38b4c5c057d2c3f01efcc5",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      71,
+      488
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703222.pdf",
+    "source_sha256": "c35ef3f5951cb51ae8d9923afb8e17f9f9b92a579cb5c91a050e4b983a104674",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9674,
+    "bag": 0.9054,
+    "kd_coverage": 0.9912,
+    "kd_body_compared": 0.9901,
+    "rg_words": 2687,
+    "kd_words": 2739,
+    "own_anchor": true,
+    "foreign_anchors": 8
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
