@@ -1,0 +1,5 @@
+Kurul harcamalarında uyulacak esaslar ve belge düzeni
+Madde 37 — Kurulun giderlerinin tahakkuk ettirilmesi ve ödenmesinde 14/10/1991 tarihli ve 21021 sayılı Resmî Gazete'de yayımlanan Devlet Harcama Belgeleri Yönetmeliğinde belirtilen belgelerin aranması esastır. Ancak, anılan Yönetmelikte belirlenen belgelerin dışında herhangi bir belgenin kullanılması zorunluluğunun bulunması halinde, söz konusu Yönetmeliğe bağlı kalmaksızın Kurulca belirlenen belgeler eklenmek suretiyle gider tahakkuku ve ödemesi gerçekleştirilebilir.
+Kurulun harcamalarında yetki Kurul Başkanına aittir. Kurul Başkanı bu yetkisini sınırları açıkça belirtilmek kaydıyla yetki kademesinde kendisine en yakın yöneticiye devredebilir.
+Kurulun giderlerini tahakkuk ettirerek ödenebilir hale getirme görevi, harcama yetkilisine yetki kademesi bakımından en yakın yönetici veya üye tarafından yerine getirilir. Bu görevliler, giderin mevzuata uygun şekilde gerçekleştirilmesinden sorumludur.
+Ödenebilir hale getirilen gider, Kurul Başkanı tarafından belirlenen sayman tarafından ödenir.

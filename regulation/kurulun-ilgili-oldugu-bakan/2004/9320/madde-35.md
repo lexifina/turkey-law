@@ -1,0 +1,5 @@
+YEDİNCİ BÖLÜM
+Kurulun Gelir ve Giderleri ile Bütçe ve Muhasebesine İlişkin Hükümler
+Kurulun gelir ve giderleri
+Madde 35 — Kurulun gelirleri; Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliğinin gelirlerinin Kanunda belirtilen kısmı, oluşturulacak muhasebe standartlarının telif hakları, ilgili kuruluşların katkıları ile diğer faaliyet gelirlerinden oluşur. Kurulun gelirleri sayman tarafından takip ve tahsil edilir.
+Kurulun giderleri; Kurulun faaliyetleri için gerekli demirbaşlar, kiralar, personel giderleri, üyelerin huzur hakları ile yurt içi ve yurt dışı seyahat harcamaları, personel seyahat harcamaları, iletişim masrafları, kırtasiye, temsil-ağırlama, çalışma komisyonlarında görevlendirilecek kişilerin yol ve ikamet giderleri ile gündelikleri karşılığı ödenen harcırahlar, yurt içi ve yurt dışından alınan danışmanlık ve tercüme hizmetleri bedelleri, kongre, seminer ve benzeri eğitim faaliyetlerine katılım payları ve benzeri diğer giderlerden oluşur.
