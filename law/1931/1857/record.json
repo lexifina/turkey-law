@@ -1,0 +1,72 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1857",
+  "year": 1931,
+  "title": "Yeniden tam teşekküllü elli nahiye teşkiline ve 1452 numaralı kanuna merbut (2) numaralı cetvelin tadiline dair kanun",
+  "adopted": "1931-07-21",
+  "adopted_as_published": "21/07/1931",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.07.1931 No: 1860",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001857.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 10",
+  "committee_reports": [
+    {
+      "label": "TBMM 97 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003033ss0097.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 111976,
+      "title": "Yeniden tam teşekküllü elli nahiye teşkiline ve 1452 numaralı kanuna merbut (2) numaralı cetvelin tadiline dair kanun",
+      "adopted_as_published": "21/07/1931",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001857.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 97 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003033ss0097.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 20,
+          "sitting_date": "1931-07-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002fih.pdf",
+          "pages": [
+            "210"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 33,
+          "sitting_date": "1931-07-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003fih.pdf",
+          "pages": [
+            "258",
+            "278"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=801&v_kullanici_id=27483155",
+      "page_sha256": "ae50e0221a42c74aeb7ef13b5d192243e1ff8b95265b2b6c2cd663dd59d15a6f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ae50e0221a42c74aeb7ef13b5d192243e1ff8b95265b2b6c2cd663dd59d15a6f",
+  "issuer": "TBMM",
+  "in_force": "1931-07-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/07/1931; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
