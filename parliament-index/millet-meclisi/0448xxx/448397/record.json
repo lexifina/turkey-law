@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 448397,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "2556 sayılı Hâkimler Kanununun bazı maddelerinin değiştirilmesine ve bu Kanuna bir madde eklenmesine dair kanun tasarısı ile İstanbul Milletvekili Fatma Gülhis Mankut'un, 2556 sayılı Hâkimler Kanununa bir madde ve 5434 sayılı Kanunun 32. maddesine bir fıkra eklenmesine dair kanun teklifi hakkında (1/187, 2/216-1)",
+  "title": "2556 sayılı Hâkimler Kanununun bazı maddelerinin değiştirilmesine ve bu Kanuna bir madde eklenmesine dair kanun tasarısı ile İstanbul Milletvekili Fatma Gülhis Mankut'un, 2556 sayılı Hâkimler Kanununa bir madde ve 5434 sayılı Kanunun 32. maddesine bir fıkra eklenmesine dair kanun teklifi hakkında (1/187, 2/216-1)",
+  "first_sitting_date": "1975-02-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 37,
+      "sitting_date": "1975-02-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008fih.pdf",
+      "pages": [
+        "507",
+        "515:553"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=1001&v_kullanici_id=27484836",
+  "source_sha256": "cc5d423796eaa591e1ee0f88bbc7101720bae45d598854f5e49466b9e1f4c004",
+  "in_force": "1975-02-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
