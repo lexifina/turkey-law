@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2880-5855/52886",
+  "source_id": 25126,
+  "date": "2004-11-09",
+  "title": "Kısmı vergi hatası taşıyan tarhiyatların düzeltilmesi mümkün değilidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25126",
+  "source_sha256": "281d82585b0951d16a0e1664108d6dc342923090ef8ef7471ed10e49e247c7f8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
