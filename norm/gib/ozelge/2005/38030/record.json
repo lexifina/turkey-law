@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5328-1916-2627",
+  "source_id": 38030,
+  "date": "2005-01-18",
+  "title": "Tıbbi Cihaz Yönetmeliğine tabi olan numaralı lensler ile göz kusurunun giderilmesine mahsus gözlükler (numaralı gözlük camları ve çerçeveleri), 27.12.2004 tarihli ve 2004/8301 sayılı Bakanlar Kurulu Kararının 13 üncü sıra kapsamında değerlendirilerek %8 o",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38030",
+  "source_sha256": "5d5bea18c4d5a8549348ab4bffc6a665d2d34a571b093272de7497ef88ede16c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
