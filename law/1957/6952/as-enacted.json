@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6952",
+  "year": 1957,
+  "title": "Hariçten satınalınan buharlı ve motorlu gemilerle memlekette yapılan mümasilleri için getirilecek eşyanın Gümrük Resminden istisnası hakkındaki 3339 sayılı Kanunun 1. maddesine bir fıkra ilâvesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-04-26",
+  "gazette_issue": "9595",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9595.pdf",
+  "source_sha256": "2762faaf292e83ea4dd905b7f26e36c66186cf6106f1cdca9b8e9ca398e8b95e",
+  "text_sha256": "66b1ab54e15d8a468e089dc8e56d51096aecaa479c459a65c1248686449213a5",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      81,
+      100
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906952.pdf",
+    "source_sha256": "bf446f7a9eb8685dbd9522d385d086870a14b825eed282b65bbd726933b3a0df",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9675,
+    "bag": 0.8932,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9182,
+    "rg_words": 105,
+    "kd_words": 110,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
