@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3263",
+  "year": 1937,
+  "title": "Dahilî istihlâk vergisi Kanununa müzeyyel 2448 numaralı Kanunun tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-06-25",
+  "gazette_issue": "3640",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3640.pdf",
+  "source_sha256": "b3c52849784ce1173d75185a5a485fbd0adfb9ccd948dd75d004165bca58ec03",
+  "text_sha256": "32e8dc84e192da211966f4575bf9fdba21921818272f58b0365c47b5ce5eeb1f",
+  "text_status": "ocr",
+  "pages": [
+    13
+  ],
+  "line_span": [
+    [
+      2054,
+      2070
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703263.pdf",
+    "source_sha256": "53b1b5fd85421aa0dc7cfd3bd150663be5cc0507f0dd707a876de14a2961a148",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9546,
+    "bag": 0.8976,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9692,
+    "rg_words": 64,
+    "kd_words": 65,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
