@@ -1,0 +1,2 @@
+Proje Grupları
+Madde 8 – Proje Grupları, Yönetim Kurulunca gerekli görülmesi halinde öncelikle Yapı Proje Grubu, Beton Test Grubu ve Zemin Etüdü Grubu şeklinde oluşturulur. Ayrıca gerekli hallerde Yönetim Kurulu’nca farklı proje grupları oluşturulabilir. Bu gruplar, merkezin faaliyetleri ile ilgilenen ve madde 2 ile madde 3’te belirtilen amaçların gerçekleşmesine yönelik çalışmalara katkıda bulunan Üniversite öğretim elemanlarından meydana gelir. Proje gruplarının kuruluş ve çalışmaları Yönetim Kurulunca belirlenecek esaslar uyarınca yürütülür.
