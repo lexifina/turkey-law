@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5274",
+  "year": 2004,
+  "title": "Türk Ticaret Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-12-15",
+  "gazette_issue": "25671",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/12/20041215.htm",
+  "source_sha256": "b392b056b6edd83ce8f1c2e4598c0abdd135e32e99b42ae363d956feb8a50665",
+  "text_sha256": "0ccdee80b2fa3e1c64a4538aa5da1c3f4b68dfb9272328841e986f7b7eac5640",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/12/15/25671-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/12/20041215.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
