@@ -1,0 +1,3 @@
+Savunma Hakkı
+Madde 16- Savunma hakkı tanınmadan disiplin cezası verilemez. Hakkında disiplin soruşturması açılan öğrenciye, atılı suç açıkça belirtilmek suretiyle üç günden az olmamak üzere savunma hakkı tanındığı yazıyla bildirilir. Yazıda öğrenciden belirtilen gün, saat ve yerde, savunmasını yapmak üzere hazır bulunması veya yazılı savunma vermesi gerektiği, çağrıya özürsüz olarak uymadığı, özrünü zamanında bildirmediği veya tebligattan imtina ettiği takdirde savunma hakkından vazgeçmiş sayılacağı ve mevcut delillere dayanılarak gerekli kararın verileceği belirtilir.
+Geçerli bir özür bildirenlere veya mücbir sebep dolayısıyla davete uymadığı anlaşılanlara üç günden az olmamak üzere ek süre verilir.

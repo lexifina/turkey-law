@@ -1,0 +1,3 @@
+Ceza Kovuşturması ile Disiplin Soruşturmasının Bir Arada Yürütülmesi
+Madde 18- Hakkında ceza kovuşturması yapılan öğrencinin eylemi, disiplin yönünden gereğinin takdir ve ifası için derhâl disiplin amirine bildirilir. Disiplin amirince, bu Yönetmeliğin 13 üncü ve devamı maddelerine göre işlem yapılır. Aynı olaydan dolayı öğrenci hakkında ceza davası açılmış olması gerekçe gösterilerek disiplin soruşturması geciktirilemez.
+Öğrencinin 1/3/1926 tarihli ve 765 sayılı Türk Ceza Kanunu ile diğer kanunların ceza hükümlerine göre mahkûm olması veya olmaması hâlleri ayrıca disiplin cezasının uygulanmasına engel teşkil etmez.

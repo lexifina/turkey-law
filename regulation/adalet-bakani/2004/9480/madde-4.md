@@ -1,0 +1,22 @@
+Tanımlar
+Madde 4- Bu Yönetmelikte geçen;
+Bakan : Adalet Bakanını,
+Bakanlık : Adalet Bakanlığını,
+Müsteşar : Adalet Bakanlığı Müsteşarını,
+Genel Müdür : Ceza ve Tevkifevleri Genel Müdürünü,
+Genel Müdürlük : Ceza ve Tevkifevleri Genel Müdürlüğünü,
+Eğitim Merkezi ve Eğitim Merkezleri : Ceza İnfaz Kurumları ve Tutukevleri Personeli Ankara Eğitim Merkezi ile bölge eğitim merkezlerini,
+Müdür ve Müdür Yardımcısı : Eğitim merkezleri müdür ve müdür yardımcılarını,
+Soruşturmacı : Disiplin soruşturmasını yapmakla görevlendirileni,
+Şube Müdürü : Eğitim merkezleri idarî işler şube müdürlerini,
+Disiplin Kurulu : Eğitim Merkezi Disiplin Kurulunu,
+Disiplin Amiri : Yönetmeliğe ekli cetvelde disiplin amiri olarak gösterilenleri,
+Öğretim Görevlisi : Eğitim merkezlerinde eğitim ve öğretim hizmetlerini yürütmekle görevlendirilenleri,
+Öğretim Kurulu : Eğitim merkezi yöneticileri ile öğretim görevlilerinden oluşan Kurulu,
+Kurum : Ceza infaz kurumları ve tutukevlerini,
+Uygulamalı Eğitim Yöneticisi : Eğitim programlarında uygulamalı eğitimin eş güdümünü sağlayacak olan görevliyi,
+Uygulamalı Eğitim Gözetmeni : Eğitim programlarında uygulamalı eğitimi verecek olan görevliyi,
+Danışman : Eğitim konusunda öğrencilere yardımcı olmak üzere Öğretim Kurulu tarafından seçilen öğretim görevlisini,
+Öğrenci : İdare memurluğu ile infaz ve koruma memurluğu öğrenciliği sınavını kazanarak hizmet öncesi eğitimine alınanları,
+Olumsuz Not : Öğrencinin disiplin notundan indirilen ve her ceza için ayrı belirlenen notu,
+ifade eder.

@@ -1,0 +1,2 @@
+Görüşme Usulü
+Madde 24- Kurulda, raportörün açıklamaları dinlendikten sonra konunun görüşülmesine geçilir. Kurul, gerek gördüğü takdirde öğrenciyi ve soruşturmacıyı dinleyebilir. Konunun aydınlandığı sonucuna varıldığında oylama yapılır. Kurul oy çokluğu ve açık oyla karar verir. Çekimser oy kullanılamaz. Başkan oyunu en son kullanır. Oyların eşitliği hâlinde başkanın bulunduğu tarafın oyu üstün sayılır. Karar başkan tarafından açıklanır. Karar özeti üyeler tarafından imzalanan bir tutanakla tespit edilir.

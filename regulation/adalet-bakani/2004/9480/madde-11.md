@@ -1,0 +1,6 @@
+Disiplin Notu İndirilen Öğrencilere Yapılacak İşlemler
+Madde 11- Disiplin notu indirilen öğrenciler hakkında aşağıdaki işlemler yapılır:
+a) Olumsuz not toplamı yirmiye ulaştığında, eğitim merkezi müdürlüğü tarafından bu durum öğrenciye yazılı olarak bildirilir.
+b) Olumsuz not toplamı otuza ulaştığında, öğrenciye yapılacak ikinci bildirimle birlikte, durum ailesine de yazılı olarak bildirilir.
+c) Olumsuz not toplamı otuz beşe ulaştığında öğrenci büronun; sağlık, psiko-sosyal hizmetler ve krize müdahale sorumlularına sevk edilir. Bu sorumlularca öğrenci hakkında bir değerlendirme raporu düzenlenerek, disiplin kuruluna sunulur. Rapor disiplin kurulunca değerlendirilerek, öğrencinin öğrencilik niteliklerini kaybetmesi yönünde işlem yapılmasına veya eğitim merkezi içinde aynı birimce rehabilitasyona tâbi tutulmasına karar verilir. Öğrencilik niteliğinin kaybedilmesi yönünde işlem yapılmasına karar verilmesi hâlinde, eğitim merkezlerinden çıkarmaya ilişkin yöntem uygulanarak öğrencilik sona erdirilir.
+d) Olumsuz not toplamı kırka ulaşan öğrenci, Disiplin Kurulu kararı, Genel Müdürün teklifi ve Bakanlık onayı ile eğitim merkezlerinden çıkarmaya ilişkin yöntem uygulanarak öğrencilik sona erdirilir.
