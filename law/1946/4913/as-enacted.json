@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4913",
+  "year": 1946,
+  "title": "Belediyeler ve bunlara bağlı müesseseler ve İller Bankası Emekli Sandığı kurulmasına dair olan 4085 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-06-08",
+  "gazette_issue": "6328",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6328.pdf",
+  "source_sha256": "c6b7ba3fee769f26246c7538d119043ba0af0189abb95f565feb9a0693de4c95",
+  "text_sha256": "55a92b7d4df612af0371613dafe5c7e9c2a618f3fb95877e4727cdd558472e37",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      43,
+      132
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804913.pdf",
+    "source_sha256": "61df078c50f6e5a482e04534fbe53cc281cc136d5cef4f7fdc02c4b02a7187ff",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9126,
+    "bag": 0.7943,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9967,
+    "rg_words": 589,
+    "kd_words": 609,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
