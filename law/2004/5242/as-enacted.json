@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5242",
+  "year": 2004,
+  "title": "Adlî Yardım Taleplerinin İletilmesine İlişkin Avrupa Sözleşmesine Ek Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-10-27",
+  "gazette_issue": "25626",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/10/20041027.htm",
+  "source_sha256": "d07460aaade0b5e1b79046234a03352e72be05b621590d98ca2c074ce751a791",
+  "text_sha256": "f19d8cca0a5a8c84fcce44a4a91795021eb2196d9308bd1b1b8a6870bdf58658",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/10/27/25626-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/10/20041027.htm#5",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
