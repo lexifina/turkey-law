@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5316",
+  "year": 2005,
+  "title": "Yükseköğretim Kanununa Geçici Maddeler Eklenmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-03-18",
+  "gazette_issue": "25759",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050318-3.htm",
+  "source_sha256": "0586e3af67d86695e3b27db295c5b83c5e06830b6f3fe2b5c53ad94e885ef9a7",
+  "text_sha256": "42df091aa9a20794948e6f02419833722d56d81620c88c3fc147171368f712bd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/03/18/25759-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050318-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
