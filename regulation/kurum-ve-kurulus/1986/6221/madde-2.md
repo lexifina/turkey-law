@@ -1,0 +1,2 @@
+Kapsam
+Madde 2- Bu Yönetmelik Devlet Meteoroloji İşleri Genel Müdürlüğü’ nün teşkilat ve görevleri hakkındaki 3254 sayılı Kanuna göre ; Devlet Meteoroloji İşleri Genel Müdürlüğünün taşra teşkilatından ve gemilerden Posta, Telgraf ve Telefon İşletmesi Genel Müdürlüğü aracılığı ile rasat mesajlarının alınması ve gönderilmesi hususunda uygulanacak usul ve esaslar ile yapılacak iş ve işlemleri kapsar.

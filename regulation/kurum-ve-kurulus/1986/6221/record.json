@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.6221",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "METEOROLOJİK RASAT MESAJLARININ ALINMASI VE GÖNDERİLMESİ HAKKINDA YÖNETMELİK",
+  "number": "6221",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1986/6221",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6221&MevzuatTertip=5",
+  "source_sha256": "5c26ef46e127139c53851b252b4958815eb214e1fe1e12150ce24d913386e10a",
+  "source_bytes": 15320,
+  "published": "1986-12-18",
+  "gazette": "19315",
+  "in_force": "1986-12-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.12.1986); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 587,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
