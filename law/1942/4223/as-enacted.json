@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4223",
+  "year": 1942,
+  "title": "Kahve ve çay inhisarı kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-05-25",
+  "gazette_issue": "5114",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5114.pdf",
+  "source_sha256": "c6cce824f5fb80f1c5e3b912e5e9d5cb77555750271ed1dc852767f4ae040d8d",
+  "text_sha256": "68824560b64ece5229c961de2c418460f930a889feaa2aef503fa5f65ee250e7",
+  "text_status": "ocr",
+  "pages": [
+    4,
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      821,
+      1115
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304223.pdf",
+    "source_sha256": "7a7177c4ef7e9235b6bf6dd3e334e614cb905a937ca01cb8267b19786f0da51a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9696,
+    "bag": 0.9055,
+    "kd_coverage": 0.999,
+    "kd_body_compared": 0.999,
+    "rg_words": 1936,
+    "kd_words": 1960,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
