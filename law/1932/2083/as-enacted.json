@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2083",
+  "year": 1932,
+  "title": "26.3.1931 tarih ve 1782 numaralı ölçüler Kanununun 28 nci maddesinin tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-01-03",
+  "gazette_issue": "2294",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2294.pdf",
+  "source_sha256": "dfd62db8f59d75220eeaf0bf1f74e13c11c21cd18c1973c6d8c6762292b36d7c",
+  "text_sha256": "3bf7c0a91d8dcedbba8f5f64b7cdd60724e7033eb2d65c8f17ad83ce6e953dcc",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      102,
+      127
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202083.pdf",
+    "source_sha256": "628bc58e178e656fb613a686eb8ac2d4e23cc376965d16712b2a2bf444cbee34",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9029,
+    "bag": 0.8065,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9462,
+    "rg_words": 98,
+    "kd_words": 93,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
