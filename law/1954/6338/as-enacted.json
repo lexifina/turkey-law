@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6338",
+  "year": 1954,
+  "title": "Avukatlık Kanununun 4359 Sayılı Kanunla Değiştirilen Geçici 3. Maddesinin Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-17",
+  "gazette_issue": "8660",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8660.pdf",
+  "source_sha256": "a1f0ad46a1e8a44dd0700328a6f9b4ac9f7369905f12338296af6a30384b4c01",
+  "text_sha256": "18f9d2f7fd86a11dca0dc76658b5a9f26de5abd3de22c7c4e38f1fbf72c432d3",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      2043,
+      2064
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606338.pdf",
+    "source_sha256": "afb76df1bfd37c9c0044014e86b4e05c94240b7bda437625cdc2b52021654499",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9751,
+    "bag": 0.9365,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8681,
+    "rg_words": 127,
+    "kd_words": 144,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
