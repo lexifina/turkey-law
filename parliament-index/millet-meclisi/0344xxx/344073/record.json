@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 344073,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "ESAT KEMAL AYBAR (MARDİN)",
+  "summary": "1312 sayılı Türk Vatandaşlığı Kanununa ek Kanun hakkında (2/18,3/497)",
+  "title": "1312 sayılı Türk Vatandaşlığı Kanununa ek Kanun hakkında (2/18,3/497)",
+  "first_sitting_date": "1963-02-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 39,
+      "sitting_date": "1963-02-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011fih.pdf",
+      "pages": [
+        "426"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 100,
+      "sitting_date": "1963-06-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018100.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+      "pages": [
+        "348"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 126,
+      "sitting_date": "1963-08-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c020/mm__01020126.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c020/mm__01020fih.pdf",
+      "pages": [
+        "469"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 127,
+      "sitting_date": "1963-08-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c020/mm__01020127.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c020/mm__01020fih.pdf",
+      "pages": [
+        "477:497"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 128,
+      "sitting_date": "1963-09-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c020/mm__01020128.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c020/mm__01020fih.pdf",
+      "pages": [
+        "507:510"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=5301&v_kullanici_id=27484893",
+  "source_sha256": "9962c5dd583957ad441e0d4ffa026c1ef90805ce32a0b60fe6cb1a40068ac17c",
+  "in_force": "1963-02-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
