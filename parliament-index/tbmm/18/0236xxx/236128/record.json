@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 236128,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "KANUN HÜKMÜNDE KARARNAMELER",
+  "heading_as_published": "Kanun Hükmünde Kararnameler",
+  "summary": "657 sayılı Devlet Memurları Kanununda Değişiklik yapılmasına dair 3, 4, 6, 7, 10 ve 14 Sayılı kanun hükmünde kararnameler ile Bu kanun hükmünde kararnamelerin Yürürlükten Kaldırılması Hakkında",
+  "title": "657 sayılı Devlet Memurları Kanununda Değişiklik yapılmasına dair 3, 4, 6, 7, 10 ve 14 Sayılı kanun hükmünde kararnameler ile Bu kanun hükmünde kararnamelerin Yürürlükten Kaldırılması Hakkında",
+  "first_sitting_date": "1991-05-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 59,
+      "sitting": 111,
+      "sitting_date": "1991-05-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c059/tbmm18059111.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c059/tbmm18059fih.pdf",
+      "pages": [
+        "544:545"
+      ]
+    },
+    {
+      "cilt": 60,
+      "sitting": 114,
+      "sitting_date": "1991-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c060/tbmm18060114.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c060/tbmm18060fih.pdf",
+      "pages": [
+        "126:127"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20H%DCKM%DCNDE%20KARARNAMELER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20H%DCKM%DCNDE%20KARARNAMELER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "766da89510b08978f64b6a8a4c2e5033bfd154b3401f0603fcceef7e692206b2",
+  "in_force": "1991-05-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
