@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7206",
+  "year": 1959,
+  "title": "İstanbul Teknik Üniversitesi 1958 yılı Bütçe Kanununa bağlı (A/1), (A/2) ve (B) işaretli cetvellerde değişiklik yapılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-02-25",
+  "gazette_issue": "10144",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10144.pdf",
+  "source_sha256": "c1e8f29d5eb6275ed7ca8fc8db18b9601fad2d77f643a532c3475349812874d5",
+  "text_sha256": "59dd5ce21daa2359f9e1fad523b6d996493835c172e613c470330fc477ba2fd4",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      18,
+      18
+    ],
+    [
+      37,
+      72
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107206.pdf",
+    "source_sha256": "bed9872e8344819a1f2d630b15b678ce18ad626f672b8481e962a9249ccf11d4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9723,
+    "bag": 0.8598,
+    "kd_coverage": 0.9812,
+    "kd_body_compared": 0.4907,
+    "rg_words": 163,
+    "kd_words": 322,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
