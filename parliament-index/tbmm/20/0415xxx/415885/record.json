@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 415885,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Yabancıların Türkiye'de İkâmet ve Seyahatleri Hakkında Kanunun İki Maddesinde Değişiklik Yapılmasına Dair (1/385)",
+  "title": "Yabancıların Türkiye'de İkâmet ve Seyahatleri Hakkında Kanunun İki Maddesinde Değişiklik Yapılmasına Dair (1/385)",
+  "first_sitting_date": "1998-04-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 50,
+      "sitting": 75,
+      "sitting_date": "1998-04-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c050/tbmm20050075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c050/tbmm20050fih.pdf",
+      "pages": [
+        "170:171"
+      ]
+    },
+    {
+      "cilt": 50,
+      "sitting": 77,
+      "sitting_date": "1998-04-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c050/tbmm20050077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c050/tbmm20050fih.pdf",
+      "pages": [
+        "416:432"
+      ]
+    },
+    {
+      "cilt": 51,
+      "sitting": 78,
+      "sitting_date": "1998-04-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c051/tbmm20051078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c051/tbmm20051fih.pdf",
+      "pages": [
+        "43:56"
+      ]
+    },
+    {
+      "cilt": 52,
+      "sitting": 90,
+      "sitting_date": "1998-05-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c052/tbmm20052090.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c052/tbmm20052fih.pdf",
+      "pages": [
+        "335:342"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=683&v_gelecek_sayfa=601&v_kullanici_id=27484488",
+  "source_sha256": "c206805e4ca646da5198134a4a0a79a00b5aed61697935b376adfcccbce2563d",
+  "in_force": "1998-04-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
