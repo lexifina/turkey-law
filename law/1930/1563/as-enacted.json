@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1563",
+  "year": 1930,
+  "title": "Türk ocakları merkez heyetince aktedilecek istikraza Maliye vekilinin kefaleti mezuniyetine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-02-27",
+  "gazette_issue": "1435",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1435.pdf",
+  "source_sha256": "93e49eb6d54426b8b2844806d2a5e514045a54943b70d2fe40ec1c5ca7331b7b",
+  "text_sha256": "c61d2c83aea71fc2fae2f41cc770f412c6d7f233cb2906b10e4a6b60b0f96f0a",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      122,
+      147
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801563.pdf",
+    "source_sha256": "1167bf9fa536af79d408f46e075194c7909ae08fc2822df861af9174683e7de1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9132,
+    "bag": 0.8413,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.5,
+    "rg_words": 66,
+    "kd_words": 120,
+    "own_anchor": false,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
