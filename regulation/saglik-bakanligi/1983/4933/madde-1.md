@@ -1,0 +1,1 @@
+MADDE 1.- Bu yönetmeliğin amacı, nüfus planlaması hizmetlerini yürütecek personelin eğitim ve görevlendirme esas ve usulleri ile uygulamadaki yetkilerini belirlemek, bu hizmetin yürütülmesi sırasında kullanılacak ilaç ve araçların niteliğini saptayacak olan Bilimsel Komisyonun kuruluş ve işleyiş esaslarını tespit etmektir.
