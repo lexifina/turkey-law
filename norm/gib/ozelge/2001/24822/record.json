@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4064-18/14164",
+  "source_id": 24822,
+  "date": "2001-03-16",
+  "title": "Götürü usulden gerçek usule geçen mükellefin hayat standartı esasına tabi olup olmayacağı hakkında ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24822",
+  "source_sha256": "9176157f86e23bce303c326146b77abd58b55a7c412cdc12120e6969f23befa6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
