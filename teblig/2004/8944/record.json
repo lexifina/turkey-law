@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8944",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2004/22)",
+  "number": "8944",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2004/8944",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8944&MevzuatTertip=5",
+  "source_sha256": "e4f0dc1108bad49e4a1e752f4ddab8df6d5f4b33e1158d8a97882c5138eca566",
+  "source_bytes": 86674,
+  "published": "2004-09-27",
+  "gazette": "25596",
+  "in_force": "2004-09-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.09.2004); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4086,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
