@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5910-46/049320",
+  "source_id": 37641,
+  "date": "1999-11-12",
+  "title": "Her bir parti ithalatları için münferit banka teminat mektubu verebilecekleri gibi, ileride yapacakları ithalatlarını da kapsayacak şekilde kendi firmaları adına global bir banka teminat mektubu verebileceklerdir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/591/ozelge/37641",
+  "source_sha256": "3a14586c53e2aa72cd9ff3f8eb2265aa2cb3bb99572c3fe0aa2d46ddf9009169",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
