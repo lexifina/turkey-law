@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5279-55-2/35617",
+  "source_id": 33460,
+  "date": "1998-10-06",
+  "title": "Şirketçe alınan 1998 model Jeep Grand Cheroke adlı taşıt binek otomobili olduğundan, bu araca ödenen K.D.V.'nin indirim konusu yapılması mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33460",
+  "source_sha256": "2831c20dcdeadaf35706c67a9b9f9b49e2b52973b15f924b1fba525dc56bf656",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
