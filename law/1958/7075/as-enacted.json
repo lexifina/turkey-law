@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7075",
+  "year": 1958,
+  "title": "Sıtma ve frengi ilaçları hakkındaki 2767 sayılı Kanunun bazı maddelerinin tadiline ve bu kanuna bir muvakkat madde eklenmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-02-15",
+  "gazette_issue": "9835",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9835.pdf",
+  "source_sha256": "56c4c4a7cdf52263702ec33e40007723d73eb8495b8e32e0ca4fe587ba2f6ccd",
+  "text_sha256": "21a7b38194009cff03b2bb633e134de5256150af6cf42b75ac06dffd67763d6b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      10,
+      61
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007075.pdf",
+    "source_sha256": "279449d68908dd8066b638fb03e194426430dbd3420afaa472474cdf7d979729",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9395,
+    "bag": 0.8192,
+    "kd_coverage": 0.9843,
+    "kd_body_compared": 0.9843,
+    "rg_words": 393,
+    "kd_words": 382,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
