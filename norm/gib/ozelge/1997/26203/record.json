@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3026-354-435/30393",
+  "source_id": 26203,
+  "date": "1997-07-21",
+  "title": "Satılan bir malın taşınması sırasında taşıtta sevk irsaliyesinin bulunmaması halinde; gerek malı taşıtan ve sevk irsaliyesini düzenlemek zorunda olana, gerekse taşıt sahibine sevk irsaliyesini taşıtta bulundurmamamtan dolayı özel usulsüzlük cezası kesilme",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26203",
+  "source_sha256": "d461eccbea9fcfed98c9e81b265b756dc20bed8c42792b18287c5a847a17dd3d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
