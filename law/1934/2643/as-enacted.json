@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2643",
+  "year": 1934,
+  "title": "Buğdayı Koruma karşılığı Kanununun bazı maddelerini değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-12-27",
+  "gazette_issue": "2891",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2891.pdf",
+  "source_sha256": "11f075d62a683af6ae87a56c374683eacb51366cefd617a4b67c311091c066f0",
+  "text_sha256": "bc75ea4c05e539440a1a31c9863e5b15858664cd8557e0a1f26ef1d00479ba04",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      804,
+      1081
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402643.pdf",
+    "source_sha256": "10c69b9daa2d5cf75c786be3469d93465e0f9d49bd6d3c9e9aef7aff7d58c095",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9702,
+    "bag": 0.9013,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9978,
+    "rg_words": 947,
+    "kd_words": 930,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
