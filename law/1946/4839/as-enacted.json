@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4839",
+  "year": 1946,
+  "title": "Gümrük çıkış vergisinin kaldırılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-01-26",
+  "gazette_issue": "6216",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6216.pdf",
+  "source_sha256": "c0e81d2076fd3c0a9be3b89954bab951529e74ff6266a7ec4de8c5b79d8b7278",
+  "text_sha256": "31f16119f854ea9ffdede0e2ce4284b5e6062d1455a5f9057043c6b63d29df06",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      81,
+      95
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804839.pdf",
+    "source_sha256": "27e28c4cba7b49eb185ece3e53c16ade865bcdb69fedbc5a670a8eaf06698e57",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9144,
+    "bag": 0.802,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.973,
+    "rg_words": 94,
+    "kd_words": 111,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
