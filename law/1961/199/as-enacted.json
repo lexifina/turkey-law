@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "199",
+  "year": 1961,
+  "title": "Kıbrısta kuraklıktan zarar gören Türk çiftçisine yapılacak tohumluk buğday ve tohumluk arpa yardımı hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1961-01-07",
+  "gazette_issue": "10701",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10701.pdf",
+  "source_sha256": "9d7c2f77e523ffeed8d4f533348b6fb54c8b8206455fe48c5ed922619b1c0f21",
+  "text_sha256": "31f707160d672c78c40523889378ac82e1a15d59ea98eed96eba3f366b74f7b7",
+  "text_status": "ocr",
+  "pages": [
+    11
+  ],
+  "line_span": [
+    [
+      4005,
+      4013
+    ],
+    [
+      3917,
+      3931
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300199.pdf",
+    "source_sha256": "fbd9d6e2a9871633f2fd423e795ca1381b688bf1c72ebf86a7844713b28b7e51",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9847,
+    "bag": 0.9565,
+    "kd_coverage": 0.9926,
+    "kd_body_compared": 0.85,
+    "rg_words": 140,
+    "kd_words": 160,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
