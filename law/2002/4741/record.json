@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4741",
+  "year": 2002,
+  "title": "190 Sayılı Kanun Hükmünde Kararnamenin Eki Cetvellerin Sayıştay Başkanlığına Ait Bölümünde Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2002-01-16",
+  "adopted_as_published": "16/01/2002",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "19.01.2002 No: 24645",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc086/kanuntbmmc086/kanuntbmmc08604741.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 86",
+  "committee_reports": [
+    {
+      "label": "TBMM 670 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c083/tbmm21083052ss0670.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 298727,
+      "title": "190 Sayılı Kanun Hükmünde Kararnamenin Eki Cetvellerin Sayıştay Başkanlığına Ait Bölümünde Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "16/01/2002",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc086/kanuntbmmc086/kanuntbmmc08604741.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 670 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c083/tbmm21083052ss0670.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 61,
+          "sitting": 90,
+          "sitting_date": "2001-04-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c061/tbmm21061090.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c061/tbmm21061fih.pdf",
+          "pages": [
+            "4"
+          ]
+        },
+        {
+          "cilt": 63,
+          "sitting": 100,
+          "sitting_date": "2001-05-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c063/tbmm21063100.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c063/tbmm21063fih.pdf",
+          "pages": [
+            "4"
+          ]
+        },
+        {
+          "cilt": 83,
+          "sitting": 52,
+          "sitting_date": "2002-01-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c083/tbmm21083052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c083/tbmm21083fih.pdf",
+          "pages": [
+            "607:614"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=301&v_kullanici_id=27483196",
+      "page_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8",
+  "issuer": "TBMM",
+  "in_force": "2002-01-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 16/01/2002; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
