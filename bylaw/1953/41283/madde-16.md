@@ -1,0 +1,2 @@
+Madde 16 – (Değişik: 12/8/1961 - 5/1535 K.)
+Linter pamuklarına ait standart tip nümunelerin hazırlanmasında çekirdek üzerinden bir veya iki defa kesilmiş olması ile, renk, yabancı madde ve çırçırlama durumu; çırçırlama ve iplik imalatı esnasında hasıl olan lif döküntülerine ait standart tip nümunelerin hazırlanmasında imalat safhasının arzettiği hususiyetler ile renk ve yabancı madde durumu gözönünde tutulur.

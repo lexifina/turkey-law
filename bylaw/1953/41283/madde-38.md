@@ -1,0 +1,2 @@
+Madde 38 – (Değişik: 2/7/1999 - 99/13097 K.)
+Tüzüğün 5 inci maddesinin birinci fıkrasına göre çıkarılacak tebliğ hükümlerine aykırı hareket edenler hakkında düzenlenecek tutanak ile kontrol sonucunda düzenlenen tutanak veya bu tutanağa itiraz halinde itirazın hakem kurulunca reddedilmesi durumunda, tutanağın bir örneği 1705 sayılı Kanun hükümlerine göre işlem yapılmak üzere Cumhuriyet Başsavcılığına verilir ve bir örneği de Dış Ticaret Müsteşarlığına gönderilir.

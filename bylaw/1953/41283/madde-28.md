@@ -1,0 +1,1 @@
+Madde 28 – (Değişik: 2/7/1999 - 99/13097 K.) Preseli pamukların alım ve satımlarının kontrol belgesi ile yapılması zorunludur. Etiket veya balyaları üzerinde resmi marka ve işaretleri kontrol belgesine uymayan veya kontrol mühürleri bulunmayan preseli pamukların alınıp satılması ve nakli yasaktır.

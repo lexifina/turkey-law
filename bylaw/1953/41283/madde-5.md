@@ -1,0 +1,4 @@
+Madde 5 – (Değişik: 2/7/1999 - 99/13097 K.)
+Kütlü pamukların üretildikleri bölgelerden başka bölgelere naklinin önlenmesi için alınacak tedbirler Sanayi ve Ticaret Bakanlığı ile Tarım ve Köyişleri Bakanlığının görüşleri alınmak suretiyle Dış Ticaret Müsteşarlığının yayımlayacağı tebliğ ile belirlenir.
+Dış ticarette standardizasyon denetmenleri, pamukların bulundukları depoları ve işlendikleri çırçır ve prese yerlerini, çırçır ve prese makinelerini her zaman kontrol edebilirler, gerektiğinde iade edilmek koşuluyla numune alabilirler.
+Kontrol sırasında, pamuklar üzerinde hile ve tağşiş fiillerine teşebbüs edildiği veya hile ve tağşiş fiillerinin işlendiği ya da pamuk kalitesini bozan, çekirdek veren, çekirdek kıran çırçır makinelerinin işletildiği görüldüğü veya başka bölge pamukları bulunduğu takdirde failleri hakkında takibat yapılmak üzere Tüzüğün Beşinci Bölümündeki hükümler çerçevesinde işlem yapılır.
