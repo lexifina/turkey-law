@@ -1,0 +1,3 @@
+Madde 134 – Büyük ticaret hanlariyle kapıcı veya odabaşısı bulunan apartmanlarda oturanlar, cümle kapısı girişinde üzerinde ad ve soyadları yazılı özel mektup kutuları bulundurmaya zorunludurlar. Kutusu bulunanlara ait adi posta gönderileri bu kutulara konulur, bulunmayanlara ait olanlar da buraların kapıcı veya odabaşısı gibi sürekli hizmetlilerine verilir.
+Dağıtıcılar, adi posta gönderileri için kapıcı veya odabaşısı bulunan han ve apartmanların ikinci katlarından yukarı çıkmaya mecbur edilemezler. Bunlar ancak kayıtlı posta gönderilerinin ve havalelerin veya bunların haber kağıtlarının teslimi veya ödenmesi için üst katlara çıkarlar.
+Serbestçe girilemeyen yerlerde oturanlara gelen posta gönderileriyle haber kağıtlarının teslimi ve havalelerin ödenmesi:

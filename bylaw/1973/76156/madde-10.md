@@ -1,0 +1,4 @@
+Mektuplar:
+Madde 10 – Kişiye ve içinde bulunulan zamana ilişkin haberleşme yazıları taşıyan kağıtlarla benzerlerine "mektup" denir. Bunların zarf içinde bulunup bulunmamaları niteliklerini değiştiremez.
+Adi ve taahhütlü mektupların en çok ağırlıkları ve boyutları hakkındaki kayıtlar dışında, şekilleri ve zarflanmaları bir kurala bağlı olmadığı gibi bunların zarfa konulmaları veya zarflarının kapatılmaları da şart değildir. Ancak, zarfsız gönderilen mektupların başka bir gönderinin içine girmeyecek veya kendiarasına başka bir şey karışmayacak ve ayırma ve yollamada güçlük vermeyecek surette katlanıp kapatılmaları veya başka şekilde tertip edilmeleri gerektir.
+Ücretten yararlanmak amacıyla başka başka kimselere ait mektup ve kartların bir zarf içinde toplanıp gönderilmesi yasaktır. Ancak aile fertlerinden ve alıcı ile birlikte oturanlardan bir veya bir kaçına yazılmış ve ayrıca zarflanmış veya zarflanmamış mektuplar bir zarf içinde yollanabilir.

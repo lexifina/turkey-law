@@ -1,0 +1,1 @@
+Madde 143 – Alıcı bir posta gönderisini veya havaleyi kabul etmek istemezse, keyfiyeti bu gönderinin veya haber kağıdının yahut bunlarla ilgili kayıt ve kağıtların uygun yerine yazıp imza eder. Alıcı yazmaktan ve imzalamaktan imtina ettiği takdirde görevli personel durumu açıklayan bir yazı yazıp imzalar.

@@ -1,0 +1,4 @@
+Madde 63 – PTT merkezleri, yurtiçinde çıkan ve çıkma zamanları belli olan gazete ve dergiler için abone kaydeder.
+Bastıkları veya yaydıkları gazete ve dergiler için PTT merkezlerinin abone kaydetmelerini isteyen basıcı veya yayıcılar, bu isteklerini ilgili PTT merkezine yazı ile bildirirler ve yayınları hakkında gerekli bilgileri verirler, bu bilgilerde olacak değişiklikleri de aynı şekilde bildirirler. Abone aleyhindeki değişiklikler bildirildikten bir ay sonra geçerli olur.
+Gazete ve dergi abonmanları yıllık, altı veya üç aylık olabilir. Bir yıllık abonmanlar 1 Ocakta, altı aylık abonmanlar 1 Ocak ve 1 Temmuzda, üç aylık abonmanlar 1 Ocak, 1 Nisan, 1 Temmuz ve 1 Ekimde başlar.
+Gazete ve dergilere abone kaydolmak isteyen kişi, başvuracağı PTT merkezine abone bedelini öder. Posta ücreti, basıcı veya yayıcının bildireceği şarta göre kendisinden veya basıcı yahut yayıcıdan alınır.
