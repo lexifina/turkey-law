@@ -1,0 +1,9 @@
+Merkezin Amaç ve Görevleri
+Madde 4 — a) Üniversite ile kamu ve özel sektör arasında bilimsel araştırma geliştirme çalışmalarını organize etmek ve yürütmek, yapılan araştırmaları teşvik etmek, desteklemek, ilgili kuruluşlara önerilerde bulunmak,
+b) Üniversite bünyesinde bilim dallarının gelişmesine katkıda bulunmak, bu bilim dalları arasında ortak yürütülecek araştırma ve eğitim programlarını koordine etmek, yürütmek, yürütülmesine yardımcı olmak,
+c) Kamu ve özel sektör kuruluşlarının aile eğitimi, çocuk gelişimi ve eğitimi, okul öncesi eğitimi ve özel eğitim ve benzeri alanlarda hizmet içi eğitim taleplerini karşılamak, bu amaçla kurs seminer ve benzeri kısa ve uzun süreli eğitim programları açmak, bu kuruluşların problemlerine çözüm yolları aramak, projeler hazırlamak ve gerçekleştirmek, eğitim faaliyetlerinin araştırılması geliştirilmesi ve koordinasyonunu sağlamak,
+d) Üniversite elemanları, öğrenciler, diğer personel, eğitimciler ve toplumun eğitimi amacıyla dergi, gazete ve benzeri yayınlar yapmak, hizmet içi eğitim programları düzenlemek,
+e) Uzaktan eğitim çalışmaları için radyo, televizyon programları, video-kaset ve CD hazırlamak, yayınlar yapmak,
+f) Merkezin çalışma alanına giren konularda ulusal ve uluslar arası bilimsel toplantılar düzenlemek, yurt içi-yurt dışı bilim, araştırma, inceleme kursları, eğitim kurumları, özel-kamu kuruluşları, eğitim kurumları, vakıf ve derneklerle işbirliği yapmak, bilimsel bilgi alışverişinde bulunmak ve hizmet değişimi sağlamak,
+g) Merkezin çalışma alanları ile ilgili olarak eğitim danışmanlığı, program geliştirme, gelişim izleme ve değerlendirme, eğitim kurumları için çocuk yayınları ve eğitim materyali geliştirme hizmetleri sunmak,
+h) Kuruluşun amacına uygun olarak yüksek öğretim mevzuatı çerçevesinde kendine verilen görevleri yapmaktır.

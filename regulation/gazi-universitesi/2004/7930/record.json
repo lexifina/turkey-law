@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 17 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2004-04-15",
+      "15.04.2004",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 17 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "25434",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2004-04-15",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gazi Üniversitesi",
+  "issuer_slug": "gazi-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gazi-universitesi/2004/7930",
+  "published": "2004-04-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7930&MevzuatTertip=5",
+  "source_bytes": 34847,
+  "source_id": "8.5.7930",
+  "source_sha256": "a16ba74080e807729069d6fff75962e8c5c8a075fdb27f9d25222b7bc31c05bd",
+  "text_status": "as-enacted",
+  "title": "GAZİ ÜNİVERSİTESİ ÇOCUK GELİŞİMİ ARAŞTIRMA UYGULAMA\r\nVE EĞİTİM MERKEZİ YÖNETMELİĞİ",
+  "university_id": 195,
+  "word_count": 1072
+}
