@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/1969",
+  "list_number": "1969",
+  "decision_date": "1999-07-03",
+  "title": "YSK ilke kararı 1999/1969",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4539/1999-1969-karar.htm",
+  "source_sha256": "d39171bad862c8afcbe21f384a028b0f1807c28e00171cfecdfd3cd83509df3d",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-07-03",
+  "law_text_complete": false
+}
