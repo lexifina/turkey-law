@@ -1,0 +1,166 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2034",
+  "year": 1977,
+  "title": "22 Ocak 1962 tarih ve 1 Sayılı Kanunun, 5.6.1975 tarih ve 1905 sayılı Kanunla değişik 1. maddesinin değiştirilmesi ve bu Kanuna 1 geçici madde eklenmesine dair Kanun",
+  "adopted": "1977-02-25",
+  "adopted_as_published": "25/02/1977",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.02.1977 No: 15864",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/kanuntbmmc060/kanuntbmmc06002034.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 60",
+  "committee_reports": [
+    {
+      "label": "MM 454 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c023/mm__04023044ss0454.pdf"
+    },
+    {
+      "label": "MM 454ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c025/mm__04025055ss0454ek01.pdf"
+    },
+    {
+      "label": "CS 669no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032039ss0669.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 457159,
+      "title": "22 Ocak 1962 tarih ve 1 Sayılı Kanunun, 5.6.1975 tarih ve 1905 sayılı Kanunla değişik 1. maddesinin değiştirilmesi ve bu Kanuna 1 geçici madde eklenmesine dair Kanun",
+      "adopted_as_published": "25/02/1977",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/kanuntbmmc060/kanuntbmmc06002034.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 454 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c023/mm__04023044ss0454.pdf"
+        },
+        {
+          "label": "MM 454ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c025/mm__04025055ss0454ek01.pdf"
+        },
+        {
+          "label": "CS 669no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032039ss0669.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 37,
+          "sitting_date": "1977-01-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c023/mm__04023037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c023/mm__04023fih.pdf",
+          "pages": [
+            "313"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 44,
+          "sitting_date": "1977-02-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c023/mm__04023044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c023/mm__04023fih.pdf",
+          "pages": [
+            "569",
+            "692:695",
+            "601:616",
+            "624:631",
+            "636:638",
+            "640:643"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 45,
+          "sitting_date": "1977-02-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c023/mm__04023045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c023/mm__04023fih.pdf",
+          "pages": [
+            "650:651",
+            "676",
+            "691:694"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 55,
+          "sitting_date": "1977-02-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c025/mm__04025055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c025/mm__04025fih.pdf",
+          "pages": [
+            "361:363"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=401&v_kullanici_id=27483225",
+      "page_sha256": "a1ea50d72be6fe3570ffdc776298387215c0ebc936785e40f90fb4075e9eeeb9"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 328924,
+      "title": "22 Ocak 1962 tarih ve 1 sayılı Kanunun, 5.6.1975 tarih ve 1905 saydı Kanunla değişik 1 nci maddesinin değiştirilmesi ve bu Kanuna 1 geçici madde eklenmesine dair kanun",
+      "adopted_as_published": "25/02/1977",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/kanuntbmmc060/kanuntbmmc06002034.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 454 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c023/mm__04023044ss0454.pdf"
+        },
+        {
+          "label": "MM 454ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c025/mm__04025055ss0454ek01.pdf"
+        },
+        {
+          "label": "CS 669no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032039ss0669.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 32,
+          "sitting": 38,
+          "sitting_date": "1977-02-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032fih.pdf",
+          "pages": [
+            "2"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 39,
+          "sitting_date": "1977-02-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032fih.pdf",
+          "pages": [
+            "32:84",
+            "97:108"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2001&v_kullanici_id=27483235",
+      "page_sha256": "5b492ecceb3fd27972446dc39f2c79577d6e4ad977e62fa45dc3f9e7cfc6c880"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a1ea50d72be6fe3570ffdc776298387215c0ebc936785e40f90fb4075e9eeeb9",
+  "issuer": "Millet Meclisi",
+  "in_force": "1977-02-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 25/02/1977; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
