@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5711-387-51152",
+  "source_id": 26293,
+  "date": "2003-12-02",
+  "title": "YMM Tasdik Raporuna dayalı iade taleplerinde düzenlenecek alış faturaları listesinin YMM Tasdik Raporuna eklenmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/26293",
+  "source_sha256": "ff216aea3980d8b69946d80a25338de06871c869c147ae2d068bd928a385a673",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
