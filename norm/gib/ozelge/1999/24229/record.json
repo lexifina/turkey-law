@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.43/4305-110/9587",
+  "source_id": 24229,
+  "date": "1999-03-11",
+  "title": "Dört yıllık süre dolduktan sonra satışı yapılan konuta ilişkin elde edilen kazancın değer artışı kazancı olarak vergilendirilmemesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24229",
+  "source_sha256": "f00d9995abf3b04469420a9d37119da66e9adaa2a1886fd51e1fc5a4abcca61f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
