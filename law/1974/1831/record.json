@@ -1,0 +1,160 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1831",
+  "year": 1974,
+  "title": "Türkiye Cumhuriyeti ile Yugoslavya Sosyalist Federatif Cumhuriyeti arasında imzalanan cezai konularda adli yardımlaşma Sözleşmesinin onaylanmasının uygun bulunduğuna dair Kanun",
+  "adopted": "1974-07-09",
+  "adopted_as_published": "09/07/1974",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "19.07.1974 No: 14950",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/kanuntbmmc057/kanuntbmmc05701831.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 57",
+  "committee_reports": [
+    {
+      "label": "MM 56 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006095ss0056.pdf"
+    },
+    {
+      "label": "CS 371no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017074ss0371.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 438833,
+      "title": "Türkiye Cumhuriyeti ile Yugoslavya Sosyalist Federatif Cumhuriyeti arasında imzalanan cezai konularda adli yardımlaşma Sözleşmesinin onaylanmasının uygun bulunduğuna dair Kanun",
+      "adopted_as_published": "09/07/1974",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/kanuntbmmc057/kanuntbmmc05701831.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 56 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006095ss0056.pdf"
+        },
+        {
+          "label": "CS 371no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017074ss0371.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 47,
+          "sitting_date": "1974-02-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c002/mm__04002047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c002/mm__04002fih.pdf",
+          "pages": [
+            "93"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 91,
+          "sitting_date": "1974-06-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006091.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 95,
+          "sitting_date": "1974-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006fih.pdf",
+          "pages": [
+            "140:142"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 96,
+          "sitting_date": "1974-06-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006096.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006fih.pdf",
+          "pages": [
+            "157:158",
+            "186:189"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=201&v_kullanici_id=27483225",
+      "page_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 323808,
+      "title": "Türkiye Cumhuriyeti ile Yugoslavya Federatif Cumhuriyeti Arasında İmzalanan suçların geri verilmesi sözleşmesinin onaylanmasının uygun bulunduğuna dair Kanun.",
+      "adopted_as_published": "09/07/1974",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/kanuntbmmc057/kanuntbmmc05701831.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 56 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006095ss0056.pdf"
+        },
+        {
+          "label": "CS 371no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017074ss0371.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 17,
+          "sitting": 68,
+          "sitting_date": "1974-06-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017fih.pdf",
+          "pages": [
+            "135"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 70,
+          "sitting_date": "1974-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017fih.pdf",
+          "pages": [
+            "171:172"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 74,
+          "sitting_date": "1974-07-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017074.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017fih.pdf",
+          "pages": [
+            "326:328",
+            "346",
+            "362:363"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1801&v_kullanici_id=27483235",
+      "page_sha256": "0a870416ae325ef7c2b7383ddb74f9ce53a00b028164dfb225bb98530ce1a326"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1974-07-09",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 09/07/1974; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
