@@ -1,0 +1,2 @@
+Madde 44 – Muhtarların kullanacakları her türlü defter, fiş, ilmühaber, şehadetname ve başka kağıtlardan gerekli görülenlerin örnekleri Dahiliye Bakanlığınca yapılır ve kendilerine bildirilir. Muhtarlar bu örneklere uygun defter, fiş, ilmühaber, şehadetname ve başka kağıtlar kullanmak ödevindedirler.
+Dahiliye Bakanlığı bu örnekleri yaparken istatistik işleriyle ilgili olanları hakkında İstatistik Genel Direktörlüğünün de düşüncesini alır.

@@ -1,0 +1,1 @@
+Madde 45 – Mahalle bekçileri, mahalle muhtar ve ihtiyar kurullarına, görevlerini yapmakta yardım etmekle ödevlidirler. Muhtarlar bunun için gerektiğinde bekçinin bağlı bulunduğu polis merkezine veya jandarma komutanlığına başvururlar.

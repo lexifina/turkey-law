@@ -1,0 +1,1 @@
+Madde 16 – Yerin en büyük mülkiye memuru, muhtar ve ihtiyar kurulu seçiminin yapılması için, son belediye seçimine esas olan defterlerden (10) ve (11) inci maddelerde yazılı niteliklerde oldukları yapacağı soruşturma ile anlaşılan her mahalle halkından üçer kişilik birer (seçim komisyonu) kurar ve işi komisyona ayrılan kimselere yazı ile bildirir.

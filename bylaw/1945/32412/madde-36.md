@@ -1,0 +1,1 @@
+Madde 36 – Harç tarifesinin yapılmasında tarifenin uygulanacağı şehir veya kasabanın ekonomi durumu, halkın geçim düzeyi ve yaşama şartları ve bu harçları ödeme yeteneği gözönünde tutulacağı gibi muhtarlık işlerinin yürütülmesi için gerekli olan kira, ısıtma, aydınlatma ve hizmetçi ücreti gibi giderler de gözetilir.

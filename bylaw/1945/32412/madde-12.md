@@ -1,0 +1,2 @@
+Madde 12 – Muhtar ve üye olmak için gereken ve (10) uncu maddede yazılı olan şartlardan her hangi birine bozukluk gelir veya (11) inci maddedeki durumlardan her hangi biri gerçekleşirse muhtarlık ve üyelik sıfatı kalkar.
+Muhtar ve ihtiyar kurulu üyelerinin talim ve manevra maksadiyle 45 günden fazla silah altına alınmaları halinde de yukarıki hüküm uygulanır. Ancak bu sıfatın kalktığına ve üyelerden birinin çekilmesinin kabulüne veya vazifeye devamsızlık sonucu bir üyenin çekilmiş sayılmasına, seçimi onamağa yetkili bulunan makamlarca karar verilir.

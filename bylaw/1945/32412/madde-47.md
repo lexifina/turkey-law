@@ -1,0 +1,1 @@
+Madde 47 – Şehir ve kasabalarda mahalle muhtar ve ihtiyar kurulları teşkiline dair (4541) numaralı kanunun (23) üncü maddesine dayanılarak yapılmış ve Danıştay tarafından incelenmiş olan bu Tüzük Resmi Gazete ile yayımının erte- si gününden başlayarak yürürlüğe girer.

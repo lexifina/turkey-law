@@ -1,0 +1,1 @@
+Madde 38 – Muhtarlık işlerinden alınacak harçlar yalnız muhtarlara aittir. Muhtarlık işlerinin yürütülmesi için gerekli olan kira, ısıtma, aydınlatma, hizmetçi ücreti, kırtasiye gibi giderler bu harçlardan ödenir.

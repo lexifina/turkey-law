@@ -1,0 +1,1 @@
+Madde 20 – Muhtar ve ihtiyar kurulu üyelikleri seçimi bir arada yapılır. Her seçmen oy pusulasında muhtarlık için bir kişinin ve ihtiyar kurulu üyeliği içinde (8) kişinin adını yazar. Yazmak bilmiyenler güvendikleri kimseye sandık başında yazdırırlar.

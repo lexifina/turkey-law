@@ -1,0 +1,1 @@
+Madde 28 – Seçimi onanmıyan muhtarın yerine bir ay içinde bir başkası seçilir ve seçimi onanmıyan üyelerin yerine kendilerinden sonra oy kazanmış olan yedek üyelerden biri getirilir. Yedek üyelerden de bir veya bir kaçının seçimi onanmamak suretiyle asıl üyeliğe getirilecek yedek üye kalmazsa bir ay içinde boş üyelik sayısınca asıl ve tam sayıda da yedek üye seçimi yapılır.

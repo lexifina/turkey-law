@@ -1,0 +1,1 @@
+Madde 22 – Seçim bittikten sonra sandık, seçmenlerden hazır bulunanlardan en az üç kişinin önünde seçim komisyonu tarafından açılır. Oyların sınıflanması aynı günde bitirilemezse oy pusulaları sandığa konur ve sandık (18) inci madde hükümlerine göre kapatılarak saklanır.

@@ -1,0 +1,1 @@
+Madde 23 – Sandık açıldıktan sonra oy pusulaları sayılarak seçim defterine konulan imza, mühür ve işaretlerin toplamiyle karşılaştırılır. Oy pusulaları imza, mühür ve işaret toplamından az veya çok çıkarsa, seçim bozuk sayılarak iş bir zabıtla belirtilir ve seçim yenilenir.
