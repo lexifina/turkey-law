@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-291/20870",
+  "source_id": 22266,
+  "date": "1998-06-03",
+  "title": "Sahibinin ölümüyle mirasçılara intikal eden işletmenin faaliyetine mirasçılardan bir veya birkaçı tarafından devam edilmesi halinde sadece faaliyette bulunan mirasçılar için ticari kazanç bakımından mükellefiyet tesisinin yapılacağı tabiidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22266",
+  "source_sha256": "5506016ca35cfc4102ca804affce9dfb93f413702a03b4b017296d39cd6f0dc3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
