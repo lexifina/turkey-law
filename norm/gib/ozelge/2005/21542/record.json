@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-743/11140",
+  "source_id": 21542,
+  "date": "2005-03-08",
+  "title": "Mahkemelerce hükmolunan \"icra inkar tazminatının\" gelir vergisi açısından  durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21542",
+  "source_sha256": "16a39eb32ddb9dc4cea0a27c95d3abfd3939c4b0d8fa338d9267ead7be5f74ca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
