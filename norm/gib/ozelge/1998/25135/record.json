@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2148/35325",
+  "source_id": 25135,
+  "date": "1998-10-02",
+  "title": "Muris'e ait traktörün varisler tarafından değerinin sehven fazla beyan edilmesi durumunda yapılacak işlemler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/25135",
+  "source_sha256": "125f5c84cb60f8d78664d9a90790032b82c9e0a5a0952a7d5b939b8928bfb303",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
