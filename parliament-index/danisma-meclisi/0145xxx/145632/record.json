@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 145632,
+  "assembly": "Danışma Meclisi",
+  "heading": "TASARI VE RAPORLAR",
+  "heading_as_published": "Tasarı Ve Raporlar",
+  "summary": "25.10.1963 Tarihli ve 353 Sayılı Askerî Mahkemeler Kuruluşu ve Yargılama Usulü Kanununun Bazı Maddelerinin Değiştirilme sine ve Bazı Maddelerine Fıkralar Eklenmesine İlişkin Kanun Tasarısı (1/542) (Başkanlığa geliş tarihi:5.11.1982) (Millî Savunma, İçişleri ve Dışişleri (Esas) ve Adalet komisyonlarına:9.1.1982)",
+  "title": "25.10.1963 Tarihli ve 353 Sayılı Askerî Mahkemeler Kuruluşu ve Yargılama Usulü Kanununun Bazı Maddelerinin Değiştirilme sine ve Bazı Maddelerine Fıkralar Eklenmesine İlişkin Kanun Tasarısı (1/542) (Başkanlığa geliş tarihi:5.11.1982) (Millî Savunma, İçişleri ve Dışişleri (Esas) ve Adalet komisyonlarına:9.1.1982)",
+  "first_sitting_date": "1982-11-10",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 11,
+      "sitting_date": "1982-11-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c011/dm__02011011.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c011/dm__02011fih.pdf",
+      "pages": [
+        "266"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARI%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARI%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1312&v_gelecek_sayfa=1201&v_kullanici_id=27484982",
+  "source_sha256": "1ca25d7378640c24ce0b70818c788db77e75df9be7bd1f5f197ff72172c66755",
+  "in_force": "1982-11-10",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
