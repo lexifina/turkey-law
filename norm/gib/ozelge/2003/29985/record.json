@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6215-585/10508",
+  "source_id": 29985,
+  "date": "2003-03-14",
+  "title": "Konukevi ve bu konukevine ait kantinin kurumlar vergisinden muaf olmakla birlikte,amaçları dışında faaliyet göstermeleri veya kamu mensupları dışındaki kişi ve kuruluşlara da hizmet vermesi ve bu durumun devamlılık arzetmesi halinde vergiye tabi olacaklar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29985",
+  "source_sha256": "bc332ace74fcb3a700201c5b9a6a47721c53e85640dbaa6df950f6eee930f080",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
