@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "170",
+  "year": 1960,
+  "title": "1 ve 3 sayılı kanunlar gereğince mal beyanına davet olunanlardan meşru surette edindiklerini ispat edemedikleri malların müsaderesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-12-29",
+  "gazette_issue": "10693",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10693.pdf",
+  "source_sha256": "f400fd2e16f9f5f5d2bf55edd85cf7986917c0450dbc4c029a61f48df0dba90f",
+  "text_sha256": "0db1a49d040afc9d52ec2e431353cfc07697523e9efe770e46196eae62d93fdd",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      9,
+      96
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300170.pdf",
+    "source_sha256": "e27a71596eda3960afb6e4a299f299dcce9fc5bbfcbeaf774e88333d0f3e22dc",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9706,
+    "bag": 0.9083,
+    "kd_coverage": 0.9978,
+    "kd_body_compared": 0.9869,
+    "rg_words": 441,
+    "kd_words": 459,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
