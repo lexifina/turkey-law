@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "42",
+  "year": 1960,
+  "title": "5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa ek geçici Kanun (BASILI GENEL KURUL TUTANAGI BULUNMAMAKTADIR)",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-08-05",
+  "gazette_issue": "10570",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10570.pdf",
+  "source_sha256": "98ef64b3df4c648d6b43cf5441b6e1e4d274f904067bbd2d6474e0546a3c2c12",
+  "text_sha256": "4d4c301400bf995ddd5e1e3037efaaec909425f8d5c3683e33ebfd923be5915e",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      76
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300042.pdf",
+    "source_sha256": "dd211c8a5cc13053f2414578a851f6e871218ac39c47d6164d60aa249dc496ed",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9687,
+    "bag": 0.9304,
+    "kd_coverage": 0.998,
+    "kd_body_compared": 0.9843,
+    "rg_words": 488,
+    "kd_words": 511,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
