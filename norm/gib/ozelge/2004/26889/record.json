@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2968-298-283-58828",
+  "source_id": 26889,
+  "date": "2004-12-02",
+  "title": "Bir hesap dönemi içindeki geçici vergi dönmelerinin herhangi birinde enflasyon düzeltmesi yapılamsı durumunda takip eden geçici vergi dönemleri içinde bulunulan hesap dönemi sonunda da enflasyon düzeltmesinin yapılacağı, özel hesap dönemi kullanan mükelle",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26889",
+  "source_sha256": "d67823de8ed1be70da85a838e39f760d6b399701d05ee19febd25e2e72c24fbd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
