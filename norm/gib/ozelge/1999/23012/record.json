@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4428-22/12792",
+  "source_id": 23012,
+  "date": "1999-04-05",
+  "title": "Basit usulde vergilendirilecek mükellefler 1.1.1999 tarihinden itibaren Vergi Usul Kanunu hükümlerine göre, fatura, perakende satış vesikası ve diğer belgeleri düzenlemek ve kullanmak zorundadırlar.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/23012",
+  "source_sha256": "ffb6d7ca74265ac0e21164f86ff9795474109ea32875855b8a69ab7820cdffa6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
