@@ -1,0 +1,7 @@
+Geçersiz sebeple yapılan feshin sonuçları:
+Madde 13/D- (9/8/2002 tarihli ve 4773 sayılı Kanunun hükmüdür.)
+İşverence geçerli sebep gösterilmediği veya gösterilen sebebin geçerli olmadığı mahkemece tespit edilerek feshin geçersizliğine karar verildiğinde, işveren, işçiyi bir ay içinde işe başlatmak zorundadır. İşçiyi başvurusu üzerine işveren bir ay içinde işe başlatmaz ise, işçiye en az altı ay en çok bir yıllık ücreti tutarında tazminat ödemekle yükümlü olur. Mahkeme feshin geçersizliğine karar verdiğinde, işçinin işe başlatılmaması halinde ödenecek tazminat miktarını da belirler.
+İşçinin mahkeme kararının kesinleşmesine kadar çalıştırılmadığı süre içinde en çok dört aya kadar doğmuş bulunan ücret ve diğer hakları kendisine ödenir.
+Bildirim süresine ait ücret işçiye peşin ödenmişse, bu tutar yukarıdaki hükümlere göre yapılacak ödemeden mahsup edilir. İşçiye bildirim süresi verilmemiş veya bildirim süresine ait ücret peşin olarak ödenmemişse, bu sürelere ait ücret tutarı ayrıca ödenir.
+İşçi, kesinleşen mahkeme kararının tebliğinden itibaren altı iş günü içinde işe başlamak için işverene başvuruda bulunmak zorundadır. İşçi bu süre içinde başvuruda bulunmazsa, işverence yapılmış olan fesih geçerli bir fesih sayılır ve işveren sadece bunun hukukî sonuçları ile sorumlu olur.
+Birinci, ikinci ve üçüncü fıkra hükümleri sözleşmeler ile hiçbir suretle değiştirilemez; aksi yönde sözleşme hükümleri geçersizdir.

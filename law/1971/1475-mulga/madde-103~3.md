@@ -1,0 +1,2 @@
+Madde 103 – (3/11/1988 tarihli ve 3493 sayılı Kanunun hükmüdür.)
+76 ncı maddede öngörülen tüzükteki “İşçi Sağlığı ve İş Güvenliği Kurulu” nu işyerinde kurmaktan kaçınan veya kurup da çalışmasına engel olan işveren veya işveren vekiline birmilyon lira para cezası verilir. Bu cezanın kesinleşmesinden sonra maddede belirtilen suçun tekrar işlenmesi halinde belirtilen ceza yarısı oranında artırılarak uygulanır.

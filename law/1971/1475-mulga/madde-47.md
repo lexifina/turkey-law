@@ -1,0 +1,6 @@
+Madde 47 – (25/8/1971 tarih 1475 Kanunun hükmüdür.)
+Otel, pansiyon, lokanta, kahvehane, gazino, açık hava lokanta ve gazinosu, çalgılı eğlence yeri, dans salonu, kulüp, oyun salonu, birahane, içki salonu ve benzeri yerlerle içki verilen ve hemen orada yenilip içilmesi için çeşitli yiyecek satan yerlerden (yüzde) usulünün uygulandığı müesseselerde; işveren tarafın- dan servis karşılığı veya başka isimlerle müşterilerin hesap pusulalarına (yüzde) eklenerek veya ayrı şekillerde alınan paralarla kendi isteği ile müşteri tarafından işverene bırakılan yahut da onun kontrolü altında bir araya toplanan bütün paraları işveren serviste çalışan işçilere eksiksiz olarak ödemek zorundadır.
+İşveren veya işveren vekili, yukardaki fıkrada sözü edilen paraların kendisi tarafından alındığını, eksiksiz olarak işçilere dağıtıldığını belgelemekle yükümlüdür.
+Yüzdelerden toplanan paraların hak sahibi işçiler arasında hangi esaslar ve orantılar çerçevesinde dağıtılacağı Toplu İş Sözleşmelerinde veya hizmet akitlerinde gösterilir.
+Madde 51 bent (f) – (25/8/1971 tarih ve 1475 sayılı Kanunun hükmüdür.)
+f) 3153 sayılı Kanuna dayanılarak çıkarılan tüzüğe göre röntgen muayenehanelerinde çalışanlara Pazardan başka verilmesi gereken yarım günlük izinler,

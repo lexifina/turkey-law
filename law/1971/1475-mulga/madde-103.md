@@ -1,0 +1,2 @@
+Madde 103 – (25/8/1971 tarih ve 1475 sayılı Kanunun hükmüdür.)
+76 ncı madde hükmü gereğince çıkarılacak tüzükte kurulması hükme bağlanan "İşçi Sağlığı ve İş Güvenliği Kurulu" nu işyerinde kurmakta kaçınan veya kurup da çalışmasına engel olan işveren veya işveren vekili hakkında 1 000 liradan az olmamak üzere ağır para cezası ve tekerrürü halinde evvelce hükmolunan para cezasının iki katı hükmolunur.

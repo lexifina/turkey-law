@@ -1,0 +1,3 @@
+Yetkili memurların ödevi:
+Madde 90 – (25/8/1971 tarihli ve 1475 sayılı Kanunun hükmüdür.)
+İş hayatını izleme, denetleme ve teftiş yetkisi olan makamlar veya memurlar bu görevlerini yaparlarken işin normal gidişini ve işyerinin işlemesini, inceledikleri konunun niteliğine göre mümkün olduğu kadar, sekteye uğratmamak, durdurmamak ve güçleştirmemekle ve resmi işlemlerin yürütülüp sonuçlandırılması için, açıklanması gerekmedikçe, işverenin ve işyerinin meslek sırları ve şartları, ekonomik ve ticari hal ve durumları hakkında gördükleri ve öğrendikleri hususları tamamen gizli tutmak ve kendileri tarafından bilgileri ve ifadeleri alınan yahut kendilerine baş vuran veya ihbarda bulunan işçilerin ve başka kişilerin isimlerini ve kimliklerini açıklamamakla yükümlüdürler.

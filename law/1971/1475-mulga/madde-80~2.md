@@ -1,0 +1,5 @@
+Onsekiz yaşından küçük işçiler için rapor:
+Madde 80 – (29/7/1983 tarihli ve 2869 sayılı Kanunun hükmüdür.)
+13 den 18 yaşına kadar (18 dahil) çocukların herhangi bir işe alınmalarından önce; işyeri hekimi, işçi sağlığı dispanserleri; bunların bulunmadığı yerlerde sırası ile en yakın sosyal sigortalar kurumu, sağlık ocağı, hükümet veya belediye tabiplerine muayene ettirilerek işin niteliğine ve şartlarına göre vücut yapılarının dayanıklı olduğunun raporla belirtilmesi ve bunların 18 yaşını dolduruncaya kadar en az her altı ayda bir aynı şekilde doktor muayenesinden geçirilerek bu işte çalışmaya devamlarında bir sakınca olup olmadığının kontrol ettirilmesi ve bütün bu raporların işyerinde muhafaza ettirilerek yetkili memurların isteği üzerine kendilerine gösterilmesi zorunludur.
+Birinci fıkrada yazılı tabipliklerce verilen rapora itiraz halinde, işçi en yakın sosyal sigortalar kurumu hastanesi sıhhi kurulunca muayeneye tabi tutulur. Verilen rapor kesindir.
+Bu raporlar damga vergisi ve her çeşit resim ve harçtan muaftır.

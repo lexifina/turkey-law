@@ -1,0 +1,2 @@
+Madde 101 – (29/7/1983 tarih ve 2869 sayılı Kanunun hükmüdür.)
+Bu Kanunun 73 üncü maddesi hükmüne aykırı hareket eden, 74 üncü maddenin ikinci fıkrasında belirtilen kurum veya işletme belgesi almadan bir işyerini açan, 74 üncü maddenin birinci fıkrasında belirtilen tüzüklerdeki hükümlere uymayan işveren veya işveren vekili hakkında alınmayan her işçi sağlığı veya işgüvenliği tedbiri için otuzbin liradan az olmamak üzere ağır para cezası hükmolunur. Alınmayan tedbirler oranında müteakip her ay için ayrıca aynı miktar ceza uygulanır.

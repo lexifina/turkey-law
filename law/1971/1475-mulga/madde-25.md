@@ -1,0 +1,9 @@
+Madde 25 – (25/8/1971 tarih ve 1475 sayılı Kanunun hükmüdür.)
+İşverenler işyerlerinde aşağıdaki esaslar ve ölçüler içinde sakat kimse ile eski hükümlü kimse çalıştırmak ve bunlara meslek, beden ve ruh durumlarına göre iş vermek zorundadırlar.
+a) Yüz işçiye kadar işçi çalıştıran işyerlerinde her tam elli işçiye karşılık bir sakat ve bir eski hükümlü kimse,
+b) İşçi sayısının yüzden fazlası için her yüz işçiye karşılık iki sakat ve iki eski hükümlü kimse,
+Çalıştırılır.
+Bu maddeye göre çalıştırılacak sakat ve eski hükümlülerin çeşitleri ile hangi cins sakat ve eski hükümlülerin hangi iş kollarında ve hangi işlerde çalıştırılabileceği ve bunların işyerlerinde genel hükümler dışında bağlı olacakları özel ve ücret şartları ile bunların işverenlerce nasıl işe alınacakları; Çalışma, Adalet, Sanayi ve Ticaret, Milli Eğitim, Sağlık ve Sosyal Yardım ve Ulaştırma Bakanlıklarınca birlikte hazırlanacak yönetmelikte gösterilir.
+Sakatların işyerlerine alınmalarında o işyerinin işçisi iken sakatlanmış olanlara öncelik hakkı tanınır.
+Bir işyerinden malülen ayrılmak zorunda kalıp da sonradan malüliyeti ortadan kalkan işçiler eski işyerlerine alınmalarını istedikleri takdirde, işveren bunları, boş yer varsa derhal, yoksa yer boşaldığında, o andaki şartlarla eski işyerlerine veyahut eski işlerine uygun diğer bir işe, sair isteklilere tercih ederek almaya mecburdur.
+Genel ve katma bütçeli dairelerle mahalli idareler veya Kamu İktisadi Teşebbüsleri yahut özel kanuna veya özel kanunla verilmiş yetkiye dayanılarak kurulan banka ve kuruluşlara veya bunlara bağlı işyerlerinin İş Kanununa tabi olmıyan daire ve kurumlarında çalıştırılan kimselerin de sakat ve eski hükümlüler arasından ayrılması hakkındaki gerekli usul ve şartlar ile bunun oran ve tutarları ve hangi işlerde çalıştırılacakları yukarda sözü geçen yönetmelikte gösterilir.

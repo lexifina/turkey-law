@@ -1,0 +1,4 @@
+Madde 85 – (25/8/1971 tarih ve 1475 sayılı Kanunun hükmüdür.)
+İşçilere iş ve işlere işçi bulmak için kazanç amaciyle çalışılması veya özel büro açılması yasaktır.
+Ancak, tarım işlerinde ücretli iş ve işçi bulma aracılığına İş ve İşçi Bulma Kurumu izin verebilir.
+Çeşitli iş ve sanat kollarındaki işverenlerin veya işçilerin kendi aralarında yahut çeşitli teşekküllerince veyahut kamu yararına yardımcı olan ve böyle olmayıp da yalnız hayır işleriyle uğraşan derneklerce, iş ve işçi bulma işleriyle uğraşılması ve bunun için kendi çevreleri içinde kuracakları teşkilatın çalışmasını ancak İş ve İşçi Bulma Kurumunda izin almak ve bu kurumca her zaman denetlemek kaydiyle mümkündür. Şu kadar ki; bu yolda açılacak büroların yapa- cakları işlere karşılık, işçilerden herhangi bir ücret almaları yasaktır.

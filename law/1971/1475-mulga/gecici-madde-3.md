@@ -1,0 +1,2 @@
+Geçici Madde 3 – (25/8/1971 tarihli ve 1475 sayılı Kanunun hükmüdür.)
+Bu Kanun yürürlüğe girmeden önce 3008 sayılı İş Kanunu kapsamında olan işyerlerinde, anılan Kanunun değişik 29 uncu maddesine uyularak yapılmış olan iç yönetmeliklerde yer alan veya iş ihtilafları yahut hakem heyetleri karariyle veya sair şekillerde kesinleşmiş olup yürürlükte bulunan iş şartları ile iş düzeni ve Sosyal yardımların uygulanmasına toplu iş sözleşmesi veya hizmet akidleri ile yeni iş şartları kuruluncaya kadar devam olunur.

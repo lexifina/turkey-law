@@ -1,0 +1,5 @@
+İş ve İşçi Bulma Kurumunun görevi:
+Madde 84 – (25/8/1971 tarihli ve 1475 sayılı Kanunun hükmüdür.)
+İş ve İşçi Bulma Kurumunun her çeşit ekonomik işletmelerle serbest sanat niteliğinde olan öbür işler için bilgi toplamak, işçi isteme ve iş aramanın düzene bağlanması yolunda gerekli çalışmaları yapmak ve işçi ücretlerinin iniş çıkışlarını izleyip, geçim şartlarındaki yükseklikle karşılaştırılarak sosyal sıkıntıların önüne geçmek için bütün yurtta yahut bir bölgede veya belediye çevresinde alınması gereken tedbirleri tespit ve bunların uygulanmasına yardım etmek, çeşitli iş kollarındaki işverenlerle işçileri gösteren cetvelleri yayınlamak, mesleke yöneltmek, işçilerin mesleki eğitimlerinin yükselmesi ve usta (kalifiye) işçi yetiştirilmesi için gerekli olan tedbirler üzerinde çalışmak ve hizmet akitlerinin yapılmasına aracılık etmek ödevlerini bir ücret karşılığı olmaksızın yapmakla yükümlüdür.
+(Ek: 8/5/1985 - 3199/1 md.) Ancak, işverenlerden bu hizmetlerle ilgili masraflar alınabilir.
+Bu ödevlerin yapılış şekilleri bir tüzükte belirtilir.

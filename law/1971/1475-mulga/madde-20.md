@@ -1,0 +1,8 @@
+Çalışma belgesi:
+Madde 20 – (25/8/1971 tarihli ve 1475 sayılı Kanunun hükmüdür.)
+İşinden ayrılan işçiye, işveren tarafından işinin çeşidinin ne olduğunu ve süresini gösteren bir belge verilir. İşverenin belgedeki imzası, işçi dilerse o yerdeki muhtar veya mülki amir tarafından onaylanır.
+Genel ve katma bütçeli dairelerle mahalli idarelerden veya Kamu İktisadi Teşebbüslerinden yahut özel kanuna veya özel kanunla verilmiş yetkiye dayanılarak kurulan banka ve kuruluşlardan veya bunlara bağlı işyerlerinden yahut kamu yararına yardımcı derneklere bağlı işyerlerinden çıkan işçinin aldığı belgeler hakkında yukarıki onama hükmü uygulanmaz.
+İşveren, işçinin istediği belgeyi vermemekte direnirse veyahut belgeye işçi için doğru olmıyan yazılar yazarsa, işçinin yahut yeni işine girdiği işverenin isteği üzerine, o yerdeki muhtar veya mülki amir tarafından yapılacak inceleme sonucunu gösteren bir belge, işçiye veya yeni işverene verilir. Muhtar veya mülki amir tarafından yapılacak inceleme bir haftada bitirilir ve gerekli belge muhtar veya mülki amirlikçe verilir.
+Genel ve katma bütçeli dairelerle mahalli idarelerden veya Kamu İktisadi Teşebbüslerinden yahut özel kanuna veya özel kanunla verilmiş yetkiye dayanılarak kurulan banka ve kuruluşlardan veya bunlara bağlı işyerlerinden çıkan işçilere belge verilmek istenmez veyahut belgeye doğru olmıyan yazılar yazılırsa, gerekli incelemenin yapılması için bu işyerlerinin bağlı oldukları makamlara başvurulur.
+Belgenin vaktinde verilmemesinden veyahut belgede doğru olmıyan yazılar bulunmasından zarar gören işçi veyahut bu işçiyi işine alan yeni işveren eski işverenden zarar ve ziyan istiyebilir.
+Bu belgeler her türlü resim ve harçtan muaftır.

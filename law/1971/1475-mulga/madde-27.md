@@ -1,0 +1,6 @@
+Askerlik ve kanundan doğan çalışma:
+Madde 27 – (25/8/1971 tarihli ve 1475 sayılı Kanunun hükmüdür.)
+Muvazzaf askerlik ödevi dışında manevra veya her hangi bir sebeple silah altına alınan veyahut her hangi bir kanundan doğan çalışma ödevi yüzünden işinden ayrılan işçinin hizmet akdi işinden ayrıldığı günden başlıyarak iki ay sonra feshedilmiş sayılır.
+İşçinin bu haktan faydalanabilmesi için o işte en az bir yıl çalışmış olması şarttır. Bir yıldan çok çalışmaya karşılık her fazla yıl için, ayrıca iki gün eklenir. Şu kadar ki bu sürenin tamamı doksan günü geçemez.
+Hizmet akdinin feshedilmiş sayılabilmesi için beklenilmesi gereken süre içinde işçinin ücreti işlemez. Ancak özel kanunların bu husustaki hükümleri saklıdır. Bu süre içinde hizmet akdinin kanundan doğan başka bir sebebe dayanılarak işveren veya işçi tarafından feshedildiği öteki tarafa bildirilmiş olsa bile, fesih için kanunun gösterdiği önel bu sürenin bitiminden sonra işlemeye başlar. Ancak hizmet akdi esasen belirli bir süreyi içine alıyor da bu süre yukarda yazılı önel içinde kendiliğinden bitiyorsa bu madde hükümleri uygulanmaz.
+Herhangi bir askeri ve kanuni ödev dolayısiyle işinden ayrılan işçilerden bu ödevin sona ermesinden başlıyarak iki ay içinde işe girmek için başvuranları, işverenler boş yerlere öncelikle işe alma zorundadırlar.

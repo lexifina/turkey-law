@@ -1,0 +1,3 @@
+Tüzük:
+Madde 86 – (25/8/1971 tarihli ve 1475 sayılı Kanunun hükmüdür.)
+İş ve İşçi Bulma Kurumunca belirtilecek lüzum ve ihtiyaca göre, işverenlerin işçi isteklerini ve bazı özel vasıfları bulunan işçilerin her halde İş ve İşçi Bulma Kurumuna bildirmeleri ve genel olarak veya bazı özel vasıfları bulunan bir kısım işçilerin herhangi bir işe alınmazdan önce mutlaka İş ve İşçi Bulma Kurumuna baş vurarak kendilerini kaydettirmeleri ve "işçi karneleri" almaları usulleriyle tarımda aracılığın işçi ve işveren teşekküllerinin yahut derneklerin yaptıkları iş ve işçi bulma işlerinde, İş ve İşçi Bulma Kurumuna muntazam surette rapor vermeleri zorunluğu çıkarılacak tüzüklerde gösterilir.

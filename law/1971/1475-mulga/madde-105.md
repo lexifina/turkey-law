@@ -1,0 +1,4 @@
+Madde 105 – (25/8/1971 tarih ve 1475 sayılı Kanunun hükmüdür.)
+Bu kanunun 85 inci maddesinin 2 nci fıkrasında yazılı şartlarla izin almadan, aynı maddenin 1 inci fıkrası hükmüne aykırı olarak kazanç amaciyle özel büro açan, veya 1 inci ve 2 nci fıkrası hükümlerine riayet etmekle beraber, aynı maddenin son fıkrası hükmüne aykırı olarak işçilerden ücret alan, özel ve tüzel kişilerin bu işle ilgili büroları kapatıldığı gibi bu işlerde fiilen çalışanlar hakkında genel hükümlere göre verilecek eyleme uygun cezalardan başka, 2 000 liradan az olmamak üzere ağır para cezası ve üç aydan az olmamak üzere hapis cezası hükmolunur.
+Bu kanunun 85 inci maddesinin 1 inci fıkrası hükmüne aykırı olarak dış ülkelere işçi gönderme amaciyle çalışmaları tespit edilenler hakkında 10 000 liradan az olmamak üzere ağır para cezası ve üç yıldan az olmamak üzere hapis cezası hükmolunur.
+Tekerrürü halinde verilen cezalar iki katına kadar artırılır.

@@ -1,0 +1,6 @@
+İş hayatının denetim ve teftişine ilişkin cezalar:
+Madde 106 – (3/11/1988 tarihli ve 3493 sayılı Kanunun hükmüdür.)
+Bu Kanunun 89 uncu maddesinin ikinci fıkrasında sayılan yükümlülükleri yerine getirmeyen ve aynı maddenin birinci fıkrasındaki yetkili makam ve iş müfettişlerine karşı gereken kolaylığı göstermeyen işveren veya işveren vekillerine, 93 üncü maddede öngörülen tüzük hükümlerine ve aynı maddenin ikinci fıkrasındaki bildiri şartına uymayan işveren veya işveren vekillerine 94 üncü maddenin birinci fıkrasındaki yasaklara uymayan işveren veya işveren vekilleriyle 94 üncü maddenin ikinci fıkrasındaki yasaklara uymayan işçilere ikiyüzbin lira para cezası verilir.
+1126-36
+Yukarıda sözü geçen yetkili makam ve işmüfettişlerinin bu Kanundan veya diğer kanunlardan doğan her çeşit teftiş, denetleme yetki ve görevleri gereğince, görevlerinin yerine getirilmesi sırasında istedikleri bilgileri vermeyen veya görevlerini yapma veya sonuçlandırmaya engel olan kimselere eylem başka bir suçu oluştursa dahi ayrıca birmilyon lira para cezası verilir.
+Bu cezanın kesinleşmesinden sonra yukarıdaki fıkralarda yazılı olan suçların tekrar işlenmesi halinde belirtilen cezalar yarısı oranında artırılarak uygulanır.

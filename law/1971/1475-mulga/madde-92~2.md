@@ -1,0 +1,5 @@
+Sair merciler tarafından yapılan teftişler:
+Madde 92 – (29/7/1983 tarihli ve 2869 sayılı Kanunun hükmüdür.)
+İşyerinin kurulup açılmasına izin vermeye yetkili belediyelerle diğer ilgili makamlar işyerinin kurulmasına ve işletilmesine izin vermeden önce, Çalışma Bakanlığınca iş mevzuatına göre verilmesi gerekli kurma izni ve işletme belgesinin mevcudiyetini kontrol ederler. Çalışma Bakanlığınca kurma izni ve işletme belgesi verilmemiş işyerlerine belediyeler veya diğer ilgili makamlarca da kurma veya açılma izni verilemez.
+Kamu kurum ve kuruluşlarının işyerlerinde yapacakları işçi sağlığı ve işgüvenliği ile ilgili teftiş ve denetlemelerin sonuçlarını ve bu yolda yapacakları işlemleri o yer için yetkili bölge çalışma müdürlüğüne bildirirler.
+İşyerinin kurulup açılmasına izin vermeye yetkili belediyelerle diğer ilgili makamlar her ay bu hususta izin verdikleri, işveren ve işyerinin isim ve adresini ve yapılan işin çeşidini gösterir listeleri bir sonraki ayın 15'ine kadar o yerin bağlı bulunduğu bölge çalışma müdürlüğüne bildirirler.
