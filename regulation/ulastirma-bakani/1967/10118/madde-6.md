@@ -1,0 +1,2 @@
+Madde 6 - Tescil edilen sivil hava vasıtasına Ulaştırma Bakanlığınca T. C. ile başlamak üzere beş harften müteşekkil bir tescil işareti verilir. Bu tescil işareti Milletlerarası Sivil Havacılık Sözleşmesi Ek-7 de belirtildiği şekilde uçağın gövde ve kanatlarına konur.
+Tescil işareti konduktan sonra sivil hava. vasıtasının cepheden ve yandan çekilmiş 6x9 cm. ebadında ikişer fotoğrafı Ulaştırma Bakanlığına gönderilir.

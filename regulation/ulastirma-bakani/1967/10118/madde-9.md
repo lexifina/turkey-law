@@ -1,0 +1,1 @@
+Madde 9- Tescil sertifikası hava vasıtasının satışı ile başkasına devredilmez. Satış muamelesinin hava vasıtasının yeni sahibi tarafından 20 gün içinde Ulaştırma Bakanlığına bildirilip yeni tescil sertifikasının alınması mecburidir.
