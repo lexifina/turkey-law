@@ -1,0 +1,1 @@
+Madde 4 – Bu Yönetmeliğin 2 nci maddesinde yer alan parasal miktarlar, her yıl Vergi Usul Kanunu hükümlerine göre o yıl için tespit edilmiş olan Yeniden Değerleme Oranı ile çarpılmak suretiyle yeniden tespit olunur ve müteakip yılda bu miktarlar uygulanır.
