@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5928",
+  "year": 1952,
+  "title": "Noter Kanununun Bazı Maddelerinin Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-05-16",
+  "gazette_issue": "8111",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8111.pdf",
+  "source_sha256": "e760191194b8d4050ce7b48fbb02d44e1b64a7dc31d7815f369d35d93d9739ce",
+  "text_sha256": "e0f5874b88d01c6f8af5de366b519d38aa842da5e4bf749f97b488481b319eca",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      12,
+      336
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405928.pdf",
+    "source_sha256": "a83017509c6c39d90edc3edafef9b113bd3967e5065d0a42164af46f9ae32e73",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9859,
+    "bag": 0.9493,
+    "kd_coverage": 0.9987,
+    "kd_body_compared": 0.9974,
+    "rg_words": 2327,
+    "kd_words": 2350,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
