@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6201",
+  "year": 1953,
+  "title": "Sermayesinin Tamamı Devlet Tarafından Verilmek Suretiyle Kurulan İktisadi Devlet Teşekküllerinin Teşkilâtiyle İdare ve Murakabeleri hakkındaki Kanunun 5 nci Maddesinin Tadiline dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-12-29",
+  "gazette_issue": "8595",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8595.pdf",
+  "source_sha256": "523de90bc3d359a0651bc4dcec302084665f8071b78ede4414c0977ea69511d3",
+  "text_sha256": "5e859978366fb1c9fb457584f44378f8a916a9fdc5a524f6521a9797b9fcc36c",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      15,
+      53
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606201.pdf",
+    "source_sha256": "d1d5571581c2db2452d656816e08a558e746f7af6a5d6ef0d512e6e2139158a9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9613,
+    "bag": 0.8066,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9781,
+    "rg_words": 183,
+    "kd_words": 183,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
