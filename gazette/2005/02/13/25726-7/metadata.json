@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-13",
+  "issue": "25726",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "2005 Yılı Ocak Ayına Ait Vergi, Resim ve Harç İstisnası Belgeleri (Y) Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050213-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050213.htm",
+  "index_sha256": "e1edfff2d690b3082daf9544661a535df1a28c6d692d6918ecb9ff000480b47d",
+  "index_header": "13 Şubat 2005 ... Sayı : 25726",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
