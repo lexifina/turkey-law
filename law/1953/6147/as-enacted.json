@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6147",
+  "year": 1953,
+  "title": "İstanbul ve İzmir'de Birer Cezaevi Yaptırılması için Gelecek Yıllara Geçici Taahhütlere Girişilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-17",
+  "gazette_issue": "8460",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8460.pdf",
+  "source_sha256": "aed080799b61262f14ab6b4c8a554f1f2984fb3b2341382225dcf714687dba94",
+  "text_sha256": "700932c3a88e56ce265d654c356b9dadddd6a26dc948dc2cf0f71573e8adf5e5",
+  "text_status": "ocr",
+  "pages": [
+    7
+  ],
+  "line_span": [
+    [
+      1341,
+      1361
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506147.pdf",
+    "source_sha256": "17272ed52b139366459e9a93104daf1ee96b9338aeaffb03448f2dc46970f608",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9602,
+    "bag": 0.8641,
+    "kd_coverage": 0.9541,
+    "kd_body_compared": 0.9286,
+    "rg_words": 102,
+    "kd_words": 112,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
