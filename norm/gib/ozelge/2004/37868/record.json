@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4401-258/704",
+  "source_id": 37868,
+  "date": "2004-01-07",
+  "title": "Hamamlarda masör ve yıkayıcı olarak çalışanların vergi dairelerinde yapmaları  gereken...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37868",
+  "source_sha256": "246c9c09e05b87ce3ae2a5e890cbf60c85c26865d6c622b0aa950c3f56037a3b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
