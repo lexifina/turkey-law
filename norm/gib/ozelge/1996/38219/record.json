@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60.6000-2095/59786",
+  "source_id": 38219,
+  "date": "1996-12-16",
+  "title": "V.İ.V.  Kanununun 17. Maddesine göre, mükelleflere tasdikname verilebilmesi için aranacak şartlar hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/38219",
+  "source_sha256": "b9dd897f1c1c3bfc5d4e4c9ede88fae723ee442971748ae27640d0d0ce0eb3e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
