@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6161",
+  "year": 1953,
+  "title": "Türkiye Cumhuriyeti ile Yunanistan Hükümeti Arasında Münakit İkamet, Ticaret ve Seyrisefain Mukavelenamesine Merbut Türkiye Gümrük Taviz Listesinin Yürürlükten Kaldırılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-21",
+  "gazette_issue": "8463",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8463.pdf",
+  "source_sha256": "1e7514d7f52ca4c0749241e7f1afd98cfaddba4c77d17b616ca214bdcc46e5a2",
+  "text_sha256": "7ecc4cf078362f4a8477222072b31292295a2564c38e9b754500bf9825638ccd",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      2301,
+      2314
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [9] (no text layer)",
+    "tesseract_pages": [
+      9
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506161.pdf",
+    "source_sha256": "8d473fbdb263ca5caea3d998c0916913de29f6ba7653aac5e23653c953175c51",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9898,
+    "bag": 0.9804,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9744,
+    "rg_words": 77,
+    "kd_words": 78,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
