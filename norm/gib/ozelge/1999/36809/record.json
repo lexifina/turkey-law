@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-563/740",
+  "source_id": 36809,
+  "date": "1999-01-08",
+  "title": "Şirket faaliyetinin sigorta sözleşmelerine aracılık etmesi ile sınırlı olması ve prim tahsil yetkisinin olmaması durumunda şirketin banka ve sigorta muameleleri vergisi mükellefi sayılıp sayılmayacağı hakında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36809",
+  "source_sha256": "310fe9532c6bc481b59566762ef10fa7d843a9249eb45c3a8675f366bfb1f481",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
