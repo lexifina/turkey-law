@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1503",
+  "year": 1929,
+  "title": "Kibrit ve Çakmak İnhisarı Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-10",
+  "gazette_issue": "1212",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1212.pdf",
+  "source_sha256": "34f323c821349066534e8ba5dfb3a76fb716cf631cd36bfba409b8414cab08a9",
+  "text_sha256": "64bcc559ec3678d19d762f434bf2029ae388503f40e78708738ce0b31ab2dc53",
+  "text_status": "ocr",
+  "pages": [
+    11,
+    12
+  ],
+  "line_span": [
+    [
+      860,
+      1051
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701503.pdf",
+    "source_sha256": "ea8e18d77fd426be64a774bd8af23e141db3a1e68ea7a27238e9d3f7b985f545",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.951,
+    "bag": 0.8887,
+    "kd_coverage": 0.9932,
+    "kd_body_compared": 0.9932,
+    "rg_words": 607,
+    "kd_words": 592,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
