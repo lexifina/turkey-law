@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4213-1757/2201",
+  "source_id": 23479,
+  "date": "2004-01-16",
+  "title": "Ücret gelirinin elde edildiği tarihle ilişkilendirilmeksizin, ücret gelirinin elde edildiği takvim yılı içinde yapılan ve özel gider indirimi kapsamına giren harcamalar karşılığı alınan belgeler, yukarıda belirtilen sınırlamalar dahilinde özel gider indir",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23479",
+  "source_sha256": "3fd45dcfebc0e68589af166600df170af42db11505ece36a0f015a3a851b60d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
