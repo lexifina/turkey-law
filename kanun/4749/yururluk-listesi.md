@@ -3,3 +3,4 @@ MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜ
 GÖSTERİR LİSTE
 Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4749 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 4969 | 9, 14, 17, GEÇİCİ MADDE 6, 7 | 22/7/2003 tarihinden geçerli olmak üzere 12/8/2003
+5018 | 14 | 1/1/2005
