@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5029-98/27681",
+  "source_id": 24692,
+  "date": "1997-07-03",
+  "title": "Mükelleflerce kanuni süresi geçtikten sonra verilen beyannamelerde pişmanlık zammının, sadece ödeme süresi geçmiş olan taksitlere uygulanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24692",
+  "source_sha256": "20fc3041c9fd2df75353cdf5798cfec294bc84b6da51b4e437f1bbaeca9e75ca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
