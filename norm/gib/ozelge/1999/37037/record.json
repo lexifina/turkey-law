@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6654-345/18219",
+  "source_id": 37037,
+  "date": "1999-05-10",
+  "title": "Yeniden inşa edilen bina veya binaların vergisinin, arsasının vergisinden az olmamasını sağlamak için yapılacak karşılaştırma sadece arsa üzerine yeni inşa edilmesi halinde değişiklik nedeniyle emlak (bina) vergisi beyannamesi verilmesi gereken hallerde y",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37037",
+  "source_sha256": "b1eead9171effc3527cc7a80b9b70e92264280245fc2f4afedc964e3b0a72706",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
