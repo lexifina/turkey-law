@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-54/41585",
+  "source_id": 38273,
+  "date": "1999-10-01",
+  "title": "Maliye Bakanlığınca onaylanmış olması şartıyla \"ON-LİNE \" çalışan bilgisayar bağlantılı Ö.K.C. kullanılmasının mümkün bulunduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38273",
+  "source_sha256": "dc197ffe76fcc5cec33ca7aa8fab83d0b437b686bfab9c0d0ee838851c8b4a8b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
