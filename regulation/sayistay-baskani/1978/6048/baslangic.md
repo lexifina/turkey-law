@@ -1,0 +1,2 @@
+SAYIŞTAY BİLGİ İŞLEM MERKEZİ ÖRGÜT VE GÖREV YÖNETMELİĞİ
+Kapsam :

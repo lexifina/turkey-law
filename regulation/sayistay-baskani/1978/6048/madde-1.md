@@ -1,0 +1,1 @@
+Madde 1-Sayıştay'ın görevlerinin yerine getirilmesinde bilgisayar desteğinden yararlanmak üzere kurulan Sayıştay Bilgi İşlem Merkezinin örgüt, yönetim ve faaliyetleri bu yönetmelik hükümlerine tabidir.
