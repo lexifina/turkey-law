@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5192",
+  "year": 2004,
+  "title": "Orman Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-07-03",
+  "gazette_issue": "25511",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/07/20040703.htm",
+  "source_sha256": "f76fb57121a83d50dcca0064604a0adc1b198c24bc0ac4d8b8d1fe2893c69864",
+  "text_sha256": "3a06f8fffcb6b6180bc5118667b5dbbfc2adfd19fb656c5e703f4919b0b468d2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/07/03/25511-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/07/20040703.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
