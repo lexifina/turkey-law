@@ -2,7 +2,7 @@ GEÇİCİ MADDE 1 - A) Bu Kanun ile yürürlükten kaldırılan fonların gelirl
 a) Bu konularda yeni bir düzenleme yapılıncaya kadar;
 1. 28.5.1986 tarihli ve 3291 sayılı Kanunun 17 nci maddesi uyarınca yabancı tütün ve sigaralardan ithalat sırasında mülga Tütün Fonu adına alman paralar,
 2. 9.8.1983 tarihli ve 2872 sayılı Çevre Kanununun 18 inci maddesi birinci fıkrasının (a) bendi uyarınca motorlu taşıma araçlarının fenni muayene ücretlerinin beşte biri oranında mülga Çevre Kirliliğini Önleme Fonu adına ayrıca tahsil edilen paralar,
-3. 9.8.1983 tarihli ve 2872 sayılı Çevre Kanununun 18 inci maddesi birinci fıkrasının (a) bendi uyarınca motorlu taşıt alım vergisi tutarının dörtte biri oranında mülga Çevre Kirliliğini Önleme Fonu adına ayrıca tahsil edilen paralar,
+3. (Mülga: 6/6/2002-4760/18 md.) (…)
 4. 12.3.1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanununun 22 nci maddesi uyarınca, turizm işletmelerine verilecek para cezaları ile hizmete katılma payı olarak mülga Turizmi Geliştirme Fonu adına tahsil edilen paralar,
 5. 4.6.1985 tarihli ve 3213 sayılı Maden Kanununun 34 üncü maddesi uyarınca maden ithalat ve ihracatı üzerinden mülga Madencilik Fonu adına tahsil edilmekte olan fon kesintileri,
 Bu Kanunla yürürlükten kaldırılan hükümler çerçevesinde tahsil edilmeye devam edilir ve doğrudan bütçeye gelir yazılır.
