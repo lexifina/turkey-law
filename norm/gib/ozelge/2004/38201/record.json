@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6377-121",
+  "source_id": 38201,
+  "date": "2004-05-12",
+  "title": "Alan olarak büyük miktarlarda olan ve işletmecilik faaliyetlerinde kullanılacak gayrimenkuller belirlendikten sonra ihtiyaç fazlası olanların ifraz edilerek satış yoluyla değerlendirilmesinde, ifraz harcının gayrimenkulün tamamının kayıtlı değeri üzerinde",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38201",
+  "source_sha256": "47766df4a350a44666fa9076ce46948c78455a16965c119a475709dd50f4cecf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
