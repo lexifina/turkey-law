@@ -1,0 +1,1 @@
+Madde 2 – Türkiye Cumhuriyeti Emekli Sandığına iştirakçi veya tevdiatçı olarak dahil bulunan PTT memur ve hizmetlileri Sandığa girmek mecburiyetinde olup PTT hizmetinden ayrılanların hiçbir hak talebinde bulunmamak üzere Sandıkla alakaları kesilir.

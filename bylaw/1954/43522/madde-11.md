@@ -1,0 +1,4 @@
+Madde 11 – Memur ve hizmetlilerle ailelerine yapılacak sağlık yardımlarının şart ve esasları aşağıda gösterilmiştir.
+I – Sandık yardımından Türkiye Cumhuriyeti Emekli Sandığına iştirakçi veya tevdiatçı olarak dahil bulunup aylık ve ücretlerinden Sağlık Yardım Sandığı aidatı kesilen memur ve hizmetlilerle bunların kanunen geçindirmekle mükellef bulundukları aile fertleri faydalanır.
+II – Sandığın yapacağı sağlık yardımı, memur vehizmetlilerin kendilerinin ve aile fertlerinin hastalıklarında hastanelerde tedavisine Sandık hekimleri olan yerlerde bunlar, olmayan yerlerde Hükümet veya belediye hekimleri, bunların da bulunmadığı yerlerde herhangi bir hekim tarafından raporla lüzum gösterilmesi üzerine hastanalerde tedavileri için yapılması gereken masraflarla muayene ücreti, evlerinde tedavi olanların hekim ve ilaç paralarından ibarettir.
+Sandıkça yapılacak tedavi masrafları, resmi hastanelerce uygulanan tarifeler üzerinden verilir.

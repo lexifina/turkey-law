@@ -1,0 +1,1 @@
+Madde 12 – Memur vehizmetlilerle bunların ailelerine yapılacak sağlık yardımlarının tarz ve şekilleriyle, İdare Kurulu memur azasının nasıl seçilecekleri ve Sandık memurlarının vazifemükellefiyetleri, tayin, terfi ve tecziyeleri ve Sandık mensuplarının tedavi ve her türlü sağlık yardımlariyle ilgili sair hususlar bir talimatname ile tesbit olunur.
