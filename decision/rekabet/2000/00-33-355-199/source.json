@@ -1,0 +1,13 @@
+{
+  "number": "00-33/355-199",
+  "type": "Rekabet İhlali",
+  "decision_date": "2000-09-05",
+  "publication_date": "2002-08-01",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=568a7d35-8e15-400d-9423-088dd2db4dcc",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1020",
+  "pdf_sha256": "d1db052ea91d464ad18e1c6e013ea80791de2443ffe2fdf34f32ca1e48326bdd",
+  "pdf_bytes": "345237",
+  "pages": "13",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
