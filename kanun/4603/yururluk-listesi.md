@@ -6,3 +6,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 4743 | Geçici Madde 3 Geçici Madde 1, 6 ve İşlenemeyen Hükümler | 3/7/2001 tarihinden geçerli olmak üzere 31/1/2002 31/1/2002
 4971 | Geçici Madde 6 | 15/8/2003
 5230 | 1, 2, 3, Geçici Madde 3, 6, 8 | 31/7/2004
+5234 | Geçici 3 üncü maddesinin ikinci fıkrası, Geçici Madde 7 Geçici 3 üncü maddesinin üçüncü fıkrasının son cümlesi | 1/1/2005 21/9/2004
