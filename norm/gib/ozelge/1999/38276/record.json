@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6527-143/036270",
+  "source_id": 38276,
+  "date": "1999-08-27",
+  "title": "Oto komisyoncuları (motorlu kara taşıtlarının alım, satım ve kiralanması) işleriyle ilgili fatura veya perakende satış fişi düzenlenmesi şartıyla, Ö.K.C. Kullanma mecburiyeti yoktur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38276",
+  "source_sha256": "4b5a7ddd3f4a35f2d6a11e4de107f014403f4c5b03c247cbf9699f0e295f9d83",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
