@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 19,
+  "term_label": "19. Dönem",
+  "legislative_year": 3,
+  "cilt": 63,
+  "sitting": 122,
+  "label": "122. Birleşim",
+  "sitting_date": "1994-06-23",
+  "date_as_published": "23 Haziran 1994",
+  "weekday": "Perşembe",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c063/tbmm19063122.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c063/tbmm19063122gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c063/tbmm19063fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d19&v_yasama_yili=3&v_cilt=",
+  "source_sha256": "812d82da67fe0d1955cfc1c7f4ecf60e17bd6ee7fd83ad312475c900d9ddeb2e",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
