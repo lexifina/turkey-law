@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 260565,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Hazine ve Dış Ticaret Müsteşarlığı Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına İlişkin 436 Sayılı Kanun Hükmünde Kararname, 16.4.1986 Tarih ve 3274 Sayılı Hazine ve Dış Ticaret Müsteşarlığı Teşkilat ve Görevleri Hakkında Kanuna Bir Geçici Madde Eklenmesi Hakkında 256 Sayılı Kanun Hükmünde Kararname ile Sigorta Şirketleri Hizmetlerinin Başbakanlığa Devri Hakkında 303 Sayılı Kanun Hükmünde Kararnameye ilişkin",
+  "title": "Hazine ve Dış Ticaret Müsteşarlığı Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına İlişkin 436 Sayılı Kanun Hükmünde Kararname, 16.4.1986 Tarih ve 3274 Sayılı Hazine ve Dış Ticaret Müsteşarlığı Teşkilat ve Görevleri Hakkında Kanuna Bir Geçici Madde Eklenmesi Hakkında 256 Sayılı Kanun Hükmünde Kararname ile Sigorta Şirketleri Hizmetlerinin Başbakanlığa Devri Hakkında 303 Sayılı Kanun Hükmünde Kararnameye ilişkin",
+  "first_sitting_date": "1992-09-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 17,
+      "sitting": 4,
+      "sitting_date": "1992-09-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c017/tbmm19017004.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c017/tbmm19017fih.pdf",
+      "pages": [
+        "177:214"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 7,
+      "sitting_date": "1992-09-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c018/tbmm19018007.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c018/tbmm19018fih.pdf",
+      "pages": [
+        "13:29"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 10,
+      "sitting_date": "1992-10-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c018/tbmm19018010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c018/tbmm19018fih.pdf",
+      "pages": [
+        "210:213"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 16,
+      "sitting_date": "1992-10-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c019/tbmm19019016.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c019/tbmm19019fih.pdf",
+      "pages": [
+        "218:231"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 23,
+      "sitting_date": "1992-11-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c020/tbmm19020023.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c020/tbmm19020fih.pdf",
+      "pages": [
+        "161:165"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=688&v_gelecek_sayfa=101&v_kullanici_id=27484415",
+  "source_sha256": "4736ea153edcf75390bd37fa06b86859c3a17b753e616f0f2a5ce39eac380298",
+  "in_force": "1992-09-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
