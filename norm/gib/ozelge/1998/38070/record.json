@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5278-121/50342",
+  "source_id": 38070,
+  "date": "1998-12-29",
+  "title": "İhracatçı tarafından düzenlenen gümrük beyannamesinde imalatçı firmanın adının yazılı olmaması halinde, tecil-terkin ve iade işleminin yapılması mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38070",
+  "source_sha256": "9dfce50180f7473cf7c96e52009da2609b9566836e57187b3a3692ae10c47bd2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
