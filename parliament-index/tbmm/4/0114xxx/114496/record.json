@@ -1,0 +1,70 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 114496,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Adliye Vekâleti 1933 senesi bütçesinde 53 000 liralık münakale yapılması hakkında 1/817, Başvekâlet ve Düyunu Umumiye 1933 senesi bütçelerinde 2 500 liralık münakale yapılması hakkında 1/819, Diyanet işleri riyaseti 1933 senesi bütçesinde 500 liralık münakale yapılması hakkında 1/820,ve Dahiliye Vekâleti 1933 senesi bütçesinde 30 000 liralık münakale yapılması hakkında , 1/823 numaralı kanun lâyihaları ile İdare Heyetinin, Büyük Mîllet Meclisi 1933 senesi bütçesine 700 liralık tahsisat konulmasına dair 2/90, Büyük Millet Meclisi ve Riyaseti Cumhur 1933 senesi bütçelerinde 2 709 liralık münakale yapılması hakkında 2/91, Büyük Millet Meclisi 1933 senesi bütçesinde 8 000 liralık tahsisat konulmasına dair 2/92 ve Büyük Millet Meclisi 1933 senesi bütçesine 4 200 liralık tahsisat konulmasına dair 2/93 numaralı kanun teklifleri hakkında",
+  "title": "Adliye Vekâleti 1933 senesi bütçesinde 53 000 liralık münakale yapılması hakkında 1/817, Başvekâlet ve Düyunu Umumiye 1933 senesi bütçelerinde 2 500 liralık münakale yapılması hakkında 1/819, Diyanet işleri riyaseti 1933 senesi bütçesinde 500 liralık münakale yapılması hakkında 1/820,ve Dahiliye Vekâleti 1933 senesi bütçesinde 30 000 liralık münakale yapılması hakkında , 1/823 numaralı kanun lâyihaları ile İdare Heyetinin, Büyük Mîllet Meclisi 1933 senesi bütçesine 700 liralık tahsisat konulmasına dair 2/90, Büyük Millet Meclisi ve Riyaseti Cumhur 1933 senesi bütçelerinde 2 709 liralık münakale yapılması hakkında 2/91, Büyük Millet Meclisi 1933 senesi bütçesinde 8 000 liralık tahsisat konulmasına dair 2/92 ve Büyük Millet Meclisi 1933 senesi bütçesine 4 200 liralık tahsisat konulmasına dair 2/93 numaralı kanun teklifleri hakkında",
+  "first_sitting_date": "1933-12-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 19,
+      "sitting": 16,
+      "sitting_date": "1933-12-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019016.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019fih.pdf",
+      "pages": [
+        "84"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 17,
+      "sitting_date": "1933-12-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019fih.pdf",
+      "pages": [
+        "97:98",
+        "102",
+        "113"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 18,
+      "sitting_date": "1933-12-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019fih.pdf",
+      "pages": [
+        "125"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 19,
+      "sitting_date": "1933-12-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019fih.pdf",
+      "pages": [
+        "151:161"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=1101&v_kullanici_id=27483870",
+  "source_sha256": "bbbb3325ae3edbdcee12e4b8a89d269ab6164ab3cdabe66bdfc7f8deeaba89a5",
+  "in_force": "1933-12-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
