@@ -1,0 +1,11 @@
+Yerine getirme zamanaşımı
+MADDE 21- (1) Yerine getirme zamanaşımının dolması halinde idarî para cezasına veya mülkiyetin kamuya geçirilmesine ilişkin karar artık yerine getirilemez.
+(2) Yerine getirme zamanaşımı süresi;
+a) Ellibin Türk Lirası veya daha fazla idarî para cezasına karar verilmesi halinde yedi,
+b) Yirmibin Türk Lirası veya daha fazla idarî para cezasına karar verilmesi halinde beş,
+c) Onbin Türk Lirası veya daha fazla idarî para cezasına karar verilmesi halinde dört,
+d) Onbin Türk Lirasından az idarî para cezasına karar verilmesi halinde üç,
+Yıldır.
+(3) Mülkiyetin kamuya geçirilmesine ilişkin zamanaşımı süresi on yıldır.
+(4) Zamanaşımı süresi, kararın kesinleşmesi tarihinden itibaren işlemeye başlar.
+(5) Kanun hükmü gereği olarak idarî yaptırımın yerine getirilmesine başlanamaması veya yerine getirilememesi halinde zamanaşımı işlemez.
