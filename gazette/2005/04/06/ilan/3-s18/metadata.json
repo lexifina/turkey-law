@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-06",
+  "issue": "25778",
+  "edition": "regular",
+  "item": 18,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Maliye Bakanlığı TASİŞ Genel Müdürlüğü Diyarbakır İşletme Bölge Müdürlüğü Van İşletme Şube Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/04/20050406-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (20 = 20)",
+  "ilan_codes": [
+    "3624/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/04/20050406-3.htm",
+  "category_page_sha256": "679ecf622ff4841e157c1afe5ce817e2362c62a9b3563ef468343aea5c16158b",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/04/20050406.htm",
+  "index_sha256": "65d629cf21b348f21b49f7bb9f0cb42e4be0906ae2d1e55b21e6616159d92d48",
+  "index_header": "6 Nisan 2005 ... Sayı : 25778",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
