@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 20,
+  "legislative_year": 2,
+  "sitting": 74,
+  "sitting_date": "1997-03-27",
+  "listed_date": "27 Mart 1997 Perşembe",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/20/2/74/155ca3e4-b3f3-409a-aa7e-58f51b1c66f4.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=14436169-891b-49ad-b02a-0185ceac849a",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=20&YasamaYili=2",
+  "source_sha256": "cd1f081039537dcaaf864f842ea170f9eac501355465c17ce172da7203cdf221",
+  "source_bytes": 148390,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
