@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 251381,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "AHMET EKİCİ (KÜTAHYA)",
+  "summary": "Ve 3 Arkadaşının, 3213 Sayılı Maden Kanununun 2. Maddesinin Değiştirilmesi, Geçici 4. Maddenin Yürürlükten Kaldırılması ve Bu Kanuna Bir Geçici Madde Eklenmesi Hakkında (2/446)",
+  "title": "Ve 3 Arkadaşının, 3213 Sayılı Maden Kanununun 2. Maddesinin Değiştirilmesi, Geçici 4. Maddenin Yürürlükten Kaldırılması ve Bu Kanuna Bir Geçici Madde Eklenmesi Hakkında (2/446)",
+  "first_sitting_date": "1987-05-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 41,
+      "sitting": 110,
+      "sitting_date": "1987-05-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041110.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041fih.pdf",
+      "pages": [
+        "251"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 114,
+      "sitting_date": "1987-06-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c042/tbmm17042114.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c042/tbmm17042fih.pdf",
+      "pages": [
+        "95"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 115,
+      "sitting_date": "1987-06-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c042/tbmm17042115.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c042/tbmm17042fih.pdf",
+      "pages": [
+        "153:164"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=189&v_gelecek_sayfa=101&v_kullanici_id=27484352",
+  "source_sha256": "a8c01009c7d5d4f4d7484d8c8ff4c15536e2b74d4a9eae60402443ae2a58ce90",
+  "in_force": "1987-05-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
