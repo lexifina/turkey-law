@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 455080,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "1979 Yılı Orman Genel Müdürlüğü Bütçe Kanunu Tasarısı. (1/238)",
+  "title": "1979 Yılı Orman Genel Müdürlüğü Bütçe Kanunu Tasarısı. (1/238)",
+  "first_sitting_date": "1978-12-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 17,
+      "sitting_date": "1978-12-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c008/mm__05008017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c008/mm__05008fih.pdf",
+      "pages": [
+        "4"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 46,
+      "sitting_date": "1979-02-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c009/mm__05009046.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c009/mm__05009fih.pdf",
+      "pages": [
+        "321:458",
+        "737"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 53,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c011/mm__05011053.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c011/mm__05011fih.pdf",
+      "pages": [
+        "639:642"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=201&v_kullanici_id=27484850",
+  "source_sha256": "904dd401fe5a6dbbb9589e3c660749b158334109cad93dcbc54f1fe252f736f6",
+  "in_force": "1978-12-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
