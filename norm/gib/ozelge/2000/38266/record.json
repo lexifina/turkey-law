@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6521-22/18497",
+  "source_id": 38266,
+  "date": "2000-04-21",
+  "title": "Perakende ticaretle uğraşan veya hizmet ifa eden birinci ve ikinci sınıf tacirle perakende satış fişleri ile belgelendirilebilecek satışlarında ödeme kaydedici cihaz kullanmak zorundadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38266",
+  "source_sha256": "d23a67f3c148f343b2fbb166737dbf96a2ee4bd1d9c9a09e708831d33cf39ce4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
