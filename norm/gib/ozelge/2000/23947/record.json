@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.43/4305-517/14441",
+  "source_id": 23947,
+  "date": "2000-04-03",
+  "title": "Üniversite Mütevelli Heyeti Başkanına ait gayrimenkulün kiralanacağı ve Ticaret Odasınca tespit edilen kira bedeli üzerinden tevkifat yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23947",
+  "source_sha256": "08c3d4be589faf50f05c5c558901780f305ff2e93b161d936a51b83d71bbc7e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
