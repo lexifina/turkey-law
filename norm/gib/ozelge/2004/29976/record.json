@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5516-293 / 10477",
+  "source_id": 29976,
+  "date": "2004-03-15",
+  "title": "Gümrük antrepolarında verilen hizmetler katma değer vergisine tabi bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29976",
+  "source_sha256": "b5a524a984059312d6019e04fb95bb1f5e31e19396912360436c4fe02be86e67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
