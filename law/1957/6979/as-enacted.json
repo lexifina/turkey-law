@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6979",
+  "year": 1957,
+  "title": "bazı silâh, malzeme ve mühimmatın Libya Devletine hibe edilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-01",
+  "gazette_issue": "9622",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9622.pdf",
+  "source_sha256": "4df774de1bd1037d4dd30c70290f71ad33c24d423fedb7cc27a6261d2cff0b11",
+  "text_sha256": "c635b0562a8476fc83e63274e49694de506255885c45ddc783966692fe392df0",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      234,
+      250
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906979.pdf",
+    "source_sha256": "37a68d0f00b6e2828a5bc711cdf120975b2f1a1924004020b8bb36dda10e84d9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9642,
+    "bag": 0.9333,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9853,
+    "rg_words": 136,
+    "kd_words": 136,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
