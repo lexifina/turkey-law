@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "51",
+  "decision_date": "2002-08-22",
+  "title": "Elektrik piyasası lisans bedelleri",
+  "resmi_gazete_date": "2002-08-29",
+  "resmi_gazete_number": "24861",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RmQThvME2E4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RmQThvME2E4="
+  ],
+  "source_sha256": "43217278afdbb26f393cea6d69c353f999605db1f2a81ae9066c4be0f82016e6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2002-08-22",
+  "law_text_complete": false
+}
