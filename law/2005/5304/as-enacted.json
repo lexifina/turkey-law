@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5304",
+  "year": 2005,
+  "title": "Kadastro Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-03-03",
+  "gazette_issue": "25744",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050303-1.htm",
+  "source_sha256": "da50f390ee079348e0ce5a7af8e42a4b0ae2cd304cf73ce71d7f2c753e315a73",
+  "text_sha256": "2924b14ba1ff49d1e84ffa1b8efaf671bb2cc7c32133a754ade6e8b2ced115e4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/03/03/25744-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050303-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
