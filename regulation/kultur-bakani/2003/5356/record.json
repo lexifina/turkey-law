@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.5356",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜLTÜR BAKANLIĞINCA 3984 SAYILI KANUN ÇERÇEVESİNDE ELDE EDİLEN GELİRLERİN KULLANIMINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "5356",
+  "issuer": "Kültür Bakanı",
+  "issuer_slug": "kultur-bakani",
+  "path": "regulation/kultur-bakani/2003/5356",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5356&MevzuatTertip=5",
+  "source_sha256": "ccfde609e62739f25defe6f79a8d602c202d2b9494158a0ded0505bf08480d37",
+  "source_bytes": 11840,
+  "published": "2003-02-17",
+  "gazette": "25023",
+  "in_force": "2003-02-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.02.2003); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 381,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
