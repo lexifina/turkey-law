@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1866",
+  "year": 1931,
+  "title": "Mübadele ve tevfiz işlerinin katî tasfiyesi ve intacı hakkındaki 19.3.1931 tarih ve 1771 numaralı kanuna müzeyyel kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-07-30",
+  "gazette_issue": "1860",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1860.pdf",
+  "source_sha256": "580f2f04450f295bb3128f5a713eb92a160f3c6924a539e56f9b317d864e3ea1",
+  "text_sha256": "e3ddadb98d39d860ea8e5f2d18ac88632f5ca0edb3a64b1e4966b9e0e5bfb70c",
+  "text_status": "ocr",
+  "pages": [
+    8
+  ],
+  "line_span": [
+    [
+      2255,
+      2292
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001866.pdf",
+    "source_sha256": "cd3118ec726de28e18ca978059a09a21076925be19e7134d24cc19a4e5c8cc28",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9572,
+    "bag": 0.8826,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9811,
+    "rg_words": 109,
+    "kd_words": 106,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
