@@ -1,5 +1,5 @@
 Yıllık izin bakımından çalışılmış gibi sayılan haller
-MADDE 55 - Aşağıdaki süreler yıllık ücretli izin hakkının hesabında çalışılmış gibi sayılır:
+MADDE 55. - Aşağıdaki süreler yıllık ücretli izin hakkının hesabında çalışılmış gibi sayılır:
 a) İşçinin uğradığı kaza veya tutulduğu hastalıktan ötürü işine gidemediği günler (Ancak, 25 inci maddenin (I) numaralı bendinin (b) alt bendinde öngörülen süreden fazlası sayılmaz.).
 b) Kadın işçilerin 74 üncü madde gereğince doğumdan önce ve sonra çalıştırılmadıkları günler.
 c) İşçinin muvazzaf askerlik hizmeti dışında manevra veya herhangi bir kanundan dolayı ödevlendirilmesi sırasında işine gidemediği günler (Bu sürenin yılda 90 günden fazlası sayılmaz.).

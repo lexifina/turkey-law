@@ -1,5 +1,5 @@
 Hafta tatili ücreti
-MADDE 46 - Bu Kanun kapsamına giren işyerlerinde, işçilere tatil gününden önce 63 üncü maddeye göre belirlenen iş günlerinde çalışmış olmaları koşulu ile yedi günlük bir zaman dilimi içinde kesintisiz en az yirmidört saat dinlenme (hafta tatili) verilir.
+MADDE 46. - Bu Kanun kapsamına giren işyerlerinde, işçilere tatil gününden önce 63 üncü maddeye göre belirlenen iş günlerinde çalışmış olmaları koşulu ile yedi günlük bir zaman dilimi içinde kesintisiz en az yirmidört saat dinlenme (hafta tatili) verilir.
 Çalışılmayan hafta tatili günü için işveren tarafından bir iş karşılığı olmaksızın o günün ücreti tam olarak ödenir.
 Şu kadar ki;
 a) Çalışmadığı halde kanunen çalışma süresinden sayılan zamanlar ile günlük ücret ödenen veya ödenmeyen kanundan veya sözleşmeden doğan tatil günleri,

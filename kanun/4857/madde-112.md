@@ -1,2 +1,2 @@
 Bazı kamu kurum ve kuruluşlarında çalışanların kıdem tazminatı
-MADDE 112 - Kanuna veya kanunun verdiği yetkiye dayanılarak kurulan kurum ve kuruluşların haklarında bu Kanun ve 854, 5953, 5434 sayılı kanunların hükümleri uygulanmayan personeli ile kamu kuruluşlarında sözleşmeli olarak istihdam edilenlere mevzuat veya sözleşmelerine göre kıdem tazminatı niteliğinde yapılan ödemeler kıdem tazminatı sayılır.
+MADDE 112. - Kanuna veya kanunun verdiği yetkiye dayanılarak kurulan kurum ve kuruluşların haklarında bu Kanun ve 854, 5953, 5434 sayılı kanunların hükümleri uygulanmayan personeli ile kamu kuruluşlarında sözleşmeli olarak istihdam edilenlere mevzuat veya sözleşmelerine göre kıdem tazminatı niteliğinde yapılan ödemeler kıdem tazminatı sayılır.

@@ -1,2 +1,2 @@
 İzinde çalışma yasağı
-MADDE 58 - Yıllık ücretli iznini kullanmakta olan işçinin izin süresi içinde ücret karşılığı bir işte çalıştığı anlaşılırsa, bu izin süresi içinde kendisine ödenen ücret işveren tarafından geri alınabilir.
+MADDE 58. - Yıllık ücretli iznini kullanmakta olan işçinin izin süresi içinde ücret karşılığı bir işte çalıştığı anlaşılırsa, bu izin süresi içinde kendisine ödenen ücret işveren tarafından geri alınabilir.

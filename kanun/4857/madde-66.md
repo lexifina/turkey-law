@@ -1,5 +1,5 @@
 Çalışma süresinden sayılan haller
-MADDE 66 - Aşağıdaki süreler işçinin günlük çalışma sürelerinden sayılır:
+MADDE 66. - Aşağıdaki süreler işçinin günlük çalışma sürelerinden sayılır:
 a) Madenlerde, taşocaklarında yahut her ne şekilde olursa olsun yeraltında veya su altında çalışılacak işlerde işçilerin kuyulara, dehlizlere veya asıl çalışma yerlerine inmeleri veya girmeleri ve bu yerlerden çıkmaları için gereken süreler.
 b) İşçilerin işveren tarafından işyerlerinden başka bir yerde çalıştırılmak üzere gönderilmeleri halinde yolda geçen süreler.
 c) İşçinin işinde ve her an iş görmeye hazır bir halde bulunmakla beraber çalıştırılmaksızın ve çıkacak işi bekleyerek boş geçirdiği süreler.

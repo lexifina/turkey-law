@@ -1,1 +1,1 @@
-MADDE 117 – 5.5.1983 tarihli ve 2821 sayılı Sendikalar Kanununun 30 uncu maddesinin birinci fıkrasında geçen “1475 sayılı İş Kanununun” ibaresi “İş Kanununun”, ikinci fıkrasında geçen “1475 sayılı Kanunun 13/D” ibaresi “İş Kanununun 21 inci” şeklinde değiştirilmiştir.
+MADDE 117. – 5.5.1983 tarihli ve 2821 sayılı Sendikalar Kanununun 30 uncu maddesinin birinci fıkrasında geçen “1475 sayılı İş Kanununun” ibaresi “İş Kanununun”, ikinci fıkrasında geçen “1475 sayılı Kanunun 13/D” ibaresi “İş Kanununun 21 inci” şeklinde değiştirilmiştir.

@@ -1,5 +1,5 @@
 İş hayatının denetim ve teftişi ile ilgili hükümlere aykırılık
-MADDE 107 - Bu Kanunun;
+MADDE 107. - Bu Kanunun;
 a) 92 nci maddesinin ikinci fıkrasındaki yükümlülüklerini yerine getirmeyen,
 b) 96 ncı maddesindeki yasaklara uymayan,
 İşveren veya işveren vekiline beş milyar lira para cezası verilir.

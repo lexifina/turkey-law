@@ -1,5 +1,5 @@
 İşçinin haklı nedenle derhal fesih hakkı
-MADDE 24 - Süresi belirli olsun veya olmasın işçi, aşağıda yazılı hallerde iş sözleşmesini sürenin bitiminden önce veya bildirim süresini beklemeksizin feshedebilir:
+MADDE 24. - Süresi belirli olsun veya olmasın işçi, aşağıda yazılı hallerde iş sözleşmesini sürenin bitiminden önce veya bildirim süresini beklemeksizin feshedebilir:
 I. Sağlık sebepleri:
 a) İş sözleşmesinin konusu olan işin yapılması işin niteliğinden doğan bir sebeple işçinin sağlığı veya yaşayışı için tehlikeli olursa.
 b) İşçinin sürekli olarak yakından ve doğrudan buluşup görüştüğü işveren yahut başka bir işçi bulaşıcı veya işçinin işi ile bağdaşmayan bir hastalığa tutulursa.

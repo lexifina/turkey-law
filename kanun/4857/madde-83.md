@@ -1,5 +1,5 @@
 İşçilerin hakları
-MADDE 83 - İşyerinde iş sağlığı ve güvenliği açısından işçinin sağlığını bozacak veya vücut bütünlüğünü tehlikeye sokacak yakın, acil ve hayati bir tehlike ile karşı karşıya kalan işçi, iş sağlığı ve güvenliği kuruluna başvurarak durumun tespit edilmesini ve gerekli tedbirlerin alınmasına karar verilmesini talep edebilir. Kurul aynı gün acilen toplanarak kararını verir ve durumu tutanakla tespit eder. Karar işçiye yazılı olarak bildirilir.
+MADDE 83. - İşyerinde iş sağlığı ve güvenliği açısından işçinin sağlığını bozacak veya vücut bütünlüğünü tehlikeye sokacak yakın, acil ve hayati bir tehlike ile karşı karşıya kalan işçi, iş sağlığı ve güvenliği kuruluna başvurarak durumun tespit edilmesini ve gerekli tedbirlerin alınmasına karar verilmesini talep edebilir. Kurul aynı gün acilen toplanarak kararını verir ve durumu tutanakla tespit eder. Karar işçiye yazılı olarak bildirilir.
 İş sağlığı ve güvenliği kurulunun bulunmadığı işyerlerinde talep, işveren veya işveren vekiline yapılır. İşçi tesbitin yapılmasını ve durumun yazılı olarak kendisine bildirilmesini isteyebilir. İşveren veya vekili yazılı cevap vermek zorundadır.
 Kurulun işçinin talebi yönünde karar vermesi halinde işçi, gerekli iş sağlığı ve güvenliği tedbiri alınıncaya kadar çalışmaktan kaçınabilir.
 İşçinin çalışmaktan kaçındığı dönem içinde ücreti ve diğer hakları saklıdır.
