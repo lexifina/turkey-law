@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4412",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL HİZMETLER DANIŞMA KURULU’NUN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "4412",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1998/4412",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4412&MevzuatTertip=5",
+  "source_sha256": "d73f12c6723499777de2dc2403e383dd65c7a1a36d94d7ea2ac8dd080b533756",
+  "source_bytes": 30585,
+  "published": "1998-01-15",
+  "gazette": "23231",
+  "in_force": "1998-01-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.01.1998); own commencement article: \"Bu Yönetmelik, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 801,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,1 @@
+Geçici Madde 2- Başbakanın önerisi üzerine, Cumhurbaşkanınca seçilecek sosyal hizmet alanında temayüz etmiş beş üyenin seçimine ilişkin işlemler, Kurumun bağlı bulunduğu Devlet Bakanlığı ile Başbakanlıkça bu Yönetmeliğin yayımını izleyen üç ay içinde sonuçlandırılır.
