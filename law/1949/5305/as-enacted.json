@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5305",
+  "year": 1949,
+  "title": "Umumi Hıfzıssıhha Kanununun 12. ve 14. maddelerinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-01-21",
+  "gazette_issue": "7111",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7111.pdf",
+  "source_sha256": "75fc059c2bcfa6c338586483e19f09459e9c3d2a227e5bff61cc17a64ae9aa2a",
+  "text_sha256": "154793ac98edda1544f0077381839efd420778df8434dee61df976099792d1aa",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      113,
+      145
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105305.pdf",
+    "source_sha256": "c3cbb41705e7aeba016a55577bdd92ff9a45b2f3cb93b907c12d50c061a60b8b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9701,
+    "bag": 0.8869,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9913,
+    "rg_words": 224,
+    "kd_words": 229,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
