@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1524",
+  "year": 1947,
+  "title": "Gümrük ve Tekel Eski Bakanı Suad Hayri Ürgüblü hakkında soruşturma yapmak üzere kurulan Karma Komisyonun görev süresinin uzatılmasına dair",
+  "adopted": "1947-02-14",
+  "adopted_as_published": "14/02/1947",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18.02.1947 No: 6535",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/karartbmmc029/karartbmmc02901524.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 29",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 8,
+      "kayit_no": 78408,
+      "title": "Gümrük ve Tekel Eski Bakanı Suad Hayri Ürgüblü hakkında soruşturma yapmak üzere kurulan Karma Komisyonun görev süresinin uzatılmasına dair",
+      "adopted_as_published": "14/02/1947",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/karartbmmc029/karartbmmc02901524.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 44,
+          "sitting_date": "1947-02-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c004/tbmm08004044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c004/tbmm08004fih.pdf",
+          "pages": [
+            "145:146"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "9fc7a908492f11447d671fb1f18178ed31018559fb1974401107463345d50af5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9fc7a908492f11447d671fb1f18178ed31018559fb1974401107463345d50af5",
+  "issuer": "TBMM",
+  "in_force": "1947-02-14",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 14/02/1947; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
