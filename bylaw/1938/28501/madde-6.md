@@ -1,0 +1,1 @@
+Madde 6 – Parmak izleri ve fotoğrafları alınan her şahıs hakkında salahiyetli makam ve memuriyetlerden gösterilen lüzum ve mahkümiyet sebeplerile müddeti mahkumiyeti neden ibaret ise parmak izi kaydına derç ve o kimsenin hüviyet ve sabıkası hakkındaki malümat bu işi gören teşkilatın en yüksek amiri tarafından lüzumu bildiren makam veya memuriyetlere bildirilir.

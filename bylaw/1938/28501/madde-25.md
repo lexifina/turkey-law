@@ -1,0 +1,1 @@
+Madde 25 – 4 Temmuz 1934 tarihli ve 2559 sayılı Polis Vazife ve Salahiyet Kanununun 26 ncı maddesine dayanılarak kaleme alınmış ve Şürayı Devletçe görülmüş olan bu Nizamname hükümleri Resmi Gazetede basıldığı günün ertesinden itibaren yürümeğe başlar.

@@ -1,0 +1,1 @@
+Madde 4 – Kanunların ve nizamların mükellef tuttuğu tebliğlerin haricinde en büyük idare memurları veya emniyet müdür ve amirleri lüzum ve zaruret gördükleri hususlarda tebligat yapmak için polise emir verebilirler.

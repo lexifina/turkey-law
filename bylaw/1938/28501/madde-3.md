@@ -1,0 +1,1 @@
+Madde 3 – Belediye zabıtası işleri polise verildiği yerlerde belediyenin mevcut zabıta teşkilatı polise intikal eder. Bunların maaş ve masrafları Belediye Kanununun "109" uncu maddesine göre temin edilir.
