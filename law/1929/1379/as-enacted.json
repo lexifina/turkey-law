@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1379",
+  "year": 1929,
+  "title": "Ankara'dan gayri şehir ve kasabalardaki telefonlar hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-01-19",
+  "gazette_issue": "1096",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1096.pdf",
+  "source_sha256": "e2cb58334b4415eb434b77c531ad043900212aea86ad52cb8bd6eddc18e5c722",
+  "text_sha256": "2da37eb41357f934ae508ca76e27d507de54980a62b22e191026361eb10226cf",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      8,
+      174
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701379.pdf",
+    "source_sha256": "6ae4cb1bc3b495a979c371ca40a2be31683bfeddc4f12a3fe09324551e1f989e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = word-sequence ratio (exact or OCR-noise-equal words, difflib) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9168,
+    "bag": 0.8852,
+    "kd_coverage": 0.9982,
+    "kd_body_compared": 0.9913,
+    "rg_words": 562,
+    "kd_words": 575,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
