@@ -1,0 +1,2 @@
+Denetim, sorumluluk ve mal bildirimi
+MADDE 6 — Aile hekimleri ve aile sağlığı elemanları, mevzuat ve sözleşme hükümlerine uygunluk ile diğer konularda Bakanlık, ilgili mülkî idare ve sağlık idaresinin denetimine tâbidir. Aile hekimi ve aile sağlığı elemanları, görevleriyle ilgili ya da görevleri başında işledikleri veya kendilerine karşı işlenen suçlarda Devlet memurları gibi kabul edilir. Aile hekimi ve aile sağlığı elemanları, 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu gereğince mal bildiriminde bulunmakla yükümlüdür.
