@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.6741",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "SAKARYA ÜNİVERSİTESİ ÖĞRETİM ÜYELERİNİN AKADEMİK KIYAFETLERİ HAKKINDAKİ YÖNETMELİK",
+  "number": "6741",
+  "issuer": "SAKARYA ÜNİVERSİTESİ",
+  "issuer_slug": "sakarya-universitesi",
+  "path": "regulation/sakarya-universitesi/1996/6741",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6741&MevzuatTertip=5",
+  "source_sha256": "070a66786ed94902fceb7ac767fab0ee899f0686e511920d90483ab647a93ea9",
+  "source_bytes": 13939,
+  "published": "1996-01-04",
+  "gazette": "22513",
+  "in_force": "1996-01-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.01.1996); own commencement article: \"Bu Yönetmelik yayınladığı tarihten itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayınladığı tarihten itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 194,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
