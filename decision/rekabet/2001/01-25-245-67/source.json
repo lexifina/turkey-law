@@ -1,0 +1,13 @@
+{
+  "number": "01-25/245-67",
+  "type": "Menfi Tespit ve Muafiyet",
+  "decision_date": "2001-05-29",
+  "publication_date": "2002-09-01",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=7ab9223c-e7f7-4f6d-b74a-723eb12e6e70",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1019",
+  "pdf_sha256": "6235c5dd3d21e9acd0119fd21ae7414c4f7e731afed6ffba1d809c21fb33f005",
+  "pdf_bytes": "268905",
+  "pages": "5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
