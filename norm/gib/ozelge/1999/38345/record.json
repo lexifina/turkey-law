@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1028/13669",
+  "source_id": 38345,
+  "date": "1999-04-12",
+  "title": " yatırım teşvik belgesi, teşvik belgeleri, Kati avans ve teminat mektupları ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38345",
+  "source_sha256": "2e21cf03b1120be3a4c17e9730b902e9860c7ee0c506bd5f41bc17364a4eabb7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
