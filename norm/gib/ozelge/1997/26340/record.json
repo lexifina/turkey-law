@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0 65/6508-44-41913",
+  "source_id": 26340,
+  "date": "1997-10-01",
+  "title": "Ö.K.C. fişlerinin 3 nüsha düzenlenip düzenlenemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26340",
+  "source_sha256": "df9428ac5c804f612deb57e969dc5c0e10b5cfd6c8a778820ea74eb320912298",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
