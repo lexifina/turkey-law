@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6685-4023/18217",
+  "source_id": 37101,
+  "date": "1999-05-10",
+  "title": "Mükellefin sahip olduğu bina ile ilgili olarak beyan ettiği değerin, maddi delillere göre tespit edilen rayiç bedelden düşük olması halinde, rayiç bedelle tarhiyata esas değer arasındaki fark üzerinden cezasız ikmalen vergi tarh edilmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37101",
+  "source_sha256": "b791b99eb4e5469d0fe1a81ab881e5be144d48d7d9515a4f940d9ed845569d87",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
