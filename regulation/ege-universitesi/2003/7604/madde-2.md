@@ -1,0 +1,9 @@
+Çalışma Alanı
+Madde 2 —Merkezin amacı; İzmir ve çevresinde alkol ve madde bağımlılığı tanısı ile izlenmekte olan gençlerin, bu merkezde yatarak tedavi ve rehabilitasyon hizmetlerinin yürütülmesi, bu alanda gerçekleştirilecek bilimsel araştırmaların düzenlenmesi ve yürütülmesi, çocuk ve gençlik ruh sağlığı alanında yetiştirilen ve bu alanda hizmet verecek olan uzmanlık öğrencisi, pratisyen hekim, psikolog, sosyal hizmet uzmanı, hemşire ve diğer sağlık personelinin eğitimine yönelik programların oluşturulmasıdır. Bu amaçların gerçekleştirilebilmesi için merkez aşağıdaki çalışmaları yapar:
+a) Gençlerin tanı, tedavi ve rehabilitasyon hizmetlerinin denetim ve yönetimini yapar.
+b) Ege Üniversitesi öğretim elemanları, uzmanlık öğrencileri ve çalışanları, gençler arasında alkol ve madde kullanımının nedenleri, yaygınlığı, klinik özellikleri, tedavi ve topluma kazandırılması alanlarındaki eğitimlerinin sağlanmasına yönelik merkez içi rotasyon programları oluşturur.
+c) Gençler arasında alkol ve madde kullanımının nedenleri, yaygınlığı, klinik özellikleri, tedavi ve topluma kazandırılması alanlarındaki araştırma projelerinin planlanmasında ve yürütülmesinde, yeni yöntemlerin geliştirilmesinde veya modifikasyonunda araştırmacılara yardımcı olur; bu konulardaki araştırma ve uygulama yapacak olan öğretim elemanı, araştırmacı ve öğrenci yetiştirilmesini teşvik eder.
+d) (c) bendinde belirtilen araştırmaları duyurmak ve yeni yöntem ve yaklaşımları tanıtmak amacıyla seminer, kurs ve konferanslar düzenler, gerektiğinde bu çalışmalarla ilgili sertifikalar verir.
+e) Bu alandaki araştırmalar ve uygulamalarda, İzmir Valiliği, İl Sağlık Müdürlüğü, İl Sosyal Hizmetler Müdürlüğü gibi yerel yönetim kurumları ve yurt içi benzer, merkez ve kuruluşlarla gerekli protokolleri yapar.
+f) Uluslar arası kuruluşlarla ilişki ve etkileşimi sağlar.
+g) Merkez kuruluş amacına, Yüksek Öğretim Kanununun amaç ve ilkelerine uygun diğer çalışmaları da yapar.

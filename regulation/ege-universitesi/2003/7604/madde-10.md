@@ -1,0 +1,1 @@
+Madde 10 —Tedavi merkezinde çalışacak personelin üniversitenin belirleyeceği program çerçevesinde eğitim görmesi şarttır. Başka bir kurum veya kuruluşta veya önceden eğitimlerini tamamladıklarını belgeleyenlerin durumu Yönetim Kurulu tarafından yeniden değerlendirilip karara bağlanır.

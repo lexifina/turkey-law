@@ -1,0 +1,1 @@
+Madde 5 —Müdür görevi başında bulunmadığı zaman Müdür Yardımcısı vekil olarak göreve devam eder. Müdür Yardımcısı da bulunamadığı takdirde Yönetim Kurulundan bir üye Müdürlüğe vekalet edebilir. Altı aydan uzun süreli üniversite dışı görevlendirmelerde Müdürün yerine yenisi görevlendirilir.
