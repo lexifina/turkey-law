@@ -1,0 +1,3 @@
+Çeşitli Hükümler
+Madde 13 — a) Üye tam sayısının dörtte üçünün Genel Kurul'da alacağı bir kararla, Milli Komite, yönetmelik değişikliği önerisinde bulunabilir. Ancak bu önerinin geçerli olabilmesi İçin, değişiklik önerisinin gündemde gerekçeli olarak bulunması ve bu gündemle gerekçenin, toplantı tarihinden en az iki ay önce üyelere gönderilmiş olması gerekir. Bu durumda öneri Orta Doğu Teknik üniversitesi Rektörü'nün teklifi ve Yüksek Öğretim Kurulu Başkanı' nın onayı ile kesinleşir.
+b) Milli Komite’nin faaliyetleriyle ilgili gerekli düzenlemeler bu Yönetmelik hükümleri doğrultusunda hazırlanacak yönergelerde belirtilir.
