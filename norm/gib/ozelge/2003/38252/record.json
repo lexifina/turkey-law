@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6522-135/006312",
+  "source_id": 38252,
+  "date": "2003-02-19",
+  "title": "Mali Hafızasının Değişmesine Gerek Olmayan Haller başlıklı 2/b bölümünde...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38252",
+  "source_sha256": "8487545202ada61472c085d1955bba26c12faf1443d79a7b1c83af26d01459dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
