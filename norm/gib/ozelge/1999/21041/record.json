@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4408-19/29598",
+  "source_id": 21041,
+  "date": "1999-07-13",
+  "title": "Motorlu üç tekerlekli araba ile faaliyette bulunanların esnaf muaflığı kapsamında değerlendirilmesi mümkün bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21041",
+  "source_sha256": "ebfec8670e2696a9e25e04b4ab423d5e340fb58f1d66cba680b3299efbf3e4b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
