@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3618",
+  "year": 1939,
+  "title": "Orman Umum Müdürlüğü 1938 malî yılı bütçesinde değişiklik yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-05-31",
+  "gazette_issue": "4220",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4220.pdf",
+  "source_sha256": "b2451790c19950746df97e485cb9e25d4c3bcef8c7b84a2868130d08c51f1d15",
+  "text_sha256": "0e64e510bb92d866d17c1e6039de19c3aea4268fcb4aff1a76bb645b083a8b59",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      1609,
+      1622
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003618.pdf",
+    "source_sha256": "f23115b2e717d19e06075b054dd7d7f380cb0f683c87372f74b62e0f7fae275c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9447,
+    "bag": 0.8926,
+    "kd_coverage": 0.9661,
+    "kd_body_compared": 0.9062,
+    "rg_words": 63,
+    "kd_words": 64,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
