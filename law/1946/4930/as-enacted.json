@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4930",
+  "year": 1946,
+  "title": "Tapu ve Kadastro Genel Müdürlüğü kuruluş ve görevleri hakkındaki kanuna geçici bir madde eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-06-18",
+  "gazette_issue": "6336",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6336.pdf",
+  "source_sha256": "c5d1dee87115423b0d9debff76e7e99ca7afff8dcfe7a69ac03ecc076918e9e6",
+  "text_sha256": "700438c647e3efc35d6072b0031782b7714e364477f3f8379756bcd85b5943ce",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      92,
+      106
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804930.pdf",
+    "source_sha256": "09dccea4a066863a7c397eb5d8e02aa068932e43aeb8882e6912ae8c6b882cc5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9525,
+    "bag": 0.8634,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9787,
+    "rg_words": 91,
+    "kd_words": 94,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
