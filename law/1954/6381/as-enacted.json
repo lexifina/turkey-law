@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6381",
+  "year": 1954,
+  "title": "4178 Sayılı Kanunun 9. ve 4849 Sayılı Kanunun 1. Maddelerinin Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-20",
+  "gazette_issue": "8663",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8663.pdf",
+  "source_sha256": "49132546a7d80f90ec6ed440bb5b599841341d3794731ed2b6e89877c7c7468e",
+  "text_sha256": "4df31ddab02e6530263a249d16afbb2fdc8de4fab5c350090767d9b8e268ccce",
+  "text_status": "ocr",
+  "pages": [
+    26
+  ],
+  "line_span": [
+    [
+      5736,
+      5757
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606381.pdf",
+    "source_sha256": "ed65d5c844e7c7a12df67ec11b3a23ea67ca4eaf88243281f0123c0d81d27c25",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9725,
+    "bag": 0.9004,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9831,
+    "rg_words": 115,
+    "kd_words": 118,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
