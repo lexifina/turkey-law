@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8608",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK VERGİSİ ASKIYA ALINMASI VE AVRUPA BİRLİĞİ TARAFINDAN TARİFE KONTENJANI AÇILMASI PLANLANAN ÜRÜNLERE İLİŞKİN TEBLİĞ İTHALAT TEBLİĞ NO: (2004/22)",
+  "number": "8608",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2004/8608",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8608&MevzuatTertip=5",
+  "source_sha256": "4075c43ca007cb1d083909835f70e1de5998d798c7d3f289d0629b4f61de3117",
+  "source_bytes": 107155,
+  "published": "2004-11-26",
+  "gazette": "25652",
+  "in_force": "2004-11-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.11.2004); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2332,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
