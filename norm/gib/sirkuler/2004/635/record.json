@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-22/2004-14  /Yatırım İndirimi 2",
+  "source_id": 635,
+  "date": "2004-03-24",
+  "title": "Yatırım İndirimi İstisnası Uygulamaları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/635",
+  "source_sha256": "2788e155cad2f30fcdb940c520da39c9d9cdd5f63f35e10f021b9f47566efae1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
