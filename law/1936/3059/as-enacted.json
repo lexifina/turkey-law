@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3059",
+  "year": 1936,
+  "title": "Suriye'de Türklere ve Türkiye'de Suriyelilere aid emlâk hakkında olub 2089 sayılı kanunla tasdik olunan 27 Teşrinievvel 1932 tarihli itilâfnamede derpiş edilib 2402, 2565, 2694 ve 2929 sayılı kanunlarla uzatılan müddetlerin üç ay daha uzatılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-08-05",
+  "gazette_issue": "3374",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3374.pdf",
+  "source_sha256": "1d7f1ec9893cf7f5d4e086d18c55f05783ca87d63f2842811c2159481dddc01e",
+  "text_sha256": "3cd26d0a9b6968ab862c4f6d51b875753dbf68c20ecfe23fbf4deef7a80e2154",
+  "text_status": "ocr",
+  "pages": [
+    8,
+    9
+  ],
+  "line_span": [
+    [
+      1354,
+      1380
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01603059.pdf",
+    "source_sha256": "bbb8bc2928c49e90b478021cee23f896c8445f321764db0a1d265fa6f3f78630",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9484,
+    "bag": 0.9043,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9821,
+    "rg_words": 120,
+    "kd_words": 112,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
