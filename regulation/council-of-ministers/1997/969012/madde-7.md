@@ -1,0 +1,10 @@
+Milli Savunma Bakanlığının görevleri
+Madde 7 – Milli Savunma Bakanlığının bu Yönetmelik kapsamındaki görevleri şunlardır:
+a) Türk Silahlı Kuvvetlerinin harp sanayii kapsamında değerlendirilen ihtiyaçlarının incelenmesi ve hazırlayıcı programların uygulanması için, Genelkurmay Başkanlığı ile koordine edilmek suretiyle, Milli Savunma Bakanlığı bünyesinde Harp Sanayii birimini kurmak ve harp sanayii faaliyetlerini bu birim vasıtasıyla yürütmek.
+b) Üretimine karar verilen harp sanayii ürünlerinin prototipini ve gerektiğinde seri olarak üretimini yaptırmak için her yıl bütçe teklifinde gerekli ödeneği planlamak.
+c) Harp sanayii faaliyetinin yürütülmesi sırasında, ilgili Bakanlık, kurum ve kuruluşlar arasında koordinatörlük yapmak.
+d) Türk Silahlı Kuvvetlerinin seferberlik ve savaşta özel olarak ihtiyaç duyacağı araç, gereç, mal ve hizmetlerin karşılanmasına ilişkin planlamaları yapmak, bu ihtiyaçların karşılanması için gerekli sanayi tesisleri ve hizmet kuruluşlarını Genelkurmay Başkanlığı ve Sanayi ve Ticaret Bakanlığı ile koordine ederek belirlemek, barıştan itibaren seferberlik ve savaş hali için ihtiyaç duyulan hazırlıkların tamamlanmasını sağlamak.
+e) Bu Yönetmelik kapsamında görev verilen kamu ve özel kurum ve kuruluşlar ile gerçek ve tüzel kişilere ait kuruluşların personel ve araç ertelemelerini yapmak.
+f) Üretimi palanlanan harp sanayii ürünlerini üretecek kuruluş veya firmaları belirlemek, tespit edilen ürünü imal ettirmek için gereken protokolu yapmak, protokol kapsamında imal ettirilen prototipin uygunluğunu Genelkurmay Başkanlığı ile koordineli olarak tespit ve tayin etmek, malzemenin üretimi ile ilgili teknik bilgileri oluşturmak ve onaylamak, seri üretim aşamasında kalite denetimini sağlamak, üretilen prototipi ve teknik bilgileri muhafaza etmek.
+g) Diğer bakanlıklar tarafından yurt dışından tedarik edilmesi gereken kritik ikmal maddelerinin tespit edilmesinde yardımcı olmak.
+h) Harp sanayii faaliyetleri konusunda diğer bakanlıklarca hazırlanacak olan planlarla ilgili koordinasyon ve işbirliğinde bulunmak.

@@ -1,0 +1,2 @@
+Amaç
+Madde 1 – Bu Yönetmeliğin amacı; Türk Silahlı Kuvvetlerinin seferberlik ve savaş halinde ihtiyaç duyacağı her türlü harp sanayii ürünü olan silah, mühimmat, araç, gereç, teçhizat, malzeme ve yedek parçaları ile bunların kullanılmasına ait hizmetlerin milli sanayinin kaynak ve üretimleriyle karşılanması için gerekli hazırlıkların barıştan itibaren yapılmasına ilişkin esas ve usulleri düzenlemektir.

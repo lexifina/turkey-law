@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 – Bu Yönetmelik, harp sanayii faaliyetinin yürütülmesi için barış döneminden itibaren; yapılacak hazırlık, planlama ve teşkilatlanmayı, ilgili bakanlıklar ve kuruluşlar arasındaki koordinasyonu, Türk Silahlı Kuvvetlerinin ihtiyacı olan her türlü harp sanayii ürününü üretebileceği tespit edilen kamu ve özel kurum ve kuruluşlar ile gerçek ve tüzel kişilere ait görev ve sorumlulukları kapsar.

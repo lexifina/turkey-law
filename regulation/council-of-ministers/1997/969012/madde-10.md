@@ -1,0 +1,5 @@
+Kamu ve özel kurum ve kuruluşlar ile gerçek ve tüzel kişilerin görev ve sorumlulukları
+Madde 10 – Kamu ve özel kurum ve kuruluşlar ile gerçek ve tüzel kişilerin bu Yönetmelik kapsamındaki görevleri şunlardır:
+a) Harp sanayii kapsamında Milli Savunma Bakanlığı ile aralarında mali ve idari hususlarda protokol yapılan kurum ve kuruluşlar; prototip üretimi yapmak, denemelerinde hazır bulunmak ve üretime esas olacak teknik bilgi paketini ve malzemeyi çalışmanın tamamlanmasını müteakip Milli Savunma Bakanlığına teslim etmek, talep edildiğinde seri üretim hazırlığını yapmak zorundadır.
+b) Seferberlik ve savaş hali planlarına dahil edilen sanayi kuruluşları; işi bırakma, iş değiştirme, adres değiştirme gibi durumlarını, bu hususların vukuu tarihinden itibaren 30 gün içinde gerekçeleri ile birlikte sözleşme yapılan Komutanlığa, Milli Savunma Bakanlığna ve Sanayi ve Ticaret Bakanlığına bildirmekle yükümlüdürler.
+c) Harp Sanayii faaliyetleri kapsamında görev alan kurum ve kuruluşlar; kritik araç ve personeli için, olabilecek erteleme tekliflerini ilgili mevzuat hükümleri çerçevesinde yaparlar.

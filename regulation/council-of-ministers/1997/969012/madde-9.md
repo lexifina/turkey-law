@@ -1,0 +1,9 @@
+Diğer Bakanlıkların görevleri
+Madde 9 – Milli Savunma Bakanlığı ve Sanayi ve Ticaret Bakanlığı hariç olmak üzere diğer bakanlıkların bu Yönetmelik kapsamındaki görevleri şunlardır:
+a) Bakanlığın kuruluşunda ve kontrolünde bulunan fabrika ve işyerlerinden uygun olanlarının harp sanayiine dönüşüm planlamasını yaparak Türk Silahlı Kuvvetlerinin harp sanayii kapsamına değerlendirilen ihtiyaçlarının barış döneminden itibaren karşılanmasını Milli Savunma Bakanlığı ile koordine ederek planlamak.
+b) Üretimi planlanan harp sanayii ürünlerinin prototipini belirlenen kuruluş veya firmalara imal ettirmek ve seri üretime esas olacak planlamayı yapmak.
+c) Prototip ve üretilen malzemenin kalite kontrolunun yapılmasında, talep edildiğinde laboratuvar ve poligon tahsis etmek.
+d) Harp sanayii ürünlerinden uygun bulunanların üretimi için Milli Savunma Bakanlığı ile protokol yapmak ve bu protokolün bir suretini üretimi yapacak olan kamu ve özel kurum ve kuruluşlar ile gerçek ve tüzel kişilere ait kuruluşlara göndererek müteakip detay protokol/ sözleşmelerin yapılmasına sağlamak.
+e) Üretim için seçilen kurum veya kuruluşun, seferberliğin başlangıcı veya seferberliğin devamı esnasında, Sanayi ve Ticaret Bakanlığının görüşü alınarak, gerekli görüldüğünde emin bölgelere nakli için planlar hazırlamak, düşman eline geçebilecek stratejik önemi haiz sanayi işletmelerinin imha planını yapmak.
+f) Yurt içi üretimi olmayan kritik malzemelere ait üretime esas olacak teknik bilgi paketini Genelkurmay Başkanlığınca belirlenecek öncelik sıralamasına göre kamu ve özel kurum ve kuruluşlar ile gerçek ve tüzel tişilere ait kuruluşlara araştırma-geliştirme projesi olarak vermek ve ödeneğini Milli Savunma Bakanlığından temin etmek.
+g) Bu yönetmelik kapsamındaki kamu ve özel kurum ve kuruluşlar ile gerçek ve tüzel kişilere ait kuruluşların personel ve araç erteleme tekliflerini ilgili mevzuat hükümleri çerçevesinde Milli Savunma Bakanlığına bildirmek.
