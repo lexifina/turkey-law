@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Birleşik Toplantısı",
+  "assembly": "TBMM BİRLEŞİK TOPLANTI",
+  "term_label": "13. Toplantı Yılı",
+  "cilt": 13,
+  "sitting": 4,
+  "label": "4. Birleşim",
+  "sitting_date": "1974-07-23",
+  "date_as_published": "23 Temmuz 1974",
+  "weekday": "Salı",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t13/c013/tbmm13013004.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t13/c013/tbmm13013004gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t13/c013/tbmm13013fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=8&meclis_kisa_adi=TBMM(MM-CS)&diger_donem_adi=t13",
+  "source_sha256": "db84808579265cff3c58ed068cb1983c2f1e3db2edbbd885e3d65858fe0672b9",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
