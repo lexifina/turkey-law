@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6654-256/11058",
+  "source_id": 37092,
+  "date": "1999-03-19",
+  "title": "Emekli sandığına tabi emekli mükellefin başka  bir meskene hisse ile de olsa sahip olmaması ve emekli aylığı dışında gelirinin bulunmaması halinde bu indirimli bina vergisi oranının (sıfır oranın) uygulanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37092",
+  "source_sha256": "50142908c4901562cc6d6920abcf63e0815d9c070c5bcabf0d3a83901ea2c3a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
