@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5007",
+  "year": 1947,
+  "title": "Devlet Memurları Aylıklarının Tevhit ve Teadülüne dair olan 3656 sayılı Kanuna ek 4644 sayılı Kanuna bağlı (1) sayılı cetvelde değişiklik yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-02-21",
+  "gazette_issue": "6538",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6538.pdf",
+  "source_sha256": "c4f7398d7a3432122bcb8b095217625de7f9820bd326e8d4161704d1e34bf561",
+  "text_sha256": "2f35b4704ed59d96c98f02f7c64fbed3400aa627d5274ca43f319a72bbc40c04",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      225,
+      249
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [2] (no text layer)",
+    "tesseract_pages": [
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905007.pdf",
+    "source_sha256": "a9adbd277abd41e53b2879c544d0218fea1711a7b8354948182a9429eb049841",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9406,
+    "bag": 0.848,
+    "kd_coverage": 0.9639,
+    "kd_body_compared": 0.9538,
+    "rg_words": 126,
+    "kd_words": 130,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
