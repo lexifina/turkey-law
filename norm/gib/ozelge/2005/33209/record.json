@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5328-2801",
+  "source_id": 33209,
+  "date": "2005-01-18",
+  "title": "Taze sebze ve meyveler ile bunların konserve, turşu, salamura ve kurutlmuşlarının %8 oranında kdvye tabidir.Ketçap, domates suyu, meyve suyu, mısır konservesi, hazır yemek konservesi, haşlanmış bakliyat konserveleri, yemek harçları ve menemen harçları %18",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33209",
+  "source_sha256": "ba47839719621fdf91fc250ec54348148c73faccfd6ec54d19db03871d2b1104",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
