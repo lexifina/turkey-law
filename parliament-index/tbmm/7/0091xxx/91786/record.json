@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 91786,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Muayyen tarifeli nakil vastalariyle seyahat eden yolculardan alınacak nakliyat resmi hakkındaki 2030 sayılı kanuna ek kanun lâyihasına dair (1/158)",
+  "title": "Muayyen tarifeli nakil vastalariyle seyahat eden yolculardan alınacak nakliyat resmi hakkındaki 2030 sayılı kanuna ek kanun lâyihasına dair (1/158)",
+  "first_sitting_date": "1944-05-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 60,
+      "sitting_date": "1944-05-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010fih.pdf",
+      "pages": [
+        "214",
+        "490"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 68,
+      "sitting_date": "1944-06-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011fih.pdf",
+      "pages": [
+        "13"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1343&v_gelecek_sayfa=201&v_kullanici_id=27484072",
+  "source_sha256": "534a6140c83467210e7aaf52ba62eb1fbff7cc2b5ab4059a9c72b15c8e62af91",
+  "in_force": "1944-05-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
