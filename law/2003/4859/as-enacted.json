@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4859",
+  "year": 2003,
+  "title": "Atlantik Ton Balıklarının Korunmasına İlişkin Uluslararası Sözleşme ile Nihai Senet, Atlantik Ton Balıkçılık İşletmeleri İstatistiklerinin Toplanmasına Dair Karar, Usul Kuralları ve Malî Düzenlemelere Katılmamızın Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-05-28",
+  "gazette_issue": "25121",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/05/20030528.htm",
+  "source_sha256": "44d1e8425f083c58ed4d0cfcc0306bccc4ef209971c086cc00e2b9297aa876bc",
+  "text_sha256": "8839d630ab4087507b22cba78626fbc2b5b0ba0d861376792f0393198b08e889",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/05/28/25121-15",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/05/20030528.htm#15",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
