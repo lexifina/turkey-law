@@ -1,0 +1,2 @@
+Danışma Kurulu ve Görevleri
+Madde 10-Danışma Kurulu, merkezin çalışmalarına öneri ve uyarılarıyla katkıda bulunan organdır. Danışma Kurulu Genel Kurul tarafından Merkezin amaç ve çalışmalarına ilgi gösteren veya konu üzerindeki uzmanlığından faydalanılabilecek kişiler arasından Rektör tarafından seçilen en fazla 15 kişiden oluşur. Bu kurulun üyeleri başka bir üniversite, kamu kuruluşlarının temsilcileri ve özel kişiler olabilir. Danışma Kurulu, yılda en az bir defa olmak üzere, müdürün başkanlığında toplanır. Toplantılarda çoğunluk şartı aranmaz.

@@ -1,0 +1,1 @@
+Madde 4-Müdür, Trakya Üniversitesi öğretim üyeleri arasından Rektör tarafından üç yıl süre ile atanır. Süresi sona eren Müdür yeniden atanabilir. Müdür Üniversite Öğretim Elemanları arasından 1 veya 2 yardımcı seçer. Müdür Yardımcısı Müdürün verdiği işleri yapar ve müdürün bulunmadığı zamanlarda müdüre vekalet eder.
