@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.14456",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ EĞİTİM BAKANLIĞI YAYGIN EĞİTİM ENSTİTÜSÜ YÖNETMELİĞİ",
+  "number": "14456",
+  "issuer": "Milli Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/1995/14456",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14456&MevzuatTertip=5",
+  "source_sha256": "0e20042abe98664232ad96081cbf19365cc2a3c3fe53cd35c167571a0077e067",
+  "source_bytes": 93573,
+  "published": "1995-04-30",
+  "gazette": "22273",
+  "in_force": "1995-04-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.04.1995); own commencement article: \"Bu Yönetmelik yayımı talihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı talihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1900,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
