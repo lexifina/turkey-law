@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2855",
+  "year": 1935,
+  "title": "Konya ovası sulama idaresinin 1935 malî yılı bütçe Kanununun 7. maddesinin 2. fıkrasının değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-12-07",
+  "gazette_issue": "3176",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3176.pdf",
+  "source_sha256": "7fce0bd7a0d32de65d91df949374380eac02b505462e4266d33f5c2fc9b0f49b",
+  "text_sha256": "3ef2ee358cb2547827b0b1394e060da5137814c509248f90a4eda811a8a0b4c4",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      303,
+      330
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602855.pdf",
+    "source_sha256": "68e76335def8cbf7aafdb6ff613748683cc5d2714e185d5bddec26473dc8c733",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9442,
+    "bag": 0.8327,
+    "kd_coverage": 0.9507,
+    "kd_body_compared": 0.9507,
+    "rg_words": 134,
+    "kd_words": 142,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
