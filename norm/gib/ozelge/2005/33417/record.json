@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5513-455-445",
+  "source_id": 33417,
+  "date": "2005-01-06",
+  "title": "Yatırım Teşvik Belgesi kapsamında aldığı makineyi iade etmesi halinde yüklenilen katma değer vergisinin bu işleme ait düzenlenecek faturada hesaplanması ve hesaplanan bu verginin de  Şirket tarafından indirim konusu yapılması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33417",
+  "source_sha256": "6839f5e41f280c5f7158321bc609d650237cd25297a4b16b0daf6a6118ad4d98",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
