@@ -1,5 +1,3 @@
-2709 Sayılı
-2709 Sayılı Kanunun orijinal hali
 TÜRKİYE CUMHURİYETİ ANAYASASI (1)
 Kanun Numarası : 2709
 Kabul Tarihi : 18/10/1982
