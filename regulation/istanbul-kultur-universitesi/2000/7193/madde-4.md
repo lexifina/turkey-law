@@ -1,0 +1,2 @@
+Merkezin Öğretime Destek Görevi :
+Madde 4 – Merkezin öğretim alanındaki görevi, İKÜ eğitim programları içinde eğitim görmekte olan meslek adamlarının, güzel sanatlar alanlarında sanatsal ve bilimsel inceleme yapabilen, kültürümüzü koruyan, yayan ve tanıtan, sanattan anlayan, yaratma gücüne sahip kültürlü kişiler olarak yetişmelerini sağlamak amacıyla, kadro ve fiziksel imkanları ile destek hizmeti yapmaktır.
