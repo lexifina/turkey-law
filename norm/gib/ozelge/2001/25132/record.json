@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2217/25190",
+  "source_id": 25132,
+  "date": "2001-05-08",
+  "title": "Vergilendirme ile ilgili beyanname, tahakkuk fişi, ihbarname, tekalif cetveli ve kararlarda matraha ait rakamların veya indirimlerin eksik veya fazla gösterilmiş veya hesaplanmış olmasından kaynaklanan matrah hatalarının, uzlaşmanın sağlanması sonucunda k",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/25132",
+  "source_sha256": "27f6336dd7f4a869623f898397c95402a3a646d38bc9edc1aba47cd2987620bc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
