@@ -1,0 +1,1 @@
+Madde 14 – Hudut kumandanları senede en az iki defa ve lüzum görülen hallerde hemen teftiş yaparlar. Talim ve terbiye teftişleri, talimatnamesi mucibince yapılır. Mıntakası pek geniş olan hudut kumandanlıklarında kıtanın talim ve terbiye teftişlerinin mücavir fırka veya liva kumandanlarına tevdii kolordularca tanzim olunur.

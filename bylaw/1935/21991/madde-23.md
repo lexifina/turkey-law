@@ -1,0 +1,1 @@
+Madde 23 – Mukabil Devlet arazisi dahilinde kalan arazilerini sürmek veya ekmek veya hayvanlarını otlatmak veya sulamak gibi tarafeyn tabaasından muayyen hakları tanınmış bulunan kimseler, geçitlerden gidip gelebilirler.

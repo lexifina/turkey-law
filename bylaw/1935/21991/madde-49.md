@@ -1,0 +1,1 @@
+Madde 49 – Gümrük muhafaza ve hudut kıta kumandanları mümkün olan her türlü muhabere ve işaret vasıtalarının istifade ile müşterek vazifelerini alakadar eden bütün haberleri kendi üstüne ve yanındaki hudut ve gümrük kıtalarına en çabuk vasıta ile bildirirler.

@@ -1,0 +1,1 @@
+Madde 58 – Hudut kuriyelerinin kapılarda kabulü ve getirdikleri evrakın kapılarda alınması esastır. Ancak kapılarda kuriyelerin evrakını alacak resmi memur bulundurmıyan taraf diğer tarafın hüviyeti tanınmış ve vesikayı haiz kuriyerlerinin, getirilen evrakı kabule salahiyettar memurun bulunduğu mahalle kadar, sevkedilmesi caizdir.

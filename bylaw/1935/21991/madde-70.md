@@ -1,0 +1,1 @@
+Madde 70 – Valiler, muhafaza teşkilatı ve kaçakçılıkla alakadar diğer makamlarla çabuk anlaşmak için mıntakalarındaki telgraf ve telefon hatlarının ve merkezlerinin iyi bir halde çalıştırılmasının temini ile mükellef olan mevcut hatların tadil ve ikmalini lüzumlu bulurlarsa alakadar makamlara ve Dahiliye Vekaletine teklif edeceklerdir.

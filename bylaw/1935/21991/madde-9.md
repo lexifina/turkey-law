@@ -1,0 +1,3 @@
+Madde 9 – (Değişik: 3.8.1944 - 3/1325 K.)
+Hudutlardaki vilayetlerde hudut ve kaçakçılığın men'i işleriyle meşgul olmak üzere valinin riyasetinde; Vilayet Jandarma Komutanı, vilayet bölgesindeki Gümrük Muhafaza Tabur Komutanı (gümrük muhafaza teşkilatının askerileştirilmediği mıntakalarda vilayet mıntakasındaki Muhafaza Müdürü, olmayan yerlerde muhafaza teşkilatının en büyük amiri) ve vilayet Emniyet Müdürü veya Amirinden mürekkep bir hudut heyeti teşkil olunur.
+Kıyı vilayetlerinde de kaçakçılık işleriyle uğraşmak üzere valinin riyasetinde birinci fıkradaki gibi birer heyet teşkil edilir. Bu maddede yazılı heyetler valinin lüzum gördüğü zamanlarda toplanır.

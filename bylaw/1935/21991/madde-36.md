@@ -1,0 +1,2 @@
+E – Kaçakçılıkta
+Madde 36 – Gümrük muhafaza kıtaları teşkilatı olan hudutlarda, gümrük mıntakalarında 1918 numaralı kanun hükümlerine göre kaçakçılığın men ve takibi gümrük muhafaza kıtalarını ve bu mıntakada sıyrılan kaçakçıların takibide bu nizamnamede yazılı müşterek hükümlere tevfikan gümrük muhafaza ve hudut kıtalariyle mahalli zabıtanın vazifesidir. Diğer hudutlarda bu vazife hudut kıtalariyle idare amirlerine ve askerleşmemiş gümrük muhafaza teşkilatına aittir.

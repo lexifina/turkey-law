@@ -1,0 +1,1 @@
+Madde 56 – Ahitnamelerle tesbit olunan hudut işlerinden dolayı karşı tarafın salahiyetli hudut kumandanlariyle yapılacak muhaberat, ahitnameler hükümlerince kabul edilen esaslar dahilinde, ve salahiyetli makamlarca yapılır. Hudut kumandanlığını alakadar eden işler için bu kumandanlığın mütalaası alınır.

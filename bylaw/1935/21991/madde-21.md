@@ -1,0 +1,1 @@
+Madde 21 – Kapı karakollarında, hudut kıtalarından bir zabit kumandasında takım veya daha küçük bir Kıta bulunur. Kapı karakolları gümrük muhafaza teşkilatı olan yerlerde, mıntakasında bulundukları gümrük muhafaza bölük kumandanının emrindedir. Kaçakçılık işlerine, bu bölük kumandanının emri olmadıkça karışmaz ve kendilerine kapılar haricinde vazife verilmez.

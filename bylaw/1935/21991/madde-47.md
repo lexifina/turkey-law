@@ -1,0 +1,1 @@
+Madde 47 – Gümrük muhafaza alay veya müstakil tabur kumandanları hududun muhafaza ve emniyeti ve kaçakçılığın takibi vazifelerinde mıntakasında bulundukları hudut kumandanı ile, diğer madun gümrük muhafaza kumandanları da yakınında bulundukları hudut kıta kumandanları ile sıkı temas ve irtibatta bulunurlar.

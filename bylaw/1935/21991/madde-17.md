@@ -1,0 +1,1 @@
+Madde 17 – Gümrük muhafaza kıtalarının konuşu, Gümrük ve İnhisarlar Vekaletince tesbit olunur. Ancak hudut ve sahillerin askeri ve dahili emniyeti noktasından takımdan yukarı (Takım dahil) konuşlarda ve bu konuşlarda yapılacak değişikliklerde Dahiliye Vekaletiyle Büyük Erkanı harbiye'nin mütalaası alınır.

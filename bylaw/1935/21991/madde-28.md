@@ -1,0 +1,2 @@
+F – Hudut mıntakalarındaki tesisatın muhafazası
+Madde 28 – Gümrük muhafaza kıtaları ve bu teşkilat olmıyan yerlerde hudut kıtaları, mıntakalarında bulunan demiryolu, şose, tünel, köprü gibi tesisatı, muhabere hatlarını, işaret vasıtalarını, tahkimatı, askeri binaları ve tesisatı muhafaza ile mükelleftirler. Gümrük muhafaza teşkilatı olan hudutlardaki hudut kıtalarının muhafaza ile mükellef oldukları tesisat B.E.H. Riyasetince tesbit olunur.

@@ -1,0 +1,1 @@
+Madde 26 – Hudut mıntakasında bir yerden diğer yere giderken komşu taraf arazisine giriş ve bazı yollardan geçiş iki taraf Hükümetlerince kabul edilmiş ise gidiş geliş esnasında hiç bir vaka çıkarılmamasına dikkat olunur.
