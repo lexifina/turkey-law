@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3702",
+  "year": 1939,
+  "title": "Tiyatro ve sinemalarla konserlerden Devlet ve belediyelerce alınmakta olan damga, tayyare ve belediye resimleriyle Darülaceze hissesinin mikdarına ve sureti ifasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-07-14",
+  "gazette_issue": "4258",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4258.pdf",
+  "source_sha256": "fe7b49bb664d018fb933fe826d875adf557b54b913882867ba9ee64460f29c95",
+  "text_sha256": "f5eaa89ba2c214bbe878ab6b933129030b3c57b8d3b7b514ab4081ea2c4eb423",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      13,
+      117
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003702.pdf",
+    "source_sha256": "94f86774da640dd1dd1f3e48acb9f9f7c524e61f1f185d306f4f1daf13b6c1ad",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9705,
+    "bag": 0.9064,
+    "kd_coverage": 0.9959,
+    "kd_body_compared": 0.9933,
+    "rg_words": 727,
+    "kd_words": 741,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
