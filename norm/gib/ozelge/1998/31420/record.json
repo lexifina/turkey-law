@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5513-322/31500",
+  "source_id": 31420,
+  "date": "1998-09-02",
+  "title": "Yatırım teşvik belgesi sahibi mükelleflerin,belge kapsamındaki makine ve teçhizat teslimleri katma değer vergisinden istisnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31420",
+  "source_sha256": "62691af5a92c632200476d97ee1c65dcbefc2513aaa0a84b95ceb8df1ef292ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
