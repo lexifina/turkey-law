@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5429-722",
+  "source_id": 29942,
+  "date": "2005-02-15",
+  "title": "Basit usule tabi iken gerçek usule geçen mükellefin devreden stoklar nedeniyle yüklenmiş olduğu katma değer vergisini çıkaracağı envantere göre indirim konusu yapması mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29942",
+  "source_sha256": "31be139364f685c8d67eec411e63a5badd087aecb56e3a7b512abdbe8ee23882",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
