@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7280",
+  "year": 1959,
+  "title": "Birleşmiş Milletler Andlaşması ile Birleşmiş Milletler teşkilâtına bağlı ihtisas müesseselerinin ana sözleşmeleri, Avrupa Ekonomik İş Birliği Sözleşmesi, Türkiye Cumhuriyeti ile Amerika (Birleşik Devletleri arasında münakit Ekonomik İş Birliği Anlaşması, Avrupa Korneri Sözleşmesi ve Hükümetimiz tarafından imza edilmiş veya edilecek sair anlaşma, andlaşma ve sözleşmelerin icaplarından olarak ilgili Hükümet ve teşekküller veya bunlar namına hareket edecek müesseseler ile kredi, yardım ve ödeme anlaşmaları akdine Hükümetin salahiyetli kılınması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-05-26",
+  "gazette_issue": "10214",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10214.pdf",
+  "source_sha256": "48ecc7a594c960f4191885fdbaf2da54bc457e13eb33ce7b40c77eca576efe09",
+  "text_sha256": "b8ca6d4e71696b3473ab75af005fa4c9023266e59f676b522eb7602b2a2276ed",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      169,
+      206
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107280.pdf",
+    "source_sha256": "5e1e738af2edce166c9367c7904ade59ad26fe38fb3f3d939383e009bfd07b67",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9688,
+    "bag": 0.8526,
+    "kd_coverage": 0.9864,
+    "kd_body_compared": 0.9777,
+    "rg_words": 222,
+    "kd_words": 224,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
