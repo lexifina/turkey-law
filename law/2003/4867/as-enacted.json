@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4867",
+  "year": 2003,
+  "title": "Ekonomik Sosyal ve Kültürel Haklara İlişkin Uluslararası Sözleşmenin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-06-18",
+  "gazette_issue": "25142",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030618.htm",
+  "source_sha256": "84ec48157ac8ad8511e4fe9844b50ebbb22cc19944eb55898cada4a3b89f9f50",
+  "text_sha256": "0ac2d90661df1d97b2c86979e6b6251ebf9428c012aa6b3a4ed76901be35ccd5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/06/18/25142-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030618.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
