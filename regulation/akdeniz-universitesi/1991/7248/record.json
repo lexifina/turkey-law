@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1991-10-31",
+      "31.10.1991",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik Resmi Gazete’de yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21037",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1991-10-31",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/1991/7248",
+  "published": "1991-10-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7248&MevzuatTertip=5",
+  "source_bytes": 33101,
+  "source_id": "8.5.7248",
+  "source_sha256": "7ae11db59bd88b04198bf907088871e42e9410739e3570880cf98e4c98cb5605",
+  "text_status": "as-enacted",
+  "title": "AKDENİZ ÜNİVERSİTESİ\r\nORGAN NAKLİ EĞİTİM, ARAŞTIRMA VE UYGULAMA\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 1082
+}

@@ -1,0 +1,3 @@
+Ayrıca Merkezin Danışma Organı niteliğinde, Merkez üyelerinden oluşan bir Danışma Kurulu vardır. (*)
+Müdür
+Madde 5- Merkez Müdürü, organ nakli konusunda çalışmaları ile temayüz etmiş kadrolu öğretim üyeleri arasından, Rektör tarafından 2 yıl için atanır. Süresi biten Müdür tekrar atanabileceği gibi, gerek duyulduğu zaman görev süresi dolmadan atama usulüne göre görevden alınabilir. Müdür, yokluğunda kendisine vekalet etmek, yardımcı olmak ve verdiği görevleri yerine getirmek üzere Yönetim Kurulu Üyelerinden birini Müdür Yardımcısı olarak seçer. Göreve vekalet 6 aydan uzun süreli olamaz. Bu takdirde yeni Merkez Müdürü atanır.(*)
