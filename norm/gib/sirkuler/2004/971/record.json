@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-13 / 2004-13",
+  "source_id": 971,
+  "date": "2004-05-04",
+  "title": "Yap-işlet-devret modelinde süre sonunda tesisin işletici tarafından ilgili kuruma tesliminde emsal bedel üzerinden katma değer vergisi aranılmayacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/971",
+  "source_sha256": "1b15dc6d92f651a6b1f775b0187a8aeff30d0ccfd435d6fc45111d80d32a2336",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
