@@ -1,0 +1,149 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "600",
+  "year": 1965,
+  "title": "Hudut ve Sahiller Sağlık Genel Müdürlüğünün 1961 bütçe yılı Kesinhasap Kanunu",
+  "adopted": "1965-05-04",
+  "adopted_as_published": "04/05/1965",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.05.1965 No: 11998",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800600.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 48",
+  "committee_reports": [
+    {
+      "label": "MM 862 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036064ss0862.pdf"
+    },
+    {
+      "label": "CS 618no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026075ss0618.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 352457,
+      "title": "Hudut ve Sahiller Sağlık Genel Müdürlüğünün 1961 bütçe yılı Kesinhasap Kanunu",
+      "adopted_as_published": "04/05/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800600.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 862 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036064ss0862.pdf"
+        },
+        {
+          "label": "CS 618no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026075ss0618.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 13,
+          "sitting": 55,
+          "sitting_date": "1963-02-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c013/mm__01013055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c013/mm__01013fih.pdf",
+          "pages": [
+            "554"
+          ]
+        },
+        {
+          "cilt": 36,
+          "sitting": 62,
+          "sitting_date": "1965-02-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036062.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036fih.pdf",
+          "pages": [
+            "319"
+          ]
+        },
+        {
+          "cilt": 36,
+          "sitting": 64,
+          "sitting_date": "1965-02-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036064.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036fih.pdf",
+          "pages": [
+            "416:417",
+            "482:485"
+          ]
+        },
+        {
+          "cilt": 36,
+          "sitting": 65,
+          "sitting_date": "1965-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036fih.pdf",
+          "pages": [
+            "495",
+            "554:557"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2101&v_kullanici_id=27483225",
+      "page_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 177234,
+      "title": "Hudut ve Sahiller Sağlık Genel Müdürlüğünün 1961 bütçe yılı Kesinhesap Kanunu",
+      "adopted_as_published": "04/05/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800600.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 862 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036064ss0862.pdf"
+        },
+        {
+          "label": "CS 618no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026075ss0618.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 48,
+          "sitting_date": "1965-03-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c025/cs__04025048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c025/cs__04025fih.pdf",
+          "pages": [
+            "372"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 75,
+          "sitting_date": "1965-05-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+          "pages": [
+            "885:886",
+            "894:895"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=601&v_kullanici_id=27483235",
+      "page_sha256": "5357870691ec6d0e13bb878c85f5731194f6982d1f16dd56598658fc277237bf"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1",
+  "issuer": "Millet Meclisi",
+  "in_force": "1965-05-04",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 04/05/1965; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
