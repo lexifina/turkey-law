@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6369-202/58275",
+  "source_id": 38168,
+  "date": "1999-12-30",
+  "title": "Kurumun Özelleştirme Yüksek Kurulunun Kararı gereğince bedelli devrinde, tashih ve devir işlemlerinden harç alınmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38168",
+  "source_sha256": "b091a1d0975af148b48c816a92cecb2588ab5a53ee01cac14dab929464e33f98",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
