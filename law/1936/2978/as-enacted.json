@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2978",
+  "year": 1936,
+  "title": "Memurin Kanununun muaddel 64. maddesine bir fıkra eklenmesine dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-05-26",
+  "gazette_issue": "3313",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3313.pdf",
+  "source_sha256": "e63bb09d3214769aa19d7b1d7dd9aee2e005bd75f7163fed1dce05f1f3677fdd",
+  "text_sha256": "ac0f2ef22dc77d4b482adf09f05d9113e51eca880fe22024effc29cfa6262473",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      17,
+      32
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602978.pdf",
+    "source_sha256": "bb3f930404ae1c10d849a7bb44d8013d53a02fbef138ae7014733a9ce7764735",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9447,
+    "bag": 0.8571,
+    "kd_coverage": 0.9615,
+    "kd_body_compared": 0.9259,
+    "rg_words": 79,
+    "kd_words": 81,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
