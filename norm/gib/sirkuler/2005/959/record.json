@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDV- 25 / 2005 _ 4",
+  "source_id": 959,
+  "date": "2005-01-17",
+  "title": "29/12/2004 tarih ve 25685 sayılı Resmi Gazete'de yayımlanan 2004/8301 sayılı Bakanlar Kurulu Kararı ile katma değer vergisi oranlarını tespit eden 17/07/2002 tarih ve 2002/4480 sayılı Bakanlar Kurulu Kararı eki listelerde değişiklikler yapılmış olup bu de",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/959",
+  "source_sha256": "e4ab26583c004fe0111d2a7d9e32f64fddcfb789deb3a8d49e306c1f3c403887",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
