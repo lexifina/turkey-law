@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4251",
+  "year": 1942,
+  "title": "Şose ve köprüler inşaatı için gelecek yıllara geçici tahhüde girişilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-06-15",
+  "gazette_issue": "5132",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5132.pdf",
+  "source_sha256": "9bdb513412ad6299cf4b783115ec7bb3f06c7054c4e0cad45c20480a5ce1f411",
+  "text_sha256": "95cfca5eb62c9baaae56cdcc0e46af889c2ba12f9564a53219e810163ee89ead",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      4,
+      20
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304251.pdf",
+    "source_sha256": "1926398810a03da8974e19b5c0f6ae6643e1e4997de20a892ab536b795d1a445",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9639,
+    "bag": 0.9351,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9744,
+    "rg_words": 78,
+    "kd_words": 78,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
