@@ -1,7 +1,8 @@
 {
   "checked_on": "2026-11-13",
+  "corrects_commit": "5156b858ab8c2c24beeb58694948b48f39609e2c",
   "date_gazette": "7951",
-  "date_quote": "08.11.1951",
+  "date_quote": "7 – Bu Tüzük hükümlerini Bakanla",
   "first_law": null,
   "gazette": "7951",
   "history": "current-text",
@@ -11,8 +12,8 @@
     "referenced": 0,
     "source": 0
   },
-  "in_force": "1951-11-08",
-  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "in_force": "1951-11-09",
+  "in_force_basis": "act commencement clause: 1 days after official Gazette publication",
   "kind": "bylaw",
   "label": "oldest version available",
   "published": "1951-11-08",
