@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/54l3-",
+  "source_id": 38043,
+  "date": "2004-11-08",
+  "title": "Türkiye'nin 14 uluslararası hava limanında yer hizmeti verdiğiniz belirtilerek bu hava ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38043",
+  "source_sha256": "4f353bc9daec766ca8933ae3ccb9b9046f7b554097c60923b1750d6ceba0da39",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
