@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3297",
+  "year": 1938,
+  "title": "Askerî ve mülkî tekaüd Kanununun 18. maddesinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-01-11",
+  "gazette_issue": "3805",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3805.pdf",
+  "source_sha256": "484e459c090dbca8e11699de5bafb58f9c42999f6f18e2efaaec064c7eb38a3c",
+  "text_sha256": "5334aa2ad73f0e9124f372c8ece1b555d6d13a962a19ba1f850cb888afc5bda2",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      9,
+      28
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803297.pdf",
+    "source_sha256": "e8937f22d2db1ca4da4b69e14be990e1f73eb3188bc6adeb129220b24e296c6a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9269,
+    "bag": 0.8478,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9866,
+    "rg_words": 129,
+    "kd_words": 149,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
