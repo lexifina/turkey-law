@@ -1,0 +1,101 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3763",
+  "year": 1991,
+  "title": "2924 Sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi Hakkında Kanunun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Bir Ek Madde Eklenmesi Hakkında Kanun",
+  "adopted": "1991-08-28",
+  "adopted_as_published": "28/08/1991",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.09.1991 No: 20984",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc074/kanuntbmmc074/kanuntbmmc07403763.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 74",
+  "committee_reports": [
+    {
+      "label": "TBMM 361 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c062/tbmm18062135ss0361.pdf"
+    },
+    {
+      "label": "TBMM 361ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c062/tbmm18062135ss0361ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 236248,
+      "title": "2924 Sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi Hakkında Kanunun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Bir Ek Madde Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "28/08/1991",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc074/kanuntbmmc074/kanuntbmmc07403763.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 361 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c062/tbmm18062135ss0361.pdf"
+        },
+        {
+          "label": "TBMM 361ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c062/tbmm18062135ss0361ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 33,
+          "sitting": 31,
+          "sitting_date": "1989-11-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c033/tbmm18033031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c033/tbmm18033fih.pdf",
+          "pages": [
+            "371"
+          ]
+        },
+        {
+          "cilt": 44,
+          "sitting": 107,
+          "sitting_date": "1990-05-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c044/tbmm18044107.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c044/tbmm18044fih.pdf",
+          "pages": [
+            "228"
+          ]
+        },
+        {
+          "cilt": 51,
+          "sitting": 39,
+          "sitting_date": "1990-11-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c051/tbmm18051039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c051/tbmm18051fih.pdf",
+          "pages": [
+            "385"
+          ]
+        },
+        {
+          "cilt": 62,
+          "sitting": 135,
+          "sitting_date": "1991-08-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c062/tbmm18062135.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c062/tbmm18062fih.pdf",
+          "pages": [
+            "312:348"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=363&v_gelecek_sayfa=301&v_kullanici_id=27483192",
+      "page_sha256": "00f6e264935372e640361cd09d4b62bd8cd3aa42dd1a608f72b219bd65964ef3"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "00f6e264935372e640361cd09d4b62bd8cd3aa42dd1a608f72b219bd65964ef3",
+  "issuer": "TBMM",
+  "in_force": "1991-08-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 28/08/1991; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
