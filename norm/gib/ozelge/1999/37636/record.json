@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5911-1/047415",
+  "source_id": 37636,
+  "date": "1999-11-20",
+  "title": "İthal edilen akaryakıt ürünlerinin satışı halinde uygulanacak A.T.V. hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/591/ozelge/37636",
+  "source_sha256": "5a30c8fd233fab118292d3ae6896591c9294a8f555f31f76b51b787a08dd68d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
