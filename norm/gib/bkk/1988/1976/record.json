@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "88/13641",
+  "source_id": 1976,
+  "date": "1988-12-30",
+  "title": "MİLLİ PİYANGO SEYYAR BAYİLERİNİN VERGİ İADESİNDEN YARARLANMALARI İLE İLGİLİ KARAR",
+  "source": "https://gib.gov.tr/mevzuat/kanun/589/bkk/1976",
+  "related_law": "2978 sayılı VERGİ İADESİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "6f502d7d1a5881e5153229791c07631a50b0989d02430f49659f8402fb27c193",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
