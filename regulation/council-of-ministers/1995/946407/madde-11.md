@@ -1,0 +1,5 @@
+Yönetim kurulu üyelerinin görev süresi
+Madde 11 – Yönetim kurulunun seçilmiş üyelerinin görev süresi iki yıldır. Diğer üyelerin sağlık işletmesindeki üyeliğe esas görevleri sürdüğü müddetçe üyelikleri devam eder. Ölüm, istifa, seçilmeye esas olan görevin sona ermesi, başka kurumlara ve işletme dışına nakil ve kamu görevlisi olma niteliklerinin olma niteliklerinin kaybedilmesi gibi durumlarda yönetim kurulu üyeliği sona erer.
+Üyeliğin sona ermesi halinde bir önceki üyenin geri kalan süresini tamamlamak üzere yeni üye seçilir veya atanır. Görev süresi dolan üyenin yeniden seçilmesi mümkündür.
+Yönetim kurulu başkanlığının ve üyeliklerinin herhangi bir sebeple görev süresinden önce boşalması halinde, yeni başkan ve üyelerin en geç bir ay içerisinde tespiti ve seçilip atanması mecburidir. Yönetim kurulu başkanının bu şekilde tayinine kadar, yönetim kurulu üyelerinden başkan olarak seçilme niteliklerini haiz en kıdemlisi başkanlığı vekaleten yürütür.
+Yönetim kurulu başkanı, geçici ayrılışlarında kendisine vekalet edecek kurul üyesini tayin eder.

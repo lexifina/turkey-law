@@ -1,0 +1,5 @@
+Tıbbi konsey ve birleşik tıp konseyi
+Madde 18 – Tıbbi konsey, sağlık işletmesinin klinik ve laboratuvar şeflerinden veya servis sorumlularından oluşur. Baştabibin başkanlığında üye tam sayısının yarıdan bir fazlasının iştiraki ile toplanır ve üye tam sayısının salt çoğunluğu ile karar alır.
+Tıbbi konsey, yönetim kurulu için, sağlık işletmesinin tıbbi iş, işlem ve problemleri ile ilgili her konu ve durumu değerlendirir, sağlık personeli hakkında yapılacak her türlü tasarrufa dayanak teşkil etmek üzere tıp ilmi ve uygulaması yönünden değerlendirme ve danışmanlık yapar, görüşlerini yazılı olarak bildirir.
+Sağlık işletmelerinin aynı branştan olanlarının tıbbi konseylerinden meydana gelen birleşik tıp konseyleri, bakanlık için referans tıp konseyi olarak iştişari görev yapar.
+Birleşik tıp konseyi, bakanlıkça uygun görülen zamanlarda ve bakanlıkça belirlenecek bir baştabibin başkanlığında, üye tam sayısının yarıdan bir fazlasının iştiraki ile toplanır ve üye tam sayısının salt çoğunluğu ile karar alır. Oylarda eşitlik halinde başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.

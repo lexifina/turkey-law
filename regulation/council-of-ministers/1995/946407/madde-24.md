@@ -1,0 +1,2 @@
+Sağlık işletmelerinden elde edilecek karların kullanımı
+Madde 24 – Sağlık işletmelerinin yıl sonu bilançolarındaki karlarının en fazla % 20'si, sağlık işletmelerinin büyüklükleri, özellikleri ve içinde bulundukları şartlar dikkate alınarak, Bakanlar Kurulunca belirlenecek esaslara göre, Sağlık Hizmetlerini Destekleme ve Geliştirme Fonuna yatırıldıktan sonra geri kalan kısmı işletme sermayesine eklenir.
