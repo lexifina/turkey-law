@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1990-04-15",
+      "15.04.1990",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "20493",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1990-04-15",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Boğaziçi Üniversitesi",
+  "issuer_slug": "bogazici-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bogazici-universitesi/1990/10284",
+  "published": "1990-04-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10284&MevzuatTertip=5",
+  "source_bytes": 23222,
+  "source_id": "8.5.10284",
+  "source_sha256": "3777e06d93b3b1eb7b7acded0012d64f37b1919ee224531ae8604bb6bc55df14",
+  "text_status": "as-enacted",
+  "title": "BOĞAZİÇİ ÜNİVERSİTESİ EĞİTİM TEKNOLOJİSİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 183,
+  "word_count": 461
+}
