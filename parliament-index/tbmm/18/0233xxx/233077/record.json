@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 233077,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Türkiye Elektrik Kurumu Dışındaki Kuruluşların Elektrik Üretimi, İletimi, Dağıtımı ve Ticareti ile Görevlendirilmesi Hakkında Kanunun Bir Maddesinde Değişiktik Yapılmasına ve Bu Kanuna Ek Maddeler Eklenmesine İlişkin Kanun Tasarısı ile 3096 Sayılı Türkiye Elektrik Kurumu Dışındaki Kuruluşların Elektrik Üretimi, İletimi, Dağıtımı ve Ticareti ile Görevlendirilmesi Hakkında Kanunun Bir Maddesinin Değiştirilmesine Dair Kanun Hükmünde Kararnameye ilişkin",
+  "title": "Türkiye Elektrik Kurumu Dışındaki Kuruluşların Elektrik Üretimi, İletimi, Dağıtımı ve Ticareti ile Görevlendirilmesi Hakkında Kanunun Bir Maddesinde Değişiktik Yapılmasına ve Bu Kanuna Ek Maddeler Eklenmesine İlişkin Kanun Tasarısı ile 3096 Sayılı Türkiye Elektrik Kurumu Dışındaki Kuruluşların Elektrik Üretimi, İletimi, Dağıtımı ve Ticareti ile Görevlendirilmesi Hakkında Kanunun Bir Maddesinin Değiştirilmesine Dair Kanun Hükmünde Kararnameye ilişkin",
+  "first_sitting_date": "1990-02-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 41,
+      "sitting": 83,
+      "sitting_date": "1990-02-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c041/tbmm18041083.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c041/tbmm18041fih.pdf",
+      "pages": [
+        "417:437"
+      ]
+    },
+    {
+      "cilt": 41,
+      "sitting": 84,
+      "sitting_date": "1990-03-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c041/tbmm18041084.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c041/tbmm18041fih.pdf",
+      "pages": [
+        "454:465"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 86,
+      "sitting_date": "1990-03-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c042/tbmm18042086.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c042/tbmm18042fih.pdf",
+      "pages": [
+        "28:30",
+        "38:39",
+        "53:58"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=993&v_gelecek_sayfa=701&v_kullanici_id=27484371",
+  "source_sha256": "5c039f720a6e91b10eddacceb729b595b758d13aff760c195bc773e5dbf8d9a3",
+  "in_force": "1990-02-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
