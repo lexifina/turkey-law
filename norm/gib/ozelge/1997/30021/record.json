@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5301-2702-42972",
+  "source_id": 30021,
+  "date": "1997-10-08",
+  "title": "D.S.İ. Genel Müdürlüğünün bedel karşılığı yapacağı hizmetlerin K.D.V.'ne tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30021",
+  "source_sha256": "210968192604b73ec8f96b53e41c7b68e8276ab0be0df53c8b63bb48024593dc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
