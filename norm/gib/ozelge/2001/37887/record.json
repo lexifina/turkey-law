@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-583/13796",
+  "source_id": 37887,
+  "date": "2001-03-15",
+  "title": "Muris adına mirasçılar tarafından yapılacak beyana, hayat standardı esası uygulanıp uygulanmayacağı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37887",
+  "source_sha256": "8b97c4018454132f86b0e4700f37bc19fed72772ba68dff5500fec8e224d64f2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
