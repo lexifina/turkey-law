@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5328-1904",
+  "source_id": 33212,
+  "date": "2005-01-11",
+  "title": "Özel okulların kendi bünyesinde yaptığı öğrenci taşıma (servis) hizmetlerine uygulanacak katma değer vergisi oranı hususu..",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33212",
+  "source_sha256": "b1312e378423a7d968bd23866c48daf3cf42720f70a7b93225c6017740b61833",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
