@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3014-344-567/9244",
+  "source_id": 27191,
+  "date": "1997-03-06",
+  "title": "1.1.1995 tarihinden önceki vergilendirme dönemlerinde işlenen kaçakçılık suçları için kesilmesi gereken cezada ve yapılacak uzlaşmada, 4008 S. Kanunla V.U.K.'nun ceza ve uzlaşma hükümlerinde yapılan değişikliklerin dikkate alınıp alınmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27191",
+  "source_sha256": "0269194b556d55d88ecabde9a779f3acb7e846ea4ccb961aea55332e34ad4ef5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
