@@ -1,0 +1,56 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 347980,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "21.6.1961 tarihli ve 309 sayılı kanunda bazı değişiklikler yapılmasına dair kanun tasarısı hakkında (1/633)",
+  "title": "21.6.1961 tarihli ve 309 sayılı kanunda bazı değişiklikler yapılmasına dair kanun tasarısı hakkında (1/633)",
+  "first_sitting_date": "1964-03-10",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 28,
+      "sitting": 67,
+      "sitting_date": "1964-03-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028fih.pdf",
+      "pages": [
+        "480"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 95,
+      "sitting_date": "1964-04-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c030/mm__01030095.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c030/mm__01030fih.pdf",
+      "pages": [
+        "105:108"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 96,
+      "sitting_date": "1964-04-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c030/mm__01030096.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c030/mm__01030fih.pdf",
+      "pages": [
+        "190:193"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=6601&v_kullanici_id=27484836",
+  "source_sha256": "31b2c4bf6cb96d8822ea10d268841a778aeb9ba6f6970cb494e5912bef997dbb",
+  "in_force": "1964-03-10",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
