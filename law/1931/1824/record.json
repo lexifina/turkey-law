@@ -1,0 +1,62 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1824",
+  "year": 1931,
+  "title": "Tuz inhisarı Umum Müdürlügünün 1931 malî senesi Haziran ve Temmuz aylarına aid muvakkat Bütçe Kanunu",
+  "adopted": "1931-06-01",
+  "adopted_as_published": "01/06/1931",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "03.06.1931 No: 1813",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001824.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 10",
+  "committee_reports": [
+    {
+      "label": "TBMM 27 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002008ss0027.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 111942,
+      "title": "Tuz inhisarı Umum Müdürlügünün 1931 malî senesi Haziran ve Temmuz aylarına aid muvakkat Bütçe Kanunu",
+      "adopted_as_published": "01/06/1931",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001824.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 27 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002008ss0027.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 8,
+          "sitting_date": "1931-06-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002008.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002fih.pdf",
+          "pages": [
+            "2:3",
+            "8:10",
+            "25:28"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=801&v_kullanici_id=27483155",
+      "page_sha256": "ae50e0221a42c74aeb7ef13b5d192243e1ff8b95265b2b6c2cd663dd59d15a6f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ae50e0221a42c74aeb7ef13b5d192243e1ff8b95265b2b6c2cd663dd59d15a6f",
+  "issuer": "TBMM",
+  "in_force": "1931-06-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 01/06/1931; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
