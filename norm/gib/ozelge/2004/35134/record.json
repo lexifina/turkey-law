@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6205-",
+  "source_id": 35134,
+  "date": "2004-12-11",
+  "title": "İhale kararına ilişkin olarak ödenen damga vergisi, Maliye Bakanlığı tarafından vize edilmezse, damga vergisinin iadesinin mümkün olmaması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35134",
+  "source_sha256": "f7ccf13c8285e674798ce767b06fba5211a536ef16354c49fd91b12469fd72d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
