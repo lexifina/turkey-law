@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "287",
+  "decision_date": "2004-01-08",
+  "title": "2004 yılı ulusal doğal gaz tüketim tahminine ilişkin",
+  "resmi_gazete_date": "2004-01-13",
+  "resmi_gazete_number": "25345",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=y+hI09pIZA0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=y+hI09pIZA0="
+  ],
+  "source_sha256": "bd2ea7c84d60b9f4af69107ca913453aa1a73db4415fc6095f7a24121f78d93f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-01-08",
+  "law_text_complete": false
+}
