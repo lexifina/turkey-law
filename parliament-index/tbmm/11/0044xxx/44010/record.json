@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 44010,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "6290 numaralı Kanuna ekli Gümrük Giriş Tarife Cetvelinin 49. faslının 49,11 pozisyonunda tâli pozisyon açılmasına mütedair kanun lâyihası hakkında (1/60)",
+  "title": "6290 numaralı Kanuna ekli Gümrük Giriş Tarife Cetvelinin 49. faslının 49,11 pozisyonunda tâli pozisyon açılmasına mütedair kanun lâyihası hakkında (1/60)",
+  "first_sitting_date": "1958-06-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 75,
+      "sitting_date": "1958-06-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c004/tbmm11004075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c004/tbmm11004fih.pdf",
+      "pages": [
+        "285",
+        "659:660",
+        "670",
+        "703",
+        "754:758"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1113&v_gelecek_sayfa=101&v_kullanici_id=27484293",
+  "source_sha256": "8c805067996cd0fdcf1da9d6448dd83d8d3a57755da57f892e9b088c4569ca88",
+  "in_force": "1958-06-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
