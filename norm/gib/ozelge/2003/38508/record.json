@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0-32/3223-2687",
+  "source_id": 38508,
+  "date": "2003-04-18",
+  "title": "Katma değer vergisi iadesi talebinde bulunan mükellef ya da mükellefe mal ve hizmet tesliminde bulunan alt mükelleflere ait rapor dispozisyonu ve şekle müteallik hususlardaki eksikliklerin Yeminli Mali Müşavirlere tamamlatılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38508",
+  "source_sha256": "48dab2bcdb81ab559f2e8990fab8e7b7efa25ac79a30c89124e3a3e13c2437de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
