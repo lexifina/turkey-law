@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 347938,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Kars Milletvekili Hasan Erdoğan ile Tunceli Milletvekili Fethi Ülkü'nün, memurin Kanununun bazı maddeleri ile buna müzeyyel olan 1777 sayılı kanunun 3. maddesini tadil eden 2919 sayılı kanunun 4. maddesine bir fıkra eklenmesine dair kanun teklifi hakkında (2/469)",
+  "title": "Kars Milletvekili Hasan Erdoğan ile Tunceli Milletvekili Fethi Ülkü'nün, memurin Kanununun bazı maddeleri ile buna müzeyyel olan 1777 sayılı kanunun 3. maddesini tadil eden 2919 sayılı kanunun 4. maddesine bir fıkra eklenmesine dair kanun teklifi hakkında (2/469)",
+  "first_sitting_date": "1963-12-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 24,
+      "sitting": 20,
+      "sitting_date": "1963-12-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024fih.pdf",
+      "pages": [
+        "32"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=6401&v_kullanici_id=27484836",
+  "source_sha256": "e44736629b4a95037d372e98dd3318c8e7cca1ee55a32aeab060d5e49da501e2",
+  "in_force": "1963-12-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
