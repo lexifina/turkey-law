@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2512",
+  "year": 1934,
+  "title": "Büyük Millet Meclisi memurlarının teşkilat ve vazifeleri hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-06-23",
+  "gazette_issue": "2734",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2734.pdf",
+  "source_sha256": "be14301af93260175e52831c2d4bc124262cab749d1506529cf289c59526d8af",
+  "text_sha256": "799a234b7c11560091ae1dedcb63d130e679b284708dba27c5ea5f5e83b50437",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      131,
+      682
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302512.pdf",
+    "source_sha256": "c87192844b6c0e260956770ca60c3ed155937c2bdedeacbda57ee6dd92afabc2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9472,
+    "bag": 0.9335,
+    "kd_coverage": 0.9765,
+    "kd_body_compared": 0.9765,
+    "rg_words": 1250,
+    "kd_words": 1276,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
