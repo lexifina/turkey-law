@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6375-213/10439",
+  "source_id": 37481,
+  "date": "1999-03-16",
+  "title": "01.02.1998 tarihinden sonra Yatırım Teşvik Belgesi kapsamında kullanılacak yatırımlarla ilgili yatırım kredisi ve buna ilişkin işlem ve kağıtlar için damga vergisi ve harçtanuygulanmaz.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/37481",
+  "source_sha256": "79a33e38685a24b3e7d7d1b6bb9fb73d7cce491b3b69a413bdcd39210bb9cbf7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
