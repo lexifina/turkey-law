@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3748",
+  "year": 1939,
+  "title": "Mehakimin teşkilâtına ait ahkâmı muaddil kanunun 5. maddesiyle maddel muvakkatesine birer fıkra ilâvesine mütedair 981 numaralı kanunun 2. maddesinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-12-26",
+  "gazette_issue": "4394",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4394.pdf",
+  "source_sha256": "c6e17adb97eb9275897c87d8e694f6572f016c57050dd70a1234429d045b1b80",
+  "text_sha256": "753fbdc0d68144862932dfdddacb8a3ceb0fb90dd8a0baed1097f4af11fea819",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      82,
+      107
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103748.pdf",
+    "source_sha256": "e01b899585373abe3a83909264a88e90a9c17620ecc0346fb284134b3f97826c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9832,
+    "bag": 0.8993,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.972,
+    "rg_words": 139,
+    "kd_words": 143,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
