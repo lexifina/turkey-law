@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.44/44423-228/46081",
+  "source_id": 23002,
+  "date": "2000-10-11",
+  "title": "Şehir içi yolcu taşımacılığı yapan mükelleflerin perakende satış fişi değil, yolcu taşıma bileti kullanmaları gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23002",
+  "source_sha256": "9210ad1b75472850b1b86997a69fd29316230b9669c84b72165e500b90a47cf3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
