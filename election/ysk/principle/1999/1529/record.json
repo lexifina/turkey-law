@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/1529",
+  "list_number": "1529",
+  "decision_date": "1999-05-15",
+  "title": "YSK ilke kararı 1999/1529",
+  "summary": "Olağanüstü itiraz için yedi günlük itiraz süresi öngörülmüş olup, bu süre geçtikten sonra yapılan itirazın reddi gerekir.",
+  "concepts": "İTİRAZ SÜRESİ,  OLAĞANÜSTÜ İTİRAZDA SÜRE",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4616/1999-1529-karar.htm",
+  "source_sha256": "38bf6eb3f1d226393a71eacd237e63b8acadaba919f923cc60179f082c03c5ee",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "1999-05-15",
+  "law_text_complete": true
+}
