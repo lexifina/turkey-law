@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1833",
+  "year": 1953,
+  "title": "Reisicumhur Celâl Bayar'ın Nutuklarının Bastırılıp Dağıtılması Hakkında",
+  "adopted": "1953-11-01",
+  "adopted_as_published": "01/11/1953",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.09.1953 No: 8551",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/karartbmmc036/karartbmmc03601833.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 36",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 62713,
+      "title": "Reisicumhur Celâl Bayar'ın Nutuklarının Bastırılıp Dağıtılması Hakkında",
+      "adopted_as_published": "01/11/1953",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/karartbmmc036/karartbmmc03601833.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 1,
+          "sitting_date": "1953-11-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c025/tbmm09025001.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c025/tbmm09025fih.pdf",
+          "pages": [
+            "20"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=148&v_gelecek_sayfa=101&v_kullanici_id=27483274",
+      "page_sha256": "e7e51b0663870563b99a017aa6085e70935333aca688db432c744699c2447543"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e7e51b0663870563b99a017aa6085e70935333aca688db432c744699c2447543",
+  "issuer": "TBMM",
+  "in_force": "1953-11-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 01/11/1953; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
