@@ -1,0 +1,2 @@
+Madde 2- Bu Yönetmelik ; Devlet ormanlarında, ormanların gelişmesi için idarenin yapacağı teknik iş ve işlemler dışında ormancılık tekniğine uyulmak kaydıyla 6831 sayılı Orman Kanununun 14 üncü maddesi (A) bendindeki fidan sökmek veya dal kesmek ile orman hasılatı elde etmek üzere aynı maddenin (B) bendindeki ve muhtelif faydalar sağlamak için (C) bendindeki fiil ve hareketleri yapmak isteyenlere aynı kanununun 15 inci maddesi hükmüne göre verilecek izinlere ait esas ve usulleri kapsar.
+Hukuki Dayanak ;

@@ -1,0 +1,7 @@
+İzin :
+Madde 16- Yıllık üretim programına alınmış orman ürünlerinin dışındaki her türlü orman ürün ve artıkları, orman işletme şefliğince belirlenecek mıntıka ve sürelerde toplayıp çıkarmaları için öncelikle 6831 sayılı Orman Kanununun 40 ıncı maddesinde belirlenen orman köylerini kalkındırma kooperatiflerine veya işyeri civarındaki köylülere tarife bedeli ödemeleri şartıyla izin verilir.
+Bu yerlerdeki halkın ve kooperatiflerin bu işe istekli olmadıklarının veya yeterli iş güçlerinin bulunmadığından orman işletme şefliğince belirlenmesi ve belgelendirilmesi halinde bu ürün ve artıkların diğer isteklilerce kesilip, sökülüp veya toplanarak çıkarılmasına aynı şartlarla izin verilebilir.
+Ürünlerin kesilmesi, sökülmesi,toplanması ve orman dışına çıkarılması özel bir teknik gerektiriyor ise bu işe istekli olanlardan Orman Genel Müdürlüğünce bilgi, eleman, makine, ekipman ve benzeri bakımlardan özel yeterlilik belgeleri istenir. Bu ürünlere Orman Genel Müdürlüğünün belirleyeceği satış fiyatları uygulanır.
+Ormana zararlı ağaççık ve kökler ile diğer zararlı bitkilerin Orman Genel Müdürlüğünce belirlenecek şartlarla üretilip ormandan çıkarılmasına bedelsiz izin verilebilir.
+Günübirlik piknik ve kamp alanlarındaki orman ürünlerinin toplanmasına hiçbir surette izin verilmez.
+Yukarıda verilecek izinlerle ilgili olarak Orman Genel Müdürlüğünce belirlenecek örneğe uygun olarak hazırlanan ve ürünlerin üretilmesi ve orman dışına çıkarılması arasında uyulması gereken teknik ve idari hususları kapsayan şartname, işe başlatılmadan önce talep sahiplerine imzalattırılır.

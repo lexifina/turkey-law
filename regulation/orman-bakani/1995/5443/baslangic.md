@@ -1,0 +1,5 @@
+ORMAN ÜRÜNLERİNDEN FAYDALANMAK İSTEYENLERE
+VERİLECEK İZİNLERE AİT YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Hukuki Dayanak ve Tanımlar
+Amaç ;
