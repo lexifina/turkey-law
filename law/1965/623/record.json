@@ -1,0 +1,147 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "623",
+  "year": 1965,
+  "title": "İstanbul'da Taksimde yapılacak oteli inşa edecek ve işletecek anonim ortaklığına Vakıflar Genel Müdürlüğünün, katılmasına dair Kanun",
+  "adopted": "1965-06-05",
+  "adopted_as_published": "05/06/1965",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.06.1965 No: 12021",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800623.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 48",
+  "committee_reports": [
+    {
+      "label": "MM 952 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039107ss0952.pdf"
+    },
+    {
+      "label": "CS 631no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028090ss0631.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 352487,
+      "title": "İstanbul'da Taksimde yapılacak oteli inşa edecek ve işletecek anonim ortaklığına Vakıflar Genel Müdürlüğünün, katılmasına dair Kanun",
+      "adopted_as_published": "05/06/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800623.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 952 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039107ss0952.pdf"
+        },
+        {
+          "label": "CS 631no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028090ss0631.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 36,
+          "sitting": 59,
+          "sitting_date": "1965-02-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036fih.pdf",
+          "pages": [
+            "199"
+          ]
+        },
+        {
+          "cilt": 39,
+          "sitting": 104,
+          "sitting_date": "1965-05-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039104.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039fih.pdf",
+          "pages": [
+            "147"
+          ]
+        },
+        {
+          "cilt": 39,
+          "sitting": 107,
+          "sitting_date": "1965-05-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039107.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039fih.pdf",
+          "pages": [
+            "410:414"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2201&v_kullanici_id=27483225",
+      "page_sha256": "72502e1956df30c5ef99199dc46917911e8471e14e17fcbaec377d2337359133"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 177257,
+      "title": "İstanbul'da Taksim'de yapılacak oteli inşa edecek ve işletecek Anonim Ortaklığına Vakıflar Genel Müdürlüğünün katılmasına dair",
+      "adopted_as_published": "05/06/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800623.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 952 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039107ss0952.pdf"
+        },
+        {
+          "label": "CS 631no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028090ss0631.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 28,
+          "sitting": 85,
+          "sitting_date": "1965-05-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028085.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028fih.pdf",
+          "pages": [
+            "2:3"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 90,
+          "sitting_date": "1965-06-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028090.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028fih.pdf",
+          "pages": [
+            "222",
+            "256:258"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 91,
+          "sitting_date": "1965-06-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028091.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028fih.pdf",
+          "pages": [
+            "281:295"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=601&v_kullanici_id=27483235",
+      "page_sha256": "5357870691ec6d0e13bb878c85f5731194f6982d1f16dd56598658fc277237bf"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "72502e1956df30c5ef99199dc46917911e8471e14e17fcbaec377d2337359133",
+  "issuer": "Millet Meclisi",
+  "in_force": "1965-06-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 05/06/1965; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
