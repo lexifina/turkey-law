@@ -1,0 +1,2 @@
+Yurtdışına çıkma yasağı
+Madde 9 – Bu Kanunun kapsamına giren suçlarda,şüpheli ve sanıkların yurt dışına çıkmalarının geçici olarak yasaklanmasına, hazırlık soruşturmasında hakim,son soruşturma safhasında ise mahkemece karar verilebilir. Ancak, gecikmesinde sakınca varsa Cumhuriyet savcısı da şüphelilerin yurt dışına çıkmalarının geçici olarak yasaklanmasına karar verebilir. Bu karar derhal ve nihayet yirmidört saat icinde hakimin onayına sunulur. Hakim kararını yirmidört saat içinde açıklar; aksi halde Cumhuriyet savcısının kararı kendiliğinden yürürlükten kalkar.

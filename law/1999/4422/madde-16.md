@@ -1,0 +1,2 @@
+Araştırma ve tedbire ilişkin hükümlerin uygulanacağı diğer haller
+Madde 16 – Bu Kanunun 2 ila 10 uncu maddeleri, Terörle Mücadele Kanunu kapsamına giren suçlarla, 21.7.1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu, 10.7.1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun ve Türk Ceza Kanununun 403,404 ve 406 ncı maddelerinde yer alan suçlar teşekkül halinde işlendiğinde de uygulanır.

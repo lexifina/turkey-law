@@ -1,0 +1,30 @@
+{
+  "source_id": "5.5.4422",
+  "path": "law/1999/4422",
+  "number": "4422",
+  "tertip": "5",
+  "title": "ÇIKAR AMAÇLI SUÇ ÖRGÜTLERİYLE MÜCADELE KANUNU",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1999-07-30",
+  "published": "1999-08-01",
+  "publication_basis": "Official law HTML header: Yayımlandığı R.Gazete : Tarih : 1.8.1999 Sayı : 23773",
+  "listing_publication_discrepancy": {
+    "resmiGazeteTarihi": "30.08.1999",
+    "resmiGazeteTarihiGun": "01",
+    "resmiGazeteTarihiAy": "08",
+    "resmiGazeteTarihiYil": "1999"
+  },
+  "in_force": "2004-06-30",
+  "in_force_basis": "Official 4422 art. 11 footnote applies 5190 temporary art. 5; 5190 art. 4: \"Bu Kanun yayımı tarihinde yürürlüğe girer.\"; official 5190 publication: 30/6/2004, issue 25508.",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=4422&MevzuatTertip=5",
+  "amendment_date_source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=1&MevzuatNo=5190&MevzuatTertip=5",
+  "source_sha256": "f8feed314ae407b133a85008e32204a2ad25ecaf12d618bfcc67d86cfafeb3a9",
+  "amendment_source_sha256": "a95f132283e8ccb4b0004403868e0dfb3813931424905cf10a438518d8cb1a5d",
+  "words": 1919,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "first_law": null,
+  "history_note": "Earlier versions are not established by this current HTML source. The snapshot includes the official footnote applying law 5190 temporary article 5."
+}

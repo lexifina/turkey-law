@@ -1,0 +1,13 @@
+İletişimin dinlenmesi veya tespiti
+Madde 2 – Bu Kanunda öngörülen suçları işleme veya bunlara iştirak yahut işlendikten sonra faillere her ne suretle olursa olsun yardım veya aracılık veyayataklık etme kuşkusu altında bulunan kimselerin kullandıkları telefon, faks ve bilgisayar gibi kablolu, kablosuz veya diğer elektromanyetik sistemlerle veya tek yönlü sistemlerle alınan veya iletilen sinyalleri, yazıları, resimleri, görüntü veya sesleri ve diğer nitelikteki bilgileri dinlenebilir veya tespit edilebilir. Tespit edilenler mühürlenerek yetkililerce zapta bağlanır.
+_______________
+(1) Bu arada bulunan; “veya kişileri kendilerine tabi kılmaya zorlamak veya mensupları arasında her ne suretle olursa olsun açık veya gizli işbirliği yapmak” ibaresi 6/12/2001 tarihli ve 4723 sayılı Kanunun 3 üncü maddesiyle metinden çıkarılmıştır.
+(2) Bu fıkrada bulunan; “zor veya tehdit” ibaresi, 6/12/2001 tarihli ve 4723 sayılı Kanunun 3 üncü maddesiyle “tehdit, baskı, cebir veya şiddet” olarak değiştirilmiş ve metne işlenmiştir.
+7640
+İletişimin dinlenmesine veya tespitine ilişkin kararlar, ancak kuvvetli belirtilerin varlığı halinde verilebilir.
+Başka bir tedbir ile failin belirlenmesi, ele geçirilmesi veya suç delillerinin elde edilmesi mümkün ise, iletişimin dinlenmesine veya tespitine karar verilemez.
+Resmi veya özel her türlü iletişim kuruluşlarının tuttukları, iletişimin içeriği dışında kalan kayıtlar hakkında da yukarıdaki hükümler uygulanır.
+Dinlenme veya tespite veya kayıtların incelenmesine hakim karar verir. Gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısıda bu hususlarda yetkilidir. Hakim kararı olmaksızın yapılan bu gibi işlemlerin yirmi dört saat içinde hakim kararına bağlanması şarttır. Sürenin dolması veya hakim tarafından aksine karar verilmesi halinde tedbir Cumhuriyet Savcısı tarafından derhal kaldırılır.
+Dinleme ve tespit kararları en çok üç ay için verilebilir, bu süre en çok iki defa üçer aydan fazla olmamak üzere uzatılabilir.
+İletişimin dinlenmesi ve tespiti sırasında bu Kanunda öngörülen suçların işlendiğine ilişkin şüphe ortadan kalkarsa, tedbir Cumhuriyet savcısı tarafından kaldırılır. Bu gibi hallerde tedbir uygulaması sonucu elde edilen verilir, Cumhuriyet savcısının denetimi altında derhal ve nihayet on gün içinde yok edilirve durum bir tutanakla belirlenir.
+Cumhuriyet savcısı veya görevlendireceği kolluk mensubu, iletişim kurum ve kuruluşlarında görevli veya böyle bir hizmeti vermeye yetkili olanlardan, dinleme ve kayda alma işlemlerinin yapılmasını ve bu amaçla cihazların kurulmasını istediğinde, bu istem derhal yerine getirilir ve işlemin başladığı ve bitirildiği tarih ve saat bir tutanakla saptanır.
