@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6966",
+  "year": 1957,
+  "title": "Ordu mensuplarının nakil ve tâyinleri hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-05-23",
+  "gazette_issue": "9614",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9614.pdf",
+  "source_sha256": "53691bfc2c42c51920172b2a3f51df7a9fa2dcd1ec1b22af128389dbee40be53",
+  "text_sha256": "68319faaf75de6fb77b094e819368e851c638d1242952c975e034620438f7191",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      1266,
+      1293
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [6] (no text layer)",
+    "tesseract_pages": [
+      6
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906966.pdf",
+    "source_sha256": "26c817125bd247101fb427dd25c84a2e421655f2226f20125dc85f43f1984806",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9811,
+    "bag": 0.9056,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9891,
+    "rg_words": 178,
+    "kd_words": 184,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
