@@ -1,0 +1,13 @@
+Görevler
+Madde 3- Merkezin görevleri şunlardır:
+a) Bölgenin doğal, tarihi ve kültürel çevresi ile ilgili değerlerin belirlenmesi ve korunması için gerekli çalışmaları yapmak, bu amaçla çeşitli bakanlık temsilcileri, belediyeler, gönüllü kuruluşlar, araştırma kurumları ve diğer üniversitelerle ilişkiler kurmak, işbirliği yapmak,
+b) Ekoloji ve çevre konuları ile ilgili kongre, panel, seminer, konferans, yaz okulları ve kurslar düzenlemek, düzenlenenlere katılmak ve üniversite eleman ve öğrencilerinin katılımını sağlamak, toplumu çevre konusunda bilgilendirmek, Üniversitede, okullarda, kamuoyunda çevre bilincinin yaratılması faaliyetlerinde bulunmak,
+c) Ekoloji ve çevre ile ilgili her türlü dokümantasyonu sağlamak, bunlardan Üniversite kamuoyunun yararlanmasını gerçekleştirmek, Üniversite dışından gelen çevre ile ilgili yayın, duyuru, toplantı ve projeleri Üniversite birimlerine duyurmak, aynı şekilde Üniversitenin çevre faaliyetlerini diğer kurumlara duyurmak,
+d) Ekoloji ve çevre sorunlarının saptanması ve çözümü için bölge düzeyinde danışmanlık hizmeti vermek,
+e) Yurtiçi ve yurtdışı kaynaklardan çevreye ilişkin araştırma ve uygulama projeleri için maddi destek sağlamak,
+f) Üniversitenin farklı birimlerinde çevreyi iyileştirici, koruyucu araştırma ve uygulamaları teşvik etmek ve desteklemek, üniversiteler, birimler ve disiplinler arasında eşgüdüm sağlamak, diğer benzer yurtiçi, yurtdışı araştırma ve akademik kuruluşlarla ortak çalışmaların yürütülmesini gerçekleştirmek,
+g) Merkez Yönetim Kurulunca belirlenecek bedeli karşılığında, özel ve kamu kuruluşlarının istemi üzerine, çevre ile ilgili araştırma ve uygulama projeleri, çevre ve atık denetimi, çevre etki değerlendirilmesi, eğitim kursları yapmak ve yaptırmak,
+h) Üniversitede çevre sorunları konusunda araştırma ve uygulama yapacak olan öğretim elemanları ve öğrencilerin yetişmesini teşvik etmek, bunun gerçekleşmesi için gerekli ortam ve ilgili olanakları hazırlamak, Üniversitede çevre konularındaki mezuniyet öncesi ve sonrası eğitime katkıda bulunmak,
+ı) Çevre konularında eğitim ve öğretim görmek ya da görgü ve bilgisini geliştirmek üzere yurtdışına gitmek isteyen öğrenci ve öğretim elemanlarına destek vermek, gerekli ilişkileri kurarak burslar sağlamak, yurtdışından bu amaçla gelenlere yardımcı olmak,
+i) Çevre araştırma ve uygulamalarıyla ilgili gerekli laboratuvar, atölye ve diğer tesisleri kurmak veya Üniversitenin çeşitli birimlerinde mevcut laboratuvar, benzer tesisler ve elemanlardan çevre araştırma ve uygulamaları için yararlanılmasını sağlamak,
+j) Çevre Sorunları Araştırma ve Uygulama Merkezinin kuruluş amacına, Yükseköğretim Kanunu amaç ve ilkelerine uygun diğer çalışmaları yapmak.

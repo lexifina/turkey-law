@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 20- Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1998-06-21",
+      "21.06.1998",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 20- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "23379",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1998-06-21",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/1998/7296",
+  "published": "1998-06-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7296&MevzuatTertip=5",
+  "source_bytes": 31913,
+  "source_id": "8.5.7296",
+  "source_sha256": "ce52e8156c9453d9fe5bcb074ae83ea7c31c939644e6b560cb433cef03078501",
+  "text_status": "as-enacted",
+  "title": "AKDENİZ ÜNİVERSİTESİ ÇEVRE SORUNLARI ARAŞTIRMA VE UYGULAMA MERKEZİ (AKÇAM) YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 1147
+}

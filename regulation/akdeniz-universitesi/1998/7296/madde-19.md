@@ -1,0 +1,1 @@
+Madde 19- 22/1/1991 tarih ve 20763 Sayılı Resmî Gazete’de yayımlanan “Akdeniz Üniversitesi Çevre Soruları Uygulama ve Araştırma Merkezi Yönetmeliği” değişiklikleri ile birlikte yürürlükten kaldırılmıştır.

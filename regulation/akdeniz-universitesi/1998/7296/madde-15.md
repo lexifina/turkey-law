@@ -1,0 +1,1 @@
+Madde 15- Merkezin akademik, teknik ve idari personel ihtiyacı usulüne göre tahsis edilen kadrolara yapılan atamalar ve 2547 sayılı Yükseköğretim Kanununun 13 üncü maddesine göre Rektör tarafından görevlendirilecek elemanlar ve gerektiğinde ücreti Merkez Döner Sermayesinden ödenmek üzere sözleşmeli personelce karşılanır.

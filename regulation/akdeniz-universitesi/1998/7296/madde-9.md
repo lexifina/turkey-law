@@ -1,0 +1,2 @@
+Danışma Kurulu
+Madde 9- Merkez Danışma Kurulu, doğal üyeler olan Yönetim Kurulu Üyeleri ile çevre konularında bilgi, deneyim ve beceri sahibi, Üniversite içi ya da dışından, Yönetim Kurulu Kararıyla belirlenmiş kişilerden oluşur. Sadece Yönetim Kurulu Üyeleri, Danışma Kuruluna üye önerebilirler. Adaylar, Yönetim Kurulu Kararıyla bir yıllık süre için Danışma Kurulu Üyeliğine seçilebilirler. Danışma Kurulu, Merkez Müdürünün yazılı daveti üzerine en geç 3 (üç) ayda bir toplanır.
