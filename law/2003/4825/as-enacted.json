@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4825",
+  "year": 2003,
+  "title": "İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-03-20",
+  "gazette_issue": "25054",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030320.htm",
+  "source_sha256": "14ca4ee800749373b063434635e2de6d05b7ade889b2c4c2517225130e207c62",
+  "text_sha256": "11673a40bd503eeca4380c2178e9993f96e102032273fb3658935c1bb59df7e7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/03/20/25054-25",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030320.htm#25",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
