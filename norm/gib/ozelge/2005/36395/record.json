@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2344/13461",
+  "source_id": 36395,
+  "date": "2005-03-23",
+  "title": "Veraset ve intikal vergisine konu olacak gayrimenkuller için emlak vergisi değerinin asgari bir değer olması hususunda.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36395",
+  "source_sha256": "389644d146924230bf8487642c14d63e2b3106485953c3092e0c57d5dc517e38",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
