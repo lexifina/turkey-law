@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 355093,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "LOKMAN BAŞARAN (ISPARTA)",
+  "summary": "Ve 3 Arkadaşı TC Emekli Sandığı Kanununa Geçici maddeler eklenmesine dair S. Sayısı 756 ve 2/355, 450, 438, 542 ve 420 esas kayıt numaralarını havi Kanun teklifi (2/420)",
+  "title": "Ve 3 Arkadaşı TC Emekli Sandığı Kanununa Geçici maddeler eklenmesine dair S. Sayısı 756 ve 2/355, 450, 438, 542 ve 420 esas kayıt numaralarını havi Kanun teklifi (2/420)",
+  "first_sitting_date": "1965-01-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 35,
+      "sitting": 45,
+      "sitting_date": "1965-01-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035fih.pdf",
+      "pages": [
+        "172"
+      ]
+    },
+    {
+      "cilt": 36,
+      "sitting": 59,
+      "sitting_date": "1965-02-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036fih.pdf",
+      "pages": [
+        "200"
+      ]
+    },
+    {
+      "cilt": 36,
+      "sitting": 62,
+      "sitting_date": "1965-02-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036fih.pdf",
+      "pages": [
+        "321"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=6001&v_kullanici_id=27484893",
+  "source_sha256": "649c43de03685cb893514fb90f507f8b2b0f254beaeb5e0e1b67fee6a2e52d28",
+  "in_force": "1965-01-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
