@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07 .0.GEL.0.32/3226-1357",
+  "source_id": 27194,
+  "date": "2004-04-12",
+  "title": "Tam tasdik sözleşmesi düzenleyen yeminli mali müşavirler, belgelerin yasal süreleri içerisinde Muhasebe Sistemi Uygulama Genel Tebliğlerine, genel muhasebe kurallarına, vergi mevzuatına ve ilgili diğer mevzuata uygun ve doğru olarak yasal defterlere kayde",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/27194",
+  "source_sha256": "72faf89212ca7e51d51dc6a49340260cea744dbab9e01b54d8c34fd15bffd6a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
