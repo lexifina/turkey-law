@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2893",
+  "year": 1936,
+  "title": "Subaylara ve askerî memurlara verilecek elbise ve teçhizat bedeli hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-01-25",
+  "gazette_issue": "3215",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3215.pdf",
+  "source_sha256": "20bbe2867da7e4af728099b5efaba6e9145287fb5fb0ee0a72a4870a0f62c330",
+  "text_sha256": "3b54a519d45ce8ef70e2b6d6c4f051b3ba25fc41fb6bff5a1426cc40d7b4e8fb",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      36,
+      63
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602893.pdf",
+    "source_sha256": "2832181541c2d56b5de5122467f73d375018f5a7656be48d28577c2b9e2602f7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9521,
+    "bag": 0.9402,
+    "kd_coverage": 0.9593,
+    "kd_body_compared": 0.9593,
+    "rg_words": 116,
+    "kd_words": 123,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
