@@ -1,0 +1,2 @@
+Dönem Değerlendirme Raporu
+Madde14- Müdürlükçe, İl Koordinasyon Kuruluna sunulmak üzere o dönem itibariyle, ildeki merkezi ve mahalli idareler yatırımlarının sektörlere ve yatırımcı kuruluşlara göre fiziki ve nakdi gerçekleşme durumlarını, karşılaşılan sorunları ve çözüm tekliflerini kapsayan bir dönem değerlendirme raporu hazırlanır ve toplantı öncesinde valiye, kurul üyelerine ve Devlet Planlama Teşkilatına gönderilir.

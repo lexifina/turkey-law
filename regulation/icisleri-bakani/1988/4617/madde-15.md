@@ -1,0 +1,4 @@
+Yatırımların izlenmesi
+Madde 15- Müdürlükçe, il içindeki merkezi ve mahalli idareler yatırımları, yatırımcı kuruluşlardan valilikçe istenen yıllık yatırım projeleri ve bu projeler için hazırlanacak çalışma ve iş programları ile yatırım uygulama raporlarına dayalı olarak vali adına ve vali tarafından düzenlenecek program dairesinde yerinde izlenir.
+Her ilde müdürlük bünyesinde, kamu yatırımlarına ilişkin bilgilerin çeşitli harita ve panolar yardımıyla göze hitap edecek şekilde değerlendirilmesi ve ildeki kamu kurum ve kuruluşlarının araç-gereç ve personel durumları ile yatırımlarının gerçekleşme durumlarının izlenmesi, kaynak kullanımında ve yeni yatırım kararlarının alınmasında işbirliği, koordinasyon, sürat ve kolaylık sağlanmasında yararlanılmak üzere bir”Yatırımları İzleme Odası” düzenlenir.
+Valilikler, bu harita ve panoların yanında, yatırım özelliklerine göre düzenleyecekleri yeni panolardan da yararlanabilirler.
