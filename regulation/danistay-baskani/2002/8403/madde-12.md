@@ -1,0 +1,4 @@
+Disiplin Kurulunun karar süresi ve usulü
+Madde 12- Soruşturmacı tarafından kademe ilerlemesinin durdurulması cezasının önerilmesi veya disiplin amirince soruşturma raporu içeriğinden eylemin kademe ilerlemesinin durdurulması cezasını gerektirdiği sonucuna varılması hallerinde soruşturma dosyası, Danıştay Başkanlığı aracılığıyla soruşturmanın tamamlandığı tarihten itibaren on beş gün içinde Disiplin Kuruluna gönderilir. Disiplin Kurulu, gerekli gördüğünde memurun yeniden savunmasını alarak dosyadaki bilgi ve belgelere göre soruşturma dosyasını aldığı tarihten itibaren otuz gün içinde karar verir ve sonucu Danıştay Başkanına bildirir.
+Kademe ilerlemesinin durdurulması cezası, Disiplin Kurulunun cezanın kabulü yönündeki kararı üzerine Danıştay Başkanınca verilir.
+Disiplin Kurulunun ret kararı vermesi halinde atamaya yetkili amir sıfatıyla Danıştay Başkanı, on beş gün içinde ilgili hakkında uyarma, kınama veya aylıktan kesme cezalarından herhangi birini verebilir.

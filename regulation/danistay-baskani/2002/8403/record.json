@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.8403",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DANIŞTAY MEMURLARI DİSİPLİN KURULU VE DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "8403",
+  "issuer": "Danıştay Başkanı",
+  "issuer_slug": "danistay-baskani",
+  "path": "regulation/danistay-baskani/2002/8403",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8403&MevzuatTertip=5",
+  "source_sha256": "843b4ec601552b18ff36640dc864a4b34a4bdf91fd8b812686034568a3536e6d",
+  "source_bytes": 63553,
+  "published": "2002-12-31",
+  "gazette": "24657",
+  "in_force": "2002-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2002); own commencement article: \"Bu Yönetmelik, Resmi Gazetede yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, Resmi Gazetede yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1400,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,5 @@
+Disiplin soruşturması
+Madde 8- Danıştay'da görevli memurun disipline aykırı davranışının öğrenilmesi üzerine, disiplin amirinin görevlendireceği bir soruşturmacı tarafından derhal disiplin soruşturmasına başlanır ve durum Danıştay Başkanlığına bildirilir. Soruşturmacı olarak görevlendirilen kişinin, hakkında soruşturma yapılan memura eşit veya daha üst bir görevde bulunması zorunludur. Disiplin amirince yargısal veya idari diğer birimlerden soruşturmacı görevlendirilmesi Danıştay Başkanının onayı ile yapılır.
+Danıştay Başkanı da gerekli gördüğü hallerde Danıştay'da görevli tüm memurlar hakkında soruşturma açabilir.
+Hakkında ceza soruşturması yapılan memurun eylemi disiplin yönünden de gereğinin takdir ve ifası için derhal disiplin amirine bildirilir. Aynı olaydan dolayı memur hakkında ceza soruşturması başlatılmış veya ceza davası açılmış olması nedeniyle disiplin soruşturması geciktirilemez.
+Soruşturma sonucu disiplin cezasının gerektiren eylem veya hallerle ilgili olarak delil niteliğindeki tüm belgeleri ve bilgi sahibi olanların ifadelerini içeren soruşturma dosyası oluşturulur.
