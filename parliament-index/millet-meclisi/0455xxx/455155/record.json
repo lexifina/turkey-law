@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 455155,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Türkiye Cumhuriyeti Hükümeti ile Yunanistan Krallık Hükümeti arasında Trakya Hududunun İşaretlenmesi Hakkında Anaprolokol ile eklerinin onaylanmasının uygun bulunduğuna ilişkin Kanun Tasarısı. (1/145)",
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Yunanistan Krallık Hükümeti arasında Trakya Hududunun İşaretlenmesi Hakkında Anaprolokol ile eklerinin onaylanmasının uygun bulunduğuna ilişkin Kanun Tasarısı. (1/145)",
+  "first_sitting_date": "1979-01-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 37,
+      "sitting_date": "1979-01-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c008/mm__05008037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c008/mm__05008fih.pdf",
+      "pages": [
+        "534:535",
+        "552",
+        "586.591:594"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=301&v_kullanici_id=27484850",
+  "source_sha256": "95a1d6ff2c89f989391b2a9f2a04744c965530fd2c332d16a2e9582e0625839c",
+  "in_force": "1979-01-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
