@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5600-256/9382",
+  "source_id": 36801,
+  "date": "2000-02-29",
+  "title": "Tarım Kredi Kooperatifleri aracılığıyla üreticilere kullandırılan tarımsal kredilerde, bankalarca tarımsal krediye uygulanan faiz oranı arasındaki fark nedeniyle Hazine  Müsteşarlığı tarafından görev zararı olarak banka gelirlerine alınan faizlerin B.S.M.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36801",
+  "source_sha256": "a74f834dd66823d3c4252150c2867e40fb1068d3066a87711400a8947d4d9739",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
