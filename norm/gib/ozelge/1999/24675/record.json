@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4422-33/49938",
+  "source_id": 24675,
+  "date": "1999-11-16",
+  "title": "Şirket tarafından vergi mükellefiyeti olmayan (nihai tüketici) kişiden satın alınan mal ve hizmet için gider pusulası düzenlenmesi ancak, vergi tevkifatının yapılmaması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24675",
+  "source_sha256": "0c9d49cd81900e495e33bade84be6e6d16a47d922b662c6ed95b9c40ef6ff9dc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
