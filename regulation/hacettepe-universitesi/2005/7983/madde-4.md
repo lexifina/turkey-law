@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+Madde 4 — Hacettepe Üniversitesine bağlı bir birim olan Merkezin amacı; Üniversitenin Fen Bilimleri Enstitüsü “Orta Öğretim ve Matematik Öğretmenliği” ile “Biyoloji Anabilim Dalları” ve diğer fakülte, yüksekokul ve bölümlerin ilgili anabilim dallarının işbirliği ile disiplinler üstü olan çevre eğitimi, kuş araştırma ve kuş halkalama çalışmaları gibi önemli ornitolojik konuların gelişmiş ülkelerde izlenen biçimiyle Türkiye’de de etkili bir şekilde yaygınlaşmasına katkıda bulunmak, bu bağlamda ulusal ve uluslararası kurum ve kuruluşlarla müşterek çalışmalar yürütmek için diğer üniversiteler de dahil olmak üzere, özel ve tüzel kurum ve kuruluşların ihtiyaç duydukları konularda evrensel düzeyde uygulama ve araştırma yaparak örgün ve yaygın eğitime yönelik faaliyetlerde bulunmak ve Üniversite dışındaki kuruluşlarla müşterek çalışma ortamı sağlamayı gerçekleştirmektir.

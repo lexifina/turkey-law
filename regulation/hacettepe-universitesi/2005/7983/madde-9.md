@@ -1,0 +1,2 @@
+Merkez yönetim kurulu
+Madde 9 — Merkez Yönetim Kurulu; Merkez Müdürünün başkanlığında merkez müdür yardımcısı ve merkez birim başkanlarından oluşur. Merkez Yönetim Kurulu akademik bir organ olup, merkezin eğitim, öğretim, bilimsel araştırma ve yayın faaliyetleri ile bu faaliyetlerle ilgili esasları kararlaştırır. Yönetim Kurulu yılda en az dört kez ve gerektiğinde Merkez Müdürünün çağrısı üzerine toplanır. Merkez Yönetim Kurulunun kararları oy çokluğu ile alınır.
