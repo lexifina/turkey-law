@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 18,
+  "term_label": "18. Dönem",
+  "legislative_year": 2,
+  "cilt": 24,
+  "sitting": 73,
+  "label": "73. Birleşim",
+  "sitting_date": "1989-04-04",
+  "date_as_published": "04 Nisan 1989",
+  "weekday": "Salı",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c024/tbmm18024073.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c024/tbmm18024073gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c024/tbmm18024fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d18&v_yasama_yili=2&v_cilt=",
+  "source_sha256": "1acdb9b57e109ba60ea2361965663c946172559c73f25ff280551679bcc1bc4d",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
