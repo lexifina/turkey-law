@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2921-229-194",
+  "source_id": 25686,
+  "date": "2000-07-12",
+  "title": "Akaryakıt satışlarında, bankalar tarafından nihai tüketiciden alınan komisyon bedeli için fatura düzenlenip düzenlenmeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25686",
+  "source_sha256": "87b23bce502e389d3e1e818215d539b3dc8cd95b26045682750bf19a812efb5a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
