@@ -1,0 +1,82 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "715",
+  "year": 1932,
+  "title": "715 sayılı Karar",
+  "adopted": "1932-06-27",
+  "adopted_as_published": "27/06/1932",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "03.07.1932 No: 2140",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/karartbmmc011/karartbmmc01100715.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 11",
+  "committee_reports": [
+    {
+      "label": "TBMM 224 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c009/tbmm04009072ss0224.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112882,
+      "title": "715 sayılı Karar",
+      "adopted_as_published": "27/06/1932",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/karartbmmc011/karartbmmc01100715.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 224 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c009/tbmm04009072ss0224.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 9,
+          "sitting": 66,
+          "sitting_date": "1932-06-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c009/tbmm04009066.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c009/tbmm04009fih.pdf",
+          "pages": [
+            "180"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 71,
+          "sitting_date": "1932-06-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c009/tbmm04009071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c009/tbmm04009fih.pdf",
+          "pages": [
+            "339"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 72,
+          "sitting_date": "1932-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c009/tbmm04009072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c009/tbmm04009fih.pdf",
+          "pages": [
+            "372"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "641e7d2f8ee97d408e5bf6ec4570e830832a61ffffe8003be8b1b917ceea1b52"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "641e7d2f8ee97d408e5bf6ec4570e830832a61ffffe8003be8b1b917ceea1b52",
+  "issuer": "TBMM",
+  "in_force": "1932-06-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 27/06/1932; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
