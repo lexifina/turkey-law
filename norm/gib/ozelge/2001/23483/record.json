@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-1473/66153",
+  "source_id": 23483,
+  "date": "2001-12-10",
+  "title": "Ücretlinin yaptığı bu harcamaların bir kısmının işverenlerce karşılanması halinde, ücretlinin kendisinin karşıladığı harcama tutarı özel gider indirimine konu olabilir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23483",
+  "source_sha256": "845ca1a3f46b00a5e605193952e1fbded8e5b02ffed19042b85ae4f145273754",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
