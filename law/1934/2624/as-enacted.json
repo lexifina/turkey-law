@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2624",
+  "year": 1934,
+  "title": "Orta tahsil mekteplerinde yardımcı muallim çalıştırılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-12-26",
+  "gazette_issue": "2890",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2890.pdf",
+  "source_sha256": "f48a8bb6ad187ddf716c0887c16a4d358e07a9788d80fc683b1bcd6c35815b3b",
+  "text_sha256": "d1366164cf66a75599665b0c366bca401400bb3cb8a28e69d0661561699d6910",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      18,
+      70
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402624.pdf",
+    "source_sha256": "306c1a2ce7e0ea37d4de493170258666cedf44797663fa6c063e79f6c72f71f4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9419,
+    "bag": 0.9254,
+    "kd_coverage": 0.971,
+    "kd_body_compared": 0.971,
+    "rg_words": 134,
+    "kd_words": 138,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
