@@ -1,0 +1,204 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2228",
+  "year": 1979,
+  "title": "657 sayılı Devlet Memurları Kanununun 1897 sayılı Kanunla Değişik ek geçici 8. maddesinin 3 ve 4. fıkraları ile 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun 1323 sayılı Kanunla Değişik ek 9. maddesinin değiştirilmesi hakkında Kanun",
+  "adopted": "1979-04-18",
+  "adopted_as_published": "18/04/1979",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "25.04.1979 No: 16619",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202228.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 62",
+  "committee_reports": [
+    {
+      "label": "MM 141 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c009/mm__05009050ss0141.pdf"
+    },
+    {
+      "label": "MM 141ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012080ss0141ek01.pdf"
+    },
+    {
+      "label": "CS 904no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043048ss0904.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 453691,
+      "title": "657 sayılı Devlet Memurları Kanununun 1897 sayılı Kanunla Değişik ek geçici 8. maddesinin 3 ve 4. fıkraları ile 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun 1323 sayılı Kanunla Değişik ek 9. maddesinin değiştirilmesi hakkında Kanun",
+      "adopted_as_published": "18/04/1979",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202228.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 141 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c009/mm__05009050ss0141.pdf"
+        },
+        {
+          "label": "MM 141ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012080ss0141ek01.pdf"
+        },
+        {
+          "label": "CS 904no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043048ss0904.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 160,
+          "sitting_date": "1978-06-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006160.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006fih.pdf",
+          "pages": [
+            "425"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 163,
+          "sitting_date": "1978-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006163.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006fih.pdf",
+          "pages": [
+            "518:519"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 44,
+          "sitting_date": "1979-02-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c009/mm__05009044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c009/mm__05009fih.pdf",
+          "pages": [
+            "10"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 50,
+          "sitting_date": "1979-02-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c009/mm__05009050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c009/mm__05009fih.pdf",
+          "pages": [
+            "558:564"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 73,
+          "sitting_date": "1979-04-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012fih.pdf",
+          "pages": [
+            "132"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 80,
+          "sitting_date": "1979-04-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012fih.pdf",
+          "pages": [
+            "283",
+            "310:312"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=101&v_kullanici_id=27483225",
+      "page_sha256": "4a6dd473ee82376e4b9ef55568d9ed70f059194dfce0b327d385c91415064a57"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 332686,
+      "title": "657 sayılı Devlet Memurları Kanununun 1897 Sayılı Kanunla Değişik Ek Geçici 8 nci Maddecinin 3 ve 4 ncü Fıkraları ile 926 Sayılı Türk Silahlı Kuvvetleri Personel Kanununun 1323 Sayılı Kanunla Değişik Ek 9 ncu Maddesinin Değiştirilmesi Hakkında Kanun.",
+      "adopted_as_published": "18/04/1979",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202228.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 141 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c009/mm__05009050ss0141.pdf"
+        },
+        {
+          "label": "MM 141ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012080ss0141ek01.pdf"
+        },
+        {
+          "label": "CS 904no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043048ss0904.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 42,
+          "sitting": 42,
+          "sitting_date": "1979-02-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c042/cs__18042042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c042/cs__18042fih.pdf",
+          "pages": [
+            "471"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 46,
+          "sitting_date": "1979-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043fih.pdf",
+          "pages": [
+            "46"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 48,
+          "sitting_date": "1979-03-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043fih.pdf",
+          "pages": [
+            "165:169"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 52,
+          "sitting_date": "1979-03-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043fih.pdf",
+          "pages": [
+            "295",
+            "306"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2201&v_kullanici_id=27483235",
+      "page_sha256": "0799c7d26ace75dbc81a41d8398841fbf4d8af100f546707cbe58b5a0be8c0b4"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4a6dd473ee82376e4b9ef55568d9ed70f059194dfce0b327d385c91415064a57",
+  "issuer": "Millet Meclisi",
+  "in_force": "1979-04-18",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 18/04/1979; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
