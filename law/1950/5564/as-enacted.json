@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5564",
+  "year": 1950,
+  "title": "İş Kazalariyle Meslek Hastalıkları ve Analık Sigortaları hakkındaki Kanunun bazı maddelerinin değiştirilmesi ve bu Kanuna bazı maddeler eklenmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-03-06",
+  "gazette_issue": "7449",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7449.pdf",
+  "source_sha256": "c1facb047715911970d9adf6200d4e21313d4531f1fa150a3cf5b48f892ac865",
+  "text_sha256": "29f9243205a69ed3a6b030d97b3110e8e574eab36f1caa6015f3eb9712af5159",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      18,
+      478
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205564.pdf",
+    "source_sha256": "005f3fcc5196d76eb89e966e3cd7d160c75ba6c7c5f1fe018e2d1c6fb199dc95",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9804,
+    "bag": 0.8634,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9982,
+    "rg_words": 2708,
+    "kd_words": 2838,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
