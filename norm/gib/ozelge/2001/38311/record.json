@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3224-2177/7497",
+  "source_id": 38311,
+  "date": "2001-02-07",
+  "title": "YMM'ler tarafından vergi dairelerine teslim edilen KDV iadesi tasdik raporlarının tanzim eden YMM.'ler tarafından geri çekilip çekilmeyeceği hakkında. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38311",
+  "source_sha256": "7290ed3d03b2db17413e38910a0988bcbd08a18736cf48d27b2d7d19d452ef80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
