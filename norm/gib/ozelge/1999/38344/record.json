@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1032/17296",
+  "source_id": 38344,
+  "date": "1999-05-03",
+  "title": "İMKB nezdinde gerçekleşen işlemler nedeniyle merkezce tahsil edilen kurtaj bedeli matrahı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38344",
+  "source_sha256": "2fbe0946769ee34e59d4848766074c439b421e3458c5347fe424fbe804c32855",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
