@@ -1,0 +1,1 @@
+Geçici Madde 2 - Bakanlıkça yayımlanan 13/3/1980 ve 16/1/1987 tarihli ve 440-419/1395 ve 420.203/292 sayılı genelgeler, 34 üncü madde gereğince yeni bir genelge yayımlanıncaya kadar geçerliliğini muhafaza eder.

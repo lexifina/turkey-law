@@ -1,0 +1,5 @@
+Yetkili Kurulların İncelemesi
+Madde 8- İl İdare Kurulları karar vermeden önce, bizzat veya görevlendirecekleri komisyon marifetiyle, sınır anlaşmazlıklarını yerinde incelemek zorundadırlar.
+İl idare kurullarının hazırladığı dosya, valilikçe il genel meclisine gönderilir. İl genel meclisi dosya üzerinde karar verebileceği gibi, genel meclisce lüzum görülmesi halinde, yerinde de inceleme yaptırabilir.
+İhtilafın birden fazla il arasında olması halinde, ilgili illerin idare kurulları veya görevlendirecekleri komisyonlar önceden sağlanan mütabakat çerçevesinde, anlaşmazlık mahallinde buluşarak müştereken inceleme yaparlar. Bir sınır çizgisi üzerinde anlaşmaları halinde anlaşma tutanağı, anlaşamamaları halinde ise anlaşmazlık tutanağı düzenlerler ve kendi illerinin idare kurulu başkanlıklarına teslim ederler.
+İki il yetkililerinin, anlaşmayı yerinde incelemek üzere, bir araya gelmeleri mümkün olmazsa, buluşmama sebebini açıklayan bir tutanak tutulur ve tek yönlü inceleme yapılır. Hazırlanan tutanak rapor ve krokiden birer örneği karşı il valiliğine gönderilir.

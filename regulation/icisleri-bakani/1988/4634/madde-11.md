@@ -1,0 +1,4 @@
+Krokilerin Düzenlenmesi
+Madde 11- Yetkili kurullar, kararlarında teklif ettikleri sınır çizgisini belirleyen ve gizli dereceli 1/25.000 ölçekli paftalardan faydalanarak, koordinatları gösterilmeden düzenlenen 6 örnek krokiyi dosyasına eklerler. (Paftaların kullanılmasında Bakanlar Kurulu’nun 2/6/1973 tarihli ve 7/6526 sayılı Kararı ile yürürlüğe konulan “Bakanlıklar, Devlet Teşekkülleri, Üniversitelerle, Özel Müessese ve Şahısların Harita ve Harita Bilgilerini temin ve Kullanma Yönetmeliği”nde öngörülen yasaklara uyulması zorunludur.)
+Krokilerde, tarafların istediği sınır çizgileri ile yetkili kurulların teklif ettiği sınırlar ayrı ayrı renklerle çizilir. Daha önce kararname ile çizilmiş ve değiştirilmesi söz konusu olan sınır varsa o da ayrı bir renkle gösterilir.
+Bu krokiler bayındırlık ve iskan müdürlüğünce onaylanır.

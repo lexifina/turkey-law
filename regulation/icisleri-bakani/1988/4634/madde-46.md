@@ -1,0 +1,2 @@
+Valiliklerin Sorumluluğu
+Madde 46 - Bu Yönetmelik kapsamında kalan işlemlerin, yönetmeliğe uygun şekilde yürütülmesinden, hazırlanmasından, ilgili bürosunda muhafazasından ve taraflardan herhangi birinin idarî yargı merciine dava açması halinde ilgili dosyanın Bakanlığa eksiksiz bir şekilde gönderilmesinden ve bu safhada, önceden yapılmış bir eksiklik belirlenmesi halinde bu durumun telafisinden ilgili valilik sorumludur.

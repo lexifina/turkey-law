@@ -1,0 +1,2 @@
+Seçmen Listelerinin Hazırlanması
+Madde 19 - Valilikler, idarî bağlılığını değiştirmek isteyen idarî birimin veya bağlısının seçmen listesini düzenlerler veya ilgili seçim kurulundan temin ederler ve ilgili birimin bulunduğu yerde, oy verme tarihinden en az 15 gün önce, askıya çıkarırlar, itirazlar oylamadan bir gün öncesine kadar valilikçe veya görevlendirilmesi halinde kaymakamlıkça değerlendirilir.
