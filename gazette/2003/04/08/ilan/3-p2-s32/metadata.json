@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-04-08",
+  "issue": "25073",
+  "edition": "regular",
+  "item": 32,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-2",
+  "title": "Çalışma ve Sosyal Güvenlik Bakanlığı Sosyal Sigortalar Kurumu Başkanlığı Sağlık İşleri Genel Müdürlüğü İstanbul Eğitim Hastanesi Baştabipliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030408-3-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (43 = 43)",
+  "ilan_codes": [
+    "7612/1-1",
+    "7613/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030408-3-2.htm",
+  "category_page_sha256": "0e91b7275f7f167337181d47ddaa29eb32c04a03dee53032ca576e6bca5f5a0a",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030408.htm",
+  "index_sha256": "fd5fcf28763b22a5558678dbe7c547908120c30f94c51f89af11fc6de292d029",
+  "index_header": "8 Nisan 2003 ... Sayı : 25073",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
