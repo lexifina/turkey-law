@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5949",
+  "year": 1952,
+  "title": "Yabancı Memleketlerle Geçici Mahiyette Ticaret Anlaşmaları ve Modüs Vivendiler Akdine ve Bunların Şümulüne Giren Maddelerin Gümrük Resimlerinde Değişiklik Yapılmasına ve Anlaşmaya Yanaşmayan Devletler Muvaredatına Karşı Tedbirler Alınmasına Yetki Verilmesine Dair Kanunun Yürürlük Süresinin Uzatılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-06-13",
+  "gazette_issue": "8134",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8134.pdf",
+  "source_sha256": "7fdcdd071f1a7a767e9614639d018dd54ab0b8b3776f76041e3cf4153159fe51",
+  "text_sha256": "6dfb801dd3332cb4d5a07081b5b5e85eb11ca3145dc79a6e3a9912bd1920eb6a",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      157,
+      174
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405949.pdf",
+    "source_sha256": "702f81a9de329cbfcf36709800df8ac06f706b38461685c23d1621ca907c9e23",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9027,
+    "bag": 0.7619,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9828,
+    "rg_words": 117,
+    "kd_words": 116,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
