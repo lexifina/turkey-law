@@ -1,0 +1,43 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 121038,
+  "assembly": "TBMM",
+  "term": 3,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "1928 senesi Muvazenei Umumiye kanun layihası.",
+  "title": "1928 senesi Muvazenei Umumiye kanun layihası.",
+  "first_sitting_date": "1928-04-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 61,
+      "sitting_date": "1928-04-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003061.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/ehttbmm03003061.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003fih.pdf",
+      "pages": [
+        "132",
+        "151",
+        "175",
+        "196",
+        "226",
+        "228",
+        "330:341",
+        "343:344",
+        "346:360"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=996&v_gelecek_sayfa=101&v_kullanici_id=27483791",
+  "source_sha256": "d8f3df8c3f8bf22ae337c502b7fd173cef79327fc6eaae1b8d607b4da6d3c295",
+  "in_force": "1928-04-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
