@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "78",
+  "label": "TBMM 78 no'lu Komisyon Raporu",
+  "title": "Memurin Kanununun muvakkat maddesi mucibince tekaüde sevkolunanlarla kendiliğinden tekaüdünü istida eden veya muayyen olan müddeti kanuniyeyi ikmal hasebiyle Hükümetçe resen tekaüt edilen memurinin tekaüt maaşının hesabından bilaâ maaş kaldıkları müddetin nazarı itibare alınmayacağı hakkında",
+  "document_date": "1928-02-25",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 2, birleşim 47)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c002/tbmm03002047ss0078.pdf",
+  "pdf_sha256": "495120cf21d65424312bcb1fdaf2963702147bd9359752bb759a12b71f90edd1",
+  "pdf_bytes": 291570,
+  "pdf_pages": 3,
+  "index_entries": [
+    120678
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=1&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1928-02-25",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
