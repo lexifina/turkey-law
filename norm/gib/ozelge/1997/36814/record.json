@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-848/25398",
+  "source_id": 36814,
+  "date": "1997-06-18",
+  "title": "İlgili banka şubesinin vergi iade talebine ilişkin olarak kurumun istekleri doğrultusunda yapılan mahsup işlemleri sonucunda ortaya çıkan mahsup kalanının iadesinin mümkün olup olmadığı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36814",
+  "source_sha256": "7dcb732aff9a11f6787bd75e4f79d3a493116df77fd7af1fea08a3e31f1d4e69",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
