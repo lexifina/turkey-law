@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1066/15325",
+  "source_id": 23004,
+  "date": "2000-04-06",
+  "title": "Bakkaliye faaliyetinde bulunan mükellefin günlük hasılatı için gün sonunda tek bir fatura düzenlemesi mümkün bulunduğundan özel usulsüzlük cezasının uygulanmasında bu hususun gözönünde bulundurulması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23004",
+  "source_sha256": "24fcbe006dd12a32cd4d488ae4078d1f271f2f9b863d89f6b32218b5463e5db2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
