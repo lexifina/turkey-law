@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3479",
+  "year": 1988,
+  "title": "3268 Sayılı Kanun ile 3347 Sayılı Kanunda Değişiklik Yapılması ve 2954 Sayılı Kanunun Bir Maddesinin Değiştirilmesi Hakkında Kanun",
+  "adopted": "1988-10-12",
+  "adopted_as_published": "12/10/1988",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.10.1988 No: 19973",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc072/kanuntbmmc072/kanuntbmmc07203479.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 72",
+  "committee_reports": [
+    {
+      "label": "TBMM 87 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015011ss0087.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 227957,
+      "title": "3268 Sayılı Kanun ile 3347 Sayılı Kanunda Değişiklik Yapılması ve 2954 Sayılı Kanunun Bir Maddesinin Değiştirilmesi Hakkında Kanun",
+      "adopted_as_published": "12/10/1988",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc072/kanuntbmmc072/kanuntbmmc07203479.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 87 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015011ss0087.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 13,
+          "sitting": 75,
+          "sitting_date": "1988-08-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c013/tbmm18013075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c013/tbmm18013fih.pdf",
+          "pages": [
+            "6"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 10,
+          "sitting_date": "1988-10-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015010.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015fih.pdf",
+          "pages": [
+            "50"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 11,
+          "sitting_date": "1988-10-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015fih.pdf",
+          "pages": [
+            "141:165"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "a4afc1ea96cb3fdb44158af5480d817298e90d8f87ef55ba3064444103967b6f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a4afc1ea96cb3fdb44158af5480d817298e90d8f87ef55ba3064444103967b6f",
+  "issuer": "TBMM",
+  "in_force": "1988-10-12",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 12/10/1988; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
