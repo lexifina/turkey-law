@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3992",
+  "year": 1941,
+  "title": "Hava taarruzlarına karşı korunma hakkındaki 3502 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-04-11",
+  "gazette_issue": "4782",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4782.pdf",
+  "source_sha256": "71071c96711b9c55e9a593dd4943ded74384619f23b53ce743e2fe98323b6de5",
+  "text_sha256": "c267d937294ceea4dbfb34ca1b7221d1123b65251989c4e497c6aa4b5d1f1899",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    5
+  ],
+  "line_span": [
+    [
+      993,
+      993
+    ],
+    [
+      14,
+      42
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203992.pdf",
+    "source_sha256": "feaddbb99a08343343597e290722403319041979732aca65aab30f0bcbab757a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9385,
+    "bag": 0.8563,
+    "kd_coverage": 0.9809,
+    "kd_body_compared": 0.9875,
+    "rg_words": 169,
+    "kd_words": 160,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
