@@ -1,0 +1,71 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5919",
+  "year": 1952,
+  "title": "Tapu ve Kadastro Genel Müdürlüğü Kuruluş ve Görevleri Hakkındaki Kanuna Geçici Bir Madde Eklenmesine Dair Olan Kanuna Ek Kanun",
+  "adopted": "1952-04-25",
+  "adopted_as_published": "25/04/1952",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "02.05.1952 No: 8099",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405919.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 34",
+  "committee_reports": [
+    {
+      "label": "TBMM 112 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c014/tbmm09014063ss0112.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 62083,
+      "title": "Tapu ve Kadastro Genel Müdürlüğü Kuruluş ve Görevleri Hakkındaki Kanuna Geçici Bir Madde Eklenmesine Dair Olan Kanuna Ek Kanun",
+      "adopted_as_published": "25/04/1952",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405919.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 112 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c014/tbmm09014063ss0112.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 63,
+          "sitting_date": "1952-04-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c014/tbmm09014063.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c014/tbmm09014fih.pdf",
+          "pages": [
+            "449:450"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 64,
+          "sitting_date": "1952-04-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c014/tbmm09014064.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c014/tbmm09014fih.pdf",
+          "pages": [
+            "480:481"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=746&v_gelecek_sayfa=201&v_kullanici_id=27483180",
+      "page_sha256": "9856a6dc424cb8a0c623f09aa93409c5618579c44da6c7b54afa7f67c7dd2321"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9856a6dc424cb8a0c623f09aa93409c5618579c44da6c7b54afa7f67c7dd2321",
+  "issuer": "TBMM",
+  "in_force": "1952-04-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 25/04/1952; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
