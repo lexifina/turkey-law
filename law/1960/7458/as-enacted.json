@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7458",
+  "year": 1960,
+  "title": "Umumi Muvazeneye dâhil ve mülhak bütçeli idarelerin veznedar ve veznedar yardımcılarına verilecek kasa tazminatı hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-02-29",
+  "gazette_issue": "10444",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10444.pdf",
+  "source_sha256": "e669f1779431502e8c54db5252813b3fbcd5793045ac8c6bb7b48176a164d8f7",
+  "text_sha256": "134ebcad00b8d1748769e1100dde36c67707308fa33ccfcc31ec93e659610cc6",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      3031,
+      3060
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/kanuntbmmc042/kanuntbmmc04207458.pdf",
+    "source_sha256": "d6a8b255295e6923c5baadff3e5b27ded4961a8a944abd2d12ecfbcc82d9b58e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9631,
+    "bag": 0.8523,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9886,
+    "rg_words": 179,
+    "kd_words": 175,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
