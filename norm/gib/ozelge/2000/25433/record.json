@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/ 3026-354-497/22660",
+  "source_id": 25433,
+  "date": "2000-05-12",
+  "title": "İşyeri kapatma cezası uygulaması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25433",
+  "source_sha256": "9727ba0eaf94ef35dd5d7eb92bf4669a15832a60b54b42955d372e488f22e398",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
