@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-01-30",
+  "issue": "25712",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Milletlerarası Andlaşma",
+  "title": "2004/8390 Türkiye-Moğolistan Kara Ulaştırması Karma Komisyon Toplantısı Protokolü’nün Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050130-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050130.htm",
+  "index_sha256": "01cf87483ccdd44461d8a1f543545deb00898ff1bbbd51a88ab7a321f06d4391",
+  "index_header": "30 Ocak 2005 ... Sayı : 25712",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
