@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 64707,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Zonguldak Milletvekili Cemal Kıpcak'ın Zonguldak'ta kömürlerin yıkanmasından teressübeden kömür tozlarının 114 sayılı Kanunun 1. maddesinde yazılı maden kömürü tozlarından sayılması lâzımgelip gelmediğine ve aynı maddedeki (Maden amelesinin menafii umuraiyesine hasır ve tahsis olunur) tâbirinin, 5018 sayılı Kanunun 1. maddesine göre kurulmuş olan Maden İşçileri Sendikasına matuf olup olmadığının yorumlanması hakkındaki önergesine dair (4/136)",
+  "title": "Zonguldak Milletvekili Cemal Kıpcak'ın Zonguldak'ta kömürlerin yıkanmasından teressübeden kömür tozlarının 114 sayılı Kanunun 1. maddesinde yazılı maden kömürü tozlarından sayılması lâzımgelip gelmediğine ve aynı maddedeki (Maden amelesinin menafii umuraiyesine hasır ve tahsis olunur) tâbirinin, 5018 sayılı Kanunun 1. maddesine göre kurulmuş olan Maden İşçileri Sendikasına matuf olup olmadığının yorumlanması hakkındaki önergesine dair (4/136)",
+  "first_sitting_date": "1952-12-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 11,
+      "sitting_date": "1952-12-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c018/tbmm09018011.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c018/tbmm09018fih.pdf",
+      "pages": [
+        "8:18",
+        "253:255",
+        "262:268"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=901&v_kullanici_id=27484171",
+  "source_sha256": "159c73409425957efd9e1d8ef26d80a0c20c4e88548d8462dece3e8a37a83f69",
+  "in_force": "1952-12-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
