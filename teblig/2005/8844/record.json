@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.8844",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2005/5)",
+  "number": "8844",
+  "path": "teblig/2005/8844",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8844&MevzuatTertip=5",
+  "source_sha256": "07c9278246673a6ea7cf472611186134267b06d2930dc48d26c3a4a8fdcb5528",
+  "source_bytes": 12459,
+  "published": "2005-02-04",
+  "gazette": "25717",
+  "in_force": "2005-02-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.02.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 124,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
