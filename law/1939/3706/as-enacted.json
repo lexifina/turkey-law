@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3706",
+  "year": 1939,
+  "title": "Tunceli vilâyetinin idaresi hakkındaki 2884 sayılı kanun hükmünün uzatılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-07-14",
+  "gazette_issue": "4258",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4258.pdf",
+  "source_sha256": "fe7b49bb664d018fb933fe826d875adf557b54b913882867ba9ee64460f29c95",
+  "text_sha256": "14b5ca7b197c8464bf6306be9d8ef8f61c7841e62edb4ae6214175bd764964d5",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      442,
+      453
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003706.pdf",
+    "source_sha256": "f8ff95561ec88a3a0e7c352e1a069d4e765b1e79adbe34fc504541c8ab34876e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9718,
+    "bag": 0.9247,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9583,
+    "rg_words": 47,
+    "kd_words": 48,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
