@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-issue",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "1983-10-13",
+  "issue": "18190",
+  "issue_basis": "official archive file name /arsiv/<issue>.pdf (the archive numbers its files by issue; e.g. 24091.pdf = 26.06.2000, the issue before HTML issue 24092)",
+  "edition": "regular",
+  "archive_mukerrer_flag": null,
+  "item": 0,
+  "section": null,
+  "heading": null,
+  "title": "13.10.1983 tarihli Resmi Gazete",
+  "official_link": "https://www.resmigazete.gov.tr/arsiv/18190.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/Home/Filter",
+  "index_request": {
+    "method": "POST",
+    "searchtype": 2,
+    "arsivaramayeri": "1",
+    "from": "1983-01-01",
+    "to": "1983-12-31"
+  },
+  "index_sha256": "f41c60f13bbcd64fe7a0cda182e967013083a55fe3710234c444490d211d7919",
+  "index_header": "official archive listing date 13.10.1983",
+  "issue_pdf": "https://www.resmigazete.gov.tr/arsiv/18190.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; whole issue published as a scanned PDF (no OCR); items not listed"
+}
