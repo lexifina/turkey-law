@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 2,
+  "term_label": "2. Dönem",
+  "legislative_year": 3,
+  "cilt": 18,
+  "sitting": 104,
+  "label": "104. Birleşim",
+  "sitting_date": "1925-04-16",
+  "date_as_published": "16 Nisan 1925",
+  "weekday": "Perşembe",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c018/tbmm02018104.pdf",
+  "old_script_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c018/ehttbmm02018104.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c018/tbmm02018fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d02&v_yasama_yili=3&v_cilt=",
+  "source_sha256": "6dc3e159b3a12160715beb3891493cd9bc2e32816f844d514b6c341d08c1a90d",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
