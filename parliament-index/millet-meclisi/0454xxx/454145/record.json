@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 454145,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "5434 sayılı TC Emekli Sandığı Kanununun Bazı Maddelerinin Değiştirilmesine ve Aynı Kanuna Bir Ek Madde İle Geçici Maddeler Eklenmesine İlişkin Kanun Tasarısı Hakkında (1/25, 2/198, 2/201, 2/204)",
+  "title": "5434 sayılı TC Emekli Sandığı Kanununun Bazı Maddelerinin Değiştirilmesine ve Aynı Kanuna Bir Ek Madde İle Geçici Maddeler Eklenmesine İlişkin Kanun Tasarısı Hakkında (1/25, 2/198, 2/201, 2/204)",
+  "first_sitting_date": "1978-12-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 23,
+      "sitting_date": "1978-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c008/mm__05008023.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c008/mm__05008fih.pdf",
+      "pages": [
+        "42",
+        "538:541"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=301&v_kullanici_id=27484836",
+  "source_sha256": "6eb180b185c9ae98c8c137f697c0ae6fb17ed2cbf5e6045790a6eaf5491bfb40",
+  "in_force": "1978-12-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
