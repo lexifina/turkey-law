@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3513",
+  "year": 1938,
+  "title": "Vakıflar Kanununun bazı maddelerinin tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-07-14",
+  "gazette_issue": "3959",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3959.pdf",
+  "source_sha256": "8747d468222c7c3c6502ccfb58c7f6f1dabf2f5ef41e2758c5e2d016dfd8b2c6",
+  "text_sha256": "6868245a7692317be4c3e46666c7478d6ce297a4121750f444bea47aa2eadc6d",
+  "text_status": "ocr",
+  "pages": [
+    14
+  ],
+  "line_span": [
+    [
+      3542,
+      3608
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803513.pdf",
+    "source_sha256": "c54753de7864c755f826ed7f4f949a60b0521d6c8ef1edc51cd0207754662c13",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9902,
+    "bag": 0.8775,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9888,
+    "rg_words": 174,
+    "kd_words": 179,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
