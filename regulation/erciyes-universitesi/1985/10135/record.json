@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu yönetmelik yayınlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1985-04-18",
+      "18.04.1985",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu yönetmelik yayınlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "18729",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1985-04-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Erciyes Üniversitesi",
+  "issuer_slug": "erciyes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/erciyes-universitesi/1985/10135",
+  "published": "1985-04-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10135&MevzuatTertip=5",
+  "source_bytes": 11022,
+  "source_id": "8.5.10135",
+  "source_sha256": "7a0b7b3b94147285ab8f4b8301beebd712d0cfe56949abc11d709bdd6f59f6c8",
+  "text_status": "as-enacted",
+  "title": "ERCİYES ÜNİVERSİTESİ ÖĞRETİM ÜYELERİNİN AKADEMİK KIYAFET YÖNETMELİĞİ",
+  "university_id": 192,
+  "word_count": 261
+}

@@ -1,0 +1,1 @@
+Madde 2- Akademik kıyafetlerin ortak özellikleri şunlardır: robaları göğüs hizasında sivri uçlu, arka robaları yuvarlaktır. Robun yaka, ön ve kollarına omuz atkısının üzerine ve kol kenarlarına profesörler için 3, doçentler için 2, yardımcı doçentler için tek sıra şerit konur. Motifler Fakültelerin rengine uygun ipekli saten üzerine işlenir.
