@@ -1,0 +1,2 @@
+Madde 16 – Muvakkat veya açıktan vekalet suretiyle kefalete bağlı vazife alanlardan vazifesinin ehemmiyetine göre Sandık İdare Heyetince bin liradan aşağı olmamak üzere iki bin liraya kadar tayin olunacak miktarda para veya Artırma ve Eksiltme ve İhale Kanunundaki esaslar dairesinde menkul kıymet ve gayrimenkul ipotekli kefalet alınır.
+Şu kadar ki muvakkat veya vekalet suretiyle tayin olunanlar, esasen kefalete bağlı memurlardan iseler kendilerinden ayrıca kefalet aranmayıp aldıkları vekalet maaş veya ücretinden yüzde iki aidat kesilir.

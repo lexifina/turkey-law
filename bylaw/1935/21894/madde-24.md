@@ -1,0 +1,1 @@
+Madde 24 – Kefalete bağlı memur ve müstahdemlerin zimmet ve ihtilasları hakkındaki kati ilamların asıl veya tasdikli suretleri ilamın katileştiği sene içinde alakalı daire ve müessese tarafından Sandığa gönderilerek hüküm altına alınmış olan zimmet ve ihtilasların ödenmesi istenir.

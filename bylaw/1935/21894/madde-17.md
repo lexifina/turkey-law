@@ -1,0 +1,1 @@
+Madde 17 – Kadrodaki memuriyet unvanı ve vazifesinin mahiyeti itibariyle kefalete bağlı bir memuriyete tayin edilenler, kefalete tabi olmıyan işlerde kullanıldıkları takdirde dahi kefalet aidatı vermekle mükelleftirler.
