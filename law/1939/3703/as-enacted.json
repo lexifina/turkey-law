@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3703",
+  "year": 1939,
+  "title": "Ankara'da bir Dil ve Tarih coğrafya fakültesi kurulması hakkındaki 2795 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-07-14",
+  "gazette_issue": "4258",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4258.pdf",
+  "source_sha256": "fe7b49bb664d018fb933fe826d875adf557b54b913882867ba9ee64460f29c95",
+  "text_sha256": "cf5830e30576a6296349eb440d93760024816c56d607348f029444d7ce0595aa",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      162,
+      223
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003703.pdf",
+    "source_sha256": "deea5f3c53d02b6eaa531a7ca88ee745c98a37eda042494f329d31040cd5af6d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9312,
+    "bag": 0.9177,
+    "kd_coverage": 0.9907,
+    "kd_body_compared": 0.8828,
+    "rg_words": 221,
+    "kd_words": 273,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
