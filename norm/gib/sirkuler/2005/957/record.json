@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK- 27 / 2005 _ 6",
+  "source_id": 957,
+  "date": "2005-02-17",
+  "title": "2004 yılına ilişkin olarak indirimli orana tabi işlemler nedeniyle ortaya çıkan vergiler 74, 76 ve 85 Seri No.lu Katma Değer Vergisi Genel Tebliğlerindeki esaslar ile 92 Seri No.lu Katma Değer Vergisi Genel Tebliğinde sınır çerçevesinde iade edilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/957",
+  "source_sha256": "61e1a61d4f0cef85371e2e5385af09e1e0e8c552136cc94be5a4bd82be57f6a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
