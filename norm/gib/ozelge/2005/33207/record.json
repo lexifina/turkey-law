@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5428-1947-8887",
+  "source_id": 33207,
+  "date": "2005-02-25",
+  "title": "20.01 tarife pozisyonunda yer alan közlenmiş biber ve patlıcan ile patlıcan salatasının 2002/4480 sayılı Bakanlar Kurulu Kararı eki II sayılı listenin ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33207",
+  "source_sha256": "4e76af06dde6b2300fcca3b6b1ad8d40c91804818134ef2de0ec1415a6a25298",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
