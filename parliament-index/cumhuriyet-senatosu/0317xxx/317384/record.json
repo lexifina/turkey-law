@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 317384,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Devlet iç istikraz tahvillerine uygulanacak faiz hadlerini tespit ve gerektiğinde ikramiye keşideleri tertibi hakkında (Millet Meclisi 1/407; Cumhuriyet Senatosu 1/1172) (S. Sayısı:1510)",
+  "title": "Devlet iç istikraz tahvillerine uygulanacak faiz hadlerini tespit ve gerektiğinde ikramiye keşideleri tertibi hakkında (Millet Meclisi 1/407; Cumhuriyet Senatosu 1/1172) (S. Sayısı:1510)",
+  "first_sitting_date": "1971-02-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 63,
+      "sitting": 38,
+      "sitting_date": "1971-02-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063fih.pdf",
+      "pages": [
+        "662"
+      ]
+    },
+    {
+      "cilt": 64,
+      "sitting": 40,
+      "sitting_date": "1971-02-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c064/cs__10064040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c064/cs__10064fih.pdf",
+      "pages": [
+        "5",
+        "18:41",
+        "52:72",
+        "90:91"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=3101&v_kullanici_id=27484903",
+  "source_sha256": "9671414cc2d41487e94f66205ca6200fc10119921667dca1047d1c4368463e90",
+  "in_force": "1971-02-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
