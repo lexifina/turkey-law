@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-11-30",
+  "issue": "25656",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Sosyal Sigortalar Kurumu Başkanlığı Sağlık İşleri Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041130-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (13 = 13)",
+  "ilan_codes": [
+    "14851/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041130-4.htm",
+  "category_page_sha256": "8c9ef6f474ea6b401291322803025ef40bbf03b2a763e0630f94f99a890b8615",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041130.htm",
+  "index_sha256": "df43b23932b0c0043a2fad2d2a827f982de4fd175f328644c7c885b6fe8fdc86",
+  "index_header": "30 Kasım 2004 ... Sayı : 25656",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
