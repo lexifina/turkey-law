@@ -1,0 +1,78 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2106",
+  "year": 1977,
+  "title": "Kıbrıs'a gönderilecek Türk Askeri Birliği mensuplarının aylık ve ücretleriyle çeşitli istihkakları ve Birliğin başka giderleri hakkındaki 14.7.1964 tarihli ve 500 sayılı Kanunun 10.6.1975 tarihli ve 1908 sayılı Kanunla değişik 1. maddesinin değiştirilmesine ve bu maddeye bir fıkra eklenmesine dair Kanun",
+  "adopted": "1977-08-25",
+  "adopted_as_published": "25/08/1977",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "10.09.1977 No: 16053",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc061/kanuntbmmc061/kanuntbmmc06102106.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 61",
+  "committee_reports": [
+    {
+      "label": "MM 388 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c026/mm__04026061ss0388.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 441505,
+      "title": "Kıbrıs'a gönderilecek Türk Askeri Birliği mensuplarının aylık ve ücretleriyle çeşitli istihkakları ve Birliğin başka giderleri hakkındaki 14.7.1964 tarihli ve 500 sayılı Kanunun 10.6.1975 tarihli ve 1908 sayılı Kanunla değişik 1. maddesinin değiştirilmesine ve bu maddeye bir fıkra eklenmesine dair Kanun",
+      "adopted_as_published": "25/08/1977",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc061/kanuntbmmc061/kanuntbmmc06102106.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 388 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c026/mm__04026061ss0388.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "7a740f64a552447b8129a88f3d2f4df24e0d020a643e9dcd5d7789377fc9d296"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 328999,
+      "title": "Kıbrıs'a gönderilecek Türk Askeri Birliği mensuplarının aylık ve ücretleriyle çeşitli İstihkakları ve birliğin başka gıdaları hakkındaki 14.7.1964 tarihli ve 500 sayılı Kanunun 10.6.1975 tarihli 1908 sayılı Kanunla değişik 1 nci maddesinin değiştirilmesine ve bu maddeye bir fıkra eklenmesine dair Kanun (Cumhuriyet Senatosunda görüşülmeden kanunlaştı)",
+      "adopted_as_published": "25/08/1977",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc061/kanuntbmmc061/kanuntbmmc06102106.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 388 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c026/mm__04026061ss0388.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 32,
+          "sitting": 48,
+          "sitting_date": "1977-04-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032fih.pdf",
+          "pages": [
+            "386"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2101&v_kullanici_id=27483235",
+      "page_sha256": "5968d4b2c253a1860b028e1dc7851eac90ae7fee6ea9ef01b19c36bdc0393519"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7a740f64a552447b8129a88f3d2f4df24e0d020a643e9dcd5d7789377fc9d296",
+  "issuer": "Millet Meclisi",
+  "in_force": "1977-08-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 25/08/1977; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
