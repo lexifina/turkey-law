@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/2292",
+  "list_number": "2292",
+  "decision_date": "1999-10-16",
+  "title": "YSK ilke kararı 1999/2292",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4463/1999-2292-karar.htm",
+  "source_sha256": "534d3e2a8b354b4ba752e49e01a7a640ea9a68d7b7adcccf8c7a5225ed5647a8",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-10-16",
+  "law_text_complete": false
+}
