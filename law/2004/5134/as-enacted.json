@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5134",
+  "year": 2004,
+  "title": "Noterlik Kanununun Bir Maddesinde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-04-20",
+  "gazette_issue": "25439",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/04/20040420.htm",
+  "source_sha256": "9e9610ef95663138fa09832d0b0b94394ed429ced5d41d50c7a991ca45445f0c",
+  "text_sha256": "f24327e30165bdc700cf28e7576fe426f1076edb7f08c3c2d4a7a4d25b6e6acd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/04/20/25439-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/04/20040420.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
