@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5301- 40613",
+  "source_id": 29960,
+  "date": "2004-09-01",
+  "title": "Fuar giriş ücreti tahsil edilmesi bir defaya mahsus olması kaydıyla arızi ticari kazanç olarak mütalaa edileceğinden, söz konusu işlem katma değer vergisine tabi olmayacaktır",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29960",
+  "source_sha256": "20f106cebba3d31dcd5410f735a52c58cb2c0eef1488f1a3bf88f4bb6e9e37f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
