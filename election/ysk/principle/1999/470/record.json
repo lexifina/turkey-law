@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/470",
+  "list_number": "470",
+  "decision_date": "1999-04-15",
+  "title": "YSK ilke kararı 1999/470",
+  "summary": "298 sayılı Yasanın 14. maddesine göre seçim iş ve işlemleri ile ilgili her türlü basılı kağıtların Yüksek Seçim Kurulunca bastırılıp, tüm Yurttaki seçim kurulu başkanlıklarına yeteri kadar gönderilmesi gerekir. Bu tür basılı kağıtların kişi, kuruluş yada siyasi partilerce basımı, dağıtımı, kullanılması ve çoğaltılması mümkün olmadığı gibi bu eylemin suç teşkil edip etmediğinin tayin ve takdir yetkisi adli mercilere aittir.",
+  "concepts": "BASILI EVRAKIN USULSÜZ BASIM VE DAĞITIMI,  SEÇİM İŞLERİYLE İLGİLİ EVRAKIN SİYASİ PARTİLERCE DAĞITIMI",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4679/1999-470-karar.htm",
+  "source_sha256": "2638066673976435ead3070d3586c461d593d3da51927177c02ce0ee7a881d11",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "1999-04-15",
+  "law_text_complete": true
+}
