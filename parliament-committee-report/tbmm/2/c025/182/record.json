@@ -1,0 +1,25 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 2,
+  "sira_sayisi": "182",
+  "label": "TBMM 182 no'lu Komisyon Raporu",
+  "title": "Maliye ve Ziraat Vekâletleri 1341 senei maliyesi bütçelerine tahsisatı munzamma ve fevkalade itasına dair Kanun",
+  "document_date": "1926-05-26",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 25, birleşim 108)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025108ss0182.pdf",
+  "pdf_sha256": "9e70ab931fc11f269aebb68323674558951b3f476cd163ccea9f3ec38c323f80",
+  "pdf_bytes": 276026,
+  "pdf_pages": 3,
+  "index_entries": [
+    126735,
+    126740
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d02&v_yasama_yili=4&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1926-05-26",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
