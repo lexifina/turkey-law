@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-06-10",
+  "issue": "25134",
+  "edition": "regular",
+  "item": 17,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "Karayolları 15. Bölge Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030610-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (46 = 46)",
+  "ilan_codes": [
+    "18435/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030610-3-4.htm",
+  "category_page_sha256": "3c4f7ec0d1dfd43eace45514b7950f468688ff8e9fee4cd1ea1952b2349ff931",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030610.htm",
+  "index_sha256": "6d8a166d5da38252c0de74da47d8ec5faf2dffadcc59a29c43f7b10146e1da88",
+  "index_header": "10 Haziran 2003 ... Sayı : 25134",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
