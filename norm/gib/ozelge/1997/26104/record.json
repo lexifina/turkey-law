@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6527-122-43393",
+  "source_id": 26104,
+  "date": "1997-10-10",
+  "title": "Müşterinin otele girişinde parasal değer yüklenmiş manyetik kart satın alması halinde bu kart karşılığında fatura veya perakende satış vesikasının düzenlenmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26104",
+  "source_sha256": "1d5f275508a6973df94594fdc48ad0b6d743d98d0ef8bff0123a3547c5382539",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
