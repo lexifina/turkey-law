@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-318/37378",
+  "source_id": 22902,
+  "date": "1998-10-19",
+  "title": "Yıllara sari inşaat ve onarma işi ile ilgili olarak, yapılacak istihkak ödemelerinden vergi kesileceği hükme bağlanmıştır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22902",
+  "source_sha256": "d393f3864adff148b72c0e242ee6bccdd886a5adf6f1565511ab213dd9e0bca6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
