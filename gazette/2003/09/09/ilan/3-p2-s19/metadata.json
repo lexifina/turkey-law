@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-09-09",
+  "issue": "25224",
+  "edition": "regular",
+  "item": 19,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-2",
+  "title": "Çankaya Belediyesi Fen İşleri Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030909-3-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (37 = 37)",
+  "ilan_codes": [
+    "32911/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030909-3-2.htm",
+  "category_page_sha256": "104da6206dff2e0c8775a7f0ead6fa99c63b5f5fa78c5c769b4886f37c2991ff",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030909.htm",
+  "index_sha256": "75ef5209bd0c7389e03cff731184a20f88b4c01ec286545b8bda4be9437666c8",
+  "index_header": "9 Eylül 2003 ... Sayı : 25224",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
