@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4535-5-",
+  "source_id": 21228,
+  "date": "2004-09-07",
+  "title": "Gelir Vergisi Kanunu Madde:19/1 kapsamındaki herhangi bir mükellef tarafından kiralanan bir arsa üzerine hizmet üretim yeri olarak inşası yapılan lokanta için yapılan harcamalar özel maliyet bedeli niteliğinde olup ekonomik ömrü 5 yıldan fazla olduğu takt",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21228",
+  "source_sha256": "3b2009647279139afc07d093b1ab702134a87833db9a92649fbcb82267dec532",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
