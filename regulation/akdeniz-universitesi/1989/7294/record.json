@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayın tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1989-01-11",
+      "11.01.1989",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayın tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "20046",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1989-01-11",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/1989/7294",
+  "published": "1989-01-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7294&MevzuatTertip=5",
+  "source_bytes": 28877,
+  "source_id": "8.5.7294",
+  "source_sha256": "95fe7bb46e20ad93b891ddf56f12df6449bf4de722577ad4071c07d24ab47a16",
+  "text_status": "as-enacted",
+  "title": "AKDENİZ ÜNİVERSİTESİ\r\nTIP FAKÜLTESİ ARAŞTIRMA GÖREVLİLERİNİN\r\nTIPTA UZMANLIK EĞİTİMİ VE SINAV YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 1140
+}

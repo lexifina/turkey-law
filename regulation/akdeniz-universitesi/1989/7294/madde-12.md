@@ -1,0 +1,1 @@
+Madde 12- Araştırma görevlilerinin özlük hakları, disiplinle ilgili uygulamalar ve bu Yönetmelikte yer almayan diğer hususlar; Tababet Uzmanlık Tüzüğü, 2547 sayılı Yükseköğretim Kanunu ve bu kanuna bağlı olarak çıkarılmış Yönetmeliklerce belirlenir.
