@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2000/718",
+  "list_number": "718",
+  "decision_date": "2000-12-02",
+  "title": "YSK ilke kararı 2000/718",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4352/2000-718-karar.htm",
+  "source_sha256": "7d045e7f388bb5bcc8da3798f5d7597683877d54080afb7218687e0be72dc7f4",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2000-12-02",
+  "law_text_complete": false
+}
