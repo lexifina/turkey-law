@@ -1,0 +1,91 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 317987,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "17.7.1964 tarihli ve 506 sayılı Sosyal Sigortalar Kanununun 123. maddesinin tadili hakkındaki (Millet Meclisi 2/496; Cumhuriyet Senatosu 2/341) (S. Sayısı:1664)",
+  "title": "17.7.1964 tarihli ve 506 sayılı Sosyal Sigortalar Kanununun 123. maddesinin tadili hakkındaki (Millet Meclisi 2/496; Cumhuriyet Senatosu 2/341) (S. Sayısı:1664)",
+  "first_sitting_date": "1971-09-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 66,
+      "sitting": 108,
+      "sitting_date": "1971-09-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066108.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066fih.pdf",
+      "pages": [
+        "788"
+      ]
+    },
+    {
+      "cilt": 67,
+      "sitting": 118,
+      "sitting_date": "1971-09-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067118.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067fih.pdf",
+      "pages": [
+        "786"
+      ]
+    },
+    {
+      "cilt": 67,
+      "sitting": 120,
+      "sitting_date": "1971-09-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067120.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067fih.pdf",
+      "pages": [
+        "881:913"
+      ]
+    },
+    {
+      "cilt": 67,
+      "sitting": 121,
+      "sitting_date": "1971-10-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067121.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067fih.pdf",
+      "pages": [
+        "921:957"
+      ]
+    },
+    {
+      "cilt": 67,
+      "sitting": 122,
+      "sitting_date": "1971-10-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067122.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067fih.pdf",
+      "pages": [
+        "965:1009",
+        "1011:1016"
+      ]
+    },
+    {
+      "cilt": 67,
+      "sitting": 123,
+      "sitting_date": "1971-10-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067123.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067fih.pdf",
+      "pages": [
+        "1024",
+        "1031:1032"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=501&v_kullanici_id=27484924",
+  "source_sha256": "98417bc92fad03215cc7807f45d971b907d3ec9c3947c59efb5f4b18a66ed5e4",
+  "in_force": "1971-09-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
