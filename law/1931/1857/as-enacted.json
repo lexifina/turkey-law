@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1857",
+  "year": 1931,
+  "title": "Yeniden tam teşekküllü elli nahiye teşkiline ve 1452 numaralı kanuna merbut (2) numaralı cetvelin tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-07-30",
+  "gazette_issue": "1860",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1860.pdf",
+  "source_sha256": "580f2f04450f295bb3128f5a713eb92a160f3c6924a539e56f9b317d864e3ea1",
+  "text_sha256": "2460437f6d4aaeed7a2a69e2455e9ab47c6086d3a41971a8a3845636bf8ff496",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      40,
+      84
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001857.pdf",
+    "source_sha256": "7f4f1945d974e1e3d1dc6b84b7b2b2e464040b159089df01f3c0a238d70116b5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9185,
+    "bag": 0.8235,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9322,
+    "rg_words": 111,
+    "kd_words": 118,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
