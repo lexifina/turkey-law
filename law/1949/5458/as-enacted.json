@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5458",
+  "year": 1949,
+  "title": "Temyiz Mahkemesi Teşkilatına dair olan 1221 sayılı Kanunun 2020 sayılı Kanunla değişen üçüncü maddesiyle 1221 sayılı Kanunun dördüncü maddesinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-12-27",
+  "gazette_issue": "7390",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7390.pdf",
+  "source_sha256": "b97c91e2f329a59f09248b78fec18e73ec0e8b079d244437e21bc834d2c9d5e1",
+  "text_sha256": "6d569ff8af2c87516461f30f492d4d6dfcdd4124614bdf842b48e4f3c5f31f8a",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      9,
+      94
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205458.pdf",
+    "source_sha256": "a25f76d6a99673f7809df918905d59fd0f238b578484c2cdbb3f91ecfd09dd76",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9855,
+    "bag": 0.936,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9962,
+    "rg_words": 520,
+    "kd_words": 529,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
