@@ -1,0 +1,19 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 9,
+  "term_label": "9. Dönem",
+  "legislative_year": 1,
+  "cilt": 1,
+  "sitting": 7,
+  "label": "7. Birleşim",
+  "sitting_date": "1950-06-12",
+  "date_as_published": "12 Haziran 1950",
+  "weekday": "Pazartesi",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c001/tbmm09001007.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c001/tbmm09001fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d09&v_yasama_yili=1&v_cilt=",
+  "source_sha256": "280a3d08612cf3a7ef7a7b0890e1c3d7948fd19a2169aa88ee0ca76e133545fa",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
