@@ -1,0 +1,5 @@
+Tedavi Yardımı:
+Madde 33 – (Değişik: 30/4/1990 - 90/377 K.)
+(Değişik birinci fıkra: 17/9/1993 - 93/4830 K.) Odalar, borsalar ve Birlik'te çalışan her statüdeki personelin kendilerinin, çalışmayan eşlerinin ve bakmakla yükümlü oldukları ana, baba ve aile yardımına müstehak olan çocuklarının hastalanmaları halinde resmi sağlık kurumlarınca veya kuruluşların anlaşmalı hekimleri vasıtasıyla yatarak, ayakta ve meskende tedavileri ile ilgili her türlü masrafları, Birlik yönetim kurulu ile Türkiye Odalar, Borsalar ve Birlik Personeli ve Birlik Personeli Sigorta Sigorta ve Emekli Sandığı Vakfı'nın birlikte tesbit edecekleri esaslar dahilinde, kuruluşlarınca ve/veya Vakıf tarafından karşılanır.
+Ancak, başka kurumlardan sigortalı veya emekli olanların tedavi giderlerinin nasıl karşılanacağını, her oda, borsa ve Birlik kendi iç yönetmeliğinde belirler.
+Ayakta veya meskende tedavi halinde kullanılacak ilaç bedellerinin ödenmesinde Devlet Memurları Kanununun 209 uncu maddesine 30/12/1982 tarihli ve 2771 sayılı Kanunla eklenen fıkra hükmü uygulanır.

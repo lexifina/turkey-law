@@ -1,0 +1,5 @@
+Yabancı Dil Tazminatı:
+Madde 15 – (Değişik: 30/4/1990 - 90/377 K.)
+Yabancı dille eğitim yapan üniversite mezunları ile yurt dışındaki üniversitelerde en az dört yıl öğrenim görerek lisans diploması alanlara ve yurt içinde lisans düzeyinde görmüş oldukları öğrenim üzerine yabancı dille eğitim yapan üniversitelerden ya da yabancı ülkelerdeki üniversitelerden master veya doktora diploması almış bulunanlar ile 30/6/1939 tarihli ve 3656 sayılı Kanunun 3 üncü maddesinin (H) fıkrasına göre yapılmış olan sınavı başaranlara ve 375 sayılı Kanun Hükmünde Kararnamenin 2 nci maddesi uyarınca yapılan "Kamu Personeli Yabancı Dil Bilgisi Seviye Tesbit Sınavı"nı başaranlara her ay aylık ücret tutarlarının % 10'unu geçmemek üzere yabancı dil tazminatı ödenir.
+Bunlardan ikinci bir yabancı dil bilenlere, birinci yabancı dilleri için verilen miktarın 2/3 ü, üçüncü yabancı dilleri için 1/3 ü nisbetinde ilave tazminat verilir.
+Münhasıran mütercimlik görevi yapanlara, en iyi derecede bildikleri yabancı dil dışında bildikleri diğer yabancı diller için ödeme yapılır.

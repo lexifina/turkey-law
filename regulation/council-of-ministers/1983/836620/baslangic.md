@@ -1,0 +1,13 @@
+TİCARET VE SANAYİ ODALARI, TİCARET ODALARI, SANAYİ ODALARI,
+DENİZ TİCARET ODALARI, TİCARET BORSALARI, TÜRKİYE TİCARET
+SANAYİ, DENİZ TİCARET ODALARI VE TİCARET BORSALARI BİRLİĞİ
+PERSONEL YÖNETMELİĞİ
+Bakanlar Kurulu Kararının Tarihi : 18/5/1983 No : 83/6620
+Dayandığı Kanunun Tarihi : 8/3/1950 No : 5590
+Yayımlandığı Resmî Gazetenin Tarihi : 5/8/1983 No : 18126
+Yayımlandığı Düsturun Tertibi : 5 Cilt : 22 Sayfa : 3234
+BİRİNCİ KISIM
+GENEL HÜKÜMLER
+BİRİNCİ BÖLÜM
+AMAÇ VE ÇALIŞMA BİÇİMLERİ
+Amaç:

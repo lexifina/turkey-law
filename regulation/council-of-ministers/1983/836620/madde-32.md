@@ -1,0 +1,6 @@
+Ayrılma Tazminatı:
+Madde 32 – (Değişik: 30/4/1990 - 90/377 K.)
+Odalar, borsalar ve Birlik'de çalışan her statüdeki personelin emeklilik, yaşlılık, malüllük aylığına hak kazanmaları suretiyle görevden ayrılmaları veya odalar, borsalar ve Birlik'te en az bir yıl çalışmış olan personelin cezaen olmamak şartı ile işten çıkarılmaları, yahut yaş haddi veya ölüm sebepleriyle görevlerinin sona ermesi hallerinde ayrılma tazminatı ödenir.
+Ayrılma tazminatı; oda, borsa ve Birlik'te geçen her tam hizmet yılı için personelin almakta olduğu son aylık veya sözleşme ücretlerinin brüt tutarı üzerinden (derece ve kademe aylığı, taban aylığı, kıdem aylığı, ödenek, varsa ek gösterge, özel hizmet tazminatı, ikramiye, yiyecek, giyecek, çocuk ve aile yardımları dahil) ay ve gün kesirleri de değerlendirilmek suretiyle hesap edilerek ödenir.
+Bu tazminatın hesaplanmasında, (Danıştay Sekizinci Dairesinin 14/11/2018 tarihli ve E.:2016/1971; K.:2018/6932 sayılı kararı ile iptal ibare: hizmetin 30 yıldan fazlası ile), Devlet Memurları Kanununa tabi en yüksek Devlet memuruna 5434 sayılı T.C. Emekli Sandığı Kanunu hükümlerine göre bir hizmet yılı için ödenecek azami emeklilik ikramiyesinden fazlası dikkate alınmaz.
+Görevde iken ölenlerin ayrılma tazminatı, personelin kanuni mirasçılarına ödenir.

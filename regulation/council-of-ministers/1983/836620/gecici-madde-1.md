@@ -1,0 +1,5 @@
+İntibak İşlemleri:
+Geçici Madde 1 – (Değişik: 18/7/1984 - 84/8325 K).
+Bu Yönetmeliğin yürürlüğe girdiği tarihte Odalar, Borsalar ve Birlik'te görevli personelin 10/5/1978 tarihli ve 7/15718 sayılı Tüzük'e göre yapılan intibakları ve bu intibaklara dayalı olarak almış bulundukları terfilerle ulaşmış bulundukları derece ve kademeler kazanılmış hak olarak muhafaza edilir.
+Bu gibi personelin müktesep derece ve kademelerine, bu Yönetmeliğin 12 nci maddesinin amir hükmü uyarınca 657 sayılı Devlet Memurları Kanununun 43 üncü maddesindeki gösterge rakamları uygulanır.
+Bu suretle tesbit edilecek derece ve kademe aylığı, Birlik Oda ve Borsalarda 1983 yılı bütçesinden personele her ay fiilen ödenmekte olan aylık ile mezkür Tüzük'e göre, aylığının 2/3'ü oranına kadar verilmiş ödenek varsa, bu ödenek diğer sosyal yardımlar ve yan ödemeler toplamından az olduğu takdirde aradaki fark derece yükselmesi, kademe ilerlemesi veya katsayı artışı ile giderilinceye kadar tazminat olarak ödenmeye devam edilir.
