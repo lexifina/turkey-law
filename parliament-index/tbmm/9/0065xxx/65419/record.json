@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 65419,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "İspençiyari ve Tıbbi Müstahzarlar Kanununun 4348 sayılı Kanunla değiştirilmiş bulunan 5. maddesinin tadili hakkındaki kanun lâyihasına dair (1/586)",
+  "title": "İspençiyari ve Tıbbi Müstahzarlar Kanununun 4348 sayılı Kanunla değiştirilmiş bulunan 5. maddesinin tadili hakkındaki kanun lâyihasına dair (1/586)",
+  "first_sitting_date": "1953-06-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 23,
+      "sitting": 95,
+      "sitting_date": "1953-06-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c023/tbmm09023095.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c023/tbmm09023fih.pdf",
+      "pages": [
+        "167"
+      ]
+    },
+    {
+      "cilt": 27,
+      "sitting": 31,
+      "sitting_date": "1954-01-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c027/tbmm09027031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c027/tbmm09027fih.pdf",
+      "pages": [
+        "279:281",
+        "318"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 38,
+      "sitting_date": "1954-02-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028fih.pdf",
+      "pages": [
+        "72",
+        "118:133"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=1501&v_kullanici_id=27484171",
+  "source_sha256": "f58368763ea1af77c584cf2fce95971dec4f79ba015b0b8a9d4798158b9348bc",
+  "in_force": "1953-06-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
