@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.64/6431-267-40878",
+  "source_id": 38367,
+  "date": "1997-09-24",
+  "title": "Bağımsız olarak inşa edilen öğrenci yurdu binalarının 2982 sayılı Yasanın muafiyet hükümlerinden yararlandırılıp yararlandırılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/469/ozelge/38367",
+  "source_sha256": "1c07f934efabdfd680e4be301fe3226cd0980496256f13914e6106425805e0b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
