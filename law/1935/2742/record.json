@@ -1,0 +1,74 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2742",
+  "year": 1935,
+  "title": "İzmir liman işleri Umum Müdürlüğü 1935 malî yılı bütçe Kanunu",
+  "adopted": "1935-05-30",
+  "adopted_as_published": "30/05/1935",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.06.1935 No: 3021",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502742.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 15",
+  "committee_reports": [
+    {
+      "label": "TBMM 142 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003032ss0142.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 103956,
+      "title": "İzmir liman işleri Umum Müdürlüğü 1935 malî yılı bütçe Kanunu",
+      "adopted_as_published": "30/05/1935",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502742.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 142 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003032ss0142.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 26,
+          "sitting_date": "1935-05-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003fih.pdf",
+          "pages": [
+            "148"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 32,
+          "sitting_date": "1935-05-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003fih.pdf",
+          "pages": [
+            "331",
+            "342:345",
+            "362:363",
+            "369:372"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=920&v_gelecek_sayfa=801&v_kullanici_id=27483162",
+      "page_sha256": "537095c4cdc27754a05275448dfbd14f853083ffc822e612fd9b764a76e94703"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "537095c4cdc27754a05275448dfbd14f853083ffc822e612fd9b764a76e94703",
+  "issuer": "TBMM",
+  "in_force": "1935-05-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 30/05/1935; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
