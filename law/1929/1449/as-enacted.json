@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1449",
+  "year": 1929,
+  "title": "Bazı devairin 1928 senesi bütçelerine tahsisatı fevkalâde ve munzama ilavesine ve bazı devair bütçelerinde münakale icrasına ve bazılarından tahsisat imhasına ve 1225 numaralı kanunun 5. maddesiyle Hariciye Vekâleti emrine açılmış olan kredi miktarının tezyidine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-05-19",
+  "gazette_issue": "1196",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1196.pdf",
+  "source_sha256": "4adf66248973c78cc357cb2b24648e775cfd46dfffb6b2382cdb36e0319da2ee",
+  "text_sha256": "562afe69014470155165f4ee52063b8ecab99a17376c4a6ce8b3663c495b1285",
+  "text_status": "ocr",
+  "pages": [
+    10
+  ],
+  "line_span": [
+    [
+      684,
+      724
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701449.pdf",
+    "source_sha256": "8b84060d8b8455a6d8feaa6a54414de11ad08d26d9409ec6e0ed4ea50e654270",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.958,
+    "bag": 0.9057,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.3164,
+    "rg_words": 184,
+    "kd_words": 591,
+    "own_anchor": false,
+    "foreign_anchors": 5
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
