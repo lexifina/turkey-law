@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3374",
+  "year": 1987,
+  "title": "3374 sayılı Kanun",
+  "adopted": "1987-05-22",
+  "adopted_as_published": "22/05/1987",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.06.1987 No: 19479",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc070/kanuntbmmc070/kanuntbmmc07003374.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 70",
+  "committee_reports": [
+    {
+      "label": "TBMM 573 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041110ss0573.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 249514,
+      "title": "3374 sayılı Kanun",
+      "adopted_as_published": "22/05/1987",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc070/kanuntbmmc070/kanuntbmmc07003374.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 573 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041110ss0573.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 40,
+          "sitting": 103,
+          "sitting_date": "1987-05-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040103.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040fih.pdf",
+          "pages": [
+            "339"
+          ]
+        },
+        {
+          "cilt": 41,
+          "sitting": 108,
+          "sitting_date": "1987-05-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041108.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041fih.pdf",
+          "pages": [
+            "95"
+          ]
+        },
+        {
+          "cilt": 41,
+          "sitting": 110,
+          "sitting_date": "1987-05-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041110.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041fih.pdf",
+          "pages": [
+            "252:271"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=401&v_kullanici_id=27483190",
+      "page_sha256": "5877ff681863294c88d5df56a47f8723b0b0802ad981cd39436186cc42c2f649"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5877ff681863294c88d5df56a47f8723b0b0802ad981cd39436186cc42c2f649",
+  "issuer": "TBMM",
+  "in_force": "1987-05-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 22/05/1987; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
