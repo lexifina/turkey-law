@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4215-4/1083/14354",
+  "source_id": 23489,
+  "date": "1999-04-15",
+  "title": "Hayat standardı esasına göre kazancın tespitinde izah nedeni gelir olarak, mükellefin eşine ait olan ve yıllık beyannameye dahil edilmeyen ücretin gelir vergisi matrahının esas alınması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23489",
+  "source_sha256": "2f102be5ef4d6a31ab76616cf1be663300ac56e50dd74069a4e139ca05be5527",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
