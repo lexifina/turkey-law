@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6376-64/58276",
+  "source_id": 38167,
+  "date": "1999-12-30",
+  "title": "Bir şirketin kiralayacağı tıbbı cihazların bedelini ödemek için kullanacağı kredinin ipotek tesisi sırasında harç ve damga vergisi alınması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38167",
+  "source_sha256": "8c1cb04dfa26ac9a0738a23b39cf9880fa64f35a3d3ded55cd4060e8c957eded",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
