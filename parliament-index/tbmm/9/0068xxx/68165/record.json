@@ -1,0 +1,80 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 68165,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "ZİYA SOYLU (ERZİNCAN)",
+  "summary": "Eczacılar ve eczaneler hakkında (2/348)",
+  "title": "Eczacılar ve eczaneler hakkında (2/348)",
+  "first_sitting_date": "1952-02-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 38,
+      "sitting_date": "1952-02-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013fih.pdf",
+      "pages": [
+        "185"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 55,
+      "sitting_date": "1953-02-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c020/tbmm09020055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c020/tbmm09020fih.pdf",
+      "pages": [
+        "1201"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 106,
+      "sitting_date": "1953-07-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024106.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024fih.pdf",
+      "pages": [
+        "500"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 107,
+      "sitting_date": "1953-07-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024107.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024fih.pdf",
+      "pages": [
+        "596:597"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 109,
+      "sitting_date": "1953-07-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024109.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024fih.pdf",
+      "pages": [
+        "681"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=676&v_gelecek_sayfa=301&v_kullanici_id=27484220",
+  "source_sha256": "01bbae6d1d97ee74c03dfabca8341f2b91469dc4d0bf17a31073fd17f6821f42",
+  "in_force": "1952-02-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
