@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 401806,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Türkiye Cumhuriyeti ile Kazakistan Cumhuriyeti Arasında Cezaî Konularda Karşılıklı Adlî Yardımlaşma ve Suçluların iadesi Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Tasarısına ilişkin",
+  "title": "Türkiye Cumhuriyeti ile Kazakistan Cumhuriyeti Arasında Cezaî Konularda Karşılıklı Adlî Yardımlaşma ve Suçluların iadesi Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Tasarısına ilişkin",
+  "first_sitting_date": "1997-04-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 24,
+      "sitting": 78,
+      "sitting_date": "1997-04-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024fih.pdf",
+      "pages": [
+        "397:398",
+        "402",
+        "447:452"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=481&v_gelecek_sayfa=101&v_kullanici_id=27484473",
+  "source_sha256": "bf5c2a6b2b891156d83e1d6af32a79bd887fc9288e1ab91ca4a00c76cb685de7",
+  "in_force": "1997-04-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
