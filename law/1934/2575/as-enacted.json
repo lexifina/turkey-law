@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2575",
+  "year": 1934,
+  "title": "Umuru belediyeye müteallik ahkâmı cezaiye hakkındaki kanunu muaddil 19.5.1930 tarih ve 1608 sayılı Kanunun bazı maddelerini değiştiren ve yeniden madde ekleyen kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-07-15",
+  "gazette_issue": "2752",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2752.pdf",
+  "source_sha256": "cace06c44038bcb68634fce607f38e5db026ec7e1ef69ca552545520616e8ffc",
+  "text_sha256": "85aae899d62ccda027aacf6f6abc831b1ad06135c52030a28d8c0e31128efa82",
+  "text_status": "ocr",
+  "pages": [
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      595,
+      610
+    ],
+    [
+      611,
+      702
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302575.pdf",
+    "source_sha256": "6f89a1b62dee010afdcfbc21b369438cfae29bc20329cc6e81b10f1d5000d93f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9352,
+    "bag": 0.8847,
+    "kd_coverage": 0.9968,
+    "kd_body_compared": 0.9904,
+    "rg_words": 325,
+    "kd_words": 311,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
