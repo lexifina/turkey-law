@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-2935",
+  "source_id": 29943,
+  "date": "2005-02-10",
+  "title": "KDV'ye tabi olan teslim ve hizmetler, hangi işlemlerin Türkiye'de yapılmış sayıldığı, mülellefin Türkiye içinde ikametgahının, işyerinin, kanuni merkezi ve iş merkezinin bulunmaması hali, yurt dışındaki müşteriler için yapılan hizmetlerin KDV'den istisna ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29943",
+  "source_sha256": "9a7168d59383ec24736f1492cd65302dd20f4631e3a2ffa5925591ee4c3ae841",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
