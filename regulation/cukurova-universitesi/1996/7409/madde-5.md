@@ -1,0 +1,2 @@
+Zorunlu Yabancı Dil
+Madde 5 – Nitelikleri bu yönetmeliğin 4 ncü maddesinde ( a ), ( b ) veya ( c ) bentlerinde de belirtilen koşullara uyan öğrenciler, yabancı dil seviye tespit sınavına girmedikleri veya bu sınavda başarılı olamadıkları taktirde, 2547 sayılı Kanunun 5 nci maddesinin ( i ) bendi gereğince düzenlenen zorunlu yabancı dil derslerini almak ve başarmak zorundadırlar. Zorunlu yabancı dil dersleri toplamı 60 saatten az olmamak üzere en az iki yarıyıl olarak programlanır ve okutulur.

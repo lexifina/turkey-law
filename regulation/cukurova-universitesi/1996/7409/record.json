@@ -1,0 +1,28 @@
+{
+  "source_id": "8.5.7409",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "ÇUKUROVA ÜNİVERSİTESİ YABANCI DİL EĞİTİMİ ÖĞRETİMİ VE YABANCI DİLLER HAZIRLIK EĞİTİMİ YÖNETMELİĞİ",
+  "number": "7409",
+  "issuer": "ÇUKUROVA ÜNİVERSİTESİ",
+  "issuer_slug": "cukurova-universitesi",
+  "path": "regulation/cukurova-universitesi/1996/7409",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7409&MevzuatTertip=5",
+  "source_sha256": "858497826788724cc11f171b6d62f85da7d389faae3321e9ab178c99628e989a",
+  "source_bytes": 28843,
+  "published": "1996-10-07",
+  "gazette": "22780",
+  "in_force": "1996-10-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.10.1996)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 940,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,4 @@
+İlişik Kesme
+Madde 13 – Hazırlık Sınıfı ister zorunlu, ister isteğe bağlı olsun, programlarda Hazırlık Sınıfını başaramayan öğrencilerini Üniversite ile ilişiği kesilir.
+Hazırlık Sınıfı’na devam yükümlülüklerini yerine getirdikleri halde Yeterlik Sınavını başaramayan ve böylece Üniversite ile ilişiği kesilen lisans öğrencilerine üç yıl içinde kullanacakları üç Yeterlik Sınavı hakkı verilir. Sınav hakkı verilenler, başvurmaları halinde her eğitim-öğretim yılı başında açılacak sınavlara alınırlar. Bu Yeterlik Sınavlarından herhangi birini kazananlar öğrenimlerine kaldıkları yerden devam ederler.
+Yeterlik Sınavlarında başarısız olan öğrencilerin “Yükseköğretim Kurumlarında Yabancı Dil Eğitim-Öğretimi ve Yabancı Dille Eğitim-Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik” ile verilen hakları saklıdır.

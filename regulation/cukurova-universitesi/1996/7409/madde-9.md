@@ -1,0 +1,2 @@
+Eğitim Sonucu Başarılı/Başarısız Olma Durumu
+Madde 9 – Hazırlık Sınıfında iki yarıyıl içerisinde yapılan arasınavlar ortalaması %60 ve üstü olan öğrenciler ikinci yarıyıl sonunda Yeterlik Sınavına girmeye hak kazanırlar. Bu Yeterlik Sınavında başarılı olanlar kaydoldukları programlarda eğitimlerine devam ederler. İki yarıyıl içindeki arasınavlar ortalaması yukarıda bildirilen koşullara uymayan öğrenciler ikinci Yeterlik Sınavına giremez ve İkinci Yetrlik Sınavında başarısız olan öğrencilerle birlikte Yaz Dönemi Destek Programına katılabilirler.
