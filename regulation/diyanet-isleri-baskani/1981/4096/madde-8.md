@@ -1,0 +1,2 @@
+Madde 8- Başkanlığa intikal eden yazılı talepler, dernek veya vakfın tüzüğündeki esaslara, yapılacak işin önem ve önceliğine göre Donatım Müdürlüğünce incelenir. Gerekli görülürse yatırımın yapılacağı il Müftülüğünden mütalaa istenir. İl Müftülüğünün gerekçeli mütalaası Valilik aracılığı ile Başkanlığa bildirilir.
+İnceleme sonucuna göre yardım yapılması gerekiyorsa Donatım Müdürlüğünün teklifi Diyanet İşleri Başkanının onayı ile ilgili dernek veya vakfa yardım yapılır.
