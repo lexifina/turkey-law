@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5077",
+  "year": 1947,
+  "title": "Genel Muhasebe Kanununun 83. maddesinin (A) fıkrasının değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-06-20",
+  "gazette_issue": "6637",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6637.pdf",
+  "source_sha256": "8192942561eb787ae68bea7ea5221b63bc844332071e85387a46249aef329e47",
+  "text_sha256": "ec05d2000989cd24d7ccce01aa5594af42011fcacb0f092f573ef971f6eba5d2",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      16,
+      51
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905077.pdf",
+    "source_sha256": "00c06cac6ea027d0d37881b506a6e9a184933667c7280678c03c2ef3b772a21e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9327,
+    "bag": 0.7907,
+    "kd_coverage": 0.9864,
+    "kd_body_compared": 0.9864,
+    "rg_words": 156,
+    "kd_words": 147,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
