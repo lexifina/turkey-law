@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2786",
+  "year": 1935,
+  "title": "Pulluk Kanununa ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-06-19",
+  "gazette_issue": "3032",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3032.pdf",
+  "source_sha256": "ab7eb9d87360b6f531f36b2f54a5e50ff78c2bf3bcd3e5fca874072c63e4d441",
+  "text_sha256": "d149be23a23cdbc1776f9e1eec41384711bd32c30bb7c63bbe5ee398a6c35ab8",
+  "text_status": "ocr",
+  "pages": [
+    12
+  ],
+  "line_span": [
+    [
+      2303,
+      2316
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [12] (no text layer)",
+    "tesseract_pages": [
+      12
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502786.pdf",
+    "source_sha256": "a7475f771144f60d2564800c793f2f881cb1ff5c3c8458fe41f67cc5a8144835",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9422,
+    "bag": 0.8727,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.975,
+    "rg_words": 87,
+    "kd_words": 80,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
