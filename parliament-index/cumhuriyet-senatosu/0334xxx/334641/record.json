@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 334641,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "10 Temmuz 1953 tarih ve 6132 sayılı At Yarışları Hakkındaki Kanunun 7. Maddesinin Değiştirilmesi ve Bu Kanuna Bir Geçici Madde Eklenmesine İlişkin Kanun Tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Anayasa ve Adalet Komisyonu Raporu. (Millet Meclisi:1/169:Cumhuriyet Senatosu:1/648) (S. Sayısı:946)",
+  "title": "10 Temmuz 1953 tarih ve 6132 sayılı At Yarışları Hakkındaki Kanunun 7. Maddesinin Değiştirilmesi ve Bu Kanuna Bir Geçici Madde Eklenmesine İlişkin Kanun Tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Anayasa ve Adalet Komisyonu Raporu. (Millet Meclisi:1/169:Cumhuriyet Senatosu:1/648) (S. Sayısı:946)",
+  "first_sitting_date": "1979-12-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 44,
+      "sitting": 15,
+      "sitting_date": "1979-12-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c044/cs__19044015.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c044/cs__19044fih.pdf",
+      "pages": [
+        "302:303"
+      ]
+    },
+    {
+      "cilt": 44,
+      "sitting": 16,
+      "sitting_date": "1979-12-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c044/cs__19044016.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c044/cs__19044fih.pdf",
+      "pages": [
+        "344:361"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=5001&v_kullanici_id=27484903",
+  "source_sha256": "c2684077884da14b5e7e0307d531936d40e610ea5e10f3b4676921d4770d6040",
+  "in_force": "1979-12-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
