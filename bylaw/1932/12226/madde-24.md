@@ -1,0 +1,1 @@
+Madde 24 – Tercümeihal varakalarına hakikat hilafı bir şey derç ve ilave veya memuriyetine mütaallik bazı malümatı ketim ve tağyir ve hüviyeti ve şahsi hallerini ihfa eylediği tebeyyün edenler hakkında ayrıca kanuni takibat yapılmakla beraber bu husus siciline de sureti mahsusada derç olunur.

@@ -1,0 +1,1 @@
+Madde 25 – Tercümeihal varakalarını ve müsbit evrakı zayi eden sicil memurları hakkında takibatı kanuniye yapılmakla beraber. Dahiliye memurları kanununun inzıbati cezalar faslındaki hükümlere göre muamele olunur.

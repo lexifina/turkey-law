@@ -1,0 +1,1 @@
+Madde 22 – Tescil olunan ahval hiç bir veçhile tebdil olunamaz ancak sicil kayıtlarındaki hükümlerin değişmesine müteallik hususlar Şürayı Devletten, mahkemelerden ve inzıbat komisyonlarından ve yanlışlık sebebiyle vakı olacak tashihler Müdürler Encümeninden verilecek kararlar üzerine zeylen ve üsulüne tevfikan icra edilir.
