@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.68/6802-2/049792",
+  "source_id": 37928,
+  "date": "2004-10-22",
+  "title": "Yatırım Teşvik Belgesi kapsamında yapılan ithalat ve bu belge kapsamında kullanılan 2 yıldan uzun vadeli krediler KKDF kesintisinden muaftır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37928",
+  "source_sha256": "64d2fe717f15cec5fc8cd092f3eb5d5fdb33028fa25525760bf4608f39850259",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
