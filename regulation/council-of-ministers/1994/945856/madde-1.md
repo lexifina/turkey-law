@@ -1,0 +1,4 @@
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Hedefler, Tanımlar, Yetki ve Sorumluluklar
+Amaç
+Madde 1 – Bu Yönetmeliğin amacı; 22 Nisan 1925 tarihli ve 657 Sayılı Harita Genel Komutanlığı Kanunu ile bu Kanunun bazı maddelerinde değişiklik yapan 2 Ocak 1961 tarihli ve 203,7 Mart 1990 tarihli ve 3615 Sayılı Kanunlar,30 Mayıs 1973 tarihli ve 1738 Sayılı Seyir ve Hidrografi Hizmetleri Kanunu, 26 Eylül 1984 tarihli ve 3045 Sayılı Tapu ve Kadastro Genel Müdürlüğü Kuruluşu ve Görevleri Hakkında Kanun Hükmünde Karanamenin Değiştirilerek Kabulü Hakkında Kanun ile 21 Haziran 1987 tarihli ve 3402 Sayılı Kadastro Kanunu gereği; bu kurumlarca ve bu Kanunlarla yetki verilmiş diğer kurumlarca üretilen harita ve harita bilgilerinden, ülke güvenliğine zarar vermeden, bakanlıklar, kamu kurum ve kuruluşları, belediyeler, yükseköğretim kurumları ile yerli ve yabancı gerçek ve tüzel kişilerin yararlanma esaslarını belirlemektir.

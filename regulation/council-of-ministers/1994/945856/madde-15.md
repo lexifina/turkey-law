@@ -1,0 +1,4 @@
+Kullanılamaz Hale Gelen Harita ve Harita Bilgilerinin İmhası
+Madde 15 – Hizmete özel gizlilik dereceli harita ve harita bilgilerinin kullanılamayacak kadar yıpranması veya işin sona ermesi halinde bunlar, karşılığında hiçbir bedel talep edilmeksizin imha edilmek üzere, alındığı kuruma bir tutanakla iade edilir.
+Silahlı Kuvvetlerin elinde bulunan harita ve harita bilgilerinin imhası kendi özel yönetmeliğine göre yapılır.
+Yurt dışına çıkarılmış harita ve harita bilgilerinin emniyetinin tehlikeye düşmesi halinde, bunlar sorumlu şahıslar tarafından gerekçeli üç nüsha bir tutanak düzenlenmek şartıyla imha edilebilir. Durum, olayın meydana geldiği yere en yakın askeri temsilciliğe bildirilir. Yurda dönüşte tutanaktan birer nüsha, Genelkurmay Başkanlığına ve Harita Genel Komutanlığına gönderilir.

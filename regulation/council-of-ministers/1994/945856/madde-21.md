@@ -1,0 +1,2 @@
+Yürürlükten Kaldırılan Hükümler
+Madde 21 – 2.6.1973 tarihli ve 7/6526 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan "Bakanlıklar, Devlet Teşekkülleri, Üniversitelerle Özel Müessese ve Şahısların; Harita ve Harita Bilgilerini Temin ve Kullanma Yönetmeliği" ile harita, hava fotoğrafı ve harita bilgilerinin gizlilik dereceleri ile ilgili olarak daha önce çıkarılmış bulunan yönetmeliklerin bu Yönetmeliğe aykırı olan hükümleri yürürlükten kaldırılmıştır.

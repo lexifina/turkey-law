@@ -1,0 +1,2 @@
+Harita ve Harita Bilgileri Üretim ve Satış Bedellerinin Tespiti
+Madde 20 – Harita Genel Komutanlığı, Tapu ve Kadastro Genel Müdürlüğü ve Seyir, Hidrografi ve Oşinografi Dairesi Başkanlığınca üretilen harita ve harita bilgilerinin, harita yapımı ile ilgili bütçe aktarma hesaplarına esas olacak birim fiyatları ve kuruluşların bütçelerine konacak ödenek miktarları Bakanlıklararası Harita İşlerini Koordinasyon ve Planlama Kurulunca tespit edilerek, Milli Savunma Bakanlığı ve Tapu ve Kadastro Genel Müdürlüğünün bağlı olduğu bakanlığın onayı ile kesinleşir.
