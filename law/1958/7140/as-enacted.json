@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7140",
+  "year": 1958,
+  "title": "4273 sayılı Subaylar heyetine mahsus terfi Kanununun 17. maddesine bir fikra ve bu kanuna bir muvakkat madde eklenmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-07-03",
+  "gazette_issue": "9945",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9945.pdf",
+  "source_sha256": "76528dcf209d16faad940386dd8b22f599414a2b7504b77b6983e05aa9b4f89c",
+  "text_sha256": "f1069c43873145dcd73240f08c8bf6cb0ec132a52fa8f5d0507b75c397f7ad73",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      335,
+      384
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007140.pdf",
+    "source_sha256": "a9908319d75df7599d12cc27c86e9e6217e10f406e07157d24e699f33ed138cb",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9682,
+    "bag": 0.8328,
+    "kd_coverage": 0.9799,
+    "kd_body_compared": 0.9799,
+    "rg_words": 159,
+    "kd_words": 149,
+    "own_anchor": false,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
