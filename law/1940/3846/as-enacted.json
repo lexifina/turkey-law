@@ -1,0 +1,55 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3846",
+  "year": 1940,
+  "title": "Devlet Demiryolları ve Limanları İşletme Umum Müdürlüğü 1940 malî yılı bütçe kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-06-03",
+  "gazette_issue": "4525",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4525.pdf",
+  "source_sha256": "d7c9ad470f40ed592876741067d39ecb95262f0bc965285742ea922ff77e8785",
+  "text_sha256": "86aaa9938a6d6b288250e5445ebec14946f80099a6dd43b10c8a55920ba6295d",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "line_span": [
+    [
+      11,
+      3247
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103846.pdf",
+    "source_sha256": "c58d3ce9974f5540b7aa9b6d4aba36d7e89c042867aa6c66fa5a59c092bbe1c6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.7835,
+    "bag": 0.9298,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 7247,
+    "kd_words": 7348,
+    "own_anchor": true,
+    "foreign_anchors": 7
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
