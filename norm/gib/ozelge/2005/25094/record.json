@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2945-267-126-6586",
+  "source_id": 25094,
+  "date": "2005-03-07",
+  "title": "Emsal bedeli tayini ilgililerin müracatı üzerine Takdir komisyonunca yapılır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25094",
+  "source_sha256": "fe48787934ac6f5ac0319f94b2cbc01d8b9eff29ed89ef1595f382b7c0792bca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
