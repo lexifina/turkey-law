@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "248/4",
+  "decision_date": "2003-11-21",
+  "title": "Perakende satış lisansı sahibi dağıtım şirketlerinden tarife tekliflerinin istenmesi",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wrnddJNg1tg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wrnddJNg1tg="
+  ],
+  "source_sha256": "ddc6f6a41f7e67ec6f1de1532907db3ce4b2c8c86335be3158885bb98f9f0a89",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-11-21",
+  "law_text_complete": false
+}
