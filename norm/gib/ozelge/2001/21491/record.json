@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-1672/65040",
+  "source_id": 21491,
+  "date": "2001-12-04",
+  "title": "Çalışana bedelsiz olarak konut tahsis edilmesi halinde, söz konusu kira bedellerinin vergiden istisna edilmesi mümkün olamayacağından, bu ödemelerin gayrisafi tutarının ilgililerin ücretlerine eklenmek suretiyle vergiye tabi tutulması gerekir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21491",
+  "source_sha256": "f5c07ac4415d44fa65c6fdc846052bc33e476546f837ca6ce7682a9444eb31b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
