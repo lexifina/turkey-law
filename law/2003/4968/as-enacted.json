@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4968",
+  "year": 2003,
+  "title": "540 Sayılı Devlet Planlama Teşkilatı Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-08-06",
+  "gazette_issue": "25191",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/08/20030806.htm",
+  "source_sha256": "9a2af3bfeca5f3cff9e8a6f01fd53fd592009dfc7b911e8445ffd9b3e4f75e96",
+  "text_sha256": "b4a2290c5ac967d149f9ae2f59a3dba8d6f8d281ab0c1632ca3e0a751cd3a69f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/08/06/25191-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/08/20030806.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
