@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40./4003-54/49600",
+  "source_id": 24092,
+  "date": "1998-12-24",
+  "title": "Dar mükellefiyet esasında vergilendirilecek olanların Türkiye'de elde ettiği gelirin tamamı tevkif suretiyle vergilendirilmiş ücret, serbest meslek kazancı, menkul ve gayrimenkul sermaye iratları ile kurumlardan elde edilen kar paylarından, değer artış ka",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24092",
+  "source_sha256": "854d7c8ed30c969347209354a39268be829c3d813ae0fbe0e8394721d2878cb9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
