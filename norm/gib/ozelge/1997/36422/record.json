@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6026-78/09827",
+  "source_id": 36422,
+  "date": "1997-03-11",
+  "title": "Veraset ve intikal vergisinde yükümlülük;beyanname verildiği takdirde, beyannamede gösterilen mallar için beyanname tarihinde,verilen beyannamede gösterilmiyen mallar ile beyanname verilmeyen hallerde intikal eden malların idarece tesbit olunduğu tarihte,",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36422",
+  "source_sha256": "f97e88d6def2df185f8fc2a4d101cc7a62f23afe52a9039ea339a3ebcc3a4817",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
