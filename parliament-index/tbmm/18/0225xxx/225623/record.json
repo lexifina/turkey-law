@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 225623,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Anayasa Mahkemesi Başkanlığı 1986 Malî Yılı Kesinhesabı",
+  "title": "Anayasa Mahkemesi Başkanlığı 1986 Malî Yılı Kesinhesabı",
+  "first_sitting_date": "1988-04-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 46,
+      "sitting_date": "1988-04-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007046.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007fih.pdf",
+      "pages": [
+        "81:116"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a537655a8362c498d5f1ca955368f8066a88b104f97d8cee236a94edafe10e75",
+  "in_force": "1988-04-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
