@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-1528/7627",
+  "source_id": 21490,
+  "date": "2002-02-15",
+  "title": "A.Ş.'nin personeline nakit olarak yapacağı yemek yardımlarının gelir vergisinden istisna değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21490",
+  "source_sha256": "b7501f0924853c11b6575b624cf13d860cf6968fbf5e3c519d16cad20f1dc372",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
