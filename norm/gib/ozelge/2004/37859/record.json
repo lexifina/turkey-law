@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4236- 1/24234",
+  "source_id": 37859,
+  "date": "2004-05-31",
+  "title": "Ağustos 2003 döneminde istihdam edilen işçi sayısının tespitinde aynı dönemde giren çıkan işçilerin de dikkate alınıp alınmayacağı ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37859",
+  "source_sha256": "3dddcfb0aa1a6cb72b0cc77ff0de40c1b527e94d4ce2b0234bab8a2602911481",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
