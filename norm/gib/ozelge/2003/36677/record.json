@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3224-2755",
+  "source_id": 36677,
+  "date": "2003-11-25",
+  "title": "Yeminli mali müşavirlerce düzenlenen  tasdik raporlarına yeminli mali müşavirin mührünün  olmaması durumunda söz konusu tasdik raporlarının  işleme konulmaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/36677",
+  "source_sha256": "b5205ce40c5f1b01e2ee187fd914e4add367a3fec33b4e6ca5d455e7982533a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
