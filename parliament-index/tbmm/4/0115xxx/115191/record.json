@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 115191,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Tapu ve Kadastro Umum Müdürlüğü 1933 senesi bütçesinde 800 liralık münakale yapılması hakkında 1/920, İktısad Vekâleti 1933 senesi bütçesinde 9 500 liralık münakale yapılması hakkında 1/922, Nafıa Vekâleti 1933 senesi bütçesine 108 000 liralık tahsisat konulmasına dair 1/924, Askerî Fabrikalar Umum Müdürlüğü 1933 senesi bütçesinde 4 000 liralık münakale yapılması hakkında 1/925,Jandarma Umum Kumandanlığı 1933 senesi bütçesinde 18 220 liralık münakale yapılması hakkında 1/928, Dahiliye Vekâleti 1933 senesi bütçesinde 10 740 liralık münakale yapılması hakkında 1/930, Millî Müdafaa Vekâletile Jandarma Umum Kumandanlığı 1933 senesi bütçelerinde 20 000 liralık münakale yapılması hakkında 1/931, Adliye Vekâleti 1933 senesi bütçesinde 20 000 liralık münakale yapılması hakkında 1/933 ve 1933 malı senesi Muvazenei Umumiye Kanununa merbut bütçelerde bazı tadilât icrasına ve Konya ovası sulama idaresi bütçesinin varidat kısmına ilâve edilecek tahsisata dair olan kanuna merbut 1 numaralı cetvelde tashihat yapılması hakkında 1/935 numaralı kanun lâyihalari ile İdare Heyetinin, Büyük Millet Meclisi 1933 senesi bütçesinde 600 liralık münakale yapılması hakkında 2/102 ve Büyük Millet Meclisi ve Riyaseti Cumhur 1933 senesi bütçelerinde 120 liralık münakale yapılması hakkında 2/103 numaralı kanun tekliflerine dair",
+  "title": "Tapu ve Kadastro Umum Müdürlüğü 1933 senesi bütçesinde 800 liralık münakale yapılması hakkında 1/920, İktısad Vekâleti 1933 senesi bütçesinde 9 500 liralık münakale yapılması hakkında 1/922, Nafıa Vekâleti 1933 senesi bütçesine 108 000 liralık tahsisat konulmasına dair 1/924, Askerî Fabrikalar Umum Müdürlüğü 1933 senesi bütçesinde 4 000 liralık münakale yapılması hakkında 1/925,Jandarma Umum Kumandanlığı 1933 senesi bütçesinde 18 220 liralık münakale yapılması hakkında 1/928, Dahiliye Vekâleti 1933 senesi bütçesinde 10 740 liralık münakale yapılması hakkında 1/930, Millî Müdafaa Vekâletile Jandarma Umum Kumandanlığı 1933 senesi bütçelerinde 20 000 liralık münakale yapılması hakkında 1/931, Adliye Vekâleti 1933 senesi bütçesinde 20 000 liralık münakale yapılması hakkında 1/933 ve 1933 malı senesi Muvazenei Umumiye Kanununa merbut bütçelerde bazı tadilât icrasına ve Konya ovası sulama idaresi bütçesinin varidat kısmına ilâve edilecek tahsisata dair olan kanuna merbut 1 numaralı cetvelde tashihat yapılması hakkında 1/935 numaralı kanun lâyihalari ile İdare Heyetinin, Büyük Millet Meclisi 1933 senesi bütçesinde 600 liralık münakale yapılması hakkında 2/102 ve Büyük Millet Meclisi ve Riyaseti Cumhur 1933 senesi bütçelerinde 120 liralık münakale yapılması hakkında 2/103 numaralı kanun tekliflerine dair",
+  "first_sitting_date": "1934-04-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 41,
+      "sitting_date": "1934-04-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021041.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021fih.pdf",
+      "pages": [
+        "82"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 42,
+      "sitting_date": "1934-04-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021fih.pdf",
+      "pages": [
+        "95:96",
+        "107:110"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=1201&v_kullanici_id=27483870",
+  "source_sha256": "7bc7a9fb6a5da0194d601c6644caa45ece4087f30912a29f555bb414b6b0b039",
+  "in_force": "1934-04-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
