@@ -1,6 +1,6 @@
 DÖRDÜNCÜ KISIM
 Gelirler, Giderler ve Değerlendirilme
-Kurum gelirleri, giderleri ve gelirlerin değerlendirilmesi
+Kurum gelirleri, giderleri ve gelirlerin değerlendirilmesi (1)
 MADDE 19 - 1. Kurumun gelirleri şunlardır:
 a) Sosyal Sigortalar Kurumu Sigorta İşleri Genel Müdürlüğünün gelirleri:
 1) Prim gelirleri.
@@ -12,7 +12,8 @@ a) Sosyal Sigortalar Kurumu Sigorta İşleri Genel Müdürlüğünün gelirleri:
 7) Gerçek veya tüzel kişiler tarafından yapılan bağış ve vasiyetler, Kurumca hazırlanan standart form, bilgi taşımaya ve kontrole yönelik araç ve sistemler ile teknolojinin gelişmesiyle uygulamaya girecek manyetik, elektronik veya benzeri araç ve sistemlerin satışından elde edilecek gelirler.
 8) Gelirlerin nemalandırılmasından elde edilecek gelirler.
 9) Sosyal Sigortalar Kurumu Sağlık İşleri Genel Müdürlüğünce aktarılacak kaynaklar.
-10) Diğer gelirler.
+10) (Ek: 24/6/2004-5198/20 md.) 22.5.2003 tarihli ve 4857 sayılı İş Kanununun 101 inci maddesindeki cezalar hariç olmak üzere, diğer maddelerine göre tahsil edilen idari para cezaları. (1)
+11) Diğer gelirler. (1)
 b) Sosyal Sigortalar Kurumu Sağlık İşleri Genel Müdürlüğünün gelirleri:
 1) Sosyal Sigortalar Kurumu Sigorta İşleri Genel Müdürlüğünce aktarılacak kısa vadeli sigorta kolları primleri.
 2) Genel bütçeden yapılacak yardımlar.
@@ -23,6 +24,8 @@ b) Sosyal Sigortalar Kurumu Sağlık İşleri Genel Müdürlüğünün gelirleri
 7) Gayrimenkul kira ve işletme gelirleri.
 8) Diğer gelirler.
 2. Sosyal Sigortalar Kurumunun gelirlerinin değerlendirilmesi: Kurumun elde ettiği her türlü gelirlerin, riskin dağıtılması ilkesi ve basiretli yönetim kurallarına göre Kurum lehine en yüksek getiriyi sağlayacak şekilde yönetilmesi esastır. Kurum gelirleri ve zorunlu ödemeler için bulundurulması gereken nakit ve benzeri varlıkların değerlendirilmesine ilişkin usul ve esaslar Kurum, Bakanlık, Maliye Bakanlığı, Hazine Müsteşarlığı, T.C. Merkez Bankası ve Sermaye Piyasası Kurulu Başkanlığının müştereken hazırlayacakları ve Bakanlar Kurulunca çıkarılacak yönetmelikle belirlenir.
+–––––––––––––––––
+(1) 24/6/2004 tarihli ve 5198 sayılı Kanunun 20 nci maddesiyle, bu maddenin (1) numaralı fıkrasının (a) bendine (9) numaralı alt bendinden sonra gelmek üzere 10) numaralı alt bent eklenmiş ve mevcut (10) numaralı alt bent (11) olarak teselsül ettirilmiştir.
 3. Kurumun giderleri şunlardır:
 a) Sosyal Sigortalar Kurumu Sigorta İşleri Genel Müdürlüğünün giderleri:
 1) Sosyal sigorta giderleri.
