@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1507",
+  "year": 1929,
+  "title": "1111 numara ve 2 Haziran 1927 tarihli askerlik mükellefiyeti kanununun 2 nci maddesinin 5 nci fıkrası ile 35 nci maddesinin (H) fıkrasını ve 885 numara ve 3 Mayıs 1926 tarihli iskân kanununun 11 nci maddesini muaddil kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-09",
+  "gazette_issue": "1211",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1211.pdf",
+  "source_sha256": "5d9bfa8b7424cc02764e1297c3aa93eca2ebc4b41c667e51b8591c38e1ab343c",
+  "text_sha256": "5bc9373bd57c98273b2d8b31b46690d61a2a7a1e5b9fe49d09b3d0575fe9ce4e",
+  "text_status": "ocr",
+  "pages": [
+    11,
+    12
+  ],
+  "line_span": [
+    [
+      967,
+      1002
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701507.pdf",
+    "source_sha256": "8ddc1a4301525109b9f9a3673366b13dcc97fe002506e881261c97e4c926c541",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9618,
+    "bag": 0.9036,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8944,
+    "rg_words": 171,
+    "kd_words": 180,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
