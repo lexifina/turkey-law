@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07 .0.GEL.O.59/5920 - 19 / 8632",
+  "source_id": 38133,
+  "date": "2005-02-23",
+  "title": "Rafinerici olmayan ithalatçı firmalardan satın alınarak teslim edilen deniz yakıtları için ÖTV tutarının sıfır olarak uygulanıp uygulanmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38133",
+  "source_sha256": "a00a0538cec5ed476fe53cee3c4d685e7a9219bb5d9e7d2a2234a154740c9daf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
