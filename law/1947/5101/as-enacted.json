@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5101",
+  "year": 1947,
+  "title": "Polis Memurlarının yaş hadlerine dair olan 2388 sayılı Kanunun 1. maddesinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-06-25",
+  "gazette_issue": "6641",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6641.pdf",
+  "source_sha256": "10e97fec48198720f6c5ed390d3170817b225ea16c9824d4f7405b37d9515260",
+  "text_sha256": "d496a34b754cc00d64ee00bae37e3bf4bf163aecc4043d4d26e858c5f5828143",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      208,
+      241
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905101.pdf",
+    "source_sha256": "4be9dc06bbe49577406617c1ac0a63341d2cc4e9452fe7778d369ed527116699",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.922,
+    "bag": 0.8037,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9655,
+    "rg_words": 107,
+    "kd_words": 116,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
