@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 133013,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEFSİRLER",
+  "heading_as_published": "Tefsirler",
+  "summary": "30 Teşrinievvel 1334'den 23 Ağustos 1339 tarihine kadar geçen müddet zarfında müdafaai memleket uğrunda ika edilmiş olan efal ve harekâtın cürüm addolunamayacağı hakkındaki kanunun rüsumu istihlâkiye kanununa muhalif hareket edenlere de şümulü olup olmadığının tefsirine dair.",
+  "title": "30 Teşrinievvel 1334'den 23 Ağustos 1339 tarihine kadar geçen müddet zarfında müdafaai memleket uğrunda ika edilmiş olan efal ve harekâtın cürüm addolunamayacağı hakkındaki kanunun rüsumu istihlâkiye kanununa muhalif hareket edenlere de şümulü olup olmadığının tefsirine dair.",
+  "first_sitting_date": "1924-01-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 81,
+      "sitting_date": "1924-01-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005081.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005081.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+      "pages": [
+        "5",
+        "686"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 34,
+      "sitting_date": "1924-04-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c008/tbmm02008034.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c008/ehttbmm02008034.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c008/tbmm02008fih.pdf",
+      "pages": [
+        "543:545"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "726f99e0b1386a2a326b1382306515418f861fcbd9c4635a436d2a7acd94ffbd",
+  "in_force": "1924-01-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
