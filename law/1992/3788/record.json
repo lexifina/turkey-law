@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3788",
+  "year": 1992,
+  "title": "EFTA Devletleri ile Türkiye Arasında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "1992-03-24",
+  "adopted_as_published": "24/03/1992",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.03.1992 No: 21184",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc075/kanuntbmmc075/kanuntbmmc07503788.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 75",
+  "committee_reports": [
+    {
+      "label": "TBMM 56 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c008/tbmm19008060ss0056.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 256523,
+      "title": "EFTA Devletleri ile Türkiye Arasında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "24/03/1992",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc075/kanuntbmmc075/kanuntbmmc07503788.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 56 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c008/tbmm19008060ss0056.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 47,
+          "sitting_date": "1992-03-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c005/tbmm19005047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c005/tbmm19005fih.pdf",
+          "pages": [
+            "169"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 59,
+          "sitting_date": "1992-03-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c008/tbmm19008059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c008/tbmm19008fih.pdf",
+          "pages": [
+            "249"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 60,
+          "sitting_date": "1992-03-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c008/tbmm19008060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c008/tbmm19008fih.pdf",
+          "pages": [
+            "519",
+            "523:527"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5",
+  "issuer": "TBMM",
+  "in_force": "1992-03-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 24/03/1992; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
