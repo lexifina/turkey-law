@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5411-2487-9396",
+  "source_id": 31079,
+  "date": "2005-03-01",
+  "title": "Tecil-terkin uygulaması için Gümrük Beyannamesinde imalatçı firmanın adinin yer alması zorunlu bir unsurdur; ancak  söz konusu ihracatın gerçekleştirildiğinin tespit edilmesi halinde imalatçı firmanın sehven yazılmadığı anlaşılan vergi numarası ile vergi ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31079",
+  "source_sha256": "f42e0828057135d60f232b867bf8d780e02df0c1abcdc0b73f8f554e5f5913f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
