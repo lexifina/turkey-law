@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6353",
+  "year": 1954,
+  "title": "Türkiye Cumhuriyeti ile Amerika Birleşik Devletleri Arasında İmzalanan İktisadi İş Birliği Anlaşmasında Bazı Tadiller Yapan 16 Ağustos 1951 Tarihli Anlaşmanın Tasdiki Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-18",
+  "gazette_issue": "8661",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8661.pdf",
+  "source_sha256": "08b96f1014baa5b1cb0c50921dda0c3788c54fa75ac532bb00753614147b1cba",
+  "text_sha256": "f1af0b066ad298fc76b1c5167c203d67bbe02062ac21a0f281652aa174a831b6",
+  "text_status": "ocr",
+  "pages": [
+    8,
+    9
+  ],
+  "line_span": [
+    [
+      1283,
+      1391
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606353.pdf",
+    "source_sha256": "efb2a64909749c8b1dd3fc8ec8bea7fbbb35d14fdf94703bd273b433285c3570",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9596,
+    "bag": 0.9154,
+    "kd_coverage": 0.9958,
+    "kd_body_compared": 0.9958,
+    "rg_words": 708,
+    "kd_words": 713,
+    "own_anchor": true,
+    "foreign_anchors": 5
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
