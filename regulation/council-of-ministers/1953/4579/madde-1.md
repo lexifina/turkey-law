@@ -1,0 +1,3 @@
+Çiftlik işlerinin idaresi ve personelinin görev ve yetkileri
+Madde 1 – Atatürk Orman Çiftliğine mütaallik işler; Müdür, Müdür Yardımcısı, Hesap İşleri, Umumi Ziraat, Bağ - Bahçe Kültürleri ve Ağaçlandırma, Ziraat Sanatları, Hayvancılık ve Hayvanat Bahçesi, Ticaret - İdare ve Levazım Şeflikleriyle Hukuk Servisinden ve Personel İşleri Amirliğinden müteşekkil "ÇİFTLİK İDARESİ" tarafından yürütülür.
+Çiftlik İdaresine ait iş ve hizmetlerin ifası için yeteri kadar barem içi memurla kadroya müsteniden çeşitli hizmetliler istihdam olunabileceği gibi muvakkat hizmetlerin yapılması için bütçedeki ödeneği dahilinde lüzumu kadar gündelikli işçi de çalıştırılabilir.
