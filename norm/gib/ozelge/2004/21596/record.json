@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42.4213-1425/44485",
+  "source_id": 21596,
+  "date": "2004-09-21",
+  "title": "Eleman temininde güçlük zammı nedeniyle yapılan ödemelerin gelir vergisinden istisna edilmesi mümkün bulunmamakta olup, söz konusu ödemelerin ücret kabul edilerek Gelir Vergisi Kanununa göre vergilendirilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21596",
+  "source_sha256": "2c0a963cfb1c01062055afc3c19258b35bc8b8fc85b07464e1e4d615d5ec7811",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
