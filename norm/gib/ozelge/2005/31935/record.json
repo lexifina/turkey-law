@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5318-17",
+  "source_id": 31935,
+  "date": "2005-03-08",
+  "title": "KDV Kanununun (17/4-g) maddesindeki istisnadan, yine aynı Kanunun 18 inci maddesi uyarınca vazgeçmek için yazılı olarak müracaat edilmiş, ancak verilen dilekçe dışında KDV istisnasından vazgeçme ile ilgili bir mal satışı veya mal alışının olmadığı belirti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31935",
+  "source_sha256": "99d55d8aa6d267efeab66d8bb6df7350678eea5ee507c3d31f66ea0c311c26c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
