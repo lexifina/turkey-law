@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2000-01-11T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2000-01-11",
+  "official_number": "B.07.0.GEL.0.51/5109-252/2780",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/24684",
+  "source_id": "ozelge:24684",
+  "source_row_sha256": "45543099b97f9a9d13e4a059afcfc1d4396f2a638d21245efb9519ca4c2a7668",
+  "title": "Kanunla kurulan vakıflardan 29.07.1998 tarihinden önce bankalarda açılmış olan vadeli hesaplara yürütülen faizlere tevkifat uygulanmaması gerekmektedir.",
+  "version_label": "as-enacted",
+  "word_count": 279
+}
