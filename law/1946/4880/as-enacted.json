@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4880",
+  "year": 1946,
+  "title": "1934 ikinci sıra Türk borcu tahvillerinin erken ödenmesinde 4516 sayılı kanunla çıkarılmasına izin verilen bonoların kullanılmaması ve amortisman sandığında bulunan tahvillerin üç yılda ödenmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-05-13",
+  "gazette_issue": "6305",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6305.pdf",
+  "source_sha256": "7e622c07f30ba1ca8fb79adb3fcf5c722cf98d97952e523ff7e73e7e8359fcbc",
+  "text_sha256": "27e95ffcf8062a8f299217da414f4ee845b8f45d2e04b9bb2d9ec9172be26cb3",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      65,
+      95
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804880.pdf",
+    "source_sha256": "6654e9acd32cab555bccc266923e4b23fd627f35a37dfdd40c27960db522c786",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9237,
+    "bag": 0.7907,
+    "kd_coverage": 0.994,
+    "kd_body_compared": 0.9766,
+    "rg_words": 177,
+    "kd_words": 171,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
