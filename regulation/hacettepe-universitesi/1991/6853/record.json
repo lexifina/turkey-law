@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 9- Hacettepe Üniversitesi Senatosu tarafından kabul edilen bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1991-11-27",
+      "27.11.1991",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 9- Hacettepe Üniversitesi Senatosu tarafından kabul edilen bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21064",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1991-11-27",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/1991/6853",
+  "published": "1991-11-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6853&MevzuatTertip=5",
+  "source_bytes": 20862,
+  "source_id": "8.5.6853",
+  "source_sha256": "bf032b6326f26040cd00717493678dbb0579e9bebcbf05b1b1960e3caf81968c",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ TIBBİ GENETİK UYGULAMA VE \r\nARAŞTIRMA ERKEZİ YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 533
+}
