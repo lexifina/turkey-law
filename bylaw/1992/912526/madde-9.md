@@ -1,0 +1,2 @@
+Tarımsal Eğitim ve Yayım
+Madde 9 – Tarımsal kuruluşlarda işçi, usta ve teknik yardımcı eleman olarak çalışacaklarla çiftçilerin eğitimi için tarım okulları, eğitim merkezleri, bilgi ve beceri kazandırma kurslarının açılması ve yönetimiyle görevli kuruluşlarda, eğitim programları ve yöntemlerinin belirlenmesi, eğitim ve öğretimin planlanması ve yürütülmesi işleriyle tarım alanında çeşitli kaynaklardan sağlanan modern bilgi ve tekniklerin çiftçilere ulaştırılması, öğretilmesi ve uygulatılması ziraat mühendisleri tarafından yürütülür.

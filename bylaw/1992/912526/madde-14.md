@@ -1,0 +1,2 @@
+Tarımsal Kredilendirme ve Kredi Kontrolu İşleri
+Madde 14 – Bu Tüzükte yer alan tarımsal faaliyetlerle ilgili olarak tarım kredisi veren kuruluşlar, bu kredilerin kullanılacağı projeleri değerlendirmek üzere ziraat mühendisi çalıştırırlar. Tarım kredisi kullanılarak uygulanacak projelerin hazırlanması, değerlendirilmesi, uygulanması ve kontrolu işlerinde çalışmaya ziraat mühendisleri yetkilidirler.
