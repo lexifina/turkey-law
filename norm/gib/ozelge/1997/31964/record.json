@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-837/23486",
+  "source_id": 31964,
+  "date": "1997-06-05",
+  "title": "Söz konusu yatırım ortaklığının kanunun 28. Maddesinde sayılan işlemleri yapması halinde banka ve sigorta muameleleri vergisine tabi olacağı; hisse senedi ve tahvil teslimlerinin katma değer vergisinden istisna olduğu; vergiye tabi olmayan veya vergiden i",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/31964",
+  "source_sha256": "7818fb84f02d2e477effd622a3d89bab1af522048c6257d6704195089dfd9697",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
