@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1998-10-13",
+      "13.10.1998",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "23492",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1998-10-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Manisa Celal Bayar Üniversitesi",
+  "issuer_slug": "manisa-celal-bayar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/manisa-celal-bayar-universitesi/1998/6658",
+  "published": "1998-10-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6658&MevzuatTertip=5",
+  "source_bytes": 19730,
+  "source_id": "8.5.6658",
+  "source_sha256": "e7e906b967dd57cfc2ca82e04f9defc33cb3ce13889e74ae9fc73bc1127a4f29",
+  "text_status": "as-enacted",
+  "title": "CELAL BAYAR ÜNİVERSİTESİ YABANCI DİLLER ÖĞRETİMİ, ARAŞTIRMA VE UYGULAMA MERKEZİ (YADAM) YÖNETMELİĞİ",
+  "university_id": 184,
+  "word_count": 716
+}
