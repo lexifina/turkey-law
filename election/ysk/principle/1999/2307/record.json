@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/2307",
+  "list_number": "2307",
+  "decision_date": "1999-10-21",
+  "title": "YSK ilke kararı 1999/2307",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4457/1999-2307-karar.htm",
+  "source_sha256": "cb064faf07fb2ffb451bb9ed7dfddf9ae883e86b324d74d0595274bd5cd91f22",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-10-21",
+  "law_text_complete": false
+}
