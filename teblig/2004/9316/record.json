@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9316",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE ALMANYA FEDERAL CUMHURİYETİ HÜKÜMETİ ARASINDA TÜRK FİRMALARI İŞÇİLERİNİN İSTİSNA AKDİ ÇERÇEVESİNDE İSTİHDAMINA İLİŞKİN ANLAŞMANIN UYGULANMASI HAKKINDA TEBLİĞ",
+  "number": "9316",
+  "issuer": "Sosyal Sigortalar Kurumu Başkanı ile Türkiye İş Kurumu Genel Müdürü",
+  "path": "teblig/2004/9316",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9316&MevzuatTertip=5",
+  "source_sha256": "6e191b4733c20bc56edac2ac0194512fead24f7186f83b3d2aa6e172a7cab659",
+  "source_bytes": 38644,
+  "published": "2004-04-24",
+  "gazette": "25442",
+  "in_force": "2004-04-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.04.2004); own commencement article: \"Bu Tebliğ yayımı tarihini takip eden ayın birinci gününde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihini takip eden ayın birinci gününde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1450,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
