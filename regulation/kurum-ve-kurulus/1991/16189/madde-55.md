@@ -1,0 +1,3 @@
+Teftiş ve Soruşturmaya Diğer Yetkililerce Elkonulması
+Madde 55- Müfettişin gittiği yerde, Holdingi aynı konuda teftişe yetkili ilgili Bakanlık Müfettişi bulunduğu ve orada çalışmakta iken böyle bir Müfettişin teftiş veya soruşturma için geldiği yahut bir işe daha önce veya sonradan yetkili bir makamca elkonulduğu veya konulmak istenildiğinde Müfettiş teftiş ve soruşturmanın konu ve amacını öğrenerek durumu Teftiş Kurulu Başkanlığına bildirir ve alacağı emre göre hareket eder.
+Müfettişlerin gerek Holdinge gerekse diğer kuruluşlara bağlı Müfettiş veya yetkili personelle herhangi bir konuda işbirliği yapabilmeleri, Teftiş Kurulu Başkanlığından ayrı bir emir almalarına bağlıdır.
