@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-issue",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "1981-10-30",
+  "issue": "17499",
+  "issue_basis": "official archive file name /arsiv/<issue>.pdf (the archive numbers its files by issue; e.g. 24091.pdf = 26.06.2000, the issue before HTML issue 24092)",
+  "edition": "regular",
+  "archive_mukerrer_flag": null,
+  "item": 0,
+  "section": null,
+  "heading": null,
+  "title": "30.10.1981 tarihli Resmi Gazete",
+  "official_link": "https://www.resmigazete.gov.tr/arsiv/17499.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/Home/Filter",
+  "index_request": {
+    "method": "POST",
+    "searchtype": 2,
+    "arsivaramayeri": "1",
+    "from": "1981-01-01",
+    "to": "1981-12-31"
+  },
+  "index_sha256": "ca04b255594e3a3281bd199de882f56370f5e56c90054c4510a14ce5016477e8",
+  "index_header": "official archive listing date 30.10.1981",
+  "issue_pdf": "https://www.resmigazete.gov.tr/arsiv/17499.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; whole issue published as a scanned PDF (no OCR); items not listed"
+}
