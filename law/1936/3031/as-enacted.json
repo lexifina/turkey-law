@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3031",
+  "year": 1936,
+  "title": "Hazineden taksitle gayrimenkul mal satın almış olanların taksit bedellerinin tecili hakkındaki 1773 numaralı Kanunu tadil eden 2222 numaralı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-06-18",
+  "gazette_issue": "3333",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3333.pdf",
+  "source_sha256": "630842029f9e64027dfeccaa5e7a52edb02e919ac2bfceae4cc44e4ec359c1e8",
+  "text_sha256": "f0e23649e84b9be342046fc0155061fd6a4a9228f2a1ed31ded3ae04d21d3817",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      32,
+      126
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01603031.pdf",
+    "source_sha256": "0584930543ca6648158832f04f3b846182168cfebaad9a2e8358e081b0327f0c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9559,
+    "bag": 0.8609,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9943,
+    "rg_words": 343,
+    "kd_words": 349,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
