@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6527-150/43018",
+  "source_id": 38260,
+  "date": "2001-08-15",
+  "title": "Otogaz (LPG) satışı ile uğraşan mükelleflerin ödeme kaydedici cihaz kullanma mecburiyetleri bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38260",
+  "source_sha256": "9029c34288dd12ec42077e9bea48991eba8244d13e7b16bf056eac7b768eb0ae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
