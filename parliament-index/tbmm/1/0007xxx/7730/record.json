@@ -1,0 +1,100 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 7730,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "title": "TBMM fihrist kaydı 7730 (Teklifler)",
+  "first_sitting_date": "1920-04-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 6,
+      "sitting_date": "1920-04-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c001/tbmm01001006.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c001/ehttbmm01001006.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c001/tbmm01001fih.pdf",
+      "pages": [
+        "114"
+      ]
+    },
+    {
+      "cilt": 1,
+      "sitting": 17,
+      "sitting_date": "1920-05-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c001/tbmm01001017.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c001/ehttbmm01001017.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c001/tbmm01001fih.pdf",
+      "pages": [
+        "329:333"
+      ]
+    },
+    {
+      "cilt": 2,
+      "sitting": 32,
+      "sitting_date": "1920-07-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c002/tbmm01002032.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c002/ehttbmm01002032.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c002/tbmm01002fih.pdf",
+      "pages": [
+        "267:268"
+      ]
+    },
+    {
+      "cilt": 2,
+      "sitting": 35,
+      "sitting_date": "1920-07-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c002/tbmm01002035.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c002/ehttbmm01002035.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c002/tbmm01002fih.pdf",
+      "pages": [
+        "334:337"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 47,
+      "sitting_date": "1920-08-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003047.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/ehttbmm01003047.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003fih.pdf",
+      "pages": [
+        "195:200"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 64,
+      "sitting_date": "1920-09-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004064.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/ehttbmm01004064.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004fih.pdf",
+      "pages": [
+        "112:131"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 65,
+      "sitting_date": "1920-09-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004065.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/ehttbmm01004065.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004fih.pdf",
+      "pages": [
+        "137:153"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4c1bfc5f45f5a5f13bd43584edc2ebadbc56cc8bc4ba0d9b0d1d749a2aa3744e",
+  "in_force": "1920-04-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
