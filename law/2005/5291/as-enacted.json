@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5291",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Lübnan Cumhuriyeti Tarım Bakanlığı Arasında Tarım Alanında Teknik, Bilimsel ve Ekonomik İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-02-08",
+  "gazette_issue": "2572",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208-2.htm",
+  "source_sha256": "f0bff592cd9a3d8ea5c47806021671481a00064245ae7824673b759e5c1d3304",
+  "text_sha256": "f4e542004fb9b7cfc4ebf5f42532b748ea7876d6a78ca50ee673ede1381fa9d5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/02/08/2572-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
