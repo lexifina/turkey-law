@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-2/2003-2/Dernek ve Vakıflar-1",
+  "source_id": 1116,
+  "date": "2003-11-14",
+  "title": "Kamuya Yararlı Dernek Statüsünün Alınma Sürecinde Aranan Şartlar, Kamuya Yararlı Derneklere Tanınan Vergisel Ayrıcalıklar, Maliye Bakanlığının Süreçteki İşlevi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1116",
+  "source_sha256": "16ced5cd423eb0be67ee7d57b8c77b27401c551a9473887baadf99aeae539ec2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
