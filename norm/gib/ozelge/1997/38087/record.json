@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5411-1947/25050",
+  "source_id": 38087,
+  "date": "1997-06-16",
+  "title": "Sanayi sicil belgesi olmadığı dönemde ihraç kaydıyla bir şirkete işlenmiş mermer tesliminde bulunan ve ikinci bir imalathane yatırımına başlayan şirketin bu yatırıma ait makine ve teçhizatları da ilave ederek kapasite raporu tanzim ettiği; söz konusu şirk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38087",
+  "source_sha256": "071a7d6f667af7300a733562b596e1618e0648b64970578ae57bc07c33d9d4b0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
