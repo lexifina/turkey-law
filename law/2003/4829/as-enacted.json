@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4829",
+  "year": 2003,
+  "title": "Tebligat Kanunu ile Ceza Muhakemeleri Usulü Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-03-27",
+  "gazette_issue": "25061",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030327.htm",
+  "source_sha256": "e81b2a144a8f6674a8442a9b1b7b33d636e204f712bc4b903c83a16a1ffa1f5d",
+  "text_sha256": "92e677f84dea1547c8b5040bdc7b2430434b2871a2b6e5782312a28ac0de70e4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/03/27/25061-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030327.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
