@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6935",
+  "year": 1957,
+  "title": "Vergi Usul Kanununun 279. maddesinin değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-03-01",
+  "gazette_issue": "9548",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9548.pdf",
+  "source_sha256": "1dcca54c0654fd4efc1c1482d9f5afc9ef68a66b1855c10df805f720be7906cb",
+  "text_sha256": "aa3d5f1474f74809c6c19a22d40fdb5c73be372ee789a0ac37d05734031bcb0a",
+  "text_status": "ocr",
+  "pages": [
+    62
+  ],
+  "line_span": [
+    [
+      21034,
+      21058
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906935.pdf",
+    "source_sha256": "44aad252ae4a070d58119a81fc553c5d5b25639572586525b2c82a3b7d9c0328",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9456,
+    "bag": 0.8962,
+    "kd_coverage": 0.9889,
+    "kd_body_compared": 0.8476,
+    "rg_words": 94,
+    "kd_words": 105,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
