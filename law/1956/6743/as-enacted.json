@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6743",
+  "year": 1956,
+  "title": "4273 sayılı Subaylar Heyetine mahsus terfi Kanununun muaddel 11. maddesinin tadiline ve bu maddeye muhtelif kanunlarla eklenen fıkralar ile 4554 sayılı Kanuna 4798 sayılı Kanunla eklenen maddelerin ve muvakkat maddenin kaldırılmasına ve bu Kanuna muvakkat 2 madde eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-06-29",
+  "gazette_issue": "9345",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9345.pdf",
+  "source_sha256": "4ca92c40edef4d40c9d70affa4b81a8febab625ebe1975fd88d86f594c2fa44e",
+  "text_sha256": "6d2f213cd4f71b71d91676a5769c3aa565d83de41a9f28e786cc190b1164c37c",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      165,
+      295
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806743.pdf",
+    "source_sha256": "341760eca847c48bb7d3f463e800629ca770bec1060450cc311a39b9771a61bf",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9462,
+    "bag": 0.8996,
+    "kd_coverage": 0.9971,
+    "kd_body_compared": 0.9928,
+    "rg_words": 738,
+    "kd_words": 692,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
