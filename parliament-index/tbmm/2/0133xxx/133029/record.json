@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 133029,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEFSİRLER",
+  "heading_as_published": "Tefsirler",
+  "summary": "Seferberlik ve cephe zammı maaşına müteallik olan kanunun birinci maddesinin (A) fıkrasının tefsiri.",
+  "title": "Seferberlik ve cephe zammı maaşına müteallik olan kanunun birinci maddesinin (A) fıkrasının tefsiri.",
+  "first_sitting_date": "1924-02-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 105,
+      "sitting_date": "1924-02-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/tbmm02006105.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/ehttbmm02006105.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/tbmm02006fih.pdf",
+      "pages": [
+        "83"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 37,
+      "sitting_date": "1924-04-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c008/tbmm02008037.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c008/ehttbmm02008037.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c008/tbmm02008fih.pdf",
+      "pages": [
+        "647"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 7,
+      "sitting_date": "1924-11-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c010/tbmm02010007.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c010/ehttbmm02010007.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c010/tbmm02010fih.pdf",
+      "pages": [
+        "244:245"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "726f99e0b1386a2a326b1382306515418f861fcbd9c4635a436d2a7acd94ffbd",
+  "in_force": "1924-02-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
