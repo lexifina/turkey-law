@@ -1,0 +1,10 @@
+BEŞİNCİ KISIM
+Çeşitli ve Son Hükümler
+MADDE 41 — a) 9.1.1985 tarihli ve 3146 sayılı Kanunun; 8 inci maddesinin (b) bendi, 10 uncu maddesi, 40 ıncı maddesinin ikinci fıkrası ile anılan Kanuna ekli "1 Sayılı Cetvel" de Bakanlığın ana hizmet birimleri arasında yer alan "Sosyal Güvenlik Kuruluşları Genel Müdürlüğü" ibaresi,
+b) 27.2.1960 tarihli ve 7460 sayılı Yakın ve Orta - Doğu Çalışma Eğitim Merkezi Teşkilât Kanununun 4 üncü maddesi, 6 ncı maddesinin (c) ve (d) bentleri, 11 inci maddesinin ikinci fıkrası ile bu Kanunda geçen "öğretmen" ve "öğretmen yardımcıları" ibareleri,
+Yürürlükten kaldırılmıştır.
+c) 25.6.2003 tarihli ve 4904 sayılı Türkiye İş Kurumu Kanununun 1 inci maddesinin üçüncü fıkrasında yer alan "Kurum, Çalışma ve Sosyal Güvenlik Bakanlığının bağlı kuruluşu olup," ibaresi, "Kurum, Çalışma ve Sosyal Güvenlik Bakanlığının bağlı kuruluşu olan Sosyal Güvenlik Kurumu Başkanlığının ilgili kuruluşu olup," şeklinde değiştirilmiştir.
+d) 2451 sayılı Kanunun (2) sayılı cetvelinde yer alan "Bakanlık Müfettişleri (Maliye Bakanlığı Hesap Uzmanları ve Bankalar Yeminli Murakıpları dahil)" ibaresinden sonra gelmek üzere "ve Çalışma ve Sosyal Güvenlik Bakanlığı İş Müfettişleri" ibaresi eklenmiştir.
+GEÇİCİMADDE 1 — A) Bu Kanunun yürürlüğe girdiği tarihte, Bakanlık Sosyal Güvenlik Kuruluşları Genel Müdürlüğünde mevcut ilgili dosyalar, bilgisayar kayıtları ve diğer dokümanlar Kuruma devredilmiş sayılır.
+B) Bu Kanunun yürürlüğe girdiği tarihte Bakanlık veya ilgili kuruluşlarda en az beş yıl fiili hizmeti bulunan ve eğitim durumları ile diğer koşulları uygun personel, sınavın açıldığı tarihte kırk yaşını doldurmamış olmaları kaydıyla, Kurumca açılacak ilk sosyal güvenlik uzman yardımcılığı yarışma sınavına girebilir. Açılacak ilk yarışma sınavına başvurmayanlar veya başvurdukları halde her ne sebeple olursa olsun girmeyenler bu haklarını kaybederler.
+C) Bu Kanunun yayımı tarihinden önce atanmış bulunan Baş İş Müfettişleri ve İş Müfettişleri bu Kanunun yürürlüğe girdiği tarihte kararname ile atanmış sayılırlar.

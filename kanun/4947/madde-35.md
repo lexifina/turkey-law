@@ -1,0 +1,3 @@
+MADDE 35 — 7460 sayılı Kanunun 12 nci maddesine aşağıdaki fıkralar eklenmiştir.
+Eğitim ve Araştırma Merkezinde çalışma ve sosyal güvenlik eğitim uzmanı çalıştırılabilir. 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen şartlara sahip, merkezin ihtiyaç duyduğu alanlarda en az dört yıllık yüksek öğrenim görmüş ve sınavın açıldığı tarihte otuzbeş yaşından gün almamış olanlar arasında yapılacak özel yarışma sınavı sonucunda başarılı bulunanlar çalışma ve sosyal güvenlik eğitim uzman yardımcılığı kadrolarına atanırlar.
+Çalışma ve sosyal güvenlik eğitim uzman yardımcılarında aranacak nitelikler, seçilme usul ve esasları ve diğer hususlar yönetmelikle belirlenir.
