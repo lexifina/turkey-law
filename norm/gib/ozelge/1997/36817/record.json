@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-835/22151",
+  "source_id": 36817,
+  "date": "1997-05-28",
+  "title": "Bankaların verdiği çeşitli hizmetler ve satışlar karşılığı ilgililerden yapılan tahsilatlarda maliyetin tam belli olmaması hallerinde B.S.M.V.'nin tahsil edilen paranın tamamı üzerinden hesaplanmasının gerektiği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36817",
+  "source_sha256": "78daad56bf717264559a35bc5d0b8a132c17baee28ae441659fbe02af06a8c2f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
