@@ -1,0 +1,49 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "176",
+  "year": 1921,
+  "title": "Posta Müdüriyeti Umumiyesi bütçesine zamaim icrası hakkında Kanun",
+  "adopted": "1921-12-24",
+  "adopted_as_published": "24/12/1337",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc001/kanuntbmmc001/kanuntbmmc00100176.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 1",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 1,
+      "kayit_no": 1623,
+      "title": "Posta Müdüriyeti Umumiyesi bütçesine zamaim icrası hakkında Kanun",
+      "adopted_as_published": "24/12/1337",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc001/kanuntbmmc001/kanuntbmmc00100176.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 15,
+          "sitting": 133,
+          "sitting_date": "1921-12-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c015/tbmm01015133.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c015/ehttbmm01015133.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c015/tbmm01015fih.pdf",
+          "pages": [
+            "221:230"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=338&v_gelecek_sayfa=101&v_kullanici_id=27483142",
+      "page_sha256": "7bfba7304cb714c6d73d7c17b7408462ff518c7eff57b59882348af459ccec89"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7bfba7304cb714c6d73d7c17b7408462ff518c7eff57b59882348af459ccec89",
+  "issuer": "TBMM",
+  "in_force": "1921-12-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 24/12/1337 (Rumi year, +584); record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
