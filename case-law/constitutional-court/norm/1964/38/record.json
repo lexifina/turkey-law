@@ -1,0 +1,58 @@
+{
+  "id": "ebb35837-b853-d276-60b8-34386846c084",
+  "decision_number": "1964/38",
+  "case_number": "1963/99",
+  "decision_date": "1964-05-13",
+  "published_date": "1964-07-14",
+  "source_publication_date": "1964-05-16",
+  "gazette_number": 11753,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1964/38",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "cd6f7c579eed03826e3389c9893c0cc4e54592498e764afd6f614420dc141aee",
+  "version_label": "as-enacted",
+  "in_force": "1964-05-13",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": false,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1926-04-26",
+      "normNumaraAdParamId": "e4aea434-a85f-5086-ed90-d72ed0451bab",
+      "incelemeturuKarsonucuParamId": "b70853bc-8190-61fb-36c6-4565bb3e5124",
+      "sonucGerekcesiParamId": "2945019e-60a1-5378-fa93-b621014b48a2",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "5",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/2"
+        },
+        {
+          "hukum": "1961/40"
+        },
+        {
+          "hukum": "1961/47"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 2396
+}
