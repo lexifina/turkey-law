@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6019-1904/037890",
+  "source_id": 36308,
+  "date": "2003-09-15",
+  "title": "Kaza sonucu vefat edenin mirasçılarına yapılan ödemeler kaza klozu niteliğinde olması nedeniyle, veraset ve intikal vergisine tabi tutulmaması gerektiği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36308",
+  "source_sha256": "df82bea2b829375de3180802362f05f36fe315076fd6ac188ad38bdd5098598a",
+  "text_status": "metadata-only",
+  "text_omitted_reason": "Personal data in source text; metadata and official source link only.",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
