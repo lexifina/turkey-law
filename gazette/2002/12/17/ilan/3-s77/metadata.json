@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-12-17",
+  "issue": "24966",
+  "edition": "regular",
+  "item": 77,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Sağlık Bakanlığı Burdur Devlet Hastanesi Satın Alma Komisyonu Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/12/20021217-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (82 = 82)",
+  "ilan_codes": [
+    "35137/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/12/20021217-3.htm",
+  "category_page_sha256": "2dc73d5822edd78c003d9b0b9970190a7ef16f21bc0fb59b84872f18fe2cd88b",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/12/20021217.htm",
+  "index_sha256": "5ab981ed4a8d7693cf0f0a5707f38241ecc3762c00ac67c9cf885db7a7ea6263",
+  "index_header": "17 Aralık 2002 ... Sayı : 24966",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
