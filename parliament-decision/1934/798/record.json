@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "798",
+  "year": 1934,
+  "title": "25 kânunuevvel 1335 tarihli evkaf tahsisatı fevkalâde kararnamesinin 7. maddesini tadil eden 1340 senesi Evkaf Bütçe Kanununun 7. maddesi hakkında",
+  "adopted": "1934-03-21",
+  "adopted_as_published": "21/03/1934",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/karartbmmc013/karartbmmc01300798.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 13",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112965,
+      "title": "25 kânunuevvel 1335 tarihli evkaf tahsisatı fevkalâde kararnamesinin 7. maddesini tadil eden 1340 senesi Evkaf Bütçe Kanununun 7. maddesi hakkında",
+      "adopted_as_published": "21/03/1934",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/karartbmmc013/karartbmmc01300798.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 20,
+          "sitting": 21,
+          "sitting_date": "1934-03-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 28,
+          "sitting_date": "1934-03-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020fih.pdf",
+          "pages": [
+            "54"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 31,
+          "sitting_date": "1934-03-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020fih.pdf",
+          "pages": [
+            "139"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=217&v_gelecek_sayfa=101&v_kullanici_id=27483261",
+      "page_sha256": "6e403c67326bf8d538b4ec20f80ba46428329ba815be8d6d6507eb8c1dfb0d7d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "6e403c67326bf8d538b4ec20f80ba46428329ba815be8d6d6507eb8c1dfb0d7d",
+  "issuer": "TBMM",
+  "in_force": "1934-03-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 21/03/1934; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
