@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 63536,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "«Türkiye-Çekoslovakya Tütün Protokolünün yeniden yürürlüğe konulması için teati edilen mektupların onanması hakkında (1/373)",
+  "title": "«Türkiye-Çekoslovakya Tütün Protokolünün yeniden yürürlüğe konulması için teati edilen mektupların onanması hakkında (1/373)",
+  "first_sitting_date": "1952-04-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 61,
+      "sitting_date": "1952-04-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c014/tbmm09014061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c014/tbmm09014fih.pdf",
+      "pages": [
+        "360"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 87,
+      "sitting_date": "1952-06-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c016/tbmm09016087.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c016/tbmm09016fih.pdf",
+      "pages": [
+        "309",
+        "432",
+        "476:479"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=966&v_gelecek_sayfa=301&v_kullanici_id=27484167",
+  "source_sha256": "dde08afbb25c7e9e53ea9fdf5584593c670760021ea0c45d9d6895240655bd6c",
+  "in_force": "1952-04-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
