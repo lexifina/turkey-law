@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2973-315-236-60213",
+  "source_id": 27049,
+  "date": "2005-01-02",
+  "title": "Mükelleflerin uygun amortisman ayrılmasının tespitinde 333 Sıra Numaralı VUK Genel Tebliğini esas almaları gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27049",
+  "source_sha256": "c7fe93334f69a191db1c3819f30d8bb8ca7bb2102c1128132189113da054d7af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
