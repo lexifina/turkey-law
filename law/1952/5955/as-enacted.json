@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5955",
+  "year": 1952,
+  "title": "Köy Okulları ve Enstitüleri Teşkilâtına Ait 4274 Sayılı Kanunun 13. Maddesinin Değiştirilmesine ve Aynı Kanunun 15. Maddesinin İkinci Fıkrasının Yürürlükten Kaldırılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-06-23",
+  "gazette_issue": "8142",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8142.pdf",
+  "source_sha256": "ec7d0afab6f26dedec02179e13746eb3ea7251d207b0a9b7912f8c872f35b431",
+  "text_sha256": "00dff163a2a2d7f5f22b0b1af51ddca9319a263ebee379c94f2eafa7442c1dff",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      105,
+      141
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405955.pdf",
+    "source_sha256": "64c57a33c83db5699c568e68f551bcbe86a7931d2f6313e6019e2ed1e4d5f6c7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9464,
+    "bag": 0.8482,
+    "kd_coverage": 0.9841,
+    "kd_body_compared": 0.9688,
+    "rg_words": 196,
+    "kd_words": 192,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
