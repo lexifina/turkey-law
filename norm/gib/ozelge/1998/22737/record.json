@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5105-2/13488",
+  "source_id": 22737,
+  "date": "1998-04-15",
+  "title": "İki ülke arasında imzalanmış bulunan sosyal güvenlik sözleşmesi çerçevesinde şirkette çalışan yabancı uyruklu kişilerin sigorta ve emekli primlerinin gider kaydedilmesi tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22737",
+  "source_sha256": "52b212c5c721c3ae28ba1bbf2614e561817fbe5ef48d57f93166281ce90273d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
