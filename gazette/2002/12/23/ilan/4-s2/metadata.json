@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-12-23",
+  "issue": "24972",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Ankara Büyükşehir Belediye Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/12/20021223-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (3 = 3)",
+  "ilan_codes": [
+    "35969/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/12/20021223-4.htm",
+  "category_page_sha256": "b8d6a583b7f46705603ffdc8456f19e13577d2d3f704acf6f84dfabbc25d5470",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/12/20021223.htm",
+  "index_sha256": "a45253441981fcaae965e30769db2304b4e7fb863237ca5ee27c29cade087b42",
+  "index_header": "23 Aralık 2002 ... Sayı : 24972",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
