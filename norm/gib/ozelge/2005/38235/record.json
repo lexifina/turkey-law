@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6508-102/4888",
+  "source_id": 38235,
+  "date": "2005-02-03",
+  "title": "Mükelleflerin silik ve okunaksız ödeme kaydedici cihaz fişleri düzenledikleri ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38235",
+  "source_sha256": "f8a61dc897cc242d032340411dcf79e03aedc8005044b8c6967efb4641cfc1b6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
