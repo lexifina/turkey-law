@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 382568,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "5.9.1963 tarihli ve 326 sayılı Kanunun geçici 1. maddesinin değiştirilmesi hakkında kanun tasarısı ile Konya Milletvekili İhsan Kabadayı ve 5 arkadaşının, Sakarya Milletvekili Hayrettin Uysal ve 17 arkadaşının, İstanbul Milletvekili Hüseyin Dolun'un Cumhuriyet Senatosu Denizli Üyesi Hüseyin Atmaca ve 5 arkadaşının, Cumhuriyet Senatosu Malatya Üyesi Hamdi Özer'in, aynı mahiyetteki kanun teklifleri hakkında (1/366, 2/24, 2/81, 2/209, 2/280, 2/420)",
+  "title": "5.9.1963 tarihli ve 326 sayılı Kanunun geçici 1. maddesinin değiştirilmesi hakkında kanun tasarısı ile Konya Milletvekili İhsan Kabadayı ve 5 arkadaşının, Sakarya Milletvekili Hayrettin Uysal ve 17 arkadaşının, İstanbul Milletvekili Hüseyin Dolun'un Cumhuriyet Senatosu Denizli Üyesi Hüseyin Atmaca ve 5 arkadaşının, Cumhuriyet Senatosu Malatya Üyesi Hamdi Özer'in, aynı mahiyetteki kanun teklifleri hakkında (1/366, 2/24, 2/81, 2/209, 2/280, 2/420)",
+  "first_sitting_date": "1971-06-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 110,
+      "sitting_date": "1971-06-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014110.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014fih.pdf",
+      "pages": [
+        "127"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 128,
+      "sitting_date": "1971-07-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015128.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015fih.pdf",
+      "pages": [
+        "330"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 154,
+      "sitting_date": "1971-08-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017154.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017fih.pdf",
+      "pages": [
+        "149",
+        "166"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 155,
+      "sitting_date": "1971-08-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017155.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017fih.pdf",
+      "pages": [
+        "209:210"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2301&v_kullanici_id=27484836",
+  "source_sha256": "e2396a49bcf49f0495ababce48ae860530af86754171d2569261a2423dcd2aa3",
+  "in_force": "1971-06-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
