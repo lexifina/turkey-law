@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1350 / 35343",
+  "source_id": 36869,
+  "date": "2004-07-26",
+  "title": "Bireysel emeklilik poliçelerinin tanzim edilmesi nedeniyle tahsil edilen komisyon bedelleri banka ve sigorta muameleleri vergisinden istisna değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36869",
+  "source_sha256": "85760153560ee47035022c06f29ea5c2e355ce59f3ca96249aecc23934dcf06c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
