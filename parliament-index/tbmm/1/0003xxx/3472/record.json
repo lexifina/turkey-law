@@ -1,0 +1,80 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 3472,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "İstanbul Mebusu Dr. Adnan ve Erzurum Mebusu Hüseyin Avni Beylerin, İstanbul'un işgalini müteakip akdolunan mukavelâtın keenlemyekün addine dair teklifi kanunileri ile Karahisarı Sahib Mebusu Hulûsi Beyle arkadaşlarının, İstanbul Hükümetinin ittihaz ettiği ve edeceği her türlü taahhüdat ve mukarretın kabul edilmiyeceğine dair takriri hakkında (2/5, 2/6)",
+  "title": "İstanbul Mebusu Dr. Adnan ve Erzurum Mebusu Hüseyin Avni Beylerin, İstanbul'un işgalini müteakip akdolunan mukavelâtın keenlemyekün addine dair teklifi kanunileri ile Karahisarı Sahib Mebusu Hulûsi Beyle arkadaşlarının, İstanbul Hükümetinin ittihaz ettiği ve edeceği her türlü taahhüdat ve mukarretın kabul edilmiyeceğine dair takriri hakkında (2/5, 2/6)",
+  "first_sitting_date": "1920-06-07",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 25,
+      "sitting_date": "1920-06-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c002/tbmm01002025.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c002/ehttbmm01002025.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c002/tbmm01002fih.pdf",
+      "pages": [
+        "126:132"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 48,
+      "sitting_date": "1921-07-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/tbmm01011048.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/ehttbmm01011048.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/tbmm01011fih.pdf",
+      "pages": [
+        "203:210",
+        "211"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 49,
+      "sitting_date": "1921-07-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/tbmm01011049.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/ehttbmm01011049.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/tbmm01011fih.pdf",
+      "pages": [
+        "223:233"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 51,
+      "sitting_date": "1921-07-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/tbmm01011051.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/ehttbmm01011051.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/tbmm01011fih.pdf",
+      "pages": [
+        "288"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 53,
+      "sitting_date": "1921-07-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/tbmm01011053.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/ehttbmm01011053.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c011/tbmm01011fih.pdf",
+      "pages": [
+        "327:329"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1993&v_gelecek_sayfa=501&v_kullanici_id=27483712",
+  "source_sha256": "32ed353634d0e22612933b2f5940155a8fcdef9a79444c369e9af551ff6e7327",
+  "in_force": "1920-06-07",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
