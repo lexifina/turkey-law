@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2000-03-08T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2000-03-08",
+  "official_number": "B.07.0.GEL.0.56/5601-690/11241",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36872",
+  "source_id": "ozelge:36872",
+  "source_row_sha256": "b9421b73bdfffa474b3c10c0d7a813ee3b2bc6c6da22017e55134038a39e9375",
+  "title": "Hazine'den tahsil edilen faizler için, hataenödenen banka ve sigorta muameleleri vergisinin iade edilip edilmeyeceği hakında.",
+  "version_label": "as-enacted",
+  "word_count": 257
+}
