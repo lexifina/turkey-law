@@ -1,0 +1,32 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-15",
+  "issue": "25109",
+  "edition": "regular",
+  "item": 3,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Sağlık Bakanlığı İzmir Dr.Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030515-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (40 = 40)",
+  "ilan_codes": [
+    "14073/1-1",
+    "14074/1-1",
+    "14075/1-1",
+    "14076/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030515-3.htm",
+  "category_page_sha256": "a90f15e81f4d76ea1adff9cbbe8baa2dc4ce9a954ab49d380511e448ae6c5fcd",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030515.htm",
+  "index_sha256": "bcc4f9218e2f0ddcc13df3334c9f4136e5c470ffa90bb842f38d64caba1edb56",
+  "index_header": "15 Mayıs 2003 ... Sayı : 25109",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
