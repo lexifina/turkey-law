@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 22,
+  "legislative_year": 3,
+  "esas_no": "7/4021",
+  "submitted": "2004-10-28",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İdris Sami TANDOĞDU",
+  "province": "Ordu",
+  "summary": "ASKİ'nin bozuk su sayaçları nedeniyle abonelerden tahsil ettiği fazla ücrete ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bd-da48-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "44cbf4d5147cd5dc53158502564a030bfb280566d56da2149c628142f5aea448",
+  "in_force": "2004-10-28",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
