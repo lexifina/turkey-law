@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-03-30",
+  "issue": "25064",
+  "edition": "regular",
+  "item": 25,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "İSBAK Anonim Şirketi İstanbul Belediyeler Bakım Ulaşım Sanayi ve Ticaret Anonim Şirketinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030330-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (41 = 41)",
+  "ilan_codes": [
+    "7337/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030330-3.htm",
+  "category_page_sha256": "df3fb85a02b633b666e8905b8d0de8383145ccc2000dd1316a0a93c5d1411980",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030330.htm",
+  "index_sha256": "b93ab40585f02f7f2e0c61d690f7f3becffddb6365fb7d58090317defcec1d5b",
+  "index_header": "30 Mart 2003 ... Sayı : 25064",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
