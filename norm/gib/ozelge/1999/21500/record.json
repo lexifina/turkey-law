@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-768/14732",
+  "source_id": 21500,
+  "date": "1999-04-19",
+  "title": "Yardım Sandıklarına üyeleri tarafından on yıl süre ile prim veya aidat ödenmiş olması kaydıyla, sandıkca yapılacak ödemeler toplamının en yüksek Devlet memuruna (Başbakanlık Müsteşarına) ödenen en yüksek aylık veya ikramiye tutarı kadar kısmı vergiden ist",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21500",
+  "source_sha256": "379c44d31204c50431669dea720dbf65dca99d5fd7fa737c82ed557e5975205f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
