@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.54/5409-154-36784",
+  "source_id": 30778,
+  "date": "2004-08-09",
+  "title": "Yapım işinden bağımsız olarak yüklenilen 1/1000 ve 1/5000 ölçekli  sayısal harita üretimi işi Katma Değer Vergisi Yönündentevkifata tabi tutulacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30778",
+  "source_sha256": "2e7fa4758dd4fa4ee693a83e5572cdf74b9c01126802a8626f7cbc086d0151b4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
