@@ -1,0 +1,3 @@
+İlan veya Teklif İstenildikten Sonra İlan, Şartname ve Eklerinde Değişiklik Yapılması
+Madde 18 — İlan yapıldıktan veya teklif istenildikten sonra ilanlarda, şartnamelerde ve eklerinde değişiklik yapılması zorunlu olduğu hallerde, son durum gerekirse yeniden ilan edilir ve şartname alanlara, teklif istenenlere ve ilgililere mutlaka yazılı olarak bildirilir ve icap ediyorsa, yeterli süre verilir.
+Eksiltme veya artırma için, komisyonca saptanan gün herhangi bir nedenle tatil gününe rastlarsa, eksiltme veya artırma yeniden ilana gerek kalmaksızın tatili izleyen ilk iş gününde ve aynı saatte yapılır.

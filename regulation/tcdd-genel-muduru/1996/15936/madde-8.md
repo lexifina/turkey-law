@@ -1,0 +1,9 @@
+Alım, Satım ve İhale Komisyonlarının Teklifleri İncelemesi, Teknik İnceleme Komisyonlarının Kurulması ve Görevleri
+Madde 8 — Alım, satım ve ihale komisyonlarının teklifleri incelemesi, teknik inceleme komisyonlarının kurulması ve görevleri aşağıdaki şekildedir;
+a) Alım, satım ve ihale komisyonları ihaleye katılanları, tekliflerin ana hatlarını, ihale bedelini, şartlarını, teslim yerini ve sürelerini belirten bir tutanak düzenler. Alınan tekliflerin incelenmesini gerekli gördüğü takdirde, konunun özelliğine göre tekliflerin bu maddenin "b" bendinde belirtilen komisyonlarından biri tarafından incelenmesine karar verir.
+b) Teknik İnceleme Komisyonları; alım satım ve ihale komisyonunun bulunduğu ünitede biri başkan olmak üzere en az üç uzmanın katılması ile kurulabileceği gibi konunun özelliğine göre malzeme, iş ve hizmet alım, satım ve ihale isteminde bulunan ünite amirinin onayı ile biri başkan olmak üzere en az üç uzmanın katılması ile oluşturulabilir.
+c) Teknik İnceleme Komisyonlarının Çalışma Esasları;
+Teknik İnceleme Komisyonu Başkanı; tekliflerin incelenip en kısa zamanda sonuca bağlanmasını sağlar. Teknik inceleme komisyonlarınca tamamlayıcı bilgi edinilmesi gerekli görüldüğünde, teklifin özü değişmemek kaydı ile teklif sahibinden, bilgi, belge veya örnek istenebilir.
+İhale onaylanıp kesinleşmeden önce hiçbir teklif sahibine teklif değerlendirme sonuçlan ve durumları hakkında bilgi verilmez.
+Komisyona katılan üyelerin herbiri, varılan sonuçlar hakkında düzenlenen raporu imzalar. Ayrı görüşte olan üye, raporu karşı kayıtla imzalar. Ancak, bu taktirde görüşünün gerekçesini karar tarihini takip eden günün mesai saati bitimine kadar yazılı olarak teklif inceleme komisyonu başkanına teslim etmek zorundadır.
+Bu yazı rapora eklenir. Bütün üyelerce imzalanarak tamamlanan rapor teknik inceleme komisyonunu kurduran ünite amiri tarafından alım, satım ve ihale komisyonu başkanlığına kapalı zarfla gönderilir.

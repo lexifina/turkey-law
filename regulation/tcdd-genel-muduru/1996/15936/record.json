@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.15936",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TCDD ALIM, SATIM VE İHALE YÖNETMELİĞİ",
+  "number": "15936",
+  "issuer": "TCDD Genel Müdürü",
+  "issuer_slug": "tcdd-genel-muduru",
+  "path": "regulation/tcdd-genel-muduru/1996/15936",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15936&MevzuatTertip=5",
+  "source_sha256": "3358c9f803d0353702e2dcdef376c84181d987922724135c0ccae0c7026bb47c",
+  "source_bytes": 107053,
+  "published": "1996-09-19",
+  "gazette": "27762",
+  "in_force": "2002-08-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/8/2002\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2002-08-28",
+      "RG-28/8/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2000-11-30",
+      "RG-30/11/2000",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2000-04-18",
+      "RG-18/4/2000",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1997-12-25",
+      "RG-25/12/1997",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1996-09-26",
+      "RG-26/9/1996",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6114,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

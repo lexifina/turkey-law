@@ -1,0 +1,2 @@
+İhale Safhasında Yöntem Değişikliği
+Madde 14 — Kapalı zarf veya sınırlı teklif alma yöntemine göre yapılan alım ve satımlarda, ihale kararının onaylanmasından önce ihaleye katılan firmalardan teknik incelemenin tamamlanmasından sonra uygun bulunanların teklif fiyatları arasında en ucuz firmanın teklif fiyatına göre % 10 a kadar fark olduğunun belirlenmesi halinde 9 uncu maddede yazılı mercilerden yeni bir yetki alınmasına gerek kalmadan, ilgili komisyonca sözkonusu firmalar ile açık eksiltme yapılır. Bilahare son firma ile pazarlık yapılabilir.

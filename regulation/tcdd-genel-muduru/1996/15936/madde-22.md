@@ -1,0 +1,4 @@
+Teminat Geri Verilmesi
+Madde 22 — Para veya devlet tahvilleri olarak alındı karşılığında veznelere yatırılmış bulunan teminatlar, bu işe ilişkin vezne alındısının uygun bir yerine "geri verilmesinde sakınca yoktur" notu konulmak ve komisyon başkanı ile bir üye tarafından imzalanmak koşulu ile teminat ilgili muhasebe veznesince geri verilir. Teminat banka mektubu olduğu takdirde, ilgiliye imza karşılığı elden verilebileceği gibi, taahhütlü mektupla da sahibine veya düzenleyen bankaya geri gönderilebilir.
+Geçici teminat, kendilerine ihale yapılmayacak iştirakçilere (ihale yapılmıyacağının kesin olarak anlaşılması halinde) hemen, incelemeyi gerektiren durumlarda ise inceleme sonunda komisyon tarafından geri verilir.
+Üzerinde ihale kalan iştirakçinin geçici teminatı sözleşmenin imza edilmesi ve kesin teminatın alınmasına kadar geri verilmez.

@@ -1,0 +1,9 @@
+Komisyonların Kuruluş Şekli
+Madde 6 — Komisyonlar
+a) Merkez Alım, Satım ve İhale Komisyonu; Malzeme Dairesi Başkanı veya bir Başkan Yardımcısının Başkanlığında, Hukuk Müşavirliğinden bir avukat, Merkez Mali İşler Müdürlüğünden Müdür veya Müdür Yardımcısı ve Malzeme Dairesi Başkanlığından alım, satım ve ihale komisyonu Şube Müdürü veya Yardımcısı ile ilgili Dairesinin Başkan veya Başkan Yardımcısından,
+b) (Değişik:RG-28/8/2002-24860) Haydarpaşa , Ankara, İzmir, Sivas, Malatya, Adana ve Afyon Alım, Satım ve İhale Komisyonu, Malzeme Servis Müdürünün veya vekilinin başkanlığında, Hukuk Müşavirliğinden bir Avukat, Mali İşler Servis Müdürü veya vekili, işin niteliğine göre ilgili servis Müdürü veya bu üyelerin vekilleri ile Komisyon büro şefinden,
+c) Fabrika Alım, Satım ve İhale Komisyonu; Fabrika Müdürünün belirleyeceği Fabrika Müdür Yardımcılarından birinin Başkanlığında, Mali İşler Müdürü, Fabrika Malzeme servisi veya grubu ile ilgili birimin amiri veya bunların vekil veya yardımcılarından,
+d) Liman İşletme Alım, Satım ve İhale Komisyonu; Liman İşletme Müdürünün belirleyeceği Liman Müdür Yardımcılarından birinin Başkanlığında, Muhasebe Müdürü, Muhasebe Müdürü bulunmayan yerlerde Muhasebe Şefi, İşletme Amiri ve Teknik Amir veya bunların vekillerinden,
+e) Van Gölü Feribot İşletme Müdürlüğü Alım, Satım ve İhale Komisyonu; Van Gölü Feribot İşletme Müdürünün belirleyeceği Müdür Yardımcılarından birinin Başkanlığında, Muhasebe Müdürü, Atölye Şefi ve Enspektör veya vekillerinden,
+f) Hastane Alım, Satım ve İhale Komisyonu; Hastane Başhekiminin veya görevlendireceği bir hekimin Başkanlığında, Hastane Müdür veya Yardımcısı ile Baş Hemşire veya yardımcısından oluşur.
+g) 5 inci maddenin "b" bendi gereğince kurulacak olan Komisyonların başkan ve üyeleri bu Komisyonların kuruluşları sırasında Genel Müdürlükçe belirlenir.
