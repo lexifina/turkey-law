@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4724",
+  "year": 2001,
+  "title": "Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanunun Bir Maddesinin Değiştirilmesine İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-12-25",
+  "gazette_issue": "24621",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/12/20011225.htm",
+  "source_sha256": "784e923be95a60d8b18f120e3ebe74d43bbf3d7f51d8e83252b07df853d9a956",
+  "text_sha256": "d1d47200e29fd00e39253c69cb851072c7899e5283dd75819651fc04090c252f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/12/25/24621-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/12/20011225.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
