@@ -1,0 +1,67 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 68636,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "title": "TBMM fihrist kaydı 68636 (Teklifler)",
+  "first_sitting_date": "1951-11-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 2,
+      "sitting_date": "1951-11-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c010/tbmm09010002.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c010/tbmm09010fih.pdf",
+      "pages": [
+        "24:25"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 80,
+      "sitting_date": "1952-06-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c016/tbmm09016080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c016/tbmm09016fih.pdf",
+      "pages": [
+        "40"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 85,
+      "sitting_date": "1952-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c016/tbmm09016085.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c016/tbmm09016fih.pdf",
+      "pages": [
+        "244:252"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 7,
+      "sitting_date": "1952-11-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c017/tbmm09017007.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c017/tbmm09017fih.pdf",
+      "pages": [
+        "244:245"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=676&v_gelecek_sayfa=301&v_kullanici_id=27484220",
+  "source_sha256": "01bbae6d1d97ee74c03dfabca8341f2b91469dc4d0bf17a31073fd17f6821f42",
+  "in_force": "1951-11-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
