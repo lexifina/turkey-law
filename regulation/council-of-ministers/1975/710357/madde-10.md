@@ -1,0 +1,2 @@
+Madde 10 – Askeri makamlar vali ve kaymakamların yardım taleplerini yerine getirirler. Yangın yerine askeri yangın söndürme birliği gelmişse bütün yangın söndürme güçleri askeri birlik komutanının emrine girerler.
+Yangının mahallindeki olanaklarla söndürülememesi halinde civar il ve ilçelerden mülki idare amirleri aracılığı ile istenecek yardımları resmi ve özel kuruluşlar imkanları ölçüsünde karşılarlar.

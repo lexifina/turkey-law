@@ -1,0 +1,1 @@
+Madde 19 – Bu yönetmelik hükümlerine aykırı hareket edenler, görevlerinde ihmali görülenler ve yangın söndürme malzeme, teçhizat, araç ve gereçlerine zarar verenler hakkında gerekli kanuni kovuşturma yapılır.

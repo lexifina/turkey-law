@@ -1,0 +1,1 @@
+Madde 6 – Üçüncü maddede belirtilen görevleri tüm liman alanında yerine getirmekten bölge liman ve deniz işleri müdürleri ve liman başkanları, gemilerde gemi kaptanları, iskelelerde iskele görevlileri, tesislerde tesisin sahip yönetici veya yetkilileri sorumludur.

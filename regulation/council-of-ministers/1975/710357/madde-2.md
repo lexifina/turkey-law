@@ -1,0 +1,1 @@
+Madde 2 – Bu Yönetmelikte iç ve dış liman alanları, kıyılar ve gemiler "Deniz" ve buralarda çıkabilecek yangınlar "Deniz Yangınları"; Bunların dışında kalan yerler "Kara" ve buralarda çıkabilecek yangınlar "Kara Yangınları"; olarak tanımlanmıştır.

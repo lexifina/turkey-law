@@ -1,0 +1,1 @@
+Madde 18 – Bu yönetmelikle verilen tüm hizmet ve görevlerin resmi ve özel bütün kuruluşlarca yerine getirilip getirilmediğini yangın söndürme malzeme, teçhizat, araç ve gereçlerinin Sivil Savunma İdaresi Başkanlığınca saptanan standartlara uygun olup olmadığını denetlemeye Sivil Savunma İdaresi Başkanlığı ile vali ve kaymakamlar yetkili ve görevlidirler.

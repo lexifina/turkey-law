@@ -1,0 +1,1 @@
+Madde 7 – Karada çıkacak bir yangının karadaki tesislere ve denize, denizde çıkacak bir yangının denizdeki tesis ve araçlara ve karaya sıçramasını önlemek, bu amaçla gerekli tedbirleri almak ve çıkan yangını söndürmekten öncelikle o yerlerdeki tesislerin sahip, yönetici ve yetkilileri ile gemilerin kaptanları sorumludur.

@@ -1,0 +1,1 @@
+Madde 13 – Gerek yangın söndürme örgütündeki, gerekse bunun dışında kalan personelin görevlerini istenilen biçimde ve çabuklukla yapma yeteneğini kazanmaları için uygun zamanlarda tatbikatlar yapılır.

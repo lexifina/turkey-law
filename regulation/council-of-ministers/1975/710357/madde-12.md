@@ -1,0 +1,1 @@
+Madde 12 – Yangın söndürme örgütünde görevli personel dışında kalan tüm personele ve gece bekçilerine mevcut yangın söndürme araç ve gereçlerinin bir yangın vukuunda nasıl kullanılacağı ve yangın haberinin nerelere ne şekilde ulaştırılacağı müesseselerce açılacak kurslarda öğretilir.
