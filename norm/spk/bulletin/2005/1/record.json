@@ -1,0 +1,61 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2005/1",
+  "date": "2005-01-07",
+  "title": "SPK Haftalık Bülteni 2005/1",
+  "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_1.pdf",
+  "source_sha256": "584f5f65673e63f22d725bfd55e2f4a3b301e8759b6075bea3350f8057138907",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "E. YENİ KURULUŞ VE FAALİYET İZİNLERİ",
+    "F. DUYURULAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 03.01.2005 – 07.01.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_1.pdf"
+    },
+    {
+      "heading": "B. 03.01.2005 –07.01.2005 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_1.pdf"
+    },
+    {
+      "heading": "C. 03.01.2005 – 07.01.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_1.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_1.pdf"
+    },
+    {
+      "heading": "E. YENİ KURULUŞ VE FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_1.pdf"
+    },
+    {
+      "heading": "F. DUYURULAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_1.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
