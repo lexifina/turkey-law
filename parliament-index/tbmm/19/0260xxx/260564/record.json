@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 260564,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Hazine ve Dış Ticaret Müsteşarlığı Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına İlişkin 436 Sayılı Kanun Hükmünde Kararname, 16.4.1986 Tarih ve 3274 Sayılı Hazine ve Dış Ticaret Müsteşarlığı Teşkilat ve Görevleri Hakkında Kanuna Bir Geçici Madde Eklenmesi Hakkında 256 Sayılı Kanun Hükmünde Kararname ile Sigorta Şirketleri Hizmetlerinin Başbakanlığa Devri Hakkında 303 Sayılı Kanun Hükmünde Kararnameye ilişkin",
+  "title": "Hazine ve Dış Ticaret Müsteşarlığı Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına İlişkin 436 Sayılı Kanun Hükmünde Kararname, 16.4.1986 Tarih ve 3274 Sayılı Hazine ve Dış Ticaret Müsteşarlığı Teşkilat ve Görevleri Hakkında Kanuna Bir Geçici Madde Eklenmesi Hakkında 256 Sayılı Kanun Hükmünde Kararname ile Sigorta Şirketleri Hizmetlerinin Başbakanlığa Devri Hakkında 303 Sayılı Kanun Hükmünde Kararnameye ilişkin",
+  "first_sitting_date": "1992-09-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 17,
+      "sitting": 3,
+      "sitting_date": "1992-09-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c017/tbmm19017003.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c017/tbmm19017fih.pdf",
+      "pages": [
+        "139:150"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 13,
+      "sitting_date": "1992-10-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c018/tbmm19018013.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c018/tbmm19018fih.pdf",
+      "pages": [
+        "422:475"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 15,
+      "sitting_date": "1992-10-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c019/tbmm19019015.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c019/tbmm19019fih.pdf",
+      "pages": [
+        "177:190"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 37,
+      "sitting_date": "1992-12-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c022/tbmm19022037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c022/tbmm19022fih.pdf",
+      "pages": [
+        "389:391",
+        "463:493"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=688&v_gelecek_sayfa=101&v_kullanici_id=27484415",
+  "source_sha256": "4736ea153edcf75390bd37fa06b86859c3a17b753e616f0f2a5ce39eac380298",
+  "in_force": "1992-09-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
