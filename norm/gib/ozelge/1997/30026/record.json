@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5511-1917/23860",
+  "source_id": 30026,
+  "date": "1997-06-10",
+  "title": "Yurt dışındaki bir firmadan yurt içindeki bir firmaya \"destek ve hizmet bedeli\" adı altında yapılan ödemeyle ile ilgili işlemlerin hizmet ihracı kapsamında değerlendirilileceği ve katma değer vergisine tabi bulunacağı açıktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30026",
+  "source_sha256": "ea95d05289c052aa50a56c22266c7fd138f4c04c381a81fb253b6cbc4475992c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
