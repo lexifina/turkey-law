@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 337445,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Bâzı cürümlerden dolayı memurlar ve şerikleri hakkında takip ve muhakeme usulüne dair 1609 sayılı Kanunun 3. maddesinin kaldırılması hakkında (1/175)",
+  "title": "Bâzı cürümlerden dolayı memurlar ve şerikleri hakkında takip ve muhakeme usulüne dair 1609 sayılı Kanunun 3. maddesinin kaldırılması hakkında (1/175)",
+  "first_sitting_date": "1962-04-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 70,
+      "sitting_date": "1962-04-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+      "pages": [
+        "268"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=4201&v_kullanici_id=27484850",
+  "source_sha256": "c7e7fa073cd31e3517e9c0987b7965ebc36b14632e9c8c7727c2e8f8c002cf33",
+  "in_force": "1962-04-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
