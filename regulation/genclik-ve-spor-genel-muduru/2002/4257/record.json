@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4257",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KIZAK SPORU YARIŞMA YÖNETMELİĞİ",
+  "number": "4257",
+  "issuer": "Gençlik ve Spor Genel Müdürü",
+  "issuer_slug": "genclik-ve-spor-genel-muduru",
+  "path": "regulation/genclik-ve-spor-genel-muduru/2002/4257",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4257&MevzuatTertip=5",
+  "source_sha256": "df9acd86925e74d1370d2990809fca9b84cb577d0a430e9a5e2d077cc20437cd",
+  "source_bytes": 66092,
+  "published": "2002-07-09",
+  "gazette": "24810",
+  "in_force": "2002-07-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.07.2002); own commencement article: \"Bu Yönetmelik yayımı tarihi ile yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihi ile yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1219,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
