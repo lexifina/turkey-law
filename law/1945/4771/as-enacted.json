@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4771",
+  "year": 1945,
+  "title": "Su mahsulleri ve avcılık işlerinin Ekonomi Bakanlığı görevleri için alınmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-07-06",
+  "gazette_issue": "6050",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6050.pdf",
+  "source_sha256": "094a1a4bd6ce08ef61b07d25bc5fa2c766081d93b08c940f35826035e43bc219",
+  "text_sha256": "f0d9351912297e6422fa719697097fb5cae684cc9a8846b42e5916c8d8808b97",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      1379,
+      1413
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704771.pdf",
+    "source_sha256": "6a5927bf9fb42a483893b4f43e6adcb38920abc61bba8e96c5a7bc49d16df35a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9664,
+    "bag": 0.9026,
+    "kd_coverage": 0.9868,
+    "kd_body_compared": 0.9613,
+    "rg_words": 159,
+    "kd_words": 155,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
