@@ -1,0 +1,82 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "550",
+  "year": 1930,
+  "title": "550 sayılı Karar",
+  "adopted": "1930-02-15",
+  "adopted_as_published": "15/02/1930",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "19.02.1930 No: 1428",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/karartbmmc008/karartbmmc00800550.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 8",
+  "committee_reports": [
+    {
+      "label": "TBMM 69 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c016/tbmm03016032ss0069.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120825,
+      "title": "550 sayılı Karar",
+      "adopted_as_published": "15/02/1930",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/karartbmmc008/karartbmmc00800550.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 69 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c016/tbmm03016032ss0069.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 15,
+          "sitting": 25,
+          "sitting_date": "1930-01-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c015/tbmm03015025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c015/tbmm03015fih.pdf",
+          "pages": [
+            "28"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 31,
+          "sitting_date": "1930-02-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c016/tbmm03016031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c016/tbmm03016fih.pdf",
+          "pages": [
+            "20"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 32,
+          "sitting_date": "1930-02-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c016/tbmm03016032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c016/tbmm03016fih.pdf",
+          "pages": [
+            "29"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=256&v_gelecek_sayfa=101&v_kullanici_id=27483258",
+      "page_sha256": "3a7b0147dbcc9341e2a1662f26e52a02179ae12115f8a708f9032bb3ce566928"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "3a7b0147dbcc9341e2a1662f26e52a02179ae12115f8a708f9032bb3ce566928",
+  "issuer": "TBMM",
+  "in_force": "1930-02-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 15/02/1930; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
