@@ -1,0 +1,105 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4579",
+  "year": 2000,
+  "title": "Noterlik Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2000-06-13",
+  "adopted_as_published": "13/06/2000",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.06.2000 No: 24081",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc084/kanuntbmmc084/kanuntbmmc08404579.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 84",
+  "committee_reports": [
+    {
+      "label": "TBMM 330 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c035/tbmm21035107ss0330.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 419594,
+      "title": "Noterlik Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "13/06/2000",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc084/kanuntbmmc084/kanuntbmmc08404579.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 330 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c035/tbmm21035107ss0330.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 47,
+          "sitting_date": "1999-12-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c023/tbmm21023047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c023/tbmm21023fih.pdf",
+          "pages": [
+            "4"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 57,
+          "sitting_date": "2000-02-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c026/tbmm21026057.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c026/tbmm21026fih.pdf",
+          "pages": [
+            "100"
+          ]
+        },
+        {
+          "cilt": 35,
+          "sitting": 107,
+          "sitting_date": "2000-06-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c035/tbmm21035107.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c035/tbmm21035fih.pdf",
+          "pages": [
+            "78"
+          ]
+        },
+        {
+          "cilt": 35,
+          "sitting": 108,
+          "sitting_date": "2000-06-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c035/tbmm21035108.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c035/tbmm21035fih.pdf",
+          "pages": [
+            "108:123"
+          ]
+        },
+        {
+          "cilt": 35,
+          "sitting": 109,
+          "sitting_date": "2000-06-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c035/tbmm21035109.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c035/tbmm21035fih.pdf",
+          "pages": [
+            "149:160",
+            "167:169"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=101&v_kullanici_id=27483196",
+      "page_sha256": "c2cfe2238783fc9740f96b415d225749684ec3a57b63b112c834c661930cccae"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "c2cfe2238783fc9740f96b415d225749684ec3a57b63b112c834c661930cccae",
+  "issuer": "TBMM",
+  "in_force": "2000-06-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 13/06/2000; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
