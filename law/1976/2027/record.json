@@ -1,0 +1,201 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2027",
+  "year": 1976,
+  "title": "İstihdam politikasıyla ilgili 122 sayılı Sözleşmenin onaylanmasının uygun bulunduğuna dair Kanun",
+  "adopted": "1976-11-09",
+  "adopted_as_published": "09/11/1976",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.11.1976 No: 15769",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/kanuntbmmc060/kanuntbmmc06002027.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 60",
+  "committee_reports": [
+    {
+      "label": "MM 196 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c019/mm__04019103ss0196.pdf"
+    },
+    {
+      "label": "CS 612no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029004ss0612.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 457151,
+      "title": "İstihdam politikasıyla ilgili 122 sayılı Sözleşmenin onaylanmasının uygun bulunduğuna dair Kanun",
+      "adopted_as_published": "09/11/1976",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/kanuntbmmc060/kanuntbmmc06002027.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 196 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c019/mm__04019103ss0196.pdf"
+        },
+        {
+          "label": "CS 612no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029004ss0612.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 97,
+          "sitting_date": "1974-06-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006097.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006fih.pdf",
+          "pages": [
+            "193"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 95,
+          "sitting_date": "1975-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013fih.pdf",
+          "pages": [
+            "297"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 70,
+          "sitting_date": "1976-03-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c018/mm__04018070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c018/mm__04018fih.pdf",
+          "pages": [
+            "26"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 95,
+          "sitting_date": "1976-04-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c019/mm__04019095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c019/mm__04019fih.pdf",
+          "pages": [
+            "163"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 103,
+          "sitting_date": "1976-05-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c019/mm__04019103.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c019/mm__04019fih.pdf",
+          "pages": [
+            "614",
+            "615",
+            "645:648"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 104,
+          "sitting_date": "1976-05-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c019/mm__04019104.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c019/mm__04019fih.pdf",
+          "pages": [
+            "654",
+            "683",
+            "710:713"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 105,
+          "sitting_date": "1976-06-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c020/mm__04020105.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c020/mm__04020fih.pdf",
+          "pages": [
+            "10",
+            "23",
+            "40:43"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 107,
+          "sitting_date": "1976-06-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c020/mm__04020107.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c020/mm__04020fih.pdf",
+          "pages": [
+            "52",
+            "88",
+            "94:97"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 108,
+          "sitting_date": "1976-06-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c020/mm__04020108.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c020/mm__04020fih.pdf",
+          "pages": [
+            "119",
+            "148",
+            "154:157"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=401&v_kullanici_id=27483225",
+      "page_sha256": "a1ea50d72be6fe3570ffdc776298387215c0ebc936785e40f90fb4075e9eeeb9"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 328917,
+      "title": "İstihdam politikasıyla ilgili 122 sayılı Sözleşmenin onaylanmasının uygun bulunduğuna dair Kanun",
+      "adopted_as_published": "09/11/1976",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/kanuntbmmc060/kanuntbmmc06002027.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 196 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c019/mm__04019103ss0196.pdf"
+        },
+        {
+          "label": "CS 612no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029004ss0612.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 29,
+          "sitting": 4,
+          "sitting_date": "1976-11-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029004.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029fih.pdf",
+          "pages": [
+            "53:61",
+            "72:73"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2001&v_kullanici_id=27483235",
+      "page_sha256": "5b492ecceb3fd27972446dc39f2c79577d6e4ad977e62fa45dc3f9e7cfc6c880"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a1ea50d72be6fe3570ffdc776298387215c0ebc936785e40f90fb4075e9eeeb9",
+  "issuer": "Millet Meclisi",
+  "in_force": "1976-11-09",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 09/11/1976; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
