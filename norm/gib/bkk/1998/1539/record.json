@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "98/11328",
+  "source_id": 1539,
+  "date": "1998-07-09",
+  "title": "K.D.V. KANUNUNUN DEĞİŞİK 28 İNCİ MADDESİNE İLİŞKİN (*)",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/bkk/1539",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "0e1e6f13807becdcef693a3a31db814d5e47bf42dd7758eea12e9b466434b6db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
