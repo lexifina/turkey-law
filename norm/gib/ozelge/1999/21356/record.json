@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.43/4303-48/49240",
+  "source_id": 21356,
+  "date": "1999-12-23",
+  "title": "Gayrimenkulün emlak vergisi değeri emsal kira bedeline göre değil, elde edilen gerçek kira gelirine göre tespit edilerek gelir vergisi beyannamesi verilmesi gerekmektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21356",
+  "source_sha256": "b0e00633000a09cf616831250323f32517b39263703462cdf1883ebbb316d969",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
