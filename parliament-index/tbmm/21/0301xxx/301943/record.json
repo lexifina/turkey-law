@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 301943,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "SALİH ÇELEN (ANTALYA)",
+  "summary": "Ve İki Arkadaşının, Bingöl Milletvekili Necati Yöndar'ın, İstanbul Milletvekili Masum Türker ve Otuz Arkadaşının, İstanbul Milletvekili Aydın Ayaydın'ın, Ordu Milletvekili Cemal Enginyurt'un 213 Sayılı Vergi Usul Kanunu, 1319 Sayılı Emlak Vergisi Kanunu ve 492 Sayılı Harçlar Kanununda Değişiklik Yapılmasına İlişkin (2/878, 2/880, 2/882, 2/883, 2/884)",
+  "title": "Ve İki Arkadaşının, Bingöl Milletvekili Necati Yöndar'ın, İstanbul Milletvekili Masum Türker ve Otuz Arkadaşının, İstanbul Milletvekili Aydın Ayaydın'ın, Ordu Milletvekili Cemal Enginyurt'un 213 Sayılı Vergi Usul Kanunu, 1319 Sayılı Emlak Vergisi Kanunu ve 492 Sayılı Harçlar Kanununda Değişiklik Yapılmasına İlişkin (2/878, 2/880, 2/882, 2/883, 2/884)",
+  "first_sitting_date": "2002-03-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 88,
+      "sitting": 70,
+      "sitting_date": "2002-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c088/tbmm21088070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c088/tbmm21088fih.pdf",
+      "pages": [
+        "24:48",
+        "49:66"
+      ]
+    },
+    {
+      "cilt": 88,
+      "sitting": 71,
+      "sitting_date": "2002-03-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c088/tbmm21088071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c088/tbmm21088fih.pdf",
+      "pages": [
+        "146:185",
+        "225:248"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "11df2868fdc982e7f36fcf5ebc6df0c4aa48622510cd65ba78ca98a25aceae90",
+  "in_force": "2002-03-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
