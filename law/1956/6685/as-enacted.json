@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6685",
+  "year": 1956,
+  "title": "6/7 Eylül hâdiselerinden zarar görenlere yapılacak yardımların vergi muafiyeti ve bu zararlar dolayısiyle 5432 sayılı Kanılının 260 ve 299. maddelerinin tatbiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-03-01",
+  "gazette_issue": "9247",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9247.pdf",
+  "source_sha256": "c29696fb1736e86ad4590f148f0a02f1191d25bcd18b35fe782171b66a73e1e6",
+  "text_sha256": "448779361fc27d2f0a31800669d424c3bc67e059af14e2a4117cb9c3ec949702",
+  "text_status": "ocr",
+  "pages": [
+    62
+  ],
+  "line_span": [
+    [
+      22683,
+      22706
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [62] (no text layer)",
+    "tesseract_pages": [
+      62
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806685.pdf",
+    "source_sha256": "e34b12de68509533ee99f62710f04006d5e0448171957c44fe05e2a2ec828809",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9863,
+    "bag": 0.924,
+    "kd_coverage": 0.9883,
+    "kd_body_compared": 0.977,
+    "rg_words": 172,
+    "kd_words": 174,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
