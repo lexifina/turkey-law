@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 16 — Bu Yönetmelik, yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2002-02-17",
+      "17.02.2002",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 16 — Bu Yönetmelik, yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24674",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2002-02-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Çanakkale Onsekiz Mart Üniversitesi",
+  "issuer_slug": "canakkale-onsekiz-mart-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/canakkale-onsekiz-mart-universitesi/2002/7897",
+  "published": "2002-02-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7897&MevzuatTertip=5",
+  "source_bytes": 17624,
+  "source_id": "8.5.7897",
+  "source_sha256": "53fbec2c7914fd54f0b8ba888d7795458005e65847912f69676f75238f96562f",
+  "text_status": "as-enacted",
+  "title": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ ASTROFİZİK ARAŞTIRMA\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 186,
+  "word_count": 539
+}
