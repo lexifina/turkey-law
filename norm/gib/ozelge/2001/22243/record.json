@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-544/62498",
+  "source_id": 22243,
+  "date": "2001-11-20",
+  "title": "Münhasıran trafik takip işi ile iştigal edenlerin kazançlarının GVK'nın ticari kazanç hükümleri çerçevesinde vergiye tabi tutulacağı ve basit usulde vergilendirilebilecekleri hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22243",
+  "source_sha256": "9ec42b10e9a540773a7917b96a034f55ebce113b5dd6d71295de7a4fe50d85b5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
