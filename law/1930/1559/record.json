@@ -1,0 +1,60 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1559",
+  "year": 1930,
+  "title": "Maaş kanununun ikinci maddesine bir fikra ilavesi hakkında kanun",
+  "adopted": "1930-02-19",
+  "adopted_as_published": "19/02/1930",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "23.02.1930 No: 1431",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801559.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 8",
+  "committee_reports": [
+    {
+      "label": "TBMM 62 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c016/tbmm03016030ss0062.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120397,
+      "title": "Maaş kanununun ikinci maddesine bir fikra ilavesi hakkında kanun",
+      "adopted_as_published": "19/02/1930",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801559.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 62 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c016/tbmm03016030ss0062.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 16,
+          "sitting": 30,
+          "sitting_date": "1930-02-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c016/tbmm03016030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c016/tbmm03016fih.pdf",
+          "pages": [
+            "17:18"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=663&v_gelecek_sayfa=401&v_kullanici_id=27483152",
+      "page_sha256": "8db7312e04e5a80f2ed522d4bcac61f09a433a11adc1c49d3c5a5683300858ff"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8db7312e04e5a80f2ed522d4bcac61f09a433a11adc1c49d3c5a5683300858ff",
+  "issuer": "TBMM",
+  "in_force": "1930-02-19",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 19/02/1930; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
