@@ -1,0 +1,20 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2004/3",
+  "date": "2004-01-23",
+  "title": "SPK Haftalık Bülteni 2004/3",
+  "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_3.pdf",
+  "source_sha256": "e39cd07002340b5f53e20dd2f96952d2259ca3ffb4f9a123bbcb5532939dc783",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "G. DUYURU"
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
