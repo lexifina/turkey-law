@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2002/108",
+  "list_number": "108",
+  "decision_date": "2002-02-08",
+  "title": "YSK ilke kararı 2002/108",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4306/2002-108-karar.htm",
+  "source_sha256": "fa5078010df4dfbde30dcbd8f61999d1e4fc4d46a85204a366b77669d74f15ef",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2002-02-08",
+  "law_text_complete": false
+}
