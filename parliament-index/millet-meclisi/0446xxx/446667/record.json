@@ -1,0 +1,53 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 446667,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "İzmir Milletvekili Süleyman Genç'in, 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa 8.7.1971 gün ve 1425 sayılı Kanunla eklenen ve 1.6.1976 gün ve 2013 sayılı Kanunla değiştirilen ek 6. maddenin 1. fıkrasının değiştirilmesine ilişkin Yasa teklifi (2/806)",
+  "title": "İzmir Milletvekili Süleyman Genç'in, 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa 8.7.1971 gün ve 1425 sayılı Kanunla eklenen ve 1.6.1976 gün ve 2013 sayılı Kanunla değiştirilen ek 6. maddenin 1. fıkrasının değiştirilmesine ilişkin Yasa teklifi (2/806)",
+  "first_sitting_date": "1980-01-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 36,
+      "sitting_date": "1980-01-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c013/mm__05013036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c013/mm__05013fih.pdf",
+      "pages": [
+        "920",
+        "924",
+        "937:938",
+        "947:950",
+        "982",
+        "1017:1020"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 67,
+      "sitting_date": "1980-04-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c016/mm__05016067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c016/mm__05016fih.pdf",
+      "pages": [
+        "39:40",
+        "64:67",
+        "82:83",
+        "86:89"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=1001&v_kullanici_id=27484893",
+  "source_sha256": "4b214aaf3146dba20ccdcbf6139e5eabcbdc152da9c2ba590a226e98a5d4302f",
+  "in_force": "1980-01-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
