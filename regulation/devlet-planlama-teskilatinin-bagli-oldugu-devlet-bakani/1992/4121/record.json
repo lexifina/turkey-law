@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4121",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KALKINMADA ÖNCELİKLİ YÖRELERE İLİŞKİN PROGRAM VE PROJELERİ DESTEKLEMEK AMACIYLA DEVLET PLANLAMA TEŞKİLATI BÜTÇESİNDE YERALAN ÖDENEKTEN YAPILACAK YARDIMLARIN USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "4121",
+  "issuer": "Devlet Planlama Teşkilatının bağlı olduğu Devlet Bakanı",
+  "issuer_slug": "devlet-planlama-teskilatinin-bagli-oldugu-devlet-bakani",
+  "path": "regulation/devlet-planlama-teskilatinin-bagli-oldugu-devlet-bakani/1992/4121",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4121&MevzuatTertip=5",
+  "source_sha256": "c11c6249ad796cedcc8838634960bac04b849bc1d65e4cdf9184c5cace800abb",
+  "source_bytes": 38379,
+  "published": "1992-09-09",
+  "gazette": "21340",
+  "in_force": "1992-09-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.09.1992); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1339,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
