@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5417-1660/25966",
+  "source_id": 31963,
+  "date": "1997-06-20",
+  "title": "Tarımsal amaçlı kooperatiflerle paralel şartlarda kurulan ..... Damızlık Sığır Yetiştiriciliği Birliği'nin kurumlar ve katma değer vergisinden muaf olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/31963",
+  "source_sha256": "e6e35746cf12591eb2abbc93c9a54a83ae5ec87191dcded727657706f2d2b0d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
