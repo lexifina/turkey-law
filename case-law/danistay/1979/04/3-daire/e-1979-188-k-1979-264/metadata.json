@@ -1,0 +1,17 @@
+{
+  "court": "Danıştay",
+  "chamber": "3. Daire",
+  "chamber_as_listed": "3. Daire",
+  "esas_no": "1979/188",
+  "karar_no": "1979/264",
+  "decision_date": "1979-04-04",
+  "source_url": "https://karararama.danistay.gov.tr/getDokuman?id=17336200&arananKelime=",
+  "source_id": "17336200",
+  "listing": "https://karararama.danistay.gov.tr/aramadetaylist",
+  "source_sha256": "fde4ab4aefbf60d392813e79c8c022f5e10e07085f87479c050d9857d19c29ba",
+  "text_status": "as-published",
+  "anonymisation": "as published by the Danıştay (names replaced by \"...\")",
+  "source_images": 0,
+  "images_status": "none-detected",
+  "missing_components": []
+}
