@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2003/85",
+  "list_number": "85",
+  "decision_date": "2003-01-25",
+  "title": "YSK ilke kararı 2003/85",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4155/2003-85-karar.htm",
+  "source_sha256": "fe8d6f82e2691c10aeca0f295cfc8a27521aeba0258f4e78d6a1d0a639469201",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2003-01-25",
+  "law_text_complete": false
+}
