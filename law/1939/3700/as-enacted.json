@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3700",
+  "year": 1939,
+  "title": "Umumî nüfus sayımı hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-07-13",
+  "gazette_issue": "4257",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4257.pdf",
+  "source_sha256": "4b85fd6d7abb4b3494fdaec9fef2c45b3303a7bf091b279529a37709b041c63e",
+  "text_sha256": "c030bca5b6ad8ab36e0dbd04c2cbefb80c98f25031881c46fbbad9802913faff",
+  "text_status": "ocr",
+  "pages": [
+    21
+  ],
+  "line_span": [
+    [
+      4235,
+      4301
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003700.pdf",
+    "source_sha256": "74a2d133f274d0d149f27d0dace887b0608dc723cac123b37265c2aa1e7b074d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9744,
+    "bag": 0.919,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9948,
+    "rg_words": 374,
+    "kd_words": 381,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
