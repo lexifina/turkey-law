@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4535-5",
+  "source_id": 21230,
+  "date": "2004-05-01",
+  "title": "Mülkiyeti muhafaza kaydıyla yapılan satış aktinde söz konusu malın mülkiyetinin malın bedeli tamamen ödeninceye kadar satıcıda olduğundan yatırım indiriminden yararlanmasının mümkün olmaması hakkında. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21230",
+  "source_sha256": "1a83714f510462f7b2972d0f20681397ba372589021bb314b8ac1d1458add70e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
