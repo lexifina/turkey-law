@@ -1,0 +1,41 @@
+{
+  "source_id": "7.5.4430",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "2985 SAYILI KANUNA GÖRE TOPLU KONUT FONUNDAN FAYDALANAN DEVLET MEMURLARINA VE DİĞER KAMU GÖREVLİLERİNE AÇILACAK KONUT KREDİSİ YÖNETMELİĞİ",
+  "number": "4430",
+  "issuer": "Toplu Konut ve Kamu Ortaklığı İdaresi Başkanlığı",
+  "issuer_slug": "toplu-konut-ve-kamu-ortakligi-idaresi-baskanligi",
+  "path": "regulation/toplu-konut-ve-kamu-ortakligi-idaresi-baskanligi/1986/4430",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4430&MevzuatTertip=5",
+  "source_sha256": "04867c28215101da998672fa16d5d0b9fe6c5dd47ef54f411f4d8870cdaf5aa9",
+  "source_bytes": 62301,
+  "published": "1986-02-17",
+  "gazette": "19022",
+  "in_force": "1988-02-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/02/1988\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "1988-02-26",
+      "RG-26/02/1988",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1019,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.4430%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
