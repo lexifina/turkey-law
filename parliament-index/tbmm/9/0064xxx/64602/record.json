@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 64602,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Bursa Milletvekili Necdet Yılmaz'ın, Belediye Gelirleri Kanununun 1.4. ve 5. maddelerindeki «Tahsil ve tahsilat» kelimelerinin yorumlanması hakkındaki önergesine dair (4/58)",
+  "title": "Bursa Milletvekili Necdet Yılmaz'ın, Belediye Gelirleri Kanununun 1.4. ve 5. maddelerindeki «Tahsil ve tahsilat» kelimelerinin yorumlanması hakkındaki önergesine dair (4/58)",
+  "first_sitting_date": "1950-12-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 20,
+      "sitting_date": "1950-12-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c003/tbmm09003020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c003/tbmm09003fih.pdf",
+      "pages": [
+        "266",
+        "275:278"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 27,
+      "sitting_date": "1951-01-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004027.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004fih.pdf",
+      "pages": [
+        "80",
+        "130"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "58a1cae8344010e9f3db34fcc7822c02052dab411c713d3537c1bf12d99cdd16",
+  "in_force": "1950-12-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
