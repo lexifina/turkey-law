@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-2283/13167",
+  "source_id": 24787,
+  "date": "2005-03-22",
+  "title": "Vefat eden personele ilişkin olarak vergi iade bildiriminin varislerce personelin çalıştığı işverene verilmiş olması halinde, bildirimin süresinde yapıldığı kabul edilerek ilgili vergi dairesince hak sahiplerine gerekli iadenin yapılması gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24787",
+  "source_sha256": "e0dbb538d793fdcc27caad498e44e6d2f63a1c4d40f3addb9778c00897499e89",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
