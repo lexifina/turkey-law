@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "239",
+  "decision_date": "1999-12-01",
+  "title": "Yıldırım Belediyesi nin 2000 Mali Yılı Hazırlık Bütçesi",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/3094_MEC1999-13_239.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1999",
+  "listing_sha256": "0ab53d7a3954ccf56d34902bc5b1393a9ab16618e63fe5bdc55fa9819a0f8970",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
