@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.66/6613-15/21369",
+  "source_id": 38365,
+  "date": "2001-04-17",
+  "title": "Gayrimenkullerin vergi değerleri dikkate alınmadan herbir daire sahibi adına yol harcamalarına katılma payı tahakkuk ettirilmesinin kanun hükümlerine uygun olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/38365",
+  "source_sha256": "8a03e95f39366c0ca4d97be51bca5563f5a80247709634c40853c872c42bce30",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
