@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-8 / 2004-8",
+  "source_id": 976,
+  "date": "2004-01-23",
+  "title": "Katma Değer Vergisi Kanununun 14 üncü maddesine göre taşımacılık istisnası kapsamına giren taşımalarda TIR karnesi kullanılması halinde TIR karnesinin birinci sayfasının ve gümrük kapılarında bırakılan nüshasının dipkoçanlarının tasdikli fotokopilerinin t",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/976",
+  "source_sha256": "8ef0762d0772d061ad06c60fe619fe523ed8fcd6083d8445ddb6975ba0d14324",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
