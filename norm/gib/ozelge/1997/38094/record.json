@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.O.54/5411-1954/15493",
+  "source_id": 38094,
+  "date": "1997-04-14",
+  "title": "İzin belgeli satıcının merkez ve şubelerinin bulunması halinde, fatura/çeklerin merkez ve şubeyi belirtecek şekilde serbestce düzenlenebileceği; ayrıca, gümrük onaylı fatura/çekleri ibraz eden yolculara ve yakınına K.D.V. İadesi mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38094",
+  "source_sha256": "fb46fa39628bfefd2bc294fb1d2c7c9d5dbd6b5a52c70d41eaf14fcf2f1c30e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
