@@ -1,0 +1,3 @@
+Enstitünün kadroları
+MADDE 27. - 544 sayılı Kanun Hükmünde Kararnameyle ihdas edilmiş bulunan kadrolar ile 24.11.1994 tarihli ve 4046 sayılı Kanun uyarınca Bakanlar Kurulunun 2002/4120 sayılı Kararı gereği Enstitüye tahsis edilen ve 190 sayılı Kanun Hükmünde Kararnameye ekli (III) sayılı cetvelin Türk Patent Enstitüsü Başkanlığı bölümünde yer alan kadrolara, bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek eklenmiş ve ekli (2) sayılı listede yer alan kadrolar iptal edilmiştir.
+Kadroların tespit, ihdas, kullanımı ve iptali ile kadrolara ilişkin diğer hususlar 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname hükümlerine göre düzenlenir.
