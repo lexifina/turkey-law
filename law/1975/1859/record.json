@@ -1,0 +1,150 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1859",
+  "year": 1975,
+  "title": "İstanbul Teknik Üniversitesi 1975 yılı Bütçe Kanunu",
+  "adopted": "1975-02-26",
+  "adopted_as_published": "26/02/1975",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.03.1975 No: 15169",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801859.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 58",
+  "committee_reports": [
+    {
+      "label": "MM 139 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c010/mm__04010047ss0139.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 448213,
+      "title": "İstanbul Teknik Üniversitesi 1975 yılı Bütçe Kanunu",
+      "adopted_as_published": "26/02/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801859.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 139 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c010/mm__04010047ss0139.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 12,
+          "sitting_date": "1974-12-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007fih.pdf",
+          "pages": [
+            "258"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 40,
+          "sitting_date": "1975-02-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c009/mm__04009040.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c009/mm__04009fih.pdf",
+          "pages": [
+            "4"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 47,
+          "sitting_date": "1975-02-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c010/mm__04010047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c010/mm__04010fih.pdf",
+          "pages": [
+            "193:194"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 49,
+          "sitting_date": "1975-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c010/mm__04010049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c010/mm__04010fih.pdf",
+          "pages": [
+            "386",
+            "454",
+            "500:503"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=201&v_kullanici_id=27483225",
+      "page_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 325067,
+      "title": "İstanbul Teknik Üniversitesi 1975 yılı Bütçe Kanunu.",
+      "adopted_as_published": "26/02/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801859.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 139 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c010/mm__04010047ss0139.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 18,
+          "sitting": 25,
+          "sitting_date": "1975-02-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018fih.pdf",
+          "pages": [
+            "645"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 30,
+          "sitting_date": "1975-02-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c019/cs__14019030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c019/cs__14019fih.pdf",
+          "pages": [
+            "619:621"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 31,
+          "sitting_date": "1975-02-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c020/cs__14020031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c020/cs__14020fih.pdf",
+          "pages": [
+            "4",
+            "37",
+            "38",
+            "131:132"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1801&v_kullanici_id=27483235",
+      "page_sha256": "0a870416ae325ef7c2b7383ddb74f9ce53a00b028164dfb225bb98530ce1a326"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1975-02-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 26/02/1975; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
