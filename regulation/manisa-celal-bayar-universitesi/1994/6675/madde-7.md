@@ -1,0 +1,1 @@
+Madde 7 – Merkez Yönetim Kurulu; Merkez Müdürü, varsa müdür yardımcısı ve merkez kurulunca seçilecek üç üyeden oluşur. Merkez Yönetim Kurulu Araştırma ve Uygulama Merkezi’nin karar organıdır. Görevi, Müdür tarafından verilen işleri görüşmek, karara bağlamak ve diğer çalışmalarında Müdür’e yardımcı olmaktır.
