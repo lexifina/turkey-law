@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-10-01",
+  "issue": "24893",
+  "edition": "regular",
+  "item": 11,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Türkiye Taşkömürü Kurumu Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/10/20021001-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (71 = 71)",
+  "ilan_codes": [
+    "27247/2-2",
+    "27248/2-2"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/10/20021001-3.htm",
+  "category_page_sha256": "cf8c9e2c145cac347ee7ce94f23e617264f14d3e1f5fa9425c75265b64ae0eda",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/10/20021001.htm",
+  "index_sha256": "ca8838cac4b2fe77372c6397e92ce738d2d3a5b05e4be144c9d820fb5e06c802",
+  "index_header": "1 Ekim 2002 ... Sayı : 24893",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
