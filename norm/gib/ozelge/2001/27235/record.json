@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3050-377-10589/16188",
+  "source_id": 27235,
+  "date": "2001-03-26",
+  "title": "Yargı kararının düzeltilmesi isteminde, Bakanlığımızdan veya defterdarlıktan izin alınmasına gerek bulunup bulunmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27235",
+  "source_sha256": "fecb7b027346feb7095f956e6cb6c8f505d385555f447df4db23f470a09f0bb6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
