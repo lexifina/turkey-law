@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 364929,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Türkiye Cumhuriyeti ile Fas Kırallığı arasında 21 Kasım 1966 tarihinde Rabat'ta akdedilmiş bulunanı Kültür Anlaşmasının onaylanmasının uygun bulunduğuna dair (1/308)",
+  "title": "Türkiye Cumhuriyeti ile Fas Kırallığı arasında 21 Kasım 1966 tarihinde Rabat'ta akdedilmiş bulunanı Kültür Anlaşmasının onaylanmasının uygun bulunduğuna dair (1/308)",
+  "first_sitting_date": "1967-01-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 31,
+      "sitting_date": "1967-01-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011fih.pdf",
+      "pages": [
+        "134:135"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=3301&v_kullanici_id=27484850",
+  "source_sha256": "c793a4d14ea1836ca2fd6465259e419a53e011d4a5ae60eae0dcee95a40b5c72",
+  "in_force": "1967-01-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
