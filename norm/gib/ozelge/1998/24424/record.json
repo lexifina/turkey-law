@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5144-459/20863",
+  "source_id": 24424,
+  "date": "1998-06-03",
+  "title": "Artvin Valiliği tarafından bankada açılan Artvin İli Yöresel Kalkınma Fonu hesabına yürütülen faizlerden gelir vergisi tevkifatı yapılıp yapılmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/24424",
+  "source_sha256": "693520b13f4fc292251c3b0aad6f79ea1f6f70ecd9849598cbeb4e3879fb043f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
