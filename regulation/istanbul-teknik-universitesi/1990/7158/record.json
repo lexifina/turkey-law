@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1990-02-10",
+      "10.02.1990",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "20429",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1990-02-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/1990/7158",
+  "published": "1990-02-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7158&MevzuatTertip=5",
+  "source_bytes": 23248,
+  "source_id": "8.5.7158",
+  "source_sha256": "41453522a90a0a54075ad985c8ebaec1bb94963a64d6bd468afa4b8fe4f77100",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ\r\nSU KİRLENMESİ ARAŞTIRMALARI VE KONTROLÜ TÜRK\r\nMİLLİ KOMİTESİ YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 801
+}
