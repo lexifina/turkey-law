@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-03-09",
+  "issue": "25750",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Milletlerarası Andlaşmalar",
+  "title": "2005/8518 Kimberley Süreci Sertifika Sistemi’ne Katılmamız Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050309-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050309.htm",
+  "index_sha256": "e00032025705e8b8b66c9cdf0654030cd29f2d44dffce27c70866550d0f95844",
+  "index_header": "9 Mart 2005 ... Sayı : 25750",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
