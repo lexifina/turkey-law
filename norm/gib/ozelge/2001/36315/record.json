@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.60/6001-690/13499",
+  "source_id": 36315,
+  "date": "2001-03-13",
+  "title": "Amme idareleri emekli ve yardım sandıkları, sosyal sigorta kurumları, kamu menfaatine yararlı dernekler, siyasi partiler ve bunlara ait olan veya bunların aralarında kurdukları teşekküllerden kurumlar vergisine tabi olmayanlar  ile umumun istifadesi için ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36315",
+  "source_sha256": "b806d4225e219ec7c5258e411303c383f8efbb292b2e38694cc33ef4ee0e636c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
