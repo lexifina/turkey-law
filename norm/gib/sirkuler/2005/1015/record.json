@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "DV-14/2005-1/ Menşe şahadetnameleri.",
+  "source_id": 1015,
+  "date": "2005-01-14",
+  "title": "Menşe şahadetnamelerine ait damga vergisinin beyan ve ödenmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/sirkuler/1015",
+  "source_sha256": "77b3f202bc2b338c4974f914712364bc9e90e71969b206af6e097305d5d51919",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
