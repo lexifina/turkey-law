@@ -1,0 +1,136 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1579",
+  "year": 1972,
+  "title": "Çalışma Bakanlığının kuruluş ve görevleri hakkındaki 4841 sayılı Kanunun 864 sayılı Kanunla değişik 6. maddesinin (D) fıkrasının ve bu kanunla eklenen ve 5,6,7 ve 8. değiştirilmesine ve aynı kanuna bir ek madde ile bir geçici madde eklenmesi hakkında Kanun",
+  "adopted": "1972-04-06",
+  "adopted_as_published": "06/04/1972",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "13.04.1972 No: 14158",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501579.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 55",
+  "committee_reports": [
+    {
+      "label": "MM 506 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c023/mm__03023061ss0506.pdf"
+    },
+    {
+      "label": "CS 84no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004047ss0084.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 387506,
+      "title": "Çalışma Bakanlığının kuruluş ve görevleri hakkındaki 4841 sayılı Kanunun 864 sayılı Kanunla değişik 6. maddesinin (D) fıkrasının ve bu kanunla eklenen ve 5,6,7 ve 8. değiştirilmesine ve aynı kanuna bir ek madde ile bir geçici madde eklenmesi hakkında Kanun",
+      "adopted_as_published": "06/04/1972",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501579.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 506 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c023/mm__03023061ss0506.pdf"
+        },
+        {
+          "label": "CS 84no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004047ss0084.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 20,
+          "sitting": 36,
+          "sitting_date": "1972-02-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020fih.pdf",
+          "pages": [
+            "542"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 56,
+          "sitting_date": "1972-03-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c023/mm__03023056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c023/mm__03023fih.pdf",
+          "pages": [
+            "75"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 61,
+          "sitting_date": "1972-03-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c023/mm__03023061.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c023/mm__03023fih.pdf",
+          "pages": [
+            "338:378"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=801&v_kullanici_id=27483225",
+      "page_sha256": "a5c6fd2bb5c9b73d64ad49838a3a54a257c189cf96cdf2bd05acb20e57852516"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 319832,
+      "title": "Çalışma Bakanlığının kuruluş ve görevleri hakkındaki 4841 sayılı Kanunun 864 sayılı Kanunla değişik 6 ncı maddesinin (D) fıkrasının ve bu kanunla eklenen ek 5, 6,7 ve 8 nci maddelerinin değiştirilmesine ve aynı kanuna bir ek madde ile bir geçici madde eklenmesi hakkında Kanun",
+      "adopted_as_published": "06/04/1972",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501579.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 506 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c023/mm__03023061ss0506.pdf"
+        },
+        {
+          "label": "CS 84no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004047ss0084.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 45,
+          "sitting_date": "1972-03-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004fih.pdf",
+          "pages": [
+            "196"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 47,
+          "sitting_date": "1972-04-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004fih.pdf",
+          "pages": [
+            "225",
+            "230:235"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1501&v_kullanici_id=27483235",
+      "page_sha256": "90862d0a2d3ca4f6b8e6290e83307dc4f5ad5af6e60426a878c750f3d8f66877"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a5c6fd2bb5c9b73d64ad49838a3a54a257c189cf96cdf2bd05acb20e57852516",
+  "issuer": "Millet Meclisi",
+  "in_force": "1972-04-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 06/04/1972; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
