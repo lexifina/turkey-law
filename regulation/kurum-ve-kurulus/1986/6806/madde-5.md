@@ -1,0 +1,2 @@
+Denetleme Kurulu
+Madde 5 — Büyükelçilik Birinci Müsteşarının başkanlığında, Türk Kültür Merkezleri Genel Kurul tarafından bir yıl için seçilen iki ihtisas birimi temsilcisinden meydana gelir. Denetleme Kurulu, Genel Kurulun direktifleri doğrultusunda, Merkez Müdürlükleri- nin faaliyetlerini, işlemlerini ve harcamalarını biri Genel kurul yıllık toplantısından 15 gün önce olmak üzere yılda en az iki defa inceler ve sonuçlarını bir rapor halinde Genel Kurul'a sunar.
