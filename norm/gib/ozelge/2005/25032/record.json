@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5330-102-11092",
+  "source_id": 25032,
+  "date": "2005-03-08",
+  "title": "Deprem, sel felaketi, ve Maliye Bakanlığının yangın sebebiyle mücbir sebeb ilan ettiği yerlerdeki yangın sonucu zayi olanlar hariç olmak üzere, zayi olan mallara ilişkin yüklenilen kdv, hesaplanan kdv den indirilemesi mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25032",
+  "source_sha256": "f03785fbb94d56fb8ddaa709cf1fb60130c749bacac42b6d72879483ab91a156",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
