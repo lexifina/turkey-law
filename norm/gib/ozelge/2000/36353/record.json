@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6026-152-6578",
+  "source_id": 36353,
+  "date": "2000-02-14",
+  "title": "Banka Yardımlaşma Sandığı Vakfı mensubununvefatı nedeniyle, mirasçılarına yapılan ödemelerin Veraset ve İntikal Vergisine tabi olup olmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36353",
+  "source_sha256": "2f9f6baa90e7f28122a5e208e50563d5b6c3981fff15f4865a606c9d203aacfb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
