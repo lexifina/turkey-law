@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.6160",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 254)",
+  "number": "6160",
+  "path": "teblig/2004/6160",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6160&MevzuatTertip=5",
+  "source_sha256": "33925dc30170a525f4666d937eeae662f644d0836c9c7f0291918e596b757c97",
+  "source_bytes": 28296,
+  "published": "2004-11-25",
+  "gazette": "25651",
+  "in_force": "2004-11-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.11.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1386,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
