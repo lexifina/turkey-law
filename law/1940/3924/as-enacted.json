@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3924",
+  "year": 1940,
+  "title": "Hudut ve Sahiller Sıhhat Umum Müdürlüğü 1940 malî yılı bütçesinde değişiklik yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-11-20",
+  "gazette_issue": "4665",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4665.pdf",
+  "source_sha256": "14860443fbffc61c02af525b0c2c0d1c183a74947af749cb369cb749863f2576",
+  "text_sha256": "d93995609e63ce8e79ea0a14a87a2aabaeabc7b7341c8ec655e789bca0a94134",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      15,
+      31
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203924.pdf",
+    "source_sha256": "3526e381a930a022476f75edea4e759f2b1742a97343b2a678ce567419b53406",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.938,
+    "bag": 0.8527,
+    "kd_coverage": 0.9844,
+    "kd_body_compared": 0.9552,
+    "rg_words": 65,
+    "kd_words": 67,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
