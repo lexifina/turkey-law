@@ -1,0 +1,3 @@
+Madde 14 – (Değişik: 17/7/2002-2002/4568 K.)
+Mümkün olan yerlerde mezarlık içersine kadar borularla su getirilip çeşme yapılır. Mümkün olmayan yerlerde mezarlık sınırından en az 250 metre uzakta kuyu açılarak su getirilir. Hidrolojik ve hidrojeolojik şartların gerektirdiği hallerde il hıfzıssıhha kurulunun da kararı alınmak suretiyle bu mesafe 100 metreye kadar kısıltılabilir. Mezarlıklar içinde kuyu açılamaz.
+2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamına giren mezarlıklarda yukarıdaki fıkraya göre yapılacak uygulamalar için yetkili koruma kurulundan da izin alınması gereklidir.

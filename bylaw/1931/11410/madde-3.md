@@ -1,0 +1,2 @@
+Madde 3 – Belediyeye devrolunan mezarlıklar ile mezarlıklara vakfedilmiş, binalar, akarlar, varidatlar, tenmiyesi meşrut akçeler hakkında belediyeler ile evkaf arasında bu nizamnamenin neşri tarihinden itibaren üç ay zarfında müştereken üç defter yapılır. Biri belediyede diğeri evkafta kalır, üçüncüsü tapuya verilir.
+Belediye reisinin tahriren müracaatı ve en büyük mülkiye memurunun havalesi üzerine tapu idaresi belediye namına gayrimenkuller için tapu verir.

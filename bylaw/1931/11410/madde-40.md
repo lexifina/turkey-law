@@ -1,0 +1,1 @@
+Madde 40 – Alelümummezarlar müstahdeminin gerek ölü sahiplerinden ve mezar inşa edecek mütaahhitlerden vazifelerine taallük eden hizmetler için her ne suretle olursa olsun bir bahşiş talep etmeleri katiyen memnudur.

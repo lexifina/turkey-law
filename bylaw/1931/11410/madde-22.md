@@ -1,0 +1,1 @@
+Madde 22 – Üçüncü sınıf mezarlardaki cesetlerin kemik ve bakıyesi toprağın tabiatına göre sıhhiye memurlarının verecekleri raporlara istinat etmek ve beş seneden az olmamak üzere belediye meclisince tesbit edilecek bir müddet geçtikten sonra sureti mahsusada hazırlanan umumi bir mahalle nakiliye defnolunarak boş kalan mezara sıra geldiği zaman yeniden cenaze gömülebilir

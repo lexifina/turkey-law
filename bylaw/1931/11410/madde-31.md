@@ -1,0 +1,1 @@
+Madde 31 – Her mezarlıkta oraya gömülen ölülerin kendilerinin ve babalarının isimlerini, şöhretlerini, yaşlarını ve ikamet ettikleri mahalleri ve vefat tarihlerini, mahallerini, sebeplerin ve hangi numaralı mezara gömüldüklerini gösterir bir defter tutulacak ve mezar numarası, gömme ruhsatiyesi de bu deftere yazılacaktır.

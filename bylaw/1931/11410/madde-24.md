@@ -1,0 +1,1 @@
+Madde 24 – Mezarlık dahilinde mezar sahipleri tarafından yapılacak lahit, duvar parmaklık, taştan ve saireden tezyinat ve tesisat ve her türlü inşaat belediyenin müsaade ve kontrol altında cereyan edecek ve belediyece verilecek müsaade haricinde inşaat menedilecektir.

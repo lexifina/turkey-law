@@ -1,0 +1,1 @@
+Madde 38 – Mezarlığı ziyaret edenlerin bu mevkiin ciheti tahsisi ile mütenasip bir hürmet ve nezaketle hareket etmeleri mecburidir. Münasebetsiz hareketlerde bulunanlar ve belediyelerce mezarlıklar hakkında tayin olunacak tenbihnamelere riayet etmeyenler derhal mezarlıktan çıkarılmakla beraber haklarında ahkamı cezaiye tatbik olunur.
