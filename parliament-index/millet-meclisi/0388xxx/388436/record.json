@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 388436,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İstanbul Milletvekili Nuri Eroğan'ın, 5434 sayılı TC Emekli Sandığı Kanununa 23.2.1965 gün ve 545 sayılı Kanunun 5. maddesiyle eklenen ek maddenin birinci fıkrasının değiştirilmesine, İçel Milletvekili Celâl Kargılı'nın, 5434 sayılı TC Emekli Sandığı Kanununa bazı maddeler eklenmesine ve Cumhuriyet Senatosu İstanbul Üyesi Mebrure Aksoley'in, 15.1.1943 gün ve 4379 sayılı Maaş Kanununa ek Kanunun 10.3.1950 gün ve 5585 sayılı Kanunla değişik birinci maddesine bir fıkra ile kanuna bir geçici madde eklenmesine dair kanun teklifleri hakkında (2/176, 2/215, 2/245)",
+  "title": "İstanbul Milletvekili Nuri Eroğan'ın, 5434 sayılı TC Emekli Sandığı Kanununa 23.2.1965 gün ve 545 sayılı Kanunun 5. maddesiyle eklenen ek maddenin birinci fıkrasının değiştirilmesine, İçel Milletvekili Celâl Kargılı'nın, 5434 sayılı TC Emekli Sandığı Kanununa bazı maddeler eklenmesine ve Cumhuriyet Senatosu İstanbul Üyesi Mebrure Aksoley'in, 15.1.1943 gün ve 4379 sayılı Maaş Kanununa ek Kanunun 10.3.1950 gün ve 5585 sayılı Kanunla değişik birinci maddesine bir fıkra ile kanuna bir geçici madde eklenmesine dair kanun teklifleri hakkında (2/176, 2/215, 2/245)",
+  "first_sitting_date": "1972-05-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 24,
+      "sitting": 92,
+      "sitting_date": "1972-05-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024092.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024fih.pdf",
+      "pages": [
+        "733"
+      ]
+    },
+    {
+      "cilt": 27,
+      "sitting": 135,
+      "sitting_date": "1972-09-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027135.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027fih.pdf",
+      "pages": [
+        "3",
+        "5"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2801&v_kullanici_id=27484836",
+  "source_sha256": "30dce11cd5a6f1b2802902737375fab8d8dbd0db46b4a4756dd5eb4c8b9cef96",
+  "in_force": "1972-05-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
