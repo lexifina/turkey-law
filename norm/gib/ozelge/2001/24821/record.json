@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-586/15833",
+  "source_id": 24821,
+  "date": "2001-03-22",
+  "title": "Hayat standartı esası uygulamasında, birinci ve ikinci işyeri olarak hangi işyerinin esas alınacağı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24821",
+  "source_sha256": "54a643253fdf784a41810b0a40181c234f3015b4251557462cce00b7c3773d67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
