@@ -1,0 +1,14 @@
+Olağanüstü genel kurul toplantısı
+Madde 9- Olağanüstü genel kurul toplantısı başkaca bir ilan ve bildirim yükümlülüğü olmaksızın, yurt çapında yayın yapan en az bir gazetede duyurulmak suretiyle ilan edilir. Olağanüstü genel kurul toplantısı, ilan tarihini izleyen onbeş gün içinde ve olağan genel kurulu takip etmek üzere aynı gün yapılır. Yönetim kurulu, ilan metinlerini yayım tarihinden iki iş günü önce Kuruma gönderir. Bu süre zarfında Kurumca düzeltme veya değişiklik yapılması istenmeyen ilan metinleri yayımlanır.
+Bankanın halka açık ortaklık olması veya rüçhan haklarının kullanılmasından sonra kalan payların halka arzedilecek olması halinde, aynı süre içinde Sermaye Piyasası Kuruluna ve İstanbul Menkul Kıymetler Borsasına bildirim yapılır.
+İlanda, toplantı günü ve saati, açık adres belirtilmek suretiyle toplantı yeri, toplantı gündemi, artırılan sermaye miktarının azaltılan sermaye miktarından az veya çok olması halinde sermaye maddesinin eski ve yeni şekli, davetin hangi organ tarafından yapıldığı hususu ile kendisini vekil vasıtasıyla temsil ettirecekler için vekaletname örnekleri yer alır.
+Olağanüstü genel kurul toplantı gündeminde aşağıdaki hususlar yer alır:
+1- Açılış ve divan teşekkülü.
+2- Toplantı tutanağının düzenlenmesi hususunda divana yetki verilmesi.
+3- Kanunun geçici 4 üncü maddesi uyarınca, miktar belirtilmek suretiyle sermayenin azaltılması ve/veya artırılması ile anasözleşmenin payların sayısına, itibari değerine ve oy haklarına ilişkin maddelerinin değiştirilmesi (İlgili maddelerin eski ve yeni şekli gösterilmek suretiyle).
+4- Yönetim kurulunun yeniden yapılandırma programına katılmak üzere Kuruma başvurabilmesi için yetkilendirilmesi.
+5- Rüçhan haklarının kullanım esas ve usullerini belirlemeye ilişkin olarak yönetim kurulunun yetkilendirilmesi.
+6- Ortaklar tarafından kullanılmayan rüçhan haklarına tekabül eden hisse senetlerinin satışa sunulması için yönetim kurulunun yetkilendirilmesi.
+7- Gerekmesi halinde, hisse senedine dönüştürülebilir tahvil ihracı yapılmasına ilişkin yönetim kurulunun yetkilendirilmesi.
+8- Kanunun geçici 4 üncü maddesi kapsamında hissedar olması halinde Fonun, edindiği hisselerin oranına bakılmaksızın yönetim kuruluna en az bir veya hisseleri oranında birden fazla üye atayabileceği ve bu üyelerden Fonca belirlenen üyenin katılmadığı veya olumlu oy kullanmadığı yönetim kurulu kararlarının icra edilemeyeceğine ilişkin anasözleşme değişikliği ile buna ilişkin ilave ya da değişikliğin yapılması (İlave veya değişiklik içeren yeni madde ile varsa eski maddenin yer alması suretiyle).
+Gündemde gösterilmeyen hususlar müzakere olunmaz. Artırılan sermaye miktarının, azaltılan sermaye miktarından az veya çok olması halinde, gündem, sermayeye ilişkin maddenin değiştirileceği şeklinde düzenlenir ve gündemde sermayeye ilişkin maddenin eski ve yeni şekli gösterilir.

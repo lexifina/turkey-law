@@ -1,0 +1,2 @@
+Kuruma yapılacak başvuru
+Madde 17- Sermaye artırımına rağmen sermaye yeterliliği standart oranı yüzde sekizin altında kalan bankalar, bu Yönetmelik kapsamındaki yeniden yapılandırma programına katılmak istedikleri takdirde sermaye artırım ve azaltım kararını içeren olağanüstü genel kurul kararı, üç yıllık iş planı ve takipteki alacaklarının çözümlenmesi gibi aktife seyyaliyet kazandırılmasına ilişkin tedbirleri içeren plan ile Kuruma başvururlar. Kurum, ayrıca gerekli göreceği her türlü bilgi ve belgeyi istemeye yetkilidir.

@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.5590",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BANKACILIK SEKTÖRÜ YENİDEN YAPILANDIRMA PROGRAMININ UYGULAMA ESAS VE USULLERİ HAKKINDA YÖNETMELİK",
+  "number": "5590",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu/2002/5590",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5590&MevzuatTertip=5",
+  "source_sha256": "6352a7bcf06f8f42c40a9368ab4be401202b929fee3c6693d5542a6a7a33df81",
+  "source_bytes": 134271,
+  "published": "2002-02-01",
+  "gazette": "24658",
+  "in_force": "2002-06-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG: 12/6/2002\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2002-06-12",
+      "RG: 12/6/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3256,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Kredi kullandırma zorunluluğu
+Madde 19- Bankalar, Fon tarafından bankaya yapılan sermaye katılımının en az yüzde altmışına karşılık gelen tutarı, aynı risk grubunda bulundukları gerçek ve tüzel kişiler ile bankalar ve diğer mali kurumlar hariç olmak üzere, 30 Haziran 2003 tarihine kadar bankacılık ilke ve teamülleri çerçevesinde kredi olarak kullandırırlar. Kullandırılan kredi miktarı, üç aylık dönem sonları itibarıyla bir cetvel halinde dönemi izleyen onbeş gün içinde Kuruma bildirilir.

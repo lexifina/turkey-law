@@ -1,0 +1,2 @@
+Reklama ilişkin esaslar
+Madde 16- Pay senetlerinin halka arzı dolayısıyla yapılacak reklam metinleri yayım tarihinden en az iki iş günü önce Kuruma sunulur. Reklam ve her türlü açıklamalarda, ilanlarda yer alanlar dışında kalan herhangi bir bilgiye yer verilemez. Kurum, gerekli gördüğü hallerde, reklam metinlerinde değişiklik yapılmasını isteyebilir. Bu ilanlar, gerekli değişiklikler yapılmaksızın yayımlanamaz.

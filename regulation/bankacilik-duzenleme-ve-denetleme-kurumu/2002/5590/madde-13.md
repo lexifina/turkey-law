@@ -1,0 +1,2 @@
+Olağanüstü genel kurul kararının tescil ve ilanı
+Madde 13- Olağanüstü genel kurul kararının sermaye artırımı dışındaki kısmı toplantıyı izleyen üç iş günü içinde bankanın başvurusu üzerine Sanayi ve Ticaret Bakanlığı veya İl Sanayi ve Ticaret Müdürlüklerine müracaat aranmaksızın tescil ve ilan olunur. Olağanüstü genel kurul kararının sermaye artırımına ilişkin kısmı aynı sürede ilan olunur. Sermaye artırımının tescili, bu Yönetmelik hükümlerine göre gerçekleşecek nihai miktar üzerinden yapılır.
