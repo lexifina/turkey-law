@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 327257,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "17.3.1969 gün ve 1135 sayılı Türk Vatandaşlarına Ait Olup Yugoslav Federatif Halk Cumhuriyetince Millîleştirilmiş Bulunan Mal, Hak ve Menfaatlerin Tasfiyesi hakkında Kanunun bazı maddelerinin değiştirilmesi ve iki geçici madde eklenmesine ilişkin kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Dışişleri, Turizm ve Tanıtma ve Bütçe ve Plan komisyonları raporları. (Millet Meclisi:1/237;Cumhuriyet Senatosu:1/412) (S. Sayısı:572)",
+  "title": "17.3.1969 gün ve 1135 sayılı Türk Vatandaşlarına Ait Olup Yugoslav Federatif Halk Cumhuriyetince Millîleştirilmiş Bulunan Mal, Hak ve Menfaatlerin Tasfiyesi hakkında Kanunun bazı maddelerinin değiştirilmesi ve iki geçici madde eklenmesine ilişkin kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Dışişleri, Turizm ve Tanıtma ve Bütçe ve Plan komisyonları raporları. (Millet Meclisi:1/237;Cumhuriyet Senatosu:1/412) (S. Sayısı:572)",
+  "first_sitting_date": "1976-04-29",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 28,
+      "sitting": 61,
+      "sitting_date": "1976-04-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028fih.pdf",
+      "pages": [
+        "38:39"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 63,
+      "sitting_date": "1976-05-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028fih.pdf",
+      "pages": [
+        "114:122"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=4401&v_kullanici_id=27484903",
+  "source_sha256": "0097d2c9d22b17a0779fcfb06834d003b68765b539260f112afbd8e12751f6f3",
+  "in_force": "1976-04-29",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
