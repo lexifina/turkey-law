@@ -1,0 +1,2 @@
+Kurultay
+Madde 9 – Kurulun görev alanı ile ilgili konularda çalışmalar yapmak ve önerilerde bulunmak üzere, ilgili Bakanlığın çağrısıyla enaz beş yılda bir Türk Kooperatifçilik Kurultayı toplanır. Kurultayın görev ve yetkileri, çalışma şekil ve şartları ile Kurultaya katılacaklar, bu Tüzüğün yürürlüğe girmesinden itibaren bir yıl içinde Sanayi ve Ticaret Bakanlığı ile Tarım ve Köy İşleri Bakanlığınca birlikte çıkartılacak bir yönetmelikle belirlenir.
