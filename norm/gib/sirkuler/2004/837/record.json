@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-4/2004-2/Enflasyon Düzeltmesi Uygulaması-3",
+  "source_id": 837,
+  "date": "2004-04-07",
+  "title": "2004 yılının ilk geçici vergi döneminin sonu itibarıyla enflasyon düzeltmesi yapmak için gerekli şartların oluşup oluşmadığı; 31.12.2003 tarihli bilançoların Vergi Usul Kanununun geçici 25 inci maddesine göre düzeltilip düzeltilmeyeceği veya 5024 sayılı K",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/837",
+  "source_sha256": "0f1aff84990aa9c351d4fe178ffdfaf4fd1a6802f951805997e95d55edda760f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
