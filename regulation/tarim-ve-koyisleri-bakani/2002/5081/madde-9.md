@@ -1,0 +1,1 @@
+Madde 9 - Önceki toplantıda kararlaştırılan gündem maddeleri yada başkan veya sekreterya tarafından belirlenen gündem maddeleri ile toplantı tarihi, toplantıdan en az 15 gün önce Hayvan Islahı Milli Komitesi üyelerine bildirilir.
