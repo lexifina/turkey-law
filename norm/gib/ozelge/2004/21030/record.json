@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4402-250/19368",
+  "source_id": 21030,
+  "date": "2004-05-03",
+  "title": "Oda Başkanlığına bağlı olarak faaliyet gösteren oda üyelerinden vergi mükellefleri olanlar dışında kalan ve hiçbir iş akdi ile başkalarına bağlı olmaksızın seyyar olarak kendi nam ve hesabına çalışmakta olan duvarcı, sıvacı, kalıpcı, demirci, karocu ve fa",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21030",
+  "source_sha256": "78958ec19afa2bb63813437444ccd08766756bb1760cea7a08f0670c726f841a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
