@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "40",
+  "label": "TBMM 40 no'lu Komisyon Raporu",
+  "title": "Türkiye ve Çekoslovakya Cumhuriyetleri arasında münakît ticaret mukavelenamesinin tasdikine mütedair Kanun",
+  "document_date": "1928-01-07",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 2, birleşim 28)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c002/tbmm03002028ss0040.pdf",
+  "pdf_sha256": "1ab7e423df49f971831b78aad8306905c0cf3e011a72af85b764def8ca75e302",
+  "pdf_bytes": 1114034,
+  "pdf_pages": 12,
+  "index_entries": [
+    120001
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=1&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1928-01-07",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
