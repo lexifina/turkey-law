@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 398071,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Kamu Personeli ile Emeklilerin Malî, Sosyal ve Diğer Haklarında Düzenlemeler Yapılmasına Dair Yetki Kanunu Tasarısına ilişkin",
+  "title": "Kamu Personeli ile Emeklilerin Malî, Sosyal ve Diğer Haklarında Düzenlemeler Yapılmasına Dair Yetki Kanunu Tasarısına ilişkin",
+  "first_sitting_date": "1996-08-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 87,
+      "sitting_date": "1996-08-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c009/tbmm20009087.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c009/tbmm20009fih.pdf",
+      "pages": [
+        "628:713",
+        "737:743"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "352346633578e8a546088f49cca7ac048a064ac777ea684d9990578e2d715b77",
+  "in_force": "1996-08-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
