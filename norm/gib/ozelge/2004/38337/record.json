@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1060 / 61410",
+  "source_id": 38337,
+  "date": "2004-12-21",
+  "title": "Sigorta şirketlerince bir aylık vergilendirme dönemi içinde iptal olunan sigorta muamelelerine ait meblağların o ay beyannamesinin vergi matrahından indirilmesi gerekmektedir. Vergilendirme döneminden sonra iptal edilen poliçelere ilişkin olarak daha önce",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38337",
+  "source_sha256": "5a1a5f9def8d6c713700a9ca2fda422842561c3f2b2b788a6c50643f0c024e8e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
