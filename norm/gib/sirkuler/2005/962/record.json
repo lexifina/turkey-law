@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-22/2005-1",
+  "source_id": 962,
+  "date": "2005-01-06",
+  "title": "Lehine mahsup talebinde bulunulan mükellefin mahsuba konu borcu ödenmediği sürece, iade hakkı sahibi mükellefin, mal ya da hizmet satın aldığı mükellefler lehine yaptığı mahsup talebinden vazgeçmesi ve bu tutarın kendisine nakden ödenmesini istemesi mümkü",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/962",
+  "source_sha256": "f537687802361445da5cc2a76201a84e77afa246eb4c5a4541b550c3619188e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
