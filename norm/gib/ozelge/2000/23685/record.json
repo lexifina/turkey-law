@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2928-236-82/24424",
+  "source_id": 23685,
+  "date": "2000-05-24",
+  "title": "Muayene ve teşhis yapmayan ve tedavi önermeyen sadece tıbbi laboratuvar işletmeciliği yapan doktorların , bu faaliyetleri şahsi mesaiden ziyade sermayeye dayanması ve ticari bir organizasyon çerçevesinde yapılması nedeniyle serbest meslek faaliyeti olarak",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/23685",
+  "source_sha256": "fec2d6fe4d922fb9cabea706667e3f3d2a56272bab4140b8708d8ae381ec767a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
