@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5428-1440/20712",
+  "source_id": 30031,
+  "date": "1997-05-20",
+  "title": "Devlet İhale Kanununun 71 ve 51. maddeler gereğince yapılan satışlar, müzayede satış kapsamına girmediğinden katma değer vergisine tabi bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30031",
+  "source_sha256": "6c285050e22fbfdc7b0abbcbe7a27cc1c807d266b800edeca6e21aa07073f957",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
