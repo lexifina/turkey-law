@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2427",
+  "year": 1934,
+  "title": "Dahilî istihlâk Vergisi Kanununun 29.5.1932 tarih ve 1994 numaralı kanun ile değiştirilen birinci maddesi yerine kaim kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-05-13",
+  "gazette_issue": "2699",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2699.pdf",
+  "source_sha256": "fe570e8a7ad5959673768575d59fc4f3bce867a9ace8e3bab24a5f330c44f3b5",
+  "text_sha256": "3d68f1e202d745a83e4ebb81cd4df2d014606c92b0d4b350a25e8bada784411d",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      131,
+      170
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302427.pdf",
+    "source_sha256": "59aaa78eefb2406450e6b24abd140f4eff4699622b8d5a86c0d75be6c0f63d3b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9244,
+    "bag": 0.9184,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9868,
+    "rg_words": 144,
+    "kd_words": 152,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
