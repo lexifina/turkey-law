@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5428-1884",
+  "source_id": 38032,
+  "date": "2005-01-13",
+  "title": "Şirketin imalatını yaptığı çeşitli ekmeklerin (Kepek, Tost, Ligt, Hamburger, Sandviç...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38032",
+  "source_sha256": "02a1907df962773ff1c9799c3fdcb7fa472e8d68e6a4f43a6f14c9655879d051",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
