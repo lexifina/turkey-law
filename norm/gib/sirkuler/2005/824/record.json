@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-17/2005-4/Enflasyon Düzeltmesi Uygulaması-11",
+  "source_id": 824,
+  "date": "2005-03-24",
+  "title": "213 sayılı Vergi Usul Kanununun geçici 25 ve mükerrer 298 inci maddelerine göre yapılacak enflasyon düzeltmesine ilişkin olarak açıklamalar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/824",
+  "source_sha256": "4729c9ae7159652f4224e401a8bfa1e4e94f628ed40d5215a311b889187edd97",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
