@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.O.32/3223-",
+  "source_id": 38505,
+  "date": "2003-06-18",
+  "title": "2000 takvim yılı kurumlar vergisi beyannamesinde zarar beyan eden ve beyannamesine dahil ettiği...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38505",
+  "source_sha256": "365301f167272ef9be7e1f3e851590118f849018687c941a3161576490994ef9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
