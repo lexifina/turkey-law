@@ -1,0 +1,124 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "402",
+  "year": 1964,
+  "title": "Türk parasının kıymetini koruma hakkındaki 1567 sayılı kanunun yürürlük süresinin uzatılmasına dair kanun",
+  "adopted": "1964-02-10",
+  "adopted_as_published": "10/02/1964",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.02.1964 No: 11639",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700402.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 47",
+  "committee_reports": [
+    {
+      "label": "MM 557 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025036ss0557.pdf"
+    },
+    {
+      "label": "CS 400no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c018/cs__03018043ss0400.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 347470,
+      "title": "Türk parasının kıymetini koruma hakkındaki 1567 sayılı kanunun yürürlük süresinin uzatılmasına dair kanun",
+      "adopted_as_published": "10/02/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700402.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 557 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025036ss0557.pdf"
+        },
+        {
+          "label": "CS 400no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c018/cs__03018043ss0400.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 17,
+          "sitting_date": "1963-12-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023fih.pdf",
+          "pages": [
+            "486"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 35,
+          "sitting_date": "1964-01-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025fih.pdf",
+          "pages": [
+            "151"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 36,
+          "sitting_date": "1964-01-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025fih.pdf",
+          "pages": [
+            "211:214"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2001&v_kullanici_id=27483225",
+      "page_sha256": "0190b5d3e712a47a9416ed66ca93fb48a7dc71af149d929697c5f08cf9e0b36c"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 162506,
+      "title": "Türk Parasının kıymetini koruma hakkındaki 1567 sayılı Kanunun yürürlük süresinin uzatılmasına dair Kanun",
+      "adopted_as_published": "10/02/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700402.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 557 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025036ss0557.pdf"
+        },
+        {
+          "label": "CS 400no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c018/cs__03018043ss0400.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 18,
+          "sitting": 43,
+          "sitting_date": "1964-02-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c018/cs__03018043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c018/cs__03018fih.pdf",
+          "pages": [
+            "1101:1103"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=401&v_kullanici_id=27483235",
+      "page_sha256": "b27864a2411d79e2f3620f821cf17fe5c23dbd74ad2aa8fabc8d647341892a48"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0190b5d3e712a47a9416ed66ca93fb48a7dc71af149d929697c5f08cf9e0b36c",
+  "issuer": "Millet Meclisi",
+  "in_force": "1964-02-10",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 10/02/1964; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
