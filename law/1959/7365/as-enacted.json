@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7365",
+  "year": 1959,
+  "title": "6834 sayılı Kanunun 7164 sayılı Kanunla tadil edilen muvakkat maddesinin değiştirilmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-07-29",
+  "gazette_issue": "10265",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10265.pdf",
+  "source_sha256": "d06bbdd871633eb5eac0b34a8b2f4fcef06b9682814827a4d5462c0849590956",
+  "text_sha256": "7f17144bc4e8f8c9babcb6f68ddd46a68c22792676347c591cf744c2eb60b7e9",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      42,
+      66
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107365.pdf",
+    "source_sha256": "603ccd674bb59a52616f67fc36f365df8b5493955c74e342822e753a1b1b1a2e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9725,
+    "bag": 0.922,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9452,
+    "rg_words": 72,
+    "kd_words": 73,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
