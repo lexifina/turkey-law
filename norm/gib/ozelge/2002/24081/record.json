@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4007-109/12998",
+  "source_id": 24081,
+  "date": "2002-03-26",
+  "title": "Tahvil ve Hazine Bonosu faizlerinin belli istisnalar ve indirimler uygulandıktan sonra çıkan sonuca göre yıllık beyanname ile beyan edilip edilmeyeceğinin tespit edilebileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24081",
+  "source_sha256": "2e3e02f2bdc6c314e2c3a29f9c2e67d5560766071406c8641ef6b3d41f3bd238",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
