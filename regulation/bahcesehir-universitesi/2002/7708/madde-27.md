@@ -1,0 +1,4 @@
+Öğretim Elemanları
+Madde 27 - Üniversitenin öğretim elemanları, öğretim üyeleri, öğretim görevlileri, okutmanları ve öğretim yardımcılarıdır.
+Öğretim elemanlarının nitelikleri Devlet yükseköğretim kurumlarındaki öğretim elemanlarının nitelikleriyle aynıdır. Devlet yükseköğretim kurumlarında çalışmaları yasaklanmış veya disiplin yoluyla bu kurumlardan çıkarılmış kişiler, vakıf yükseköğretim kurumlarında görev alamazlar. Üniversite öğretim elemanlarının seçiminde, Devlet tarafından kurulan yükseköğretim kurumlarındaki öğretim elemanlarının niteliklerine ek olarak akademik ve bilimsel yönden en üst düzeyde öğretim elemanlarının sağlanması amacıyla Mütevelli Heytince kabul edilecek diğer şartlarda aranır.
+Öğretim elemanlarının görevlerini yapmaları bölüm başkanı, enstitü ve yüksekokul müdürleri, dekan ve Rektör tarafından izlenir ve denetlenir.

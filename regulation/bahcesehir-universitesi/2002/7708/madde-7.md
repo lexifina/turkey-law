@@ -1,0 +1,3 @@
+Rektör Yardımcıları
+Madde 7 - Rektör, üniversitenin aylıklı profesörleri arasından, biri akademik işlerde görevli olmak üzere en çok üç kişiyi Rektör Yardımcısı olarak atar. Rektör yardımcılarının görev süreleri beş yıldır.
+Rektör, görev başında olmadığı zaman yardımcılarından birisini yerine vekil bırakır. Rektör görevi başından iki haftadan fazla uzaklaştığı takdirde Yükseköğretim Kuruluna bilgi verir. Rektörlüğün herhangi bir sebeple boşalması halinde, Mütevelli Heyet, Rektör yardımcılarından birini vekil olarak atar. Rektöre vekalet etme süresi en fazla altı ay olup bu süre sonunda yeni bir Rektör göreve atanır.
