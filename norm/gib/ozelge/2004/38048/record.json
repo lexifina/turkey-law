@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5309-395-40618",
+  "source_id": 38048,
+  "date": "2004-09-01",
+  "title": "Alt yüklenicilere devredilen işlerin tevkifata tabi olup olamdığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38048",
+  "source_sha256": "5859599d47a75963b046314cf602e00ba281faf2ea9126e9ca253fd2dc875ae9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
