@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/53l6-281",
+  "source_id": 38026,
+  "date": "2005-02-07",
+  "title": "Gümrük hizmetlerinin verildiği gümrüklü sahalarla ilgili hükümlerin uygulandığı mal teslimi ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38026",
+  "source_sha256": "dbd57f711a03911bcd1aa21f209b06b43af6f3b6c0698b51fb5e7bd686d6bb14",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
