@@ -1,0 +1,1 @@
+Madde 13 – Bar, kafeşantan ve meyhanelere 18 yaşından aşağı küçükleri kabul ve oturmalarına müsaade ettiği anlaşılan o yerleri işletenler hakkında da yukarıki madde mucibince kanuni takibat icra olunur.

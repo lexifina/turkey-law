@@ -1,0 +1,2 @@
+Madde 10 – Kız ve kadınların gazino, bar, kafeşantan ve bunlara benzer içki kullanılan yerlerle banyo, hamam ve plajlarda çalışabilmeleri o yerin en büyük mülkiye amirinin iznine bağlıdır. Yirmi bir yaşından küçük yaştaki kadın ve erkekler hiç bir suretle bu yerlerde çalıştırılamazlar.
+Sarhoşluğu intaç edecek şekilde içki vermiyen ve içkili eğlentiye müsaade etmiyen veya yalnız yemek arasında aperitif mahiyetinde müskirat veren lokantalarda çalışmak üzere yaşı yirmi birden küçük olmayan kadınların istihdamı caizdir.

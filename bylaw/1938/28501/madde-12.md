@@ -1,0 +1,1 @@
+Madde 12 – Bar, kafeşantan ve meyhanelere yanlarında veli ve vasileri olsa bile on sekiz yaşından aşağı küçüklerin girmelerini polis meneder buna muhalefet edenler, çocukların kanuni mümessilleri dahi olsa haklarında polisin kanun ve usul dairesinde verdiği emre itaatsizlikten dolayı kanuni takibat icra edilir.

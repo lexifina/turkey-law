@@ -1,0 +1,1 @@
+Madde 7 – Kanun hükümlerine göre parmak izleri ve fotoğrafları alınması icabeden kimseler, bunların aldırılmasına muhalefet ettikleri takdirde parmak izi ve fotoğrafları alınmakla beraber keyfiyet bir zabıt varakasile tesbit olunarak kanunun "17" nci maddesinin "A" fıkrasına göre haklarında takibat yapılır.

@@ -1,0 +1,1 @@
+Madde 22 – İstimdat veya yangın, su baskını, boğulma gibi büyük tehlikelerin haber verilmesi veya görülmesi halinde veya cezayı müstelzim bir suçun işlenmesine veya yapılmakta devam olunmasına mani olmak için polisin eve girmesi hallerinde ne maksatla girildiği ve hadisenin mahiyeti ve neticesi hakkında bir zabıt varakası tanzim olunarak salahiyetli mercie verilir.

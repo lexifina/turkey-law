@@ -1,0 +1,10 @@
+Madde 5 – Salahiyetli makam ve memurların gösterecekleri lüzum üzerine aşağıdaki fıkralarda yazılı hallerde parmak izi ve fotoğraf alınır:
+A) Polis veya jandarma tarafından Cumhuriyet Müddeiumumiliğine tahkikat evrakile birlikte veya dogrudan doğruya gönderilip mezkür makamca yapılan tahkikat neticesinde Türk Ceza Kanununa göre ağır hapis cezasını istilzam eden suçlarla ammenin itimadı ve mal aleyhine işlenmiş suçların maznun ve mahkümlarının ve serseri ve mazannaisu erbabının, "Ammenin itimadı aleyhine işlenen suçlar, kalpazanlık ve evrakı nakdiye sahtekarlığı, Devlete ait mühür ve damgalarla sair alametlerin taklidi, evrakta sahtekarlık, hüviyet cüzdanı ve nüfuz teskeresi, pasaport, ruhsatname, ilmühaber, şahadetname ve beyannamelerde sahtekarlık, ticaret ve sanayie ve müzayedeye hile ve fesat karıştırmak, mal aleyhine cürümler: Hırsızlık yağma ve yol kesmek ve adam kaldırmak, dolandırıcılık ve iflas, emniyeti suiistimal, eşyayı cürmiyeyi satın almak ve saklamak, hakkı olmayan yerlere tecavüz, nası izrar cürümleri".
+B) Her nevi kaçakçılığın maznun ve mahkümları,
+C) Yabancı memleketlerden Türkiyeye kaçanların,
+Ç) Ecnebilerden Türkiye'de ikamet edip de kanun dairesinde haklarında teb'it,tard ve ihraç muamelesi yapılanların,
+D) Türk vatandaşlığından düşürülenlerin,
+E) Kanunen salahiyettar mercilerin emir veya kararı ile memleket içinde bir yerden diğer yere nakledilenlerin,
+F) Hüviyetlerini, müsbit kağıtlarla veya sözlerine inanılacak kimselerin ifadelerile ispat edemiyenlerin,
+G) Fuhuşla veya fuhuş yüzünden bulaşan hastalıklarla mücadele nizamname ve talimatnameleri hükümlerine göre "Umumi ev sahibi", "Birleşme yeri sahibi" ve "Umumi kadın" adı verilenlerin ve itiyat sebebile veya menfaat kasdile kendilerini başkalarının zevkine terkedenlerin ve fuhşa vasıtalığı itiyat edenlerin, beyaz kadın ticaretile meşgul olanların, umumi kadın patronlarının,
+H) Cumhuriyet müddeiumumilikleri ve adli ve askeri mahkemelerce bir meselenin tetkik ve tahkiki için parmak izlerinin ve fotoğraflarının alınmasına lüzum gösterilen kimselerin.
