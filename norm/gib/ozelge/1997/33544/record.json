@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54-5417-1658/22700",
+  "source_id": 33544,
+  "date": "1997-06-02",
+  "title": "İnşaat taahhüt işleri kapsamında çimento, çakıl, kum ve suyun transmikserlerle karıştırılarak ve şantiyeye nakledilerek pompalarla daha önce hazırlanmış betonarme kalıplara basılması olan hazır beton işi için katma değer vergisi istisnası uygulanabilecekt",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33544",
+  "source_sha256": "4a4b5001310569f671a3c81ec291f0cc01e05d382f7eb1d995bc7bbf8800c77a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
