@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1774",
+  "year": 1931,
+  "title": "Maarif Vekâleti emrinde bulunan meslek mektepleri atelye ve satış evleri için tahsis olunacak mütedavil sermaye hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-03-26",
+  "gazette_issue": "1758",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1758.pdf",
+  "source_sha256": "9e819500681ba2daa852666fa5ef189a1ef96c7c2f8bf73ef16d91f89f84a12d",
+  "text_sha256": "185c99a3d96f529928810b2af0e04674bf07e32fe77b27c67d1ca0422823297b",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      785,
+      807
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901774.pdf",
+    "source_sha256": "3c352c7964ba5b016ca88624930667bd41701a7d467915184ae0bce2312f18b6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9116,
+    "bag": 0.8706,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9778,
+    "rg_words": 82,
+    "kd_words": 90,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
