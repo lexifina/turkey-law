@@ -1,0 +1,81 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 256857,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "2802 Sayılı Hâkimler ve Savcılar Kanunu, 2992 Sayılı Adalet Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun, 2461 Sayılı Hâkimler ve Savcılar Yüksek Kurulu Kanunu ile 190 ve 270 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Tasarısına İlişkin",
+  "title": "2802 Sayılı Hâkimler ve Savcılar Kanunu, 2992 Sayılı Adalet Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun, 2461 Sayılı Hâkimler ve Savcılar Yüksek Kurulu Kanunu ile 190 ve 270 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Tasarısına İlişkin",
+  "first_sitting_date": "1992-04-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 71,
+      "sitting_date": "1992-04-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c010/tbmm19010071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c010/tbmm19010fih.pdf",
+      "pages": [
+        "197:217"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 73,
+      "sitting_date": "1992-05-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c010/tbmm19010073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c010/tbmm19010fih.pdf",
+      "pages": [
+        "309:329",
+        "331:341"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 74,
+      "sitting_date": "1992-05-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c010/tbmm19010074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c010/tbmm19010fih.pdf",
+      "pages": [
+        "487:497"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 87,
+      "sitting_date": "1992-06-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c013/tbmm19013087.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c013/tbmm19013fih.pdf",
+      "pages": [
+        "427:428"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 88,
+      "sitting_date": "1992-06-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c014/tbmm19014088.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c014/tbmm19014fih.pdf",
+      "pages": [
+        "25:26",
+        "48:116"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "eee3d7df2545cdef274be30c839596701c6c1984448f92dd3d7dfd0abce5d7c5",
+  "in_force": "1992-04-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
