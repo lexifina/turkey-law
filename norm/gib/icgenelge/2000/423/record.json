@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2000/3",
+  "source_id": 423,
+  "date": "2000-06-01",
+  "title": "VERGİ USUL KANUNU İÇ GENELGESİ SIRA NO : 2000/3",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/icgenelge/423",
+  "source_sha256": "5950a3eec283838dc059a148b461616c3b96ba19bfd4df40eb71d1410373b9a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/434/icgenelge/422",
+        "quote": "01.06.2000 tarih ve 28/2880-5436/26518 sayılı ve 2000/3 sıra numaralı Vergi Usul Kanunu İç Genelgesinin 3 numaralı \""
+      }
+    ]
+  }
+}
