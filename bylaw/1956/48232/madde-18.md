@@ -1,0 +1,2 @@
+Aidatların kesilmesine esas olacak miktar:
+Madde 18 – Giriş aidatı ile aylık aidata esas, tevkifata bakılmaksızın aylık veya ücretin gayrisafi miktarıdır. Makam tahsisatı, muvakkat tazminat kasa tazminatı, yolluk, ikramiye, pirim, çocuk zammı, yakacak zammı harcırah yevmiyesi, fazla mesai ücreti gibi tediyeler tevkifata esas olan aylıklara ilave edilmez. Müktesep aylıklarından bir veya daha yukarı derecede uzmanlık aylığı veya kadro farkı ile aylık alanlardan giriş ve aylık aidatı bu aylıklar üzerinden hesaplanır.
