@@ -1,0 +1,77 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [],
+  "date_evidence": [
+    [
+      "1990-09-01",
+      "01.09.1990",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2002-12-26",
+      "RG-26/12/2002-24975",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-12-26",
+      "RG-26/12/2002-24975",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-12-26",
+      "RG-26/12/2002-24975",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-12-26",
+      "RG-26/12/2002-24975",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-12-26",
+      "RG-26/12/2002-24975",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-12-26",
+      "RG-26/12/2002-24975",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-12-26",
+      "RG-26/12/2002-24975",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-12-26",
+      "RG-26/12/2002-24975",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-26/12/2002-24975",
+  "first_law": null,
+  "gazette": "20622",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2002-12-26",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/1990/6715",
+  "published": "1990-09-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6715&MevzuatTertip=5",
+  "source_bytes": 24305,
+  "source_id": "8.5.6715",
+  "source_sha256": "184abd962e97c04db168b06edac63bf191f3c613fb93cd05c409c5b8945e96b5",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nÇEVRE UYGULAMA VE ARAŞTIRMA MERKEZİ\r\nYÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 784
+}
