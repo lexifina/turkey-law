@@ -1,0 +1,103 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 365079,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "RİFAT ÖZTÜRKÇİNE (CUMHURİYET SENATOSU İSTANBUL ÜYESİ)",
+  "summary": "Su ürünleri kanun teklifi (2/26)",
+  "title": "Su ürünleri kanun teklifi (2/26)",
+  "first_sitting_date": "1965-11-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 14,
+      "sitting_date": "1965-11-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001fih.pdf",
+      "pages": [
+        "380"
+      ]
+    },
+    {
+      "cilt": 2,
+      "sitting": 36,
+      "sitting_date": "1966-01-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002fih.pdf",
+      "pages": [
+        "420:421"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 59,
+      "sitting_date": "1967-02-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c013/mm__02013059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c013/mm__02013fih.pdf",
+      "pages": [
+        "579"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 33,
+      "sitting_date": "1968-01-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c024/mm__02024033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c024/mm__02024fih.pdf",
+      "pages": [
+        "4"
+      ]
+    },
+    {
+      "cilt": 36,
+      "sitting": 90,
+      "sitting_date": "1969-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036090.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036fih.pdf",
+      "pages": [
+        "292:315"
+      ]
+    },
+    {
+      "cilt": 36,
+      "sitting": 97,
+      "sitting_date": "1969-05-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036097.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036fih.pdf",
+      "pages": [
+        "599:639",
+        "642"
+      ]
+    },
+    {
+      "cilt": 36,
+      "sitting": 98,
+      "sitting_date": "1969-05-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036098.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036fih.pdf",
+      "pages": [
+        "657",
+        "788:791"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=3501&v_kullanici_id=27484893",
+  "source_sha256": "a407f49765cb79250f3a04b2fe51ec429602b1ff2b0df3c1d55630edbf97e079",
+  "in_force": "1965-11-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
