@@ -1,0 +1,180 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1833",
+  "year": 1974,
+  "title": "Yedek subay adaylarının kısa süreli askerlik hizmetine tabi tutulmasına ilişkin Kanun",
+  "adopted": "1974-07-10",
+  "adopted_as_published": "10/07/1974",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "25.07.1974 No: 14956",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/kanuntbmmc057/kanuntbmmc05701833.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 57",
+  "committee_reports": [
+    {
+      "label": "MM 58 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006094ss0058.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 438835,
+      "title": "Yedek subay adaylarının kısa süreli askerlik hizmetine tabi tutulmasına ilişkin Kanun",
+      "adopted_as_published": "10/07/1974",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/kanuntbmmc057/kanuntbmmc05701833.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 58 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006094ss0058.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 91,
+          "sitting_date": "1974-06-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006091.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 94,
+          "sitting_date": "1974-06-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006094.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006fih.pdf",
+          "pages": [
+            "76:90"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 95,
+          "sitting_date": "1974-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006fih.pdf",
+          "pages": [
+            "113:131"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=201&v_kullanici_id=27483225",
+      "page_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 323810,
+      "title": "Yedek Subay Adaylarını kısa süreli Askerlik Hizmetine tabi tutulmasına ilişkin Kanun.",
+      "adopted_as_published": "10/07/1974",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/kanuntbmmc057/kanuntbmmc05701833.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 58 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006094ss0058.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 17,
+          "sitting": 68,
+          "sitting_date": "1974-06-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017fih.pdf",
+          "pages": [
+            "135"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 70,
+          "sitting_date": "1974-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017fih.pdf",
+          "pages": [
+            "172",
+            "191:210"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 71,
+          "sitting_date": "1974-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017fih.pdf",
+          "pages": [
+            "230:256"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 73,
+          "sitting_date": "1974-07-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017fih.pdf",
+          "pages": [
+            "288:301"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 74,
+          "sitting_date": "1974-07-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017074.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017fih.pdf",
+          "pages": [
+            "311:325"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 75,
+          "sitting_date": "1974-07-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017fih.pdf",
+          "pages": [
+            "374:387",
+            "392:394"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 76,
+          "sitting_date": "1974-07-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017076.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017fih.pdf",
+          "pages": [
+            "416:425"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1801&v_kullanici_id=27483235",
+      "page_sha256": "0a870416ae325ef7c2b7383ddb74f9ce53a00b028164dfb225bb98530ce1a326"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1974-07-10",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 10/07/1974; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
