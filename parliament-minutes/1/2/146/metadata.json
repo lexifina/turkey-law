@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 1,
+  "term_label": "1. Dönem",
+  "legislative_year": 2,
+  "cilt": 16,
+  "sitting": 146,
+  "label": "146. Birleşim",
+  "sitting_date": "1922-01-17",
+  "date_as_published": "17 Ocak 1922",
+  "weekday": "Salı",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c016/tbmm01016146.pdf",
+  "old_script_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c016/ehttbmm01016146.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c016/tbmm01016fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d01&v_yasama_yili=2&v_cilt=",
+  "source_sha256": "9db418838cd122c7bc41c5c67aa3136972ff1c7fbd5299393e6bb48ff1c184f3",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
