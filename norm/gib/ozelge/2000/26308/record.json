@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2924-232-2363/29064",
+  "source_id": 26308,
+  "date": "2000-06-15",
+  "title": "31.07.1995 tarihinden sonra arızi kazanç elde eden müteahhitin belge düzenleme yükümlülüğünün bulunup bulunmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26308",
+  "source_sha256": "efb7d88dc1bc2335811a89b7ef90606946676048a3fd2a5dcf725f56b4cd0e7c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
