@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82604,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "NECDET YÜCER (ÇORUM)",
+  "summary": "Türkiye Enerji Kurumu hakkında (3/66)",
+  "title": "Türkiye Enerji Kurumu hakkında (3/66)",
+  "first_sitting_date": "1947-11-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 5,
+      "sitting_date": "1947-11-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c007/tbmm08007005.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c007/tbmm08007fih.pdf",
+      "pages": [
+        "72"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 62,
+      "sitting_date": "1949-03-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c017/tbmm08017062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c017/tbmm08017fih.pdf",
+      "pages": [
+        "153"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 73,
+      "sitting_date": "1949-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018fih.pdf",
+      "pages": [
+        "524"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 37,
+      "sitting_date": "1950-02-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024fih.pdf",
+      "pages": [
+        "3:8"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=265&v_gelecek_sayfa=101&v_kullanici_id=27484152",
+  "source_sha256": "212ed156472b974b03e9914d300965ddabdc488993ebc676ecc90f85dcbf28e6",
+  "in_force": "1947-11-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
