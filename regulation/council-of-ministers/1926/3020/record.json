@@ -1,0 +1,28 @@
+{
+  "source_id": "3.3.3020",
+  "kind": "regulation",
+  "register_kind": "Yönetmelik",
+  "title": "BÜYÜK VE ORTA ELÇİLERİN REİSİCUMHUR HAZRETLERİ TARAFINDAN SURETİ KABULLERİ VE SAİR TEŞRİFAT USULLERİ HAKKINDAKİ TALİMATNAME",
+  "number": "3020",
+  "issuer": "Bakanlar Kurulu",
+  "path": "regulation/council-of-ministers/1926/3020",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=3&MevzuatNo=3020&MevzuatTertip=3",
+  "source_sha256": "4e009fbce6bab4a0ecc607dcd17561a052a3585324c46c5c0d8d4727478855bc",
+  "source_bytes": 27923,
+  "published": "1926-01-17",
+  "enacted": "1926-01-17",
+  "gazette": "0",
+  "in_force": "1926-01-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.01.1926)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 853,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
