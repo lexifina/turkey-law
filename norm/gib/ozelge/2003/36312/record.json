@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2282/015419",
+  "source_id": 36312,
+  "date": "2003-04-09",
+  "title": "Sakatlara ivazsız bir şekilde intikal edecek mallar dolayısıyla veraset ve intikal vergisi aranılacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36312",
+  "source_sha256": "cc167cb7fe6ab93139711f67704ad398c2a7c9c1f321134ab66360af26a1a7bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
