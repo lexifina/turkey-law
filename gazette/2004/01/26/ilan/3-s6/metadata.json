@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-01-26",
+  "issue": "25358",
+  "edition": "regular",
+  "item": 6,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Türk Telekomünikasyon Anonim Şirketinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/01/20040126-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (9 = 9)",
+  "ilan_codes": [
+    "601/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/01/20040126-3.htm",
+  "category_page_sha256": "ee746478bca2e16fdaa4066a2a4685cd103459d5646a422a959dd69c1bfa1c09",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/01/20040126.htm",
+  "index_sha256": "8e35cecc4f0673bb3d9e277450cad08c56ed311b3c97e40936f4613c6386c747",
+  "index_header": "26 Ocak 2004 ... Sayı : 25358",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
