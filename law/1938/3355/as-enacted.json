@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3355",
+  "year": 1938,
+  "title": "Orman Umum Müdürlüğü 1937 malî yılı bütçesine (277 275) lira munzam tahsisat konulmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-04-19",
+  "gazette_issue": "3886",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3886.pdf",
+  "source_sha256": "fa14c2e2e0d1f331505a8c0e4ae03a490ad50640b49465ebbd6e7b1affe40584",
+  "text_sha256": "dc0f37eed06a2c5cd5f1ea323803d9cdc356dc75f63560d35b2a4e23fa793d10",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      78,
+      89
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1, 2] (no text layer)",
+    "tesseract_pages": [
+      1,
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803355.pdf",
+    "source_sha256": "5ce457a70e47fda7f67721d04a34dd33e96b410578f3ffe4d8b899880e7aaae1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9451,
+    "bag": 0.8644,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9661,
+    "rg_words": 61,
+    "kd_words": 59,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
