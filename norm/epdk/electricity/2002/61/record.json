@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "61",
+  "decision_date": "2002-10-15",
+  "title": "Otoprodüktör ve otoprodüktör grubu lisans sahibi tüzel kişilerin serbest rekabet ortamında satabilecekleri elektrik enerjisi miktarına ilişkin",
+  "resmi_gazete_date": "2002-10-22",
+  "resmi_gazete_number": "24914",
+  "categories": [
+    "Lisansa Kayıtlı Olan Yıllık Elektrik Enerjisi Üretim Miktarının Piyasada Satılabileceği Oranına İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=siCpVWl6jPM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=siCpVWl6jPM="
+  ],
+  "source_sha256": "56d798259ce8939e2073975db2fd33cab24cd7dc2cc780115150d98eb0f24a3c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33878,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2002-10-15",
+  "law_text_complete": false
+}
