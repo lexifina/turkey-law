@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4003-64/49680",
+  "source_id": 24094,
+  "date": "1999-11-15",
+  "title": "Kendi adına mevduat hesabından elde ettiği faiz gelirlerinin gerçekte Fransa'da işçi olarak çalışan oğullarına ait olması nedeniyle bu faiz gelirleri için beyanname verilip verilmeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/24094",
+  "source_sha256": "14d512aebbdfca6cd7e4fec7278958bff466d35400ecc33ce17a98c2a1b1cd04",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
