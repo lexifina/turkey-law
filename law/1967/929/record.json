@@ -1,0 +1,151 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "929",
+  "year": 1967,
+  "title": "Milletlerarası Adalet Divanı Statüsünün 36. maddesinin 2.fıkrasında derpiş olunan ve hukukî uyuşmazlıkların çözülmesi hususunda Divanın yargı hakkını önceden tanımayı gerektiren kayda katılmamız hakkındaki 5047 sayılı Kanunun yeniden uzatılmasına dair Kanun",
+  "adopted": "1967-07-27",
+  "adopted_as_published": "27/07/1967",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "11.08.1967 No: 12671",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000929.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 50",
+  "committee_reports": [
+    {
+      "label": "MM 304 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018117ss0304.pdf"
+    },
+    {
+      "label": "CS 987no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043096ss0987.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 362715,
+      "title": "Milletlerarası Adalet Divanı Statüsünün 36. maddesinin 2.fıkrasında derpiş olunan ve hukukî uyuşmazlıkların çözülmesi hususunda Divanın yargı hakkını önceden tanımayı gerektiren kayda katılmamız hakkındaki 5047 sayılı Kanunun yeniden uzatılmasına dair Kanun",
+      "adopted_as_published": "27/07/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000929.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 304 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018117ss0304.pdf"
+        },
+        {
+          "label": "CS 987no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043096ss0987.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 9,
+          "sitting": 11,
+          "sitting_date": "1966-11-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c009/mm__02009011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c009/mm__02009fih.pdf",
+          "pages": [
+            "239"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 114,
+          "sitting_date": "1967-06-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018114.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018fih.pdf",
+          "pages": [
+            "131"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 117,
+          "sitting_date": "1967-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018117.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018fih.pdf",
+          "pages": [
+            "438:439",
+            "469",
+            "522:525"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 121,
+          "sitting_date": "1967-06-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c019/mm__02019121.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c019/mm__02019fih.pdf",
+          "pages": [
+            "8:55",
+            "68:71"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1301&v_kullanici_id=27483225",
+      "page_sha256": "a0c56a410c6b9bd2d01af94b425ff2bc60047b4006abf95695e054a0443e1b05"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 305004,
+      "title": "Milletlerarası Adalet Divanı Statüsünün 36 ncı maddesinin 2 nci fıkrasında derpiş olunan ve hukukî uyuşmazlıkların çözülmesi hususunda Divanın yargı hakkını önceden tanımayı gerektiren ihtiyari kayda katılmamız hakkındaki 5047 sayılı Kanunun yeniden uzatılmasına dair Kanun",
+      "adopted_as_published": "27/07/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000929.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 304 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018117ss0304.pdf"
+        },
+        {
+          "label": "CS 987no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043096ss0987.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 41,
+          "sitting": 76,
+          "sitting_date": "1967-06-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c041/cs__06041076.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c041/cs__06041fih.pdf",
+          "pages": [
+            "342"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 96,
+          "sitting_date": "1967-07-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043096.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043fih.pdf",
+          "pages": [
+            "620:621",
+            "630:631",
+            "643:644"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=901&v_kullanici_id=27483235",
+      "page_sha256": "aee0a9dfc4179784061aa1d3efe77b3cab6f9c80a2c368824856f74134eaad87"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a0c56a410c6b9bd2d01af94b425ff2bc60047b4006abf95695e054a0443e1b05",
+  "issuer": "Millet Meclisi",
+  "in_force": "1967-07-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 27/07/1967; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
