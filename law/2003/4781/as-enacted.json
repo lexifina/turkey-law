@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4781",
+  "year": 2003,
+  "title": "Hakim ve Savcı Adayları Eğitim Merkezi Kuruluş ve Görevleri Hakkında Kanunun İki Maddesinin Yeniden Düzenlenmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-01-08",
+  "gazette_issue": "24987",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030108.htm",
+  "source_sha256": "3658a09b8496be655bc4f41caab5ad19c413360dd0691dc83a62c06abe1e78cf",
+  "text_sha256": "ee345a6d4049b7388e1781ffb071849526748807b10ee2bc766f2569f062e3c8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/01/08/24987-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030108.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
