@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.9611",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SERBEST MUHASEBECİ, SERBEST MUHASEBECİ MALİ MÜŞAVİR VE YEMİNLİ MALİ MÜŞAVİR ÜCRETLERİNİN ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "9611",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1990/9611",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9611&MevzuatTertip=5",
+  "source_sha256": "376b4ec64bf0131e50e67ff013eed1a94af93ba582ac09525b2f948a5df235d9",
+  "source_bytes": 32841,
+  "published": "1990-01-02",
+  "gazette": "20390",
+  "in_force": "1990-01-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.01.1990); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1344,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
