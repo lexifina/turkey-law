@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1447",
+  "year": 1929,
+  "title": "Menkul kıymetler ve kambiyo borsaları kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-05-30",
+  "gazette_issue": "1203",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1203.pdf",
+  "source_sha256": "00e093fc5ecf33168f2d98ae5c7d5ad0dda226800290b9c20c21a92f0bafca1e",
+  "text_sha256": "9717667a7f9721129c14ab83c6b51039f986dd5be2677b48ab73717d1b155a18",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      41,
+      645
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701447.pdf",
+    "source_sha256": "9f0eea092a3634be3ea50541cbeac1268fa119fdbb82702c34f0556a6219ead9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9736,
+    "bag": 0.9171,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.999,
+    "rg_words": 2104,
+    "kd_words": 2094,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
