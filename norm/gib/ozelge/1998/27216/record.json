@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.3026-354-63/ 35769",
+  "source_id": 27216,
+  "date": "1998-10-07",
+  "title": "İşyeri kapatma cezasının uygulanmasında gerek belgeyi düzenlemek zorunda olan gerekse adlarına belge düzenlenen mükellefler nezdinde yapılan tespitler dikkate alınmaktadır",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27216",
+  "source_sha256": "f76d433778f4b2a7590f9edae24f4c59886557bcae2242cf5cf9b0b8c65eecc7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
