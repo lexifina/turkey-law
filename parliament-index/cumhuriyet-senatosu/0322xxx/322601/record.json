@@ -1,0 +1,128 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 322601,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "TC Anayasasının 30, 57, 136, 138 ve 148. maddelerinin bazı fıkralarının değiştirilmesi ve 2 geçici madde eklenmesi hakkında 397 TBMM Üyesinin teklifi (M. Millet Meclisi:2/815; Cumhuriyet Senatosu: 2/46) (S. Sayısı: 225)",
+  "title": "TC Anayasasının 30, 57, 136, 138 ve 148. maddelerinin bazı fıkralarının değiştirilmesi ve 2 geçici madde eklenmesi hakkında 397 TBMM Üyesinin teklifi (M. Millet Meclisi:2/815; Cumhuriyet Senatosu: 2/46) (S. Sayısı: 225)",
+  "first_sitting_date": "1973-02-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 34,
+      "sitting_date": "1973-02-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c009/cs__12009034.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c009/cs__12009fih.pdf",
+      "pages": [
+        "698"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 34,
+      "sitting_date": "1973-02-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c009/cs__12009034.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c009/cs__12009fih.pdf",
+      "pages": [
+        "698"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 35,
+      "sitting_date": "1973-02-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 37,
+      "sitting_date": "1973-02-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010fih.pdf",
+      "pages": [
+        "22",
+        "61"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 38,
+      "sitting_date": "1973-02-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010fih.pdf",
+      "pages": [
+        "72:101",
+        "103:104"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 39,
+      "sitting_date": "1973-03-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010fih.pdf",
+      "pages": [
+        "109:158",
+        "160:164"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 40,
+      "sitting_date": "1973-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010fih.pdf",
+      "pages": [
+        "166",
+        "170:179",
+        "182:185:197"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 41,
+      "sitting_date": "1973-03-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010041.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010fih.pdf",
+      "pages": [
+        "202"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 44,
+      "sitting_date": "1973-03-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010044.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010fih.pdf",
+      "pages": [
+        "277:307",
+        "310:332"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=501&v_kullanici_id=27484924",
+  "source_sha256": "98417bc92fad03215cc7807f45d971b907d3ec9c3947c59efb5f4b18a66ed5e4",
+  "in_force": "1973-02-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
