@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-689/34147",
+  "source_id": 38254,
+  "date": "2002-08-09",
+  "title": "Enerji kaynaklarıyla çalışmaya elverişli olan ödeme kaydedici cihazların, taşıt araçlarında (cihazın mühürü sökülmeden ve içerisine müdahale edilmeden) aküye bağlayarak kullanmaları mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38254",
+  "source_sha256": "d3a8c21c2198ec3ae82e293b6df52f87d55e746e1ac49db7017672a64643e574",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
