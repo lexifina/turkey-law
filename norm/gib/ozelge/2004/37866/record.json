@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1380/6984",
+  "source_id": 37866,
+  "date": "2004-02-20",
+  "title": "İşletmeye dahil edilmeyen otomobile ait giderler ticari kazancın tespitinde indirim konusu olamaz.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37866",
+  "source_sha256": "774b7b9ef6153a597e049e1981400dc3092fc880892755cd381b52a88ce5076d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
