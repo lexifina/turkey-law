@@ -1,0 +1,1 @@
+Geçici Madde 2 - Bu Kanunun 35 inci maddesi hükümlerinin yürürlüğe gireceği tarihe kadar geçen sürede ikramiye ödemeleri ile ilgili olarak devam eden işlemler bu Kanunun yürürlüğe girmesinden önceki usul ve esaslara göre sonuçlandırılır.

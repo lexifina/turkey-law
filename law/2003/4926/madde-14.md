@@ -1,0 +1,4 @@
+Deniz taşıtları
+Madde 14 - Yabancı ülkelerden geldiği halde geçerli neden olmaksızın belgelerinin gösterdiği rota dışında Türkiye karasularında rastlanan gayrisafi ikiyüz tonilato hacminden aşağı taşıtların yüküne el konulur. Yükü bulunmadığı halde, yükü olmadığını veya başka bir limana çıkarıldığını veya avarya olduğunu kanıtlayamayan gemi kaptan veya acentesine tonilato başına ellimilyon lira para cezası uygulanır.
+Gümrük bölgesinde gümrük idaresi bulunmayan yerlere geçerli neden olmaksızın izinsiz yanaşan veya diğer taşıtlarla temas eden deniz taşıtları içinde bulunan yükleme veya taşıma belgelerinde kayıtlı yasak eşyaya el konularak tasfiyeye tâbi tutulur.
+Gümrük bölgesindeki deniz taşıtlarının yükleme veya taşıma belgelerinde yazılı olmayan ve bulunduğu yerden aranarak çıkarılan eşyaya el konularak tasfiyeye tâbi tutulur ve eşyanın gümrüklenmiş değerin iki katı para cezası uygulanır.

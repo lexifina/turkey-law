@@ -1,0 +1,5 @@
+Davaya müdahale
+Madde 29 - Kaçakçılığı önleme, izleme ve soruşturmakla görevli olanlar, bu Kanun kapsamına giren suçlara ilişkin tutanaklar ve soruşturma belgelerini bir müzekkere ile doğrudan yetkili ve görevli Cumhuriyet savcılığına gönderirler. Gümrük idareleri dışındaki idareler suçlara ilişkin tutanaklar ve soruşturma belgelerinin bir örneğini ilgili gümrük idaresine gönderirler. Gümrük idareleri bu müzekkerelerin verilmesi ile şahsî davacı veya müdahil sıfatını alırlar ve Ceza Muhakemeleri Usulü Kanununun bunlara verdiği hakları kullanabilirler.
+Bu Kanun kapsamına giren suçlarla ilgili kesinleşmiş mahkeme kararları İçişleri Bakanlığına bilgi amacıyla gönderilir.
+Soruşturmadan bilgisi olmadığı anlaşılan ilgili gümrük idarelerine, hazırlık soruşturması sırasında Cumhuriyet savcılıklarınca, yargılama sırasında mahkemelerce bilgi verilir.
+Kaçakçılık davalarına ilgili idarelerin müdahale etmemiş olması mahkemelerce kaçak eşyanın zoralımına ve sanık hakkında para cezası hükmedilmesine mani olmayıp bu cezalar aslî ceza ile birlikte re'sen karar altına alınır.

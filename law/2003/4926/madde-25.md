@@ -1,0 +1,2 @@
+Yurt dışına çıkış yasağı
+Madde 25 - Bu Kanun kapsamına giren suçlarda, şüpheli veya sanıkların yurt dışına çıkmalarının geçici olarak yasaklanmasına hazırlık soruşturması sırasında hâkim, yargılama safhasında ise mahkemece karar verilebilir. Ancak, gecikmesinde sakınca varsa o yer Cumhuriyet savcısı da şüphelilerin yurt dışına çıkmalarının geçici olarak yasaklanmasına karar verebilir. Bu karar derhal ve nihayet yirmidört saat içinde hâkimin onayına sunulur. Hâkim, kararını yirmidört saat içinde açıklar. Aksi halde savcılık kararı kendiliğinden yürürlükten kalkar.

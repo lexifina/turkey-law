@@ -1,0 +1,7 @@
+Silâh kullanma yetkisi
+Madde 18 - Gümrük bölgesine 4458 sayılı Gümrük Kanunu gereğince belirlenen kapı ve yollardan başka yerlerden girmek, çıkmak veya geçmek yasaktır.
+Bu yerlerde rastlanacak kişi ve her nevi taşıma araçları yetkili memurlar tarafından durdurulur ve kişilerin eşya, yük ve üzerleri ile varsa taşıma araçları aranır.
+"Dur" uyarısına uymayan kişiler için önce havaya ateş edilmek suretiyle uyarı yinelenir. Bu uyarıya da uyulmaz ise görevli memurlar durmaya zorlayacak şekilde silâh kullanmaya yetkilidir. Ancak, silâhla karşılığa yeltenilmesi veya meşru müdafaa durumuna düşülmesi hallerinde yetkili memurlar doğrudan hedefe ateş edebilir. Memurların silâh kullanmalarından dolayı haklarında soruşturma ve kovuşturma açılması halinde, bağlı bulunduğu kurum tarafından avukat sağlanır ve avukatlık ücreti kurumlarınca karşılanır.
+Demiryolu araçlarına ilişkin işlemler istasyonlardaki beklemeleri sırasında uygulanır.
+Kaçakçılığı önleme, izleme ve soruşturmakla yükümlü olanlar, gümrük bölgesindeki her nevi deniz araçlarına yanaşıp yük ve belgelerini incelemeye yetkilidir. Görevlilerin yanaşmasına izin vermeyerek kaçan veya kaçmaya teşebbüs eden her nevi deniz araçlarına uluslararası deniz işaretlerine göre telsiz, flama, mors ve benzeri işaretlerle durması ihtar olunur. Bu ihtara uymayan deniz araçlarına uyarı mahiyetinde ateş edilir. Buna da uymayıp kaçmaya devam ettiği takdirde durmaya zorlayacak şekilde üzerine ateş edilir.
+8549

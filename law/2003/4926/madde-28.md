@@ -1,0 +1,6 @@
+Para cezalarının tahsili ve müteselsil sorumluluk
+Madde 28 - Bu Kanunda belirtilen suçlardan dolayı hükmolunan para cezalarına ait ilam ilgili Cumhuriyet savcılığı tarafından re’sen ilgili gümrük idarelerine verilir. Bu ilamlarla gümrük komisyonlarınca verilip kesinleşen kararlara ilişkin para cezaları, düzenlenecek bir tebliğname ile ilgilisine tebliğ edilir. Tebliğ edilen para cezaları tebliğ tarihinden itibaren otuz gün içerisinde ödenir.
+Tebliğ tarihinden itibaren otuz gün içinde para cezaları ödenmediği veya bu süre içinde azamî haddi bir yılı ve taksit sayısı altıyı geçmemek kaydıyla taksitlendirme yapılmadığı veya taksitlendirme yapılıp da taksitlerden biri ödenmediği takdirde, ilamda yazılı para cezaları 647 sayılı Cezaların İnfazı Hakkında Kanuna göre hapse çevrilmek ve infaz edilmek üzere Cumhuriyet savcılığına geri gönderilir.
+Para cezasında; mahkûmun cezasını çektiği her gün için hürriyeti bağlayıcı cezaya çevrilen miktar indirildikten sonra geri kalan para ödenirse yerine geçen hürriyeti bağlayıcı ceza infaz edilmez.
+Cumhuriyet savcılığınca tahsil olunacak para cezaları ilgili idarelere verilir.
+Birlikte kaçakçılık yapanlardan veya kaçakçılığa yardım edenlerden alınacak para cezasının tahsilinde, bunlardan her biri müteselsilen sorumludur.

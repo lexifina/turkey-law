@@ -1,0 +1,5 @@
+Yolcular tarafından işlenen suçlar
+Madde 13 - Yolcuların, gümrük mevzuatına göre zatî ve hediyelik eşya kapsamı dışında olup beyanlarına aykırı olarak üzerlerinde veya eşyası arasında çıkan ya da başkasına ait olduğu halde kendi zatî eşyasıymış gibi gösterdikleri eşyanın vergisine ek olarak bir kat para cezası uygulanır ve eşya sahibine teslim edilir.
+Yolcuların yanlarında veya kaplarında bulunan ve yukarıdaki fıkra dışında kalan mahiyet ve miktarda olan eşya ile gümrükten kaçırılmak amacına yönelik olarak saklanmış veya gizlenmiş halde bulunan eşyaya ilişkin vergiler tahsil olunmakla birlikte eşyanın gümrüklenmiş değerinin iki katı kadar da para cezası alınarak eşya, sahibine teslim edilir.
+Yolcuların beraberinde getirilen ticarî mahiyet ve miktarda olan eşya için ithali lisansa, şarta veya izne, kısıntıya, standardizasyon kontrolüne veyahut belli kuruluşların vereceği uygunluk ve yeterlilik belgesine tâbi olan eşya hakkında 4 üncü maddenin (d) bendi hükümleri uygulanır.
+Türkiye'ye giren veya Türkiye'den çıkan yolcuların üzerlerinde veya eşyaları arasında yasak eşya bulunması halinde 4 üncü maddenin (b) bendinde belirtilen cezalar uygulanır.
