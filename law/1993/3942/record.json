@@ -1,0 +1,253 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3942",
+  "year": 1993,
+  "title": "1992 Malî Yılı Kesinhesap Kanunu",
+  "adopted": "1993-12-24",
+  "adopted_as_published": "24/12/1993",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.01.1994 No: 21810 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703942.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 77",
+  "committee_reports": [
+    {
+      "label": "TBMM 397 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c046/tbmm19046038ss0397.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 268565,
+      "title": "1992 Malî Yılı Kesinhesap Kanunu",
+      "adopted_as_published": "24/12/1993",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703942.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 397 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c046/tbmm19046038ss0397.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 39,
+          "sitting": 1,
+          "sitting_date": "1993-09-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c039/tbmm19039001.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c039/tbmm19039fih.pdf",
+          "pages": [
+            "16"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 37,
+          "sitting_date": "1993-12-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c045/tbmm19045037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c045/tbmm19045fih.pdf",
+          "pages": [
+            "325"
+          ]
+        },
+        {
+          "cilt": 46,
+          "sitting": 38,
+          "sitting_date": "1993-12-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c046/tbmm19046038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c046/tbmm19046fih.pdf",
+          "pages": [
+            "6",
+            "116"
+          ]
+        },
+        {
+          "cilt": 47,
+          "sitting": 39,
+          "sitting_date": "1993-12-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c047/tbmm19047039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c047/tbmm19047fih.pdf",
+          "pages": [
+            "12:126"
+          ]
+        },
+        {
+          "cilt": 47,
+          "sitting": 40,
+          "sitting_date": "1993-12-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c047/tbmm19047040.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c047/tbmm19047fih.pdf",
+          "pages": [
+            "147:253"
+          ]
+        },
+        {
+          "cilt": 47,
+          "sitting": 41,
+          "sitting_date": "1993-12-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c047/tbmm19047041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c047/tbmm19047fih.pdf",
+          "pages": [
+            "268:380"
+          ]
+        },
+        {
+          "cilt": 47,
+          "sitting": 42,
+          "sitting_date": "1993-12-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c047/tbmm19047042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c047/tbmm19047fih.pdf",
+          "pages": [
+            "387:488"
+          ]
+        },
+        {
+          "cilt": 47,
+          "sitting": 43,
+          "sitting_date": "1993-12-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c047/tbmm19047043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c047/tbmm19047fih.pdf",
+          "pages": [
+            "495:602"
+          ]
+        },
+        {
+          "cilt": 47,
+          "sitting": 44,
+          "sitting_date": "1993-12-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c047/tbmm19047044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c047/tbmm19047fih.pdf",
+          "pages": [
+            "645:765"
+          ]
+        },
+        {
+          "cilt": 48,
+          "sitting": 45,
+          "sitting_date": "1993-12-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c048/tbmm19048045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c048/tbmm19048fih.pdf",
+          "pages": [
+            "5:97"
+          ]
+        },
+        {
+          "cilt": 48,
+          "sitting": 46,
+          "sitting_date": "1993-12-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c048/tbmm19048046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c048/tbmm19048fih.pdf",
+          "pages": [
+            "111:222"
+          ]
+        },
+        {
+          "cilt": 48,
+          "sitting": 48,
+          "sitting_date": "1993-12-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c048/tbmm19048048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c048/tbmm19048fih.pdf",
+          "pages": [
+            "416:497"
+          ]
+        },
+        {
+          "cilt": 48,
+          "sitting": 49,
+          "sitting_date": "1993-12-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c048/tbmm19048049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c048/tbmm19048fih.pdf",
+          "pages": [
+            "504:611"
+          ]
+        },
+        {
+          "cilt": 48,
+          "sitting": 50,
+          "sitting_date": "1993-12-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c048/tbmm19048050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c048/tbmm19048fih.pdf",
+          "pages": [
+            "660:770"
+          ]
+        },
+        {
+          "cilt": 49,
+          "sitting": 51,
+          "sitting_date": "1993-12-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c049/tbmm19049051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c049/tbmm19049fih.pdf",
+          "pages": [
+            "10",
+            "43:169"
+          ]
+        },
+        {
+          "cilt": 49,
+          "sitting": 52,
+          "sitting_date": "1993-12-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c049/tbmm19049052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c049/tbmm19049fih.pdf",
+          "pages": [
+            "270:346"
+          ]
+        },
+        {
+          "cilt": 49,
+          "sitting": 53,
+          "sitting_date": "1993-12-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c049/tbmm19049053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c049/tbmm19049fih.pdf",
+          "pages": [
+            "388:419",
+            "421:476"
+          ]
+        },
+        {
+          "cilt": 49,
+          "sitting": 54,
+          "sitting_date": "1993-12-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c049/tbmm19049054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c049/tbmm19049fih.pdf",
+          "pages": [
+            "536:630",
+            "633:636",
+            "638:640",
+            "646:751"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=101&v_kullanici_id=27483194",
+      "page_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1",
+  "issuer": "TBMM",
+  "in_force": "1993-12-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 24/12/1993; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
