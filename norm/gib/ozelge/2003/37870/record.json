@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4010-146/28517",
+  "source_id": 37870,
+  "date": "2003-07-03",
+  "title": "Vergi Barışı Kanunu kapsamında asgari matrah artırımı tutarları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37870",
+  "source_sha256": "80940ab4a6b3887e0202318ede35ca17e18aaa0ece5d618962c363408969c8d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
