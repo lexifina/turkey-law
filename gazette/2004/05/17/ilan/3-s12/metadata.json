@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-05-17",
+  "issue": "25465",
+  "edition": "regular",
+  "item": 12,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Sümer Holding Anonim Şirketinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/05/20040517-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (14 = 14)",
+  "ilan_codes": [
+    "6028/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/05/20040517-3.htm",
+  "category_page_sha256": "9bc49f55a16570dd3ca51235a151c479a43551720cb2b874065227beaa4b29d1",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/05/20040517.htm",
+  "index_sha256": "d17146645d2b5e2227ce0a2dd301a7619ff1d5badaa984b653ad9ccfeca81515",
+  "index_header": "17 Mayıs 2004 ... Sayı : 25465",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
