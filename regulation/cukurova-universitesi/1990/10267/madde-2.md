@@ -1,0 +1,2 @@
+Amaç ve Kapsam
+Madde2- Çukurova Üniversitesinin Yabancı Dil ağırlıklı programlarına kaydolan öğrencilerin, Yabancı Dil bilgilerini, gerek yabancı dilde verilecek dersleri anlayabilecek, gerekse bilimsel ve teknolojik gelişmeleri bu yabancı dildeki yayınlardan izleyebilecek, uluslararası toplantı ve tartışmalara da katkıda bulunabilecek düzeye getirmek, ayrıca yabancı dil eğitim ve öğretimini geliştirme konusunda araştırmalar yapmak ve elde edilen sonuçları uygulamaya koymaktır.

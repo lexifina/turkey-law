@@ -1,0 +1,2 @@
+Merkez Kurulu
+Madde 6- YADİM Merkez Kurulu; Merkez Müdürü, Müdür Yardımcıları, birim koordinatörleri (Malzeme Üretme, Sınav Hazırlama, Hizmet İçi Eğitim ve Program Yapma v.b.) ve Merkezce yürütülen dil programlarında öğrencileri olan Fakülte ve Enstitülerde görevli bulunan öğretim üyelerinden, Merkez Müdürünce önerilen ve Rektörce onaylanan üyelerden oluşur. Merkez Müdürünce önerilen ve Rektörce onaylanan üyelerden oluşur. Merkez Kurulu yılda bir defa veya en çok iki defa toplanır.

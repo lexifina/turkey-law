@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 9- Bu Yönetmelik, Resmi Gazete’de yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1990-10-31",
+      "31.10.1990",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 9- Bu Yönetmelik, Resmi Gazete’de yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "20681",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1990-10-31",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Çukurova Üniversitesi",
+  "issuer_slug": "cukurova-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/cukurova-universitesi/1990/10267",
+  "published": "1990-10-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10267&MevzuatTertip=5",
+  "source_bytes": 22748,
+  "source_id": "8.5.10267",
+  "source_sha256": "6568c954511907394ebf04b2fa3bdfecf9af0e10b263030a9805334b49b697bb",
+  "text_status": "as-enacted",
+  "title": "ÇUKUROVA ÜNİVERSİTESİ YABANCI DİLLER ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 187,
+  "word_count": 436
+}
