@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07 .0.GEL.0.60/6000-2l96/33872",
+  "source_id": 36371,
+  "date": "2000-07-17",
+  "title": "Kuru mülkiyetin intifa hakkı sahibine veraset yoluyla intikalinde istisna uygulanıp uygulanmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36371",
+  "source_sha256": "dd75222d2208c05f7bb4cee3b663f4151fbdb7b110d11147572ddf616d45157b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
