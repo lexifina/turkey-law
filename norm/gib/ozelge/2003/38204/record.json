@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6377",
+  "source_id": 38204,
+  "date": "2003-12-17",
+  "title": "Gayrimenkul ve ayni hakların alım-satımı işlemlerinde ödenmesi gereken harçlar hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38204",
+  "source_sha256": "60146bb2c07681b9458484bba52b1fccc664c87337de27890149262927531842",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
