@@ -1,0 +1,106 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 113283,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "1934 senesi Muvazenei Umumiye Kanunu hakkında",
+  "title": "1934 senesi Muvazenei Umumiye Kanunu hakkında",
+  "first_sitting_date": "1934-03-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 21,
+      "sitting_date": "1934-03-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020021.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 54,
+      "sitting_date": "1934-05-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022054.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022fih.pdf",
+      "pages": [
+        "180"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 57,
+      "sitting_date": "1934-05-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022057.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022fih.pdf",
+      "pages": [
+        "244",
+        "278"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 58,
+      "sitting_date": "1934-05-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022fih.pdf",
+      "pages": [
+        "308:308",
+        "328"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 59,
+      "sitting_date": "1934-05-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022fih.pdf",
+      "pages": [
+        "380"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 60,
+      "sitting_date": "1934-05-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022fih.pdf",
+      "pages": [
+        "431"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 61,
+      "sitting_date": "1934-05-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022fih.pdf",
+      "pages": [
+        "484:485",
+        "490",
+        "497",
+        "506:508"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1296&v_gelecek_sayfa=701&v_kullanici_id=27483843",
+  "source_sha256": "0ebe0b301bf629486383a2d385ae8c9021c5eda2d9af44a546528b0eddf29296",
+  "in_force": "1934-03-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
