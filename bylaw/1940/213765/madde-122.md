@@ -1,0 +1,1 @@
+Madde 122 – Milli Müdafaa mükellefiyeti hakkında 3634 sayılı kanunun 4, 10, 36, 41 ve 75 inci maddelerine göre hazırlanmış ve Devlet Şürasınca tetkik edilmiş olan bu Nizamname hükümleri Resmi Gazete'de basıldığının ertesi gününden itibaren yürümeğe başlar.

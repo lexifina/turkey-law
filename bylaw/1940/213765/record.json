@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": null,
+  "date_quote": "24/12/1942 9/4/1945 22/6/2002 | 2/19214 3/2397 2002/4222 | - - - | 6/1/1942 21/4/1945 16/6/2002",
+  "first_law": null,
+  "gazette": "4546",
+  "history": "current-text",
+  "images": {
+    "deferred": 10,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 10
+  },
+  "in_force": "2002-06-16",
+  "in_force_basis": "latest source-printed amendment commencement or Resmi Gazete date (current consolidated text)",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1940-06-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=213765&MevzuatTertip=3",
+  "source_bytes": 211730,
+  "source_id": "2.3.213765",
+  "source_sha256": "d1e7347a5508b1111e632a6c11203c7c924825b61b59a547554393aaa699e075",
+  "source_type": "Tüzükler",
+  "title": "MİLLİ MÜDAFAA MÜKELEFİYETİ NİZAMNAMESİ",
+  "word_count": 9006
+}

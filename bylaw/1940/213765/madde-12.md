@@ -1,0 +1,1 @@
+Madde 12 – Mükellefiyet emrini hamil bir müfreze komutanı emrindeki kıtanın iaşesini gittiği mahalde mükellefiyet yoliyle temin zaruretinde kalırsa aldığı erzakın kaç günlük olduğunu ve nizami istihkakın neden ibaret bulunduğunu vereceği mükellefiyet karnesine yazar.

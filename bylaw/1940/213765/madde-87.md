@@ -1,0 +1,1 @@
+Madde 87 – Müfreze komutanları kıtalarına refakat eden kılavuz, sai, sürücü gibi şahsi mükellefleri ve bunların hayvanlarını, bedelleri alacakları tazminattan mahsup edilmek üzere, kıta eratı ve hayvanları gibi iaşe eder.

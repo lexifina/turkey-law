@@ -1,0 +1,1 @@
+Madde 108 – Teslimat Milli Müdafaa Vekaleti tarafından tayin olunan tesellüm heyetlerine yapılır. Bu memurlar kömürlerin gerek evsafını ve gerek miktarını tetkik etmek hak ve vazifesiyle mükelleftirler. Madenleri işletenler bu kömürlerin sevkiyatını temin etmek için bütün levazım, vesait, eşhas ve müstahdemleri ile muavenet etmeğe mecburdurlar.

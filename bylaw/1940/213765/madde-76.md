@@ -1,0 +1,2 @@
+Madde 76 – Gebelikleri takip raporiyle anlaşılanlara, (Mükellefiyetten muvakkat geri kalma) vesikası verilir.
+Alameti aşikar olmadığı halde gebelik iddiasında bulunan kadınlar mümkünse mütehassıslar tarafından muayene edilerek alınacak raporlara göre muameleye tabi tutulurlar. Mütehassıs bulunmayan yerlerde tabip raporiyle bu gibiler üç ayı geçmemek üzere mükellefiyetten geri bırakılabilirler. Üç ay bitiminde kati raporu verirler.

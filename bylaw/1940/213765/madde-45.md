@@ -1,0 +1,1 @@
+Madde 45 – Tahrir bittikten sonratahrir cetvellerinin altı tahrir heyetleri tarafından mazbata halinde tasdik edilir. Tahrir cetvelleri Milli Müdafaa mükellefiyeti komisyonu azaları tarafından dahi mazbata halinde tasdik edildikten sonra M.M. mükellefiyeti komisyonundaki kütük defterine geçirilir.

@@ -1,0 +1,1 @@
+Madde 111 – Mükellefiyet emrinde müessesenin kabiliyetine göre askeri ihtiyaçları temin etmesi lüzumu ve mükellefiyet konan mevad ve eşya ile bunların mahiyet ve evsafı ve teslim edilecek miktar ve teslim zamanı yazılır.

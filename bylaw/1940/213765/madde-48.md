@@ -1,0 +1,1 @@
+Madde 48 – Köylerde ve belediye teşkilatı olmayan yerlerde ihtiyar heyetleri ve belediye teşkilatı olan yerlerde kanunun 27 nci maddesinde yazılı belediye memurları, mıntakalarında bulunan nakil vasıtalarının nümunesine göre bir kütük defterini tutarlar ve değişiklikleri bu defterini tutarlar ve değişiklikleri bu defterin mahsus hanelerine işaret ederler.

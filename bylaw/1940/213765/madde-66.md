@@ -1,0 +1,1 @@
+Madde 66 – Bundan evvelki maddede yazılı olan beyannameyi vermekten komutan imtina ederse mal sahibi, bulunmadığı takdirde kafile başı, hasarın vuku bulduğu mahallin Milli Müdafaa Mükellefiyet Komisyonuna veyahut salahiyetli mahkemeye derhal müracaat ederek zarar ve hasarın sebeplerini ve miktarını tesbit ettirir.

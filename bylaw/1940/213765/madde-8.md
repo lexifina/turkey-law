@@ -1,0 +1,1 @@
+Madde 8 – Milli Müdafaa Mükellefiyeti Komisyonu bulunmıyan yerlerde mükellefiyetin acele tatbikına zaruret hasıl olup da usulü dairesinde Komisyona müracaata imkan olmıyan haller müstesna olmak üzere mükellefiyet emirleri daima Milli Müdafaa Mükellefiyeti Komisyonlarına hitaben verilir.

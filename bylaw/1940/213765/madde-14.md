@@ -1,0 +1,1 @@
+Madde 14 – Kısmi veya umumi seferberlik haline münhasır ve müstesna olarak, Milli Müdafaa Mükellefiyeti Kanununun 9 uncu maddesindeki şerait altında, bir deniz kuvvetine veya hali infiradda bir harb gemisine komuta eder, her denizsubayı gemisine ve maiyetindeki insanlara kati surette lüzumlu olan ihtiyaçlarım ükellefiyet yoliyle tedarik edebilir.

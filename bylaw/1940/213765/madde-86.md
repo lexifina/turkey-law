@@ -1,0 +1,1 @@
+Madde 86 – Pasif koruma teşkilleri ile Devlet, Vilayet ve belediyelere ait amme hizmetlerinde, memleket müdafaasına, ordu ve halkın zaruri ihtiyaçlarını temine yarayan resmi ve hususi müesseselerde, vazifeli bulunan kadın ve askerlik çağı dışı erkeklere vazifelerine halel gelmemek şartiyle Milli Müdafaa mükellefiyetine ait hizmetler de verilebilir.

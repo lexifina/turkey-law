@@ -1,0 +1,5 @@
+Madde 37 – Hayvan Sağlık Zabıtası Kanununun tesbit ettiği hastalıklardan, beygir, katır ve eşeklerde ruam ve marazı cima ile malül bulunanlar tahrir edilmez ve orduya alınmazlar. Mahalli hükümete ihbar edilirler.
+Lenfanjit, gurm, uyuz, piroplazmoz, şarbon ile malül bulunanlar tahrir olunurlar. Şifayab olduktan ve karantine müddetini ikmal ettikten sonra orduya alınırlar.
+Çift tırnaklı hayvanlardan sığır ve mandalarda: sari sıktı cenin veya tederrün ile malül bulunanlar tahrir edilmez ve orduya alınmazlar. Mahalli hükümete ihbar edilirler. Hummai kulai "Şap", şarbon, arazi cemre, sari muhiti zatürrie, piroplazmoz, pastörelloz, uyuz veya barbon ile malül bulunanlar tahrir edilirler. Şifayap olduktan ve karantine müddetini ikmal ettikten sonra orduya alınırlar.
+Develerde: Çiçek ve uyuz ile malül olanlar tahrir olunurlar. Şifayap olduktan ve karantine müddetini ikmal ettikten sonra orduya alınırlar.
+Kuduza musap olan hiç bir nevi ve cins hayvan tahrir edilmez ve orduya alınmaz. Mahalli hükümete ihbar edilir.

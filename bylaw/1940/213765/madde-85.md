@@ -1,0 +1,1 @@
+Madde 85 – Şahsi mükellefiyete tabi tutulacak kimselerin hazardan tesbit ve tasnifi ve icabında celp ve sevki Milli Müdafaa Mükellefiyeti Komisyonlarının vazifeleri cümlesindendir. Seferberlik müdür veya memuru bulunan yerlerde büro ve yazı işlerini bunlar tanzim ve idare ederler.

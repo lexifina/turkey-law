@@ -1,0 +1,4 @@
+Madde 43 – Bütün nakil vasıtaları tahrir edilirken şu esaslar göz önünde tutulur:
+1 - Bir köy veya mahalledeki nakil vasıtalarından her şahsa ait olan nakil vasıtaları bir arada yazılır.
+2 - Motörlü nakil vasıtaları cins ve markalariyle arabalar cins ve vasıflariyle, beygirler ve katırlar cins, hizmet ve eşkalile, manda, öküz ve eşeklerle deve ve taylar adeden deftere geçirilir. Top çeken öküz ve mandalar ayrıca eşkalile yazılır.
+3 - (Değişik: 20/5/2002-2002/4222K.) Tahrir cetveline evvela en çok nakil vasıtasına sahip olanlar ve sonra sırasıyla daha az vasıtaya sahip olanlar kaydedilir. Milli müdafaa mükellefiyeti komisyonundaki deftere de bu sıra ile geçirilir. Seferberlik ve savaş hali ile bu hallerin henüz ilan edilmemiş olduğu ancak savaşı gerektirebilecek bir durumun meydana geldiği gerginlik ve kriz dönemlerinde de mükellefiyet bu sıra üzerinden tatbik edilir.

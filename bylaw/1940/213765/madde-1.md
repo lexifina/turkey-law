@@ -1,0 +1,3 @@
+Umumi hükümler
+Madde 1 – (Değişik birinci fıkra: 20/5/2002-2002/4222 K.) Seferberlik ve savaş hali ile bu hallerin henüz ilan edilmemiş olduğu ancak savaşı gerektirebilecek bir durumun meydana geldiği gerginlik ve kriz dönemlerinde yapılacak seferberlik hazırlıkları ile kıtaların toplanması esnasında, alelade vasıtalarla temin edilemeyen bütün askeri ihtiyaçları veya hizmetleri, 7/6/1939 tarihli ve 3634 sayılı Milli Müdafaa Mükellefiyeti Kanunu ile bu Tüzük hükümleri dairesinde vermeye veya yapmaya her şahıs borçludur.
+Milli Müdafaa mükellefiyetinin tatbikına başlanacağı ve nihayet bulduğu tarihler ve bu mükellefiyetin tatbik sahası İcra Vekilleri Heyeti karariyle tayin ve ilan olunur.

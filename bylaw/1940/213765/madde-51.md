@@ -1,0 +1,1 @@
+Madde 51 – Her köy ve mahalleden alınacak nakil vasıtaları miktarı tesbitedildikten sonra kütük defterlerindeki sıra numarasına göre lüzumu kadar nakil vasıtasına mükellefiyet tatbik edilir. Mükellefiyet tatbik edilecek nakil vasıtaları için nümunesine göre her şahıs namına bir (Vesait celp pusulası) ve her köy için de bir (Getir emri) doldurulur.

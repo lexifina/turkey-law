@@ -1,0 +1,1 @@
+Madde 80 – Kadınlar kendi köy, kasaba ve şehir sınırları içinde çalıştırılır. Ancak kendi ve saitiyle beraber nakliye işlerinde çalışmak arzusunda bulunanlar memleket içi mıntakasındaki geri hizmetlerinde kullanılabilirler.
