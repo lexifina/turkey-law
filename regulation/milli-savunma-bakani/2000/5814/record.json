@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.5814",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DENİZLERDE VE YURT YÜZEYİNDE GÖRÜLEN PATLAYICI MADDE VE ŞÜPHELİ CİSİMLERE UYGULANACAK ESASLARA İLİŞKİN YÖNETMELİK",
+  "number": "5814",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2000/5814",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5814&MevzuatTertip=5",
+  "source_sha256": "64b41364ac8c9108ea4490ef0cb523e90855b8cc7072c3384500d85156689dad",
+  "source_bytes": 98131,
+  "published": "2000-11-04",
+  "gazette": "24220",
+  "in_force": "2000-11-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.11.2000); own commencement article: \"bu Yönetmelik, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2199,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

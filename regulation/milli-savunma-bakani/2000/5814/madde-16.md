@@ -1,0 +1,2 @@
+Giderler
+Madde 16 — 24/2/2000 tarihli ve 4536 sayılı Denizlerde ve Yurt Yüzeyinde Görülen Patlayıcı Madde ve Şüpheli Cisimlere Uygulanacak Esaslara İlişkin Kanun uyarınca patlayıcı madde ve şüpheli cisimlerin tespiti, muhafazası, nakli, imha edilmesi, zararsız hale getirilmesi veya incelenmesi için yapılacak her çeşit gider, verilecek ücret, yolluk ve tazminatlar; Millî Savunma ve İçişleri Bakanlıkları bütçelerinden ödenir.

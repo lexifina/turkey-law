@@ -1,0 +1,8 @@
+Tanımlar
+Madde 3 — Bu Yönetmelikte geçen deyimlerden;
+a) Patlayıcı Madde : Harp maksatları için kullanılan bütün patlayıcıları, silâh sevk sistemlerini, patlayıcı ihtiva eden ordu ordudonatım malzemelerini, nükleer silâhları ve kimyasal maddeleri de içeren; uçak bombaları, harp başlıkları, güdümlü ve balistik füzeler, el bombaları, roketatar, ağır silâh mühimmatları, mayınlar, el yapımı geliştirilmiş patlayıcı madde ve düzenler ile bombalar, torpidolar, su bombaları, tahrip kalıpları, payroteknik malzemeler, kesici veya sevk ediciler, elektronik patlayıcılar ile benzer şekilde patlama sonucu kişide ölüm veya yaralanma, teçhizat ve binalarda hasara sebep olabilecek her türlü maddeleri,
+b) Şüpheli Cisim : İçinde patlayıcı madde ihtiva ettiği zannedilen, bulundukları çevrede tehdit oluşturan veya ne oldukları bilinmeyen cisimleri,
+c) Zararsız Hale Getirme : Bir patlayıcı madde veya şüpheli cismin oluşturduğu tehdidin ortadan kaldırılmasını,
+d) Patlayıcı Maddeleri Zararsız Hale Getirme Personeli : Patlayıcı maddeleri zararsız hale getirme konusunda gerekli eğitimi almış, diploma veya sertifikası ilgili eğitim kurumu veya komutanlık tarafından onaylanmış ve bu konuda görevlendirilmiş personeli,
+e) El Yapımı Geliştirilmiş Patlayıcı Madde ve Düzenler İle Bombalar : Öldürmek, tahrip etmek, zarar vermek, şeklini bozmak, ilgiyi başka yere çekmek, taciz etmek için standart dışı olup, elde mevcut veya temin edilebilen askerî, ticarî, sanayi ziraî veya tıbbî amaçla imal edilmiş malzemelerin amacı dışında el ile veya başka usullerle bir araya getirilmesi ve yerleştirilmesi ile yapılmış patlayıcı düzenekleri,
+ifade eder.

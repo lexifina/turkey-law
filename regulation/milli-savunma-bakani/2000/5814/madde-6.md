@@ -1,0 +1,2 @@
+Kıyılarımızda Görülen Cisimler
+Madde 6 — Kıyılarımızda görülen veya bulunan patlayıcı maddeleri, şüpheli cisimleri, gören veya bulan kişiler tarafından bizzat ya da en uygun haberleşme vasıtası ile en yakın askerî birliğe; yakında askerî birlik yoksa, mülkî makamlara haber verilir. Bildirim, askerî birlik dışındaki makamlara yapılmış ise durum, bu makam tarafından derhal en yakın askerî birliğe duyurulur. Bildirilen patlayıcı madde ve şüpheli cisimler, Deniz Kuvvetleri Komutanlığı yetkili ekiplerince incelenir, zararsız hale getirilir.

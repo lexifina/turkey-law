@@ -1,0 +1,3 @@
+Patlayıcı Madde ve Şüpheli Cisim Naklinde veya Müdahalesinde Araçların Kullanımı
+Madde 13 — Patlayıcı maddelere ve şüpheli cisimlere müdahale etmek maksadıyla gerekli malzeme, teçhizat ve patlayıcıyı taşıyan araçlar, yetkili bir patlayıcı maddeleri zararsız hale getirme personeli tarafından kullanılır.
+Gömülü durumdaki patlayıcılar ile şüpheli cisimlere müdahale ve çevre emniyetlerinin alınması gibi maksatlar için faydalanılacak iş makineleri; yetkili bir patlayıcı maddeleri zararsız hale getirme personeli nezaretinde ve görevli iş makinesi operatörü tarafından; bu personel bulunmadığı takdirde iş makinesinin kendi operatörü tarafından kullanılır.
