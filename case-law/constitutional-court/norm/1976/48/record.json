@@ -1,0 +1,52 @@
+{
+  "id": "44836b41-36a7-762b-aed4-22c7ddf62a5a",
+  "decision_number": "1976/48",
+  "case_number": "1973/42",
+  "decision_date": "1976-10-19",
+  "published_date": "1977-05-10",
+  "source_publication_date": "1976-10-22",
+  "gazette_number": 15933,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1976/48",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "2dcf9abfae0176bf20a4df75c10e10e40ec05498c2c46cd390fcc4354a057d4e",
+  "version_label": "as-enacted",
+  "in_force": "1976-10-19",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": true,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1973-06-25",
+      "normNumaraAdParamId": "956d23c4-2ff0-0074-4565-c509296fc6a3",
+      "incelemeturuKarsonucuParamId": "b70853bc-8190-61fb-36c6-4565bb3e5124",
+      "sonucGerekcesiParamId": "e593c292-8963-c0be-721c-41882e63ae9b",
+      "kararYururlulukDurumu": "1 yıl",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "tamamı",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/9"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 7604
+}
