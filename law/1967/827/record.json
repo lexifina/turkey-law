@@ -1,0 +1,142 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "827",
+  "year": 1967,
+  "title": "Rıhtım Resmi Kanunu",
+  "adopted": "1967-01-26",
+  "adopted_as_published": "26/01/1967",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "02.02.1967 No: 12517",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000827.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 50",
+  "committee_reports": [
+    {
+      "label": "MM 154 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c010/mm__02010024ss0154.pdf"
+    },
+    {
+      "label": "CS 887no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c038/cs__06038024ss0887.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 362596,
+      "title": "Rıhtım Resmi Kanunu",
+      "adopted_as_published": "26/01/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000827.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 154 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c010/mm__02010024ss0154.pdf"
+        },
+        {
+          "label": "CS 887no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c038/cs__06038024ss0887.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 45,
+          "sitting_date": "1966-02-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002fih.pdf",
+          "pages": [
+            "732"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 24,
+          "sitting_date": "1966-12-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c010/mm__02010024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c010/mm__02010fih.pdf",
+          "pages": [
+            "129:132",
+            "143",
+            "161:164"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 25,
+          "sitting_date": "1966-12-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c010/mm__02010025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c010/mm__02010fih.pdf",
+          "pages": [
+            "173",
+            "196",
+            "224:227"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1201&v_kullanici_id=27483225",
+      "page_sha256": "2a5e87afe32fdcc520e9a23a080355d8d2bbd886ef1825be8899987216e9bee9"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 304902,
+      "title": "Rıhtım Resmi Kanunu",
+      "adopted_as_published": "26/01/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000827.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 154 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c010/mm__02010024ss0154.pdf"
+        },
+        {
+          "label": "CS 887no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c038/cs__06038024ss0887.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 38,
+          "sitting": 20,
+          "sitting_date": "1967-01-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c038/cs__06038020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c038/cs__06038fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 24,
+          "sitting_date": "1967-01-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c038/cs__06038024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c038/cs__06038fih.pdf",
+          "pages": [
+            "124",
+            "127:136",
+            "150",
+            "171:172"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=801&v_kullanici_id=27483235",
+      "page_sha256": "4f72905639da7d625721d8c8ff2722359dda2b185911b18822f5590e408f44b9"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2a5e87afe32fdcc520e9a23a080355d8d2bbd886ef1825be8899987216e9bee9",
+  "issuer": "Millet Meclisi",
+  "in_force": "1967-01-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 26/01/1967; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
