@@ -1,0 +1,96 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4268",
+  "year": 1997,
+  "title": "Türkiye Cumhuriyeti ile Hırvatistan Cumhuriyeti Arasında Dostluk ve İşbirliği Antlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "1997-06-11",
+  "adopted_as_published": "11/06/1997",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.06.1997 No: 23019",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc080/kanuntbmmc080/kanuntbmmc08004268.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 80",
+  "committee_reports": [
+    {
+      "label": "TBMM 120 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c028/tbmm20028103ss0120.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 20,
+      "kayit_no": 401090,
+      "title": "Türkiye Cumhuriyeti ile Hırvatistan Cumhuriyeti Arasında Dostluk ve İşbirliği Antlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "11/06/1997",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc080/kanuntbmmc080/kanuntbmmc08004268.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 120 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c028/tbmm20028103ss0120.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 48,
+          "sitting_date": "1996-05-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c005/tbmm20005048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c005/tbmm20005fih.pdf",
+          "pages": [
+            "10"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 18,
+          "sitting_date": "1996-11-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c013/tbmm20013018.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c013/tbmm20013fih.pdf",
+          "pages": [
+            "638"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 103,
+          "sitting_date": "1997-06-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c028/tbmm20028103.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c028/tbmm20028fih.pdf",
+          "pages": [
+            "357:358",
+            "363:364",
+            "383:388"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 105,
+          "sitting_date": "1997-06-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c029/tbmm20029105.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c029/tbmm20029fih.pdf",
+          "pages": [
+            "20:22",
+            "73:78"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=249&v_gelecek_sayfa=101&v_kullanici_id=27483195",
+      "page_sha256": "9d74b1e01dafe64c639249129b3e42d8f300df5d46255b494150186d22c7a61a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9d74b1e01dafe64c639249129b3e42d8f300df5d46255b494150186d22c7a61a",
+  "issuer": "TBMM",
+  "in_force": "1997-06-11",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 11/06/1997; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
