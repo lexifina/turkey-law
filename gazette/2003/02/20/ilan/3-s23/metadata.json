@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-02-20",
+  "issue": "25026",
+  "edition": "regular",
+  "item": 23,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Uşak Belediye Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/02/20030220-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (55 = 55)",
+  "ilan_codes": [
+    "2513/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/02/20030220-3.htm",
+  "category_page_sha256": "542ba16b2de731d768feaa78fd6cf7b5fc7a3161d1e699d666ebe85eaa5d4cac",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/02/20030220.htm",
+  "index_sha256": "a5422243e8e11a5b4a01b581839fa8f1e7ae446a03b7973167900b0b0e61475b",
+  "index_header": "20 Şubat 2003 ... Sayı : 25026",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
