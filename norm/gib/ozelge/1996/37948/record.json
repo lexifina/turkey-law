@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2924-232-2055/61017",
+  "source_id": 37948,
+  "date": "1996-12-20",
+  "title": "507 ve 5590 sayılı Kanunlara göre kurulan odalardan faal olduklarına dair belge getiren mükelleflere vergi dairesince belge basım izni verilmesi gerektiği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37948",
+  "source_sha256": "27b126a485c960dc4c92f9dab1e80686144bd6a82c373036836a22080f0e98db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
