@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4535-5",
+  "source_id": 21232,
+  "date": "2004-02-04",
+  "title": "Arazi ve arsalar ile lisans bedeli gibi gayri maddi haklar yatırım indirimi istisnasından yararlanamaz.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21232",
+  "source_sha256": "8e1d878265c6d0a253a8cfc75dcda83ac66738a40493f20e9a54a531ac2b17d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
