@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.29/2924-232/2394",
+  "source_id": 37936,
+  "date": "2000-11-20",
+  "title": "Müessesenin, gelirlerinin tahsilatında kullandığı alındıları, kendi mevzuatlarına göre anlaşmalı matbaalar dışında basmaları veya bastırmalarının mümkün olup olmadığı hakkında. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37936",
+  "source_sha256": "019fbf17369ff25bb1a8434ae4ac6317dc3809e892a79d0563fbbc885a18760a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
