@@ -1,0 +1,2 @@
+Dayanak
+Madde 3-Bu Yönetmelik 233 sayılı Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararname ile 04/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu’nun 30/7/2003 tarihli ve 4964 sayılı Kanunla değişik 3 üncü maddesinin (g) bendine ve 08/11/1984 tarihli ve 18569 sayılı Resmi Gazete’de yayımlanan Devlet Hava Meydanları İşletmesi Genel Müdürlüğü (DHMİ) ana statüsü hükümlerine dayanılarak hazırlanmıştır.

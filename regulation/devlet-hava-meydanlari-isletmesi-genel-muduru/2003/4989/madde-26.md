@@ -1,0 +1,2 @@
+Kabulde Görülecek Kusur ve Noksanlar
+Madde 26- Sözleşme konusu malın veya hizmetin kabulünde tespit edilen kusur ve noksanlar kabule engel olmayacak nitelikte bulunduğu taktirde bu husus ve kusur ve noksanlıkların tamamlanması için yükleniciye verilen süre de belirtilerek kabul raporu düzenlenir. Ancak kusur ve noksanlıkların tamamlandığının komisyon tarafından tespiti halinde rapor işleme konulur.

@@ -1,0 +1,4 @@
+Kesin Kabul
+Madde 25- Sözleşme konusu malların denetim, muayene ve testleri tamamlandığında, yüklenici hizmetin kabul işlemlerinin yapılmasını isteyen bir dilekçe ile Kuruluşa başvurur. Komisyonun olumlu raporu kuruluşça kabul edilerek, ödemeye ilişkin belgenin düzenlenmesinde esas alınır. Malın / hizmetin kabulü ve ödemeye ilişkin bildiri yükleniciye yazılı olarak yapılır.
+Geçici kabulün söz konusu olduğu alımlarda ise, kesin kabul zamanı ihale dokümanında belirtilir. Kesin kabul zamanı geldiğinde yüklenici veya vekili bir dilekçe ile Kuruluşa başvurur. Bu başvuru üzerine; Kuruluşça kesin kabul teklif belgesi düzenlenerek, kabul komisyonu kurulur ve kabul işlemleri yapılır.
+Tüm kabul işlemleri; talep sahibi ünitenin, merkezde ünite amirleri, hava limanlarında Başmüdür / Başmüdür Yardımcıları, havaalanlarında Meydan Müdürü/Meydan Müdür Yardımcısı tarafından onanmasından sonra geçerli olur.

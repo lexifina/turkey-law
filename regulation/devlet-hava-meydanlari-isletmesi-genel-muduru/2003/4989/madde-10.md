@@ -1,0 +1,4 @@
+Yurt Dışından Tedarik Edilen Malın Muayene Ve Kabul İşlemleri
+Madde 10- Yurt dışından tedarik edilecek malzemenin muayene ve kabul işlemleri malın teslim şekline bağlı olarak yurt içinde ve/veya yurt dışında olmak üzere iki şekilde yapılabilir.
+Yurt dışında yapılacak muayene ve kabul işlemlerinde kuruluşça yükleniciden komisyon üyelerinin harcırahları da dahil olmak üzere herhangi bir masraf talebinde bulunulamaz.
+Kuruluşça yurt dışında komisyon görevlendirilmesinin mümkün bulunmadığı veya komisyon görevlendirilmesinin ekonomik olmadığı ya da teknik anlamda beklenen sonucun alınamayacağı durumlarda kuruluş, alım işlemlerini geciktirmemek kaydıyla, muayene ve kabul işlemlerine esas olmak üzere ilgili alanda faaliyet gösteren bağımsız denetim kuruluşlarından hizmet satın alabilir. Ancak denetim kuruluşlarınca kabule esas olmak üzere hazırlanan raporlar nihai olmayıp, Kuruluşça kurulan muayene ve kabul komisyonlarının onayı ile kesinleşir.

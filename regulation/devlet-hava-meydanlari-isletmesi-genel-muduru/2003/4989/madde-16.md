@@ -1,0 +1,2 @@
+Malın veya Yapılan İşin Fiziksel Muayenesi
+Madde 16- Malın veya yapılan işin fiziksel muayenesine başlanmadan önce bir tutanak tutulur. Tutanaklarda muayenenin başlangıcından itibaren inceleme, muayene ve numune alma safhaları özetlenir. İzlenecek yöntem, usul ve sonuç belirtilir. Bu tutanak komisyonca imzalanır ve mevcutsa yüklenici ve/veya vekiline imzalattırılır. Muayene aynı günde bitmez ise, yüklenici ve/veya vekiline hazır bulunması için muayenenin devam edeceği gün ve saat tespit edilerek tebliğ edilir.

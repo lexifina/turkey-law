@@ -1,0 +1,5 @@
+Muayenede İzlenecek Yöntem
+Madde 15- Muayenelerde önce fiziksel nitelikler kontrol edilir. Fiziksel niteliklerinin tamamı ihale dokümanında belirtilen hükümlere uygun bulunmayan malın numuneleri, laboratuar muayenelerine gönderilmez. Fiziksel muayenede niteliklerin bazıları uygun çıkmazsa muayene yarıda bırakılmaz, muayene işlemi tamamlanır.
+Yükleniciler, fiziksel muayene sonucu verilen red raporuna usulüne göre itiraz ederek ikinci bir muayeneyi isteyebilirler. Bu takdirde, mal aynen korunmak suretiyle ilk muayenede bulunmamış olan kişilerden kurulacak en az üç kişilik ikinci bir komisyona muayene yaptırılır. Bu komisyonun vereceği kararlar kesin olup, muayene ve kabulün bu karar esas alınarak sonuçlandırılacağına ilişkin hükme ihale dokümanında yer verilmek zorundadır.
+İkinci komisyon fiziksel muayenede itiraz konusu olan kısımları inceler. Sonuç olumsuz ise red raporu verilir. Bu durumda laboratuar muayenelerine geçilmez ve bu rapora itiraz edilemez.
+Sonuç olumlu ise, laboratuar muayenelerine geçilir. Bu niteliklerin de uygun bulunması halinde kabul raporu düzenlenir.

@@ -1,0 +1,2 @@
+Muayene Raporlarının Düzenlenmesi
+Madde 20- Muayene raporlarına, ihale dokümanında yazılı niteliklerle, mal alımlarında muayenede bulunan nitelikler ayrı ayrı yazılır. Bunlar karşılaştırılır ve sonuç “niteliklerine uygundur” veya “niteliklerine uygun değildir” şeklinde kesin olarak belirtilerek, hizmet alımında işin süreklilik arz etmesi halinde ara denetim elemanlarınca işin yürütülmesi sırasında tuttuğu kayıtlar esas alınarak muayenesi yapılır ve komisyon üyeleri tarafından imza edilir.
