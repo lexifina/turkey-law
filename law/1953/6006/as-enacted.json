@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6006",
+  "year": 1953,
+  "title": "Hudut ve Sahiller Sağlık Genel Müdürlüğünün 1947 Bütçe Yılı Hesabı Kati Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-01-17",
+  "gazette_issue": "8311",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8311.pdf",
+  "source_sha256": "9590afb20e8ddf6ef7f4bfd78603cf651b346d80cc1627f4a0742b49acfc2446",
+  "text_sha256": "6d8f02e166fec4c4d1a0e6dcda99e06d3657f3115d4fe04e97474931edcb1a2e",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      198,
+      212
+    ],
+    [
+      437,
+      442
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506006.pdf",
+    "source_sha256": "0f347f5ad0297a6e7bd5b15aa5636bbbed7e677c27977024027d5b1cb140ce98",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9499,
+    "bag": 0.8583,
+    "kd_coverage": 0.9913,
+    "kd_body_compared": 0.213,
+    "rg_words": 125,
+    "kd_words": 540,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
