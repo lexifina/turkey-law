@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-831/20533",
+  "source_id": 36819,
+  "date": "1997-05-16",
+  "title": "Banka ve Sigorta Muameleleri vergisi uygulamasında,alınan veya tahakkuk ettirilen paralar üzerinden özel anlaşmalarla sonradan yapılan değişikliklerin bu vergiye tesir etmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36819",
+  "source_sha256": "21801e50a7b96f20827cdc35a3acb51694a895ca3fa9da55870411095238bc3d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
