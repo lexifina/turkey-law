@@ -1,0 +1,1 @@
+Madde 1 – Bu Yönetmeliğin amacı, 22 Nisan 1341 tarihli ve 657 sayılı Harita Müdüriyeti Umumiyesi Kanunu'nun 2 Ocak 1961 tarih ve 203 sayılı Kanunla değişik 6 ncı maddesinin 6 ncı fıkrası uyarınca hazırlanacak Atlas, Küre ve Coğrafya Haritalarının yurt içinde, ulusal olanaklarla ve ekonomik şekilde üretilmesini sağlamaktır.

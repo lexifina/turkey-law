@@ -1,0 +1,1 @@
+Geçici Madde 1 – Yönetmeliğin yürürlüğe girdiği tarihte bu yönetmelik kapsamına giren Bakanlık ve Kamu Kuruluşları, çalışmalarının sonucunu dökümanları ile birlikte Harita Genel Müdürlüğüne devrederler.
