@@ -1,0 +1,13 @@
+{
+  "number": "01-44/434-112",
+  "type": "Rekabet İhlali",
+  "decision_date": "2001-09-18",
+  "publication_date": "2002-12-02",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=0d7eeef3-ab47-414a-b998-347ff975d768",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1015",
+  "pdf_sha256": "15e97e09e3b10293e80ed047a2c637e9643224bd059299477304968645c1316b",
+  "pdf_bytes": "262547",
+  "pages": "3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
