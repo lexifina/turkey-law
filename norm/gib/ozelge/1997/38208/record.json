@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.070.GEL.0.63/6384-16-17-12-1997/54970",
+  "source_id": 38208,
+  "date": "1997-12-17",
+  "title": "İzale-i şuyu yoluyla yapılan satışlarda tapu harcı ile birlikte eğitime katkı payının alınması gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38208",
+  "source_sha256": "4269426b182b4a2e1bfc94b69ed4009719cec76790e9b9fa3fd38c8ab4896fec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
