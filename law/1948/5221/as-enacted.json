@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5221",
+  "year": 1948,
+  "title": "Yedek Subay ve Askeri Memurlar hakkında Kanunun 3923 sayılı Kanunla değiştirilen 3. maddesine bazı hükümler eklenmesine dair olan 3993 sayılı Kanunun 1. maddesinin (A) fıkrasının değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1948-06-29",
+  "gazette_issue": "6944",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6944.pdf",
+  "source_sha256": "7b7a5299fe3c2af2d42e67c08e41882a0ea62d3597691702f7e35f0b3f1c015e",
+  "text_sha256": "bc82c4f9e923211508dde58d16e0a73abb340cce224edc5885336faddbac1b0f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      17,
+      41
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/kanuntbmmc030/kanuntbmmc03005221.pdf",
+    "source_sha256": "c98be38e4636bae71496bb49517ba93be39d21c5ba7a4dc64d2c8bcae714cb79",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.949,
+    "bag": 0.8145,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9821,
+    "rg_words": 111,
+    "kd_words": 112,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
