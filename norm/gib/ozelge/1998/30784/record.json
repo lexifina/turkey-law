@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5317-1684/5541",
+  "source_id": 30784,
+  "date": "1998-02-09",
+  "title": "Banka ve sigorta muameleleri vergisi kapsamına giren işlemler ile sigorta acente ve prodüktörlerinin sigorta muamelelerine ilişkin katma değer vergisinden istisna tutulmuştur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30784",
+  "source_sha256": "e3ada570cee5fe8ddb45cfc66a175e90548eb326d9d2760383565938d7066e0e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
