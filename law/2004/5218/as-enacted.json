@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5218",
+  "year": 2004,
+  "title": "5218 sayılı Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-07-21",
+  "gazette_issue": "25529",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/07/20040721.htm",
+  "source_sha256": "d8ac44826414aedbed6d3b1654f6e63bc736aa077a960e38aceacc3063e9c14d",
+  "text_sha256": "ebaa691b18c5aab473bf31219400551bf000a819ce0ed8327636e0c0a5b02e92",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/07/21/25529-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/07/20040721.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
