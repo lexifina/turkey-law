@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 324270,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Ege Üniversitesinin Kuruluş Kadroları Hakkındaki 6953 sayılı Kanuna Ek Kanun teklifi ve Bütçe Karma Komisyonu raporu (M. Meclis:2/239; Cumhuriyet Senatosu:2/78) (S. Sayısı:373)",
+  "title": "Ege Üniversitesinin Kuruluş Kadroları Hakkındaki 6953 sayılı Kanuna Ek Kanun teklifi ve Bütçe Karma Komisyonu raporu (M. Meclis:2/239; Cumhuriyet Senatosu:2/78) (S. Sayısı:373)",
+  "first_sitting_date": "1974-06-25",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 17,
+      "sitting": 70,
+      "sitting_date": "1974-06-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017fih.pdf",
+      "pages": [
+        "172"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2010&v_gelecek_sayfa=2001&v_kullanici_id=27484916",
+  "source_sha256": "025d76418536c7c3c31a076433078173d2c13a95fb244f6f9035638f20a4a1cc",
+  "in_force": "1974-06-25",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
