@@ -1,0 +1,3 @@
+BOĞAZİÇİ ÜNİVERSİTESİ İNSANİ GELİŞME UYGULAMA VE ARAŞTIRMA MERKEZİ (HUMAN DEVELOPMENT RESEARCH CENTER) YÖNETMELİĞİ
+Kuruluş Amacı
+Madde 1 — Boğaziçi Üniversitesi Rektörlüğüne bağlı olarak, toplumların insani gelişmeleri ile ilgili her alanda araştırma ve uygulama yapmak üzere bir İnsani Gelişme Araştırma ve Uygulama Merkezi (bundan sonra Merkez olarak anılacaktır) kurulmuştur. Merkez, İnsani Gelişme konularında en yeni gelişmeleri ve literatürü izleyen, bu gelişmeleri ulusal ve uluslararası akademik ve uygulamacı çevrelerle paylaşan, öncü araştırmalar yapan bir birimdir. Faaliyetlerini aynı zamanda Merkez’in kurucu üyelerinden olan Birleşmiş Milletler Kalkınma Programı (UNDP) ve Devlet Planlama Teşkilâtı ile işbirliği içinde yürütür.

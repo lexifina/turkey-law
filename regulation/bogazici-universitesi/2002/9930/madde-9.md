@@ -1,0 +1,1 @@
+Madde 9 — Merkez Danışma Kurulu, Merkezin uzun vadeli çalışmalarını yönlendirmek, faaliyetlerini değerlendirmek ve başarısını sağlamak amacıyla tavsiyelerde bulunur. Danışma Kurulu Üyeleri Merkez Yönetim Kurulu tarafından 3 yıl süreyle atanır. Danışma Kurulu’nda Birleşmiş Milletler Kalkınma Programını temsilen en az bir üye görev alır.

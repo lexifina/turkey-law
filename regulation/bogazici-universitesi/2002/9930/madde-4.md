@@ -1,0 +1,1 @@
+Madde 4 — Merkez Genel Kurulu üyeleri Merkez Yönetim Kurulu’nun önerisi ile Rektör tarafından görevlendirilir. Merkezin kurucu üyeleri Yönetmeliğin yayımını müteakip Üniversite Yönetim Kurulunun kararı ve Rektörün onayı ile seçilir ve bunlar ilk Genel Kurulu oluşturur.

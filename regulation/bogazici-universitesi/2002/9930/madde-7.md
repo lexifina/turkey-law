@@ -1,0 +1,1 @@
+Madde 7 — Merkez Yönetim Kurulu, Genel Kurul tarafından üç yıllık bir süre ile seçilen iki üye ve Rektör tarafından gene üç yıl için görevlendirilen Merkez Müdüründen oluşur. Yeniden görevlendirilmek/seçilmek mümkündür. Merkez Müdürü ve Yönetim Kurulu üyesi olabilmek için, Boğaziçi Üniversitesinde öğretim elemanı olma koşulu aranır.
