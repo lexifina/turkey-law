@@ -1,0 +1,72 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 145792,
+  "assembly": "Danışma Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "HASAN MUZAFFER SAĞIŞMAN (DANIŞMA MECLİSİ İSTANBUL ÜYESİ)",
+  "summary": "Ve 13 Arkadaşının, Yüksek öğretimin Son Sınıfında, 4 Yıl Süreli Olanların 3. Sınıfında, 4 yıldan Uzun Süreli Olanların 4. ve 5. Sınıfında Başarısızlık Dolayısıyla Belge Alan Öğrencilere Yeniden imtihan Hakkı Verilmesine Dair Kanun Teklifi (2/25) (Başkanlığa geliş tarihi:18.3.1982) (Millî Eğitim Komisyonuna) (22.3.1982)",
+  "title": "Ve 13 Arkadaşının, Yüksek öğretimin Son Sınıfında, 4 Yıl Süreli Olanların 3. Sınıfında, 4 yıldan Uzun Süreli Olanların 4. ve 5. Sınıfında Başarısızlık Dolayısıyla Belge Alan Öğrencilere Yeniden imtihan Hakkı Verilmesine Dair Kanun Teklifi (2/25) (Başkanlığa geliş tarihi:18.3.1982) (Millî Eğitim Komisyonuna) (22.3.1982)",
+  "first_sitting_date": "1982-03-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 70,
+      "sitting_date": "1982-03-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c004/dm__02004070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c004/dm__02004fih.pdf",
+      "pages": [
+        "512"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 5,
+      "sitting": 81,
+      "sitting_date": "1982-04-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c005/dm__02005081.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c005/dm__02005fih.pdf",
+      "pages": [
+        "38"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 5,
+      "sitting": 82,
+      "sitting_date": "1982-04-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c005/dm__02005082.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c005/dm__02005fih.pdf",
+      "pages": [
+        "72"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 5,
+      "sitting": 83,
+      "sitting_date": "1982-04-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c005/dm__02005083.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c005/dm__02005fih.pdf",
+      "pages": [
+        "78:94"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d5690152aebc50658fb2eeade43cc8741d930fe44ee3f6a733eacfffa6a44ec9",
+  "in_force": "1982-03-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
