@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-09-24",
+  "issue": "25593",
+  "edition": "regular",
+  "item": 24,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "PETKİM Petrokimya Holding Anonim Şirketi Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/09/20040924-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (26 = 26)",
+  "ilan_codes": [
+    "11781/2-2",
+    "11780/2-2"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/09/20040924-3.htm",
+  "category_page_sha256": "f8d5eb8d5c51ad41f071a551ff5a1a8437afe5bcfe453432d5f0c0d365ad6686",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/09/20040924.htm",
+  "index_sha256": "020a288ad420115c7cb9095190f37ad51f623876a3d91ba90329690ee5f7bc57",
+  "index_header": "24 Eylül 2004 ... Sayı : 25593",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
