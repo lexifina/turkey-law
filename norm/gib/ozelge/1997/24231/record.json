@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-94-43101",
+  "source_id": 24231,
+  "date": "1997-10-09",
+  "title": "Adi ortaklığın aktif ve pasifiyle Ltd.Şti.'ne devri sırasında Ö.K.C. ile ilgili Yapılacak işlemler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/24231",
+  "source_sha256": "ecc8eeacf27d329ec8d3b663e2a2d1da6f7c11e71534bcc5241ca01c2ea03dbc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
