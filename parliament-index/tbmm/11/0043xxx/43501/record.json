@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 43501,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "title": "TBMM fihrist kaydı 43501 (Mazbatalar)",
+  "first_sitting_date": "1958-02-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 33,
+      "sitting_date": "1958-02-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c002/tbmm11002033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c002/tbmm11002fih.pdf",
+      "pages": [
+        "3",
+        "37:39"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 27,
+      "sitting_date": "1959-01-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c006/tbmm11006027.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c006/tbmm11006fih.pdf",
+      "pages": [
+        "527",
+        "638:646"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 68,
+      "sitting_date": "1960-05-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013fih.pdf",
+      "pages": [
+        "490"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1113&v_gelecek_sayfa=801&v_kullanici_id=27484293",
+  "source_sha256": "81835304a786544e34a05ffe4cd3f779fe905eb9dbb3b15cf00a4849ee00f9cf",
+  "in_force": "1958-02-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
