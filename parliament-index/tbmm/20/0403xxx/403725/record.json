@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 403725,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "KEMALETTİN GÖKTAŞ (TRABZON)",
+  "summary": "Ve 23 Arkadaşının 12.3.1982 Tarihli ve 2634 Sayılı Turizmi Teşvik Kanununun 19 ncu Maddesinin (b) Fıkrasının Yürürlükten Kaldırılmasına Dair Kanun Teklifi, Manisa Milletvekili Erdoğan Yetenç'in, 2634 Sayılı Turizmi Teşvik Kanununun Bir Maddesinin Değiştirilmesi Hakkında Kanun Teklifi ve Doğru Yol Partisi Grup Başkanvekilleri Ankara Milletvekili Saffet Arıkan Bedük, Aydın Milletvekili Ali Rıza Gönül, Denizli Milletvekili Mehmet Gözlükaya ile Refah Partisi Grup Başkanvekili Malatya Milletvekili Oğuzhan Asiltürk'ün 2634 Sayılı Turizmi Teşvik Kanunu ve 1072 Sayılı Rulet, Tilt, Langırt ve Benzen Oyun Alet ve Makineleri Hakkında Kanunda Değişiklik Yapılması Hakkında (1/580) 2/114,2/223,2/637)",
+  "title": "Ve 23 Arkadaşının 12.3.1982 Tarihli ve 2634 Sayılı Turizmi Teşvik Kanununun 19 ncu Maddesinin (b) Fıkrasının Yürürlükten Kaldırılmasına Dair Kanun Teklifi, Manisa Milletvekili Erdoğan Yetenç'in, 2634 Sayılı Turizmi Teşvik Kanununun Bir Maddesinin Değiştirilmesi Hakkında Kanun Teklifi ve Doğru Yol Partisi Grup Başkanvekilleri Ankara Milletvekili Saffet Arıkan Bedük, Aydın Milletvekili Ali Rıza Gönül, Denizli Milletvekili Mehmet Gözlükaya ile Refah Partisi Grup Başkanvekili Malatya Milletvekili Oğuzhan Asiltürk'ün 2634 Sayılı Turizmi Teşvik Kanunu ve 1072 Sayılı Rulet, Tilt, Langırt ve Benzen Oyun Alet ve Makineleri Hakkında Kanunda Değişiklik Yapılması Hakkında (1/580) 2/114,2/223,2/637)",
+  "first_sitting_date": "1997-06-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 28,
+      "sitting": 103,
+      "sitting_date": "1997-06-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c028/tbmm20028103.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c028/tbmm20028fih.pdf",
+      "pages": [
+        "342:355"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "66e31df510dc8cdc05eea8327a495feb009ab5810f1fc3d501614e373a2948d1",
+  "in_force": "1997-06-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
