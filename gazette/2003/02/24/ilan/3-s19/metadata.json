@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-02-24",
+  "issue": "25030",
+  "edition": "regular",
+  "item": 19,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Sağlık Bakanlığı Tacirler Eğitim Vakfı Sultanbeyli Devlet Hastanesi Baştabipliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/02/20030224-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (27 = 27)",
+  "ilan_codes": [
+    "3173/1-1",
+    "3173/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/02/20030224-3.htm",
+  "category_page_sha256": "838d674a9449ea6098cda1d2749f4c91a18460ee4f23a11c00d8ce9d25b2fad8",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/02/20030224.htm",
+  "index_sha256": "25d99b9c316bad9fa1767cabcd5c64ebdb1414d91bc0433575c577e5cf14dc56",
+  "index_header": "24 Şubat 2003 ... Sayı : 25030",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
