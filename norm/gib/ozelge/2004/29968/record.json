@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5301-3043-23424",
+  "source_id": 29968,
+  "date": "2004-05-26",
+  "title": "İkinci el satış mağazası projesi kapsamındaki satış işlemleri iktisadi işletme olma özelliklerini bütünüyle taşıdığı için kurumlar vergisi ve katma değer vergisine tabiidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29968",
+  "source_sha256": "7e2c56368f2bbd11aa224ce123fad811a8e2bc0904ba9836cd058a11353ddf4b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
