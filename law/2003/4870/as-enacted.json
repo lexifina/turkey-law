@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4870",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Gürcistan Hükümeti Arasında Sosyal Güvenlik Sözleşmesinin Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-06-07",
+  "gazette_issue": "25131",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030607.htm",
+  "source_sha256": "02db304bfb476dc7d36e4eb8909b9aadb84c6d11a12a18f203419c8f0419651b",
+  "text_sha256": "4f05b78599711d47cf2578509b455ffe501d12bd35023a35ae860a880ca554d4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/06/07/25131-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030607.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
