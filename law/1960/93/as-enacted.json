@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "93",
+  "year": 1960,
+  "title": "Yatırımlar (Holding) Anonim Şirketine bazı istisna ve muaflıklar verilmesine dair Kanunun 3 ncü maddesinin tadili hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-10-07",
+  "gazette_issue": "10623",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10623.pdf",
+  "source_sha256": "6111abbdd0c162ab4731c492e9570e1975cdeb47b0b82d225fa0f6e5a513494f",
+  "text_sha256": "2f05e294717995a18ed656bb004449a6f3a9b545c4876bc281526cff820c1654",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      28
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300093.pdf",
+    "source_sha256": "e6923f1ba4914ba082819de59c74679b380ae6e7a81fcfeccb85d5e850539cf4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9477,
+    "bag": 0.9266,
+    "kd_coverage": 0.9773,
+    "kd_body_compared": 0.9348,
+    "rg_words": 91,
+    "kd_words": 92,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
