@@ -1,0 +1,48 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5417",
+  "year": 1949,
+  "title": "İhtiyarlık Sigortası Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-06-08",
+  "gazette_issue": "7227",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7227.pdf",
+  "source_sha256": "d2ab97954c45f2b23f76f84640faf4c3a14c28fefbdaf06ce0cc96c59d229671",
+  "text_sha256": "0583800b10e64ab1857f55cf6a26e376c9485297dbcc129534ea18c74be9026c",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      12,
+      461
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105417.pdf",
+    "source_sha256": "5dbce6cb35a08bd6c64441a1962f0602b7fc38834c6b2136bca225bc614f4ceb",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9758,
+    "bag": 0.9247,
+    "kd_coverage": 0.9968,
+    "kd_body_compared": 0.9953,
+    "rg_words": 3083,
+    "kd_words": 3159,
+    "own_anchor": true,
+    "foreign_anchors": 5
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
