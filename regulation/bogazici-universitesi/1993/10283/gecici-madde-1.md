@@ -1,0 +1,1 @@
+Geçici Madde 1- Merkez’in ilk Genel Kurulu, Boğaziçi Üniversitesi Senatosu tarafından Merkez kurucu üyesi olmak üzere başvurmuş öğretim üyeleri arasından seçilerek Rektör’e önerilir ve Rektör tarafından atanır.
