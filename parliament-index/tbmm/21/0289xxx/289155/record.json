@@ -1,0 +1,72 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 289155,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Elektrik Piyasası Kanunu Tasarısına ilişkin",
+  "title": "Elektrik Piyasası Kanunu Tasarısına ilişkin",
+  "first_sitting_date": "2001-02-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 55,
+      "sitting": 58,
+      "sitting_date": "2001-02-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c055/tbmm21055058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c055/tbmm21055fih.pdf",
+      "pages": [
+        "42:94"
+      ]
+    },
+    {
+      "cilt": 55,
+      "sitting": 59,
+      "sitting_date": "2001-02-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c055/tbmm21055059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c055/tbmm21055fih.pdf",
+      "pages": [
+        "149:175",
+        "177",
+        "178:210"
+      ]
+    },
+    {
+      "cilt": 55,
+      "sitting": 60,
+      "sitting_date": "2001-02-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c055/tbmm21055060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c055/tbmm21055fih.pdf",
+      "pages": [
+        "255:263"
+      ]
+    },
+    {
+      "cilt": 55,
+      "sitting": 61,
+      "sitting_date": "2001-02-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c055/tbmm21055061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c055/tbmm21055fih.pdf",
+      "pages": [
+        "328:364",
+        "347:396",
+        "430:453"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=606&v_gelecek_sayfa=401&v_kullanici_id=27484520",
+  "source_sha256": "3a63ac7f94821c2506c9a8213227b6e82360407a5942eba5eebbd04d0e2a11d3",
+  "in_force": "2001-02-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
