@@ -1,0 +1,160 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1328",
+  "year": 1970,
+  "title": "30.5.1970 tarih ve 1286 sayılı Bütçe Kanununa ek Kanun",
+  "adopted": "1970-07-31",
+  "adopted_as_published": "31/07/1970",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.08.1970 No: 13579",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301328.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 53",
+  "committee_reports": [
+    {
+      "label": "MM 234 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008135ss0234.pdf"
+    },
+    {
+      "label": "CS 1464no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060098ss1464.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 377275,
+      "title": "30.5.1970 tarih ve 1286 sayılı Bütçe Kanununa ek Kanun",
+      "adopted_as_published": "31/07/1970",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301328.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 234 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008135ss0234.pdf"
+        },
+        {
+          "label": "CS 1464no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060098ss1464.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 8,
+          "sitting": 130,
+          "sitting_date": "1970-07-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008130.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+          "pages": [
+            "518"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 134,
+          "sitting_date": "1970-07-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008134.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+          "pages": [
+            "659"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 135,
+          "sitting_date": "1970-07-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008135.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+          "pages": [
+            "740:741"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 137,
+          "sitting_date": "1970-07-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008137.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+          "pages": [
+            "876:877",
+            "919",
+            "922:935"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=601&v_kullanici_id=27483225",
+      "page_sha256": "289a6a3fb6cf89fae2d8a05f66e7b654a3cc8aecdfd898b5db709f11f0b70d44"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 313801,
+      "title": "30.5.1970 tarih ve 1286 sayılı Bütçe Kanununa ek Kanun",
+      "adopted_as_published": "31/07/1970",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301328.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 234 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008135ss0234.pdf"
+        },
+        {
+          "label": "CS 1464no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060098ss1464.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 60,
+          "sitting": 97,
+          "sitting_date": "1970-07-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060097.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060fih.pdf",
+          "pages": [
+            "586"
+          ]
+        },
+        {
+          "cilt": 60,
+          "sitting": 98,
+          "sitting_date": "1970-07-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060098.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060fih.pdf",
+          "pages": [
+            "692:700"
+          ]
+        },
+        {
+          "cilt": 61,
+          "sitting": 99,
+          "sitting_date": "1970-07-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c061/cs__09061099.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c061/cs__09061fih.pdf",
+          "pages": [
+            "3",
+            "78:79"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1301&v_kullanici_id=27483235",
+      "page_sha256": "d5176558de59b9dcf211fea14e78f3108f5ed774b83c8bb3de13ebec8b61a347"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "289a6a3fb6cf89fae2d8a05f66e7b654a3cc8aecdfd898b5db709f11f0b70d44",
+  "issuer": "Millet Meclisi",
+  "in_force": "1970-07-31",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 31/07/1970; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
