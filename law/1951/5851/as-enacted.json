@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5851",
+  "year": 1951,
+  "title": "Diyarbakır İline Bağlı Eğil İlçesi Adının (Dicle) ve Bu İlçeye Bağlı Dicle Bucağının Adının da (Eğil) Olarak Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-12-18",
+  "gazette_issue": "7985",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7985.pdf",
+  "source_sha256": "c9941d4459c9be9d96013099fd4a18d441593f5f0e2bc2da4cd3f2aef8586381",
+  "text_sha256": "12992fe0427309882549a1eda2ae15f0d3af685d51f4a46686795b4db517abcf",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      21
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405851.pdf",
+    "source_sha256": "4c03f2fe7131cc6b7a1a36ae838ab082c14278dd7da3b470e1fb69b58dd55fc0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9685,
+    "bag": 0.9558,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9655,
+    "rg_words": 57,
+    "kd_words": 58,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
