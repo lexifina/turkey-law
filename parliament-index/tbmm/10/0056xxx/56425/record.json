@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 56425,
+  "assembly": "TBMM",
+  "term": 10,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "TAHSİN YAZICI (İSTANBUL)",
+  "summary": "Ve 6 Arkadaşı Subaylar heyetine, mahsus terfi Kanununun 5611 sayılı Kanunla değiştirilen 10. maddesinin 1. fıkrasının tadiline ve aynı kanuna geçici iki madde eklenmesine dair (2/73)",
+  "title": "Ve 6 Arkadaşı Subaylar heyetine, mahsus terfi Kanununun 5611 sayılı Kanunla değiştirilen 10. maddesinin 1. fıkrasının tadiline ve aynı kanuna geçici iki madde eklenmesine dair (2/73)",
+  "first_sitting_date": "1954-12-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 20,
+      "sitting_date": "1954-12-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c003/tbmm10003020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c003/tbmm10003fih.pdf",
+      "pages": [
+        "180"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 71,
+      "sitting_date": "1955-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007fih.pdf",
+      "pages": [
+        "57"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 75,
+      "sitting_date": "1955-05-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007fih.pdf",
+      "pages": [
+        "197:203"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "823743de97d9e80008042f898b95c72733c186c32fd1ea2bed0f615ac7ab5f46",
+  "in_force": "1954-12-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
