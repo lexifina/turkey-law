@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/322-2415/19209",
+  "source_id": 38310,
+  "date": "2001-04-10",
+  "title": "İndirimli orana tabi işlemlerden doğan KDV'nin YMM tasdik raporu ile iade edilip edilmeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38310",
+  "source_sha256": "cf6db75abf7ef769649f22033cacb400910f0563d705cb8b8f425630028843aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
