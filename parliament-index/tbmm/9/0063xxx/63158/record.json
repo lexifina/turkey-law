@@ -1,0 +1,83 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 63158,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Gümrük Kanununun bazı maddelerinin değiştirilmesine ve Gümrük Tarifesi Kanunu ile ek ve tadillerinin kaldırılmasına dair (1/715)",
+  "title": "Gümrük Kanununun bazı maddelerinin değiştirilmesine ve Gümrük Tarifesi Kanunu ile ek ve tadillerinin kaldırılmasına dair (1/715)",
+  "first_sitting_date": "1950-11-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 1,
+      "sitting_date": "1950-11-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c002/tbmm09002001.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c002/tbmm09002fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 26,
+      "sitting_date": "1951-01-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004026.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004fih.pdf",
+      "pages": [
+        "25"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 15,
+      "sitting_date": "1953-12-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c026/tbmm09026015.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c026/tbmm09026fih.pdf",
+      "pages": [
+        "85"
+      ]
+    },
+    {
+      "cilt": 27,
+      "sitting": 27,
+      "sitting_date": "1954-01-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c027/tbmm09027027.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c027/tbmm09027fih.pdf",
+      "pages": [
+        "110"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 44,
+      "sitting_date": "1954-02-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028044.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028fih.pdf",
+      "pages": [
+        "410",
+        "1023:1031",
+        "1034:1036",
+        "1097:1098",
+        "1107:1110"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=966&v_gelecek_sayfa=601&v_kullanici_id=27484167",
+  "source_sha256": "4d1e08c4f004a7f548d1614611666a1947c761803c39d8868fa1d63dc2bf6913",
+  "in_force": "1950-11-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
