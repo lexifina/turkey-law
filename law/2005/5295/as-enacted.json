@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5295",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti ve Slovenya Cumhuriyeti Arasında Yatırımların Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-02-08",
+  "gazette_issue": "2572",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208-6.htm",
+  "source_sha256": "ed52940dca61d477567c9f19d79c75a1442cb9f537b181b6c0eb017b7bed226a",
+  "text_sha256": "4562fd36c2f774c58f55bc586349b594cc1e8d7afb0f754093d6cff55273ef40",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/02/08/2572-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
