@@ -1,0 +1,12 @@
+Tanımlar
+Madde 2 — Bu Yönetmelikte geçen ;
+a) Arşiv Malzemesi : Türk Devlet ve Millet hayatını ilgilendiren ve en son işlem tarihi üzerinden otuz yıl geçmiş veya üzerinden on beş yıl geçtikten sonra kesin sonuca bağlanmış olup birinci maddede belirtilen Hacettepe Üniversitesi birimleri ve bunlara bağlı kuruluşların istemleri sonucunda oluşan ve Üniversite tarafından saklanması gereken Türk Milletinin geleceğine, tarihi, siyasi, sosyal, kültürel, hukukî ve teknik değer olarak intikal etmesi gereken belgeler ve Devlet haklan ile uluslararası haklan belgelemeye, korumaya, bunlarla ilgili işlem ve ilişkiler bakımından tarihî, hukukî, idarî, askerî, iktisadî, dinî, ilmî, edebî, estetik, kültürel biyografik, jeneolojik ve teknik herhangi bir konuyu aydınlatmaya, düzenlemeye, belirlemeye yarayan, ayrıca ait olduğu devrin ahlâk, örf ve âdetlerini veya çeşitli sosyal özelliklerini belirten her türlü yazıtı evrak, defter, resim, plân, harita, proje, mühür, damga, fotoğraf, film, ses ve görüntü bandı, bilgisayar bantları, elektronik kayıt ortamları ve bunların kullanılabilirliğini sağlayan dokümantasyonu, baskı ve benzeri belgeleri ve malzemeyi,
+b) Arşivlik Malzeme : Yukarıdaki bentte sayılan her türlü belge ve malzemeden zaman bakımından henüz arşiv malzemesi özelliğini kazanmayanlarla, son işlem tarihi üzerinden yüz bir yıl geçmemiş memuriyet özlük ve sicil dosyalarım ve Üniversitenin gerçek ve tüzel kişilerle veya yabancı Devlet ve uluslararası kuruluşlarla imzaladığı protokol ve anlaşmaları,
+c) Üniversite : Hacettepe Üniversitesini,
+d) Üniversite Arşivi : Üniversitenin merkez teşkilatı içinde yer alan ve arşiv malzemesi ile arşivlik malzemenin birim arşivlerine nazaran daha uzun süreli saklandığı merkezi arşivi,
+e) Birim Arşivi : Üniversitenin tüm birimlerinin görev ve faaliyetleri sonucu kendiliğinden oluşan ve bu birim ve kuruluşların bünyesinde güncelliğini kaybetmemiş olarak aktif bir biçimde ve günlük iş akımı içinde kullanılan arşivlik malzemenin belirli bir süre saklandığı arşiv.birimlerini,
+f) Birimler : Üniversitenin akademik ve idari teşkilat şemasında gösterilen fakülte, yüksekokul, enstitü, araştırma ve uygulama merkezleri ile daire başkanlıktan ve Rektörlüğe doğrudan bağlı diğer kuruluşları,
+g) Alt Birim : Bu maddenin (f) bendinde belirtilen birimlere bağlı alt birimleri, ifade eder.
+İKİNCİ BÖLÜM
+Arşiv Malzemesi ile Arşivlik Malzemenin Korunması,
+Üniversite ve Birim Arşivlerinde Saklanması,

@@ -1,0 +1,30 @@
+İmha Edilecek Malzeme
+Madde 27 — Aşağıda sayılan evrak ve vesaikin ayıklanmasına, saklanmasına ve imhasına, Ayıklama ve imha Komisyonu karar verir.
+Bu malzemeler şunlardır :
+a) Şekli ne olursa olsun, her çeşit tekid yazıları,
+b) Elle, daktilo ile veya başka bir teknikle yazılmış her çeşit müsveddeler,
+c) Resmi veya özel her çeşit zarflar (tarihi değeri olanlar hariç),
+d) Adli ve idari yargı organları ile PTT ve diğer resmi kuruluşlardan gelen ve genellikle bir ihbar mahiyetinde bulunan alındı, tebliğ ve benzeri her çeşit kâğıtlar, PTT'ye zimmet karşılığında verilen evrakın (koli, tel, adi ve taahhütlü zarf ve benzeri) kayıt edildiği zimmet defterleri ve havale fişleri,
+e) Bilgi toplamak amacıyla yapılan ve kesin sonucu alınan yazışmalardan geriye kalanlar (Anket soru kâğıtları, istatistik formları, çeşitli cetvel ve listeler, bunlara ait yazışmalar ve benzeri gibi hazırlık dokümanları),
+f) Aynı konuda bir defa yazılan yazıların her çeşit kopyalan ve çoğaltılmış örnekleri,
+g) Esasa ilişkin olmayıp, sadece daha önce belirlenmiş bir sonucun alınmasına yarayan her türlü ara yazışmalar,
+ğ) Bir örneği takip veya saklanılmak üzere, ilgili ünite, daire, kurum ve kuruluşlara verilmiş her çeşit rapor ve benzerinin fazla kopyaları,
+h) Yapılan yazışmalardan, ilgili birimde bulunan asılları dışındakilerin tamamı,
+ı) Birimlerce yazılan ve diğer birim, kurum ve kuruluşlara sadece bilgi için gönderilen tamim, genelge, genel mektup, v.b. fazla kopyalan, aslı ilgili birimlerde bulunan raporlar ile ilgili görüş yazılarının, diğer birimlerde bulunan kopya ve benzerleri,
+i) Dış kuruluşlardan bilgi için gelen rapor, bülten, sirküler, broşür, kitap ve benzeri basılı evrak ve malzeme ile her türlü süreli yayından ve basılı olmayan malzemeden, kütüphane ve dokümantasyon birimlerine mal edilenler dışında kalanlar, kullanılmasına ve saklanmasına gerek görülmeyen kitap, broşür, sirküler, form ve benzerleri ile mevzuat ve form değişikliği sebebiyle kullanım olanağı kalmayan basılı evrak ve defterlerden elde tutulacak örnekler dışındakilerin tamamı,
+j) Demirbaş, mefruşat ve benzeri istekler ile ilgili olarak yapılan yazışmalardan sonucu alınan ve işlemi tamamlanmış yazışmaların fazla kopyaları,
+k) işlemi tamamlanmış bütçe teklif yazılarının fazla kopyaları,
+l) Çalışma raporlarının fazla kopyaları,
+m) Yanlış havale ve sevk sebebiyle, ilgili evrak için yapılan her türlü yazışmalar,
+n) Kanun, tüzük ve yönetmelikler gereği belli bir süre sonra imhası gereken şifre, gizli emir, yazı ve benzerleri, ilgili mevzuat hükümlerine göre belli saklanma süresini doldurmuş bulunan yazışmalar,
+o) İsimsiz, imzasız ve adresi bulunmayan dilekçe, ihbar ve şikayet yazıları,
+ö) Bilgi için gönderilmiş yazılar ile müteferrik işler kapsamında, kesin bir sonuç doğurmayan her türlü yazışmalar,
+p) Personel devanı defter ve çizelgeleri, izin onaylan, izin dönüş bilgi verme yazıları, hasta sevk formları,
+r) Sınav duyurulan, başvuruları, tutanakları, yazılı kâğıtları, sonuç yazıları ve duyuru cetvelleri,
+s) Görev istekleri ve cevap yazılan, işleme konmamış (hıfz edilmiş) başvurular ve yazılar,
+ş) Birimler arası müteferrik yazışmalar ile davetiyeler, bayram tebrikleri ve benzerleri,
+t) Vatandaşlarla yapılan müteferrik yazışmalar ve vatandaşlardan gelen istek, teklif, teşekkür yazı ve cevapları,
+u) Yararlanılması, onarılması ve yeniden yerine konması mümkün olmayan evrak ve benzerleri,
+ü) Güncelliğini kaybetmiş olup, değersiz oldukları takdir edilenler,
+v) Bunların dışında kalıp da bürokratik gelişmeler sonucunda zamanla kendiliğinden oluşan delil olma niteliği taşımayan, hukuki ve ilmi kıymeti bulunmayan ve saklanmasına gerek görülmeyenler.
+Yukarıda sayılan malzemeler bir örnekleri saklanmak suretiyle tür ve yıllan gösteren imha listeleri tutularak imha edilebilir.

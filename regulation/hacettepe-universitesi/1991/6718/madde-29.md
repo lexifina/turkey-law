@@ -1,0 +1,4 @@
+Ayıklama ve imha Komisyonlarının Oluşumu
+Madde 29 — Üniversite arşivinde yapılacak ayıklama ve imha işlemleri için, Rektörün onayı ile, "Üniversite Arşivi Ayıklama ve İmha Komisyonu" kurulur. Üniversite Arşivi Ayıklama ve imha Komisyonu, arşiv hizmet ve faaliyetlerinin düzenlenmesi ve yürütülmesinden sorumlu birim amirinin veya Üniversite arşivi sorumlusunun başkanlığında Üniversite arşivinde görev yapan iki memur ile malzemeleri ayıklanacak ve imha edilecek ilgili birim amiri tarafından görevlendirilecek kamu idaresi, evrak yönetimi ve aynı zamanda birimin verdiği hizmetler konusunda bilgi ve tecrübe sahibi ilci eleman olmak üzere 5 kişiden oluşur.
+Üniversite bünyesindeki kütüphane ve dokümantasyon hizmetlerinin sorumlusu veya görevlendireceği kişi de bu komisyona doğal üye olarak katılır.
+Ankara dışındaki kampuslar için aynı yöntemle ayrıca "Ayıklama ve imha Komisyonu" oluşturulur.

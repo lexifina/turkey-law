@@ -1,0 +1,3 @@
+Malzemenin Birim Arşivine Devri
+Madde 13 — ilgili alt birimlerce, her türlü işlemi tamamlanmış ve uygunluk kontrolü yapılarak eksiklikleri giderilmiş arşivlik malzeme, bir sonraki takvim yılının Ocak ayı içerisinde birim arşivine devredilir. Malzemenin belirtilen süre içerisinde devrinde belirli bir sıra uygulanır..Bu sıranın belirlenmesinde, birim arşivince ilgili alt birimler arasında görüş birliği sağlanır.
+Teslim işlemleri ise, birimlerin arşiv işleriyle görevli personeli tarafından yerine getirilir/ Arşivlik malzeme, birim arşivine uygunluk kontrolü yapılmış olan kayıt defterleri veya föyleri ile devredilir.

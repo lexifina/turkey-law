@@ -1,0 +1,1 @@
+Madde 4 — Üniversite Arşivi hizmet ve faaliyetler Genel Sekreterin gözetim ve denetiminde, arşiv konusunda eğitim görmüş yöneticiler, arşivciler, uzmanlar, teknisyenler ve büro personelinden oluşan ayrı bir birim tarafından yürütülür. Birim arşiv hizmetlerinin bu Yönetmelik hükümlerine göre yürütülmesi, Üniversite Arşivince denetlenir ve Rektörlüğe gereken önerilerde bulunulur.

@@ -1,0 +1,2 @@
+Damgalama
+Madde 20 — Ayıklama ve imha işleminden sonra Üniversite arşivine devredilen malzeme, siyah ıstampa mürekkebi ve lastik damga kullanılmak kaydıyla "Hacettepe Üniversitesi Arşivi" damgası ile damgalanır. Damga, evrakların ön yüz.sol üst köşesine, defterlerin ise, iç kapağının ön yüz sol üst köşesine ve defterdeki belgelerin aynı şekilde sol üst köşesine basılır. Bunlar dışında kalan diğer tür arşiv malzemesine ise, yapışana etiket üzerine basılmış damga uygulanır.

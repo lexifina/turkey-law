@@ -1,0 +1,5 @@
+Devlet Arşivleri Genel Müdürlüğüne Devredilecek Malzemenin Ayrılması ve Teslimi
+Madde 24 - Üniversite arşivi ile fakülte, yüksekokul, enstitü ve araştırma, uygulama merkezlerinde saklama süresini tamamlayan ve arşiv malzemesi niteliğini kazanan malzemeler “Devlet Arşivleri Genel Müdürlüğüne Devredilecekler” şeklinde ayrılarak, hazırlanacak “Arşiv Malzemesi Devir Teslim ve Envanter Formu” (EK-5), varsa kayıt defterleri ile birlikte engeç 1 yıl içinde Devlet Arşivleri Genel Müdürlüğüne devredilir.
+Elektronik ortamlarda kayıtlı arşiv malzemesinin devir işlemlerinde Devlet Arşivleri Genel Müdürlüğü tarafından belirlenecek formatlara riayet edilir.
+Devir-Teslim ve Envanter Formunun bir örneği Üniversite arşivinde saklanır, bir örneği de bilgi için ilgili birim arşivine gönderilir.
+Arşiv malzemesinden hangilerinin Devlet Arşivleri Genel Müdürlüğü'nce teslim alınıp, hangilerinin geçici veya sürekli olarak Üniversitenin elinde kalacağı, Rektörlüğün görüşü alındıktan sonra Devlet Arşivleri Genel Müdürlüğü'nce kararlaştırılır. Üniversite Rektörlüğünün kendi arşivlerinde kalan arşiv malzemesi bu Yönetmeliğin 3 üncü maddesi hükümlerine göre saklanır.
