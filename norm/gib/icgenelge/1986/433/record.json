@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "VUK-1-24403-13-455/091717",
+  "source_id": 433,
+  "date": "1986-12-25",
+  "title": "VERGİ USUL KANUNU İÇ GENELGESİ SIRA NO : 1986/9",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/icgenelge/433",
+  "source_sha256": "1c366f0cc25ba4baf75bdd43d5aadf9369a9feb46394eb87f9f3c09dacc98bb4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
