@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 121360,
+  "assembly": "TBMM",
+  "term": 3,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "İskân Umum Müdürlüğü 1928 senesi bütçesinin bazı fasılları arasında münakale yapılmasına dair",
+  "title": "İskân Umum Müdürlüğü 1928 senesi bütçesinin bazı fasılları arasında münakale yapılmasına dair",
+  "first_sitting_date": "1929-02-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 34,
+      "sitting_date": "1929-02-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c008/tbmm03008034.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c008/tbmm03008fih.pdf",
+      "pages": [
+        "26",
+        "78"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 39,
+      "sitting_date": "1929-03-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c009/tbmm03009039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c009/tbmm03009fih.pdf",
+      "pages": [
+        "3",
+        "8:9"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=996&v_gelecek_sayfa=301&v_kullanici_id=27483791",
+  "source_sha256": "7f1ad3cef9297785da6b205858dcf4822532e53cb11289db4191fac48323260c",
+  "in_force": "1929-02-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
