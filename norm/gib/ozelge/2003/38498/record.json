@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-",
+  "source_id": 38498,
+  "date": "2003-09-16",
+  "title": "Ekim,Kasım,Aralık/2001 ve Ocak,Şubat/2O02 dönemlerine ilişkin iade talebinin Vergi Denetmeni...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38498",
+  "source_sha256": "6ff991ee4edec4d48ac5f8bb9b7cf3a3a227421ff650acd416942a1fb493cc9d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
