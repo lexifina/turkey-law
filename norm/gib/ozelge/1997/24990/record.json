@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2803-5-744/13562",
+  "source_id": 24990,
+  "date": "1997-04-01",
+  "title": "Bir şirketin en son adresinin ve ortaklarının ad ve soyadlarının özel bütçeli bir kuruluşa verilmesi vergi mahremiyetine kapsamına girmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24990",
+  "source_sha256": "365cf91d03f606e2aae1b032fd19f64ab855ffa17c3f6986f164d5af76a3476c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
