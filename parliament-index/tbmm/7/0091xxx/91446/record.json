@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 91446,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Takip ve tahsiline imkân görülmeyen borçların silinmesine dair Başbakanlık tezkeresi hakkında (3/310)",
+  "title": "Takip ve tahsiline imkân görülmeyen borçların silinmesine dair Başbakanlık tezkeresi hakkında (3/310)",
+  "first_sitting_date": "1946-05-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 23,
+      "sitting": 49,
+      "sitting_date": "1946-05-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c023/tbmm07023049.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c023/tbmm07023fih.pdf",
+      "pages": [
+        "44",
+        "74"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1343&v_gelecek_sayfa=901&v_kullanici_id=27484072",
+  "source_sha256": "510476c5a474028a78105a30b68e1f6585df66cfe552b63b7fc368775d0353ec",
+  "in_force": "1946-05-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
