@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "89/13662",
+  "source_id": 2113,
+  "date": "1989-01-31",
+  "title": "TÜRKİYE İLE YABANCI ÜLKELER ARASINDA HAVA VE DENİZ TAŞIMACILIĞINA İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/bkk/2113",
+  "related_law": "5422 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "d422dd79956bbe9cef63477694f905814db6d4876c06470590440494bc6db0ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
