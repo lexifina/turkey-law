@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.61/6158-3/37326",
+  "source_id": 36508,
+  "date": "1998-10-19",
+  "title": "Yurdumuzda bulunan yabancılara ait otolardan hangilerinin M.T.V.nden muaf  tutulacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36508",
+  "source_sha256": "a5bd90d02c580b9071d79d4816f61b189a2bef08a41d591d3be3f4271d0b3983",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
