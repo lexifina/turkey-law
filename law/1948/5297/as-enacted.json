@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5297",
+  "year": 1948,
+  "title": "Posta, Telgraf ve Telefon İşletme Genel Müdürlüğü 1949 sayılı Ocak ayına ait Geçici Bütçe Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1948-12-31",
+  "gazette_issue": "7094",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7094.pdf",
+  "source_sha256": "6d2e64c83e9cb1a3fb4a361ecbb52f51d9e5e5db2e060e3e6dbcd114b1e566c0",
+  "text_sha256": "5d98336fe0fb3d612ce33bf3e69a13fa8e6c4187e8f3a269b66d95e7851c91ed",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      455,
+      469
+    ],
+    [
+      301,
+      304
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105297.pdf",
+    "source_sha256": "ffd56bd18119cacb5dc6b5d61587183dd337f48f5ce870d55791fffef1f2e922",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9202,
+    "bag": 0.8352,
+    "kd_coverage": 0.9919,
+    "kd_body_compared": 0.9688,
+    "rg_words": 137,
+    "kd_words": 128,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
