@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7041",
+  "year": 1957,
+  "title": "Vakıflar Umum Müdürlüğü 1957 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-09-12",
+  "gazette_issue": "9704",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9704.pdf",
+  "source_sha256": "4e962cac663a8a75ad2f7b69036cc22f12e1ac63890f3540890d30351f662e79",
+  "text_sha256": "646efacb64ef8f0cf0fad29c81d81f6512d33f3cfbd53ea63fdd447ac7b59010",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      835,
+      867
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907041.pdf",
+    "source_sha256": "2541bc4d5f95c5cf2e21dcdc61c24eab0f45e039f7379de400521369667d7129",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.986,
+    "bag": 0.8842,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 95,
+    "kd_words": 95,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
