@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 239229,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "CUMHURBAŞKANINCA GERİ GÖNDERİLEN KANUNLAR",
+  "heading_as_published": "Cumhurbaşkanınca Geri Gönderilen Kanunlar",
+  "summary": "23.1.1953 Tarih ve 6023 Sayılı Türk Tabiplileri Birliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Madde Eklenmesi Hakkında Kanun Hükmünde Kararname ile 23.1.1953 Tarihli ve 6023 Sayılı Türk Tabipleri Birliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Madde Eklenmesi Hakkında 24.5.1983 Tarihli ve 65 Sayılı Kanun Hükmünde Kararnamenin Bazı Hükümleri ile 6023 Sayılı Kanunun Bazı Hükümlerinin Değiştirilmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında 3013 numaralı Kanunun, Anayasanın 89. maddesi gereğince bir daha görüşülmek üzere geri gönderildiğine dair tezkeresi (3/461)",
+  "title": "23.1.1953 Tarih ve 6023 Sayılı Türk Tabiplileri Birliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Madde Eklenmesi Hakkında Kanun Hükmünde Kararname ile 23.1.1953 Tarihli ve 6023 Sayılı Türk Tabipleri Birliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Madde Eklenmesi Hakkında 24.5.1983 Tarihli ve 65 Sayılı Kanun Hükmünde Kararnamenin Bazı Hükümleri ile 6023 Sayılı Kanunun Bazı Hükümlerinin Değiştirilmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında 3013 numaralı Kanunun, Anayasanın 89. maddesi gereğince bir daha görüşülmek üzere geri gönderildiğine dair tezkeresi (3/461)",
+  "first_sitting_date": "1984-06-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 80,
+      "sitting_date": "1984-06-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+      "pages": [
+        "383:384"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4b5eabaa3411d16154673c5a66ec28d3e39a2e5f814ee242e19bc068519a5793",
+  "in_force": "1984-06-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
