@@ -1,0 +1,128 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 177550,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Özel öğretim kurumları kanunu tasarısı hakkında (1/441)",
+  "title": "Özel öğretim kurumları kanunu tasarısı hakkında (1/441)",
+  "first_sitting_date": "1965-03-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 26,
+      "sitting": 55,
+      "sitting_date": "1965-03-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+      "pages": [
+        "102"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 60,
+      "sitting_date": "1965-03-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+      "pages": [
+        "289:324"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 61,
+      "sitting_date": "1965-03-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+      "pages": [
+        "329:349",
+        "349:357",
+        "358:365"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 62,
+      "sitting_date": "1965-03-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+      "pages": [
+        "370:397 398:403"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 63,
+      "sitting_date": "1965-03-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+      "pages": [
+        "416:420",
+        "425:457",
+        "458:477"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 64,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+      "pages": [
+        "482 505:506"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 65,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+      "pages": [
+        "537",
+        "540:566"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 66,
+      "sitting_date": "1965-04-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+      "pages": [
+        "582:607",
+        "609 623:624"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 67,
+      "sitting_date": "1965-04-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+      "pages": [
+        "653:656"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=1201&v_kullanici_id=27484903",
+  "source_sha256": "e162d28022cc0c1f85343fb04d5c8a52db9f3e64034990d441905c637b38df87",
+  "in_force": "1965-03-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
