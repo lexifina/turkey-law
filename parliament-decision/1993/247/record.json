@@ -1,0 +1,51 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "247",
+  "year": 1993,
+  "title": "Bakanlar Kuruluna Güvenildiğine Dair",
+  "adopted": "1993-07-05",
+  "adopted_as_published": "05/07/1993",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.07.1993 No: 21629",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc076/karartbmmc076/karartbmmc07600247.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 76",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 260019,
+      "title": "Bakanlar Kuruluna Güvenildiğine Dair",
+      "adopted_as_published": "05/07/1993",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc076/karartbmmc076/karartbmmc07600247.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 38,
+          "sitting": 122,
+          "sitting_date": "1993-07-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c038/tbmm19038122.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c038/tbmm19038fih.pdf",
+          "pages": [
+            "9:11",
+            "29:33"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=247&v_gelecek_sayfa=101&v_kullanici_id=27483280",
+      "page_sha256": "5d9095861d3b4618057f0ba4611c689117165f211b02bf7dc3a172ee6db30b49"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5d9095861d3b4618057f0ba4611c689117165f211b02bf7dc3a172ee6db30b49",
+  "issuer": "TBMM",
+  "in_force": "1993-07-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 05/07/1993; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
