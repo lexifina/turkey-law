@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-5 /2003-5 /Ücretler-1",
+  "source_id": 652,
+  "date": "2003-10-31",
+  "title": "2547 sayılı Yüksek Öğretim Kanununa tabi vakıf üniversitelerinde görevli öğretim elemanlarına, 'üniversite ödeneği' ve 'eğitim öğretim ödeneği' adı altında yapılan ve ücret niteliğinde olan ödemelerin, 2914 ve 2547 sayılı Kanunlarda öngörülen tutara kadar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/652",
+  "source_sha256": "bcfa41d2fdec3ea1cffe404bac5ac24452650ae30fab113059981292a39e5db7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
