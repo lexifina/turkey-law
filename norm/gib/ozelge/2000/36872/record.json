@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-690/11241",
+  "source_id": 36872,
+  "date": "2000-03-08",
+  "title": "Hazine'den tahsil edilen faizler için, hataenödenen banka ve sigorta muameleleri vergisinin iade edilip edilmeyeceği hakında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36872",
+  "source_sha256": "6e5dabe2727c853495eb2d4d1dc3080936ba2fc2a5fa5bd6dc365a17493809b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
