@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2763",
+  "year": 1935,
+  "title": "14.4.1930 tarih ve 1580 sayılı belediye Kanununa ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-06-15",
+  "gazette_issue": "3029",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3029.pdf",
+  "source_sha256": "c44359b9f949c5e613ca049ebf727c549f382a4974f76c441c9fb85b169ba05f",
+  "text_sha256": "28a9b7c6429ca97b5414a238fb3fa446ddc9a02b4f0e745b66d9eb2d1907fd1b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      8,
+      63
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502763.pdf",
+    "source_sha256": "466970d17719f10c0a96a05fd3cb82ab5344905e9ea0a77c103aa497018822cb",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.957,
+    "bag": 0.9271,
+    "kd_coverage": 0.9916,
+    "kd_body_compared": 0.9834,
+    "rg_words": 372,
+    "kd_words": 361,
+    "own_anchor": false,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
