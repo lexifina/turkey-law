@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.6164",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 342)",
+  "number": "6164",
+  "path": "teblig/2004/6164",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6164&MevzuatTertip=5",
+  "source_sha256": "27913811fc7e220d4e2a45830b207282fa551a1d424c82a95a086a498d617cad",
+  "source_bytes": 54353,
+  "published": "2004-11-28",
+  "gazette": "25654",
+  "in_force": "2004-11-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.11.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 830,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
