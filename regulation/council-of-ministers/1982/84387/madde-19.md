@@ -1,0 +1,1 @@
+Madde 19 – Anıtkabir Faaliyetlerinde turizmi geliştirici, turistlere kolaylık sağlayıcı önlemler alınır. Yabancı dilde tanıtıcı yayınlar bulundurulur. Bu amaçla, Kültür ve Turizm Bakanlığı ile gerekli koordine yapılır.

@@ -1,0 +1,12 @@
+Madde 8 – Anıtkabir Komutanlığının görevleri aşağıdadır:
+a) Atatürk'ün aziz naaşının defnedildiği Anıt Mezar'ı, Atatürk'e ait araç - gereç, giyim - kuşam, kitap ve belgelerle Atatürk'ün hatırasını taşıyan malzemelerin sergilendiği Anıtkabir Müzesini, Anıtkabir Kitaplığını, ALAGÖZ Müzesini ve bağlı birimlerini Atatürk'ün hatırasına ve dünya görüşüne layık olabilecek şekilde korumak, bakım ve onarımını yaptırmak, güzelleştirmek, geliştirmek ve tamamlamak,
+b) Anıtkabir'i halkın ziyaretine açık ve hazır bulundurmak, bu amaçla gerekli düzenlemeleri yapmak, ziyaret gün ve saatlerini belirlemek,
+c) Anıtkabir'de bulunan taşınır ve taşınmaz malları korumak, sayım ve kontrolunu yapmak, bu amaçla Kültür ve Turizm Bakanlığı ile gerekli koordineyi yapmak,
+d) Anıtkabir'in yangına, sabotaj ve hırsızlığa karşı güvenlik ve korunmasını sağlamak,
+e) Atatürk'ün yaşamı, hatırası ve dünya görüşü ile ilgili araç-gereç, giyim-kuşam, kitap ve belgelerle malzemeleri satın almak; kabul etmek, derlemek, envanteri, tasnifi, kataloglanması, depolanması ve hizmete sunulması ile ilgili işlemleri yapmak,
+f) Anıtkabir'de düzenlenecek tören işlerini yürütmek,
+g) Anıtkabir'de rehberlik hizmetlerini yürütmek, bu amaçla tanıtıcı kitaplar hazırlamak veya hazırlatmak, gerektiğinde sergiler düzenlemek, Atatürk'ün dünya görüşünü yaymak ve yaşatmak amacıyla hatıra eşyası hazırlamak veya yaptırtmak, halka sunmak,
+h) Anıtkabir'de fotoğraf ve film çekme esaslarını saptamak,
+i) Atatürk ve Anıtkabir konusunda araştırma yapan kişi ve kuruluşlarla işbirliği yapmak; bilimsel ve teknik araştırmalarda yardımcı olmak,
+j) Genelkurmay Başkanlığının izniyle ve hazırlanacak yönerge esaslarına göre bağış ve yardım kabul etmek,
+k) Yıllık çalışma faaliyetlerini ve bütçeyi planlamak ve uygulamak,

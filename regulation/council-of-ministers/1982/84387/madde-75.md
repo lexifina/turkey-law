@@ -1,0 +1,1 @@
+Madde 75 – Araç - gereç, taşınır, taşınmaz mallar, personel kadro ve yer değiştirmeleri ile bütçe ve ödenek işlemleri mevcut mevzuat hükümlerine göre ilgili kuruluşlarla yapılacak protokollarla gerçekleştirilir.

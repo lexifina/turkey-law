@@ -1,0 +1,1 @@
+Madde 12 – Anıtkabir'de bulunan taşınır ve taşınmaz mal ve eserlerin kayıt, kabul, sayım ve kontrolları için gerekli esaslar, Ordu Mal Yönetmeliği ile Ayniyat Yönetmeliği gözönüne alınarak hazırlanacak yönergede belirtilir.

@@ -1,0 +1,1 @@
+Madde 25 – Yayınlanmamış, ya da baskısı tükenmiş eserlerin resim ve fotokopisini çekmek, Anıtkabir Komutanlığının iznine bağlıdır. Kimlere, hangi hallerde izin verileceği ve tutulacak kayıtlar yönergede belirtilir.

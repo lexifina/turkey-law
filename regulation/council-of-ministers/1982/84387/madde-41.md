@@ -1,0 +1,1 @@
+Madde 41 – Ulusal Bayram ve belirli günlerde, gelen çelenklerin sadece protokol yönünden en büyük kişi ya da kuruluşun çelengi törenle belirli yerine koyulur. Diğer çelenkler, daha önceden, protokole göre Mozole'ye veya meydandaki sütunlara yerleştirilir. Bunlar için ayrıca tören yapılmaz.

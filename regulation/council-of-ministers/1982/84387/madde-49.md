@@ -1,0 +1,1 @@
+Madde 49 – Tören ve çelenk koymalarda, fotoğraf çekmek ve diğer nedenlerle, kabrin üzerine çıkılmasına izin verilmez. Çelenk koyarken ya da özel defter imzalanırken fotoğrafı ancak basın için ayrılan platform üzerinden çekilir.

@@ -1,0 +1,1 @@
+Madde 68 – Bakım - onarım ve restorasyon Kurulu kararını gerektirmeyen, yeni sanat yapıları ile eski eserler ve Anıtkabir ile ilgili olmayan bakım, onarım, hizmet ve satınalmalar, 2490 ve 1050 sayılı kanunlar çerçevesinde yürütülür.

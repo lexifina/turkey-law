@@ -1,0 +1,1 @@
+Madde 23 – Müze, kitaplık ve ziyarete açık birimlerde mutlaka görevli personel bulundurulur. Komutan'ın izni olmadan görev yerleri boş bırakılamaz. Yabancıların katıldığı törenlerle, Yabancı Turist ziyaretleri için yeteri kadar mihmandar tercüman ve tercüman Komutanlık kadrosuna konur.

@@ -1,0 +1,1 @@
+Madde 22 – Anıtkabir'in ziyarete kapalı olduğu saatlerde içerde nöbetçi ve görevli personel dışında kimse bulunamaz. Ziyaretçi kabul edilemez. Ancak, protokola tabi tören ve ziyaretler özel izinle yapılabilir.

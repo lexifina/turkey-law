@@ -1,0 +1,1 @@
+Madde 14 – Atatürk ve Türk Devrimi konusundaki eserlerin yer alacağı "Atatürk ve Türk Devrimi Kitaplığı" ziyaretçi ve araştırmacıların incelemelerine açık tutulur. Bu kitaplıktan yararlanma esasları yönergede belirtilir.

@@ -1,0 +1,1 @@
+Madde 34 – Eski eser, anıt ve sanat yapıların denetimi 3 aylık periyodlarla, 29 uncu maddede belirtilen Kurul tarafından yapılır. Kurul'un tutacağı rapor, Genelkurmay Başkanlığı ile Anıtkabir Komutanlığına verilir. Denetim ve kontrola tabi tutulacak hususlar yönergede belirtilir.

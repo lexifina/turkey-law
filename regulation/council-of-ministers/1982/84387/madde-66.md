@@ -1,0 +1,1 @@
+Madde 66 – Bina küçük onarım ve bina büyük onarımı ile yatırım harcamalarına ilişkin ödenekler, Komutanlığın önerisi üzerine Milli Savunma Bakanlığının bütçesine dahil edilir. Diğer harcama kalemlerine ait ödenekler ise Milli Savunma Bakanlığının bütçesinin Genelkurmay Başkanlığı ile ilgili tertiplerine dahil edilir.

@@ -1,0 +1,1 @@
+Madde 36 – Anıtkabir'de İstiklal Marşı dışında marş ve müzik çalınmaz. Ses ve ışık gösterileri ise Anıtkabir Komutanlığınca belirlenecek saatlerde, Kültür ve Turizm Bakanlığı ile yapılacak protokol esaslarına göre yapılır.

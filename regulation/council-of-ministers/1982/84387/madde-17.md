@@ -1,0 +1,1 @@
+Madde 17 – Anıtkabir ve bağlı birimlerin hizmete açık tutulmasında; Atatürk'ün yaşamı ve dünya görüşünü halka götürme, tanıtma, benimsetme, sevdirme ve anlatma ana amaçtır. Bu nedenle; ziyareti engelleyici ve güçleştirici davranışlar önlenir. Ziyareti kolaylaştırıcı önlemler alınır. Rehberlik hizmeti geliştirilir.

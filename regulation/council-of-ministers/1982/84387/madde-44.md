@@ -1,0 +1,1 @@
+Madde 44 – 10 Kasım ve emir verildiğinde diğer törenlerde; Kara Kuvvetleri Komutanlığından 4, Deniz ve Hava Kuvvetleri Komutanlığı ile Jandarma Genel Komutanlığından ikişer Teğmen - Yüzbaşı rütbesinde subay saygı nöbetçisi olarak görevlendirilir. Gerekli koordine Anıtkabir Komutanlığınca yapılır.

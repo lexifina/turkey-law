@@ -1,0 +1,1 @@
+Madde 48 – Anıtkabir'de her tören tipi için ayrı bir defter tutulur. Toplu ve temsili saygı ziyaretleri için ayrı bir defter tutulur. Toplu ve temsili saygı ziyaretlerinde deftere yazılacak hususlar, yazılmadan önce Anıtkabir Komutanlığına yazılı olarak verilir.

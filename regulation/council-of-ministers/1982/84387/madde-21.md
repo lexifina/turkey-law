@@ -1,0 +1,1 @@
+Madde 21 – Üç aylık çalışma programı Devlet Başkanlığı ve Dışişleri Bakanlığı Protokol Genel Müdürlüğüne, Genelkurmay Genelsekreterliğine, Kültür ve Turizm, Bayındırlık, İçişleri ve Milli Savunma Bakanlıklarına gönderilir.

@@ -1,0 +1,1 @@
+Madde 70 – Anıtkabir'de 1 ve 8 inci maddeler uyarınca bir turistik ve hatıralık eşya satış birimi kurulur. Bu birim, Anıtkabir Derneği'nce işletilir. Bu amaçla, Anıtkabir Derneği ile Komutanlık arasında bir protokol yapılır.

@@ -1,0 +1,1 @@
+Madde 20 – Anıtkabir faaliyetlerini düzenlemek ve aksaklıkları gidermek üzere, Komutanlık bünyesinde 3 ayda bir toplantı yapılarak, geçmiş ayların bilimsel, eğitsel ve kültürel çalışmaları ile günlük çalışmaları gözden geçirilir ve gelecek ayların çalışma programı düzenlenir. Toplantılara 15 ve 29. maddelerdeki Kurul, ya da Temsilcileri çağrılabilir.

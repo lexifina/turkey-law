@@ -1,0 +1,1 @@
+Madde 40 – Anıtkabir'de çelenk koyma ve törenler için, belirlenen saatten 5 dakika önce, 1 ve 2 numaralı törenlerde Aslanlı Yol başında, 3 numaralı törenlerde ise Mozole önündeki alanda hazır bulunulur.10 Kasım Atatürk'ü Anma Töreni'nde hazır bulunma saati 08.40'dır.

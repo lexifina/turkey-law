@@ -1,0 +1,1 @@
+Madde 54 – Ziyaretçiler girişte gözle kontrol edilerek, görünüşleri kuşku uyandıranların, dolaylı gözetim altında ziyarette bulunmaları sağlanır. Bu amaçla kapalı devre televizyon v.b. kolaylıklardan yararlanılabilir.

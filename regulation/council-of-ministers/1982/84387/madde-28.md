@@ -1,0 +1,1 @@
+Madde 28 – Eski eserlerle, sanatsal değeri olan anıt ve yapıların (traverten kaplamalar, mozole taşı, taş elemanları, reliafler, freskler, heykel, mozayik v.b. yapılar) bakım onarım, yenileştirme, güzelleştirme ve tamamlamaları, uzmanlardan oluşan 29 ncu maddedeki Kurul tarafından verilecek karara göre yapılır.

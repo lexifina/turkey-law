@@ -1,0 +1,1 @@
+Madde 37 – Anıtkabir'de çelenk koyma ve törenler, Devlet Başkanlığı ve Dışişleri Bakanlığı Protokol Genel Müdürlüğü, Genelkurmay Başkanlığı ile Ankara Garnizon Komutanlığının iznine bağlıdır. Tören isteği, normal hallerde Genelkurmay Başkanlığına, ivedi hallerde ise doğruca Anıtkabir Komutanlığına duyurulur.

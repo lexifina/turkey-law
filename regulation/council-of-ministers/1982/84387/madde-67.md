@@ -1,0 +1,1 @@
+Madde 67 – Bakım, onarım ve yeni inşaa kararı 29 uncu maddede belirtilen Kurul Kararı ile alınır. Satınalma, etüd, danışmanlık hizmetleri ile bakım, onarım ve inşaa 1710 sayılı Eski Eserler Kanununun 19 uncu maddesi ile mevzuat hükümlerine göre yapılır.
