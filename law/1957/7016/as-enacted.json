@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7016",
+  "year": 1957,
+  "title": "Avukatlık Kanununun 4. maddesinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-24",
+  "gazette_issue": "9641",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9641.pdf",
+  "source_sha256": "e8c30baa08788912ae5708204f7b2fe3e9701f2cbfad32085425be86f46a729e",
+  "text_sha256": "c260aaba773d992d6bf891d80f707747997dfdf9e4a084000999cee33246475f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      38
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907016.pdf",
+    "source_sha256": "2c88c76dcf2204e96e284ee1123a9480964ab46956811b5d5461d59c2d744aa9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9634,
+    "bag": 0.8515,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9622,
+    "rg_words": 179,
+    "kd_words": 185,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
