@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3462",
+  "year": 1938,
+  "title": "İcra Vekilleri Heyetinin 16 şubat 1937 tarih ve 2/6037 numaralı ve 28 Temmuz 1937 tarih ve 2/7181 numaralı kararları ile 552/B tarife pozisyonunda Yugoslavya'ya verilen 100 ve 400 tonluk munzam kontenjanların 28 birinci teşrin 1936 tarihli Türk ·Yugoslav anlaşmasına ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-07-04",
+  "gazette_issue": "3950",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3950.pdf",
+  "source_sha256": "9839077b81982928680c2543783bc1b82cd85e8c5a660c8acde00e8fd0d94d18",
+  "text_sha256": "a6dcf2ef856d0567c4549fe5d67a07909e0473687fcc66374035032cec8443bf",
+  "text_status": "ocr",
+  "pages": [
+    7
+  ],
+  "line_span": [
+    [
+      2315,
+      2346
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803462.pdf",
+    "source_sha256": "d21cff214ca79e9451080b4925393412f5dc4a7c712f855aa226264d6211ed3b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9692,
+    "bag": 0.8927,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.1551,
+    "rg_words": 88,
+    "kd_words": 574,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
