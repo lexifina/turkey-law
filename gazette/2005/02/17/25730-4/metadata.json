@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-17",
+  "issue": "25730",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Beşeri Tıbbi Ürünlerin Sınıflandırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050217-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050217.htm",
+  "index_sha256": "a8f0b83347c52abfcb2ac3d966362d39cc3f409e9646fab577a04d3ab11b94ff",
+  "index_header": "17 Şubat 2005 ... Sayı : 25730",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
