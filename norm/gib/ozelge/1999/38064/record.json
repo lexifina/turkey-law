@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5214-4/58380",
+  "source_id": 38064,
+  "date": "1999-12-30",
+  "title": "Uluslararası taşımacılığa ilişkin TIR karnesinin tasdikli dip koçanlarını ibraz edememesi durumunda bu dönemlerde yaptığı taşımacılık işlemlerini iade yapılması mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38064",
+  "source_sha256": "71b4ca272a5f13d3da7b5f9f63127c9cdcf1513ec0075ae1b23ba03767a332ac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
