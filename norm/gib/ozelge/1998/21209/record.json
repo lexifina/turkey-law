@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4010-61/22332",
+  "source_id": 21209,
+  "date": "1998-06-15",
+  "title": "Maliyet bedeli artırımı için, arsa ve arazilerin iktisap tarihinden itibaren en az iki tam yıl süreyle işletmede kayıtlı bulunması ve inşaatın tamamlanmasından önce satışı yapılan gayrimenkuller için maliyet artırımının satışın yapıldığı tarihe kadar uygu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21209",
+  "source_sha256": "2b7a7135ee60acba978d6370ed351dee74d3c121589acfc952878dc7a48d3dd9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
