@@ -1,0 +1,220 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "251",
+  "year": 1963,
+  "title": "6183 sayılı Âmme alacaklarının tahsil usulü hakkındaki Kanunun 10. maddesinin 5. bendi ile 60. maddesinin değiştirilmesine dair Kanun",
+  "adopted": "1963-06-13",
+  "adopted_as_published": "13/06/1963",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "19.06.1963 No: 11432",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600251.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 46",
+  "committee_reports": [
+    {
+      "label": "MM 91 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015065ss0091.pdf"
+    },
+    {
+      "label": "MM 320ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018095ss0320ek01.pdf"
+    },
+    {
+      "label": "MM 320ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018095ss0320ek01.pdf"
+    },
+    {
+      "label": "CS 117no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011063ss0117.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 340780,
+      "title": "6183 sayılı Âmme alacaklarının tahsil usulü hakkındaki Kanunun 10. maddesinin 5. bendi ile 60. maddesinin değiştirilmesine dair Kanun",
+      "adopted_as_published": "13/06/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600251.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 91 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015065ss0091.pdf"
+        },
+        {
+          "label": "MM 320ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018095ss0320ek01.pdf"
+        },
+        {
+          "label": "MM 320ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018095ss0320ek01.pdf"
+        },
+        {
+          "label": "CS 117no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011063ss0117.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 104,
+          "sitting_date": "1962-06-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006104.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006fih.pdf",
+          "pages": [
+            "4"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 132,
+          "sitting_date": "1962-10-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c008/mm__01008132.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c008/mm__01008fih.pdf",
+          "pages": [
+            "123"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 65,
+          "sitting_date": "1963-04-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015fih.pdf",
+          "pages": [
+            "104:107",
+            "124:127"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 66,
+          "sitting_date": "1963-04-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015066.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015fih.pdf",
+          "pages": [
+            "136",
+            "148",
+            "154",
+            "186:189"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 85,
+          "sitting_date": "1963-05-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017085.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017fih.pdf",
+          "pages": [
+            "195"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 94,
+          "sitting_date": "1963-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018094.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+          "pages": [
+            "52:53"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 95,
+          "sitting_date": "1963-06-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+          "pages": [
+            "122:123"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1801&v_kullanici_id=27483225",
+      "page_sha256": "33cf0b4851d47949e2eebb18398e9f799f6d84f9701f66640a4cbe2215be964f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 173539,
+      "title": "6183 sayılı Âmme alacaklarının tahsil usulü hakkındaki Kanunun 10 ncu maddesinin 5 nci bendi ile 60 ncı maddesinin değiştirilmesine dair Kanun",
+      "adopted_as_published": "13/06/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600251.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 91 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015065ss0091.pdf"
+        },
+        {
+          "label": "MM 320ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018095ss0320ek01.pdf"
+        },
+        {
+          "label": "MM 320ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018095ss0320ek01.pdf"
+        },
+        {
+          "label": "CS 117no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011063ss0117.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 56,
+          "sitting_date": "1963-04-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c010/cs__02010056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c010/cs__02010fih.pdf",
+          "pages": [
+            "539"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 63,
+          "sitting_date": "1963-05-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011063.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011fih.pdf",
+          "pages": [
+            "183:184"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 65,
+          "sitting_date": "1963-05-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011fih.pdf",
+          "pages": [
+            "244",
+            "258:260",
+            "270:272"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=201&v_kullanici_id=27483235",
+      "page_sha256": "556899a76dfbaf68914e5dd95f82a8639a02df8d2ff256048f22c24a0c15d660"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "33cf0b4851d47949e2eebb18398e9f799f6d84f9701f66640a4cbe2215be964f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1963-06-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 13/06/1963; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
