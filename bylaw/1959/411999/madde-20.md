@@ -1,0 +1,1 @@
+Madde 20 – En çok rey alarak umumi heyete asli ve yedek delege seçildikleri tahakkuk edenlerin seçim mazbataları sandık kurulu tarafından tanzim edilerek alakalılara tebliğ edilmek üzere vilayetlerde valilere, kazalarda kaymakamlara gönderilir.

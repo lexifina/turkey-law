@@ -1,0 +1,1 @@
+Madde 25 – Oda meclisi seçimleri, umumi heyet tarafından gizli reyle yapılir. Seçime başlamadan önce delegeler kendi aralarından 5 kişilik bir tasnif heyeti seçerler. Kapalı bir kutuya atılan rey puslaları bu heyet tarafından tasnif edilir ve netice bir mazbataya bağlanır.

@@ -1,0 +1,2 @@
+Madde 61 – Ölüm vukuunda sağlanacak tazminat, ölenin son aylığının en az bir senelik tutarıdır. Bundan maada ölüm tarihine kadar ifa edilmiş olan hizmetlere ve bu hizmetler esnasında alınmış aylıklara nazaran ihtiyarlık hali için tesbit edilecek emsal ve nispetler dahilinde munzam bir tazminatın sağlanması şarttır.
+Sigortalı memur, hastalık veya kaza neticesinde tam ve devamlı bir malüliyete uğradığı takdirde kendisine yukarıdaki fıkrada yazılı ölüm hali için sağlanan tazminat aynen ödenir.

@@ -1,0 +1,1 @@
+Madde 63 – Yıllık sigorta primi, her memur için almakta olduğu aylığın azami bir buçuk mislidir. Bu suretle hesaplanacak sigorta primlerinin tutarı, her yıl odalar ve odalar birliği tarafından sigorta sandığına ödenir.

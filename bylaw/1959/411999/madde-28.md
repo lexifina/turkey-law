@@ -1,0 +1,1 @@
+Madde 28 – İdare heyetine seçilmiş aza sayısı yarıya veya daha aşağı düştüğü ve yedeklerle bu sayının en az yarıdan bir fazlasına çıkarılmasına imkan olmadığı takdirde oda meclisi yeniden bir idare heyeti seçer. Bu heyet evvelki heyetin müddetini tamamlar.

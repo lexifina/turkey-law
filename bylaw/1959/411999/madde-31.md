@@ -1,0 +1,1 @@
+Madde 31 – Giriş ücretleri, birinci derece çiftçiler için 500 - 5000, ikinci derece çiftçiler için 250 - 500, üçüncü derece çiftçiler için 100 - 250, dördüncü derece çiftçiler için 25 - 100, beşinci derece çiftçiler için 1 - 25 liradır.

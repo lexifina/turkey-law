@@ -1,0 +1,1 @@
+Madde 47 – Hizmetlilerin vasıfları istihdam şartları, ücretleri İdare Heyetlerince tesbit ve odalarda, oda meclislerince ve Odalar Birliğinde birlik umumi heyetince tasdik edilir. 15 gün önce ihbar edilmek veya 15 günlük ücretleri ödenmek şartiyle bunların her zaman işlerine nihayet verilmesi caizdir.

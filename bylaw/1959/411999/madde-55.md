@@ -1,0 +1,2 @@
+Madde 55 – Memurlardan biri başka bir odaya naklini istediği ve o odaca da kabul edildiği takdirde, naklen tayin, memurun emrinde çalıştığı oda idare heyetinin yazılı muvafakatı ile yapılabilir. İstifa etmiş memurlar hakkında da istifanın kabulü tarihinden itibaren üç ay için bu hüküm caridir.
+Naklinin sıhhi sebeplerden ileri geldiğini resmi sağlık kurulu raporu ile tevsik edebilen memura muvafakat verilir.

@@ -1,0 +1,4 @@
+Madde 11 – Seçim çevresinin ihtiyar meclisi veya heyeti, muhtarın riyasetinde toplanarak sandık kurulu vazifesini görür.
+Hazır bulunamayan azaların yerlerine yedekleri alınır. Sandık kurulu, bunlarla da teşekkül edemediği takdirde muhtar tarafından aza seçilebilme vasıflarını haiz kimseler kurula iştirak ettirilir. Muhtarın hazır bulunmaması halinde kurul kendi azası arasından bir reis seçer.
+Sandık kurulları, seçimin intizam ve selametle cereyanını temin için gerekli tedbirleri almak, rey verme işlerini idare ve kontrol etmek, reyleri saymak ve bu hususu tutanağa geçirmek ve neticeyi müstenidatı ile birlikte vilayet merkezinde valilere ve kazalarda kaymakamlara bildirmek vazifesiyle mükelleftirler.
+Bu seçimlerde milletvekili seçimleri için kullanılan rey sandıklarından faydalanılır. Rey sandıkları mahallelerde muhtarların vazife gördükleri yerlere, köylerde ise köy odasına, camiine veya okuluna vaz olunur.

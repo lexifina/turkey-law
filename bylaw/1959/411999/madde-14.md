@@ -1,0 +1,1 @@
+Madde 14 – Rey verme işi biter bitmez kurul başkanı, yüksek sesle keyfiyeti ilan eder. Masa üzerinde sandıktan başka ne varsa kaldırılır. Rey vermenin bittiği saat tutanağa geçirilir. Bundan sonra azalık cetvelinde yazılı olupta rey vermiş olanların sayısı, isimleri hizasındaki imza veya parmak izleri sayılarak tutanağa geçirilir ve netice yüksek sesle ilan edilir.

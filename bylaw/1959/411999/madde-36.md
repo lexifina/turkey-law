@@ -1,0 +1,1 @@
+Madde 36 – Her aza, azalık karnesinin kendisine verildiği tarihten itibaren bir ay içinde giriş ücretini ödemek zorundadır. Odaların ilk teşekkülünde hakiki şahıs olan azalar için bu bir aylık müddet, azalık karnesinin verildiği tarihten bir yıl sonra başlar.

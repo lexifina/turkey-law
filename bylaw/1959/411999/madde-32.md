@@ -1,0 +1,2 @@
+Madde 32 – Yıllık aidatın asgari hadleri; birinci derece çiftçiler için 500, ikinci derece çiftçiler için 250, üçüncü derece çiftçiler için 100, dördüncü derece çiftçiler için 25, beşinci derece çiftçiler için 1 liradır.
+Yıllık aidatın azami had, azanın bir evvelki yıl gayri safi çiftçilik gelirlerinin en az binde biri ve en çok binde beşi nispeti üzerinden hesaplanır. Birinci derece çiftçilerde bu nispet, binde beşten aşağı olamaz.

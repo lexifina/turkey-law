@@ -1,0 +1,1 @@
+Madde 26 – Oda meclisi tarafından yapılacak idare heyeti seçimi hakkında da Yukarıki madde hükmü tatbik olunur. Şu kadar ki oda meclisinin kendi arasından seçeceği tasnif heyeti 3 kişiden teşkil edilir.
