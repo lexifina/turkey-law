@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2002/898",
+  "list_number": "898",
+  "decision_date": "2002-11-12",
+  "title": "YSK ilke kararı 2002/898",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4163/2002-898-karar.htm",
+  "source_sha256": "3b4b6eb06d4b2dc428d6860f657ad1ba9a8bc6aeb73196f6ec0dd94bfe034277",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2002-11-12",
+  "law_text_complete": false
+}
