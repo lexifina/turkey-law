@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7007",
+  "year": 1957,
+  "title": "Türkiye Büyük Millet Meclisi yeni binasiyle müştemilâtının tefriş ve tezyin işlerinin yapılması vazife ve salâhiyetlerinin Nafıa Vekâletine devri hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-20",
+  "gazette_issue": "9638",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9638.pdf",
+  "source_sha256": "549b564db2ffa24ecd61ab081b07c6d03ccd8d9d91cca8098c8e80fa47142561",
+  "text_sha256": "b0fac4486a6e73414f157e977b70f1b0871bd1ba7166c009ffe91e89fdb29916",
+  "text_status": "ocr",
+  "pages": [
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      968,
+      1043
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907007.pdf",
+    "source_sha256": "0e224ecbe3cdc828f1375e397f15400b69e2603e2b1cf5cf4c835cad2120b328",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9686,
+    "bag": 0.8289,
+    "kd_coverage": 0.9933,
+    "kd_body_compared": 0.9944,
+    "rg_words": 321,
+    "kd_words": 359,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
