@@ -1,0 +1,6 @@
+MERKEZ MÜDÜRÜ VE GÖREVLERİ
+Madde 7- (Başlığı ile birlikte değişik:RG.15/11/2009-27407)
+Merkez Müdürü; Merkezin çalışma alanı ile ilgili Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir.
+Müdürün önerisi ile Müdüre çalışmalarında yardımcı olmak üzere, Merkezin faaliyet alanı ile ilgili Üniversitede görevli öğretim elemanları arasından en çok iki kişi, üç yıl için Rektör tarafından müdür yardımcısı olarak görevlendirilir. Rektör gerektiğinde aynı usulle müdür yardımcılarını değiştirebilir.
+Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil bırakır. Vekalet altı aydan fazla sürerse yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer.
+Müdür; Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden, Merkezin tüm etkinliklerinin gözetim ve denetiminden ve bu konularda gerekli önlemlerin alınmasından Rektöre karşı birinci derecede sorumludur. Merkezi temsil eden Müdür; Yönetim Kuruluna başkanlık eder, Merkez çalışmalarının gerektirdiği görevlendirmeleri yapar, her öğretim yılı sonunda ve istenildiğinde Merkezin genel durumu ve işleyişi hakkındaki raporunu Yönetim Kurulunun görüşünü de aldıktan sonra Rektöre sunar.

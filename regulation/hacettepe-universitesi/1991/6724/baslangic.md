@@ -1,0 +1,3 @@
+HACETTEPE ÜNİVERSİTESİ FARMASÖTİK VE BİYOFARMASÖTİK BİLİMLER TEKNOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ (FATUM) YÖNETMELİĞİ
+KURULUŞ
+Madde l- 2547 Sayılı Yükseköğretim Kanununun 3.üncü maddesinin (j) bendi ve 7.nci maddesinin (d) bendinin 2.nci fıkrası uyarınca ve Hacettepe Üniversitesi Senatosunun 19.6.1991 tarih ve 91-49 sayılı kararı ile kurulması önerilen "Hacettepe Üniversitesi Farmasötik ve Biyofarmasötik Bilimler Teknoloji Uygulama ve Araştırmalar Merkezi (FATUM)" Yükseköğretim Kurulunun 17.10.1991 tarihli toplantısında kurulmasına karar verilmiştir. Bu yönetmelikte FATUM "Merkez" olarak adlandırılmıştır.

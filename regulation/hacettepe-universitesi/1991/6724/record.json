@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik, Resmi Gazete'de yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1991-12-12",
+      "12.12.1991",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik, Resmi Gazete'de yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21079",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1991-12-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/1991/6724",
+  "published": "1991-12-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6724&MevzuatTertip=5",
+  "source_bytes": 22075,
+  "source_id": "8.5.6724",
+  "source_sha256": "f116e6022e083071cf57e46a7a3d3c49a5177879d5bbf383c9fb9b708428f06c",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nFARMASÖTİK VE BİYOFARMASÖTİK BİLİMLER\r\n\r\nTEKNOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ (FATUM) YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 941
+}
