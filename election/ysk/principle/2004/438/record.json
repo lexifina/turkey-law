@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/438",
+  "list_number": "438",
+  "decision_date": "2004-03-01",
+  "title": "YSK ilke kararı 2004/438",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4024/2004-438-karar.htm",
+  "source_sha256": "8b9902b3bdbfb960ca2992af0986fcbe6e621e2162588f72838532c91dfc1566",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-03-01",
+  "law_text_complete": false
+}
