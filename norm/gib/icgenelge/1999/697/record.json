@@ -1,0 +1,34 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "1999 / 5",
+  "source_id": 697,
+  "date": "1999-12-02",
+  "title": "UYGULAMA İÇ GENELGESİ SERİ NO : 1999 / 5",
+  "source": "https://gib.gov.tr/mevzuat/kanun/501/icgenelge/697",
+  "source_sha256": "3ec0693b13777d71210a07b9ea62bb0dacaf3f04cc19f6c06d2f8944ba7e5dd5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/501/icgenelge/696",
+        "quote": "2.12.1999 tarih ve 1999/5 Seri No.lu Uygulama İç Genelgesinin"
+      }
+    ]
+  },
+  "unincorporated_annexes": [
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/4481icgenektablo.html",
+      "title": "I SAYILI LİSTE : VERGİ KODLARINI GÖSTERİR LİSTE",
+      "status": "official-link-only; annex text not included"
+    }
+  ]
+}
