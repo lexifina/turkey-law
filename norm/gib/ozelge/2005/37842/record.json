@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.40/4022- 3 4/O12943",
+  "source_id": 37842,
+  "date": "2005-03-18",
+  "title": "Beyannameye Dahil Edilmeyecek Gelirler  bölümünde belirtilen gelirler için beyanname...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37842",
+  "source_sha256": "eecfed9dfb52f67d1b7190fea4cfca16420fadfcdcaeecd35c0c07e58e9a0aac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
