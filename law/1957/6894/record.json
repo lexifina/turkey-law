@@ -1,0 +1,97 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6894",
+  "year": 1957,
+  "title": "Sınai mülkiyetin himayesine mahsus 20 Mart 1883 tarihli Paris İttihadı Mukavelenamesiyle, Ticaret eşyası üzerinde sahte mahreç İşaretlerinin men'i hakkındaki 14 Nisan 1891 tarihli Madrid İtilâfnamesinin, 2 Haziran 1934 tarihli Londra tadillerinin tasdiki hakkında kanun",
+  "adopted": "1957-01-30",
+  "adopted_as_published": "30/01/1957",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.02.1957 No: 9529",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906894.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 39",
+  "committee_reports": [
+    {
+      "label": "TBMM 53 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c016/tbmm10016028ss0053.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 10,
+      "kayit_no": 52023,
+      "title": "Sınai mülkiyetin himayesine mahsus 20 Mart 1883 tarihli Paris İttihadı Mukavelenamesiyle, Ticaret eşyası üzerinde sahte mahreç İşaretlerinin men'i hakkındaki 14 Nisan 1891 tarihli Madrid İtilâfnamesinin, 2 Haziran 1934 tarihli Londra tadillerinin tasdiki hakkında kanun",
+      "adopted_as_published": "30/01/1957",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906894.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 53 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c016/tbmm10016028ss0053.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 16,
+          "sitting": 23,
+          "sitting_date": "1957-01-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c016/tbmm10016023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c016/tbmm10016fih.pdf",
+          "pages": [
+            "5"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 26,
+          "sitting_date": "1957-01-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c016/tbmm10016026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c016/tbmm10016fih.pdf",
+          "pages": [
+            "95:96"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 28,
+          "sitting_date": "1957-01-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c016/tbmm10016028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c016/tbmm10016fih.pdf",
+          "pages": [
+            "158:159"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 32,
+          "sitting_date": "1957-01-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c016/tbmm10016032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c016/tbmm10016fih.pdf",
+          "pages": [
+            "246:247",
+            "249",
+            "251:252",
+            "254",
+            "259:262"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=643&v_gelecek_sayfa=401&v_kullanici_id=27483184",
+      "page_sha256": "a86ffbd74fc0a05fa2ddf9cc34640addbda821df83e230142baba68e1f4fb85f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a86ffbd74fc0a05fa2ddf9cc34640addbda821df83e230142baba68e1f4fb85f",
+  "issuer": "TBMM",
+  "in_force": "1957-01-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 30/01/1957; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
