@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2446/33731",
+  "source_id": 25700,
+  "date": "2001-06-20",
+  "title": "Bir şirkette bağımlı statüde çalışan SM, SMMM'lerin başka gerçek yada tüzel kişilere ait beyannameleri imzalayıp imzalamayacakları hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/25700",
+  "source_sha256": "12a12d4295fceff51b46388f70a235d7a9a8b32d054f46404a5c4890e8f6b992",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
