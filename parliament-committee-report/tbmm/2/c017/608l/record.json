@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 2,
+  "sira_sayisi": "608l",
+  "label": "TBMM 608L no'lu Komisyon Raporu",
+  "title": "Maadin Nizamnamesinin bazı maddeleri ile Taşocakları nizamnamesinin tadiline dair Kanun",
+  "document_date": "1925-04-05",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 17, birleşim 94)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c017/tbmm02017094ss608L.pdf",
+  "pdf_sha256": "932fd61ab1e203054713fd5686188d24d1412808f81aa3c21ab2cf97e963f4e5",
+  "pdf_bytes": 656302,
+  "pdf_pages": 6,
+  "index_entries": [
+    126456
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d02&v_yasama_yili=3&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1925-04-05",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
