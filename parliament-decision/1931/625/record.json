@@ -1,0 +1,82 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "625",
+  "year": 1931,
+  "title": "Askerî malûllerin terfihine dair olan 22 Haziran 1927 tarih ve 1122 numaralı kanunun tefsirine mahal olmadığı hakkında",
+  "adopted": "1931-03-21",
+  "adopted_as_published": "21/03/1931",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.03.1931 No: 1758",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/karartbmmc009/karartbmmc00900625.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 9",
+  "committee_reports": [
+    {
+      "label": "TBMM 99 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c026/tbmm03026037ss0099.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120903,
+      "title": "Askerî malûllerin terfihine dair olan 22 Haziran 1927 tarih ve 1122 numaralı kanunun tefsirine mahal olmadığı hakkında",
+      "adopted_as_published": "21/03/1931",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/karartbmmc009/karartbmmc00900625.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 99 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c026/tbmm03026037ss0099.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 24,
+          "sitting": 19,
+          "sitting_date": "1931-01-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c024/tbmm03024019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c024/tbmm03024fih.pdf",
+          "pages": [
+            "20"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 36,
+          "sitting_date": "1931-03-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c026/tbmm03026036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c026/tbmm03026fih.pdf",
+          "pages": [
+            "56"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 37,
+          "sitting_date": "1931-03-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c026/tbmm03026037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c026/tbmm03026fih.pdf",
+          "pages": [
+            "71"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=256&v_gelecek_sayfa=201&v_kullanici_id=27483258",
+      "page_sha256": "7b8b712825e7125ecdd3dd4b4a53bc56f41c5d808061bb5ce64fdce502b4a69e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7b8b712825e7125ecdd3dd4b4a53bc56f41c5d808061bb5ce64fdce502b4a69e",
+  "issuer": "TBMM",
+  "in_force": "1931-03-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 21/03/1931; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
