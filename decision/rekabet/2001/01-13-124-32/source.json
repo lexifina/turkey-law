@@ -1,0 +1,13 @@
+{
+  "number": "01-13/124-32",
+  "type": "Rekabet İhlali",
+  "decision_date": "2001-03-28",
+  "publication_date": "2001-08-04",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=05a81f76-c44d-4d1e-b526-98f586568313",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1034",
+  "pdf_sha256": "ea70bfe6b6c2433a0c5d2666caf498636439e521dcc1a3693faadd336b64e035",
+  "pdf_bytes": "265390",
+  "pages": "3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "complainant/applicant/party entry without a company or institution marker"
+}
