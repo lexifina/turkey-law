@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4671",
+  "year": 2001,
+  "title": "Ceza İnfaz Kurumları ile Tutukevleri İşyurtları Kurumunun Kuruluş ve İdaresine İlişkin Kanun ile Ceza Evleriyle Mahkeme Binaları İnşası Karşılığı Olarak Alınacak Harçlar ve Mahkumlara Ödettirilecek Yiyecek Bedelleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-05-16",
+  "gazette_issue": "24404",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/05/20010516.htm",
+  "source_sha256": "eb324f19203d850c65b7fd2382a04d765155910566d85d34a76edcec60973462",
+  "text_sha256": "5963a8270e2944d98dca30a4bdee9fde315cb9436d6071f701e97e9b0592bacf",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/05/16/24404-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/05/20010516.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
