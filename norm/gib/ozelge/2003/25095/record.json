@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2256/009039",
+  "source_id": 25095,
+  "date": "2003-03-06",
+  "title": "Veraset ve intikal vergisinin konusuna giren menkul malların, veraset yoluyla intikallerde ölüm tarihindeki, ivazsız intikallerde ise hukuken iktisap edildikleri tarihteki rayiç bedelleriyle vergi matrahına dahil edilerek vergilendirilmeleri gerektiği hak",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/25095",
+  "source_sha256": "cd47f633d5d1abf5a3864a6e2c32c135ae4e92306909fcb6b25073b8a8c81ab0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
