@@ -1,0 +1,1 @@
+Madde 8- Yönetim Kurulu Müdürün daveti ile ayda en az bir defa toplanır.

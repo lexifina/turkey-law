@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1983-11-26",
+      "26.11.1983",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "18233",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1983-11-26",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ege Üniversitesi",
+  "issuer_slug": "ege-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ege-universitesi/1983/10323",
+  "published": "1983-11-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10323&MevzuatTertip=5",
+  "source_bytes": 14107,
+  "source_id": "8.5.10323",
+  "source_sha256": "87697517fbef11460584e4a4f48f104dd9d0c443cac4c8dacf0b59fccc686456",
+  "text_status": "as-enacted",
+  "title": "EGE ÜNİVERSİTESİ ARAŞTIRMA VE UYGULAMA MERKEZLERİ YÖNETMELİĞİ",
+  "university_id": 191,
+  "word_count": 471
+}
