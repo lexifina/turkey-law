@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5878",
+  "year": 1952,
+  "title": "Turistik Otel İnşası İçin İstanbul Belediyesi Tarafından Türkiye Cumhuriyeti Emekli Sandığına Devredilecek Arsalar Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-02-14",
+  "gazette_issue": "8034",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8034.pdf",
+  "source_sha256": "d780bf24bc627c57202bf29e462f6beaece5b0c706f3be7f436e2efebe2e2d61",
+  "text_sha256": "2c5153a4d9eb026a78fde32f4374f3cce8450777aa3c8748bf0c721b076b8440",
+  "text_status": "ocr",
+  "pages": [
+    8
+  ],
+  "line_span": [
+    [
+      1847,
+      1867
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405878.pdf",
+    "source_sha256": "fd7ec60266a865531ae309f3653859c86f86fd4d561b4a0a3930358883c4bee8",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9857,
+    "bag": 0.9748,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9833,
+    "rg_words": 120,
+    "kd_words": 120,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
