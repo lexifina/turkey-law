@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4625",
+  "year": 1944,
+  "title": "Diyarbakır ve Elâzığ istasyonlarından Irak ve İran hudutlarına kadar yapılacak demiryollarının inşası için istikraz akdine dair olan 4057 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-07-22",
+  "gazette_issue": "5763",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5763.pdf",
+  "source_sha256": "93e2f3438bd1e09b92c6b4f785802d3a484a787d7ee5f97188929d6169773e3f",
+  "text_sha256": "886734cb2745cfe2fe1b440f316344cbb4466245e67453581c4493698ae65855",
+  "text_status": "ocr",
+  "pages": [
+    7
+  ],
+  "line_span": [
+    [
+      1729,
+      1742
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604625.pdf",
+    "source_sha256": "de3c1a4f0fff3aaa75be7026c47c07422b776ca337459f28d929855f2c2acd7e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9774,
+    "bag": 0.9272,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.974,
+    "rg_words": 76,
+    "kd_words": 77,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
