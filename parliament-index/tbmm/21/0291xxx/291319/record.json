@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 291319,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Terörle Mücadele Kanununun Bir Maddesinde Değişiklik Yapılmasına Dair (1/850)",
+  "title": "Terörle Mücadele Kanununun Bir Maddesinde Değişiklik Yapılmasına Dair (1/850)",
+  "first_sitting_date": "2001-05-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 62,
+      "sitting": 94,
+      "sitting_date": "2001-05-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c062/tbmm21062094.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c062/tbmm21062fih.pdf",
+      "pages": [
+        "96:126"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=755&v_gelecek_sayfa=501&v_kullanici_id=27484530",
+  "source_sha256": "880e73b11bb0618720e69f3f65d044af1be66707b96e43c95f3e3a387d61444e",
+  "in_force": "2001-05-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
