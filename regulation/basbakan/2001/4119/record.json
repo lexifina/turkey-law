@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4119",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EKONOMİK VE SOSYAL KONSEYİN TEŞEKKÜLÜ İLE ÇALIŞMA ESAS VE USULLERİ HAKKINDA YÖNETMELİK",
+  "number": "4119",
+  "issuer": "Başbakan",
+  "issuer_slug": "basbakan",
+  "path": "regulation/basbakan/2001/4119",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4119&MevzuatTertip=5",
+  "source_sha256": "daefc7d6b48e459df6272496c7bfb3fd6b5c8404134091fff9de6da6171b4198",
+  "source_bytes": 32585,
+  "published": "2001-08-08",
+  "gazette": "24487",
+  "in_force": "2001-08-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.08.2001); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1418,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
