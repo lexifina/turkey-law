@@ -1,0 +1,2 @@
+Madde 53 – Yukarı dereceye terfi için ehliyet esastır. Ayrıca bir derecede 3 sene bulunmak da lazımdır. Ancak fevkalade ehliyeti görülen memurlardan bir terfi müddeti içinde İdare Heyeti karariyle iki takdirname alanların terfilerine esas olan müddetlerine, bir buçuk sene eklenir.
+Bulundukları derecede terfi müddetini doldurdukları halde kadrosuzluk yüzünden terfi edemiyenlerin ehliyetleri tahakkuk ettiği takdirde, her derece için terfi müddeti doldurulmuş olmak şartiyle bulundukları derecelerin iki üst derece maaşına kadar terfileri caizdir.

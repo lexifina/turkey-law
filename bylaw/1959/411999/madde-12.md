@@ -1,0 +1,1 @@
+Madde 12 – Seçim başlamadan önce sandık kurulu, sandığın içinin boş olduğunu ve bir zarf atılmasına yetecek delikten başka açık yeri olmadığını tesbit ve bir tutanakla tevsik ettikten sonra dört tarafından bağlar ve bağlama yerini mumladıktan sonra muhtarlık mühürü ile mumun üzerini mühürler.

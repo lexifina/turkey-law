@@ -1,0 +1,2 @@
+Madde 62 – İşten ayrılma halinde verilecek tazminat, o memur için tesbit edilen ihtiyarlık veya emeklilik tazminatının ayrılma tarihindeki kıymetidir. Şu kadar ki bu miktar hiç bir zaman sigortanın kanuni iştirak miktarından aşağı olamaz.
+55 yaşını geçmiş olmaları dolayısiyle sigortaya giremiyen memurların işten ayrılmaları halinde her hizmet yılı için bir aylık tutarında tazminat verilir. Bu aylık tutarının hesabında o memurun hizmet yılları zarfında aldığı aylıkların vasatisi nazara alınır.

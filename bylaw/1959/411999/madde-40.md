@@ -1,0 +1,1 @@
+Madde 40 – Kanunun 31 inci maddesinin d ve e bentleri mucibince Türkiye Cumhuriyeti Ziraat Bankası ve Ticaret ve Zahire borsalarının ödeyecekleri paraların taksit ödeme zamanları; Mart, Haziran, Eylül ve Aralık aylarıdır.

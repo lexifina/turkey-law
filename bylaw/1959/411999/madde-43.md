@@ -1,0 +1,2 @@
+Madde 43 – Odadan çıkarma cezası; bir aydan az bir yıldan çok olmamak üzere, tevbih almasını gerektiren bir fiil ve harekette bulunmuş iken aynı yıl içerisinde tevbih cezasını müstelzim yeni fiil ve harekette bulunanlara verilir.
+Odadan çıkarılanlar, çıkarma cezasının devam ettiği müddet zarfında oda hizmet ve yardımlarından istifade edemeyecekleri gibi bu müddet zarfında yapılacak oda seçimlerine de katılamazlar. Odadan çıkarma yıllık aidatın tahakkuk ve tahsiline mani teşkil etmez.

@@ -1,0 +1,1 @@
+Madde 33 – Birinci, ikinci ve üçüncü derecede çiftçiler, bir takvim yılına ait gayrisafi çiftçilik gelirlerini o takvim yılını takip eden üç ay içinde azası bulundukları odaya bildirmek zorundadırlar. Dördüncü ve beşinci derecede çiftçilerin gayri safi çiftçilik gelirleri, nizamnamenin üçüncü maddesinde yazılı cetvellerin hususi hanesinde gösterilir.

@@ -1,0 +1,3 @@
+Madde 10 – Delege seçimleri, seçim çevreleri içinde yapılır. Oda azaları ancak kendi seçim çevrelerinde reylerini kullanabilirler. Birden fazla seçim çevresinde rey vermek yasaktır.
+Her seçim çevresinde kanunun 7 nci maddesi gereğince Ekim ayında yapılacak Oda Umumi Heyet seçimlerinin hangi gün yapılacağı vilayet merkezinde valiler, kazalarda kaymakamlar tarafından tasbit ve o seçim çevresinde münasip vasıtalarla ilan olunur.
+Rey verme günü saat 8 den 17 ye kadar olan zaman rey verme müddetidir. Saat 17 ye geldiği halde sandık başında reylerini vermek üzere bekleyen Ziraat Odası azaları varsa bunlar da reylerini kullanırlar.

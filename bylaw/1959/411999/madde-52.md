@@ -1,0 +1,2 @@
+Madde 52 – Odalara ve Odalar Birliğine alınan memurlar, 6 aylık namzetlik müddeti geçirirler. Bu müddetin hitamında, ehliyetleri tahakkuk ettiği takdirde, memuriyetleri tasdik edilerek asli memur hakkını kazanırlar. Bu müddet içinde muvaffak olamıyanların işlerine son verilir.
+50 inci maddenin ikinci fıkrasında yazılı idarelerden birinde daha evvel asli memur sıfatını kazanmış olanlar, bu hükümden müstesnadır.
