@@ -1,0 +1,2 @@
+Amacı
+Madde 2- Ermenistan, Gürcistan, Rusya ve Yunanistan başta olmak üzere komşu ülkelerle ABD, Almanya, Fransa gibi çıkar ilişkilerimizin yoğun olduğu ülkelerle ilgili tarihi, siyasi, ekonomik ve kültürel alanlarda bilimsel araştırma, eğitim yayın faaliyetlerinde bulunmak, özellikle sözde Ermeni Soykırımı iddialarına tarihi belgelerle cevap vermek, yapılan bilimsel çalışmaları ulusal ve uluslararası kamuoyunun bilgisine sunmak amacını taşımaktadır.
