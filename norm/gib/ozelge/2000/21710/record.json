@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-30940/37511",
+  "source_id": 21710,
+  "date": "2000-08-09",
+  "title": "Müteakip vergilendirme döneminde yapılması öngörülen yatırım harcamalarına, 01.01.1999 tarihinden sonra alınan Yatırım Teşvik Belgeleri kapsamında yapılacak yatırımlar ile ilgili olarak öngörülen yatırım harcamaları üzerinden yatırım indirimi uygulanabili",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21710",
+  "source_sha256": "f141c2961e907a523da642ee2c3073e42f9c39231c2315d91f6cfc870bb21266",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
