@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 241940,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Devlet Üretme Çiftlikleri Genel Müdürlüğü 1983 Malî Yılı Kesinhesabı (3/587, 1/585)",
+  "title": "Devlet Üretme Çiftlikleri Genel Müdürlüğü 1983 Malî Yılı Kesinhesabı (3/587, 1/585)",
+  "first_sitting_date": "1984-12-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 46,
+      "sitting_date": "1984-12-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c011/tbmm17011046.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c011/tbmm17011fih.pdf",
+      "pages": [
+        "352",
+        "379:432"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1074&v_gelecek_sayfa=301&v_kullanici_id=27484336",
+  "source_sha256": "286a44762a946b8eb82ccabb44c53231a849be9540163335fe40c7f2b40bcfc8",
+  "in_force": "1984-12-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
