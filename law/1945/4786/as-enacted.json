@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4786",
+  "year": 1945,
+  "title": "Ordu mensuplariyle Emniyet Genel Müdürlüğü ve Gümrük muhafaza ve muamele sınıfı kadrolarında çalışanlara birer er tayını verilmesi hakkındaki 4367 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-07-13",
+  "gazette_issue": "6056",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6056.pdf",
+  "source_sha256": "3da044565ac678f04239805ed500307c991e32da2a85b265e3e616cc98a9eaa8",
+  "text_sha256": "0d24ea7b7ce19df6471087ab94be0390bdb85e9379779c58b61c80de5e2fdf93",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      191,
+      203
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [2] (no text layer)",
+    "tesseract_pages": [
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704786.pdf",
+    "source_sha256": "f320904398296cb19fa9a4cfe0c8e1d1799d3f1a422610a51829d593831785f0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9096,
+    "bag": 0.7791,
+    "kd_coverage": 0.9884,
+    "kd_body_compared": 0.9551,
+    "rg_words": 87,
+    "kd_words": 89,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
