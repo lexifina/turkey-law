@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 353219,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "1965 mali yılı bütçeleri Kanunlaşıncaya kadar Devlet harcamalarına yetki veren 19.2.1965 günlü ve 544 Sayılı Kanunda değişiklik yapılmasına dair Kanun tasarısı hakkında (1/822)",
+  "title": "1965 mali yılı bütçeleri Kanunlaşıncaya kadar Devlet harcamalarına yetki veren 19.2.1965 günlü ve 544 Sayılı Kanunda değişiklik yapılmasına dair Kanun tasarısı hakkında (1/822)",
+  "first_sitting_date": "1965-03-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 37,
+      "sitting": 83,
+      "sitting_date": "1965-03-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037083.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037fih.pdf",
+      "pages": [
+        "684"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 85,
+      "sitting_date": "1965-04-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038085.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038fih.pdf",
+      "pages": [
+        "12:30",
+        "41:44"
+      ]
+    },
+    {
+      "cilt": 38,
+      "sitting": 86,
+      "sitting_date": "1965-04-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038086.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038fih.pdf",
+      "pages": [
+        "50:51",
+        "86"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=7101&v_kullanici_id=27484836",
+  "source_sha256": "5d328e362aaa0f53c389c9aad4860910039749ac24a4d95113e3d981af9a4a4d",
+  "in_force": "1965-03-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
