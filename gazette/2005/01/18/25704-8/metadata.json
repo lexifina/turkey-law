@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-01-18",
+  "issue": "25704",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararları",
+  "title": "2005/8378 T.C. Ziraat Bankası A.Ş. ve Tarım Kredi Kooperatiflerince Tarımsal Üretime Yönelik Yatırım ve İşletme Kredisi Kullandırılmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050118-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050118.htm",
+  "index_sha256": "d6d52043b1bef938bf22e8deec90cc74c0af79434e800d0639a038c13fcfd316",
+  "index_header": "18 Ocak 2005 ... Sayı : 25704",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
