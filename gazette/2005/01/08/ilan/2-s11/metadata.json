@@ -1,0 +1,32 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-01-08",
+  "issue": "25694",
+  "edition": "regular",
+  "item": 11,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Yargı İlânları",
+  "category": "yargi",
+  "category_page": "2",
+  "title": "Mersin 4. Sulh Ceza Hakimliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/01/20050108-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (13 = 13)",
+  "ilan_codes": [
+    "2003/1581-1516",
+    "2004/1146-1054",
+    "2004/1146-1054",
+    "2004/1319-1244"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/01/20050108-2.htm",
+  "category_page_sha256": "3da1444b94075ce25456735930ac25e426da8fc5585500be73c12a9bcfb5f193",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/01/20050108.htm",
+  "index_sha256": "3fff04aabae1c84041ef9ddf6f55f13361dd2d3c0c390ebdd8d2854b920e9edd",
+  "index_header": "8 Ocak 2005 ... Sayı : 25694",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed (court notice)"
+}
