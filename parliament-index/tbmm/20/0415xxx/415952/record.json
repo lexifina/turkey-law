@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 415952,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "YUSUF EKİNCİ (BURDUR)",
+  "summary": "Ve Bolu Milletvekili Avni Akyol'un Bursa Milletvekili Turhan Tayan'ın, Kahramanmaraş Milletvekili Hasan Dikici ve 45 Arkadaşının, Rize Milletvekili Ahmet Kabil'in, Trabzon Milletvekili İsmail İlhan Sungur ve 8 Arkadaşının Burdur Milletvekili Yusuf Ekinci'nin, Hatay Milletvekili Ali Uyar'ın, Konya Milletvekili Ali Günaydın'ın, Kocaeli Milletvekili Halil Çalık ve 2 Arkadaşının, Siirt Milletvekili Mehmet Emin Aydın ve 14 Arkadaşının ve Muş Milletvekili Nedim İlci'nin, 14.7.1965 Tarihli ve 657 Sayılı, 8.6.1949 Tarihli ve 5434 Sayılı, 5.3.1964 Tarihli ve 439 Sayılı, 30.4.1992 Tarihli ve 3792 Sayılı, 11.10.1983 Tarihli ve 2914 Sayılı Kanunların Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun Tasarısı ile 190 Sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin Eki Cetvellerde Değişiklik Yapılmasına Dair (2/24, 2/31, 2/34, 2/170, 2/243,2/307, 2/556, 2/574, 2/660,2/661,2/664,2/666,2/726,2/727,2/793,2/828,2/954,2/1052)",
+  "title": "Ve Bolu Milletvekili Avni Akyol'un Bursa Milletvekili Turhan Tayan'ın, Kahramanmaraş Milletvekili Hasan Dikici ve 45 Arkadaşının, Rize Milletvekili Ahmet Kabil'in, Trabzon Milletvekili İsmail İlhan Sungur ve 8 Arkadaşının Burdur Milletvekili Yusuf Ekinci'nin, Hatay Milletvekili Ali Uyar'ın, Konya Milletvekili Ali Günaydın'ın, Kocaeli Milletvekili Halil Çalık ve 2 Arkadaşının, Siirt Milletvekili Mehmet Emin Aydın ve 14 Arkadaşının ve Muş Milletvekili Nedim İlci'nin, 14.7.1965 Tarihli ve 657 Sayılı, 8.6.1949 Tarihli ve 5434 Sayılı, 5.3.1964 Tarihli ve 439 Sayılı, 30.4.1992 Tarihli ve 3792 Sayılı, 11.10.1983 Tarihli ve 2914 Sayılı Kanunların Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun Tasarısı ile 190 Sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin Eki Cetvellerde Değişiklik Yapılmasına Dair (2/24, 2/31, 2/34, 2/170, 2/243,2/307, 2/556, 2/574, 2/660,2/661,2/664,2/666,2/726,2/727,2/793,2/828,2/954,2/1052)",
+  "first_sitting_date": "1998-04-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 50,
+      "sitting": 75,
+      "sitting_date": "1998-04-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c050/tbmm20050075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c050/tbmm20050fih.pdf",
+      "pages": [
+        "36:172",
+        "186:191"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "66e31df510dc8cdc05eea8327a495feb009ab5810f1fc3d501614e373a2948d1",
+  "in_force": "1998-04-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
