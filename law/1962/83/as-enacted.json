@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "83",
+  "year": 1962,
+  "title": "5434 Sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa geçici bir madde Eklenmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-11-01",
+  "gazette_issue": "11245",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11245.pdf",
+  "source_sha256": "50d44a3dc7ba34da50072a9afc116beef06c87e31ac14e20698ebf34c903cd0d",
+  "text_sha256": "2f432a6cd681407057563c41f8ee9336c33d396be6089eb4de7778c7bed7e0b7",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      71,
+      113
+    ],
+    [
+      66,
+      70
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500083.pdf",
+    "source_sha256": "e4f72e05813e27544dfd12c28aadac1d2f5cc5ed4176c488a9a053b72f2af4ca",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9646,
+    "bag": 0.8065,
+    "kd_coverage": 0.9946,
+    "kd_body_compared": 0.9635,
+    "rg_words": 187,
+    "kd_words": 192,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
