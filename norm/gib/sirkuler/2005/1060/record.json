@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "ÖKC-4/2005-1",
+  "source_id": 1060,
+  "date": "2005-01-04",
+  "title": "Mükelleflerin Ödeme Kaydedici Cihazlarını Yeni Türk Lirasına ve Yeniden Belirlenen KDV Oranlarına Göre Ayarlattırmaları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/sirkuler/1060",
+  "source_sha256": "7b1ace9c971b828cc2b46945b47a57a98dd088c59fdc809d87562d10112cdbe0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
