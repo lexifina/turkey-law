@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5020",
+  "year": 2003,
+  "title": "Bankalar Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-12-26",
+  "gazette_issue": "25328",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031226.htm",
+  "source_sha256": "e909ed46d15ddbbfd5f9e3ef196f84feecaaa52d8cc119eb231d8c83168c4207",
+  "text_sha256": "5897e6b35df0b03589af04630839d7ca9ed9caae64b7961b2b5dd895073959f2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/12/26/25328-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031226.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
