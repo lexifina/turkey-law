@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "DV-2/2004-1/",
+  "source_id": 1027,
+  "date": "2004-01-07",
+  "title": "Resmi dairelere görevli kişiler tarafından verilen geçici görev yolluğu bildirimi ve sürekli görev yolluğu bildirimlerinden damga vergisi alınıp alınmayacağı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/sirkuler/1027",
+  "source_sha256": "112edcb45eac79f11de5a1217e627d9cd4079884206768c434ac9f5f12cd0848",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
