@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2918-215-55/4393",
+  "source_id": 25464,
+  "date": "2001-01-23",
+  "title": "Döviz alım belgelerinde yabancı dil ile açıklamada bulunulmasının kayıtların Türkçe tutulması zorunluluğuna aykırı olup olmadığı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25464",
+  "source_sha256": "77ec2749119e706e5f43a0b406b0c2e3c03177ecbdeb14ae6b9cf9eb1f69fd7d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
