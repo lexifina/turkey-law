@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5530-91/6279",
+  "source_id": 22708,
+  "date": "2005-02-09",
+  "title": "Çalınan mallara ait yüklenilen katma değer vergisi, hesaplanan katma değer vergisinden indirilemeyecek, bu mallara ait önceki dönemlerde indirim hesaplarına alınan katma değer vergisi bulunması durumunda ise söz konusu vergilerin indirim hesaplarından çık",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/22708",
+  "source_sha256": "83517816bad5323fe1ecdd41957001a578efcbdbb34f80e59509e450c1d8d9ee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
