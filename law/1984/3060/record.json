@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3060",
+  "year": 1984,
+  "title": "Türkiye Cumhuriyeti ile Irak Cumhuriyeti Arasında 3 Mayıs 1984 Tarihli Emlâk ve Emlâk Haklarına Dair Sözleşmenin Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "adopted": "1984-10-18",
+  "adopted_as_published": "18/10/1984",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "21.10.1984 No: 18552",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803060.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 68",
+  "committee_reports": [
+    {
+      "label": "TBMM 126 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007014ss0126.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 241249,
+      "title": "Türkiye Cumhuriyeti ile Irak Cumhuriyeti Arasında 3 Mayıs 1984 Tarihli Emlâk ve Emlâk Haklarına Dair Sözleşmenin Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+      "adopted_as_published": "18/10/1984",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803060.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 126 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007014ss0126.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 90,
+          "sitting_date": "1984-07-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c005/tbmm17005090.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c005/tbmm17005fih.pdf",
+          "pages": [
+            "177"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 13,
+          "sitting_date": "1984-10-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007fih.pdf",
+          "pages": [
+            "391"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 14,
+          "sitting_date": "1984-10-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007014.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007fih.pdf",
+          "pages": [
+            "438:439",
+            "443:446"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "5e6f3e9d8585a78cfeef2a4f773b727decbc15e07e160f9a598887f4937cfafa"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5e6f3e9d8585a78cfeef2a4f773b727decbc15e07e160f9a598887f4937cfafa",
+  "issuer": "TBMM",
+  "in_force": "1984-10-18",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 18/10/1984; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
