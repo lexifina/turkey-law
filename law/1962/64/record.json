@@ -1,0 +1,197 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "64",
+  "year": 1962,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Birleşik Arap Cumhuriyeti hükümeti arasında imza edilen TC ile Birleşik Arap Cum. (Mısır Eyaleti) arasındaki 15.8.1953 tarihli ticaret ve ödeme anlaşmalarına ek protokol ile eklerinin onaylanmasının uygun bulunduğu hakkında kanun",
+  "adopted": "1962-07-06",
+  "adopted_as_published": "06/07/1962",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "13.07.1962 No: 11153",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500064.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 45",
+  "committee_reports": [
+    {
+      "label": "MM 72 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005085ss0072.pdf"
+    },
+    {
+      "label": "CS 75no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004077ss0075.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 335379,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Birleşik Arap Cumhuriyeti hükümeti arasında imza edilen TC ile Birleşik Arap Cum. (Mısır Eyaleti) arasındaki 15.8.1953 tarihli ticaret ve ödeme anlaşmalarına ek protokol ile eklerinin onaylanmasının uygun bulunduğu hakkında kanun",
+      "adopted_as_published": "06/07/1962",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500064.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 72 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005085ss0072.pdf"
+        },
+        {
+          "label": "CS 75no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004077ss0075.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 60,
+          "sitting_date": "1962-03-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c003/mm__01003060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c003/mm__01003fih.pdf",
+          "pages": [
+            "749:750"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 77,
+          "sitting_date": "1962-04-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+          "pages": [
+            "562"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 81,
+          "sitting_date": "1962-04-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005081.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+          "pages": [
+            "21"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 85,
+          "sitting_date": "1962-05-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005085.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+          "pages": [
+            "167"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 102,
+          "sitting_date": "1962-06-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005102.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+          "pages": [
+            "620"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 104,
+          "sitting_date": "1962-06-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006104.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006fih.pdf",
+          "pages": [
+            "7:8",
+            "11:14",
+            "32",
+            "70:73"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1601&v_kullanici_id=27483225",
+      "page_sha256": "bbdd867e769c8bf5b4742e47e941c611bd3a2472815a799bfa1c73e5cfba7238"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 156412,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Birleşik Arap Cumhuriyeti Hükümeti arasında imza edilen «Türkiye Cumhuriyeti ile Birleşik Arap Cumhuriyeti (Mısır Eyaleti) arasındaki 15.8.1953 tarihli Ticaret ve ödeme anlaşmalarına ek Protokol» ile eklerinin onaylanmasının uygun bulunduğu hakkında Kanun",
+      "adopted_as_published": "06/07/1962",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500064.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 72 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005085ss0072.pdf"
+        },
+        {
+          "label": "CS 75no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004077ss0075.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 73,
+          "sitting_date": "1962-06-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+          "pages": [
+            "317"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 76,
+          "sitting_date": "1962-07-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004076.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+          "pages": [
+            "358"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 77,
+          "sitting_date": "1962-07-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+          "pages": [
+            "428:429:431",
+            "444:446"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 78,
+          "sitting_date": "1962-07-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004078.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+          "pages": [
+            "450",
+            "455",
+            "461",
+            "468:470"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "1d71d5ca37a597738ce2edfca2bb8ceb18a16f1ab45d81f98c9f010fbc9ac7a2"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "bbdd867e769c8bf5b4742e47e941c611bd3a2472815a799bfa1c73e5cfba7238",
+  "issuer": "Millet Meclisi",
+  "in_force": "1962-07-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 06/07/1962; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
