@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 129144,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "title": "TBMM fihrist kaydı 129144 (Mazbatalar)",
+  "first_sitting_date": "1926-06-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 26,
+      "sitting": 117,
+      "sitting_date": "1926-06-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c026/tbmm02026117.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c026/ehttbmm02026117.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c026/tbmm02026fih.pdf",
+      "pages": [
+        "282:283"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2766&v_gelecek_sayfa=2101&v_kullanici_id=27483743",
+  "source_sha256": "364f27c232288626ae2f4326a40a80bd1c3b68f1aec8c8fddb9a22d22279365b",
+  "in_force": "1926-06-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
