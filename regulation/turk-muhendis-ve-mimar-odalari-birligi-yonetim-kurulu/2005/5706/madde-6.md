@@ -1,0 +1,2 @@
+Geçici Üyelik
+Madde 6 - Yabancı mühendis, mimar ve şehir plancıları, çalışma izninden muaf olmaları durumunda dahi, Türkiye'de bir aydan fazla kalarak mesleğini; meslek ünvanını veya bilgisini kullanarak icra etmeleri ve /veya çeşitli mesleki araştırma, danışmanlık, temsilcilik, eğitim, jüri üyeliği ve benzer faaliyetlerde bulunmaları halinde ilgili Meslek Odasına bir ay içinde geçici üye olmak zorundadır.
