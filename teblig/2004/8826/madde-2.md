@@ -1,0 +1,3 @@
+Gözetim uygulaması
+Madde 2- Gözetim uygulaması 70.13 gümrük tarife pozisyonlu “sofra, mutfak, tuvalet, yazıhane, ev tezyinatı ve benzeri işler için cam eşya”nın ithalatında ülke ayrımı gözetilmeksizin yapılacaktır. Sözkonusu madde ancak Dış Ticaret Müsteşarlığınca (Müsteşarlık) düzenlenecek gözetim belgesi ile ithal edilir. Gözetim belgesi gümrük beyannamesinin tescilinde ilgili gümrük idaresince aranır. Gözetim belgesinin bir örneği gümrük beyannamesine eklenir.
+09.05.2004 tarihli ve 25457 sayılı Resmi Gazete’de yayımlanan İthalatta Gözetim ve Korunma Önlemlerine İlişkin 2004/11sayılı Tebliğ kapsamında ithal lisansı düzenlenmiş maddeler için ithal lisansının ibraz edilmesi durumunda gözetim belgesi aranmaz.
