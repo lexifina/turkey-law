@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 337633,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "İstanbul Teknik Üniversitesine bağlı bir teknik okulu açılmasına dair 6374 sayılı Kanuna bir madde eklenmesi hakkında (1/104)",
+  "title": "İstanbul Teknik Üniversitesine bağlı bir teknik okulu açılmasına dair 6374 sayılı Kanuna bir madde eklenmesi hakkında (1/104)",
+  "first_sitting_date": "1962-02-07",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 43,
+      "sitting_date": "1962-02-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c002/mm__01002043.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c002/mm__01002fih.pdf",
+      "pages": [
+        "279"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 100,
+      "sitting_date": "1962-06-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005100.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+      "pages": [
+        "533"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 106,
+      "sitting_date": "1962-06-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006106.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006fih.pdf",
+      "pages": [
+        "118",
+        "588"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 122,
+      "sitting_date": "1962-09-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007122.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007fih.pdf",
+      "pages": [
+        "119:120"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=4101&v_kullanici_id=27484850",
+  "source_sha256": "ddb0808891d52a08017d0c8d5d9e1d2811d83800b4669a3a5e00122834591cab",
+  "in_force": "1962-02-07",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
