@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.40435",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ ÖZEL BESLENME AMAÇLI GIDALAR TEBLİĞİ (TEBLİĞ NO:2002/34)",
+  "number": "40435",
+  "issuer": "Tarım ve Köyişleri Bakanı ile Sağlık Bakanı",
+  "path": "teblig/2002/40435",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40435&MevzuatTertip=5",
+  "source_sha256": "470a7c5541e28a4d254e58f82a3e2e0a3dece3ed25aaaac1f59db103f9bd55f7",
+  "source_bytes": 25860,
+  "published": "2002-04-22",
+  "gazette": "24734",
+  "in_force": "2002-04-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.04.2002); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 833,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
