@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5413-508-17370",
+  "source_id": 31409,
+  "date": "2004-04-20",
+  "title": "Yatırım teşvik belgesinde yer alan mallardan makine ve teçhizat niteliği taşıyanların yurt içi teslim bedelinde meydana gelen farklılıklar ile anılan Kanunun 13/d maddesindeki istisna hükmünün uygulanmasında listede yazılı tutarların değil faturalarda yaz",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31409",
+  "source_sha256": "2bfa9770fcaa4ccb31778b3c97983cb53d026174cec0fec1f3fc6d1ef0875655",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
