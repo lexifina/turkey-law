@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6190",
+  "year": 1953,
+  "title": "Çoruh Vilâyetine Bağlı Fındıklı Kazasının Rize Vilâyetine Bağlanması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-12-04",
+  "gazette_issue": "8574",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8574.pdf",
+  "source_sha256": "baed230d25833371eb11e05c69f118d4a01ce81c542712c835c397ea0d79386b",
+  "text_sha256": "fa61bde9f07b6f8796ae7a14678d3f5d1e0e2b9f0a94e0c7f3af820b2370c123",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      483,
+      496
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606190.pdf",
+    "source_sha256": "c44d6a637df59030d01c647753c248a9ae037e70f9af6f953b97e80aa465b632",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.972,
+    "bag": 0.8608,
+    "kd_coverage": 0.9524,
+    "kd_body_compared": 0.9524,
+    "rg_words": 39,
+    "kd_words": 42,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
