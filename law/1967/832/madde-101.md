@@ -1,0 +1,4 @@
+Çalışmaya ara verme:
+Madde 101 – (Değişik birinci cümle: 14/7/2004 – 5219/7 md.) Sayıştay Genel Kurulu, Temyiz Kurulu, Daireler Kurulu ve daireleri her yıl ağustosun birinden Eylülün beşine kadar çalışmaya ara verir. Bu müddet içinde Sayıştaya gelecek ivedili işlere bakmak ve gereken kararları vermek üzere sıra ile bir daire çalışmaya devam eder.
+Ara verme süresi içinde görevli Daire Başkan ve üyeleri yılın diğer aylarında aynı müddetle izinlerini kullanabilirler.
+(Ek: 7/3/1985 - 3162/15 md.) Çalışmaya ara verme süresince Daireler Kuruluna ilişkin görevlerden gecikmesinde sakınca görülenler görevli daire tarafından yerine getirilir. (96 ncı madde hükmü saklıdır.) İlgili idare ve kurumun istemde bulunması halinde görevli daire kararı, çalışmaya ara verme süresi bittikten sonra Daireler Kurulunda da görüşülür.

@@ -1,0 +1,3 @@
+Kısmi denetim:
+Ek Madde 9 – (Ek: 26/6/1996 - 4149/8 md.)
+Sayıştay, denetimine tabi kurum ve kuruluşların hesap, işlem ve faaliyetlerini, idare hesabı dönemine bağlı olmaksızın yılı içinde veya yıllar itibariyle, Sayıştay Başkanının işin aciliyeti ve gecikmede sakınca bulunması halleriyle sınırlı olarak vereceği onayla, kısmi inceleme ve denetime tabi tutabilir. Bunlardan hangilerinin merkezde veya yerinde inceleneceğine Birinci Başkan karar verir. Bu inceleme ve denetim sonuçları Dairelerce öncelikle hükme bağlanır. İlgili hesabın bilahare yargılanması halinde, önceden yargılanmış olan söz konusu işlemler tespit edilerek geriye kalanlar için hüküm tesis edilir.

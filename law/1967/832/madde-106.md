@@ -1,0 +1,2 @@
+Denetimi kolaylaştırıcı tedbirlerin alınması:
+Madde 106 – Sivil ve askeri amirlerle daire üstleri, yönetimleri altındaki saymanların, hesaplarını kanunla belirtilen süreler içinde tam ve noksansız olarak hazırlayıp hazırlamadıklarını izlemek, inceleme görevi ile mahalline gelen Sayıştay denetçilerine gereken yardım ve kolaylığı sağlamak ve işin selameti ile ilgili tedbirleri almakla zorunludurlar.

@@ -1,0 +1,4 @@
+Hesapların verilme zamanı:
+Madde 39 – Hesap ve işlemleri Sayıştayın denetimine giren idare ve kurumların kanunlarına göre bir bütçe veya hesap yılı veya hesap devresi içindeki bütün gelirlerinin, giderlerinin ve mallarının hesapları saymanlar tarafından engeç mahsup devresini takibeden bir ay içinde Sayıştaya verilir.
+Mal işlemlerinin hesap devresi, 5 yıldan fazla olmamak şartiyle, ilgili saymanlık işlemlerinin durumuna göre, Sayıştayca tesbit olunur.
+Hesap ve işlemlere ait belge, kayıt, defter ve cetvellerin yıl veya hesap devreleri içinde, bir aydan fazla olmamak üzere, belirtilecek müddetler sonunda gönderilmesine veya yerinde incelemeye hazır bulundurulmasına Sayıştayca karar verilebilir. Bu hal yukardaki fıkralar gereğince yıl veya hesap devreleri sonlarındaki hesap verme mecburiyetini kaldırmaz.

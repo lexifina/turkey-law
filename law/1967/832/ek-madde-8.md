@@ -1,0 +1,6 @@
+Ön Seçim Geçici Komisyonu:
+Ek Madde 8 – (Ek: 26/6/1996 - 4149/8 md.)
+Türkiye Büyük Millet Mecilisi Genel Kurulunda yapılacak Sayıştay Birinci Başkanlığı ve Sayıştay üyeliği seçimleri için gerekli değerlendirmeleri yapmak ve aday belirlemek üzere Sayıştay Başkanı ve Üyeleri Ön Seçim Geçici Komisyonu kurulur.
+Bu Komisyon, Plan ve Bütçe Komisyonu üyeleri arasından, siyasi partiler ile bağımsızların Türkiye Büyük Millet Meclisindeki temsil güçleri oranında ve ad çekme usulu ile belirlenen onbeş kişiden oluşur. Plan ve Bütçe Komisyonu Başkanı, kendi siyasi parti grubunun kontenjanından Ön Seçim Geçici Komisyonuna katılır ve başkanlık eder.
+Ön Seçim Geçici Komisyonu mevcudun salt çoğunluğu ile toplanır. Sayıştay Birinci Başkan adaylarının seçiminde aday listesi, Sayıştay üye adaylarının seçiminde ise kontenjan gruplarına göre düzenlenen birleşik oy pusulası kullanılır. Aday seçimleri gizli oyla yapılır. Aday seçilebilmek için ilk turda üye tam sayısının salt çoğunluğu, ikinci turda oylamaya katılanların salt çoğunluğu aranır. İlk iki oylamada sonuç alınamadığı takdirde, geçerli oyların en yükseğini alanlar seçilmiş sayılır. Adayların belirlenmesi sırasında oylarda eşitlik olması halinde, eşit oy alanlar arasında yeniden oylama yapılır.
+Ön Seçim Geçici Komisyonu gerekli gördüğü hallerde adaylarla mülakat yapabilir.

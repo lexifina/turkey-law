@@ -1,0 +1,3 @@
+Geçici Madde 10 – 6 ncı maddeye göre Sayıştay Genel Kurulunca yapılacak ilk daire başkanlığı ve üye adayı seçimlerinde;
+A) Seçim işlemi 5 defa tekrarlandığı halde, daire başkanlığı adaylığı için gerekli çoğunluk sağlanamadığından seçim tamamlanamazsa salt çoğunluk aranmaz. En çok oy alan seçilmiş sayılır.
+B) Bu maddede tesbit edilen kontenjan 1/2 olarak uygulanır. Maliye Bakanlığı Teşkilatında evvelce en az beş yıl hizmet etmiş olup da halen başka kuruluşlarda bulunanlardan 4 üncü maddede Maliye mensupları için gösterilen görevlere denk görevlerde bulunanlar da Maliye Bakanlığı kontenjanından üye seçimine katılabilirler.

@@ -1,0 +1,5 @@
+Saymanın beraatine yeterli belgeler:
+Madde 58 – Resmi daireler, mutemetlere veya istihkak sahiplerine posta veya bankalar vasıtasiyle gönderilen paralarla mukadder kıymetli senet veya ayniyata ait alındılar saymanın beraatine yeterlidir.
+Merkez veya diğer saymanlıklar adına harcama yapılmış ve bunlara ait para yerine geçen evrak ve senetler yerlerine gönderilmişse merkez veya ilgili saymanın bunların alındığını bildiren belgeleri Sayıştaya göndermesi ödemeyi yapan saymanı beraat ettirir.
+Bu belgeler gönderilmediği takdirde bunların postaya verildiği sırada yapılan tutanakların veya kaybolan evrakın resmi kayıtlarından alınacak onanmış örnekleri dahi beraat için muteber sayılır. Ancak bu evrak ve senetler kanun, nizam ve kararlara uygun değilse saymanın bu kanuna göre olan sorumluluğu devam eder.
+Posta idarelerine tutanaklariyle kıymetli posta paketi halinde teslim edilen paralar gönderildiği yerde tamam olarak çıkmazsa idare ve adliyece yapılacak soruşturmaya ve verilecek karara göre sorumluluk belli olur.

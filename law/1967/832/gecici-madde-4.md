@@ -1,0 +1,5 @@
+Geçici Madde 4 – Bu kanunun yürürlüğe girdiği tarihte, Sayıştay kuruluşunda görevli bulunan meslek ve yönetim mensupları, savcı yardımcıları yeni bir atanma işlemine lüzum kalmaksızın bağlı (1) sayılı cetveldeki derecelerden kazanılmış unvanlarına uygun olanlara atanmış sayılırlar ve aylık ve ödeneklerinin ödenmesinde işe başlama kaydı aranmaz.
+Bir üst sınıfa yükselmeye hak kazanmış olanların kazanılmış unvanları, bu üst sınıftır.
+Ancak, ikinci fıkra gereğince başdenetçi veya uzman denetçi sınıflarının kazanılmış unvan sayılması Memurlar Seçim ve Disiplin Kurulu kararına bağlıdır.
+Müktesep hakları olan aylıktan daha az bir aylıkla denetçi yardımcılığına atananlarla (35) lira aylıklı denetçi yardımcılığına atananların yeterlik sınavını verinciye kadar denetçi yardımcılığı kadrolarında geçirdikleri üç yıldan fazla süreleri halen bulundukları barem derecelerinde geçen terfi sürelerine ve artanı da müteakip derecedeki terfi sürelerine eklenir.
+Bu düzeltme sonunda geçmişe ait aylık isteminde bulunulamaz.

@@ -1,0 +1,2 @@
+Geçici Madde 2 – Bu kanunun yürürlüğe girdiği tarih ile daire ve kurulların bu kanunla gösterilen esaslara göre kuruluşu tarihine kadar toplanmalarında, 2514 sayılı kanunun bu konuya ilişkin hükümlerinin uygulamasına devam olunur.
+Ancak, Genel Kurulun, daire başkanı ve üye adayları seçimi için toplanmasında vekil üyeler Kurula katılamazlar ve Genel Kurul görev başındaki üyelerin tam mevcudiyle toplanır.

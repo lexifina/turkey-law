@@ -1,0 +1,3 @@
+Saymanlıkların ve saymanların Sayıştaya bildirilmesi:
+Madde 43 – Bakanlıklar ve katma bütçeli dairelerle Sayıştay denetimine tabi olan bütün idare ve kurumlar her hesap yılı başından önce merkez yurt içi ve yurt dışındaki bütün kuruluşlarına giren saymanlıkların nevileri ile bulundukları mahalleri, görev sahalarının hudut ve şümulünü, saymanlıklara bağlı mutemetliklerle depo, ambar ve benzeri işyerlerinin açık adreslerini, görev başındaki saymanların ad ve soyadlariyle sicil numaralarını, aylık, ücret ve derecelerini Sayıştaya bildirmekle ve sorumluların imza sirkülerlerini göndermekle yükümlüdürler.
+Yıl içinde yapılan değişiklikler de değişiklik tarihinden itibaren en çok bir ay içinde aynı suretle Sayıştaya bildirilir.

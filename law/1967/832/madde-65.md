@@ -1,0 +1,4 @@
+Suç teşkil eden fiiller:
+Madde 65 – Harcamadan önce vize için Sayıştaya gönderilmiş olan tahakkukat belgelerinin ve harcamadan sonra sayman hesaplarının incelenmesi esnasında suç teşkil eden bir fiile raslandığı takdirde, ilgili denetçi tarafından derhal deliller
+4352
+tesbit edilerek durum, Birinci Başkanlığa bildirilir. Birinci Başkanın görevlendireceği hesap mahkemesince kamu davası yönünden kovuşturma yapılmasına karar verilmesi halinde de işlemli evrak veya hesabın bu kısmı, gereği yerine getirilmek üzere toplanan ilk delillerle birlikte sorumluların bağlı olduğu daireye veya Cumhuriyet Savcılığına verilir. Genel mahkemelerce verilen hükümler, Sayıştayın, hesap ve işlemler yönünden denetimine ve hükmüne engel değildir. Bu maddenin uygulanması ile ilgili hususlar yönetmeliğinde belirtilir.

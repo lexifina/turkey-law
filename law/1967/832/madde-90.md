@@ -1,0 +1,5 @@
+Meslek mensuplarının teminatı, işten el çektirme:
+Madde 90 – Sayıştay meslek mensuplarının görevlerine, bu kanunda yazılı haller ile Devlet memurluğundan çıkarılmayı gerektiren haller dışında son verilemez. Aylık ve başka hakları elinden alınamaz. Meslek mensupları için tesis edilmiş sınıflardan başka bir sınıftaki görevde çalıştırılamazlar.
+Ancak, sağlık bakımından görevlerini yerine getiremiyecek durumda oldukları tam teşekküllü Resmi Sağlık Kurulu raporuyla anlaşılanlarla, bulundukları derecede yaş haddini doldurdukları halde bir üst dereceye yükselemiyenlerin görevine Memurlar Seçim ve Disiplin Kurulu kararı ve Birinci Başkanın onayıyla son verilir.
+Haklarında disiplin veya ceza kovuşturması yapılmasına karar verilen raportör, uzman denetçi, başdenetçi, denetçi ve denetçi yardımcılarının görevleri başında kalmalarında soruşturmanın veya hizmetin gereği bakımından sakınca görülürse, Memurlar Seçim ve Disiplin Kurulu karariyle geçici bir süre için işten el çektirilebilir. (1)
+İşten el çektirme ve tekrar işe başlatma ve bunlarla ilgili diğer hususlar hakkında Devlet Memurları Kanununun görevden uzaklaştırılma bölümündeki hükümler uygulanır.

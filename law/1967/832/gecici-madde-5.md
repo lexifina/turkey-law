@@ -1,0 +1,2 @@
+Geçici Madde 5 – Bu kanunun yürürlüğe girdiği tarihte Sayıştay kuruluşuna dahil kadrolarda çalışanların, 16 Haziran 1934 tarihli ve 2514 sayılı kanunla tanınmış hakları saklıdır.
+Halen Maliye Bakanlığı Teşkilatında ve Maliye Bakanlığınca atanan mali vazifelerde çalışan ve 90 liralık kadro aylığını müktesep hak olarak almış olan yüksek okul mezunları da bir defaya mahsus olmak üzere üye seçilebilirler.

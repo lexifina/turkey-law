@@ -1,0 +1,21 @@
+{
+  "source_id": "5.5.832",
+  "path": "law/1967/832",
+  "number": "832",
+  "tertip": "5",
+  "title": "SAYIŞTAY KANUNU",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1967-02-21",
+  "published": "1967-02-27",
+  "in_force": "2005-01-01",
+  "in_force_basis": "Source labelled entry-into-force table row: 5219 101 1/1/2005",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=832&MevzuatTertip=5",
+  "source_sha256": "3804f34944645e344bbce2d3385047e806ecc121cdd14ef1c4a83d122864dfe5",
+  "words": 12061,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "first_law": null,
+  "history_note": "Earlier versions are not established by this current HTML source."
+}

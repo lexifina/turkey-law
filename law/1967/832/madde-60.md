@@ -1,0 +1,3 @@
+Olağanüstü hallerde belge ibraz edilememesi:
+Madde 60 – Savaş, yangın, sel, deprem, idari ve askeri sebeplerle, tahliye gibi olağanüstü haller dolayısiyle veya çalınma ya da mücbir sebeplerle kaybolduğu anlaşılan belge ve kayıtların bulunmasına ve gönderilmesine imkan bulunmadığı idare kurullarınca tutanakla onanırsa, sayman mevcut delillere göre yargılanır.
+Ancak yukarda yazılı hallerin vukuunda, saymanın durumu derhal yazı ile üstüne bildirmesi ve zimmetini ibra için 15 gün içinde bağlı olduğu bakanlık veya daireye başvurması şarttır. Bu takdirde saymanın beraati veya sorumluluğu bakanlık veya dairesinin düşüncesi alınmak suretiyle Sayıştayca hükme bağlanır.

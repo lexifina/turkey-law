@@ -1,0 +1,2 @@
+İlamlar:
+Madde 62 – İlam müsveddeleri mahkeme kurulu tarafından görülüp imza edildikten sonra bundan gereği kadar ilam çıkarılır. Bu ilamlardan ikişer nüshası daire başkanı ve üyeler tarafından imza edildikten sonra imzalı nüshalardan birisi dairede alıkonulup diğeri ve imzasız nüshaları hesap dosyası ile birlikte Birinci Başkanlığa verilir. Bu ilamlar Birinci Başkan veya tevkil edeceği kimseler tarafından Sayıştay mührü ile mühürlenip imza edildikten sonra mahkeme kurulu tarafından imzalı nüshası genel sekreterlikçe saklanır.

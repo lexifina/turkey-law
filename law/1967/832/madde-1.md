@@ -1,0 +1,1 @@
+Madde 1 – Sayıştay, genel ve katma bütçeli dairelerin gelir ve giderleri ile mallarını Türkiye Büyük Millet Meclisi adına denetlemek ve sorumluların hesap ve işlemlerini yargılama yoliyle kesin hükme bağlamak ve kanunlarla verilen inceleme, denetleme ve hükme bağlama işlerini yapmakla görevlidir.

@@ -1,0 +1,1 @@
+Geçici Madde 8 – Anayasa'nın 116 ncı maddesi gereğince il özel idareleriyle belediyelerin mali işlemlerinin denetlenmesine dair kanun yürürlüğe girinceye kadar, 16 Haziran 1934 tarihli ve 2514 sayılı Divanı Muhasebat Kanunu ve bu kanuna ek kanunların il özel idareleri ve belediyelere ait hükümleri yürürlükte kalır.
