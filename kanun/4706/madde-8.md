@@ -1,5 +1,2 @@
 MADDE 8 — 25.10.1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununun 1 inci maddesinin (3) numaralı fıkrasının (d) bendi aşağıdaki şekilde değiştirilmiştir.
 d) Hazinece yapılan taşınmaz mal satışları hariç müzayede mahallerinde ve gümrük depolarında yapılan satışlar,
-GEÇİCİMADDE 1 — 2001 yılında, bu Kanunun 5 inci maddesinin birinci fıkrasına göre taksitle ödeme yapılacak tutar, belediye mücavir alan sınırları içindeki taşınmaz mallar için elli milyar lira, dışındakiler için on milyar lira olarak uygulanır.
-GEÇİCİMADDE 2 — Bu Kanunun yürürlük tarihi itibarıyla 2924 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi Hakkında Kanun gereğince Orman Bakanlığınca hak sahipliği, rayiç bedel tespiti ve satış işlemlerine başlanmış olup da tapuları henüz verilmemiş olan yerlere ait dosyalar, bu Kanuna göre işlem yapılmak üzere Bakanlığa devredilir.
-GEÇİCİMADDE 3 — Bu Kanunun yürürlüğe girmesinden önce Hazinece satışı yapılan ancak tapuda devir işlemleri tamamlanmamış taşınmaz mallar hakkında da bu Kanun hükümleri uygulanır.
