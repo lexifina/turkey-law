@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1997-06-08",
+      "08.06.1997",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "23013",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1997-06-08",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Marmara Üniversitesi",
+  "issuer_slug": "marmara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/marmara-universitesi/1997/10418",
+  "published": "1997-06-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10418&MevzuatTertip=5",
+  "source_bytes": 26174,
+  "source_id": "8.5.10418",
+  "source_sha256": "8461dbb990239f10a87f45ae20fc9200665199acb7cc10f842416651fd67d179",
+  "text_status": "as-enacted",
+  "title": "MARMARA ÜNİVERSİTESİ YABANCI DİLLER BÖLÜMÜ HAZIRLIK SINIFLARI EĞİTİM –ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 210,
+  "word_count": 1257
+}
