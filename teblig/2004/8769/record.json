@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8769",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2004/10)",
+  "number": "8769",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2004/8769",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8769&MevzuatTertip=5",
+  "source_sha256": "30459fa236f2a3d8c4f5c513ff1cbfae822884e7ccbe051bd4e1f67b5ab2d5c0",
+  "source_bytes": 77540,
+  "published": "2004-06-02",
+  "gazette": "25480",
+  "in_force": "2004-06-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.06.2004); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3342,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
