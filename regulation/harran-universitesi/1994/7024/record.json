@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 44 — Bu Yönetmelik, yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1994-04-30",
+      "30.04.1994",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 44 — Bu Yönetmelik, yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21920",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1994-04-30",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Harran Üniversitesi",
+  "issuer_slug": "harran-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/harran-universitesi/1994/7024",
+  "published": "1994-04-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7024&MevzuatTertip=5",
+  "source_bytes": 89862,
+  "source_id": "8.5.7024",
+  "source_sha256": "e37685ee6d7e3057f930e523679f9e2d22474004f779df12bbd9f1cf24c19125",
+  "text_status": "as-enacted",
+  "title": "HARRAN ÜNİVERSİTESİ ARŞİV HİZMETLERİ YÖNETMELİĞİ",
+  "university_id": 200,
+  "word_count": 4203
+}

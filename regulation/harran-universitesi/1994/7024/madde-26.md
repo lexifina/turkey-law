@@ -1,0 +1,4 @@
+Devlet Arşivleri Genel Müdürlüğüne Devredilecek Malzemenin Ayrılması ve Teslimi
+Madde 26 — Kurum arşivinde saklanma süresini tamamlayan ve arşiv malzemesi vasfını kazanan malzemeler “Devlet Arşivleri Genel Müdürlüğüne Devredilecek Malzeme” şeklinde ayrılır. Hazırlanacak devir işlemleri onayı müteakip Devlet Arşivleri Genel Müdürlüğüne devredilir.
+Devir-Teslim ve Envanter Formunun bir sureti Rektörlük Kurum Arşivinde saklanır, bir sureti de bilgi için ilgili birim arşivine gönderilir.
+Arşiv malzemelerinden hangilerinin Devlet Arşivleri Genel Müdürlüğü’nce teslim alınıp, hangilerinin geçici ve sürekli olarak Harran Üniversitesi Rektörlüğü’nün elinde kalacağı, Rektörlüğün görüşü alındıktan sonra Devlet Arşivleri Genel Müdürlüğü’nce kararlaştırılır. Harran Üniversitesi Rektörlüğünün kendi arşivlerinde kalan arşiv malzemesi, bu Yönetmeliğin 6 ncı maddesi hükümlerine göre muhafaza edilir.

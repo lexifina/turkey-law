@@ -1,0 +1,2 @@
+Arşiv Hizmetlerinde Görevlendirilecek Personel
+Madde 4 —Kurum arşiv hizmet ve faaliyetlerinin yürütülmesi için arşiv konusunda eğitim görmüş Yöneticiler, Arşivistler, Uzmanlar, Teknisyenler ve Büro personeli görevlendirilir. Bu elemanların temin edilememesi halinde ve birim arşivlerinde, arşiv hizmetlerinin yürütülebilmesi için mevcut personel arasında yeterli bilgi ve tecrübeye sahip elemanlardan yararlanılır.

@@ -1,0 +1,10 @@
+İKİNCİ BÖLÜM
+Birinci Kısım
+Arşiv İşleri
+Tanımlar
+Madde 5 —a) Arşiv Malzemesi: Türk Devlet ve Millet hayatını ilgilendiren ve en son işlem tarihi üzerinden otuz yıl geçmiş veya üzerinden onbeş yıl geçtikten sonra kesin sonuca bağlanmış olup, Rektörlük işlemleri sonucunda teşekkül eden ve Rektörlük tarafından muhafazası gereken, Türk Milletinin geleceğine tarihi, siyasi, sosyal, kültürel, hukuki ve teknik değer olarak intikal etmesi gereken belgeler ve devlet hakları ile milletlerarası hakları belgelemeye, korumaya, bunlarla ilgili işlem ve münasebetler bakımından tarihi, hukuki, idari, askeri, iktisadi, dini, ilmi, edebi, estetik, kültürel, biyografik, jeneolojik ve teknik her hangi bir konuyu aydınlatmaya, düzenlemeye, tespite yarayan, ayrıca ait olduğu devrin ahlak, örf ve adetlerini veya çeşitli sosyal özelliklerini belirten her türlü yazılı evrak, defter, resim, plan, harita, proje, mühür, damga, fotoğraf, film, ses ve görüntü bandı, baskı ve benzeri belge ve malzemeleri,
+b) Arşivlik Malzeme: Yukarıdaki bentte sayılan her türlü belge ve malzemeden zaman bakımından henüz arşiv malzemesi vasfını kazanmayanlarla, son işlem tarihi üzerinden yüz bir yıl geçmemiş memuriyet sicil dosyaları, Rektörlüğün, gerçek ve tüzel kişilerle veya yabancı devlet ve milletlerarası kuruluşlarla akdettiği ikili ve çok taraflı milletlerarası antlaşmalar ve benzerleri,
+c) Kurum Arşivi: Arşiv malzemesi ile arşivlik malzemenin birim arşivlerine göre daha uzun süre saklandığı Rektörlük merkez arşivini,
+d) Birim Arşivi: Rektörlük merkez ve akademik teşkilatı birimlerinin görev ve faaliyetleri sonucu kendiliğinden teşekkül eden ve aktüalitesini kaybetmemiş olarak aktif bir biçimde ve günlük iş akımı içinde kullanılan arşivlik malzemenin belirli bir süre saklandığı arşivleri,
+Rektörlük’te; Daire Başkanlıkları ile Rektöre doğrudan bağlı birimler düzeyinde,
+Akademik Teşkilatta; Dekanlıklar, Enstitü Müdürlükleri, Yüksekokul Müdürlükleri, Araştırma ve Uygulama Merkez Müdürlükleri düzeyinde, ayrı ayrı teşkil olunan arşivleri, ifade eder.
