@@ -1,0 +1,60 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1923",
+  "year": 1955,
+  "title": "Niğde Mebusu Hasan Hayati Ülkün'ün Teşriî Masuniyeti Hakkında",
+  "adopted": "1955-02-07",
+  "adopted_as_published": "07/02/1955",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.02.1955 No: 8932",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/karartbmmc037/karartbmmc03701923.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 37",
+  "committee_reports": [
+    {
+      "label": "TBMM 146 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005037ss0146.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 10,
+      "kayit_no": 52264,
+      "title": "Niğde Mebusu Hasan Hayati Ülkün'ün Teşriî Masuniyeti Hakkında",
+      "adopted_as_published": "07/02/1955",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/karartbmmc037/karartbmmc03701923.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 146 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005037ss0146.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 37,
+          "sitting_date": "1955-02-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005fih.pdf",
+          "pages": [
+            "32:33"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "e36ba801c5927cce35db23247dd5ca17ca471e14d6589bcf90fbdb43ede2d7a3"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e36ba801c5927cce35db23247dd5ca17ca471e14d6589bcf90fbdb43ede2d7a3",
+  "issuer": "TBMM",
+  "in_force": "1955-02-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 07/02/1955; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
