@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2968-298-160",
+  "source_id": 26920,
+  "date": "2004-12-13",
+  "title": "Yapılmakta olan yatırımların enflasyon düzeltmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26920",
+  "source_sha256": "d27ad24d2aa02383df26785caa03f10d097c60890b8921287d90b8aab10d8e14",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
