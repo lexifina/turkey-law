@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4404-57/31557",
+  "source_id": 37858,
+  "date": "2004-07-05",
+  "title": "Araçlarının kullanılmaz durumda olduğunu belirterek işi bırakma bildirimde bulunan mükelleflerin işi bırakmaya ilişkin dilekçe ile birlikte ilgili trafik şube veya bürolarından alacakları hurdaya ayrıldığına ilişkin belgenin dilekçeye eklenmesi gerekmekte",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37858",
+  "source_sha256": "6410969b8526273c4e7f8c8ac4840a325a6080d12901c1ee3cdd2dd329641b12",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
