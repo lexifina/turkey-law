@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4535-5",
+  "source_id": 21227,
+  "date": "2004-10-20",
+  "title": "Özel maliyet niteliği taşıyan harcamaların yatırım indirimi istisnasından yararlanamayacağı, indirim yoluyla giderilemeyen amortismana tabi iktisadi kıymetlere ilişkin KDV'nin maliyet maliyet bedeline dahil edilmesi halinde, yatırım indirimi istisnası yön",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21227",
+  "source_sha256": "c0a690229a9f4f0089dc658c5a6510396181c39ac91d374facb4c0cba2853757",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
