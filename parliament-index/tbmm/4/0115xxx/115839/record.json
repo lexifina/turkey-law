@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 115839,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "İzalei şüyu davalarından ne suretle harç alınacağının tayin ve tefsiri hakkında 3/24 numaralı Başvekâlet tezkeresine dair",
+  "title": "İzalei şüyu davalarından ne suretle harç alınacağının tayin ve tefsiri hakkında 3/24 numaralı Başvekâlet tezkeresine dair",
+  "first_sitting_date": "1931-11-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 4,
+      "sitting_date": "1931-11-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c004/tbmm04004004.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c004/tbmm04004fih.pdf",
+      "pages": [
+        "16",
+        "18"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 6,
+      "sitting_date": "1931-11-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c004/tbmm04004006.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c004/tbmm04004fih.pdf",
+      "pages": [
+        "27"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 68,
+      "sitting_date": "1933-06-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c016/tbmm04016068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c016/tbmm04016fih.pdf",
+      "pages": [
+        "133",
+        "161:162"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=401&v_kullanici_id=27483870",
+  "source_sha256": "a3bc8b3fc2db3b765061f3a362b8a62432b95c724b41441ed8028c52b854ac48",
+  "in_force": "1931-11-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
