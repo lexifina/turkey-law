@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-2296/15162",
+  "source_id": 24786,
+  "date": "2005-04-05",
+  "title": "Faturada yer alan 340 kg miktarındaki peynir bir ailenin tüketimine konu olacak nitelikte olmadığından, harcama belgesinin vergi indiriminde kullanılması mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24786",
+  "source_sha256": "2d5732446cdf88c3b980fe7ba120c3d7d85461cd9aa81c9589d78b0f495f1e17",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
