@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "209",
+  "label": "TBMM 209 no'lu Komisyon Raporu",
+  "title": "Demiryolları ve limanları ile su işleri için (240.000.000) liralık tahsisat itası ve bu miktara kadar taahhüdat icrasına dair kanun",
+  "document_date": "1929-05-29",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 12, birleşim 72)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c012/tbmm03012072ss0209.pdf",
+  "pdf_sha256": "4d83a4d35a95f11b204aee1182969aab679cb6da43f5a5f8cd705a52384755a6",
+  "pdf_bytes": 1057149,
+  "pdf_pages": 11,
+  "index_entries": [
+    120317
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=2&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1929-05-29",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
