@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6203-556/15788",
+  "source_id": 38155,
+  "date": "2001-03-22",
+  "title": "A.Ş.'nin yaptığı sermaye artırımında, damga vergisi istisnasından yararlanıp yararlanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38155",
+  "source_sha256": "d472151ba0d720af47495d160555472a733f3b87dc6f4c326d8bd32444eff07f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
