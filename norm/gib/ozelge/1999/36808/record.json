@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-447/846",
+  "source_id": 36808,
+  "date": "1999-01-11",
+  "title": "Factoring şirketlerinin kullandığı kredilerdeki banka ve sigorta muameleleri vergisi hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36808",
+  "source_sha256": "a412ba6d96d36bb7d143a59eba56f93a901a1751be535eec71af83c38dd35699",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
