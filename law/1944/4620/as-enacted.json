@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4620",
+  "year": 1944,
+  "title": "Devlet Demiryolları ve Limanları İşletme Umum Müdürlüğü memur ve müstahdemlerinin ücretlerine dair olan kanunun bazı maddelerini değiştiren 3173 numaralı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-07-21",
+  "gazette_issue": "5762",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5762.pdf",
+  "source_sha256": "314c6671334d9bbb44681a355e364c5e9e9a5b99e8fd3700973d20cf1c74d392",
+  "text_sha256": "978ef3515ee6700a0bf41c751cfb1f8ec6060a231c4546b7cc2519137ab6cd4c",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      17,
+      325
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604620.pdf",
+    "source_sha256": "8889239d8983dc636b5baa9d341c4fb8a720870ff31a82201bd93f1852b51632",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9505,
+    "bag": 0.8887,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9985,
+    "rg_words": 1357,
+    "kd_words": 1377,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
