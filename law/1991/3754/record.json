@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3754",
+  "year": 1991,
+  "title": "2634 Sayılı Turizmi Teşvik Kanununun 16. Maddesinin Değiştirilmesi ve Bu Kanuna 2 Ek Madde Eklenmesi Hakkında Kanun",
+  "adopted": "1991-05-30",
+  "adopted_as_published": "30/05/1991",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.06.1991 No: 20893",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc074/kanuntbmmc074/kanuntbmmc07403754.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 74",
+  "committee_reports": [
+    {
+      "label": "TBMM 567 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c061/tbmm18061124ss0567.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 236239,
+      "title": "2634 Sayılı Turizmi Teşvik Kanununun 16. Maddesinin Değiştirilmesi ve Bu Kanuna 2 Ek Madde Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "30/05/1991",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc074/kanuntbmmc074/kanuntbmmc07403754.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 567 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c061/tbmm18061124ss0567.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 56,
+          "sitting": 80,
+          "sitting_date": "1991-02-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c056/tbmm18056080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c056/tbmm18056fih.pdf",
+          "pages": [
+            "275"
+          ]
+        },
+        {
+          "cilt": 61,
+          "sitting": 122,
+          "sitting_date": "1991-05-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c061/tbmm18061122.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c061/tbmm18061fih.pdf",
+          "pages": [
+            "167"
+          ]
+        },
+        {
+          "cilt": 61,
+          "sitting": 124,
+          "sitting_date": "1991-05-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c061/tbmm18061124.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c061/tbmm18061fih.pdf",
+          "pages": [
+            "353:358"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=363&v_gelecek_sayfa=301&v_kullanici_id=27483192",
+      "page_sha256": "00f6e264935372e640361cd09d4b62bd8cd3aa42dd1a608f72b219bd65964ef3"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "00f6e264935372e640361cd09d4b62bd8cd3aa42dd1a608f72b219bd65964ef3",
+  "issuer": "TBMM",
+  "in_force": "1991-05-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 30/05/1991; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
