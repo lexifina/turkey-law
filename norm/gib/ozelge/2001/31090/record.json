@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5232-7/13654",
+  "source_id": 31090,
+  "date": "2001-03-14",
+  "title": "Amortismana tabi iktisadi kıymetler dışındaki iade hakkı doğuran işlemlere ait yüklenilen vergilerden iade edilecek tutarın herhangi bir oranla sınırlandırılması mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31090",
+  "source_sha256": "66c1202a737cbe871d64cfbd3346368dd72a2ce73eb484e5191e2cc64ffed882",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
