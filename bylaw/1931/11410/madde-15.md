@@ -1,0 +1,1 @@
+Madde 15 – Mezarlığın dahili daima, temiz tutulacak, ottan, süprüntüden hali bulundurulacak ve yolları, parmaklıkları iyi halde muhafaza edilecektir. Mezar taşlarının kirlenmesine ve yosun tutmasına meydan bırakılmayacaktır.

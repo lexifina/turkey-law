@@ -1,0 +1,1 @@
+Madde 32 – Ölülerin belediyece yıkanması ve kefenlenmesi ve mezarlığa kadar götürülmesi, mezar açılması ve kapanması için icap eden ücret tarifesi belediye meclisleri tarafından tanzim edilecektir. Cenaze sahipleri tabutunu ve kefenini verdikleri halde belediyece alınacak ücretlerden bunların bedelleri tenzil edilir.

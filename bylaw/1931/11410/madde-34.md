@@ -1,0 +1,1 @@
+Madde 34 – Mezarlık memuru her gömme vukuunda gömülmüş kimsenin sicilini ve vefatı tarihini Dahiliye Vekaletince yapılacak cetvele yazarak en çok üç gün içinde mahalli nüfus idaresine bildirmeğe mecburdur.

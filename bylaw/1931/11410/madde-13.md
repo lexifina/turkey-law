@@ -1,0 +1,1 @@
+Madde 13 – Mezarlıklar, güneşin girmesine ve havanın cereyanına mani olmayacak tarzda, servi gibi, mümkün mertebe yaz ve kış yeşil duran ve dalları yayvan olmayan ağaçlarla ve mümkün olan yerlerde çiçeklerle tezyin edilecektir.
