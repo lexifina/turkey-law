@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2334",
+  "year": 1933,
+  "title": "Devlet Demiryolları ve limanları işletme Umum Müdürlüğü 1933 malî senesi bütçesinde münakale yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-11-25",
+  "gazette_issue": "2561",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2561.pdf",
+  "source_sha256": "3ed50910e96fb422c6a1ebac687f22abb3d951de97286ee10c4ee514367ba30e",
+  "text_sha256": "669f77e94c856c3b930eaf195498a459306702d622ab5f2e9d1f4d26753894c9",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      141,
+      172
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [2] (no text layer)",
+    "tesseract_pages": [
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302334.pdf",
+    "source_sha256": "2580e638b1a50e246d6ffd0befaddcaa3cabf76ccbbd1cbc499ac8432fe2da70",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9239,
+    "bag": 0.8548,
+    "kd_coverage": 0.9897,
+    "kd_body_compared": 0.9843,
+    "rg_words": 184,
+    "kd_words": 191,
+    "own_anchor": false,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
