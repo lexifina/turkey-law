@@ -1,0 +1,3 @@
+Merkez Bankasınca Yapılacak İşlemler
+Madde 5- (Başlığıyla birlikte değişik: RG-03/01/2004-25335)
+Merkez Bankası, Hesabın oluşturulduğu tarihten, tasfiyesinin tamamlanmış olacağı tarihe kadar Hesaba yatırılan Devlet garantisi bedeli ve Hesaptan yapılan ödemelerle ilgili kayıtları tutar. Bu kayıtlara, bu Yönetmeliğin 7 nci maddesi uyarınca T.C. Ziraat Bankası A.Ş.’ye aktarılan meblağın nemalandırılması sonucu elde edilen gelire ve Hesap bakiyesine ilişkin bilgileri bu Yönetmelikle belirlenen süreler itibarıyla Müsteşarlığa bildirir. Merkez Bankası, Hesaba ilişkin kayıtları, Hesabın tasfiyesinin tamamlanacağı tarihten başlamak üzere on yıl süreyle muhafaza eder."

@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.4400",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİVİL HAVA ARAÇLARI ÜÇÜNCÜ ŞAHIS MALİ MESULİYET SİGORTASININ TİCARİ OLARAK TEMİN EDİLEMEYEN KISMININ DEVLET GARANTİSİ İLE KARŞILANMASI HAKKINDA UYGULAMA YÖNETMELİĞİ",
+  "number": "4400",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2003/4400",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4400&MevzuatTertip=5",
+  "source_sha256": "cee530cc8e58a8635295b1ab7b66120b096a07ae5fc1f4b2daf23bfbe9b8105d",
+  "source_bytes": 27687,
+  "published": "2003-11-01",
+  "gazette": "25276",
+  "in_force": "2004-01-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-03/01/2004\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2004-01-03",
+      "RG-03/01/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1258,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

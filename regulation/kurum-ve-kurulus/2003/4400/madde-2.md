@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 — Bu Yönetmelik; Sivil Hava Araçları Üçüncü Şahıs Mali Mesuliyet Devlet Garantisi Hesabının idaresi, Devlet garantisi bedelinin tahsil edilmesi, toplanan kaynakların nemalandırılması, Devlet garantisi kapsamındaki ödemelerin yapılması, risk transferi için yapılabilecek ödemeler ve gerekli görülen hizmetlerin ve hizmet bedelinin belirlenmesi, rizikonun gerçekleşmesi halinde uğranılan zararın beyan ve tespiti ve Hesabın tasfiye sürecine girmesi halinde, tasfiyeye ilişkin usul ve esasları kapsar.
