@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "Cumhuriyet Senatosu",
+  "assembly": "CUMHURİYET SENATOSU",
+  "term_label": "5. Toplantı Yılı",
+  "cilt": 31,
+  "sitting": 9,
+  "label": "9. Birleşim",
+  "sitting_date": "1965-11-18",
+  "date_as_published": "18 Kasım 1965",
+  "weekday": "Perşembe",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031009.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031009gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=7&meclis_kisa_adi=CS&diger_donem_adi=t05",
+  "source_sha256": "53879d225212d11a384688c13b54136d746e1c1af49de75fa42cc3248af9f96a",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
