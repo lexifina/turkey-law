@@ -1,0 +1,91 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82606,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "REŞAT AYDINLI (DENİZLİ)",
+  "summary": "Tapu Kanununun 15. maddesinin değiştirilmesi hakkında",
+  "title": "Tapu Kanununun 15. maddesinin değiştirilmesi hakkında",
+  "first_sitting_date": "1949-04-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 73,
+      "sitting_date": "1949-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018fih.pdf",
+      "pages": [
+        "524"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 17,
+      "sitting_date": "1949-12-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022fih.pdf",
+      "pages": [
+        "211"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 19,
+      "sitting_date": "1949-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022fih.pdf",
+      "pages": [
+        "301"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 28,
+      "sitting_date": "1950-01-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c023/tbmm08023028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c023/tbmm08023fih.pdf",
+      "pages": [
+        "110:111"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 29,
+      "sitting_date": "1950-01-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c023/tbmm08023029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c023/tbmm08023fih.pdf",
+      "pages": [
+        "180:189"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 31,
+      "sitting_date": "1950-01-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c023/tbmm08023031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c023/tbmm08023fih.pdf",
+      "pages": [
+        "209:212"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=265&v_gelecek_sayfa=101&v_kullanici_id=27484152",
+  "source_sha256": "212ed156472b974b03e9914d300965ddabdc488993ebc676ecc90f85dcbf28e6",
+  "in_force": "1949-04-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
