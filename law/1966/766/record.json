@@ -1,0 +1,201 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "766",
+  "year": 1966,
+  "title": "Tapulama Kanunu",
+  "adopted": "1966-06-28",
+  "adopted_as_published": "28/06/1966",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.07.1966 No: 12346",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900766.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 49",
+  "committee_reports": [
+    {
+      "label": "MM 89 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c006/mm__02006087ss0089.pdf"
+    },
+    {
+      "label": "CS 785no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c036/cs__05036079ss0785.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 358255,
+      "title": "Tapulama Kanunu",
+      "adopted_as_published": "28/06/1966",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900766.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 89 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c006/mm__02006087ss0089.pdf"
+        },
+        {
+          "label": "CS 785no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c036/cs__05036079ss0785.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 42,
+          "sitting_date": "1966-02-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002fih.pdf",
+          "pages": [
+            "598"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 70,
+          "sitting_date": "1966-03-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c005/mm__02005070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c005/mm__02005fih.pdf",
+          "pages": [
+            "487"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 87,
+          "sitting_date": "1966-04-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c006/mm__02006087.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c006/mm__02006fih.pdf",
+          "pages": [
+            "144:162"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 90,
+          "sitting_date": "1966-05-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c006/mm__02006090.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c006/mm__02006fih.pdf",
+          "pages": [
+            "248:283"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 92,
+          "sitting_date": "1966-05-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c006/mm__02006092.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c006/mm__02006fih.pdf",
+          "pages": [
+            "333:372",
+            "378:381"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 93,
+          "sitting_date": "1966-05-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c006/mm__02006093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c006/mm__02006fih.pdf",
+          "pages": [
+            "388",
+            "390",
+            "392",
+            "397",
+            "403:406"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1101&v_kullanici_id=27483225",
+      "page_sha256": "80251869e03af7558ae631349888e850be9b61a18fdf958704c8ec81c5f86c7f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 302500,
+      "title": "Tapulama Kanunu",
+      "adopted_as_published": "28/06/1966",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900766.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 89 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c006/mm__02006087ss0089.pdf"
+        },
+        {
+          "label": "CS 785no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c036/cs__05036079ss0785.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 35,
+          "sitting": 75,
+          "sitting_date": "1966-05-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c035/cs__05035075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c035/cs__05035fih.pdf",
+          "pages": [
+            "792"
+          ]
+        },
+        {
+          "cilt": 36,
+          "sitting": 80,
+          "sitting_date": "1966-06-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c036/cs__05036080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c036/cs__05036fih.pdf",
+          "pages": [
+            "39",
+            "67:79",
+            "85:108"
+          ]
+        },
+        {
+          "cilt": 36,
+          "sitting": 81,
+          "sitting_date": "1966-06-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c036/cs__05036081.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c036/cs__05036fih.pdf",
+          "pages": [
+            "113:114"
+          ]
+        },
+        {
+          "cilt": 36,
+          "sitting": 82,
+          "sitting_date": "1966-06-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c036/cs__05036082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c036/cs__05036fih.pdf",
+          "pages": [
+            "121:152",
+            "155",
+            "173",
+            "176",
+            "178:180"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=701&v_kullanici_id=27483235",
+      "page_sha256": "28c4c071a296cef811d1914cc4a93e05eb005f54447af6f75911f51122fe206f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "80251869e03af7558ae631349888e850be9b61a18fdf958704c8ec81c5f86c7f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1966-06-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 28/06/1966; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
