@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5954",
+  "year": 1952,
+  "title": "Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü İşçilerine Mesken Yaptırmaları için Borç Para Verilmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-06-23",
+  "gazette_issue": "8142",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8142.pdf",
+  "source_sha256": "ec7d0afab6f26dedec02179e13746eb3ea7251d207b0a9b7912f8c872f35b431",
+  "text_sha256": "628a2b2caf8b7525220dea70e1c46f266e09ce19f7fc9793953612dbd23043c6",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      9,
+      51
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405954.pdf",
+    "source_sha256": "df7fe2f5d8518e263e408c4925d548421cb7ae897a08da23b88ba7607c2779d5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9833,
+    "bag": 0.9445,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9938,
+    "rg_words": 312,
+    "kd_words": 321,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
