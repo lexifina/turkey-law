@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 92895,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Ordu İç Hizmet Kanununun 3387 sayılı kanunla değişen 2. maddesinin değiştirilmesine dair (1/457)",
+  "title": "Ordu İç Hizmet Kanununun 3387 sayılı kanunla değişen 2. maddesinin değiştirilmesine dair (1/457)",
+  "first_sitting_date": "1945-06-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 79,
+      "sitting_date": "1945-06-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c018/tbmm07018079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c018/tbmm07018fih.pdf",
+      "pages": [
+        "432"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 83,
+      "sitting_date": "1945-07-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c019/tbmm07019083.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c019/tbmm07019fih.pdf",
+      "pages": [
+        "44",
+        "121:122"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=734&v_gelecek_sayfa=301&v_kullanici_id=27484086",
+  "source_sha256": "43c41bf7d45b1fd86488686a50db374e58acc7b11b87ff04d89dd7ecc02408e6",
+  "in_force": "1945-06-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
