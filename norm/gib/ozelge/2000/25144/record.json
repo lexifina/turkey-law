@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2870-135-115/47120",
+  "source_id": 25144,
+  "date": "2000-10-17",
+  "title": "Tarh zamanaşımı süresi dolmamış vergilerle ilgili düzenlenecek vergi inceleme raporuna dayanılarak tarhiyat yenilemesi yoluna gidilmesi hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25144",
+  "source_sha256": "ed8462df9c09c789287121714a6ec1bf2b63b6f0db085d995f5f4d5494c63be6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
