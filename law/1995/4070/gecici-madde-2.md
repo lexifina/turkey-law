@@ -1,0 +1,3 @@
+Geçici Madde 2- (3/7/2003-4916/17 md.)
+Bu Kanunun 5, 6, 7 ve 8 inci maddelerine göre taşınmaz satın almak isteyenlere bu maddenin yürürlüğe girdiği tarihten itibaren iki yıllık başvuru süresi tanınır. Bu süreyi Bakanlar Kurulu bir defaya mahsus olmak üzere bir yıla kadar uzatabilir. Bu sürenin geçmesi ile her türlü talep hakkı düşer ve söz konusu taşınmazlar genel hükümlere göre satılır.
+Mülga 28.6.1966 tarihli ve 766 sayılı Kanunun 37 nci maddesi gereğince konulan şerhler, bu taşınmazların Kanunun 7 nci maddesinin üçüncü fıkrasına göre satın alınmaması halinde, tapu idarelerince resen kaldırılır.

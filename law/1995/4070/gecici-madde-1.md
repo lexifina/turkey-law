@@ -1,0 +1,2 @@
+Geçici Madde 1 – (Ek : 29/6/2001 - 4707/4. md.)
+Bu Kanunun 5, 6, 7 ve 8 inci maddelerine göre taşınmaz mal satın almak isteyenlere, bu maddenin yürürlüğe girdiği tarihten itibaren iki yıllık başvuru süresi tanınır. Bu süreyi Bakanlar Kurulu bir defaya mahsus olmak üzere bir yıla kadar uzatabilir. Bu sürenin geçmesi ile her türlü talep hakkı düşer ve söz konusu taşınmaz mallar genel hükümlere göre satılır.

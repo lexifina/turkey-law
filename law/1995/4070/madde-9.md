@@ -1,0 +1,2 @@
+Satışta Hak Düşürücü Süre
+Madde 9 – Bu Kanunun 5,6,7 ve 8 inci maddelerine göre taşınmaz mal satın almak isteyenlerin Kanunun yürürlüğe girdiği tarihten itibaren 1 yıl içinde ilgili defterdarlık veya malmüdürlüğüne müracaat etmeleri gerekir. Bu süreyi Bakanlar Kurulu bir defaya mahsus olarak uzatabilir. Bu sürenin geçmesi ile her türlü talep hakkı düşer ve sözkonusu taşınmaz mallar genel hükümlere göre satılır.(2)
