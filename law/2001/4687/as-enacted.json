@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4687",
+  "year": 2001,
+  "title": "Karadeniz Deniz İşbirliği Görev Grubu Teşkiline Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-06-26",
+  "gazette_issue": "24444",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/06/20010626.htm",
+  "source_sha256": "f65fa6c0d94b00d573c9406104be618e5050199069ca405bb60bc3a98e18730a",
+  "text_sha256": "c27b780e9947d16c6ee6fdf95f852240585f612b4883caa1ae0df5ae204df3bd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/06/26/24444-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/06/20010626.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
