@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 9- Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme MADDE 10- Bu Yönetmelik hükümlerini Dumlupınar Üniversitesi Rektörü yürütür."
+  ],
+  "date_evidence": [
+    [
+      "2001-10-11",
+      "11.10.2001",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 9- Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme MADDE 10- Bu Yönetmelik hükümlerini Dumlupınar Üniversitesi Rektörü yürütür.",
+  "first_law": null,
+  "gazette": "24550",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2001-10-11",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kütahya Dumlupınar Üniversitesi",
+  "issuer_slug": "kutahya-dumlupinar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kutahya-dumlupinar-universitesi/2001/7686",
+  "published": "2001-10-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7686&MevzuatTertip=5",
+  "source_bytes": 22214,
+  "source_id": "8.5.7686",
+  "source_sha256": "bd9b21f1ea09e2939f96e48712c4e0994df97f89312cea65f9083d84093089b8",
+  "text_status": "as-enacted",
+  "title": "DUMLUPINAR ÜNİVERSİTESİ ATATÜRK İLKELERİ VE \r\nİNKILAP TARİHİ ARAŞTIRMALARI MERKEZİ YÖNETMELİĞİ",
+  "university_id": 190,
+  "word_count": 602
+}
