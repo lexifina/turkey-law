@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-3202/10777",
+  "source_id": 37876,
+  "date": "2002-03-12",
+  "title": "Yatırım mallarının herhangi bir nedenle elden çıkarılmasının, yatırım indirimi uygulaması yönünden bir önemi yoktur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37876",
+  "source_sha256": "4ab1f4b511e4a1323dd6e489ac1eac3493c5b08d28fb79ab1fb30596ebf76ef7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
