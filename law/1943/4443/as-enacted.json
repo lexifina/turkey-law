@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4443",
+  "year": 1943,
+  "title": "Başvekâlet teşkilâtı hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-06-29",
+  "gazette_issue": "5442",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5442.pdf",
+  "source_sha256": "c21c64a396677be0cb0e8eff7a4366a9eabb06c568a767b61cf8e3fa45458a48",
+  "text_sha256": "d38885a1c6b35edb80bedc7b97470c5eb1757c36356601aca59e9da5a495c8d8",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      181
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504443.pdf",
+    "source_sha256": "b935231856ddc384c93e222f6858dacedc6872057b806ea2d0a080d585170442",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9073,
+    "bag": 0.8325,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9976,
+    "rg_words": 376,
+    "kd_words": 413,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
