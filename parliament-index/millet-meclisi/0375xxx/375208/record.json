@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 375208,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "İstanbul Milletvekili Orhan Birgit ve 6 arkadaşının, 506 sayılı Sosyal Sigortalar Kurumu Kanununun bâzı maddelerinin değiştirilmesine dair kanun teklifi (2/839)",
+  "title": "İstanbul Milletvekili Orhan Birgit ve 6 arkadaşının, 506 sayılı Sosyal Sigortalar Kurumu Kanununun bâzı maddelerinin değiştirilmesine dair kanun teklifi (2/839)",
+  "first_sitting_date": "1969-02-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 33,
+      "sitting": 55,
+      "sitting_date": "1969-02-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c033/mm__02033055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c033/mm__02033fih.pdf",
+      "pages": [
+        "623"
+      ]
+    },
+    {
+      "cilt": 35,
+      "sitting": 76,
+      "sitting_date": "1969-04-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c035/mm__02035076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c035/mm__02035fih.pdf",
+      "pages": [
+        "493",
+        "64"
+      ]
+    },
+    {
+      "cilt": 36,
+      "sitting": 93,
+      "sitting_date": "1969-05-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036fih.pdf",
+      "pages": [
+        "426",
+        "657"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=4701&v_kullanici_id=27484893",
+  "source_sha256": "1e5523dee19b20da9727530d447ffd20d70f73ac19bc826c340c9037991f0a0f",
+  "in_force": "1969-02-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
