@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 378834,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "6326 sayılı Petrol Kanunu ile bu kanunda değişiklik yapan 6558 ve 6987 sayılı kanunların bâzı maddelerinin değiştirilmesi, bâzı madde ve fıkralarının kaldırılması, bâzı maddelerine fıkralar ve kanuna bir madde eklenmesi hakkında (1/335)",
+  "title": "6326 sayılı Petrol Kanunu ile bu kanunda değişiklik yapan 6558 ve 6987 sayılı kanunların bâzı maddelerinin değiştirilmesi, bâzı madde ve fıkralarının kaldırılması, bâzı maddelerine fıkralar ve kanuna bir madde eklenmesi hakkında (1/335)",
+  "first_sitting_date": "1970-05-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 89,
+      "sitting_date": "1970-05-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c005/mm__03005089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c005/mm__03005fih.pdf",
+      "pages": [
+        "697"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 97,
+      "sitting_date": "1970-06-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006097.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006fih.pdf",
+      "pages": [
+        "124:125"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2001&v_kullanici_id=27484850",
+  "source_sha256": "80765caf48b85682a293a557a13b8b9a1882b10d5b6c0c8387209cca0fa06ecb",
+  "in_force": "1970-05-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
