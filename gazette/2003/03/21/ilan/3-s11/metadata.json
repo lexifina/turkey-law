@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-03-21",
+  "issue": "25055",
+  "edition": "regular",
+  "item": 11,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Bahçeliköy Belediye Başkanlığından:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030321-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (45 = 45)",
+  "ilan_codes": [
+    "5983/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030321-3.htm",
+  "category_page_sha256": "c3b1be5b6fd9cd8d84e7016b88d4e6b87b6dd2847b7d9647d90a46c4b9e4befe",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030321.htm",
+  "index_sha256": "34b47ae58286251a484013f66b0e0b14c94d90308c790a71c7f4bfd8c6e1e99c",
+  "index_header": "21 Mart 2003 ... Sayı : 25055",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
