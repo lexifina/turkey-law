@@ -1,0 +1,74 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "890",
+  "year": 1926,
+  "title": "Trablusgarp, Balkan Harbi umûmi ve istiklali millî muharebatında şehit olan erkân, ümera ve zabıtan ile mensubini askeriyenin bazı borçlarının affı hakkınndaki 2 Kânunuevvel 1341 tarihli kanunun birinci maddesine bir fıkra tezyiline dair Kanun",
+  "adopted": "1926-06-01",
+  "adopted_as_published": "01/06/1926",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.06.1926 No: 404",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc004/kanuntbmmc004/kanuntbmmc00400890.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 4",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 126770,
+      "title": "Trablusgarp, Balkan Harbi umûmi ve istiklali millî muharebatında şehit olan erkân, ümera ve zabıtan ile mensubini askeriyenin bazı borçlarının affı hakkınndaki 2 Kânunuevvel 1341 tarihli kanunun birinci maddesine bir fıkra tezyiline dair Kanun",
+      "adopted_as_published": "01/06/1926",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc004/kanuntbmmc004/kanuntbmmc00400890.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 110,
+          "sitting_date": "1926-05-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025110.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/ehttbmm02025110.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025fih.pdf",
+          "pages": [
+            "629"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 111,
+          "sitting_date": "1926-05-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025111.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/ehttbmm02025111.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025fih.pdf",
+          "pages": [
+            "701",
+            "722:724"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 112,
+          "sitting_date": "1926-06-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c026/tbmm02026112.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c026/ehttbmm02026112.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c026/tbmm02026fih.pdf",
+          "pages": [
+            "6",
+            "26:28"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=501&v_kullanici_id=27483145",
+      "page_sha256": "c919e85439b80296e5287ae04644ae3fd7332fc8d54dc1f2597a7a22034472c5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "c919e85439b80296e5287ae04644ae3fd7332fc8d54dc1f2597a7a22034472c5",
+  "issuer": "TBMM",
+  "in_force": "1926-06-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 01/06/1926; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
