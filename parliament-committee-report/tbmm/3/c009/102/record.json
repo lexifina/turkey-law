@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "102",
+  "label": "TBMM 102 no'lu Komisyon Raporu",
+  "title": "Ağıllar hakkında kanun",
+  "document_date": "1929-03-02",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 9, birleşim 39)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c009/tbmm03009039ss0102.pdf",
+  "pdf_sha256": "d10f47d87eb820e1888d60c286d2dd4eb6538037a3e0ac778fadd7f4a50bb9da",
+  "pdf_bytes": 592733,
+  "pdf_pages": 7,
+  "index_entries": [
+    120228
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=2&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1929-03-02",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
