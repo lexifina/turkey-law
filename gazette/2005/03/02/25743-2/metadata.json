@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-03-02",
+  "issue": "25743",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararı",
+  "title": "2005/8551 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci Maddesine Göre Uygulanmakta Olan Gecikme Zammı Oranı ile İlgili Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050302-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050302.htm",
+  "index_sha256": "7af28c6524e69106f1e1ee27adbcfb1d3ff846cd2cdc581ff81962167e178996",
+  "index_header": "2 Mart 2005 ... Sayı : 25743",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
