@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.41/4106-391/42917",
+  "source_id": 24667,
+  "date": "2000-09-19",
+  "title": "Arazinin üzerindeki zirai ürünlerle birlikte kamulaştırmasında; arazi üzerindeki ürünler için yapılacak ödemelerin, elde eden çiftçinin tevkifata tabi tutulması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24667",
+  "source_sha256": "a31132d8ab5f6343d968442d4a6f3fa3ba229922af1c18f381b5e305830665a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
