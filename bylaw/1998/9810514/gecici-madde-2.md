@@ -1,0 +1,1 @@
+Geçici Madde 2 – İlgili Genel Müdürlüklerde yeter sayıda kontrolör bulunmadığı takdirde; sınav kurullarının oluşturulmasında, kontrolörlerin eğitim ve yetiştirilmesinde ve Tüzüğün 9 uncu maddesinde belirtilen mesleki yeterlilik raporlarının düzenlenmesinde Bakanlık müfettişleri görevlendirilir.
