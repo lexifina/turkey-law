@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.4962",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TOPRAK MAHSULLERİ OFİSİ GENEL MÜDÜRLÜĞÜ MÜFETTİŞ YARDIMCILIĞI GİRİŞ SINAVI YÖNETMELİĞİ",
+  "number": "4962",
+  "issuer": "Toprak Mahsulleri Ofisi Genel Müdürü",
+  "issuer_slug": "toprak-mahsulleri-ofisi-genel-muduru",
+  "path": "regulation/toprak-mahsulleri-ofisi-genel-muduru/2003/4962",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4962&MevzuatTertip=5",
+  "source_sha256": "952a19c87ca3b60df89970c7b1e3d4f6e56e566192a5589fa5801bec9feeeb08",
+  "source_bytes": 25139,
+  "published": "2003-05-01",
+  "gazette": "25095",
+  "in_force": "2004-05-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG 25/5/2004\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2004-05-25",
+      "RG 25/5/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 854,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

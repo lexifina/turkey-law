@@ -1,0 +1,2 @@
+Duyurma
+Madde 7- KPSS'ye girmiş olan adaylardan, TMO tarafından yapılacak Müfettiş Yardımcılığı Giriş Sınavına katılacaklarda aranacak genel ve özel şartlar, başvuruların tarihi, yeri ve şekli ile istenecek belgeler, sınavın yeri, zamanı ve sınav konuları, içeriği ve değerlendirme yöntemi, sınav gününden en az iki ay önce başlamak üzere Türkiye genelinde yayın yapan en az iki günlük gazetede ve Resmi Gazete'de ilan olunur.
