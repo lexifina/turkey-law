@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5883",
+  "year": 1952,
+  "title": "Islahı Hayvanat Kanununun Bazı Maddelerinin Değiştirilmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-02-22",
+  "gazette_issue": "8041",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8041.pdf",
+  "source_sha256": "0c4b634abdc1b68c89ce716c509a0c2dc3ea727f80cc80855af7c499b2a59ce2",
+  "text_sha256": "50eed80f3d6bf044d8b83cebf6743fa16a355248d8f9bf7151cb04b62f79fd1a",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      162,
+      247
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405883.pdf",
+    "source_sha256": "229fe790cf8f25081d4e069b629a4b1923abe9c727f17d8a345179f03d7093b9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.986,
+    "bag": 0.9068,
+    "kd_coverage": 0.9941,
+    "kd_body_compared": 0.9941,
+    "rg_words": 651,
+    "kd_words": 683,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
