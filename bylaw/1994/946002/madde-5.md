@@ -1,0 +1,2 @@
+Sınav Kurulları
+Madde 5 – Yarışma ve yeterlik sınav kurulları Bakanlık Makamının onayı ile Genel Müdürün başkanlığında, Genel Müdürün belirlediği bir genel müdür yardımcısı, Bakanlık Teftiş Kurulunca görevlendirilecek bir ticaret müfettişi, Bakanlık Birinci Hukuk Müşaviri ve en az beş yıllık uzmanlık kıdemi olan bir tüketici ve rekabet uzmanı ile bu görevliler arasından belirlenecek iki yedek üyeden oluşur.
