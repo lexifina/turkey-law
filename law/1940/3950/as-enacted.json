@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3950",
+  "year": 1940,
+  "title": "Bina ve arazi vergilerinden istisna edilmiş olan mukataalı gayrimenkullere kıymet takdiri hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-12-28",
+  "gazette_issue": "4698",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4698.pdf",
+  "source_sha256": "93ad42ff4f3fc710da2c22407e3bd95b6ca73473e10ef65e604f86564f641488",
+  "text_sha256": "87f03c8258bc6cc5209c5db800c4e6cd3dc4de57ecd0517952d6a2e28afc53b3",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      39
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203950.pdf",
+    "source_sha256": "ff7cd7c43630fc28f262e05f8aadbb5e4995c543a5f31550537f52a758aeb426",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9513,
+    "bag": 0.871,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9898,
+    "rg_words": 177,
+    "kd_words": 197,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
