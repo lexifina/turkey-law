@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5029-126/10533",
+  "source_id": 24696,
+  "date": "1998-03-19",
+  "title": "Sermaye Piyasası Kurulu Tebliğine göre, halka açık şirketlerin menkul sermaye iradı sayılan kazançlarına uygulanan gelir vergisi tevkifatı oranı yönünden değerlendirilmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24696",
+  "source_sha256": "fe9a884b0f108d35b942ccf0f603ff9316580328e6842a95436726ff925dbb00",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
