@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 141421,
+  "assembly": "Temsilciler Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "(Maliye Komisyonu ile Kurucu Meclis Bütçe Komisyonuna Seçilen Temsilci Üyelerden Mürekkep Karma Komisyon) 60.404.000 liralık Hazine borç ve alacağının mahsubuna dair kanun tasarısı hakkında (1/46)",
+  "title": "(Maliye Komisyonu ile Kurucu Meclis Bütçe Komisyonuna Seçilen Temsilci Üyelerden Mürekkep Karma Komisyon) 60.404.000 liralık Hazine borç ve alacağının mahsubuna dair kanun tasarısı hakkında (1/46)",
+  "first_sitting_date": "1961-05-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 71,
+      "sitting_date": "1961-05-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c005/tm__00005071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c005/tm__00005fih.pdf",
+      "pages": [
+        "512"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 5,
+      "sitting": 72,
+      "sitting_date": "1961-05-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c005/tm__00005072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c005/tm__00005fih.pdf",
+      "pages": [
+        "543:544",
+        "609:611"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "bb90dab6d4f47dc8bdff309ed3890e18a91db9db1190e97dba21fda79fc10395",
+  "in_force": "1961-05-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
