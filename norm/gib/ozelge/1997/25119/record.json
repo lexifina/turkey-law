@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.64/6420-44/18677",
+  "source_id": 25119,
+  "date": "1997-05-07",
+  "title": "Vergi Usul Kanununun 114. Maddesinde belirtilen 5 yıllık zamanaşımı süresinin son yılı içinde tarh ve tebliğ edilen vergilerde düzeltme zamanaşımı süresi bir yıl uzamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25119",
+  "source_sha256": "af8c74d9351a8a7cb601e4ec0b77285645b63115b20ee5ba4ac990df7b8dfb8b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
