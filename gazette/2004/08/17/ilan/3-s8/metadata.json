@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-08-17",
+  "issue": "25556",
+  "edition": "regular",
+  "item": 8,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Başkent EDAŞ Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040817-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (16 = 16)",
+  "ilan_codes": [
+    "10206/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040817-3.htm",
+  "category_page_sha256": "a19ac49daaf0685622e53c7eb1a1d723e4a609ab5b43c4fb06aa6e58a16943ee",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040817.htm",
+  "index_sha256": "33aa31009a09666042085886bb9b0317484db034fd4baa837a5e59716a667303",
+  "index_header": "17 Ağustos 2004 ... Sayı : 25556",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
