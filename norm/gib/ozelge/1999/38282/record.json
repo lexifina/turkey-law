@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6527-139/5082",
+  "source_id": 38282,
+  "date": "1999-02-15",
+  "title": "Alım satıma konu olan araçların trafik ve benzeri işlemlerinin takibi işiyle ilgili olarak V.U.K.'a göre fatura veya perakende satış fişlerinin düzenlenmesi şartıyla Ö.K.C. kullanma mecburiyeti bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38282",
+  "source_sha256": "156903dcf68efc920fdb1de5a329166cb0c892eb278916bc3724c1934a1392d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
