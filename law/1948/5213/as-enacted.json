@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5213",
+  "year": 1948,
+  "title": "Devlet Havayolları Genel Müdürlüğü Teşkilatı hakkında 3424 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1948-06-09",
+  "gazette_issue": "6927",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6927.pdf",
+  "source_sha256": "1ce47189c244211ae36fd416425d2434f17c5c4bf546d09a02d1987feca6efa6",
+  "text_sha256": "a2f39ec623a734c813f4d9d44aed61074339748012629cc1d76eda2a814d3b6c",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      180,
+      234
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/kanuntbmmc030/kanuntbmmc03005213.pdf",
+    "source_sha256": "168718a4a27803649ed2977752a37dba8937fe352e714dcc858b5dd02505a751",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9293,
+    "bag": 0.8103,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9877,
+    "rg_words": 187,
+    "kd_words": 163,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
