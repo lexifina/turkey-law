@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5582",
+  "year": 1950,
+  "title": "Marshall Plânı (Avrupa Kalkınması Programı) çevresi dahilinde elde edilecek yardımların Bütçe ve Hazine hesaplarına intikal şekline ilişik Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-03-04",
+  "gazette_issue": "7448",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7448.pdf",
+  "source_sha256": "646583d018d2ae9fd10c49732dad5622116f95aa32046d791eaa448cc8e40512",
+  "text_sha256": "ed7dd9b2702d66cf80948a92a6a0cd362a9f39ff62a99b1530e32ffb0dafc0c4",
+  "text_status": "ocr",
+  "pages": [
+    11,
+    12
+  ],
+  "line_span": [
+    [
+      2495,
+      2577
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205582.pdf",
+    "source_sha256": "e59bdf0520618c1ec1bbe6e5f88734e6a1efb1c1df89229cd030b9651da09b81",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9574,
+    "bag": 0.9141,
+    "kd_coverage": 0.9928,
+    "kd_body_compared": 0.9893,
+    "rg_words": 541,
+    "kd_words": 559,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
