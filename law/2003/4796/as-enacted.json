@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4796",
+  "year": 2003,
+  "title": "Türkiye-EFTA Ortak Komitesinin 2000 Yılına Ait 4 Sayılı Kararının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-01-28",
+  "gazette_issue": "25007",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030128.htm",
+  "source_sha256": "4f0bd3cd9c823bc2aa4e2eb498b80692e6354f77d5cbf686bffc46bd7f8190ef",
+  "text_sha256": "035fa6beabc8b94e3ebd5428de7086b935c47d9bc5dad93450421c04d583c92e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/01/28/25007-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030128.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
