@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4684",
+  "year": 1944,
+  "title": "Ordu mensuplariyle Emniyet Umum Müdürlüğü ve Gümrük muhafaza ve muamele sınıfı kadrolarında çalışanlara birer er tayını verilmesi hakkındaki 4367 sayılı kanunun birinci maddesinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-12-20",
+  "gazette_issue": "5884",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5884.pdf",
+  "source_sha256": "ba411d478a4094738195a848e6191af0ffd69a928efc98503bb074c31a9ac401",
+  "text_sha256": "ff8bc88edabd2d478e06ced48a2f3cf66dd98a8106563da620c7c8835d93d167",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      10,
+      44
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704684.pdf",
+    "source_sha256": "ccce29e2225420f681c062488eddf8b47c6985f506bae8cf288cff4993cd2ac0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9717,
+    "bag": 0.9267,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9897,
+    "rg_words": 190,
+    "kd_words": 194,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
