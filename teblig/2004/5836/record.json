@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.5836",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİ TEKNİK KOMİTESİNİN OLUŞUMU VE GÖREVLERİNE DAİR TEBLİĞ (TEBLİĞ NO: TAU/2004-007)",
+  "number": "5836",
+  "issuer": "Bayındırlık ve İskan Bakanı",
+  "path": "teblig/2004/5836",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=5836&MevzuatTertip=5",
+  "source_sha256": "b1ebd0733047c1f84fe93ed54307dbe7e086a8ddefd073bb6eace529cd5678fe",
+  "source_bytes": 28414,
+  "published": "2004-07-16",
+  "gazette": "25524",
+  "in_force": "2004-07-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.07.2004); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 859,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
