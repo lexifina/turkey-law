@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 122506,
+  "assembly": "TBMM",
+  "term": 3,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Maliye ve iktisat vekâletleri 1928 senesi bütçesinde münakale yapılması hakkında, Millî Müdafa ve Maliye vekâletleri 1928 senesi bütçesinde 11.500 liralık münakale yapılması hakkında, Sıhhat ve içtimaî muavenet Vekâleti 1928 senesi bütçesine 22.000 lira munzam tahsisat verilmesi hakkında, Dahiliye Vekâleti 1928 senesi bütçesinin bazı fasılları arasında 113.000 liralık münakale yapılması hakkında, Jandarma Umum Kumandanlığı 1928 senesi bütçesinin bazı fasılları arasında imha ve münakale yapılması ve bazı fasıllarına munzam tahsisat verilmesine dair, Harita Umum Müdürlüğü bütçesinde fasıl açılması hakkında, Millî Müdafaa Vekâleti 1928 senesi bütçesinde 188000 liralık münakale yapılması hakkında, Diyanet işleri riyaseti 1928 senesi bütçesine munzam tahsisat verilmesi hakkında, Maarif Vekâleti 1928 senesi bütçesinin bazı fasılları arasında münakale yapılması hakkında, Malîye Vekâleti 1928 senesi bütçesine munzam tahsisat verilmesi hakkında,22 Nisan 1928 tarihli kanunla sarfına mezuniyet verilen 200.000 liranın 246.000 liraya iblağı hakkında, Adliye Vekâleti 1928 senesi bütçesinin bazı fasıl ve maddeleri arasında münakale yapılması hakkında ve Hariciye Vekâleti 1928 senesi bütçesine 35.000 liralık munzam tahsisat verilmesi hakkında kanun lâyihalarına dair",
+  "title": "Maliye ve iktisat vekâletleri 1928 senesi bütçesinde münakale yapılması hakkında, Millî Müdafa ve Maliye vekâletleri 1928 senesi bütçesinde 11.500 liralık münakale yapılması hakkında, Sıhhat ve içtimaî muavenet Vekâleti 1928 senesi bütçesine 22.000 lira munzam tahsisat verilmesi hakkında, Dahiliye Vekâleti 1928 senesi bütçesinin bazı fasılları arasında 113.000 liralık münakale yapılması hakkında, Jandarma Umum Kumandanlığı 1928 senesi bütçesinin bazı fasılları arasında imha ve münakale yapılması ve bazı fasıllarına munzam tahsisat verilmesine dair, Harita Umum Müdürlüğü bütçesinde fasıl açılması hakkında, Millî Müdafaa Vekâleti 1928 senesi bütçesinde 188000 liralık münakale yapılması hakkında, Diyanet işleri riyaseti 1928 senesi bütçesine munzam tahsisat verilmesi hakkında, Maarif Vekâleti 1928 senesi bütçesinin bazı fasılları arasında münakale yapılması hakkında, Malîye Vekâleti 1928 senesi bütçesine munzam tahsisat verilmesi hakkında,22 Nisan 1928 tarihli kanunla sarfına mezuniyet verilen 200.000 liranın 246.000 liraya iblağı hakkında, Adliye Vekâleti 1928 senesi bütçesinin bazı fasıl ve maddeleri arasında münakale yapılması hakkında ve Hariciye Vekâleti 1928 senesi bütçesine 35.000 liralık munzam tahsisat verilmesi hakkında kanun lâyihalarına dair",
+  "first_sitting_date": "1929-05-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 64,
+      "sitting_date": "1929-05-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c011/tbmm03011064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c011/tbmm03011fih.pdf",
+      "pages": [
+        "37",
+        "64",
+        "82",
+        "85"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1561&v_gelecek_sayfa=601&v_kullanici_id=27483795",
+  "source_sha256": "e1ee62cce4d62c57338662306f8efd4dbf7a7918a7413cc50df7bcf32774ecf9",
+  "in_force": "1929-05-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
