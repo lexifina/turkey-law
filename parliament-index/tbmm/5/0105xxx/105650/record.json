@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 105650,
+  "assembly": "TBMM",
+  "term": 5,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Heyeti mahsusalarca aleyhlerine verilib kendilerine tebliğ edilmeyen kararlara karşı alakadarların itiraz edebilmeleri hakkında (1/909)",
+  "title": "Heyeti mahsusalarca aleyhlerine verilib kendilerine tebliğ edilmeyen kararlara karşı alakadarların itiraz edebilmeleri hakkında (1/909)",
+  "first_sitting_date": "1937-12-08",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 13,
+      "sitting_date": "1937-12-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c021/tbmm05021013.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c021/tbmm05021fih.pdf",
+      "pages": [
+        "32"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 83,
+      "sitting_date": "1938-06-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026083.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026fih.pdf",
+      "pages": [
+        "471:484"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1318&v_gelecek_sayfa=701&v_kullanici_id=27483909",
+  "source_sha256": "181fd54f8f988e0de157c439685bc414ad0873ecd53ac605b64273797aae85a0",
+  "in_force": "1937-12-08",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
