@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3990",
+  "year": 1941,
+  "title": "Sıhhat ve içtimaî muavenet Vekâleti teşkilât ve Memurin kanununun 53. maddesinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-04-07",
+  "gazette_issue": "4778",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4778.pdf",
+  "source_sha256": "a9f6e70db35306b6a64783e3a92c167a96f0d3a6f6ee8af475856ca4f6c0753f",
+  "text_sha256": "2d6c21e1585792c2b5cd27b239c29811831fcb76855629139ba9a0f4b847dbf0",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      58,
+      92
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203990.pdf",
+    "source_sha256": "7ae4483e9c388688d7940919c5e664444294569d269338932bfc55155049d870",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9875,
+    "bag": 0.9231,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9913,
+    "rg_words": 227,
+    "kd_words": 230,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
