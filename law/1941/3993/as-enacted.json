@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3993",
+  "year": 1941,
+  "title": "Yedeksubay ve askerî memurlar hakkındaki kanunun 3923 sayılı kanunla değiştirilen 3. maddesine bazı hükümler ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-04-11",
+  "gazette_issue": "4782",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4782.pdf",
+  "source_sha256": "71071c96711b9c55e9a593dd4943ded74384619f23b53ce743e2fe98323b6de5",
+  "text_sha256": "a45b92bc2028b3fe5a6df434eec1e2203e8759cb81a8c02ce8227727deff5782",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      183,
+      219
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203993.pdf",
+    "source_sha256": "5b60c229f0426685b3a4a26e998aa2aff5603f3bac047b6d2be5a8a6900f55fd",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9792,
+    "bag": 0.8872,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9897,
+    "rg_words": 198,
+    "kd_words": 194,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
