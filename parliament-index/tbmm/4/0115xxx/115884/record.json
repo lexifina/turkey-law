@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 115884,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Muvazenei umumiye dahilindeki devairin kırtasiye ihtiyaçlarının sureti tedarikine dair olan kanuna müzeyyel 1/296 numaralı kanun lâyihası hakkında",
+  "title": "Muvazenei umumiye dahilindeki devairin kırtasiye ihtiyaçlarının sureti tedarikine dair olan kanuna müzeyyel 1/296 numaralı kanun lâyihası hakkında",
+  "first_sitting_date": "1933-10-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 17,
+      "sitting": 73,
+      "sitting_date": "1933-10-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c017/tbmm04017073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c017/tbmm04017fih.pdf",
+      "pages": [
+        "9"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 75,
+      "sitting_date": "1933-10-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c017/tbmm04017075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c017/tbmm04017fih.pdf",
+      "pages": [
+        "32"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 70,
+      "sitting_date": "1934-06-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023fih.pdf",
+      "pages": [
+        "204"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 72,
+      "sitting_date": "1934-06-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023fih.pdf",
+      "pages": [
+        "291:292",
+        "309:311"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=1001&v_kullanici_id=27483870",
+  "source_sha256": "d857ec64d6e7e04864beae4f8c60c3106b8d5bd012f102e163cbdd2e9272ffb0",
+  "in_force": "1933-10-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
