@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6004-159/60445",
+  "source_id": 36407,
+  "date": "1996-12-18",
+  "title": "Banka nezdinde bulunan hazine bonosuna karşılık varislerce teminat gösterilmesi nedeniyle tevkifat yapılmadan serbest bırakılması mümkün değildir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36407",
+  "source_sha256": "7b288b343f8afc67f91bf8ee4cf9d201bd714a1e18c8abe0466cb5049748d437",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
