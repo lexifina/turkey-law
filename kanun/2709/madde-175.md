@@ -57,3 +57,5 @@ Madde 35- Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sun
 5– 27/12/2002 tarih ve 4777 sayılı Kanunun Geçici 1 inci Maddesi ve 3 üncü Maddesi:
 Geçici Madde 1- Türkiye Cumhuriyeti Anayasasının 67 nci maddesinin son fıkrası, Türkiye Büyük Millet Meclisinin 22 nci dönemi içinde yapılacak ilk ara seçimde uygulanmaz.
 Madde 3- Bu Kanun yayımı tarihinde yürürlüğe girer ve halk oylamasına sunulması halinde tümüyle oylanır.
+6- 7/5/2004 tarihli ve 5170 sayılı Kanunun 11 inci Maddesi:
+Madde 11 — Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması halinde tümüyle oylanır.
