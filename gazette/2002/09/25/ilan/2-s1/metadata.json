@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-09-25",
+  "issue": "24887",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Yargı İlânları",
+  "category": "yargi",
+  "category_page": "2",
+  "title": "Gaziosmanpaşa 3. Asliye Ceza Hakimliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020925-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (1 = 1)",
+  "ilan_codes": [
+    "21219/1-1",
+    "21218/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020925-2.htm",
+  "category_page_sha256": "309f3c1e7e56aabef4efeae4e7f99ccf943676a12552cab4f5a613451c6ad840",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020925.htm",
+  "index_sha256": "ea1b20bfaf5a7d9ea4af687bb914f3274090fcd91221684b8095589150e58c11",
+  "index_header": "25 Eylül 2002 ... Sayı : 24887",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed (court notice)"
+}
