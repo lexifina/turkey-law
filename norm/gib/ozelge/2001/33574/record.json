@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5317-1770/11187",
+  "source_id": 33574,
+  "date": "2001-02-23",
+  "title": "Yapı denetim şirketleri tarafından yapılacak denetim hizmetleri genel oranda katma değer vergisine tabi bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33574",
+  "source_sha256": "d2dfe91dcfbfffe3727c281e7533295a577468dc473107070544cd577d893969",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
