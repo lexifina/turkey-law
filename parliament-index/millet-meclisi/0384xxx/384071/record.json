@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 384071,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "İstanbul Teknik Üniversitesine bağlı bir Teknik Okul açılmasına dair 10.3.1954 tarihli ve 6374 sayılı Kanunun kaldırılmasına ve İstanbul Teknik Üniversitesi kuruluş kadroları hakkındaki 7.7.1948 tarihli ve 5246 sayılı Kanuna bağlı cetvellere Mühendislik-Mimarlık Fakültesi başlığı altında yeni kadrolar eklenmesine dair (1/409)",
+  "title": "İstanbul Teknik Üniversitesine bağlı bir Teknik Okul açılmasına dair 10.3.1954 tarihli ve 6374 sayılı Kanunun kaldırılmasına ve İstanbul Teknik Üniversitesi kuruluş kadroları hakkındaki 7.7.1948 tarihli ve 5246 sayılı Kanuna bağlı cetvellere Mühendislik-Mimarlık Fakültesi başlığı altında yeni kadrolar eklenmesine dair (1/409)",
+  "first_sitting_date": "1971-01-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 29,
+      "sitting_date": "1971-01-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c009/mm__03009029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c009/mm__03009fih.pdf",
+      "pages": [
+        "520"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 105,
+      "sitting_date": "1971-05-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013105.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013fih.pdf",
+      "pages": [
+        "629"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 111,
+      "sitting_date": "1971-06-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014111.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014fih.pdf",
+      "pages": [
+        "173:175",
+        "369:372"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2101&v_kullanici_id=27484850",
+  "source_sha256": "8af304721e65178fed123645710fcf029bbfc31e0fdff8599f88c6b438240622",
+  "in_force": "1971-01-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
