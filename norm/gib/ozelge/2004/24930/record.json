@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3011-344-725/37350",
+  "source_id": 24930,
+  "date": "2004-08-12",
+  "title": "Vergi beyannamelerinin kanuni süreleri geçtikten sonra ödeme süreleri içerisinde verilmesi halinde bu beyanname ile beyan edilen vergi için yüzde elli oranında vergi ziyaı cezası kesilecek, bu durum VUK 352-I/1 inci maddesi uyarınca birinci derece iki kat",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24930",
+  "source_sha256": "54770d57da1b339567a6bc15599ea32e4af80be2b04755630695ca8443fe0350",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
