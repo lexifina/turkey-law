@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-03-23",
+  "issue": "25057",
+  "edition": "regular",
+  "item": 46,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "T.C. Ziraat Bankası Anonim Şirketi Genel Müdürlüğü Satın Alma ve İnşaat Daire Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030323-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (47 = 47)",
+  "ilan_codes": [
+    "5950/2-2"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030323-3.htm",
+  "category_page_sha256": "f5f35d7729ceba8dff06c92d3da0c3c30ee408329437fe6af8ca7457ab7e7b12",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030323.htm",
+  "index_sha256": "71734ffad133bd0b4bb40c1aad6b53d7091ed05da42c954540d5a784da95534d",
+  "index_header": "23 Mart 2003 ... Sayı : 25057",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
