@@ -1,0 +1,97 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4415",
+  "year": 1999,
+  "title": "Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanuna Bir Ek Madde Eklenmesine Dair Kanun",
+  "adopted": "1999-07-22",
+  "adopted_as_published": "22/07/1999",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "05.08.1999 No: 23777",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc083/kanuntbmmc083/kanuntbmmc08304415.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 83",
+  "committee_reports": [
+    {
+      "label": "TBMM 51 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006036ss0051.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 426067,
+      "title": "Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanuna Bir Ek Madde Eklenmesine Dair Kanun",
+      "adopted_as_published": "22/07/1999",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc083/kanuntbmmc083/kanuntbmmc08304415.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 51 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006036ss0051.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 33,
+          "sitting_date": "1999-07-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006fih.pdf",
+          "pages": [
+            "262"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 35,
+          "sitting_date": "1999-07-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006fih.pdf",
+          "pages": [
+            "379"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 36,
+          "sitting_date": "1999-07-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006fih.pdf",
+          "pages": [
+            "599:615"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 37,
+          "sitting_date": "1999-07-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c007/tbmm21007037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c007/tbmm21007fih.pdf",
+          "pages": [
+            "27",
+            "37:40",
+            "42:48",
+            "50:99",
+            "123:146"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "54720ffdd2ec500138bad83b0778f9de490b7a834e1c043027979aa301267ba5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "54720ffdd2ec500138bad83b0778f9de490b7a834e1c043027979aa301267ba5",
+  "issuer": "TBMM",
+  "in_force": "1999-07-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 22/07/1999; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
