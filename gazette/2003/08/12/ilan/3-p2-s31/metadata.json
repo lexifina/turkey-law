@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-08-12",
+  "issue": "25197",
+  "edition": "regular",
+  "item": 31,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-2",
+  "title": "Ankara İl Sağlık Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030812-3-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (38 = 38)",
+  "ilan_codes": [
+    "29050/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030812-3-2.htm",
+  "category_page_sha256": "5d83ebb90fddd580356ea642e8c58a9aa3fb2884475624378ccc840ba2de5d5c",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030812.htm",
+  "index_sha256": "252ac6447202ec3c49e7f238bf7e2a8d30c3cbe815030c92948897cb11c443ec",
+  "index_header": "12 Ağustos 2003 ... Sayı : 25197",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
