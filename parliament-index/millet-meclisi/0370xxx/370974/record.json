@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 370974,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Cumhuriyet Senatosu Tunceli Üyesi Mehmet Ali Demir'in, Türk Ceza Kanununun 567. maddesine bir fıkra eklenmesine dair kanun teklifi (2/180)",
+  "title": "Cumhuriyet Senatosu Tunceli Üyesi Mehmet Ali Demir'in, Türk Ceza Kanununun 567. maddesine bir fıkra eklenmesine dair kanun teklifi (2/180)",
+  "first_sitting_date": "1967-12-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 22,
+      "sitting": 12,
+      "sitting_date": "1967-12-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c022/mm__02022012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c022/mm__02022fih.pdf",
+      "pages": [
+        "307",
+        "741:749"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 21,
+      "sitting_date": "1967-12-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023021.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023fih.pdf",
+      "pages": [
+        "19:28"
+      ]
+    },
+    {
+      "cilt": 27,
+      "sitting": 56,
+      "sitting_date": "1968-03-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027056.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027fih.pdf",
+      "pages": [
+        "3",
+        "505"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=4201&v_kullanici_id=27484893",
+  "source_sha256": "1dd530e83d59e60acee6416b158e39c29f0cba28261ee7f0e696d188a2fddab2",
+  "in_force": "1967-12-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
