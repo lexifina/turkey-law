@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5419",
+  "year": 1949,
+  "title": "Muhasebei Umumiye Kanununun 5. ve 34. maddelerinin değiştirilmesine ve bazı Gelir Kanunlarında değişiklik yapılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-06-08",
+  "gazette_issue": "7227",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7227.pdf",
+  "source_sha256": "d2ab97954c45f2b23f76f84640faf4c3a14c28fefbdaf06ce0cc96c59d229671",
+  "text_sha256": "05d57f425708655212c5def91e20dbc3449521321c9f5390ac9a95d5fae6915a",
+  "text_status": "ocr",
+  "pages": [
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      555,
+      628
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105419.pdf",
+    "source_sha256": "fbe4fdaf76566e658c72199ee1dd2406833ad29413448dbe92df422cb8d17ba2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9708,
+    "bag": 0.9338,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9967,
+    "rg_words": 598,
+    "kd_words": 612,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
