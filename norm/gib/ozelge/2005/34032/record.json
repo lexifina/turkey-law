@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5200.07.131-8526",
+  "source_id": 34032,
+  "date": "2005-02-23",
+  "title": "Malul ve engellilerin bizzat kullanma amacıyla Kanunun 2/b bendinde belirtilen araçlara sakatlığına uygun hareket ettirici özel tertibat yaptırması halinde ÖTV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34032",
+  "source_sha256": "746a856beb7b6215c922fdd7cbcb668709652dcac97ecec7aecf9066ff2ec06a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
