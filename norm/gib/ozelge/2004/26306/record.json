@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6516-868/33686",
+  "source_id": 26306,
+  "date": "2004-07-16",
+  "title": "Finansal danışmanlık işi yapan mükellefler fatura düzenleme mecburiyeti bulunmayan satışları veya hizmet ifalarını belgelendirmek üzere ödeme kaydedici cihaz kullanmak zorunda olmaları hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26306",
+  "source_sha256": "2eb3e117b5e60af68242a442c25bd9b240dc18172f90ffc01e05b211d3071f78",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
