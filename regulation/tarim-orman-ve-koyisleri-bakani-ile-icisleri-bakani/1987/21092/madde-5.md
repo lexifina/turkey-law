@@ -1,0 +1,6 @@
+Köy Yerleşme Alanının Tesbiti
+Madde 5 – İlgili ilçe kaymakamının mütâlaasını da dikkate alarak muhtarın talebini uygun görmesi veya doğrudan doğruya kendi kararına dayanarak; vali, köy yerleşme alanını tespit ve plânını hazırlamak üzere komisyonu görevlendirir.
+Komisyon öncelikle o köye ait harita, sosyal ve ekonomik durum gösteren doküman ve gerekli diğer bilgileri derledikten sonra merkezde bir ön değerlendirme yapar. Müteakiben mahalline giderek, köyün istikbaldeki gelişme durumu da dikkate alınarak; ihtiyaç duyulan konut parsel sayısını, parsel büyüklüklerini, gerekli bulmuyorsa sosyal tesisler ve diğer genel ihtiyaçlar için tefrik edilecek arazi miktarını hesaplayarak, sonuç olarak köy yerleşme alanının ne genişlikte olacağına karar verir.
+Mevcut köy yerleşik alanı ile bütünlük teşkil edecek şekilde ve mümkün mertebe mera niteliğini kaybetmiş arazilerle verimi düşük ya da tarım dışı hazine arazilerine öncelik vererek, köy gelişme alanı için uygunluğuna karar verdiği sahanın sınırlarını belirler.
+Müracaatların çok olması halinde komisyon, nüfusu en çok olan köyden başlayarak bir öncelik sıralaması yapar ve çalışmalarını buna göre yürütür. Bu amaçla gerektiğinde valilikçe ayrı ya da aynı vali yardımcısının başkanlığında birden fazla komisyon teşkil edilebilir.
+Komisyon yaptığı bu çalışmaları ve aldığı kararları bir tutanakla tespit eder.

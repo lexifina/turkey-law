@@ -1,0 +1,3 @@
+Köy Yerleşme Planının Yapılması
+Madde 7 – Köy hizmetleri il müdürlüğü, hazırlanan harita veya ölçekli kroki üzerinde Köy Hizmetleri Genel Müdürlüğünce tespit edilecek teknik esaslara göre; konut, komisyon tarafından tespit edilen sosyal tesisler ve köyün diğer ihtiyaçları için gerekli parselleri ve yolları ölçek dahilinde işleyerek, köy yerleşme planını hazırlar. Köy yerleşme plânını zemine aplike ederek parsel köşe noktalarını işaretler.
+Köy yerleşme plânlarını yapmak üzere, köy hizmetleri il müdürlüğü veya bağlı bulunduğu bölge müdürlüğünde gerekli teknik elemanların bulunmaması halinde, bu çalışmalar Köy Hizmetleri Genel Müdürlüğü tarafından yapılır veya yaptırılır.
