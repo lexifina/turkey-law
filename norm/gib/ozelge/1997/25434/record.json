@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2930-240-141/5703",
+  "source_id": 25434,
+  "date": "1997-02-18",
+  "title": "Taşıma irsaliyesine taşıma ücretinin yazılması Kanun gereği olduğundan, taşıma işinden önce taşıma ücretinin mutlaka yazılması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25434",
+  "source_sha256": "d84c3b732fcb5f40a1e31b1319f97892a8b41c1c287d9532d627129161eea5e3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
