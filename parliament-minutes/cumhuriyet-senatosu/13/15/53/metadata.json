@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "Cumhuriyet Senatosu",
+  "assembly": "CUMHURİYET SENATOSU",
+  "term_label": "13. Toplantı Yılı",
+  "cilt": 15,
+  "sitting": 53,
+  "label": "53. Birleşim",
+  "sitting_date": "1974-05-03",
+  "date_as_published": "03 Mayıs 1974",
+  "weekday": "Cuma",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c015/cs__13015053.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c015/cs__13015053gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c015/cs__13015fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=7&meclis_kisa_adi=CS&diger_donem_adi=t13",
+  "source_sha256": "d8faeab1a459fc7924c4e3e5ab4b5ee155ee43120338a6b8390a44f20fa6534a",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
