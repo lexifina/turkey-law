@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-10/2004-8/Tevkifat Uygulaması-3",
+  "source_id": 1108,
+  "date": "2004-08-05",
+  "title": "Bakanlar Kurulunca vergi muafiyeti tanınan vakıflar ile kamu menfaatine yararlı derneklere 01.01.2005 tarihinden itibaren Gelir Vergisi Kanununun 94 üncü maddesinin birinci fıkrasının 7, 8, 9 ve 14 numaralı bentlerinde belirtilen ödemeler üzerinden tevkif",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1108",
+  "source_sha256": "5c12aab58a6e19bc6e15e43f825f3a759ebff9f9b6675350c1ef571acb8eab21",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
