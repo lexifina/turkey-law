@@ -1,0 +1,14 @@
+Kayıt Yenileme
+Madde 4 — Bir eğitim-öğretim programında ders ve uygulamaların toplam saati, bir yarıyılda; alt sınıftaki dersler ve Kafkas Üniversitesi Kayıt, Eğitim-Öğretim ve Sınav Yönetmeliğinin 17/c maddesindeki dersler dahil, haftada 40 saatten fazla olamaz. Ancak, Sağlık Yüksekokullarında öğrencilerin dersin devamını almış olmaları şartıyla bu sınır aşılabilir. Ders kayıtlarında öncelikli olarak, tekrar dersler yazılır. Öğrenciler normal eğitim-öğretim süresinden önce mezun olamaz.
+Tek ders sınavı sonucunda üçüncü sınıftan alınacak derslerin devam durumu üçüncü haftadan itibaren dikkate alınır.
+Öğrenciler ders kayıtlarında Sağlık Yüksekokulu Kurullarının koyacağı esaslara uymak zorundadırlar. Derse yazılım kartlarında Danışman ve Bölüm Başkanının onayı aranır.
+Sağlık Yüksekokullarında birinci sınıftan tekrar dersi (Kafkas Üniversitesi Kayıt, Eğitim-Öğretim ve Sınav Yönetmeliğinin 17/c maddesindeki dersler hariç) olan öğrenciler, 3 üncü ve daha sonraki sınıflardan ders alamazlar.
+Ders kayıtları yarıyıl başlangıcından üç (3) iş günü önce başlar ve yarıyılın 2 nci iş günü çalışma saati bitiminde sona erer. Bu süre içinde kaydını yenilemeyen öğrenci, o yarıyıla devam etme hakkını kaybetmiş olur. Kaybedilen yarıyıl öğrenim süresinden sayılır. Kaydını yeniletmeyen öğrencilere o yarıyıl için herhangi bir öğrenci belgesi verilmez.
+Belirli bir dersin başarılmış olması, başka bir dersin alınabilmesinin ön koşulu olabilir. Hangi ders/derslerin bir başka dersin ön koşulu olduğu müfredat programında belirtilir.
+Öğrenci ders kaydını yenilerken Sağlık Yüksekokulları müfredatında yer alan önkoşullu dersleri dikkate almak zorundadır. Bir dersin ön koşulu olan dersten başarılı olmayan öğrenci o derse kayıt yaptıramaz.
+Derse yazılım kartları, yarıyılların başlamasını takip eden bir ay içerisinde Kafkas Üniversitesi Öğrenci İşleri Daire Başkanlığına ulaştırılır.
+Kayıt yenileme süresi Sağlık Yüksekokulları Yönetim Kurulunun teklifi üzerine Senato tarafından belirlenir. Bu süreleri uzatmak Senatonun yetkisindedir.
+Tek dersten kalmış olan öğrencilerin, yukarıda belirtilen kayıt süresi içerisinde harçlarını yatırmaları şartıyla, tek ders sınav sonuçları açıklanıncaya kadar ders kayıt hakları saklı tutulur. Tek ders sınav sonuçlarının ilanından sonraki iki (2) iş günü içinde ders kayıtları yapılır, bu süreyi aşan öğrencinin ders kaydı yapılmaz ve o yarıyıla devam etme hakkını kaybetmiş sayılır.
+Süresi içinde kayıtlarını yenilemeyen öğrencilerin devamsızlık sınırını aşmamak kaydıyla, mazeretlerinin haklı ve geçerli olduğu Sağlık Yüksekokulları Yönetim Kurullarınca kabul edilmesi halinde kayıtları yenilenir.
+Öğrenci, Sağlık Yüksekokulları Yönetim Kurullarınca kabul edilmiş mazereti yoksa, ders kaydını kendisi yenilemek zorundadır.
+Kesin kayıt ve Güz Yarıyılı kayıt yenileme sırasında öğrenci, harcının ilk taksidini; Bahar Yarıyılı kayıt yenileme sırasında ise kalanını ödememişse, kaydı yapılmaz ve yenilenmez.

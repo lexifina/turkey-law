@@ -1,0 +1,2 @@
+Kimlik Kartı
+Madde 6 — Kesin kayıt yaptıran öğrenciye, Öğrenci İşleri Daire Başkanlığınca bir kimlik kartı verilir. Üniversiteden ayrılan, çıkarılan, kaydı silinen veya mezun olan öğrencilerden geri alınan kimlik kartları öğrencilerin dosyalarında saklanır. Kimlik kartlarının kaybedilmesi halinde yenisinin verilmesi için bir gazete ilanı ile birlikte, emniyet makamlarından alınacak yazının, Kafkas Üniversitesi Öğrenci İşleri Daire Başkanlığına iletmeleri halinde ücret karşılığı kendilerine yeniden öğrenci kimlik kartı verilir.

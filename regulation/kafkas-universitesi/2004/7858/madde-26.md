@@ -1,0 +1,3 @@
+Sınavların Değerlendirilmesi
+Madde 26 — Sınavlar 100 tam not üzerinden değerlendirilir. Başarı notu (geçme notu) ağırlıklı ortalama olup, en az tam not olarak 50 olmalıdır. Başarı notunun hesaplanmasında, ara sınav not ortalamasının başarı notuna katkısı % 30, yarıyıl sonu notunun başarı notuna katkısı ise % 70 tir. Ayrıca ara sınav notu ne olursa olsun, yarıyıl sonu veya bütünleme sınavlarında öğrencinin en az 50 puan alması zorunludur. Bütünlemeye kalmış öğrencinin başarı notunun hesaplanmasında yarıyıl sonu sınavlarındaki değerlendirme esası uygulanır. Bununla birlikte, öğrencinin teorik sınavlarına girebilmesi için uygulamadan başarılı olması gerekir.
+Ara sınav ortalamalarındaki kesirli sayılar en yakın tam sayıya çevrilir.

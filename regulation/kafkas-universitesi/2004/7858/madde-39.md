@@ -1,0 +1,2 @@
+Yüksekokuldan Ayrılma
+Madde 39 — Kendi istekleri ile öğrencilikten ayrılacak olanlar Sağlık Yüksekokulları Müdürlüklerine veya Kafkas Üniversitesi Öğrenci İşleri Daire Başkanlığına başvururlar. Kaydı silinen öğrencinin Kafkas Üniversitesine verdiği diploma, kendi isteği üzerine geri verilir. Lise diplomasının arka yüzüne Öğrenci İşleri Daire Başkanlığınca ilişiği kesildiği belirtilir, mühürlenir ve imzalanır. Bu yolla ayrılan öğrencinin yeniden kaydı yapılmaz.

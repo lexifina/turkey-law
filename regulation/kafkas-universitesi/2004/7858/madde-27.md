@@ -1,0 +1,2 @@
+Sınav Sonuçlarına İtiraz
+Madde 27 — Sınav sonuçlarına itirazı olan öğrenci, sonuçların ilanından sonra en geç beş (5) iş günü içinde, itirazını bir dilekçe ile Sağlık Yüksekokulları Müdürlüklerine yapar ve sınav evrakının yeniden incelenmesini isteyebilir. Sınav sonuçlarına yapılan itiraz ilgili öğretim elemanına iletilir. Not düzeltmeleri ancak maddi hata görüldüğünde, öğretim elemanının önerisi üzerine bölümce ve Sağlık Yüksekokulu Müdürlüklerine bildirilir. İnceleme sonucu kesindir. Sonuç öğrenciye tebliğ edilir.

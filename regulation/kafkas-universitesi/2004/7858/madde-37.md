@@ -1,0 +1,4 @@
+İzin
+Madde 37 — Aşağıdaki hallerde öğrencilere Sağlık Yüksekokulları Yönetim Kurulunun Kararı ve Kafkas Üniversitesi Yönetim Kurulunun onayı ile izin verilebilir.
+a) Öğrencinin eğitim ve öğrenimine katkıda bulunacak üniversite dışı burs, staj ve araştırma gibi imkanların doğması halinde,
+b) Sosyal, kültürel ve sportif etkinliklere Üniversite adına katılacaklar ile 3289 sayılı Gençlik ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkındaki Kanunun 29 uncu maddesi gereğince milletler arası seviyede yurt içi ve yurt dışında müsabakalara ve bunların hazırlık çalışmalarına katılmaları için, Sağlık Yüksekokulları Müdürlüklerinin kararı ve Rektörün uygun görüşü ile görevlendirilen öğrencilerimiz, görevlendirme süresi içerisinde, giremedikleri ders ve sınavlar için izinli ve mazeretli sayılırlar.

@@ -1,0 +1,2 @@
+Eğitim-Öğretim Kapsamı
+Madde 11 — Eğitim-Öğretim; teorik dersler, uygulamalar, projeler, laboratuvar, atölye çalışmaları, pratik çalışmalar, stajlar, seminerler, ödevler, paneller, bitirme tezleri vb. çalışmaları kapsar. Sağlık Yüksekokullarında staj ve uygulamalara ilişkin esaslar Sağlık Yüksekokulları Kurullarının belirlediği ve Senato tarafından kabul edilen, bir yönerge doğrultusunda yürütülür.

@@ -1,0 +1,3 @@
+Öğrenci İşleri
+Madde 7 — Kafkas Üniversitesi Sağlık Yüksekokulları öğrencilerinin kayıt yenileme, kayıt silme işlemleri ile diğer yükseköğretim kurumlarından gelenlerin kabulü, intibakların yapılması, öğretim ve sınavlara ilişkin işlemler konusunda Sağlık Yüksekokulları Yönetim Kurulları yetkilidir.
+Sağlık Yüksekokullarını kazanan öğrencilerin kesin kayıtları, kimlik kartlarının tanzimi, dosyalarının tutulması, diplomaların düzenlenmesi işlemleri, askerliklerin tecili, transkript (not dökümü) ve öğrenci belgelerinin verilmesi Öğrenci İşleri Daire Başkanlığınca yürütülür. Ancak, işlemlerin daha süratli ve aksamadan yürütülmesi amacıyla Rektörün onayı ile bu işlerin tamamı veya bir kısmı Sağlık Yüksekokulları Müdürlükleri tarafından da yürütülebilir.
