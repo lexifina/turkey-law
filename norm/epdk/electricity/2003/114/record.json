@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "114",
+  "decision_date": "2003-03-21",
+  "title": "Körfez Elektrik Dağıtım Anonim Şirketi tarafından uygulanacak perakende satış tarifesi hakkında",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yT6ee21uACo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yT6ee21uACo=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Eis/G5Be8W4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FJwrHMuUODc="
+  ],
+  "source_sha256": "b8890bf09c915a84a0cb9961500afdab1e8d6c2706fbbe3f74edf56829e93784",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-03-21",
+  "law_text_complete": false
+}
