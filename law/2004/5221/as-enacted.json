@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5221",
+  "year": 2004,
+  "title": "Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanuna Bir Ek Madde Eklenmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-07-22",
+  "gazette_issue": "25530",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/07/20040722.htm",
+  "source_sha256": "5b9e4d789cbe9f618353dbd19c2fb1f3779938921daa025ae8408d46e2477c6d",
+  "text_sha256": "b87f508561f663c7f859c9b567655aabf42d1a24be9dff2929fa39acc14a8c56",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/07/22/25530-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/07/20040722.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
