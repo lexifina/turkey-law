@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 157152,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Ankara Üniversitesi Rektörlük kadroları ile Sağlık Bilimleri ve Hemşirelik Yüksek Okulu kuruluş kadroları hakkında Millet Meclisince kabul olunan metni (Millet Meclisi 1/102, Cumhuriyet Senatosu 1/28)",
+  "title": "Ankara Üniversitesi Rektörlük kadroları ile Sağlık Bilimleri ve Hemşirelik Yüksek Okulu kuruluş kadroları hakkında Millet Meclisince kabul olunan metni (Millet Meclisi 1/102, Cumhuriyet Senatosu 1/28)",
+  "first_sitting_date": "1962-02-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 39,
+      "sitting_date": "1962-02-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c003/cs__01003039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c003/cs__01003fih.pdf",
+      "pages": [
+        "36",
+        "44"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "10b812a01730e1e37a581ed27e750bb3f80f05a3de7a8d4b7e3d5a1ede807797",
+  "in_force": "1962-02-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
