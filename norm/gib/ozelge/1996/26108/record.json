@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2921-229-99/61932",
+  "source_id": 26108,
+  "date": "1996-12-25",
+  "title": " Müşterinin borçlandığı miktar kadar fatura düzenlenmesi gerekmekte olup  işin zamanında veya anlaşmaya uygun yapılmaması nedeniyle uygulanan cezalar ve bu cezaların kısmen veya tamamen iade edilmesi halinde bu miktarların düzenlenen bu faturalardan düşül",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26108",
+  "source_sha256": "dfe0466ad0d66c4fd67c0b5ad1eece612eeb093843eb6ff4a2b671cb71efcf56",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
