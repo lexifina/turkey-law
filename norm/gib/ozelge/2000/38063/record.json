@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5328-1636/17561",
+  "source_id": 38063,
+  "date": "2000-04-17",
+  "title": "Normal ekmeğin imali sırasında kullanılan ana maddeler dışında başkaca bir katkı maddesi içermeyen normal ekmek hamuru ile imal edilen ramazan pidesi ve boş hamurun teslimlerinde % 1 oranında katma değer vergisi uygulanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38063",
+  "source_sha256": "6c0c19325c70457acb3463d2ef4fe17fc2071c9e60e59478752127c7d356178e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
