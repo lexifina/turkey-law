@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5528-2107 / 5885",
+  "source_id": 38025,
+  "date": "2005-02-08",
+  "title": "Gözlük camı, gözlük çerçevesi ve lens teslimlerinde uygulanması gereken katma değer vergisi oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38025",
+  "source_sha256": "debd9ef974d4d6274757718fe43ccaa427c881ddcff5902e7297d6cc2e26583a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
