@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-09-08",
+  "issue": "25223",
+  "edition": "regular",
+  "item": 27,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "Sağlık Bakanlığı Manisa Ruh Sağlığı ve Hastalıkları Hastanesi Baştabipliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030908-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (35 = 35)",
+  "ilan_codes": [
+    "32240/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030908-3-3.htm",
+  "category_page_sha256": "53c535ec0a97317bfd7fa1875b0b8125ee17456d44c8c6600d8b71f192fedb87",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030908.htm",
+  "index_sha256": "29e950d99c0582a4122efca413ab3fcd11add7ac59bd984edea2b95b8b86dd83",
+  "index_header": "8 Eylül 2003 ... Sayı : 25223",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
