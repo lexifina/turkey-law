@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-491/13979",
+  "source_id": 24281,
+  "date": "2000-03-29",
+  "title": "Müşterek olarak alınan hazine bonolarına ait faiz gelirine ilişkin indirim oranı ve beyan sınırına ilişkin had uygulaması müşterek alanlar için ayrı ayrı dikkate alınacak olup, beyan sınırının aşılması halinde yıllık gelir vergisi beyannamesi verilecektir",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24281",
+  "source_sha256": "c523ecde3f75a2d735ab3e5adebb3e5d39cdf80bc9f78cb67801c6de63b2677d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
