@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4989",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Suriye Arap Cumhuriyeti Hükümeti Arasında Süleyman Şah Türbesi Tahkimat Projesinin Uygulanmasına İlişkin Ana Tutanağın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-10-21",
+  "gazette_issue": "25266",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/10/20031021.htm",
+  "source_sha256": "2d8c447f6a80799f1e71b15e04ffcaf897fbc8ebb956e009895e6ab129ce2385",
+  "text_sha256": "e7c5542962f65f20325f4cf39b27778f84ceb0fe50894413e028c213c907da4a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/10/21/25266-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/10/20031021.htm#6",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
