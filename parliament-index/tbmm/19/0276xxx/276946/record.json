@@ -1,0 +1,93 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 276946,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "title": "TBMM fihrist kaydı 276946 (Teklifler)",
+  "first_sitting_date": "1995-06-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 88,
+      "sitting": 123,
+      "sitting_date": "1995-06-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c088/tbmm19088123.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c088/tbmm19088fih.pdf",
+      "pages": [
+        "364:400",
+        "403:426"
+      ]
+    },
+    {
+      "cilt": 89,
+      "sitting": 124,
+      "sitting_date": "1995-06-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c089/tbmm19089124.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c089/tbmm19089fih.pdf",
+      "pages": [
+        "7:16",
+        "36",
+        "41:72",
+        "75:81"
+      ]
+    },
+    {
+      "cilt": 90,
+      "sitting": 132,
+      "sitting_date": "1995-06-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c090/tbmm19090132.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c090/tbmm19090fih.pdf",
+      "pages": [
+        "213:324"
+      ]
+    },
+    {
+      "cilt": 90,
+      "sitting": 133,
+      "sitting_date": "1995-07-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c090/tbmm19090133.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c090/tbmm19090fih.pdf",
+      "pages": [
+        "430"
+      ]
+    },
+    {
+      "cilt": 90,
+      "sitting": 134,
+      "sitting_date": "1995-07-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c090/tbmm19090134.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c090/tbmm19090fih.pdf",
+      "pages": [
+        "572:602"
+      ]
+    },
+    {
+      "cilt": 90,
+      "sitting": 135,
+      "sitting_date": "1995-07-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c090/tbmm19090135.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c090/tbmm19090fih.pdf",
+      "pages": [
+        "634:673"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "43aaab60f7da3252bdc7db630895d9f1c1cc55124b058e8901f22e28ebfb794c",
+  "in_force": "1995-06-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
