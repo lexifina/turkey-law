@@ -1,0 +1,1 @@
+Madde 11- Değer Takdir Komisyonu, kaybolan nadir eserlerin bedellerinin belirlenmesinde piyasa araştırması yapar. Bu materyalin sayfa sayısı, cilt bedeli, kağıt bedeli, kağıt kalitesi, basım tarihi, kaybolan kitaba benzer nüshasının bulunmasının kolaylık derecesi gibi konularda tesbit yapar.
