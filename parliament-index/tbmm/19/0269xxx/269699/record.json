@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 269699,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Kesinhesap Kanunu Tasarısı-Diyarbakır (Dicle) Üniversitesinin 1974, 1975, 1976, 1977,1978, 1979, 1980, 1981 ve 1982 Malî Yılları Kesinhesap Kanunu Tasarıları (1/249, 1/250, 1/251, 1/252, 1/253, 1/254, 1/255, 1/256,1/257, 3/944, 3/945, 3/946, 3/947, 3/948, 3/949, 3/950, 3/951)",
+  "title": "Kesinhesap Kanunu Tasarısı-Diyarbakır (Dicle) Üniversitesinin 1974, 1975, 1976, 1977,1978, 1979, 1980, 1981 ve 1982 Malî Yılları Kesinhesap Kanunu Tasarıları (1/249, 1/250, 1/251, 1/252, 1/253, 1/254, 1/255, 1/256,1/257, 3/944, 3/945, 3/946, 3/947, 3/948, 3/949, 3/950, 3/951)",
+  "first_sitting_date": "1994-01-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 52,
+      "sitting": 67,
+      "sitting_date": "1994-01-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c052/tbmm19052067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c052/tbmm19052fih.pdf",
+      "pages": [
+        "91:93",
+        "100:101",
+        "123:127"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=961&v_gelecek_sayfa=601&v_kullanici_id=27484430",
+  "source_sha256": "cd1f59d4daa3e17ab39d25935a8aad79a9f1e8565f038ac008ddc9c4f9cac603",
+  "in_force": "1994-01-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
