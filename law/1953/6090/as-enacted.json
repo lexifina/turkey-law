@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6090",
+  "year": 1953,
+  "title": "Denizcilik Bankası Türk Anonim Ortaklığı Kanununun Geçici İkinci Maddesine Göre Yapılması Gereken Tasfiyeye Ait Müddetin Uzatılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-03",
+  "gazette_issue": "8448",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8448.pdf",
+  "source_sha256": "e11dff4a9678cfbca6fac3948d80b3ade5296afb83a90521ff84c8227d761586",
+  "text_sha256": "8d3ff4bd35f5d37f1f6b684d3e7a6513a51102d2e0efb267653cc176793458ef",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      19,
+      29
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506090.pdf",
+    "source_sha256": "7c3830f0ac70f012cbe1ac0e32574785432fdccf88e5781adf7baf5d6ecd9e0f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9792,
+    "bag": 0.8831,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9487,
+    "rg_words": 40,
+    "kd_words": 39,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
