@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.61/6160-30/12959",
+  "source_id": 36531,
+  "date": "2005-03-21",
+  "title": "Çalınan taşıtın kayıt ve tescili",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36531",
+  "source_sha256": "a79a82c70ca3f1c926bd2f1fc238ee1fec54be8d89331d132e4b79e0a471a79c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
