@@ -1,0 +1,2 @@
+Madde 1- Türkiye ile Avrupa Birliği (AB) arasında ihdas edilen Gümrük Birliği (GB) çerçevesinde, Genelleştirilmiş Tercihler Sistemi (GTS) kapsamında, En Az Gelişmiş Ülkeler (E.A.G.Ü.) ile Gelişme Yolundaki Ülkelere (G.Y.Ü.) ülkemiz tarafından tanınan tek taraflı gümrük vergisi tavizleri ithalat Rejimi Kararı ile belirlenmiş bulunmaktadır.
+Bu Tebliğ, İthalat Rejimi Kararı'nda GTS'ne ilişkin tarife tavizlerinden yararlanan eşyalar ile ülkelerin belirlenmesinde esas teşkil eden hususları açıklamak amacı ile yayımlanmıştır.
