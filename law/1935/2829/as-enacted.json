@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2829",
+  "year": 1935,
+  "title": "Limanlar hakkındaki 618 sayılı Kanunun 7. maddesinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-11-01",
+  "gazette_issue": "3145",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3145.pdf",
+  "source_sha256": "18c1ee9910a95a751ef8fe71e80291e1e555caa6cd58251338a82447a18379c2",
+  "text_sha256": "39ba6d3e0957d9d37813ae1234fd1e39f1d30f337ad2ea3bd49afca72c26d813",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      14,
+      71
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502829.pdf",
+    "source_sha256": "859ff9541ba863f0e67ea09be7478f14aa8732c8580ee0c1b0f71a51aba52181",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9689,
+    "bag": 0.9283,
+    "kd_coverage": 0.9779,
+    "kd_body_compared": 0.9651,
+    "rg_words": 225,
+    "kd_words": 229,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
