@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 144623,
+  "assembly": "Danışma Meclisi",
+  "heading": "TASARI VE RAPORLAR",
+  "heading_as_published": "Tasarı Ve Raporlar",
+  "summary": "Boğaziçi Üniversitesi 1979 Malî Yılı Kesinhesap Kanun Tasarısı. (1/417) (Başkanlığa geliş tarihi:5.5.1982) (Danışma Meclisi Hesaplarını İnceleme ve Sayıştay Komisyonuna) (7.5.1982)",
+  "title": "Boğaziçi Üniversitesi 1979 Malî Yılı Kesinhesap Kanun Tasarısı. (1/417) (Başkanlığa geliş tarihi:5.5.1982) (Danışma Meclisi Hesaplarını İnceleme ve Sayıştay Komisyonuna) (7.5.1982)",
+  "first_sitting_date": "1982-05-10",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 92,
+      "sitting_date": "1982-05-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c005/dm__02005092.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c005/dm__02005fih.pdf",
+      "pages": [
+        "334"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARI%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARI%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1312&v_gelecek_sayfa=201&v_kullanici_id=27484982",
+  "source_sha256": "6942a7134b3be28539f06da65dbbeea2a7919146763316ee9c567946ee4143f1",
+  "in_force": "1982-05-10",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
