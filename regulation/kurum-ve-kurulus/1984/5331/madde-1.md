@@ -1,0 +1,1 @@
+Madde 1 — Bu yönetmeliğin amacı, Türkiye Cumhuriyeti sınırları içinde bulunan taşınır kultur ve tabiat varlıklarını bulanlara, varlığını haber verenler ile bunları yakalayan kamu görevlilerine Devlet tarafından verilecek ikramiyenin tahakkuk ve tediyesine ait işlemleri belirlemektir.

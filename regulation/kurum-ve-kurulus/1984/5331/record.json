@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.5331",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TAŞINIR KÜLTÜR VE TABİAT VARLIKLARINI BULANLARA, HABER VERENLERE VE YAKALAYAN KAMU GÖREVLİLERİNE VERİLECEK İKRAMİYE İLE İLGİLİ YÖNETMELİK",
+  "number": "5331",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1984/5331",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5331&MevzuatTertip=5",
+  "source_sha256": "b7b9d526f4109e3d8415e4b84fc74ebe2f979e36f6eb55297e147751307458a4",
+  "source_bytes": 14431,
+  "published": "1984-08-11",
+  "gazette": "18486",
+  "in_force": "1984-08-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.08.1984); own commencement article: \"bu yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 562,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

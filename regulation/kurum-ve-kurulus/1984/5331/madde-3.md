@@ -1,0 +1,6 @@
+İkramiye Esasları:
+Madde 3 — Türkiye Cumhuriyeti şuurları içinde yerüstünde, yeraltında ve sualtında taşınır kültür ve tabiat varlığı bulunduğunu bilenler veya varlığından yeni haberdar olan malik veya zilyetlerden; bunu en geç üç gun içinde en yakın müzeye, köyde muhtara veya diğer yerlerde mülki idare amirlerine haber verenlere;
+a) Varlık, bulanın mülkü içinde ise; «Korunması Gerekli Taşınır Kültür ve Tabiat Varlıklarının Tasnifi, Tescili ve Müzelere Alınmaları Hakkında Yönetmelik» gereğince tesbit edilecek değeri usulüne gore ödenerek muzelerce satın alınır. Ayıca ikramiye verilmez.
+b) Varlık başkasının mülkü içinde ise ilgili Yönetmeliğine göre takdir edilecek bedelin % 80'i ikramiye olarak bulan ile mülk sahibi arasında eşit olarak paylaştırılır.
+c) Varlık Devlete ait arazide bulunmuş ise, ilgili Yönetmeliğine göre takdir olunacak bedelin % 40ı bulana ikramiye olarak ödenir.
+d) Nerede bulunursa bulunsun haber verilen varlık, korunması gerekli nitelikte kültür ve tabiat varlığı olmadığı takdirde sahiplerine, muzelerce verilecek bir belge ile iade olunur. Bu belge iade olunan varlık ile sahibini açıkça tanımlıyabilecek nitelikte düzenlenir. Belge ile iade olunan varlıklar üzerinde sahipleri her türlü tasarrufta bulunabilirler. Bir yıl içinde sahiplerince alınmayan varlıklar müzelerde saklanabilir veya usulüne uygun olarak Devletçe satılabilirler.
