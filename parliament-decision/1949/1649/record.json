@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1649",
+  "year": 1949,
+  "title": "Bankalar Kanununun 14. ve 17. maddelerinin bina yapımını Teşvik Kanununun uygulanmasını takyit ve tahdit edemyeceği hakkında",
+  "adopted": "1949-05-16",
+  "adopted_as_published": "16/05/1949",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.05.1949 No: 7214",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/karartbmmc031/karartbmmc03101649.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 31",
+  "committee_reports": [
+    {
+      "label": "TBMM 198 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019087ss0198.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 8,
+      "kayit_no": 78533,
+      "title": "Bankalar Kanununun 14. ve 17. maddelerinin bina yapımını Teşvik Kanununun uygulanmasını takyit ve tahdit edemyeceği hakkında",
+      "adopted_as_published": "16/05/1949",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/karartbmmc031/karartbmmc03101649.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 198 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019087ss0198.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 19,
+          "sitting": 83,
+          "sitting_date": "1949-05-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019083.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019fih.pdf",
+          "pages": [
+            "258"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 87,
+          "sitting_date": "1949-05-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019087.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019fih.pdf",
+          "pages": [
+            "466"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=192&v_gelecek_sayfa=101&v_kullanici_id=27483271",
+      "page_sha256": "9e37554730adfba307b9ae66ee309c80f92a2012e67e4b54ed57d695e7a944a0"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9e37554730adfba307b9ae66ee309c80f92a2012e67e4b54ed57d695e7a944a0",
+  "issuer": "TBMM",
+  "in_force": "1949-05-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 16/05/1949; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
