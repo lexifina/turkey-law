@@ -1,0 +1,106 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4308",
+  "year": 1997,
+  "title": "4219 Sayılı 1997 Malî Yılı Bütçe Kanununa Bağlı Bazı Cetvellerde Değişiklik Yapılması ve Bu Kanuna Bir Geçici Madde Eklenmesi Hakkında Kanun",
+  "adopted": "1997-11-27",
+  "adopted_as_published": "27/11/1997",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.11.1997 No: 23184",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc081/kanuntbmmc081/kanuntbmmc08104308.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 81",
+  "committee_reports": [
+    {
+      "label": "TBMM 393 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c036/tbmm20036017ss0393.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 20,
+      "kayit_no": 413190,
+      "title": "4219 Sayılı 1997 Malî Yılı Bütçe Kanununa Bağlı Bazı Cetvellerde Değişiklik Yapılması ve Bu Kanuna Bir Geçici Madde Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "27/11/1997",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc081/kanuntbmmc081/kanuntbmmc08104308.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 393 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c036/tbmm20036017ss0393.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 34,
+          "sitting": 6,
+          "sitting_date": "1997-10-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c034/tbmm20034006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c034/tbmm20034fih.pdf",
+          "pages": [
+            "467"
+          ]
+        },
+        {
+          "cilt": 36,
+          "sitting": 14,
+          "sitting_date": "1997-11-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c036/tbmm20036014.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c036/tbmm20036fih.pdf",
+          "pages": [
+            "181"
+          ]
+        },
+        {
+          "cilt": 36,
+          "sitting": 17,
+          "sitting_date": "1997-11-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c036/tbmm20036017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c036/tbmm20036fih.pdf",
+          "pages": [
+            "597:634"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 19,
+          "sitting_date": "1997-11-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c037/tbmm20037019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c037/tbmm20037fih.pdf",
+          "pages": [
+            "147:150"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 20,
+          "sitting_date": "1997-11-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c037/tbmm20037020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c037/tbmm20037fih.pdf",
+          "pages": [
+            "180:188",
+            "190:192",
+            "232:237"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=249&v_gelecek_sayfa=101&v_kullanici_id=27483195",
+      "page_sha256": "9d74b1e01dafe64c639249129b3e42d8f300df5d46255b494150186d22c7a61a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9d74b1e01dafe64c639249129b3e42d8f300df5d46255b494150186d22c7a61a",
+  "issuer": "TBMM",
+  "in_force": "1997-11-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/11/1997; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
