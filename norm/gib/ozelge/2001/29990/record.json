@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5201-96/9019",
+  "source_id": 29990,
+  "date": "2001-02-14",
+  "title": "İşletmenin aktifinde kayıtlı olan gayrimenkulün kamulaştırılması sonucu tesliminde katma değer vergisi hesaplanması ve beyan edilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29990",
+  "source_sha256": "fabbd824760efbefc5389e971ed02655dc487f332fe511782ab67783b5900db2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
