@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2004/1",
+  "list_number": "1312, 1, 2, 17",
+  "genelge_number": "1",
+  "decision_date": "2004-01-04",
+  "title": "28 Mart 2004 Mahalli İdareler Genel Seçimlerine Katılabilecek Siyasi Partiler, Sosyaldemokrat Halk Partisinin İtirazının Kabulü, İl ve İlçe Seçim Kurullarının 26 Ocak 2004 Gününden İtibaren Bir Hafta İçinde İki Yıl Süreyle Yeniden Oluşturulması Seçimin Başlangıcından İtibaren Uygulanacak Yasaklar",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1589/2004-1.pdf",
+  "source_sha256": "4abb0e1a6937f62f7b719946cbfbccaa024a3dcb6fac9c7d0fb5143bbcc0a2b3",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 14,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2004-01-04",
+  "law_text_complete": false
+}
