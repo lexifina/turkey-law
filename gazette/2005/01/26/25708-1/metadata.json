@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-01-26",
+  "issue": "25708",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararı",
+  "title": "2005/8389 Merkezi Ankara İli, Polatlı İlçesinde Bulunan “Polatlı Köylere Hizmet Götürme Birliği”nin Adının “Polatlı Hizmet Birliği” Olarak Değiştirilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050126-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050126.htm",
+  "index_sha256": "e3b51e6d97efdff8386df36dbd7de4af5f0488a865422e285a4ce033cdd4cbf2",
+  "index_header": "26 Ocak 2005 ... Sayı : 25708",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
