@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5396",
+  "year": 1949,
+  "title": "Devlet Denizyolları ve Limanları İşletme Genel Müdürlüğünün Teşkilat ve Vazifeleri hakkında 3633 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-05-28",
+  "gazette_issue": "7218",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7218.pdf",
+  "source_sha256": "703b3b3ce24f6b1d95e2811527bb87dca3aa0b40799ad1ca7bc94247c5b8385e",
+  "text_sha256": "e8b7442b2c44fe7c8a893005e30b6ac2aedfaef68d79648363cddfd54b211a63",
+  "text_status": "ocr",
+  "pages": [
+    11
+  ],
+  "line_span": [
+    [
+      2351,
+      2396
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105396.pdf",
+    "source_sha256": "78b18ca8e2729083b107cebf7d2a6ab5888fdaf1857cff4b4fd610a28948c0af",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9768,
+    "bag": 0.8953,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9894,
+    "rg_words": 275,
+    "kd_words": 282,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
