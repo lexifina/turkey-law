@@ -1,0 +1,94 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 382406,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Orman Genel Müdürlüğü 1971 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında, kanun tasarısına dair (1/487)",
+  "title": "Orman Genel Müdürlüğü 1971 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında, kanun tasarısına dair (1/487)",
+  "first_sitting_date": "1971-07-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 15,
+      "sitting": 133,
+      "sitting_date": "1971-07-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015133.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015fih.pdf",
+      "pages": [
+        "553"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 134,
+      "sitting_date": "1971-07-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015134.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015fih.pdf",
+      "pages": [
+        "619:620",
+        "680:681"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 135,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016135.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016fih.pdf",
+      "pages": [
+        "9",
+        "48:49"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 138,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016138.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016fih.pdf",
+      "pages": [
+        "122",
+        "176:177"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 139,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016139.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016fih.pdf",
+      "pages": [
+        "184",
+        "241:242"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 140,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016140.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016fih.pdf",
+      "pages": [
+        "268",
+        "319:322"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2401&v_kullanici_id=27484836",
+  "source_sha256": "bbc8da56524f9c94d98c08112fdf8193066da93e3aac1c9956dcbfa82fdca713",
+  "in_force": "1971-07-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
