@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 7481,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "BESİM ATALAY (KÜTAHYA)",
+  "summary": "Darülmualliminlerin lağvına ve sultanilerin idadiye kalbine dair (2/85)",
+  "title": "Darülmualliminlerin lağvına ve sultanilerin idadiye kalbine dair (2/85)",
+  "first_sitting_date": "1920-09-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 58,
+      "sitting_date": "1920-09-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003058.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/ehttbmm01003058.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003fih.pdf",
+      "pages": [
+        "504"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 73,
+      "sitting_date": "1920-09-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004073.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/ehttbmm01004073.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004fih.pdf",
+      "pages": [
+        "359:360"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 86,
+      "sitting_date": "1920-10-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c005/tbmm01005086.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c005/ehttbmm01005086.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c005/tbmm01005fih.pdf",
+      "pages": [
+        "105:113"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 87,
+      "sitting_date": "1920-10-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c005/tbmm01005087.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c005/ehttbmm01005087.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c005/tbmm01005fih.pdf",
+      "pages": [
+        "133:134"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4c1bfc5f45f5a5f13bd43584edc2ebadbc56cc8bc4ba0d9b0d1d749a2aa3744e",
+  "in_force": "1920-09-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
