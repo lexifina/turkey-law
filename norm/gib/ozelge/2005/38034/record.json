@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5428-1880",
+  "source_id": 38034,
+  "date": "2005-01-05",
+  "title": "İlgili Bakanlıklar tarafından ya da kanunlarla izin verilen gerçek ve tüzel kişiler tarafından yerine getirilen insan veya hayvan sağlığına yönelik koruyucu hekimlik,teşhis, tedavi ve rehabilitasyon hizmetleri,ambulans hizmetleri, tıbbı cihazlar ile bunla",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38034",
+  "source_sha256": "41f8331fb5b096d1a0e1c94e1c0e664b0cfd33c48588184fd77f0ffd977a5e6a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
