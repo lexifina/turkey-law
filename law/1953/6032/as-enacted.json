@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6032",
+  "year": 1953,
+  "title": "Garson ve Benzeri İşçilerin Hizmet Karşılıkları Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-02-03",
+  "gazette_issue": "8325",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8325.pdf",
+  "source_sha256": "37f68809c73d6ec36881657e55b1e7f7779af848391aed5e00910fe1c3d1f722",
+  "text_sha256": "082ba2b2b7ece403dc294cd02521b127a76c05c1be2dbc5f4550789063611e6e",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      12,
+      105
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506032.pdf",
+    "source_sha256": "4fb7c988fc25b80adb9546ab82bde61790a53b27389f95e58b4c8d186d7bb41d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9769,
+    "bag": 0.8865,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9945,
+    "rg_words": 688,
+    "kd_words": 726,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
