@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5311-2081/26367",
+  "source_id": 38086,
+  "date": "1997-06-23",
+  "title": "Mükellef hakkında gerçek dışı belge kullandığı veya düzenlediği konusunda olumsuz bir rapor varsa, teminatsız ve incelemesiz mahsup uygulamasından faydalanamayacaktır. Ancak rapor, A.Ş.'ye mal satanların kendilerine tevkifattan sonra ödenen vergi tutarını",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38086",
+  "source_sha256": "a2956e14bf4118eee37db113d1d60d29ffeacb02e633092d7cee0c3df5467086",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
