@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "768",
+  "year": 1933,
+  "title": "Haziran-Ağustos 1932 aylarına aid Divanı Muhasebat raporları hakkında ittihaz olunan mukarrerata dair",
+  "adopted": "1933-06-03",
+  "adopted_as_published": "03/06/1933",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/karartbmmc012/karartbmmc01200768.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 12",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112935,
+      "title": "Haziran-Ağustos 1932 aylarına aid Divanı Muhasebat raporları hakkında ittihaz olunan mukarrerata dair",
+      "adopted_as_published": "03/06/1933",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/karartbmmc012/karartbmmc01200768.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 16,
+          "sitting": 65,
+          "sitting_date": "1933-06-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c016/tbmm04016065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c016/tbmm04016fih.pdf",
+          "pages": [
+            "4"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=217&v_gelecek_sayfa=101&v_kullanici_id=27483261",
+      "page_sha256": "6e403c67326bf8d538b4ec20f80ba46428329ba815be8d6d6507eb8c1dfb0d7d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "6e403c67326bf8d538b4ec20f80ba46428329ba815be8d6d6507eb8c1dfb0d7d",
+  "issuer": "TBMM",
+  "in_force": "1933-06-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 03/06/1933; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
