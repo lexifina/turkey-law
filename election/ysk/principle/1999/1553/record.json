@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/1553",
+  "list_number": "1553",
+  "decision_date": "1999-05-17",
+  "title": "YSK ilke kararı 1999/1553",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4612/1999-1553-karar.htm",
+  "source_sha256": "d3025bc5140c6b070bf09772a66e02e7ed6f6a64d51bce2efa35c77bf00996d2",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-05-17",
+  "law_text_complete": false
+}
