@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2271",
+  "year": 1933,
+  "title": "Kaçakçılığın men ve takibine dair Kanunun bazı maddelerinin değiştirilmesine ve bu Kanunun 58. maddesine bir fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-06-12",
+  "gazette_issue": "2425",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2425.pdf",
+  "source_sha256": "7cfae3fe51a97989a58c0f7746b1d826aa5ad7ec77867c6dec47adadff45ca04",
+  "text_sha256": "d97cbb19bdc47c2c167f07e79786c99510c80779eb3c2391278e774740d88533",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      61,
+      175
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202271.pdf",
+    "source_sha256": "984bd585d1edb3f8051d68573179f6eac37395819af3ad22c9cf4f65d3cf4373",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9667,
+    "bag": 0.9048,
+    "kd_coverage": 0.9968,
+    "kd_body_compared": 0.9968,
+    "rg_words": 634,
+    "kd_words": 628,
+    "own_anchor": false,
+    "foreign_anchors": 9
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
