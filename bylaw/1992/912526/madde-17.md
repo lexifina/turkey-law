@@ -1,0 +1,2 @@
+Bilirkişilik
+Madde 17 – Ziraat mühendisleri, lisans veya uzmanlık alanlarına göre tarım arazileri ve yeşil alanlar, tarımsal üretim, tarım ürünleri, çiftlik hayvanları, gıda maddeleri, tarım alet ve makineleri, tarımsal yapı ve tesisler, tarım iş kazaları, kamulaştırma, vergilendirme, kıymet takdiri, hasar tesbiti, tarım alanları ve tarım ürünleri üzerinde sanayi atıklarının kirletici etkisi, fiyat belirlenmesi konularında yargı organları veya idari makamlar tarafından yaptırılacak inceleme, analiz, ekspertiz, bilirkişilik çalışmalarını yapmaya yetkilidirler.

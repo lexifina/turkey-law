@@ -1,0 +1,6 @@
+Zirai Mücadele, Zirai Karantina ve Tarım İlaçları
+Madde 5 – Tarım ürünlerinin yetiştirilmesi, hasadı, işlenmesi, depolanması, ambalajlanması ve pazarlanması aşamalarında; her türlü hastalık ve zararlılar konusunda teşhis, ilaç ve metod önerisi, mücadele, planlama ve uygulamaların denetlenmesi, gazlama (fümigasyon) gibi faaliyetler ziraat mühendisleri tarafından yürütülür.
+Her türlü zirai mücadele ilacıyla parazit ve predatörleri üreten, ithal ve ihraç eden, depolayan, pazarlayan veya dağıtan işletmeler bu faaliyetleri için teknik eleman veya danışman olarak ziraat mühendisi çalıştırırlar.
+Tarım ürünlerinin yetiştirilmesi, hasadı, işlenmesi, paketlenmesi, depolanması, satışı, ithal ve ihracı, taşınması işlemleri sırasında uygulanacak her türlü iç ve dış karantina esaslarının saptanması ve uygulanması ziraat mühendislerince yürütülür.
+Tarımda kullanılan büyüme düzenleyici ilaç, vitamin, hormon, bakteri gibi kimyasal ve biyolojik preparatların üretimi, ithali, pazarlama ve dağıtımı alanlarında çalışan işletmeler teknik eleman veya danışman olarak ziraat mühendisi çalıştırırlar.
+Yukarıdaki fıkralarda geçen ilaç ve preparatların üretimi, ithali, pazarlanması ve bunların bitkilere uygulanmaları aşamalarındaki ruhsatlandırma ve denetim işleri ziraat mühendisleri tarafından yürütülür.
