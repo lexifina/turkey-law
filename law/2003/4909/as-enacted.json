@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4909",
+  "year": 2003,
+  "title": "Yükseköğretim Kurumları Teşkilatı Kanununa Bir Ek Madde Eklenmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-07-01",
+  "gazette_issue": "25155",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030701.htm",
+  "source_sha256": "eb2d46ee358456b2184ef35f07137cd2c5e88b9bb7f095b5f8631f6307bc2fd6",
+  "text_sha256": "7cc6928a566c4f794dbe5e693e189a25b926df7d2316e0bd6f2d73487be03cfc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/07/01/25155-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030701.htm#5",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
