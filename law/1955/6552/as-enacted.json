@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6552",
+  "year": 1955,
+  "title": "İspirto ve ispirtolu içkiler inhisarı hakkındaki 4250 sayılı Kanunun 1 ve 2 nci maddelerinin değiştirilmesine ve bu kanuna bazı hükümler ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1955-05-18",
+  "gazette_issue": "9009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9009.pdf",
+  "source_sha256": "714942c6cc9928cf5ca9632cb693438e51cd7636055adae159c31ff8332f2f2d",
+  "text_sha256": "f2fb4a55464a6b86447e106c763bf825f35e13396047db1d003e2a0d203811af",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      84,
+      132
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706552.pdf",
+    "source_sha256": "649b37397f957f7ecbed44f3dc24d843514ef5505a757e9887490f584de996f7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.945,
+    "bag": 0.8861,
+    "kd_coverage": 0.9874,
+    "kd_body_compared": 0.9781,
+    "rg_words": 319,
+    "kd_words": 320,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
