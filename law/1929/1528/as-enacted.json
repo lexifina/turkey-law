@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1528",
+  "year": 1929,
+  "title": "Yabani ağaçların aşılanması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-16",
+  "gazette_issue": "1217",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1217.pdf",
+  "source_sha256": "801e14bfce1dcb50ffb029859997b7186897d9a7dbb39f5e89b00e79056d6d91",
+  "text_sha256": "f016b653f7d7fc6ef5f3b3f8094d0a546decdbcea81f76f999ec5007fa737686",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      14,
+      458
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701528.pdf",
+    "source_sha256": "69fcd8e0252bf10b5766cd7da91e233095d4a29bf9675ae7954c96dbe64a3dba",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.973,
+    "bag": 0.9165,
+    "kd_coverage": 0.9942,
+    "kd_body_compared": 0.9919,
+    "rg_words": 1731,
+    "kd_words": 1731,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
