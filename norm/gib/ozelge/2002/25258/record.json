@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-705/30938",
+  "source_id": 25258,
+  "date": "2002-07-12",
+  "title": "Bir işverenin Türkiye sınırları içerisindeki tüm işyerlerinin tek bir işyeri olarak mı, yoksa her işyerinin müstakil bir işyeri mi olarak değerlendirileceği hakkında...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/25258",
+  "source_sha256": "2c7eb09a4c67de2b2a98df6059b31310934287251caddc9f1b58e98c04ef9ead",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
