@@ -1,0 +1,2 @@
+Serviste Yatacak Hastalar
+Madde 3 - Yataklı servise, komplike çene kırıklı, operatif çene kırıklı, dental kökenli sinüzitli, büyük çene kisti, mental geriliği olan, çeşitli ortodontik cerrahi gerektiren, selim tümör operasyonları (Pleomorfik adenoma, mixoma) gereken, dudak-damak yarıklı, çene eklemi şikayetli, postoperatif kanama, yüksek ateş, komplikasyon belirtileri olan, uzaktan gelen bir günde tedavisi tamamlanamayan, uzaktan gelip de tedavisi için gerekli aparey vesaire gibi yapılması zaman alan ve bunların dışında hekimin yatmasında yarar gördüğü hastalar yatırılır.
