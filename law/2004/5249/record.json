@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5249",
+  "year": 2004,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Romanya Hükümeti Arasında Kendi Vatandaşlarının ve Ülkelerinde Yasadışı Konumda Bulunan Yabancıların Geri Kabulüne İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2004-10-21",
+  "adopted_as_published": "21/10/2004",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.10.2004 No: 25626",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905249.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 89",
+  "committee_reports": [
+    {
+      "label": "TBMM 659 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c062/tbmm22062009ss0659.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 199510,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Romanya Hükümeti Arasında Kendi Vatandaşlarının ve Ülkelerinde Yasadışı Konumda Bulunan Yabancıların Geri Kabulüne İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "21/10/2004",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905249.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 659 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c062/tbmm22062009ss0659.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 48,
+          "sitting": 83,
+          "sitting_date": "2004-05-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c048/tbmm22048083.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c048/tbmm22048fih.pdf",
+          "pages": [
+            "57"
+          ]
+        },
+        {
+          "cilt": 60,
+          "sitting": 120,
+          "sitting_date": "2004-09-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c060/tbmm22060120.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c060/tbmm22060fih.pdf",
+          "pages": [
+            "6"
+          ]
+        },
+        {
+          "cilt": 62,
+          "sitting": 9,
+          "sitting_date": "2004-10-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c062/tbmm22062009.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c062/tbmm22062fih.pdf",
+          "pages": [
+            "28:29",
+            "41:52"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=401&v_kullanici_id=27483198",
+      "page_sha256": "48bd612a80b7f74f51d30c16bc0ba7cd7e6341df596568c61d8c08c42b65c32c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "48bd612a80b7f74f51d30c16bc0ba7cd7e6341df596568c61d8c08c42b65c32c",
+  "issuer": "TBMM",
+  "in_force": "2004-10-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/10/2004; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
