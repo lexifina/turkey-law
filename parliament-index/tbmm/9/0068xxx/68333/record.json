@@ -1,0 +1,80 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 68333,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "TEZER TAŞKIRAN (KARS)",
+  "summary": "Türkiye Cumhuriyeti Emekli Sandığı Kanununun 75. maddesine bir fıkra eklenmesine dair (2/99)",
+  "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanununun 75. maddesine bir fıkra eklenmesine dair (2/99)",
+  "first_sitting_date": "1950-12-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 24,
+      "sitting_date": "1950-12-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c003/tbmm09003024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c003/tbmm09003fih.pdf",
+      "pages": [
+        "338"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 50,
+      "sitting_date": "1952-02-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013050.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013fih.pdf",
+      "pages": [
+        "1097"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 63,
+      "sitting_date": "1952-04-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c014/tbmm09014063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c014/tbmm09014fih.pdf",
+      "pages": [
+        "450"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 67,
+      "sitting_date": "1952-05-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c015/tbmm09015067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c015/tbmm09015fih.pdf",
+      "pages": [
+        "18"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 69,
+      "sitting_date": "1952-05-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c015/tbmm09015069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c015/tbmm09015fih.pdf",
+      "pages": [
+        "110:113"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=676&v_gelecek_sayfa=201&v_kullanici_id=27484220",
+  "source_sha256": "49df7f9e199b69481dd6f5e0f297dddf7250316a5c7489e34b5ec44963eb6212",
+  "in_force": "1950-12-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
