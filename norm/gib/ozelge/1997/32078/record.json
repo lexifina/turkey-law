@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5324-190/24623",
+  "source_id": 32078,
+  "date": "1997-06-13",
+  "title": "Türkiye Elektrik Kurumu Genel Müdürlüğünce nakit alacak toplamının katma değer vergili bedel olarak kabul edilip gecikme zammının bu miktar üzerinden hesaplanması nedeniyle katma değer vergisinin bu tutara uygulanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32078",
+  "source_sha256": "4525a86dc36749fb5f9b671bce74c4ec60fbc50bf6cac1f2b06b2649a8f58382",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
