@@ -1,0 +1,56 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 327287,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "4 Ocak 1961 tarihli ve 211 sayılı Türk Silâhlı Kuvvetleri İç Hizmet Kanununun 12 Şubat 1963 tarihli ve 172 sayılı Kanunla değişik 69. maddesinin 6 Temmuz 1971 tarihli ve 1423 sayılı Kanunla değiştirilen (b) fıkrasının 3. bendinin değiştirilmesine ilişkin kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu İçişleri, Millî Savunma ve Bütçe ve Plan komisyonları raporları. (Millet Meclisi:1/236;Cumhuriyet Senatosu:1/439) (S. Sayısı:602)",
+  "title": "4 Ocak 1961 tarihli ve 211 sayılı Türk Silâhlı Kuvvetleri İç Hizmet Kanununun 12 Şubat 1963 tarihli ve 172 sayılı Kanunla değişik 69. maddesinin 6 Temmuz 1971 tarihli ve 1423 sayılı Kanunla değiştirilen (b) fıkrasının 3. bendinin değiştirilmesine ilişkin kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu İçişleri, Millî Savunma ve Bütçe ve Plan komisyonları raporları. (Millet Meclisi:1/236;Cumhuriyet Senatosu:1/439) (S. Sayısı:602)",
+  "first_sitting_date": "1976-05-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 28,
+      "sitting": 65,
+      "sitting_date": "1976-05-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028fih.pdf",
+      "pages": [
+        "183"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 76,
+      "sitting_date": "1976-06-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028fih.pdf",
+      "pages": [
+        "460"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 81,
+      "sitting_date": "1976-06-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028081.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028fih.pdf",
+      "pages": [
+        "605:611"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=4401&v_kullanici_id=27484903",
+  "source_sha256": "0097d2c9d22b17a0779fcfb06834d003b68765b539260f112afbd8e12751f6f3",
+  "in_force": "1976-05-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
