@@ -1,0 +1,18 @@
+{
+  "checked_on": "2026-11-14",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "kind": "private-ruling",
+  "official_date": "1997-05-06",
+  "official_number": "B.07.0.GEL.0.53/5324-185/18592",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32014",
+  "source_id": "ozelge:32014",
+  "source_row_sha256": "10250e25d722796447120d9c1a18a4207b6badfb626e457cfef9f0ff8603d09e",
+  "title": "Dövize endeksli veya bedelin döviz cinsinden ifade edildiği vadeli satışlarda, vadeli senet vadesinden önce ciro edilir veya; kırdırılırsa, tahsil edilen bedelin o tarihteki cari kurdan toplam değeri ile mal veya hizmet satışının yapıldığı dönemdeki kur ü",
+  "version_label": "as-enacted",
+  "word_count": 283
+}
