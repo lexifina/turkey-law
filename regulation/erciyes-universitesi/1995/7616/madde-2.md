@@ -1,0 +1,2 @@
+Merkezin Amacı
+Madde 2 - Merkezin amacı, Üniversite Öğretim Elemanlarının teknoloji ve diğer alanlarda yapacakları çalışmalara destek sağlamak, çağdaş eğitim yöntemlerinin uygulanmasında ve ön lisans, lisans ve lisansüstü eğitimde yapılacak pratik çalışmalara katkıda bulunmak, teknolojik gelişmeler ve uygulama alanları konusunda analiz ve çalışmalar yapmak, çözüm önerilerinde bulunmak ve bu alanlarda yayınlar yapmaktır.
