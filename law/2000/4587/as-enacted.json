@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4587",
+  "year": 2000,
+  "title": "Avrupa Birliği Genel Sekreterliği Teşkilat ve Görevleri Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2000-07-04",
+  "gazette_issue": "24099",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2000/07/20000704.htm",
+  "source_sha256": "fabdf249be6a6bb991c3502e5155a0607028ced41241f32b201a7206349f7161",
+  "text_sha256": "e149ab851a2d612dd8b711220c39557ccbc1ee507bd4ab4a547cca781beff775",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2000/07/04/24099-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2000/07/20000704.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
