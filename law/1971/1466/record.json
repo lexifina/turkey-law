@@ -1,0 +1,118 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1466",
+  "year": 1971,
+  "title": "1971 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında Kanun",
+  "adopted": "1971-08-05",
+  "adopted_as_published": "05/08/1971",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "15.08.1971 No: 13927",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401466.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 54",
+  "committee_reports": [
+    {
+      "label": "MM 409 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016140ss0409.pdf"
+    },
+    {
+      "label": "CS 1635no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066093ss1635.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 381926,
+      "title": "1971 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında Kanun",
+      "adopted_as_published": "05/08/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401466.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 409 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016140ss0409.pdf"
+        },
+        {
+          "label": "CS 1635no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066093ss1635.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 15,
+          "sitting": 133,
+          "sitting_date": "1971-07-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015133.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015fih.pdf",
+          "pages": [
+            "553"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=701&v_kullanici_id=27483225",
+      "page_sha256": "b5cb39e132ebf96cf2125d32828c5507413fb68b2886bbae3c9e119b7dbba907"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 316995,
+      "title": "1971 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında Kanun",
+      "adopted_as_published": "05/08/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401466.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 409 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016140ss0409.pdf"
+        },
+        {
+          "label": "CS 1635no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066093ss1635.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 66,
+          "sitting": 93,
+          "sitting_date": "1971-07-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066fih.pdf",
+          "pages": [
+            "155",
+            "160:162",
+            "191",
+            "208:209"
+          ]
+        },
+        {
+          "cilt": 66,
+          "sitting": 94,
+          "sitting_date": "1971-07-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066094.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066fih.pdf",
+          "pages": [
+            "213",
+            "248",
+            "261:262"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1401&v_kullanici_id=27483235",
+      "page_sha256": "2347afd48dbca4d148a2974c7621a56e15bf823e6e014e9ddf67d02756645108"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b5cb39e132ebf96cf2125d32828c5507413fb68b2886bbae3c9e119b7dbba907",
+  "issuer": "Millet Meclisi",
+  "in_force": "1971-08-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 05/08/1971; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
