@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 44 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2002-07-24",
+      "24.07.2002",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 44 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24825",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2002-07-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dicle Üniversitesi",
+  "issuer_slug": "dicle-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dicle-universitesi/2002/7486",
+  "published": "2002-07-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7486&MevzuatTertip=5",
+  "source_bytes": 78151,
+  "source_id": "8.5.7486",
+  "source_sha256": "12255628635a21d30dcf207e85e5465c54a93d537766362eb44aa8d4523d5fcf",
+  "text_status": "as-enacted",
+  "title": "DİCLE ÜNİVERSİTESİ ARŞİV HİZMETLERİ YÖNETMELİĞİ",
+  "university_id": 188,
+  "word_count": 4097
+}
