@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6001- 706/032596",
+  "source_id": 36350,
+  "date": "2003-07-28",
+  "title": "90/874 sayılı Bakanlar Kurulu Kararı ile vergi muafiyeti tanınan Türkiye Güçsüzler ve Kimsesizlere Yardım Vakfı veraset ve intikal vergisinden muaf bulunduğundan, kendisine vasiyet yoluyla intikal eden mallar (para) dolayısıyla kendisinden veraset ve inti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36350",
+  "source_sha256": "ddabbcb5d32efcedd60b8c0f313175d37dba6fe965cbd6a4c3757e52a3cbac05",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
