@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6053",
+  "year": 1953,
+  "title": "Devlet Memurları Aylıklarının Tevhit ve Teadülüne Dair Olan 3656 Sayılı Kanuna Bağlı (1) sayılı Cetvelin Emniyet Umum Müdürlüğü Kısmında Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-02-23",
+  "gazette_issue": "8342",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8342.pdf",
+  "source_sha256": "38f3884bc4293e9eef5b38c32cf6bcdcb016d02b35596c22fb84b5b8a4f02393",
+  "text_sha256": "9b620e6b4347e216bf0ae5b161eecfc5f16eca922dc0c71c5b39430bb1d4db6b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      56,
+      69
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506053.pdf",
+    "source_sha256": "a327e1b780151fb34fa8b5e6a2091c43e7af59554ab6359d20dcd4e30c1d8ad5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9234,
+    "bag": 0.8927,
+    "kd_coverage": 0.9663,
+    "kd_body_compared": 0.9663,
+    "rg_words": 91,
+    "kd_words": 89,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
