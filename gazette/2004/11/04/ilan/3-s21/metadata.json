@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-11-04",
+  "issue": "25633",
+  "edition": "regular",
+  "item": 21,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "BOTAŞ Boru Hatları İle Petrol Taşıma Anonim Şirketinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041104-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (21 = 21)",
+  "ilan_codes": [
+    "13837/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041104-3.htm",
+  "category_page_sha256": "581bf8774a4492c8d57b395b3a4a7304a530e6adfa1e5ec066a5c91cbdda4c3e",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041104.htm",
+  "index_sha256": "fc1320e712328753236c77ae292a5d474337026946afce91e5cb257302e7f972",
+  "index_header": "4 Kasım 2004 ... Sayı : 25633",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
