@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6526-1162",
+  "source_id": 26318,
+  "date": "1999-04-08",
+  "title": "Devlet desteklemesine tabi olmayan malların satışında veya söz konusu mallardan Devlet desteklemesinin kalkması halinde  (satışları faturalı olsa dahi ) bu faaliyetlerle ilgili olarak ödeme kaydedici cihaz kullanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26318",
+  "source_sha256": "64cdb00485268005fb7a92daddd696ab85091348b3a30ee932b31727b82c3ea4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
