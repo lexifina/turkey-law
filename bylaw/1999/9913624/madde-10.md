@@ -1,0 +1,2 @@
+Yatak tazminatı
+Madde 10 – 8 inci maddede belirtilen memur ve hizmetlilere, bağlı bulundukları merkezlerden başka yerlerdeki görevleri sırasında geçirdikleri normal istirahat süreleri için, Genel Müdürlük yatakhanelerinde, binalarında veya yatak tertibatı olan vagonlarında yatak sağlanamadığı takdirde, bu durumun ilgili istasyon yetkilisi tarafından belgelenmesi koşuluyla beher gün (gece veya gündüz) için yatak tazminatı ödenir.
