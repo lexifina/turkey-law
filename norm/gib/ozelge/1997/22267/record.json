@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53-5320-237/22127",
+  "source_id": 22267,
+  "date": "1997-05-28",
+  "title": "Özel okul ve dersanelerin ilan ettiği öğrenim ücretlerinden daha düşük bedelle öğrenci okutmaları halinde gelir, kurumlar ve katma değer vergisi uygulaması bakımından esas alınacak bedelin, bu hizmetin karşılığını teşkil eden gerçek bedel olması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/22267",
+  "source_sha256": "7d69908c87e6ba3b6d20e3b7add8c153a9e407c952afe7a1d1d5efb4f6b14d89",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
