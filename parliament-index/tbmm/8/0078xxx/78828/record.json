@@ -1,0 +1,130 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 78828,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar / Adalet Komisyonu Raporu",
+  "title": "TBMM fihrist kaydı 78828 (Raporlar / Adalet Komisyonu Raporu)",
+  "first_sitting_date": "1950-03-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 25,
+      "sitting": 60,
+      "sitting_date": "1950-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025fih.pdf",
+      "pages": [
+        "199",
+        "209"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 61,
+      "sitting_date": "1950-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025fih.pdf",
+      "pages": [
+        "256"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 62,
+      "sitting_date": "1950-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025fih.pdf",
+      "pages": [
+        "281:303"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 63,
+      "sitting_date": "1950-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025fih.pdf",
+      "pages": [
+        "324:336",
+        "336:348"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 64,
+      "sitting_date": "1950-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025fih.pdf",
+      "pages": [
+        "368:392",
+        "392:407"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 65,
+      "sitting_date": "1950-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025fih.pdf",
+      "pages": [
+        "419:424",
+        "424:437",
+        "437:440"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 66,
+      "sitting_date": "1950-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025fih.pdf",
+      "pages": [
+        "497:500"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 67,
+      "sitting_date": "1950-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025fih.pdf",
+      "pages": [
+        "555:561"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 70,
+      "sitting_date": "1950-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c025/tbmm08025fih.pdf",
+      "pages": [
+        "707:723",
+        "760",
+        "763",
+        "768:771"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1724&v_gelecek_sayfa=1401&v_kullanici_id=27484112",
+  "source_sha256": "9cd616f30b7a6ede2cb42dacf62f104954bb161cfe6eefd5ce1d19240c02bbc5",
+  "in_force": "1950-03-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
