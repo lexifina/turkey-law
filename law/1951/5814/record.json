@@ -1,0 +1,86 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5814",
+  "year": 1951,
+  "title": "Sivas Kongresince seçilen Temsil Heyeti üyeleriyle Türkiye Büyük Millet Meclisinin Birinci Döneminde Bulunan Üyelere Vatani Hizmet Tertibinden Aylık Bağlanması Hakkındaki Kanunun 4 ncü Maddesinin Değiştirilmesine Dair Kanun",
+  "adopted": "1951-07-18",
+  "adopted_as_published": "18/07/1951",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.07.1951 No: 7866",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305814.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 33",
+  "committee_reports": [
+    {
+      "label": "TBMM 231 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009099ss0231.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 61978,
+      "title": "Sivas Kongresince seçilen Temsil Heyeti üyeleriyle Türkiye Büyük Millet Meclisinin Birinci Döneminde Bulunan Üyelere Vatani Hizmet Tertibinden Aylık Bağlanması Hakkındaki Kanunun 4 ncü Maddesinin Değiştirilmesine Dair Kanun",
+      "adopted_as_published": "18/07/1951",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305814.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 231 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009099ss0231.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 9,
+          "sitting": 98,
+          "sitting_date": "1951-07-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009098.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009fih.pdf",
+          "pages": [
+            "83"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 100,
+          "sitting_date": "1951-07-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009100.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009fih.pdf",
+          "pages": [
+            "126"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 101,
+          "sitting_date": "1951-07-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009101.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009fih.pdf",
+          "pages": [
+            "189",
+            "197",
+            "202",
+            "207",
+            "214:217"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=746&v_gelecek_sayfa=101&v_kullanici_id=27483180",
+      "page_sha256": "d5209beaac12ed93dc94c226398bc069387213d91b438920adaa01fcd682b822"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d5209beaac12ed93dc94c226398bc069387213d91b438920adaa01fcd682b822",
+  "issuer": "TBMM",
+  "in_force": "1951-07-18",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 18/07/1951; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
