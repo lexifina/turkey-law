@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2916",
+  "year": 1936,
+  "title": "Yüksek mühendis mektebi 1935 malî yılı bütçesinde 7 500 liralık münakale yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-02-14",
+  "gazette_issue": "3232",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3232.pdf",
+  "source_sha256": "f09c38a0e34cf46b725b2161cd28ef0b859a159464ea8aa8966929d7c3200409",
+  "text_sha256": "1e4008c9553148419959878fa442b09ec30c13a07a818f5dcbac24d8373cda58",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      564,
+      586
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [4] (no text layer)",
+    "tesseract_pages": [
+      4
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602916.pdf",
+    "source_sha256": "1d2217ebace95e5faddb4b69405da6020faf234aac3fa456d156830c4268b05f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9141,
+    "bag": 0.8152,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 107,
+    "kd_words": 104,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
