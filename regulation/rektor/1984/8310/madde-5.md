@@ -1,0 +1,3 @@
+Atama Süresi
+Madde 5- Atanma için bütün şartlar haiz yüksek lisans, sanatta yeterlik, doktora ve tıpta uzmanlık öğrencilerinin öğretim yardımcısı kadrolarına atanmaları her defasında en fazla bir yıl süre ile yapılır.
+Atanmalar her öğretim yılı başında aynı usulde ve yükseklisans, sanatta yeterlik ve doktora öğrencileri için Lisansüstü Öğretim Yönetmeliğinde, tıpta uzmanlık öğrencileri için ise, Tanabet ve Uzmanlık Tüzüğü’nde öngörülen süreler ile 2547 sayılı kanunun 44. maddesinde gösterilen ek sürelerle sınırlı olmak üzere, yeniden yapılabilir. Ancak, üniversitelerin özelliklerine göretıpta uzmanlık eğitimi yapanlar için bu süreler anabilim dalı başkanı ve ilgil yönetim kurulunun görüşü alınarak rektörün onayı ile uzatılabilir.

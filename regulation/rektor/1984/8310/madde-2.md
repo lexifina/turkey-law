@@ -1,0 +1,3 @@
+Kadro Ayrımı
+Madde 2- Fakülte, yüksekokul, enstitü, konservatuvar veya üniversite yönetim kurulu bir yarıyıl sona ermeden bir sonraki yarıyıl için yükseklisans, doktora, sanatta yeterlik ve tıpta uzmanlık öğrencilerine, 2.9.1983 tarih ve 78 sayılı “Öğretim Elemanlarının Kadroları Hakkında Kanun Hükmünde Kararname” ekinde gösterilen kadrolardan kendilerine tahsis edilmiş mevcut öğretim yardımcısı kadroları içinden tahsis edecekleri boş öğretim yardımcıları kadrolarını anabilim veya bilim dalları itibariyle tespit ederek önerilerini Rektörlüğün onayına sunarlar.
+Rektörlükçe uygun görülen öneriler onaylanarak tahsis edilecek kadro listeleri adaylara duyurulmak üzere ilgili enstitülere veya tıp fakültesine gönderilir.

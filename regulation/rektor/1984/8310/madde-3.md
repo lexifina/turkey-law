@@ -1,0 +1,3 @@
+Atanma Şartları
+Madde 3- Tıpta uzmanlık öğrencilerinin “Lisansüstü Öğretim Yönetmeliği” nin 13. Ve 14. Maddelerinde gösterilen değerlendirmeler esas alınarak bir jüri tarafından yapılacak yabancı dil ile bilim sınavında başarılı olmaları gerekmektedir. Jüriler ilgili fakültelerin yönetim kurullarının teklifi ve rektörün onayı ile kurulur.
+Tıpta uzmanlık öğrencileri ile yüksek lisans, sanatta yeterlik ve doktora öğrencilerinin öğretim yardımcılığı kadrolarına atanmaları 2547 sayılı kanunun 50. maddesi esaslarına uyulmak kaydıyla aynı kanunun 2880 sayılı kanunla değişik 33. maddesindeki usule göre yapılır.
