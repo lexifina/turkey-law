@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-01-22",
+  "issue": "25001",
+  "edition": "regular",
+  "item": 33,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Yargı İlânları",
+  "category": "yargi",
+  "category_page": "2",
+  "title": "Yargıtay 8. Hukuk Dairesi Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030122-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (33 = 33)",
+  "ilan_codes": [
+    "659/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030122-2.htm",
+  "category_page_sha256": "98f5073574e34ea42e977631244cc12c9969f146066dc4941f0289c54957de91",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030122.htm",
+  "index_sha256": "c849628d84ad3c0a251ffcf154b781fe98325d17c3157c5f3f5c78fcdf03c8b9",
+  "index_header": "22 Ocak 2003 ... Sayı : 25001",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed (court notice)"
+}
