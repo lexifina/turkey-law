@@ -1,0 +1,245 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1633",
+  "year": 1972,
+  "title": "Türkiye ile Avrupa Ekonomik Topluluğu arasında geçici anlaşma hükümleri uyarınca, bu anlaşmanın kapsamına giren maddelerin gümrük vergilerinde, anlaşmada yer alan esas ve oranlar çerçevesinde yapılan indirimlerin onaylanması hakkında kanun",
+  "adopted": "1972-11-30",
+  "adopted_as_published": "30/11/1972",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.12.1972 No: 14384",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601633.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 56",
+  "committee_reports": [
+    {
+      "label": "MM 680 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027136ss0680.pdf"
+    },
+    {
+      "label": "MM 680ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027136ss0680ek01.pdf"
+    },
+    {
+      "label": "CS 148no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007004ss0148.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 393128,
+      "title": "Türkiye ile Avrupa Ekonomik Topluluğu arasında geçici anlaşma hükümleri uyarınca, bu anlaşmanın kapsamına giren maddelerin gümrük vergilerinde, anlaşmada yer alan esas ve oranlar çerçevesinde yapılan indirimlerin onaylanması hakkında kanun",
+      "adopted_as_published": "30/11/1972",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601633.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 680 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027136ss0680.pdf"
+        },
+        {
+          "label": "MM 680ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027136ss0680ek01.pdf"
+        },
+        {
+          "label": "CS 148no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007004ss0148.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 19,
+          "sitting": 10,
+          "sitting_date": "1971-02-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019010.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019fih.pdf",
+          "pages": [
+            "186"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 93,
+          "sitting_date": "1972-05-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024fih.pdf",
+          "pages": [
+            "823"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 136,
+          "sitting_date": "1972-09-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027136.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027fih.pdf",
+          "pages": [
+            "29:31",
+            "65",
+            "66",
+            "73:74"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 140,
+          "sitting_date": "1972-10-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027140.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027fih.pdf",
+          "pages": [
+            "143",
+            "152",
+            "159:160"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 143,
+          "sitting_date": "1972-10-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027143.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027fih.pdf",
+          "pages": [
+            "176",
+            "206:207",
+            "280:283"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=901&v_kullanici_id=27483225",
+      "page_sha256": "73570ac7e4b721378f174dbeceb43694614658149f4ee213db0ea84494175c07"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 321740,
+      "title": "Türkiye ile Avrupa Ekonomik topluluğu arasında geçici anlaşma hükümleri uyaranca, bu anlaşmanın kapsamına giren maddelerin gümrük vergilerinde, anlaşmada yer alan esas ve oranlar çerçevesinde yapılan indirimlerin onaylanması hakkında Kanun",
+      "adopted_as_published": "30/11/1972",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601633.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 680 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027136ss0680.pdf"
+        },
+        {
+          "label": "MM 680ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027136ss0680ek01.pdf"
+        },
+        {
+          "label": "CS 148no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007004ss0148.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 93,
+          "sitting_date": "1972-10-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c006/cs__12006093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c006/cs__12006fih.pdf",
+          "pages": [
+            "416"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 1,
+          "sitting_date": "1972-11-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007001.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007fih.pdf",
+          "pages": [
+            "2"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 3,
+          "sitting_date": "1972-11-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007003.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007fih.pdf",
+          "pages": [
+            "33"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 4,
+          "sitting_date": "1972-11-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007004.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007fih.pdf",
+          "pages": [
+            "79:82"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 5,
+          "sitting_date": "1972-11-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007005.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007fih.pdf",
+          "pages": [
+            "102",
+            "106:121"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 6,
+          "sitting_date": "1972-11-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007fih.pdf",
+          "pages": [
+            "160:169"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 7,
+          "sitting_date": "1972-11-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007007.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007fih.pdf",
+          "pages": [
+            "188:216"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 8,
+          "sitting_date": "1972-11-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007008.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c007/cs__12007fih.pdf",
+          "pages": [
+            "221",
+            "238",
+            "259:261"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1601&v_kullanici_id=27483235",
+      "page_sha256": "d8af68d8dd0cd7bf3b6bd7cffb9ae8907f171fdba41142c0508421068a399a80"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "73570ac7e4b721378f174dbeceb43694614658149f4ee213db0ea84494175c07",
+  "issuer": "Millet Meclisi",
+  "in_force": "1972-11-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 30/11/1972; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
