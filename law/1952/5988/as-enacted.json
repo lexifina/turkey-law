@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5988",
+  "year": 1952,
+  "title": "10 Kasım 1950 Tarihli Türkiye-Çekoslovakya Tütün Protokolünün Yeniden Yürürlüğe Konulması İçin Teati Edilen Mektupların Onanması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-06-28",
+  "gazette_issue": "8144",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8144.pdf",
+  "source_sha256": "cf20138bb45b044b1b23c2e02de8968ed081b89f487cd30bba762e92effad671",
+  "text_sha256": "4976959e8e89f4e9d4fddbd1ceeedf8b27e1534ef3393d6443da727cf34bc8c6",
+  "text_status": "ocr",
+  "pages": [
+    26,
+    27
+  ],
+  "line_span": [
+    [
+      5769,
+      5824
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405988.pdf",
+    "source_sha256": "f1af0b2e7b27f06ccdd396b63a69fa0d58e9755dbe3bdd9773ac8248bda88a1f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.937,
+    "bag": 0.8115,
+    "kd_coverage": 0.9621,
+    "kd_body_compared": 0.9621,
+    "rg_words": 278,
+    "kd_words": 290,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
