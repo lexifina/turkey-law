@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7034",
+  "year": 1957,
+  "title": "Türk Havayolları Anonim Ortaklığı hakkındaki 6623 sayılı Kanunun 14. maddesinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-27",
+  "gazette_issue": "9644",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9644.pdf",
+  "source_sha256": "fb10f3263175c38cac4e9b82b7710dc24555cb91e468218527a6ee9887184d0d",
+  "text_sha256": "e9da79f83e1d4f9d232439d8a8bd46197bc023dc465b7ff173b31bee55f30bd1",
+  "text_status": "ocr",
+  "pages": [
+    19
+  ],
+  "line_span": [
+    [
+      14203,
+      14251
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907034.pdf",
+    "source_sha256": "90dfd9a0873fbbd7372425f532e4154d32eabe22350b35b9d14111db9fd83561",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9741,
+    "bag": 0.8087,
+    "kd_coverage": 0.9927,
+    "kd_body_compared": 0.9786,
+    "rg_words": 140,
+    "kd_words": 140,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
