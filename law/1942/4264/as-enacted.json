@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4264",
+  "year": 1942,
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan kanunun tadili hakkındaki 4088 sayılı kanuna bağlı cetvelde değişiklik yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-06-23",
+  "gazette_issue": "5139",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5139.pdf",
+  "source_sha256": "6bf5dbd3a9a7e2ae89e1c2f3e39ce7f65ce0f93cb5d26da3b3f69197d014e7d4",
+  "text_sha256": "ed1536c42414621123c7ef64d21d17fe99dd30097ea1d7a426616c082c4770b9",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      167,
+      196
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [2] (no text layer)",
+    "tesseract_pages": [
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304264.pdf",
+    "source_sha256": "ceb5a546540f0cea4a3cf891795d7cd26e7812d41ae974e93118df9d1ff067fb",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9004,
+    "bag": 0.859,
+    "kd_coverage": 0.9684,
+    "kd_body_compared": 0.9062,
+    "rg_words": 160,
+    "kd_words": 160,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
