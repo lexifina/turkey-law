@@ -1,0 +1,1 @@
+Madde 7- Merkez Yönetim Kurulu, Müdür, Müdür Yardımcısı ve bunlara ilaveten Merkez Genel Kurulunca seçilecek üç üye ile toplam beş kişiden oluşur.Yönetim Kurulu, Araştırma ve Uygulama Merkezi’nin karar organıdır.Müdür tarafından verilen işleri görüşür, karara bağlar ve diğer çalışmalarında Müdüre yardımcı olur. Yönetim Kurulu, Müdürün çağrısı üzerine toplanır,

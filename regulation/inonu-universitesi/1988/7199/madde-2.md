@@ -1,0 +1,4 @@
+Madde 2- Atatürk İlkeleri ve İnkılap Tarihi Araştırma ve Uygulama Merkezi’nin amacı, Atatürkçü düşünce, Atatürk İlkeleri ve İnkılapları temeline dayanan milli birlik ve bütünlüğü geliştirmeye, korumaya sürdürmeye yönelik, Devletine, T.C.Anayasasına ve bu Anayasanın dayandığı Atatürk milliyetçiliğine inanan hür, demokratik, laik devlet ve hukuk düzenine, milli ülkü ve değerlere bağlı vatan ve millet sevgisi ile dolu, Devletine karşı görev ve sorumluluklarını bilen, Türk Devletinin ülkesi ve milleti ile bölünmez bir bütün olduğuna inanan ve bundan gurur duyan nesiller yetiştirmek üzere;
+a) Atatürk İlkeleri ve İnkılap Tarihi,
+b) Atatürk’ün Türk ve dünya tarihi içindeki yeri ve önemi,
+c) Türk milletinin tarihte insanlığa ve dünya medeniyetine yaptığı hizmetler konusunda eğitim ve öğretimi destekleyici faaliyetlerde bulunmaktır.,

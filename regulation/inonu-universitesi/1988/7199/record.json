@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayınlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1988-03-07",
+      "07.03.1988",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayınlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "19747",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1988-03-07",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İnönü Üniversitesi",
+  "issuer_slug": "inonu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/inonu-universitesi/1988/7199",
+  "published": "1988-03-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7199&MevzuatTertip=5",
+  "source_bytes": 24808,
+  "source_id": "8.5.7199",
+  "source_sha256": "a66960e5b8e704a27de07d9ab1ba7a42255b432281443de13f8b65e4d287b36b",
+  "text_status": "as-enacted",
+  "title": "İNÖNÜ ÜNİVERSİTESİ\r\nATATÜRK İLKELERİ VE İNKILAP TARİHİ ARAŞTIRMA VE\r\nUYGULAMA  MERKEZİ YÖNETMELİĞİ",
+  "university_id": 201,
+  "word_count": 749
+}
