@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 99560,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 ve 3888 sayılı kanunlara bağlı cetvellerin Maarif Vekilliği kısmında değişiklik yapılması 3694, 3829, 4142 sayılı kanunlara bağlı kadroların değiştirilmesi ve 3656 sayılı kanunun 26. maddesine bir fıkra eklenmesi hakkında kanun lâyihasına dair (1/883)",
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 ve 3888 sayılı kanunlara bağlı cetvellerin Maarif Vekilliği kısmında değişiklik yapılması 3694, 3829, 4142 sayılı kanunlara bağlı kadroların değiştirilmesi ve 3656 sayılı kanunun 26. maddesine bir fıkra eklenmesi hakkında kanun lâyihasına dair (1/883)",
+  "first_sitting_date": "1942-12-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 29,
+      "sitting": 22,
+      "sitting_date": "1942-12-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c029/tbmm06029022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c029/tbmm06029fih.pdf",
+      "pages": [
+        "236"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 24,
+      "sitting_date": "1943-01-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c030/tbmm06030024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c030/tbmm06030fih.pdf",
+      "pages": [
+        "44:46",
+        "49",
+        "158",
+        "185:186",
+        "203:206"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1922&v_gelecek_sayfa=1401&v_kullanici_id=27484000",
+  "source_sha256": "30a99c2bfc70cd9967b32236a3458cbfa1b8ab3a4f914a225952926251668001",
+  "in_force": "1942-12-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
