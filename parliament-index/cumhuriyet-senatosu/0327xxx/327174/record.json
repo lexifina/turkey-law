@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 327174,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Millî Savunma Bakanlığı 1976 Bütçesi (Millet Meclisi:1/363;Cumhuriyet Senatosu:1/367) (S. Sayısı:515)",
+  "title": "Millî Savunma Bakanlığı 1976 Bütçesi (Millet Meclisi:1/363;Cumhuriyet Senatosu:1/367) (S. Sayısı:515)",
+  "first_sitting_date": "1976-02-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 25,
+      "sitting": 33,
+      "sitting_date": "1976-02-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c025/cs__15025033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c025/cs__15025fih.pdf",
+      "pages": [
+        "547:595"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=4301&v_kullanici_id=27484903",
+  "source_sha256": "8a5d561df49f381c44d631ba804f50acbd3d37f136d30e1d3d4619d5b27e1f42",
+  "in_force": "1976-02-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
