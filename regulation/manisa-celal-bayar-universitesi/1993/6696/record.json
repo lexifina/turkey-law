@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 16 – Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1993-10-28",
+      "28.10.1993",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 16 – Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21742",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1993-10-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Manisa Celal Bayar Üniversitesi",
+  "issuer_slug": "manisa-celal-bayar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/manisa-celal-bayar-universitesi/1993/6696",
+  "published": "1993-10-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6696&MevzuatTertip=5",
+  "source_bytes": 29345,
+  "source_id": "8.5.6696",
+  "source_sha256": "a0557cdd79445a7f2d4a2183463cd7990b2e0f3635751f3dba14dfc62ae8aa1b",
+  "text_status": "as-enacted",
+  "title": "CELAL BAYAR ÜNİVERSİTESİ ARŞİV YÖNETMELİĞİ",
+  "university_id": 184,
+  "word_count": 1277
+}
