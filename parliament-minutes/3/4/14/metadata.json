@@ -1,0 +1,19 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 3,
+  "term_label": "3. Dönem",
+  "legislative_year": 4,
+  "cilt": 23,
+  "sitting": 14,
+  "label": "14. Birleşim",
+  "sitting_date": "1930-12-20",
+  "date_as_published": "20 Aralık 1930",
+  "weekday": "Cumartesi",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c023/tbmm03023014.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c023/tbmm03023fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=4&v_cilt=",
+  "source_sha256": "f3bf4830038c79f2e3ab14156219dfe3e2702fbdce8a4e5a44865c653c8b62f1",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
