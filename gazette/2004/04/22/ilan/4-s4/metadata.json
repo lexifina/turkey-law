@@ -1,0 +1,32 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-04-22",
+  "issue": "25441",
+  "edition": "regular",
+  "item": 4,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Petrol İşleri Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/04/20040422-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (6 = 6)",
+  "ilan_codes": [
+    "5105/1-1",
+    "5106/1-1",
+    "5107/1-1",
+    "5108/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/04/20040422-4.htm",
+  "category_page_sha256": "b8c12510bc134e1dd2f5d1d83164affd2cb115585961fcba863e8dbbd41ca0c5",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/04/20040422.htm",
+  "index_sha256": "e66335f874c0212bc470bc1d069e722038cdc5e783ddcc18b4d0ee14bf0fc68f",
+  "index_header": "22 Nisan 2004 ... Sayı : 25441",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
