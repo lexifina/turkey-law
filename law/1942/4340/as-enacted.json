@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4340",
+  "year": 1942,
+  "title": "Fevkalâde ihtiyaçlar İçin Millî Müdafaa Vekilliğince yurda sokulacak maddelerin vergi muaflıkları hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-12-29",
+  "gazette_issue": "5292",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5292.pdf",
+  "source_sha256": "5b514c1118f5c9be846a1a6039a719b2f5faafd0e5a2ca64ffe08d0a430ac6ad",
+  "text_sha256": "3bb3a8b0a14a40144d8177bd8ea406ad74eb9ee31a405458e1196e700d40843f",
+  "text_status": "ocr",
+  "pages": [
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      503,
+      556
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc024/kanuntbmmc024/kanuntbmmc02404340.pdf",
+    "source_sha256": "22e6c5d8f5413f2d402e593948bb57fd0536126d5d34a58c44fcbf6c5d9bf1f2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9618,
+    "bag": 0.9254,
+    "kd_coverage": 0.9917,
+    "kd_body_compared": 0.9863,
+    "rg_words": 364,
+    "kd_words": 365,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
