@@ -1,0 +1,1 @@
+Madde 8 - Suni tohumlama ve embriyo transferi ile ilgili gerçek dışı kayıt tutanlar ile bu yolla prim alanlar hakkında gerekli kanuni takibat yapılmakla birlikte, aldıkları prim yasal faizi ile birlikte geri alınır.
