@@ -1,0 +1,2 @@
+Bakanlıklarca Yapılacak İşlemler
+Madde 8 - Bu yönetmeliğin 7 nci Maddesi uyarınca kendilerine başvuru yapılan merciler gerekiyorsa görüşlerini de ekleyerek talebi Turizm Bakanlığına iletirler. Bakanlık gerekli değerlendirmeyi yaptıktan sonra görüşü ile birlikte dosyayı İçişleri Bakanlığına yollar. İzin işlemi İçişleri Bakanlığınca sonuçlandırılır. Bakanlıklar gerekli gördükleri hallerde taleple ilgili olarak Konsolosluklarımızdan ayrıca bilgi ve görüş isteyebilir.

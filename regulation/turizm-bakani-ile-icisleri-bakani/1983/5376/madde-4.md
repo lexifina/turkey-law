@@ -1,0 +1,2 @@
+Yabancı Personel ve Sanatkarların Çalıştırılması
+Madde 4 - Belgeli turizm işletmeleri , 2007 sayılı Kanun kapsamına giren işlerde, 2634 sayılı Kanunun 18 inci Maddesinin (a) fıkrası uyarınca: a. Nitelikli yabancı uzman personel b. Uluslararası üne sahip sanatçılarla, üst düzeye yabancı işletmelerde program yaparak çalışmış sanatçı ve sanatçı toplulukları, Turizm Bakanlığının uyun görüşü ve İçişleri Bakanlığının izni ile çalıştırabilirler.

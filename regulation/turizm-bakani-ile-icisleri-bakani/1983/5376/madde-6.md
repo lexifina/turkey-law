@@ -1,0 +1,2 @@
+Yabancı Sanatkar Çalıştırabilecek İşletmeler
+Madde 6 - Yabancı sanatkar çalıştırmak üzere başvuracak belgeli turizm işletmelerinin bir önceki yıl en az 40,000 (kırkbin) USD veya muadili dövizi sağlamış olması gerekir. İşletmenin döviz kazancı başvuru dosyasına eklenecek, kambiyo devre beyannamesi veya yetkili bankalarca verilen döviz alım bordroları ile belirlenir. Yeni açılacak işletmelerinde anılan miktarda döviz kazancının taahhüt etmeleri halinde izin verilebilir.
