@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4215-77-3/67970",
+  "source_id": 23681,
+  "date": "2001-12-19",
+  "title": "İşle ilgili olarak şehir içi ulaşım, posta, telgraf ve odabaşı ücretleri gibi giderler ile envantere dahil olan binek otomobillerinin giderleri ve Vergi Usul Kanunu hükümlerine göre ayrılan amortismanları serbest meslek kazancının tespitinde indirim konus",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23681",
+  "source_sha256": "74ab9baf0ec475f2dff65d6ca4feecda8da6ca61b21e84b9410d85e4272af012",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
