@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6241",
+  "year": 1954,
+  "title": "Emekli, Dul ve Yetim Aylıklarına Zam Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-02-05",
+  "gazette_issue": "8626",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8626.pdf",
+  "source_sha256": "75388fc40265f4efbf4dbbe9da0c08f6eb3d0a2bdf4d5406355ba08d8ca40013",
+  "text_sha256": "400fca0ba05f8998c8e031149592972e8033576fd9ced862c1c5f31015f99bdd",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      655,
+      733
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606241.pdf",
+    "source_sha256": "e0b2e94f60186b07ef9bc5732d8f86a9ebc167792dae9fdcfad4454f8f8c5a32",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9587,
+    "bag": 0.9109,
+    "kd_coverage": 0.9904,
+    "kd_body_compared": 0.9904,
+    "rg_words": 386,
+    "kd_words": 415,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
