@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.66/6685-4372/17488",
+  "source_id": 37100,
+  "date": "2001-04-02",
+  "title": "Vergi değerini tadil eden sebeplerin doğması halinde, değişikliğin vuku bulduğu bütçe yılı içerisinde taşınmazın bulunduğu yerdeki ilgili belediyeye emlak vergisi beyannamesinin verilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37100",
+  "source_sha256": "d480ffda3195a3bd4f681b3845232699cb89f36a398cbc3ff42e33ce662c2ff4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
