@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6518-64/53396",
+  "source_id": 38270,
+  "date": "1999-12-07",
+  "title": "ÖKC, Hurda, Mali Hafıza, Yetkili Servis",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38270",
+  "source_sha256": "7cb3090bebda0454675571c541e50e08ddba83fbe42b1af5c5569c7c215655ca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
