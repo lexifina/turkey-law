@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 128217,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Seyrisefain idaresinin 1341 senesi Mart ayına mahsus muvakkat bütçesi hakkında.",
+  "title": "Seyrisefain idaresinin 1341 senesi Mart ayına mahsus muvakkat bütçesi hakkında.",
+  "first_sitting_date": "1925-02-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 15,
+      "sitting": 66,
+      "sitting_date": "1925-02-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c015/tbmm02015066.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c015/ehttbmm02015066.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c015/tbmm02015fih.pdf",
+      "pages": [
+        "1",
+        "4"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1019&v_gelecek_sayfa=301&v_kullanici_id=27483741",
+  "source_sha256": "f4cabec3367cbb3910296bf35eeb0c172df763bd8e32872a34bd26a96fca90e6",
+  "in_force": "1925-02-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
