@@ -1,0 +1,16 @@
+T.C.
+YÜKSEK SEÇİM KURULU
+Karar No : 672
+İtiraz No :
+- K A R A R -
+Maltepe 1. İlçe Seçim Kurulu Başkanlığı tarafından Kurulumuz Başkanlığına gönderilen 05.08.2003 gün ve 117 sayılı yazıda; 2820 sayılı Siyasi Partiler Kanunu, 2821 sayılı Sendikalar Kanunu ve 507 sayılı Esnaf ve Küçük Sanatkarlar Kanununa tabi kuruluşların ilçe kongrelerinin 1. İlçe Seçim Kurulu Başkanı tarafından sandık kurulu teşekkül ettirilerek icra edildiği, ancak bahse konu olan seçimlerde, seçim saatinin başlama ve bitiş süresi diğer yurt genelinde yapılan normal seçimlerde olduğu gibi net bir şekilde belirtilmediğinden dolayı, seçim sandığının (seçimin erken bitmesi halinde) saat: 17.00’den önce açılıp açılamayacağı, şayet açılacaksa, bu kararı ilgili divan kurulu mu? Sandık kurulu mu? Yoksa ilçe seçim kurulu başkanının alacağı kararla mı sandığın erken veya geç saatte açılabileceği ve diğer hususlarda ilgili kongre yetkililerince tartışma konusu edildiği ve tereddüt hasıl olduğundan bahisle, örneklendirilen konularda gerekli açıklamanın yapılması istenilmiş olmakla, konu incelenerek;
+GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ:
+Siyasi parti kongreleri ve diğer organ seçimlerinde, oy sandığının konulacağı ve oy verme işlemine başlanılacağı saati belirleme kongre gündemine bağlı olduğundan, oy verme işlemi kongre başkanınca seçime geçileceğinin ilanı üzerine görevin ilgili ilçe seçim kurulu başkanına devredildikten sonra işlemeye başlayacaktır. Yapılacak seçimlerde öncelikle seçimi yapılan organın tabi olduğu kanun, tüzük göz önünde bulundurulmalıdır. Bu şekilde yapılan seçimlerin bitiş süresinin ise oy verme işleminin sonucuna göre değerlendirilmesi gerekir.
+Şayet; oy verme işlemine 298 sayılı Kanunda belirtilen oy verme süresinde başlanılması halinde, saat 17:00’de oy verme işleminin sonuçlandırılarak sandığın belirtilen saatte açılması esastır. Ancak, seçime katılan delegelerin tüm sandıklarda oylarını kullandığı delege listelerinden tespit edildiği takdirde saat 17:00’den önce bütün sandıkların birlikte açılmasında bir sakınca bulunmamaktadır.
+Ayrıca, delege sayısının az olması durumunda tüm delegelerin oylarını kullandığının tespiti halinde yine aynı şekilde bütün sandıklar birlikte açılabilir. Aksi halde saat 17:00’ye kadar oy verme süresinin beklenilmesi gerekir.
+Oy verme işlemlerine aralıksız olarak devam edileceği 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun 99. ve 108. maddelerinde belirtilmiş olup, günün bitiminden sonra da seçim iş ve işlemlerine devam edilmelidir.
+Öte yandan, her ne sebeple olursa olsun tek adayla yapılan kongrelerde seçim bittikten sonra tüm sandıkların açılması ve oy tasnifinin yapılması yasal zorunluluk olup, oyların tasnif ve dökümünün yapılarak, tutanaklara işlenmesiyle seçim sonuçlandırılmalıdır. Bu şekle uymayan seçimin geçerliliği olmayacağı gibi seçim sonucuna yapılacak olan itirazların değerlendirilmesini de engelleyecektir.
+S O N U Ç:
+1- Siyasi parti kongreleri ile diğer organ seçimlerinde oy verme süreleri ile sonrası işlemlerin yukarıda açıklandığı şekilde yerine getirilmesi gerektiği hususunda görüş bildirilmesine,
+2- Karar örneğinin Maltepe 1. İlçe Seçim Kurulu Başkanlığına gönderilmesine,
+19.08.2003 tarihinde oybirliği ile karar verildi.
