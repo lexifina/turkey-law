@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2861",
+  "year": 1935,
+  "title": "27 Mayıs 1930 tarih ve 1631 sayılı askerî muhakeme usulü Kanununun bazı maddelerinde değişiklik yapılması ve bazı maddelere fıkralar eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-12-18",
+  "gazette_issue": "3185",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3185.pdf",
+  "source_sha256": "b317410004fd9ad8e579fd15604d5781383b879758372902e21d334eaa669723",
+  "text_sha256": "181ce7ba1c3510d607483ca332de89b27d2022ad50cb0012c131240ef649d722",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      16,
+      170
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602861.pdf",
+    "source_sha256": "525f667f82991596f858c52c44a38d152ce30c89d8c72a990b7f4729d6cbac81",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9579,
+    "bag": 0.8677,
+    "kd_coverage": 0.9922,
+    "kd_body_compared": 0.9922,
+    "rg_words": 757,
+    "kd_words": 768,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
