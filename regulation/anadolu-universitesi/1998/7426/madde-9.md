@@ -1,0 +1,3 @@
+Genel Kurul
+Madde 9- Genel Kurul, Spor Birliği Başkanının başkanlığında, Başkan Yardımcısı, Üniversite Genel Sekreteri, Sağlık Kültür ve Spor Dairesi Başkanı, İdari ve Mali İşler Dairesi Başkanı ile fakülte dekanlıkları, Devlet Konservatuvarı ve yüksekokul müdürlüklerince, iki yıl için seçilen bir öğretim elemanı veya bir idari personelden oluşur.
+Genel Kurul, her yıl Ekim ayı içerisinde Başkanın çağrısı üzerine olağan toplantısını yapar; Yönetim Kurulunun kararı, başkanın çağrısı veya üyelerden 1/3 ünün teklifi ile olaganüstü toplanabilir. Genel Kurul salt çoğunlukla toplanır ve kararlar toplantıya katılanların salt çoğunluğu ile alınır.
