@@ -1,0 +1,66 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1788",
+  "year": 1974,
+  "title": "Cumhuriyet Üniversitesi Kanunu",
+  "adopted": "1974-01-24",
+  "adopted_as_published": "24/01/1974",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09.02.1974 No: 14797",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/kanuntbmmc057/kanuntbmmc05701788.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 57",
+  "committee_reports": [
+    {
+      "label": "MM 911 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c039/mm__03039131ss0911.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 438790,
+      "title": "Cumhuriyet Üniversitesi Kanunu",
+      "adopted_as_published": "24/01/1974",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/kanuntbmmc057/kanuntbmmc05701788.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 911 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c039/mm__03039131ss0911.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=601&v_kullanici_id=27483225",
+      "page_sha256": "289a6a3fb6cf89fae2d8a05f66e7b654a3cc8aecdfd898b5db709f11f0b70d44"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 323765,
+      "title": "Cumhuriyet Üniversitesi Kanunu (Cumhuriyet Senatosunda görüşülmeden kanunlaştı)",
+      "adopted_as_published": "24/01/1974",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/kanuntbmmc057/kanuntbmmc05701788.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 911 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c039/mm__03039131ss0911.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1701&v_kullanici_id=27483235",
+      "page_sha256": "b72c34be4a1905335c6e8be089c858335765608ea5d4dfd7757ae144141b09fa"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "289a6a3fb6cf89fae2d8a05f66e7b654a3cc8aecdfd898b5db709f11f0b70d44",
+  "issuer": "Millet Meclisi",
+  "in_force": "1974-01-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 24/01/1974; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
