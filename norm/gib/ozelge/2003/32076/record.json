@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5424-205-15184",
+  "source_id": 32076,
+  "date": "2003-04-08",
+  "title": "Bedelin kısmen yada tamamen işlemden sonra ödenmesi nedeniyle satıcı lehine oluşan vade farkları, bedelin bir unsuru olup, işlemin tabi olduğu oranda katma değer vergisine tabi tutulması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32076",
+  "source_sha256": "b0d1286c8bddf93ebcc72b698a81b68bf02f34ebb47f62fc4c24cb095564ffef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
