@@ -1,0 +1,3 @@
+SINAV PROGRAMLARI VE SINAVLARIN YAPILMASI
+Madde 15 – Yarıyıl sonu ve bütünleme sınavlarının programları bölümlerce hazırlanır. Sınavların nasıl ve hangi türde uygulanacağı belirtilir ve sınavların başlamasından en az onbeş gün önce dekanlığa bildirilir. Sınav programı Fakülte Yönetim Kurulunda karara bağlandıktan sonra, sınavlardan en az bir hafta önce dekanlıkça ilan edilir. Sınav günleri ve yerleri dekanlığın bilgisi olmadan değiştirilemez. Gerektiğinde dini ve milli bayramlar dışındaki Cumartesi ve Pazar günleri de sınav yapılabilir.
+Sınav sonuçları yarıyıl sonu veya bütünleme sınavlarının yapıldığı tarihi izleyen en geç onbeş gün içinde bölüm başkanlıklarına verilir. Sınav evrakı iki yıl süreyle dekanlıkça muhafaza edilir.

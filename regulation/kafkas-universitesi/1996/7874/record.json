@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 37 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer ve fakülteye kayıtlı bütün öğrencileri kapsar."
+  ],
+  "date_evidence": [
+    [
+      "1996-01-31",
+      "31.01.1996",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 37 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer ve fakülteye kayıtlı bütün öğrencileri kapsar.",
+  "first_law": null,
+  "gazette": "22540",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1996-01-31",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kafkas Üniversitesi",
+  "issuer_slug": "kafkas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kafkas-universitesi/1996/7874",
+  "published": "1996-01-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7874&MevzuatTertip=5",
+  "source_bytes": 53368,
+  "source_id": "8.5.7874",
+  "source_sha256": "87fad4eb073a0a6574147fe4dc80d42ddd6ea779c9b91fb5d7fb8c46363c1d69",
+  "text_status": "as-enacted",
+  "title": "KAFKAS ÜNİVERSİTESİ FEN-EDEBİYAT FAKÜLTESİ LİSANS\r\nEĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 206,
+  "word_count": 2530
+}

@@ -1,0 +1,3 @@
+DERS TEKRARI
+Madde 20 – Devam aldıkları halde bir derste başarısız olan öğrenciler, o derse devam etmeden ve ara sınavlarına girmeden o dersin müteakip ilgili dönemlerindeki yarıyıl ve bütünleme sınavlarına girerler. Bu durumda başarı notunun hesaplanmasında daha önce alınan arasınav not ortalaması dikkate alınır. Ancak isteyenler, başarısız oldukları derslerin arasınavlarına katılabilirler. Bu durumda almış oldukları en son arasınav notu geçerlidir.
+Öğrenci bir dersi alıp devam sağlayamadığı takdirde, o dersi müteakip ilgili dönemlerde, devamını sağlayıncaya kadar yasal süresi içinde tekrar eder ve sınav şartlarını yerine getirir. Devamını almamış öğrenci sınava giremez, girmiş olsa dahi sınav iptal edilir.

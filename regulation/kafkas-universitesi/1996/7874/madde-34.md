@@ -1,0 +1,3 @@
+YENİDEN KAYIT VE MUAFİYET
+Madde 34 – Kafkas Üniversitesi de dahil olmak üzere herhangi bir yüksek öğretim kurumundan ilişkileri kesilmiş ya da mezun olmuş öğrencilerden fakülteye yeniden kayıt yaptıranlar, başarılarını belgelemek koşuluyla muaf olmak istedikleri derslerden sınava alınır, başarılı oldukları derslerden muaf tutulurlar. 2547/5-i maddesindeki dersler için öğrencinin dekanlığa yazılı müracaatı, ilgili öğretim elemanının teklifi ve Fakülte Yönetim Kurulu kararı doğrultusunda muafiyet verilebilir. Muafiyet başvuruları, üniversite kesin kayıtlarını müteakip otuz gün içinde yapılır.
+Yatay geçiş yoluyla kayıt yaptıran öğrencilerin ders muafiyetine; aldıkları derslerin müfredat programları ve not transkriptine istinaden Fakülte Yönetim Kurulu karar verir.

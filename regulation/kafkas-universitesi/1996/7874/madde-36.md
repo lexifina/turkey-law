@@ -1,0 +1,1 @@
+Madde 36 – Bu Yönetmeliğin yayımından itibaren 28/05/1994 tarih ve 21943 sayılı Resmi Gazete’de yayınlanan Kafkas Üniversitesi Fen-Edebiyat Fakültesi Lisans Eğitim-Öğretim ve Sınav Yönetmeliği’nin hükümleri yürürlükten kalkar.

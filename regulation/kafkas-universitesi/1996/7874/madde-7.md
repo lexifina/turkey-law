@@ -1,0 +1,4 @@
+DERS TÜRLERİ
+Madde 7 – a) Zorunlu Dersler : Öğrencilerin kaydoldukları eğitim-öğretim programı gereğince almak zorunda oldukları derslerdir; bu dersler ilgili bölüm başkanlıkları tarafından tespit edilir.
+b) Seçmeli Dersler : Belirli ders programları içinde danışmanın muvafakatı ile öğrencilerin alabileceği derslerdir. İlk iki hafta içinde bırakılmayan seçmeli dersler zorunlu ders gibi işlem görür. Süresi içinde bırakılan seçmeli ders yerine yenisi alınabilir.
+c) 2547 sayılı kanunun 5/i maddesinde belirtilen dersler: Atatürk İlkeleri ve İnkılap Tarihi, Türk Dili, Yabancı Dil, Beden Eğitimi, Güzel Sanat Dalları dersleridir. Bu derslerin kayıt, haftalık ders saatleri, hangi sınıflarda okutulacağı, öğrencilerin bu derslere devamı, sınavları başarı durumlarının tespiti ve muafiyeti konularında Üniversite Senatosu’nun kararları doğrultusunda işlem yapılır.

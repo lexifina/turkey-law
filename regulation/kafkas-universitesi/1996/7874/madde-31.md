@@ -1,0 +1,2 @@
+KAYIT DONDURMA
+Madde 31 – Kayıt Dondurmak için başvurular yarıyılın ilk onbeş günü içinde yapılır. Sağlık nedenleriyle yapılacak kayıt dondurma istekleri bu sürenin dışındadır. Haklı ve geçerli nedenler çerçevesinde, eğitim-öğretim süresince en az bir, en çok iki yarıyıl süreyle kayıt dondurulabilir. Bu haklardan ders kaydı yaptıranlar yararlanır. Fakülte Yönetim Kurulunca sağlık nedenleri geçerli sayılanların kayıt dondurma süreleri, rapor süresince değerlendirilir.

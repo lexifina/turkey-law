@@ -1,0 +1,1 @@
+Madde 21 – Bir öğrenci, bir dersten devam aldığı halde sınavlardan başarısız olduğu için dersi tekrar etmek isterse Fakülte Dekanlığına başvurarak, ders kaydı yaptırır ve sınav şartlarını yerine getirmek kaydıyla o dersi tekrar eder.

@@ -1,0 +1,2 @@
+BİTİRME TEZİ
+Madde 12 – Özelliği gereği bir bitirme tezinin yapılmasında yarar görülen bölümlerde öğrenciler bitirme tezi hazırlar. Bu çalışma üçüncü sınıfın bitiminden itibaren bir veya iki yarıyılda tamamlanır. Belirtilen süre zarfında tez çalışmasını tamamlayamayan öğrenciler hakkında bu Yönetmeliğin 22. maddesine göre işlem yapılır. Bitirme tezi çalışması, ilgili bölümler tarafından teklif edilen dört yıllık ders programlarında belirtilen kredi/saat üzerinden işlem görür.

@@ -1,0 +1,4 @@
+DİPLOMA
+Madde 26 – Lisans öğrenimini başarı ile bitiren öğrencilere Fen-Edebiyat Fakültesi Lisans Diploması verilir. Öğrenimleri boyunca aldıkları derslerin başarı notlarının yarıyıl saati ağırlıklı ortalaması bu Yönetmeliğin 23. maddesinde belirtilen notların karşılıkları, öğrencilerin başarı derecesini oluşturur.
+Bölüm esasına göre öğrencim gören öğrencilerin diplomalarına bölümleri ve ünvanları, anabilim dalı esasına göre öğrenim görenlerin diplomalarına da bölümleri yanısıra anabilim dalları ve ünvanları yazılır. Pedagojik formasyon derslerini alanların, staj yapan bölümlerde “Staj Yönergesindeki” şartları yerine getirenlerin yönetmelikte belirtilen ünvanları da diplomalarında gösterilir.
+Diplomaya başarı derecesi yazılmaz. Diplomanın formu ve yazılış biçimi “Kafkas Üniversitesi Kayıt, Eğitim, Öğretim ve Sınav Yönetmeliği” nde belirtilen hususlara göre düzenlenir.
