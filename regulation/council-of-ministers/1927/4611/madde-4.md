@@ -1,0 +1,1 @@
+Madde 4 – Hükümet namına beyanı taziyet eylemek ve bu münasebetle kiliselerde icra edilen ayinde Hükümeti temsil etmek vazifeleri Teşrifat Müdiri Umumisi tarafından ifa olunur. Yalnız icabında işbu ayinlerde Hariciye Vekilleri dahi bizzat ispatı vücut edebilirler.

@@ -1,0 +1,1 @@
+Madde 3 – Ecnebi hükümetler tarafından fevkalade memuriyetle izam edilen fevkalade elçilerin hini istikbalinde Hariciye Vekillerinin dahi hazır bulunmaları müteamildir. Merkezi Hükümete ilk defa olarak vasıl olan büyük elçilerle orta elçiler Teşrifat Müdiri Umumisi tarafından istikbal olunur.
