@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4584",
+  "year": 1944,
+  "title": "Oyun kâğıdı inhisarı hakkındaki 1118 sayılı kanunun ikinci maddesinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-06-13",
+  "gazette_issue": "5729",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5729.pdf",
+  "source_sha256": "1c8afad4fb73b88c3146abf707e5afd0bb1b41fbf7f8fa363d39630ad038d651",
+  "text_sha256": "0dbaa2818296cbe2eaa798169f6157765934677e1192f92782b64d7714d1d497",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      181,
+      202
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604584.pdf",
+    "source_sha256": "309bbefb7d5fb0a996fa777b7a96b6e1e8bd870a92a0abe0de81f5b3a04ce165",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9172,
+    "bag": 0.8804,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9826,
+    "rg_words": 96,
+    "kd_words": 115,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
