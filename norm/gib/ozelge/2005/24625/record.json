@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.40/4034-745/11901",
+  "source_id": 24625,
+  "date": "2005-03-11",
+  "title": "Serbest bölgelerde faaliyet gösteren şirketlerin KDV mükellefiyeti hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24625",
+  "source_sha256": "67577c2c2bb24366ed5cb60f16294e066674561c474581ae9d2c69d2244139d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
