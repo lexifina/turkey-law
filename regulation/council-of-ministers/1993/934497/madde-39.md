@@ -1,0 +1,4 @@
+İdarece İhalelere Katılmaktan Geçici Yasaklama
+Madde 39 – Bu Yönetmelikte öngörülen yasak fiil veya davranışlarda bulundukları anlaşılanlar, bu fiil ve davranışları ihale safhasında vaki olmuşsa idarece o ihaleye iştirak ettirilmeyecekleri gibi fiil veya davranışlarının özelliğine göre haklarında bir yıla kadar bu Yönetmelik kapsamındaki bütün ihalelere katılmaktan yasaklama kararı verilir ve bu kararlar Resmi Gazete'de ilan ettirilir.
+Üzerine ihale yapıldığı halde usulüne göre sözleşme yapmayan istekliler ile sözleşme yapıldıktan sonra taahhüdünden vazgeçen ve uygun olarak yerine getirmeyen yükleniciler hakkında da bir yıla kadar bu Yönetmelik kapsamındaki ihalelere katılmaktan yasaklama kararı verilir ve bu kararlar Resmi Gazete'de ilan ettirilir.
+İdare, ihalelere katılmaktan yasaklamayı gerektirir bir durumla karşılaştığı taktirde, gereğinin yapılması için bu durumu ilgili Bakanlığa da bildirmekle yükümlüdür.

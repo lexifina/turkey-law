@@ -1,0 +1,3 @@
+İhale Komisyonları
+Madde 10 – İhale Komisyonları, işin özelliğine göre Yürütme Kurulu veya Hazırlık Komitesi üyeleri arasından İdarece seçilecek bir Başkan ve en az dört üyeden oluşur. Komisyonda gerekli hallerde diğer kamu kurum ve kuruluşlarından da 3796 sayılı İstanbul Kentinde Yapılacak Olimpiyat Oyunları Kanununun 7 nci maddesine göre Hazırlık Komitesinde görevlendirilen uzmanların bilgilerinden yararlanılabilir. Bu uzmanların oy hakları yoktur.
+İhale Komisyonları eksiksiz toplanır. Kararlar üye tam sayısının salt çoğunluğu ile alınır. Çekimser oy kullanılamaz. Karara muhalif kalanlar karşı oy gerekçelerini yazarak imzalarlar.

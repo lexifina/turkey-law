@@ -1,0 +1,2 @@
+Tahmin Edilen Bedel
+Madde 8 – Tahmin edilen bedel, idarece tespit ettirilir. İşin özelliğine göre gerektiğinde bu bedel veya bu bedelin hesabında kullanılacak fiyatlar belediye, ticaret odası, sanayi odası, borsa gibi kuruluşlardan veya bilirkişilerden soruşturulur. Tahmin edilen bedel, bunun dayanaklarının da eklendiği bir hesap tutanağında gösterilir ve gerektiğinde ihale komisyonlarınca tahkik ettirilir.

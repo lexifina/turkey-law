@@ -1,0 +1,2 @@
+İdarenin Görev ve Sorumluluğu
+Madde 34 – İdare onbeş gün içinde sözleşme yapılması hususunda kendisine düşen görevleri yapmak ve taşınmaz malların satışında ferağa ait işlemleri tamamlamak, şartnamede sınır ve evsafı belirtilen mal veya malzemeyi yükleniciye teslim etmekle yükümlüdür. Bu yükümlülüğün yerine getirilmemesi halinde yüklenici, İdareye sürenin bitmesinden itibaren en çok onbeş gün içinde on gün müddetli bir noter ihtarnamesi çeker ve bu sürenin bitiminden başlayarak ihaleye girmek ve teminat vermek suretiyle yaptığı masrafları istemeye hak kazanır.
