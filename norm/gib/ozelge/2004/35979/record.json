@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6373-",
+  "source_id": 35979,
+  "date": "2004-02-17",
+  "title": "Kamu menfaatine yararlı dernekler ve Bakanlar Kurulunca vergi muafiyeti tanınan vakıflar devir edecekleri gayrımenkullerden dolayı harca tabi olamaları hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35979",
+  "source_sha256": "da84dda43e10aae586bc22c4607fbae42a16d50b71f759a686fc6b5fd4fff0f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
