@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-16",
+  "issue": "25110",
+  "edition": "regular",
+  "item": 52,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "İstanbul Valiliği Kağıthane İlçe Emniyet Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030516-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (61 = 61)",
+  "ilan_codes": [
+    "13970/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030516-3-4.htm",
+  "category_page_sha256": "f4fa21ff5435914be013c6e85db259a6512a63c5dc44678a6612ce5436dd71aa",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030516.htm",
+  "index_sha256": "39bc15072d9b45b2c191454365419f690c3a3949e3620fa05f6f48b90c42847e",
+  "index_header": "16 Mayıs 2003 ... Sayı : 25110",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
