@@ -1,0 +1,85 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6664",
+  "year": 1956,
+  "title": "Taş ocakları muamelâtının tedviri ve varidatının tahsilinin vilâyet hususi idarelerine aidolduğu hakkında kanun",
+  "adopted": "1956-02-15",
+  "adopted_as_published": "15/02/1956",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.02.1956 No: 9242",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806664.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 38",
+  "committee_reports": [
+    {
+      "label": "TBMM 33 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c010/tbmm10010031ss0033.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 10,
+      "kayit_no": 51793,
+      "title": "Taş ocakları muamelâtının tedviri ve varidatının tahsilinin vilâyet hususi idarelerine aidolduğu hakkında kanun",
+      "adopted_as_published": "15/02/1956",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806664.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 33 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c010/tbmm10010031ss0033.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 31,
+          "sitting_date": "1956-02-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c010/tbmm10010031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c010/tbmm10010fih.pdf",
+          "pages": [
+            "22:23"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 32,
+          "sitting_date": "1956-02-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c010/tbmm10010032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c010/tbmm10010fih.pdf",
+          "pages": [
+            "45:51"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 37,
+          "sitting_date": "1956-02-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c010/tbmm10010037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c010/tbmm10010fih.pdf",
+          "pages": [
+            "206",
+            "211",
+            "227",
+            "233:236"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=643&v_gelecek_sayfa=201&v_kullanici_id=27483184",
+      "page_sha256": "73d8e15d4c82925d0266aaed0c0a69ac708f69d4c97b4adee386afa8c0639586"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "73d8e15d4c82925d0266aaed0c0a69ac708f69d4c97b4adee386afa8c0639586",
+  "issuer": "TBMM",
+  "in_force": "1956-02-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 15/02/1956; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
