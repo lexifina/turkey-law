@@ -1,0 +1,74 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6645",
+  "year": 1956,
+  "title": "16 Şubat 1952 tarihli Türkiye-Batı Almanya Ticaret ve ödeme Anlaşmalarına Ek 21 Aralık 1954 tarihli protokollerle ekleri mektupların tasdikine dair kanun",
+  "adopted": "1956-01-25",
+  "adopted_as_published": "25/01/1956",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "02.02.1956 No: 9223",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806645.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 38",
+  "committee_reports": [
+    {
+      "label": "TBMM 17 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c008/tbmm10008019ss0017.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 10,
+      "kayit_no": 51774,
+      "title": "16 Şubat 1952 tarihli Türkiye-Batı Almanya Ticaret ve ödeme Anlaşmalarına Ek 21 Aralık 1954 tarihli protokollerle ekleri mektupların tasdikine dair kanun",
+      "adopted_as_published": "25/01/1956",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806645.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 17 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c008/tbmm10008019ss0017.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 9,
+          "sitting": 25,
+          "sitting_date": "1956-01-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c009/tbmm10009025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c009/tbmm10009fih.pdf",
+          "pages": [
+            "163"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 28,
+          "sitting_date": "1956-01-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c009/tbmm10009028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c009/tbmm10009fih.pdf",
+          "pages": [
+            "243",
+            "250",
+            "262",
+            "265:268"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=643&v_gelecek_sayfa=201&v_kullanici_id=27483184",
+      "page_sha256": "73d8e15d4c82925d0266aaed0c0a69ac708f69d4c97b4adee386afa8c0639586"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "73d8e15d4c82925d0266aaed0c0a69ac708f69d4c97b4adee386afa8c0639586",
+  "issuer": "TBMM",
+  "in_force": "1956-01-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 25/01/1956; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
