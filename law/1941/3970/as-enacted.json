@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3970",
+  "year": 1941,
+  "title": "Yabancı memleketlerle muvakkat mahiyette Ticaret Anlaşmaları ve modüs vivendiler akdine ve bunların şümulüne giren maddelerin gümrük resimlerinde değişiklik yapılmasına ve Anlaşmaya yanaşmıyan Devletler müvaredatına karşı tedbirler alınmasına salâhiyet verilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-01-14",
+  "gazette_issue": "4707",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4707.pdf",
+  "source_sha256": "5b0b945bbafd9514355682e1d3896b1703362038311ae1f3760d874529187d53",
+  "text_sha256": "7d76cafdbee63cd43e651be6f76ff6a87b101a41551322c6081012665d29bdeb",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      938,
+      990
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203970.pdf",
+    "source_sha256": "09a6f270713a9483e03693ffe38d4bfb15494de567be57a88f597dd384078640",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9757,
+    "bag": 0.891,
+    "kd_coverage": 0.9946,
+    "kd_body_compared": 0.9865,
+    "rg_words": 368,
+    "kd_words": 371,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
