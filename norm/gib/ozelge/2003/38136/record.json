@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5921-164",
+  "source_id": 38136,
+  "date": "2003-11-15",
+  "title": "Firmanızca Irak'a yapılacak elektrik ihracatı ile ilgili olarak elektrik üretiminde kullanılan...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38136",
+  "source_sha256": "f21d766c871ccb6dfaad28ba5913470a486d8898eff2746a4b4a42d81c2f5872",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
