@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 167603,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "4.4.2003 tarihli ve 4840 sayılı, 4811 Sayılı Vergi Barışı Kanununun Bazı Maddelerinde Değişiklik Yapılması Hakkında (1/559)",
+  "title": "4.4.2003 tarihli ve 4840 sayılı, 4811 Sayılı Vergi Barışı Kanununun Bazı Maddelerinde Değişiklik Yapılması Hakkında (1/559)",
+  "first_sitting_date": "2003-04-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 12,
+      "sitting": 66,
+      "sitting_date": "2003-04-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c012/tbmm22012066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c012/tbmm22012fih.pdf",
+      "pages": [
+        "20:21"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 68,
+      "sitting_date": "2003-04-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c012/tbmm22012068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c012/tbmm22012fih.pdf",
+      "pages": [
+        "245:250",
+        "279:302"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1277&v_gelecek_sayfa=101&v_kullanici_id=27484575",
+  "source_sha256": "bc12396442fe751348301cb3188b3aad4ebe351ab77f033396f584a0986ed8dd",
+  "in_force": "2003-04-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
