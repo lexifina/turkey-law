@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6518-77/52881",
+  "source_id": 38258,
+  "date": "2001-10-05",
+  "title": "İşini terk eden bir mükellefin, ödeme kaydedici cihazını vergi dairesine mührünü açtırıp gerekli tespitleri yaptırdıktan sonra yetkili servise müracaatla parçalarını satmak veya sair şekilde değerlendirmek suretiyle hurdaya ayırması mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38258",
+  "source_sha256": "b3d7793d644d83a41f89fb245d27be6dd4db7de67114288563a5186b48de1cd0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
