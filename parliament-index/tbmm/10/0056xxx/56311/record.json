@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 56311,
+  "assembly": "TBMM",
+  "term": 10,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "ÖMER FARUK SANAÇ (ELAZIĞ)",
+  "summary": "Sıhhat ve İçtimai Muavenet Vekâleti teşkilât ve memurları Kanununa bâzı hükümler eklenmesine ve 4258 sayılı Kanuna bağlı kadro cetvellerinin değiştirilmesine dair 4862 sayılı Kanuna bağlı «1» sayılı cetvelde değişiklik yapılmasına ve 3017 sayılı Kanunun 60. maddesinin tadiline dair (2/254)",
+  "title": "Sıhhat ve İçtimai Muavenet Vekâleti teşkilât ve memurları Kanununa bâzı hükümler eklenmesine ve 4258 sayılı Kanuna bağlı kadro cetvellerinin değiştirilmesine dair 4862 sayılı Kanuna bağlı «1» sayılı cetvelde değişiklik yapılmasına ve 3017 sayılı Kanunun 60. maddesinin tadiline dair (2/254)",
+  "first_sitting_date": "1956-02-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 32,
+      "sitting_date": "1956-02-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c010/tbmm10010032.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c010/tbmm10010fih.pdf",
+      "pages": [
+        "32:33"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 48,
+      "sitting_date": "1957-02-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c017/tbmm10017048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c017/tbmm10017fih.pdf",
+      "pages": [
+        "995"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 50,
+      "sitting_date": "1957-03-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c018/tbmm10018050.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c018/tbmm10018fih.pdf",
+      "pages": [
+        "27"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 51,
+      "sitting_date": "1957-03-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c018/tbmm10018051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c018/tbmm10018fih.pdf",
+      "pages": [
+        "42:43"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=539&v_gelecek_sayfa=301&v_kullanici_id=27484274",
+  "source_sha256": "1d41f7d4d02311a720dc962584a7b17b41ed8349c90d0c98f1934a3e6d466bde",
+  "in_force": "1956-02-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
