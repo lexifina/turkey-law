@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 —Bu Yönetmelik, Türk Mühendis ve Mimar Odaları Birliğine bağlı odalara kayıtlı mühendis, mimar ve şehir plancılarının meslek alanlarına yönelik, toplumun gereksinimlerini karşılamak doğrultusunda araştırma, inceleme, projelendirme, tasarım, raporlama, eğitim, uygulama ve teknik sorumluluğu üstlenme işlevleri kapsamında olan ve uzmanlık gerektiren hizmetler için yetkili üyelerin saptanması, eğitimi ve belgelendirilmesi esaslarını kapsar.

@@ -1,0 +1,1 @@
+Geçici Madde 2 —Bu Yönetmeliğin yayımlanmasından önce Oda’larca Türk Mühendis ve Mimar Odaları Birliği onayına sunularak Resmî Gazete'de yayımlanmış benzer yönetmelikler, 90 gün içerisinde bu Yönetmeliğe uygun hale getirilir.

@@ -1,0 +1,3 @@
+Uzmanlık Konuları ve Uzmanlık Konularının Belirlenmesi
+Madde 5 —Oda, öğrenim programlarını, uygulama alanlarını, mesleki bilimsel gelişmeleri, ülkenin teknolojik durumunu, kamuoyunun ve üyelerinin istemlerini dikkate alarak ve gerektiğinde oluşturacağı mesleki-bilimsel kurullara danışarak, üretilen ürün ya da hizmetlerde kamu yararına mesleki denetimin sağlanması konusunda mesleğin uzmanlık konularını ve uzmanlığın hangi koşullara göre belgelendirileceğini belirler.
+Oda Yönetim Kurulu, üyelerinin uzmanlık konuları ile belgelendirme esaslarını, TMMOB Yönetim Kurulu onayına sunmak zorundadır. TMMOB Birliği Yönetim Kurulu tarafından onaylanan uzmanlık konuları ve belgelendirme esasları üyeye Odaca duyurulur.
