@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.45/4500-31245/17462",
+  "source_id": 37884,
+  "date": "2001-04-02",
+  "title": "Arazi, arsa ve yedek parça sağlanması ve esas proje dışında münferit makina, tesisat, araç alımı dolayısıyla yapılan harcamalar, yatırım indirimine konu edilmez. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37884",
+  "source_sha256": "3fc2e80ba36d63af0a65845ef1057ecb812bbde6c696b86a184266eae9a6d607",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
