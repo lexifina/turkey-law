@@ -1,0 +1,2 @@
+Projelerin Sonuçlandırılması
+Madde 7 — Proje amacı ve hedefleri baz alınarak yapılan değerlendirme sonucunda, projelerin sonuçlandırılmasına Başkanlık karar verir. Proje; varsa ülkenin üstlenici kuruluşuna yoksa o ülkenin uygun görülecek birimlerine devredilir. Bu işlemi müteakip Başkanlığın parasal ve idari yükümlülükleri son bulur. Ancak, projenin sürdürülebilirliğini kontrol etmek amacıyla belirli aralıklarla yardım alan ülkenin üstlenici kuruluşundan bilgi istenebilir.
