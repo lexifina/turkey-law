@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-31336/16422",
+  "source_id": 37885,
+  "date": "2001-03-27",
+  "title": "Yatırım teşvik belgesine bağlı global listelerde belirtilen makine ve teçhizata yatırım indirimi uygulanıp uygulanmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37885",
+  "source_sha256": "2a7e3049598339c53ed7b423da54379a4aa74c15b592ad45287d7b82498db315",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
