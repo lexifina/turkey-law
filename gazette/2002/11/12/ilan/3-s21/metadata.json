@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-11-12",
+  "issue": "24934",
+  "edition": "regular",
+  "item": 21,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Kırıkkale Belediye Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021112-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (74 = 74)",
+  "ilan_codes": [
+    "31564/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021112-3.htm",
+  "category_page_sha256": "8ab2efbe8206d5e8eb21826041e299605529991941705a6f637761ad3bca058c",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021112.htm",
+  "index_sha256": "27e1713365a3a6a7dad671e0f8fbd8d45a87c9f8374c934f35c281c936e87e9c",
+  "index_header": "12 Kasım 2002 ... Sayı : 24934",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
