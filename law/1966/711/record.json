@@ -1,0 +1,157 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "711",
+  "year": 1966,
+  "title": "Nöbetçi memurluğu kurulmasını ve olağanüstü hal tatbikatlarında mesainin 24 saat devamını sağlayan Kanun",
+  "adopted": "1966-01-18",
+  "adopted_as_published": "18/01/1966",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.01.1966 No: 12213",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900711.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 49",
+  "committee_reports": [
+    {
+      "label": "MM 615 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043139ss0615.pdf"
+    },
+    {
+      "label": "CS 677ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031036ss0677ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 358192,
+      "title": "Nöbetçi memurluğu kurulmasını ve olağanüstü hal tatbikatlarında mesainin 24 saat devamını sağlayan Kanun",
+      "adopted_as_published": "18/01/1966",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900711.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 615 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043139ss0615.pdf"
+        },
+        {
+          "label": "CS 677ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031036ss0677ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 26,
+          "sitting": 45,
+          "sitting_date": "1964-01-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c026/mm__02026045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c026/mm__02026fih.pdf",
+          "pages": [
+            "161"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 72,
+          "sitting_date": "1965-03-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__02037072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__02037fih.pdf",
+          "pages": [
+            "264"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 137,
+          "sitting_date": "1965-06-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__02042137.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__02042fih.pdf",
+          "pages": [
+            "619"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 139,
+          "sitting_date": "1965-07-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__02043139.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__02043fih.pdf",
+          "pages": [
+            "6:11"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1401&v_kullanici_id=27483225",
+      "page_sha256": "cd42d09c6a7f2265b7adf2c54fcd3e4b997ddbf4325a82e9e798effbb57a88be"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 302441,
+      "title": "Nöbetçi memurluğu kurulmasını ve olağanüstü hal tatbikatlarında mesainin 24 saat devamını sağlıyan Kanun",
+      "adopted_as_published": "18/01/1966",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900711.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 615 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043139ss0615.pdf"
+        },
+        {
+          "label": "CS 677ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031036ss0677ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 30,
+          "sitting": 112,
+          "sitting_date": "1965-07-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c030/cs__05030112.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c030/cs__05030fih.pdf",
+          "pages": [
+            "133"
+          ]
+        },
+        {
+          "cilt": 30,
+          "sitting": 118,
+          "sitting_date": "1965-07-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c030/cs__05030118.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c030/cs__05030fih.pdf",
+          "pages": [
+            "510"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 36,
+          "sitting_date": "1966-01-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031fih.pdf",
+          "pages": [
+            "767:771"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=701&v_kullanici_id=27483235",
+      "page_sha256": "28c4c071a296cef811d1914cc4a93e05eb005f54447af6f75911f51122fe206f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cd42d09c6a7f2265b7adf2c54fcd3e4b997ddbf4325a82e9e798effbb57a88be",
+  "issuer": "Millet Meclisi",
+  "in_force": "1966-01-18",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 18/01/1966; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
