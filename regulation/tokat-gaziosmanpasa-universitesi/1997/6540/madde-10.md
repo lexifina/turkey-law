@@ -1,0 +1,1 @@
+Madde 10- Yönetim Kurulunun toplantı nisabı kurulu oluşturan üye tam sayısının yarısından bir fazlasıdır. Yönetim Kurulu kararları oy çokluğuyla alınır. Oylamada eşitlik olması halinde Başkanın oyu iki oy olarak kabul edilir.

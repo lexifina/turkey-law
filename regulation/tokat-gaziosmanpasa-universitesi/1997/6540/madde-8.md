@@ -1,0 +1,2 @@
+Yönetim Kurulu
+Madde 8- Merkez Müdürü, aynı zamanda Yönetim Kurulunun başkanıdır. Müdür yardımcıları da Yönetim Kurulunun üyesidir. Ayrıca Üniversitenin konu ile ilgili öğretim elemanları arasından, Merkez Müdürünün önerisi ve Üniversite Rektörü’nün uygun görüşü ile tespit edilen dört üyeden oluşur. Yönetim Kurulu Üyelerinin görev süresi üç yıldır. Süresi biten üyeler önerilerek seçilebilir. Süresi bitmeden ayrılan üyelerin sürelerini doldurmak üzere yenileri seçilir.
