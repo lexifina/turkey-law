@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102-136/11439",
+  "source_id": 23130,
+  "date": "1999-03-22",
+  "title": "Tavuk besiciliği faaliyetinden elde edilen kazancın tevkifat yapılmak suretiyle vergilendirilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23130",
+  "source_sha256": "43e5642bac27f4c1ecc31c264e346889b96189d511ff0212306d647dbb9a71ee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
