@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK- 18/2004/Beyanname Fotokopisi - 2",
+  "source_id": 639,
+  "date": "2004-02-27",
+  "title": "Basit Usule Tabi Mükelleflerce Yıllık Gelir Vergisi beyannamesinin fotokopisinin kullanılabileceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/639",
+  "source_sha256": "29443f6701a793496e663178f6d2cc302aacaf601f9c458977c6038a52e59730",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
