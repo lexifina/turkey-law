@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-912/41918",
+  "source_id": 38349,
+  "date": "1997-10-01",
+  "title": "Menkul değerlerle ilgili aracılık hizmeti veren şirketin aldığı komisyonun B.S.M.V. Açısından vergilendirilmesi hakında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38349",
+  "source_sha256": "8eab4ef780195eb0de9a368b764f679e5ce0cd5271fe56741310ee26d9e69238",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
