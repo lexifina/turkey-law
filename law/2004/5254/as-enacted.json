@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5254",
+  "year": 2004,
+  "title": "Güneydoğu Anadolu Projesi Bölge Kalkınma İdaresi Teşkilatının Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-11-11",
+  "gazette_issue": "25640",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/11/20041111.htm",
+  "source_sha256": "1de08cce4d5fa5a940f5909860a01906a2c885a95bb0e29329ae16fd0024539c",
+  "text_sha256": "cc112dfccd060f5bf9e6eb20478e10df6df6cc13b78c510ddf435fe8a1ea9fa2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/11/11/25640-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/11/20041111.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
