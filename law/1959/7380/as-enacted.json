@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7380",
+  "year": 1959,
+  "title": "Devlet kitapları mütedavil sermayesi hakkındaki 2133 sayılı Kanunun 2. maddesine bir fıkra ile aynı kanuna muvakkat bir madde eklenmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-11-26",
+  "gazette_issue": "10365",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10365.pdf",
+  "source_sha256": "2a57e3110bb2f812f42f69b959d2ec24ef4a8038bca75cca47697357f8e677cd",
+  "text_sha256": "3fdd2e0ea65d97d78a43a2c20f8305706c989aee8b4f33a0235ab64e0e9ee1db",
+  "text_status": "ocr",
+  "pages": [
+    10
+  ],
+  "line_span": [
+    [
+      1414,
+      1431
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/kanuntbmmc042/kanuntbmmc04207380.pdf",
+    "source_sha256": "c141fa7361275db1c51ff5a0871fc4fdfad678be1529a4497554f1d09590a59d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9697,
+    "bag": 0.9417,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9828,
+    "rg_words": 109,
+    "kd_words": 116,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
