@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3024-352-487/13090",
+  "source_id": 27176,
+  "date": "2001-03-02",
+  "title": "Vergi beyannamelerini kanuni süresinden sonra veren mükelleflere usulsüzlük cezası kesilmesi hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27176",
+  "source_sha256": "0646bdf84f3d05b3f46b48c2acacc583dad39ac675ed84ea475c6a0253a47a0f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
