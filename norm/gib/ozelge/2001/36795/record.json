@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1222/8656",
+  "source_id": 36795,
+  "date": "2001-02-12",
+  "title": "Şirket adına tahakkuk ettirilen temerrüt faizleri üzerinden kesilerek vergi dairesine yatırılan BSMV'lerin iade edilmesi mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36795",
+  "source_sha256": "192c8c92798d5c85e2d72f4b25d9a371fd2365943ebe7d8d4c2463a56efb8a14",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
