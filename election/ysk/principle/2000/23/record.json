@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2000/23",
+  "list_number": "23",
+  "decision_date": "2000-01-13",
+  "title": "YSK ilke kararı 2000/23",
+  "summary": "İl ve ilçe seçim kurullarının iki yıl süre ile Ocak ayının son haftası içinde yeniden kurulması yasal zorunluktur.",
+  "concepts": "İL VE İLÇE SEÇİM KURULLARININ YENİDEN OLUŞTURULMASI",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4381/2000-23-karar.htm",
+  "source_sha256": "1bcbdf2f1e16e1106bc5fe3e87ed2d5d7f6fd68572fcaa4dc854bb5409e40dcd",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "2000-01-13",
+  "law_text_complete": true
+}
