@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4576",
+  "year": 1944,
+  "title": "Askerlik Kanununun 61. maddesinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-06-09",
+  "gazette_issue": "5726",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5726.pdf",
+  "source_sha256": "b14271c29bf4b4ffcff9a18a23bed01098ea0e16d98f7731d2c8a40f8aaa1d0d",
+  "text_sha256": "71981f3fba1c2fe4cc25e36ea2f813c9223bf0f9fc50eee529b1f084a18db092",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      478,
+      519
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604576.pdf",
+    "source_sha256": "effbc399faed8c8d91c965eeb47d2dcd8ecddd524748d2f5e0fa4a9811469e33",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.975,
+    "bag": 0.9402,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9913,
+    "rg_words": 239,
+    "kd_words": 231,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
