@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2821",
+  "source_id": 36669,
+  "date": "2004-09-12",
+  "title": "YMM'lerin yaptıkları tasdik sırasında ilgili mevzuat çerçevesindeki sorumluluklarını yerine getirmemeleri veya bu görevlerini kusurlu olarak yerine getirmeleri halinde haklarında disiplin kovuşturması açılması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/36669",
+  "source_sha256": "ca660ef8c9c529879c1abb4d5a47f576e78ce0a6669ac49689aaedae66943e15",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
