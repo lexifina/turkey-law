@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.51/5144-475/50532",
+  "source_id": 24668,
+  "date": "2000-09-19",
+  "title": "Kanunla kurulmayan dernek adına 29/07/1998 tarihinden önce bankalarda açılmış olan vadeli hesaplara yürütülen faizlerden tevkifat yapılmayacak ancak, bu tarihten sonra açılan veya vadesi yenilenen hesaplara yürütülecek faizlerden gelir vergisi tevkifatı y",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24668",
+  "source_sha256": "36ce9b1906ccf324c5a16c37138557b2ccd6c2e193c6fb5a3b912f48615e9bed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
