@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4738",
+  "year": 2002,
+  "title": "Terörizmin Finansmanının Önlenmesine Dair Uluslararası Sözleşmenin Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2002-01-17",
+  "gazette_issue": "24643",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2002/01/20020117.htm",
+  "source_sha256": "d1c3bcfd4dad46bd750d138e238f233954770c593054527c064cb68831af0b42",
+  "text_sha256": "97e3777483de16dd9f125e423033d1ac0174b8ded12760fe850d11971ae0a5fd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2002/01/17/24643-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2002/01/20020117.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
