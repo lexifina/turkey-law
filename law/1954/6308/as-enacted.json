@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6308",
+  "year": 1954,
+  "title": "5979 sayılı Kanunun yürürlükten kaldırılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-08",
+  "gazette_issue": "8652",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8652.pdf",
+  "source_sha256": "9fb8a085bcc1365d5b0d61d884be5f728bd3ed6a2b2a4b6c6d2ed267a2c9ef67",
+  "text_sha256": "083be362abc4bf2fb7ad3c7bad1656dc4e59650b879f95e030ef332716d3e6e0",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      500,
+      508
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [4] (no text layer)",
+    "tesseract_pages": [
+      4
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606308.pdf",
+    "source_sha256": "2d185d662da46aa0c6ad437a65bfc95662b34fea949dfca1c081d413c7dcc596",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9202,
+    "bag": 0.8046,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.95,
+    "rg_words": 49,
+    "kd_words": 40,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
