@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5699",
+  "year": 1951,
+  "title": "Meşhut Suçların Muhakeme Usulü Hakkındaki Kanunun Bazı Maddelerinin Kaldırılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-01-19",
+  "gazette_issue": "7712",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7712.pdf",
+  "source_sha256": "3534e7fd9aa29b4e1aedd7ec1aeb5097a8b8c9c1d16e6e7add49d24780fe7d54",
+  "text_sha256": "1eb93606ac40f1022d814e74a3522a8633bfa2c6d7d3ae7645b1d955002c7e71",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      51,
+      60
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305699.pdf",
+    "source_sha256": "114f7b559052a72386363364e83115e4e07f091815737bfd0640dbbd9f451f56",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9427,
+    "bag": 0.8571,
+    "kd_coverage": 0.9778,
+    "kd_body_compared": 0.9375,
+    "rg_words": 46,
+    "kd_words": 48,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
