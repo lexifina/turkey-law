@@ -1,0 +1,16 @@
+{
+  "case_number": "1999/9",
+  "decision_date": "1999-03-11",
+  "in_force": "1999-03-11",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-norm-review",
+  "number": "1999/4",
+  "omitted_images": 0,
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1999/4",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "0dd51c16e9cab8c6035145b168ea790a52bcb2afb146c564384a2bbbc0e27657",
+  "version_label": "as-enacted"
+}
