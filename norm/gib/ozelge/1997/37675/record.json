@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5111-44/19341",
+  "source_id": 37675,
+  "date": "1997-05-09",
+  "title": "Limited şirketin aktif ve pasifiyle kül halinde başka bir limited şirkete devredilmesi halinde ve devralan şirketin, devrden şirkete ait gayrimenkulü satarak satıştan doğan kazancı sermayeye eklemesi halinde, satıştan doğan kazancın kurumlar vergisine tab",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37675",
+  "source_sha256": "72356e5820ec4447f1ef6615efcf4ac1e52fbedd55b4e866aa6984efc1b8820c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
