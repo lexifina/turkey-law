@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 622730,
+  "assembly": "TBMM Kapalı Oturumlar",
+  "heading": "TASARI VE TEKLİFLER",
+  "heading_as_published": "Tasarı Ve Teklifler",
+  "summary": "Türk Ceza Kanununun bazı maddelerinin değiştirilmesi hakkında kanun tasarısı. (1/103,2/37,219,235)",
+  "title": "Türk Ceza Kanununun bazı maddelerinin değiştirilmesi hakkında kanun tasarısı. (1/103,2/37,219,235)",
+  "first_sitting_date": "1951-11-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": null,
+      "sitting": 6,
+      "sitting_date": "1951-11-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/GZC/d09/CILT10/gcz09010006.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": null,
+      "pages": [
+        "4:45"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=11&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARI%20VE%20TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=11&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARI%20VE%20TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "fad4a863ff0c24c15850518089dcb643bb59cdde046c5139c00081d63ef00380",
+  "in_force": "1951-11-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
