@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4980",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Yugoslavya Federal Cumhuriyeti Federal Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğun Dair Kanun",
+  "adopted": "2003-10-02",
+  "adopted_as_published": "02/10/2003",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09.10.2003 No: 25254",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08804980.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 88",
+  "committee_reports": [
+    {
+      "label": "TBMM 195 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c027/tbmm22027002ss0195.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 207519,
+      "title": "Türkiye Cumhuriyeti Hükümeti ve Yugoslavya Federal Cumhuriyeti Federal Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğun Dair Kanun",
+      "adopted_as_published": "02/10/2003",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08804980.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 195 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c027/tbmm22027002ss0195.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 27,
+          "sitting_date": "2003-01-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003027.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003fih.pdf",
+          "pages": [
+            "546"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 98,
+          "sitting_date": "2003-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c019/tbmm22019098.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c019/tbmm22019fih.pdf",
+          "pages": [
+            "258"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 6,
+          "sitting_date": "2003-10-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c027/tbmm22027006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c027/tbmm22027fih.pdf",
+          "pages": [
+            "53:56",
+            "229:252"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=201&v_kullanici_id=27483198",
+      "page_sha256": "279fbda299ebb8ffb2c98e49d95591811569006030ab91c6e92bb9737e7dd9e7"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "279fbda299ebb8ffb2c98e49d95591811569006030ab91c6e92bb9737e7dd9e7",
+  "issuer": "TBMM",
+  "in_force": "2003-10-02",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 02/10/2003; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
