@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 157311,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "TBMM üyeleri, Senato ve Millet Meclisi Başkanlariyle, Başkanvekilleri, İdare Âmirleri, Denetçiler, Başkanlık Divanı Kâtipleri ve Bakanlar Kurulu üyelerinin İstihkakları hakkında Millet Meclisince kabul olunan kanun hakkında (Millet Meclisi 2/7, Cumhuriyet Senatosu 2/1)",
+  "title": "TBMM üyeleri, Senato ve Millet Meclisi Başkanlariyle, Başkanvekilleri, İdare Âmirleri, Denetçiler, Başkanlık Divanı Kâtipleri ve Bakanlar Kurulu üyelerinin İstihkakları hakkında Millet Meclisince kabul olunan kanun hakkında (Millet Meclisi 2/7, Cumhuriyet Senatosu 2/1)",
+  "first_sitting_date": "1962-01-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 20,
+      "sitting_date": "1962-01-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c001/cs__01001020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c001/cs__01001fih.pdf",
+      "pages": [
+        "293",
+        "366",
+        "369:379"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2e6d2a64cafaed3a62bb4f4cc81182c6ea559de9b7e93558bce17b93db24d55b",
+  "in_force": "1962-01-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
