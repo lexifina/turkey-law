@@ -1,0 +1,1 @@
+Madde 10 – Namına tescilini talep eden son zilyedin tasarruf müddeti kendine tekaddüm eden zilyedlerin müddetlerine eklenmek suretiyle doluyorsa bunlar arasında tevarüs ve tedavül gibi hukuki alakadan mütevellit irtibatın mevcudiyeti lazımdır. Bu irtibatın mevcut olmaması zilyetler arasında münazaa hudusunu tazammun ettiğinden hükmen halli lazımdır.

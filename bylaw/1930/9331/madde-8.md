@@ -1,0 +1,4 @@
+Madde 8 – Komisyonlar kaza ve nahiya tapu memurları tarafından gönderilecek veyahut vilayet tapu idarelerinden tevdi olunacak evrak üzerinde tetkikatını yaparken bilhassa 1515 numaralı kanunun birinci maddesinde izah olunan şartların temamen mevcudiyetini nazarı itibare almakla beraber aşağıdaki hususata da dikkat edeceklerdir.
+A – Gayrimenkulün Kanunu Medeninin mer'iyetinden mukaddem nevine göre en az on beş veya on sene evvel kayıt sahibinin mülkiyetinden gayriresmi satış veya mümasil bir iktisap sebebiyle çıkmış olması,
+B – Zilyedin Kanunu Medeninin mer'iyeti tarihine kadar malik sıfatiyle ve kanuni niza olmaksızın ve hüsnü niyetle müsakkaf ve bu hükümde bulunan bağ ve bahçe veyahut arsalarda on beş ve arazide on sene müddetle temellük etmiş bulunması.
+C – Eğer zilyet gayrimenkulü kayıt sahibinden veya kanuni halefinden başka bir kimseden almış ise o kimse ile asıl kayıt sahipleri arasında hukuki irtibatın mevcudiyeti.

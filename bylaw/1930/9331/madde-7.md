@@ -1,0 +1,1 @@
+Madde 7 – Komisyonlarca evrakın vürudundan itibaren nihayet on beş gün zarfında bir karar verilmesi mecburidir. Esbabı mania dolayısiyle bu müddet zarfında karara rapt olunmazsa kararda bu teehhür sebepleri de gösterilmelidir.

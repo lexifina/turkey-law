@@ -1,0 +1,1 @@
+Madde 13 – Mukayyet bir gayrimenkul resmi bir şekilde aharin mülkiyetine geçmiş ve bu nama da kayıt tesis edilmiş iken muahharen ve yine evvelki kayıt sahibinden intikal etmek suretiyle ikinci bir kaydın daha yütüldüğü görülür ise yalnız intikalen teşkil edilmiş olan muahhar kayda keyfiyet şerh, olunarak bunun iptaline karar verilmesi re'sen mahkemeden talep olunur.

@@ -1,0 +1,1 @@
+Madde 3 – Tapuda mukayyet ve gayrın lehine İşbu Nizamnamede muharrer iktisap şeraitine maruz olan gayrimenkul mahcuz veya merhun olduğu takdirde hacız veya rehin kaydi alakadarlarının rızasiyle veya mahkeme karariyle ref ve terkin olununcaya kadar zilyed namına tescil edilemez. Şu kadar ki altıncı maddedeki komisyon karariyle kaydına bir şerh verilir.
