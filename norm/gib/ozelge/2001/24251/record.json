@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4065-21/28242",
+  "source_id": 24251,
+  "date": "2001-05-28",
+  "title": "4325 sayılı Kanuna göre istisnadan yararlanılıp yararlanılamayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24251",
+  "source_sha256": "9045956fc0393be8434713d89d84a337ac7727177024b57d3b2f460a2084ec3e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
