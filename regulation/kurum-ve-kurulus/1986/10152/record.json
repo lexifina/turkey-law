@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.10152",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET KONSERVATUVARLARI ORTA VE LİSE DEVRELERİ ÖĞRENCİ DİSİPLİN YÖNETMELİĞİ",
+  "number": "10152",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1986/10152",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10152&MevzuatTertip=5",
+  "source_sha256": "eb966caa9461645776cf54ecec85aa4ada396e328e7202fdfbc59468d9340ab0",
+  "source_bytes": 80173,
+  "published": "1986-05-26",
+  "gazette": "19118",
+  "in_force": "1986-05-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.05.1986); own commencement article: \"Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3982,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

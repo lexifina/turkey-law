@@ -1,0 +1,6 @@
+Savunma Hakkı
+MADDE 18. Hakkında disiplin soruşturması açılan öğrenciye işlediği iddia olunan suçun neden ibaret olduğu, savunmasını yapacağı tarihten en az üç gün önce yazılı olarak bildirilir. Bu yazıda öğrenciden savunmasını yapmak üzere belirtilen gün, saat ve yerde hazır bulunması istenir. Tebligat yapılmasının mümkün olmadığı hallerde, öğrencinin savunmasını yapmak üzere soruşturmacıya başvurması hususu, kurumun belirli yerlerinde ilan edilir.
+Öğrenciye yollanacak davetiyede, çağrıya özürsüz olarak uymadığı veya özürünü zamanında bildirmediği takdirde, savunmadan vazgeçmiş sayılacağı ve diğer delillere dayanılmak suretiyle hakkında gerekli kararın verileceği kaydolunur.
+Makbul sayılan bir özür bildiren veya mücbir sebep dolayısıyla davete uymadığı anlaşılan öğrenciye yeniden uygun bir süre verilir veya belirtilecek bir süre içinde yazılı savunmasını göndermesi istenir. Tutuklu öğrencilere savunmalarını yazılı olarak gönderebilecekleri duyurulur.
+Her türlü tebligat işlerinde, bu Yönetmeliğin 38.ve 40. maddeleri hükümleri uygulanır.
+Soruşturma, öğrencinin kendini gereği gibi savunmasına imkan verecek şekilde yürütülür. Ancak, savunma bahanesiyle soruşturmanın uzatılmasına imkan verilmez.

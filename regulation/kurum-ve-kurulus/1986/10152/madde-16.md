@@ -1,0 +1,2 @@
+Soruşturma Süresi
+MADDE 16. Disiplin soruşturmasına, olayın öğrenilmesini izleyen ilk iş gününde başlanır, soruşturmanın soruşturmacı tayini suretiyle yapılması halinde, soruşturma kararı geciktirilmeden soruşturmacıya bildirilir. Soruşturmacı, soruşturmayı kararın kendisine tebliğinden itibaren onbeş gün içinde bitirir. Bu süre içinde soruşturmanın tamamlanamaması halinde, soruşturmacı gerekçeli olarak ek süre talebinde bulunur. Disiplin amiri ek süre verebilir.

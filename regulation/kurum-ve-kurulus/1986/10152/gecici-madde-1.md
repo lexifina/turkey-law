@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 1. Bu Yönetmeliğin yürürlüğe girdiği tarihten önce işlenmiş bulunan ve disiplin cezasını gerektiren suçlar hakkında bu konuları düzenleyen ve daha önce yürürlükte olan ceza hükümleri uygulanır.
+Yönetmeliğin 36. maddesinde yer alan disiplin soruşturmasına başlama ile ilgili zaman aşımı süresine ilişkin hükümler, bu Yönetmeliğin yürürlüğe girmesinden önce işlenen suçlara uygulanmaz. Ancak bu Yönetmeliğin yayımlanmasından önce işlenmiş suçlara ilişkin işlemler, yayım tarihinden itibaren en geç iki yıl içinde sonuçlandırılır.

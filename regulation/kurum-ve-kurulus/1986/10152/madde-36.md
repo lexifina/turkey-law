@@ -1,0 +1,5 @@
+Zaman aşımı
+MADDE 36. Bu Yönetmelik’te sayılan disiplin suçlarını işleyen öğrenciler hakkında, suçun işlendiğinin soruşturmaya yetkili amirlerce öğrenildiği tarihten itibaren:
+a) Uyarma, kınama ve bir haftadan bir aya kadar uzaklaştırma cezalarını gerektiren suçlar bakımından bir ay içinde,
+b) Bir öğretim yılı uzaklaştırma, bir öğretim yılı uzaklaştırma ve zorunlu kurum değiştirme cezaları ile konservatuvardan çıkarma cezasını gerektiren suçlar bakımından altı ay içinde disiplin soruşturmasına başlanmadığı takdirde, disiplin cezası verme yetkisi zaman aşımına uğrar.
+Disiplin cezasını gerektiren suçların işlendiği tarihten itibaren iki yıl içinde disiplin cezası verilmediği takdirde ise, ceza verme yetkisi zaman aşımına uğrar. Ancak, disiplin amir veya kurulu tarafından bir adli yargı hükmüne ihtiyaç duyulduğu hallerde bu zaman aşımı süresi, adli yargı hükmünün kesinleştiği günden itibaren başlar. Anılan ihtiyaç, yetkili disiplin amir veya kurulunun alacağı bir ara kararı ile tespit edilir.

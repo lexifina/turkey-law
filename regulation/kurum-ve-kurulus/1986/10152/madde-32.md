@@ -1,0 +1,6 @@
+Kurul Çalışmalarının Düzenlenmesi
+Disiplin cezası verilirken dikkat edilecek hususlar:
+MADDE 32. Öğrencinin davranışının niteliğine, kendisinin kurum içinde ve dışında genel durumuna, yaşına, derslerindeki ilgi ve başarısına, aynı öğretim yılı içinde daha önce ceza alıp almadığına, davranışın ne gibi şartlar altında yapıldığına, bu davranışta bulunduğu zamanki psikolojik durumuna bakılarak ve varsa gereken durumlarda rehberlik servisinin kayıtlarından da yararlanılarak bir alt derece ceza verilebilir.
+Toplu olarak işlenen disiplin suçlarında, suçlular tek tek tespit edilmediği takdirde, topluluğu oluşturan öğrencilerin her birine yetkili amir veya kurullarca uygun görülecek ceza verilir.
+Tek başlarına ve kasıtsız olarak işlendikleri zaman yalın bir disiplin olayı görünümünü verebilecek davranışlardan öğrenim özgürlüğüne, can güvenliğine ve kurum yönetiminin sağlıklı işleyişine doğrudan yönelik veya toplu bir eylemin parçası olarak yapıldığı tespit edilenleri işlemiş olan bir öğrenci ağır cezayı gerektiren davranışlarda bulunmuş sayılır ve niteliklerine göre 5. maddenin c,d,e,f, fıkralarında gösterilen cezalardan biriyle cezalandırılır.
+Konservatuvarın orta devresinde kayıtlı ve 15 yaşından küçük olan öğrencilere uyarma, kınama ve bir haftadan bir aya kadar uzaklaştırma cezalarından başka ceza verilmez.
