@@ -1,0 +1,21 @@
+Tanımlar
+Madde 3 — Bu Yönetmelikte yer alan;
+a) Kanun: 4915 sayılı Kara Avcılığı Kanununu,
+b) Bakanlık: Çevre ve Orman Bakanlığını,
+c) Bakan: Çevre ve Orman Bakanını,
+d) Genel Müdürlük: Doğa Koruma ve Millî Parklar Genel Müdürlüğünü,
+e) İl Müdürlüğü: İl Çevre ve Orman Müdürlüğünü,
+f) Av Hayvanı: Kanun kapsamında avlanan, korunan ve Bakanlıkça belirlenen listede yer alan hayvanları,
+g)Yaban Hayvanı: Sadece suda yaşayan memeliler dışında kalan ve Bakanlıkça belirlenen bütün memelileri, kuşları ve sürüngenleri,
+h) Endemik Tür: Sadece bir bölgede bulunan, diğer bölgelerde bulunmayan türleri,
+i) Hedef Tür: Yaban hayatı koruma ve yaban hayatı geliştirme sahalarında sahanın ayrılmasına gerekçe olan türü veya türleri,
+j) Avlak: Av ve yaban hayvanlarının doğal olarak yaşadıkları veya sonradan salındıkları sahaları,
+k) Özel Avlak: Bir bütün teşkil eden özel mülkiyetteki tapulu arazilerden, Bakanlığın avlaklar için tespit ettiği ve tanımladığı şartlara uygun olan avlakları,
+l) Devlet Avlağı: Devlet ormanları, toprak muhafaza ve ağaçlandırma sahaları ve benzeri yerlerle Devlet tarım işletmeleri, baraj gölleri ve emniyet sahalarında, ilgili kuruluşun muvafakatı alınarak Bakanlıkça avlak olarak ayrılan yerleri,
+m) Genel Avlak: Özel ve devlet avlakları dışında kalan bütün av sahaları ile göl, lagün, bataklık ve sazlık gibi sahaları,
+n) Örnek Avlak: Devlet avlakları ve genel avlaklar içinde Bakanlıkça belirlenecek esaslara göre ayrılan ve işletilen veya işlettirilen avlakları,
+o) Avlanma Planı: Envanteri yapılan, sınırları belli bir avlak alanında, avlanmasına izin verilen av hayvanlarının tür, yaş itibariyle kaç adet ve hangi usul ve kurallara uyularak ne kadar süre içerisinde avlanacağını düzenleyen ve yaşama ortamının geliştirilerek sürdürülmesi için gerekli önlemleri öngören ve Genel Müdürlükçe onaylanmış planı,
+p) Yaban Hayatı Koruma Sahası: Yaban hayatı değerlerine sahip, korunması gerekli yaşam ortamlarının bitki ve hayvan türleri ile birlikte mutlak olarak korunduğu ve devamlılığının sağlandığı sahaları,
+r) Yaban Hayatı Geliştirme Sahası: Av ve yaban hayvanlarının ve yaban hayatının korunduğu, geliştirildiği, av hayvanlarının yerleştirildiği, yaşama ortamını iyileştirici tedbirlerin alındığı ve gerektiğinde özel avlanma plânı çerçevesinde avlanmanın yapılabildiği sahaları,
+s) Saha Bekçisi: Yaban hayatı koruma ve geliştirme sahaları ile avlaklarda koruma görevi verilen memur ve işçi statüsünde çalışan personeli,
+ifade eder.

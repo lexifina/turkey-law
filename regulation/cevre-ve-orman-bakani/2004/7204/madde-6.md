@@ -1,0 +1,3 @@
+Temel İlkeler
+Madde 6 — Yaban hayatı koruma ve geliştirme sahaları, yaban hayvanlarının barınma, beslenme ve üreme gibi yaşamsal ihtiyaçlarını temin edebileceği uygun yaşama şartlarına sahip, hedef tür ve/veya türlerin yıl içerisindeki mevsimsel olarak yaptıkları göç ve yayılma alanlarını, üreme alanlarını ve göç yollarını içeren, geliştiren ve artan popülasyonu barındırabilecek büyüklükte olmalıdır.
+Bu alanlarda koruma altına alınacak tür ve türlerin üreyip çoğalmalarına imkan sağlayacak popülasyon büyüklüğü bulunmalıdır. Ancak endemik, nesli tehlike altında olan veya benzer statüde bulunan türlerin popülasyon miktarına bakılmaksızın yaşama alanları, yaban hayvanı koruma sahası olarak ilan edilir.

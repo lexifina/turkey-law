@@ -1,0 +1,2 @@
+Avlanma
+Madde 20 — Yaban hayatı geliştirme sahalarında alandaki hedef tür veya türlerin, alanın taşıma kapasitesine ulaşıncaya kadar avlanma yasaktır. Ancak bireylerde genetik deformasyon, eşey oranları ve yaş dikkate alınarak Genel Müdürlüğün belirleyeceği esaslara göre bu alanlarda taşıma kapasitesine ulaşmadan av yaptırılabilir. Hedef tür ve/veya türler, taşıma kapasitesine ulaştıktan sonra, Genel Müdürlük tarafından avlanma planları onaylanan sahalardan uygun görülenler, örnek avlak olarak ayrılır. Bu alanlarda avlanma, planlarda belirtilen yıllık kotalara göre yapılır.

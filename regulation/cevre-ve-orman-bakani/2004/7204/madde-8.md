@@ -1,0 +1,2 @@
+Yaban Hayatı Koruma ve Geliştirme Sahalarının Teklifi
+Madde 8 — Yaban hayatı koruma ve geliştirme sahası olarak teklif edilecek sahalar için, İl Müdürlüğü tarafından oluşturulacak bir komisyon marifetiyle yerinde yapılan inceleme sonucunda Ek-1’de örneği bulunan ön etüt raporu, alan üzerinde yetki ve sorumluluğu bulunan tüm kurum ve kuruluşların uygun görüşünü alarak tanzim edilir ve alanın 1/25.000’lik haritası ile birlikte Genel Müdürlüğe gönderilir.
