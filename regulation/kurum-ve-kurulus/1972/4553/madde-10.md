@@ -1,0 +1,1 @@
+Madde 10- Eser veya işlenmenin çoğaltma ve yayma ücretinin %75’ine kadarı basım kararından sonra avans olarak, geri kalanı basımı tamamlandıktan sonra, ödenir. Dergide basılacak makalelerin çoğaltma ve yayma ücretleri basım işi tamamlandıktan sonra ödenir.

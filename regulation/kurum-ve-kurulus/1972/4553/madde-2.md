@@ -1,0 +1,2 @@
+Yayın Kurulu
+Madde 2- Bu Yönetmelikte belirtilen görevleri yapmak üzere beş kişilik bir Yayın Kurulu kurulur. Yayın Kurulu, Genel Müdür veya Yardımcısının başkanlığında toplanır. Derleme ve Yayın Şubesi Müdürü Kurulun doğal üyesidir. Geri kalan üç üye İcra Komitesi tarafından Enstitü öğretim üyeleri arasından her bütçe yılı başında bir yıl için seçilir. Bunlardan birinin dışarıdan seçilmesi mümkündür.

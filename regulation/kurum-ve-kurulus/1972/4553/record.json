@@ -1,0 +1,36 @@
+{
+  "source_id": "7.5.4553",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE VE ORTA DOĞU AMME İDARESİ ENSTİTÜSÜ YAYIN YÖNETMELİĞİ",
+  "number": "4553",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1972/4553",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4553&MevzuatTertip=5",
+  "source_sha256": "d2c7f4d12a7560a14b4d180816256101a34a4bfc41f6a3530e04af4a6a30ebcb",
+  "source_bytes": 21180,
+  "published": "1972-02-24",
+  "gazette": "14109",
+  "in_force": "1972-02-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.02.1972); own commencement article: \"bu Yönetmelik Resmî Gazetede yayınlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik Resmî Gazetede yayınlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 742,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "/yonetmelik/text.aspx#_ftn1",
+    "/yonetmelik/text.aspx#_ftn2",
+    "/yonetmelik/text.aspx#_ftn3",
+    "/yonetmelik/text.aspx#_ftn4"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

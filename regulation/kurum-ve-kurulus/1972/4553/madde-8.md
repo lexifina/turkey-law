@@ -1,0 +1,2 @@
+Çoğaltma ve Yayma Ücretinin Hesaplanması
+Madde 8- Eserlerin ve işlenmelerin çoğaltma ve yayma ücreti itibarî sayfa esası üzerinden hesaplanır. İkiyüz kelimelik metin bir itibarî sayfa sayılır. Sayfa adedinin hesaplanmasında kelimeler teker teker sayılır. Çevirilerde itibarî sayfa hesabında çeviri metni esas alınır. Hazırlanması özel bir çabayı gerektiren tablo, grafik, cetvel ve dizin gibi çalışmalar basıldıkları zaman kitapta alacakları yere göre santimetrekaresi iki kelimelik bir metin sayılır.
