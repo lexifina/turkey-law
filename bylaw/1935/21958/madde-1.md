@@ -1,0 +1,1 @@
+Madde 1 – Her hangi din ve mezhepte olurlarsa olsunlar mensup oldukları din ve mezheplerin usul ve teamüllerine göre mabet ve ayinlerde ruhani kisve taşımakla mükellef olanlar mahalli Hükümetlerince alakadar olanlardan alınacak listeler mucibince ancak mabet ve ayinlerde ruhani kisve taşımağa mezun addolunurlar.
