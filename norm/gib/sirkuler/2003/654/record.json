@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-3/2003-3/Bireysel Emeklilik Sistemi-1",
+  "source_id": 654,
+  "date": "2003-08-13",
+  "title": "Bireysel emeklilik sistemi ve diğer şahıs sigortalarına ödenen katkı payı ve primlerin matrahın tespitinde indirimi ve elde edilen gelirlerin vergilendirilmesi anlatılmıştır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/654",
+  "source_sha256": "5320199fc0bd35a97908c887c2dbc8c3b479bd19d2b4fb346008c313bb3b21bc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
