@@ -1,0 +1,3 @@
+Mecburi Hizmet:
+Madde 12- Parasız yatılı olarak okuyan öğrenciler Yurt İçinde Mecburi Hizmet Karşılığı Öğrenci Okutma ve İhtisas Yaptırma Yönetmeliği hükümlerine göre hazırlanan taahhütname ve kefaletnameyi imzalamak ve/veya imzalatmak, ayrıca bu taahhütname ve kefaletname ile genel hükümler dairesinde Hacettepe Üniversitesinde veya göstereceği yerde mecburi hizmet ifa etmekle yükümlüdürler.
+Sağlık sebebi hariç, taahhütname ve kefaletname, bu yönetmelik ve Yurt İçinde Mecburi Hizmet Karşılığı Öğrenci Okutma ve İhtisas Yaptırma Yönetmeliğinde belirtilen yükümlülüklere uymayanlar hakkında ayrıca taahhütname ve kefaletname hükümleri ile 657 sayılı kanun hükümleri uygulanır.

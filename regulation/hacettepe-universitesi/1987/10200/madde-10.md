@@ -1,0 +1,1 @@
+Madde 10- Öğretim yılı sonunda başarısız olan öğrencilerin parasız yatılılıkları aynı devrede evvelce sınıfta kalmamış olma şartı ile bir sonraki öğretim yılında devam eder. Yine başarısızlık halinde parasız yatılılık hakkı öğrencinin kayıtlı bulunduğu devre için düşer.
