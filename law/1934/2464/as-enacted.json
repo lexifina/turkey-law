@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2464",
+  "year": 1934,
+  "title": "Tapu ve Kadastro Umum Müdürlüğü kadro cetvelinde bazı değişiklikler yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-05-30",
+  "gazette_issue": "2714",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2714.pdf",
+  "source_sha256": "066bf714233fcafb7a6bf284362d1f1caf427a0ab83d01c41d6cba97faf26adc",
+  "text_sha256": "afa32adef7772ab1516821317accc34ee5f913d8231d6abeec48957b458a81ad",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      944,
+      1119
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302464.pdf",
+    "source_sha256": "2d5464bd9b0896e4a3fad42db0015cf9ed68ae7696d09e28d4dbb038db85e67e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.816,
+    "bag": 0.9581,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 270,
+    "kd_words": 279,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
