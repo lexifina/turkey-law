@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "Millet Meclisi",
+  "assembly": "MİLLET MECLİSİ",
+  "term_label": "2. Dönem",
+  "cilt": 4,
+  "sitting": 51,
+  "label": "51. Birleşim",
+  "sitting_date": "1966-02-20",
+  "date_as_published": "20 Şubat 1966",
+  "weekday": "Pazar",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004051.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004051gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=4&meclis_kisa_adi=MM&diger_donem_adi=d02",
+  "source_sha256": "69e3d6a168805d7bd06160ff50b58e010a8c73c9bd5f91dd5a3962fce6aec199",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
