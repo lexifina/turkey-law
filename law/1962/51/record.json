@@ -1,0 +1,147 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "51",
+  "year": 1962,
+  "title": "2004 sayılı İcra ve İflâs Kanununun 3890 sayılı Kanunla muaddel 76. maddesinin değiştirilmesine dair Kanun",
+  "adopted": "1962-05-24",
+  "adopted_as_published": "24/05/1962",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.06.1962 No: 11117",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500051.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 45",
+  "committee_reports": [
+    {
+      "label": "MM 55 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004073ss0055.pdf"
+    },
+    {
+      "label": "CS 60no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004065ss0060.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 335365,
+      "title": "2004 sayılı İcra ve İflâs Kanununun 3890 sayılı Kanunla muaddel 76. maddesinin değiştirilmesine dair Kanun",
+      "adopted_as_published": "24/05/1962",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500051.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 55 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004073ss0055.pdf"
+        },
+        {
+          "label": "CS 60no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004065ss0060.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 32,
+          "sitting_date": "1962-01-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c001/mm__01001032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c001/mm__01001fih.pdf",
+          "pages": [
+            "659"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 71,
+          "sitting_date": "1962-04-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+          "pages": [
+            "304"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 73,
+          "sitting_date": "1962-04-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+          "pages": [
+            "436:440"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 74,
+          "sitting_date": "1962-04-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004074.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+          "pages": [
+            "532:533"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1601&v_kullanici_id=27483225",
+      "page_sha256": "bbdd867e769c8bf5b4742e47e941c611bd3a2472815a799bfa1c73e5cfba7238"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 156399,
+      "title": "2004 sayılı İcra ve iflâs Kanununun 3890 sayılı Kanunla muaddel 76 ncı maddesinin değiştirilmesine dair Kanun",
+      "adopted_as_published": "24/05/1962",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500051.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 55 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004073ss0055.pdf"
+        },
+        {
+          "label": "CS 60no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004065ss0060.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 54,
+          "sitting_date": "1962-04-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c003/cs__01003054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c003/cs__01003fih.pdf",
+          "pages": [
+            "460"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 63,
+          "sitting_date": "1962-05-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004063.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+          "pages": [
+            "170",
+            "198:199"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "1d71d5ca37a597738ce2edfca2bb8ceb18a16f1ab45d81f98c9f010fbc9ac7a2"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "bbdd867e769c8bf5b4742e47e941c611bd3a2472815a799bfa1c73e5cfba7238",
+  "issuer": "Millet Meclisi",
+  "in_force": "1962-05-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 24/05/1962; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
