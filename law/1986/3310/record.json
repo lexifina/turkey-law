@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3310",
+  "year": 1986,
+  "title": "1402 Sayılı Sıkıyönetim Kanununun Değişik 3. Maddesinin Birinci Fıkrasının (r) Bendi ile 2935 Sayılı Olağanüstü Hal Kanununun 11. Maddesine (p) Bendi Eklenmesi Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun",
+  "adopted": "1986-09-03",
+  "adopted_as_published": "03/09/1986",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "10.09.1986 No: 19217",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc070/kanuntbmmc070/kanuntbmmc07003310.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 70",
+  "committee_reports": [
+    {
+      "label": "TBMM 469 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031003ss0469.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 249449,
+      "title": "1402 Sayılı Sıkıyönetim Kanununun Değişik 3. Maddesinin Birinci Fıkrasının (r) Bendi ile 2935 Sayılı Olağanüstü Hal Kanununun 11. Maddesine (p) Bendi Eklenmesi Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun",
+      "adopted_as_published": "03/09/1986",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc070/kanuntbmmc070/kanuntbmmc07003310.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 469 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031003ss0469.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 31,
+          "sitting": 1,
+          "sitting_date": "1986-09-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031001.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031fih.pdf",
+          "pages": [
+            "8"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 2,
+          "sitting_date": "1986-09-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031002.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031fih.pdf",
+          "pages": [
+            "74",
+            "78"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 3,
+          "sitting_date": "1986-09-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031003.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031fih.pdf",
+          "pages": [
+            "126:159"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=301&v_kullanici_id=27483190",
+      "page_sha256": "a89a8099205e99f3a3db082e7b9daccd4c0c77c77adee9bd7d62596a8857dc62"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a89a8099205e99f3a3db082e7b9daccd4c0c77c77adee9bd7d62596a8857dc62",
+  "issuer": "TBMM",
+  "in_force": "1986-09-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 03/09/1986; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
