@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "SM,SMMM,YMM-1/2004-1/ Tasdik Raporu",
+  "source_id": 1070,
+  "date": "2004-05-27",
+  "title": "Yeminli Mali Müşavirlerce 2003 yılına ilişkin olarak düzenlenecek olan söz konusu Tasdik Raporlarının; beyanname verme konusunda kendilerine süre verilip verilmediğine bakılmaksızın, Gelir Vergisi mükellefleri için Mayıs ayı sonuna kadar, Kurumlar Vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/sirkuler/1070",
+  "source_sha256": "5f4d1f38b78def2b744903bd06ac9469ca66396988e1d20633c61d3fee072777",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
