@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 22,
+  "legislative_year": 1,
+  "esas_no": "7/733",
+  "submitted": "2003-06-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Atilla KART",
+  "province": "Konya",
+  "summary": "Konya-Cihanbeyli-Yeniceoba havzasındaki sulama yatırımlarına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bd-b2dd-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "8dea585d3fc278262ce9f00ec3408ce7a6b72f77229de75504d1326d5a0a80fe",
+  "in_force": "2003-06-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
