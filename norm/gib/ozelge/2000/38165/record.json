@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6207/467/12679",
+  "source_id": 38165,
+  "date": "2000-03-22",
+  "title": "Mükelleflerce belediyelere mükerrer olarak yatırılan vergi, resim ve harçların daha sonra iadesi sırasında düzenlenen kağıt Damga Vergisine tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38165",
+  "source_sha256": "d43a28cc61ebb6fca73c365b5729588840d2b17a6d9106ee1bd016f6d5919d54",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
