@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 320512,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Gümrük kanunu tasarısı (Millet Meclisi:1/155;C.Senatosu:1/84) (S. Sayısı:121)",
+  "title": "Gümrük kanunu tasarısı (Millet Meclisi:1/155;C.Senatosu:1/84) (S. Sayısı:121)",
+  "first_sitting_date": "1972-06-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 64,
+      "sitting_date": "1972-06-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004fih.pdf",
+      "pages": [
+        "624"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 77,
+      "sitting_date": "1972-07-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c005/cs__11005077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c005/cs__11005fih.pdf",
+      "pages": [
+        "251",
+        "330:413",
+        "467:468"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2010&v_gelecek_sayfa=1701&v_kullanici_id=27484916",
+  "source_sha256": "57ddbf06226e0c7dcda13497f30aa3bb5a9e99d346234e56c9614e9e1c925fd6",
+  "in_force": "1972-06-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
