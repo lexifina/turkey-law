@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5320-266-3665",
+  "source_id": 32006,
+  "date": "2005-01-26",
+  "title": "Bir başka işletmenin biletini satan acenta olunması halinde iç hat bilet satış bedellerine ilişkin olarak, acente kendi adına kullandığı pos cihazı ile yapılan bilet satışında ayrıca KDV göstermeyeceğive bilet bedeli KDV dahil olarak tespit edileceğiiçin ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32006",
+  "source_sha256": "ebbd6b4655b22177066a7d544f76a1ab4aea243d8ff48341eff59708f71cdde6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
