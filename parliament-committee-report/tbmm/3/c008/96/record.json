@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "96",
+  "label": "TBMM 96 no'lu Komisyon Raporu",
+  "title": "28 Nisan 1340 tarihli alâmeti farika nizamnamesine müzeyyel Kanun",
+  "document_date": "1929-02-25",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 8, birleşim 38)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c008/tbmm03008038ss0096.pdf",
+  "pdf_sha256": "816f9223f0573d5c19691c503f8ffa50b40ddf0c2810347f1fd7eacc43b7bd7c",
+  "pdf_bytes": 253792,
+  "pdf_pages": 5,
+  "index_entries": [
+    120206
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=2&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1929-02-25",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
