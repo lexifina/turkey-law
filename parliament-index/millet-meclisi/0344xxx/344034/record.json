@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 344034,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MEHMET YÜCELER (KAYSERİ)",
+  "summary": "Ve 7 Arkadaşı 5422 sayılı Kurumlar Vergisi Kanununun 7. maddesine bir fıkra ilâvesine dair (2/324,3/456)",
+  "title": "Ve 7 Arkadaşı 5422 sayılı Kurumlar Vergisi Kanununun 7. maddesine bir fıkra ilâvesine dair (2/324,3/456)",
+  "first_sitting_date": "1962-12-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 22,
+      "sitting_date": "1962-12-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010fih.pdf",
+      "pages": [
+        "454"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 41,
+      "sitting_date": "1963-02-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011041.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011fih.pdf",
+      "pages": [
+        "499"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 44,
+      "sitting_date": "1963-02-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012044.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012fih.pdf",
+      "pages": [
+        "90:98"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 45,
+      "sitting_date": "1963-02-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012fih.pdf",
+      "pages": [
+        "108:110",
+        "144:151",
+        "214:217"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=4&meclis_kisa_adi=MM&diger_donem_adi=d01"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=5201&v_kullanici_id=27484893",
+  "source_sha256": "e1f300bc36d495f8a136d64e4db45985f0908f8f3a5a0742763e43ba7dafc079",
+  "in_force": "1962-12-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
