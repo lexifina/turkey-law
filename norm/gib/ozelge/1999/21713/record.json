@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-30067/014959",
+  "source_id": 21713,
+  "date": "1999-04-20",
+  "title": "Yatırım teşvik belgesi sahibi mükelleflere belge kapsamındaki makina ve teçhizat niteliği taşıyan yurtiçi teslimleri ile ithalatı 01.08.1998 tarihinden itibaren katma değer vergisinden istisna edilmiştir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21713",
+  "source_sha256": "2c05e5196356bfa8b9132b50b403f76a794508c3fb196c268d9e48991c72c132",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
