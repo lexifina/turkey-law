@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2000-09-28T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2000-09-28",
+  "official_number": "B.07.0.GEL0.44/4405-1095/44340",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23050",
+  "source_id": "ozelge:23050",
+  "source_row_sha256": "3b2e8bb25e75953ea6763213d5d59e6c05fecddd2ec1a56f474032f02430a9b4",
+  "title": "Elektrikli aletlerin alım-satımı ve üretimi ile uğraşan mükelleflerin gerçek usulde vergilendirilmeleri gerekmektedir.",
+  "version_label": "as-enacted",
+  "word_count": 210
+}
