@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "1357",
+  "decision_date": "1987-12-07",
+  "title": "ATAEVLER",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/259_MEC1987-18_1357.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1987",
+  "listing_sha256": "c14c63e449846a6388e6298f17615da8d2f9460b17ee429caf23e5a842413c67",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
