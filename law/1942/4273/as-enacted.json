@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4273",
+  "year": 1942,
+  "title": "Subaylar heyetine mahsus terfi kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-06-25",
+  "gazette_issue": "5141",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5141.pdf",
+  "source_sha256": "3d06e6875c0b0761047c7d35cd9c03d0f123d31942b01ba1726a91bd707dea24",
+  "text_sha256": "6b3d1fafe533b95e61586e37172af089c5d09e5069d3a4a93ce30251056a3ffd",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      49,
+      406
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304273.pdf",
+    "source_sha256": "584d2801c7d03df6492a895f4b0ab61cf6e0465e8c160e26a81877b6d4b42b00",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9611,
+    "bag": 0.8818,
+    "kd_coverage": 0.999,
+    "kd_body_compared": 0.999,
+    "rg_words": 1926,
+    "kd_words": 1927,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
