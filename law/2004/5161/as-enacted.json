@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5161",
+  "year": 2004,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Suriye Arap Cumhuriyeti Hükümeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-05-07",
+  "gazette_issue": "25455",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/05/20040507.htm",
+  "source_sha256": "fd55944384decc8416fa8059dbbf2b2b0030307f713e0b87a7c73fa047f9bc92",
+  "text_sha256": "f524993109e7b536bb0bbe55a9c6b82cdb6c08cbc00268e73372967842c74346",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/05/07/25455-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/05/20040507.htm#12",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
