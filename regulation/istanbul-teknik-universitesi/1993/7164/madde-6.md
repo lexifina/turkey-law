@@ -1,0 +1,1 @@
+MADDE 6- 6 Mayıs 1960 tarihli "Kayıp Vesikaların İkinci Nüshalarının (DUPL1CAT) Tanzimi Hakkında Yönetmelik" ile 15 Ocak 1962 tarihli "Diplomaların Tanzimi ve Tevzi şekli Hakkında Esaslar" yürürlükten kaldırılmıştır.

@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 5- İ.T.Ü. Senatosunun 5 Ağustos 1993 tarihli 158 sayılı toplantısında kabul edilen bu yönetmelik yayım tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1993-09-03",
+      "03.09.1993",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2000-08-22",
+      "RG-22/08/2000-24148",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-22/08/2000-24148",
+  "first_law": null,
+  "gazette": "21687",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2000-08-22",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/1993/7164",
+  "published": "1993-09-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7164&MevzuatTertip=5",
+  "source_bytes": 16092,
+  "source_id": "8.5.7164",
+  "source_sha256": "11a7ac236c88a317639fb8da16ae58d372626e7dbfba20c822ee2b1df62c4bac",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ\r\nDİPLOMA, DİPLOMA DEFTERİ, MEZUNİYET BELGESİ İLE\r\nDİĞER BELGELERİN DÜZENLENMESİNE İLİŞKİN YÖNETMELİK",
+  "university_id": 203,
+  "word_count": 620
+}
