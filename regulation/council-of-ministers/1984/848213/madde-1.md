@@ -1,0 +1,1 @@
+Madde 1 – Genel bütçeye dahil dairelerle katma bütçeli idarelere, özel idare ve belediyelere bağlı döner sermayeli kuruluşların alım, satım, hizmet, yapım, kira, trampa, mülkiyetin gayri ayni hak tesisi ve taşıma işleri bu Yönetmelikte yazılı hükümlere göre yapılır.
