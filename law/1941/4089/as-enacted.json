@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4089",
+  "year": 1941,
+  "title": "Dahiliye memurları kanununun 2. ve 3. maddelerinin değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-07-12",
+  "gazette_issue": "4858",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4858.pdf",
+  "source_sha256": "a3cede28973d005d3a623b1a0ba256586c75bc32af2c2f42f95bcf37c0ed04b1",
+  "text_sha256": "49f235c3bb00b8efb5ae219cbb52dda881d5144da4980163458c8b4597b3946d",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      223,
+      300
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [2] (no text layer)",
+    "tesseract_pages": [
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204089.pdf",
+    "source_sha256": "de8a1d11c68e34ebf442dcb01589e7ba1f3b95fa959f173afaec5761f2f30a03",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9814,
+    "bag": 0.919,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9965,
+    "rg_words": 567,
+    "kd_words": 571,
+    "own_anchor": true,
+    "foreign_anchors": 5
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
