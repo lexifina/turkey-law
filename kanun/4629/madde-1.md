@@ -1,0 +1,18 @@
+MADDE 1 - a) 14.6.1934 tarihli ve 2510 sayılı İskân Kanununun ek 18, ek 21, ek 29, ek 30 ve ek 32 nci maddeleri ile ek 11 inci maddede geçen "özel fondan" ve "masrafları özel iskân fonundan karşılanmak suretiyle" ibareleri, ek 22 nci maddesinde geçen "Özel İskân Fonundan" ibaresi, ek 24 üncü maddesinde geçen "Bu projeler için lüzumlu kredi özel iskân fonundan karşılanır" cümlesi,
+b) 31.8.1956 tarihli ve 6831 sayılı Orman Kanununun 64 üncü maddesi ile ek 3 üncü maddesi,
+c) 18.2.1963 tarihli ve 197 sayılı Motorlu Taşıtlar Vergisi Kanununun 17 nci maddesi,
+d) 24.4.1969 tarihli ve 1163 sayılı Kooperatifler Kanununun 83 üncü maddesinin dördüncü fıkrası ve 94 üncü maddesi,
+e) 20.6.1977 tarihli ve 2090 sayılı Tabii Afetlerden Zarar Gören Çiftçilere Yapılacak Yardımlar Hakkında Kanunun 4, 5 ve 6 nci maddeleri ile 7 nci maddesinin (A) bendi, 8 inci maddesinin ikinci fıkrasında geçen "bir fon saymanlığı" ibaresi, ek 1 inci maddesinde geçen "2090 sayılı Kanunla kurulmuş fon hesabından temin edilerek" ibaresi ve geçici 1 inci maddesinde yer alan "2090 sayılı Yasayla kurulmuş fon hesabından temin edilerek" ibaresi,
+f) 9.8.1983 tarihli ve 2873 sayılı Millî Parklar Kanununun "Altıncı Bölüm" başlığı ile 6 nci maddesinin (d) fıkrası, 17, 18 ve 19 uncu maddeleri ile 22 nci maddesinin (b) bendi,
+g) 17.10.1983 tarihli ve 2924 sayılı Orman Köylülerinin Kalkınmalarının
+Desteklenmesi Hakkında Kanunun 18 ve 19 uncu maddeleri ile 14 üncü maddesinin ikinci fıkrası,
+h) 22.11.1984 tarihli ve 3083 sayılı Sulama Alanlarında Arazi Düzenlemesine Dair Tarım Reformu Kanununun 20, 21, 22 ve 23 üncü maddeleri,
+ı) 26.2.1985 tarihli ve 3155 sayılı Tarım Reformu Genel Müdürlüğünün Kuruluş ve Görevleri Hakkında Kanunun 24 üncü maddesinin ikinci fıkrası,
+j) 4.6.1985 tarihli ve 3213 sayılı Maden Kanununun 3 üncü maddesinde yer alan "Madencilik Fonu" tanımı ile 14 üncü maddesinin birinci fıkrasında geçen "% 5'i Madencilik Fon iştiraki şeklinde" ve "fon iştiraki ise Etibank'a" ibareleri, üçüncü fıkrasında geçen "ve fon iştirakinin" ibaresi ve 10 uncu maddesinin dördüncü fıkrasında,
+16 nci maddesinin ikinci fıkrasında ve geçici 2 nci maddesinin onuncu fıkrasında geçen "Madencilik Fonuna" ibareleri ile geçici 7 nci maddesinde geçen "madencilik fon katkısı ve" ibaresi ile 34 üncü maddesi,
+k) 21.5.1986 tarihli ve 3289 sayılı Gençlik ve Spor Genel Müdürlüğünün Teşkilât ve Görevleri Hakkında Kanunun 15 inci maddesi ile 16 ncı maddesinde yer alan "federasyonlar fonuna" ibaresi,
+1) 28.5.1986 tarihli ve 3291 sayılı Kanunun 17 nci maddesinin ikinci fıkrasında yer alan "ve üretilen tütün mamullerinde kullanılan tütün cinslerine göre fon alınması ve bu fonun kullanma usul ve esasları" ve "Bu fonun denetimi Başbakanlık Yüksek Denetleme Kurulu tarafından yapılır." ibareleri,
+m) 27.5.1988 tarihli ve 3454 sayılı Adalet Teşkilâtını Güçlendirme Fonu Kurulmasına Dair Kanun,
+n) 11.1.1989 tarihli ve 3516 sayılı Ölçüler ve Ayar Kanununun 16 ncı maddesinin son fıkrası ile 18 inci maddesi,
+o) 23.7.1995 tarihli ve 4122 sayılı Millî Ağaçlandırma ve Erozyon Kontrolü Seferberlik Kanununun 9 ve 10 uncu maddesi,
+Yürürlükten kaldırılmıştır.
