@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-27",
+  "issue": "25120",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-2",
+  "title": "Emniyet Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030527-3-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (24 = 24)",
+  "ilan_codes": [
+    "16103/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030527-3-2.htm",
+  "category_page_sha256": "2b72ba1d96788521c0c98db99d5be9d6b7d8bb9f7d8e3fb4225208563260fb2f",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030527.htm",
+  "index_sha256": "006d8d05e7eb96ad98ecf10f1f60f280f14108098fa74aa99b8cbe55c1cc491e",
+  "index_header": "27 Mayıs 2003 ... Sayı : 25120",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
