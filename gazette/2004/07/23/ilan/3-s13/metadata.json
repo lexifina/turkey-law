@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-07-23",
+  "issue": "25531",
+  "edition": "regular",
+  "item": 13,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Devlet Hava Meydanları İşletmesi Genel Müdürlüğünden (DHMİ):",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/07/20040723-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (19 = 19)",
+  "ilan_codes": [
+    "9188/1-1",
+    "9187/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/07/20040723-3.htm",
+  "category_page_sha256": "1bbcb935edc2ec19eec5bf286d211df98f03d808fb15b05ece3d1d69bd985710",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/07/20040723.htm",
+  "index_sha256": "3953a133c21b878a2be7fbbacd09baedb9a1a2abd5f7b4d48840517369f74f6f",
+  "index_header": "23 Temmuz 2004 ... Sayı : 25531",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
