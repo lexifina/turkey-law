@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 377879,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "5441 sayılı Devlet Tiyatrosu kuruluşu hakkındaki Kanunun bâzı maddelerinin değiştirilmesine bir maddesinin kaldırılmasına ve bu kanuna bâzı maddelerin eklenmesine dair kanun tasarısı hakkında (1/83)",
+  "title": "5441 sayılı Devlet Tiyatrosu kuruluşu hakkındaki Kanunun bâzı maddelerinin değiştirilmesine bir maddesinin kaldırılmasına ve bu kanuna bâzı maddelerin eklenmesine dair kanun tasarısı hakkında (1/83)",
+  "first_sitting_date": "1970-05-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 79,
+      "sitting_date": "1970-05-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+      "pages": [
+        "667"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 102,
+      "sitting_date": "1970-06-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006102.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006fih.pdf",
+      "pages": [
+        "338:358"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 103,
+      "sitting_date": "1970-06-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006103.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006fih.pdf",
+      "pages": [
+        "398:433",
+        "442:444"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 104,
+      "sitting_date": "1970-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006104.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006fih.pdf",
+      "pages": [
+        "495:498"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2001&v_kullanici_id=27484836",
+  "source_sha256": "4a02f972bcfc29177bc17bdaa7b95e96bb6501f3f2a4568d948a5b2869e0edd9",
+  "in_force": "1970-05-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
