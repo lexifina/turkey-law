@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-445/36272",
+  "source_id": 36642,
+  "date": "1999-08-27",
+  "title": "Şirket adına yemek satışı yapılıp, karşılığında toplu fatura düzenlemesi halinde, ÖKC kullanma mecburiyeti yoktur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36642",
+  "source_sha256": "e5a7af4ca02213490af243f399ff8c9e628b34b2d878ec94a92007824b2cf1c2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
