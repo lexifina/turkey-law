@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-9 /2004-1 / Maktu Had ve Tutarlar",
+  "source_id": 648,
+  "date": "2004-01-07",
+  "title": "Ticari Kazanç, Ücretler, Menkul ve Gayrimenkul Sermaye İradı ile Diğer Kazanç ve İratlarında istisna tutarları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/648",
+  "source_sha256": "6bad406c3d5b031c16cf3cb7613ef1cdf2119b64748a9a86ef904e3ba85e2579",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
