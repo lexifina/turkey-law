@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3044-371-683/25047",
+  "source_id": 27228,
+  "date": "2000-07-03",
+  "title": "Pişmanlık talebiyle verilen beyannamelere istinaden tahakkuk ettirilen vergiler için, pişmanlık zammının aranılıp aranılamayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27228",
+  "source_sha256": "1fdaaaa334ca955b3394e041c04627fce5ce36d61c77ef2e48aefa84984adb21",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
