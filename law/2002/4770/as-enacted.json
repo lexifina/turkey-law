@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4770",
+  "year": 2002,
+  "title": "Kadınlara Karşı Her Türlü Ayrımcılığın Önlenmesi Sözleşmesine İlişkin İhtiyari Protokolün Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2002-08-02",
+  "gazette_issue": "24834",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2002/08/20020802.htm",
+  "source_sha256": "828ef40dfe9f23c86f2d6bafeafff708c70990713744ece41e9f941b369c2f18",
+  "text_sha256": "7c56b0d60fd0cd0a790f7ac7398a0ee93ffe31f7b29e52607f6d2f8b923b8c47",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2002/08/02/24834-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2002/08/20020802.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
