@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4402-134/51077",
+  "source_id": 21040,
+  "date": "1999-11-24",
+  "title": "Mükellef basit usule tabi olmanın genel ve özel şartlarını topluca taşıması halinde, basit usulde vergilendirilebilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21040",
+  "source_sha256": "17ccad071864cda86fb09eff8d0db6bcd25327bb6706e650badca32041601961",
+  "text_status": "metadata-only",
+  "text_omitted_reason": "Personal data in source text; metadata and official source link only.",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
