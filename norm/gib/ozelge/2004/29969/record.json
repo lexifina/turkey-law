@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5509 - 162 / 22482",
+  "source_id": 29969,
+  "date": "2004-05-21",
+  "title": "Katma değer vergisi mükellefiyeti bulunmayan Kuruma teslim edilen dış lastiklerin bedeli olarak ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29969",
+  "source_sha256": "a6d0ed836fe9d551a6157850bf18ed93d0c53ab98a9e4cc10be7d81b5a9047e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
