@@ -1,0 +1,3 @@
+Komisyon Başvuru Ücreti Ve Komisyon Üyelerine Yapılacak Ödemeler
+Madde 14– Komisyon başvuru ücreti; komisyon üye sayısı ve üyelere yapılacak ödemeler ile sekreterya hizmetlerine ilişkin masraflar ve benzeri hususlar dikkate alınarak Bakanlıkça belirlenir ve her yılın Eylül ayı içinde ilgililere bildirilir. Bakanlıkça uygun görülmesinden ve bu ücretin başvuru sahiplerince Bakanlık Merkez Saymanlık Müdürlüğü hesabına yatırılmasından sonra Komisyona yapılan başvuru geçerli sayılır.
+Komisyonlarda görev yapan komisyon üyelerine, yılda on toplantı gününden fazla olmamak üzere her toplantı günü için (2000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutar üzerinden Bakanlıkça toplantı ücreti ödenir.

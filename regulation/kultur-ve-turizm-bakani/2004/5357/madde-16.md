@@ -1,0 +1,2 @@
+Yönetmelik Hükümlerine Aykırı Davrananlar Hakkında Uygulanacak Hükümler
+Madde 16- Kanunun 42/A maddesinin üçüncü fıkrası ile bu Yönetmelikte belirlenen esaslara göre Tarifelerin düzenlenmediği tespit edildiği takdirde, meslek birlikleri Bakanlıkça yazılı olarak bir defa uyarılır, uyarının tebliğ tarihinden itibaren otuz gün içinde kusurun giderilmemesi halinde, meslek birliği ikinci kez uyarılır. Kusurun ikinci uyarının tebliğ tarihini takip eden otuz gün içinde de giderilmemesi halinde, Bakanlık en geç üç ay içinde olağanüstü genel kurul yapmak üzere üyeleri davet eder.

@@ -1,0 +1,2 @@
+Kapsam
+Madde 2- Bu Yönetmelik eser, icra, fonogram ve yayınların kullanılması ve/veya iletilmesi, bu kullanım ve/veya iletimi yapan mahaller ve kuruluşların sınıflandırılması, iletim ve/veya kullanımlardan kaynaklanan ödemelere ilişkin sözleşmelerin yapılması, bu sözleşmelerin yapılmasında ortaya çıkan uzlaşmazlıkların hallinde uzlaştırma usulü ve bu amaçla oluşturulacak uzlaştırma komisyonunun çalışması, komisyona başvuru halinde alınacak ücretler ile diğer usul ve esasları kapsar.

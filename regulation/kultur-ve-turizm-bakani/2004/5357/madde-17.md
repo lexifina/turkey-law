@@ -1,0 +1,2 @@
+Yürürlükten Kaldırılan Hükümler
+Madde 17- 16/9/1997 tarihli ve 23112 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren “Televizyon Programlarının Yayınlanmasından Önce Yayın Kuruluşlarınca Uyulması Gereken Usul ve Esaslar Hakkında Tebliğ” ile 15/9/2001 tarihli ve 24524 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren “Fikir ve Sanat Eserlerinin Radyo ve Televizyon Yayınlarında Kullanımına İlişkin Usul ve Esaslar Hakkında Yönetmelik” yürürlükten kaldırılmıştır.
