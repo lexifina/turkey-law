@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6202-1971/11903",
+  "source_id": 38150,
+  "date": "2005-03-11",
+  "title": "Maden Kanunu gereğince verilen devir zaptı örneklerinin  belli parayı ihtiva etmediği ve 488 sayılı Kanuna ekli (1) sayılı tabloda yer almadığı anlaşıldığından, söz konusu kağıtlarda damga vergisinin aranılmaması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38150",
+  "source_sha256": "e2c1d05be4cb753e038d578518fe79a7509d0799cf7bebcd9f0881446229145e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
