@@ -1,0 +1,2 @@
+Kurum Personeline Telif ve Çeviri Ücreti Ödenmesi
+Madde 18- TÜBA da görevli TÜBİTAK personeline danışmanlara, araştırıcılara TÜBA yayınlarına mesai saatleri içindeki katkıları dolayısıyla telif veya çeviri ücreti ödenmez. TÜBA danışmanlarının, araştırıcılarının ve TÜBA'da görevli TÜBİTAK personelinin mesai saatleri dışındaki çalışmaları ile hazırladıkları makale, çeviri veya kitap gibi bilimsel içerikli yayınlara telif veya çeviri ücreti ödenebilir.

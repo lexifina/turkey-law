@@ -1,0 +1,2 @@
+Akademi Üyelerine Telif Ücreti Ödenmemesi
+Madde 19- 497 sayılı ve Türkiye Bilimler Akademisinin Kurulması Hakkında Kanun Hükmünde Kararnamenin 13 üncü maddesi ve 29.1.1997 tarihli ve 22892 sayılı Resmi gazetede yayımlanan Türkiye Bilimler Akademisi Araştırma Desteği Esasları Yönetmeliğinin 6 ncı maddesinin değişik (b) bendi gereğince kendilerine telif hakkı ödemesi yapılan Akademi üyelerine TÜBA tarafından yayınlanan kitap, makale veya çevirileri dolayısıyla telif hakkı ödenmez.
