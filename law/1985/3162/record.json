@@ -1,0 +1,93 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3162",
+  "year": 1985,
+  "title": "21.2.1967 Tarih ve 832 Sayılı Sayıştay Kanununda Değişiklik Yapılması ve Bu Kanuna Üç Ek Madde Eklenmesi Hakkında Kanun",
+  "adopted": "1985-03-07",
+  "adopted_as_published": "07/03/1985",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.03.1985 No: 18692",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803162.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 68",
+  "committee_reports": [
+    {
+      "label": "TBMM 242 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c013/tbmm17013070ss0242.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 241352,
+      "title": "21.2.1967 Tarih ve 832 Sayılı Sayıştay Kanununda Değişiklik Yapılması ve Bu Kanuna Üç Ek Madde Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "07/03/1985",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803162.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 242 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c013/tbmm17013070ss0242.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 8,
+          "sitting": 28,
+          "sitting_date": "1984-11-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c008/tbmm17008028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c008/tbmm17008fih.pdf",
+          "pages": [
+            "366"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 59,
+          "sitting_date": "1985-02-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c012/tbmm17012059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c012/tbmm17012fih.pdf",
+          "pages": [
+            "445"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 68,
+          "sitting_date": "1985-03-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c013/tbmm17013068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c013/tbmm17013fih.pdf",
+          "pages": [
+            "296:297"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 70,
+          "sitting_date": "1985-03-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c013/tbmm17013070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c013/tbmm17013fih.pdf",
+          "pages": [
+            "423:429"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=101&v_kullanici_id=27483190",
+      "page_sha256": "ea56a9603e47224a927a44e02ec5568f795bda52beced9e9df249912bcba60cd"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ea56a9603e47224a927a44e02ec5568f795bda52beced9e9df249912bcba60cd",
+  "issuer": "TBMM",
+  "in_force": "1985-03-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 07/03/1985; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
