@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6481",
+  "year": 1955,
+  "title": "Türkiye Büyük Millet Meclisi Reisvekillerinin Tazminatı Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1955-02-25",
+  "gazette_issue": "8940",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8940.pdf",
+  "source_sha256": "b7ced9bf4dc14161c96c796b239bfdfc346d18810f88c9ac1f8a086c8a6c2dd3",
+  "text_sha256": "5d1381a5605da8c2425797ab53bf992f7391345a2ddf2c2115283ad1e1f9f078",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      212,
+      214
+    ],
+    [
+      266,
+      293
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706481.pdf",
+    "source_sha256": "695a8abb57e6a2ed891a62500a2f788758582a7d2f6263bf8dc307868d1e6261",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9719,
+    "bag": 0.8521,
+    "kd_coverage": 0.9884,
+    "kd_body_compared": 0.9663,
+    "rg_words": 83,
+    "kd_words": 89,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
