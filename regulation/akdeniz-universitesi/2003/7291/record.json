@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 15- Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme Madde 16- Bu Yönetmelik hükümlerini Akdeniz Üniversitesi Rektörü yürütür. 28.03.2003 tarih ve 25062 sayılı Resmi Gazete’de yayımlanmıştır."
+  ],
+  "date_evidence": [
+    [
+      "2003-03-28",
+      "28.03.2003",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 15- Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme Madde 16- Bu Yönetmelik hükümlerini Akdeniz Üniversitesi Rektörü yürütür. 28.03.2003 tarih ve 25062 sayılı Resmi Gazete’de yayımlanmıştır.",
+  "first_law": null,
+  "gazette": "25062",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2003-03-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/2003/7291",
+  "published": "2003-03-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7291&MevzuatTertip=5",
+  "source_bytes": 27710,
+  "source_id": "8.5.7291",
+  "source_sha256": "b141f9f0f8aba66925d0b59d4be23f28eba1f4c40b4e1d5fa517ca4cb33b90cf",
+  "text_status": "as-enacted",
+  "title": "AKDENİZ ÜNİVERSİTESİ \r\nAVRUPA BİRLİĞİ ARAŞTIRMA VE UYGULAMA MERKEZİ\r\n(AKVAM) YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 889
+}
