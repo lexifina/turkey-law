@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "259/5",
+  "decision_date": "2003-12-23",
+  "title": "Lisans verilmiş olan Tüzel Kişiler hakkında",
+  "categories": [
+    "Önlisans ve Lisansa ilişkin Diğer Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZSlKogLp6+U=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZSlKogLp6+U="
+  ],
+  "source_sha256": "ab0b1db4abbf8085b8f9eb99a2777d623a0ffe51820df8f60bd0bbf6c23b8e05",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33886,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-12-23",
+  "law_text_complete": false
+}
