@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6329",
+  "year": 1954,
+  "title": "Türk Ceza Kanununun 161. Maddesinin Son Fıkrasının Tadili ve Bu Maddeye İki Fıkra İlâvesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-16",
+  "gazette_issue": "8659",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8659.pdf",
+  "source_sha256": "e12aa91ea021843a8d01959b8cd9d4079a6b834976b628a648a49bcc3718f91f",
+  "text_sha256": "2e0bbe05b9fb3ed36004f1b41d5dd362960ba1b1097d668b82b0a328b2d94f63",
+  "text_status": "ocr",
+  "pages": [
+    13
+  ],
+  "line_span": [
+    [
+      1756,
+      1810
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606329.pdf",
+    "source_sha256": "498c80d00f7c8a3c2d737cab11b5216010e4dc10c8d35fe7232e7c938ac826dd",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.958,
+    "bag": 0.9185,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9394,
+    "rg_words": 328,
+    "kd_words": 330,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
