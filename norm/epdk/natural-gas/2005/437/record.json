@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "437",
+  "decision_date": "2005-02-17",
+  "title": "Doğal gaz piyasası ile ilgili tarifelerde, her ay üst sınırların hesaplanmasında kullanılan, Üretici Fiyatları Endeksi’nin (ÜFE) kullanılmasına İlişkin",
+  "categories": [
+    "Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RtyTXfY2IKs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RtyTXfY2IKs="
+  ],
+  "source_sha256": "3576e4bd3782c494c360773a06371ab57fdce15ed391e16b870a03b7e3ebf9ae",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7233,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-02-17",
+  "law_text_complete": false
+}
