@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5310",
+  "year": 2005,
+  "title": "Denizcilik Müsteşarlığının Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-03-15",
+  "gazette_issue": "25756",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050315-1.htm",
+  "source_sha256": "fd99d17b46f22042e92abd1ca6bde2a76c685a4f233fa9a63b9b759e88e7dc10",
+  "text_sha256": "c9c1c96207c971c1449bd7ad1a5f1b06fb79305089c9b82e36104b145566be9c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/03/15/25756-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050315-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
