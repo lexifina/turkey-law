@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-771/15530",
+  "source_id": 21208,
+  "date": "1999-04-22",
+  "title": "Yıllık gelir vergisi beyannamesi verilmesini gerektiren serbest meslek faaliyetinde bulunulması halinde, Gelir Vergisi Kanununun 68 inci maddesinde sayılan giderlerin, istisna edilen kısma isabet eden ve [(İstisna Tutarı / Toplam Hasılat) x Toplam Gider] ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21208",
+  "source_sha256": "afd55d49e503afc8d445dd142827599c443df3865c93d6efec1c7fc16bb5550f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
