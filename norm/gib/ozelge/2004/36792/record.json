@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1255 / 20848",
+  "source_id": 36792,
+  "date": "2004-05-10",
+  "title": "Kredi işlemlerinde, faiz tahakkuku yapılarak gelir hesaplarına alınması ile banka yönünden faiz geliri elde edilmiş olmakta ve banka ve sigorta muameleleri vergisini doğuran olay meydana gelmektedir. Döviz kazandırıcı faaliyetlerde belge kapsamında kullan",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36792",
+  "source_sha256": "ab8c6142dd763ebee8b1d39c8fcbd6f7e439ba4949a0b8ca5cc83b5e9d3d9465",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
