@@ -1,0 +1,29 @@
+ANAYASA MAHKEMESİ KARARI
+Esas Sayısı : 1963/111
+Karar Sayısı : 1964/20
+Karar Tarihi : 13/3/1964
+DÂVACI :Adalet Partisi Türkiye Büyük Millet Meclisi Gurubu.
+DAVANIN KONUSU: 4753 sayılı Kanunun 28. maddesindeki icranın durdurulması hakkında yargı mercilerine müracaat edilemeyeceğini belirten hükmün, Anayasanın 31. ve 114. maddelerine aykırı olduğu ileri sürülmüştür.
+İLK İNCELEME : Anayasa Mahkemesi İçtüzüğünün 15. maddesi uyarınca 5.3.1963 gününde yapılan ilk incelemede, dâvanın Anayasanın geçici 9. ve Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkındaki 22.4.1962 günlü ve 44 sayılı Kanunun geçici 5. maddelerine uygun olarak süresi içinde açıldığı anlaşılmış ise de: dilekçede imzaları bulunan Ali Naili Erdem ile Cahit Okurer’in Türkiye Büyük Millet Meclisi Adalet Partisi Grup Başkanı veya Başkan vekili olduklarına dair onanlı belge dosyada bulunmadığından 15 gün içinde gönderilmesi için davacılara tebligat yapılması hakkında verilen karar üzerine istenilen belgenin süresi içinde gönderildiği anlaşılmakla esasın incelenmesine dair 15.4.1963 gününde verilen karar uyarınca hazırlanan rapor, iptali istenilen kanun hükmü, Anayasanın ilgili maddeleri ve gerekçeleri ile Meclis görüşme tutanakları okunarak gereği görüşülüp düşünüldü:
+GEREKÇE : Davacı, dilekçesinde her nekadar (iptali istenen kanun) başlığı altında (4753 sayılı kanunun 28. maddesi) ibaresiyle maddenin tümünün iptalini istemekte olduğu kanısını uyandırmakta ise de bu başlıktan hemen sonra ve (iptal sebebi) başlığı altında (Çiftçiyi topraklandırma hakkındaki 4753 sayılı Kanunun 28. maddesindeki icranın durdurulması hakkında yargı mercilerine müracaat edilemeyeceğine dair hükmü Anayasanın 31 ve 114. maddelerine aykırı görülmesi) şeklinde açıklamış olması ve dilekçenin netice kısmını da (Yukarıda açıklanan sebeplerle sözü edilen kanun hükmünün iptaline karar verilmesi) şeklinde bağlamış bulunması bakımından dâvanın 28. maddenin tümüne yöneltilmiş olmayıp sadece bu maddede yer alan yürütmenin yargı mercilerince durdurulamıyacağı hakkındaki hükme yöneltildiği açıkça anlaşıldığından incelemenin bu hükme hasredilmesine üyelerden Şemsettin Akçoğlu, Şeref Hocaoğlu, Celâlettin Kuralmen ve Muhittin Gürün’ün muhalefetleriyle ve oyçokluğu ile karar verildikten sonra aynı konudaki bir dâvanın daha önce reddine karar verilmiş olmasının bu işin esasının yeniden incelenmesine dâvada ileri sürülen gerekçelere ve işin niteline göre gerekirse aksine bir karar verilmesine engel olamıyacağı üyelerden Şeref Hocaoğlu ve Muhiddin Gürün’ün muhalefetleri ile ve oyçokluğu ile kararlaştırıldıktan sonra:
+4753 sayılı Çiftçiyi Topraklandırma Kanununun 28. maddesinde yer alan (Bunların durdurulması hakkında yargı yerlerince de karar verilemez) şeklindeki dâva konusu hükmünün, mahkememizin 13.3.1963 günlü ve E:1963/162 ve K.1964/19 sayılı kararı ile Anayasa aykırı bulunmadığı kabul edilmiş ve ortada bu kararı değiştirecek bir durumda bulunmamış olduğundan bu davanın da sözü edilen karardaki gerekçelerle reddi gerekir.
+Üyelerden Şemsettin Akçoğlu, Celâlettin Kuralmen ve Hakkı Ketenoğlu bu görüşe katılmamışlar ve davanın kabulü ve dava konusu hükmün iptali gerekeceği oyunda bulunmuşlardır.
+SONUÇ : Yukarıda açıklanan sebepten ötürü davanın reddine Üyelerden Şemsettin Akçoğlu, Celâlettin Kuralmen ve Hakkı Ketenoğlu’nun muhalefetleriyle ve oyçokluğu ile 13.3.1964 gününde karar verildi.
+Başkan Sünuhi ARSAN | Başkan Vekili Lütfi AKADLI | Üye Rifat GÖKSU
+Üye İsmail Hakkı ÜLKMEN | Üye Şemsettin AKÇOĞLU | Üye İbrahim SENİL
+Üye İhsan KEÇECİOĞLU | Üye A.Şeref HOCAOĞLU Muhalefet şerhi eklidir | Üye Salim BAŞOL
+Üye Celâlettin KURALMEN | Üye Hakkı KETENOĞLU | Üye Ahmet AKAR
+Üye Muhittin GÜRÜN Muhalefet şerhi eklidir | Üye Lütfi ÖMERBAŞ | Üye Ekrem TÜZEMEN
+MUHALEFET ŞERHİ
+1- Dâvada 4753 sayılı Kanunun 28. maddesinin iptali istenmiştir. Tetkikatın, dâvacının isteğine göre, maddenin tümü üzerinde yapılması gerekir. İleri sürülen gerekçelere dayanılarak maddenin bazı kısımları inceleme dışında bırakılamaz.
+22.4.1962 tarihli ve 44 sayılı Kanunun 28. maddesi gereğince Mahkememiz, yalnız ileri sürülen gerekçelere dayanmayacak istekle bağlı kalarak – başka sebeplerle de karar verebilecektir.
+Şu halde, dâvacının gerekçeleri dâvanın sınırını daraltamaz.
+2- 4753 sayılı Kanunun 28. maddesi hükmü – 13.3.1964 tarihli ve E.1963/162 K.1964/19 sayılı karara ekli muhalefet şerhinde gösterilen sebeplerle – Anayasaya aykırıdır.
+Karara bu sebeplerle muhalifiz.
+Üye Hakkı KETENOĞLU | Üye Celâlettin KURALMEN | Üye Şemsettin AKÇOĞLU
+MUHALEFET ŞERHİ
+1- Adalet Partisi Türkiye Büyük Millet Meclisi Grubu tarafından 4753 sayılı Kanunun 28. maddesinin iptali için dâva açılmasına karar verilmiş ve dâva dilekçesi de bu karara uygun olarak düzenlenmiş bulunduğundan dâvayı, dilekçede belirtilen iptal isteminin gerekçesiyle sınırlamak doğru değildir.
+Bu konudaki daha etraflı düşünceler, tamamen benzer şekilde açılmış olan diğer bir dâva sonucunda Anayasa Mahkemesince verilerek 21.2.964 günlü ve 11637 sayılı Resmi Gazetede yayımlanmış bulunan 10.12.1963 günlü ve 1963/98/292 sayılı Karara ait muhalefet şerhinde belirtilmiş olduğundan orada yazılı sebeplere binaen bu dâvanın da, 28. maddenin tümüne karşı açılmış sayılmıyarak sadece bir kısım hükümlerine karşı açılmış sayılmasına muhalifiz.
+2- 4753 sayılı Kanunun 28. maddesinin inceleme konusu yapılan hükmünün Anayasaya aykırı olmadığı, daha önce, Anayasa Mahkemesinin 13.3.1964 günlü ve 1963/162-1964/19 sayılı kararı ile tesbit edilmiş bulunduğu cihetle kesin olan bu karar karşısında konunun yeni baştan incelenmesine Anayasanın 152. maddesi müsaade etmemektedir.
+Anayasa Mahkemesinin, 10.3.1964 günlü ve 11652 sayılı Resmi Gazetede yayımlanmış bulunan 25.10.1963 günlü ve 1963/148/256 sayılı Kararına ait muhalefet şerhimiz de konu ile ilgili olarak, daha geniş surette belirttiğimiz sebeplere binaen kararın bu kısmına da muhalifiz.
+Üye A.Şeref HOCAOĞLU | Üye Muhittin GÜRÜN
