@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3072",
+  "year": 1936,
+  "title": "Düyunu Umumiye, Jandarma ve Hariciye Vekâleti 1936 malî yılı bütçeleri arasında münakale yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-12-07",
+  "gazette_issue": "3478",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3478.pdf",
+  "source_sha256": "6720e6bac4895f5323d4364b2c514d15f4b51f3d4c801923bcf22e79b83a87b2",
+  "text_sha256": "5e5180ce329cf57eb824ed1db370a5224a5667b0ba124937c7ddf9f0dc446eed",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      17,
+      37
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703072.pdf",
+    "source_sha256": "1f29e5ce29fef9a642e64b804a2bcab05281a75a1223f9cf2374feab35a5ed29",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9645,
+    "bag": 0.9074,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.4454,
+    "rg_words": 55,
+    "kd_words": 119,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
