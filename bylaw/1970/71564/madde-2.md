@@ -1,0 +1,3 @@
+Saklama süresi ve yeri:
+Madde 2 – Sayıştay'a verilen her çeşit gider ve gelir evrakı ile her çeşit belgeler, ekli cetvelde yazılı sürelerle Sayıştay'da saklanır.
+Ancak, 832 sayılı Sayıştay Kanununun 38 inci maddesinin son fıkrası gereğince istisnai bir denetim usulüne tabi tutulan mal hesaplarının evrakı müsbitesinden Sayıştayca henüz getirtilmeyenlerle, yapılan inceleme sonunda ilişiksiz görülenler hesap devrelerinin bitiminden itibaren 8 yıldan az olmamak kaydiyle Milli Savunma Bakanlığı ve Jandarma Genel Komutanlığı arşivlerinde saklanır. Sözkonusu belgelerden daha fazla bir süre saklanması gerekenler, Sayıştay Genel Kurulunca verilecek kararda belirtilen sürece saklanır.
