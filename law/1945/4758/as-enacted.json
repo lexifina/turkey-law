@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4758",
+  "year": 1945,
+  "title": "Hayvan Sağlık Zabıtası Kanununun 58 nci ve 59 ncu maddelerinin değiştirilmesine ve at vebasına tutulan hayvanların öldürülmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-06-22",
+  "gazette_issue": "6038",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6038.pdf",
+  "source_sha256": "e7a62ce5d79d1a0f4fc7e8b8af7ca6834a54e944f380175790a5054c6bd4092d",
+  "text_sha256": "cbf5de0ffc36cac38d0f646a1cc2cc3166a098daf4a3f33d1547fa5add67f6f8",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      141,
+      190
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704758.pdf",
+    "source_sha256": "4bced8705d470a361632297c493255056c22797f26f03c60682d8dcff48c80a4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9643,
+    "bag": 0.8885,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.937,
+    "rg_words": 310,
+    "kd_words": 349,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
