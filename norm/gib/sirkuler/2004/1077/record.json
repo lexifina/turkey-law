@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "Gider Vergileri Kanunu-1 / 2004-1 / ÖİV _ ŞOV-1",
+  "source_id": 1077,
+  "date": "2004-02-12",
+  "title": "Müşterek bahis ve şans oyunlarını tertipleyenler tarafından bir ay içinde tahsil edilen şans oyunları vergisi, ertesi ayın yirminci günü akşamına kadar Ek 2 de yer alan Şans Oyunları Vergisi Beyannamesi ile beyan edilerek ödenecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/sirkuler/1077",
+  "source_sha256": "afd86c42025d7d5d80671239cab06b0db3d3dc1b8a0cfc805bcea7f1a113055a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
