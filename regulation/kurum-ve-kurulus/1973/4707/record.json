@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4707",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AYNİYAT YE AMBAR YÖNETMELİĞİ",
+  "number": "4707",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1973/4707",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4707&MevzuatTertip=5",
+  "source_sha256": "ba81727d43f5bbb03fd7fc2e3b413a6d23759c84280b923aea10d5806e51cdb3",
+  "source_bytes": 333380,
+  "published": "1973-03-24",
+  "gazette": "14486",
+  "in_force": "1973-03-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.03.1973); own commencement article: \"Bu Yönetmelik yayını tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayını tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10431,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
