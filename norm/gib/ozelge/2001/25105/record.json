@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07 .0.GEL.0.66/6676-139/44783",
+  "source_id": 25105,
+  "date": "2001-08-22",
+  "title": "Vefat eden mükellefe cezalı tarhiyat ve usulsüzlük cezası kesilip kesilmeyeceği hususu...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/25105",
+  "source_sha256": "eeb89411f5da60b3aff7b7b33171fb80a77c5d7f541de649834e674db0ebdee4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
