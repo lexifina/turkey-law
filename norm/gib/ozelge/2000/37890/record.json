@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4428-94/15803",
+  "source_id": 37890,
+  "date": "2000-04-07",
+  "title": "Meslek  odasına üye  kaydı  yaptırma  imkanı  olan mükellefin, kaydını yaptırmadığı ve kullanmak üzere anlaşmalı matbaaya bastırdığı belgelerini kullanıp kullanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37890",
+  "source_sha256": "eaeccf5d744b7998cf474858e806b1968091b57d246fcc4a72cd339454b8241f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
