@@ -1,0 +1,3 @@
+Madde 31 – (25/1/1956 tarih ve 6643 sayılı Kanunun hükmüdür.)
+Haysiyet divanları tarafından verilen yazılı ihtar ve yüz liraya kadar para cezası kati olup derhal tatbik olunur. Bu kararlar aleyhine hiçbir mercie başvurulamaz.
+Geçici olarak sanat icrasından veya bir mıntakada çalışmaktan memnuiyet cezasına itiraz, kararın azaya tebliğinden itibaren on beş gün zarfında yazılı olarak ve karar aleyhindeki müdafaa ile birlikte Yüksek Haysiyet Divanına gönderilmek üzere oda idare heyeti reisliğine imza mukabilinde verilir. Böyle bir itiraz olmasa dahi geçici olarak sanat icrasından veya bir mıntakada çalışmaktan memnuiyet kararı idare heyeti reisliğince Yüksek Haysiyet Divanına gönderilir. Bu kararlar Yüksek Haysiyet Divanı tarafından tasdik edildikten sonra tatbik olunur.
