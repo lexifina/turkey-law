@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2968-298-201-37542",
+  "source_id": 27242,
+  "date": "2004-09-19",
+  "title": "Enflasyon düzeltmesinde birikmiş amortismanların hesaplanması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27242",
+  "source_sha256": "8bcea3a3f6660e6ad3a11484238b9ca6fec61ad03b7dfe0e8e1c2ec3c3f668de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
