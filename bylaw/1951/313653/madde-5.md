@@ -1,0 +1,1 @@
+Madde 5 – Birinci maddede yazılı hastalık ve arızalarla 2 nci ve 3 üncü maddelerde yazılı iş ve kazaların sebebiyet verdiği ani veya sonradan ölümü intaç eden hadiseler hakkında da ilgisine göre yukardaki hükümler uygulanır.
