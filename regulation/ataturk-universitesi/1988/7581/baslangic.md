@@ -1,0 +1,3 @@
+ATATÜRK ÜNİVERSİTESİ SANAYİ İŞBİRLİĞİ GELİŞTİRME
+MERKEZİ YÖNETMELİĞİ
+Kuruluş :
