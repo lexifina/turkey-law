@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-01-29",
+  "issue": "25008",
+  "edition": "regular",
+  "item": 7,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Yağcılar Yatılı İlköğretim Bölge Okulundan :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030129-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (41 = 41)",
+  "ilan_codes": [
+    "1152/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030129-3.htm",
+  "category_page_sha256": "00898ca51c4610232796ba1415b4bb88f3180adce99d0eea69a9e0ab461c0e34",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030129.htm",
+  "index_sha256": "222657b5687d60986dca035854460c6326aafac5252e5b794a27c78110365616",
+  "index_header": "29 Ocak 2003 ... Sayı : 25008",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
