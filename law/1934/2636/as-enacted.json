@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2636",
+  "year": 1934,
+  "title": "Memurin Kanununun 75. maddesine bir fıkra ilâvesine dair olan 2324 sayılı kanuna bir fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-12-27",
+  "gazette_issue": "2891",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2891.pdf",
+  "source_sha256": "11f075d62a683af6ae87a56c374683eacb51366cefd617a4b67c311091c066f0",
+  "text_sha256": "044d6457f3bea0407839d31a6418b484b7d80de33d18ccf5b8980c8f199c180c",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      437,
+      463
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402636.pdf",
+    "source_sha256": "0b25e33fba57de0ff801a5ebcef002679229af3a5d03930c67653cd9f5530365",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.975,
+    "bag": 0.9524,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9688,
+    "rg_words": 64,
+    "kd_words": 64,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
