@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-4/2004-2/Dernek ve Vakıflar-2",
+  "source_id": 1114,
+  "date": "2004-02-18",
+  "title": "Vakıflara vergi muafiyeti tanınmasının şartlarından olan ve aynı zamanda derneklere Bakanlar Kurulu Kararı ile kamuya yararlı dernek statüsü verilmesi sürecinde Bakanlığımız görüşünün oluşturulmasında esas alınan kriterler arasında yer alan brüt gelirin ü",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1114",
+  "source_sha256": "9e8778ba5af4148c631817f5dcffacefc883e4d985d20281c3946f8b4f973c6f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
