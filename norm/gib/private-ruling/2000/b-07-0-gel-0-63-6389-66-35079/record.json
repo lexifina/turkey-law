@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2000-07-21T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2000-07-21",
+  "official_number": "B.07 .0.GEL.0.63/6389-66/35079",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35981",
+  "source_id": "ozelge:35981",
+  "source_row_sha256": "54af9b50ad9210aace783d185bd32fe838801bbd5face255cc328c5a1b9469b8",
+  "title": "7269 sayılı Kanuna göre, beyanname, taahhütname ve sözleşmelerin her türlü vergi, resim ve harçtan muaf olup, olmayacağı hk.",
+  "version_label": "as-enacted",
+  "word_count": 393
+}
