@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5266",
+  "year": 2004,
+  "title": "Türk Uluslararası Gemi Sicili Kanunu ile 491 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanunda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-12-09",
+  "gazette_issue": "25665",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/12/20041209.htm",
+  "source_sha256": "b862ceeae3dfc5c12b14bed3f088a2485523c3bb593c06c04f5863789d97d1f9",
+  "text_sha256": "e908071dc79e9f427d4f3b34f7c21d4ad0c476186c4875cf0362e3654a78a6e1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/12/09/25665-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/12/20041209.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
