@@ -1,0 +1,54 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3842",
+  "year": 1940,
+  "title": "Muayyen tarifeli vesaiti nakliye ile Seyahat eden yolculardan alınacak nakliyat resmi hakkındaki 472 sayılı kanunu tadil eden kanun",
+  "adopted": "1940-05-24",
+  "adopted_as_published": "24/05/1940",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.05.1940 No: 4521",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103842.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 21",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96304,
+      "title": "Muayyen tarifeli vesaiti nakliye ile Seyahat eden yolculardan alınacak nakliyat resmi hakkındaki 472 sayılı kanunu tadil eden kanun",
+      "adopted_as_published": "24/05/1940",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103842.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 54,
+          "sitting_date": "1940-05-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c011/tbmm06011054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c011/tbmm06011fih.pdf",
+          "pages": [
+            "181",
+            "213",
+            "228:230",
+            "233",
+            "264:267"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=794&v_gelecek_sayfa=101&v_kullanici_id=27483166",
+      "page_sha256": "29501483f38f95dd8d88114aa5fdbf99ef4723a6b3d5255a78b9c96c933510ff"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "29501483f38f95dd8d88114aa5fdbf99ef4723a6b3d5255a78b9c96c933510ff",
+  "issuer": "TBMM",
+  "in_force": "1940-05-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 24/05/1940; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
