@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2571/12716",
+  "source_id": 38301,
+  "date": "2002-03-22",
+  "title": "29 Temmuz 1993 tarih ve 21692 sayılı Resmi Gazete'de yayımlanan 9 sıra no.lu Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu Genel Tebliği' nin \"C-Yeminli Mali Müşavir Raporlarında Bulunması Gereken Bilgiler\" ba",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38301",
+  "source_sha256": "8b77ee2b5f1fbd3545ca8d8f49cf5f89b16f3846a831c9005b36be4ad5aa4fbc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
