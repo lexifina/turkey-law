@@ -1,0 +1,174 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1487",
+  "year": 1971,
+  "title": "Boğaziçi Üniversitesi adı ile İstanbul'da bir üniversite kurulması hakkında Kanun",
+  "adopted": "1971-09-09",
+  "adopted_as_published": "09/09/1971",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.09.1971 No: 13954",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401487.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 54",
+  "committee_reports": [
+    {
+      "label": "MM 379 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016141ss0379.pdf"
+    },
+    {
+      "label": "CS 1660no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067112ss1660.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 381949,
+      "title": "Boğaziçi Üniversitesi adı ile İstanbul'da bir üniversite kurulması hakkında Kanun",
+      "adopted_as_published": "09/09/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401487.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 379 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016141ss0379.pdf"
+        },
+        {
+          "label": "CS 1660no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067112ss1660.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 108,
+          "sitting_date": "1971-06-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014108.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014fih.pdf",
+          "pages": [
+            "38"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 130,
+          "sitting_date": "1971-07-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015130.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015fih.pdf",
+          "pages": [
+            "405"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 151,
+          "sitting_date": "1971-08-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017151.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017fih.pdf",
+          "pages": [
+            "15"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 152,
+          "sitting_date": "1971-08-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017152.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017fih.pdf",
+          "pages": [
+            "85",
+            "107",
+            "108:109"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 153,
+          "sitting_date": "1971-08-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017153.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017fih.pdf",
+          "pages": [
+            "124",
+            "144:146"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 154,
+          "sitting_date": "1971-08-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017154.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017fih.pdf",
+          "pages": [
+            "150",
+            "185",
+            "198:201"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=701&v_kullanici_id=27483225",
+      "page_sha256": "b5cb39e132ebf96cf2125d32828c5507413fb68b2886bbae3c9e119b7dbba907"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 317016,
+      "title": "Boğaziçi Üniversitesi adiyle İstanbul'da bir üniversite kurulması hakkında Kanun",
+      "adopted_as_published": "09/09/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401487.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 379 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016141ss0379.pdf"
+        },
+        {
+          "label": "CS 1660no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067112ss1660.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 66,
+          "sitting": 108,
+          "sitting_date": "1971-09-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066108.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066fih.pdf",
+          "pages": [
+            "788"
+          ]
+        },
+        {
+          "cilt": 67,
+          "sitting": 112,
+          "sitting_date": "1971-09-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067112.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067fih.pdf",
+          "pages": [
+            "161",
+            "168:211"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1401&v_kullanici_id=27483235",
+      "page_sha256": "2347afd48dbca4d148a2974c7621a56e15bf823e6e014e9ddf67d02756645108"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b5cb39e132ebf96cf2125d32828c5507413fb68b2886bbae3c9e119b7dbba907",
+  "issuer": "Millet Meclisi",
+  "in_force": "1971-09-09",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 09/09/1971; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
