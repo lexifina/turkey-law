@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2000/1691",
+  "source_id": 1955,
+  "date": "2000-12-08",
+  "title": "4481 SAYILI KANUNUN 9 UNCU MADDESİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/501/bkk/1955",
+  "related_law": "4481 sayılı 17.08.1999 VE 12.11.1999 TARİHLERİNDE MARMARA BÖLGESİ VE CİVARINDA MEYDANA GELEN DEPREMİN YOL AÇTIĞI EKONOMİK KAYIPLARI GİDERMEK AMACIYLA BAZI MÜKELLEFİYETLER İHDASI VE BAZI VERGİ KANUNLARINDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "2c1e2d5fa8c66a7e065320b4f98c42c87ca3ea18d62a288c4a4c0e2c8b71ea20",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
