@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4423-222/12914",
+  "source_id": 21039,
+  "date": "2000-03-24",
+  "title": "Belediyelerce sürekli ve sabit olarak bir şahsa tahsis edilen büfe ve çay ocakları gibi yerler işyeri sayıldığından, bu tür yerlerde faaliyette bulunan mükelleflerin esnaf muaflığından faydalanmaları mümkün bulunmamaktadır",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21039",
+  "source_sha256": "45cf5d10bf0b32a0cc54b1266b3c0a1d9934dab3abed302530974ea52675d9aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
