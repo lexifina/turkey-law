@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6997",
+  "year": 1957,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı Hükümeti arasında imzalanan Kültür Anlaşmasının tasdiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-17",
+  "gazette_issue": "9635",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9635.pdf",
+  "source_sha256": "6966b17ca2ab630a98be3e50778a853874e4e2148c87536f59f75cf78569aa29",
+  "text_sha256": "41109cf6646e7ceb63caec206eb511cd175ba626b19b2bdcbd2d038b87edba8e",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      2,
+      402
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906997.pdf",
+    "source_sha256": "42109048709a7bdd8ec45dcce95cae99786b1c72b781702815f526a51a72d701",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.956,
+    "bag": 0.8381,
+    "kd_coverage": 0.995,
+    "kd_body_compared": 0.995,
+    "rg_words": 1349,
+    "kd_words": 1412,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
