@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.16197",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SÜMERBANK HOLDİNG A.Ş. PERSONEL YÖNETMELİĞİ",
+  "number": "16197",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1991/16197",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16197&MevzuatTertip=5",
+  "source_sha256": "1c04e886983f9e82522fdff0e7e194169f778dd4c71689c0c28e2349b20c690c",
+  "source_bytes": 111829,
+  "published": "1991-03-01",
+  "gazette": "20801",
+  "in_force": "1991-03-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.03.1991); own commencement article: \"Bu Yönetmelik hükümleri yayımı tarihinden itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4142,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
