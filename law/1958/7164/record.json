@@ -1,0 +1,62 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7164",
+  "year": 1958,
+  "title": "6010 sayılı Kanunun ek 1. maddesinin değiştirilmesi ve bu kanuna muvakkat bir madde eklenmesi hakkındaki 6834 sayılı Kanunun muvakkat maddesinin değiştirilmesi hakkında Kanun",
+  "adopted": "1958-11-19",
+  "adopted_as_published": "19/11/1958",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "25.11.1958 No: 10066",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107164.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 41",
+  "committee_reports": [
+    {
+      "label": "TBMM 1 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c005/tbmm11005004ss0001.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 11,
+      "kayit_no": 42288,
+      "title": "6010 sayılı Kanunun ek 1. maddesinin değiştirilmesi ve bu kanuna muvakkat bir madde eklenmesi hakkındaki 6834 sayılı Kanunun muvakkat maddesinin değiştirilmesi hakkında Kanun",
+      "adopted_as_published": "19/11/1958",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107164.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 1 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c005/tbmm11005004ss0001.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 2,
+          "sitting_date": "1958-11-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c005/tbmm11005002.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c005/tbmm11005fih.pdf",
+          "pages": [
+            "31",
+            "70",
+            "147:165"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=429&v_gelecek_sayfa=101&v_kullanici_id=27483188",
+      "page_sha256": "7ed99ae1ca27bb6ba74940a87b90a20072ff65edc53cafc1346137dbdb217e8a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7ed99ae1ca27bb6ba74940a87b90a20072ff65edc53cafc1346137dbdb217e8a",
+  "issuer": "TBMM",
+  "in_force": "1958-11-19",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 19/11/1958; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
