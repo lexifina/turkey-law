@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2502",
+  "year": 1934,
+  "title": "Kars vilâyeti ile Bayazıt, Erzurum ve Çoruh vilayetlerinin bazı parçalarında muhacir ve sığıntıların yerleştirilmesi ve yerli çiftçilerin topraklandırılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-06-14",
+  "gazette_issue": "2727",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2727.pdf",
+  "source_sha256": "0600c7d03fad7b17e64f5938db1c56eeb37cbe50f648fcb5b80ec5610077d164",
+  "text_sha256": "fd90fc1d5861883a022aa1a5e81b7e1b37700b3bfddf1335c6be4dc50a73eda6",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      100,
+      199
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302502.pdf",
+    "source_sha256": "c7172105fbe413d9001a2b0e156816c1ce886ef0fabad2b2eb6ad2070d2f4ef3",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.969,
+    "bag": 0.9331,
+    "kd_coverage": 0.9787,
+    "kd_body_compared": 0.9787,
+    "rg_words": 322,
+    "kd_words": 328,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
