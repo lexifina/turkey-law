@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 344025,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "İSMAİL YILANLIOĞLU (KASTAMONU)",
+  "summary": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı Kanunun bazı maddelerinin değiştirilmesi ve bu kanuna bazı maddeler eklenmesi hakkındaki 4598 sayılı Kanunun 4. maddesine bir fıkra eklenmesine dair (2/201)",
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı Kanunun bazı maddelerinin değiştirilmesi ve bu kanuna bazı maddeler eklenmesi hakkındaki 4598 sayılı Kanunun 4. maddesine bir fıkra eklenmesine dair (2/201)",
+  "first_sitting_date": "1962-12-07",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 14,
+      "sitting_date": "1962-12-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c009/mm__01009014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c009/mm__01009fih.pdf",
+      "pages": [
+        "642:654"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 65,
+      "sitting_date": "1963-04-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015fih.pdf",
+      "pages": [
+        "86"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 80,
+      "sitting_date": "1963-05-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016fih.pdf",
+      "pages": [
+        "611"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 87,
+      "sitting_date": "1963-05-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017087.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017fih.pdf",
+      "pages": [
+        "313:317"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=5201&v_kullanici_id=27484893",
+  "source_sha256": "e1f300bc36d495f8a136d64e4db45985f0908f8f3a5a0742763e43ba7dafc079",
+  "in_force": "1962-12-07",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
