@@ -1,0 +1,3 @@
+Madde 5 – 1 – Bütün egemen Devletler Örgüt'ün Asli üyesi olabilirler.
+2 – RTKUB'nin olağanüstü Genel Kurulunca işbu Tüzüğün kabulü tarihinde, ulusal turizm kuruluşları RTKUB'nin Asli üyesi bulunan Devletler, Örgüt'ün Tüzüğünü ve üyeliğe ilişkin vecibeleri kabullendiklerini resmen beyan etmek suretiyle ve oylamaya lüzum kalmaksızın Örgüt'ün Asli Üyesi olmağa hak kazanırlar.
+3 – Diğer Devletler, Genel Kurulda, oylamada hazır bulunan ve oy veren Asli Üyelerin üçte iki çoğunluğu ile Örgüt'e Asli Üye olabilirler. Ancak, anılan üçte iki çoğunluğun, Örgüt'ün Asli Üyelerinin çoğunluğunu kapsaması gerekir.

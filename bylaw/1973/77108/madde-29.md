@@ -1,0 +1,2 @@
+Madde 29 – 1 – İşbu Tüzükte karşıt hükümler bulunmaması kaydıyla, Kurulda her konuyla ilgili kararlar, oylamada hazır bulunan ve oy veren Asli Üyelerin basit çoğunluğuyla alınır.
+2 – Üyelere, mali ve bütçe ile ilgili yükümler getiren konularda, Örgüt merkezinin yeri konusunda ve Asli Üyelerin, basit çoğunluğunun özel bir önem atfettiği diğer herhangi bir konuda alınacak kararlar için, Kurul'da oylamada hazır bulunan ve oy veren Asli Üyelerin üçte iki çoğunluğu gereklidir.

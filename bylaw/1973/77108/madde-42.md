@@ -1,0 +1,1 @@
+Madde 42 – Ulusal turizm kuruluşları, işbu Tüzüğün kabulü tarihinde RTKUB'nin Asli üyesi bulunan ve bu Tüzüğü, onay kaydıyla kabul eden Devletler, işbu Tüzüğün yürürlüğe girişini izleyen bir yıllık süre içinde, bir Asli Üyeye tanınan bütün hak ve vecibelerle Örgüt'ün faaliyetlerine katılabilirler.

@@ -1,0 +1,1 @@
+Madde 20 – Konsey, Kurul'un toplantı dönemleri arasında ve işbu Tüzükte bir karşıt hüküm bulunmayan hallerde, Örgüt'ün görevleri ve mali kaynakları çerçevesinde, idari ve teknik yönde gerekli görülecek kararları alır ve alınan kararların kabulü zımmında Kurul'un gelecek oturumuna rapor sunar.
