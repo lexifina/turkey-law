@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4213-1382/17360",
+  "source_id": 23448,
+  "date": "1999-05-04",
+  "title": "İşçilere yapılan ayni yardımlar, hizmet erbabına ücretleri dışında net olarak sağlanmış bir menfaat olduğundan, ücret olarak kabul edilmekte olup, söz konusu madde ve malzemelerin piyasadan fatura karşılığında temin edilmesi halinde, faturalarda gösterile",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23448",
+  "source_sha256": "f020bd5c51070b322cace9883729dbb7859e7bc69df91fb9c7c1c2497a834198",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
