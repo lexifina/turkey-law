@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3900",
+  "year": 1940,
+  "title": "Ecnebilerin Türkiye'de ikamet ve seyahatleri hakkındaki 3529 numaralı kanunun bazı maddelerini tadil eden kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-07-31",
+  "gazette_issue": "4575",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4575.pdf",
+  "source_sha256": "34529332d7d3a14ca5dc203121133aa112d07feced2d848b856ebbd7cd7f2a1e",
+  "text_sha256": "f5617723bc485d14fe543e761c8d21a4c885a69e2938194344095083f2dc6158",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      21,
+      49
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103900.pdf",
+    "source_sha256": "beb5303b953809fd9454cd1be36909f24db854c006b4d288850011253bab8eb7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9358,
+    "bag": 0.8546,
+    "kd_coverage": 0.9707,
+    "kd_body_compared": 0.9707,
+    "rg_words": 222,
+    "kd_words": 239,
+    "own_anchor": false,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
