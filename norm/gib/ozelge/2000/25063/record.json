@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3019-348-375-5/15371",
+  "source_id": 25063,
+  "date": "2000-04-06",
+  "title": "İzale-i şuyu yoluyla satışı yapılan konutların  KDV oranlarının tespiti hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25063",
+  "source_sha256": "91c7eb34024069a9717d7d268d24835cd48e6452a75891960bb99ec78e2fce5a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
