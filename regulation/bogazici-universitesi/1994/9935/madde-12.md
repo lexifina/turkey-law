@@ -1,0 +1,4 @@
+Madde 12- Meslek Yüksekokulu öğrencilerinin kredi yükü, herhangi bir yarıyılda 15 krediden az olmamak koşuluyla 11 inci madde hükümleri gözönünde bulundurularak danışmanlarca düzenlenir. Bu kredi yüküne alınan tüm kredili dersler dahildir. Gerekli hallerde Meslek Yüksekokulu Yönetim Kururlu kararıyla kredi yükü 11 krediye kadar düşebilir.
+En çok iki yarıyıl içinde mezun olabilecek öğrenciler için en az kredi yükü kuralı uygulanmayabilir. Öğrenciler programlarının ilk iki yarıyılında bulunan bütün dersleri ilk açıldıklarında almak zorundadırlar. İlk iki yarıyıl öğrencileri ders bırakamazlar.
+Akademik takvimde belirtilen süreler içinde yapılan "ders ekleme-ders bırakma" işlemleri, ders öğretim elemanlarının ve danışmanın onayı olmadan ve belgeleri Kayıt İşleri Şube Müdürlüğü'ne teslim etmeden kesinleşmez.
+"Ders ekleme - bırakma işlemleri Akademik Takvimde belirtilen süreler dışında yapılamaz." (ÜYK, 97/39)

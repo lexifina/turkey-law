@@ -1,0 +1,2 @@
+Sınamalı Öğrenciler
+Madde 21- Herhangi bir yarıyıl sonunda GPA'ları 2.00'ın altında olan öğrenciler, sınamalı öğrenci sayılırlar. Sınamalı öğrencilere fazla ders yükü verilmez. Bu öğrenciler Boğaziçi Üniversitesi Öğrenci İşleri Şube Müdürlüğü'ne bağlı olarak faaliyette bulunan Kulüplere ve Spor Kurulu'na başkan, başkan yardımcısı ve yönetim kurulu üyesi olamazlar ve Üniversite burslarından yararlanamazlar.

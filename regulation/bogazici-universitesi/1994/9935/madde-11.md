@@ -1,0 +1,6 @@
+Ders Programları ve Kredi Yükü
+Madde 11- Bir Meslek Yüksekokulu eğitim ve öğretim programı, mezun olmak için öngörülen gerekli teorik ders, laboratuvar, staj ve benzeri çalışmalardan oluşur. Programların hazırladıkları bu programlar ve içerikler Meslek Yüksekokulu Kurulunun teklifi ve Üniversite Senatosu'nun onayı ile kesinleşir. Kesinleşen Programlar en erken, izleyen akademik yılın başından itibaren uygulamaya konur.
+Bir Meslek Yüksekokulu programına kayıtlı olan öğrenciler, Lisans Bölümleri'nce verilen dersleri kredili olarak alamazlar.
+Her öğrencinin kayıtlı bulunduğu programın önerisiyle Meslek Yüksekokulu Yönetim Kurulunca görevlendirilen bir danışmanı vardır. Öğrencinin her yarıyılda izleyeceği dersler ve bunlarda yapılabilecek değişiklikler, programdaki sıra esas alınmak üzere, başarı durumu, önşartlar ve yönetmelik hükümleri gözönünde tutularak, danışmanın onayı olmadan kesinleşmez. Gerekli hallerde Meslek Yüksekokulu Yönetim Kurulundan karar istenir.
+Ders Programlarında her yarıyıl için öngörülen kredi tutarından fazla ders yükü ile ilgili esaslar Meslek Yüksekokulu Yönetim Kurulunca belirlenir.
+Üniversitede verilen PE, SP, ART ve PA kodlu derslerden sadece uygulamalı olanlar için sadece P ve F notları verilir.

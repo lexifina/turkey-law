@@ -1,0 +1,3 @@
+Öğretim Dili
+Madde 2- Boğaziçi Üniversitesi'nde öğretim dili İngilizcedir. ÖSS ile Meslek Yüksekokulu'na yerleştirilen öğrencilerden İngilizce dil bilgilerinin yeterli olduğunu Yabancı Diller Yüksekokulu'nca önerilerek Senatoca kabul edilen bir dil sınavı ile kanıtlayanlar, yerleştirildikleri programlara kayıt yaptırabilirler. Diğerleri Yabancı Diller Yüksekokulu, Hazırlık Okulu Yönetmeliği uyarınca öğrenim görürler.
+Üniversite dışından yatay geçiş yapmak veya özel öğrenci olmak için başvuruda bulunanlar İngilizce dil bilgilerini yukarıdaki şartlara uygun bir dil sınavı ile kanıtlamış olmak zorundadırlar, aksi halde kabulleri yapılmaz.

@@ -1,0 +1,1 @@
+Madde 9- Boğaziçi Üniversitesi Lisan Eğitim- Öğretim Yönetmeliği 21 inci maddesine göre önlisans diploması almaya hak kazanan öğrencilerin başvuruları üniversite içi geçiş esaslarına göre incelenir. Bunlardan başvurdukları programı en çok 2 yarıyıl içinde bitirecek olanlara geçiş hakkı tanınabilir.

@@ -1,0 +1,3 @@
+Not Ortalamaları
+Madde 20- Öğrencilerin başarı durumları, bitirdikleri yarıyılda almış oldukları derslere ait "Yarıyıl Not Ortalaması" (DNO-SPA) ve almış oldukları tüm dersler için hesaplanan"Genel Not Ortalaması" (GNO-GPA) ile izlenir.
+Bu ortalamalar, ilgili derslerden 15 inci maddeye göre alınmış notlardan, herbirinin karşılığı olan ağırlıklarının, o dersin Üniversite Senatosu'nca belirlenen kredisi ile çarpılarak bulunan sayıların toplamının, aynı derslerin kredi toplamına bölünmesi ile elde edilir. Sonuçlarda, virgülden sonraki üçüncü hane 5'den küçükse sıfıra; 5 veya 5'ten büyükse, ikinci haneyi 1 artıracak şekilde yuvarlayarak, iki hane esas alınır.

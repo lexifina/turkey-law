@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 29- Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme Madde 30- Bu Yönetmeliği Boğaziçi Üniversitesi Rektörü yürütür."
+  ],
+  "date_evidence": [
+    [
+      "1994-07-10",
+      "10.07.1994",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 29- Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme Madde 30- Bu Yönetmeliği Boğaziçi Üniversitesi Rektörü yürütür.",
+  "first_law": null,
+  "gazette": "21986",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1994-07-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Boğaziçi Üniversitesi",
+  "issuer_slug": "bogazici-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bogazici-universitesi/1994/9935",
+  "published": "1994-07-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=9935&MevzuatTertip=5",
+  "source_bytes": 76884,
+  "source_id": "8.5.9935",
+  "source_sha256": "a03b99c3e5f465742eec55c0aaa9319ec0c99576c3a834c9fa5229303bba9315",
+  "text_status": "as-enacted",
+  "title": "BOĞAZİÇİ ÜNİVERSİTESİ MESLEK YÜKSEKOKULU EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 183,
+  "word_count": 3976
+}

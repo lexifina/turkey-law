@@ -1,0 +1,4 @@
+Geçişlerde Kredi ve Süre Onayı
+Madde 6- Üniversite dışından veya içinden geçiş yapmasına karar verilen öğrencinin, evvelce almış olduğu derslerden hangilerinin, geçiş yaptığı Programdaki hangi derslere karşılık sayıldığı (geçiş kredisi) Programın önerisi üzerine, Meslek Yüksekokulu Yönetim Kurulunca karara bağlanır.
+Öğrenciye verilen geçiş kredisi tutarının (2547 sayılı Yasanın 5 inci maddesinin (ı) bendinde belirtilen derslerin kredileri hariç) 17'ye bölünmesiyle elde edilen sayıya en yakın tam sayıya kadar yarıyıl, 22/b maddedeki sürelere sayılır. Sayılan dönem sayısı Meslek Yüksekokulu Yönetim Kurulu kararında ayrıca belirtilir.
+Öğrenciler, geçişin gerçekleştiği yarıyılı izleyen yarıyılın kayıt dönemine kadar, geçiş kredilerinde değişiklik isteyebilirler. Değişiklik başvuruları Meslek Yüksekokulu Yönetim Kurulu'nca incelenir ve karara bağlanır.

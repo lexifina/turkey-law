@@ -1,0 +1,2 @@
+Çift Anadal ve Yandal Programları
+Madde 13- Bir programın öğrencileri Meslek Yüksekokulu öğrenimleri boyunca konu bakımından yakın olan başka bir programın öğrenimini aynı zamanda takip edebilirler. Bu öğretim programlarına yükümlülük ve ders yükü farklılığı gözönüne alınarak "Çift Anadal" veya "Yandal" programı denir. Bu programlar ile ilgili hususlar Meslek Yüksekokulu Çift Anadal ve Meslek Yüksekokulu Yandal iç yönetmelikleri ile belirlenir.
