@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5328-",
+  "source_id": 33210,
+  "date": "2005-01-18",
+  "title": "Taze sebze ve meyveler ile bunlann konserve, turşu, salamura ve kurutulmuş ürünleri %8 oranında Katma Değer Vergisine tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33210",
+  "source_sha256": "6a18668c15b311cfe97d40b33b74a771feb5e0aed825cfc38b89968fe0371147",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
