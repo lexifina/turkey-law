@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-2136/46820",
+  "source_id": 23475,
+  "date": "2004-09-02",
+  "title": "Vergi iade farklarının ne şekilde iade edileceği konusunda ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23475",
+  "source_sha256": "3149dc4bf4ef05d1368991080ae535bc65c8fb99983a47db1d8951db9d8eb6d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
