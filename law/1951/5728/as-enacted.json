@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5728",
+  "year": 1951,
+  "title": "Tekel Genel Müdürlüğü 1950 Yılı Bütçe Kanununa Bağlı (A) İşaretli Cetvelde Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-02-27",
+  "gazette_issue": "7745",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7745.pdf",
+  "source_sha256": "d325438b8207daa2100769be9dbc6d152931894cb31648ee2488ac13a283fcf5",
+  "text_sha256": "5e5fd668b00b908d8dde4edc313c590072a4bf9526eea0fb39a16320dd6ebf3a",
+  "text_status": "ocr",
+  "pages": [
+    21
+  ],
+  "line_span": [
+    [
+      4566,
+      4616
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305728.pdf",
+    "source_sha256": "3c172eb1cd158120850113ac2a1d3a8decc2a31d6f3ed06c19723b6e6db37098",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9203,
+    "bag": 0.8818,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 155,
+    "kd_words": 158,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
