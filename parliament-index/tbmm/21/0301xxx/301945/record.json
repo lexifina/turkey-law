@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 301945,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "TURHAN GÜVEN (MERSİN)",
+  "summary": "Sakarya Milletvekili Nevzat Ercan, Aydın Milletvekili Ali Rıza Gönül ile Amasya Milletvekili Ahmet İyimaya'nın; Milliyetçi Hareket Partisi Grup Başkanvekilleri Ankara Milletvekili Koray Aydın, Erzurum Milletvekili İsmail Köse ile Hatay Milletvekili Mehmet Şandır'ın; Adalet ve Kalkınma Partisi Grubu Başkanı Manisa Milletvekili Bülent Arınç, Başkanvekilleri Kayseri Milletvekili Salih Kapusuz ile İstanbul Milletvekili Mehmet Ali Şahin'in; Milletvekili Genel Seçimlerinin Yenilenmesi ve Seçimin 3 Kasım 2002 Tarihinde Yapılması Hakkındaki",
+  "title": "Sakarya Milletvekili Nevzat Ercan, Aydın Milletvekili Ali Rıza Gönül ile Amasya Milletvekili Ahmet İyimaya'nın; Milliyetçi Hareket Partisi Grup Başkanvekilleri Ankara Milletvekili Koray Aydın, Erzurum Milletvekili İsmail Köse ile Hatay Milletvekili Mehmet Şandır'ın; Adalet ve Kalkınma Partisi Grubu Başkanı Manisa Milletvekili Bülent Arınç, Başkanvekilleri Kayseri Milletvekili Salih Kapusuz ile İstanbul Milletvekili Mehmet Ali Şahin'in; Milletvekili Genel Seçimlerinin Yenilenmesi ve Seçimin 3 Kasım 2002 Tarihinde Yapılması Hakkındaki",
+  "first_sitting_date": "2002-07-31",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 101,
+      "sitting": 123,
+      "sitting_date": "2002-07-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c101/tbmm21101123.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c101/tbmm21101fih.pdf",
+      "pages": [
+        "396:431",
+        "445:468"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "11df2868fdc982e7f36fcf5ebc6df0c4aa48622510cd65ba78ca98a25aceae90",
+  "in_force": "2002-07-31",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
