@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 93111,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Yeniden yapılacak su işleri için gelecek senelere geçici taahhüt icrasına mezuniyet verilmesi hakkındaki 3132 sayılı kanuna ek kanun lâyihası (1/314)",
+  "title": "Yeniden yapılacak su işleri için gelecek senelere geçici taahhüt icrasına mezuniyet verilmesi hakkındaki 3132 sayılı kanuna ek kanun lâyihası (1/314)",
+  "first_sitting_date": "1944-06-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 77,
+      "sitting_date": "1944-06-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011fih.pdf",
+      "pages": [
+        "142"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 86,
+      "sitting_date": "1944-07-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c012/tbmm07012086.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c012/tbmm07012fih.pdf",
+      "pages": [
+        "105"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 88,
+      "sitting_date": "1944-08-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c013/tbmm07013088.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c013/tbmm07013fih.pdf",
+      "pages": [
+        "63",
+        "85:88"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=734&v_gelecek_sayfa=101&v_kullanici_id=27484086",
+  "source_sha256": "a79bb8d370893761b4f4e8d937a061f4446dde966951333dad25ee80bd39fefc",
+  "in_force": "1944-06-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
