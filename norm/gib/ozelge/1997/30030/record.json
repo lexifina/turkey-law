@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5511-1916/21498",
+  "source_id": 30030,
+  "date": "1997-05-26",
+  "title": "Serbest bölgeye yapılacak mal ve hizmet teslimleri ile serbest bölgeden yapılan ithalat K.D.V.ye tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30030",
+  "source_sha256": "4476b2728efb51cd073000ae27cb8673f9606cbcac00fa32df98f9606549c831",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
