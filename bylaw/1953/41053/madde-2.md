@@ -1,0 +1,1 @@
+Madde 2 – 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun 52 nci maddesi gereğince tanzim ve Devlet Şürasınca tetkik edilmiş olan bu Nizamname hükümleri, Resmi Gazete ile neşredildiğinin ertesi gününden başlıyarak yürürlüğe girer.
