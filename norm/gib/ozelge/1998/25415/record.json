@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6507-2-003590",
+  "source_id": 25415,
+  "date": "1998-02-09",
+  "title": "Fireye uğrayan mallara ilişkin olarak mali değeri olmayan ödeme kaydedici cihaz fişine istinaden gider kaydının  yapılamayacağı hk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/25415",
+  "source_sha256": "11e47c3c9f3916cd8ed0b14e60bf8cb9703afe24bc7c9c94f083df3a45ac1016",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
