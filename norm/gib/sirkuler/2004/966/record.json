@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK- 18 /2004- 18",
+  "source_id": 966,
+  "date": "2004-06-24",
+  "title": "Vergi Usul Kanununun mükerrer 290 ıncı maddesine göre finansal kiralama tanımına girmeyen ancak 3226 sayılı Finansal Kiralama Kanunu kapsamında finansal kiralama şirketlerine veya finansal kiralama şirketlerince yapılan kiralama işlemlerine; Katma Değer V",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/966",
+  "source_sha256": "7eb4aa325adde8aa6d3dd944e12b16db6df30aebec75504ad1e263ece5de1fc1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
