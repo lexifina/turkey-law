@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4059-33/12116",
+  "source_id": 24275,
+  "date": "1999-03-24",
+  "title": "Türkiye'de yerleşik kişilerin off-shore bankalarında (kıyı bankacılığı) veya yurt dışındaki herhangi bir bankada mevduat hesabı açtırarak faiz geliri elde etmeleri halinde, tam mükellefiyet esasında yurt dışından elde edilen gelir niteliğindeki bu gelirin",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24275",
+  "source_sha256": "5def62374317cf7e6ad27a46aae23a203fe04d4272ac9f8ccb26ab6ccbea329f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
