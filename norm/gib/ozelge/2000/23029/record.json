@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4403-271/34349",
+  "source_id": 23029,
+  "date": "2000-07-19",
+  "title": "Limited şirket ortaklarının basit usule tabi olmanın genel ve özel şartlarını topluca taşımaları kaydıyla basit usulde vergilendirilmeleri, aksi halde gerçek usulde vergilendirilmeleri gerekmektedir",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23029",
+  "source_sha256": "ee5005c92ead51b0289083fb3589fd8badd341345b96801c75a76b14db5681aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
