@@ -1,0 +1,13 @@
+{
+  "number": "02-04/40-21",
+  "type": "Rekabet İhlali",
+  "decision_date": "2002-01-22",
+  "publication_date": "2003-05-26",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=fd84e331-e411-4344-a854-5b3003eb4532",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1003",
+  "pdf_sha256": "dc6fb3bd99fb938ae4f2b49459ee978d74b6a4ef26c597c918c61a6dd92334dc",
+  "pdf_bytes": "533852",
+  "pages": "39",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
