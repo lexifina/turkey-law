@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK- 8 /2003-8 / Ücretlilerde Özel Gider İndirimi",
+  "source_id": 649,
+  "date": "2003-12-24",
+  "title": "Özel Gider İndirimi Uygulaması ve Ücretlilerde Vergi İndirimi Uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/649",
+  "source_sha256": "252588f1083da6f411b4d5cfc895365cbb11eb450d54c5ef02fb98a009a144b6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
