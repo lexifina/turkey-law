@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.5441",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMAN EMVALİNİN İSTİHSALİNE AİT YÖNETMELİK",
+  "number": "5441",
+  "issuer": "Orman Genel Müdürlüğü",
+  "issuer_slug": "orman-genel-mudurlugu",
+  "path": "regulation/orman-genel-mudurlugu/1986/5441",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5441&MevzuatTertip=5",
+  "source_sha256": "d4c71a8304258cbf43a9ce9e0a420753e796d38a3c149cc7a205b829f1b2c86f",
+  "source_bytes": 41565,
+  "published": "1986-09-24",
+  "gazette": "19231",
+  "in_force": "1986-09-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.09.1986); own commencement article: \"Bu yönetmelik Resmi Gazetede yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu yönetmelik Resmi Gazetede yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1942,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

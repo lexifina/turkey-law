@@ -1,0 +1,3 @@
+Orman İçi İstif Yerine Taşımayla İlgili Kayıt İşleri
+Madde 17-Ölçü tutanağına kaydı yapılan emval, belirlenmiş güzergahlardan, mahalli iş gücü imkanları da dikkate alınarak, kesim bölümlerinden orman içi istif yerlerine taşınır ve taşınan emval, “ Taşıma Alındı Belgesi”ne kesim, bölmelerinde devreden stokla birlikte, istihsal edilip orman içi istif yerlerine giren, çıkan ve kalan emval“ Bölge ve Orman İçi İstif Yeri Stok Takip Defteri”ne günlük olarak işlenir.
+Kesim bölmelerinde istihsal ve sürütme işinin Şartnamesinde belirtilen süre sonunda iş sahiplerinin, işi şartnamesine uygun bitirip bitirmedikleri tesbit olunur ve “ Kesim Bölmesi Muayene Tutanağı” tanzim edilir.

@@ -1,0 +1,4 @@
+İstihsal İşinin İhtilafsız Alanlarda Tevzii
+Madde 11- Kesilecek ağaçlar: iş yerinin veya iş yerindeki çalışacakların hangi mülki sınır ve Orman Teşkilatı sınırları içerisinde kaldığına bakılmaksızın, öncelikle ve sırası ile iş yerinde ve civarındaki Orman Köylülerini Kalkındırma Kooperatiflerine ve iş yerindeki köylülere veya iş yeri civarındaki orman işlerinde çalışan köylülere, iş yerine olan uzaklıkları ile iş güçleri dikkate alınarak tevzii edilir. Tevziat Orman İşletme Şefi ve Görevli memurların huzurunda, ağaç numaralarına göre kura ile yapılır ve bir tutanakla belgelenir.
+İş yerinde hem kooperatifi hem de kooperatife üye olmayan köylüler var ise iş güçleri dikkate alınarak iş tevzii edilir Bu tevziattan kooperatife isabet eden iş için kur’a çekilmez iş bütünüyle kooperatife verilir. Köylüye isabet eden iş ise kur’a ile tevzii edilir.
+İş yerinde birden fazla kooperatif var ise; iş, iş güçleri dikkate alınarak kooperatiflere tevzii edilir.
