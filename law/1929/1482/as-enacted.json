@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1482",
+  "year": 1929,
+  "title": "Demiryolları ve limanları ile su işleri için (240.000.000) liralık tahsisat itası ve bu miktara kadar taahhüdat icrasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-03",
+  "gazette_issue": "1206",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1206.pdf",
+  "source_sha256": "3071dd5b553d09eef793b6b21d9c23e28f05efa13f23b8dc26a168c7027b5f83",
+  "text_sha256": "3c59cb8fbdcb79b5ecd6495235ad8ce555110b59cf7797397a67e69fbe1a5769",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      605,
+      667
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701482.pdf",
+    "source_sha256": "a56898599421c95922de1b2d98fe6cd2c7b114a69ac51835985cad8b025cb649",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.976,
+    "bag": 0.8145,
+    "kd_coverage": 0.9723,
+    "kd_body_compared": 0.9723,
+    "rg_words": 223,
+    "kd_words": 253,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
