@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6601-681/28241",
+  "source_id": 37277,
+  "date": "2004-06-18",
+  "title": "Atıksuya ilişkin  çevre temizlik vergisinin alınıp alınmayacağı konusu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37277",
+  "source_sha256": "93f343d7ba0fd997340e463e227ace44b6688ceac5b7bfe3c1df55001aa033b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
