@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2206/21253\t",
+  "source_id": 27229,
+  "date": "2000-05-04",
+  "title": "Pişmanlık hükümlerinin V.İ.V.' de uygulanıp uygulanmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/27229",
+  "source_sha256": "ef1fdd812a805ba8a93ed8849b45b79e1d6dc1eb1a77ad25f640e9a275aa6fb7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
