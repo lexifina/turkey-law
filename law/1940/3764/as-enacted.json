@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3764",
+  "year": 1940,
+  "title": "Umuru belediyeye müteallik ahkâmı cezaiye hakkında 16 Nisan 1340 tarih ve 486 numaralı kanunun bazı maddelerini muaddil 1608 sayılı kanunun birinci maddesini değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-01-10",
+  "gazette_issue": "4406",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4406.pdf",
+  "source_sha256": "42f9bb0274b49fa790795ee5a8dbca2d6e25dc190086f0f35dbc098a507e3385",
+  "text_sha256": "a904960a718f8a96321d4a16e318b118b55106729d583c0aafbeaecd7ec4971b",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      226,
+      252
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103764.pdf",
+    "source_sha256": "c6291370bb4588e51248a03ac733640c8559012ef954db7aebd96b61a371dc14",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9795,
+    "bag": 0.8864,
+    "kd_coverage": 0.9571,
+    "kd_body_compared": 0.9371,
+    "rg_words": 139,
+    "kd_words": 143,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
