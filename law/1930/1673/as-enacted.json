@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1673",
+  "year": 1930,
+  "title": "Beynelmilel eşya nakline mütedair mukavele ile beynelmilel yolcu ve yolcu ağırlığı nakliyatına ait olan mukaveleye iltihak hakkında kanun.",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-06-02",
+  "gazette_issue": "1509",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1509.pdf",
+  "source_sha256": "43b9e33a2eb345ec5ebf88a783c90bb5d6502933037e9569d42b110688f8d163",
+  "text_sha256": "9b136a74af03b7e716894a63ea9be1fed45552740f41f35890a664065319afeb",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      806,
+      827
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801673.pdf",
+    "source_sha256": "7f0c7ff2e0ba492afb3c731f48ed6729d814decff8d8679ab5b101da5cb310e1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9491,
+    "bag": 0.8855,
+    "kd_coverage": 0.9538,
+    "kd_body_compared": 0.9538,
+    "rg_words": 69,
+    "kd_words": 65,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
