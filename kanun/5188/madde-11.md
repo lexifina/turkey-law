@@ -1,0 +1,6 @@
+Çalışma izni
+MADDE 11. — Özel güvenlik görevlisi olarak istihdam edilecekler ile özel güvenlik şirketlerinde ve özel güvenlik eğitimi verecek kurumlarda yönetici olarak çalışacaklar hakkında valilikçe güvenlik soruşturması yapılır. Soruşturma sonucu olumlu olanlara, bu Kanunun 14 üncü maddesinde belirtilen özel güvenlik temel eğitimini başarıyla bitirmiş olmak şartıyla, valilikçe beş yıl süreli çalışma izni verilir. Ateşli silah taşımayacak özel güvenlik görevlileri hakkında sadece arşiv araştırması yapılır. Güvenlik soruşturması ve arşiv araştırması bir ay içinde tamamlanır.
+Göreve başlayan özel güvenlik görevlileri işveren tarafından onbeş gün içinde valiliğe bildirilir.
+Çalışma izninin yenilenebilmesi için, güvenlik soruşturmasının olumlu olması ve Kanunun 14 üncü maddesinde belirtilen özel güvenlik yenileme eğitiminin başarıyla tamamlanmış olması zorunludur.
+Özel güvenlik görevlilerinde aranan şartlardan herhangi birisinin kaybedilmesi halinde çalışma izni iptal edilir.
+Genel kolluk kuvvetinden emekli olanlar ile en az beş yıl fiilen bu görevde çalıştıktan sonra kendi istekleriyle görevinden ayrılmış olanlarda, görevlerinden ayrıldıkları tarihten itibaren beş yıl süreyle özel güvenlik temel eğitimi şartı aranmaz.

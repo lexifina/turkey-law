@@ -1,0 +1,4 @@
+Eğitim
+MADDE 14. — Özel güvenlik temel eğitimi teorik ve pratik eğitim ile silah eğitiminden oluşmak üzere yüzyirmi ders saatinden; yenileme eğitimi altmış ders saatinden az olmamak üzere düzenlenir. Halen bünyesinde güvenlik fakültesi veya meslek yüksek okulu bulunan ve bünyesinde güvenlik bölümleri (fakülte veya meslek yüksek okulu) açabilecek olan üniversitelerin bu bölümlerinden mezun olanlarda beş yıl süreyle silah eğitimi hariç özel güvenlik temel eğitimi şartı aranmaz.
+Özel güvenlik eğitimi ücreti karşılığında İçişleri Bakanlığınca verilebileceği gibi, Bakanlığın izni ile özel eğitim kurumlarınca da verilebilir. Özel güvenlik eğitimi verecek kurumların kurucu ve yöneticilerinde 5 inci maddenin üçüncü fıkrasında belirtilen şartlar aranır.
+Özel güvenlik eğitiminin niteliği, müfredatı, eğiticilerde ve eğitim merkezlerinde aranacak şartlar ile eğitim sonucu yeterliliğin belirlenmesine ilişkin esas ve usuller yönetmelikle düzenlenir.
