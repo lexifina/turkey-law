@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.gel0.40/4022-34/012943",
+  "source_id": 24280,
+  "date": "2005-03-18",
+  "title": "Gelirin toplanması ve beyanı hususunda tereddüde düşülen konular hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24280",
+  "source_sha256": "05ce42b4b550936411ae2148dc31ee31d97c4845eb0bf1ca06f48c5372639620",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
