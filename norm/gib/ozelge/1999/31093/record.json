@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5511-1901/57013",
+  "source_id": 31093,
+  "date": "1999-12-24",
+  "title": "Sanayi Sicil Belgesine sahip olmayan mükelleflerin tecil-terkin uygulamasından yararlanmaları mümkün olup, sanayi sicil belgesi sahibi mükelleflerin bu belgelerin vizesi için müracaat etmeleri yeterli bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31093",
+  "source_sha256": "d003bba16f238cc3d77169de45f10acd1c1096b0629520af1d2d00e868382abd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
