@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6314-270/16020",
+  "source_id": 38206,
+  "date": "1999-04-27",
+  "title": "Özelleştirme yasası kapsamında yer alan kuruluşların satın alınması amacıyla olsa dahi bankalarca kişi ya da kuruluşlara kullandırılacak kredi ile ilgili işlemleri özelleştirme konusunda yapılan işlemler değildir ve bu tür kredi verilmesi işlemleri nedeni",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38206",
+  "source_sha256": "bdcb48036b23ab4dcfca40372070ccd6e06d62b933203c358e63a9cb819ee8d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
