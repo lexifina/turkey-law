@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.30/3024-352-482/42231",
+  "source_id": 27184,
+  "date": "2000-09-12",
+  "title": "Basit usulde vergilendirilen mükellefler hakkında asgari cezanın ne şekilde uygulanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27184",
+  "source_sha256": "42593d8f530fb210fa43678e9f3e74a78020d234e3d5350cb285f2f8fbabd87d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
