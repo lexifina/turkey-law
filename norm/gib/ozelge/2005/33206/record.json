@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5428-",
+  "source_id": 33206,
+  "date": "2005-03-10",
+  "title": "Pirinç. bulgur. makarna, mantı, erişte. her nevi ekmek (I sayılı listenin 5 inci sırasında belirtilen ekmekler hariç). simit, pogaça, galeta. kadayıf ile hububat. bakliyat, pirinç ve bulgurdan elde edilen un ve irmiklerin %8 oranında katma değer vergisine",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33206",
+  "source_sha256": "bc5d504403f431a3b1248b2e3a581e34c10cc22f84ade7eeefe468421af92988",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
