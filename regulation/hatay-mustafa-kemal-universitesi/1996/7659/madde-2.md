@@ -1,0 +1,1 @@
+Madde 2-Merkezin amacı, yabancı diller konusunda araştırmalar ve incelemeler yapmak, ilgili yerli ve yabancı kurumlar ile bu doğrultuda işbirliğine girmek ve yabancı diller eğitimi konusunda programlar hazırlamak ve uygulamaktır.
