@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 122814,
+  "assembly": "TBMM",
+  "term": 3,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "1340 senesi hesabı kati kanun lâyihası ve 1340 senesi hesabı katisine mütedair mutabakat beyannamesinin takdim olunduğu hakkında Divanı muhasebat reisliği tezkeresine dair.",
+  "title": "1340 senesi hesabı kati kanun lâyihası ve 1340 senesi hesabı katisine mütedair mutabakat beyannamesinin takdim olunduğu hakkında Divanı muhasebat reisliği tezkeresine dair.",
+  "first_sitting_date": "1928-03-10",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 52,
+      "sitting_date": "1928-03-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003052.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/ehttbmm03003052.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003fih.pdf",
+      "pages": [
+        "21"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 39,
+      "sitting_date": "1929-03-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c009/tbmm03009039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c009/tbmm03009fih.pdf",
+      "pages": [
+        "2",
+        "16"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1561&v_gelecek_sayfa=401&v_kullanici_id=27483795",
+  "source_sha256": "4738b87a134056278d0323ce92020d92f7c12e6aa6da760c8160dfd900f5adab",
+  "in_force": "1928-03-10",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
