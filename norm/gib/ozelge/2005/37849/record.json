@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4402-266/ 2326",
+  "source_id": 37849,
+  "date": "2005-01-17",
+  "title": "Hamallara yapılan ödemeler...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37849",
+  "source_sha256": "eff4f3b83dda9ddb87174c869ac5bc37f1d135d5f74df615a92a4fff34bd6d81",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
