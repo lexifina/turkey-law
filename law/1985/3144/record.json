@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3144",
+  "year": 1985,
+  "title": "23.1.1953 Tarih ve 6023 Sayılı Türk Tabipleri Birliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Madde Eklenmesi Hakkında Kanun Hükmünde Kararnameile 23.1.1953 Tarihli ve 6023 Sayılı Türk Tabipleri Birliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Madde Eklenmesi Hakkında 24.5.1983 Tarihli ve 65 Sayılı Kanun Hükmünde Kararnamenin Bazı Hükümleri ile 6023 Sayılı Kanunun Bazı Hükümlerinin Değiştirilmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun",
+  "adopted": "1985-01-08",
+  "adopted_as_published": "08/01/1985",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18.01.1985 No: 18639",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803144.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 68",
+  "committee_reports": [
+    {
+      "label": "TBMM 208 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c012/tbmm17012050ss0208.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 241334,
+      "title": "23.1.1953 Tarih ve 6023 Sayılı Türk Tabipleri Birliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Madde Eklenmesi Hakkında Kanun Hükmünde Kararnameile 23.1.1953 Tarihli ve 6023 Sayılı Türk Tabipleri Birliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Madde Eklenmesi Hakkında 24.5.1983 Tarihli ve 65 Sayılı Kanun Hükmünde Kararnamenin Bazı Hükümleri ile 6023 Sayılı Kanunun Bazı Hükümlerinin Değiştirilmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun",
+      "adopted_as_published": "08/01/1985",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803144.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 208 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c012/tbmm17012050ss0208.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 80,
+          "sitting_date": "1984-06-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+          "pages": [
+            "377"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 39,
+          "sitting_date": "1984-12-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c009/tbmm17009039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c009/tbmm17009fih.pdf",
+          "pages": [
+            "286"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 50,
+          "sitting_date": "1985-01-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c012/tbmm17012050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c012/tbmm17012fih.pdf",
+          "pages": [
+            "100:110"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=101&v_kullanici_id=27483190",
+      "page_sha256": "ea56a9603e47224a927a44e02ec5568f795bda52beced9e9df249912bcba60cd"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ea56a9603e47224a927a44e02ec5568f795bda52beced9e9df249912bcba60cd",
+  "issuer": "TBMM",
+  "in_force": "1985-01-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 08/01/1985; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
