@@ -1,0 +1,31 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-08-05",
+  "issue": "25544",
+  "edition": "regular",
+  "item": 4,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Ankara Üniversitesi Rektörlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040805-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (5 = 5)",
+  "ilan_codes": [
+    "9981/1-1",
+    "9982/1-1",
+    "9983/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040805-3.htm",
+  "category_page_sha256": "8bdab0270682f0baf82e6296523905ab83523dc8f032d352df7e92298fe7c075",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040805.htm",
+  "index_sha256": "417ed5bdf8624e24100da308f95b66c8a42d3dc434193ff8b299f53d8a702762",
+  "index_header": "5 Ağustos 2004 ... Sayı : 25544",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
