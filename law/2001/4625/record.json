@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4625",
+  "year": 2001,
+  "title": "Güneydoğu Avrupa Çokuluslu Barış Gücü Anlaşmasının Üçüncü Ek Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2001-02-08",
+  "adopted_as_published": "08/02/2001",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "15.02.2001 No: 24319",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc085/kanuntbmmc085/kanuntbmmc08504625.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 85",
+  "committee_reports": [
+    {
+      "label": "TBMM 588 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c054/tbmm21054056ss0588.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 288431,
+      "title": "Güneydoğu Avrupa Çokuluslu Barış Gücü Anlaşmasının Üçüncü Ek Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "08/02/2001",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc085/kanuntbmmc085/kanuntbmmc08504625.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 588 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c054/tbmm21054056ss0588.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 42,
+          "sitting": 11,
+          "sitting_date": "2000-11-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c042/tbmm21042011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c042/tbmm21042fih.pdf",
+          "pages": [
+            "415"
+          ]
+        },
+        {
+          "cilt": 53,
+          "sitting": 49,
+          "sitting_date": "2001-01-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c053/tbmm21053049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c053/tbmm21053fih.pdf",
+          "pages": [
+            "412"
+          ]
+        },
+        {
+          "cilt": 54,
+          "sitting": 56,
+          "sitting_date": "2001-02-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c054/tbmm21054056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c054/tbmm21054fih.pdf",
+          "pages": [
+            "420:427",
+            "486:509"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=201&v_kullanici_id=27483196",
+      "page_sha256": "27f6349c470be789884dbe548b81e4090c3b758dd96480247e2d1a6081a31714"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "27f6349c470be789884dbe548b81e4090c3b758dd96480247e2d1a6081a31714",
+  "issuer": "TBMM",
+  "in_force": "2001-02-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 08/02/2001; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
