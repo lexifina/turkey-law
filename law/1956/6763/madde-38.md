@@ -1,0 +1,1 @@
+Madde 38 – Para kıymetinin değişmesi halinde İcra Vekilleri Heyeti yeni kanunun 1114 üncü maddesinde tesbit edilen tazminat borcunun en yüksek haddini halin icabına uygun olarak yeniden tesbit etmeye salahiyetlidir.

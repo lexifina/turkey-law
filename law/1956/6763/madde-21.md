@@ -1,0 +1,2 @@
+Madde 21 – Türk Ticaret Kanununun yürürlüğe girmesinden önce anonim şirket müstahdem ve işçileri için yardım sandıkları ve sair yardım tesisatı kurulması ve idamesi maksadiyle akçe ayrılmış ise akçeye tahsis olunan mallar, zikrı geçen andan itibaren iki yıl içinde, şirket mallarından ayrılacak ve bunlarla Medeni Kanun hükümleri gereğince bir tesis kurulacaktır. Türk Ticaret Kanununun 468 inci maddesinin 3 ve 4 üncü fıkraları da tatbik olunur.
+4. Şirkete iktisap edilmiş olan hisse senetleri

@@ -1,0 +1,5 @@
+Madde 20 – Yeni kanunun mer'iyetinde ticaret siciline kayıtlı bulunan anonim şirketlerden esas mukaveleleri yeni kanunun yukarıki maddede anılan maddelerdekinden gayrı olan amir hükümlerine uymıyanlar yeni kanunun mer'iyetinden itibaren iki yıl içinde esas mukavelelerini yeni hükümlere uydurarak tescil ettirmedikleri takdirde bu müddetin geçmesiyle münfesih olurlar. Şu kadar ki, işbu kanunun 23 üncü maddesi hükmü mahfuzdur. (1)
+İnfisah ve tasfiye hakkında bu kanunun 18 inci maddesi hükümleri de tatbik olunur.
+Esas sermayesi beş yüz bin Türk lirasından aşağı olan bir anonim şirket yeni kanunun 553 üncü maddesi hükmünce bir limited şirkete çevrilirse aynı kanunun 554 üncü maddesi ve eğer esas sermaye beş yüz bin liraya kadar artırılırsa aynı kanunun 391 inci maddesi tatbik olunmaz.
+Bu maddedeki işlere ait umumi heyet kararları hakkında yeni kanunun 388 inci maddesinin üçüncü fıkrasının son cümlesiyle 4 üncü ve 5 inci fıkraları tatbik olunur. Bu işler için iktisat ve Ticaret Vekaletinden müsaade alınmaz.
+3. Müstahdem ve işçiler lehinde yardım akçesi

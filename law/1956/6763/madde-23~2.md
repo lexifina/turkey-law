@@ -1,0 +1,39 @@
+Kanundaki ıstılahlar
+Madde 23 – Bu kanunun tatbikında: (İpotek) tabiri ipotekleri, ipotekli borç senetlerini, irat senetlerini, gemi ipoteklerini, eski hukuk hükümlerine göre tesis edilmiş gayrimenkul rehinlerini, gayrimenkul mükellefiyetlerini, bazı gayrimenkuller üzerindeki hususi imtiyazları ve gayrimenkul teferruatı üzerine rehin muamelelerini,
+(Menkul rehni) tabiri, teslimi meşrut rehinleri, hayvan rehinlerini, hapis hakkını, alacak ve sair haklar üzerindeki rehinleri,
+Sadece (Rehin) tabiri, (İpotek) ve (Menkul rehni) tabirlerine giren bütün menkul ve gayrimenkul rehinlerini ihtiva eder.
+(Gayrimenkul) tabiri, gemi siciline kayıtlı olan gemilere de şamildir. Diğer gemiler bu kanun hükmünce menkul sayılır.
+b) 24 üncü maddeye eklenen 7 nci fıkra: 26 ncı maddenin 3 ve 4 üncü fıkraları, gemi siciline kayıtlı olmıyan gemiler hakkında da tatbik olunur.
+c) 27 nci maddeye eklenen ikinci fıkra: Gemi siciline kayıtlı olan gemi, borçlunun elinde bulunmazsa alacaklı borçlunun gemiyi işgal etmekte olan şahsa karşı sahip olduğu hakları haiz olur. Şu kadar ki, gemi üçüncü bir şahıs tarafından davadan sonra ve hükümden önce gemi siciline geçirilmiş bir akit sebebiyle işgal edilmekte ise birinci fıkra hükmü tatbik olunur.
+Gayrimenkul davalarında hükümlerin tapu ve gemi sicil dairelerine tebliği
+d) Madde 28 – Gayrimenkul davalarında davacının lehine hüküm verildiği takdirde mahkeme davacının talebine hacet kalmaksızın hüküm tefhimi ile beraber hulasasını tapu ve gemi sicili dairelerine bildirir. İlgili daire bu ciheti hükmolunan gayrimenkul veya geminin kaydına şerh verir. Bu şerh Medeni Kanunun 920 nci maddesinin ikinci fıkrası ve tescil edilmiş gemiler hakkında da Ticaret Kanununun 879 uncu maddesinin ikinci fıkrası hükmüne tabidir.
+Gayrimenkul davası üzerine verilen karar ileride davacının aleyhine kesinleşirse mahkeme, derhal bu hükmün hulasasını da tapu veya gemi sicili dairesine bildirir.
+Gayrimenkul hakkındaki hükümlerden sonra yedin tebeddülü
+e) Madde 29 – Hükmün tapu veya gemi sicili dairesine bildirilmesinden sonraki tebeddüllerin icra muamelelerine tesiri olmaz. Hükümde gösterilen şey kimin elinde ise ondan alınıp alacaklıya teslim olunur.
+Şu kadar ki, o yer veya gemide bulunan üçüncü şahıs bu malı borçludan teslim almış olmayıp onu doğrudan doğruya işgal etmekte bulunduğunu bildiren bir tapu veya gemi sicili kaydı gösterirse mahkemeye müracaatla dava açması için kendisine yedi gün mühlet verilir. Bu müddet içinde dava açılırsa icra geri bırakılır.
+İrtifak haklariyle gemi üzerindeki intifa haklarına mütedair ilamlar
+f) Madde 31 – Bir irtifak hakkının veya gemi siciline kayıtlı olan bir gemi üzerindeki intifa hakkının kaldırılmasına yahut böyle bir hakkın tahmiline mütedair ilam icra dairesine verilince icra memuru 24 üncü maddede yazılı şekilde 7 günlük bir icra emri gönderir. Borçlu muhalefet ederse ilamın hükmü zorla icra olunur.
+3045
+g) 94 üncü maddenin ikinci fıkrası: Borçlunun reddetmediği miras veya başka bir sebeple iktisap eyleyip henüz tapuya veya gemi siciline tescil ettirmediği mülkiyet veya diğer ayni hakların borçlu namına tescili, alakalı tarafından istenebilir. Bu talep üzerine icra dairesi alacaklının bu muameleyi takibedebileceğini tapu veya gemi sicili dairelerine ve icabında mahkemeye bildirir.
+h) 97 nci maddenin, 7 nci fıkrası: Kiralanan yer veya sicille kayıtlı gemilerdeki hapis hakkına tabi eşyaya mütaallik istihkak davaları Borçlar Kanununun 268 inci maddesinin birinci fıkrasında yazılı hükümlere uygun olmadıkça talik emri verilemez.
+Gemiler hakkında
+i) Madde 136 – Gayrimenkul malların satışına ait olan hükümler, gemi siciline kayıtlı gemiler hakkında da tatbik olunur. Bu hükümlerde geçen (Tapu sicili) tabirleri, gemi sicilini ve (İrtifak hakkı) tabiri ise sicile kayıtlı gemiler üzerindeki intifa hakkını anlatır.
+j) 144 üncü maddeye eklenen beşinci fıkra: Gemi siciline kayıtlı olan bir gemiyi paraya çeviren icra dairesi onun üzerindeki ipotek ve intifa haklarına ait kayıtların sicilden terkin ve nakillerini de yaptırır.
+k) 153 üncü maddeye eklenen üçüncü fıkra: Türk Ticaret Kanununun gemi ipoteği hakkındaki 930 ve 931 inci maddeleri mahfuzdur.
+l) 154 üncü maddeye eklenen ikinci fıkra: Merkezleri Türkiye dışında bulunan ticari işletmeler hakkında salahiyetli merci, Türk Ticaret Kanununun 42 nci maddesinin dördüncü fıkrası gereğince tayin edilen temsilcinin ikametgahının bulunduğu yerdeki icra dairesidir.
+m) 168 inci maddenin birinci fıkrasının ikinci bendi:
+Borç ve masrafların beş gün içinde ödenmesi.
+Anonim, limited ve kooperatif şirketlerin iflası
+n) Madde 179 – Anonim, limited ve kooperatif şirketlerin borçları mevcut ve alacaklarından fazla olduğu idare ve temsil ile vazifelendirilmiş kimseler ve şirket tasfiye halinde ise tasfiye memurları tarafından beyan veya alacaklı tarafından ispat edilirse önceden takibe hacet kalmaksızın bunların iflasına karar verilir.
+o) 190 ıncı maddenin son fıkrası: Bu mallar iflasın ilanından evvel taşıma senedi, konişmento, makbuz senedi, varant gibi emtiayı temsil eden bir senetle iyi niyet sahibi üçüncü bir şahsa satılmış veya rehnedilmiş olurlarsa artık geri alınamazlar.
+ö) 200 üncü maddenin son fıkrası: Anonim, limited ve kooperatif şirketlerin iflasları halinde esas mukavele gereğince verilmesi lazımgelen hisse senedi bedellerinin henüz ödenmemiş olan kısımları veya konması taahhüt edilen ve fakat konmamış olan sermayeler bu şirketlerin borçlariyle takas edilemez.
+p) 206 ncı maddenin üçüncü fıkrasına eklenen cümle: Alacakları gemi ipoteği ile temin edilmiş olan alacaklılarla gemi alacaklıları hakkında Türk Ticaret Kanununun bu cihetlere ait hususi hükümleri tatbik olunur.
+r) 206 ncı maddenin 4 üncü fıkrasının ikinci sıra adlı bendinin B kısmı: Patronların, müstahdem ve işçiler için yardım sandıkları veya sair yardım teşkilatı kurulması veya bunların yaşatılması maksadiyle meydana gelmiş ve hükmi şahsiyet kazanmış bulunan tesislere veya derneklere olan borçları.
+3046
+s) 206 ncı maddenin dördüncü fıkrasındaki üçüncü sıra: İflasın açılmasından bir evvelki yıl için Hükümet tarafından ruhsatnameli doktor, eczacı ve ebelerin alacakları ve borçlu ile ailesi efradının tedavi ve bakım masrafları, acentaların iflasın açılmasından önceki bir yıl içinde acentalık mukavelesinden doğmuş olan alacakları.
+t) 257 nci maddeye eklenen dördüncü ve beşinci fıkralar:Gemi alacaklıları, donatanın yalnız mahdut aynı surette mesul olduğu hallerde, ancak mesuliyete mevzu teşkil eden mal ve haklara ihtiyati haciz koydurabilirler. Donatanın aynı zamanda şahsan mesul olduğu haller bundan müstesnadır. Şu kadar ki, donatanın şahsi mesuliyeti bir miktar ile mahdut ise gemi alacaklıları ancak bu miktar için donatanın diğer mallarını haczettirebilirler.
+Yük alacaklıları hakkında da yukarıki fıkra hükmü kıyas yoliyle tatbik olunur.
+u) 285 inci maddenin birinci fıkrası: Konkordato hükümlerinden istifade etmek istiyen her hangi bir borçlu, tetkik merciine bir konkordato projesi verir ve bu projeye mufassal bir bilanço ve defter tutmaya mecbur şahıslardan ise defterlerinin vaziyetini bildiren bir cetvel ekler. Bu cetvelde, bilhassa Ticaret Kanununun 66 ncı maddesi hükmünce tutulması mecburi olan defterlerin hepsinin tutulmuş olup olmadıkları gösterilir.
+ü) 288 inci maddenin birinci fıkrası: Tetkik merciince mühlet ilan olunur ve icra dairesiyle tapu dairesine bildirilir. Borçlu bir tacir ise ticaret sicili memurluğuna ve deniz ticaretiyle meşgul ise ayrıca gemi sicil memurluğuna da haber verilir. Borçlunun gemisi sicile kayıtlı olduğu takdirde gemi sicil memuru, konkordato mehli hakkında sicile şerh verir. Bu şerh Türk Ticaret Kanununun 879 uncu maddesindeki şerhin hukuki neticesini meydana getirir.
+v) 310 uncu maddenin beşinci bendi: Ticaret Kanununun 66 ncı maddesinin birinci fıkrasının 1 ila 3 üncü bentlerinde sayılan defterleri hiç veya kanunun emrettiği şekilde tutmamış ise;
+y) 26 ncı maddedeki (Gemi) sözleri (Gemi siciline kayıtll olan gemi) olarak değiştirilmiştir.
