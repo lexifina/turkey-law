@@ -1,0 +1,52 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 390082,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Cumhuriyet Senatosu İstanbul Üyesi Mebrure Aksoley ve 10 arkadaşının, haftaların memleket içinde bulamadıkları ilaçları dış memleketlerden getirtmeleri ve dış memleketlerden getirtecekleri ilaçlar için yapılacak işlemler hakkında ve Cumhuriyet senatosu İstanbul Üyesi Mebrure Aksoley'in, 474 sayılı Kanuna ekli Gümrük Giriş Tarife Cetvelinin 87.11 tarife No. lu bölümünün değiştirilmesi hakkında kanun teklifleri (1/155, 2/43, 2/210)",
+  "title": "Cumhuriyet Senatosu İstanbul Üyesi Mebrure Aksoley ve 10 arkadaşının, haftaların memleket içinde bulamadıkları ilaçları dış memleketlerden getirtmeleri ve dış memleketlerden getirtecekleri ilaçlar için yapılacak işlemler hakkında ve Cumhuriyet senatosu İstanbul Üyesi Mebrure Aksoley'in, 474 sayılı Kanuna ekli Gümrük Giriş Tarife Cetvelinin 87.11 tarife No. lu bölümünün değiştirilmesi hakkında kanun teklifleri (1/155, 2/43, 2/210)",
+  "first_sitting_date": "1972-01-10",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 26,
+      "sitting_date": "1972-01-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020026.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020fih.pdf",
+      "pages": [
+        "150",
+        "495",
+        "801"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 73,
+      "sitting_date": "1972-04-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024fih.pdf",
+      "pages": [
+        "42",
+        "107",
+        "581",
+        "660",
+        "733",
+        "800"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=2901&v_kullanici_id=27484893",
+  "source_sha256": "68cdeffab2859dd84d0b6f20776f7a87435c6758ac66a29b39da262af41932f2",
+  "in_force": "1972-01-10",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
