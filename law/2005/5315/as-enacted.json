@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5315",
+  "year": 2005,
+  "title": "Uluslararası Yasal Metroloji Örgütü Kuruluş Sözleşmesine Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-03-15",
+  "gazette_issue": "25756",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050315-2.htm",
+  "source_sha256": "46fe7418a1be61b8fc8d73f54efcd4c49c01c84d560c63c1efbade9e1ba9e693",
+  "text_sha256": "1f11575332a127a788b7a83f3f786fc47ea731cad51a9420196b5e06585e11b9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/03/15/25756-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050315-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
