@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3655",
+  "year": 1939,
+  "title": "Küçük Menderes nehri ile tabilerinin ıslahı hakkındaki 2246 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-07-05",
+  "gazette_issue": "4250",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4250.pdf",
+  "source_sha256": "5cec44a5d0fc96c62c0767bd35a1a357cb587d5fae8d9ba9eabcfd7d33e7134d",
+  "text_sha256": "8b76286842e7d5a1a24407c27b5c018ae7522c1e6fc9b9d00ef3c776d9c75bbc",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      26
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003655.pdf",
+    "source_sha256": "d7260c12ebea87276dc5ec9c615a960b9b98d02b6aef0b9106e69f96b5984e66",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9783,
+    "bag": 0.9091,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9744,
+    "rg_words": 78,
+    "kd_words": 78,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
