@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1120 / 40010",
+  "source_id": 38338,
+  "date": "2004-08-27",
+  "title": "Banka müşterileri tarafından başka bankalardan kullanılan ihracat taahhütlü döviz kredisinin kapatılması amacıyla,  banka tarafından yapılan döviz satışı ve transfer işlemlerinin banka ve sigorta muameleleri vergisinden istisna tutulması mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38338",
+  "source_sha256": "76102af71af6343411473757cd4ff8fe0a56f275ea3ccff98a9ff1a65f927c15",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
