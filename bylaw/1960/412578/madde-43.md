@@ -1,0 +1,1 @@
+Madde 43 – Tabip ve diş tabibi, muayenehane veya laboratuvarında, kendi namına diğer bir meslektaşı çalıştıramaz. Ancak, muvakkat bir müddet için bizzat bulunmadığı takdirde, diğer bir meslektaşı yerine bırakabilir. Bu müddet bir aydan fazla devam ederse, mensup olduğu tabip odasına haberdar eder.

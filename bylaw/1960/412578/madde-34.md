@@ -1,0 +1,1 @@
+Madde 34 – Götürü ücret alınması caiz olan hallerde, tedavi, tamamlanmadan herhangi bir sebeple bırakılırsa, müdavi tabip o zamana kadar sarfettiği mesai ile masraflarına tekabül eden ücreti alır ve peşin ücret almış ise bakıyesini iade eder.

@@ -1,0 +1,3 @@
+Madde 9 – Tabip ve diş tabibi, gazete ve sair neşir vasıtaları ile yapacağı ilanlarda ve reçete kağıtlarında, ancak ad ve soyadı ile adresini, Tababet İhtisas Nizamnamesine göre kabul edilmiş olan ihtısas şubesini, akademik ünvanını ve muayene gün ve saatlarını yazabilir.
+Muayenehane kapılarına veya binaların dışına asılacak tabelaların ebadı ve adedi, mahalli tabip odaları tarafından tesbit edilebilir. Tabipler ve diş tabipleri, tabip odalarının bu husustaki kararlarına riayet etmekle mükelleftirler.
+Tabelalarda en çok iki renk kullanılabilir. Işık verici vasıtalarla tabelaları süslemek yasaktır.

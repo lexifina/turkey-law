@@ -1,0 +1,1 @@
+Madde 42 – Muayenehane veya laboratuvar açan tabip ve diş tabibi, hasta kabulüne veya laboratuvarda faaliyete başladığı tarihten ve muayenehane veya laboratuvarını kapatması veya nakletmesi halinde de, kapatma veya naklin vukuubulduğu tarihten itibaren en çok bir hafta içinde, keyfiyeti, yazılı olarak mensup olduğu tabip odasına bildirir.

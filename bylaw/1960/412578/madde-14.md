@@ -1,0 +1,3 @@
+Madde 14 – Tabip ve diş tabibi, hastanın vaziyetinin icabettirdiği sıhhi ihtimamı gösterir. Hastanın hayatını kurtarmak ve sıhhatını korumak mümkün olmadığı takdirde dahi, ıstırabını azaltmaya veya dindirmeye çalışmakla mükelleftir.
+Tabip ve diş tabibi, hastasına ümit vererek teselli eder. Hastanın maneviyatı üzerinde fena tesir yapmak suretiyle hastalığın artması ihtimali bulunmadığı takdirde, teşhise göre alınması gereken tedbirlerin hastaya açıkca söylenmesi lazımdır. Ancak, hastalığın, vahim görülen akibet ve seyrinin saklanması uygundur.
+Meş'um bir pronostik hastanın kendisine çok büyük bir ihtiyatla ihdas edilebilir. Hasta tarafından, böyle bir pronostiğin ailesine açıklanmaması istenilmemiş veya açıklanacağı şahıs tayin olunmamış ise, durum ailesine bildirilir.
