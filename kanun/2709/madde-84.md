@@ -1,0 +1,4 @@
+Madde 84 – İstifa eden, Türkiye Büyük Millet Meclisine seçilmeye engel bir suçtan dolayı hüküm giyen, kısıtlanan, partisinden istifa ederek; başka bir partiye giren veya seçim hükümetleri hariç Bakanlar Kurulunda görev alan, üyelikle bağdaşmayan bir hizmet kabul eden, Meclis çalışmalarına özürsüz olarak bir ay içinde toplam beş birleşim günü katılmayanların üyeliğinin düşmesine, üye tamsayısının salt çoğunluğu ile karar verilir.
+Partisinden istifa eden milletvekili bir sonraki seçimde, istifa tarihinde mevcut herhangi bir partinin genel merkez organlarınca aday gösterilemez.
+Anayasa Mahkemesinin kararında partinin kapatılmasına eylem ve sözleri ile sebebiyet verdiği belirtilen milletvekilinin üyeliği ile temelli olarak kapatılan siyasî partinin, kapatılmasına ilişkin davanın açıldığı tarihte, parti üyesi olan diğer milletvekillerinin üyeliği, kapatma kararının Türkiye Büyük Millet Meclisi Başkanlığına tebliğ edildiği tarihte sona erer.
+6. İptal istemi

@@ -1,0 +1,2 @@
+Madde 120 – Anayasa ile kurulan hür demokrasi düzenini veya temel hak ve hürriyetleri ortadan kaldırmaya yönelik yaygın şiddet hareketlerine ait ciddi belirtilerin ortaya çıkması veya şiddet olayları sebebiyle kamu düzeninin ciddi şekilde bozulması hallerinde, Cumhurbaşkanı başkanlığında toplanan Bakanlar Kurulu, Milli Güvenlik Kurulunun da görüşünü aldıktan sonra yurdun bir veya birden fazla bölgesinde veya bütününde, süresi altı ayı geçmemek üzere olağanüstü hal ilan edebilir.
+3. Olağanüstü hallerle ilgili düzenleme

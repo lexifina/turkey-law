@@ -1,0 +1,4 @@
+D. Kesinhesap
+Madde 164 – Kesinhesap kanunu tasarıları, kanunda daha kısa bir süre kabul edilmemiş ise, ilgili oldukları mali yılın sonundan başlayarak, en geç yedi ay sonra Bakanlar Kurulunca Türkiye Büyük Millet Meclisine sunulur. Sayıştay, genel uygunluk bildirimini, ilişkin olduğu kesinhesap kanunu tasarısının verilmesinden başlayarak en geç yetmişbeş gün içinde Türkiye Büyük Millet Meclisine sunar.
+Kesinhesap kanunu tasarısı, yeni yıl bütçe kanunu tasarısıyla birlikte Bütçe Komisyonu gündemine alınır. Bütçe Komisyonu, bütçe kanunu tasarısıyla kesinhesap kanunu tasarısını Genel Kurula birlikte sunar, Genel Kurul, kesinhesap kanunu tasarısını, yeni yıl bütçe kanunu tasarısıyla beraber görüşerek karara bağlar.
+Kesinhesap kanunu tasarısı ve genel uygunluk bildiriminin Türkiye Büyük Millet Meclisine verilmiş olması, ilgili yıla ait Sayıştayca sonuçlandırılamamış denetim ve hesap yargılamasını önlemez ve bunların karara bağlandığı anlamına gelmez.

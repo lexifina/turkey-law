@@ -1,0 +1,8 @@
+Madde 127 – Mahalli idareler; il, belediye veya köy halkının mahalli müşterek ihtiyaçlarını karşılamak üzere kuruluş esasları kanunla belirtilen ve karar organları, gene kanunda gösterilen, seçmenler tarafından seçilerek oluşturulan kamu tüzelkişileridir.
+Mahalli idarelerin kuruluş ve görevleri ile yetkileri, yerinden yönetim ilkesine uygun olarak kanunla düzenlenir.
+Mahallî idarelerin seçimleri, Anayasanın 67 nci maddesindeki esaslara göre beş yılda bir yapılır. Kanun, büyük yerleşim merkezleri için özel yönetim biçimleri getirebilir.
+Mahalli idarelerin seçilmiş organlarının, organlık sıfatını kazanmalarına ilişkin itirazların çözümü ve kaybetmeleri, konusundaki denetim yargı yolu ile olur. Ancak, görevleri ile ilgili bir suç sebebi ile hakkında soruşturma veya kovuşturma açılan mahalli idare organları veya bu organların üyelerini, İçişleri Bakanı, geçici bir tedbir olarak, kesin hükme kadar uzaklaştırabilir.
+Merkezi idare, mahalli idareler üzerinde, mahalli hizmetlerin idarenin bütünlüğü ilkesine uygun şekilde yürütülmesi, kamu görevlerinde birliğin sağlanması, toplum yararının korunması ve mahalli ihtiyaçların gereği gibi karşılanması amacıyla, kanunda belirtilen esas ve usuller dairesinde idari vesayet yetkisine sahiptir.
+Mahalli idarelerin belirli kamu hizmetlerinin görülmesi amacı ile, kendi aralarında Bakanlar Kurulunun izni ile birlik kurmaları, görevleri, yetkileri, maliye ve kolluk işleri ve merkezi idare ile karşılıklı bağ ve ilgileri kanunla düzenlenir. Bu idarelere, görevleri ile orantılı gelir kaynakları sağlanır.
+D. Kamu hizmeti görevlileriyle ilgili hükümler
+1. Genel ilkeler

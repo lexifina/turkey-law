@@ -1,0 +1,5 @@
+F. Radyo ve Televizyon İdaresi ve kamuyla ilişkili haber ajansları
+Madde 133 - Radyo ve televizyon istasyonları, ancak Devlet eli ile kurulur ve idareleri tarafsız bir kamu tüzelkişiliği halinde düzenlenir.
+Kanun; Türk Devletinin varlık ve bağımsızlığını, ülkenin ve milletin bölünmez bütünlüğünü, toplumun huzurunu, genel ahlakı ve Anayasanın 2 nci maddesinde belirtilen Cumhuriyetin temel niteliklerini koruyacak tarzda yayın yapmasını düzenler ve Kurumun yönetim ve denetiminde, yönetim organlarının oluşturulmasında ve her türlü radyo ve televizyon yayınlarında tarafsızlık ilkesini gözetir.
+Haber ve programların seçilmesi, işlenmesi, sunulması ve millî kültür ve eğitime yardımcılık görevinin yerine getirilmesi, haberlerin doğruluğunun sağlanması esasları, organların seçimi, görev, yetki ve sorumlulukları kanunla düzenlenir.
+Yukarıdaki ikinci fıkra hükümleri, kamu iktisadî teşebbüsü niteliği taşıyan veya Devlet yahut diğer kamu tüzelkişilerinden malî yardım gören haber ajansları hakkında da uygulanır.

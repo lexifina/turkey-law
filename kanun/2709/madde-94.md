@@ -1,0 +1,7 @@
+B. Başkanlık Divanı
+Madde 94 – Türkiye Büyük Millet Meclisinin Başkanlık Divanı, Meclis üyeleri arasından seçilen Meclis Başkanı, Başkanvekilleri, Kâtip üyeler ve İdare Amirlerinden oluşur.
+Başkanlık Divanı, Meclisteki siyasî parti gruplarının üye sayısı oranında Divana katılmalarını sağlayacak şekilde kurulur. Siyasî parti grupları Başkanlık için aday gösteremezler.
+Türkiye Büyük Millet Meclisi Başkanlık Divanı için, bir yasama döneminde iki seçim yapılır. İlk seçilenlerin görev süresi iki, ikinci devre için seçilenlerin görev süresi üç yıldır.
+Türkiye Büyük Millet Meclisi Başkan adayları, Meclis üyeleri içinden, Meclisin toplandığı günden itibaren on gün içinde, Başkanlık Divanına bildirilir, Başkan seçimi gizli oyla yapılır. İlk iki oylamada üye tamsayısının üçte iki ve üçüncü oylamada üye tamsayısının salt çoğunluğu aranır. Üçüncü oylamada salt çoğunluk sağlanamazsa, bu oylamada en çok oy alan iki aday için dördüncü oylama yapılır; dördüncü oylamada en fazla oy alan üye Başkan seçilmiş olur. Başkan seçimi, aday gösterme süresinin bitiminden itibaren, on gün içinde tamamlanır.
+Türkiye Büyük Millet Meclisi Başkanvekillerinin, Kâtip Üyelerinin ve İdare Amirlerinin adedi, seçim nisabı, oylama sayısı ve usulleri, Meclis İçtüzüğünde belirlenir.
+Türkiye Büyük Millet Meclisi Başkanı, Başkanvekilleri, üyesi bulundukları siyasî partinin veya parti grubunun Meclis içinde veya dışındaki faaliyetlerine; görevlerinin gereği olan haller dışında, Meclis tartışmalarına katılamazlar; Başkan ve oturumu yöneten Başkanvekili oy kullanamazlar.

@@ -1,0 +1,6 @@
+Madde 146 – Anayasa Mahkemesi onbir asıl ve dört yedek üyeden kurulur.
+Cumhurbaşkanı, iki asıl ve iki yedek üyeyi Yargıtay, iki asıl ve bir yedek üyeyi Danıştay, birer asıl üyeyi Askerî Yargıtay, Askerî Yüksek İdare Mahkemesi ve Sayıştay genel kurullarınca kendi Başkan ve üyeleri arasından üye tamsayılarının salt çoğunluğu ile her boş yer için gösterecekleri üçer aday içinden; bir asıl üyeyi ise Yükseköğretim Kurulunun kendi üyesi olmayan Yükseköğretim kurumları öğretim üyeleri içinden göstereceği üç aday arasmdan; üç asıl ve bir yedek üyeyi üst kademe yöneticileri ile avukatlar arasından seçer.
+Yükseköğretim kurumları öğretim üyeleri ile üst kademe yöneticileri ve avukatların Anayasa Mahkemesine asıl ve yedek üye seçilebilmeleri için, kırk yaşını doldurmuş, yükseköğrenim görmüş veya öğrenim kurumlarında en az onbeş yıl öğretim üyeliği veya kamu hizmetinde en az onbeş yıl fiilen çalışmış veya en az onbeş yıl avukatlık yapmış olmak şarttır.
+Anayasa Mahkemesi, asıl üyeleri arasından gizli oyla ve üye tamsayısının salt çoğunluğu ile dört yıl için bir Başkan ve bir Başkanvekili seçer. Süresi bitenler yeniden seçilebilirler.
+Anayasa Mahkemesi üyeleri, aslî görevleri dışında resmî veya özel hiçbir görev alamazlar.
+2. Üyeliğin sona ermesi

@@ -1,0 +1,7 @@
+Madde 148 – Anayasa Mahkemesi, kanunların, kanun hükmünde kararnamelerin ve Türkiye Büyük Millet Meclisi İçtüzüğünün Anayasaya şekil ve esas bakımlarından uygunluğunu denetler. Anayasa değişikliklerini ise sadece şekil bakımından inceler ve denetler. Ancak, olağanüstü hallerde, sıkıyönetim ve savaş hallerinde çıkarılan kanun hükmünde kararnamelerin şekil ve esas bakımından Anayasaya aykırılığı iddiasıyla, Anayasa Mahkemesinde dava açılamaz.
+Kanunların şekil bakımından denetlenmesi, son oylamanın, öngörülen çoğunlukla yapılıp yapılmadığı; Anayasa değişikliklerinde ise, teklif ve oylama çoğunluğuna ve ivedilikle görüşülemeyeceği şartına uyulup uyulmadığı hususları ile sınırlıdır. Şekil bakımından denetleme, Cumhurbaşkanınca veya Türkiye Büyük Millet Meclisi üyelerinin beşte biri tarafından istenebilir. Kanunun yayımlandığı tarihten itibaren on gün geçtikten sonra, şekil bozukluğuna dayalı iptal davası açılamaz; defi yoluyla da ileri sürülemez.
+Anayasa Mahkemesi Cumhurbaşkanını, Bakanlar Kurulu üyelerini, Anayasa Mahkemesi, Yargıtay, Danıştay, Askerî Yargıtay, Askerî Yüksek İdare Mahkemesi Başkan ve üyelerini, Başsavcılarını, Cumhuriyet Başsavcıvekilini, Hâkimler ve Savcılar Yüksek Kurulu ve Sayıştay Başkan ve üyelerini görevleriyle ilgili suçlardan dolayı Yüce Divan sıfatıyla yargılar.
+Yüce Divanda, savcılık görevini Cumhuriyet Başsavcısı veya Cumhuriyet Başsavcı vekili yapar.
+Yüce Divan kararları kesindir.
+Anayasa Mahkemesi, Anayasa ile verilen diğer görevleri de yerine getirir.
+4. Çalışma ve yargılama usulü

@@ -1,0 +1,2 @@
+Madde 85 – Yasama dokunulmazlığının kaldırılmasına veya üyeliğin düştüğüne Meclisçe karar verilmesi hallerinde, karar tarihinden başlayarak bir hafta içinde, ilgili üye veya Türkiye Büyük Millet Meclisi üyelerinden herhangi biri, bu kararın, Anayasa veya İçtüzük hükümlerine aykırılığı iddiasıyla iptali için Anayasa Mahkemesine başvurabilir. Anayasa Mahkemesi, iptal istemini onbeş gün içinde karara bağlar.
+7. Ödenek ve yolluklar
