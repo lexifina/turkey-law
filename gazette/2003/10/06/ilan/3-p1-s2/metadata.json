@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-10-06",
+  "issue": "25251",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-1",
+  "title": "Türkiye Halk Bankası Anonim Şirketi Genel Müdürlüğü İnşaat-Emlak ve Satın Alma Daire Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/10/20031006-3-1.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (44 = 44)",
+  "ilan_codes": [
+    "36758/2-2"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/10/20031006-3-1.htm",
+  "category_page_sha256": "c0c1c61d9553bb3b1c756f9508b7f6f6f9ba72593a222d29f4d54cb367072944",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/10/20031006.htm",
+  "index_sha256": "c21fbeb778607d162a831f5012af7a13d67151c09bfdf69228b09b73481ed99f",
+  "index_header": "6 Ekim 2003 ... Sayı : 25251",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
