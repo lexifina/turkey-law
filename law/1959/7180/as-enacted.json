@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7180",
+  "year": 1959,
+  "title": "İstiklâl Harbi malûllerinden (8) ere verilecek para mükâfatı hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-01-10",
+  "gazette_issue": "10105",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10105.pdf",
+  "source_sha256": "3acfa2a9c15f54d86cebbffbb526c46aae56d6c55948540a329e3d4d00459fb1",
+  "text_sha256": "801166c8f257062057b80f49e930b8ad6a27b97a59a15d8faf58e6025423c68f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      19,
+      30
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107180.pdf",
+    "source_sha256": "e7474326366df7d28834b7c4d83838974af10e939984baa2db757054e6d7cb03",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9796,
+    "bag": 0.88,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8152,
+    "rg_words": 75,
+    "kd_words": 92,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
