@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6026-98/023315",
+  "source_id": 36373,
+  "date": "1998-06-23",
+  "title": "Kuruluşça mükellefe ödenen kıdem tazminatının Veraset ve İntikal Vergisine tabi tutulup tutulmayacağı hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36373",
+  "source_sha256": "49d8cbb8e5d3eda7c98f8ab7e71933ab1748287c61bd57763cf9a638cd8165bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
