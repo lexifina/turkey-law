@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6373-557/6604",
+  "source_id": 38172,
+  "date": "1999-02-24",
+  "title": "Gayrimenkulün devir ve iktisap bedelinin emlak vergisi tarhına esas olan değerden az olması ve ilgililerin de talebi üzerine bu değerin tapu senedinde gösterilmesi mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38172",
+  "source_sha256": "73a9d9be0417db36791c3b56e39384b5554569cca9b918905890c4eebd0da027",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
