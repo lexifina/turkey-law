@@ -1,0 +1,2 @@
+Raporların değerlendirilmesi
+Madde 38 – Raporlar, Başkanca görevlendirilecek bir müfettiş tarafından incelenir. Düzeltilmesi veya tamamlatılması gerektiği kanaatına varılan hususlar varsa bunların giderilmesi, Başkanca raporu düzenlemiş olan müfettişten istenir. Müfettişin isteğe katılmaması halinde, başka bir müfettişe yeniden inceleme yaptırılır; bu inceleme sonunda, Başkanca belirlenecek görüş doğrultusunda işlem yapılır.
