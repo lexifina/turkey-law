@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4643",
+  "year": 2001,
+  "title": "Başbakanlık Teşkilatı Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü ile Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin Eki Cetvellerde Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-04-21",
+  "gazette_issue": "24380",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/04/20010421.htm",
+  "source_sha256": "a221f98aa8ef41eeac60ef608c1383aa73a6cbc3554ed34c89464732611a63cf",
+  "text_sha256": "15ec2642569f882eaba5a6b78c38af1a1d07cbf5f4de7730f21bd7ba6ecaa1c5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/04/21/24380-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/04/20010421.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
