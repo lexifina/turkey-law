@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 93142,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Büyük Millet Meclisi binasiyle Başvekâlet ve Hariciye Vekâleti binalarının yapılması için taahhüt icrasına dair olan kanuna ek kanunda yazılı taahhüt salâhiyetinin arttırılması hakkında (2/31)",
+  "title": "Büyük Millet Meclisi binasiyle Başvekâlet ve Hariciye Vekâleti binalarının yapılması için taahhüt icrasına dair olan kanuna ek kanunda yazılı taahhüt salâhiyetinin arttırılması hakkında (2/31)",
+  "first_sitting_date": "1943-12-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 15,
+      "sitting_date": "1943-12-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c006/tbmm07006015.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c006/tbmm07006fih.pdf",
+      "pages": [
+        "78"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 18,
+      "sitting_date": "1944-01-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c007/tbmm07007018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c007/tbmm07007fih.pdf",
+      "pages": [
+        "28"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b727f632c9ca114eefa7efe32894167d2f81ba6a2466dd157f901b16b86ca151",
+  "in_force": "1943-12-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
