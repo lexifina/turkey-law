@@ -1,0 +1,3 @@
+Tahvillerin İskontosu :
+MADDE 13 — Kurul kararına dayalı olarak ilgili kuruluşlarca TCMB şubelerine tevdi edilen tahviller ile 35 sayılı KHK'ye 45 sayılı KHK ile eklenen ek madde 30'un (b) bendi ilk fıkrası kapsamına giren tahvillere ait müstakil faiz kuponları, Kurul'ca belirlenecek genel iskonto oranı üzerinden iskonto edilerek bulunacak değerin % 10 noksanı ile Fon adına satın alınabilir.
+Bu tahviller ve müstakil faiz kuponları, bunları iskonto ettiren kuruluşlar tarafından her zaman geri alınabilir. Ancak, Fon'un alış tarihinden itibaren üç ay içindeki geri almalarda Kurul kararı gerekmez. Satış TCMB şubelerince satış günündeki iskonto değeriyle yapılır ve satış bedelinden alışta tahsil edilen % 10 noksanlık aynen indirilerek işlem sonuçlandırılır.

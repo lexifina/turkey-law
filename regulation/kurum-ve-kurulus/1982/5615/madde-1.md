@@ -1,0 +1,1 @@
+MADDE 1 — Bu Yönetmelik, 45 sayılı Kanun Hükmünde Kararname çerçevesinde tahvil arz ve talebi arasındaki dengesizlikleri gidermek ve tahvil piyasasının istikrarını sağlamak amacıyla kurulan "Menkul Kıymetler Tanzim Fonu"nun Kanun ve Kararnameler uyarınca işleyişini düzenlemektedir.
