@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 226017,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Selçuk Üniversitesi 1988 Malî Yılı Bütçesi",
+  "title": "Selçuk Üniversitesi 1988 Malî Yılı Bütçesi",
+  "first_sitting_date": "1988-04-10",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 51,
+      "sitting_date": "1988-04-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c008/tbmm18008051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c008/tbmm18008fih.pdf",
+      "pages": [
+        "6:132"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 52,
+      "sitting_date": "1988-04-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c008/tbmm18008052.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c008/tbmm18008fih.pdf",
+      "pages": [
+        "138",
+        "230:232"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "68ae6e7cf445d2a0a3c1d69a703ac0e9f05bb71eb6f3518d878bf4f7fc1e446c",
+  "in_force": "1988-04-10",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
