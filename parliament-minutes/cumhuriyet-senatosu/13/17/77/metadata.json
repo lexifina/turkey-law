@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "Cumhuriyet Senatosu",
+  "assembly": "CUMHURİYET SENATOSU",
+  "term_label": "13. Toplantı Yılı",
+  "cilt": 17,
+  "sitting": 77,
+  "label": "77. Birleşim",
+  "sitting_date": "1974-07-20",
+  "date_as_published": "20 Temmuz 1974",
+  "weekday": "Cumartesi",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017077.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017077gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=7&meclis_kisa_adi=CS&diger_donem_adi=t13",
+  "source_sha256": "d8faeab1a459fc7924c4e3e5ab4b5ee155ee43120338a6b8390a44f20fa6534a",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
