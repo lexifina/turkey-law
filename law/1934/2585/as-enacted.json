@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2585",
+  "year": 1934,
+  "title": "26.10.1933 tarih ve 2323 numaralı Kanunun 1. maddesine bağlı cetvelde tashih yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-11-18",
+  "gazette_issue": "2857",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2857.pdf",
+  "source_sha256": "ac0be6f0c2ede0bfaded38cfacc916b114248c0b2cf86b8455cc4a6afd82adac",
+  "text_sha256": "26d0eb7fd81abb76bcfc40b7de51066fa39a44e3c9935e43c6969e3c51a8b8cb",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      16,
+      36
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402585.pdf",
+    "source_sha256": "7e8e6019478a217cdfd5b7bc241ac8fe17b0dd3c56251f314be91d58e6839405",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9061,
+    "bag": 0.7042,
+    "kd_coverage": 0.9733,
+    "kd_body_compared": 0.9359,
+    "rg_words": 69,
+    "kd_words": 78,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
