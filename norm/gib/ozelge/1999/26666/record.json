@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4428-3/7442",
+  "source_id": 26666,
+  "date": "1999-03-01",
+  "title": "Basit usule tabi mükellefler defter tutma hariç ikinci sınıfa tabi mükelleflerin kullandıkları belgeleri kullanacaklar, söz konusu bu belgeleri ve zarfları bağlı oldukları oda veya birliklerden temin edeceklerdir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/26666",
+  "source_sha256": "e465730c66f43b3c8db266b49ec090f43c5991184f983c6cf276b3f8cbf42389",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
