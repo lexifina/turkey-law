@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "74",
+  "year": 1962,
+  "title": "1956 bütçe yılı kesinhesap Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-10-06",
+  "gazette_issue": "11225",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11225.pdf",
+  "source_sha256": "67022fff37f8c16b959303a708cbfda8fb2b5ec57891ce13b7f9c87de239df62",
+  "text_sha256": "a70a1d690f2030386e82372accbabedad1ed8862f36b1e5a64f3b3c05fb57b40",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      10,
+      43
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500074.pdf",
+    "source_sha256": "128e2e21ace3ecd9705ee9f1664c5d10b1c288c145f87f33ae61838b33f6eeac",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9687,
+    "bag": 0.9157,
+    "kd_coverage": 0.9603,
+    "kd_body_compared": 0.9603,
+    "rg_words": 291,
+    "kd_words": 302,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
