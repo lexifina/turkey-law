@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL. 66/6685-4313/57018",
+  "source_id": 37099,
+  "date": "2000-12-04",
+  "title": "Depremde yıkılmamış ve kullanılmasında sakınca bulunmayan hasarlı binalardan, emlak vergisinin alınıp alınmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/37099",
+  "source_sha256": "bfe205cf4460db51ee8005df5b88cfe693e4e01b76699dc2e4b746ded02021cf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
