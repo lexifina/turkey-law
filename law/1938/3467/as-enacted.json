@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3467",
+  "year": 1938,
+  "title": "Yüksek mühendis ve teknik okulları mezunlarının mecburî hizmetlerine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-07-04",
+  "gazette_issue": "3950",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3950.pdf",
+  "source_sha256": "9839077b81982928680c2543783bc1b82cd85e8c5a660c8acde00e8fd0d94d18",
+  "text_sha256": "05b54a3d57a0d8e87a11760505f5c3c9eb11875c6bf4fecbd1fcca2784858256",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      2915,
+      3091
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803467.pdf",
+    "source_sha256": "fa1ea088210a169c397a2607bddee75c10945860f43a8e7941cb7a66cd4f65c9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9807,
+    "bag": 0.8628,
+    "kd_coverage": 0.9936,
+    "kd_body_compared": 0.9936,
+    "rg_words": 590,
+    "kd_words": 624,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
