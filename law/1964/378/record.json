@@ -1,0 +1,247 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "378",
+  "year": 1964,
+  "title": "Yasama Meclisleri dış münasebetlerinin düzenlenmesi hakkında kanun",
+  "adopted": "1964-01-16",
+  "adopted_as_published": "16/01/1964",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.01.1964 No: 11615",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700378.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 47",
+  "committee_reports": [
+    {
+      "label": "MM 313ek01 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015063ss0313ek01.pdf"
+    },
+    {
+      "label": "MM 313ek03no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025034ss0313ek03.pdf"
+    },
+    {
+      "label": "CS 170no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c012/cs__02012087ss0170.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 347446,
+      "title": "Yasama Meclisleri dış münasebetlerinin düzenlenmesi hakkında kanun",
+      "adopted_as_published": "16/01/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700378.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 313ek01 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015063ss0313ek01.pdf"
+        },
+        {
+          "label": "MM 313ek03no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025034ss0313ek03.pdf"
+        },
+        {
+          "label": "CS 170no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c012/cs__02012087ss0170.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 103,
+          "sitting_date": "1962-06-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005103.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+          "pages": [
+            "626"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 118,
+          "sitting_date": "1962-09-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006118.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006fih.pdf",
+          "pages": [
+            "576"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 131,
+          "sitting_date": "1962-10-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c008/mm__01008131.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c008/mm__01008fih.pdf",
+          "pages": [
+            "83"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 4,
+          "sitting_date": "1962-11-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c009/mm__01009004.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c009/mm__01009fih.pdf",
+          "pages": [
+            "84"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 59,
+          "sitting_date": "1963-03-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014fih.pdf",
+          "pages": [
+            "307"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 63,
+          "sitting_date": "1962-03-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015063.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015fih.pdf",
+          "pages": [
+            "34:39"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 112,
+          "sitting_date": "1963-07-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019112.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+          "pages": [
+            "371"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 133,
+          "sitting_date": "1963-09-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021133.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021fih.pdf",
+          "pages": [
+            "85"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 138,
+          "sitting_date": "1963-09-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021138.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021fih.pdf",
+          "pages": [
+            "348:355"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 149,
+          "sitting_date": "1963-10-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c022/mm__01022149.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c022/mm__01022fih.pdf",
+          "pages": [
+            "205"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 34,
+          "sitting_date": "1964-01-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025fih.pdf",
+          "pages": [
+            "141:143"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1901&v_kullanici_id=27483225",
+      "page_sha256": "1ff88ba6c18c5fce579792a711d144220daa306b6608e6584791338bfe529590"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 162480,
+      "title": "Yasama Meclisleri dış münasebetlerinin düzenlenmesi hakkında Kanun",
+      "adopted_as_published": "16/01/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700378.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 313ek01 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015063ss0313ek01.pdf"
+        },
+        {
+          "label": "MM 313ek03no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025034ss0313ek03.pdf"
+        },
+        {
+          "label": "CS 170no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c012/cs__02012087ss0170.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 54,
+          "sitting_date": "1963-04-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t/c010/cs__010054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t/c010/cs__010fih.pdf",
+          "pages": [
+            "495"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 81,
+          "sitting_date": "1963-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t/c012/cs__012081.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t/c012/cs__012fih.pdf",
+          "pages": [
+            "190"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 87,
+          "sitting_date": "1963-07-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t/c012/cs__012087.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t/c012/cs__012fih.pdf",
+          "pages": [
+            "691:732",
+            "736:752"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2301&v_kullanici_id=27483235",
+      "page_sha256": "5c956aae333412b6cc932c4b4cee49d823cedecaefdc9e3e0d257694aee83f2d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1ff88ba6c18c5fce579792a711d144220daa306b6608e6584791338bfe529590",
+  "issuer": "Millet Meclisi",
+  "in_force": "1964-01-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 16/01/1964; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
