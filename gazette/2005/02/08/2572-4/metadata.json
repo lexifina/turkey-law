@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-08",
+  "issue": "2572",
+  "edition": "regular",
+  "item": 4,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "Kanunlar",
+  "title": "5293 Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Küba Cumhuriyeti Tarım Bakanlığı Arasında Veterinerlik Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208.htm",
+  "index_sha256": "a610f8ea7c47b2d06473ec2c43ee73c494532c897a9d8b96918024f73302a4c3",
+  "index_header": "8 Şubat 2005 ... Sayı : 2572",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
