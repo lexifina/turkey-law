@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5029-196/13994",
+  "source_id": 38512,
+  "date": "2000-03-29",
+  "title": "Şirketin hasılatının % 15'inin Bütçe Kanunugereğince Maliye Bakanlığı Merkez Saymanlığına ödenmesi işleminin mali yükümlülük olup olmadığı hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38512",
+  "source_sha256": "0f5eb9dcce9af33b98b88b44021ce756d1488f8d6b29408f1ee7ac385c7c6d92",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
