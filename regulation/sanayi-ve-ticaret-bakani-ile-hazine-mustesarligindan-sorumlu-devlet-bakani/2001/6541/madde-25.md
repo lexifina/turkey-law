@@ -1,0 +1,9 @@
+Yeniden Yapılandırma Planlarının Hazırlanması ve Kabulü
+Madde 25 — Kooperatif ve Birliklerin yeniden yapılandırılması, ticari yaşamın gereklerini gözeterek ekonomik etkinlik ve verimlilik ilkeleri çerçevesinde faaliyetlerini sürdürebilir, mali açıdan özerk bir yapıya kavuşturulabilmesi ve bu amaçla alınması gereken tedbirlerin belirlenmesi amacıyla her birlik için, birliklerce oluşturulacak bir komisyon tarafından, bir yeniden yapılandırma planı hazırlanır.
+Yeniden yapılandırma planlarında, kooperatif ve birliklerin ihtiyaç duydukları azami personel sayısı ve nitelikleri belirtilir. Ayrıca planlarda, fazla personelin tespiti ve işten çıkarma usul ve esasları da gösterilir.
+Birliklerce, komisyonlarda, yeterli eğitim ve birikime sahip kooperatif ve birlik personeli arasından, Kurulun görüşü alınarak, gerekli sayıda görevlendirme yapılır. Ayrıca, birliğin talepte bulunması veya Kurulun doğrudan ihtiyaç duyması halinde dışarıdan da yeterli sayıda danışman ve uzman görevlendirilebilir.
+Komisyonların çalışma usul ve esasları ile planların hazırlanması sırasında uyacakları hususlar Kurul tarafından belirlenir.
+Komisyon tarafından hazırlanan yeniden yapılandırma planları, birlik yönetim kurullarınca kabul edildikten sonra ilk inceleme amacıyla Kurula gönderilir. Kurulun görüş ve önerileri doğrultusunda gerekli düzenlemeler yapıldıktan ve Kurulla mutabakat sağlandıktan sonra yeniden yapılandırma planları Birliklerin genel kurullarının onayına sunulur.
+Genel kurullarda, yeniden yapılandırma planlarının gözden geçirilmesi yönünde karar alınması halinde; genel kurul, yönetim kurulunu planların onayı konusunda yetkili kılabilir. Bu durumda, planlarda yapılacak değişiklikler hakkında Kurulun görüş ve onayı alınır.
+Nihai planların birer örneği Bakanlığa ve Kurula gönderilir.
+Genel kurulun yeniden yapılandırma planını reddetmesi halinde, ilgili birlik ve bağlı kooperatifler, bu Yönetmeliğin 24 üncü maddesinde öngörülen yardımlardan yararlanamazlar.

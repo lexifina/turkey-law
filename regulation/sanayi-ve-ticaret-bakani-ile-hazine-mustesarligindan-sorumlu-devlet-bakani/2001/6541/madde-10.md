@@ -1,0 +1,16 @@
+Kurulun Görevleri
+Madde 10 — Kurulun görevleri;
+a) Kooperatif ve birliklerin yeniden yapılandırılması, ticari yaşamın gereklerini gözeterek ekonomik etkinlik ve verimlilik ilkeleri çerçevesinde faaliyetlerini sürdürebilir, mali açıdan özerk bir yapıya kavuşturulabilmesi ve bu amaçla alınması gereken tedbirlerin belirlenmesi konularında çalışma ve incelemelerde bulunmak,
+b) Birliklerin, 1/5/2000 tarihi itibariyle mevcut özel bünye faaliyetleri ile ilgili borçları, borçların ödenmesine kadar geçecek süre içinde bu borçlardan doğan faiz ve gecikme zammı gibi fer’i borçlar ile personel kadrolarında yapılacak düzenlemeler için gerekli tazminat tutarlarının Hazinece üstlenilip tasfiye edilmesi hakkında önerilerde bulunmak,
+c) Birlik bazında hazırlanan yeniden yapılandırma çerçeveleri ve planları ile iş planlarını onaylamak,
+d) Birliklerin yeniden yapılandırma planları ve iş planlarının uygulanmasındaki performanslarını takip edip değerlendirmek, performansın tatmin edici seviyede olmaması halinde alınması gereken ek tedbirleri belirlemek, ek tedbirlere rağmen tatmin edici performans sağlayamayan birlikler için, olumlu performans sağlanıncaya kadar proje kapsamındaki desteklerin durdurulması hakkında önerilerde bulunmak,
+e) Yeniden yapılandırma önlemleri ile kapasite oluşturma programlarının tasarlanması ve uygulanmasında teknik yardım sağlamak,
+f) Yeniden yapılandırma süresince, kooperatif ve birliklerin yeniden yapılandırılması amacıyla dışarıdan alınacak her türlü denetim, danışmanlık ve diğer hizmetler için yapılacak ödemeler, Kurul ve Yürütme Birimine ilişkin giderleri Devlet Bakanlığına bildirmek,
+g) Kooperatif ve birliklerin ihtiyacı olan işletme kredilerini belirleyerek, Bakanlığa ve Devlet Bakanlığına bildirmek,
+h) Yeniden yapılandırma programının uygulanmasını gözetmek,
+ı) Kurulun faaliyetlerine yardımcı olmak üzere; yeniden yapılandırma, özelleştirme, planlama, denetim, kooperatifçilik veya işletmecilik konularında deneyimli uzmanlardan ve danışmanlardan bir Yürütme Birimi oluşturmak,
+i) Yürütme Birimi Başkanı ve Birimin diğer personelinin seçilme usul ve esaslarını belirleyip seçmek, Yürütme Biriminin çalışmalarını takip edip değerlendirmek ve çalışmaların istenilen seviyede olmaması halinde Birim Başkanı ve diğer personeli değiştirmek,
+j) Yürütme Biriminin yıllık iş planlarını belirlemek,
+k) Proje kapsamında yer alan faaliyetlerin yerine getirilmesine yönelik olarak Protokol hükümleri çerçevesinde belirlenen görev, yetki ve sorumlulukların yerine getirilmesini temin etmek,
+l) Kooperatif ve birliklere uzmanlık ve danışmanlık desteği sağlamak,
+m) Proje kapsamında, kooperatiflerin geliştirilmesi programlarının tasarlanması ve uygulanmasında teknik yardım sağlamak ve bu konuda özerk kooperatifçilik organizasyonları ile işbirliği yapmak,

@@ -1,0 +1,3 @@
+Boşalan Birlik Temsilciliği İçin Seçim
+Madde 7 — Kurul üyesi birlik temsilcisinin görevinin herhangi bir şekilde sona ermesi halinde yeni birlik temsilcisi, birliklerin yönetim kurulu üyelerinin katılımı ile gerçekleştirilecek bir toplantıda, gizli oylama ile; birliklerin yönetim kurulu üyelerinin üye tam sayısının salt çoğunluğunun oyuyla, ilk turda gerekli çoğunluğun sağlanamaması durumunda ilk oylamada en çok oy alan iki adayın katılacağı ikinci oylamada, çoğunluğun oyuyla seçilir. Seçim tutanağı Kurula gönderilir. Seçim sonucu, Bakanlık aracılığıyla Bakanlar Kurulunun onayına sunulur.
+Toplantı, Kurul tarafından görevlendirilecek bir birliğin koordinasyonunda gerçekleştirilir.

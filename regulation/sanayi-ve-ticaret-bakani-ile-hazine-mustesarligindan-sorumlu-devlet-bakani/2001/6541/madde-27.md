@@ -1,0 +1,2 @@
+Birliklerin Yıllık İş Planlarının Hazırlanması
+Madde 27 — Yeniden yapılandırma süresince, birliklerin yıllık iş planları birlikler tarafından hazırlanarak Bakanlığa ve Kurula sunulur. Kurul planların kendisine ulaşmasını takiben 15 gün içinde iş planları hakkındaki görüş ve önerilerini birliklere bildirir. Kurul ile birliklerin üzerinde mutabık kaldıkları iş planları Kurul tarafından onaylandıktan sonra Bakanlığa gönderilir. Bakanlık, Kurulun görüşlerini de dikkate alarak iş planları çerçevesinde birliklerin finansman ihtiyacını Devlet Bakanlığına iletir.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.6541",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YENİDEN YAPILANDIRMA KURULUNUN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "6541",
+  "issuer": "Sanayi ve Ticaret Bakanı ile Hazine Müsteşarlığından sorumlu Devlet Bakanı",
+  "issuer_slug": "sanayi-ve-ticaret-bakani-ile-hazine-mustesarligindan-sorumlu-devlet-bakani",
+  "path": "regulation/sanayi-ve-ticaret-bakani-ile-hazine-mustesarligindan-sorumlu-devlet-bakani/2001/6541",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6541&MevzuatTertip=5",
+  "source_sha256": "09c0660c3341d127459ecc3a3107f187bd9419d0ad54eccdf97e07eda8014ff7",
+  "source_bytes": 57423,
+  "published": "2001-12-19",
+  "gazette": "24615",
+  "in_force": "2001-12-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.12.2001); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2563,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

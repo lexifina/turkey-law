@@ -1,0 +1,5 @@
+Yasaklar ve Kurul Üyelerinin Sorumlulukları
+Madde 18 — Kurul üyeleri, yeniden yapılandırma süresince, yeniden yapılandırma faaliyetlerinin sağlıklı bir şekilde yürütülmesi bakımından, bu faaliyetlerle doğrudan ilgili başka bir görev alamaz ve bu faaliyetler konusunda ticari muamelede bulunamazlar.
+Kurul üyeleri, Kuruldaki görevleri nedeniyle elde ettikleri bilgileri, görevlerinden ayrılmış olsalar bile, yetkili merciler dışındaki kurum, kuruluş ve kişilere aktaramazlar ve kendilerinin veya başkalarının menfaatine kullanamazlar.
+Kurul üyeleri, yetkilendirilmeksizin Kurulun çalışmaları ve görevleriyle ilgili olarak 15/7/1950 tarihli ve 5680 sayılı Basın Kanununda belirtilen basın araçlarına ya da radyo, televizyon, video, internet, kablolu yayın ya da elektronik bilgi iletişim araçları ve benzeri yayın araçlarına açıklama yapamazlar.
+Kurul, Bakana karşı sorumludur. Kurul ve Yürütme Biriminin hesap ve işlemlerinin denetimi sonucunda düzenlenen raporlar, Bakana sunulur ve Rapor sonuçlarına göre gerekli tedbirlerin alınması için bu raporun bir örneği Bakan tarafından Kurula gönderilir.
