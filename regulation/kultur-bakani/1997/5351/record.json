@@ -1,0 +1,50 @@
+{
+  "source_id": "7.5.5351",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "FİKİR VE SANAT ESERLERİNİN İŞARETLENMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "5351",
+  "issuer": "Kültür Bakanı",
+  "issuer_slug": "kultur-bakani",
+  "path": "regulation/kultur-bakani/1997/5351",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5351&MevzuatTertip=5",
+  "source_sha256": "032903a61dd8e623ca1c12b6b897678e107c831248218b3b362654a491144790",
+  "source_bytes": 41359,
+  "published": "1997-11-16",
+  "gazette": "23172",
+  "in_force": "2001-11-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G.: 08.11.2001\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2001-11-08",
+      "R.G.: 08.11.2001",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2001-11-08",
+      "R.G. 08.11.2001",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1998-06-30",
+      "R.G.30.06.1998",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1998-03-10",
+      "R.G.:10.03.1998",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1712,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+SÜRELİ OLMAYAN YAYINLARDA İŞARETLEME
+MADDE 6 - Yayımcı ve eser sahibi yayımladığı her kitabın her nüshasının, birden fazla cilt oluşturan ansiklopedilerde her cildin, fasikül halinde yayımlanan ansiklopedilerde her fasikülün dört sayfalık kapağının uygun bir yerine adını, unvanını veya varsa amblemini ayrıca 6 puntodan küçük olmamak üzere yıl kodu, il kodu, yayımcı kodu, yayın numarası olmak üzere basmak zorundadırlar. (Ek 1, Örnek C)

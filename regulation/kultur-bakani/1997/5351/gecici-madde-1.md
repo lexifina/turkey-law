@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 - (Ek: R.G.30.06.1998-23389) Süreli olmayan yayınlarda güvenlik hologramı.kullanımı, 31.03.1999 tarihine kadar eser sahibi, hak sahibi veya çoğaltım hakkına sahip yayınevinin isteğine bağlı olarak uygulanır.

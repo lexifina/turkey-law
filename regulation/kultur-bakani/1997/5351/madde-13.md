@@ -1,0 +1,2 @@
+İŞARETLENMEMİŞ ESERLER HAKKINDA YAPILACAK İŞLEMLER
+MADDE 13 - Bu Yönetmeliğin hükümleri uyarınca işaretlenmemiş, bandrolsüz, sıra ve seri numarasız fikir ve sanat eserlerini çoğaltan, dağıtan, satan veya her ne surette olursa olsun başkalarının istifadesine sunanlar hakkında 5846 sayılı Fikir ve Sanat Eserleri Kanunu ve 3257 sayılı Sinema, video ve Müzik Eserleri Kanunu hükümlerine göre işlem yapılır.
