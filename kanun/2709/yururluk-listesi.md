@@ -6,3 +6,4 @@ Değiştiren Kanunun Numarası | 2709 sayılı Kanunun değişen maddeleri | Yü
 3913 | 133 | 10/7/1993
 4121 | BAŞLANGIÇ hükmü, 33, 52, 53, 67, 68, 69, 84,85, 93, 127, 135,149, 171, İşlenemeyen Hüküm | 26/7/1995
  | 75 | İlk milletvekili genel seçiminin başlangıcı tarihinden itibaren
+4388 | 143 | 18/6/1999
