@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4067-20/14029",
+  "source_id": 24083,
+  "date": "2000-03-30",
+  "title": "Tüketici Fiyat Endeks'li Devlet Tahvilinin Gelir Vergisi Kanununa göre başka bir değere endeksli menkul kıymetler kapsamında değerlendirilebilir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24083",
+  "source_sha256": "324225c22c305df73b65e2008ab95a98c072937eecd30ffa02a70aa0f696f09d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
