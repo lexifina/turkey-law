@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-08-28",
+  "issue": "25213",
+  "edition": "regular",
+  "item": 38,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "İstanbul Üniversitesi Döner Sermaye Saymanlığı Kardiyoloji Enstitüsünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030828-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (46 = 46)",
+  "ilan_codes": [
+    "31214/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030828-3-3.htm",
+  "category_page_sha256": "a885a09c49c608adc10794016e0db0a7683bf8006128113e1b27ac41e18098cd",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030828.htm",
+  "index_sha256": "cd2b78be47c10df42eca85b6b04a744298907216ff9a4430b29e5e7b47ee0fba",
+  "index_header": "28 Ağustos 2003 ... Sayı : 25213",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
