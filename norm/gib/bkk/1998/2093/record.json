@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "98/11466",
+  "source_id": 2093,
+  "date": "1998-08-13",
+  "title": "KURUMLAR VERGİSİ KANUNUNUN DEĞİŞİK 24 ÜNCÜ MADDESİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/bkk/2093",
+  "related_law": "5422 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "fcbe1865f8818a0956a394cb1dde6b445455e514f2fc367b5c908b4d3f6f535c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
