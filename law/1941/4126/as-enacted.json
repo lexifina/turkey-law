@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4126",
+  "year": 1941,
+  "title": "Erzincan ve Erzurum belediyelerine 3 300 000 lira ikrazına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-09-26",
+  "gazette_issue": "4922",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4922.pdf",
+  "source_sha256": "ae328b026d6ac9a2ca360dddb11eaec3ed68b619e8828b03451cc2cb87572619",
+  "text_sha256": "451feb2a62ced91815f495ef316791991486c09c278ca703f669a305d0839078",
+  "text_status": "ocr",
+  "pages": [
+    7
+  ],
+  "line_span": [
+    [
+      1936,
+      1955
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204126.pdf",
+    "source_sha256": "c69246497635244170cc5e1480dc854ee79ad11d4792b70ddb062d65e87c5767",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9766,
+    "bag": 0.9589,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.982,
+    "rg_words": 110,
+    "kd_words": 111,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
