@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5748",
+  "year": 1951,
+  "title": "Çay Hakkındaki Kanunun Bazı Maddelerini Değiştiren Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-03-02",
+  "gazette_issue": "7748",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7748.pdf",
+  "source_sha256": "2ccb1fb0f10d073acfb668d3c3ea35e04d28d45dae23f296e1650431feb5bd01",
+  "text_sha256": "a9ed5c9ccfeb105bd335b7a34903aa582e06a31ce9b557fcc3eee0fdf69053f5",
+  "text_status": "ocr",
+  "pages": [
+    25
+  ],
+  "line_span": [
+    [
+      6152,
+      6172
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305748.pdf",
+    "source_sha256": "287b82d3f276459e54940f9bb242a0b800667f76da1e391f61bdbca64b5ad19f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9687,
+    "bag": 0.9091,
+    "kd_coverage": 0.9872,
+    "kd_body_compared": 0.9872,
+    "rg_words": 154,
+    "kd_words": 156,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
