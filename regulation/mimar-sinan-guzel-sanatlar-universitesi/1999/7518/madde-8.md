@@ -1,0 +1,1 @@
+Madde 8- Yönetim Kurulu, Genel Kurul tarafından seçilecek iki üye ile Üniversite Senatosunca Genel Kurul üyeleri arasından seçilecek iki üye ve Merkez Müdüründen oluşur. Yönetim kurulunun görev süresi üç yıldır. Yönetim Kurulu, Merkez Müdürünün daveti ile ayda en az bir kere toplanır. Yönetim Kurulu Başkanı Merkez Müdürü'dür.
