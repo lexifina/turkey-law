@@ -1,0 +1,146 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1315",
+  "year": 1970,
+  "title": "21.6.1927 tarih ve 1111 sayılı Askerlik Kanununun bâzı maddelerinin değiştirilmesi ve bu kanuna bâzı geçici maddeler eklenmesi hakkında Kanun",
+  "adopted": "1970-07-27",
+  "adopted_as_published": "27/07/1970",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "1.8.1970 No: 13566",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301315.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 53",
+  "committee_reports": [
+    {
+      "label": "MM 226 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008127ss0226.pdf"
+    },
+    {
+      "label": "CS 1467no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c061/cs__09061102ss1467.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 377260,
+      "title": "21.6.1927 tarih ve 1111 sayılı Askerlik Kanununun bâzı maddelerinin değiştirilmesi ve bu kanuna bâzı geçici maddeler eklenmesi hakkında Kanun",
+      "adopted_as_published": "27/07/1970",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301315.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 226 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008127ss0226.pdf"
+        },
+        {
+          "label": "CS 1467no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c061/cs__09061102ss1467.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 71,
+          "sitting_date": "1970-04-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+          "pages": [
+            "310"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 122,
+          "sitting_date": "1970-07-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008122.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+          "pages": [
+            "80:81"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 127,
+          "sitting_date": "1970-07-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008127.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+          "pages": [
+            "383:426"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=601&v_kullanici_id=27483225",
+      "page_sha256": "289a6a3fb6cf89fae2d8a05f66e7b654a3cc8aecdfd898b5db709f11f0b70d44"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 313787,
+      "title": "21.6.1927 tarih ve 1111 sayılı Askerlik Kanununun bâzı maddelerinin değiştirilmesi ve bu kanuna bâzı geçici maddeler eklenmesi hakkında Kanun",
+      "adopted_as_published": "27/07/1970",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301315.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 226 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008127ss0226.pdf"
+        },
+        {
+          "label": "CS 1467no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c061/cs__09061102ss1467.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 60,
+          "sitting": 94,
+          "sitting_date": "1970-07-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060094.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060fih.pdf",
+          "pages": [
+            "350"
+          ]
+        },
+        {
+          "cilt": 61,
+          "sitting": 101,
+          "sitting_date": "1970-07-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c061/cs__09061101.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c061/cs__09061fih.pdf",
+          "pages": [
+            "154"
+          ]
+        },
+        {
+          "cilt": 61,
+          "sitting": 102,
+          "sitting_date": "1970-07-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c061/cs__09061102.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c061/cs__09061fih.pdf",
+          "pages": [
+            "238:284"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1301&v_kullanici_id=27483235",
+      "page_sha256": "d5176558de59b9dcf211fea14e78f3108f5ed774b83c8bb3de13ebec8b61a347"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "289a6a3fb6cf89fae2d8a05f66e7b654a3cc8aecdfd898b5db709f11f0b70d44",
+  "issuer": "Millet Meclisi",
+  "in_force": "1970-07-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 27/07/1970; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
