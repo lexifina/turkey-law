@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.47/4704-296/55563",
+  "source_id": 37665,
+  "date": "1997-12-19",
+  "title": "Ordu Yardımlaşma Kurumu ile askeri kantinlerin kendi üyeleri olmayan ve üçüncü kişi niteliğinde olan kimselere yapmış oldukları satışlardan dolayı  düzenlemiş oldukları harcama belgelerinin, bu kişilerce vergi iadesinde kullanılması mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/589/ozelge/37665",
+  "source_sha256": "e0040ebd0ff30e0441492cea86fd972362032ceb66f8c7f2a7ffbe623a80a749",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
