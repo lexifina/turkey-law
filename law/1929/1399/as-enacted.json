@@ -1,0 +1,52 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1399",
+  "year": 1929,
+  "title": "Türkiye ve Gürcistan Soviyetist Cumhuriyeti hudutlarının sarî hayvan hastalıklarının istilasına karşı usulü muhafazası hakkında Türkiye Cumhuriyeti ile Sosyalist Şuralar Cumhuriyeti İttihadı arasında münakit mukavelenamenin tasdikine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-03-10",
+  "gazette_issue": "1139",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1139.pdf",
+  "source_sha256": "25edb858891dc9b6bca9b61a4fe3b5257263b9f9a7471473ae009d2ea795ff32",
+  "text_sha256": "5a821df0c49cd9eb7bef09ee9d2a2a03451872174d3b677b66410f614cf92607",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "line_span": [
+    [
+      9,
+      744
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701399.pdf",
+    "source_sha256": "4ea0565c69a93e2d6ad2a19395155167f99ed210761c90a31a5a81a2baa15f24",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = word-sequence ratio (exact or OCR-noise-equal words, difflib) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9353,
+    "bag": 0.8725,
+    "kd_coverage": 0.9974,
+    "kd_body_compared": 0.9974,
+    "rg_words": 2767,
+    "kd_words": 2737,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
