@@ -1,0 +1,4 @@
+Oda Onur Kurulunun Görevleri ve Toplantıları
+Madde 20 — Onur kurulunun görevi, yönetim kurulunun disiplin kovuşturması açılmasına ilişkin kararı üzerine gerekli incelemeyi yaparak disiplinle ilgili kararları vermek ve hukuksal düzenlemelerle verilen diğer görevleri yapmaktır.
+Oda onur kurulu toplantıya, yönetim kurulu veya onur kurulu başkanı tarafından asıl üyelere toplantı tarihinden en az bir hafta önceden taahhütlü mektup gönderilmek suretiyle veya imza karşılığı bildirim yoluyla çağrılır. Geçerli bir mazeret nedeni ile toplantıya katılamayacak üyelerin, toplantıdan en az üç gün önce durumlarını belirtmeleri üzerine, yerleri yedek üyelerle doldurulur. Onur kurulu, yaptığı toplantıda bir sonraki toplantı gününü belirlerse, ayrıca çağrı gerekmez.
+Onur kurulu toplantılarını onur kurulu başkanı, bulunmazsa ikinci başkanı, o da bulunmazsa kurul sözcüsü yönetir.

@@ -1,0 +1,4 @@
+Disiplin Kovuşturmasına Yer Olmadığı Kararı
+Madde 15 — Yönetim kurulu, dosyayı ve raporu inceleyerek, bildirim veya yakınmada bulunan kişi hakkında disiplin kovuşturması açılmasını gerektirecek bir nedenin olmadığını saptadığı takdirde, disiplin kovuşturması açılmasına yer olmadığına gerekçeli olarak karar verir. Bu kararda bildirim veya yakınmada bulunanın adı ve adresi, suçlananın kimliği, üzerine atılan eylem, inceleme ve kanıtlar belirtilir.
+Karar, hakkında soruşturma açılmış bulunan kişiye ve varsa yakınmacıya bildirilir.
+Bildirim, Tebligat Kanunu hükümlerine göre yapılır. Kararın ilgiliye elden verilerek bildirilmesi durumunda bildirim günü, bildirilen ilgilinin adı ve soyadı bir tutanakla saptanarak ilgili memur ve bildirimde bulunulan tarafından imzalanır. Tebligatın yapıldığını gösteren belgeler soruşturma dosyasında saklanır.

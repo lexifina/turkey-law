@@ -1,0 +1,6 @@
+İlk İnceleme ve Soruşturmacı Atanması
+Madde 13 — Oda yönetim kurulu, bildirim veya yakınmanın yapılmasından sonra bir ay içinde konuyu inceler.
+Yönetim kurulu bildirim veya yakınmayı değersiz görürse, soruşturma açılmasına yer olmadığına dair kararını şikayet eden tarafa bildirir.
+Bildirim veya yakınma soruşturmaya değer görüldüğünde ise yönetim kurulu aşağıdaki yollardan birini izler:
+a)Yönetim kurulu, ilgiliye yakınma veya bildirim konusunu yazılı olarak bildirerek tebliğinden itibaren en geç 15 gün içinde savunmasını ve varsa kanıtlarını bildirmesini ister. Bu sürenin geçmesi veya süresinde gelen yanıt ile birlikte toplanan kanıtlardan oluşan dosyayı inceleyerek soruşturulan kişinin onur kuruluna sevk edilip edilmeyeceğine karar verir.
+b)Yönetim kurulu, bildirim veya yakınmayı inceleyerek gerekli gördüğü durumlarda oda üyelerinden birini veya birkaçını soruşturmacı olarak atar. Soruşturmacı yönetim kurulu kararı ile atanır. Soruşturmacı, bu kararın örneğini veya tarih ve sayısını, hakkında suçlamada bulunulan kişiye bildirir. Soruşturmacı olarak atanan hekim haklı sebeplerle görevi kabul etmeyebilir. Yönetim kurulu tarafından tabip odası sınırları içinden soruşturmacı atanması uygun görülmediği takdirde soruşturmacı belirlenmesi Merkez Konseyi’nden istenebilir.

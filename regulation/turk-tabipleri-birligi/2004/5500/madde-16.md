@@ -1,0 +1,3 @@
+Soruşturma veya Kovuşturma Açılmaması Kararlarına Karşı İtirazlar
+Madde 16 — Oda yönetim kurulunun disiplin soruşturması veya kovuşturması açılmasına yer olmadığına ilişkin kararlarına karşı ilgililer, bildirim tarihinden itibaren 15 gün içinde, oda onur kuruluna itiraz edebilirler. İtiraz dilekçesi oda yönetim kurulu aracılığı ile oda onur kuruluna gönderilir.
+Oda onur kurulu tarafından dosya üzerinde yapılacak inceleme sonunda, yakınma, bildirim veya istem konusu incelemeye değer nitelikte görülürse, oda yönetim kurulunun kararı kaldırılır. Oda yönetim kurulu bu karara uymak ve soruşturmayı tamamlayarak onur kuruluna sunmak zorundadır.
