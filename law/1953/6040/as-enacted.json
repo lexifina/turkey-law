@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6040",
+  "year": 1953,
+  "title": "Posta, Telgraf ve Telefon İşletme Umum Müdürlüğü 1952 Yılı Bütçe Kanununa Bağlı (A/1) İşaretli Cetvelde Değişiklik Yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-02-06",
+  "gazette_issue": "8328",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8328.pdf",
+  "source_sha256": "6a6d632652149dffbf4328ef1d6fb11a6f2b922146fb4d00bf43364e9aaee6df",
+  "text_sha256": "4db4e545d217d1a798368e7fe0e672d8c5629514e9e8c34e345e2af1107c05dc",
+  "text_status": "ocr",
+  "pages": [
+    10
+  ],
+  "line_span": [
+    [
+      1895,
+      1915
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506040.pdf",
+    "source_sha256": "f447fb9bb78475f8cb8e38ba3cd57825c7b632adc9e13ea3a4b98dc164a184b7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9235,
+    "bag": 0.8227,
+    "kd_coverage": 0.9863,
+    "kd_body_compared": 0.3013,
+    "rg_words": 155,
+    "kd_words": 478,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
