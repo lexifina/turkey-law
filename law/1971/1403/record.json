@@ -1,0 +1,217 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1403",
+  "year": 1971,
+  "title": "İstanbul Teknik Üniversitesi kuruluş kadroları Kanununa ek Kanun",
+  "adopted": "1971-05-20",
+  "adopted_as_published": "20/05/1971",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.05.1971 No: 13849",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401403.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 54",
+  "committee_reports": [
+    {
+      "label": "MM 214 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012066ss0214.pdf"
+    },
+    {
+      "label": "MM 214ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012066ss0214ek01.pdf"
+    },
+    {
+      "label": "MM 241ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013102ss0241ek01.pdf"
+    },
+    {
+      "label": "CS 1549no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c064/cs__10064062ss1549.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 381861,
+      "title": "İstanbul Teknik Üniversitesi kuruluş kadroları Kanununa ek Kanun",
+      "adopted_as_published": "20/05/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401403.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 214 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012066ss0214.pdf"
+        },
+        {
+          "label": "MM 214ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012066ss0214ek01.pdf"
+        },
+        {
+          "label": "MM 241ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013102ss0241ek01.pdf"
+        },
+        {
+          "label": "CS 1549no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c064/cs__10064062ss1549.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 47,
+          "sitting_date": "1970-02-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003fih.pdf",
+          "pages": [
+            "174"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 119,
+          "sitting_date": "1970-07-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c007/mm__03007119.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c007/mm__03007fih.pdf",
+          "pages": [
+            "609"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 66,
+          "sitting_date": "1971-03-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012066.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012fih.pdf",
+          "pages": [
+            "77:81"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 91,
+          "sitting_date": "1971-04-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013091.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013fih.pdf",
+          "pages": [
+            "4"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 98,
+          "sitting_date": "1971-05-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013098.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013fih.pdf",
+          "pages": [
+            "325"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 102,
+          "sitting_date": "1971-05-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013102.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013fih.pdf",
+          "pages": [
+            "551:553"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=701&v_kullanici_id=27483225",
+      "page_sha256": "b5cb39e132ebf96cf2125d32828c5507413fb68b2886bbae3c9e119b7dbba907"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 316928,
+      "title": "İstanbul Teknik Üniversitesi kuruluş kadroları Kanununa ek Kanun",
+      "adopted_as_published": "20/05/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401403.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 214 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012066ss0214.pdf"
+        },
+        {
+          "label": "MM 214ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012066ss0214ek01.pdf"
+        },
+        {
+          "label": "MM 241ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013102ss0241ek01.pdf"
+        },
+        {
+          "label": "CS 1549no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c064/cs__10064062ss1549.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 64,
+          "sitting": 50,
+          "sitting_date": "1971-03-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c064/cs__10064050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c064/cs__10064fih.pdf",
+          "pages": [
+            "334"
+          ]
+        },
+        {
+          "cilt": 64,
+          "sitting": 60,
+          "sitting_date": "1971-04-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c064/cs__10064060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c064/cs__10064fih.pdf",
+          "pages": [
+            "582",
+            "586"
+          ]
+        },
+        {
+          "cilt": 64,
+          "sitting": 61,
+          "sitting_date": "1971-04-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c064/cs__10064061.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c064/cs__10064fih.pdf",
+          "pages": [
+            "617"
+          ]
+        },
+        {
+          "cilt": 64,
+          "sitting": 62,
+          "sitting_date": "1971-04-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c064/cs__10064062.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c064/cs__10064fih.pdf",
+          "pages": [
+            "649:652",
+            "669",
+            "671:672"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1401&v_kullanici_id=27483235",
+      "page_sha256": "2347afd48dbca4d148a2974c7621a56e15bf823e6e014e9ddf67d02756645108"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b5cb39e132ebf96cf2125d32828c5507413fb68b2886bbae3c9e119b7dbba907",
+  "issuer": "Millet Meclisi",
+  "in_force": "1971-05-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 20/05/1971; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
