@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4269",
+  "year": 1942,
+  "title": "Etibank sermayesinin 100 000 000 liraya iblâğına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-06-23",
+  "gazette_issue": "5139",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5139.pdf",
+  "source_sha256": "6bf5dbd3a9a7e2ae89e1c2f3e39ce7f65ce0f93cb5d26da3b3f69197d014e7d4",
+  "text_sha256": "f6feb53efc097519275f7e5981aee0f030e1f608c3dd045a875f14630b18faa3",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      952,
+      968
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [5] (no text layer)",
+    "tesseract_pages": [
+      5
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304269.pdf",
+    "source_sha256": "b9bfc025144ca095d288f957c58851ebc4e982a593c70eb3a614fc10e719f003",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.91,
+    "bag": 0.8357,
+    "kd_coverage": 0.9727,
+    "kd_body_compared": 0.7941,
+    "rg_words": 105,
+    "kd_words": 136,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
