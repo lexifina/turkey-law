@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4613",
+  "year": 1944,
+  "title": "Türkiye ile Almanya arasında Ticari mübadelelere ve tediyelerin tanzimine mütedair 18.4.1943 tarihli Anlaşma esasları dâhilinde Almanlar tarafından 5 aded tayyare verilmesi ve mukabilinde muayyen Türk mallarının ihracı için Alman Sefaretiyle teati olunan mektupların tasdikına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-07-18",
+  "gazette_issue": "5759",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5759.pdf",
+  "source_sha256": "1e9be824b3bd8064ba4daf62fb1758efffec02f46c2b8df2726b09c4441e4fbd",
+  "text_sha256": "5bcc7d317d02a36f81bdc784f3152f794f7fc47a4f4129c1c6e21d1dc1874731",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      295,
+      316
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604613.pdf",
+    "source_sha256": "d876ef6241060a00decb136648810953b79dd4094113fd7f833dc0fc65ce5d1c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9769,
+    "bag": 0.9398,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9688,
+    "rg_words": 125,
+    "kd_words": 128,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
