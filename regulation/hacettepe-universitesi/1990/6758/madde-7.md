@@ -1,0 +1,2 @@
+Merkez Danışma Kurulu
+Madde 7 — Merkez Danışma Kurulu, Edebiyat ile ilgili öğretim üyelerinden ve Merkez Yönetim Kurulunun belirleyeceği bilim, sanat ve tiyatro faaliyetlerine katkıda bulunan yurt içinden ve yurt dışından tanınmış kişilerden oluşur. Bu üyelerin atanma-usulü ile görev süreleri Yönetim Kurulu üyeleri gibidir. Merkez Danışma Kuruluna Merkez Başkanı Başkanlık eder. Merkez Danışma Kurulu Merkez Başkanının çağrısı üzerine toplanır.

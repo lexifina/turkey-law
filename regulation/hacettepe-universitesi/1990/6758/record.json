@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 12 — Bu Yönetmelik Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1990-07-26",
+      "26.07.1990",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "1998-02-19",
+      "RG-19/02/1998-23263",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "1998-02-19",
+      "RG-19/02/1998-23263",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-19/02/1998-23263",
+  "first_law": null,
+  "gazette": "20586",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1998-02-19",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/1990/6758",
+  "published": "1990-07-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6758&MevzuatTertip=5",
+  "source_bytes": 26224,
+  "source_id": "8.5.6758",
+  "source_sha256": "195cb1a5f070bd8b809dd65799db3600f7c147b42f6267e96d9babaacc840c85",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nİNGİLİZ EDEBİYATI VE KÜLTÜRÜ UYGULAMA VE ARAŞTIRMA MERKEZİ \r\nYÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 695
+}
