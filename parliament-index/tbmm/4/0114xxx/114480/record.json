@@ -1,0 +1,123 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 114480,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Çankırı Mebusu Mustafa Abdülhalik Beyin, Arzuhal Encümeninin 13.5.1933 tarihli haftalık mukarrerat cetvelinin 15 sıra numarasındaki kararın Umumî heyette müzakeresine dair 4/55 numaralı takriri hakkında",
+  "title": "Çankırı Mebusu Mustafa Abdülhalik Beyin, Arzuhal Encümeninin 13.5.1933 tarihli haftalık mukarrerat cetvelinin 15 sıra numarasındaki kararın Umumî heyette müzakeresine dair 4/55 numaralı takriri hakkında",
+  "first_sitting_date": "1933-11-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 6,
+      "sitting_date": "1933-11-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c018/tbmm04018006.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c018/tbmm04018fih.pdf",
+      "pages": [
+        "54"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 7,
+      "sitting_date": "1933-11-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c018/tbmm04018007.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c018/tbmm04018fih.pdf",
+      "pages": [
+        "71"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 19,
+      "sitting_date": "1933-12-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019fih.pdf",
+      "pages": [
+        "152"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 20,
+      "sitting_date": "1933-12-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019fih.pdf",
+      "pages": [
+        "164"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 22,
+      "sitting_date": "1934-03-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020fih.pdf",
+      "pages": [
+        "8"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 34,
+      "sitting_date": "1934-04-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021034.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 36,
+      "sitting_date": "1934-04-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021fih.pdf",
+      "pages": [
+        "20"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 37,
+      "sitting_date": "1934-04-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021fih.pdf",
+      "pages": [
+        "39"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 38,
+      "sitting_date": "1934-04-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021fih.pdf",
+      "pages": [
+        "48:50"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=1001&v_kullanici_id=27483870",
+  "source_sha256": "d857ec64d6e7e04864beae4f8c60c3106b8d5bd012f102e163cbdd2e9272ffb0",
+  "in_force": "1933-11-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
