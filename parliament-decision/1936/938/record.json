@@ -1,0 +1,60 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "938",
+  "year": 1936,
+  "title": "Eylül:İkinci Teşrin 1935 aylarına aid Divanı muhasebat raporuna dair",
+  "adopted": "1936-05-04",
+  "adopted_as_published": "04/05/4936",
+  "date_basis": "adopted-repaired",
+  "official_gazette_as_published": "08.05.1936 No:",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/karartbmmc016/karartbmmc01600938.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 16",
+  "committee_reports": [
+    {
+      "label": "TBMM 163 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011058ss0163.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104898,
+      "title": "Eylül:İkinci Teşrin 1935 aylarına aid Divanı muhasebat raporuna dair",
+      "adopted_as_published": "04/05/4936",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/karartbmmc016/karartbmmc01600938.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 163 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011058ss0163.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 58,
+          "sitting_date": "1936-05-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011fih.pdf",
+          "pages": [
+            "4"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "de0a0b9c281b7df457500c68e5333d9f2787cc063d6bb3195e588ea73f2eabf9"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "de0a0b9c281b7df457500c68e5333d9f2787cc063d6bb3195e588ea73f2eabf9",
+  "issuer": "TBMM",
+  "in_force": "1936-05-04",
+  "in_force_basis": "Kabul tarihi as printed in the official TBMM kararlar index is 04/05/4936, whose year is a misprint: the one cited sitting with the same day and month is 1936-05-04; date of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
