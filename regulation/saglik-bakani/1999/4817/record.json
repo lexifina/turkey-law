@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.4817",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAĞLIK BAKANLIĞI TRAFİK HİZMETLERİ DÖNER SERMAYE İŞLETME YÖNETMELİĞİ",
+  "number": "4817",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/1999/4817",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4817&MevzuatTertip=5",
+  "source_sha256": "d76422d3a4afa5e34dee2d67156e9899ea4b044aff5349384e9c6647411ef2f1",
+  "source_bytes": 81550,
+  "published": "1999-10-02",
+  "gazette": "23834",
+  "in_force": "2000-01-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG 12/1/2000\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2000-01-12",
+      "RG 12/1/2000",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3203,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
