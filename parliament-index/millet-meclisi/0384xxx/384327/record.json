@@ -1,0 +1,56 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 384327,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Cumhuriyet Senatosu İstanbul Üyesi M. Halûk Berkol ve İstanbul Milletvekili Orhan Cemal Fersoy'un, ekspres yollar ve İstanbul çevre yolu projesi sahasındaki gecekonduların tasfiyesi hakkında kanun teklifi (2/385)",
+  "title": "Cumhuriyet Senatosu İstanbul Üyesi M. Halûk Berkol ve İstanbul Milletvekili Orhan Cemal Fersoy'un, ekspres yollar ve İstanbul çevre yolu projesi sahasındaki gecekonduların tasfiyesi hakkında kanun teklifi (2/385)",
+  "first_sitting_date": "1971-04-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 93,
+      "sitting_date": "1971-04-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013fih.pdf",
+      "pages": [
+        "35"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 107,
+      "sitting_date": "1971-06-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014107.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014fih.pdf",
+      "pages": [
+        "26:28"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 164,
+      "sitting_date": "1971-09-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c018/mm__03018164.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c018/mm__03018fih.pdf",
+      "pages": [
+        "15"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=2801&v_kullanici_id=27484893",
+  "source_sha256": "09a9ee21e2f54283143ba8ada35fd6a1d987150948d24c6bfd15af7d00b080b2",
+  "in_force": "1971-04-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
