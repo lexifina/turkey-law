@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5330-102",
+  "source_id": 25031,
+  "date": "2005-03-08",
+  "title": "Şirkete ait marketin yanması sonucu zayi olan mallann KDV'sinin, KDV Kanununun 30/c maddesine göre indirim konusu yapılıp yapılamayacağı ve kullanım süresi geçmiş veya satışı mümkün olmayan mallann takdir komisyonu nezaretinde imha edilmesi sonucunda söz ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25031",
+  "source_sha256": "bc608931e54a7b7bd2c62b93e623ce98ace9d69d40966d0f8d2720781e9fa219",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
