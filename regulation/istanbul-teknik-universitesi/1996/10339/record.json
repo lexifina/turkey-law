@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1996-02-04",
+      "04.02.1996",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "22544",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1996-02-04",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/1996/10339",
+  "published": "1996-02-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10339&MevzuatTertip=5",
+  "source_bytes": 17458,
+  "source_id": "8.5.10339",
+  "source_sha256": "211fdee341f4ce64ffd3e7dc5d3cad31db368837077e5e2c9c04b0b757e71fb1",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ SÜREKLİ EĞİTİM MERKEZİ (SEM) YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 586
+}

@@ -1,0 +1,2 @@
+Mali Konular ve SEM Çalışma Esasları
+Madde 11- SEM'in gelirlerinin toplanması, toplanan gelirin Üniversite, SEM ve gelirin sağlanmasında hizmeti geçen kişi ve birimlere dağıtımı, SEM harcamalarının nasıl yapılacağı ve SEM çalışma esasları ile ilgili olarak Senato Esasları üzerinde yapılması gerekli görülen değişiklik önerileri SEM Kurulunca hazırlanır, Üniversite Yönetim Kurulunca karara bağlanır.

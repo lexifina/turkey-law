@@ -1,0 +1,2 @@
+Başkanın Yetki ve Sorumlulukları
+Madde 8- SEM Başkam, SEM kurulunun aldığı kararları ve hazırladığı çalışma programını uygular. Fakülte, Enstitü, Konservatuar, Meslek Yüksekokulu ve Rektörlüğe bağlı Bölüm Başkanlıklarındaki SEM programlarıyla ilgili koordinasyonu sağlar. Her faaliyet dönemi sonunda bir faaliyet raporu düzenler ve SEM Kurulunda kabul edildikten sonra Rektörlüğe sunar. SEM faaliyet raporu, Üniversite Yönetim Kurulunca değerlendirilir.

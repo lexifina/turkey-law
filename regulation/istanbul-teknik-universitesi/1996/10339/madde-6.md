@@ -1,0 +1,3 @@
+Madde 6- SEM Kurulu, SEM Başkanının çağrısı üzerine olağan olarak iki ayda bir, gerekli hallerde daha sık olmak üzere salt çoğunlukla toplanarak, merkezin faaliyetlerini gözden geçirir ve ilgili konularda kararları alır.
+SEM Kurulu, SEM Başkanının her faaliyet dönemi sonunda (takvim yılı sonunda) Fakültelerden, Enstitülerden, Konservatuar, Meslek Yüksekokulu ve Rektörlüğe bağlı Bölümlerden gelen faaliyet raporlarını değerlendirerek hazırlayıp Rektörlüğe sunacağı raporla ilgili esasları belirler ve bir sonraki döneme ait çalışma programını koordine eder.
+Eğitim programları sonunda verilecek olan ve ilgili birimlerce hazırlanan katılım belgesi, sertifika ve benzeri belgelerin verilmesi ile ilgili esasları belirler.
