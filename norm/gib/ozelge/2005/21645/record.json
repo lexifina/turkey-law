@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1534/6860",
+  "source_id": 21645,
+  "date": "2005-02-14",
+  "title": "Hizmet erbabı ile serbest meslek faaliyetinde bulunan veya basit usulde vergilendirilen özürlülerin beyan edilen gelirlerine Gelir Vergisi Kanununun 31 inci maddesinde yer alan indirim uygulanacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21645",
+  "source_sha256": "b5cf313b13175ff610ce154297862657b1990bc2ba61a3af6f60e846a02179e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
