@@ -1,0 +1,2 @@
+<p>&nbsp;</p>
+<p>İç genelgeye ulaşmak için <a href="https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/user_upload/icgenelge/3568/1990_1_3568_%20Icgenelgesi.pdf" target="_blank" rel="noopener">tıklayınız.</a></p>

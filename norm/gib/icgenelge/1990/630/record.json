@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "",
+  "source_id": 630,
+  "date": "1990-11-22",
+  "title": "İHBARLAR ŞUBESİ İÇ GENELGESİ SIRA NO: 1990/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/icgenelge/630",
+  "source_sha256": "1dff00564d4cdcc0abef31019a1f24a8d2cb352924c3376ae63534a761051a5c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
