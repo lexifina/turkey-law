@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.8338",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÜNİVERSİTELERDE DERS ARACI OLARAK KULLANILAN KİTAPLAR, TEKSİRLER VE YARDIMCI DERS KİTAPLARI DIŞINDAKİ YAYINLARLA İLGİLİ YÖNETMELİK",
+  "number": "8338",
+  "issuer": "Üniversite Rektörleri",
+  "issuer_slug": "universite-rektorleri",
+  "path": "regulation/universite-rektorleri/1984/8338",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8338&MevzuatTertip=5",
+  "source_sha256": "00e6ecabcebe88aed044c3176282dbb5493e5f44f71a0ea2380b0c27bc4cb566",
+  "source_bytes": 12119,
+  "published": "1984-10-22",
+  "gazette": "18553",
+  "in_force": "1984-10-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.10.1984); own commencement article: \"bu yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 481,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
