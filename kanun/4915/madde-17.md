@@ -1,0 +1,2 @@
+Yabancıların götürebilecekleri av hayvanları
+MADDE 17. - Avcı turistler, avladıkları ve onaylanmış geçici avcılık belgelerine kayıtlı av hayvanlarının etlerini ve hatıra değeri taşıyan parçalarını, Türkiye'nin taraf olduğu uluslararası sözleşmelerdeki taahhütlerini dikkate almak kaydıyla başka bir izne bağlı olmadan yurt dışına beraberlerinde çıkarabilirler, adreslerine gönderebilirler veya göndertebilirler.
