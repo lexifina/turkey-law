@@ -1,0 +1,1 @@
+Madde 10 – Merkezin Genel ve Yönetim Kurulları üye tam sayısının yarıdan bir fazlası ile toplanır ve hazır bulunanların oy çoğunluğu ile karar alabilir. Oyların eşitliği halinde başkanın katıldığı görüş geçerli olur.

@@ -1,0 +1,2 @@
+Merkez Genel Kurulunun Oluşması Ve Çalışma Esasları
+Madde 6 – Merkez Genel Kurulu; Müdürün başkanlığında Müdür Yardımcısı ile Mimar Sinan Üniversitesine bağlı çeşitli Fakültelerde ve Konservatuvarda Atatürk İlkeleri ve İnkılâp Tarihi derslerini veren kadrolu veya saat ücretli öğretim elemanlarından; ayrıca Senato tarafından Üniversitenin Profesörleri arasından üç yıl için seçilecek üç ve konu ile ilgili kişiler arasından üç yıl için seçilecek iki üyeden ve Fakülte ve Yüksekokulların yetkili kurullarınca seçilecek birer üyeden oluşur.
