@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-29580/15517",
+  "source_id": 21733,
+  "date": "1998-04-29",
+  "title": "Bir önceki yıl,indiremediğiniz yatırım indirimi tutarını, indiriminden yararlanabilecek kazancınızın bulunduğu sonraki yılda da yeniden değerleme oranında artırmak suretiyle yatırım indiriminden yararlanmanız gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21733",
+  "source_sha256": "9ec71a386a505ef7ba0da6490e9203456b3958239eae3e45d6291c641c38ca7a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
