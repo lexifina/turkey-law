@@ -1,0 +1,73 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3114",
+  "year": 1937,
+  "title": "Posta, Telgraf ve Telefon Umum Müdürlüğünün 1936 malî yılı bütçesinde 43 100 liralık münakale yapılmasına dair kanun",
+  "adopted": "1937-02-05",
+  "adopted_as_published": "05/02/1937",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "15.02.1937 No: 3534",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703114.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 17",
+  "committee_reports": [
+    {
+      "label": "TBMM 87 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c016/tbmm05016033ss0087.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104328,
+      "title": "Posta, Telgraf ve Telefon Umum Müdürlüğünün 1936 malî yılı bütçesinde 43 100 liralık münakale yapılmasına dair kanun",
+      "adopted_as_published": "05/02/1937",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703114.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 87 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c016/tbmm05016033ss0087.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 16,
+          "sitting": 32,
+          "sitting_date": "1937-02-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c016/tbmm05016032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c016/tbmm05016fih.pdf",
+          "pages": [
+            "38"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 33,
+          "sitting_date": "1937-02-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c016/tbmm05016033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c016/tbmm05016fih.pdf",
+          "pages": [
+            "56:57",
+            "75",
+            "78:81"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=920&v_gelecek_sayfa=201&v_kullanici_id=27483162",
+      "page_sha256": "5b8116f8bec853835de6e27e555a7bacb587b9807cb7eaccccf1b4290fc96438"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5b8116f8bec853835de6e27e555a7bacb587b9807cb7eaccccf1b4290fc96438",
+  "issuer": "TBMM",
+  "in_force": "1937-02-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 05/02/1937; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
