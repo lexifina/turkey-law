@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1712",
+  "year": 1930,
+  "title": "Ankara şehri su tesisatı için taahhüt icrasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-06-22",
+  "gazette_issue": "1526",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1526.pdf",
+  "source_sha256": "8dddca8b55c03afcdfc4136e0d68b7d4110162ba7eb279446d802eabff9ac62f",
+  "text_sha256": "8512471580fd016770f93def4a463d3473706e46b51f968f3621f6c417ac4647",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      411,
+      430
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801712.pdf",
+    "source_sha256": "1bab164c62cc629e8ff54b9c5c677ebe6c03b2a06f1507b1acea1571b8dee990",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9263,
+    "bag": 0.9057,
+    "kd_coverage": 0.9818,
+    "kd_body_compared": 0.931,
+    "rg_words": 52,
+    "kd_words": 58,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
