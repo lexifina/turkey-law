@@ -1,0 +1,22 @@
+{
+  "number": "307",
+  "number_as_published": "307",
+  "year": 2002,
+  "title": "Encümen kararı 2002/307",
+  "decision_date": "2002-03-19",
+  "source": "https://www.izmir.bel.tr/tr/Encumen/TariheGoreKararGetir?draw=1&start=1000&length=500&yil=2002&ay=&gun=&txtSozcuk=",
+  "official_document": null,
+  "source_sha256": "5bc91b3d7d6a666218a7e560a59b86942a199e6b3f45b22f32c0172f84c0fe13",
+  "issuer": "İzmir Büyükşehir Belediye Encümeni",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2002-03-19",
+  "in_force_basis": "Decision date as printed in the official council listing: 19/03/2002; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.izmir.bel.tr/tr/EncumenKararlari/50"
+}
