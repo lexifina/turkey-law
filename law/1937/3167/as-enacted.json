@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3167",
+  "year": 1937,
+  "title": "Kara Avcılığı Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-05-13",
+  "gazette_issue": "3603",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3603.pdf",
+  "source_sha256": "41717c6e40b13a6a37685bf52e3fd6db5718798c0e74de66981b5142567f2b1f",
+  "text_sha256": "2456e7ea4acb5e186b41caa4ceefc2bf573033ea74b8370693d2b60321fa77ea",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      25,
+      391
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703167.pdf",
+    "source_sha256": "b1bdd88dc42722e9b4aac941529150830981b0ee88c259b94270ed3208555c0d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9739,
+    "bag": 0.9062,
+    "kd_coverage": 0.9965,
+    "kd_body_compared": 0.9965,
+    "rg_words": 1149,
+    "kd_words": 1146,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
