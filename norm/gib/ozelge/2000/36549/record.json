@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2201/32273",
+  "source_id": 36549,
+  "date": "2000-07-04",
+  "title": "Fazladan tahsil edildiği anlaşılan vergilerin, mükellefin talebi olmaksızın vadesi gelmemiş taksitlere mahsup edilip edilemeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36549",
+  "source_sha256": "62fb799b44ec235f03cc63e4a2f54daba92ae76a0ec3233586a14178abf893fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
