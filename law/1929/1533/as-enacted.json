@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1533",
+  "year": 1929,
+  "title": "Yaluvanın kaza haline konulmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-12-09",
+  "gazette_issue": "1366",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1366.pdf",
+  "source_sha256": "db6f345efab651a3e7b176676d5998907b5beb943628715a21fe9d3ee2b8c7f0",
+  "text_sha256": "bca597e3391f5bb8fd93b337da066bd72422793a4e8ba75aa46e912ce6f2d7bf",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      17,
+      50
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801533.pdf",
+    "source_sha256": "8bc2f59c020fe82fb4702fd2f3772673d3d0bc1e8dcf88fe9a28b91a2b17b950",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.915,
+    "bag": 0.8169,
+    "kd_coverage": 0.9571,
+    "kd_body_compared": 0.6126,
+    "rg_words": 74,
+    "kd_words": 111,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
