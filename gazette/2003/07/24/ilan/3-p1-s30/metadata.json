@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-07-24",
+  "issue": "25178",
+  "edition": "regular",
+  "item": 30,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-1",
+  "title": "Tokat Dr. Cevdet Aykan Devlet Hastanesi Baştabipliğinden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030724-3-1.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (32 = 32)",
+  "ilan_codes": [
+    "25376/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030724-3-1.htm",
+  "category_page_sha256": "aefc2f26bb62f7b61eeeb5a3971dc3232319b37f730cbae143d927e99c8d4073",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030724.htm",
+  "index_sha256": "533b073f6a6705940ee4ecff2b755b13d452cb36009cb18e1e35a086b858819f",
+  "index_header": "24 Temmuz 2003 ... Sayı : 25178",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
