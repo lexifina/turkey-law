@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "103",
+  "decision_date": "2003-03-19",
+  "title": "Türkiye Elektrik İletim Anonim Şirketi (TEİAŞ) tarafından uygulanacak iletim tarifeleri hakkında",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yio4XEOLKRA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yio4XEOLKRA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kMTSVynWfbY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BlN1hVlIMZw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eTwfj3BYIdk="
+  ],
+  "source_sha256": "7064035786ec42be2072c4a9ae196f72aa9749a91a90f828149594c6a73dc988",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-03-19",
+  "law_text_complete": false
+}
