@@ -1,0 +1,3 @@
+Norm hükümlerine ithal edilmek istenilen kumaşlar:
+Madde 9 – İkinci maddede ad ve vasıfları yazılı kumaşlar dışında imal edilen yeni tip ve vasıftaki kumaşların normlaştırılması hakkında ilgililerce Ekonomi ve Ticaret Vekaletine vakı olacak müracaat üzerine bu Vekaletçe gerekli incelemeler yapılarak uygun görüldüğü takdirde tesbit edilen yeni tip ve vasıflar Resmi Gazete ile ilan olunur.
+Bu suretle ilan edilmiş olan kumaşların vasıfları dununda ve aynı adlar altında kumaş imal ve piyasaya arzedilemez. Aksine hareket, bu Nizamname ile belirtilen normlara aykırı imalat sayılır ve bu gibiler hakkında ayni ceza müeyyideleri uygulanır.

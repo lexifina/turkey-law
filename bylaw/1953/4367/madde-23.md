@@ -1,0 +1,7 @@
+Zabıt varakasına itiraz:
+Madde 23 – A) Amil, satıcı veya alakalı veyahut bunların temsilciler tarafından zabıt varakası münderecatına itiraz edildiği takdirde salahiyetli memur ihtilafı, bulunduğu yerdeki Hakem Heyetine intikal ettirir.
+Hakem Heyeti bulunmayan yerlerde zabıt varakasının bir nüshasiyle mühürlü nümunelerin bir takımı salahiyetli memur tarafından Ankara Hakem Heyetine tevdi edilmek üzere Ekonomi ve Ticaret Vekaletine gönderilir.
+Heyetin yapacağı tetkikler neticesinde vereceği karar, muterizi haklı gösterdiği takdirde nümunelerle yediemindeki mallar derhal sahibine iade ve zabıt varakası ile Heyet kararı hıfzolunur.
+B) Hakem Heyetince itiraz varit görülmediği takdirde, salahiyetli memur tarafından zabıt varakasının bir nüshasiyle mühürlü nümunelerin bir takımı ve Hakem Heyeti kararının bir nüshası mahalli Cumhuriyet Müddeiumumiliğine tevdi olunur.
+Bu takdirde yediemine tevdi edilmiş olan mallar adli merciin kesin kararına kadar yedieminde kalır.
+C) Hakem Heyeti tarafından nümunelerin laboratuvarda muayene ve tahliline lüzum gösterilir veya muteriz tarafından böyle bir talep vakı olursa tahlil ücreti bir hafta zarfında muteriz tarafından tediye edilmek şartiyle mühürlü nümunelerin bir takımı salahiyetli memur tarafından resmi bir laboratuvara gönderilir. Tahlil ücreti bir hafta zarfında tediye edilmezse keyfiyet bir zabıt varakasiyle tesbit edilerek yukarıkı (B) fıkrasına göre muamele yapılır. Laboratuvar raporu alınınca Hakem Heyeti tekrar toplanarak keyfiyeti tetkik eder ve karara bağlar.
