@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "210",
+  "year": 1961,
+  "title": "6802 sayılı Gider Vergileri Kanununda bazı değişiklikler yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1961-01-09",
+  "gazette_issue": "10702",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10702.pdf",
+  "source_sha256": "ae67ffa8544f46868bf20262cbb061ca46cf9040645b773239646e978a96cf3d",
+  "text_sha256": "46cb9ad114257d009967a6174c1635537b2e0bc1241abf2a997c2c44ce1527cd",
+  "text_status": "ocr",
+  "pages": [
+    13,
+    14
+  ],
+  "line_span": [
+    [
+      2013,
+      2187
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300210.pdf",
+    "source_sha256": "9ee7447fe1bed7aa745ea92fe38479ce63afcc92ab98fc7a77878cc80d7c7e98",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9751,
+    "bag": 0.8994,
+    "kd_coverage": 0.9991,
+    "kd_body_compared": 0.9919,
+    "rg_words": 1117,
+    "kd_words": 1109,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
