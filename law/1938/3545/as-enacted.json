@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3545",
+  "year": 1938,
+  "title": "Vakıflar Umum Müdürlüğü 1938 malî yılı bütçe Kanununa ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-12-22",
+  "gazette_issue": "4091",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4091.pdf",
+  "source_sha256": "e47ccfcba762f263025a248517e38adf3f3a12148140607ae8ceb6d09b8cda41",
+  "text_sha256": "8835c5d73ac406bf61448c2ea2a3a7457442c71d4a7bb7a9ff1e383809af7cbd",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      17,
+      30
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc019/kanuntbmmc019/kanuntbmmc01903545.pdf",
+    "source_sha256": "bf49cda01035b4b9ff3aea181d9281749c06792b3ecc492f98245f4a7e05d5f7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9589,
+    "bag": 0.876,
+    "kd_coverage": 0.9833,
+    "kd_body_compared": 0.9231,
+    "rg_words": 61,
+    "kd_words": 65,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
