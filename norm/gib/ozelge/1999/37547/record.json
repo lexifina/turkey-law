@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6229-1548/30244",
+  "source_id": 37547,
+  "date": "1999-07-15",
+  "title": "İthalat öncesinde yatırımlarda kullanılacak ithalat akreditifleri için düzenlenecek kredi sözleşmelerinin Damga Vergisi açısından vergisel durumu hk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/37547",
+  "source_sha256": "a0fe76f235a93b3ff029924bf0830c31ef2a329126dd1e2b9f46a5699218b20c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
