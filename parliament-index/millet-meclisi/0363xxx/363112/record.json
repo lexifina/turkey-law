@@ -1,0 +1,41 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 363112,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İthalde alınacak Damga Resmi hakkında kanun tasarısına dair (1/301)",
+  "title": "İthalde alınacak Damga Resmi hakkında kanun tasarısına dair (1/301)",
+  "first_sitting_date": "1967-01-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 31,
+      "sitting_date": "1967-01-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011fih.pdf",
+      "pages": [
+        "135",
+        "309:322",
+        "355:382",
+        "387:390",
+        "406",
+        "458:459",
+        "472",
+        "512:519"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=3601&v_kullanici_id=27484836",
+  "source_sha256": "584e2d85759c3530887624908f69d45c0458f05dc5a1851873e273f43713c8f8",
+  "in_force": "1967-01-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
