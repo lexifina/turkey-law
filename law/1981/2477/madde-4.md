@@ -1,0 +1,1 @@
+Madde 4 – 2 ve 3 ncü maddelerde belirtilmeyen kadro ve görevlere yapılacak atama ve nakillerde, bu Kanunun kapsamına giren kurum ve kuruluşların teşkilat kanunlarında veya özel kanunlarındaki hükümlerin uygulanmasına devam olunur.

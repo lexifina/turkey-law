@@ -1,0 +1,1 @@
+Madde 3 – 2 nci maddenin dışında kalan ve ilk dört dereceye giren kadro ve görevlere Başbakan veya ilgili Bakanın onayı ile atama yapılır. Başbakan ve ilgili bakanlar 3 ve 4 ncü derecelerdeki görevlere ilişkin atama yetkilerini ilgili mercilere devredebilirler.

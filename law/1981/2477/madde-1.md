@@ -1,0 +1,2 @@
+Madde 1 – Bakanlıklar ve Bağlı Kuruluşlarda Atama Usulüne İlişkin 2451 sayılı Kanunun kapsamına girmeyen kamu kurum ve kuruluşlarında atama ve nakiller bu Kanunda belirtilen usullere göre yapılır.
+Türk Silahlı Kuvvetleri (Jandarma Genel Komutanlığı dahil) ve Milli Savunma Bakanlığı ile yargı organları, üniversiteler, akademiler ve mahalli idarelerle kendi özel kanunlarındaki atama ve nakillere ilişkin hükümlerin uygulanmasına devam olunur.
