@@ -1,0 +1,1 @@
+Madde 51 – Şefkılavuzlar, başkılavuzlar ve kılavuzlar; barışta 15 günden fazla bölgelerinden ayrılmaları gereken hallerde, bir üst kademe amirlerine bilgi vermek ve yerlerine yardımcılarını vekil bırakmak suretiyle ayrılırlar.

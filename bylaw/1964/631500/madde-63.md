@@ -1,0 +1,1 @@
+Madde 63 – Resmi ve hususi müesseseler, mevcut teşkilat ve imkanlarına göre birbirlerine ve içinde veya civarında bulundukları şehir ve kasabalara karşılıklı yardım etmek ve işbirliği yapmak mecburiyetindedirler.

@@ -1,0 +1,1 @@
+Madde 75 – Meskün bölgeler içindeki yangın tehlikesi arzeden parlayıcı, patlayıcı ve kolayca yanıcı maddelere ait satış yerleri olağanüstü halden itibaren boşaltılarak şehir dışına, barıştan tesbit edilecek münasip yerlere taşıttırılır.

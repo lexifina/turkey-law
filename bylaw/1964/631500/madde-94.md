@@ -1,0 +1,1 @@
+Madde 94 – Mahalli sivil savunma planlarına göre şehir ve kasabalara ait genel aydınlatma şebekesinde yapılacak söndürme ve karartma tertibatı, belediyeler veya ilgili işletmeler tarafından gerçekleştirilir.

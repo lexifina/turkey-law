@@ -1,0 +1,1 @@
+Madde 36 – Hassas bölgeler dışındaki şehir ve kasabalarda kurulacak itfaiye servisleri, gerektiğinde yıkıntı kaldırma ve altında kalanları kurtarma hizmetlerini de yapmak üzere eğitilir ve donatılırlar.

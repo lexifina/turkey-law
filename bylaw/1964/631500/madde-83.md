@@ -1,0 +1,1 @@
+Madde 83 – Hassas bölgelerdeki, elektrik, su gibi genel tesislerden aldığı enerji ile işleyen müesseselerde, genel tesislerin bozulmaları halinde durmamaları için özel işletici kuvvet veya kaynakları sağlayıcı tedbirler alınır.

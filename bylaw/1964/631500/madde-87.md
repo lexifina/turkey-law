@@ -1,0 +1,1 @@
+Madde 87 – Hassas bölgelerdeki un ve ekmek fabrika, değirmen ve fırınlarının tahripleri hallerinde un ve ekmek ihtiyacının sağlanması için yakın diğer fabrika, değirmen ve fırınlardan faydalanma imkanları tesbit edilir ve gereken yerlerde barıştan seyyar değirmen ve fırınlar tedariki cihetine gidilir.

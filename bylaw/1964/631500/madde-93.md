@@ -1,0 +1,3 @@
+Madde 93 – Işıkların söndürülmesinde veya karartılmasında esas, havadan ışık görülmemesini sağlamaktır.
+Bunun için bütün şehir, kasaba ve köylerde ve diğer mevkilerde ve buralardaki bütün daire, müessese ve evlerde ve diğer binalarda ve taşıt araçlarında ışıklar söndürülür veya karartılır. Bu maksatla geceleri dış ışıkların tamamen söndürülmesi, zaruret bulunanların maskelenmesi, içinde ışık yakılan yerlere ait bütün pencere ve diğer ışık geçiren deliklerin koyu siyah perdeler, örtüler, kapaklar gibi araçlarla sıkıca maskelenmesi veya kapatılması, zaruret bulunmayan yerlerdeki ışıkların tamamen çıkarılarak yakılmaması hususlarında bütün tedbirler alınır ve gerektiğinde uygulanır.
+Maskeleme tedbirlerinin, nükleer tesirlere karşı koruyucu faydaları da gözönünde tutulur.

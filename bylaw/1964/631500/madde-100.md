@@ -1,0 +1,1 @@
+Madde 100 – Bina korunma personeli; sivil savunma veya milli savunma veya milli savunma ile ilgili diğer hizmetlere ayrılmamış olan bina içindeki erkeklerden, erkekler yoksa kadınlardan seçilir. Hastabakıcılık için kadınlar tercih olunur.

@@ -1,0 +1,1 @@
+Madde 29 – Sosyal yardım servisinin başkanı, il merkezlerinde milli eğitim müdürleri, ilçe merkezlerinde ilk öğretim müdürleri, diğer kasabalarda ilkokul müdürleridir. Mahalli Kızılay şubeleri olan yerlerde bu şubelerin başkanları, olmayan yerlerde servis başkanının seçeceği bir kimse başkan yardımcısı olur.

@@ -1,0 +1,2 @@
+Madde 39 – Yukarıki maddeye göre kurulcak hastahaneler bölgeleri için çekirdek olarak, hassas bölgeler civarındaki barışta mevcut sağlık tesislerinden, bunların bulunmaması veya yetişmemesi halinde bu hizmete elverişli münasip diğer binalardan faydalanılır. Bunların civarında yine elverişli binalardan veya kurulacak seyyar tesislerden yardımcı hastahaneler açılması tertiplenir.
+Hassas bölgeler civarındaki il ve ilçelerde bulanan sağlık merkez ve hastahanelerinin kapasiteleri artırılmak üzere tedbirler alınır.

@@ -1,0 +1,1 @@
+Madde 89 – Şehir ve kasabalarda, köylerde veya diğer mevkilerde bulunan hububat, bakliyat, ot, saman gibi yiyecek ve yem maddeleri stoklarının, NBC tesirlerine karşı kapalı veya toprakla örtülü yerlerde saklanmaları için gerekli tedbirler alınır.

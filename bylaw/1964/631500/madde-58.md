@@ -1,0 +1,1 @@
+Madde 58 – Resmi ve hususi müesseselerde kurulacak servislerin kuvvetleri, bu Tüzük hükümleri dahilinde daire ve müesseselerin genişliğine, tesislerine, yapı tarzlarına ve iştigal konularına göre sivil savunma planlariyle tesbit olunur.

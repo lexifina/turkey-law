@@ -1,0 +1,2 @@
+Madde 88 – Hassas bölgelerdeki hububat, bakliyat, un ve diğer mühim yiyecek, içecek ve yem maddeleri stoklarının, yeraltındaki emniyetli depolara ve depolar bulunmadığı takdirde, olağanüstü halden itibaren şehir dışı emniyetli yerlere taşınmaları ve yeteri kadar yedeklenmeleri için gerekli tedbirler alınır.
+Civardaki sularla lüzumunda bunlardan faydalanma şekil ve imkanları tetkik ve tesbit olunur.

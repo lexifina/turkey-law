@@ -1,0 +1,2 @@
+Madde 23 – İlk yardım ve ambulans servisinin başlıca görevi; çeşitli taaruzve tesirler sebebiyle vukua gelecek yaralı veya hastalara ilk yardımda bulunmak, bunların ayırımını yapmak, ilk yardım merkezlerine ve hastahanelere taşınmalarını sağlamaktır. Bu işlerden sonra ölülerin taşınmalarına ve gömülmelerine de yardım ederler.
+Sağlık müesseselerinde barışta mevcut ambulanslar da personeli ile birlikte olağanüstü halden itibaren bu servis içinde bir elden idare edilirler.

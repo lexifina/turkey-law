@@ -1,0 +1,1 @@
+Madde 104 – Yukarıki maddelere ve hassas bölgelerde bulunup bulunmadıklarına göre, sivil savunma bakımından halk tarafından yapılacak teşkilat ve faaliyetlerle alınacak tedbirler, malzeme ve teçhizat, İçişleri Bakanlığınca bir yönetmelikle tesbit edilir ve yayınlanır.

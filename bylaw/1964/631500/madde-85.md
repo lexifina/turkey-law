@@ -1,0 +1,1 @@
+Madde 85 – Müessese ve fabrikalarda kullanılan özel muharrik kuvvet ve ham maddelerin birkaç günlük ihtiyaçtan fazlası ile mamul maddeler stoklarının, olağanüstü halden itibaren hassas bölgeler dışına çıkarılarak buralarda saklanmaları, buralardan getirilip götürülmeleri için gerekli tedbirler alınır.

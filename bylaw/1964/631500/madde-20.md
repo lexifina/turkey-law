@@ -1,0 +1,2 @@
+Madde 20 – Kurtarma servisinin başlıca görevi; düşman taarruzlarının tesirlerinden meydana gelecek hafif yıkıntıların kaldırılması, altında kalanların kurtarılması ve acil ilk yardımlarının yapılması, tıkanan veya bozulan yol ve köprülerin basit temizleme veya onarımları, yıkılmaya yüz tutmuş yapıların geçici destekleme veya yıkılmaları gibi işlerdir.
+Bu servis, görevinin elverdiği nispette ölülerin gömülmelerine de yardım eder.

@@ -1,0 +1,1 @@
+Madde 106 – Genel veya geniş mahiyetteki elkoymalarda el konulacak araç ve maddeler için sahiplerine veya ilgililere münasip veya çeşitli yollarla ilanen veya hizmetle görevli teşkilat personeli vasıtası ile yazılı olarak, belirli ve sınırlı elkoyma istekleri için yazılı olarak tebligat yapılır.

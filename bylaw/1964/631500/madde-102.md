@@ -1,0 +1,2 @@
+Madde 102 – Hassas bölgelerdeki, içinde oturulan bütün binalarda, yangın başlangıçlarının söndürülmesi, yapılacak ilk yardım, kurtarma ve korunma faaliyet ve hizmetleri için gerekli malzeme ile herkes için birer halk tipi koruyucu maske bulundurulması veya bunların kullanılmalarının öğrenilmesi lazımdır.
+Bu malzemenin temin ve tedariki hususunda Hükümetce halka gerekli kolaylık ve yardım gösterilir.

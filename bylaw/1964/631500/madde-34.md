@@ -1,0 +1,2 @@
+Madde 34 – Belediyelerce; düşman taarruzlarının tesirleri ile çıkabilecek geniş ölçüdeki yangınların önlenebilmesi için, barışta mevcut itfaiye teşkilatı, olağanüstü hal ve sefer ihtiyaçlarına göre mükellef personel ve ilave edilecek araç ve gereçlerle kuvvetlendirilir ve genişletilir.
+İtfaiye servisi; esas görevinin elverdiği nispette yanma ve boğulma tehlikesinde bulunanlarla yıkıntı altında kalanların kurtarılmasına, su basan binaların boşaltılmasına, geçici destekleme işlerine yardım ve NBC ile bulaşmış sahaların su ile temizlenmesini de yapar.

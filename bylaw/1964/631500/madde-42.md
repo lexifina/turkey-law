@@ -1,0 +1,1 @@
+Madde 42 – Hassas bölgelerin ihtiyacına göre bu servisin planlanması, teşkilatlandırılması, araç, gereç ve ilaçlarının ikmali, personelin yetiştirilmesi, hizmet şekilleri gibi hususlar, İçişleri Bakanlığı ve Sağlık ve Sosyal Yardım Bakanlıklarınca müştereken hazırlanacak bir yönetmelikle tesbit edilir ve gereği Sağlık ve Sosyal Yardım Bakanlığınca yerine getirilir.

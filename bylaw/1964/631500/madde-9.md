@@ -1,0 +1,1 @@
+Madde 9 – Hassas bölgeler dışındaki şehir ve kasabalardaki sivil savunma servislerinin sevk ve idareleri ile diğer hizmetlerin yürütülmesi için mülki idare amirlikleri emrinde, yeteri kadar memur ve mükellef personelden ibaret bir "Sivil Savunma İdare Bürosu" bulunur.
