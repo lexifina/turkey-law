@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-741/009864",
+  "source_id": 37846,
+  "date": "2005-03-02",
+  "title": "Serbest bölgelerde faaliyet gösteren mükelleflerin sanayi sicil belgesi ile kapasite raporu alması hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37846",
+  "source_sha256": "43a8deb947be2c58ea3e0a6cffa8bc2f7cb12fd56c773c3b1eb095d380c88d3b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
