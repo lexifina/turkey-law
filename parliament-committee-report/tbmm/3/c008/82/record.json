@@ -1,0 +1,25 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "82",
+  "label": "TBMM 82 no'lu Komisyon Raporu",
+  "title": "İstanbul polis serkomiserlerinden İbrahim Fevzi Beyin istiklâl madalyasiyle taltif edilmiyeceği hakkında",
+  "document_date": "1929-02-07",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 8, birleşim 33)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c008/tbmm03008033ss0082.pdf",
+  "pdf_sha256": "74497a98f095d9dcaa70071ff749a108dea4824fffb8f79e5062d4d2e8584564",
+  "pdf_bytes": 79933,
+  "pdf_pages": 1,
+  "index_entries": [
+    120752,
+    120753
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=2&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1929-02-07",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
