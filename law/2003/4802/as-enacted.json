@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4802",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Avrupa Birliği Komisyonu Arasında Merkezi Finans ve İhale Biriminin Kurulması ile Ulusal Fonun Kurulmasına İlişkin Mutabakat Zabıtlarının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-02-04",
+  "gazette_issue": "25014",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/02/20030204.htm",
+  "source_sha256": "1862b17b3a6e4c256b58a6ee5f7f921dea903d1bbcd203d32f2cbb07807a29b1",
+  "text_sha256": "388b3b7be561ceb91482f99b1a7e466cbcdf808493788202e0de92d2470528b0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/02/04/25014-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/02/20030204.htm#10",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
