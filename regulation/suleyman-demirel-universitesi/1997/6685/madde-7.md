@@ -1,0 +1,1 @@
+Madde 7-Müdür görevi başında bulunmadığı zaman , Müdür Yardımcısını vekil bırakır. Müdür Yardımcısı da bulunamazsa Yönetim Kurulu Üyelerinden birini vekil olarak bırakır. Üniversite dışı görevlendirme süresinin altı ayı geçmesi halinde yerine yenisi atanır.
