@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/1081",
+  "list_number": "1081",
+  "decision_date": "2004-04-08",
+  "title": "YSK ilke kararı 2004/1081",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3913/2004-1081-karar.htm",
+  "source_sha256": "e2c9de21842c82862ee69c5068077e3fad1623efec6d4dcfe60c3804002085e3",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-04-08",
+  "law_text_complete": false
+}
