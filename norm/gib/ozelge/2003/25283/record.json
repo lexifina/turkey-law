@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1262 / 36987",
+  "source_id": 25283,
+  "date": "2003-09-08",
+  "title": "Banka ve sigorta şirketlerinin,  vergiye tabi bir işlemi olmasa bile tasfiye işlemleri sonuçlanıncaya kadar banka ve sigorta muameleleri vergisi mükellefiyeti devam edeceğinden, ilgili dönemlerde de banka ve sigorta muameleleri vergisi beyannamesi vermesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/25283",
+  "source_sha256": "9a0f2ab2306a2969beb3477c60fbcbd992737afabcc9a9744bc8d7b9fbef9d49",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
