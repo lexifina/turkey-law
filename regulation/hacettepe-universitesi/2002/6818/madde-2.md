@@ -1,0 +1,2 @@
+Amaç
+Madde 2 — Hacettepe Üniversitesine bağlı bir birim olan Merkezin amacı; Üniversitenin Fen Bilimleri Enstitüsü "Biyomühendislik" Anabilim Dalının ve diğer fakülte, yüksek-okul ve bölümlerin ilgili anabilim dalları işbirliği ile bir disiplinlerarası dal olan biyomühendisliğin gelişmiş ülkelerde izlenen biçimiyle Türkiye’de de etkili bir şekilde yaygınlaşmasına katkıda bulunmak için üniversiteler de dahil olmak üzere özel ve tüzel kurum ve kuruluşların ihtiyaç duydukları konularda evrensel düzeyde uygulama ve araştırma yapmak ve eğitime yönelik faaliyetlerde bulunmaktır.

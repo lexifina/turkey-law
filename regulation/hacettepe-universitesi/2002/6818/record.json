@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 11 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2002-12-01",
+      "01.12.2002",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 11 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24953",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2002-12-01",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2002/6818",
+  "published": "2002-12-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6818&MevzuatTertip=5",
+  "source_bytes": 23152,
+  "source_id": "8.5.6818",
+  "source_sha256": "2b3612b85f49fb7e6b441d50ed394f7490865b2f9b2663f94b9f003fc40df1e8",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nBİYOMÜHENDİSLİK UYGULAMA ve ARAŞTIRMA MERKEZİ\r\nYÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 904
+}
