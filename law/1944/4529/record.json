@@ -1,0 +1,71 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4529",
+  "year": 1944,
+  "title": "Pazarcık kazasının Maraş vilâyetine bağlanması hakkında kanun",
+  "adopted": "1944-03-06",
+  "adopted_as_published": "06/03/1944",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "11.03.1944 No: 5652",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604529.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 26",
+  "committee_reports": [
+    {
+      "label": "TBMM 31 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c007/tbmm07007023ss0031.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 7,
+      "kayit_no": 90156,
+      "title": "Pazarcık kazasının Maraş vilâyetine bağlanması hakkında kanun",
+      "adopted_as_published": "06/03/1944",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604529.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 31 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c007/tbmm07007023ss0031.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 23,
+          "sitting_date": "1944-01-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c007/tbmm07007023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c007/tbmm07007fih.pdf",
+          "pages": [
+            "105:117"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 25,
+          "sitting_date": "1944-03-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c008/tbmm07008025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c008/tbmm07008fih.pdf",
+          "pages": [
+            "4"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "07e06d74fa5f53c8982c760a272083eab8a1bed0021118d504aac8eab397d5e7"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "07e06d74fa5f53c8982c760a272083eab8a1bed0021118d504aac8eab397d5e7",
+  "issuer": "TBMM",
+  "in_force": "1944-03-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 06/03/1944; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
