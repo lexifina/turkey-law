@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7026",
+  "year": 1957,
+  "title": "Ankara Üniversitesi Tıp ve Siyasal Bilgiler fakültelerinin bina ihtiyaçlarını karşılamak üzere gelecek yıllara sâri taahhüde girişilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-25",
+  "gazette_issue": "9642",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9642.pdf",
+  "source_sha256": "cd35b28c5185c6a30eab727b477bfccb4af701b0679b6a1100a07df895d4ee2d",
+  "text_sha256": "fa035bb4d6079f93314e3dd4def7db9faf7c8fe943903ca557d4cdfdfb6553c0",
+  "text_status": "ocr",
+  "pages": [
+    8,
+    9
+  ],
+  "line_span": [
+    [
+      2082,
+      2124
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907026.pdf",
+    "source_sha256": "9b66090b6d5bd6dccc3ff65266cbc3d00d8e28a2e673e6d24123e556600ca9c1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9755,
+    "bag": 0.8243,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9864,
+    "rg_words": 151,
+    "kd_words": 147,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
