@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4633",
+  "year": 2001,
+  "title": "Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılmasına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-04-14",
+  "gazette_issue": "24373",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/04/20010414.htm",
+  "source_sha256": "96f1698f93edcafbc9ebab8bf2d2fe90ec3b474016086f7f1ebcaabfb5e396a5",
+  "text_sha256": "8baa0befce5df971fb6bb83478384fbdf696a015f491fc97f9242a6f883b960c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/04/14/24373-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/04/20010414.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
