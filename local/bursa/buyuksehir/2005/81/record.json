@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "81",
+  "decision_date": "2005-02-14",
+  "title": "Vergi Kanunu da değişiklik gereği Belediye Vergi ve harçlarında yeniden düzenleme yapılması ihtiyacını ortaya çıkarmış olup bu kapsamda Osmangazi Belediyesi-Nilüfer Belediyesi-Kestel Belediyesi-Akçalar Belediyesi-Hasanağa Belediyesi-Küçükkumla Belediyesi-Göynükbelen Belediyesi-Barakfakih Belediyesi-Görükle Belediyesi ve Umurbey Belediyelerinin Gelir Tarifelerinde yapmış oldukları değişiklikler",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/3842_MEC2005-3_81.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=2005",
+  "listing_sha256": "2de26f9d81903d92cc431d62a972d6a0d32a710ed3072ab12d9f332c9e20b549",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
