@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-105/053184",
+  "source_id": 37671,
+  "date": "2004-11-10",
+  "title": "Kesilen para cezasının kurum kazancının tespitinde gider olarak dikkate alınamayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37671",
+  "source_sha256": "02fc72c0a8dc97977b4a2c9eedda3104597c038b174d029a427f2e81478ade39",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
