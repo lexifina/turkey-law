@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6215-",
+  "source_id": 35204,
+  "date": "2004-09-15",
+  "title": "Sosyal Sigortalar Kurumu tarafından düzenlenen ve damga vergisi bu kurum tarafından ödenmesi gereken kağıtlar damga vergisinden istisna edilmiştir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35204",
+  "source_sha256": "43c708e6b06b59ac58fccbcc203b308b7de1f6ba8c8d18831a503ad8f0873c8f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
