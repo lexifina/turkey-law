@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.9190",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EMNİYET GENEL MÜDÜRLÜĞÜNCE STANDART DIŞI BIRAKILAN SİLAHLARIN SATIŞINA DAİR YÖNETMELİK",
+  "number": "9190",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/1989/9190",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9190&MevzuatTertip=5",
+  "source_sha256": "3f92ac58dc14cad05c95b182e677a84de4c6217ad5e259f15135aba20c40a8c2",
+  "source_bytes": 81470,
+  "published": "1989-06-14",
+  "gazette": "20195",
+  "in_force": "1989-07-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-08/07/1989\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "1989-07-08",
+      "RG-08/07/1989",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2659,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

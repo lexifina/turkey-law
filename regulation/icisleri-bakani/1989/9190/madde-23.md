@@ -1,0 +1,6 @@
+Teklif Mektuplarının Hazırlanması
+Madde 23 - İsteklilerce, teklifleri yazılı olarak teklif mektubu şeklinde bir zarfa konulup kapatıldıktan sonra zarfın üzerine isteklinin adı, soyadı ve tebligat adresi yazılır, zarfın yapıştırılan yeri istekli tarafından imzalanarak veya mühürlenerek istenilen diğer belgelerle birlikte ikinci bir zarfa konulur. Kapatılan dış zarfın üzeri isteklinin adı ve soyadı ile açık adresi ve teklifin hangi işe ait olduğu yazılarak verilir.
+Teklif mektuplarının istekli tarafından imzalanması, bu mektuplar da şartname ve eklerinin tamamının okunup kabul edildiğinin belirtilmesi, teklif edilen fiyatın rakam ve yazı ile yazılması zorunludur.
+İstekliler, ihaleye çıkarılan silahların tamamına teklif verebilecekleri gibi, bu silahlardan bir kısmı için de teklif verebilirler. Ancak; her iki halde her cins ve çaptaki silahlar için teklif edilen birim fiyatının ayrı ayrı yapılması zorunludur.
+Bunlardan herhangi birine; uygun olmayan veya üzerinde kazıntı, silinti veya düzeltme bulunan teklifler ret olunarak hiç yapılmamış sayılır.
+Yurt dışından ihaleye katılacaklar, yabancı lisanda bu teklifleri verdiği takdirde, ayrıca teklifin yeminli tercümen tarafından yapılmış noterden tasdikli tercümesini de beraber verecektir.

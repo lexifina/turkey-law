@@ -1,0 +1,1 @@
+Geçici Madde 2 - Standart dışı bırakılan silahlardan antika olanlar ile gerek görülen diğer silahlardan birer örnek Genel Müdürün onayı ile Polis Müzelerine Kriminal Polis Laboratuarlarına ve Emniyet Teşkilatı'nın eğitim kurumlarına demirbaş olarak verilebilir. Bu silahlar satış dışı bırakılır ve satılamaz.

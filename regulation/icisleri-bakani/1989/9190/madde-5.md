@@ -1,0 +1,2 @@
+Satılan Silahların Bedelinin Nereye ve Ne Şekilde Ödeneceği
+Madde 5 - Satılan silah ya da silahların ve bu silahlara ait mermilerin satışından elde edilecek Türk Lirası veya Döviz karşılığı gelirler; bütçenin (B) işaretli cetveline gelir ve Emniyet Genel Müdürlüğü bütçesinin özel tertibine ödenek kaydolunmak üzere İçişleri Bakanlığı Merkez Saymanlık Müdürlüğüne alıcı tarafından nakden ve defaten yatırılır. Emniyet Genel Müdürlüğü bütçesinin özel tertibine kaydolunan bu ödeneğin harcanmasını takip etmek amacıyla ödeme emirleri ve ödenek takip defteri tutulur.

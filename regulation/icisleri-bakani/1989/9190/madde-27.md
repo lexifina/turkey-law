@@ -1,0 +1,2 @@
+İhalenin Yapılması
+Madde 27 - İlk teklifler tespit edildikten sonra, istekliler sıra ile açık artırma tekliflerinde bulunmaya devam ederler. İhaleden çekilen isteklilerin bu durumları ihaleye ait artırma kağıdına yazılır ve imzaları alınır. İhaleden çekilenler yeniden teklifte bulunamazlar. Teklifler yapıldığı sırada yapılan artırmaların işi uzatacağı anlaşılırsa isteklilerden komisyon huzurunda son tekliflerini yazılı olarak bildirmeleri istenebilir. Daha önce ihaleden çekilmiş olanlar bu durumda yazılı teklif veremezler.

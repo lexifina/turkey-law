@@ -1,0 +1,2 @@
+İdarenin Görev ve Sorumluluğu
+Madde 33 - İdare, 32 inci maddede yazılı süre içerisinde sözleşme yapılması hususunda kendisine düşen görevleri yapmakla ve silahların satımında feraga ait işlemleri tamamlamakla şartnamede belirtilen silahları müşteriye teslim etmekle yükümlüdür. Bu yükümlülüğün yerine getirilmemesi halinde müşteri idarece ihraç müsaadesi alındığı tarihten itibaren 20 gün içinde 15 gün müddetli bir nota ihbarnamesi ile bildirmek şartıyla taahhüdünden vazgeçebilir. Bu takdirde kesin teminat ve ihale bedeli geri verilir.

@@ -1,0 +1,2 @@
+Tekliflerin Verilmesi
+Madde 24 - Teklifler ilanda belirtilen saate kadar sıra numaralı alındı karşılığında komisyon başkanlığına verilir. Alındı numarası zarfın üzerine yazılır. Teklifler iadeli taahhütlü olarak da mektupla gönderilebilir. Postadaki gecikme mazeret kabul edilmez ancak; postadaki gecikme nedeni ile işleme konulmayacak tekliflerin alınış zamanı bir tutanakla tespit edilir. Komisyon Başkanına verilen teklifler geri alınmaz.
