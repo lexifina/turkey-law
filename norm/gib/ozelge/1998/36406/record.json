@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60./6019-1838/2310",
+  "source_id": 36406,
+  "date": "1998-01-26",
+  "title": "Amme idare ve müesseseleri, bankalar, bankerler, kasa kiralayanlar,sigorta şirketleri, sair şirket ve müesseseler, mahkemeler ve icra daireleri istihkak sahiplerine menkul ve gayrimenkullerin Veraset ve İntikal Vergisi yönünden satışı, devri ile ilişik ke",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36406",
+  "source_sha256": "8b5855475758a37ff7dfacb6519077b27f9b068422adc73c1f4244a3938f212f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
