@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4403-307/13616",
+  "source_id": 20731,
+  "date": "1999-04-12",
+  "title": "Basit usulde vergilendirme esasları hakkında açıklamalar yapılmıştır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20731",
+  "source_sha256": "f21655d0a66c8271b48ff1f65573d31c03a529fa028d189158c7c86af197383f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
