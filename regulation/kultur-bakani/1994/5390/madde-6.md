@@ -1,0 +1,4 @@
+Yetki ve Sorumluluk
+Madde 6- Kültür Merkezi Müdürü, bu Yönetmeliğin 5 inci maddesinde belirtilen görevlerle, kanun, tüzük, yönetmelik, talimat ve emirlerle verilen diğer görevleri zamanında, etkili ve verimli bir şekilde yapmaya ve yaptırmaya yetkilidir.
+Kültür merkezi müdürü, kendisine verilen görevleri yapmamak, yanlış, geç veya eksik yapmaktan valilik, kaymakamlık veya kültür müdürlüğü ve Bakanlığa karşı sorumludur. Müdürlük bünyesinde diğer yöneticiler ve personel ise, yapmakla yükümlü oldukları hizmet ve görevlerin tam ve zamanında yapılmasından üst yönetici kademelere karşı sorumludur.
+Müdürlüklerde faaliyet programları, tiyatro, opera, bale, orkestra ve koro bulunan yerlerde öncelikle bu birimlerin prova ve gösterilerine göre düzenlenecektir. Prova ve gösteri programları da bu birimlerce en az aylık olarak düzenlenir ve bir önceki ayın 15 ine kadar müdürlüğe verilir.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.5390",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜLTÜR MERKEZİ MÜDÜRLÜKLERİNİN GÖREV, YETKİ, SORUMLULUK, ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "5390",
+  "issuer": "Kültür Bakanı",
+  "issuer_slug": "kultur-bakani",
+  "path": "regulation/kultur-bakani/1994/5390",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5390&MevzuatTertip=5",
+  "source_sha256": "2f699d3bfd2c69bf0bc32acabc5f4f70ab031b61e1352ade6ccd8ef22d2c4201",
+  "source_bytes": 41091,
+  "published": "1994-02-15",
+  "gazette": "21850",
+  "in_force": "1994-02-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.02.1994); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1292,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
