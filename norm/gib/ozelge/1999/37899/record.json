@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1025/5120",
+  "source_id": 37899,
+  "date": "1999-02-16",
+  "title": "Mükellefiyet işi bırakmanın kabulü ile aracın kaydının gayri ticariye çevrildiği veya trafikten çekildiği tarih itibariyle kaldırılacaktır. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37899",
+  "source_sha256": "b10bdb32367f51759bfc37cf5e0e50713d243d0926a0ce4755e8de307d39fc22",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
