@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2367",
+  "year": 1933,
+  "title": "İstanbul Adliye binasının yanması üzerine alınacak tedbirler hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-01-04",
+  "gazette_issue": "2596",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2596.pdf",
+  "source_sha256": "87939d9e21f07f31e52a85b031157348da60d4626139354d6ec3ec07acc846da",
+  "text_sha256": "d9b2014e82e50464004031ee71e564795875e4df4f15a5de185e11a982250ed1",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      15,
+      521
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302367.pdf",
+    "source_sha256": "73542b7c499308cfe3684aa384aab6f98c28f67b1bf58c7630a5817c2029adfc",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9775,
+    "bag": 0.9313,
+    "kd_coverage": 0.9991,
+    "kd_body_compared": 0.9991,
+    "rg_words": 2115,
+    "kd_words": 2122,
+    "own_anchor": true,
+    "foreign_anchors": 7
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
