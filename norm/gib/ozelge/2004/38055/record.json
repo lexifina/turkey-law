@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.53/5301-3043",
+  "source_id": 38055,
+  "date": "2004-05-26",
+  "title": "Türkiye Yerel Gündem çerçevesinde Yerel Gündem 21 Yalova Emekliler Meclisi'nin uyguladığı ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38055",
+  "source_sha256": "f3dd14d971f7642b31452c19758bf3dc4f44a1c1518038a6ea02f76b9fdfa896",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
