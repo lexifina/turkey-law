@@ -1,0 +1,151 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "873",
+  "year": 1967,
+  "title": "Türkiye Cumhuriyeti ile Hollanda Krallığı arasında imzalanan Sosyal Güvenlik Sözleşmesinin onaylanmasının uygun bulunduğuna dair Kanun",
+  "adopted": "1967-05-23",
+  "adopted_as_published": "23/05/1967",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "02.06.1967 No: 12611",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000873.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 50",
+  "committee_reports": [
+    {
+      "label": "MM 231 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015079ss0231.pdf"
+    },
+    {
+      "label": "CS 924no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040062ss0924.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 362654,
+      "title": "Türkiye Cumhuriyeti ile Hollanda Krallığı arasında imzalanan Sosyal Güvenlik Sözleşmesinin onaylanmasının uygun bulunduğuna dair Kanun",
+      "adopted_as_published": "23/05/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000873.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 231 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015079ss0231.pdf"
+        },
+        {
+          "label": "CS 924no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040062ss0924.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 9,
+          "sitting": 18,
+          "sitting_date": "1966-12-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c009/mm__02009018.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c009/mm__02009fih.pdf",
+          "pages": [
+            "558"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 74,
+          "sitting_date": "1967-03-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015074.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015fih.pdf",
+          "pages": [
+            "242"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 79,
+          "sitting_date": "1967-04-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015079.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015fih.pdf",
+          "pages": [
+            "456:457",
+            "487",
+            "520:523"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 80,
+          "sitting_date": "1967-04-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015fih.pdf",
+          "pages": [
+            "538",
+            "573",
+            "598:601"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1201&v_kullanici_id=27483225",
+      "page_sha256": "2a5e87afe32fdcc520e9a23a080355d8d2bbd886ef1825be8899987216e9bee9"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 304948,
+      "title": "Türkiye Cumhuriyeti ile Holânda Krallığı arasında imzalanan Sosyal Güvenlik Sözleşmesinin onaylanmasının uygun bulunduğuna dair Kanun",
+      "adopted_as_published": "23/05/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000873.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 231 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015079ss0231.pdf"
+        },
+        {
+          "label": "CS 924no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040062ss0924.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 39,
+          "sitting": 50,
+          "sitting_date": "1967-04-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c039/cs__06039050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c039/cs__06039fih.pdf",
+          "pages": [
+            "597"
+          ]
+        },
+        {
+          "cilt": 40,
+          "sitting": 62,
+          "sitting_date": "1967-05-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040062.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040fih.pdf",
+          "pages": [
+            "277:278",
+            "282:283"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=801&v_kullanici_id=27483235",
+      "page_sha256": "4f72905639da7d625721d8c8ff2722359dda2b185911b18822f5590e408f44b9"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2a5e87afe32fdcc520e9a23a080355d8d2bbd886ef1825be8899987216e9bee9",
+  "issuer": "Millet Meclisi",
+  "in_force": "1967-05-23",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 23/05/1967; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
