@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-01",
+  "issue": "25773",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "Yüksek Planlama Kurulunun e-Dönüşüm Türkiye Projesi 2005 Yılı Eylem Planı (No: 2005/5) Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050401-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050401.htm",
+  "index_sha256": "58a94cba83a0d7ec22cb6b6256ee76b0cfc898ce3dc9ad4bc776e5f395e8ce2d",
+  "index_header": "1 Nisan 2005 ... Sayı : 25773",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
