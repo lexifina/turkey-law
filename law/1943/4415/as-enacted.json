@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4415",
+  "year": 1943,
+  "title": "Fevkalâde vaziyet dolayısiyle bazı vergi ve resimlere zam icrasına dair olan 3828 ve 4226 sayılı kanunlarla tapu harçları hakkındaki 1451 sayılı kanuna bağlı hükümlerinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-05-25",
+  "gazette_issue": "5412",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5412.pdf",
+  "source_sha256": "c8cf40309bc7c2b74d89284e277564b73aa8405b013ba019c8b66c8428d96f89",
+  "text_sha256": "9343fcbfe838611dce1b19b4e7c686c66fa706040705aa4199b70a3270854781",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      10,
+      98
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504415.pdf",
+    "source_sha256": "68e9aefefe614050779d0de77779e70aa54e44a3c7349e1a28800f9741b2d77b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9421,
+    "bag": 0.9002,
+    "kd_coverage": 0.9858,
+    "kd_body_compared": 0.9811,
+    "rg_words": 630,
+    "kd_words": 635,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
