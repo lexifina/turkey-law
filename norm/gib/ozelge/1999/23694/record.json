@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4215-33-271/17738",
+  "source_id": 23694,
+  "date": "1999-05-06",
+  "title": "Turist rehberleri serbest meslek erbabı olarak kabul edilmekte olup, muaflık şartlarını taşıyanların gelir vergisinden muaf tutulmaları, muaflık şartlarını taşımayanların ise gerçek usulde gelir vergisi mükellefiyetinin tesis ettirilmesi, vergiden muaf ol",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23694",
+  "source_sha256": "bb938349e46ce537a64532f1d16bea097e382181013021b9e91015b7f7af310b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
