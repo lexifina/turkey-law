@@ -1,0 +1,2 @@
+Yatay Geçiş
+Madde 10 — Aynı anda, birden fazla çift anadal ikinci lisans programına kayıt yapılamaz. Çift anadal ikinci lisans programında, 21/10/1982 tarihli 17845 sayılı Resmi Gazete’de yayımlanan "Yükseköğretim Kurumları Arasında Ön Lisans ve Lisans Düzeyinde Yatay Geçiş Esaslarına İlişkin Yönetmelik" hükümlerine uygun koşullar sağlanmadan çift anadal ikinci lisans programına geçiş yapmaya izin verilemez.

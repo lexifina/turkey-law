@@ -1,0 +1,2 @@
+Başarı Denetimi ve Kayıt Silme
+Madde 9 — Anadal lisans programında not ortalaması 2.00’nin altına düşen öğrencinin çift anadal ikinci lisans programından kaydı silinir. Çift anadal programı öğrenciliği sıfatını yitiren öğrenci, herhangi bir dalda çift anadal programı öğrenimini yapamaz. Burslu öğrenciler bakımından, yükseköğretim mevzuatında ve Üniversite düzenlemelerinde yer alan kısıtlama ve hukuksal sonuçlar saklıdır.

@@ -1,0 +1,6 @@
+Mezuniyet
+Madde 12 — Çift anadal eğitim-öğretim programlarından mezuniyet aşağıdaki esaslar çerçevesinde gerçekleştirilir:
+a) Çift anadal programı öğrencisi, izlediği anadalların tüm zorunlu derslerinden başarılı olduğu ve bitirme tezi veya tezleri kabul edildiği taktirde, her iki anadalda da ayrı lisans diploması almaya hak kazanır. Ancak, ikinci anadaldan mezun olabilmek için genel not ortalamasının (2.00) olması gerekir.
+b) Esas anadala ilişkin yükümlülüklerini tamamlayan öğrenciye, esas anadalın lisans diploması verilir. Anadal lisans programından mezuniyet hakkını elde etmeden, öğrenciye çift anadal ikinci lisans programının diploması verilmez.
+c) İkinci anadalın tüm zorunlu derslerini başarıyla tamamlamakla beraber, esas anadala ilişkin yükümlülüklerini tamamlamamış olan son sınıf öğrencisi niteliğindeki çift anadal programı öğrencisi, ikinci anadal diplomasını da esas anadal lisans programını tamamladığında almaya hak kazanır. Bu şekilde çift anadal ikinci lisans programını bitiremeyen öğrencilere iki dönemden fazla süre tanınamaz. Bu süre çift anadal ikinci lisans programının bulunduğu fakültenin yönetim kurulunun gerekçeli kararı ile uzatılabilir.
+d) Çift anadal programını izleme hakkını kaybetmiş öğrenciler, esas anadalın mezuniyet tarihine kadar koşullarını yerine getirmek kaydıyla yan dal öğrenimini yapmış sayılırlar.
