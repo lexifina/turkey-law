@@ -1,0 +1,2 @@
+Sağlık kontrolleri
+Madde 33 – Kabul edilenlere özel bir sağlık fişi tanzim edilir ve bunların en az ayda bir defa olmak üzere sağlık kontrolleri yapılır. Bu kontroller, genel sağlık ve beslenme durumları ile temizlik hizmetlerinin denetlenmesi ve hastalıkların ortaya çıkarılması amacıyla yapılır. Hastalık tespit edildiğinde ilgili kamp komutanlığınca gerekli tedbirler alınır. Bulaşıcı hastalık vukuunda ilk tedbirler alınmakla birlikte durum ilgili makamlara bildirilir.

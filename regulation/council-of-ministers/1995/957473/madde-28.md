@@ -1,0 +1,2 @@
+Yiyecek
+Madde 28 – Kabul edilenler, 12/9/1330 tarihli Askeri Tayinat ve Yem Kanununa göre erbaş ve er günlük yiyecek istihkakı üzerinden yedirilirler. Kazandan yedirilmesi mümkün olmadığı takdirde, 2155 sayılı Bazı Kamu Personeline Tayın Bedeli Verilmesi Hakkında Kanun ve Bazı Kamu Personeline Tayın Bedeli Verilmesine Ait Yönetmelik'in 4 üncü maddesine göre günlük er istihkakının bir aylık tutarı tayın bedeli olarak peşin ödenir.

@@ -1,0 +1,2 @@
+Ölüm ve defin
+Madde 40 – Kabul edilenlerden ölenler, Türkiye'de temsilciliği olan bir ülkenin vatandaşı ise, bu temsilciliğin aksine bir talebi olmadığı takdirde belirli mezarlıklarda ayrılacak bir yere veya o mahalde var ise kendi mezarlıklarına kendi din ve adetleri uyarınca, rütbelerine göre Türk Silahlı Kuvvetlerindeki eşitlerine yapılan merasimle defnedilir. Her mezarın kime ait olduğu belli olacak şekilde işaretlenir ve bu mezarlığın mikyaslı bir krokisi muhafaza edilir. Ayrıca ölenlerin kimlikleri Türkiye'deki temsilcilikleri vasıtasıyla yakınlarına bildirilir.

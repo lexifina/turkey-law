@@ -1,0 +1,2 @@
+Şahsi eşya
+Madde 26 – Kabul edilenlerin, Türk mevzuatına göre çevre ve toplum sağlığının korunması amacıyla zarar vermeyeceği gerektiğinde yapılacak sıhhi kontrollerle anlaşıldıktan sonra, taşımaları veya bulundurmaları yasak olmayan her türlü zati eşyaları ile birlikte gaz maskelerini ve çelik başlıklarını taşımalarına izin verilebilir. Bunlardan taşınması veya bulundurulması mevzuata göre yasak eşya niteliğinde olanlar, herhangi bir yasal işleme ve cezai müeyyideye tabi olmaksızın genel hükümler uyarınca zapt edilirler ve Devlet malı olarak işlem görürler.

@@ -1,0 +1,2 @@
+Askeri eşya
+Madde 25 – Kabul edilenlerin beraberlerinde getirdikleri uyruğunda bulundukları devlete ait her türlü silah, askeri teçhizat, mühimmat ve nakil vasıtaları belge karşılığı Türk Silahlı Kuvvetleri tarafından alınır. Bunlar başkaca bir işleme tabi tutulmaksızın savaş veya silahlı çatışmanın sona ermesinden sonra ilgili devletle yapılacak anlaşma hükümleri uyarınca iade edilmek üzere muhafaza edilir. Bunların muhafazaları için gerekli her türlü nakil, ambalaj ve bakım giderleri Milli Savunma Bakanlığınca karşılanır.

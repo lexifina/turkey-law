@@ -1,0 +1,2 @@
+Yabancı devlet ile milletlerarası kuruluş temsilcilerinin ziyaretleri
+Madde 18 – Geçici konaklama yerleri ile kampları, Dışişleri Bakanlığının uygun görüşü üzerine Milli Savunma Bakanlığınca izin verilmek koşuluyla talep eden yabancı devletler ile milletlerarası kuruluş temsilci ve delegeleri ziyaret edebilirler. Bu temsilci veya delegeler, kabul edilenler ile doğrudan veya tercüman aracılığı ile görüşebilirler. Bu ziyaretler ancak askeri zaruretler sebebiyle istisnai ve geçici olarak kısıtlanabilir veya men edilebilir.

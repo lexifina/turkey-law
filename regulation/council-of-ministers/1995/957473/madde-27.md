@@ -1,0 +1,4 @@
+Para ve kıymetli eşyaların muhafaza ve iadesi
+Madde 27 – Kabul edilenlerin paraları gözetim heyeti tarafından sahibinin kimliği ile tutarı özel bir deftere geçirildikten sonra makbuz karşılığında alınabilir. Makbuzda, makbuzu düzenleyen personelin adı, soyadı, rütbesi ve mensup olduğu birlik yazılır. Bu paralar veya paraya tahvil edilen meblağ kabul edilenin hesabına alacak olarak kaydedilir.
+Kabul edilenerin kıymetli eşyaları ancak emniyet ve disiplin sebepleriyle, paralara uygulalanan usul uyarınca kendilerinden alınabilir.
+Para ve para değerindeki kıymetli evrak ile kıymetli eşya kamp komutanlıklarınca muhafaza edilir. Bunlar, kabul edilenlerin ülkelerine iade edilmeleri, başka bir devlete gönderilmeleri veya Türkiye'de kalma taleplerinin kabulü veya ihtiyaçları halinde belge karşılığında iade edilir.

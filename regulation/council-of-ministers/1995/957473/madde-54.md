@@ -1,0 +1,2 @@
+Kampların Türkiye Kızılay Derneğine devri
+Madde 54 – Kabul edilenlerin iskan, yiyecek, giyecek, sağlık, muayene ve tedavileri ile ilgili iş ve işlemlerin idaresi, Milli Savunma Bakanlığının talebi üzerine Türkiye Kızılay Derneğine devredilebilir. Devir halinde belirtilen iş ve işlemlerin, yerine getirilmesi ve sonuçlandırılmasına ilişkin faaliyetler Genelkurmay Başkanlığının teklifi ile Milli Savunma Bakanlığı ve Kızılay arasında düzenlenecek protokol çerçevesinde yürütülür.

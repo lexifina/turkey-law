@@ -1,0 +1,2 @@
+Giyecek
+Madde 29 – Kampların bulunduğu bölgenin iklim koşulları gözönüne alınarak kabul edilenlere, Genelkurmay Başkanlığı ile koordine edilecek Milli Savunma Bakanlığınca belirlenecek usullere göre yeterli miktarda giyecek, çamaşır ve ayakkabı verilir. Kabul edilenler istedikleri takdirde üniformalarını veya sivil elbiselerini kamp dahilinde giyebilirler. Serbest bırakılanların kamp dışında sadece sivil elbise giymelerine müsaade edilir.

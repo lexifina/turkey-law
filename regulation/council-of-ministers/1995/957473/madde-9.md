@@ -1,0 +1,2 @@
+Sorgu
+Madde 9 – Kabul edilenlerin sorguları kendi dilleriyle veya anladıkları bir dil ile sorgu heyetlerince yapılır. Sorgu sırasında kabul edilenler; adlaını, soy adlarını, doğum yerleri ile tarihlerini, rütbelerini, sicil numaralarını ve görevli oldukları birliklerini bildirmek zorundadırlar. Bunlara her ne suretle olursa olsun bilgi temin etmek için maddi veya manevi baskı, kötü muamele ve işkence yapılamaz. Anılan bilgileri vermeyenler, kendi rütbe ve statülerindekilere bu Yönetmelikle tanınan haklardan yararlanamazlar.
