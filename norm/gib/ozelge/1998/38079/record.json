@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5229-3/19206",
+  "source_id": 38079,
+  "date": "1998-05-22",
+  "title": "2 No.lu Katma Değer Vergisi Beyannamesi ile beyan edilen vergiler, ancak beyanın yapıldığı Aralık 1996 döneminde indirim konusu yapılabilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38079",
+  "source_sha256": "e2583d8fe54f22645c4b604c4fac57510e8a78d9fbb6a1a7ceaad0ed8dbef114",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
