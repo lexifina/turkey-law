@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2841",
+  "source_id": 38491,
+  "date": "2004-07-13",
+  "title": "Cari yılda süresinde düzenlenmiş tam tasdik sözleşmesi bulunan anılan yeminli mali müşavir tarafından düzenlenen tasdik raporuna istinaden geçmiş dönemlere ilişkin KDV iadesi taleplerinin herhangi bir hadle sınırlı olmaksızın yerine getirilmesi mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38491",
+  "source_sha256": "3db3c30d8b56fd05a46d8ef0771d8d0bf43eee47c2b22262001f382ca52a75e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
