@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/501",
+  "list_number": "501",
+  "decision_date": "2004-03-05",
+  "title": "YSK ilke kararı 2004/501",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4006/2004-501-karar.htm",
+  "source_sha256": "dc2b5fb98747147e583002bdade07f90ef0919a61af5f9edd19d02db9ee2dcca",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-03-05",
+  "law_text_complete": false
+}
