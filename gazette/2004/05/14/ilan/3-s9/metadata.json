@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-05-14",
+  "issue": "25462",
+  "edition": "regular",
+  "item": 9,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Boğaziçi Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/05/20040514-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (33 = 33)",
+  "ilan_codes": [
+    "5895/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/05/20040514-3.htm",
+  "category_page_sha256": "9499e8527e2085fa923aca737da2b157b396b40eb91d7b7663ef1d4ea77e9a27",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/05/20040514.htm",
+  "index_sha256": "04c07f4be2b7253788cfe1c6de8ad8eb9d8769f0954525bfb6b9c7da11f06102",
+  "index_header": "14 Mayıs 2004 ... Sayı : 25462",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
