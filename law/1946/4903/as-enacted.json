@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4903",
+  "year": 1946,
+  "title": "Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü ihtiyaçları için gelecek yıllara geçici yüklenmelere girişilmesi hakkındaki 3515 sayılı kanunda değişiklik yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-05-29",
+  "gazette_issue": "6319",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6319.pdf",
+  "source_sha256": "9033d336da7a7e38d20b116a677e7a5df184b9e31099939dc64825d63f2ce3d9",
+  "text_sha256": "a4d4cd1de5690ddfa00069e9b2bbe34eefc286001125b750831033bea1415432",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      426,
+      458
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804903.pdf",
+    "source_sha256": "f1e3f6e94e0abe4eb8503d51ea4121bec1898c5b98aab6c88dd35faa2ed31362",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9457,
+    "bag": 0.8917,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9875,
+    "rg_words": 156,
+    "kd_words": 160,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
