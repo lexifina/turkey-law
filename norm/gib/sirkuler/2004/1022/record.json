@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "DV-7/2004-6/ Ödeme süresi",
+  "source_id": 1022,
+  "date": "2004-02-09",
+  "title": "20 Şubat 2004 Tarihi Mesai Saati Bitimine Kadar Beyan Edilmesi Gereken ve İstihkaktan Kesinti Suretiyle Ödenecek Damga Vergisinin Ödeme Süresi ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/sirkuler/1022",
+  "source_sha256": "c60fc5cdeb1504862b40190ca55188576fbb23eb23180b2f4b15013a22efa4ca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
