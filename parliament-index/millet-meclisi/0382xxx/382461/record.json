@@ -1,0 +1,67 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 382461,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İstanbul Milletvekili Eşref Derinçay ve Kâzım Özeke ve İzmir Milletvekili Burhanettin Asutay ve 6 arkadaşı ile Denizli Milletvekili Hasan Korkmazcan ve 7 arkadaşının, 506 sayılı Sosyal Sigortalar Kanununun, 1186 sayılı Kanunla değiştirilen, 78. maddesinin değiştirilmesine ve bu kanuna geçici bir madde eklenmesine dair kanun teklifleri ve Çalışma ve Plân komisyonlarından 8'er üyeden kurulu 41 numaralı Geçici Komisyon raporu (2/463, 2/487,2/512)",
+  "title": "İstanbul Milletvekili Eşref Derinçay ve Kâzım Özeke ve İzmir Milletvekili Burhanettin Asutay ve 6 arkadaşı ile Denizli Milletvekili Hasan Korkmazcan ve 7 arkadaşının, 506 sayılı Sosyal Sigortalar Kanununun, 1186 sayılı Kanunla değiştirilen, 78. maddesinin değiştirilmesine ve bu kanuna geçici bir madde eklenmesine dair kanun teklifleri ve Çalışma ve Plân komisyonlarından 8'er üyeden kurulu 41 numaralı Geçici Komisyon raporu (2/463, 2/487,2/512)",
+  "first_sitting_date": "1971-06-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 107,
+      "sitting_date": "1971-06-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014107.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014fih.pdf",
+      "pages": [
+        "5"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 137,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016137.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016fih.pdf",
+      "pages": [
+        "62:65"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 153,
+      "sitting_date": "1971-08-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017153.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017fih.pdf",
+      "pages": [
+        "113"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 154,
+      "sitting_date": "1971-08-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017154.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017fih.pdf",
+      "pages": [
+        "165:166"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2301&v_kullanici_id=27484836",
+  "source_sha256": "e2396a49bcf49f0495ababce48ae860530af86754171d2569261a2423dcd2aa3",
+  "in_force": "1971-06-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
