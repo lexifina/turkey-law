@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.55/5514/58190",
+  "source_id": 31472,
+  "date": "2004-12-07",
+  "title": "Meslek mensuplarınca düzenlenen katma değer vergisi iadesi tasdik raporlarında yer alan Gümrük Özet Beyan formlarının transit ve yurtdışı taşımacılıkta tevsik edici belge olarak kabul edilip edilmeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31472",
+  "source_sha256": "4692e763b6feb425186a51aebb64785b16a1e08ce7aeb553999ddc81953b019a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
