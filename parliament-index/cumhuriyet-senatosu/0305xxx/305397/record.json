@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 305397,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "30.12.1960 tarihli 193 sayılı Gelir Vergisi Kanununda değişiklikler yapılmasına dair 19.2.1963 tarihli ve 202 sayılı Kanunun 624 sayılı Kanunla değişik geçici 4. ve 26.6.1964 tarihli ve 484 sayılı Kanunun 10. maddesinin değiştirilmesi hakkındaki kanun tasarısına dair (Millet Meclisi 1/258, Cumhuriyet Senatosu 1/754) (S. Sayısı:944)",
+  "title": "30.12.1960 tarihli 193 sayılı Gelir Vergisi Kanununda değişiklikler yapılmasına dair 19.2.1963 tarihli ve 202 sayılı Kanunun 624 sayılı Kanunla değişik geçici 4. ve 26.6.1964 tarihli ve 484 sayılı Kanunun 10. maddesinin değiştirilmesi hakkındaki kanun tasarısına dair (Millet Meclisi 1/258, Cumhuriyet Senatosu 1/754) (S. Sayısı:944)",
+  "first_sitting_date": "1967-06-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 40,
+      "sitting": 68,
+      "sitting_date": "1967-06-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040fih.pdf",
+      "pages": [
+        "446"
+      ]
+    },
+    {
+      "cilt": 40,
+      "sitting": 69,
+      "sitting_date": "1967-06-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040fih.pdf",
+      "pages": [
+        "493"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 79,
+      "sitting_date": "1967-06-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042fih.pdf",
+      "pages": [
+        "93:96",
+        "113:114"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=1901&v_kullanici_id=27484903",
+  "source_sha256": "b598e6962199786ff980700e4ab3325d1e4c22822859bf68a0b20030ae08b48f",
+  "in_force": "1967-06-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
