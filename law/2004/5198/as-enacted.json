@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5198",
+  "year": 2004,
+  "title": "Kamu Görevlileri Sendikaları Kanunu, Sosyal Sigortalar Kanunu ve Sosyal Sigortalar Kurumu Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-07-06",
+  "gazette_issue": "25514",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/07/20040706.htm",
+  "source_sha256": "a083d3a40a33574369ae9d9264fc0357afc88bef86878a052271c98c9875420e",
+  "text_sha256": "35cbd981741f98e1f4e6c2c1ac50d0176b113a1f122f01d2e0a3272c22fca7f5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/07/06/25514-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/07/20040706.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
