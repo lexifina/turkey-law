@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6609",
+  "year": 1955,
+  "title": "5880 sayılı Akar yakıtlardan Alınacak Yol Vergisi Kanununun İkinci Maddesinin Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1955-05-27",
+  "gazette_issue": "9013",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9013.pdf",
+  "source_sha256": "d114978ebb6d1d673c896cd838423c71e6d24be9ea1d1fd255e36c09f1e9b9bc",
+  "text_sha256": "1bc82ab94f619174f0bac5cf0bb20f9f34b20ccbedf420687eef1c6ec3153c13",
+  "text_status": "ocr",
+  "pages": [
+    15
+  ],
+  "line_span": [
+    [
+      2780,
+      2798
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706609.pdf",
+    "source_sha256": "dfc1f4e97de60b5f809d0f1e5ba6f4ea7f88d2a08f2483c1e5c8bb655f6acaf9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9632,
+    "bag": 0.8631,
+    "kd_coverage": 0.9754,
+    "kd_body_compared": 0.96,
+    "rg_words": 121,
+    "kd_words": 125,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
