@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4642",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİVİL SAVUNMA İDARESİ MAL YÖNETMELİĞİ",
+  "number": "4642",
+  "issuer": "İçişleri Bakanlığı",
+  "issuer_slug": "icisleri-bakanligi",
+  "path": "regulation/icisleri-bakanligi/1967/4642",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4642&MevzuatTertip=5",
+  "source_sha256": "abaeeca5a9a347476987a2aa0b53a35ea08ae21166f9ca7e284e08ef9458cd90",
+  "source_bytes": 100961,
+  "published": "1967-01-20",
+  "gazette": "12506",
+  "in_force": "1967-01-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.01.1967); own commencement article: \"bu Yönetmelik Resmî Gazele ile yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik Resmî Gazele ile yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5348,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
