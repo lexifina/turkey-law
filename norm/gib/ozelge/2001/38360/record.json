@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07 .0.GEL.0.66/6685-4413/44824",
+  "source_id": 38360,
+  "date": "2001-08-22",
+  "title": "Beyan edilen değerin düzeltilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/38360",
+  "source_sha256": "4bb88f6d16fe680a15bc369ac51f00ed86a376d8dbd9ead73ed0a3bf127bf549",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
