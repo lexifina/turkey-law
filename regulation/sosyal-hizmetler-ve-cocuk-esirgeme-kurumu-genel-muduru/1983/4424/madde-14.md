@@ -1,0 +1,1 @@
+Madde 14- Çalıştırılacak personel 13. maddede belirtilen kişisel özellikler ve personelin çalıştırılması düşünülen hizmet için gerekli nitelikler de göz önünde bulundurularak Kurulca değerlendirilir. Müdürce onaylanır.

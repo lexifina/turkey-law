@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4424",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KORUNMAYA VE BAKIMA ALINMIŞ OLUP İŞGÖRME GÜCÜNE SAHİP VE İSTEKLİ OLANLARIN BULUNDUKLARI SOSYAL HİZMET KURULUŞLARININ UYGUN GÖRÜLEN HİZMETLERİNDE ÇALIŞTIRILMALARINA İLİŞKİN YÖNETMELİK",
+  "number": "4424",
+  "issuer": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürü",
+  "issuer_slug": "sosyal-hizmetler-ve-cocuk-esirgeme-kurumu-genel-muduru",
+  "path": "regulation/sosyal-hizmetler-ve-cocuk-esirgeme-kurumu-genel-muduru/1983/4424",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4424&MevzuatTertip=5",
+  "source_sha256": "7f15cbac214b683d0e5f3c100eb6b2508980475a5f8420bb06f9cdb186d2b879",
+  "source_bytes": 50115,
+  "published": "1983-12-23",
+  "gazette": "18260",
+  "in_force": "1983-12-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.12.1983); own commencement article: \"Bu Yönetmelik Resmi Gazetede yayınlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazetede yayınlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1038,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,1 @@
+Madde 7- Bu sözleşmenin yürürlük süresi personelin fiilen işe başladığı tarihten ait olduğu bütçe yılının sonuna kadardır. Sözleşme her yıl yenilenir. Personel sözleşmenin imzası tarihinden itibaren 15 gün içinde görevine başlamadığı takdirde sözleşme kendiliğinden bozulur.

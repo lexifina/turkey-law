@@ -1,0 +1,1 @@
+Madde 1- Bu Yönetmeliğin amacı, korunmaya ve bakıma alınmış olup, iş görme gücüne sahip ve istekli olanların, bulundukları sosyal hizmet kuruluşlarının uygun görülen hizmetlerinde çalıştırılmalarına ilişkin usul ve esasları belirlemektir.

@@ -1,0 +1,1 @@
+Madde 6- Personel çalıştığı görevde emsali olan memurların tabi bulundukları görev esas alınarak ve bu esasları belirleyen yasa, yönetmelik. Genel Müdürlük yönerge ve emirlerine göre görev yapmak zorundadır.
