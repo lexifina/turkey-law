@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6527-197/9812",
+  "source_id": 26307,
+  "date": "2004-03-08",
+  "title": "Vergi Usul Kanunu 232. maddesinde sayılan durumlardaki satışlarda fatura düzenlenmesinin, parakende nitelikli diğer satışlarda ise ödeme kaydedici cihaz kullanılmasının gerekli olduğu hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26307",
+  "source_sha256": "8ea6b3c3d7487b687806ca8cf11639166870d042a943c0e0fd9dec50b247bf06",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
