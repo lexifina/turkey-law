@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1992-07-28",
+      "28.07.1992",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21298",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1992-07-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ege Üniversitesi",
+  "issuer_slug": "ege-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ege-universitesi/1992/7579",
+  "published": "1992-07-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7579&MevzuatTertip=5",
+  "source_bytes": 16613,
+  "source_id": "8.5.7579",
+  "source_sha256": "359f7bf289ddb418dc067c80d5bb3e606f2370dab47a5e830d10a079cb7a3817",
+  "text_status": "as-enacted",
+  "title": "EGE ÜNİVERSİTESİ KANSERLE SAVAŞ UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 191,
+  "word_count": 538
+}
