@@ -1,0 +1,2 @@
+Yenileme Sırasındaki Maddi Hataların Düzeltilmesi :
+Madde 29- Esas defterlerdeki kayıtların aile kütüklerine geçirilişi sırasında yapılan maddi hatalar hemen fark edildiği takdirde kütüğe geçiren memur tarafından hatalı kaydın üzeri okunacak bir şekilde tek bir çizgi ile çizilir ve üstüne doğrusu yazılır. Kaydın karşısına da “Yenileme sırasında maddi hata nedeni ile düzeltilmiştir.” Şeklinde açıklama yapılarak grup başkanınca imza edilir, başmemur tarafından da mühürle onanır.

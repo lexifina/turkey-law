@@ -1,0 +1,1 @@
+Madde 6- Kaldırılmış ya da başka bir yer ile birleştirilmiş köy ve mahalleler üzerinde kayıtlı olanlar, birleştirildikleri köy veya mahalle adına düzenlenecek aile kütüklerine bu mahalle veya köyün eski halkından sonra onların devamı şeklinde geçirilir.

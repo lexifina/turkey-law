@@ -1,0 +1,1 @@
+Madde 1- Bu yönetmeliğin amacı eskimiş ve yırtılmış ya da muhtelif nedenlerle doğrulukları şüpheye düşmüş nüfus kütüklerinin yeniden düzenlenmelerini, merkez arşivine gönderilecek örneklerinin hazırlanmasını sağlamaktır.

@@ -1,0 +1,3 @@
+Eski Nüfus Kütüklerinin Kapatılması :
+Madde 27- a) Yeni aile kütüklerine geçirilmesi biten her ailenin altı çift çizgi ile çizilerek kapatılır ve çizginin altına, boş sütun kalmamışsa, düşünceler sütununa yeni aile kütüğünün mahalle, cilt, sahife, kütük sıra numaraları ile ailenin kaç kişiden ibaret olduğu yazılmak sureti ile açıklama yapılır. Bundan sonra bu aile üzerinde eski kütükte herhangi bir işlem yapılmaz.
+b- Yenilenmesi biten esas defterin sonuna “Yenileme suretiyle ....../......./..... tarihinde, .......numaralı deftere geçirilmiştir.” ibaresi yazılarak yazım grup başkan ve üyelerince ad ve soyadı ve ünvanları yazılmak suretiyle imza edilir, nüfus başmemurunca onaylanır.

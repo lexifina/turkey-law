@@ -1,0 +1,2 @@
+Köylere Numara Verilmesi :
+Madde 8- İlçe içinde bağımsız kütük düzenleyecek her köy veya mahalleye birden başlamak ve zincirleme devam etmek üzere bir numara verilir. Bu numaralar köy veya mahallelerin cilt numaralarını teşkil eder. Her idari birim adına düzenlenecek kütükler birden fazla defterden meydana gelirse bu takdirde ilk defter birden başlamak üzere sırası ile numara alır. (Örneğin 5 numaralı köyün defterleri, 5/1, 5/2, 5/3 şeklinde gösterilir.)

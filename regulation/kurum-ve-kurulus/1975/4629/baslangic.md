@@ -1,0 +1,4 @@
+NÜFUS KÜTÜKLERİNİN YENİLENMESİNE İLİŞKİN YÖNETMELİK
+B İ R İ N C İ K I S I M
+AMAÇ – KAPSAM – DEYİMLER
+Amaç :

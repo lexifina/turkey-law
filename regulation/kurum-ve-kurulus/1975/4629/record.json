@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.4629",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "NÜFUS KÜTÜKLERİNİN YENİLENMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "4629",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1975/4629",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4629&MevzuatTertip=5",
+  "source_sha256": "a1640e3e0b32d0556d69fc80de408fd533d44126503553f1f122b7f889f378a0",
+  "source_bytes": 98657,
+  "published": "1975-09-19",
+  "gazette": "15361",
+  "in_force": "1975-09-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.09.1975)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2727,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

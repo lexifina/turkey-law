@@ -1,0 +1,3 @@
+Aile Kütüğüne Yenileme İle İlgili Yapılacak Açıklama :
+Madde 28- a) Aile kütüğüne bir kütük sıra numarası altında yazılan her ailenin son bireyinin karşısına yenileme kelimesi yazılarak tarih atılıp grup başkanınca imzalanır.
+b- Yenileme sonucu düzenlenen aile kütüğünün son sahifesine (mahkemenin onayının altına) “....../....../..... tarihinde yenilemeye başlandı ve bu kütüğe ..... adet aile ve ..... adet kişi yazıldı. ...../..../..... tarihinde yenileme bitirilerek eski defterlerle karşılaştırılıp kontrol edildi.” İbaresi yazılarak, yazım grup başkan ve üyelerince ad ve soyadları ve ünvanları yazılmak suretiyle imza edilir. Nüfus Başmemurunca onaylanır.

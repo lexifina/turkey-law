@@ -1,0 +1,4 @@
+Aile Kütük Sıra Numarası Verilmesi :
+Madde 15- Her idari birim aile kütüklerinde ilk yazılan aileye (1), kütük sıra numarası verilir ve bu numara zincirleme bir şekilde (1,2,3,3,.............gibi) devam ettirilir. Hiçbir şekilde atlama yapılamaz.
+Nüfus kütüklerinde cilt hane numaralarında teselsül olmaması ve bazı numaraların atlanmış olması halinde dahi aile kütük sıra numaralarında atlama yapılmaz, numaralar zincirleme bir şekilde devam ettirilir.
+Nüfus kütüklerinde cilt hane numaralarında teselsül olmaması ailenin nüfus kaydının kapanmış olması ve durumları bu yönetmeliğin 17. maddesine uygun olduğundan yeni aile kütüklerine geçirilmeyecek ailelere aile kütük sıra numarası verilmez, yeni kütüklere geçilmez ve bunlar eski kütüklerde olduğu gibi bırakılır. Karşılarında da yeni aile kütüklerine geçirilmediği yolunda açıklama yapılır. Ancak bu nedenle kütük sıra numaralarında atlama yapılmaz ve zincirleme numara bir sonraki aileye verilerek devam ettirilir.
