@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "135",
+  "decision_date": "2003-04-24",
+  "title": "23/3/2003 tarihli ve 25057 sayılı Resmi Gazetede yayımlanan 21/3/2003 tarih ve 123 no’lu Kurul Kararının 5 inci ve 6 ncı maddelerine ilişkin",
+  "resmi_gazete_date": "2003-04-30",
+  "resmi_gazete_number": "25094",
+  "categories": [
+    "Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zeeZJLDWkrA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zeeZJLDWkrA="
+  ],
+  "source_sha256": "d2d010c2b3f23e220be6e73ba0a0cda470b9bb6a63b60e79ef898c6589b68390",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7233,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-04-24",
+  "law_text_complete": false
+}
