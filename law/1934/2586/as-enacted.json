@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2586",
+  "year": 1934,
+  "title": "Muhasebei umumiye Kanununun 99. maddesi hükmünün jandarmaya da teşmili için mezkûr maddenin tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-11-18",
+  "gazette_issue": "2857",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2857.pdf",
+  "source_sha256": "ac0be6f0c2ede0bfaded38cfacc916b114248c0b2cf86b8455cc4a6afd82adac",
+  "text_sha256": "0bb0ce9118bf1735578cac17aadb5de2f0f856af5926ecb1283fa510ee77e82d",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      38,
+      71
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402586.pdf",
+    "source_sha256": "b793d5d2128232e318a9537ba82bee6bdde422865ae6e0efb107f23806ebdf25",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.964,
+    "bag": 0.8241,
+    "kd_coverage": 0.9905,
+    "kd_body_compared": 0.963,
+    "rg_words": 95,
+    "kd_words": 108,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
