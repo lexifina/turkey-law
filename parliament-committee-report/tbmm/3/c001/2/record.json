@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "2",
+  "label": "TBMM 2 no'lu Komisyon Raporu",
+  "title": "Maarif Teşkilatına dair olan 22 Mart 1926 tarih ve 789 numaralı Kanunun onaltıncı maddesini muaddil 22 Haziran 1927 tarih ve 1125 numaralı Kanuna müzeyyel Kanun",
+  "document_date": "1927-12-08",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 1, birleşim 15)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/tbmm03001015ss0002.pdf",
+  "pdf_sha256": "af12527154f71f2e64fa4235c7a22e71389e204e7f0e47fd07aac702d6620cd6",
+  "pdf_bytes": 322001,
+  "pdf_pages": 3,
+  "index_entries": [
+    119987
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=1&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1927-12-08",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
