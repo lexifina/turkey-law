@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2968-298-296-60869",
+  "source_id": 27241,
+  "date": "2004-12-20",
+  "title": "Enflasyon Düzeltmesi sırasında enflasyon düzeltme hesabının geçmiş yıl kar-zarar hesabına aktarılarak kapatılması gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27241",
+  "source_sha256": "868f383796b1e5b04d59a1ae2988e2299b20995a14632572998a0de6c98641a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
