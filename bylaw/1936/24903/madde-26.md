@@ -1,0 +1,1 @@
+Madde 26 – Merkez daireleri muhasebe müdürleri, hesabata mütaallik hususlarda Hazine usulü hesabiyesine dair talimatname ile Muhasebat Umum Müdürlüğünün tebligat ve talimatı dairesinde hareket ederler.

@@ -1,0 +1,1 @@
+Madde 30 – Tasfiye Kalemi: Sakıt hükümet zamanına ait hesapları tetkik ve tasfiye işler ile meşgul olmak üzere bu işlerin hitamına kadar Muhasebat Umum Müdürlüğü kadrosundan tefrik edilecek memurlardan mürekkep muvakkat bir kalem teşkil olunur.

@@ -1,0 +1,1 @@
+Madde 66 – Kara avlariyle İstanbul ve Çanakkale Boğazları ve Marmara Denizi içinde deniz av vergileri muamelelerini ifa ve tahsilatı temin ve defterdarla birlikte yapılacak bir program altında kontrol icrası için, varidat müdürlerinden biri tavzif edilir. Bu müdürlük emrinde lüzumu kadar muhasip vezneder, muhafaza memuru ve kantarcı bulunur.

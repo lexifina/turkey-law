@@ -1,0 +1,1 @@
+Madde 29 – Muhasebe Kontrolörleri, umum müdürlüğün direktifi dairesinde mal sandıklar ile müessese hesaplarını tetkik ve murakabe ile mükelleftirler. Bunların mesai tarzı bir talimat ile tayin olunur.

@@ -1,0 +1,1 @@
+Madde 59 – Muamelatı az olan yerlerde malmüdüründen başka yalnız bir varidat memuru bulunur, tahsilat memuruna 57 nci madde mucibince mevdu vazifeler malmüdürü tarafından yapılacağı gibi Divanı Muhasebata verilecek bakaya hesabını da Malmüdürü verir.

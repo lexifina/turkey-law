@@ -1,0 +1,3 @@
+Madde 62 – Varidat ve tahsilat kontrol memurları 46 ncı maddede gösterildiği şekilde vazife görürler.
+Şube ve dairelerdeki memurların devamı da bu memurlar marifetiyle kontroledilir. Kontrol memurlarının aylık mesai cetvellerinin birer sureti, Maliye Vekaleti Varidat Umum Müdürlüğü ile Tahsilat Müdürlüğüne gönderilir.
+Muhasebe kontrol memurlarına, malsandıklarında muhasebe tetkikatı ve zat maaşları tediyatı kontrolu yaptırılır. Maaşlara ait resmi senetlere, nakil evrakına, yoklama ilmühüberlerine nazaran maaş kayıtlarının ve bordroların tetkikı, tediyelerin münasip şekillerde kontrolu ile maaş almak hakkı sakıt olanlar namına fuzuli maaş tediyesine mani tedbirleri tatbikı bu kontrol memurlarının vazifeleri arasındadır.
