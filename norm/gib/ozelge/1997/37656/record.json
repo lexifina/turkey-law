@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5009-107/6459",
+  "source_id": 37656,
+  "date": "1997-02-21",
+  "title": "Vakıfça işletilen okulların kurumlar vergisinden muaf olup olmadığı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37656",
+  "source_sha256": "f48e18298197aa5019012d6fea63542ea494fe70bc335ebbd1b8c2e40e07bd6f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
