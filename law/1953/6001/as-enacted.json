@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6001",
+  "year": 1953,
+  "title": "Devlet Havayolları Genel Müdürlüğünün 1947 Bütçe Yılı Hesabı Kati Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-01-13",
+  "gazette_issue": "8307",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8307.pdf",
+  "source_sha256": "36541074df0bc130fd8a5aa5b5866bfe0df326ecf1a82c6f2efe062c12088496",
+  "text_sha256": "704582b78391e44b92b1616587bbfa4f34e5ee0ec181b45356dbdec851ea7c08",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      191,
+      191
+    ],
+    [
+      206,
+      220
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506001.pdf",
+    "source_sha256": "a0947bff4950b0e7532061d976e8815f51130d124caebc3083620bab8323f9ff",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9793,
+    "bag": 0.9524,
+    "kd_coverage": 0.9741,
+    "kd_body_compared": 0.176,
+    "rg_words": 115,
+    "kd_words": 659,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
