@@ -1,0 +1,65 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4211",
+  "year": 1942,
+  "title": "Orman Umum Müdürlüğü 1941 malî yılı bütçesinde değişiklik yapılması hakkında kanun",
+  "adopted": "1942-04-27",
+  "adopted_as_published": "27/04/1942",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.04.1942 No: 5096",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304211.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 23",
+  "committee_reports": [
+    {
+      "label": "TBMM 119 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c024/tbmm06024051ss0119.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96673,
+      "title": "Orman Umum Müdürlüğü 1941 malî yılı bütçesinde değişiklik yapılması hakkında kanun",
+      "adopted_as_published": "27/04/1942",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304211.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 119 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c024/tbmm06024051ss0119.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 24,
+          "sitting": 45,
+          "sitting_date": "1942-04-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c024/tbmm06024045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c024/tbmm06024fih.pdf",
+          "pages": [
+            "134",
+            "212",
+            "242:243",
+            "252",
+            "267",
+            "274:277"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=794&v_gelecek_sayfa=401&v_kullanici_id=27483166",
+      "page_sha256": "e4dd672da18c737202618fabb6a0bb28c4b3f1588417be42fd7a3d2ebb8da51d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e4dd672da18c737202618fabb6a0bb28c4b3f1588417be42fd7a3d2ebb8da51d",
+  "issuer": "TBMM",
+  "in_force": "1942-04-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/04/1942; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
