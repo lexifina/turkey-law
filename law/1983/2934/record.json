@@ -1,0 +1,78 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2934",
+  "year": 1983,
+  "title": "506 Sayılı Sosyal Sigortalar Kanununun Bazı Maddelerinin Değiştirilmesi, 26 ncı Maddesine Bir Fıkra ve Bu Kanuna Geçici Maddeler Eklenmesi Hakkında Kanun",
+  "adopted": "1983-10-24",
+  "adopted_as_published": "24/10/1983",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.10.1983 No: 18203",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602934.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 66",
+  "committee_reports": [
+    {
+      "label": "MGK 698 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c011/mgk_01011177ss0698.pdf"
+    },
+    {
+      "label": "DM 520no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c021/dm__02021161ss0520.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 151587,
+      "title": "506 Sayılı Sosyal Sigortalar Kanununun Bazı Maddelerinin Değiştirilmesi, 26 ncı Maddesine Bir Fıkra ve Bu Kanuna Geçici Maddeler Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "24/10/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602934.pdf",
+      "committee_reports": [
+        {
+          "label": "MGK 698 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c011/mgk_01011177ss0698.pdf"
+        },
+        {
+          "label": "DM 520no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c021/dm__02021161ss0520.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=601&v_kullanici_id=27483250",
+      "page_sha256": "cc012970ee5fa3446478febbceefc937daa16d2b31b4a127abb4d7268fe66fb0"
+    },
+    {
+      "assembly": "Danışma Meclisi",
+      "term": null,
+      "kayit_no": 144014,
+      "title": "506 Sayılı Sosyal Sigortalar Kanununun Bazı Maddelerinin Değiştirilmesi, 26 ncı Maddesine Bir Fıkra ve Bu Kanuna Geçici Maddeler Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "24/10/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanundmc066/kanundmc06602934.pdf",
+      "committee_reports": [
+        {
+          "label": "DM 520 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c021/dm__02021161ss0520.pdf"
+        },
+        {
+          "label": "MGK 698no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c011/mgk_01011177ss0698.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=322&v_gelecek_sayfa=301&v_kullanici_id=27483253",
+      "page_sha256": "c2bceecd9a1486ab09eac63e7575b676a74f6e27da676d8006bbf3cd71c48aa8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cc012970ee5fa3446478febbceefc937daa16d2b31b4a127abb4d7268fe66fb0",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1983-10-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 24/10/1983; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
