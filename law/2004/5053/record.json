@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5053",
+  "year": 2004,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Lübnan Cumhuriyeti Hükümeti Arasında Denizcilik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2004-01-14",
+  "adopted_as_published": "14/01/2004",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.01.2004 No: 25352",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08805053.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 88",
+  "committee_reports": [
+    {
+      "label": "TBMM 293 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c038/tbmm22038042ss0293.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 207594,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Lübnan Cumhuriyeti Hükümeti Arasında Denizcilik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "14/01/2004",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08805053.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 293 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c038/tbmm22038042ss0293.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 24,
+          "sitting_date": "2003-01-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003fih.pdf",
+          "pages": [
+            "205"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 25,
+          "sitting_date": "2003-12-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c032/tbmm22032025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c032/tbmm22032fih.pdf",
+          "pages": [
+            "170"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 42,
+          "sitting_date": "2004-01-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c038/tbmm22038042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c038/tbmm22038fih.pdf",
+          "pages": [
+            "61:62",
+            "275:298"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=201&v_kullanici_id=27483198",
+      "page_sha256": "279fbda299ebb8ffb2c98e49d95591811569006030ab91c6e92bb9737e7dd9e7"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "279fbda299ebb8ffb2c98e49d95591811569006030ab91c6e92bb9737e7dd9e7",
+  "issuer": "TBMM",
+  "in_force": "2004-01-14",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 14/01/2004; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
