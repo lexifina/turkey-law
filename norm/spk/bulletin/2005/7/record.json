@@ -1,0 +1,66 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2005/7",
+  "date": "2005-02-11",
+  "title": "SPK Haftalık Bülteni 2005/7",
+  "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_7.pdf",
+  "source_sha256": "63197266029fddb8413e820599bae34131de2ed9f0a94ae1da0beb0bd748dbd7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "E. YENİ KURULUŞ VE FAALİYET İZİNLERİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 01.01.2005 – 11.02.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_7.pdf"
+    },
+    {
+      "heading": "B. 07.02.2005 –11.02.2005 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_7.pdf"
+    },
+    {
+      "heading": "C. 07.02.2005 – 11.02.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_7.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_7.pdf"
+    },
+    {
+      "heading": "E. YENİ KURULUŞ VE FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_7.pdf"
+    },
+    {
+      "heading": "F. DUYURULAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_7.pdf"
+    },
+    {
+      "heading": "K.2004/1446; aynı tarih, E.2003/1549, K.1447 ve aynı tarih, E.2003/1546, K.2004/1444 sayılı kararlarda Kurul işleminin iptaline",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Haftalık Bülten",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_7.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
