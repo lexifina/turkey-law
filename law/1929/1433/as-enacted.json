@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1433",
+  "year": 1929,
+  "title": "1928 senesi Maarif Vekâleti bütçesine tahsisatı munzamma itasına ve iktisat Vekâleti bütçesinde münakale icrasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-05-07",
+  "gazette_issue": "1186",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1186.pdf",
+  "source_sha256": "ee3a6017e3055879b8a63f1e6d42025c0f0340d021e1b5d4cb2ad6914f3e6fac",
+  "text_sha256": "a591b89b4720e236d796aa8487cecbeaf7c963d9df74fe6774e43a46782b046d",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      10,
+      80
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701433.pdf",
+    "source_sha256": "8d78397bbb76ad1e74f2f60b657fea61191c070bca3452e1c0f867b0f1d2df82",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9441,
+    "bag": 0.8712,
+    "kd_coverage": 0.9904,
+    "kd_body_compared": 0.9904,
+    "rg_words": 221,
+    "kd_words": 208,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
