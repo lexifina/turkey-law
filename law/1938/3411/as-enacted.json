@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3411",
+  "year": 1938,
+  "title": "Askerî muhakeme usulü Kanununun 41. maddesini değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-06-08",
+  "gazette_issue": "3928",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3928.pdf",
+  "source_sha256": "b9a308f5c72819d0836237670a5f632bf94674c501b694ad99adcdea07805c60",
+  "text_sha256": "3a0dafe59e46793b8696339425315f219f13336cf8a2d9338d5aef9d01862b04",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      1431,
+      1471
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803411.pdf",
+    "source_sha256": "87afab3efe2411aba11a1b0d605e7cdb1a26f387f4d8db6f881bcaa60e8b4739",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9813,
+    "bag": 0.8531,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9815,
+    "rg_words": 105,
+    "kd_words": 108,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
