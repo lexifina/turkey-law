@@ -1,0 +1,39 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2003/1",
+  "source_id": 649,
+  "date": "2003-06-13",
+  "title": "VERGİ KİMLİK NUMARASI İÇ GENELGESİ SERİ NO: 2003/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/453/icgenelge/649",
+  "source_sha256": "983614d662bf7cb8d9ecbebf6d913225cd7c186fb8e6fa25c2030cb8cb197c32",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/453/icgenelge/647",
+        "quote": "13.06.2003 tarih ve 2003/1 Seri No.lu Vergi Kimlik Numarası İç Genelgesinde vergi kimlik numarasının sahte veya çalıntı nüfus cüzdanı ile alındığına dair mahkeme kararının, adli ve güvenlik makamlarınca, sahte nüfus cüzdanları ile vergi kim"
+      }
+    ]
+  },
+  "unincorporated_annexes": [
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/vergikimlikicgen2003_1ek1.html",
+      "title": "Form",
+      "status": "official-link-only; annex text not included"
+    },
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/vergikimlikicgen2003_1ek2.html",
+      "title": "Ülke Kodları Listesi",
+      "status": "official-link-only; annex text not included"
+    }
+  ]
+}
