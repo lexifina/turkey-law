@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "94/6299",
+  "source_id": 1853,
+  "date": "1994-12-27",
+  "title": "GİDER VERGİLERİ KANUNUNUN DEĞİŞİK 33 ÜNCÜ MADDESİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/bkk/1853",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "4f95a9b0b45344a251efeba941dc8d5bdc6a895a8a4ef5b3d24bbca97146c622",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
