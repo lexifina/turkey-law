@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1413",
+  "year": 1929,
+  "title": "1111 numaralı askerlik mükellefiyeti kanununun bazı maddelerinin tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-04-15",
+  "gazette_issue": "1168",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1168.pdf",
+  "source_sha256": "0694176224c30f4c05774dc0b2d1db0621ce226f16179a4d005c0193a885f61a",
+  "text_sha256": "6712e5d0d9ff282d9ebdca9cfa4c3dcbb8848ddb9c8118b1ddf5c40a1f0f09bb",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      10,
+      199
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701413.pdf",
+    "source_sha256": "6252e56d91540e0ed9a7ef0e23c07b4d5de6f1bf1e777cc3d5c969aa7cb7ec99",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = word-sequence ratio (exact or OCR-noise-equal words, difflib) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9446,
+    "bag": 0.8851,
+    "kd_coverage": 0.9948,
+    "kd_body_compared": 0.9948,
+    "rg_words": 808,
+    "kd_words": 771,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
