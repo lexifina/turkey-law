@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4028",
+  "year": 1941,
+  "title": "Türkiye-Almanya aracında ticarî mübadelelere mütedair Hususi Anlaşma ile Türkiye-Almanya arasında ticari mübadelelere ait Tediye Anlaşmasında mevzuubahis menşe şahadetnameleri ile mutat ticari müteferrik masraflar ve Almanya'da serbest liman ve mıntakalardaki Alman makamları mühür ve imzalarının Alman makamları mühür ve imzaları gibi kabulü hakkında Alman sefaretiyle teati olunan notaların tasdiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-05-16",
+  "gazette_issue": "4810",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4810.pdf",
+  "source_sha256": "d72ba28dc97784bc9b29fda6c7651d29c853715e5aacab4451732d537ee014d4",
+  "text_sha256": "53933a8d62288e99b8ad5fdc216598c20e62757a3b1eb127410ee13149db7fae",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      19,
+      51
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204028.pdf",
+    "source_sha256": "ddc4e2a325b454d23dfc6d4c587158704c1ae0f6553353cf97ef920b831fe360",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.989,
+    "bag": 0.9452,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9896,
+    "rg_words": 192,
+    "kd_words": 193,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
