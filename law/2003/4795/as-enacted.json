@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4795",
+  "year": 2003,
+  "title": "Türkiyenin Matra Programına Katılımına İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-01-28",
+  "gazette_issue": "25007",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030128.htm",
+  "source_sha256": "4f0bd3cd9c823bc2aa4e2eb498b80692e6354f77d5cbf686bffc46bd7f8190ef",
+  "text_sha256": "66067c83c0cdb0492df4389ab2814f563198dfdf20e31291ae7916bdd04bdbfc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/01/28/25007-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030128.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
