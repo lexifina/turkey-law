@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2002/19",
+  "list_number": "19",
+  "decision_date": "2002-01-11",
+  "title": "YSK ilke kararı 2002/19",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4333/2002-19-karar.htm",
+  "source_sha256": "da007e9b598e00fb3d341f8536a550f15c660265a5b3b2aeaeb1a14ec2f7fab4",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2002-01-11",
+  "law_text_complete": false
+}
