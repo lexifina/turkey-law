@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-04-06",
+  "issue": "25778",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Yargı İlânı",
+  "category": "yargi",
+  "category_page": "2",
+  "title": "Ardeşen Kadastro Hakimliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/04/20050406-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (1 = 1)",
+  "ilan_codes": [
+    "3736/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/04/20050406-2.htm",
+  "category_page_sha256": "faeb034b826deef204680d94be7c3e50ae99aa43b69143902cd182ff2c3d649f",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/04/20050406.htm",
+  "index_sha256": "65d629cf21b348f21b49f7bb9f0cb42e4be0906ae2d1e55b21e6616159d92d48",
+  "index_header": "6 Nisan 2005 ... Sayı : 25778",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed (court notice)"
+}
