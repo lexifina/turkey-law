@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3402",
+  "year": 1938,
+  "title": "İspençiyari ve tıbbî müstahzarlar Kanununun 18. maddesinin değiştirilmesine ve bazı hükümlerinin kaldırılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-05-28",
+  "gazette_issue": "3919",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3919.pdf",
+  "source_sha256": "277f25f48ea187f71f42ff2f492378f3f46958ece623fb7d33146bb8089ce769",
+  "text_sha256": "4e6e3bf0ff922e0aaf5bc9cacb0052704b31aec94a8d7309c9bef7f7700c54b2",
+  "text_status": "ocr",
+  "pages": [
+    14,
+    15
+  ],
+  "line_span": [
+    [
+      3929,
+      3957
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803402.pdf",
+    "source_sha256": "250f8c937750b20892b30b4c10928881aa3a3cc57ad58e4f3f460adc0e4ad40c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9669,
+    "bag": 0.8914,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9883,
+    "rg_words": 181,
+    "kd_words": 171,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
