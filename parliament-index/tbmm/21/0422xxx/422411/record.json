@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 422411,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Tasarrufların Teşviki ve Kamu Yatırımlarının Hızlandırılması Hakkında Kanunun, Özelleştirme Uygulamalarının Düzenlenmesine ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun, Asker Ailelerinden Muhtaç Olanlara Yardım Hakkında Kanunun, Futbol Müsabakalarında Müşterek Bahisler Tertibi Hakkında Kanunun, Gecekondu Kanununun, Sağlık Hizmetleri Temel Kanununun ve ödeme Güçlüğü İçinde Bulunan Bankerlerin İşlemleri Hakkında Kanun Hükmünde Kararnamenin Bazı Maddelerinin Değiştirilmesi ve Yürürlükten Kaldırılması ile Bazı Tekel Maddeleri Fiyatlarına Yapılan Zamlardan Elde Edilen Hâsılatın TC Merkez Bankasında Açılacak Bir Deprem Fonu Hesabında Toplanmasına Dair Kanunun Yürürlükten Kaldırılması Hakkında (1/645)",
+  "title": "Tasarrufların Teşviki ve Kamu Yatırımlarının Hızlandırılması Hakkında Kanunun, Özelleştirme Uygulamalarının Düzenlenmesine ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun, Asker Ailelerinden Muhtaç Olanlara Yardım Hakkında Kanunun, Futbol Müsabakalarında Müşterek Bahisler Tertibi Hakkında Kanunun, Gecekondu Kanununun, Sağlık Hizmetleri Temel Kanununun ve ödeme Güçlüğü İçinde Bulunan Bankerlerin İşlemleri Hakkında Kanun Hükmünde Kararnamenin Bazı Maddelerinin Değiştirilmesi ve Yürürlükten Kaldırılması ile Bazı Tekel Maddeleri Fiyatlarına Yapılan Zamlardan Elde Edilen Hâsılatın TC Merkez Bankasında Açılacak Bir Deprem Fonu Hesabında Toplanmasına Dair Kanunun Yürürlükten Kaldırılması Hakkında (1/645)",
+  "first_sitting_date": "2000-05-23",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 33,
+      "sitting": 97,
+      "sitting_date": "2000-05-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c033/tbmm21033097.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c033/tbmm21033fih.pdf",
+      "pages": [
+        "111:157",
+        "198:221"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=755&v_gelecek_sayfa=301&v_kullanici_id=27484530",
+  "source_sha256": "a4fe4eda910c96e58cab7fc714430d0da22037a80b4666b04a7af6c7d285b59b",
+  "in_force": "2000-05-23",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
