@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.GEL.0.53/5330-92",
+  "source_id": 38062,
+  "date": "2003-09-24",
+  "title": "Şirketinizin kamu iktisadi kuruluşlarına binek araçlarla servis kiralama işi ile iştigal...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38062",
+  "source_sha256": "34b1deab123b2713579939e979849dbe3fa9692d7d6b4b36fa9d2ec7777f0b9f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
