@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK - 1 / 2003 - 1 / ÖTV İndirimi",
+  "source_id": 983,
+  "date": "2003-09-11",
+  "title": "Araçların iktisabı dolayısıyla satıcılar tarafından hesaplanan özel tüketim vergisi, katma değer vergisi matrahına dahil edilecektir. Ancak, 4760 sayılı Özel tüketim Vergisi Kanununa 4962 sayılı Kanunla eklenen Geçici 3'üncü maddeye göre yukarıda bahsedil",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/983",
+  "source_sha256": "73240c1eea06e102f8492fc1652bff1d4ed20675e11ebd2d4041859acbc0d4ed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
