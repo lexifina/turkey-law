@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "57",
+  "year": 1962,
+  "title": "7334 Sayılı İktisadi ve Ticari İlimler Akademileri Kanununun 27 nci Maddesinin Tadiline Dair Kanun.",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-07-11",
+  "gazette_issue": "11151",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11151.pdf",
+  "source_sha256": "e2e4bcfc112b7915541e0903478efdf72f423706b4b7fe0079c37eee6caebc27",
+  "text_sha256": "6882d4586c391cb5862574e9d88d3ea165c5bdc7e1408a9097bfaa12ff1ee5d7",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      41,
+      57
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500057.pdf",
+    "source_sha256": "4fb6472713351457cd3d8b4a29c36605dcb499f1c9d9e9ec13ed0e6e009240a8",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9776,
+    "bag": 0.8917,
+    "kd_coverage": 0.9744,
+    "kd_body_compared": 0.8556,
+    "rg_words": 80,
+    "kd_words": 90,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
