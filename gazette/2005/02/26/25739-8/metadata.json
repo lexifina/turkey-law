@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-26",
+  "issue": "25739",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "İşkolu Tespit Kararı (No: 2005/4)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050226-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050226.htm",
+  "index_sha256": "d79c4eb38d87bc88e343a3564ca50d1f07a32a3c2540d51c8b964961e093c236",
+  "index_header": "26 Şubat 2005 ... Sayı : 25739",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
