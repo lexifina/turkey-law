@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4996",
+  "year": 2003,
+  "title": "Kuzey Atlantik Antlaşmasına Litvanya Cumhuriyetinin Katılımına İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-11-08",
+  "gazette_issue": "25283",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/11/20031108.htm",
+  "source_sha256": "cb1fa9ecc63925ad3cf99c6b1ac05648844a1fefbd29999cafe0a92742627ece",
+  "text_sha256": "76e48ae625ace7f2c0013ca1f9996748df8a6f9ab4aa84dfa96bc4705b31575a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/11/08/25283-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/11/20031108.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
