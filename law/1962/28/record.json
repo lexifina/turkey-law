@@ -1,0 +1,154 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "28",
+  "year": 1962,
+  "title": "Devlet Üretme Çiftlikleri Genel Müdürlüğü 1962 Yılı Bütçe Kanunu",
+  "adopted": "1962-02-25",
+  "adopted_as_published": "25/02/1962",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "03.03.1962 No: 11050",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500028.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 45",
+  "committee_reports": [
+    {
+      "label": "MM 32 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c003/mm__01003056ss0032.pdf"
+    },
+    {
+      "label": "CS 13no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c002/cs__01002034ss0013.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 335340,
+      "title": "Devlet Üretme Çiftlikleri Genel Müdürlüğü 1962 Yılı Bütçe Kanunu",
+      "adopted_as_published": "25/02/1962",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500028.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 32 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c003/mm__01003056ss0032.pdf"
+        },
+        {
+          "label": "CS 13no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c002/cs__01002034ss0013.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 15,
+          "sitting_date": "1961-11-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c001/mm__01001015.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c001/mm__01001fih.pdf",
+          "pages": [
+            "136"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 46,
+          "sitting_date": "1962-02-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c002/mm__01002046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c002/mm__01002fih.pdf",
+          "pages": [
+            "362"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 55,
+          "sitting_date": "1962-02-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c003/mm__01003055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c003/mm__01003fih.pdf",
+          "pages": [
+            "395",
+            "415:432",
+            "438:440"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 56,
+          "sitting_date": "1962-02-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c003/mm__01003056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c003/mm__01003fih.pdf",
+          "pages": [
+            "459",
+            "460",
+            "479",
+            "481",
+            "484",
+            "542:545"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1601&v_kullanici_id=27483225",
+      "page_sha256": "bbdd867e769c8bf5b4742e47e941c611bd3a2472815a799bfa1c73e5cfba7238"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 156375,
+      "title": "Devlet Üretme Çiftlikleri Genel Müdürlüğü 1962 yılı Bütçe Kanunu",
+      "adopted_as_published": "25/02/1962",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500028.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 32 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c003/mm__01003056ss0032.pdf"
+        },
+        {
+          "label": "CS 13no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c002/cs__01002034ss0013.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 27,
+          "sitting_date": "1962-02-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c001/cs__01001027.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c001/cs__01001fih.pdf",
+          "pages": [
+            "494"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 33,
+          "sitting_date": "1962-02-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c002/cs__01002033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c002/cs__01002fih.pdf",
+          "pages": [
+            "327:409",
+            "414:417"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "1d71d5ca37a597738ce2edfca2bb8ceb18a16f1ab45d81f98c9f010fbc9ac7a2"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "bbdd867e769c8bf5b4742e47e941c611bd3a2472815a799bfa1c73e5cfba7238",
+  "issuer": "Millet Meclisi",
+  "in_force": "1962-02-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 25/02/1962; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
