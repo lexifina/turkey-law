@@ -1,0 +1,467 @@
+Yönetmelik
+Telekomünikasyon Kurumundan:
+Telekomünikasyon Sektöründe Hizmet
+Kalitesi Yönetmeliği
+BİRİNCİ
+BÖLÜM
+Genel
+Hükümler
+Amaç
+Madde 1 —
+Bu Yönetmeliğin amacı; telekomünikasyon hizmetleri yürüten ve/veya telekomünikasyon
+altyapısı işleten işletmecilerin ulusal ve uluslararası hizmet kalitesi
+standartlarında hizmet sunmaları ve/veya altyapı işletmelerine ilişkin usul
+ve esasları belirlemektir.
+Kapsam
+Madde 2 —
+Bu Yönetmelik işletmecilerin ulusal ve uluslararası hizmet kalitesi
+standartlarında hizmet sunmaları ve/veya altyapı işletmelerine ilişkin usul
+ve esasları kapsar.
+Dayanak
+Madde 3 —
+Bu Yönetmelik, 4/2/1924 tarihli ve 406 sayılı Telgraf ve Telefon Kanununun
+değişik 2 nci maddesine ve 5/4/1983 tarihli ve 2813
+sayılı Telsiz Kanununun 7 nci maddesinin ikinci
+fıkrasının değişik (h) ve (j) bendlerine
+dayanılarak hazırlanmıştır.
+Tanımlar
+Madde 4 —
+Bu Yönetmelikte geçen tanımlardan;
+a)
+Kurum: Telekomünikasyon Kurumunu,
+b)
+Kurul: Telekomünikasyon Kurulunu,
+c)
+Abone: Telekomünikasyon hizmeti sunan bir işletmeci ile ilgili hizmetten
+yararlanmaya ilişkin sözleşme yapan gerçek veya tüzel kişiyi,
+d)
+Arama Blokaj: Yapılan bir çağrıda, radyo, transmisyon, anahtarlama, vb.
+sistemlerdeki kaynak yetersizliğinden dolayı bağlantının kurulamamasını,
+e)
+Arama Blokaj Oranı: Kapsama alanı içinde yapılan aramalarda, bağlantı
+kurulamayan aramaların toplam aramalara oranını,
+f)
+Erişim Hattı: Şebekenin, taşıma şebekesine bağlantıyı sağlayan, trafiğe
+duyarlı olmayan ve aboneye tahsis edilmiş şebeke bileşenlerinden oluşan
+kısmını,
+g)
+ETSI: Avrupa Telekomünikasyon Standartları Enstitüsünü,
+h)
+İşletmeci: Türk Telekom da dahil olmak üzere, Kurum
+ile yapılan bir görev sözleşmesi, imtiyaz sözleşmesi ve/veya Kurumdan alınan
+bir telekomünikasyon ruhsatı veya genel izin uyarınca telekomünikasyon
+hizmetleri yürüten ve/veya telekomünikasyon altyapısı işleten bir sermaye
+şirketini,
+i)
+Kullanıcı: Aboneliği olup olmamasına bakılmadan telekomünikasyon
+hizmetlerinden yararlanan gerçek veya tüzel kişiyi,
+j)
+Rehber Hizmeti: Abone bilgilerinin derlenerek basılı veya elektronik ortamda
+sunulmasını,
+k)
+Operatör Hizmetleri: İşletmecinin sunmuş olduğu hizmetlere ilişkin olarak
+kullanıcılara yardımcı olan bilgilendirme ve yönlendirme bağlamında çağrı
+merkezi hizmetlerini,
+l)
+Standart Sunum Süresi: Hız bazında tüm kiralık hat taleplerinin % 95’inin
+karşılandığı süreyi (Kullanıcının başvuruyu yaptığı tarihten hizmetten
+yararlanmaya başladığı tarihe kadar geçen süre esas alınır),
+m)
+Standart Arıza Giderme Süresi: Tüm arızaların % 80’inin giderildiği süreyi
+(Arızanın bildiriminden arızanın giderildiğinin kullanıcıya geri
+bildirilmesine kadar geçen süre esas alınır)
+ifade
+eder.
+Bu Yönetmelikte
+yer almayan tanımlar için 406 sayılı Telgraf ve Telefon Kanunu, 2813 sayılı
+Telsiz Kanunu ve ilgili mevzuattaki tanımlar esas alınır.
+İlkeler
+Madde 5 —
+Bu Yönetmeliğin uygulanmasında aşağıdaki temel ilkeler gözönünde
+bulundurulur:
+a)
+Hizmet kalitesi ölçütlerinin anlaşılır şekilde tanımlanması ve ölçülebilir
+olması,
+b)
+Hizmet kalitesi standartlarına ilişkin güncel bilgilerin yeterli,
+kıyaslanabilir ve erişilebilir olması,
+c)
+Telekomünikasyon altyapı ve hizmetlerinin gelişen şartlar çerçevesinde
+uluslararası standartlarda ve ölçütlerde olması,
+d)
+Kullanıcı memnuniyetini artırıcı ve şikayetleri giderici uygulamaların teşvik
+edilmesi,
+e)
+Benzer konumdaki kullanıcılar arasında ayrım gözetilmemesi ve aynı hizmetin
+benzer konumdaki kullanıcılara aynı hizmet kalitesi seviyesinde sunulması,
+f)
+Hizmet kalitesi ölçütlerinin geliştirilmesinde kullanıcıların özel
+durumlarının, özellikle engelli kullanıcıların ihtiyaçlarının dikkate
+alınması.
+İKİNCİ
+BÖLÜM
+Hizmet
+Kalitesi Ölçütleri
+Bağlantı Süresi
+Madde 6 —
+Bağlantı süresi işletmecinin geçerli bir bağlantı talebi aldığı andan,
+kullanıcıya hizmetin çalışır durumda verildiği ana kadar geçen süredir.
+Bağlantı süresi takvim günü cinsinden ölçülür. Etkin piyasa gücüne sahip
+sabit telefon hizmeti sunan işletmeciler, bağlantı süresi ile ilgili olarak
+aşağıda belirtilen verileri Kuruma bildirmekle yükümlüdür:
+a)
+Taleplerin % 95 ve % 99’unun karşılanmasında geçen süre.
+b)
+Kullanıcı ile anlaşılan tarihte yerine getirilen taleplerin yüzdesi.
+Erişim Hattı Başına Arıza Oranı
+Madde 7 —
+Erişim hattı başına arıza oranı; kullanıcı tarafından işletmeciye bildirilen
+ve işletmeciden kaynaklanan bozulma veya kalite seviyesindeki düşme vb.
+aksaklıklara ilişkin geçerli arıza sayısının toplam erişim hattı sayısına
+oranıdır. Etkin piyasa gücüne sahip sabit telefon hizmeti sunan işletmeciler
+erişim hattı başına gerçekleşen arıza oranını Kuruma bildirmekle yükümlüdür.
+Arıza Giderme Süresi
+Madde 8 —
+Arıza giderme süresi; arızanın bildirildiği andan hizmetin tam olarak sunulmaya
+başlanıldığı ana kadar geçen süredir. Arıza giderme süresi saat cinsinden
+ölçülür.
+Etkin
+piyasa gücüne sahip sabit telefon hizmeti sunan işletmeciler arıza giderme
+süresi ile ilgili olarak aşağıda belirtilen verileri Kuruma bildirmekle
+yükümlüdür:
+a)
+Erişim hatlarına ilişkin geçerli arızaların % 80 ve % 95’inin giderildiği
+süre.
+b)
+Diğer tüm geçerli arızaların % 80 ve % 95’inin giderildiği süre.
+Başarısız Arama Oranı
+Madde 9 — Başarısız
+arama; geçerli bir numaranın çevir sesini müteakip uygun bir şekilde
+çevrilmesi ve görüşmeyi sağlama için gerekli adres bilgisinin şebeke
+tarafından alınması anından itibaren 30 saniye içinde, aranan numaranın
+meşgul olduğunu belirten meşgul sesinin, çalma sesinin veya cevap sinyalinin
+alınamadığı arama girişimidir.
+Başarısız
+arama oranı; belirli bir zaman aralığındaki başarısız aramaların toplam arama
+girişimi sayısına oranı olarak tanımlanır. Etkin piyasa gücüne sahip sabit
+telefon hizmeti sunan işletmeciler aşağıdaki verileri Kuruma bildirmekle
+yükümlüdür:
+a)
+Ulusal aramalarda başarısız arama oranı.
+b)
+Uluslararası aramalarda başarısız arama oranı.
+c)
+Her bir veri için yapılan gözlem sayısı ve gözlemin yapıldığı zaman aralığı.
+Aramanın Kurulma Süresi
+Madde 10 —
+Aramanın kurulma süresi; aramanın sağlanması için gerekli adres bilgisinin
+şebeke tarafından alınması ile başlayan ve aranan taraftan meşgul sesi, çalma
+sesi veya cevap sinyalinin alınması ile biten zaman aralığını belirtir.
+Aramanın kurulma süresi saniye cinsinden ölçülür.
+Etkin
+piyasa gücüne sahip sabit telefon hizmeti sunan işletmeciler aşağıda
+belirtilen verileri Kuruma bildirmekle yükümlüdür:
+a)
+Ulusal aramalar için ortalama kurulma süresi.
+b)
+Ulusal aramaların % 95’inin kurulduğu süre.
+c)
+Uluslararası aramalar için ortalama kurulma süresi.
+d)
+Uluslararası aramaların % 95’inin kurulduğu süre.
+e)
+Başarısız arama olarak sınıflandırılan aramalar dışındaki ulusal ve
+uluslararası aramalar için yapılan gözlem sayısı ve gözlemin yapıldığı zaman
+aralığı.
+Operatör Hizmetleri İçin Cevap
+Verme Süresi
+Madde 11 —
+Operatör hizmetleri için cevap verme süresi; aramanın sağlanması için gerekli
+adres bilgisinin şebeke tarafından alındığı andan, operatörün hizmet talep
+eden kullanıcıyı cevapladığı ana kadar geçen süredir. Operatör hizmetleri
+için cevap verme süresi saniye cinsinden ölçülür. Otomatik olarak sesli cevap
+sistemleri ile sunulan hizmetler ve acil hizmetlere erişim, bu kapsamın
+dışındadır.
+Etkin
+piyasa gücüne sahip sabit telefon hizmeti sunan işletmeciler aşağıda
+belirtilen verileri Kuruma bildirmekle yükümlüdür:
+a)
+Ortalama cevap verme süresi.
+b) 20
+saniye içinde cevaplanan aramaların yüzdesi.
+Rehber Hizmetleri İçin Cevap
+Verme Süresi
+Madde 12 —
+Rehber hizmetlerinde cevap verme süresi; aramanın sağlanması için gerekli
+adres bilgisinin şebeke tarafından alındığı andan, talep edilen numara
+bilgisini vermek üzere santral veya eşdeğerdeki sesli cevaplama sisteminin
+arayan kullanıcıyı cevapladığı ana kadar geçen süredir. Rehber hizmetleri
+için cevap verme süresi saniye cinsinden ölçülür.
+Etkin
+piyasa gücüne sahip sabit telefon hizmeti sunan işletmeciler aşağıda
+belirtilen verileri Kuruma bildirmekle yükümlüdür:
+a)
+Ortalama cevap verme süresi.
+b) 20
+saniye içinde cevaplanan aramaların yüzdesi.
+Ankesörlü
+Telefonlar
+Madde 13 —
+Çalışır durumdaki ankesörlü telefonların oranı;
+çalışır durumdaki ankesörlü telefonların sayısının,
+ankesörlü telefonların toplam sayısına oranı olarak
+tanımlanır. Ankesörlü telefonların çalışır durumda
+olması bir günde 24 saat boyunca çalışabilirliğini ifade eder.
+Etkin
+piyasa gücüne sahip sabit telefon hizmeti sunan işletmeciler aşağıdaki
+verileri Kuruma bildirmekle yükümlüdür:
+a)
+Çalışır durumdaki ankesörlü telefonların oranı.
+b)
+Yapılan gözlem sayısı ve gözlemin yapıldığı zaman aralığı.
+Fatura Şikayeti
+Madde 14 —
+Fatura şikayeti, abonenin gelen faturanın doğruluğu hususundaki şikayetini
+bildirmesidir. Fatura şikayeti oranı; abone şikayetlerinin olduğu fatura
+sayısının toplam fatura sayısına oranıdır.
+Etkin
+piyasa gücüne sahip sabit telefon hizmeti sunan işletmeciler hizmet bazında
+fatura şikayeti oranını Kuruma bildirmekle yükümlüdür.
+ÜÇÜNCÜ
+BÖLÜM
+Kiralık
+Hatlar
+Ayrım Gözetmeme
+Madde 15 —
+Kiralık hat sunumunda etkin piyasa gücüne sahip işletmeciler, ayrım
+gözetmeden benzer konumdaki kullanıcılara aynı koşulları uygulamakla ve kendi
+hizmetlerine, ortaklarına ya da alt kuruluşlarına
+sağladıkları hizmet kalitesini diğer kullanıcılara da sağlamakla yükümlüdür.
+Maliyet Esası
+Madde 16 —
+Kiralık hat sunumunda etkin piyasa gücüne sahip işletmeciler, ilgili mevzuat
+çerçevesinde hizmete ilişkin tarifelerini maliyet esaslı olarak belirlemek,
+uygun bir maliyet muhasebesi sistemi kurmak ve talep edildiğinde
+maliyetlerine ilişkin bilgileri Kuruma vermekle yükümlüdür.
+Şeffaflık
+Madde 17 —
+Kiralık hat sunumunda etkin piyasa gücüne sahip işletmeciler, kiralık hatlara
+ilişkin en az aşağıdaki bilgileri kolay erişilebilir bir şekilde asgari
+olarak internet sitelerinde yayımlamakla yükümlüdür:
+a)
+Şebeke sonlanma noktasında uygulanacak teknik ve performans özellikler ile
+fiziksel ve elektriksel özellikler de dahil olmak üzere teknik hususlar.
+b)
+Bağlantı ücreti, kira ücreti ve diğer ücretleri içerecek şekilde tarifeler
+ile tarifelerin farklılaştırılması söz konusuysa buna ilişkin bilgiler.
+c)
+Sunum koşullarına ilişkin aşağıdaki bilgiler:
+1)
+Başvuru usulü.
+2)
+Hız bazında standart sunum süresi.
+3)
+Hız bazında sözleşme süresi.
+4)
+Standart arıza giderme süresi.
+5) Geri
+ödemeye ilişkin usul.
+Hizmet Seviyesi Taahhütleri
+Madde 18 —
+Kiralık hat sunumunda etkin piyasa gücüne sahip işletmeciler, 17 nci maddede belirtilen bilgileri içeren kiralık hatlara
+ilişkin Hizmet Seviyesi Taahhütlerini, Kurumun onayını almalarından itibaren
+bir hafta içerisinde kolay erişilebilir bir şekilde ve asgari olarak internet sitelerinde yayımlamakla yükümlüdür. Kurum
+kiralık hat sunumunda etkin piyasa gücüne sahip işletmecilerin hizmet
+seviyesi taahhütlerinde değişiklik, iyileştirme ve düzeltme yapmasını
+isteyebilir. İşletmeci, sözkonusu değişiklik,
+iyileştirme ve düzeltmeleri Kurum tarafından belirtilen sürede yerine
+getirmekle yükümlüdür.
+DÖRDÜNCÜ
+BÖLÜM
+Diğer
+Hükümler
+Bilgilerin Yayımlanması ve
+Raporlama
+Madde 19 —
+İşletmeciler, hizmet kalitesi seviyelerine ilişkin anlaşılabilir,
+karşılaştırılabilir ve güncel bilgileri kolay erişilebilir şekilde yayımlar.
+Etkin
+piyasa gücüne sahip sabit telefon hizmeti sunan işletmeciler, hizmet kalitesi
+ölçütlerine ilişkin 3 aylık bilgileri içeren raporu Ocak, Nisan, Temmuz ve
+Ekim aylarının en geç 15’ine kadar Kuruma sunmakla yükümlüdür. Bu rapor
+içerisinde asgari olarak yer alacak veriler bu Yönetmeliğin Ek-1’inde
+verilmektedir. Kurum gerekli gördüğü hallerde işletmecilerden ilave bilgiler
+talep edebilir.
+Kurum
+işletmecilere ilişkin hizmet kalitesi verilerini ve bu verilere ilişkin her
+türlü istatistiki sonucu yayımlayabilir.
+Mobil Telefon Hizmeti Sunan
+İşletmeciler İçin Hizmet Kalitesi
+Madde 20 —
+Mobil telefon hizmeti sunan işletmeciler, imtiyaz sözleşmelerinde belirtilen
+hizmet kalitesine ilişkin hususları sağlamakla ve arama blokaj oranı,
+başarısız arama oranı, aramanın kurulma süresi ve fatura şikayeti oranına
+ilişkin 3 aylık bilgileri içeren raporu Ocak, Nisan, Temmuz ve Ekim aylarının
+en geç 15’ine kadar Kuruma sunmakla yükümlüdür. Bu rapor içerisinde asgari
+olarak yer alacak veriler bu Yönetmeliğin Ek-2’sinde verilmektedir.
+Genel Yükümlülükler
+Madde 21 —
+Kurum tarafından yetkilendirilen işletmeciler, yetki belgelerinde belirtilen
+hizmet kalitesine ilişkin hükümlere uymakla ve hizmetin kesintisiz olarak
+sunulması için gereken tedbirleri almakla yükümlüdür.
+Hizmet Kalitesi Ölçütlerinin
+Değerlendirilmesi
+Madde 22 —
+Hizmet kalitesi ölçütlerinin değerlendirilmesinde ETSI’nin,
+uluslararası kuruluşların ve Kurumun hizmet kalitesine ilişkin standartları
+kullanılır. Bu standartların güncellenmesi ve değiştirilmesi halinde bu
+Yönetmeliğin Ek-1 ve/veya Ek-2’sinde istenen veriler Kurum tarafından
+yayımlanır.
+Hizmet Kalitesi Standartları
+Madde 23 —
+Kurum, ses, veri ve görüntü dahil tüm telekomünikasyon hizmetlerine yönelik
+olarak hizmet kalitesi standartları belirleyebilir. İşletmeciler, standart
+hizmet kalite seviyelerini Kurum tarafından belirlenen sürede
+gerçekleştirmekle yükümlüdür.
+Kurum
+engelli kullanıcılara yönelik olarak ek hizmet standartları belirleyebilir.
+Denetim
+Madde 24 —
+Kurum, işletmeciler tarafından bildirilen hizmet kalitesi ölçütlerine ilişkin
+bilgilerin doğruluğunu re’sen veya şikayet üzerine
+denetleyebilir veya denetletebilir.
+İdari Ceza ve Tedbirler
+Madde 25 —
+İşletmecilerin bu Yönetmelikle belirlenen yükümlülükleri yerine getirmemeleri
+halinde 5/9/2004 tarihli ve 25574 sayılı Resmi Gazete’de yayımlanan
+Telekomünikasyon Kurumu Tarafından İşletmecilere Uygulanacak İdari Para
+Cezaları ile Diğer Müeyyide ve Tedbirler Hakkında Yönetmelik hükümleri
+uygulanır.
+Geçici Madde 1 — Etkin piyasa gücüne
+sahip sabit telefon hizmeti sunan işletmecilere ve mobil telefon hizmeti
+sunan işletmecilere yönelik hizmet kalitesi ölçütlerine ilişkin verileri
+içeren raporun Kuruma sunulması yükümlülüğü bu Yönetmeliğin yürürlüğe
+girmesinden itibaren 6 ay sonra başlar.
+Yürürlük
+Madde 26 —
+Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+Yürütme
+Madde 27 —
+Bu Yönetmelik hükümlerini Kurul Başkanı yürütür.
+EK-1
+İLGİLİ DÖNEM :
+İŞLETMECİNİN ADI :
+İŞLETMECİNİN ÜNVANI :
+Hizmet Kalitesi Ölçütü
+İlgili Veriler
+Ölçüm Değeri
+Bağlantı Süresi*
+Taleplerin %95’inin karşılanmasında geçen süre
+....... Gün
+Taleplerin % 99’unun karşılanmasında geçen süre
+....... Gün
+Kullanıcı ile anlaşılan tarihte yerine getirilen
+taleplerin %’si
+% ......
+Erişim Hattı
+Başına Arıza Oranı*
+Geçerli arıza sayısının toplam erişim hattı sayısına
+oranı
+% ......
+Arıza Giderme
+Süresi*
+Erişim hatlarına ilişkin geçerli arızaların % 80’inin
+giderildiği süre
+....... Saat
+Erişim hatlarına ilişkin geçerli arızaların % 95’inin
+giderildiği süre
+....... Saat
+Diğer tüm geçerli arızaların %80’nin giderildiği süre
+....... Saat
+Diğer tüm geçerli arızaların %95’inin giderildiği
+süre
+....... Saat
+Başarısız Arama
+Oranı
+Ulusal aramalarda başarısız arama oranı
+% ......
+Uluslararası aramalarda başarısız arama oranı
+% ......
+Herbir veri için yapılan
+gözlemlerin sayısı ve gözlemin yapıldığı zaman aralığı
+....... Adet
+----------Dönem
+Aramanın Kurulma
+Süresi
+Ulusal aramalar için ortalama kurulma süresi
+....... Saniye
+Ulusal aramaların % 95’inin kurulduğu süre
+....... Saniye
+Uluslararası aramalar için ortalama kurulma süresi
+....... Saniye
+Uluslararası aramaların %95’inin kurulduğu süre
+....... Saniye
+Ulusal aramalar için yapılan gözlem sayısı ve
+gözlemin yapıldığı zaman aralığı
+....... Adet
+----------Dönem
+Uluslararası aramalar için yapılan gözlem sayısı ve
+gözlemin yapıldığı zaman aralığı
+....... Adet
+-----------Dönem
+Operatör Hizmetleri
+İçin Cevap Verme Süresi
+Ortalama cevap verme süresi
+....... Saniye
+20 saniye içinde cevaplanan aramaların yüzdesi
+% ......
+Rehber
+Hizmetleri İçin Cevap Verme Süresi
+Ortalama cevap verme süresi
+....... Saniye
+20 saniye içinde cevaplanan aramaların yüzdesi
+% ......
+Çalışır
+Durumdaki Ankesörlü Telefonlar
+Çalışır durumdaki ankesörlü
+telefonların oranı
+% ......
+Gözlem sayısı ve gözlemin yapıldığı zaman aralığı
+....... Adet
+------Dönem
+Fatura Şikayeti Oranı
+Abone şikayetlerinin olduğu
+fatura sayısının, toplam fatura sayısına oranı
+% ......
+*
+Bağlantının sağlanmasının ve arızaya müdahalenin kullanıcı ya da üçüncü kişilerden kaynaklanan nedenlerle
+gerçekleştirilememesi durumunda burada geçen zaman kayıpları istatistiki hesaplarda göz önüne
+alınmayabilir.Gerektiğinde bu hususların kanıtlanması Kurum tarafından
+istenebilir.
+EK-2
+İLGİLİ DÖNEM :
+İŞLETMECİNİN ADI :
+İŞLETMECİNİN ÜNVANI :
+Hizmet Kalitesi Ölçütü
+İlgili Veriler
+Ölçüm Değeri
+Arama Blokaj
+Oranı
+Bağlantı kurulamayan aramaların toplam aramalara
+oranı
+% ......
+Başarısız Arama
+Oranı
+Başarısız aramaların toplam arama girişimi sayısına
+oranı
+% ......
+Aramanın Kurulma
+Süresi
+Tüm aramalar için ortalama kurulma süresi
+....... Saniye
+Tüm aramaların % 95’inin kurulduğu süre
+....... Saniye
+Fatura Şikayeti Oranı
+Abone şikayetlerinin olduğu
+fatura sayısının, toplam fatura sayısına oranı
+% ......
