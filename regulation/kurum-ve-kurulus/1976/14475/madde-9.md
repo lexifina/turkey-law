@@ -1,0 +1,1 @@
+Madde 9 — Kampa katılan öğretmen ve memurlara, ikametleri için tahsis olunan odaların o zamanki durumları bir tutanakla tespit olunarak teslim edilir. Kampın bitiminde bu odaların durumlarmın yeni bir tutanakla tespit edilmesi şarttır.

@@ -1,0 +1,3 @@
+Madde 6 — Fiş dilekçe, ilgili İI Millî Eğitim Müdürünün başkanlığında bir doktor, bir orta dereceli okul müdürü, bir ilköğretim müfettişi ve bir ilkokul başöğretmeninden teşekkül edecek komisyon tarafından incelenir. Kampa kabul edilecek olanlar tespit edilir. Sonuç en geç 15 Hazirana kadar müracaatçılara duyurulur. Bu duyurmada ilgilinin kampa katılacağı okul, kamp tarihi ve gerekli açıklamalar belirtilir.
+Kampa katılacakların belirtilen tarihte kamp yerinde bulunmaları gerekmektedir. Kampa katılmaktan vazgeçenler derhal ve süratle kamp müdürlüğüne durumu bildirmek mecburiyetindedirler.
+Belli tarihte kampa gelmeyenlerin yerleri başkalanna verilir.

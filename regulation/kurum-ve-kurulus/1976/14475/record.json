@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.14475",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI MENSUBU ÖĞRETMEN VE MEMURLARA MAHSUS OLMAK ÜZERE OKULLARDA YAZ TATİLLERİNDE AÇILACAK DİNLENME KAMPLARI HAKKINDA YÖNETMELİK",
+  "number": "14475",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1976/14475",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14475&MevzuatTertip=5",
+  "source_sha256": "6007b23d3fc1aab32e78ea63f6e1e8a5642508527137f550a3ca0cfae0f9b7d8",
+  "source_bytes": 24896,
+  "published": "1976-04-09",
+  "gazette": "15554",
+  "in_force": "1976-04-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.04.1976); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 729,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,1 @@
+Madde 14 — Senelik iznini ne zaman kullanabileceğine daha önceden kesinlikle karar verilemiyecek durumda olan Bakanlık mensupları, bu Yönetmeliğin müracaat şekil ve zamanlarına ait kayıtlarından muaf tutulurlar.

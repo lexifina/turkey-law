@@ -1,0 +1,1 @@
+Madde 15 — Müdürler Komisyonunun 11/3/1955 tarihli ve 405.1-98 sayılı kararıyla kabul edilen «Maarif Vekâleti Mensubu Öğretmen ve Memurlara Mahsus Olmak Üzere Okullarda Yaz Tatillerinde Açılacak Dinlenme Kampları Hakkında Talimat» ile bu Yönetmeliğe aykırı genelgeler ve emirler yürürlükten kaldırılmıştır.

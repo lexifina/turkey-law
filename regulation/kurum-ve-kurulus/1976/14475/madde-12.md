@@ -1,0 +1,1 @@
+Madde 12 — Kampa katılanlardan bu Yönetmelik hükümlerine veya kamp komisyonunun koyacağı nizamlara aykırı hareket edenler, komisyon kararı ile kamptan çıkarılacakları gibi fiillerinin mahiyetlerine göre haklarında kanunî muamele de yapılır.
