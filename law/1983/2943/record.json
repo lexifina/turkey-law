@@ -1,0 +1,48 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2943",
+  "year": 1983,
+  "title": "20.2.1968 Tarihli ve 1005 Sayılı İstiklal Madalyası Verilmiş Bulunanlara Vatani Hizmet Tertibinden Şeref Aylığı Bağlanması Hakkındaki Kanunun İki Maddesinin Değiştirilmesi ve Kanuna İki Geçici Madde Eklenmesi Hakkında Kanun. (Bu kanun sadece MGK'da görüşülmüştür)",
+  "adopted": "1983-11-09",
+  "adopted_as_published": "09/11/1983",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "11.11.1983 No: 18218",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602943.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 66",
+  "committee_reports": [
+    {
+      "label": "MGK 712 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c011/mgk_01011181ss0712.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 151604,
+      "title": "20.2.1968 Tarihli ve 1005 Sayılı İstiklal Madalyası Verilmiş Bulunanlara Vatani Hizmet Tertibinden Şeref Aylığı Bağlanması Hakkındaki Kanunun İki Maddesinin Değiştirilmesi ve Kanuna İki Geçici Madde Eklenmesi Hakkında Kanun. (Bu kanun sadece MGK'da görüşülmüştür)",
+      "adopted_as_published": "09/11/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602943.pdf",
+      "committee_reports": [
+        {
+          "label": "MGK 712 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c011/mgk_01011181ss0712.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=601&v_kullanici_id=27483250",
+      "page_sha256": "cc012970ee5fa3446478febbceefc937daa16d2b31b4a127abb4d7268fe66fb0"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cc012970ee5fa3446478febbceefc937daa16d2b31b4a127abb4d7268fe66fb0",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1983-11-09",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 09/11/1983; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
