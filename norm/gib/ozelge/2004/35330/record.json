@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6221 -",
+  "source_id": 35330,
+  "date": "2004-11-14",
+  "title": "İktisadi kıymet alımı ile ilgili olarak yapılacak sözleşmeye damga vergisini sözleşmenin imza tarihinden itibaren 7 gün içinde ödemek şartıyla makbuz karşılığı ödenebilmesi hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35330",
+  "source_sha256": "3339766e111b09ac224f5dd3dafc7d8a1151e903f04285343b7008a21a35d3d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
