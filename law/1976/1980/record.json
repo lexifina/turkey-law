@@ -1,0 +1,159 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1980",
+  "year": 1976,
+  "title": "1980 sayılı Kanun",
+  "adopted": "1976-04-06",
+  "adopted_as_published": "06/04/1976",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "21.04.1976 No: 15566",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc059/kanuntbmmc059/kanuntbmmc05901980.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 59",
+  "committee_reports": [
+    {
+      "label": "MM 191 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c018/mm__04018070ss0191.pdf"
+    },
+    {
+      "label": "CS 565no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027052ss0565.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 460458,
+      "title": "1980 sayılı Kanun",
+      "adopted_as_published": "06/04/1976",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc059/kanuntbmmc059/kanuntbmmc05901980.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 191 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c018/mm__04018070ss0191.pdf"
+        },
+        {
+          "label": "CS 565no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027052ss0565.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 1,
+          "sitting_date": "1974-11-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007001.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007fih.pdf",
+          "pages": [
+            "7"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 89,
+          "sitting_date": "1975-06-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013089.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013fih.pdf",
+          "pages": [
+            "5"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 45,
+          "sitting_date": "1976-01-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c014/mm__04014045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c014/mm__04014fih.pdf",
+          "pages": [
+            "656",
+            "657"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 47,
+          "sitting_date": "1976-01-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c014/mm__04014047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c014/mm__04014fih.pdf",
+          "pages": [
+            "747"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 70,
+          "sitting_date": "1976-03-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c018/mm__04018070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c018/mm__04018fih.pdf",
+          "pages": [
+            "17:18"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=401&v_kullanici_id=27483225",
+      "page_sha256": "a1ea50d72be6fe3570ffdc776298387215c0ebc936785e40f90fb4075e9eeeb9"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 326599,
+      "title": "1980 sayılı Kanun",
+      "adopted_as_published": "06/04/1976",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc059/kanuntbmmc059/kanuntbmmc05901980.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 191 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c018/mm__04018070ss0191.pdf"
+        },
+        {
+          "label": "CS 565no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027052ss0565.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 27,
+          "sitting": 44,
+          "sitting_date": "1976-03-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027fih.pdf",
+          "pages": [
+            "157"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 52,
+          "sitting_date": "1976-04-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027fih.pdf",
+          "pages": [
+            "335",
+            "358"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1901&v_kullanici_id=27483235",
+      "page_sha256": "b03516e6e4516fd0e8518e72928e38bf7e13c854ce0bd904282a9e657cec2cef"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a1ea50d72be6fe3570ffdc776298387215c0ebc936785e40f90fb4075e9eeeb9",
+  "issuer": "Millet Meclisi",
+  "in_force": "1976-04-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 06/04/1976; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
