@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3812",
+  "year": 1940,
+  "title": "Matbuat kanununun 30. ve 35. maddelerini değiştiren kanuna dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-05-06",
+  "gazette_issue": "4501",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4501.pdf",
+  "source_sha256": "7483fb1391e637d80cf88abfbf1b51a21326ae4f86ca470f1c7bf00eb06dd9ac",
+  "text_sha256": "9937fc4a375a03d10ccc51ab8635293873713cd0e2637c2877aed330bf42e04f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      79
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103812.pdf",
+    "source_sha256": "ee834ae7782b3ca6219756311aca48ac992be6fd1b792eca157140b56d765df1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9523,
+    "bag": 0.8811,
+    "kd_coverage": 0.9844,
+    "kd_body_compared": 0.9801,
+    "rg_words": 439,
+    "kd_words": 453,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
