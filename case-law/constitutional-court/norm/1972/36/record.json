@@ -1,0 +1,55 @@
+{
+  "id": "595104ac-f9a2-6dd3-596c-55c8244c39e3",
+  "decision_number": "1972/36",
+  "case_number": "1972/25",
+  "decision_date": "1972-06-27",
+  "published_date": "1972-10-27",
+  "source_publication_date": "1972-06-30",
+  "gazette_number": 14349,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1972/36",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "80123790933a493fdda34354898a713714087a2d2d39f307a327c33f0fca45ab",
+  "version_label": "as-enacted",
+  "in_force": "1972-06-27",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": false,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1930-02-20",
+      "normNumaraAdParamId": "a80eecc8-895b-b006-83cc-3c68051dc7b9",
+      "incelemeturuKarsonucuParamId": "b70853bc-8190-61fb-36c6-4565bb3e5124",
+      "sonucGerekcesiParamId": "2945019e-60a1-5378-fa93-b621014b48a2",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "15",
+          "fikra": "13",
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": false,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/2"
+        },
+        {
+          "hukum": "1961/12"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 2767
+}
