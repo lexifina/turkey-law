@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5113-31/11852",
+  "source_id": 22369,
+  "date": "1998-03-30",
+  "title": "Şirket tarafından bankaya yatırılan dövizin kur farkının vergilendirilip vergilendirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/22369",
+  "source_sha256": "40b8d5b8bca06f21e0ae45a3a6c7038f7b67e0a5c5bdbc835698b0eaa43168b5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
