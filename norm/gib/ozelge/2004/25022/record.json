@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2810-13-2",
+  "source_id": 25022,
+  "date": "2004-08-03",
+  "title": "Mücbir sebebin varlığını ispat icin ibraz edilen raporların mutlaka kamuya ait belirtilen kuruluşlardan alinmiş olmasi ve vergi ödevini yerine getirmeye engel olacak şekilde olması şartı aranacagından, özel doktorlardan alinan raporlar dikkate alınmayacak",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25022",
+  "source_sha256": "9ca99ad44bbe1ff7b4302c8002e7fb20c1507123ca5291800008632e3b51bc42",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
