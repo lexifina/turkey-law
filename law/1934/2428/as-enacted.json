@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2428",
+  "year": 1934,
+  "title": "Hizmetten ayrılan Nafıa memur ve müstahdemlerinin yapamayacakları işler hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-05-14",
+  "gazette_issue": "2700",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2700.pdf",
+  "source_sha256": "fae1e5ed23503f845b67696fbd7d350b0aa4658c4c9eb1bc64e5538efb8940da",
+  "text_sha256": "724a508d1a195b279d48dc55109036396335d626d88c85f5cc7bde831e030cff",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      15,
+      69
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302428.pdf",
+    "source_sha256": "3da0fc09cc901846d7958f3379325479c8c6f77af4c34c116934cf2f2e6cf955",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9824,
+    "bag": 0.9557,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9906,
+    "rg_words": 218,
+    "kd_words": 213,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
