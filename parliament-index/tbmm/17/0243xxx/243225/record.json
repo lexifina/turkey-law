@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 243225,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "İSMAİL SARUHAN (ANKARA)",
+  "summary": "Ve 2 arkadaşı, 26.5.1981 Tarih ve 2464 Sayılı Belediye Gelirleri Kanununun 19 uncu Maddesine Bir Bent Eklenmesine ve 20. Maddesinin 3. Bendinin Değiştirilmesine Dair (2/101)",
+  "title": "Ve 2 arkadaşı, 26.5.1981 Tarih ve 2464 Sayılı Belediye Gelirleri Kanununun 19 uncu Maddesine Bir Bent Eklenmesine ve 20. Maddesinin 3. Bendinin Değiştirilmesine Dair (2/101)",
+  "first_sitting_date": "1984-10-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 6,
+      "sitting_date": "1984-10-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007006.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007fih.pdf",
+      "pages": [
+        "113"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 7,
+      "sitting_date": "1984-10-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007007.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007fih.pdf",
+      "pages": [
+        "160:162"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "6310cd91be4dc11cad5e1f3c3f80d3f26cb7e2368723a70ab53034bec8360363",
+  "in_force": "1984-10-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
