@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6601-669/11505",
+  "source_id": 36552,
+  "date": "2004-03-18",
+  "title": "İşyeri ve diğer şekillerde kullanılan binaların çevre temizlik vergisinin  tahsil edildiğini, 2003 yılı ve daha önceki yıllara ait tahakkuk eden ancak tahsil edilemeyen ve geçmiş yıllarda hiç bildirimde bulunmayan mükelleflerin 2004 yılında bildirimde bul",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/36552",
+  "source_sha256": "d996bb9c061c8361c068e2d0e459fea0df29f5c19392d215a2bfb5ef3a7f2f33",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
