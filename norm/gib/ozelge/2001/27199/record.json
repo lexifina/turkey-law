@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3243-922/18491",
+  "source_id": 27199,
+  "date": "2001-04-05",
+  "title": "4 sıra nolu Vergi beyannamelerinin SM ve SMMM imzalanıp imzalanamayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/27199",
+  "source_sha256": "db7c86498508aa232a2243e9c1c1b2faceacd2a26fb265332991e94da605a4e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
