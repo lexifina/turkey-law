@@ -1,0 +1,20 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB sirkulerTarih: 2003-08-12T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "circular",
+  "official_date": "2003-08-12",
+  "official_number": "VUK-1/2003-1/ Tahsilat ve ödemelerde tevsik uygulaması 1",
+  "official_number_basis": "Official GIB sirkulerNo field",
+  "personal_data_screen": "General circular/internal circular; generic identity-information requirements do not decide a private person. No literal 11-digit identifier or named-private-person marker found.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/840",
+  "source_id": "sirkuler:840",
+  "source_row_sha256": "ea5f927fd2871003ffc565e7ac3e0a829160999400877546b4d0dee1b792b580",
+  "title": "Tahsilat ve ödemelerin tevsik zorunluluğu uygulaması, ciro ve beyaz cirolu çeklerin kullanımı",
+  "version_label": "as-enacted",
+  "word_count": 378
+}
