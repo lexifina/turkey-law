@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 116082,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Devlet Demiryolları ve Limanları Umumî İdaresinin teşkilât ve veza-ifine dair Kanunun 37. maddesine bir fıkra ilâvesi hakkında 1/1 numaralı kanun lâyihasına dair",
+  "title": "Devlet Demiryolları ve Limanları Umumî İdaresinin teşkilât ve veza-ifine dair Kanunun 37. maddesine bir fıkra ilâvesi hakkında 1/1 numaralı kanun lâyihasına dair",
+  "first_sitting_date": "1931-05-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 3,
+      "sitting_date": "1931-05-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001003.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001fih.pdf",
+      "pages": [
+        "34"
+      ]
+    },
+    {
+      "cilt": 1,
+      "sitting": 4,
+      "sitting_date": "1931-05-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001004.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001fih.pdf",
+      "pages": [
+        "53"
+      ]
+    },
+    {
+      "cilt": 1,
+      "sitting": 6,
+      "sitting_date": "1931-05-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001006.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001fih.pdf",
+      "pages": [
+        "73"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=1701&v_kullanici_id=27483870",
+  "source_sha256": "01997e24795ab456f9fdfbda37808849b28b14c94cb20f5aab4907933b5b1e80",
+  "in_force": "1931-05-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
