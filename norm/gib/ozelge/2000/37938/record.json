@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.29/2924-232-2378/41352",
+  "source_id": 37938,
+  "date": "2000-09-06",
+  "title": "Yeni unvan adı altında izin yazısında belirtilen miktardan daha fazla  belge bastıran mükellef ve basımı yapan matbaa hakkında işlem yapılıp yapılmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37938",
+  "source_sha256": "592f91963535459cd1f16cc8fd75af8efbfcafc56740bdf2bc674866c66fed79",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
