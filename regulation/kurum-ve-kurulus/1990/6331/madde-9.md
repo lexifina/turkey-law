@@ -1,0 +1,3 @@
+Sınav Ön Hazırlık Kurulu ve Sınava Giriş Belgesi
+Madde 9- Uzman Yardımcılığı sınavı ön çalışmaları, Sınav Kurulunun kendi arasından seçeceği 3 kişiden oluşan bir “Sınav Ön Hazırlık Kurulu”nca yürütülür.
+Sınav Ön Hazırlık Kurulu, sınav için süresinde yapılan başvuruları incelemeye alır. Bu incelemede adayların, atanacakları kadronun niteliklerini taşıyıp taşımadığı başvuru formu da dahil çeşitli yönlerden araştırılarak sınava alınacakların sayısı tespit olunur. Durumu uygun görülen adaylara sınava giriş mektubu gönderilir. Ayrıca, adaylara fotoğraflı “Sınav Giriş Belgesi” verilir; sınava giriş mektubu ile sınav giriş belgesi olmayan adaylar sınava katılamazlar.

@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Uzmanlık Sınavı
+Uzmanlık Yeterlik Sınavına Girebilme Şartları
+Madde 22- Uzman yardımcılığı süresi, adaylık dönemi dahil lisans düzeyinde öğrenimi olanlar için iki, yüksek lisans derecesine sahip olanlar için bir yıldır. Uzman yardımcısı, bu süre içerisinde olumlu sicil almak ve hazırladığı tezi süresi içinde Personel ve Muhasebe Dairesi Başkanlığına teslim etmek şartıyla TBMM Uzmanlığı Yeterlik Sınavına girmeye hak kazanır.
+Uzman yardımcısı, lisans düzeyinde öğrenim görmüş ise adaylıkta geçen süre dahil iki yılı; yüksek lisans derecesine sahip olanlar ise bir yılı tamamladıktan sonra (bu süreye, ücretsiz izinli ve askerlikte geçen süre dahil değildir) olumlu sicil almak şartıyla, görev alanıyla ilgili birim amirinin onayladığı bir tez konusu seçer. İlgili birim amiri, uzman yardımcısının tez konusunu yazılı olarak Personel ve Muhasebe Dairesi Başkanlığına bildirir. Daire Başkanlığınca tez konuları Genel Sekreterin onayına sunulur ve onaydan sonra kesinleşir.
+Uzman yardımcısı tez konusunun kendisine bildirildiği tarihten itibaren en geç altı ay içinde tezini hazırlayarak ilgili birim vasıtasıyla Personel ve Muhasebe Dairesi Başkanlığına sunmak zorundadır. Daire Başkanlığı bu tezleri Sınav Kuruluna teslim eder.
+Uzman yardımcısının hazırlayacağı tezde, bilimsel kurallara uymak, ele aldığı konuyu tarihi gelişimi içinde ve karşılaştırmalı olarak incelemek zorunda olup, tezin kendi görüş ve önerilerini taşıması esastır.

@@ -1,0 +1,3 @@
+Sınav Değerlendirilmesi ve Sonuçları
+Madde 18- Sözlü sınavların bitiminden sonra,Sınav Kurulu ve yazılı ve sözlü sınav notunun aritmetik ortalamasını almak suretiyle bir sıralama yapar. Bu sıralamada, puanların eşit olması halinde görev alanına ilişkin bilgiler puanına öncelik verilir. Duyuruda yer alan boş kadro sayısı kadar asıl aday, başarılı olan diğerleri de yedek olarak sınavı kazanmış sayılır. Hazırlanan bu liste kurul üyeleri tarafından imzalanır.
+Sınav sonucu, TBMM Başkanının seçici değerlendirmesinden (Sound decision) sonra kesinlik kazanır ve asıl ve yedek adaylara yazılı olarak bildirilir. Ayrıca, başarı listesi TBMM Kampüsü içinde uygun bir mahalde asılarak duyurulur.

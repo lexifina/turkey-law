@@ -1,0 +1,3 @@
+Kapsam
+Madde 2- Bu Yönetmelik, yasama faaliyetleriyle ilgili idari hizmetleri yürüten TBMM İdari Teşkilatının çeşitli birimlerinde uzmanlığa dayalı hizmet üreten kadrolu ya da sözleşmeli uzman yardımcıları ile uzmanları kapsar.
+Türkiye Büyük Millet Meclisinin yasama faaliyetleriyle ilgili özel bilgi ve ihtisas gerektiren konularda, kadro aranmaksızın ve kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı olmaksızın sözleşmeli olarak çalıştırılan personel ile 2919 sayılı Kanunun değişik 12 nci maddesine göre kamu kurum ve kuruluşlarından TBMM’de görevlendirilen personel hakkında bu Yönetmelik hükümleri uygulanmaz.

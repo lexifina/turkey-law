@@ -1,0 +1,3 @@
+Sözlü Sınav
+Madde 17- Yazılı sınavı kazananlar, sınavın yapılacağı yer, gün ve saat, en az 15 gün önce bildirilmek suretiyle sözlü sınava çağrılırlar.
+Sözlü sınavda adayların görevlendirecekleri kadronun hizmet alanıyla ilgili bilgilerle birlikte, TBMM idari hizmetlerinin gerektirdiği niteliklere sahip olup olmadığı ile kavrayış, anlatma yeteneği, davranış ve temsil niteliği gibi hususlar da dikkate alınır. Sözlü sınavda değerlendirme, Sınav Kurulunun her üyesince ayrı ayrı yapılır ve verilen notların aritmetik ortalaması alınır. Değerlendirme sonunda 100 üzerinden 70 puan alan başarılı sayılır.

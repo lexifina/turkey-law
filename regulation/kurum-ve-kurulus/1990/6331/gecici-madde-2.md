@@ -1,0 +1,1 @@
+Geçici Madde 2- (Değişik: RG-19/11/1994-22116) 1/1/1992 tarihinden önce sınavı yapılarak atanan ve Dış İlişkiler ve Protokol Müdürlüğü emrinde göreve başlayan Uzman Yardımcıları hakkında da bu Yönetmelik hükümleri uygulanır.
