@@ -1,0 +1,1 @@
+MADDE 13 — 13.12.1983 tarihli ve 181 sayılı Sağlık Bakanlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 22 nci maddesinde yer alan "on (10)" ibaresi "otuz (30)" olarak değiştirilmiştir.

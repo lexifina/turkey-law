@@ -1,0 +1,8 @@
+ELEMAN TEMİNİNDE GÜÇLÜK ÇEKİLEN YERLERDE
+SÖZLEŞMELİ SAĞLIK PERSONELİ ÇALIŞTIRILMASI İLE
+BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE
+DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
+Kanun Numarası : 4924
+Kabul Tarihi : 10/7/2003
+Yayımlandığı R. Gazete : Tarih : 24/7/2003 Sayı : 25178
+Yayımlandığı Düstur : Tertip : 5 Cilt : 42
