@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3014-344-555/29802",
+  "source_id": 27189,
+  "date": "1997-07-16",
+  "title": "Serbest meslek kazanç defteri tasdik ettirmesi gereken mükellefin, işletme hesabı esasına göre defter tasdik ettirmiş olmasının 344/1. madde uyarınca kaçakçılık suçu olarak mütalaa edilmesinin mümkün olmadığı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27189",
+  "source_sha256": "5fe3c714742cfc82e124f7c7049504ff75ac06d2a0f2356bd244aaa3f56564c0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
