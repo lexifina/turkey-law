@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4700",
+  "year": 1945,
+  "title": "Muamele vergisi hakkındaki 3843 sayılı kanunun onuncu maddesinin 5. fıkrasının değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-01-24",
+  "gazette_issue": "5913",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5913.pdf",
+  "source_sha256": "c5031765bdc3fc1272b609ee9dfce5097af58a65bd6e04030bc170d90f263153",
+  "text_sha256": "bb3265e09be2a7971b4fac29229bf27f79e48054927adbc90ccc791ac1a1bb79",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      414,
+      444
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704700.pdf",
+    "source_sha256": "aa7d959677ec2b94493e0014999596551e795599a985e9bc3be2c2d724077cfd",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9482,
+    "bag": 0.9013,
+    "kd_coverage": 0.9855,
+    "kd_body_compared": 0.9762,
+    "rg_words": 190,
+    "kd_words": 210,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
