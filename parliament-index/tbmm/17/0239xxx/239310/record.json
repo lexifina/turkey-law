@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 239310,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "KANUN HÜKMÜNDE KARARNAMELER",
+  "heading_as_published": "Kanun Hükmünde Kararnameler",
+  "summary": "23.1.1953 Tarihli ve 6023 Sayılı Türk Tabipleri Birliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Madde Eklenmesi Hakkında Kanun Hükmünde Kararname ile 23.1.1953 Tarihli ve 6023 Sayılı Türk Tabipleri Biriliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Madde eklenmesi Hakkında 24.5.1983 Tarihli ve 65 Sayılı Kanun Hükmünde Kararnamenin bazı Hükümleri ile 6023 Sayılı Kanunun Bazı Hükümlerinin Değiştirilmesine Dair Kanun Hükmünde Kararname (1/30, 1/33, 3/461)",
+  "title": "23.1.1953 Tarihli ve 6023 Sayılı Türk Tabipleri Birliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Madde Eklenmesi Hakkında Kanun Hükmünde Kararname ile 23.1.1953 Tarihli ve 6023 Sayılı Türk Tabipleri Biriliği Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Üç Madde eklenmesi Hakkında 24.5.1983 Tarihli ve 65 Sayılı Kanun Hükmünde Kararnamenin bazı Hükümleri ile 6023 Sayılı Kanunun Bazı Hükümlerinin Değiştirilmesine Dair Kanun Hükmünde Kararname (1/30, 1/33, 3/461)",
+  "first_sitting_date": "1984-05-31",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 73,
+      "sitting_date": "1984-05-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+      "pages": [
+        "160:173"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 74,
+      "sitting_date": "1984-06-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+      "pages": [
+        "194:199"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 80,
+      "sitting_date": "1984-06-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+      "pages": [
+        "383:384"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20H%DCKM%DCNDE%20KARARNAMELER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20H%DCKM%DCNDE%20KARARNAMELER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8cb5d06173e7cb36abc809e1e25c68655d81a437a29a2141d37f13ea85e7b309",
+  "in_force": "1984-05-31",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
