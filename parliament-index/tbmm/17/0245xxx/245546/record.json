@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 245546,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "CUMHURBAŞKANINCA GERİ GÖNDERİLEN KANUNLAR",
+  "heading_as_published": "Cumhurbaşkanınca Geri Gönderilen Kanunlar",
+  "summary": "8.6.1949 Tarihli ve 5434 sayılı TC Emekli Sandığı Kanununun Bazı Maddelerinin Değiştirilmesi, Aynı Kanuna 9 Ek Madde ile 16 Geçici Madde Eklenmesi ve 2.3.1970 Tarihli ve 1239 sayılı Kanun ile 8.7.1971 Tarihli ve 1425 sayılı Kanunların Bazı Maddelerinin Değiştirilmesi Hakkında 25.12.1985 Tarih ve 3247 sayılı Kanun (1/734, 3/941)",
+  "title": "8.6.1949 Tarihli ve 5434 sayılı TC Emekli Sandığı Kanununun Bazı Maddelerinin Değiştirilmesi, Aynı Kanuna 9 Ek Madde ile 16 Geçici Madde Eklenmesi ve 2.3.1970 Tarihli ve 1239 sayılı Kanun ile 8.7.1971 Tarihli ve 1425 sayılı Kanunların Bazı Maddelerinin Değiştirilmesi Hakkında 25.12.1985 Tarih ve 3247 sayılı Kanun (1/734, 3/941)",
+  "first_sitting_date": "1986-01-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 24,
+      "sitting": 58,
+      "sitting_date": "1986-01-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c024/tbmm17024058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c024/tbmm17024fih.pdf",
+      "pages": [
+        "289:291"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 102,
+      "sitting_date": "1986-05-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028102.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028fih.pdf",
+      "pages": [
+        "427:450"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4b5eabaa3411d16154673c5a66ec28d3e39a2e5f814ee242e19bc068519a5793",
+  "in_force": "1986-01-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
