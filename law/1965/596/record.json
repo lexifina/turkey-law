@@ -1,0 +1,180 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "596",
+  "year": 1965,
+  "title": "Baraj inşaaatı dolayısıyla sular altında kalacak kasaba, köy ve arazi hakkındaki Kanunun yürürlükten kaldırılmasına dair Kanun",
+  "adopted": "1965-04-29",
+  "adopted_as_published": "29/04/1965",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.05.1965 No: 11996",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800596.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 48",
+  "committee_reports": [
+    {
+      "label": "MM 293 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034041ss0293.pdf"
+    },
+    {
+      "label": "CS 602no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026070ss0602.pdf"
+    },
+    {
+      "label": "CS 602ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026074ss0602ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 352450,
+      "title": "Baraj inşaaatı dolayısıyla sular altında kalacak kasaba, köy ve arazi hakkındaki Kanunun yürürlükten kaldırılmasına dair Kanun",
+      "adopted_as_published": "29/04/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800596.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 293 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034041ss0293.pdf"
+        },
+        {
+          "label": "CS 602no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026070ss0602.pdf"
+        },
+        {
+          "label": "CS 602ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026074ss0602ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 12,
+          "sitting": 50,
+          "sitting_date": "1963-02-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012fih.pdf",
+          "pages": [
+            "589"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 106,
+          "sitting_date": "1963-07-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019106.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+          "pages": [
+            "66"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 34,
+          "sitting_date": "1965-01-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+          "pages": [
+            "492"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 41,
+          "sitting_date": "1965-01-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+          "pages": [
+            "885"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1901&v_kullanici_id=27483225",
+      "page_sha256": "1ff88ba6c18c5fce579792a711d144220daa306b6608e6584791338bfe529590"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 177230,
+      "title": "Baraj inşaatı dolayısiyle sular altında kalacak kasaba, köy ve arazi hakkındaki Kanunun yürürlükten kaldırılmasına dair Kanun",
+      "adopted_as_published": "29/04/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800596.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 293 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034041ss0293.pdf"
+        },
+        {
+          "label": "CS 602no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026070ss0602.pdf"
+        },
+        {
+          "label": "CS 602ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026074ss0602ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 26,
+          "sitting": 69,
+          "sitting_date": "1965-04-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026069.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+          "pages": [
+            "699"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 70,
+          "sitting_date": "1965-04-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+          "pages": [
+            "731"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 71,
+          "sitting_date": "1965-04-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+          "pages": [
+            "765:768"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 74,
+          "sitting_date": "1965-04-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026074.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+          "pages": [
+            "855:864"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=501&v_kullanici_id=27483235",
+      "page_sha256": "90e575b0d681a9aaaed8fe9da175069303e902e0ae9d6b5e4ea68e0ee49b37f8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1ff88ba6c18c5fce579792a711d144220daa306b6608e6584791338bfe529590",
+  "issuer": "Millet Meclisi",
+  "in_force": "1965-04-29",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 29/04/1965; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
