@@ -1,0 +1,3 @@
+Danışma Kurulu
+Madde 11- Danışma Kurulu;Merkez Yönetim Kurulunun önerisi ile bilimsel ve teknolojik araştırma ve uygulamalarla doğrudan ilgisi olan ve sahip olduğu,birikim ve tecrübelerinden yararlanılabilecek üniversite içi ve üniversite dışı kişilerden oluşmak üzere,Rektör tarafından 3 yıl için onaylanan en az 10,en çok 15 kişiden oluşur.Bu Kurula Müdür,Müdür Yardımcıları ve Yönetim kurulu üyeleri de katılırlar.Ayrıca,gerek görülmesi halinde Müdürün önerisi ve Rektör’ün onayı ile,görüş ve düşüncelerine başvurulmak üzere en çok 5 kişi daha davet edilebilir.
+Danışma Kurulu,Rektör ya da görevlendireceği bir Rektör Yardımcısının Başkanlığında yılda en az 2 kez toplanır.

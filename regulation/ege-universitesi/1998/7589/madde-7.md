@@ -1,0 +1,2 @@
+Müdür Yardımcıları
+Madde 7 –Müdürün önerisi ile Rektör tarafından iki Müdür Yardımcısı atanır.Bunlardan biri araştırma-geliştirme faaliyetlerinin yürütülmesi ve organizasyonunda Müdüre yardımcı olmak üzere,tercihan tohumculuk konusunda araştırma ve yayınları ile kendini kanıtlamış öğretim üyeleri arasından,diğeri de idari işlerde Müdüre yardımcı olacak ve tercihan Üniversite mevzuatını iyi bilen ve Türk tohumculuğunu iyi tanıyan öğretim elemanları arasından belirlenir.

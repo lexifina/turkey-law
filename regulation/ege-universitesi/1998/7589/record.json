@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 19 –Bu Yönetmelik, yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1998-10-28",
+      "28.10.1998",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 19 –Bu Yönetmelik, yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "23507",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1998-10-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ege Üniversitesi",
+  "issuer_slug": "ege-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ege-universitesi/1998/7589",
+  "published": "1998-10-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7589&MevzuatTertip=5",
+  "source_bytes": 41019,
+  "source_id": "8.5.7589",
+  "source_sha256": "70867806b1f9fcc1b0b1782d1c942512b32c39a10105a57d889c1b1f9809d72e",
+  "text_status": "as-enacted",
+  "title": "EGE ÜNİVERSİTESİ TOHUM TEKNOLOJİSİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 191,
+  "word_count": 1356
+}
