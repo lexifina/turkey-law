@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "118",
+  "decision_date": "2003-03-21",
+  "title": "Başkent Elektrik Dağıtım A. Ş. tarafından uygulanacak perakende satış tarifesi hakkında",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=52u8ERelx5Y=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=52u8ERelx5Y=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hrEo/593HPo=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=AqkKfIAJTm8="
+  ],
+  "source_sha256": "eed5669acac7ab1d9b7868e133435c1b1501504ca460f69bd5287160e06bd7c2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-03-21",
+  "law_text_complete": false
+}
