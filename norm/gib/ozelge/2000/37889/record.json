@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4401-258/24918",
+  "source_id": 37889,
+  "date": "2000-05-26",
+  "title": "Hamam, sıhhi banyo ve sauna gibi işletmelerde işverenden ücret almadan sadece bahşişle çalışan personelin 01.01.1999 tarihinden önce götürü ücretli, 01.01.1999 tarihinden itibaren ise 4369 sayılı Kanun uyarınca diğer ücretli olarak vergilendirilmesi gerek",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37889",
+  "source_sha256": "cdc19f29bbdae33304236ce0a2975a946053a384d854bb47640d5c4f51f22a67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
