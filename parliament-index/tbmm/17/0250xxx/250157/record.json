@@ -1,0 +1,113 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 250157,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Sağlık Hizmetleri Temel Kanunu Tasarısına ilişkin",
+  "title": "Sağlık Hizmetleri Temel Kanunu Tasarısına ilişkin",
+  "first_sitting_date": "1987-04-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 39,
+      "sitting": 88,
+      "sitting_date": "1987-04-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c039/tbmm17039088.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c039/tbmm17039fih.pdf",
+      "pages": [
+        "119"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 90,
+      "sitting_date": "1987-04-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c039/tbmm17039090.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c039/tbmm17039fih.pdf",
+      "pages": [
+        "232:233"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 91,
+      "sitting_date": "1987-04-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c039/tbmm17039091.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c039/tbmm17039fih.pdf",
+      "pages": [
+        "287"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 93,
+      "sitting_date": "1987-04-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c039/tbmm17039093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c039/tbmm17039fih.pdf",
+      "pages": [
+        "361:399"
+      ]
+    },
+    {
+      "cilt": 40,
+      "sitting": 97,
+      "sitting_date": "1987-04-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040097.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040fih.pdf",
+      "pages": [
+        "7:40"
+      ]
+    },
+    {
+      "cilt": 40,
+      "sitting": 99,
+      "sitting_date": "1987-05-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040fih.pdf",
+      "pages": [
+        "114:140"
+      ]
+    },
+    {
+      "cilt": 40,
+      "sitting": 100,
+      "sitting_date": "1987-05-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040100.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040fih.pdf",
+      "pages": [
+        "152:171"
+      ]
+    },
+    {
+      "cilt": 40,
+      "sitting": 100,
+      "sitting_date": "1987-05-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040100.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040fih.pdf",
+      "pages": [
+        "181",
+        "197:200"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1074&v_gelecek_sayfa=901&v_kullanici_id=27484336",
+  "source_sha256": "4f2de3d875872545569f8a982e60262587fb0d829481871a967c1809eb2c3d13",
+  "in_force": "1987-04-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
