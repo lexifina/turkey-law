@@ -1,0 +1,1 @@
+Madde 12 – Sağlık sebepleri dışındaki nakil isteklerinin her yılın Şubat ayı içerisinde yapılması şarttır. İlgili makamca bu istekler incelenir ve uygun görülenlerin nakil işlemleri, Haziran ayı sonuna kadar sonuçlandırılır.

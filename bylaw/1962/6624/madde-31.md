@@ -1,0 +1,1 @@
+Madde 31 – 21/10/1960 tarihli ve 107 sayılı kanunun 5/1/1961 tarihli ve 219 sayılı kanunla değiştirilen beşinci maddesine dayanılarak düzenlenen ve Danıştayca incelenmiş olan bu Tüzük hükümleri, Resmi Gazete ile yayımı tarihinde yürürlüğe girer.

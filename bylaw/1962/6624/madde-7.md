@@ -1,0 +1,1 @@
+Madde 7 – Bir terfi süresi içinde verilen tezkiye kağıtları ile denetleme raporları birbirine uygun olarak müsbet veya menfi bulunduğu halde, yeterliğin takdiri hususunda aksi bir karara varılırsa, kararın açık ve kesin gerekçeye dayanması şarttır.
