@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4115",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İHRACATTA KOTA VE TARİFE KONTENJANI BELİRLENMESİ VE İDARESİNE İLİŞKİN YÖNETMELİK",
+  "number": "4115",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1996/4115",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4115&MevzuatTertip=5",
+  "source_sha256": "25ae8cc9e8c560baed6b804f936961e453f6842e8bc74e5484890bda8cd3825a",
+  "source_bytes": 37918,
+  "published": "1996-10-18",
+  "gazette": "22791",
+  "in_force": "1996-10-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.10.1996); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1658,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
