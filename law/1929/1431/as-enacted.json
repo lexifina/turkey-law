@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1431",
+  "year": 1929,
+  "title": "Ankara şehri imar müdüriyeti teşkilât ve vezaifine dair olan 1351 numara ve 28 Mayıs 1928 tarihli kanuna müzeyyel kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-05-02",
+  "gazette_issue": "1182",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1182.pdf",
+  "source_sha256": "babc5480d1fe46a53d6a2b378fb605f32a62182992d6366525d40648c5f664e3",
+  "text_sha256": "d1737d423eb8c2934c8275c7b1ff3fdcd063455417205147d1b74718b3a7dea6",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      46,
+      57
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701431.pdf",
+    "source_sha256": "7d1f54a2cede87fd7bce16b8159f4432cb7778355180cac1dedefc48f3b76a8e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9247,
+    "bag": 0.8438,
+    "kd_coverage": 0.9531,
+    "kd_body_compared": 0.8841,
+    "rg_words": 67,
+    "kd_words": 69,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
