@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5029-134/18919",
+  "source_id": 21567,
+  "date": "1998-05-21",
+  "title": "Limited Şirketin, A.Ş.'den kiralamış olduğu bürolar için anılan kuruma yapılan ödemelerden vergi tevkifatı yapılıp yapılmayacağı ve bu kiralama faaliyetinin katma değer vergisine tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/21567",
+  "source_sha256": "eb53b8805255201c3eca3f784bf6a749a1554880e419050358f4b994e3cbd790",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
