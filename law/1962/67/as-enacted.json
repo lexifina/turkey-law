@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "67",
+  "year": 1962,
+  "title": "Ankara Şap Enstitüsü ve müştemilatı inşası için gelecek yıllara sari taahhütlere girişilmesi hakkında kanun.",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-07-13",
+  "gazette_issue": "11153",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11153.pdf",
+  "source_sha256": "983ffb38e840ff4e5a0a9d31f9bbd1d200aba1db4813cb4768bb20c4147ef0b1",
+  "text_sha256": "b4807e36f3e8057c1cf3268c2eee8b881c116e54636a94ddeb62a64ecd60cc65",
+  "text_status": "ocr",
+  "pages": [
+    7
+  ],
+  "line_span": [
+    [
+      1187,
+      1201
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500067.pdf",
+    "source_sha256": "e051d9557ff9b93e5f0d40439b0884835b7df307f4e02efdd65a5ec66c701a3d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9816,
+    "bag": 0.9421,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9677,
+    "rg_words": 61,
+    "kd_words": 62,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
