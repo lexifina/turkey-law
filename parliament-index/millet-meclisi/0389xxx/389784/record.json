@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 389784,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "1412 sayılı Ceza Muhakemeleri Usulü Kanununun bâzı maddelerinin değiştirilmesine ve bu kanuna bâzı maddeler eklenmesine dair kanun tasarısı (1/616)",
+  "title": "1412 sayılı Ceza Muhakemeleri Usulü Kanununun bâzı maddelerinin değiştirilmesine ve bu kanuna bâzı maddeler eklenmesine dair kanun tasarısı (1/616)",
+  "first_sitting_date": "1972-02-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 46,
+      "sitting_date": "1972-02-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c021/mm__03021046.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c021/mm__03021fih.pdf",
+      "pages": [
+        "605"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 89,
+      "sitting_date": "1972-05-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024fih.pdf",
+      "pages": [
+        "658"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 134,
+      "sitting_date": "1972-09-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026134.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026fih.pdf",
+      "pages": [
+        "921"
+      ]
+    },
+    {
+      "cilt": 27,
+      "sitting": 140,
+      "sitting_date": "1972-10-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027140.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027fih.pdf",
+      "pages": [
+        "152",
+        "183",
+        "336"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2501&v_kullanici_id=27484850",
+  "source_sha256": "592968d76d23b1c1f59fa2ea43a92ad79697c53390fd19c8a43c12266fe9b8ae",
+  "in_force": "1972-02-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
