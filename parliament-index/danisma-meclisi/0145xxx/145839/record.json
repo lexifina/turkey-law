@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 145839,
+  "assembly": "Danışma Meclisi",
+  "heading": "TEKLİFLER VE RAPORLAR",
+  "heading_as_published": "Teklifler Ve Raporlar",
+  "summary": "Jandarma Genel Komutanı ve Millî Güvenlik Konseyi Üyesi Orgeneral Sedat Celasun'un «6136 Sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun ile Türk Ceza Kanununun 264. Madde sinde Yer Alan Ateşli Silahlar, Patlayıcı Maddeler, Bıçaklar ve Benzeri Aletlerin Teslimi Hakkında 2305 Sayılı Kanuna Üç Ek Madde Eklenmesine Dair Kanun Teklifi ve Adalet Komisyonu Raporu (2/7) (Raporun Başkanlığa geliş tarihi:23.12.1981) (S. Sayısı:46) (Dağıtma tarihi:25.12.1981)",
+  "title": "Jandarma Genel Komutanı ve Millî Güvenlik Konseyi Üyesi Orgeneral Sedat Celasun'un «6136 Sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun ile Türk Ceza Kanununun 264. Madde sinde Yer Alan Ateşli Silahlar, Patlayıcı Maddeler, Bıçaklar ve Benzeri Aletlerin Teslimi Hakkında 2305 Sayılı Kanuna Üç Ek Madde Eklenmesine Dair Kanun Teklifi ve Adalet Komisyonu Raporu (2/7) (Raporun Başkanlığa geliş tarihi:23.12.1981) (S. Sayısı:46) (Dağıtma tarihi:25.12.1981)",
+  "first_sitting_date": "1981-12-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 24,
+      "sitting_date": "1981-12-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c001/dm__02001024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c001/dm__02001fih.pdf",
+      "pages": [
+        "524"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 1,
+      "sitting": 26,
+      "sitting_date": "1982-01-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c001/dm__02001026.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c001/dm__02001fih.pdf",
+      "pages": [
+        "574:578"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 1,
+      "sitting": 27,
+      "sitting_date": "1982-01-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c001/dm__02001027.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c001/dm__02001fih.pdf",
+      "pages": [
+        "584"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 1,
+      "sitting": 28,
+      "sitting_date": "1982-01-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c001/dm__02001028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c001/dm__02001fih.pdf",
+      "pages": [
+        "606:617"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d250816c6fab6e968bc571a56162f3db305079b05c6fb1cf8cb562eb85e45291",
+  "in_force": "1981-12-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
