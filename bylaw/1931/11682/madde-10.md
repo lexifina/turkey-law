@@ -1,0 +1,1 @@
+Madde 10 – Dairei resmiyede yapılan evlenme muayeneleri ayrı bir odada ve mahrem olarak yapılır. Kadınların muayenesi esnasında bunların etrafı ailesinden biri hazır bulunabilir. Tabipler bu muayeneler netayicini mahrem tutmağa mecburdurlar.

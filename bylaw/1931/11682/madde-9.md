@@ -1,0 +1,1 @@
+Madde 9 – Evlenme muayeneleri müstacel işlerden maduttur. Gerek namzedi ve gerek muayenesinde teşhisi kati vaz'ı için gönderilen mevaddı muayene eden resmi tabipler bu muayeneleri tercihan ve derhal icra edeceklerdir.

@@ -1,0 +1,1 @@
+Madde 13 – Bu Nizamnamenin memnuiyet ve mecburiyetlerine muhalif harekette bulunan resmi ve hususi tabipler Umumi Hıfzıssıhha Kanununun 282 nci maddesi hükümlerine göre cezalandırılırlar. Eğer bu hareketler Türk Ceza Kanunu itibarile daha ağır cezayı müstelzim iseler Türk Ceza Kanunu hükümleri tatbik olunur.

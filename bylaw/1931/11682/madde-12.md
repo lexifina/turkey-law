@@ -1,0 +1,1 @@
+Madde 12 – Hususi tabipler tarafından evlenme muayeneleri de bu Nizamname hükümlerine tevfikan yapılır. Hususi tabipler tarafından da evlenme namzedinin hüviyeti tahkik ve kendisi muayene edilmeden sıhhat raporu verilmesi memnudur.

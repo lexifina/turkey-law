@@ -1,0 +1,1 @@
+Madde 1 – Devletin bilcümle resmi sıhhat dairelerinde ve müesseselerinde evlenme muayenesi meccanen yapılır. Resmi tabipler evlenme muayenesi yalnız dairelerde ve müesseselerde meccanen icra ile mükelleftirler.
