@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6517-56/36136",
+  "source_id": 38246,
+  "date": "2003-09-01",
+  "title": "Perakende ticaretin devamı boyunca kullanılma mecburiyeti bulunan ödeme kaydedici cihazlar...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38246",
+  "source_sha256": "a71fd820f300ffbcf0d03134ec4a24e1859ca6b6d78c6d9221ebe7d02036d1f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
