@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayımı tarihinden itibaren yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1995-09-02",
+      "02.09.1995",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik Resmi Gazete’de yayımı tarihinden itibaren yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "22392",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1995-09-02",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Atatürk Üniversitesi",
+  "issuer_slug": "ataturk-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ataturk-universitesi/1995/7526",
+  "published": "1995-09-02",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7526&MevzuatTertip=5",
+  "source_bytes": 17706,
+  "source_id": "8.5.7526",
+  "source_sha256": "86b975eb1795ff7ffcf54c35b92a73f965b04ac6ac425e3205590f871e89b0d0",
+  "text_status": "as-enacted",
+  "title": "ATATÜRK ÜNİVERSİTESİ BİYOTEKNOLOJİ ARAŞTIRMA\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 181,
+  "word_count": 457
+}
