@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2609",
+  "year": 1934,
+  "title": "1366 sayılı kanunda değişiklik yapılmasına dair kanun",
+  "adopted": "1934-12-13",
+  "adopted_as_published": "13/12/1934",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "22.12.1934 No: 2886",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402609.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 14",
+  "committee_reports": [
+    {
+      "label": "TBMM 19 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025013ss0019.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112731,
+      "title": "1366 sayılı kanunda değişiklik yapılmasına dair kanun",
+      "adopted_as_published": "13/12/1934",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402609.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 19 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025013ss0019.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 11,
+          "sitting_date": "1934-12-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025fih.pdf",
+          "pages": [
+            "74"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 13,
+          "sitting_date": "1934-12-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025fih.pdf",
+          "pages": [
+            "94"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 16,
+          "sitting_date": "1934-12-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025016.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025fih.pdf",
+          "pages": [
+            "150",
+            "152",
+            "154:157"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=701&v_kullanici_id=27483155",
+      "page_sha256": "d906407174c06083221eff9cc3dcde59314f73f9624e71cbb0cf021bde937e85"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d906407174c06083221eff9cc3dcde59314f73f9624e71cbb0cf021bde937e85",
+  "issuer": "TBMM",
+  "in_force": "1934-12-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 13/12/1934; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
