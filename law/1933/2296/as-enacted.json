@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2296",
+  "year": 1933,
+  "title": "12 muharrem 1304 tarihli harç tarifesine müzeyyel mehakimi sulhiye vazifesini ifa ile mükellef mehakim ve devairde alınacak harçlar hakkında 12 eylül 1329 tarihli kanunu muvakkate bir madde ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-06-17",
+  "gazette_issue": "2429",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2429.pdf",
+  "source_sha256": "da810aab5b22cc628ccf4019adc0c0762b1fd5799b0888ef6abe0846890fd442",
+  "text_sha256": "13aebbd5d3648b6743894de81e377b7b57188ee1a935b2c3d08cf9dbc20f7e8d",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      248,
+      277
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202296.pdf",
+    "source_sha256": "d255df05f82f8d2689bba1a935e79b9076d94264716566f9e651297b0b3a0223",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9468,
+    "bag": 0.8545,
+    "kd_coverage": 0.9813,
+    "kd_body_compared": 0.9813,
+    "rg_words": 108,
+    "kd_words": 107,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
