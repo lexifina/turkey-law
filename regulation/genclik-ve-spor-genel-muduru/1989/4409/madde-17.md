@@ -1,0 +1,2 @@
+Mükafaatlar
+Madde 17 – İller tarafından düzenlenen müsabakaların ödüllerini iller, Federasyon tarafından düzenlenen müsabakaların ödülleri ise Genel Müdürlük tarafından Ödül Yönetmeliği uyarınca verilir. Ferdi ödüller sporcuların kendisine aittir. Kulüplerin kazandığı ödüller kulüplere, illeri temsil eden takımların kazandığı ödüller illere, Milli Takımların kazandığı ödüller ise Genel Müdürlüğe aittir. Milletlerarası müsabakalarda dereceye giren sporculara Genel Müdürlük Ödül Yönetmeliği uyarınca ödül verilir.

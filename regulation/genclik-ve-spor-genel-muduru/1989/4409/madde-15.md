@@ -1,0 +1,2 @@
+Sonuçların İlanı
+Madde 15- Resmi müsabakalar sona erince sonuçlar müsabaka baş hakeminin raporuna eklenir. Federasyon tarafından düzenlenen müsabakaların sonuçları Federasyon, il Müdürlükleri tarafından düzenlenen müsabakaların sonuçları İl Müdürlükleri tarafından aynı gün tescil ve ilan olunur. Ayrıca il Müdürlüklerinin Tertipledikleri müsabakaların sonuçları il temsilcilikleri tarafından müsabakaların bitiminden itibaren en geç 15 gün içinde Federasyona gönderilir.

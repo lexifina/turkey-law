@@ -1,0 +1,22 @@
+Tanımlar
+Madde 4- Bu Yönetmelikte adı geçen tanımlardan;
+Bakanlık : Gençlik ve Spor Genel Müdürlüğünün bağlı olduğu Devlet Bakanlığını,
+Genel Müdürlük : Gençlik ve Spor Genel Müdürlüğünü,
+Federasyon : Sualtısporları,Cankurtarma,ve Sukayağı Federasyonu,
+Genel Müdürlük Ceza Kurulu : Gençlik ve Spor Genel Müdürlüğü Ceza Kurulunu,
+Merkez Hakem Kurulu: Sualtısporları,Cankurtarma ,ve Sukayağı Federasyon Hakem Kurulunu,
+İl Hakem Kurulu : Gençlik ve Spor İl Müdürlüğü Hakem Kurulunu,
+CMAS : Milletlerarası Sualtısporları ve Paletli Yüzme Federasyonunu,
+UMSN : Milletlerarası Amatör Sukayağı Federasyonu ,
+FİS : Milletlerarası Amatör Cankurtarma Federasyonu ,
+İl Başkanı : Valiyi ,
+İl Müdürlüğü : Gençlik ve Spor İl Müdürlüğünü ,
+İlçe Başkanı : Kaymakamı ,
+İlçe Müdürlüğü : Gençlik ve Spor İlçe Müdürlüklerini,
+Taşra Teşkilatı : Gençlik ve Spor İl ve İlçe Müdürlüklerini,
+İdare: Gençlik ve Spor Genel Müdürlüğü ve taşra teşkilatını,
+Kulüp : Dernekler Kanununa göre kuruluşunu tamamlamış ve Genel Müdürlükçe tescili yapılmış olan spor kuruluşlarını,
+Sporcu : Sicil ve Lisans Yönetmeliğine göre geçerli lisansı olan sporcuları,
+Federasyon Temsilcisi : Federasyonu müsabakalarına Federasyon Yönetim Kurulunca atanan kişiyi ,
+İl Temsilcisi : Gençlik ve Spor İl Müdürlüklerine Teşkilat tarafından atanmış ve bulunduğu İlin Sualtısporları, Cankurtarma ve Sukayağı faaliyetlerini yürüten kişiyi,
+Tertip Kurulu : İl Müsabakaları için il temsilcisine yardımcı olmak için kurulan Kurulu, ifade eder.

@@ -1,0 +1,3 @@
+Müsabakaların Ertelenmesi ve Müsabaka Yerinin Değiştirilmesi
+Madde 14- Müsabakalara belirlenen yer ve zaman başlanır. Bir müsabaka zorunlu sebepler varsa başka günlere ertelenebilir. Yada müsabaka yeri değiştirilebilir. Bu gibi durumlarda müsabakaların başlama saatinden bin gün önce erteleme ve yer değiştirme kararını Federasyon müsabakalarında Federasyon temsilcisi, il müsabakalarında il temsilcisi verir. Müsabakaların başlama saatinde henüz müsabaka baş hakemi tayin edilememiş ise Federasyon erteleme veya yer değiştirme kararı vermeye yetkilidir.
+Kulüplerin anlaşması ile müsabakaların ertelenmesine veya müsabaka yerinin değiştirilmesine karar verilmez.

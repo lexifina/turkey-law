@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4409",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SUSPORLARI, CANKURTARMA, SUKAYAĞI VE PALETLİ YÜZME MÜSABAKA YÖNETMELİĞİ",
+  "number": "4409",
+  "issuer": "Gençlik ve Spor Genel Müdürü",
+  "issuer_slug": "genclik-ve-spor-genel-muduru",
+  "path": "regulation/genclik-ve-spor-genel-muduru/1989/4409",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4409&MevzuatTertip=5",
+  "source_sha256": "b2317da9b1fb0d4cc9996d556d1392bc8e6b874bf28e89a2d0de1fe13fbd36f0",
+  "source_bytes": 132776,
+  "published": "1989-08-31",
+  "gazette": "20268",
+  "in_force": "1989-08-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.08.1989); own commencement article: \"Bu Yönetmelik yayımı tarihinden yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2016,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
