@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 13 —Bu Yönetmelik, yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2004-07-03",
+      "03.07.2004",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 13 —Bu Yönetmelik, yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "25511",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2004-07-03",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kocaeli Üniversitesi",
+  "issuer_slug": "kocaeli-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kocaeli-universitesi/2004/6986",
+  "published": "2004-07-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6986&MevzuatTertip=5",
+  "source_bytes": 22049,
+  "source_id": "8.5.6986",
+  "source_sha256": "c8dcee893e2935b4f024f082993558834678d8adada9c207aaaa4cc82c331973",
+  "text_status": "as-enacted",
+  "title": "KOCAELİ ÜNİVERSİTESİ KÖK HÜCRE VE GEN TEDAVİLERİ ARAŞTIRMA VE UYGULAMA MERKEZİ (KÖGEM) YÖNETMELİĞİ",
+  "university_id": 209,
+  "word_count": 769
+}

@@ -1,0 +1,3 @@
+Yürütme Kurulu
+Madde 10 —Yürütme Kurulu, Merkezin çalışma alanlarıyla ilgili bölüm, anabilim ve bilim dallarından birer temsilci öğretim elemanın katılmasıyla oluşturulur. Merkezin çalışma alanlarıyla ilgili bölüm, anabilim ve bilim dalları yönetim kurulunca belirlenir. Temsilciler, ilgili bölüm, anabilim ve bilim dalınca merkeze teklif edilir ve Rektör tarafından atanır. Yürütme kurulu üyeleri üç yıllık bir süre için seçilir. Süresi biten üyeler yeniden seçilebilir.
+Yürütme kurulunun çalışma yöntemleri yönetim kurulu tarafından belirlenen ve Rektör tarafından onaylanan yönerge ile düzenlenir.
