@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 314142,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "5441 sayılı Devlet Tiyatrosu Kuruluşu hakkındaki Kanunun bâzı maddelerinin değiştirilmesine bir maddesinin kaldırılmasına ve bu kanuna bâzı maddelerin eklenmesine dair kanun tasarısı hakkında (Millet Meclisi 1/83; Cumhuriyet Senatosu 1/1125) (S. Sayısı, 1452)",
+  "title": "5441 sayılı Devlet Tiyatrosu Kuruluşu hakkındaki Kanunun bâzı maddelerinin değiştirilmesine bir maddesinin kaldırılmasına ve bu kanuna bâzı maddelerin eklenmesine dair kanun tasarısı hakkında (Millet Meclisi 1/83; Cumhuriyet Senatosu 1/1125) (S. Sayısı, 1452)",
+  "first_sitting_date": "1970-06-23",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 59,
+      "sitting": 82,
+      "sitting_date": "1970-06-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c059/cs__09059082.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c059/cs__09059fih.pdf",
+      "pages": [
+        "373",
+        "389"
+      ]
+    },
+    {
+      "cilt": 60,
+      "sitting": 92,
+      "sitting_date": "1970-07-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060092.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060fih.pdf",
+      "pages": [
+        "270:291",
+        "313:314"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=3001&v_kullanici_id=27484903",
+  "source_sha256": "41af239050c5559b2ff396cebfc70e266ec5e1214e71b45fbaec207af1d907ac",
+  "in_force": "1970-06-23",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
