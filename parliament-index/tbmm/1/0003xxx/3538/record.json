@@ -1,0 +1,81 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 3538,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Antalya Belediye Reisi Âkif Efendinin arzuhaline dair",
+  "title": "Antalya Belediye Reisi Âkif Efendinin arzuhaline dair",
+  "first_sitting_date": "1922-11-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 24,
+      "sitting": 133,
+      "sitting_date": "1922-11-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c024/tbmm01024133.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c024/ehttbmm01024133.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c024/tbmm01024fih.pdf",
+      "pages": [
+        "401:402"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 136,
+      "sitting_date": "1922-11-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c024/tbmm01024136.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c024/ehttbmm01024136.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c024/tbmm01024fih.pdf",
+      "pages": [
+        "463"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 148,
+      "sitting_date": "1922-11-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c025/tbmm01025148.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c025/ehttbmm01025148.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c025/tbmm01025fih.pdf",
+      "pages": [
+        "131"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 154,
+      "sitting_date": "1922-12-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c025/tbmm01025154.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c025/ehttbmm01025154.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c025/tbmm01025fih.pdf",
+      "pages": [
+        "317:326"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 155,
+      "sitting_date": "1922-12-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c025/tbmm01025155.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c025/ehttbmm01025155.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c025/tbmm01025fih.pdf",
+      "pages": [
+        "350",
+        "351",
+        "372:373"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1993&v_gelecek_sayfa=1601&v_kullanici_id=27483712",
+  "source_sha256": "39774b351dd09ffd333dca48a48c77bc66927098bf528657a3acbc754119d5c9",
+  "in_force": "1922-11-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
