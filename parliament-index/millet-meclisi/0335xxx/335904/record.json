@@ -1,0 +1,91 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 335904,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İstanbul Elektrik, Tramvay ve Tünel İdareleri teşkilât ve tesisatının İstanbul Belediyesine devrine dair 3645 sayılı Kanunun 10. maddesinin değiştirilmesi hakkında kanun tasarısına dair (1/144)",
+  "title": "İstanbul Elektrik, Tramvay ve Tünel İdareleri teşkilât ve tesisatının İstanbul Belediyesine devrine dair 3645 sayılı Kanunun 10. maddesinin değiştirilmesi hakkında kanun tasarısına dair (1/144)",
+  "first_sitting_date": "1962-04-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 77,
+      "sitting_date": "1962-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+      "pages": [
+        "563"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 81,
+      "sitting_date": "1962-04-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005081.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+      "pages": [
+        "21"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 84,
+      "sitting_date": "1962-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005084.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+      "pages": [
+        "169:177"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 104,
+      "sitting_date": "1962-06-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006104.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006fih.pdf",
+      "pages": [
+        "11",
+        "98:100",
+        "117"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 118,
+      "sitting_date": "1962-09-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006118.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006fih.pdf",
+      "pages": [
+        "582"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 122,
+      "sitting_date": "1962-09-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007122.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007fih.pdf",
+      "pages": [
+        "119"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=5201&v_kullanici_id=27484836",
+  "source_sha256": "ccb328fdf928b08a956d1841a55e4e2c77ce98d78b4e6f16e64cc66022e77c98",
+  "in_force": "1962-04-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
