@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 18,
+  "term_label": "18. Dönem",
+  "legislative_year": 4,
+  "cilt": 60,
+  "sitting": 117,
+  "label": "117. Birleşim",
+  "sitting_date": "1991-05-15",
+  "date_as_published": "15 Mayıs 1991",
+  "weekday": "Çarşamba",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c060/tbmm18060117.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c060/tbmm18060117gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c060/tbmm18060fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d18&v_yasama_yili=4&v_cilt=",
+  "source_sha256": "4c6816978bfac9542425f850ce2510b619d40450728eabfacc530450fc48cd9e",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
