@@ -1,0 +1,26 @@
+{
+  "number": "18",
+  "number_as_published": "18",
+  "year": 2003,
+  "title": "107 ada,5 parsel numaralı taşınmazdaki imar plan tadilatının yapılması hk.",
+  "decision_date": "2003-09-21",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/12/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/107-ada5-parsel-numarali-tasinmazdaki-imar-plan-tadilatinin-yapilmasi-hk/72/",
+  "source_sha256": "9465184cb972833bde6915594e2ef2744952a7d15d8fa017dacb1ac06184eb34",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2003-09-21",
+  "in_force_basis": "Decision date as printed in the official council listing: 21 Eylül 2003 00:00; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/107-ada5-parsel-numarali-tasinmazdaki-imar-plan-tadilatinin-yapilmasi-hk/72/",
+  "listing_label": "107 ada,5 parsel numaralı taşınmazdaki imar plan tadilatının yapılması hk.",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "Karar Tarihi printed on the item page",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
