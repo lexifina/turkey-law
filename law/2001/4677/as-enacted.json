@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4677",
+  "year": 2001,
+  "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanunda Değişiklik Yapılmasına İlişkin Kanun Hükmünde Kararnamenin Değşitirilerek Kabulüne Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-06-21",
+  "gazette_issue": "24439",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/06/20010621.htm",
+  "source_sha256": "6d47e06dec7f571a0cf5b27d3436a1d00a2ede4f20063cd736e231a1412baa79",
+  "text_sha256": "d58c9ca5ce6fcf2b608472e31d97e829c0ccb3ffe5196b5b88f5de054d8008a6",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/06/21/24439-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/06/20010621.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
