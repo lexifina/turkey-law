@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2248",
+  "year": 1933,
+  "title": "Denizyolları ve A.K.A.Y. işletmeleri ile fabrika ve havuzlar teşkilâtı hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-06-08",
+  "gazette_issue": "2422",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2422.pdf",
+  "source_sha256": "3455e5ca9c7011a644fdfa3ced77656862dc17c3da087d7a7e2284f0cf827006",
+  "text_sha256": "3f1a5e3c2327416fa5e5174d2f2db5a9c374ba6e37d84da85e6d1acef2cf2f14",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      11,
+      347
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202248.pdf",
+    "source_sha256": "b670e8a670e80c0f9c9e279d892ac463a59c043e233cf60abc1330c66f165564",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9792,
+    "bag": 0.9259,
+    "kd_coverage": 0.9994,
+    "kd_body_compared": 0.9982,
+    "rg_words": 1642,
+    "kd_words": 1642,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
