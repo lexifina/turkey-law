@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-",
+  "source_id": 38495,
+  "date": "2004-01-14",
+  "title": "Özel usulsüzlük cezası kesilerek ihbarname tebliğ edildiği, mükellefin bu cezaya itiraz etmesi...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38495",
+  "source_sha256": "4d35b41bf6b76532c31a80af05cb25310b96ef705a021a1d2c37721ac4e3e86e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
