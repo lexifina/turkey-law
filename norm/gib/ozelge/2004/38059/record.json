@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5417-",
+  "source_id": 38059,
+  "date": "2004-04-06",
+  "title": "Firmanızca bankalardan temin edilen kredilerin aynı şartlarla, ihracatına aracılık edilen...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38059",
+  "source_sha256": "e73d807bbb8c0692b1c08e6a86f31fc3e5980be841f35c39e226541ccbb20aa4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
