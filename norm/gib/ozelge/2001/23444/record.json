@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-1308/10092",
+  "source_id": 23444,
+  "date": "2001-02-19",
+  "title": "Kayyımlara yapılacak ücret ödemelerinin gelir vergisi tevkifatına tabi tutulması ve tevkif edilen vergilerinde Kayyımlık Bürosunca bağlı bulunulan vergi dairesine beyan edilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23444",
+  "source_sha256": "e238d0cd364cfdcc0b886c01fb8155f8bbb39a6cabdec299679f8da761303def",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
