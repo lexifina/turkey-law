@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2918-215-43",
+  "source_id": 25465,
+  "date": "1997-06-17",
+  "title": "İhracat teslimleri ve bu teslimlere ilişkin hizmetler ile yurt dışındaki müşteriler için yapılan hizmetler katma değer vergisinden istisna edilmiştir.Yurt dışındaki kişi veya firmalardan belge alan mükellefler, bu belgeleri defter kayıtlarında gider olara",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25465",
+  "source_sha256": "01bcdae88f9ed554016755c1e7070b4f109f71156af984fee73266cd5caa1abe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
