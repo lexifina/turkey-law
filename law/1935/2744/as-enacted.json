@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2744",
+  "year": 1935,
+  "title": "Havayolları Devlet İşletme İdaresi teşkilâtı hakkındaki 2186 sayılı Kanunun bazı maddelerinin değiştirilmesine ve kanuna yeniden bazı maddeler ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-06-05",
+  "gazette_issue": "3020",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3020.pdf",
+  "source_sha256": "5547b69f23b7bdf4b725be1e073bf44463877ea9c53135c62f88f6cd3f10c81b",
+  "text_sha256": "6f9b71bddc84072b1df70b49b5961891204f188feec4adbe4278a4a5b13f80bf",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      782,
+      883
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502744.pdf",
+    "source_sha256": "36464861c21beb21edc2b440f95f41a187282d9bb34a10c2373accfa71ae6776",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9522,
+    "bag": 0.9137,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9949,
+    "rg_words": 363,
+    "kd_words": 392,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
