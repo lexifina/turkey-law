@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5070",
+  "year": 1947,
+  "title": "Memur ve hizmetlilere verilecek olağanüstü zam hakkında 4178 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-06-18",
+  "gazette_issue": "6635",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6635.pdf",
+  "source_sha256": "7357356da8dfd641d398835b0eb62c7eb82406bf0a41d17a61a295e2dfe4f9fe",
+  "text_sha256": "7ea5dccecc2c1b270f01b9b2931a9e867bcff37bee67b1df35001e9c15d5ff39",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      437,
+      453
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905070.pdf",
+    "source_sha256": "2d5b1cd3d2ed9d214fefe5b7d0338618c8414affd52fe01218d3e70ef7b0323f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9161,
+    "bag": 0.7702,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9753,
+    "rg_words": 82,
+    "kd_words": 81,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
