@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 9- Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2001-05-17",
+      "17.05.2001",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 9- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24405",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2001-05-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Anadolu Üniversitesi",
+  "issuer_slug": "anadolu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/anadolu-universitesi/2001/7443",
+  "published": "2001-05-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7443&MevzuatTertip=5",
+  "source_bytes": 17660,
+  "source_id": "8.5.7443",
+  "source_sha256": "2939cf2b28f0d976c38c680163c19cf1b10643feea61a2ab6687735004ff9eda",
+  "text_status": "as-enacted",
+  "title": "ANADOLU ÜNİVERSİTESİ ESKİŞEHİR EKONOMİK VE\r\n SOSYAL ARAŞTIRMALAR MERKEZİ YÖNETMELİĞİ",
+  "university_id": 179,
+  "word_count": 363
+}
