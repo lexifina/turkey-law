@@ -1,0 +1,1 @@
+Madde 3 – İnönü Özendirme Armağanları, beşer bin liralık on, ve üçer bin liralık on beş armağandan ibaret olup bölümleri arasında her hangi bir sıra gözetilmeksizin hak edenler bulundukça hepsine her yıl dağıtılır.
