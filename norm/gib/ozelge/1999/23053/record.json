@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1037/29600",
+  "source_id": 23053,
+  "date": "1999-07-13",
+  "title": "Götürü usule tabi olan mükelleflerden, emtia imalatı ile uğraşanlar,börek, tatlı, muhallebi, işkembe, paça, köfte, ciğer, kokoreç, piyaz, sandviç, şıra, boza, salep, dondurma, turşu vb. nitelikteki emtiayı işletmesinde servis yapmak suretiyle satanlar ile",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23053",
+  "source_sha256": "0f18e6eaf9a0734f772aee6d2842a19cc9c3dedff845ecd516cabbf7dbddbe2a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
