@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.7960",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SERBEST MUHASEBECİLİK, SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU GENEL TEBLİĞİ (SIRA NO: 37)",
+  "number": "7960",
+  "path": "teblig/2005/7960",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=7960&MevzuatTertip=5",
+  "source_sha256": "16ac49a6fb2e2fcb6602060ac34ad244fb34e14d347bd724bb36ea4a83da5595",
+  "source_bytes": 20805,
+  "published": "2005-03-03",
+  "gazette": "25744",
+  "in_force": "2005-03-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.03.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 738,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
