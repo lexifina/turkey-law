@@ -1,0 +1,5 @@
+Devam ve Devamsızlık
+Madde 11 - Derslere devam zorunludur. Bir ders yılı içinde, Esas Meslek Derslerine 8 (sekiz) saatten fazla özürsüz girmeyen öğrenciler, kanaat notları ne olursa olsun o yıl için genel sınav haklarını kaybederler. Ancak, bu süre öğrencinin özürünü belgelendirmesi üzerine Müdürün takdiri ile 5'er ders saati kadar arttırılabilir. Bu sürenin dışındaki özürlerin kabulüne karar verme yetkisi Yönetim Kurulu'na aittir. Bu suretle, herhangi bir sınıfta genel sınav haklarını kaybeden öğrencilerin Konservatuvarla ilişiği kesilir.
+Esas Meslek Derslerinden özürlü ve raporlu devamsızlık süresi bir ders yılı içinde hiçbir şekilde 60 (altmış) ders gününü geçemez. Bu süreyi aşan öğrencilerin 60 (altmış) ders günü doldurdukları tarihten itibaren Konservatuvarla ilişkileri kesilir.
+Ayrıca, İlköğretim Kurumları Yönetmeliğinin ilgili hükümlerine göre genel kültür derslerinden bir üst sınıfa geçemeyen öğrencilerin de Konservatuvarla ilişkileri kesilir.
+Bir gün içinde bir saatten çok programlanmış aynı ismi taşıyan derslerdeki devamsızlık bir ders saati olarak kabul edilir.

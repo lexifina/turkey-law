@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.10201",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "HACETTEPE ÜNİVERSİTESİ DEVLET KONSERVATUVARI MÜZİK VE BALE İLKÖĞRETİM OKULU YÖNETMELİĞİ",
+  "number": "10201",
+  "issuer": "HACETTEPE ÜNİVERSİTESİ",
+  "issuer_slug": "hacettepe-universitesi",
+  "path": "regulation/hacettepe-universitesi/1998/10201",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10201&MevzuatTertip=5",
+  "source_sha256": "70d8025089ca916f9f0b8f4ec59680b272f92f29af09d10ffe10ea8d04246283",
+  "source_bytes": 65381,
+  "published": "1998-10-01",
+  "gazette": "23480",
+  "in_force": "1998-10-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.10.1998); own commencement article: \"Bu Yönetmelik, 1998 – 1999 eğitim – öğretim yılından itibaren uygulanmak üzere yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, 1998 – 1999 eğitim – öğretim yılından itibaren uygulanmak üzere yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2395,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
