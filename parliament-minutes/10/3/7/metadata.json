@@ -1,0 +1,19 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 10,
+  "term_label": "10. Dönem",
+  "legislative_year": 3,
+  "cilt": 8,
+  "sitting": 7,
+  "label": "7. Birleşim",
+  "sitting_date": "1955-11-28",
+  "date_as_published": "28 Kasım 1955",
+  "weekday": "Pazartesi",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c008/tbmm10008007.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c008/tbmm10008fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d10&v_yasama_yili=3&v_cilt=",
+  "source_sha256": "01dc0c41841a8b622a61ac154ddff292f4d83825166c28c41d71d16777df2f4d",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
