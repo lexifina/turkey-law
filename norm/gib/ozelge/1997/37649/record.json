@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5107-22/37144",
+  "source_id": 37649,
+  "date": "1997-09-02",
+  "title": "Siyasi partilerin tüzel kişilikleri itibariyle kurumlar vergisi mükellefi olmadıkları ;ancak bunlara ait veya bağlı lokal işletmesi veya benzeri iktisadi işletmelerin anılan verginin mükellefi olacağı hakkında. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37649",
+  "source_sha256": "74ab1e19faec963a57243f2cee86cc2ba9f8d34dd0925fa01c14576c4bdffe0c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
