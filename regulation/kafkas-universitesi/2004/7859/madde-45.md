@@ -1,0 +1,2 @@
+Meslek Yüksekokullarına İntibak
+Madde 45 — Lisans öğrenimine devam ederken kaydı silinen öğrencilerden meslek yüksekokullarının ilgili programlarına kaydolmak isteyenlerin başvuruları ''Lisans Öğrenimlerini Tamamlayan veya Tamamlayamayanların Ön lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik'' esas alınarak ilgili Meslek Yüksekokulu Yönetim Kurulunca değerlendirilir.

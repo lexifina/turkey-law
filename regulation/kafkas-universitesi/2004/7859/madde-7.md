@@ -1,0 +1,3 @@
+Öğrenci İşleri
+Madde 7 - Kafkas Üniversitesi öğrencilerinin kayıt yenileme, kayıt silme işlemleri ile diğer meslek yüksekokullarından gelenlerin kabulü, intibaklarının yapılması, öğretim ve sınavlara ilişkin işlemler konusunda ilgili Yönetim Kurulları yetkilidir.
+Kafkas Üniversitesini kazanan öğrencilerin kesin kayıtları, kimlik kartlarının tanzimi, dosyalarının tutulması, diplomaların düzenlenmesi işlemleri, askerliklerinin tecili, transkripsiyon (not dökümü) ve öğrenci belgelerinin verilmesi Öğrenci İşleri Daire Başkanlığınca yürütülür. Ancak, işlemlerin daha süratli ve aksamadan yürütülmesi amacıyla rektörün onayı ile bu işlerin tamamı veya bir kısmı müdürlük tarafından da yürütülebilir.

@@ -1,0 +1,3 @@
+Kayıt Dondurma
+Madde 38 — Kayıt dondurmak için yapılacak başvurular öğrencilerin mazeretlerini belgelemeleri halinde yarıyılın/yılın ilk on beş günü içerisinde yapılır. Askerlik, tutukluluk hali, tabii afetler ve sağlık nedenlerinden dolayı yapılacak kayıt dondurma istekleri bu sürenin dışındadır. Bu tür mazereti olan öğrencilerden ders kaydı yaptırmaları şartı aranmaz. Haklı ve geçerli nedenler çerçevesinde, eğitim-öğretim süresince en çok iki yarıyıl süre ile kayıt dondurulabilir ve bu haklardan ders kaydı yaptıranlar yararlanabilirler. İlgili kurullarca raporu geçerli sayılan öğrencilerin kayıt veya eğitimlerini dondurma istekleri rapor süresince uygulanır.
+Bir öğrencinin kayıt dondurma isteği, bir yarıyıldan az olamaz.

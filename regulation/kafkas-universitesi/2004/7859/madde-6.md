@@ -1,0 +1,2 @@
+Kimlik Kartı
+Madde 6 — Kesin kayıt yaptıran öğrenciye, Öğrenci İşleri Daire Başkanlığınca bir kimlik kartı verilir. Üniversiteden ayrılan, çıkarılan, kaydı silinen veya mezun olan öğrencilerden geri alınan kimlik kartları öğrencilerin dosyalarında saklanır. Kimlik kartının kaybedilmesi halinde yenisinin verilmesi için bir gazete ilanıyla birlikte emniyet makamlarından alınacak yazının, Kars merkezde Öğrenci İşleri Daire Başkanlığına, merkez dışındaki birimlerde ise ilgili müdürlüklere iletmeleri halinde ücret karşılığı kendilerine yeniden "öğrenci kimlik kartı" verilir.

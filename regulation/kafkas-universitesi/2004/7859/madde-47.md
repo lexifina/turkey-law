@@ -1,0 +1,2 @@
+Tebligat ve Adres Bildirme
+Madde 47 — Her türlü tebligat, öğrencinin MYO' ya kayıt esnasında bildirdiği adrese PTT aracılığı ile iadeli taahhütlü olarak yapılmak veya ilgili MYO’ larda ilan edilmek suretiyle tamamlanmış sayılır. MYO’ya kayıt olurken bildirdikleri adresi değiştirdikleri halde bunu ilgili birimlere dilekçe ile bildirmeyen veya yanlış ya da eksik adres vermiş olan öğrenciler kendilerine geçerli tebligat yapılmadığını ileri sürerek hak iddia edemezler.

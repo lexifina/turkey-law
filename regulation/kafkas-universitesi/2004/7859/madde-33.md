@@ -1,0 +1,2 @@
+Mezuniyet Tarihi
+Madde 33 — Öğrencinin mezuniyet tarihi ilgili Yönetim Kurulunun aldığı karar tarihidir. Ancak, bu tarihe kadar staj, endüstriye dayalı öğretim, bitirme ödevi, arazi çalışması ve benzeri sebeplerle mezun olamayan öğrenciler bu çalışmaların tamamlanarak kabul edildiği tarihte mezun olurlar. Mezuniyetleri müteakip akademik yıla taşan öğrenciler ise o yarıyılın da katkı payını veya ikinci öğretim ücretini öderler.

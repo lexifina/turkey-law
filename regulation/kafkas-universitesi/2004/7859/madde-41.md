@@ -1,0 +1,2 @@
+Üniversiteden Ayrılma
+Madde 41 — Kendi istekleri ile öğrencilikten ayrılacak olanlar ilgili kuruma -müdürlüğe veya Öğrenci İşleri Daire Başkanlığına- başvururlar. Kaydı silinen öğrencinin Üniversiteye verdiği diploma isteği üzerine geri verilir. Lise diplomasının arka yüzüne Öğrenci İşleri Daire Başkanlığınca ilişiği kesildiği belirtilir, mühürlenir ve imzalanır. Bu yolla ayrılan öğrencinin yeniden kaydı yapılmaz.
