@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3053",
+  "year": 1936,
+  "title": "İstanbul eski telefon şirketinin abonelerinden fazla aldığı mükâleme ücretlerinden resmî daire ve müesseselere aid olanların İstanbul belediyesine terki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-06-22",
+  "gazette_issue": "3336",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3336.pdf",
+  "source_sha256": "0d8d736bb556ab2a161ef07940a90d1ac63b79f67d0a83f0d5fa651099e63588",
+  "text_sha256": "16cf7b4f2e9944bc706267074b9d4aaa9a1489c2f3c80b8b1e3674ecf26daeb9",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      993,
+      1020
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01603053.pdf",
+    "source_sha256": "1ecef709174a3e6e1b60ee7fd6abe99c77f2ccfea9dd16bb269a898702ba64c1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9722,
+    "bag": 0.9442,
+    "kd_coverage": 0.9925,
+    "kd_body_compared": 0.9781,
+    "rg_words": 135,
+    "kd_words": 137,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
