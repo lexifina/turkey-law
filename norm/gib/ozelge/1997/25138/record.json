@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2855-112-303/13759",
+  "source_id": 25138,
+  "date": "1997-04-02",
+  "title": "Tarhiyat öncesi uzlaşma yoluyla kesinleşen ve 10.12.1988 tarihinden önceki vergilendirme dönemi ile ilgili olan vergilere gecikme faizi hesaplanıp hesaplanmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25138",
+  "source_sha256": "b2bbad60cc90980c77ae010bf196e1b072a626830f3753d7ecc37529f8483f12",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
