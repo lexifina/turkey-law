@@ -1,0 +1,2 @@
+Madde 7 – (Değişik: 9.12.1974 - 7/9293 K.)
+Başasistanlık süresi en az üç yıldır. Başasistanlar, uzmanlık veya doktora yapma isteklerini, müesseseleri aracılığıyla Gıda-Tarım ve Hayvancılık Bakanlığına bildirirler. Başasistanlık görevine başladıkları günden itibaren beş yıl içinde uzman olamayan veya 6 yıl içinde doktorasını veremiyen başasistanlar enstitü veya istasyon müdürünün önerisi üzerine Bakanlıkça zirai mücadele enstitü ve istasyonlarından alınabilir veya yine aynı yerde başasistan olarak çalıştırılabilirler.

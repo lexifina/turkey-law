@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": null,
+  "date_quote": "31/1/1973 | 7/5786 | - | 18/2/1973",
+  "first_law": null,
+  "gazette": "11501",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1973-02-18",
+  "in_force_basis": "latest source-printed amendment commencement or Resmi Gazete date (current consolidated text)",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1963-09-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=62074&MevzuatTertip=5",
+  "source_bytes": 32543,
+  "source_id": "2.5.62074",
+  "source_sha256": "1b0f8682826bfa1c094a7b2dceaaeaa8e5b09be7c3194de75fd44f0a5d85b170",
+  "source_type": "Tüzükler",
+  "title": "ZİRAİ MÜCADELE ENSTİTÜSÜ VE İSTASYONLARINDA ÇALIŞTIRILANLARIN UZMANLIK VE UNVANLARI HAKKINDA TÜZÜK",
+  "word_count": 780
+}
