@@ -1,0 +1,18 @@
+{
+  "checked_on": "2026-11-14",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "kind": "private-ruling",
+  "official_date": "1997-01-13",
+  "official_number": "B.07.0.GEL.0.54/5408-122/01364",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38095",
+  "source_id": "ozelge:38095",
+  "source_row_sha256": "ad49d80dff3310fd4db907da856c166d60fa0e45a4dc711ee10e5de7c4fa5a5f",
+  "title": "Satıcılar, tüketicilerin iade ettikleri mallar için yine gider pusulası düzenleyecekler ve pusulada alış belgesinin ibraz edilemediğini açıkça belirteceklerdir.İade edilen malın yerine aynı veya başka bir malın verilmesi halinde ise, bu defa verilen yeni",
+  "version_label": "as-enacted",
+  "word_count": 266
+}
