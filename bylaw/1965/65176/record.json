@@ -1,7 +1,8 @@
 {
   "checked_on": "2026-11-13",
+  "corrects_commit": "b0e4303b7cfffe6952d5e65f23d7f9e60ad77a12",
   "date_gazette": "12104",
-  "date_quote": "18.09.1965",
+  "date_quote": "20 – Bu Tüzük hükümlerini Bakanl",
   "first_law": null,
   "gazette": "12104",
   "history": "current-text",
@@ -11,8 +12,8 @@
     "referenced": 0,
     "source": 0
   },
-  "in_force": "1965-09-18",
-  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "in_force": "1965-10-03",
+  "in_force_basis": "act commencement clause: 15 days after official Gazette publication",
   "kind": "bylaw",
   "label": "oldest version available",
   "published": "1965-09-18",
