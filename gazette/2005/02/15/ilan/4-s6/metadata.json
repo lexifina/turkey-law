@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-15",
+  "issue": "25728",
+  "edition": "regular",
+  "item": 6,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Sağlık Bakanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050215-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (12 = 12)",
+  "ilan_codes": [
+    "1464/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050215-4.htm",
+  "category_page_sha256": "8a4381dc0c3d9d12204ff157009331eb6c00be3051fbe51c26e41cbfe5fcd0f9",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050215.htm",
+  "index_sha256": "2218e36eccfd6f9a9fdb14c984d09d3fd17c41cde46ee9800f10c200ced726ce",
+  "index_header": "15 Şubat 2005 ... Sayı : 25728",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
