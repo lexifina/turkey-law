@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-09-23",
+  "issue": "24885",
+  "edition": "regular",
+  "item": 6,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "TEKEL Tütün, Tütün Mamulleri, Tuz ve Alkol İşletmeleri Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020923-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (46 = 46)",
+  "ilan_codes": [
+    "26412/1-1",
+    "26413/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020923-3.htm",
+  "category_page_sha256": "fb3da2c18b4abafc2063bd6e5103e2392e3a6aafba7ff20b9f720a7e58a0d890",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020923.htm",
+  "index_sha256": "d7e4ec893e924c35adc6dfb24564401814291a87d90045bc7162509604b2d329",
+  "index_header": "23 Eylül 2002 ... Sayı : 24885",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
