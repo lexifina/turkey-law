@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5080",
+  "year": 1947,
+  "title": "Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü memur ve hizmetlilerinin ücretlerine dair olan Kanunda değişiklik yapan 4620 ve 5000 sayılı Kanunların bazı hükümlerinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-06-21",
+  "gazette_issue": "6638",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6638.pdf",
+  "source_sha256": "14bc0bd664163447badd74ee674ffc9c101b5629a5e27f01276927b3e9b90e65",
+  "text_sha256": "e0e82da475dd06b42fc5ec48f221b34f9936138ea8d0bcf404f872e1c954342b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      54
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905080.pdf",
+    "source_sha256": "cc8cc25596c738e7c349363850eb050b2dfcb0c76243b3583e0b87a827000d24",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9513,
+    "bag": 0.8421,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9954,
+    "rg_words": 220,
+    "kd_words": 218,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
