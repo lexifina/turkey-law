@@ -1,0 +1,1 @@
+Madde 1 – El tezgahları mamulatı hariç, Türkiye'de dokunan ham kaput bezleri, ticarette tağşişin men'i ve ihracatın murakebesi ve korunması hakkındaki 1705 numaralı kanun ile bu kanuna ek 3018 sayılı kanun mucibince bu Nizamname hükümleri dahilinde kontrola tabidir.
