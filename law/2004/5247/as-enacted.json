@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5247",
+  "year": 2004,
+  "title": "Avrupa Birliği ile Türkiye Cumhuriyeti Arasında Türkiye Cumhuriyetinin Makedonya Eski Yugoslav Cumhuriyetindeki Avrupa Birliği Kuvvetine Katılımına İlişkin Anlaşma ve Buna Bağlı Malî Düzenlemenin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-10-27",
+  "gazette_issue": "25626",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/10/20041027.htm",
+  "source_sha256": "d07460aaade0b5e1b79046234a03352e72be05b621590d98ca2c074ce751a791",
+  "text_sha256": "8632425aa7eabc576849586248e4963318c66c83bf912965e7ddec3b01985de9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/10/27/25626-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/10/20041027.htm#10",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
