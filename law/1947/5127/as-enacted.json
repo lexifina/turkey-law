@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5127",
+  "year": 1947,
+  "title": "Artırma, Eksiltme ve ihale Kanununa ek Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-09-09",
+  "gazette_issue": "6702",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6702.pdf",
+  "source_sha256": "220f0b4c850ec26bcc7619cb599e55b3be288d7eb081f6cb8c6e8e8a6b9b30be",
+  "text_sha256": "cffb227f0b846552e6bf028714f428b6fcf1823aa445bde6d0cb67d3f723062b",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      331,
+      353
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905127.pdf",
+    "source_sha256": "3e66725af192ca0ccdedb0088b030929269746b7bbec2139bf9e222a003de55b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9629,
+    "bag": 0.8945,
+    "kd_coverage": 0.9916,
+    "kd_body_compared": 0.9754,
+    "rg_words": 118,
+    "kd_words": 122,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
