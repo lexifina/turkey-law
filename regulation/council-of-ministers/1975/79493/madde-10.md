@@ -1,0 +1,1 @@
+Madde 10 – Genel ve Katma Bütçeli Kurumlar, Maliye Bakanlığı ile bütçe mutabakatını sağladıktan; Belediye ve İl Özel İdareleri, bütçelerini vesayet makamlarına tasdik ettirdikten sonra dokuzuncu maddenin (a), (c) ve (d) fıkraları kapsamına giren fazla çalışma taleplerini Devlet Personel Dairesine (Bu Dairenin bağlı bulunduğu Devlet Bakanlığı kanalı ile) gönderirler.

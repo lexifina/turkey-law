@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – 657 sayılı Devlet Memurları Kanununu değiştiren 1327 sayılı Kanunun 90. maddesiyle getirilen Ek Geçici 9. maddenin kapsamına giren kurumlar, bağlı veya ilgili oldukları Bakanlık elile fazla çalışmaya ilişkin taleplerini Maliye Bakanlığı ile finansman mutabakatı hasıl olduktan sonra bu Yönetmeliğin 10. maddesinde gösterilen mercie yaparlar.

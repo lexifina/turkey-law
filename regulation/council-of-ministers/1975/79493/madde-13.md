@@ -1,0 +1,2 @@
+Madde 13 – Fazla çalışma programlarının hazırlanması veya uygulanması sırasında Maliye Bakanlığı ve Devlet Personel Dairesi gerekli gördükleri takdirde inceleme yapabilirler.
+1327 sayılı Kanunun 92 inci maddesinde sözü geçen Devlet Bütçe Uzmanları ile Devlet Personel Uzmanları, fazla çalışma programları hazırlayan veya uygulayan kurumlarda kadro ve fazla çalışmaya ilişkin her türlü incelemeleri yapmaya ve evrakı tetkik etmeye yetkilidirler.

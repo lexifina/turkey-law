@@ -1,0 +1,1 @@
+Madde 5 – Çalışma saatleri içinde ve (Danıştay Onikinci Dairesinin 16/6/2008 tarihli ve E.:2005/5329; K.:2008/3685 sayılı kararı ile iptal ibare; Danıştay İDDK’nın 28/2/2013 tarihli E.:2009/118, K.:2013/720 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.) yürütülen nöbet hizmetleri fazla çalışma sayılmaz.

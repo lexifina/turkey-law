@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2 – Bu Yönetmeliğin yürürlüğe girmesine kadar 1974 yılı için kurumlara verilmiş olan Fazla Çalışma Saat miktarı bu Yönetmeliğe göre her kurum için verilecek fazla çalışma saati toplamı ile mahsup edilir.

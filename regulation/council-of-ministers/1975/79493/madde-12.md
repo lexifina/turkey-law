@@ -1,0 +1,2 @@
+Madde 12 – Üretim ile ilgili kuruluşlarda üretimin fazla çalışmaya uygun ölçüde yürütülmüş olması zorunludur. Gerekli randıman elde edilemiyen fazla çalışmalardan, fazla çalışma programı düzenleyen kuruluşun amiri ile üretim müessesesi yöneticisi sorumludurlar.
+Üretim ile ilgisi olmayan kuruluşlarda, fazla çalışmadan beklenen olumlu sonucun alınmasında fazla çalışma programı düzenleyen kuruluşun amiri ile fazla çalışmanın uygulandığı ünite yöneticisi sorumludurlar.
