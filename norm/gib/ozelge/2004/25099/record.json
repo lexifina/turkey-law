@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1696/022369",
+  "source_id": 25099,
+  "date": "2004-05-20",
+  "title": "Köy muhtarına yapılan ihbarname tebliği Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/25099",
+  "source_sha256": "cf713c75bcda9209eb8cacd8ad48fb3cbb9910298ad7f4f8daedbe2a3cb190f3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
