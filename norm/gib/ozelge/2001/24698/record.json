@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-14/34100",
+  "source_id": 24698,
+  "date": "2001-06-22",
+  "title": "Kurumun aktifinde bulunan gayrimenkulu satması ve elde ettiği kazancı sermayeye ilave etmesi neticesinde  yapılan tevkifata ilişkin işlemlerin Tek düzen Muhasebe Sisteminde ne şekilde yapılacağı hakkında. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/24698",
+  "source_sha256": "e2afbdfe8181a03db5eb6558b4baa0370c836ca46e00f3dd4f4124be3d5498fe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
