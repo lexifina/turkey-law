@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5082",
+  "year": 2004,
+  "title": "Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-01-31",
+  "gazette_issue": "25363",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/01/20040131.htm",
+  "source_sha256": "5ed2635ba88a7a2f04154bb272390eb39a349a653614523c86bba7b2f095279f",
+  "text_sha256": "00b1662b3e56c528ebef429785efebcb628f11653cea95e283861003dd9f10db",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/01/31/25363-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/01/20040131.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
