@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6003-4/039983",
+  "source_id": 36357,
+  "date": "1998-11-09",
+  "title": "Elçilikte görevli iken vefat eden kişinin bankada bulunan paralarının mirasçılarına intikalinde Veraset ve İntikal Vergisi alınmaması gerekir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36357",
+  "source_sha256": "765e031fef5fa63b89efc11ae7c755352f7ac40200f9daa988fbe6d0641a2fd2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
