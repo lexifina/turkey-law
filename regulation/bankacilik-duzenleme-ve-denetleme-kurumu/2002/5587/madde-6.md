@@ -1,0 +1,3 @@
+Denetime esas oluşturan mali tablolara ilişkin standartlar
+Madde 6- Mali tabloların denetlenmesi ve incelenmesi, bu Yönetmelikte hüküm bulunmayan hallerde sırasıyla, Bankalarca Uygulanacak Muhasebe Standartları, Tek Düzen Hesap Planı ve İzahnamesi ve bu düzenlemelerin ek ve değişiklikleri ile bunlara ilişkin olarak Kurumca yapılan açıklamalar ve uluslararası muhasebe standartları esas alınarak yürütülür.
+Bankalarca ayrılacak karşılıkların değerlendirilmesinde, Kanunun 11 inci maddesinin (12) numaralı fıkrası, sermaye yeterliliğinin değerlendirilmesinde ise Kanunun 13 üncü maddesinin (1) numaralı fıkrası uyarınca yürürlüğe konulan düzenlemeler ve bunlara ilişkin olarak Kurumca yapılan açıklamalar esas alınır.

@@ -1,0 +1,2 @@
+Düzeltme katsayılarının hesaplanması
+Madde 16- 1970 yılı ve sonraki yıllarda gerçekleşen işlemlerin düzeltilmesinde, Kurumca belirlenerek ayrıca duyurulacak endekslerden üretilecek düzeltme katsayıları kullanılır. 1970 yılından önceki tarihlerde gerçekleşen işlemlerin düzeltilmesinde ise işlemlerin 1970 yılında gerçekleştiği kabul edilir. 2001 ve daha sonraki tarihlerde endeks rakamı olarak Devlet İstatistik Enstitüsünün en yeni bazlı toptan eşya fiyatları genel endeksi esas alınır.

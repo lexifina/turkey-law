@@ -1,0 +1,6 @@
+Özkaynak kalemlerinin düzeltilmesi
+Madde 12- Özkaynak kalemlerinin düzeltilmesinde; yeniden değerleme değer artış fonu gibi fonların sermayeye ilave edilmesi, ortakların sermayeye katkısı olarak dikkate alınmaz. Bu tür fonlar sermayeden indirilir. Yedek akçelerin ve dağıtılmamış karların sermayeye ilave edilmesi ortaklar tarafından konulan sermaye olarak dikkate alınır.
+(Mülga ibare: RG-02/03/2002-24683) Özkaynak kalemlerinin düzeltme işlemine tabi tutulmasında, sermaye artırımına mahsuben ödenen tutarların tahsil tarihi esas alınır. Sermayeye ilave edilmiş olsun veya olmasın, emisyon primlerinin düzeltme işlemine tabi tutulmasında tahsil tarihleri dikkate alınır.
+Bankaların ilgili mevzuat çerçevesinde oluşan yedek akçeleri dahil olmak üzere tüm özkaynak unsurları, ikinci fıkrada belirtilen çerçevede oluştukları şekilde veya sermaye artışına konu edildikleri tarihler esas alınmak suretiyle düzeltme işlemine tabi tutulur.
+Bankaların ilgili mevzuat çerçevesinde oluşan yedek akçeleri ile çıkarılmış ve ödenmiş sermayeleri, mali tablo dipnotlarında kayıtlı değerleri ile ayrıntılı olarak açıklanır.
+Bu bölümde belirtilen esaslar çerçevesinde gerçekleştirilen düzeltme işlemleri sonucunda ödenmiş sermayede kayıtlı değerine göre oluşan artış tutarı, düzeltilmiş mali tablolarda yedek akçeler kalemi içinde ayrıca belirtilmek suretiyle gösterilir.

@@ -1,0 +1,3 @@
+Birinci kuruluşça yapılacak denetimin kapsamı
+Madde 5- Kanunun 13 üncü maddesinin (2) numaralı fıkrası ve Bağımsız Denetim İlkelerine İlişkin Yönetmelik hükümleri çerçevesinde bankaların 31.12.2001 bilanço tarihi itibarıyla düzenlenen mali tabloları, ilgili dönem için sözleşme yapılan kuruluş tarafından, bu Yönetmelikte düzenlenen ilave esas, usul ve talimatlar da dikkate alınarak denetlenir.
+Birinci kuruluş tarafından düzenlenecek raporlar 1.4.2002 tarihine kadar sonuçlandırılarak, ilgili bankaya, Kurumca belirlenen ikinci kuruluşa ve Kuruma gönderilir. (Ek son cümle: RG-29/03/2002-24710) Gerekli görülen hallerde bu süreyi uzatmaya veya bankalara ek süre vermeye Kurum yetkilidir.

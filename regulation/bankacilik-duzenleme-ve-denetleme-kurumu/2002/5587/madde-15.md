@@ -1,0 +1,2 @@
+Düzeltilmiş tutarların cari değerden fazla olması
+Madde 15- Parasal olmayan kalemlerin düzeltilmiş değerlerinin net gerçekleşebilir değerinin üzerinde olması durumunda, değer düşüklüğünün kalıcı veya geçici olması, değer düşüklüğünün oranı gibi kriterler de dikkate alınarak, ilgili varlığın değeri, değer düşüklüğü karşılığı ayrılmak suretiyle net gerçekleşebilir değere veya varsa rayiç değerine düşürülür. Değer düşüklüğü karşılığı gelir tablosuna yansıtılır. İlgili varlığın rayiç değerinin tespitinde ihtiyatlılık ve önemlilik ilkesi esas alınır.

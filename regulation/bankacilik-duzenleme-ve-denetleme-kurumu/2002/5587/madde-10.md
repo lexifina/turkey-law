@@ -1,0 +1,5 @@
+Amortismanlar
+Madde 10- Maddi duran varlıklara ilişkin amortismanlar, varlıkların bu Yönetmeliğin 9 uncu maddesinde belirtildiği şekilde elde edilen düzeltilmiş değerleri üzerinden, geçmişe yönelik olacak şekilde hesaplanır ve ilgili varlıkların düzeltme işlemine tabi tutulması sonucu bulunan yeni değerleri üzerinden ayrılır.
+Bu amaçla yapılacak hesaplamalarda, Bankalarca Uygulanacak Muhasebe Standartları, Tekdüzen Hesap Planı ve İzahnamesinin Üçüncü Bölümünün 11 inci maddesinde belirtildiği şekilde vergi mevzuatının amortisman süresine ilişkin düzenlemeleri uyarınca ayrılan amortismanlar dahil olmak üzere, bu maddede belirtilen şekilde bulunacak oranlardan farklı oranlarda amortismana tabi tutulmuş varlıklar, bulunacak yeni oranlar üzerinden geçmişe yönelik olacak şekilde amortismana tabi tutulur.
+Bilanço tarihi itibarıyla aktifte bir hesap döneminden daha az bir süre bulunan varlıklara ilişkin olarak, bir tam yıl için öngörülen amortisman tutarının, varlığın aktifte kalış süresiyle orantılanması suretiyle bulunan tutar kadar amortisman ayrılır.
+Maddi olmayan duran varlıkların tükenme veya itfa payları düzeltilmiş yeni değerleri üzerinden hesaplanır.

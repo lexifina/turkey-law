@@ -1,0 +1,2 @@
+Tahakkuk ve reeskontlar
+Madde 23- Birinci kuruluş tarafından, gelir ve gider doğurucu işlemlere ilişkin tahakkuk ve reeskontların ilgili oldukları hesaplar ile birebir ilişki kurularak mevzuata uygun şekilde ve alacak ve borçların ilgili olduğu sözleşme hükümlerine uygun olarak muhasebeleştirilip muhasebeleştirilmediği tespit edilir. Bu tespitin yapılması sırasında denetçi tarafından uygun bulunan örnekleme metotları kullanılır ve kullanılan metot raporda belirtilir.

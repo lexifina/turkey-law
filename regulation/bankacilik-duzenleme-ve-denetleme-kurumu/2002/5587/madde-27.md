@@ -1,0 +1,3 @@
+Varlık ve yükümlülüklere ait diğer hususlar
+Madde 27- Bu Yönetmelikte belirtilen inceleme ve değerleme yöntemleri kullanılarak elde edilen bulgular dışında, önemlilik ve ihtiyatlılık ilkelerine göre denetçi tarafından yapılacak değerlendirme sonucunda tüm varlık ve yükümlülüklere ilişkin olarak belirtilmesi gerekli görülen diğer hususlar da düzenlenecek raporda yer alır.
+(Ek: RG-02/03/2002-24683) Bu Yönetmeliğin ikinci bölümünde belirtilen esas ve usuller dahilinde varlıkların paranın cari satın alma gücü esasına göre düzeltme işlemine tabi tutulmasından dolayı oluşan değerleme farkları ile bu Yönetmelik hükümleri çerçevesinde yapılan düzeltmeler nedeniyle oluşan zararlar üzerinden ertelenmiş vergi aktifi ya da yükümlülüğü hesaplanmaz.

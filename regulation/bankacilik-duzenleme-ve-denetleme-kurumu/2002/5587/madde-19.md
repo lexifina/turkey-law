@@ -1,0 +1,5 @@
+Faaliyet bilgileri
+Madde 19- Bankanın finansal durumu ile finansal durumundaki değişim ve faaliyet sonuçlarını yansıtan bilgiler, düzenlenecek raporda yer alır. Raporda, bankanın faaliyetlerinden kaynaklanan ve gelirini önemli ölçüde etkileyecek olağanüstü olayları da kapsamak üzere önemli kabul edilen faktörler özellikle belirtilir. Gelir veya giderlerin kaynaklarından önemli olanları tanımlanarak bankanın faaliyet sonuçları özet olarak verilir.
+Bankanın net gelirlerindeki önemli değişiklikler finansal tabloların sunumu bölümünde ayrıca açıklanır. Ancak bu değişikliklerin kaynağı, özet bilgi olarak faaliyet bilgilerinde belirtilir.
+Yabancı para cinsinden varlıkların banka bilançosundaki ağırlığı ölçüsünde, incelenen dönemdeki kur değişimlerinin banka üzerindeki etkileri ile bankanın faaliyetlerini doğrudan veya dolaylı olarak etkileyen ekonomik, mali, parasal politikalar veya etkenleri içeren bilgiler özet olarak sunulur.
+Bankanın gözden geçirilen dönem sonundaki yabancı kaynaklarına ilişkin bilgiler ve yabancı kaynakların vade yapısı, kullanılan finansal araçların türü, kur ve faiz oranı yapısı ile ilgili özet bilgilere de raporda yer verilir.

@@ -1,0 +1,6 @@
+Mali tabloların paranın cari satın alma gücü esasına göre düzeltme işlemine tabi tutulması
+Madde 8- Mali tablo kalemlerinin paranın bilanço günündeki satın alma gücü cinsinden yeniden düzenlenmesi, parasal olmayan kalemlerin Yönetmeliğin bu bölümünde belirtilen esaslar dahilinde gerekli ayarlamalar yapıldıktan sonraki tutarlarının uygun düzeltme katsayıları ile çarpılması suretiyle gerçekleştirilir.
+Bilançodaki parasal kalemler, paranın cari satın alma gücü cinsinden ifade edildiklerinden düzeltme işlemine tabi tutulmazlar.
+Cari değerleri ile değerlenen parasal olmayan kalemler, paranın cari satın alma gücü cinsinden ifade edildiklerinden, ayrıca düzeltme işlemine tabi tutulmazlar. Bu itibarla, parasal olmayan kalemler içinde yer alan ancak, cari değerleri ile değerlenen yabancı para, kıymetli madenler, hisse senetleri ve diğer menkul kıymetler gibi kalemler ile getirileri veya anaparaları enflasyona endekslenmiş olan varlık ve yükümlülükler, parasal kâr veya zararın hesaplanmasında parasal kalemler gibi işleme tabi tutulurlar.
+Fiyat endeksinin aylık fiyat değişimlerini gösterecek şekilde yayınlanması nedeniyle, bir ay içinde gerçekleşen tüm işlemler için aynı düzeltme katsayısı kullanılır.
+Varlıkların düzeltilmesi, aktife ilk giriş tarihleri dikkate alınarak yapılır.
