@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-06-23",
+  "issue": "25147",
+  "edition": "regular",
+  "item": 22,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "1010 ncu Ordudonatım Ana Tamir Fabrika Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030623-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (49 = 49)",
+  "ilan_codes": [
+    "19187/1-1",
+    "19184/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030623-3-4.htm",
+  "category_page_sha256": "29930f0580f021d5ee06462ac22c36b806736f042c6456ccf5d4514a9d8c5273",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030623.htm",
+  "index_sha256": "7f06cec2c66f2cc5857ff1fb5d86a1229e5a035bea190b2d2f8143d2293b0737",
+  "index_header": "23 Haziran 2003 ... Sayı : 25147",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
