@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 132967,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEFSİRLER",
+  "heading_as_published": "Tefsirler",
+  "summary": "Mücadelei Milliyeye iştirak etmeyen ve hududu millî haricinde kalan erkân, ümera ve zabıtan ve memurin ve mensubini askeriye hakkında yapılacak muameleye ve Cidali Milliye iştirak edenlerin tekaüt maaşlarının sureti hesabını nâtık 25 Eylül 1339 tarihli Kanunun üçüncü maddesinin tefsiri.",
+  "title": "Mücadelei Milliyeye iştirak etmeyen ve hududu millî haricinde kalan erkân, ümera ve zabıtan ve memurin ve mensubini askeriye hakkında yapılacak muameleye ve Cidali Milliye iştirak edenlerin tekaüt maaşlarının sureti hesabını nâtık 25 Eylül 1339 tarihli Kanunun üçüncü maddesinin tefsiri.",
+  "first_sitting_date": "1924-01-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 87,
+      "sitting_date": "1924-01-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005087.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005087.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+      "pages": [
+        "248"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 99,
+      "sitting_date": "1924-02-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005099.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005099.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+      "pages": [
+        "696"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 8,
+      "sitting_date": "1924-03-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/tbmm02007008.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/ehttbmm02007008.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/tbmm02007fih.pdf",
+      "pages": [
+        "259"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 36,
+      "sitting_date": "1924-04-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c008/tbmm02008036.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c008/ehttbmm02008036.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c008/tbmm02008fih.pdf",
+      "pages": [
+        "609:610"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "726f99e0b1386a2a326b1382306515418f861fcbd9c4635a436d2a7acd94ffbd",
+  "in_force": "1924-01-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
