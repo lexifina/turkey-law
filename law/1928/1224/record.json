@@ -1,0 +1,61 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1224",
+  "year": 1928,
+  "title": "Bazı devairin 1927 senei maliyesi bütçelerine tahsisatı munzamma itasına ve bazı devair bütçelerinde münakale icrasına dair Kanun",
+  "adopted": "1928-04-22",
+  "adopted_as_published": "22/04/1928",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.04.1928 No: 873",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc006/kanuntbmmc006/kanuntbmmc00601224.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 6",
+  "committee_reports": [
+    {
+      "label": "TBMM 101 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003062ss0101.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120028,
+      "title": "Bazı devairin 1927 senei maliyesi bütçelerine tahsisatı munzamma itasına ve bazı devair bütçelerinde münakale icrasına dair Kanun",
+      "adopted_as_published": "22/04/1928",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc006/kanuntbmmc006/kanuntbmmc00601224.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 101 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003062ss0101.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 62,
+          "sitting_date": "1928-04-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003062.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/ehttbmm03003062.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003fih.pdf",
+          "pages": [
+            "149:151",
+            "170:172"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "a0d5c6f8bbb70702bea9b127d501abc25664add8a8a9e7714cdbe8dde4058a53"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a0d5c6f8bbb70702bea9b127d501abc25664add8a8a9e7714cdbe8dde4058a53",
+  "issuer": "TBMM",
+  "in_force": "1928-04-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 22/04/1928; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
