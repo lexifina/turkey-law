@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 325195,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Kırklareli eski Milletvekili Mehmet Orhan Türkkan'ın, Dilekçe Karma Komisyonu Genel Kurulunun 12.7.1967 tarih ve 38 sayılı Haftalık Karar Cetvelindeki 2942 sayılı Kararının Genel Kurulda görüşülmesine dair önergesi ve Dilekçe Karma Komisyonunun, 31.5.1971 tarih ve 17/1, 10.5.1972 tarih ve 17/1, 20.6.1974 tarih ve 17, 3.3.1975 tarih ve 17 sayılı raporları (Cumhuriyet Senatosu:4/80-4/23) (S. Sayısı:1575'e 2. ek)",
+  "title": "Kırklareli eski Milletvekili Mehmet Orhan Türkkan'ın, Dilekçe Karma Komisyonu Genel Kurulunun 12.7.1967 tarih ve 38 sayılı Haftalık Karar Cetvelindeki 2942 sayılı Kararının Genel Kurulda görüşülmesine dair önergesi ve Dilekçe Karma Komisyonunun, 31.5.1971 tarih ve 17/1, 10.5.1972 tarih ve 17/1, 20.6.1974 tarih ve 17, 3.3.1975 tarih ve 17 sayılı raporları (Cumhuriyet Senatosu:4/80-4/23) (S. Sayısı:1575'e 2. ek)",
+  "first_sitting_date": "1974-12-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 15,
+      "sitting_date": "1974-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018015.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018fih.pdf",
+      "pages": [
+        "379"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=3901&v_kullanici_id=27484903",
+  "source_sha256": "2545373b763fef109812c36aa13bb148238c507965a45c543ce43f598d7360f8",
+  "in_force": "1974-12-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
