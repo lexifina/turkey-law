@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-727/63012",
+  "source_id": 21481,
+  "date": "2004-12-28",
+  "title": "Bireysel emeklilik sistemi ve diğer şahıs sigortalarına ödenen katkı payı ve primlerin matrahın tespitinde indirimi ve elde edilen gelirlerin vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21481",
+  "source_sha256": "324a511e5d54a1600da86af2c5a785100649b9f4075048e066061bee3ccd25e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
