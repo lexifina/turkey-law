@@ -1,0 +1,2 @@
+Yazılı Sınavlar
+Madde 27- Yazılı sınavların kesin günü dersin öğretmenince en az bir hafta önceden öğrencilere duyurulur. Bir günde en çok iki sınav yapılabilir. Ana sanat dalı başkanının önerisi üzerine ya da doğrudan Müdürlük kararı ile yıl içinde düzenlenen konser ve benzeri etkinlikler ile bunların hazırlık süresi boyunca yazılı ve sözlü sınav yapılmaz. Sınav günleri, aynı sınıfta dersi olan öğretmenler arasında bu konuda işbirliği yapılarak sağlanır.

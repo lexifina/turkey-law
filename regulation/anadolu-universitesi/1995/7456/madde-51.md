@@ -1,0 +1,2 @@
+Sanat Dalı ve Öğretmen Değişikliği
+Madde 51- Öğrenciler enstrumanlarına fiziksel uyumsuzluk ya da sanat dalı öğretmeni ile anlaşmazlık nedeni ile ilgili sorunlarında öğretim yarıyılı ya da yılın başlamasından en az 10 gün önce veli dilekçesi ile değişik isteğinde bulunabilirler. Bu istek dal değiştirmede Müdürlükçe belirlenecek özel bir sınav komisyonunca değerlendirilir. Gerektiğinde fiziksel uyumsuzluk için sağlık raporu istenebilir. Gerek dal değiştirmede, gerekse öğretmen değişikliğinde son karar verme yetkisi Konservatuvar Müdürlüğüne aittir.

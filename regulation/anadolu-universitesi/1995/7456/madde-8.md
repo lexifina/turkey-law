@@ -1,0 +1,2 @@
+Kayıt ve Kabul İşlemleri ile Koşulları
+Madde 8- Konservatuvarın; tam ve yarı zamanlı statülerine ya da ileri sınıflarına alınacak adayların kayıt kabulü, ilgili bölüm başkanlıklarının görüşü de alınarak Konservatuvar Müdürlüğünce belirlenir. Öğrencilerin kabulü, kayıt-kabul-koşul ve işlemlerini kapsayan “Genel ve Özel Koşullarla İlgili Yönerge” esaslarına göre yapılır ve aday öğrencilere kayıt işlemleri başlamadan en az bir ay önce ilan edilir.

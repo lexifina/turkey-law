@@ -1,0 +1,15 @@
+Bütünleme Sınav Sonuçlarına Göre Öğrencinin Durumu
+Madde 36- A) Bütünleme sınav sonuçlarına göre öğrencinin sınıf geçme durumu ders gruplarına göre aşağıdaki şekilde belirlenir,
+a) Kültür Dersleri: Bütünleme sınavlarında başarısız olan öğrencilerin durumları öğretmenler kurulunca görüşülür.
+Öğretmenler Kurulu: Öğretmenler kurulu, okul müdürünün veya görevlendireceği yardımcının başkanlığında Orta ve Lise devresi öğretim elemanlarından oluşur. Kararlar toplantıya katılanların salt çoğunluğu ile alınır. Bu toplantıda bütünlemeye kalan her öğrencinin meslek ve kültür ders gruplarındaki durumu ile önceki yıllardaki başarısı, devam ve disiplin durumu bütünü ile ele alınır. Bu değerlendirmeler sonunda öğretmenler kurulu:
+1- Yalnızca bir kültür dersinden başarısız olan öğrencileri bu dersinden başarılı sayar veya durumlarında bir değişiklik yapmaz. Durumlarında değişiklik yapılmayan öğrenciler bu dersten sorumlu olarak üst sınıfa devam ederler.
+2- Birden fazla dersten başarısız olan öğrencilerin ya doğrudan sınıf geçmelerine, ya da bir dersten sorumlu olarak üst sınıfa devam etmelerine karar verir veya durumlarında hiç bir değişiklik yapmaz.
+Öğretmenler kurulu kararı ile geçen öğrencilerin notları değiştirilmez. Okul kayıtlarına “Öğretmenler Kurulu Kararı ile ..................... derslerinden başarılı sayıldı” yazılır.
+b) Esas Meslek Dersleri: Bütünleme sınavları sonucunda Esas meslek Derslerinden başarısız olan öğrencilerin durumları öğretmenler kurulunda görüşülmez.
+c) Yardımcı Meslek Dersleri: Bütünleme sınavları sonunda Yardımcı Meslek Derslerinden başarısız olan öğrencilerin durumları öğretmenler kurulunda görüşülmez. Ancak, bir yardımcı meslek dersinden başarısız olan öğrenciler sorumlu olarak bir üst sınıfa devam ederler.
+B) Aynı Sınıfı Tekrar Etme
+Öğretmenler kurulunca başarısızlıkları bir yardımcı meslek dersi dışında iki veya daha fazla kültür dersi olarak belirlenen öğrenciler bir üst sınıfa devam edemezler. Bu öğrenciler tüm derslerden aynı sınıfı yeniden tekrar ederler. Esas Meslek derslerinden bütünleme sınavları sonucunda bir veya birkaç dersten başarısız olan öğrencilerle birden fazla yardımcı meslek derslerinden başarısız olanlar bir üst sınıfa devam edemezler. Bu gibi öğrenciler aynı sınıfı tüm derslerden bir kez daha tekrar ederler. Kültür dersleri, esas meslek ve yardımcı meslek derslerinden sınıf tekrar eden öğrencilerin başarı durumları da bir yıllık öğrenciler gibi belirlenir.
+C) Konservatuvarla İlişik Kesilmesi
+a) Kültür derslerinden başarısızlık nedeniyle sınıf tekrar ederek yine üst sınıfa devam hakkını elde edemeyen öğrencilerin Konservatuvarla ilişiği kesilir.
+b) Esas meslek ve yardımcı meslek derslerinden sınıf tekrar ederek yine üst sınıfa devam hakkını elde edemiyenlerin Konseratuvarla ilişiği kesilir.
+c) Orta Devre’nin birinci sınıfına alınan öğrencilerin “Eleme Sınavları”nda ve yarı zamanlı statüde bulunan öğrencilerin her devre sonundaki girecekleri “Eleme Sınavları”nda başarısız olmaları halinde Konservatuvarla ilişikleri kesilir.

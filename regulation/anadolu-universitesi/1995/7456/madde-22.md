@@ -1,0 +1,1 @@
+Madde 22- Yurtiçi ve yurtdışında Konservatuvarı, konser, yarışma, seminer, kurs ve benzeri organizasyonlara katılarak temsil etmek üzere görevlendirilecek öğrenciler, Konservatuvar Müdürlüğünce izinli sayılırlar. Bir öğretim yılını geçen izin durumları için bulunduğu sınıftaki okuma hakkı kullanılmış sayılmaz.

@@ -1,0 +1,4 @@
+Sınıf Atlama Sınavları
+Madde 49- Esas meslek dersinden yıl sonu sınav notu en az 90 ve çalgı dalından en az 98 olan Konservatuvar öğrenciler, orta ve lise devrelerinin son yılları hariç “Sınıf Atlama Sınav”larına girebilirler.
+Sınıf atlamak isteyen öğrenciler, atlayacakları sınıfın tüm derslerinden “Sınıf Atlama Sınav”larına girmek zorundadırlar. Bu sınavlarda bir Kültür dersi ile bir yardımcı meslek dersinden başarısız olanlar sorunlu olarak üst sınıfa devam ederler, başarısız oldukları dersleri ise öğretim yılı içinde başarmak zorundadırlar. Aksi halde atladığı sınıfı tekrar ederler.
+“Sınıf Atlama Sınavı”na girmek isteyen öğrenciler, yıl sonu sınavlarının bitiminden itibaren ilk 10 (on) gün içinde yıl sonu sınav komisyonu raporu ve sanat dalı öğretim elemanının olumlu görüşünü kapsayan bir dilekçe ile Konservatuvar Müdürlüğüne başvurmak zorundadır. “Sınıf Atlama Sınavları” bütünleme sınav tarihleri içinde 1 (Bir) kez yapılır.

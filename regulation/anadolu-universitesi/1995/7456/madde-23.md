@@ -1,0 +1,2 @@
+Kültür ve Sanat Etkinliklerine Katılma Zorunluluğu
+Madde 23- Tam ve yarı zamanlı öğrenciler; Konservatuvar Müdürlüğü tarafından görevlendirildikleri eğitim, kültür ve sanat faaliyetleri ile bunların gerektirdiği hazırlık çalışmalarına katılmak zorundadır. Görevlendirildikleri faaliyetlere belirtilen koşullarla katılmayan öğrencilere, “Devlet Konservatuvarının Orta ve Lise Devreleri Öğrenci Disiplin Yönetmeliği”nin hükümleri uygulanır.
