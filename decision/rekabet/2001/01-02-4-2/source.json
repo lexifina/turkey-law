@@ -1,0 +1,13 @@
+{
+  "number": "01-02/4-2",
+  "type": "Birleşme ve Devralma",
+  "decision_date": "2001-01-04",
+  "publication_date": "2001-07-18",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=7aa93c45-5f13-4f81-b951-17335f61aa4d",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1035",
+  "pdf_sha256": "f9197bbb9477f752521d2e5906ad43473339f2d8a1e9c3bccb97e08ff4867cb2",
+  "pdf_bytes": "343063",
+  "pages": "6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
