@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 420387,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Aydın Milletvekili Halit Dikmen'in Yasama Dokunulmazlığının Kaldırılması Hakkında Başbakanlık Tezkeresine ilişkin",
+  "title": "Aydın Milletvekili Halit Dikmen'in Yasama Dokunulmazlığının Kaldırılması Hakkında Başbakanlık Tezkeresine ilişkin",
+  "first_sitting_date": "2000-01-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 24,
+      "sitting": 52,
+      "sitting_date": "2000-01-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c024/tbmm21024052.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c024/tbmm21024fih.pdf",
+      "pages": [
+        "350:351"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=606&v_gelecek_sayfa=201&v_kullanici_id=27484520",
+  "source_sha256": "a134895ff64dfbfccf43fe1bb407deaa0f745f5d1c9a19452fc933835867f56a",
+  "in_force": "2000-01-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
