@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4052-34-10344",
+  "source_id": 24274,
+  "date": "2004-03-12",
+  "title": "Kollektif şirket ortaklarının tasfiye dönemlerine ilişkin beyanname vermeleri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24274",
+  "source_sha256": "d469e783351a60ac086af746822e37390f5985d5ae06700b6994333c3e039049",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
