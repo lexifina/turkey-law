@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-95/029125",
+  "source_id": 22898,
+  "date": "2004-06-23",
+  "title": "Yıllara sari inşaat ve onarım işi hakediş gelirinin  yıllık satış tutarı (cirosu) kapsamında değerlendirilip değerlendirilmeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22898",
+  "source_sha256": "489212ce0a86b742bc94060bf12b9267f00ecd49acb71faa822a42d490e19f7e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
