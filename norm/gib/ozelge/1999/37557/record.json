@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6389-02/58273",
+  "source_id": 37557,
+  "date": "1999-12-30",
+  "title": "A.Ş.'nin 01.12.1999 tarihinden itibaren yapacağı (reklam gelirlerinden) işlemlerden eğitime katkı payı ve özel işlem vergisi alınması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/37557",
+  "source_sha256": "636eae96c1c446ffa3d5b2a042c21ca9afa8a43b059de25b3a8a8ddd4dedef94",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
