@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-issue",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "1971-01-24",
+  "issue": "13733",
+  "issue_basis": "official archive file name /arsiv/<issue>.pdf (the archive numbers its files by issue; e.g. 24091.pdf = 26.06.2000, the issue before HTML issue 24092)",
+  "edition": "regular",
+  "archive_mukerrer_flag": null,
+  "item": 0,
+  "section": null,
+  "heading": null,
+  "title": "24.01.1971 tarihli Resmi Gazete",
+  "official_link": "https://www.resmigazete.gov.tr/arsiv/13733.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/Home/Filter",
+  "index_request": {
+    "method": "POST",
+    "searchtype": 2,
+    "arsivaramayeri": "1",
+    "from": "1971-01-01",
+    "to": "1971-12-31"
+  },
+  "index_sha256": "48d8790d45a021eea34617c8d28e3c621a2c86ff8539c6dc572cf72ecef42248",
+  "index_header": "official archive listing date 24.01.1971",
+  "issue_pdf": "https://www.resmigazete.gov.tr/arsiv/13733.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; whole issue published as a scanned PDF (no OCR); items not listed"
+}
