@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4428-42/22686",
+  "source_id": 23010,
+  "date": "1999-06-04",
+  "title": "Basit usulde vergilendirilen mükelleflerin çiftçilerden aldıkları mallar için müstahsil makbuzu düzenleyip düzenlemeyecekleri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23010",
+  "source_sha256": "57a042312e22f86c8c5b9c3df25c6e8cec23d04b39a2b50ed1dc1da73f090c02",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
