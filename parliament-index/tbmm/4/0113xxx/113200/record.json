@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 113200,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "İktısad Vekâleti bütçesi",
+  "title": "İktısad Vekâleti bütçesi",
+  "first_sitting_date": "1931-07-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 29,
+      "sitting_date": "1931-07-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003fih.pdf",
+      "pages": [
+        "154"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 30,
+      "sitting_date": "1931-07-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003030.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003fih.pdf",
+      "pages": [
+        "166"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 35,
+      "sitting_date": "1931-07-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003fih.pdf",
+      "pages": [
+        "381"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1296&v_gelecek_sayfa=1201&v_kullanici_id=27483843",
+  "source_sha256": "484a343f72a51a89d3d1a68493a7f92dd20f423c4f0e97bc0aaf1b4ee11dc4bb",
+  "in_force": "1931-07-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
