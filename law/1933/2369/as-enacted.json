@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2369",
+  "year": 1933,
+  "title": "Antalya vilâyeti hususî idaresi tarafından yapılacak istikraz hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-01-03",
+  "gazette_issue": "2595",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2595.pdf",
+  "source_sha256": "4b30ed0d5583b0cbdb9723a55b87edf3085f45b7060793e53d608076873070ec",
+  "text_sha256": "c0698213ac26b7e9529f2c3c36f15adb3693e5ed7a1fced3ded89fee46f60d9c",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      53,
+      88
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302369.pdf",
+    "source_sha256": "5bbd089439390181e3a6e668ab35fdff66843d2c802e3e87d6b9305b0fdbedf8",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9864,
+    "bag": 0.9268,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9802,
+    "rg_words": 106,
+    "kd_words": 101,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
