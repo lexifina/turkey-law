@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1746",
+  "year": 1931,
+  "title": "Askerî ve mülki tekaüt kanununun 47. maddesine bir fıkra tezyiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-02-12",
+  "gazette_issue": "1724",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1724.pdf",
+  "source_sha256": "b0943ce21f3281bd62fe28b0c3593477842b9e09ef71ebf6ccc37017f47f365b",
+  "text_sha256": "f3108821f3fe55d1e649309dc558bb661d6ae755d81ae93b41621ff05ea5aa7c",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      4,
+      39
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901746.pdf",
+    "source_sha256": "5cf06ef1176a3df41536e07d4d33f1f5701123946c966b303096423f7722aad0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9368,
+    "bag": 0.8641,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9732,
+    "rg_words": 97,
+    "kd_words": 112,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
