@@ -1,0 +1,60 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5603",
+  "year": 1950,
+  "title": "Köy okulu, Öğretmen evi, köy sağlık memurları ve ebeleri evleri inşa ettirilmesi hakkında 5210 sayılı kanuna ek kanun",
+  "adopted": "1950-03-16",
+  "adopted_as_published": "16/03/1950",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "22.03.1950 No: 7463",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205603.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 32",
+  "committee_reports": [
+    {
+      "label": "TBMM 227 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025066ss0227.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 8,
+      "kayit_no": 78325,
+      "title": "Köy okulu, Öğretmen evi, köy sağlık memurları ve ebeleri evleri inşa ettirilmesi hakkında 5210 sayılı kanuna ek kanun",
+      "adopted_as_published": "16/03/1950",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205603.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 227 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025066ss0227.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 66,
+          "sitting_date": "1950-03-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025066.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025fih.pdf",
+          "pages": [
+            "500:501"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=716&v_gelecek_sayfa=601&v_kullanici_id=27483172",
+      "page_sha256": "35b6583cf1269145bb30e33bab0f6578346fbb43084ce2281b975f462f6247b3"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "35b6583cf1269145bb30e33bab0f6578346fbb43084ce2281b975f462f6247b3",
+  "issuer": "TBMM",
+  "in_force": "1950-03-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 16/03/1950; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
