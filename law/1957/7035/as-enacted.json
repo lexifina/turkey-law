@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7035",
+  "year": 1957,
+  "title": "Telsiz Kanununun 6566 sayılı Kanunla muaddel 5. maddesinin tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-27",
+  "gazette_issue": "9644",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9644.pdf",
+  "source_sha256": "fb10f3263175c38cac4e9b82b7710dc24555cb91e468218527a6ee9887184d0d",
+  "text_sha256": "497d02638e6b41e6496f51231b6319a8281a69d51860c2974184fc1decc744cb",
+  "text_status": "ocr",
+  "pages": [
+    19
+  ],
+  "line_span": [
+    [
+      14269,
+      14307
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907035.pdf",
+    "source_sha256": "cbbb0c6cb62adc95a063e508f93c5b19c5fdaa9937fee1ad8a37626eac6a8fd0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9458,
+    "bag": 0.8514,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9785,
+    "rg_words": 168,
+    "kd_words": 186,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
