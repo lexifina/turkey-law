@@ -1,0 +1,93 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4693",
+  "year": 2001,
+  "title": "Enerji ve Tabii Kaynaklar Bakanlığının Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına İlişkin Kanun",
+  "adopted": "2001-06-27",
+  "adopted_as_published": "27/06/2001",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "05.07.2001 No: 24453",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc085/kanuntbmmc085/kanuntbmmc08504693.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 85",
+  "committee_reports": [
+    {
+      "label": "TBMM 702 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c068/tbmm21068125ss0702.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 288500,
+      "title": "Enerji ve Tabii Kaynaklar Bakanlığının Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına İlişkin Kanun",
+      "adopted_as_published": "27/06/2001",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc085/kanuntbmmc085/kanuntbmmc08504693.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 702 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c068/tbmm21068125ss0702.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 48,
+          "sitting_date": "2000-01-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c023/tbmm21023048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c023/tbmm21023fih.pdf",
+          "pages": [
+            "55"
+          ]
+        },
+        {
+          "cilt": 66,
+          "sitting": 115,
+          "sitting_date": "2001-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c066/tbmm21066115.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c066/tbmm21066fih.pdf",
+          "pages": [
+            "8"
+          ]
+        },
+        {
+          "cilt": 68,
+          "sitting": 125,
+          "sitting_date": "2001-06-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c068/tbmm21068125.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c068/tbmm21068fih.pdf",
+          "pages": [
+            "248:260"
+          ]
+        },
+        {
+          "cilt": 68,
+          "sitting": 126,
+          "sitting_date": "2001-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c068/tbmm21068126.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c068/tbmm21068fih.pdf",
+          "pages": [
+            "341:350"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=301&v_kullanici_id=27483196",
+      "page_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8",
+  "issuer": "TBMM",
+  "in_force": "2001-06-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/06/2001; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
