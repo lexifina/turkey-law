@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "275",
+  "decision_date": "2003-12-31",
+  "title": "1 Ocak 2004 tarihinden geçerli olmak üzere Boğaziçi Elektrik Dağıtım Anonim Şirketi tarafından uygulanacak olan Perakende Satış Tarifeleri hakkında",
+  "resmi_gazete_date": "2004-01-07",
+  "resmi_gazete_number": "25339",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c1jsW/1vjs4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c1jsW/1vjs4="
+  ],
+  "source_sha256": "8f59022b767338a6faa5b2f8e54e27bfec2beb9528f0362e4b5b1db2cd726dab",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-12-31",
+  "law_text_complete": false
+}
