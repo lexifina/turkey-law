@@ -1,0 +1,3 @@
+Bilimsel Denetim
+Madde 28- Öğretim elemanlarının bilimsel yönden denetlenmeleri, onların eğitim-öğretim, bilimsel araştırma, yayın, seminer, klinik ve uygulama faaliyetleri üzerinde olur. Öğretim elemanlarının bilimsel yayınları için üniversitede özel arşiv tutulur. Her eğitim-öğretim yılı sonunda bir ay içerisinde Rektörlük Mütevelli Heyete bu çalışmalarla ilgili bir rapor sunar.
+Her öğretim elemanı, bilimsel araştırmalarının, yayınlarının ve verdiği derslerle yönettiği seminerlerin ve uygulamaların listesini; yurt içinde ve dışında yapılan bilimsel kongrelerdeki tebliğlerin ikişer kopyasını, bağlı bulunduğu birim yöneticisi aracılığı ile Rektörlüğe sunmak zorundadır.

@@ -1,0 +1,5 @@
+Öğretim Elemanları ve Görevleri
+Madde 20- Öğretim Elemanlarının atanmalarında, Devlet Yükseköğretim kurumlarındaki atamalarda aranan koşullara ek olarak Mütevelli Heyetin gerekli gördüğü koşullar da aranır.
+Öğretim üyelerinin akademik unvanlara ilişkin yükseltilmeleri 2547 sayılı Kanunda belirtilen usullere göre yapılır.
+Tam zamanlı profesör, doçent, yardımcı doçent ve öğretim görevlilerinin atama süresi bir yıldır. Görev süresi dolmadan en az bir ay önceden haber verilmezse görev aynı süre ile uzatılmış sayılır.
+Okutmanlar ile yarı zamanlı öğretim elemanlarının görev süreleri iki sömestre ile sınırlıdır. Görevin sona ermesi halinde yeniden atanmaları mümkündür. Dersin özelliği göz önüne alınarak uzmanlık isteyen konuların eğitim-öğretim uygulamaları için kendi uzmanlık alanlarındaki çalışma ve eserleri ile tanınmış kişiler gerektiğinde daha uzun süreli olarak meslek yüksekokullarına veya enstitülere, öğretim görevlisi olarak atanabilirler. Atamalar ilgili Yönetim kurullarının görüşü alınarak Rektörün önerisi ve Başkanın onayı ile yapılır.

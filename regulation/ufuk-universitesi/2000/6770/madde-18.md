@@ -1,0 +1,7 @@
+Bölüm Başkanlığı ve Görevleri
+Madde 18- Birden fazla ana bilim dalı bulunan bölümlerde bölüm başkanı, o bölümün aylıklı profesörleri, bulunmadığı takdirde doçentler, doçent de bulunmadığı takdirde yardımcı doçentler arasından bölümü oluşturan ana bilim veya ana sanat dalı başkanlarının 15 gün içinde verecekleri yazılı görüş dikkate alınarak bir hafta içinde fakültelerde dekan, yüksekokullarda müdür tarafından seçilip Rektöre sunulur.
+Rektör de usulüne göre atamayı Başkanın onayına sunar.
+Tek ana bilim dalı bulunan bölümlerde bölüm başkanı; bölümün aylıklı profesörü bulunmadığı takdirde doçentleri, doçent de bulunmadığı takdirde yardımcı doçentleri arasından fakültelerde dekan, yüksekokullarda müdür tarafından seçilip Rektöre sunulur. Rektör de atamayı usulüne göre başkanın onayına sunar.
+Bölüm başkanlığı görev süresi en çok iki yıldır. Görev süresi biten bölüm başkanı tekrar seçilebilir.
+Bölüm Başkanı, Fakülte ve Yüksekokul Kuruluna katılır ve bölümünü temsil eder. Her eğitim-öğretim yılı sonunda bölümün geçmiş yıldaki eğitim-öğretim ve araştırma faaliyetleri ile gelecek yıldaki çalışma planı ile ilgili raporunu bağlı bulunduğu dekan veya yüksekokul müdürüne verir.
+Bölüm Başkanı lüzumu halinde bölümdeki öğretim üyelerinden en fazla iki kişiyi kendi süresi kadar süre ile başkan yardımcısı olarak seçip Rektöre bildirir. Rektör de atamayı usulüne göre Başkanın onayına sunar. Yardımcılar bölüm başkanının gerekli gördüğü durumda aynı usulle değiştirilebilir.

@@ -1,0 +1,4 @@
+İngilizce Hazırlık Sınıfı (Okulu) Müdürünün Görevleri
+Madde 19- İngilizce hazırlık sınıfı (Okulu) Müdürü, Rektörün önerisi ve Başkanın onayı ile en çok iki yıl için atanır. Süresi biten Müdür aynı süre ile yeniden atanabilir.
+Müdür, ihtiyaç halinde hazırlık sınıfında görevli aylıklı öğretim elemanları arasından en çok iki kişiyi yardımcı olarak görevlendirilmek üzere Rektöre bildirir. Rektör de atamayı usulüne göre Başkanın onayına sunar.
+Yükseköğretim Kurumlarında Yabancı Dille Eğitim Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik gereğince önlisans ve lisans programlarına ve lisansüstü programlara kayıtlı öğrencilerin kendi konularında okuduğunu ve duyduğunu anlayabilecek, kavrayabilecek, metinleri Türkçe’ye çevirebilecek, yazı ve söz ile kendini ifade edebilecek düzeylerde yabancı dil öğrenmelerini sağlamak için gerekli önlemleri alır. gerektiğinde üniversitenin yabancı dillerle ilgili hizmetlerinde danışmanlık görevini de yapar.

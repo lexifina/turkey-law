@@ -1,0 +1,4 @@
+İngilizce Hazırlık Eğitim-Öğretimi
+Madde 30- Zorunlu olarak bir yabancı dilde eğitim-öğretim yapan bölüm ve programlar dışında üniversitede eğitim-öğretim Türkçe yapılır. İlgili birim yönetim kurulunun önerisi ve üniversite yönetim kurulu kararı ile bir kısım dersler İngilizce yapılabilir. Ayrıca, Türkçe yapılan derslerde İngilizce kitaplar izlenerek, ödev, proje ve raporlar İngilizce istenebilir.
+Üniversiteye kabul edilen öğrenciler “İngilizce Yeterlilik Sınavı”na tabi tutulurlar. Bu sınavda İngilizce bilgilerinin yetersiz olduğu belirlenen öğrenciler, “İngilizce Hazırlık sınıfı (Okulu) Programı” na devam ederler. Öğrenciler önlisans ve lisans eğitimleri süresince de ders programlarında belirtilen mesleki amaçlı İngilizce derslerini alırlar.
+İngilizce Hazırlık sınıfı (Okulu) Programına devam etmek zorunda olan öğrenciler, “Ufuk Üniversitesi İngilizce Hazırlık sınıfı (Okulu) Eğitim-Öğretim ve Sınav Yönetmeliği” hükümlerine göre eğitim-öğretimlerini sürdürürler.
