@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1521",
+  "year": 1929,
+  "title": "Bazı zevat ailelerine verilecek ikramiye hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-09",
+  "gazette_issue": "1211",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1211.pdf",
+  "source_sha256": "5d9bfa8b7424cc02764e1297c3aa93eca2ebc4b41c667e51b8591c38e1ab343c",
+  "text_sha256": "89b87eae4d116c92154822c023a4868c315f8ed700720cb883a3515b04212669",
+  "text_status": "ocr",
+  "pages": [
+    14
+  ],
+  "line_span": [
+    [
+      1345,
+      1364
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701521.pdf",
+    "source_sha256": "2ffd0c64b3746f46ca0d5843e96808dd96e4f30b3f3c7511c10f85b6409a553b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9308,
+    "bag": 0.8592,
+    "kd_coverage": 0.9565,
+    "kd_body_compared": 0.9306,
+    "rg_words": 75,
+    "kd_words": 72,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
