@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82323,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Tekel Genel Müdürlüğü 1942 sayılı Kesinhesabı hakkında (1/71)",
+  "title": "Tekel Genel Müdürlüğü 1942 sayılı Kesinhesabı hakkında (1/71)",
+  "first_sitting_date": "1946-11-29",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 10,
+      "sitting_date": "1946-11-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c002/tbmm08002010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c002/tbmm08002fih.pdf",
+      "pages": [
+        "130"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 76,
+      "sitting_date": "1948-06-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012fih.pdf",
+      "pages": [
+        "368",
+        "411",
+        "414",
+        "431",
+        "443:444"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=941&v_gelecek_sayfa=201&v_kullanici_id=27484132",
+  "source_sha256": "7ab2f4410db427b53aadf8eb0c13c0cb9210269e229dc522ee88ec0837d8114d",
+  "in_force": "1946-11-29",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
