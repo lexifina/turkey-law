@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.64/6431-232/ 16719",
+  "source_id": 38369,
+  "date": "1997-04-28",
+  "title": "Konut Yapı kooperatifi adına kayıtlı arsa ile Belediye ait arsanın takas (trampa) edilmesi sırasında 2982 sayılı Kanuna göre harç ödenip ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/469/ozelge/38369",
+  "source_sha256": "d09ddb896ddc21dd353bf0f6420d7cff9939b2b2fb94a5283d9d26d56db43de5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
