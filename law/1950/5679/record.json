@@ -1,0 +1,75 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5679",
+  "year": 1950,
+  "title": "Türkiye ile İtalya Arasında Akit ve İmza Edilmiş Olan Dostluk, Uzlaşma ve Adlî Tesviye Anlaşmasının Onanması Hakkında Kanun",
+  "adopted": "1950-07-14",
+  "adopted_as_published": "14/07/1950",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.07.1950 No: 7564",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305679.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 33",
+  "committee_reports": [
+    {
+      "label": "TBMM 53 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c001/tbmm09001023ss0053.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 61843,
+      "title": "Türkiye ile İtalya Arasında Akit ve İmza Edilmiş Olan Dostluk, Uzlaşma ve Adlî Tesviye Anlaşmasının Onanması Hakkında Kanun",
+      "adopted_as_published": "14/07/1950",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305679.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 53 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c001/tbmm09001023ss0053.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 4,
+          "sitting_date": "1950-05-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c001/tbmm09001004.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c001/tbmm09001fih.pdf",
+          "pages": [
+            "42"
+          ]
+        },
+        {
+          "cilt": 1,
+          "sitting": 23,
+          "sitting_date": "1950-07-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c001/tbmm09001023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c001/tbmm09001fih.pdf",
+          "pages": [
+            "602",
+            "724:726",
+            "737",
+            "739",
+            "794:797"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=746&v_gelecek_sayfa=701&v_kullanici_id=27483180",
+      "page_sha256": "cd207f3825eded5a93fd40f12782a7647091ce8f1ed84013d70c6fb9e2afa197"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cd207f3825eded5a93fd40f12782a7647091ce8f1ed84013d70c6fb9e2afa197",
+  "issuer": "TBMM",
+  "in_force": "1950-07-14",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 14/07/1950; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
