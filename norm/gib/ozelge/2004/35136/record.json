@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6226-68-144/026508",
+  "source_id": 35136,
+  "date": "2004-06-10",
+  "title": "Adına kayıtlı muhtelif gayrimenkullerin şirketin Bankaya olan borçlarına karşılık yapılacak ipotek işleminden damga vergisi ve harç aranılmaması  gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35136",
+  "source_sha256": "1c270bef3dc7b18f7979e0ea1fb19db5471e3b4d38bd7f87445599c890c4f2ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
