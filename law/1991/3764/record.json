@@ -1,0 +1,69 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3764",
+  "year": 1991,
+  "title": "2972 Sayılı Mahallî İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında Kanunun 29. Maddesinde Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "1991-12-10",
+  "date_basis": "last-sitting",
+  "official_gazette_as_published": "geri gönderme No:",
+  "committee_reports": [
+    {
+      "label": "TBMM 1 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c001/tbmm19001013ss0001.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 256123,
+      "title": "2972 Sayılı Mahallî İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında Kanunun 29. Maddesinde Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [
+        {
+          "label": "TBMM 1 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c001/tbmm19001013ss0001.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 12,
+          "sitting_date": "1991-12-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c001/tbmm19001012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c001/tbmm19001fih.pdf",
+          "pages": [
+            "37"
+          ]
+        },
+        {
+          "cilt": 1,
+          "sitting": 13,
+          "sitting_date": "1991-12-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c001/tbmm19001013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c001/tbmm19001fih.pdf",
+          "pages": [
+            "404",
+            "437:474"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5",
+  "issuer": "TBMM",
+  "in_force": "1991-12-10",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (1991-12-10); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
