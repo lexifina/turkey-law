@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3937",
+  "year": 1940,
+  "title": "Askerî ve mülkî tekaüt kanununun 66. maddesi ve bu madde ile 67. maddesine eklenmiş fıkraların değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-12-16",
+  "gazette_issue": "4687",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4687.pdf",
+  "source_sha256": "4242db25f08c880e36cb7d2ae53f84eef5c694efbc7f4d3f535cf4c21eb3f947",
+  "text_sha256": "abda463f0a699fe48ec987613ce8ec89f7b54e0d4d9c2979ad7a803ef7c43dc3",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      50
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203937.pdf",
+    "source_sha256": "a85d9a1e601485a039283d028d6f4c5ded3bb0488d58ea3f265ae4e234c49fb8",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9761,
+    "bag": 0.9048,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9895,
+    "rg_words": 189,
+    "kd_words": 191,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
