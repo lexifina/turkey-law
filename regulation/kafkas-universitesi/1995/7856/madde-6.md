@@ -1,0 +1,1 @@
+Madde 6- Birim kütüphanelerinin yöneticileri, tercihen kütüphanecilik eğitimi görmüş deneyimli kişiler arasından atanır. Bu yöneticiler ve birim kütüphanelerinin diğer teknik ve idari personeli birim yöneticisine bağlıdır.

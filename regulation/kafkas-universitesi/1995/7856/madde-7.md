@@ -1,0 +1,1 @@
+Madde 7- Birim kütüphanelerinin yöneticileri 5. maddede Başkana verilen görevleri birim kütüphanesi içinde yerine getirir. Madde “5/h” ile belirtilen toplantıya katılır. “5/c” maddesinde belirtilen teknik ve okuyucu hizmetlerindeki koordinasyon ve standardizasyona uyar.

@@ -1,0 +1,1 @@
+Madde 13- Üniversitenin Öğretim Elemanları, personeli, öğrencileri kütüphanelerden yararlanabilir. Yurtiçinden ve yurtdışından gelen araştırmacıların kütüphaneden yararlanması Kütüphane ve Dökümantasyon Daire Başkanının iznine bağlıdır.

@@ -1,0 +1,1 @@
+Madde 16- Gününde iade edilmeyen ve ödünç verme süresi uzatılmayan kütüphane materyallerinden her geçen gün için para cezası alınır. Bu cezanın miktarı Başkanın önerisi üzerine ve Rektörlükçe tespit edilir.

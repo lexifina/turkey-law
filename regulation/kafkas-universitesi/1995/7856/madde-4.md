@@ -1,0 +1,2 @@
+Madde 4- Kütüphane hizmetleri; Kütüphane ve Dokümantasyon Daire Başkanlığı ile 124 sayılı Kanun Hükmünde Kararnamenin 38’inci maddesi uyarınca kurulan birim Kütüphanelerinin yöneticileri tarafından yürütülür.
+Kütüphaneye alınması istenilen (Kitap, peryodik, mikrofilim, disket vs.) materyallerin seçimi ve fiyatı belli olmayanların fiyat takdiri Rektör veya Rektör Yardımcısı Başkanlığında birim yöneticileri ile Kütüphane ve Dokümantasyon Daire Başkanı ve en az 1 kütüphaneciden oluşan “Kitap Seçimi ve Değer Takdir Komisyonu”nca bütçe ödenekleri dikkate alınarak yapılır.

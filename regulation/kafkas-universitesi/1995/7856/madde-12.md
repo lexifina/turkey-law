@@ -1,0 +1,1 @@
+Madde 12- Üniversite kütüphanesinde bulunan yazma ve nadir eserlerin onarılması, okuyucu hizmetlerine hazır hale getirilmesi ve hizmete sunulması Üniversite Yönetim Kurulunun bu yönetmelik çerçevesinde tespit edeceği ilkeler uyarınca sağlanır.
