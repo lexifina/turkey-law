@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6372",
+  "year": 1954,
+  "title": "1706 Sayılı Jandarma Kanununun 15. Maddesinin Değiştirilmesine ve Bu Kanuna Geçici Maddeler Eklenmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-20",
+  "gazette_issue": "8663",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8663.pdf",
+  "source_sha256": "49132546a7d80f90ec6ed440bb5b599841341d3794731ed2b6e89877c7c7468e",
+  "text_sha256": "695eb8580c0b928e03c49deaca90ddb0a8281a94b126b403df4eece76123323d",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      1539,
+      1570
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606372.pdf",
+    "source_sha256": "6be06fe8ede5ae276745fcd1efd4754d92dde2284c33c82ea879647957cc99d7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9763,
+    "bag": 0.9479,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9906,
+    "rg_words": 211,
+    "kd_words": 213,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
