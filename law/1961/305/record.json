@@ -1,0 +1,86 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "305",
+  "year": 1961,
+  "title": "60 404 000 Liralık Hazine Borç ve Alacağının Mahsubuna Dair Kanun (1/46)",
+  "adopted": "1961-04-25",
+  "adopted_as_published": "25/04/1961",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.5.1961 No: 10815",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc044/kanunkmc044/kanunkmc04400305.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 44",
+  "committee_reports": [
+    {
+      "label": "TM 47 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c005/tm__00005072ss0047.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Temsilciler Meclisi",
+      "term": null,
+      "kayit_no": 141215,
+      "title": "60 404 000 Liralık Hazine Borç ve Alacağının Mahsubuna Dair Kanun (1/46)",
+      "adopted_as_published": "25/04/1961",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc044/kanunkmc044/kanunkmc04400305.pdf",
+      "committee_reports": [
+        {
+          "label": "TM 47 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c005/tm__00005072ss0047.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 19,
+          "sitting_date": "1961-02-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001fih.pdf",
+          "pages": [
+            "268"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+        },
+        {
+          "cilt": 5,
+          "sitting": 71,
+          "sitting_date": "1961-05-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c005/tm__00005071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c005/tm__00005fih.pdf",
+          "pages": [
+            "512"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+        },
+        {
+          "cilt": 5,
+          "sitting": 72,
+          "sitting_date": "1961-05-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c005/tm__00005072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c005/tm__00005fih.pdf",
+          "pages": [
+            "543:544",
+            "609:611"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "499eee21abcf17b22e2a5f5e5ed5014fe409edb13278221e33001795decc9239"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "499eee21abcf17b22e2a5f5e5ed5014fe409edb13278221e33001795decc9239",
+  "issuer": "Temsilciler Meclisi",
+  "in_force": "1961-04-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Temsilciler Meclisi) as printed in the official TBMM kanunlar index: 25/04/1961; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
