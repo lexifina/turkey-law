@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 107598,
+  "assembly": "TBMM",
+  "term": 5,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Kalpazanlığın cezalandırılmasına dair Cenevre'de tanzim ve imza edilmiş olan beynelmilel mukavelename ile merbutu protokol ve nihaî senede iltihak edilmesi hakkında kanun lâyihasına dair (1/471)",
+  "title": "Kalpazanlığın cezalandırılmasına dair Cenevre'de tanzim ve imza edilmiş olan beynelmilel mukavelename ile merbutu protokol ve nihaî senede iltihak edilmesi hakkında kanun lâyihasına dair (1/471)",
+  "first_sitting_date": "1936-04-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 55,
+      "sitting_date": "1936-04-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c010/tbmm05010055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c010/tbmm05010fih.pdf",
+      "pages": [
+        "110",
+        "139"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 58,
+      "sitting_date": "1936-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011fih.pdf",
+      "pages": [
+        "4:9"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2177&v_gelecek_sayfa=201&v_kullanici_id=27483922",
+  "source_sha256": "3c2698ce830534c3add0ba0401108e8c52be58ea7454e5fbe98045eb81bd102e",
+  "in_force": "1936-04-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
