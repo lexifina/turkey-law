@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2003/5699",
+  "source_id": 1916,
+  "date": "2003-06-06",
+  "title": "Kanuni ödeme süresinden önce ödenen amme alacağı için uygulanan Erken Ödeme İndirimi oranlarına ilişkin",
+  "source": "https://gib.gov.tr/mevzuat/kanun/458/bkk/1916",
+  "related_law": "4811 sayılı VERGİ BARIŞI KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "8994010b78d18e31d88b9a5c9eee7ed99a7fc3466227463ceb096a7ae033e517",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
