@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6340-135/58278",
+  "source_id": 37545,
+  "date": "1999-12-30",
+  "title": "Bir Ltd. Şti. ile x Bankası A.Ş. arasında yapılacak rehin sözleşmesi işlemleri damga vergisi ve harçtan muaf değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/37545",
+  "source_sha256": "40aaf60d682a678dd8f90a6361e6df8666e3c9870a5b135b4b48f092e9c3729d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
