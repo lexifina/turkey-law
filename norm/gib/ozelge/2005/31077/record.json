@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-2954-13656",
+  "source_id": 31077,
+  "date": "2005-03-24",
+  "title": "Yurt dışındaki GSM operatörleri tarafından verilen haberleşme hizmetlerinin ise hizmet ithali kapsamında değerlendirilerek KDV'ye tabi tutulması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31077",
+  "source_sha256": "9ac4cbd1a176609c6536bb8927d35bab69818ac423521afa469dac1e1de7aec3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
