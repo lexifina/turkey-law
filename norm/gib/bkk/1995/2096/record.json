@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "95/6428",
+  "source_id": 2096,
+  "date": "1995-02-01",
+  "title": "GELİR VE KURUMLAR VERGİSİ MÜKELLEFLERİ İLE SORUMLULARI TARAFINDAN GELİR VE KURUMLAR VERGİSİNDEN AYRI OLARAK SÖZ KONUSU VERGİLER ÜZERİNDEN HESAPLANACAK FON PAYI NİSPETİNİN YENİDEN BELİRLENMESİ İLE FON PAYI HASILATININ DAĞILIMINA İLİ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/bkk/2096",
+  "related_law": "5422 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "20d12aea73d9592c23533659e0a00fc94862c7f22a77546a4f11d84023391fce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
