@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5313-452",
+  "source_id": 31414,
+  "date": "2003-11-04",
+  "title": "Belediyenin kendi isteği ile katma değer vergisi ödemek istemesi halinde, ödenen katma değer vergisi tutarının satıcı tarafından ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31414",
+  "source_sha256": "761fd84bfe9c68f22551ae119c24b59c642164c171e125dd72f4bfeb55ab5f2a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
