@@ -1,0 +1,102 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 299332,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Ceza İnfaz Kurumları ve Tutukevleri Personeli Eğitim Merkezleri Kanunu Tasarısına ilişkin",
+  "title": "Ceza İnfaz Kurumları ve Tutukevleri Personeli Eğitim Merkezleri Kanunu Tasarısına ilişkin",
+  "first_sitting_date": "2002-01-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 84,
+      "sitting": 58,
+      "sitting_date": "2002-01-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c084/tbmm21084058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c084/tbmm21084fih.pdf",
+      "pages": [
+        "537:547"
+      ]
+    },
+    {
+      "cilt": 86,
+      "sitting": 64,
+      "sitting_date": "2002-02-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c086/tbmm21086064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c086/tbmm21086fih.pdf",
+      "pages": [
+        "68:72"
+      ]
+    },
+    {
+      "cilt": 86,
+      "sitting": 65,
+      "sitting_date": "2002-02-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c086/tbmm21086065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c086/tbmm21086fih.pdf",
+      "pages": [
+        "179:180"
+      ]
+    },
+    {
+      "cilt": 87,
+      "sitting": 67,
+      "sitting_date": "2002-02-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c087/tbmm21087067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c087/tbmm21087fih.pdf",
+      "pages": [
+        "577:578"
+      ]
+    },
+    {
+      "cilt": 87,
+      "sitting": 68,
+      "sitting_date": "2002-02-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c087/tbmm21087068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c087/tbmm21087fih.pdf",
+      "pages": [
+        "631:635"
+      ]
+    },
+    {
+      "cilt": 87,
+      "sitting": 69,
+      "sitting_date": "2002-03-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c087/tbmm21087069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c087/tbmm21087fih.pdf",
+      "pages": [
+        "706:714",
+        "716:728"
+      ]
+    },
+    {
+      "cilt": 101,
+      "sitting": 121,
+      "sitting_date": "2002-07-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c101/tbmm21101121.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c101/tbmm21101fih.pdf",
+      "pages": [
+        "37:75"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=606&v_gelecek_sayfa=501&v_kullanici_id=27484520",
+  "source_sha256": "d975510c6818a8a427b574c7a5275b4dd104a851e5223b47acada76297666b68",
+  "in_force": "2002-01-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
