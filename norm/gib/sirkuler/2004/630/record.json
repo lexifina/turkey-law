@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-27/2004-19/2004 yılı indirim oranı",
+  "source_id": 630,
+  "date": "2004-12-10",
+  "title": "İndirim oranı; Vergi Usul Kanununa göre o yıl için tespit edilmiş olan yeniden değerleme oranının, aynı dönemde Devlet tahvili ve Hazine bonosu ihalelerinde oluşan bileşik ortalama faiz oranına bölünmesi suretiyle tespit edilmektedir. Vergi Usul Kanunu hü",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/630",
+  "source_sha256": "cea707b73558ba604e634eac84f676d6ce571dca893331cf243d13928a76cbc0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
