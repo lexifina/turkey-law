@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4038-100 /041019",
+  "source_id": 22691,
+  "date": "2004-09-03",
+  "title": "İlaç fiyatlarındaki düşüş nedeniyle oluşan zararın GVK. 40 ıncı madde hükmü çerçevesinde gider olarak indirilmesinin mümkün olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22691",
+  "source_sha256": "2a0c2a1af9619409a4f6e712d0f26423d575aae2f32eda46ca1070ce460d2c5b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
