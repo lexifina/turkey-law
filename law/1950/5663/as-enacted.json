@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5663",
+  "year": 1950,
+  "title": "Eskişehir'de sel baskınından zarar görenler için yaptırılacak meskenler hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-04-01",
+  "gazette_issue": "7472",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7472.pdf",
+  "source_sha256": "ec8b658bb774629c98f0d1ba741e3aecf81df9e7046059d8463736a157f6c823",
+  "text_sha256": "1677ba6c172f3ca74ec0987a97028d91dc4544bbdc5258596be36e5b70cc08f4",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      1064,
+      1178
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205663.pdf",
+    "source_sha256": "f2c807bb69137e2f5284d8fab06b8e3489712dd6ad56037415a1e0364ff435f8",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9814,
+    "bag": 0.9428,
+    "kd_coverage": 0.9776,
+    "kd_body_compared": 0.9776,
+    "rg_words": 815,
+    "kd_words": 848,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
