@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4428-22/12792",
+  "source_id": 26365,
+  "date": "1999-04-05",
+  "title": "Basit usul mükelleflerin gerçek usulde vergiye tabi olmayan çiftçilerden satın aldıkları mallar için müstahsil makbuzu düzenlemeleri gerekmektedir.Esnaf muaflığından yararlananlardan mal ve hizmet alımları için gider pusulası düzenlenecek, ancak vergi tev",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/26365",
+  "source_sha256": "36fadb518e66b0ffbb7eefab274e34e05b1495359c5df72824915d2bd9987c8f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
