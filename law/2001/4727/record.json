@@ -1,0 +1,184 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4727",
+  "year": 2001,
+  "title": "2000 Malî Yılı Kesinhesap Kanunu",
+  "adopted": "2001-12-12",
+  "adopted_as_published": "12/12/2001",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.12.2001 No: 24622 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc086/kanuntbmmc086/kanuntbmmc08604727.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 86",
+  "committee_reports": [
+    {
+      "label": "TBMM 773 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c077/tbmm21077029ss0773.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 298712,
+      "title": "2000 Malî Yılı Kesinhesap Kanunu",
+      "adopted_as_published": "12/12/2001",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc086/kanuntbmmc086/kanuntbmmc08604727.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 773 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c077/tbmm21077029ss0773.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 69,
+          "sitting": 129,
+          "sitting_date": "2001-09-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c069/tbmm21069129.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c069/tbmm21069fih.pdf",
+          "pages": [
+            "19"
+          ]
+        },
+        {
+          "cilt": 76,
+          "sitting": 28,
+          "sitting_date": "2001-11-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c076/tbmm21076028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c076/tbmm21076fih.pdf",
+          "pages": [
+            "392"
+          ]
+        },
+        {
+          "cilt": 77,
+          "sitting": 29,
+          "sitting_date": "2001-12-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c077/tbmm21077029.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c077/tbmm21077fih.pdf",
+          "pages": [
+            "11:117"
+          ]
+        },
+        {
+          "cilt": 78,
+          "sitting": 30,
+          "sitting_date": "2001-12-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c078/tbmm21078030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c078/tbmm21078fih.pdf",
+          "pages": [
+            "9:133"
+          ]
+        },
+        {
+          "cilt": 78,
+          "sitting": 31,
+          "sitting_date": "2001-12-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c078/tbmm21078031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c078/tbmm21078fih.pdf",
+          "pages": [
+            "163:309"
+          ]
+        },
+        {
+          "cilt": 78,
+          "sitting": 32,
+          "sitting_date": "2001-12-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c078/tbmm21078032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c078/tbmm21078fih.pdf",
+          "pages": [
+            "328:454"
+          ]
+        },
+        {
+          "cilt": 78,
+          "sitting": 33,
+          "sitting_date": "2001-12-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c078/tbmm21078033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c078/tbmm21078fih.pdf",
+          "pages": [
+            "489:618"
+          ]
+        },
+        {
+          "cilt": 79,
+          "sitting": 34,
+          "sitting_date": "2001-12-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c079/tbmm21079034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c079/tbmm21079fih.pdf",
+          "pages": [
+            "6:169"
+          ]
+        },
+        {
+          "cilt": 79,
+          "sitting": 35,
+          "sitting_date": "2001-12-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c079/tbmm21079035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c079/tbmm21079fih.pdf",
+          "pages": [
+            "189:337"
+          ]
+        },
+        {
+          "cilt": 79,
+          "sitting": 36,
+          "sitting_date": "2001-12-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c079/tbmm21079036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c079/tbmm21079fih.pdf",
+          "pages": [
+            "349:444",
+            "446:524"
+          ]
+        },
+        {
+          "cilt": 79,
+          "sitting": 37,
+          "sitting_date": "2001-12-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c079/tbmm21079037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c079/tbmm21079fih.pdf",
+          "pages": [
+            "576:634",
+            "740:742"
+          ]
+        },
+        {
+          "cilt": 80,
+          "sitting": 38,
+          "sitting_date": "2001-12-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c080/tbmm21080038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c080/tbmm21080fih.pdf",
+          "pages": [
+            "12:103",
+            "152:175"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=301&v_kullanici_id=27483196",
+      "page_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8",
+  "issuer": "TBMM",
+  "in_force": "2001-12-12",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 12/12/2001; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
