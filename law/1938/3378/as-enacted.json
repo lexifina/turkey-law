@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3378",
+  "year": 1938,
+  "title": "Posta, Telgraf ve Telefon Umum Müdürlüğü 1937 mali yılı bütçesine 150 000 lira munzam tahsisat verilmesi hakkında kantin",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-05-04",
+  "gazette_issue": "3898",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3898.pdf",
+  "source_sha256": "5239925ce9459ce3cfb803a1f53e851df7e2f777edcc8c1acc55aa8e6659a960",
+  "text_sha256": "a4db8d8632be73099a016f45a62f954b2ac4184bd63b6e2d0673b96a043dc350",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      58,
+      73
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803378.pdf",
+    "source_sha256": "b9f29187f906a7a213952244ccc018e4f09be69b948cc0e1300b3533573316ac",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9537,
+    "bag": 0.8876,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.978,
+    "rg_words": 89,
+    "kd_words": 91,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
