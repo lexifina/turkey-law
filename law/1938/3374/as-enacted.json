@@ -1,0 +1,53 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3374",
+  "year": 1938,
+  "title": "Gayrimühadillere tahsis, edilen malalrın vergileri hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-05-02",
+  "gazette_issue": "3896",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3896.pdf",
+  "source_sha256": "d955c1666779f1c7d488a35ec557979fb053e454775ab887d78d81b2bb6bcb80",
+  "text_sha256": "66853187f46900a41cc8ae648f9efc8ccac050ee4dccb0ee8654f8afc3cc7e37",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      564,
+      565
+    ],
+    [
+      520,
+      528
+    ],
+    [
+      549,
+      552
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803374.pdf",
+    "source_sha256": "ae1db7a501930be390d748c38b3a434bcb87cc73e7fd27ba107365a56389bc0a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9376,
+    "bag": 0.911,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8532,
+    "rg_words": 98,
+    "kd_words": 109,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
