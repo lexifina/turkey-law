@@ -1,0 +1,2 @@
+Müdür
+Madde 4 —Müdür, Kafkas Üniversitesinin aylıklı öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi sona eren Müdür yeniden atanabilir.Müdür, Atatürk İlkeleri ve İnkılap Tarihi konusunda araştırmalar yapan en fazla iki öğretim elemanını kendisine yardımcı olarak görevlendirir. Müdür gerekli gördüğü hallerde yardımcılarını değiştirebilir. Müdürün görevi sona erince yardımcıların görevi de kendiliğinden sona erer.
