@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-04",
+  "issue": "2571",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Belediye Adının Değiştirilmesine Dair Karar",
+  "title": "Denizli İli Tavas İlçesine Bağlı Büyükkonak Belediyesinin İsminin “Nikfer” Olarak Değiştirilmesine Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050204-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050204.htm",
+  "index_sha256": "94f1b2caabfd6ec39c14fe967fe3de71f45aea21cd2430c9c614f1625f450b64",
+  "index_header": "4 Şubat 2005 ... Sayı : 2571",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
