@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "64",
+  "decision_date": "2002-10-24",
+  "title": "Doğal gaz piyasası sertifika yönetmeliği ile ilgili",
+  "resmi_gazete_date": "2002-10-26",
+  "resmi_gazete_number": "24918",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KUJxV+qpfOg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KUJxV+qpfOg="
+  ],
+  "source_sha256": "a30ff146effab87c7ae5c40cfd0f68aafde7af6e31d366f085f3186ea8ed20bc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2002-10-24",
+  "law_text_complete": false
+}
