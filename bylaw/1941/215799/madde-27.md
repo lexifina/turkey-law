@@ -1,0 +1,2 @@
+Müteferrik vazifeler
+Madde 27 – Veteriner teşkilatının daimi murakabesi altında bulundurulması icap eden pazar, panayır gibi hayvan alım satımı yapılan yerlerin, süthane, inekhane, hanlar, canbaz, arabacı ve kiracı ahırları ve menzilhane gibi toplu hayvan bulundurulan mevkilerin ve buralarda kullanılan bütün vasıtaların intizamı, temizliği, dezenfeksiyonu hususlarında ve sair teknik hususlarda belediyelere ve halka ait mükellefiyetlerin tatbikını kontrol ederek neticelerini bağlı bulundukları veteriner teşkilatına bildirirler.

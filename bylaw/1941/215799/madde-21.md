@@ -1,0 +1,3 @@
+İKİNCİ FASIL
+HAYVAN SAĞLIĞI MEMURLARl[2]
+Madde 21 – (Mülga: 26.1.1973 - 7/5680 K.)

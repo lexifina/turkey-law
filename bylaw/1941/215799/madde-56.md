@@ -1,0 +1,1 @@
+Madde 56 – Ziraat Vekaleti Vazife ve Teşkilatı Kanununun 9 uncu ve 25 inci maddelerine dayanılarak hazırlanmış ve Devlet Şürasınca tetkik edilmiş olan bu Nizamname hükümleri Resmi Gazete ile neşri tarihinin ertesi gününden yürümeğe başlar.

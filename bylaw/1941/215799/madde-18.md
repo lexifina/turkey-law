@@ -1,0 +1,1 @@
+Madde 18 – Aynı sınıfta veyahut mektebin bütün tedris müddeti içinde iki kere sınıfta kalanlar mektepten çıkarılır. İmtihanlara girmemek de sınıfta kalmayı mucip olur. Hastalık ve askerlik gibi makbul sebeplerle ders senesinin yarısından ziyade müddetle mektepte bulunamamaktan dolayı iki defa sınıfta kalanlar Ziraat Vekilinin tasvibiyle tahsillerine devam edebilirler.

@@ -1,0 +1,2 @@
+Madde 37 – Hastalık çıkan veya şüphe edilen mahalle muvasalat eden veterinere 35 ve 36 ncı maddelerdeki hususlardan neler yapılmış olduğunu bildirmekle beraber Hayvan Sağlık Zabıtası Nizamnamesinin 54, 55, 56, 58, 59, 61, 62, 64 ve 65 inci maddeleri hükümlerinin tatbikında veterinerin vereceği direktiflere göre hareket ederler.
+(Ek: 26.1.1973 - 7/5680 K.) Veteriner hekim olmayan yerlerde, yetkileri içinde ilk tedbirleri alırlar ve durumu en seri vasıta ile bağlı bulundukları veteriner teşkilatına bildirirler.

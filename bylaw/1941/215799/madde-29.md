@@ -1,0 +1,1 @@
+Madde 29 – Nakliyat yapan arabacıların ve jandarma eratının Hayvan Sağlık Nizamnamesinin 45 inci maddesiyle Mücadele Talimatnameleri mucibince tabi bulundukları mükellefiyetleri tatbik etmelerini temin ve aksi harekette bulunanlardan alakalı makamları haberdar ederler.

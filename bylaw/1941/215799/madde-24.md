@@ -1,0 +1,8 @@
+Kara hudut mıntakalarındaki vazifeler
+Madde 24 – Kara hudut mıntakalarına tayin edilen hayvan sağlık memurları kendi iş mıntakası dahilinde ve hududun 15 kilometre derinliğindeki sahada mevcut büyük ve küçük baş hayvanları Sağlık Zabıtası Kanununa dahil hastalıklar bamından daimi murakabe altında bulundururlar. Bu maksatla :
+A) Hayvanları seriri ve icabında termometre tatbikı suretiyle muayene ederler.
+B) Komşu hükümetlere yapılmış olan mukaveleler ve Hayvan Sağlık Zabıtası Nizamnamesinin 36 ncı maddesi hükümlerine göre hudut mıntakası dahilinde hayvanlarla daimi olarak kalmak üzere bu mıntakaya giren hayvanların damga, kayıt ve tescil işlerini yapmakla mükellef bulunan memurlara bu hususlarda yardım ederler,
+C) Hudut, kapı, iskele veya istasyonlarda muamelesi ikmal edildikten sonra Türkiye'ye giren veyahut Hayvan Hareketleri Talimatnameleri mucibince ecnebi memleketlere ihraç edilmek üzere hinterlanttan hudut mıntakasına dahil olan hayvanların bu mıntakadaki seyir ve hareketlerini takip hususunda bağlı bulundukları makamlardan verilecek emirlere göre iş yaparlar,
+Ç) Bağlı bulundukları teknik makamın vereceği emir ve program dahilinde her ayın on beş gününü yukarıdaki fıkralarda yazılı işlerin ifasına tahsis ederler. Bu program dahilinde hangi tarihlerde nerelerde ne iş gördüklerini kendilerine verilen bir iş cüzdanına kaydederek usulüne göre salahiyetli makamlara tasdik ettirirler,
+D) Muayene ve kontrol esnasında sıhhat alametlerinde görecekleri her değişikliği ve hastalık veya hastalıktan şüpheli halleri bağlı bulundukları veteriner teşkilata en seri vasıta ile haber verirler ve icrasına salahiyetli bulundukları ilk tedbirleri alırlar.
+(II)

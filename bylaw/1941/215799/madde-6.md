@@ -1,0 +1,1 @@
+Madde 6 – Mektep müdürü, mektebin idari, mali ve fenni işlerini kanun, nizamname ve talimatnamelere göre yapar. Ders programlarının aynı ile tatbikını temin eder. Uhdesine tevdi edilen dersleri programı mucibince verir. Bütün bu işler için doğrudan doğruya Ziraat Vekaletiyle muhabere eder.

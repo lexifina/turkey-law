@@ -1,0 +1,1 @@
+Madde 33 – Muayenelerde köyün veya çiftliğin büyük ve küçükbaş tek ve çift tırnaklı hayvanlarını ve kanatlılarını elden geçirirler. Ve icabına göre termometre tatbik etmek suretiyle seriri muayene yaparak Hayvan Sağlık Zabıtası Kanununa dahil hastalıkları araştırırlar.

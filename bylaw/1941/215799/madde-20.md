@@ -1,0 +1,1 @@
+Madde 20 – Mekteplerde dahili işlerin ne yolda yürütüleceği nazari, ameli ve tatbiki derslerin ne kadar müddette ve hangi müfredatla tedris olunacağı Vekaletçe hazırlanacak bir talimatname ile tesbit olunur.
