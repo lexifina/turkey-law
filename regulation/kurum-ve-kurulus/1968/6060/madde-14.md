@@ -1,0 +1,2 @@
+Aylık kesme ve kıdemin durdurulması cezalarının ölçüsü :
+Madde 14- Aylık kesme cezası verilmesi halinde kaç günlük aylık kesintisi yapılacağı ve kıdemin durdurulması cezası verilmesi halinde kıdemin ne kadar müddet için durdurulacağı kanunda yazılı hadleri aşmamak şartıyla fiilin mahiyet ve ağırlık derecesine göre, hafifletici veya ağırlaştırıcı sebepler de göz önüne alınarak Memurlar Seçim ve Disiplin Kurulunca takdir olunur.

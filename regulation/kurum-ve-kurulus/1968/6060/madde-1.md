@@ -1,0 +1,1 @@
+Madde 1- Başkan ve üyeler dışındaki Sayıştay meslek mensuplarının mesleğin vakar ve şerefiyle bağdaşamayan, hizmetin veya görevlerinin aksamasını mucip olan, çalışma düzenini veya disiplini bozan hal ve hareketlerinin neler olduğu ve bunlara verilecek disiplin cezaları bu İç yönetmelikte gösterilmiştir.
