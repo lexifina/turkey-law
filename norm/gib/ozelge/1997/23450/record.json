@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4061- 20/14271",
+  "source_id": 23450,
+  "date": "1997-04-04",
+  "title": "Kıdem tazminatının geç ödenmesi nedeniyle ödenen faiz alacak faizi niteliğinde olduğundan tevkif yoluyla vergilendirilmemiş menkul sermaye iradı olarak yıllık beyanname ile beyan edilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23450",
+  "source_sha256": "23e8b3a88c99f8331aaea898c53712112f53350ee1a2b1921eec3f147b7686cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
