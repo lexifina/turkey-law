@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 2,
+  "sira_sayisi": "80",
+  "label": "TBMM 80 no'lu Komisyon Raporu",
+  "title": "Türk Ceza Kanunu",
+  "document_date": "1926-03-01",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 23, birleşim 64)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c023/tbmm02023064ss0080.pdf",
+  "pdf_sha256": "6662b27ddf0e1692829f61747a477d19cc8daf88b49435736881ce16d2d8acce",
+  "pdf_bytes": 8300583,
+  "pdf_pages": 64,
+  "index_entries": [
+    126642
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d02&v_yasama_yili=4&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1926-03-01",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
