@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4549",
+  "year": 1944,
+  "title": "Türk Kodeksine uygun olmıyan tıbbi ecza ve kimya maddelerinin memlekete ithalleri hakkında kanun",
+  "adopted": "1944-04-24",
+  "adopted_as_published": "24/04/1944",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.04.1944 No: 5693",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604549.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 26",
+  "committee_reports": [
+    {
+      "label": "TBMM 88 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009042ss0088.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 7,
+      "kayit_no": 90176,
+      "title": "Türk Kodeksine uygun olmıyan tıbbi ecza ve kimya maddelerinin memlekete ithalleri hakkında kanun",
+      "adopted_as_published": "24/04/1944",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604549.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 88 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009042ss0088.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 9,
+          "sitting": 41,
+          "sitting_date": "1944-04-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009fih.pdf",
+          "pages": [
+            "48"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 42,
+          "sitting_date": "1944-04-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009fih.pdf",
+          "pages": [
+            "52:56"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 43,
+          "sitting_date": "1944-04-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009fih.pdf",
+          "pages": [
+            "59:60",
+            "235"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "07e06d74fa5f53c8982c760a272083eab8a1bed0021118d504aac8eab397d5e7"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "07e06d74fa5f53c8982c760a272083eab8a1bed0021118d504aac8eab397d5e7",
+  "issuer": "TBMM",
+  "in_force": "1944-04-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 24/04/1944; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
