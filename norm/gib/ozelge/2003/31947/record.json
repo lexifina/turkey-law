@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.GEL.0.53/5330- 92-39057",
+  "source_id": 31947,
+  "date": "2003-09-24",
+  "title": "Kamu kurum ve kuruluşları ile diğer gerçek ve tüzel kişilere karşı sunulan ticari nitelikli hizmetlere yönelik olarak kullanılmak üzere  alınan araçlara ait katma değer vergisi indirim konusu yapılabilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31947",
+  "source_sha256": "85afdce251044c91eb28c20dd086ec7dfbe9669b776811ffd0215faf9df9bae2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
