@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 276942,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "ADİL AYDIN (ANTALYA)",
+  "summary": "Ve 3 Arkadaşının 6831 Sayılı Orman Kanununun Bir Maddesinin Değiştirilmesi Hakkında Kanun Teklifi, Ankara Milletvekili A. Baki Tuğ ve 23 Arkadaşının Orman Kanunu ile Türk Ceza Kanununun Birer Maddesinin Değiştirilmesine Dair Kanun Teklifi, Edirne Milletvekili Hasan Basri Eler'in Orman Kanununun Bir Maddesinde Değişiklik Yapılması Hakkında (2/1147, 2/1155, 2/1156)",
+  "title": "Ve 3 Arkadaşının 6831 Sayılı Orman Kanununun Bir Maddesinin Değiştirilmesi Hakkında Kanun Teklifi, Ankara Milletvekili A. Baki Tuğ ve 23 Arkadaşının Orman Kanunu ile Türk Ceza Kanununun Birer Maddesinin Değiştirilmesine Dair Kanun Teklifi, Edirne Milletvekili Hasan Basri Eler'in Orman Kanununun Bir Maddesinde Değişiklik Yapılması Hakkında (2/1147, 2/1155, 2/1156)",
+  "first_sitting_date": "1995-06-29",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 90,
+      "sitting": 132,
+      "sitting_date": "1995-06-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c090/tbmm19090132.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c090/tbmm19090fih.pdf",
+      "pages": [
+        "328:337"
+      ]
+    },
+    {
+      "cilt": 90,
+      "sitting": 133,
+      "sitting_date": "1995-07-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c090/tbmm19090133.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c090/tbmm19090fih.pdf",
+      "pages": [
+        "393:425"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "43aaab60f7da3252bdc7db630895d9f1c1cc55124b058e8901f22e28ebfb794c",
+  "in_force": "1995-06-29",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
