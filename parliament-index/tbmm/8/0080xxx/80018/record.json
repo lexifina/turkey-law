@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 80018,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar / Milli Savunma Komisyonu Raporu",
+  "title": "TBMM fihrist kaydı 80018 (Raporlar / Milli Savunma Komisyonu Raporu)",
+  "first_sitting_date": "1949-11-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 10,
+      "sitting_date": "1949-11-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c021/tbmm08021010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c021/tbmm08021fih.pdf",
+      "pages": [
+        "201"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 12,
+      "sitting_date": "1949-12-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022fih.pdf",
+      "pages": [
+        "15:17"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1724&v_gelecek_sayfa=1201&v_kullanici_id=27484112",
+  "source_sha256": "68f4701fb75541b76dc54372808312fbe35c3882fd2d0f7206f7e0bd483f9f79",
+  "in_force": "1949-11-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
