@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-20",
+  "issue": "25113",
+  "edition": "regular",
+  "item": 33,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-1",
+  "title": "Küçükçekmece Belediye Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030520-3-1.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (38 = 38)",
+  "ilan_codes": [
+    "14295/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030520-3-1.htm",
+  "category_page_sha256": "3e0c5baaa9ada85990ea578fa7c2b5af3e14cd73ef5d77c023443e2b37d0ad65",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030520.htm",
+  "index_sha256": "922e83711f9ae9ed4e4c20ce1f18959f96cfdc6c678b4ab0bc9f72bc9824099f",
+  "index_header": "20 Mayıs 2003 ... Sayı : 25113",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
