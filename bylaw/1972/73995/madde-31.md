@@ -1,0 +1,3 @@
+Normal alım satım bedel cetvelleri:
+Madde 31 – Vergi daireleri, görev alanları içerisinde bulunan arsalara ait normal alım satım fiyatlarını, her belediye ve Emlak Vergisi Kanununun 12 nci maddesine göre arsa sayılan arazinin bulunduğu her köy için ayrı ayrı düzenleyecekleri normal alım satım bedel cetvellerine meydan, sahil, cadde ve sokaklara göre ve metrekaresinin alım satım fiyatlarını gösterecek şekilde kaydederler.
+Mükellefler tarafından vergi dairelerine yapılmış olan beyanlardan normal alım satım bedeli olarak gösterildiğine kanaat getirilen arsa vergi değerleri de bu cetvellere işlenir.
