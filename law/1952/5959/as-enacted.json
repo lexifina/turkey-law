@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5959",
+  "year": 1952,
+  "title": "Isparta İli Uluborlu İlçesinin Senirkent Bucağında İlçe Kurulması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-06-23",
+  "gazette_issue": "8142",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8142.pdf",
+  "source_sha256": "ec7d0afab6f26dedec02179e13746eb3ea7251d207b0a9b7912f8c872f35b431",
+  "text_sha256": "810ed0921d6dfed72d617ef3af0780778ff440d9aed11dd98f79cc6bf2c2c732",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      415,
+      461
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [3] (no text layer)",
+    "tesseract_pages": [
+      3
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405959.pdf",
+    "source_sha256": "ca1a1cf791b5dbe8209aa7be50d1403befe3a998368dc8bec6a2e655f566be77",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9176,
+    "bag": 0.8081,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 224,
+    "kd_words": 219,
+    "own_anchor": false,
+    "foreign_anchors": 5
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
