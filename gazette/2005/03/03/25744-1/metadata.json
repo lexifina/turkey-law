@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-03-03",
+  "issue": "25744",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "Kanun",
+  "title": "5304 Kadastro Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050303-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050303.htm",
+  "index_sha256": "482b9d412afa5c3b5dca328cc003ab2c8c4fbef9d95eab49dcd3827e7f33f5e7",
+  "index_header": "3 Mart 2005 ... Sayı : 25744",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
