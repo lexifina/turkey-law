@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-06-03",
+  "issue": "25127",
+  "edition": "regular",
+  "item": 27,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "M. Enver Şenerdem Torbalı Devlet Hastanesinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030603-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (39 = 39)",
+  "ilan_codes": [
+    "16770/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030603-3-3.htm",
+  "category_page_sha256": "8da1799f8740d859662cd4478a63fc7244fc9985bc384094e5b2c7b223bcd04c",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030603.htm",
+  "index_sha256": "e0b8e78d58ea16b7913b2d89c2707eed27c5496b0827844a227c4f11691914c9",
+  "index_header": "3 Haziran 2003 ... Sayı : 25127",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
