@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "636",
+  "year": 1977,
+  "title": "Eğitim ve öğretimde bölgeler ve okullar arasındaki dengesizliğin nedenlerini ve çarelerini saptamak amacıyla bir Meclis Araştırması Komisyonu kurulmasına ilişkin",
+  "adopted": "1977-02-09",
+  "adopted_as_published": "09/02/1977",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/karartbmmc060/karartbmmc06000636.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 60",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 457232,
+      "title": "Eğitim ve öğretimde bölgeler ve okullar arasındaki dengesizliğin nedenlerini ve çarelerini saptamak amacıyla bir Meclis Araştırması Komisyonu kurulmasına ilişkin",
+      "adopted_as_published": "09/02/1977",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/karartbmmc060/karartbmmc06000636.pdf",
+      "committee_reports": [],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "c84314d62e2636033411f25d705d60bcb13f0be1f0edc676e60a7e3fcf2a3a44"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "c84314d62e2636033411f25d705d60bcb13f0be1f0edc676e60a7e3fcf2a3a44",
+  "issuer": "Millet Meclisi",
+  "in_force": "1977-02-09",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kararlar index: 09/02/1977; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
