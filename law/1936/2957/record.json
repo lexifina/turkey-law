@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2957",
+  "year": 1936,
+  "title": "2395 sayılı kazanç vergisi Kanununa ek kanun",
+  "adopted": "1936-04-24",
+  "adopted_as_published": "24/04/1936",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.04.1936 No: 3291",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602957.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 16",
+  "committee_reports": [
+    {
+      "label": "TBMM 152 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c010/tbmm05010052ss0152.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104171,
+      "title": "2395 sayılı kazanç vergisi Kanununa ek kanun",
+      "adopted_as_published": "24/04/1936",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602957.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 152 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c010/tbmm05010052ss0152.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 51,
+          "sitting_date": "1936-04-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c010/tbmm05010051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c010/tbmm05010fih.pdf",
+          "pages": [
+            "48"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 52,
+          "sitting_date": "1936-04-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c010/tbmm05010052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c010/tbmm05010fih.pdf",
+          "pages": [
+            "68:69"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 55,
+          "sitting_date": "1936-04-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c010/tbmm05010055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c010/tbmm05010fih.pdf",
+          "pages": [
+            "118",
+            "119",
+            "126:129"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=920&v_gelecek_sayfa=101&v_kullanici_id=27483162",
+      "page_sha256": "a274169445dbc921a74425ccb535ecc268148b569d8b8351a65db77bbccd044d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a274169445dbc921a74425ccb535ecc268148b569d8b8351a65db77bbccd044d",
+  "issuer": "TBMM",
+  "in_force": "1936-04-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 24/04/1936; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
