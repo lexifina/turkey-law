@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6314-370",
+  "source_id": 36212,
+  "date": "2003-06-11",
+  "title": "Anonim, eshamlı komandit ve limited şirketlerin birleşme, devir, bölünme ve nev'i değişiklikleri nedeni ile yapılacak işlemlerin harca tabi tutulup tutulmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36212",
+  "source_sha256": "aacda306ecad08ecd2d3300c9378620dfca67b4fabf2b378563dcbcaeb594345",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
