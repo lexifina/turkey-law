@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5696",
+  "year": 1951,
+  "title": "Göçmenler Menfaatine Bir Keşide Tertibi İçin Millî Piyango İdaresine Yetki Verilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-01-15",
+  "gazette_issue": "7708",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7708.pdf",
+  "source_sha256": "c45181422c460845270b81b99c4dad8a0a5bf14d4bd6ba0a9893000a49f79d68",
+  "text_sha256": "6e9817b3c7c2f408fb7fdd20b18863f329bc6f4b88fade9132d3760e3452185c",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      446,
+      463
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305696.pdf",
+    "source_sha256": "0cc00f096691b5964d265d136a77ab39b23102ab5f27aac5006a61e86d72d013",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9646,
+    "bag": 0.9249,
+    "kd_coverage": 0.9767,
+    "kd_body_compared": 0.9438,
+    "rg_words": 89,
+    "kd_words": 89,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
