@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5812",
+  "year": 1951,
+  "title": "Millî Savunma Bakanlığının Kuruluş ve Görevlerine Dair 5398 Sayılı Kanunun Beşinci Maddesinin Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-07-16",
+  "gazette_issue": "7859",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7859.pdf",
+  "source_sha256": "da4ed3e655234a49b5dd0a498130f12504326000545a57012fc58396fb26c52a",
+  "text_sha256": "efcb534decb84c5425b05ff822c552e6461a6a5a3a4cd29fd178d5c95688c3b1",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      281,
+      294
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305812.pdf",
+    "source_sha256": "454ebd5ada744e514b2bbe3d9dbc69dee17bc235b09de4c9155376ab3bedbd56",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9045,
+    "bag": 0.8402,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9785,
+    "rg_words": 78,
+    "kd_words": 93,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
