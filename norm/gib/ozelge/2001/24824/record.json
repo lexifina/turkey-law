@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-546/65098",
+  "source_id": 24824,
+  "date": "2001-12-05",
+  "title": "31.12.2004 tarihine kadar, 26.07.2001-31.12.2002 tarihleri arasında ihraç edilen Devlet tahvilleri ve Hazine bonolarının faiz gelirleri ve elden çıkarılmasından sağlanan diğer kazançlar toplamının; 2001 yılında 50 milyar lirası, 2002 ve izleyen yıllarda b",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24824",
+  "source_sha256": "ff781a7b1de7aa867dbb4df580a4f9b41989fb0d391ca7317d1f66388eab5044",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
