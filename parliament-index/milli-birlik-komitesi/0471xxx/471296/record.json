@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 471296,
+  "assembly": "Milli Birlik Komitesi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "ORHAN SEZAİ OKAN (TEMSİLCİLER MECLİSİ MİLLİ BİRLİK KOMİTESİ ÜYESİ) (KURMAY ALBAY)",
+  "summary": "Devlet Plânlama Teşkilâtının kurulması hakkındaki 30.9.1960 tarih ve 91 sayılı Kanuna ek Kanun hakkında (2/77)",
+  "title": "Devlet Plânlama Teşkilâtının kurulması hakkındaki 30.9.1960 tarih ve 91 sayılı Kanuna ek Kanun hakkında (2/77)",
+  "first_sitting_date": "1960-10-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 22,
+      "sitting_date": "1960-10-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MBK_/d00/c002/mbk_00002022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MBK_/d00/c002/mbk_00002fih.pdf",
+      "pages": [
+        "3:6"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=MBK&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=21&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=21&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=154&v_gelecek_sayfa=101&v_kullanici_id=27484944",
+  "source_sha256": "b5a5c2426f1a7eba96f1bc264ac972a23b54bd745f6544e3423a9275d3401e00",
+  "in_force": "1960-10-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
