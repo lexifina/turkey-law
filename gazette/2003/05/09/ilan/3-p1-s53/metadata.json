@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-09",
+  "issue": "25103",
+  "edition": "regular",
+  "item": 53,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-1",
+  "title": "Türkiye Vagon Sanayii Anonim Şirketinden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030509-3-1.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (57 = 57)",
+  "ilan_codes": [
+    "13046/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030509-3-1.htm",
+  "category_page_sha256": "2c6757cd992bf1d26793d6fd077a3ea94e43c98bb9cc006ae53820cf63731646",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030509.htm",
+  "index_sha256": "88c9a897fd46a3a7228a7fb6d2c5c6040456f50574192dd7e98cebb6cc8f8a01",
+  "index_header": "9 Mayıs 2003 ... Sayı : 25103",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
