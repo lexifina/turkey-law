@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4117-05/45802",
+  "source_id": 23125,
+  "date": "2004-09-28",
+  "title": "Zirai işletmesine dahil bir kamyonu olan çiftçi, işletme büyüklüğü ölçülerini aşmasa dahi gerçek usülde vergilendirilirler.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23125",
+  "source_sha256": "e11d08fc87f0f7bcbeb11c9cecaabd8270062100fc653db1cbb713bf6fff5748",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
