@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Belediye Meclisi",
+  "number": "638",
+  "decision_date": "1960-05-02",
+  "title": "SALİHA APARTMANINA İKİ KAT İLAVESİ",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1960-638.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1960",
+  "listing_sha256": "4cad15f0e588e029c0a5aa3ca19f8837c2dcfee0242cf696595a31e7f97d68bf",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
