@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3909",
+  "year": 1940,
+  "title": "Büyük Millet Meclisi 1940 malî yılı bütçesine fevkalâde tahsisat verilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-08-10",
+  "gazette_issue": "4584",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4584.pdf",
+  "source_sha256": "7bab8087395b5449f7618fa8260ee50ab7c3da30a6300e675c0d4c55ff0a572d",
+  "text_sha256": "e2bc704a5f9be155463854356edd17830112a67559e6ab42ff24c334f10e8efd",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      110,
+      121
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103909.pdf",
+    "source_sha256": "ecc474084507084af2c6e5fd47e37bf4905bbe0dd877e3903e48ac5352dea570",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9528,
+    "bag": 0.9351,
+    "kd_coverage": 0.975,
+    "kd_body_compared": 0.975,
+    "rg_words": 76,
+    "kd_words": 80,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
