@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8680",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TEKSTİL VE KONFEKSİYON ÜRÜNLERİNİN İTHALATINA İLİŞKİN TEBLİĞ (2004/8)",
+  "number": "8680",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2004/8680",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8680&MevzuatTertip=5",
+  "source_sha256": "515a6e6748cd419e9103dd0dc3229f175b64266ca9fac8ec7beb2bf84feaf20a",
+  "source_bytes": 14605,
+  "published": "2004-12-28",
+  "gazette": "25684",
+  "in_force": "2004-12-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.12.2004); own commencement article: \"Bu Tebliğ 1 Ocak 2005 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1 Ocak 2005 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 291,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
