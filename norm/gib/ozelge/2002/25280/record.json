@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-579/14861",
+  "source_id": 25280,
+  "date": "2002-04-03",
+  "title": "İşyerine hırsız giren mükellefin hayat standardı dışında tutulup tutulmayacağı hakkında....",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/25280",
+  "source_sha256": "78623bd8a1ab471420b9cb1e72ed1729722f1115a6fc8210669fd1e016ce0693",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
