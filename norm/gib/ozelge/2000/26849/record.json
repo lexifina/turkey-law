@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2949-/45179",
+  "source_id": 26849,
+  "date": "2000-10-04",
+  "title": "Yabancı para cinsi ile olan vadesi gelmemiş senetli alacak ve borçlar dönem sonunda değerleme günü kıymetine irca edilebilir. Yapılacak olan reeskont ve/veya prekont işlemlerinde reeskont ve/veya prekont faiz oranı belirtilmemişse uygulanacak faiz oranı o",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26849",
+  "source_sha256": "91298bb6d2148c30fadb4c1bd8be3201bccf3a318e9645319f4ea63966757e66",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
