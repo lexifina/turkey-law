@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1883",
+  "year": 1931,
+  "title": "Ankara Şehri İmar müdürlüğünce yapılacak istikraz hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-08-03",
+  "gazette_issue": "1863",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1863.pdf",
+  "source_sha256": "39ca422c33d487cf3aa72730cf065a1b3435cf60bc90e3898ed5a4a3503a2a39",
+  "text_sha256": "9c9ce10d62bff52087d8f0ddd7ae981f8234da75fdfb9fc966527f300d293d82",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      428,
+      473
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001883.pdf",
+    "source_sha256": "dddd70e6146bea4206483ad247f8106d935d647c9ded98204b1be8a91d4210df",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9655,
+    "bag": 0.9219,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9843,
+    "rg_words": 131,
+    "kd_words": 127,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
