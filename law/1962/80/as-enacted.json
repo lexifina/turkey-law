@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "80",
+  "year": 1962,
+  "title": "İstanbul Elektrik, Tramvay ve Tünel İdareleri Teşkilât ve Tesisatının İstanbul Belediyesine Devrine dair 3645 Sayılı Kanunun 10. Maddesinin Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-10-23",
+  "gazette_issue": "11239",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11239.pdf",
+  "source_sha256": "6a55369e181f22788fbdc2e8d2a92f6188c2167f3a3b717e0c523c8d42fa9f72",
+  "text_sha256": "0d80ebe8ca80ed1a9b0a628a1d4a8e38a401ae57a3a634f1653c4ca29234fee3",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      58,
+      71
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500080.pdf",
+    "source_sha256": "26c2fceb034f43171a54587386e69801290e54b3adc082aa760fa5a6fb477307",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9884,
+    "bag": 0.929,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9381,
+    "rg_words": 92,
+    "kd_words": 97,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
