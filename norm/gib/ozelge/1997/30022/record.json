@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5411-1959-42761",
+  "source_id": 30022,
+  "date": "1997-10-08",
+  "title": "Geç ödeme ile ilgili tazminat ile satılan malların geç yüklemesi nedeniyle uygulanan geç yükleme tazminatının, satılan malların tabi olduğu oranda katma değer vergisine tabi tutulması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30022",
+  "source_sha256": "c01493936cfdd5ac2f073b7af457a3003e463d8409ed27863e69379862a7136d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
