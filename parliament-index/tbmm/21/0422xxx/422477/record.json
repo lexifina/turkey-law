@@ -1,0 +1,126 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 422477,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "1998 Malî Yılı Genel ve Katma Bütçeli İdareler Kesinhesap Kanunu Tasarıları (1/509), (1/510)",
+  "title": "1998 Malî Yılı Genel ve Katma Bütçeli İdareler Kesinhesap Kanunu Tasarıları (1/509), (1/510)",
+  "first_sitting_date": "1999-12-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 37,
+      "sitting_date": "1999-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c020/tbmm21020037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c020/tbmm21020fih.pdf",
+      "pages": [
+        "323:413"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 38,
+      "sitting_date": "1999-12-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021fih.pdf",
+      "pages": [
+        "5:44"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 39,
+      "sitting_date": "1999-12-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021fih.pdf",
+      "pages": [
+        "137:257",
+        "259:273"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 40,
+      "sitting_date": "1999-12-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021fih.pdf",
+      "pages": [
+        "311:440"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 41,
+      "sitting_date": "1999-12-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021041.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021fih.pdf",
+      "pages": [
+        "463:589"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 42,
+      "sitting_date": "1999-12-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021fih.pdf",
+      "pages": [
+        "622:740"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 43,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021043.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021fih.pdf",
+      "pages": [
+        "35:107",
+        "133"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 44,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021044.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c021/tbmm21021fih.pdf",
+      "pages": [
+        "235:374"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 45,
+      "sitting_date": "1999-12-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c022/tbmm21022045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c022/tbmm21022fih.pdf",
+      "pages": [
+        "407:457",
+        "618:620"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=755&v_gelecek_sayfa=201&v_kullanici_id=27484530",
+  "source_sha256": "e5c758dee6af313556afcff482913e2d104bc18cae4c70b2aff84b98ed48d8ab",
+  "in_force": "1999-12-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
