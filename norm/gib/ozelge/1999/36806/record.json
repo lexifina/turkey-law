@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-702/22444",
+  "source_id": 36806,
+  "date": "1999-06-03",
+  "title": "Banka ve sigorta şirketleri dışındaki kişi ve kuruluşların mevduat faiz gelirlerinin banka ve sigorta muameleleri vergisine tabi tutulup tutulmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36806",
+  "source_sha256": "2093c0fab6c33e831acc6810c27e45aaf1e50e29e4f82a3a389db2d7e58c9495",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
