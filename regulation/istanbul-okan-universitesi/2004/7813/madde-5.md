@@ -1,0 +1,6 @@
+Çift Anadal Programı ve Devamı
+Madde 5 —a) Öğrencinin kendi bölümünün lisans programı ile çift anadal programının ayrılığı esastır. Çift anadal programındaki başarı derecesi, öğrencinin kendi programındaki başarısını ve mezuniyet derecesini hiç bir şekilde etkilemez. Çift anadal programı için ayrı not değerlendirmesi ve ayrı transkript düzenlenir.
+b) Çift anadal programına ders kaydı yaptıracak öğrencilerin, her yarıyılın başında not belgeleri (transkriptleri) ile birlikte ders kayıt dönemi içinde çift anadal programı açan ilgili bölüm başkanlığına başvurarak kayıtlarını tamamlamak zorundadırlar.
+c) Bir öğrenci iki çift anadal veya hem çift anadal, hem yandal programına kayıt yaptıramaz.
+d) Çift anadal eğitim-öğretimi süresince genel not ortalamaları en fazla 2.00'ye kadar inen öğrencilere çift anadal programına devam hakkı tanınır. Esas anadal programını tamamlayan fakat ikinci anadal programından eksikleri kalan öğrencilere bu programı tamamlamaları için çift anadal ikinci lisans programının bulunduğu fakültenin yönetim kurulunun gerekçeli kararı ile iki yarıyıl ek süre verilebilir. Öğrenciler bu süre içerisinde ikinci programa nakil yapmış gibi kayıt yaptırırlar.
+e) Anadal lisans programından mezuniyet hakkını elde eden öğrenci çift anadal ikinci lisans programını bitiremese bile anadal lisans programına ait diplomasını alabilir.

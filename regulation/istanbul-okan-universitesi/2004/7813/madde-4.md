@@ -1,0 +1,1 @@
+Madde 4 —Burslu kontenjandan üniversiteye yerleştirilen öğrenciler de dahil olmak üzere Çift Anadal Programına kabul edilen öğrencilerden kredi/saat başına alınacak ücret Üniversite Yönetim Kurulunca tespit edilir.
