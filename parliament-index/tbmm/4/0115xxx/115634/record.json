@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 115634,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "İzmir Mebusu Halil Beyin gümrük tarife Kanununa müzeyyel 2/19 numaralı kanun teklifi hakkında",
+  "title": "İzmir Mebusu Halil Beyin gümrük tarife Kanununa müzeyyel 2/19 numaralı kanun teklifi hakkında",
+  "first_sitting_date": "1933-11-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 6,
+      "sitting_date": "1933-11-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c018/tbmm04018006.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c018/tbmm04018fih.pdf",
+      "pages": [
+        "54"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 8,
+      "sitting_date": "1933-12-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019008.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019fih.pdf",
+      "pages": [
+        "3"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=1001&v_kullanici_id=27483870",
+  "source_sha256": "d857ec64d6e7e04864beae4f8c60c3106b8d5bd012f102e163cbdd2e9272ffb0",
+  "in_force": "1933-11-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
