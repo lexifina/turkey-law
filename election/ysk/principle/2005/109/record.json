@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2005/109",
+  "list_number": "109",
+  "decision_date": "2005-03-12",
+  "title": "YSK ilke kararı 2005/109",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3730/2005-109-karar.htm",
+  "source_sha256": "d9d2dbbff0ec55d2be966614a3ce31fcf835da26437564c4ba06d5308f0f9752",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2005-03-12",
+  "law_text_complete": false
+}
