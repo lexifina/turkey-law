@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2968-298-387-16596",
+  "source_id": 26922,
+  "date": "2004-04-27",
+  "title": "Enflasyon düzeltmesi yapması gereken bir kooperatifin,enflasyon düzeltmesini yaptığı yıla ilişkin düzeltme sonucu ortaya çıkan kar veya zararı o yılın kurumlar vergisi matrahının hesaplanmasında dikkate alınmayacağı, ancak bir sonraki yılın kurumlar vergi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26922",
+  "source_sha256": "bdea3120c21aac83725852f7bd2e0c3b2a8c4c2cc4c5e26ef36f0d2d9b39be7d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
