@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.6169",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 42)",
+  "number": "6169",
+  "path": "teblig/2004/6169",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6169&MevzuatTertip=5",
+  "source_sha256": "aecb9ed29265a580e62001e86ec21213b61816ee3f2b2c537dc6756b51ac6c59",
+  "source_bytes": 38182,
+  "published": "2004-12-22",
+  "gazette": "25678",
+  "in_force": "2004-12-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.12.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 546,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
