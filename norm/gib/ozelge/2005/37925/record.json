@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.68/6808-8/003674",
+  "source_id": 37925,
+  "date": "2005-01-26",
+  "title": "Çiftçi ve Kooperatifçilik Tanıtma Eğitim ve Ödüllendirme Fonu kesintilerinin takip ve tahsili işlemleri Tarım ve Köyişleri Bakanlığı tarafından yürütülür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37925",
+  "source_sha256": "f95cf80dc0b78e7739083549105c0f50286e9404d8e482d9a092c4ecf76bbb2e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
