@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-840/2345",
+  "source_id": 22221,
+  "date": "2005-01-17",
+  "title": "Satın alınan veya trampa suretiyle iktisap olunan arazinin iktisap tarihinden itibaren 5 yıl içinde parsellenerek bu müddet içinde veya daha sonraki yıllarda kısmen veya tamamen satılmasından elde edilen kazançların ticari kazanç sayılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22221",
+  "source_sha256": "08d7f2d3181b674ba220893f628a4a28df8d0db9cfed969280945167ecd3028a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
