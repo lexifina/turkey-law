@@ -1,0 +1,3 @@
+Endüstri Bölgeleri Koordinasyon Kurulu
+MADDE 2 - Endüstri bölgeleri kurulacak alanları belirlemek ve bu Kanunla verilen diğer görevleri yerine getirmek üzere Başbakanlık Müsteşarının başkanlığında; Maliye, Bayındırlık ve İskân, Tarım ve Köyişleri, Sanayi ve Ticaret, Enerji ve Tabiî Kaynaklar, Kültür, Turizm ve Çevre bakanlıkları müsteşarları, Devlet Plânlama Teşkilâtı, Hazine, Dış Ticaret ve Denizcilik müsteşarları, Köy Hizmetleri Genel Müdürü ile Türkiye Odalar ve Borsalar Birliği temsilcisinden oluşan Endüstri Bölgeleri Koordinasyon Kurulu kurulmuştur.
+Kurul, gerektiğinde ilgili kurum ve kuruluşların görüşlerine başvurur ve bunların temsilcilerini toplantıya davet eder. Kurulun sekretarya hizmetleri, Sanayi ve Ticaret Bakanlığı tarafından yürütülür.

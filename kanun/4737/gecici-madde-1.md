@@ -1,0 +1,3 @@
+GEÇİCİ MADDE 1 - 4562 sayılı Organize Sanayi Bölgeleri Kanunu hükümlerine göre kurulmuş bulunan mevcut organize sanayi bölgelerinden Sanayi ve Ticaret Bakanlığınca uygun görülenler, Endüstri Bölgeleri Koordinasyon Kurulunun teklifi üzerine Bakanlar Kurulunca endüstri bölgesi olarak ilan edilebilirler.
+Endüstri bölgesi kurulması talep edilen yerlerde, organize sanayi bölgelerinin bulunması durumunda, öncelikle mevcut organize sanayi bölgeleri bu madde uyarınca endüstri bölgesi olarak ilan edilebilirler.
+Endüstri bölgesi olarak ilan edilen organize sanayi bölgeleri mevcut organları vasıtasıyla sevk ve idare edilir. Bu bölgelerde, bu Kanun ile tanımlanan yatırımı gerçekleştiren yatırımcılar yine bu Kanun ile getirilen teşviklerden yararlanırlar.
