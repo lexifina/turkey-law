@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 63877,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Kayseri Milletvekili Fikri Apaydın ve Kâmil Gündeş'in Dilekçe Komisyonunun 23.3.1950 tarihli Haftalık Karar Cetvelindeki 3020 sayılı Kararın Kamutayda görüşülmesine dair önergesi hakkında (4/19)",
+  "title": "Kayseri Milletvekili Fikri Apaydın ve Kâmil Gündeş'in Dilekçe Komisyonunun 23.3.1950 tarihli Haftalık Karar Cetvelindeki 3020 sayılı Kararın Kamutayda görüşülmesine dair önergesi hakkında (4/19)",
+  "first_sitting_date": "1951-08-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 109,
+      "sitting_date": "1951-08-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009109.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009fih.pdf",
+      "pages": [
+        "573"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=401&v_kullanici_id=27484171",
+  "source_sha256": "251fa6f9ec6b8523e27fed72f8edffe71ca7309f177279a47b7cc1dd7d213795",
+  "in_force": "1951-08-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
