@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6516-832/14205",
+  "source_id": 25400,
+  "date": "2004-03-31",
+  "title": "Parakende ticaretle uğraşan veya hizmeti ifa eden birinci ve ikinci sınıf tacirlerin vergi usul kanunua göre fatura düzenlemek zorunda olmadıkları, satışlarını belgelendirmek için ödeme kaydedici cihaz mecburiyetlerinin olduğu ve kooperatiflerin de birinc",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/25400",
+  "source_sha256": "eaea6ab59c99f091cad2f0948219ea1057a4e66ffe9a6e050782b3c577b6915d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
