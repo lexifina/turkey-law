@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4106-341/18112",
+  "source_id": 24683,
+  "date": "1999-05-10",
+  "title": "Zirai ürünlerin tesliminden önce çiftçilere yapılan avans ödemelerinin tevkifata tabi tutulacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24683",
+  "source_sha256": "84acca13b30f7e6a3086c2d9d3e782df3b96bccb7cb90a5c1b290a6e01b8d06f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
