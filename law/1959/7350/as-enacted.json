@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7350",
+  "year": 1959,
+  "title": "Türkiye Cumhuriyeti Emekli Sandığı hakkındaki Kanunun 100. maddesinin tadili ve bu kanuna iki madde eklenmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-06-22",
+  "gazette_issue": "10233",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10233.pdf",
+  "source_sha256": "702ed4b5fcb782812b9fa74ff875fd18178d5b4707707b276fc214e43ed75313",
+  "text_sha256": "057fcf8f8f8d7db577dd95e73dbf794ceebf1117ca59b5bf5d1737bc6ea4a772",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      145,
+      244
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107350.pdf",
+    "source_sha256": "f7e78659249676ff1bddcf947c240b05848fb7fe8817e6e36094792cc6720e13",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.945,
+    "bag": 0.8015,
+    "kd_coverage": 0.9804,
+    "kd_body_compared": 0.9733,
+    "rg_words": 390,
+    "kd_words": 412,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
