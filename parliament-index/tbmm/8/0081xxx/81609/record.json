@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 81609,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Ankara Belediyesine, arsa ve arazisinden belli bir kısmının mesken yapacaklara 2490 sayılı Kanun Hükümlerine bağlı olmaksızın ve muayyen Şartlarla tahsis ve temlik Yetkisinin verilmesi hakkında 5218 sayılı Kanuna ek kanun tasarısı (1/533)",
+  "title": "Ankara Belediyesine, arsa ve arazisinden belli bir kısmının mesken yapacaklara 2490 sayılı Kanun Hükümlerine bağlı olmaksızın ve muayyen Şartlarla tahsis ve temlik Yetkisinin verilmesi hakkında 5218 sayılı Kanuna ek kanun tasarısı (1/533)",
+  "first_sitting_date": "1949-04-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 65,
+      "sitting_date": "1949-04-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018fih.pdf",
+      "pages": [
+        "76:77"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 98,
+      "sitting_date": "1949-06-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c020/tbmm08020098.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c020/tbmm08020fih.pdf",
+      "pages": [
+        "3"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 99,
+      "sitting_date": "1949-06-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c020/tbmm08020099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c020/tbmm08020fih.pdf",
+      "pages": [
+        "123:135"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 101,
+      "sitting_date": "1949-06-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c020/tbmm08020101.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c020/tbmm08020fih.pdf",
+      "pages": [
+        "284:295"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 102,
+      "sitting_date": "1949-06-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c020/tbmm08020102.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c020/tbmm08020fih.pdf",
+      "pages": [
+        "316:353"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=941&v_gelecek_sayfa=601&v_kullanici_id=27484132",
+  "source_sha256": "cb688a10cb038d9be4ece930cc992f3e39e3079e070be63d8c7c90191a8091ab",
+  "in_force": "1949-04-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
