@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3282",
+  "year": 1937,
+  "title": "Devlet demiryolları ve limanları umumî idaresinin teşkilât ve vazifelerine dair olan 1042 sayılı Kanunun 25. maddesinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-12-25",
+  "gazette_issue": "3792",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3792.pdf",
+  "source_sha256": "b6e16db7f6e29d7bff25327b8e39ca67fa16b5db5497f63633412a2c61b24e9b",
+  "text_sha256": "7cc5d144c9c2bbad9d3f0320d5ce3cd49480eb9937e17d2ae4de5b37c31703eb",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      25
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803282.pdf",
+    "source_sha256": "67c1495f3359c23f1f7627d54e32d5e7d37b0be01337fb1e03bc5ea1f5e37dd1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9317,
+    "bag": 0.8571,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9733,
+    "rg_words": 74,
+    "kd_words": 75,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
