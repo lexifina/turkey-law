@@ -1,0 +1,1 @@
+Madde 3 – (...) (1) Yiyecek, içecek, giyecek, tabii yardım, çadır ve diğer her türlü taşınır mallar (...) (2) Kızılay'a aktarılır. Bu amaçla toplanan yardımlar derhal tabii afet bölgelerine intikal ettirilir ve tabii afet bölgeleri dışında kullanılamaz.
