@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5144-493",
+  "source_id": 38513,
+  "date": "1999-12-23",
+  "title": "Dernek ve Vakıflara Ödenen Menkul Sermaye İratlarında Tevkifat Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38513",
+  "source_sha256": "7d38b6fb36e711902ee3380aababddafef7c1a43d1ebd2192c4b26cc870dc767",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
