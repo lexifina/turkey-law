@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "216",
+  "year": 1961,
+  "title": "5682 sayılı Pasaport Kanununa ek Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1961-01-12",
+  "gazette_issue": "10705",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10705.pdf",
+  "source_sha256": "668e7645f39ea8e40baa525b06c006763ee444d05f378157222ba47c427a29c1",
+  "text_sha256": "d987dd82468e7a3589f75762709460a9a6d8dbe1870635a69951d7ff4d6b4f0e",
+  "text_status": "ocr",
+  "pages": [
+    10
+  ],
+  "line_span": [
+    [
+      1577,
+      1589
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [10] (no text layer)",
+    "tesseract_pages": [
+      10
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300216.pdf",
+    "source_sha256": "b82763b5b165ea50fa83edcd6458dd7fc5342fef7bf333fde733b714e92680c5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9037,
+    "bag": 0.6378,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9149,
+    "rg_words": 99,
+    "kd_words": 94,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
