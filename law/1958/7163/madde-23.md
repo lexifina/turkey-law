@@ -1,0 +1,1 @@
+Madde 23 – Enstitü; Muhasebei Umumiye, Artırma, Eksiltme ve İhale kanunları hükümlerine ve Divanı Muhasebat vize ve murakabesine tabi değildir. Artırma, eksiltme ve ihale işleriyle hesap ve sarf işlerinin ne suretle yürütüleceği ve müsbit evrakın şekli ve çeşitleri Maliye Vekaletinin de mütalaası alınarak idare heyetince yapılacak bir talimatname ile tesbit olunur. (1)

@@ -1,0 +1,1 @@
+Madde 20 – Asıl vazifeleri uhdelerinde kalmak şartiyle öğretim, araştırma ve derleme çalışmalarına geçici olarak katılanlara beher ders veya konferans saati veya inceleme veya araştırma için ödenecek ücretler her yıl enstitü bütçesi ile birlikte İcra Vekilleri Heyetince yeniden tesbit olunur.

@@ -1,0 +1,5 @@
+7163 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER
+1- 29/3/2011 tarihli ve 6215 sayılı Kanunun geçici maddesi:
+Geçici Madde 1 – 25/6/1958 tarihli ve 7163 sayılı Türkiye ve Orta-Doğu Amme İdaresi Enstitüsü Teşkilat Kanununa dayalı olarak eğitim-öğretim yapan Türkiye ve Orta-Doğu Amme İdaresi Enstitüsünde lisansüstü öğrenim görmekte iken terör suçundan hüküm giyenler hariç her ne sebeple olursa olsun ilişiği kesilenler, 25 Temmuz 2011 tarihine kadar Enstitüye başvuruda bulunmaları halinde 6111 sayılı Kanunun 173 üncü maddesiyle 2547 sayılı Kanuna eklenen geçici 58 inci madde ile tanınan haklardan Türkiye ve Orta-Doğu Amme İdaresi Enstitüsü Lisansüstü Öğretim Yönetmeliği hükümleri çerçevesinde yararlandırılırlar.
+Türkiye ve Orta-Doğu Amme İdaresi Enstitüsü Sevk ve İdare Yüksekokulu öğrencisi iken terör suçundan hüküm giyenler hariç her ne sebeple olursa olsun ilişiği kesilenlerin de bu maddenin yürürlüğe girdiği tarihten itibaren yukarıda belirtilen başvuru süresi içerisinde başvurmaları halinde Yükseköğretim Kurulunca uygun görülen yükseköğretim kurumu belirlenerek bu Kanunla verilen hakların kullanılması sağlanır.
+3184-1

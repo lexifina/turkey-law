@@ -1,0 +1,5 @@
+III - Giriş şartları
+Madde 15 – Amme İdaresi Enstitüsünün giriş müsabakasına katılabilmek için üniversite veya yüksek okul mazunu olmak şarttır. Bu şartı haiz bulunan kimseler arasından, idare heyetinin tesbit edeceği esaslar dairesinde yapılacak müsabaka imtihanını kazananlar Türkiye ve Orta Doğu Amme Enstitüsüne devam edebilirler.
+Yukardaki evsafı haiz olup da Devlet dairelerinde, mahalli idarelerde, İktisadi Devlet Teşekküllerinde çalışanlardan müsabaka imtihanını kazananlara tahsil süresince izin verilir. Bu kimseler bütün özlük haklarından faydalanmakta, maaş ve ödeneklerini kendilerine izin veren daire, müessese ve teşekküllerden almakta devam ederler. Enstitüdeki tahsillerini başarı ile bitirenlerin Enstitüde geçirdikleri müddet kıdemlerine sayılır ve bu müddetin bir katı (1 seneden az olmamak üzere) kıdemlerine eklenir.
+Kendi hükümetleri tarafından Enstitüye adaylığı teklif edilecek yabancılar, tesbit edilecek esaslar dairesinde İcra Komitesince öğrenci olarak kabul edilebilir.
+3183

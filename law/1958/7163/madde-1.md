@@ -1,0 +1,2 @@
+I - Teşkilat ve vazifeleri
+Madde 1 – Amme İdaresinin muasır telakkisine göre gelişmesine yararlı çalışmalar yapmak suretiyle idare sanatında eleman yetiştiren ve memurların idari sahada olgunlaşmasını sağlamayı hedef tutan ve 6139 sayılı kanunla musaddak Teknik Yardım Anlaşması gereğince kurulmuş olan Türkiye ve Orta - Doğu Amme İdaresi Enstitüsü ilmi, idari ve mali muhtariyeti ve hükmi şahsiyeti haizdir.

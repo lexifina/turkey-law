@@ -1,0 +1,2 @@
+Madde 14 – Öğretim ve araştırma mütehassısları:
+Beş yıl muvaffakiyetle Enstitüde asistanlık yapanlar arasından doktorasını başarı ile verdikten sonra eserleriyle tanınıp 5 kişilik bir jüri marifetiyle imtihanla çalıştığı sahada olgunluğu tesbit edilenlerden veya Enstitü dışından eserleri ve amme idaresiyle ilgili sahalardaki çalışmalariyle tanınmış kimseler arasından 5 kişilik bir jürice seçilenler Enstitüdeki öğretim ve araştırma işlerinde mütehassıs olarak vazife görürler.

@@ -1,0 +1,1 @@
+Madde 3 – Enstitü, 2 nci maddede yazılı görevlerini başarabilmek için idare ve ilim müesseseleriyle iş birliği yapar. Yurt içindeki bütün mütehassıslardan faydalanır; ilgili milletlerarası kurumlarla ilmi münasebet ve temaslarda bulunur.
