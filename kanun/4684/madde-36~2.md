@@ -22,9 +22,9 @@ Kaynak Kullanımını Destekleme Fonundan ihtisas kredilerine ödenmesi gereken 
 b) 6.12.1984 tarihli ve 3100 sayılı Kanunun 9 uncu maddesinin (5) numaralı fıkrası uyarınca ödeme kaydedici cihaz özel hesabında biriken mevcut nakit bütçeye gelir yazılmak üzere Hazine hesaplarına intikal ettirilir.
 c) Bu Kanunla tasfiye edilen Akaryakıt Fiyat İstikrar Fonunun 31.12.2001 tarihine kadar tahakkuk eden, ancak ödenemeyen yükümlülükleri bütçeye bu amaçla konulacak ödenekten karşılanır.
 d) Tasfiye edilen Toplu Konut Fonu gelirleri arasında yer alan aşağıdaki gelirlerin, bu konuda yeni bir düzenleme yapılıncaya kadar Hazine adına tahsiline devam edilerek Hazine hesaplarına intikali sağlanır.
-1— Tekel idaresi ve tekel dışında kalan gerçek ve tüzel kişiler tarafından imal edilen alkollü ve alkolsüz içkiler, tütün mamulleri, ispirto ve ispirtolu içkiler ve her türlü içki imalinde kullanılan alkollü ve alkolsüz özütlerin istihsal vergisine esas matrahları üzerinden en fazla yüzde 15'i nispetinde hesaplanacak ve istihsal vergisinden ayrılacak miktarlar (Bu maddelerin istihsal vergisinin fona ödenecek meblağı karşılamaması veya istihsal vergisinin mevcut olmaması halinde de yukarıda açıklanan şekilde hesaplanacak miktar Tekel İdaresi ve Tekel dışında gerçek ve tüzel kişiler tarafından bütçeye ödenir.),
+1— (Mülga: 6/6/2002-4760/18 md.)
 2— Diğer mevzuatla Toplu Konut Fonu için verilmesi öngörülen paralar,
-3— Tekel idaresinin ithal ettiği maddelerden alınan paylar.
+3— (Mülga: 6/6/2002-4760/18 md.)
 Yukarıdaki bentlerde belirtilen nispet ve miktarları yeniden tespite, azaltmaya veya kaldırmaya Bakanlar Kurulu yetkilidir.
 Mevzuatta Toplu Konut Fonuna yapılmış bulunan atıflar, Toplu Konut İdaresine yapılmış sayılır.
 e) 24.3.1988 tarihli ve 3418 sayılı Kanunun 39 uncu maddesinin bu Kanunla yürürlükten kaldırılan (b) bendine göre 31.12.2001 tarihi itibarıyla tahakkuk eden gelirlerden harcanmayan miktarlar, 3418 sayılı Kanunun bu Kanunla değişik 39 uncu maddesinin (a) bendi hükümleri çerçevesinde ertesi yıl bütçelerine özel gelir ve ödenek kaydedilir.
