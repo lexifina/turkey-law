@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6811",
+  "year": 1956,
+  "title": "Ordu mensuplariyle Emniyet Umum Müdürlüğü ve gümrük muhafaza ve muamele sınıfı kadrolarında çalışanlara bir er tayını verilmesi hakkındaki 4367 sayılı Kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-07-24",
+  "gazette_issue": "9363",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9363.pdf",
+  "source_sha256": "cf0dfd8465fb5f71032b763409e8726db5fd306ee4ff6db5703fdd3fc9bfc51a",
+  "text_sha256": "8c1b1e9a7816000c63bd1efa9e3f413f7aba063e285e18c2526138816eb97156",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      180,
+      196
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806811.pdf",
+    "source_sha256": "5b7fd8bd2cb3fe5ee9bb8d27209b4202e9bad59d78409f83c254a7feb513ce53",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9418,
+    "bag": 0.8663,
+    "kd_coverage": 0.9694,
+    "kd_body_compared": 0.9694,
+    "rg_words": 92,
+    "kd_words": 98,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
