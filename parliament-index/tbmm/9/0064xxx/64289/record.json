@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 64289,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "İltisak ve Kuşak Hatları İnşasına dair kanun lâyihası hakkında (1/646)",
+  "title": "İltisak ve Kuşak Hatları İnşasına dair kanun lâyihası hakkında (1/646)",
+  "first_sitting_date": "1953-07-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 24,
+      "sitting": 111,
+      "sitting_date": "1953-07-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024111.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024fih.pdf",
+      "pages": [
+        "780",
+        "857:858",
+        "862",
+        "871",
+        "911:914"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=1401&v_kullanici_id=27484171",
+  "source_sha256": "0c0830827b08c4055fdd7d6bb8f7b71a7fce062be6ce0b6ddfdbf1c1a0a03f68",
+  "in_force": "1953-07-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
