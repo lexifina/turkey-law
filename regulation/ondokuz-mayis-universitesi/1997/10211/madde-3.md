@@ -1,0 +1,5 @@
+Sertifikaya Yönelik Eğitim Programları ve Sertifika Koşulları
+Madde 3- a) OMÜ-SEM tarafından yürütülmesi istenen sertifikaya yönelik eğitim programı, ilgili birimce SEM’e önerilir.Önerilen eğitim programının adı, amacı, süresi, başvuru koşulları, kapsadığı dersler, uygulamalar, sınavlar, proje çalışmaları, programı yürütecek öğretim elemanları, eğitim programı sonunda verilecek sertifikada belirtilmesi gerekli hususlar ile değerlendirme ve başarı esasları ayrıntılarıyla belirtilir.
+b) SEM Yönetim Kurulu, önerilen eğitim programını, yürütülmekte olan diğer sertifika programları ile benzerlik ve farklılıkları, kaynak gereksinimleri, içeriği, süresi, değerlendirme esasları açılarından karşılaştırarak inceler ve sonucu bir rapor halinde Üniversite Senatosu’nun onayına sunar. Üniversite Senatosu’nca onaylanan eğitim programları kesinleşir.
+c) Üniversite Senatosu’nca onaylanan sertifikaya yönelik eğitim programının akademik sorumlusu bu programı öneren birimdir.
+d) İlgili birimin başvurusuyla SEM sertifikaya yönelik bir eğitim programında değişiklik önerisini Üniversite Senatosu’nun onayına sunar. Önerilen değişiklik Üniversite Senatosu’nun onayı ile kesinleşir.

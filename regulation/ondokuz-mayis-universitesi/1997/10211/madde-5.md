@@ -1,0 +1,1 @@
+Madde 5- Katılımcılar sertifikaya yönelik eğitim programlarına devam etmek zorundadır. Derslerin en az %80’ine devam etmeyen katılımcılara sertifika ve katılım belgesi verilmez. Katılımcıların devam durumlarını ilgili öğretim elemanı izler.
