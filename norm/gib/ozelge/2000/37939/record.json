@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2992-852/18307",
+  "source_id": 37939,
+  "date": "2000-04-20",
+  "title": "Özelleştirilen kurumun A.Ş.'ye dönüştürülmesinden sonra, düzenleyeceği belgeler hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37939",
+  "source_sha256": "6b2606ae293da976bc637598c88f1be6363e70430db6471aa58f5d3e16af0d0e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
