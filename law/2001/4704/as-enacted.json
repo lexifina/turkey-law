@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4704",
+  "year": 2001,
+  "title": "Kaçakçılığın Men ve Takibine Dair Kanunda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-07-07",
+  "gazette_issue": "24455",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/07/20010707.htm",
+  "source_sha256": "237f44fe878b4f4687d3e7585f1ed687bbfb15b5659481e7a3fff20572a9a416",
+  "text_sha256": "6b43a60f1c858c069b38bde595c59a969746cfb12ee69457bc2a7ee7a6d48a2c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/07/07/24455-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/07/20010707.htm#5",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
