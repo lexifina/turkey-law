@@ -1,0 +1,51 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4244",
+  "year": 1942,
+  "title": "Ankara şehri İmar müdürlüğünün 1939 malî yılı hesabı katî kanunu",
+  "adopted": "1942-06-01",
+  "adopted_as_published": "01/06/1942",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "05.06.1942 No: 5124",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304244.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 23",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96706,
+      "title": "Ankara şehri İmar müdürlüğünün 1939 malî yılı hesabı katî kanunu",
+      "adopted_as_published": "01/06/1942",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304244.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 26,
+          "sitting": 67,
+          "sitting_date": "1942-06-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c026/tbmm06026067.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c026/tbmm06026fih.pdf",
+          "pages": [
+            "3:4",
+            "18:21"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=794&v_gelecek_sayfa=501&v_kullanici_id=27483166",
+      "page_sha256": "6ead23b908d79b7fe998eaa3369cf1c5ab35e0a56b9bd15e9e28d9b54f0ebbbf"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "6ead23b908d79b7fe998eaa3369cf1c5ab35e0a56b9bd15e9e28d9b54f0ebbbf",
+  "issuer": "TBMM",
+  "in_force": "1942-06-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 01/06/1942; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
