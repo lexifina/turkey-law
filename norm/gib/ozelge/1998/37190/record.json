@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6653-752/43033",
+  "source_id": 37190,
+  "date": "1998-11-25",
+  "title": "Emlak (arsa) vergisi muafiyeti uygulanan arsa üzerine konut inşaatını kadar bitirmeyen A.Ş. İçin tarh edilen ağır kusur cezalı arsa vergisinin terkin edilmesi, tahsil edilmiş ise iade edilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37190",
+  "source_sha256": "1fc83b77ed399af0fc34962eaf8d3fefd4a5612cd8d99454b7a460d2942ae1fd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
