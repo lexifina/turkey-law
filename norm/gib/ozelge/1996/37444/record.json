@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63.6343-317/59157",
+  "source_id": 37444,
+  "date": "1996-12-11",
+  "title": "150 m2'yi geçmeyen ve konut olarak mütalaa edilen kaymakam evi inşaatı nedeniyle düzenlenecek kağıtların ve yapılacak işlemleri damga vergisi ve harç istisnasından yararlanmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/37444",
+  "source_sha256": "831aebdd04b878c486497baa78fea881ed1607727c1f4358d08f87949f19f50e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
