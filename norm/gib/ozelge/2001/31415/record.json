@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.54/5413-500",
+  "source_id": 31415,
+  "date": "2001-03-14",
+  "title": "Atık su toplama hizmetine ilişkin olarak yatırım teşvik belgesi kapsamındaki makine ve teçhizat alımlarının, indirim hakkı tanınan işlemlerde kullanıldığı ve söz konusu teslimlerin katma değer vergisinden istisna olması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31415",
+  "source_sha256": "798476798ee056b1dfa08f55f1a9bc37b3cf194e412dab1199dd4b761b69a8ae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
