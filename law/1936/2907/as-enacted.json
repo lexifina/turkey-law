@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2907",
+  "year": 1936,
+  "title": "Askerlik Kanununun 36. maddesinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-02-05",
+  "gazette_issue": "3224",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3224.pdf",
+  "source_sha256": "bb9fc4727d2cbeb4e523423258c5cfa97855cd7bfa28086ff08f088bf2095aba",
+  "text_sha256": "677dcb83bc216ca296ad72f698dcaf2ab1b51aad98516b1e005834840c52749a",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      445,
+      478
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602907.pdf",
+    "source_sha256": "939c9fd0c96db63e96e08b9362201fff3006df7c2bbfd6d36786785a8994f388",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9494,
+    "bag": 0.8571,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9695,
+    "rg_words": 132,
+    "kd_words": 131,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
