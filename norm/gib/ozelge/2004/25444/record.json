@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5310-258-61341",
+  "source_id": 25444,
+  "date": "2004-12-21",
+  "title": "Araçların çekimi sırasında taşınma irsaliyesinin, araçlarının otoparka alınmalarından itibaren yedi gün içinde de faturanın düzenlenmesi ve fatura bedeli üzerinden hesaplanan katma değer vergisinin İlgili dönemde beyan edilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25444",
+  "source_sha256": "9c413acbd3252f95865c415c9433db5268dcb5658762c53867f7c73218c99d0d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
