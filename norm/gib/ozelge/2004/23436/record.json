@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/ 4213-1759/2852",
+  "source_id": 23436,
+  "date": "2004-01-21",
+  "title": "Yapılan ödemelerin ücret kabul edilmesi halinde katma değer vergisine tabi tutulmaması, serbest meslek faaliyeti olması durumunda ise %18 oranında katma değer vergisine tabi tutulması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23436",
+  "source_sha256": "cfe43e4c33df2de3eb17fbc9da6c240ad6ce6c71da55859f8eabbe0345f7e3b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
