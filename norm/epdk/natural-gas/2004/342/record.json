@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "342",
+  "decision_date": "2004-07-22",
+  "title": "Sıvılaştırılmış doğal gaz (LNG) satış tarifesi hakkında",
+  "resmi_gazete_date": "2004-07-22",
+  "resmi_gazete_number": "25530",
+  "categories": [
+    "Depolama"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3F5UCw1b2nk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3F5UCw1b2nk="
+  ],
+  "source_sha256": "380a3ac9dee6955495c7aa8d2d1fb9960dfa79a355841936d403129d4dc19b55",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7229,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-07-22",
+  "law_text_complete": false
+}
