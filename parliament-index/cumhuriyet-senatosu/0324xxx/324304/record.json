@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 324304,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "TBMM eski Üyeleri hakkında kanun teklifi (M. Meclis:2/61; Cumhuriyet Senatosu:2/74)",
+  "title": "TBMM eski Üyeleri hakkında kanun teklifi (M. Meclis:2/61; Cumhuriyet Senatosu:2/74)",
+  "first_sitting_date": "1974-05-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 15,
+      "sitting": 54,
+      "sitting_date": "1974-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c015/cs__13015054.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c015/cs__13015fih.pdf",
+      "pages": [
+        "222"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 60,
+      "sitting_date": "1974-05-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c016/cs__13016060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c016/cs__13016fih.pdf",
+      "pages": [
+        "420"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 62,
+      "sitting_date": "1974-05-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c017/cs__13017fih.pdf",
+      "pages": [
+        "9:20",
+        "26:28",
+        "34",
+        "42:44"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=601&v_kullanici_id=27484924",
+  "source_sha256": "20f95f0e76e20c5b60f76637ec77017deac2a2a3dd1170aa86c937f92d6c8339",
+  "in_force": "1974-05-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
