@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5429-646-54967",
+  "source_id": 26095,
+  "date": "2003-12-24",
+  "title": "İşhanı için yapılan giderlere ait faturaların    ( yakıt, elektrik, su vs.) işhanında ikamet edenlere paylaşılmak suretiyle is ham yönetimince düzenlenmiş olan makbuzun,  Vergi Usul Kanunu uyarınca fatura veya fatura yerine geçen bir belge olarak kabulü s",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/26095",
+  "source_sha256": "96f410d01936aa9aae233b97c48eb20e1e767a5755ad7abb17af00b5a34e9647",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
