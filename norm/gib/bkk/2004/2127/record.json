@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2004/7668",
+  "source_id": 2127,
+  "date": "2004-08-10",
+  "title": "Kaynak Kullanimini Destekleme Fonu Kesintileri Hakkindaki Kararin Yürürlüge Konulmasi Hakkinda 2004/7668 Sayili Karar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/bkk/2127",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "46cdeea31aebe2697c5831467417b77f04a25a96fb069f9f4e23aaa4accfe59b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
