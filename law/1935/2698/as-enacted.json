@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2698",
+  "year": 1935,
+  "title": "1493 numaralı ordu ikramiye Kanununun birinci maddesinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-05-04",
+  "gazette_issue": "2993",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2993.pdf",
+  "source_sha256": "a4f0409646a3c40c3167b8d18f85dbf17bfc2149a6d158c4b71d384f5c9648c9",
+  "text_sha256": "24c02905b2efca0a61f631925cf43ca7df7d9896a3b49c85e42ea18e2f912b7a",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      22,
+      82
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502698.pdf",
+    "source_sha256": "06c4e164d066f91e3f58f2879e4986d32f69b0b6e3b484cbd91a9f61aadcbec5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9792,
+    "bag": 0.9526,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9904,
+    "rg_words": 215,
+    "kd_words": 209,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
