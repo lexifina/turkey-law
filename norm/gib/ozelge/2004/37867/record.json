@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-1975/4838",
+  "source_id": 37867,
+  "date": "2004-02-06",
+  "title": "Serbest bölgede ve Teknoloji Geliştirme Bölgelerinde çalışan personelin ücretleri gelir vergisi ve damga vergisine tabi tutulmadığından anılan personelin ücretlerinde vergi indirimi ile şahıs sigorta primi indiriminden faydalanıp faydalanamayacağı hakkınd",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37867",
+  "source_sha256": "b1f779146fd32b1e0a5e35e972a233e23a803bdfe4c1b893098636f0d0c9f0ec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
