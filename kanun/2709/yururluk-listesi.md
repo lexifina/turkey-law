@@ -10,3 +10,4 @@ Değiştiren Kanunun Numarası | 2709 sayılı Kanunun değişen maddeleri | Yü
 4446 | 47, 125, 155, İşlenemeyen Hükümler | 14/8/1999
 4709 | BAŞLANGIÇ hükmü, 13, 14, 19, 20, 21, 22, 23, 26, 28, 31, 33, 34, 36, 38, 40, 41, 46, 49, 51, 55, 65, 66, 67, 69, 74, 87, 89, 94, 100, 118, 149, Geçici Madde 15, İşlenemeyen Hükümler | 17/10/2001
 4720 | 86 | 1/12/2001
+4777 | 76, 78, İşlenemeyen Hükümler | 31/12/2002
