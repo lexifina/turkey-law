@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102-170/28615",
+  "source_id": 23112,
+  "date": "1999-07-08",
+  "title": "Kooperatifler ve diğer kurumlar tarafından Orman İdaresine taahhüt karşılığında yapılan ormanların ağaçlandırılması, bakımı, kesimi ve ağaçların toplanması, taşınması işlerinde tarım araçlarını ve el emeklerini kullanmak suretiyle çalıştırılan orman köylü",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23112",
+  "source_sha256": "9bc163ad264ae344f935ecffbb1a9b7e3acdbf15d2d716c72c33a3b40f783375",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
