@@ -1,0 +1,2 @@
+MADDE 9 — 30.1.2002 tarihli ve 4743 sayılı Malî Sektöre Olan Borçların Yeniden Yapılandırılması ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunun 1 inci maddesinin ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+Yukarıdaki fıkrada belirtilen, kredileri kısmen veya tamamen iştirake çevirme işlemi, 4603 sayılı Türkiye Cumhuriyeti Ziraat Bankası, Türkiye Halk Bankası Anonim Şirketi ve Türkiye Emlak Bankası Anonim Şirketi Hakkında Kanuna tâbi bankalarla yönetimi ve denetimi Tasarruf Mevduatı Sigorta Fonuna devredilen bankalar tarafından yapılamaz.
