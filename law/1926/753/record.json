@@ -1,0 +1,51 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "753",
+  "year": 1926,
+  "title": "753 sayılı Kanun",
+  "adopted": "1926-02-24",
+  "adopted_as_published": "24/02/1926",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.03.1926 No: 315",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc004/kanuntbmmc004/kanuntbmmc00400753.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 4",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 126630,
+      "title": "753 sayılı Kanun",
+      "adopted_as_published": "24/02/1926",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc004/kanuntbmmc004/kanuntbmmc00400753.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 22,
+          "sitting": 60,
+          "sitting_date": "1926-02-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c022/tbmm02022060.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c022/ehttbmm02022060.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c022/tbmm02022fih.pdf",
+          "pages": [
+            "292:294",
+            "306:308"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=401&v_kullanici_id=27483145",
+      "page_sha256": "a2de1980c388178e0b82226c69adc112f544797154804b49f6622059390dad84"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a2de1980c388178e0b82226c69adc112f544797154804b49f6622059390dad84",
+  "issuer": "TBMM",
+  "in_force": "1926-02-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 24/02/1926; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
