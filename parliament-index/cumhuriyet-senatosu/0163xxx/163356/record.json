@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 163356,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "5383 sayılı Gümrük Kanununa bağlı Gümrük Giriş Tarife Cetvelinin değiştirilmesine dair (Millet Meclisi 1/634, Cumhuriyet Senatosu 1/413)",
+  "title": "5383 sayılı Gümrük Kanununa bağlı Gümrük Giriş Tarife Cetvelinin değiştirilmesine dair (Millet Meclisi 1/634, Cumhuriyet Senatosu 1/413)",
+  "first_sitting_date": "1964-05-07",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 70,
+      "sitting_date": "1964-05-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020fih.pdf",
+      "pages": [
+        "456"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 72,
+      "sitting_date": "1964-05-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020fih.pdf",
+      "pages": [
+        "642"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 73,
+      "sitting_date": "1964-05-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020fih.pdf",
+      "pages": [
+        "684",
+        "694:710",
+        "743:744"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2010&v_gelecek_sayfa=501&v_kullanici_id=27484916",
+  "source_sha256": "73368e50ddf34fa0f93bf58d85a038ec61b95f50bb4de66fccf4ea8ca674a8c2",
+  "in_force": "1964-05-07",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
