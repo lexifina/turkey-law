@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-11-28",
+  "issue": "24950",
+  "edition": "regular",
+  "item": 6,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Sosyal Sigortalar Kurumu Başkanlığı Sigorta İşleri Genel Müdürlüğü İstanbul Satın Alma Sigorta Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021128-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (81 = 81)",
+  "ilan_codes": [
+    "32274/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021128-3.htm",
+  "category_page_sha256": "0a7a0ce0c5c53b892628d563d063a41f1a9dbb8fe49bf7dfaaf9f0cf1ac3de1f",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021128.htm",
+  "index_sha256": "f16073bd646d02ef668f4deacb244a1c584a599aef383d0f8fbd8e6ed253304a",
+  "index_header": "28 Kasım 2002 ... Sayı : 24950",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
