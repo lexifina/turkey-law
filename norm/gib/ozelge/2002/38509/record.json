@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.0.07.0.GEL.0.32/3223-2854",
+  "source_id": 38509,
+  "date": "2002-03-07",
+  "title": "Gümrük çıkış beyannamelerinde imalatçının adının yer almadığı durumlarda konunun bir inceleme elemanına incelettirilerek ihraç edilen malın imalatçısının belirlenmesi suretiyle tecil-terkin kapsamında İşlem yapılması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38509",
+  "source_sha256": "4f92e61f2c16e647275363bfabe799f6dfe4b9fd713eade81b27e61240124515",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
