@@ -1,0 +1,19 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 6,
+  "term_label": "6. Dönem",
+  "legislative_year": 1,
+  "cilt": 5,
+  "sitting": 43,
+  "label": "43. Birleşim",
+  "sitting_date": "1939-10-09",
+  "date_as_published": "09 Ekim 1939",
+  "weekday": "Pazartesi",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c005/tbmm06005043.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c005/tbmm06005fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d06&v_yasama_yili=1&v_cilt=",
+  "source_sha256": "00a4de3ff8f8c722df0e8c098ee771fafa57dca59d0b7dda6044a97a8498f343",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
