@@ -1,0 +1,134 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 403531,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Yurt Dışında Bulunanların Sosyal Güvenlikleri Hakkında Borçlanma Kanunu Tasarısı (1/569)",
+  "title": "Yurt Dışında Bulunanların Sosyal Güvenlikleri Hakkında Borçlanma Kanunu Tasarısı (1/569)",
+  "first_sitting_date": "1997-02-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 56,
+      "sitting_date": "1997-02-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c020/tbmm20020056.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c020/tbmm20020fih.pdf",
+      "pages": [
+        "344:347"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 59,
+      "sitting_date": "1997-02-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c021/tbmm20021059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c021/tbmm20021fih.pdf",
+      "pages": [
+        "110:115"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 61,
+      "sitting_date": "1997-02-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c021/tbmm20021061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c021/tbmm20021fih.pdf",
+      "pages": [
+        "281:301"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 62,
+      "sitting_date": "1997-02-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c021/tbmm20021062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c021/tbmm20021fih.pdf",
+      "pages": [
+        "345:358"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 65,
+      "sitting_date": "1997-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c022/tbmm20022065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c022/tbmm20022fih.pdf",
+      "pages": [
+        "250:261"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 67,
+      "sitting_date": "1997-03-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c022/tbmm20022067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c022/tbmm20022fih.pdf",
+      "pages": [
+        "427:453"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 68,
+      "sitting_date": "1997-03-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c022/tbmm20022068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c022/tbmm20022fih.pdf",
+      "pages": [
+        "484:505"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 70,
+      "sitting_date": "1997-03-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c023/tbmm20023070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c023/tbmm20023fih.pdf",
+      "pages": [
+        "137:193"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 71,
+      "sitting_date": "1997-03-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c023/tbmm20023071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c023/tbmm20023fih.pdf",
+      "pages": [
+        "227:277"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 71,
+      "sitting_date": "1997-03-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c023/tbmm20023071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c023/tbmm20023fih.pdf",
+      "pages": [
+        "304:309"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=683&v_gelecek_sayfa=401&v_kullanici_id=27484488",
+  "source_sha256": "85bc2b56e28a4aa7f3190f44ac0a96111da9e9bdaf5cccd7b1c527df2468d369",
+  "in_force": "1997-02-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
