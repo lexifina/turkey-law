@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Belediye Meclisi",
+  "number": "537",
+  "decision_date": "1965-06-01",
+  "title": "1/1000 MİKYASLI DETAY PLANINDA TADİLAT TEKLİFİ",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1965-537.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1965",
+  "listing_sha256": "a02ab5f94bfa02ff86fe7483bcde732e696aaa16ae838ce03263385ff8403a2a",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
