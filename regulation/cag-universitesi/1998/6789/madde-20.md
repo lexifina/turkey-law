@@ -1,0 +1,3 @@
+İZİNLER
+MADDE 20 – Kamu ve Özel Kuruluşlardaki toplam hizmeti 10 (on) yıldan az olanlara üç hafta, diğerlerine 4 (dört) hafta ücretli izin verilir. Akademik personelin izin kullanma tarihi, ilgili bölüm başkanı/dekan/müdür tarafından akademik takvime uygun olarak saptanır. Rektörün izni Başkan; Rektör Yardımcıları, Dekan, Enstitü, Yüksekokul, Meslek Yüksekokulu, Uygulama ve Araştırma Merkezi Müdürlerinin izni Rektör, diğer akademik personelin izni, ilgili birim amirinin önerisi ile Rektör tarafından verilir.
+İdari personelin izni ise, Genel Sekreterin önerisi ile, Rektör tarafından verilir. İzinlerde Mütevelli Heyet Başkanının onayı alınacaktır.

@@ -1,0 +1,2 @@
+FAKÜLTE KURULU
+MADDE 14 – Fakülte Kurulu, Dekanın başkanlığında fakültenin bütün akademik personelinin katılımı ile her yarıyıl başında ve sonunda olmak üzere yılda iki kere toplanır. Kısmı statü ile çalışan öğretim elemanları da Fakülte Kurulunun üyesidir. Fakülte Kurulu akademik ve idari konulardaki önerilerini Dekanlık kanalı ile Rektörlüğe sunar. Dekan Fakülte Kurulunun olağanüstü toplantıya çağırabilir.

@@ -1,0 +1,4 @@
+OLUŞUMU
+MADDE 6 – Çağ Üniversitesi Mütevelli Heyeti; Kurucu Vakıf Mütevelli Heyeti tarafından seçilmek üzere Vakıf Yüksek Öğretim Kurumları Yönetmeliğindeki şartlara haiz en az yedi üyeden oluşur. Bu sayının dışında kalan tabii üyeler, Kurucu Vakıf Mütevelli Heyeti Başkanı veya görevlendireceği temsilcisi Rektör veya görevlendireceği vekilidir. Mütevelli Heyet Üyeleri, kendi aralarında bir başkan seçerler. Mütevelli Heyet üyelerinin isimleri Başkan tarafından Yükseköğretim Kuruluna bildirilir. Mütevelli Heyet Başkanı, üye sayısı değiştirildiğinde veya yeni üyeler seçildiğinde Yükseköğretim Kuruluna bilgi verir. Mütevelli Heyeti üyelerinin herhangi birinin süresi bitmeden görevden alınabilmesi için; Kurucu Vakıf Mütevelli Heyetinin üye tam sayısının üçte ikisinin öneri lehinde oy kullanması gerekir.
+Rektör, Mütevelli Heyetin doğal üyesidir.
+Mütevelli Heyet üyelerine, görevleri ile ilgili fiili harcamalar dışında hiçbir şekilde ücret ödenmez.

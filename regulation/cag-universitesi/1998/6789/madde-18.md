@@ -1,0 +1,2 @@
+BÖLÜM BAŞKANLIĞI
+MADDE 18- Fakülte veya Yüksek okullardaki bölümler, bölüm başkanları tarafından yönetilir. Bölüm Başkanı bölümün öğretim üyeleri arasından, fakültelere bağlı Yüksekokullarda Müdürün önerisi üzerine Dekan tarafından, Rektörlüğe bağlı Yüksekokullarda Müdürün önerisi üzerine Rektör tarafından seçilir ve Mütevelli Heyeti tarafından atanır. Süresi biten Bölüm Başkanı tekrar atanabilir. Bölüm Başkanı görevde bulunamayacağı süreler için, öğretim üyelerinden birini vekil tayin eder.
