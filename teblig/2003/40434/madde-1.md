@@ -1,0 +1,2 @@
+Amaç
+Madde 1- Bu Tebliğin amacı; insan tüketimine sunulmak üzere ambalajlı veya dökme olarak, iç mercimeğe işlenecek olan kabuklu kırmızı mercimeğin, yeşil mercimeğin, kırmızı iç mercimeğin, yeşil iç mercimeğin ya da sarı mercimeğin ve boylanmış yeşil mercimeğin tekniğine uygun ve hijyenik şekilde işleme, muhafaza, depolama, taşıma ve pazarlamasını sağlamak üzere bu ürünlerin özelliklerini belirlemektir.
