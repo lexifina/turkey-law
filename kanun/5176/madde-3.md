@@ -1,0 +1,2 @@
+Kurulun görevleri
+MADDE 3 — Kurul, kamu görevlilerinin görevlerini yürütürken uymaları gereken etik davranış ilkelerini hazırlayacağı yönetmeliklerle belirlemek, etik davranış ilkelerinin ihlâl edildiği iddiasıyla re’sen veya yapılacak başvurular üzerine gerekli inceleme ve araştırmayı yaparak sonucu ilgili makamlara bildirmek, kamuda etik kültürünü yerleştirmek üzere çalışmalar yapmak veya yaptırmak ve bu konuda yapılacak çalışmalara destek olmakla görevli ve yetkilidir.
