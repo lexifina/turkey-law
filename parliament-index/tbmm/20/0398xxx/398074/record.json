@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 398074,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "10.10.1984 Tarihli ve 3056 sayılı Kanunun Bir Maddesinde Değişiklik Yapılmasına Dair Kanun Tasarısına ilişkin",
+  "title": "10.10.1984 Tarihli ve 3056 sayılı Kanunun Bir Maddesinde Değişiklik Yapılmasına Dair Kanun Tasarısına ilişkin",
+  "first_sitting_date": "1996-04-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 45,
+      "sitting_date": "1996-04-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004fih.pdf",
+      "pages": [
+        "677"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 49,
+      "sitting_date": "1996-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c005/tbmm20005049.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c005/tbmm20005fih.pdf",
+      "pages": [
+        "144:154"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "352346633578e8a546088f49cca7ac048a064ac777ea684d9990578e2d715b77",
+  "in_force": "1996-04-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
