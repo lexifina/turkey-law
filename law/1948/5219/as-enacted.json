@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5219",
+  "year": 1948,
+  "title": "Ortaöğretim okullarında yardımcı öğretmen çalıştırılması hakkında 2624 sayılı Kanunun 4504 sayılı Kanunla değiştirilen 2. maddesinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1948-06-22",
+  "gazette_issue": "6938",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6938.pdf",
+  "source_sha256": "d9491b5c41752ee2f33426400840c3ef4f0f3eb9d7a09e795d114ef259500e72",
+  "text_sha256": "e7a3a5fcc14c411d48445359b2cbf7b6d7b5b89e2bf211144c98309f1b7bafc9",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      301,
+      320
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/kanuntbmmc030/kanuntbmmc03005219.pdf",
+    "source_sha256": "1cefebd91ff159646ffd43e16a19ceb48c5b48706011dac3bbbbdf4d6cad9a7d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9073,
+    "bag": 0.798,
+    "kd_coverage": 0.96,
+    "kd_body_compared": 0.932,
+    "rg_words": 107,
+    "kd_words": 103,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
