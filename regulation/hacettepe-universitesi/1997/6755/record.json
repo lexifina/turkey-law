@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik, Resmi Gazete'de yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1997-04-16",
+      "16.04.1997",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik, Resmi Gazete'de yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "22966",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1997-04-16",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/1997/6755",
+  "published": "1997-04-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6755&MevzuatTertip=5",
+  "source_bytes": 19890,
+  "source_id": "8.5.6755",
+  "source_sha256": "2d82dd7ec026fbab08b5951d84055e7e5d8dc289dfb13a72935b2640187f8d26",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nİNSAN HAKLARI VE FELSEFESİ UYGULAMA VE ARAŞTIRMA\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 587
+}

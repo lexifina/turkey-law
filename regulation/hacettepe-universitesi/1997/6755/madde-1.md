@@ -1,0 +1,1 @@
+MADDE 1 - 2547 sayılı Yükseköğretim Kanunu'nun 3/j ve 7/d-2’nci maddeleri uyarınca ve Hacettepe Üniversitesi Senatosu'nun 16/01/1997 ve 97/3 sayılı kararı ile önerilen "Hacettepe Üniversitesi İnsan Hakları ve Felsefesi Uygulama ve Araştırma Merkezi" Yükseköğretim Kurulu'nun 19.02.1997 gün ve 97/6.415 sayılı kararı ile uygun görülmüştür.
