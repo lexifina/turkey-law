@@ -1,0 +1,1 @@
+Madde 5 - GSM Müdürü Rektör tarafından 3 yıl için görevlendirilir. Süresi biten müdür yeniden görevlendirilebilir. Müdür GSM'yi temsil eder ve Üniversite Rektörüne karşı Merkezin tüm faaliyetlerinden sorumludur.

@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1997-03-10",
+      "10.03.1997",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "22929",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1997-03-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kütahya Dumlupınar Üniversitesi",
+  "issuer_slug": "kutahya-dumlupinar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kutahya-dumlupinar-universitesi/1997/7681",
+  "published": "1997-03-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7681&MevzuatTertip=5",
+  "source_bytes": 24868,
+  "source_id": "8.5.7681",
+  "source_sha256": "36171c306fa670569a66ae2f39a958dbe28cd77d8ce22c768def6808d51faddc",
+  "text_status": "as-enacted",
+  "title": "DUMLUPINAR ÜNİVERSİTESİ GELİŞİM STRATEJİLERİ\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 190,
+  "word_count": 667
+}
