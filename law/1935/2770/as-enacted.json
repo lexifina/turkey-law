@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2770",
+  "year": 1935,
+  "title": "Polis vazife ve salâhiyet Kanununun 5. maddesinin A fıkrasını değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-06-15",
+  "gazette_issue": "3029",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3029.pdf",
+  "source_sha256": "c44359b9f949c5e613ca049ebf727c549f382a4974f76c441c9fb85b169ba05f",
+  "text_sha256": "519e95c58a9bc047b8d7247f6a5e6b0ff0d3b8bd7a2c06de6fe6760adc1f851e",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      611,
+      628
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [6] (no text layer)",
+    "tesseract_pages": [
+      6
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502770.pdf",
+    "source_sha256": "837e49e52f32686388967838835c28dbce339d748075f9e827a8418682389b91",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9421,
+    "bag": 0.8818,
+    "kd_coverage": 0.9906,
+    "kd_body_compared": 0.9725,
+    "rg_words": 114,
+    "kd_words": 109,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
