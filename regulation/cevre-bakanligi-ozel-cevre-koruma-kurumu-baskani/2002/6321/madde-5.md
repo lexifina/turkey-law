@@ -1,0 +1,5 @@
+Sayman
+Madde 5 — Başkanlıkça, aşağıdaki görev, yetki ve sorumlulukları yerine getirmek üzere şube müdürlerinden birisi sayman olarak görevlendirilir.
+a) Sayman; gelirleri tahsil, giderleri hak sahiplerine tediye, nakit ve ayniyatı muhafaza ile bu işlere ait her türlü evrak, defter, mizan, gelir-gider cetveli ve bilançoyu usulüne göre düzenlemekle görevlidir. Sayman mizan, gelir ve gider cetveli, bilançoyu ve denetleme için gerekli bütün evrakı kanuni süresi içerisinde Başbakanlık Yüksek Denetleme Kuruluna gönderilmek üzere hazırlayarak Başkanlığına sunar.
+b) Sayman; ücretleri Kurumdan karşılanacak hizmetlerin emanete alınıp da ilgili Kurumlara ödenmesi gereken vergi, sosyal güvenlik kurumları primleri gibi ödemelerinin gecikmesinden, muhasebe hatalarından doğan iş ve işlemlerden, takip edilmemekten dolayı zaman aşımına uğrayan idare hak ve alacaklarından tek başına, mevzuata aykırı ödemelerle evrak noksanlığından, vergi, sosyal güvenlik kurumları primleri gibi kesintilerin tahakkuk ve emanete alınmasından tahakkuk memuru ile birlikte sorumludur.
+c) Sayman evrakın doğruluğundan, kanun ve ilgili mevzuat hükümlerine uygunluğundan sorumludur.

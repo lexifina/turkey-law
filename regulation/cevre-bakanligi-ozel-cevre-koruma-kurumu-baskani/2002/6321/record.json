@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.6321",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL ÇEVRE KORUMA KURUMU BAŞKANLIĞI BÜTÇE, GELİR VE GİDER USUL VE ESASLARINA DAİR YÖNETMELİK",
+  "number": "6321",
+  "issuer": "Çevre Bakanlığı Özel Çevre Koruma Kurumu Başkanı",
+  "issuer_slug": "cevre-bakanligi-ozel-cevre-koruma-kurumu-baskani",
+  "path": "regulation/cevre-bakanligi-ozel-cevre-koruma-kurumu-baskani/2002/6321",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6321&MevzuatTertip=5",
+  "source_sha256": "6c9806e2ad027571e047b7efd185d01df1d110f9cc0379a1da07080a71c0f626",
+  "source_bytes": 43116,
+  "published": "2002-04-16",
+  "gazette": "24728",
+  "in_force": "2002-04-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.04.2002); own commencement article: \"bu Yönetmelik 1/1/2002 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik 1/1/2002 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1478,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
