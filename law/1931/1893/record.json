@@ -1,0 +1,72 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1893",
+  "year": 1931,
+  "title": "Teşkilâtı esasiye Kanununun 95 nci maddesinin tadili hakkında kanun",
+  "adopted": "1931-12-10",
+  "adopted_as_published": "10/12/1931",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "15.12.1931 No: 1976",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101893.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 11",
+  "committee_reports": [
+    {
+      "label": "TBMM 9 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c004/tbmm04004006ss0009.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112015,
+      "title": "Teşkilâtı esasiye Kanununun 95 nci maddesinin tadili hakkında kanun",
+      "adopted_as_published": "10/12/1931",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101893.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 9 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c004/tbmm04004006ss0009.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 6,
+          "sitting_date": "1931-11-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c004/tbmm04004006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c004/tbmm04004fih.pdf",
+          "pages": [
+            "29:35"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 12,
+          "sitting_date": "1931-12-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c005/tbmm04005fih.pdf",
+          "pages": [
+            "33:34",
+            "37:39"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "7b4d6db0fc5f88c11900340c120d4f418fcbcc9748c0123056e17bec7f9b3811"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7b4d6db0fc5f88c11900340c120d4f418fcbcc9748c0123056e17bec7f9b3811",
+  "issuer": "TBMM",
+  "in_force": "1931-12-10",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 10/12/1931; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
