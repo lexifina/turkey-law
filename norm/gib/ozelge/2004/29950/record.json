@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5417-2106",
+  "source_id": 29950,
+  "date": "2004-12-16",
+  "title": "Hurda bakırdan elde edilerek rafine edilmiş yarı mamul olarak elektroliz edilmemiş % 99.5-%99.7 saflıkta külçe bakırların teslim ve ithali katma değer vergisinden istisnadır, ancak kütük  bakırların teslim ve ithali katma değer vergisine tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29950",
+  "source_sha256": "227f5bd90864684424cb6f972260f303fd05baaa059110e9077cdffe71b6d78c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
