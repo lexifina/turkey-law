@@ -1,0 +1,1 @@
+Geçici Madde 3 – Kalite Akreditasyon Milli Konseyi adına teknik hizmet veren personel, bu Kanunda belirtilen nitelikleri taşımak ve kendilerinin ve Konsey Başkanının muvafakatları alınmak kaydıyla Geçici 1 inci maddede belirtilen süre içinde Kuruma nakledilebilir.

@@ -1,0 +1,6 @@
+Genel Kurul
+Madde 5 – Genel Kurul, Kurumun en üst karar organı olup;
+a) Sanayi ve Ticaret Bakanlığı ve Dış Ticaret Müsteşarlığından üçer temsilci; Milli Eğitim Bakanlığı,Sağlık Bakanlığı, Turizm Bakanlığı, Tarım ve Köyişleri Bakanlığı, Bayındırlık ve İskan Bakanlığı, Enerji ve Tabii Kaynaklar Bakanlığı, Çevre Bakanlığı,Ulaştırma Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı, Gümrük Müsteşarlığı, Devlet Planlama Teşkilatı Müsteşarlığından birer temsilciden,
+b) Türk Standartları Enstitüsünden üç temsilci; Yükseköğretim Kurulu, Türkiye Bilimsel ve Teknik Araştırma Kurumu, Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı, Rekabet Kurumu, İhracatı Geliştirme Etüd Merkezinden birer temsilciden,
+c) Türkiye Ticaret, Sanayi, Deniz Ticaret Odaları ve Ticaret Borsaları Birliği "TOBB" ve Türkiye İhracatçılar Meclisinden üçer temsilci; en fazla üyeye sahip ilk altı Sanayi Odaları ve en fazla üyeye sahip ilk iki Ticaret Odaları ile Ticaret ve Sanayi Odalarından birer temsilci, Türk Mühendis ve Mimar Odaları Birliği, Türkiye Ziraat Odaları Birliği,Türkiye Esnaf ve Sanatkarları Konfederasyonu, Türkiye Teknoloji Geliştirme Vakfı ve Türk Loydu Vakfından birer temsilci; Kurumunca akredite edilmiş en fazla üç kuruluştan, Yönetim Kurulu önerisiyle ve Genel Kurul tarafından oy çokluğu ile üç yıl için seçilecek birer temsilciden,
+Meydana gelir.

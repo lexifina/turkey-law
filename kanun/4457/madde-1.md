@@ -1,0 +1,2 @@
+Kuruluş amacı
+Madde 1 – Bu Kanun ile, laboratuvar, belgelendirme ve muayene ve hizmetlerini yürütecek yurt içi ve yurt dışındaki kuruluşları akredite etmek, bu kuruluşların belirlenen ulusal ve uluslararası standartlara göre faaliyetlerde bulunmalarını ve bu suretle ürün/hizmet, sistem, personel ve laboratuvar belgelerinin ulusal ve uluslararası alanda kabulünü temin etmek amacıyla, merkezi Ankara'da olmak üzere Başbakanlıkla ilgili, özel hukuk hükümlerine tabi, tüzel kişiliği haiz, idari ve mali özerkliğe sahip, Türk Akreditasyon Kurumu, kısa adı TÜRKAK kurulmuştur.

@@ -1,0 +1,1 @@
+Geçici Madde 1 – Kurumun; Kanunun yürürlüğe girdiği tarihten itibaren bir yılı geçmeyecek süre içinde ilk Genel Kurulu yapılıp organlarının teşekkül ettirilip, bütün görevlerini yapmaya hazır hale gelinceye kadarki tüm destek hizmetleri Dış Ticaret Müsteşarlığı koordinatörlüğünde ve bu Müsteşarlıkça tespit edilecek bir kurum ve/veya kuruluş tarafından yürütülür.
