@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-487/37955",
+  "source_id": 27206,
+  "date": "2000-08-11",
+  "title": "Ödeme kaydedici cihazını süresinde almadığı tespit edilip adına özel usulsüzlük cezası kesilen mükelleflere, aynı mahiyette yapılan her tespit için ayrı ayrı özel usulsüzlük cezası kesilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/27206",
+  "source_sha256": "ee1f0d2e095f5d72229b51c3a062bd33a8c7f07ac5c36a7da86418013dbc4999",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
