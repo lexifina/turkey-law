@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.7401",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "ÇUKUROVA ÜNİVERSİTESİ DEVLET KONSERVATUVARI HAZIRLIK-ORTA ve LİSE DEVRESİ ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "7401",
+  "issuer": "ÇUKUROVA ÜNİVERSİTESİ",
+  "issuer_slug": "cukurova-universitesi",
+  "path": "regulation/cukurova-universitesi/1989/7401",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7401&MevzuatTertip=5",
+  "source_sha256": "f41875a7ae54809e6341fef0df4726884c10a3aec15585c8a1622bd05626dea6",
+  "source_bytes": 115314,
+  "published": "1989-09-25",
+  "gazette": "20293",
+  "in_force": "1989-09-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.09.1989); own commencement article: \"Bu Yönetmelik 1989-19990 ders yılından itibaren Çukurova Üniversitesi Devlet Konservatuvarında Hazırlık-Orta ve Lise devresinde eğitim-öğretim yapan bütün öğrenciler hakkında uygulanmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1989-19990 ders yılından itibaren Çukurova Üniversitesi Devlet Konservatuvarında Hazırlık-Orta ve Lise devresinde eğitim-öğretim yapan bütün öğrenciler hakkında uygulanmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5119,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
