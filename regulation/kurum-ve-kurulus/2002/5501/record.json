@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.5501",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK TABİPLERİ BİRLİĞİ İŞYERİ HEKİMİ ÇALIŞMA ONAYI YÖNETMELİĞİ",
+  "number": "5501",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2002/5501",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5501&MevzuatTertip=5",
+  "source_sha256": "ffb9b1ae9724748d854721a8bfc3e8bfcdcd46baa807f05e1d93ed05131c1586",
+  "source_bytes": 19871,
+  "published": "2002-12-21",
+  "gazette": "24970",
+  "in_force": "2002-12-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.12.2002); own commencement article: \"Bu Yönetmelik Resmi Gazete’de yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 624,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

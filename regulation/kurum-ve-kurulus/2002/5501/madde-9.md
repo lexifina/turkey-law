@@ -1,0 +1,1 @@
+Madde 9 — Tabip odalarının, bu Yönetmeliğin uygulanmasına ilişkin işlemlerinin birbiri ile uyum içinde olması 6023 sayılı Türk Tabipleri Birliği Kanununun 59 uncu maddesinin (c) bendi uyarınca Merkez Konseyi tarafından çıkartılacak yönergelerle sağlanır.
