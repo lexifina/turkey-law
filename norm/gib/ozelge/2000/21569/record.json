@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6033-07/ 31005",
+  "source_id": 21569,
+  "date": "2000-06-27",
+  "title": "Deprem nedeniyle öğrencilere verilen bursların V.İ.V.K.'na tabi olup olmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/21569",
+  "source_sha256": "1f4e7e22b4f9dc5a3ed2ec76d860aa9da1683ff2cac4087405e6b5731e3aa787",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
