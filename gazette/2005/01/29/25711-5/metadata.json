@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-01-29",
+  "issue": "25711",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "Meyve, Asma Çeşit, Anaç Damızlığı Fidan Üretim Materyali ve Fidanların Sertifikasyonuna Ait Genel Esaslar Tebliğinde Değişiklik Yapılmasına İlişkin Tebliğ (No: 2005/2)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050129-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050129.htm",
+  "index_sha256": "5dbaeea806655069e5438b1f01f6e5be908cb0bbf9dc9d04a6774be85a3180f6",
+  "index_header": "29 Ocak 2005 ... Sayı : 25711",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
