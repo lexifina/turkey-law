@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.5382",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İSTANBUL ATATÜRK KÜLTÜR MERKEZİ İŞLETME VE KULLANMA YÖNETMELİĞİ",
+  "number": "5382",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1976/5382",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5382&MevzuatTertip=5",
+  "source_sha256": "df072924a87370fea68cab8cf587b80c34dcc5269321706a40ecf48c6365d8f1",
+  "source_bytes": 80625,
+  "published": "1976-11-26",
+  "gazette": "15775",
+  "in_force": "1977-12-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G.16.12.1977\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "1977-12-16",
+      "R.G.16.12.1977",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3408,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
