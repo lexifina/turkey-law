@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2002/576",
+  "list_number": "576",
+  "decision_date": "2002-09-17",
+  "title": "YSK ilke kararı 2002/576",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4212/2002-576-karar.htm",
+  "source_sha256": "c6e14c89f51f9dbe139516e7b7b13c6e0f95fdfd0746c5a3a9c24656ac595785",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2002-09-17",
+  "law_text_complete": false
+}
