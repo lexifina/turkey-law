@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/2381",
+  "list_number": "2381",
+  "decision_date": "2004-07-10",
+  "title": "YSK ilke kararı 2004/2381",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3822/2004-2381-karar.htm",
+  "source_sha256": "1e734860cbce5a4837b82da0601b60de26b4f58451be5c63b4f20ab502fc67a6",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-07-10",
+  "law_text_complete": false
+}
