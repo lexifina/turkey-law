@@ -1,0 +1,1 @@
+[1] Bu tüzükte geçen "İktisat Vekaleti" deyimi,8/1/1940 tarih ve 2/12623 sayılı Kararname ile kabul olunan Fındık İhracatının Murakabesine dair Nizamnamenin bazı maddelerini değiştiren Nizamname ile bu tüzüğe eklenen Ek madde 3 hükmü gereğince "Ticaret Vekaleti" olarak değiştirilmiş ve metne işlenmiştir.
