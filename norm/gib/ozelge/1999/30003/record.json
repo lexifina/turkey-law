@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5301-2757/038979",
+  "source_id": 30003,
+  "date": "1999-09-15",
+  "title": "Şirketin yapmış olduğu cenaze ve taşıma diğer hizmetlerinden yurtdışında yararlanılmadığından, katma değer vergisine tabi bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30003",
+  "source_sha256": "651c1d55017079afcb0d070b80b02e2435c6a0263c39d0f9d8e2a6bc5eed75f8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
