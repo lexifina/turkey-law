@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6340",
+  "year": 1954,
+  "title": "Eczacılar ve Eczaneler Hakkındaki 6197 Sayılı Kanunun 35. Maddesinin Tadili Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-17",
+  "gazette_issue": "8660",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8660.pdf",
+  "source_sha256": "a1f0ad46a1e8a44dd0700328a6f9b4ac9f7369905f12338296af6a30384b4c01",
+  "text_sha256": "d1f08bc558c891186fd18620bb9add32f3b1d64ca17b0c231508744169f6243e",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      2153,
+      2177
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606340.pdf",
+    "source_sha256": "397eb556c14d2fe00273ed5d277040456ac5c926b12d7fd500cbc2d6823fac26",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9845,
+    "bag": 0.9551,
+    "kd_coverage": 0.9873,
+    "kd_body_compared": 0.9873,
+    "rg_words": 157,
+    "kd_words": 157,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
