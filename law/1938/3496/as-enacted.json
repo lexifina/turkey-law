@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3496",
+  "year": 1938,
+  "title": "Bazı maddelerin gümrük resimleri hakkında Hükümetçe ittihaz olunan kararların tasdikına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-07-13",
+  "gazette_issue": "3958",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3958.pdf",
+  "source_sha256": "89e1d2e43d13ec0017d78b1f95c0217546025fe381df339a2f897a69c0fa73a3",
+  "text_sha256": "3255c7f1467dd9cd609b6d82ee4fa2e8e55ed20b349c22f10b3a1810b300db7b",
+  "text_status": "ocr",
+  "pages": [
+    7
+  ],
+  "line_span": [
+    [
+      1617,
+      1655
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803496.pdf",
+    "source_sha256": "c17e4bf410c1f14480b0ce431c2efc84608d790e0f22bb9ec2e0f9a943312d0e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9808,
+    "bag": 0.8284,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.0485,
+    "rg_words": 83,
+    "kd_words": 1775,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
