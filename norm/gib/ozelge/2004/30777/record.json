@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5309-",
+  "source_id": 30777,
+  "date": "2004-11-18",
+  "title": "Herhangi bir yapım işinden bağımsız olarak alınan proje çizim hizmetinin hangi kapsamda değerlendirileceği ve uygulanacak tevkifat oranı hakkında..",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30777",
+  "source_sha256": "92ef42d2c17b9a27f563ba574f957250818b4e59350aa8244fbcf3c8502ef875",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
