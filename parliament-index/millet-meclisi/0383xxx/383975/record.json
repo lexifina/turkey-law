@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 383975,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "1970 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında (1/441)",
+  "title": "1970 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında (1/441)",
+  "first_sitting_date": "1971-02-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 53,
+      "sitting_date": "1971-02-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011053.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011fih.pdf",
+      "pages": [
+        "538"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 54,
+      "sitting_date": "1971-02-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011054.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011fih.pdf",
+      "pages": [
+        "815",
+        "866",
+        "915:916",
+        "964",
+        "999",
+        "1013:1016"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2201&v_kullanici_id=27484850",
+  "source_sha256": "8ce42570f9f4dc834db1d94f6fe07966e41e63dc99da2c0e2f5dde7dd3fac9ee",
+  "in_force": "1971-02-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
