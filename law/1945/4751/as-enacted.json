@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4751",
+  "year": 1945,
+  "title": "Şose ve Köprüler Kanunu ile bu kanunun bazı maddelerinin değiştirilmesi hakkındaki 1882 sayılı kanunda değişiklik yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-06-14",
+  "gazette_issue": "6031",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6031.pdf",
+  "source_sha256": "485dfc105525267d5ba6b825543d074ddd79e67db0e61fa06aca5166d79c5927",
+  "text_sha256": "5838658155e555ddf1a4d2e07a07c0687370a92194bbb4964ce7c38a28ec2d69",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      17,
+      70
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704751.pdf",
+    "source_sha256": "66d3dc428b8bc3db4db714228c3d8730350fd55e591e88713837d3885fcbf713",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9669,
+    "bag": 0.9225,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9869,
+    "rg_words": 371,
+    "kd_words": 382,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
