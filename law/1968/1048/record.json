@@ -1,0 +1,136 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1048",
+  "year": 1968,
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı Kanuna bağlı (1) sayılı cetvel ile tadil ve eklerinin Tarım Bakanlığı kısmında değişiklik yapılması hakkında Kanun",
+  "adopted": "1968-06-25",
+  "adopted_as_published": "25/06/1968",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "02.07.1968 No: 12939",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05101048.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 51",
+  "committee_reports": [
+    {
+      "label": "MM 478 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027070ss0478.pdf"
+    },
+    {
+      "label": "CS 1133no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047054ss1133.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 368009,
+      "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı Kanuna bağlı (1) sayılı cetvel ile tadil ve eklerinin Tarım Bakanlığı kısmında değişiklik yapılması hakkında Kanun",
+      "adopted_as_published": "25/06/1968",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05101048.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 478 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027070ss0478.pdf"
+        },
+        {
+          "label": "CS 1133no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047054ss1133.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 22,
+          "sitting": 5,
+          "sitting_date": "1967-11-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c022/mm__02022005.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c022/mm__02022fih.pdf",
+          "pages": [
+            "87"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 29,
+          "sitting_date": "1968-01-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023029.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c023/mm__02023fih.pdf",
+          "pages": [
+            "467"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 70,
+          "sitting_date": "1968-04-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027fih.pdf",
+          "pages": [
+            "617:618"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1401&v_kullanici_id=27483225",
+      "page_sha256": "cd42d09c6a7f2265b7adf2c54fcd3e4b997ddbf4325a82e9e798effbb57a88be"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 307963,
+      "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3056 sayılı Kanuna bağlı 1 sayılı cetvel ile tadil ve eklerinin Tarım Bakanlığı kısmında değişiklik yapılması hakkında Kanun",
+      "adopted_as_published": "25/06/1968",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05101048.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 478 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027070ss0478.pdf"
+        },
+        {
+          "label": "CS 1133no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047054ss1133.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 46,
+          "sitting": 49,
+          "sitting_date": "1968-04-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c046/cs__07046049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c046/cs__07046fih.pdf",
+          "pages": [
+            "386"
+          ]
+        },
+        {
+          "cilt": 47,
+          "sitting": 54,
+          "sitting_date": "1968-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047fih.pdf",
+          "pages": [
+            "118",
+            "120:121"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1001&v_kullanici_id=27483235",
+      "page_sha256": "094cb387034ac00eea805b544e30971275b2ef020692510be97000c9900f57c8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cd42d09c6a7f2265b7adf2c54fcd3e4b997ddbf4325a82e9e798effbb57a88be",
+  "issuer": "Millet Meclisi",
+  "in_force": "1968-06-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 25/06/1968; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
