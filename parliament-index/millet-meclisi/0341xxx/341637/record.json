@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 341637,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Maden Kanununun bazı maddelerinin değiştirilmesi, kaldırılması ve bu kanuna bazı maddeler eklenmesi hakkında kanun tasarısı ile Cumhuriyet Senatosu Tunceli Üyesi Mehmet Ali Demir ve 5 arkadaşının Maden Kanununun bazı maddelerinin değiştirilmesi ve bu kanuna bazı maddeler eklenmesine dair kanun teklifi hakkında (1/295,2/282)",
+  "title": "Maden Kanununun bazı maddelerinin değiştirilmesi, kaldırılması ve bu kanuna bazı maddeler eklenmesi hakkında kanun tasarısı ile Cumhuriyet Senatosu Tunceli Üyesi Mehmet Ali Demir ve 5 arkadaşının Maden Kanununun bazı maddelerinin değiştirilmesi ve bu kanuna bazı maddeler eklenmesine dair kanun teklifi hakkında (1/295,2/282)",
+  "first_sitting_date": "1963-04-10",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 16,
+      "sitting": 69,
+      "sitting_date": "1963-04-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c016/mm__01016fih.pdf",
+      "pages": [
+        "179",
+        "594"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 89,
+      "sitting_date": "1963-06-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017fih.pdf",
+      "pages": [
+        "442:477",
+        "514:526",
+        "629:630",
+        "675:678"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=5801&v_kullanici_id=27484836",
+  "source_sha256": "3ded4bf84885fddc309970c90577130c9af0e9ab8ac8f0b53b603e2f9ffa34a7",
+  "in_force": "1963-04-10",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
