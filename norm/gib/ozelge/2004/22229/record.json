@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4025-37/045066",
+  "source_id": 22229,
+  "date": "2004-09-23",
+  "title": "Nakliyecilik faaliyetinde bulunan ödevlinin işi terk işleminin nasıl yapılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22229",
+  "source_sha256": "36b47bba2cd2eaa61adc11b61972ee7fde7b88b04e0182e57f85e03acd18c342",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
