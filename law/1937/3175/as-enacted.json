@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3175",
+  "year": 1937,
+  "title": "Düyunu Umumiye 1936 yılı bütçesine munzam tahsisat verilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-05-28",
+  "gazette_issue": "3616",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3616.pdf",
+  "source_sha256": "59956521ce84c4102b7743be07dac47a36042d3048d93cee9b74cb4cc839b7a1",
+  "text_sha256": "21682f5c8d38a89905cc1e4e3ad11935cc439e874c5b71108aff6b6c380b6807",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      41,
+      72
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703175.pdf",
+    "source_sha256": "e8bdee790b5d2c5689ec03a0b8cde8f333c45f0f077f26373fe8e4bff7634f3c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9559,
+    "bag": 0.9405,
+    "kd_coverage": 0.9891,
+    "kd_body_compared": 0.9579,
+    "rg_words": 94,
+    "kd_words": 95,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
