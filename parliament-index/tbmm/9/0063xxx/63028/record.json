@@ -1,0 +1,112 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 63028,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Deniz tuzlalarından yabancı memleketlere ihraç edilmek şartiyle tuz istihsali için hakiki veya hükmi şahıslara izin verilebileceği hakkında (1/210)",
+  "title": "Deniz tuzlalarından yabancı memleketlere ihraç edilmek şartiyle tuz istihsali için hakiki veya hükmi şahıslara izin verilebileceği hakkında (1/210)",
+  "first_sitting_date": "1951-06-25",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 94,
+      "sitting_date": "1951-06-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008094.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c008/tbmm09008fih.pdf",
+      "pages": [
+        "344"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 11,
+      "sitting_date": "1951-11-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c010/tbmm09010011.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c010/tbmm09010fih.pdf",
+      "pages": [
+        "308"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 13,
+      "sitting_date": "1951-12-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c011/tbmm09011013.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c011/tbmm09011fih.pdf",
+      "pages": [
+        "59"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 14,
+      "sitting_date": "1951-12-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c011/tbmm09011014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c011/tbmm09011fih.pdf",
+      "pages": [
+        "78:84"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 28,
+      "sitting_date": "1952-01-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012fih.pdf",
+      "pages": [
+        "189"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 33,
+      "sitting_date": "1952-01-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012fih.pdf",
+      "pages": [
+        "413"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 37,
+      "sitting_date": "1952-02-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013fih.pdf",
+      "pages": [
+        "120:121"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 40,
+      "sitting_date": "1952-02-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013fih.pdf",
+      "pages": [
+        "271"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=966&v_gelecek_sayfa=201&v_kullanici_id=27484167",
+  "source_sha256": "fba4362beb41dc6ad9461a125c536fdc39da598612ad34836281bb1ff427b419",
+  "in_force": "1951-06-25",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
