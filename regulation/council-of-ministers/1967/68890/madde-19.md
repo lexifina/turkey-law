@@ -1,0 +1,2 @@
+Madde 19 – Suriyelilere ait olup, mahkemeler, icra daireleri ve noterlerde bulunan veya bu yerlere Suriyelilerce tevdi edilmiş yahut bunlar tarafından Suriyeliler namına tahsil edilecek olan para vesair kıymetler veyahut teminat olarak alınıp da Suriyeliye iadesi gereken paralar bir yazı ile mahallin en büyük mal memuruna bildirilir. Ve mal sandıklarına tevdi ve teslim olunur.
+Yukarıda sayılan daireler dışında kalan daire ve müesseselerle, özel ve tüzel kişiler de bu madde hükmüne uymak zorundadırlar.

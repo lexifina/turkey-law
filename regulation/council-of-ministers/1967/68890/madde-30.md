@@ -1,0 +1,6 @@
+Madde 30 – 17/10/1966 tarihinden önce Suriyeli malikleri veya vekilleri tarafından kiraya verilmiş taşınmaz mallardan;
+a) 6570 sayılı Kanunun şümulüne girenlerin tahliyesi, kiracıların sözleşme süresinin bitiminden enaz 15 gün önce taşınmaz malı tahliye edeceğini Hazineye yazı ile bildirmelerine bağlıdır.
+b) 6570 sayılı Kanunun şümulüne girmeyen musakkaf mallarla, arsa, bağ, bahçe, tarla, fıstıklık ve narenciyelik gibi diğer taşınmaz mallar için, sözleşmede bir hüküm varsa ona göre, yoksa Borçlar Kanunu hükümleri dairesinde sözleşmenin yenilenmiyeceği, Hazinece kiracılara tebliğ olunur.
+Tahliye edileceği kiracıları tarafından kira süresinin sona ermesinden enaz 15 gün önce bildirilmesine rağmen tahliye olunmıyan a fıkrasında bahse konu taşınmaz mallarla; sözleşmenin yenilenmiyeceği sözleşmedeki hükümlere, sözleşmede bu hususta bir kayıt yoksa Borçlar Kanunu hükümlerine göre tebliğ olunduğu halde tahliye edilmiyen b fıkrasında yazılı taşınmaz malların, kira süresinin bitiminden itibaren bir ay içinde icra dairesine müracaatla tahliyesi istenilir.
+17/10/1966 tarihinden sonra Hazinece kiraya verilen mallar hakkında da bu madde gereğince hareket olunur.
+b) Fuzulen işgal edilen taşınmaz mallar:

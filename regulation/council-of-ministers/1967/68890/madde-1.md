@@ -1,0 +1,1 @@
+Madde 1 – Suriye uyruklu özel va tüzel kişilere ait olup 28/5/1927 gün 1062 sayılı Kanun hükümlerine göre Bakanlar Kurulunca müttehaz 1/10/1966 gün 6/7104 sayılı kararla, elkonulan taşınır ve taşınmaz mallar ve bunlara müteferri hak ve menfaatlar bu Yönetmelik esasları dairesinde idare olunur.

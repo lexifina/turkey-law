@@ -1,0 +1,5 @@
+Madde 24 – Hazinece elkonulan Suriyelilere ait ve 17/10/1966 tarihinden önce Suriyeliler tarafından noterlerce tescil veya imza tasdikleri yapılmış sözleşmelere göre kiraya verilmiş taşınmaz mallardan;
+a) 6570 sayılı Kanunun şümulüne giren taşınmaz malların kiracıları, 17/10/1966 tarihinden öncesine ait ödenmiyen kira bedelleriyle bu tarihten kira süresi sonuna kadar ki kira bedellerinin taşınmaz malın bulunduğu yer mal dairesine yatıracaklardır.
+b) 6570 sayılı Kanunun mevzuuna girmeyen musakkaf mallarla arsaların kiracıları da, kira bedellerini sözleşme ile belli kira süresi sonuna kadar a fıkrasında belirtilen şekilde mal dairesine ödeyeceklerdir.
+c) Tarla, bağ, bahçe, zeytinlik, fıstıklık, narenciyelik gibi taşınmaz malların kiracı veya ortakçıları dahi, sözleşmede yazılı esaslar dairesinde sözleşme süresi sonuna kadar ki kira bedelleriyle, 17/10/1966 tarihinden öncesine ait olmakla beraber ödemedikleri kira bedellerini veya mahsulden Suriyeli'ye verilecek miktarı, mal dairesine yatıracaklar ve teslim edeceklerdir.
+b) Noterlerce tescil veya tasdik edilmemiş sözleşmelerle kiraya verilmiş olanlar:
