@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-11-27",
+  "issue": "24949",
+  "edition": "regular",
+  "item": 54,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Karadeniz Teknik Üniversitesi Döner Sermaye İşletmesi Satın Alma Komisyon Başkanlığından:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021127-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (96 = 96)",
+  "ilan_codes": [
+    "33501/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021127-3.htm",
+  "category_page_sha256": "4c9671e57345a74d2ce721bf8808fd07378a7de65f372f48cbe7620f94067d4e",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021127.htm",
+  "index_sha256": "444c104bf29d643a384f73d0f10f23959ce907d2d76fb5a6dcc8806d3f699d59",
+  "index_header": "27 Kasım 2002 ... Sayı : 24949",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
