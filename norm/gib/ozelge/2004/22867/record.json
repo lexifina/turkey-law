@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4046-28/46410",
+  "source_id": 22867,
+  "date": "2004-10-04",
+  "title": "Yer altı kablolu elektrik tesisi yapım işinin inşaat ve onarım işleri kapsamında değerlendirilmesi gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22867",
+  "source_sha256": "ba74c35c945f1f26f8aa678f5e470a068fbf228ae298b63dded512e0961bf30c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
