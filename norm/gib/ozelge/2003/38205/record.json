@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.O7.0.GEL.0.63/6373-1549",
+  "source_id": 38205,
+  "date": "2003-10-06",
+  "title": "bir parsele birden fazla kişinin müştereken sahip olması halinde sahiplerin her biri için asgari harç miktarının aranıp aranmayacağı hakkında...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38205",
+  "source_sha256": "32c5a9c8b474f342b35ad850adbcd8af6ec97ac2a7bc1e98086343f02e3b501e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
