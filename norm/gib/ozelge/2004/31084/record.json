@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": " B.07.0.GEL.0.54/5411- 2429-45815",
+  "source_id": 31084,
+  "date": "2004-09-29",
+  "title": "Mükelleflerin 61 Seri No'lu Tebliğ kapsamında yabancılara satış yapabilmeleri için ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31084",
+  "source_sha256": "eaf7ed750f5ef604650e675c95ed78f7aee880ed1a86a00aba29d0c201431009",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
