@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4535-5",
+  "source_id": 21226,
+  "date": "2004-10-24",
+  "title": "Ekonomik ömrü 5 yıl ve daha fazla süreli olan özel maliyet bedeli niteliğindeki harcamalar yatırım indirimi istisnasından yararlanır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21226",
+  "source_sha256": "a00a7a518a1096986763c534e912fabdaaf7726db2eff637ea0e4d6617adfaac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
