@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1496",
+  "year": 1929,
+  "title": "18 Mart 1926 tarih ve 788 numaralı memurin kanununun 8 nci ve 32 nci maddelerine birer fıkra ilâvesi ve 2 teşrinievvel 1333 tarihli kararnamenin ilgası hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-08",
+  "gazette_issue": "1210",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1210.pdf",
+  "source_sha256": "bf25715f51d0e544831a3575389113b1ffb9d5a20755c7df12e5ba7192cd71b9",
+  "text_sha256": "1172c96bb23d1578e28263c2ecd7838505a970aab2573660cb680e0a6db9669e",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      183,
+      200
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701496.pdf",
+    "source_sha256": "4647c834b49b5b82c4607b228fa9e3dc91ad2a00d0a23e94859bf62c6f2a84fb",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9859,
+    "bag": 0.9333,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9432,
+    "rg_words": 82,
+    "kd_words": 88,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
