@@ -1,0 +1,85 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6186",
+  "year": 1953,
+  "title": "Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Kuruluş Kanunu",
+  "adopted": "1953-07-22",
+  "adopted_as_published": "22/07/1953",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.07.1953 No: 8470",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506186.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 35",
+  "committee_reports": [
+    {
+      "label": "TBMM 275 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024111ss0275.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 62350,
+      "title": "Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Kuruluş Kanunu",
+      "adopted_as_published": "22/07/1953",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506186.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 275 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024111ss0275.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 24,
+          "sitting": 109,
+          "sitting_date": "1953-07-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024109.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024fih.pdf",
+          "pages": [
+            "671"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 111,
+          "sitting_date": "1953-07-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024111.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024fih.pdf",
+          "pages": [
+            "796:833"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 114,
+          "sitting_date": "1953-07-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024114.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024fih.pdf",
+          "pages": [
+            "986:1001",
+            "1008:1009",
+            "1022",
+            "1035:1039"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=746&v_gelecek_sayfa=501&v_kullanici_id=27483180",
+      "page_sha256": "d84a881af0f5370086f77622f878cd1f56ce07f15761b0ac08228d6cd914d467"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d84a881af0f5370086f77622f878cd1f56ce07f15761b0ac08228d6cd914d467",
+  "issuer": "TBMM",
+  "in_force": "1953-07-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 22/07/1953; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
