@@ -1,0 +1,2 @@
+Haberleşme Kolaylığı
+Madde 9 - İcra Direktörlüğü, Türkiye'de, resmi haberleşmeleri için öncelik haklan, posta tarife ve resimleri, telgraf, telefon, telefoto, kablogramlar ve diğer haberleşme ile basın ve radyo haberleri, basın tarifesi ile ilgili hususlarda, Türkiye'de akredite diplomatik misyonlara gösterilen kolaylıklardan yararlanır. İcra Direktörlüğünün resmi yazışmaları ve diğer resmi haberleşmeleri sansür edilemez.

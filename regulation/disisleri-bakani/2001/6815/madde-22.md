@@ -1,0 +1,1 @@
+Madde 22- İcra Direktörlüğü tarafından yapılan makina, inşaat malzemesi ve ağır malzeme ithali, Dışişleri Bakanlığının ön iznine bağlıdır. İlgili takrirde, malın cinsi, değeri, miktarı, seri numarası, tipi, modeli ve özellikle kullanım yeri ve amacı belirtilmelidir, inşaat malzemelerinin tam yeri ve inşaatın tipi bildirilmelidir.

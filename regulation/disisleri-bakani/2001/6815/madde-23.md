@@ -1,0 +1,7 @@
+Sergi Malzemeleri
+Madde 23- İcra Direktörlüğü adına münhasıran İcra Direktörlüğü binasında sergilenecek her türlü eşyanın (filmler dahil) ithali İcra Direktörlüğü tarafından tanzim edilecek ayrıntılı listeyi içeren takrire istinaden yapılır. Sergi malzemeleri sergi bitiminde ihraç edilmelidir. Takrirler, serginin kesin tarihinin belirtileceği bir nota ekinde Dışişleri Bakanlığı Protokol Genel Müdürlüğüne gönderilmelidir.
+İcra Direktörlüğü binası dışında düzenlenecek sergilerde teşhir edilecek her türlü malzemenin (filmler dahil) ithali, Türk Gümrük Kanununun ve Yönetmeliklerinin genel hükümlerine tabidir. Dış kaynaklı kültürel etkinliklerin düzenlenmesi ön izninin alınmasına bağlı olduğundan, ilgili İcra Direktörlüğü bir nota ile Dışişleri Bakanlığı Çok Taraflı Ekonomik İşler Genel Müdürlüğüne başvurmalıdır. İznin alınmasından sonra, geçici ithalat için düzenlenen garanti mektubu gümrüklere sunulmalıdır.
+Uluslararası fuarlarda sergilenecek malzemelerin ithal başvuruları Başbakanlık Dış Ticaret Müsteşarlığına yapılmalıdır.
+Sadece İcra Direktörlüğünce kültürel ve promosyon amacıyla kullanılmak üzere ithal edilmek istenen makul sayıda kitap için doğrudan Başbakanlık Dış Ticaret Müsteşarlığına (DTM) başvurulmalıdır. Protokol Genel Müdürlüğü de Dış Ticaret Müsteşarlığından ithal izinlerinin alınmasında yardımcı olabilir.
+Bu durumda, kitapların sayısı ve nerede kullanılabileceği ve ithalin amacının açıklandığı bir nota, ekinde kitapların tam listesiyle birlikte Dışişleri Bakanlığı Protokol
+Genel Müdürlüğüne gönderilmelidir.

@@ -1,0 +1,2 @@
+Yargı Bağışıklığı
+Madde 6 - İcra Direktörlüğünün mallan ve alacakları, bulundukları yer neresi ve elinde tutan kim olursa olsun, İcra Direktörlüğünün açıkça vazgeçtiği özel durumlar dışında yargı bağışıklığından yararlanırlar. Yargı bağışıklığından feragat, mahkeme kararının icrası bakımından da bağışıklığın kaldırılmış olduğu anlamına gelmez. İcra önlemlerinin alınabilmesi için ayrıca bu bağışıklığın kaldırılması gerekir.
