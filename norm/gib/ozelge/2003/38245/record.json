@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6516-776/045113",
+  "source_id": 38245,
+  "date": "2003-10-20",
+  "title": "Ödeme kaydedici cihaz alan mükellefler, söz konusu iktisap tarihinden itibaren 15 gün içerisinde vergi dairesine kayıt ettirip ödeme kaydedici cihaza ait levhayı alması gerekli olup, aksi takdirde 1. derece usulsüzlük cezasının 5 katı usulsüzlük cezası ke",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38245",
+  "source_sha256": "02a615424d8240bd8ef06f9352af189b8df915f00c12f814ee94962d3369f026",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
