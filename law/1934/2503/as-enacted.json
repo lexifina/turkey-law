@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2503",
+  "year": 1934,
+  "title": "Adliye harç tarifesi Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-06-16",
+  "gazette_issue": "2728",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2728.pdf",
+  "source_sha256": "3629ac3e568664a0d08f09e0de891d6336f654f154cd76497b841f3fc6f35553",
+  "text_sha256": "97710332966659e2238c4f78d98e2f38884003a75996cbdf866eed506976e6e3",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      13,
+      1056
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302503.pdf",
+    "source_sha256": "b6be7c210e1ed030311e6939d463750fab5fd2431529bccc2c373f9a3bb507f4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9758,
+    "bag": 0.9513,
+    "kd_coverage": 0.9989,
+    "kd_body_compared": 0.9989,
+    "rg_words": 3697,
+    "kd_words": 3735,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
