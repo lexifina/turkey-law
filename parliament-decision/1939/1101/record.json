@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1101",
+  "year": 1939,
+  "title": "1101 sayılı Karar",
+  "adopted": "1939-06-05",
+  "adopted_as_published": "05/06/1939",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/karartbmmc020/karartbmmc02001101.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 20",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96869,
+      "title": "1101 sayılı Karar",
+      "adopted_as_published": "05/06/1939",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/karartbmmc020/karartbmmc02001101.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 22,
+          "sitting_date": "1939-06-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c003/tbmm06003022.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c003/tbmm06003fih.pdf",
+          "pages": [
+            "4"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=248&v_gelecek_sayfa=201&v_kullanici_id=27483267",
+      "page_sha256": "11e9e09e807b6e83cd4a0e81c43ae617488c4c435e79b7bc602da155a918e40f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "11e9e09e807b6e83cd4a0e81c43ae617488c4c435e79b7bc602da155a918e40f",
+  "issuer": "TBMM",
+  "in_force": "1939-06-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 05/06/1939; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
