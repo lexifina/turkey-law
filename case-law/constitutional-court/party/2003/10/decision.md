@@ -1,0 +1,102 @@
+ANAYASA
+MAHKEMESİ KARARI
+Esas
+Sayısı:2002/13 (Siyasî Parti Malî Denetimi)
+Karar
+Sayısı:2003/10
+Karar
+Günü:16.4.2003
+R.G.
+Tarih-Sayı:18.06.2003-25142
+I- MALİ DENETİMİN KONUSU
+Demokratik Halk Partisi'nin 2001 yılı
+kesinhesabının incelenmesidir.
+II- İLK İNCELEME
+Anayasa Mahkemesi İçtüzüğü'nün
+16. maddesi uyarınca Mustafa BUMİN, Haşim KILIÇ, Yalçın ACARGÜN, Sacit ADALI,
+Ali HÜNER, Fulya KANTARCIOĞLU, Ertuğrul ERSOY, Tülay TUĞCU, Ahmet AKYALÇIN,
+Enis TUNGA ve Mehmet ERTEN'in katılmalarıyla 17.9.2002 gününde yapılan ilk
+inceleme toplantısında;
+Demokratik Halk Partisi'nin 2001 yılı
+kesinhesabının incelenmesi sonucunda, 'Dosyada eksiklik bulunmadığından işin
+esasının incelenmesine, oybirliğiyle' karar verilmiştir.
+III- ESASIN İNCELENMESİ
+Parti'nin Anayasa Mahkemesi'ne verdiği
+2001 yılı kesinhesap çizelgeleri ile dayanağını oluşturan defter ve belgeler
+üzerinde yapılan inceleme sonuçlarını içeren esas inceleme raporu, Anayasa ve
+2949 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun
+ile 2820 sayılı Siyasî Partiler Kanunu'nun ilgili kuralları, bunların
+gerekçeleri ve diğer yasama belgeleri okunup incelendikten sonra gereği
+görüşülüp düşünüldü:
+Denetimin maddî öğelerini oluşturan
+defter ve belgelerde, Parti'nin Genel Merkezi'nin 2001 yılı gelirlerinin
+4.128.500.358.- lira, giderlerinin 3.846.498.000.- lira, 2002 yılına nakit
+devrinin 282.002.358.- lira, gelir ile gider ve nakit devir rakamlarının
+toplamının birbirine denk olduğu görülmüştür.
+A- Gelirlerin İncelenmesi
+1- Genel Merkez Gelirleri
+Parti Genel Merkezi'nin gelirleri
+4.128.500.358.- lira olarak gösterilmiştir.
+Bunun 3.975.000.000.- lirası bağış ve
+aidatlar, 153.500.358.- lirası önceki yıldan devreden nakit mevcududur.
+Genel Merkez'in defter kayıtları ve
+gelir belgeleri üzerinde yapılan incelemede, gelirlerin 2820 sayılı Yasa'nın
+61-69. maddelerine uygun olarak sağlandığı sonucuna varılmıştır.
+2- İl Örgütleri Gelirleri
+Parti'nin 61 il örgütünce sağlanan
+herhangi bir gelirinin bulunmadığı belirtilmiştir.
+Bu durumun Parti Meclisi kararıyla
+doğruluğunun onaylandığı görülerek, 2820 sayılı Yasa'ya uygun olduğu sonucuna
+varılmıştır.
+B- Giderlerin İncelenmesi
+1- Genel Merkez Giderleri
+Parti Genel Merkezi'nin giderleri
+3.846.498.000.- lira olarak gösterilmiştir.
+Bunun 3.541.998.000.- lirası büro
+giderleri, 304.500.000.- lirası seçim, tanıtma ve propaganda giderleridir.
+Parti Genel Merkezi'nce 282.002.358.-
+lira nakit mevcudu olarak 2002 yılına devredilmiştir.
+Genel Merkez'in defter kayıtları ve
+gider belgeleri üzerinde yapılan incelemede, giderlerin 2820 sayılı Yasa'ya
+uygun olarak gerçekleştirildiği sonucuna varılmıştır.
+2- İl Örgütleri Giderleri
+Parti'nin 61 il örgütünce yapılan
+herhangi bir giderinin olmadığı belirtilmiştir.
+İl ve ilçe örgütleri kesinhesap
+çizelgelerinin gider bölümleri üzerinde yapılan incelemede, Parti Meclisi
+kararıyla doğruluğunun onaylandığı görülerek, 2820 sayılı Yasa'ya uygun olduğu
+sonucuna varılmıştır.
+C- Parti Malları
+Parti'nin kesinhesabı ve ekleri üzerinde
+yapılan incelemede 2001 yılında taşınmaz ve değeri yüz milyon lirayı aşan
+taşınır mal, menkul kıymet ve her türlü hak ediniminin bulunmadığı
+anlaşılmıştır.
+IV- SONUÇ
+Demokratik Halk Partisi'nin 2001 yılı
+kesinhesabının incelenmesi sonucunda;
+Parti'nin kesinhesabında gösterilen
+4.128.500.358.- lira gelir ile 3.846.498.000.- lira giderin eldeki bilgi ve
+belgelere göre doğru ve 2820 sayılı Siyasî Partiler Kanunu'na uygun olduğuna,
+16.4.2003 gününde OYBİRLİĞİYLE karar verildi.
+Başkan
+Mustafa BUMİN
+Başkanvekili
+Haşim KILIÇ
+Üye
+Yalçın ACARGÜN
+Üye
+Sacit ADALI
+Üye
+Ali HÜNER
+Üye
+Fulya KANTARCIOĞLU
+Üye
+Ertuğrul ERSOY
+Üye
+Tülay TUĞCU
+Üye
+Ahmet AKYALÇIN
+Üye
+Enis TUNGA
+Üye
+Mehmet ERTEN
