@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5317-1483/40043",
+  "source_id": 23951,
+  "date": "1998-11-09",
+  "title": "Voli mahalli, dalyan, taş, kum, kireç, toprak, çakıl ocaklarının kiraya verilmesinin,Kamuya ait bağımsız gayrimenkul birimelerinin çay ocağı, kantin vb. amaçlarla kullanılmak üzere kiraya verilmesinin,  Kamuya ait arazilerin boru hattı, enerji nakliye hat",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/23951",
+  "source_sha256": "fe221a539a53d41eaddcb945b7940f349259989ef4606467dc4427d3d406e234",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
