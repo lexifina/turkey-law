@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2333",
+  "year": 1933,
+  "title": "İstatistik Umum Müdürlüğü 1933 malî senesi bütçesinde münakale yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-11-25",
+  "gazette_issue": "2561",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2561.pdf",
+  "source_sha256": "3ed50910e96fb422c6a1ebac687f22abb3d951de97286ee10c4ee514367ba30e",
+  "text_sha256": "5dc5939843a58044aac2e5c311b0634b787e09995881f80689271fa5e2a6be2d",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      109,
+      134
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302333.pdf",
+    "source_sha256": "f87fa6ddcabc0dd3286384dac4706f66be17c090fecb4c35f0b8755003fdaa55",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.983,
+    "bag": 0.96,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9688,
+    "rg_words": 63,
+    "kd_words": 64,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
