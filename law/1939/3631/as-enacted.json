@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3631",
+  "year": 1939,
+  "title": "Devlet kinini mütedavil sermayesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-06-09",
+  "gazette_issue": "4228",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4228.pdf",
+  "source_sha256": "3dbc8a16f28f65f835ff4b19d9cd2043ced4070fd89cb198360c534653992987",
+  "text_sha256": "14fdca0cbff5baf8dc043f08d6c3806f24049912769b80429581f15fcd6b23bb",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      735,
+      780
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003631.pdf",
+    "source_sha256": "007f5b11ece2197f78002a182022acc05a4234d97d4251dead6bb137afa3e56c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.991,
+    "bag": 0.9604,
+    "kd_coverage": 0.9666,
+    "kd_body_compared": 0.9666,
+    "rg_words": 313,
+    "kd_words": 329,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
