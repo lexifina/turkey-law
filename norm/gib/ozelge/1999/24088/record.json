@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-28583/46778",
+  "source_id": 24088,
+  "date": "1999-12-14",
+  "title": "Hazine Müsteşarlığının görüş değiştirmesi sebebiyle yatırım indirimi oranındaki artış üzerine, yeniden düzenlenen kurumlar vergisi beyannamesine bağlı olarak verilen ek gelir (stopaj) vergisi muhtasar beyannamesi ile beyan edilen gelir vergisi ve fon payı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24088",
+  "source_sha256": "cf8fcbde61f1c32b3b7947e4c10cf032af4bf3257981464c3b7747b29647c2be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
