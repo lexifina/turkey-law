@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4756",
+  "year": 2002,
+  "title": "Radyo ve Televizyonların Kuruluş ve Yayınları Hakkında Kanun, Basın Kanunu, Gelir Vergisi Kanunu ile Kurumlar Vergisi Kanununda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2002-05-21",
+  "gazette_issue": "24761",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2002/05/20020521.htm",
+  "source_sha256": "69f06deaa193745e32ce3f21774713a0608b12a2fe1a742f913688d7ed3c2231",
+  "text_sha256": "3e20cab7e5b6f51a598754b0a7f3fe4b9ac7176af01c53fba0015b844430027c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2002/05/21/24761-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2002/05/20020521.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
