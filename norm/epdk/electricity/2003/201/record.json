@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "201",
+  "decision_date": "2003-08-28",
+  "title": "1 Eylül 2003 tarihinden geçerli olmak üzere Sakarya Elektrik Dağıtım Anonim Şirketi tarafından uygulanacak olan Perakende Satış Tarifeleri hakkında",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ni0pDScsXC0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ni0pDScsXC0="
+  ],
+  "source_sha256": "245572f20d9636af1fc14b181ebca805484e0018199b770d4a3b5a320d91ff07",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-08-28",
+  "law_text_complete": false
+}
