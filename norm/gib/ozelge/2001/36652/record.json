@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6523-74/22348",
+  "source_id": 36652,
+  "date": "2001-04-24",
+  "title": "Üretici veya ithalatçı kuruluşların, ödeme kaydedici cihazları Bakanlığımızın özel mühürü ile mühürlettirmeden ve mali hale getirmeden yurt dışına da satabilecekleri tabiidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36652",
+  "source_sha256": "8039d5a9c0f7282b306eb80355b9231c3ba93db22fc7b3a3e057246f0aec52e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
