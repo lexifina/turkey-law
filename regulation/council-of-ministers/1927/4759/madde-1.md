@@ -1,0 +1,1 @@
+Madde 1 – 1926 senei maliyesi siparişlerinden mütevellit varidatı mütehakkıka, varidat kaydından bittenzil işbu talimatnameye merbut numune ve izahnameye tevfikan mütedavil sermaye hesabatına kaydı yürütülür.

@@ -1,0 +1,2 @@
+Madde 7 – ( Değişik: 24/6/1935 - 2/2866 K.)
+Umumi bütçeden tahsisatı verilen kadro dışında olarak matbaanın teknik ve ticaret işlerile, sağlık, temizlik, sevk, satış, ambar ve koruma işlerinde kullanılacak müstahdemlerin Maarif Vekaletince tesbit edilecek miktarlar üzerinden aylık veya gündelikleri, matbaanın makine ve aletlerile sair umumi levazımı, makine, alet ve edevat tamiri, binanın cüzi tamirleri mütedavil sermayeden tedarik ve sarf olunur.
