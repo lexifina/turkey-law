@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-08-25",
+  "issue": "25564",
+  "edition": "regular",
+  "item": 7,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Maliye Bakanlığı Tasfiye İşleri Döner Sermaye İşletmeleri Genel Müdürlüğü Diyarbakır İşletme Bölge Müdürlüğü Van İşletme Şube Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040825-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (9 = 9)",
+  "ilan_codes": [
+    "10674/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040825-3.htm",
+  "category_page_sha256": "f9c38c86b1796df2fa3b627fae9ade695c2cc77fec4b8020376025ace81da152",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040825.htm",
+  "index_sha256": "47fd1b9beaa4eb54ca24893b43746c398f2133ec2ff2f7b377d89e008daed5b8",
+  "index_header": "25 Ağustos 2004 ... Sayı : 25564",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
