@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2759",
+  "year": 1935,
+  "title": "Katı ticaret muahedeleri akdi için müzakereye başlanmış olan Devletlerle muvakkat ticarî itilâflar akdi hakkındaki 7 Haziran 1933 tarih ve 2258 sayılı kanunla verilen salâhiyet müddetinin üç sene uzatılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-06-08",
+  "gazette_issue": "3023",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3023.pdf",
+  "source_sha256": "57a8ad43ef3c77dee5782d479beccd4bb199f65a2165b800c30d8d44ef6066c9",
+  "text_sha256": "c901391da1006ba1b0ce98ccd082fb77f18baf28f6f029060d2382c2058ea0a6",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      655,
+      681
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502759.pdf",
+    "source_sha256": "aea8c36aa4de9291d2860b1950cd3aac74c6cb7ddd2bf3ed4795e70ff5d14c70",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9576,
+    "bag": 0.913,
+    "kd_coverage": 0.9908,
+    "kd_body_compared": 0.9908,
+    "rg_words": 122,
+    "kd_words": 109,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
