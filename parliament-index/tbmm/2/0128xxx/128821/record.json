@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 128821,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Derdesti teşkil olunan Bursa Kaplıcaları Tüırk Anonim Şirketine Evkaf Müdüriyeti Umumiyesinin iştirake mezuniyetine dair Kanunun tadili hakkında (1/1128) numaralı kanun layihası hakkında.",
+  "title": "Derdesti teşkil olunan Bursa Kaplıcaları Tüırk Anonim Şirketine Evkaf Müdüriyeti Umumiyesinin iştirake mezuniyetine dair Kanunun tadili hakkında (1/1128) numaralı kanun layihası hakkında.",
+  "first_sitting_date": "1927-05-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 32,
+      "sitting": 70,
+      "sitting_date": "1927-05-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/tbmm02032070.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/ehttbmm02032070.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/tbmm02032fih.pdf",
+      "pages": [
+        "256",
+        "660:662"
+      ]
+    },
+    {
+      "cilt": 33,
+      "sitting": 75,
+      "sitting_date": "1927-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/tbmm02033075.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/ehttbmm02033075.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/tbmm02033fih.pdf",
+      "pages": [
+        "68"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2766&v_gelecek_sayfa=2501&v_kullanici_id=27483743",
+  "source_sha256": "480757ae1dc6afeeccef503edc20ad0d9093a86fb90d10973d5b2ba1b5b0281d",
+  "in_force": "1927-05-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
