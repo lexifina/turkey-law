@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "244",
+  "decision_date": "2003-10-31",
+  "title": "1 Kasım 2003 tarihinden geçerli olmak üzere Başkent Elektrik Dağıtım Anonim Şirketi tarafından uygulanacak olan Perakende Satış Tarifeleri hakkında",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Hdro70kBvkA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Hdro70kBvkA="
+  ],
+  "source_sha256": "726e3355f53e8e270ad3018c24b7d2832bcd7baa3ab31980357339a5500b411f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-10-31",
+  "law_text_complete": false
+}
