@@ -1,0 +1,22 @@
+{
+  "number": "65",
+  "number_as_published": "65",
+  "year": 2000,
+  "title": "Encümen kararı 2000/65",
+  "decision_date": "2000-01-18",
+  "source": "https://www.izmir.bel.tr/tr/Encumen/TariheGoreKararGetir?draw=1&start=1000&length=500&yil=2000&ay=&gun=&txtSozcuk=",
+  "official_document": null,
+  "source_sha256": "c2b4bc04ee1797f84fdcba0f4bf7d37fff5d4ca06eb68c767bd1dd8b86b7dd1e",
+  "issuer": "İzmir Büyükşehir Belediye Encümeni",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2000-01-18",
+  "in_force_basis": "Decision date as printed in the official council listing: 18/01/2000; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.izmir.bel.tr/tr/EncumenKararlari/50"
+}
