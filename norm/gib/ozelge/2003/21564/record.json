@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4210-8/19176",
+  "source_id": 21564,
+  "date": "2003-05-08",
+  "title": "Personelin, normal çalışma saatleri dışında veya tatil günlerinde yabancı dil kursuna katılmaları  halinde, söz konusu dil kursları için ödenecek ders ücretlerinin belli bir kısmının kurumlarca karşılanması durumunda, yapılan bu ödemelerden gelir vergisi ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21564",
+  "source_sha256": "de14b6fd18619806ccac672566fc91110cb792e0b4429b2d16c5e13033675749",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
