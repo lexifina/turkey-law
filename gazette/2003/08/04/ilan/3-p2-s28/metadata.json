@@ -1,0 +1,31 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-08-04",
+  "issue": "25189",
+  "edition": "regular",
+  "item": 28,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-2",
+  "title": "Kırıkkale Üniversitesi Rektörlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030804-3-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (34 = 34)",
+  "ilan_codes": [
+    "27821/1-1",
+    "27820/1-1",
+    "27822/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030804-3-2.htm",
+  "category_page_sha256": "1e747ec2d58ed9cdd2994cc558a763ce0fc2d2eb61e1a75a9ebfb4f23f9c9028",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030804.htm",
+  "index_sha256": "648c2f4a608ad53ec73562e42a2c8b9237e11d25f627948ab9dadc7329eaa42b",
+  "index_header": "4 Ağustos 2003 ... Sayı : 25189",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
