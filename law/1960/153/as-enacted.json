@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "153",
+  "year": 1960,
+  "title": "7129 sayılı Bankalar Kanununa ek Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-12-13",
+  "gazette_issue": "10679",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10679.pdf",
+  "source_sha256": "3c419df93bb8c94860e46b71981cccdcfea74849410cca5879f78a9e073d222f",
+  "text_sha256": "70581b0361b4a9b9405fb82f4f0933c2343ad30169f06a8a0d97afc4e8825ed7",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      77
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300153.pdf",
+    "source_sha256": "baa213314b20fd4230646ad02bf82bc626b2d1cd9a2fa7ba55a1cc21f4dc5e8b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9744,
+    "bag": 0.9022,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9847,
+    "rg_words": 382,
+    "kd_words": 391,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
