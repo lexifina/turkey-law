@@ -1,0 +1,1 @@
+Madde 4 - Burslu kontenjandan üniversiteye yerleştirilen öğrenciler de dahil olmak üzere yan anadal programına kabul edilen öğrencilerden kredi/saat başına alınacak ücret üniversite yönetim kurulunca tespit edilir.

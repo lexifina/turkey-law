@@ -1,0 +1,3 @@
+OKAN ÜNİVERSİTESİ
+YANDAL PROGRAMLARI YÖNETMELİĞİ
+Amaç ve Kapsam:
