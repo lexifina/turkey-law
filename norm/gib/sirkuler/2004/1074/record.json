@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "Gider Vergileri Kanunu - 4 / 2004 - 4 / ÖİV - 1",
+  "source_id": 1074,
+  "date": "2004-09-13",
+  "title": "Telekomünikasyon Kurumuyla görev veya imtiyaz sözleşmesi imzalamak veya bu Kurumdan ruhsat veya genel izin almak suretiyle telekomünikasyon altyapısı kurup işleten veya telekomünikasyon hizmeti sunan işletmecilerin özel iletişim vergisi uygulaması karşısı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/sirkuler/1074",
+  "source_sha256": "5764de89f03500e11041409e331f95adff04d465842ea2acae8de79b7d0b3e01",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
