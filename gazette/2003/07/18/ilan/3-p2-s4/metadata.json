@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-07-18",
+  "issue": "25172",
+  "edition": "regular",
+  "item": 4,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-2",
+  "title": "Afyon Kocatepe Üniversitesi Döner Sermaye İşletme Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030718-3-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (44 = 44)",
+  "ilan_codes": [
+    "24444/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030718-3-2.htm",
+  "category_page_sha256": "e8ca6b2d9bbb27e7af7568d03f2dc2a62d947ca7d7922733267905df980a1661",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030718.htm",
+  "index_sha256": "145d69206344cb0da4e0aebeda1d210ea34ef09497630ae532f9cfe1b07b7703",
+  "index_header": "18 Temmuz 2003 ... Sayı : 25172",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
