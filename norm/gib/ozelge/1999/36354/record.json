@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6003-155/042101",
+  "source_id": 36354,
+  "date": "1999-10-06",
+  "title": "Noterler Birliği'nce kurulan vakıf tarafından depremden etkilenen noterlere veya eş ve çocuklarına yapılacak yardımların veraset ve intikal vergisinden istisna tutulmasının mümkün bulunmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36354",
+  "source_sha256": "3cd5c481a6c8538af09338582181af5c53380c5afa10a7612f55bc8c2c2739aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
