@@ -1,7 +1,8 @@
 {
   "checked_on": "2026-11-13",
+  "corrects_commit": "94ed982f99d08b2b610a1c58ec8ff82cc1b3c278",
   "date_gazette": "7023",
-  "date_quote": "02.10.1948",
+  "date_quote": "29 – Bu Tüzük hükümlerini Bakanl",
   "first_law": null,
   "gazette": "7023",
   "history": "current-text",
@@ -11,8 +12,8 @@
     "referenced": 0,
     "source": 0
   },
-  "in_force": "1948-10-02",
-  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "in_force": "1948-10-03",
+  "in_force_basis": "act commencement clause: 1 days after official Gazette publication",
   "kind": "bylaw",
   "label": "oldest version available",
   "published": "1948-10-02",
