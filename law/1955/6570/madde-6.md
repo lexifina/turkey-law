@@ -1,0 +1,1 @@
+Madde 6 – Kısmen mesken olarak kısmen de meskenden gayrı bir şekilde kullanılmak üzere kiralanmış bulunan veya tamamen mesken olarak kullanılmak üzere kiralanmış iken fiilen meskenden gayrı surette kullanılan gayrimenkullerin kira bedelleri zam bakımından mesken olmayan yerlere ait hükümlere tabidir.

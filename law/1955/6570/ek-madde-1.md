@@ -1,0 +1,2 @@
+Ek Madde 1 – (Ek: 23/1/1998 - 4331/1 md.)
+Bu Kanunun yürürlüğe girdiği tarihe kadar, yangın, yer sarsıntısı, yer kayması, fırtına, taşkın, sel gibi tabii afetler nedeniyle zarar gören mülkiyeti veya idaresi Vakıflar Genel Müdürlüğüne ait vakıf taşınmazların onarım veya restorasyonunu müteakip bir defaya mahsus olmak üzere afet öncesi kiracılarına Devlet İhale Kanunu hükümleri uygulanmaksızın Vakıflar Genel Müdürlüğünce tespit edilen rayiç kira bedeli ile kiracılık hakkı tanınabilir.

@@ -1,0 +1,4 @@
+Madde 12 – Kiracı, mukavelede hilafına sarahat olmadıkça, kiralanan yeri kısmen veya tamamen başkasına kiralayamaz yahut istifade hakkını veya mukavelesini başkasına devredemez veyahut kendisi gayrimenkulü bırakmış olduğu halde hiç bir sebeple bu yeri kısmen veya tamamen başkalarına işgal ettiremez.
+Kira akdinin esas gayesi itibariyle başkalarına kiralanması lazım ve mütat olan (Otel, pansiyon, talebe yurdu ve benzerleri) gayrimenkuller bütün gayrimenkulün devri veya kiralanması hali müstesna olmak üzere yukardaki fıkra hükmüne tabi değildir.
+Bu maddenin birinci fıkrası hükmüne riayet etmeyerek bir gayrimenkule kiracı veya devir alan sıfatiyle girenler veya bu gayrimenkulü işgal edenler hakkında hiç bir ihtara hacet kalmaksızın sulh mahkemelerinde tahliye davası açılabilir.
+Fuzuli şagiller hakkında 5917 sayılı kanun hükümlerinin tatbikı da istenebilir.

@@ -1,0 +1,2 @@
+Madde 4 – Mobilyalı olarak kiraya verilen gayrimenkulerin, bu kanuna göre taayyün eden yıllık kira bellerine mobilya için belediye encümenlerince takdir edilen kıymetin yüzde yirmisinden fazla zam yapılamaz. Şu kadar ki bu suretle zam olunacak miktar kira bedelinin yıllık tutarını geçemez.
+Kira müddetinin hitamından bir ay evvel yazı ile haber vermek şartiyle kiralayan mobilyalarını kısmen veya tamamen geri alabilir. Bu takdirde mobilyalar için yapılan zam nispetinde kiradan indirme yapılır.
