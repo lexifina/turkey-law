@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4407-1688/14552",
+  "source_id": 23024,
+  "date": "2004-04-02",
+  "title": "Basit usule tabi olmanın genel şartlarını ihlal eden aynı tarih itibariyle gerçek usulde gelir vergisi mükellefiyeti tesis edilmiş, basit usuldeki mükellefiyeti ise terk ettirilmiştir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23024",
+  "source_sha256": "f0a2d20699d9f1d895593461896fef11578f8f8b2a0dd20e50fc5076d330fc6c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
