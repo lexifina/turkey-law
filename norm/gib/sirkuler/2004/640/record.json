@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK- 17/2004-9/ Vergi Tarifesi",
+  "source_id": 640,
+  "date": "2004-02-12",
+  "title": "Toplam vergiye tabi gelir (matrah) üzerinden Gelir Vergisi Kanununun 103. maddesinde yer alan nispetler ve 104. maddesindeki düzenlemeler esas alınarak gelir vergisinin hesaplanması, daha sonra ise matrahın ücret gelirinden teşekkül eden kısmı üzerinden %",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/640",
+  "source_sha256": "44278a920d02859aafdc8d9e5cd302127343396f5c992ea50a9b48da0b431e6e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
