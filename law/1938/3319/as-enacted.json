@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3319",
+  "year": 1938,
+  "title": "3247 sayılı Kanunun birinci maddesinin değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-01-21",
+  "gazette_issue": "3814",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3814.pdf",
+  "source_sha256": "fb0b9f36ba5cf64d07c65e1d81b698a9575ba8cc50cd753e390bdacb1abf3d2f",
+  "text_sha256": "1aa58866b7591077f8d3aef9844b718c021861dabefd815892a285d5564e890a",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      2208,
+      2226
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803319.pdf",
+    "source_sha256": "ae3bb2e5545d61970b57a837ab3ae675f056ce964c4ba247737666af3e336f04",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9672,
+    "bag": 0.9107,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9823,
+    "rg_words": 113,
+    "kd_words": 113,
+    "own_anchor": true,
+    "foreign_anchors": 5
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
