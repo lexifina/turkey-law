@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-12-15",
+  "issue": "24964",
+  "edition": "regular",
+  "item": 23,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Kocaeli Gölcük Belediye Başkanlığı Hesap İşleri Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/12/20021215-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (56 = 56)",
+  "ilan_codes": [
+    "35530/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/12/20021215-3.htm",
+  "category_page_sha256": "4caa961e4a60a1ff73f0c5562f86b8c7037a4876b7e7de52fc5d6f1ca8eb4fc3",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/12/20021215.htm",
+  "index_sha256": "76bfb07b515c92c9b5749458f48b37894f0c2361ac737cf812402d92cddf9e1c",
+  "index_header": "15 Aralık 2002 ... Sayı : 24964",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
