@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6603-22/13805",
+  "source_id": 37313,
+  "date": "2005-03-24",
+  "title": "Belediyenin 394 sayılı Hafta Tatili Hakkında Kanunu dikkate almadan tahsilat yaptığı ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37313",
+  "source_sha256": "d8705f6b1e703cd48dae4e3ab4cd57a7258abf67d1dc2a3af82d73ace8ff35d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
