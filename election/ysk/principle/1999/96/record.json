@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/96",
+  "list_number": "96",
+  "decision_date": "1999-02-06",
+  "title": "YSK ilke kararı 1999/96",
+  "summary": "T.C. Anayasasının 150'nci maddesi hükmüne göre, Anayasa Mahkemesine dava açma hakkının kimlere tanındığı sınırlı bir biçimde sayılmıştır. Sayılan kurum ve kuruluşlar arasında Yüksek Seçim Kurulu yoktur. O itibarla Yüksek Seçim Kurulunun Anayasa Mahkemesine dava açma (başvurma) yetkisi bulunmamaktadır.",
+  "concepts": "YÜKSEK SEÇİM KURULU MAHKEME KAVRAMINA DAHİL DEĞİLDİR,  Y.S.K.NIN ANAYASA MAHKEMESİNE DAVA AÇMA YETKİSİ YOKTUR, ANAYASA MAHKEMESİNE DAVA AÇMA YETKİSİ",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4729/1999-96-karar.htm",
+  "source_sha256": "e877cf426b7b56725500ce4b5e8600e604ad6c5d683260d84e68b74efc0aa87e",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "1999-02-06",
+  "law_text_complete": true
+}
