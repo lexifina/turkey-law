@@ -1,0 +1,1 @@
+Madde 1 – Radyoloji, Radyum ve elektrikle tedavi ve diğer fizyoterapi müesseseleri hakkındaki 3153 sayılı kanunun 4 üncü maddesine göre, fizyoterapi ve bunlara benzer müesseselerin haiz olması icabeden vasıf ve şartlar bu Nizamnamede tesbit edilmiştir.

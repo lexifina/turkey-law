@@ -1,0 +1,1 @@
+Madde 9 – Kaplıcalar ve içmelerde müessese tabibi tarafından tedaviye başlanırken, tedavi esnasında ve hitamında hastaların tansiyon, kan, idrar vesair durumlarını icabında kontrol edebilecek lüzumlu alet ve malzemeyi havi bir laboratuvar tesis edilecektir.
