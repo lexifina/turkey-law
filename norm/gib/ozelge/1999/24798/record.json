@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4048-26/4469",
+  "source_id": 24798,
+  "date": "1999-02-11",
+  "title": "İlk defa işe başlayan mükellefler ile götürülük şartlarını haiz olanlardan kendi isteği ile götürü usulden gerçek usule geçen mükellefler için, işe veya gerçek usulde vergilendirilmeye başlanılan ve izleyen yılda hayat standartı esası uygulanmaz.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24798",
+  "source_sha256": "ad43149a47d8c2d53c0bcae7b9ce00360b219512754b172ea3fb5d59c1e70714",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
