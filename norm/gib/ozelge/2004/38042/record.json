@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5309-178-54375",
+  "source_id": 38042,
+  "date": "2004-11-18",
+  "title": "tevkifat oranı temizlik, bahçe ve çevre bakım, özel güvenlik, danışmanlık ve denetim hizmetlerine...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38042",
+  "source_sha256": "b6f721d44f7a9dc89433200971f65e264633f552a86ca02728eaea712a4acd4b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
