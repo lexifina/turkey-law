@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8845",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2005/2)",
+  "number": "8845",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2005/8845",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8845&MevzuatTertip=5",
+  "source_sha256": "9b2f999f786a0290198d6f4af514d46128c0307c804db132c70212d73836241a",
+  "source_bytes": 60155,
+  "published": "2005-02-05",
+  "gazette": "25718",
+  "in_force": "2005-02-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.02.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2611,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
