@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52-5200.02/124-13817",
+  "source_id": 33871,
+  "date": "2005-03-25",
+  "title": "Yangın söndürme ve kurtarma araçları alım satımında ÖTV düzenlemesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33871",
+  "source_sha256": "00f0459677f74865d3275208c7739bcdfbf5fc8aff3543bf933f7bedb522616a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
