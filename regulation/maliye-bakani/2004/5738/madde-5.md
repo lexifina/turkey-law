@@ -1,0 +1,3 @@
+ÜÇÜNCÜ BÖLÜM Mal Alımları
+Ayakta tedavileri Sağlanan Kişilerce Yapılan İlaç Alımları
+Madde 5 - Tedavisi kurumlarınca üstlenilen kişiler, ayakta tedavileri sırasında reçete edilen ilaçlarını tabi oldukları mevzuat hükümleri çerçevesinde; kurumların varsa kendi eczanelerinden, anlaşmalı veya anlaşması olmayan eczanelerden alabilirler. Bakanlık, sağlık kurumu ve kuruluşları tarafından ayakta tedavileri sağlanan kişilerin reçete edilen ilaçlarının teminine ilişkin koşulları belirlemek üzere Türk Eczacıları Birliği ile protokol düzenleyebilir. İlaç bedelleri kişilerin kurumlarınca ilgili mevzuatında belirlenen usul ve esaslar çerçevesinde ödenir.
