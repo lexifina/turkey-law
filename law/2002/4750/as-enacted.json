@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4750",
+  "year": 2002,
+  "title": "Her Türlü Irk Ayrımcılığının Ortadan Kaldırılmasına İlişkin Uluslararası Sözleşmenin Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2002-04-09",
+  "gazette_issue": "24721",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2002/04/20020409.htm",
+  "source_sha256": "64494fbb7f9dfc4d38875b60fba29fb38a2607b4b7c7c5406132ab192bb18f1e",
+  "text_sha256": "4d324f63d165d75296953c59a8191f86f63287dfa5949eee4562c6aca81dd74b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2002/04/09/24721-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2002/04/20020409.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
