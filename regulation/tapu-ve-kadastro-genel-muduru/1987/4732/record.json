@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4732",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DAVALI TAŞINMAZ MAL TUTANAKLARININ KADASTRO MAHKEMESİNE DEVRİ HAKKINDA YÖNETMELİK",
+  "number": "4732",
+  "issuer": "Tapu ve Kadastro Genel Müdürü",
+  "issuer_slug": "tapu-ve-kadastro-genel-muduru",
+  "path": "regulation/tapu-ve-kadastro-genel-muduru/1987/4732",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4732&MevzuatTertip=5",
+  "source_sha256": "c0589e426768894e4ac264766a32018af4e1978e22dc1a8f27cdde90934dc0b6",
+  "source_bytes": 22238,
+  "published": "1987-10-28",
+  "gazette": "19618",
+  "in_force": "1987-10-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.10.1987); own commencement article: \"Bu yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1037,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
