@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-",
+  "source_id": 38504,
+  "date": "2003-07-02",
+  "title": "Yüklendiği vergileri iade olarak alabilmek için YMM raporu ibraz ettiği ve raporda çelişkili...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38504",
+  "source_sha256": "ce24df3148524cda2435e4594252911d9a2d1afb0b58d57cf166ba6115ddcaf8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
