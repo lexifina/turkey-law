@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.43/4305-99/49946",
+  "source_id": 24130,
+  "date": "1999-12-25",
+  "title": "Satın alınan ve iktisap tarihinden İtibaren 4 yıl geçmeden elden çıkarılan araziden elde edilen kazancın 01.01.1999 tarihine kadar değer artışı kazancı olarak, bu tarihten sonra ise diğer kazanç ve irat olarak beyan edilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24130",
+  "source_sha256": "c5aff8bc7d2b0cf51d6b7a333c0cae87c28aa5c3be0aeca2e26e7ee0cd485b7f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
