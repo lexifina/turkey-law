@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2000-04-05T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2000-04-05",
+  "official_number": "B.07.0.GEL.0.63/6384-17/15261",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38164",
+  "source_id": "ozelge:38164",
+  "source_row_sha256": "0d51bc04a519e4bbb84573c88c3100c0e0d4b57193102eecd17d89e9d9b9e106",
+  "title": "Eğitime Katkı Payı tahsil edilen silah ruhsatnamelerinden ayrıca özel işlem vergisi tahsil edilmelidir.",
+  "version_label": "as-enacted",
+  "word_count": 299
+}
