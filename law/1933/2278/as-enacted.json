@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2278",
+  "year": 1933,
+  "title": "1918 sayılı kanuna eklenen kaçakçılığın men ve takibi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-06-15",
+  "gazette_issue": "2428",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2428.pdf",
+  "source_sha256": "79c7a463a7f68db692db95851fe9a2b22c787a483cefad304e7e31cf451e507b",
+  "text_sha256": "e3be9c33cd01a17f8d113f5c7944f46da049c5d92f4c3f82bd6d9970cb093eff",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      9,
+      89
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202278.pdf",
+    "source_sha256": "a7763d91a92647e6106630249ff75d0803a6b425eb2dea2afb313751bd2bf63a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9798,
+    "bag": 0.9309,
+    "kd_coverage": 0.9934,
+    "kd_body_compared": 0.9934,
+    "rg_words": 306,
+    "kd_words": 304,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
