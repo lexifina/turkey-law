@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2005/130",
+  "list_number": "130",
+  "decision_date": "2005-03-19",
+  "title": "YSK ilke kararı 2005/130",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3716/2005-130-karar.htm",
+  "source_sha256": "3c705362aa2bf25f365f4434cc2e11039538d2eb6a49e3aeb968467b4747b9a4",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2005-03-19",
+  "law_text_complete": false
+}
