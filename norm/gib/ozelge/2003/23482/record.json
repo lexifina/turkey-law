@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-1810/17023",
+  "source_id": 23482,
+  "date": "2003-04-08",
+  "title": "....... Kurumuna ait  Bloklarda kiracı olarak ikamet edenlerin  bu konutlara ait kira kontratları ile banka dekontlarının özel gider indirimi uygulamasında geçerli belge olup olmadığı hakkında...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23482",
+  "source_sha256": "0ffcb924f31f7a8a377ae4438e512e1ed21f690c0df9b9a9699917f6b319edbc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
