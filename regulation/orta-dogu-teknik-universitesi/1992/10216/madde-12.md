@@ -1,0 +1,1 @@
+Madde 12 – Genel Kurul, günü, yeri ve saati tüm üyelere en az 15 gün önceden yazılı olarak bildirmek ve üyelerin en az 2/3 sinin çağrıyı aldığının belgelenmesi koşulu ile, Yönetim Kurulu tarafından yılda bir defa olağan toplantıya çağrılır ve bu toplantı gelen üyelerin katılımı ile yapılır.

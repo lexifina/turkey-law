@@ -1,0 +1,1 @@
+Madde 13- Genel Kurul toplantısı, Yönetim Kurulu başkanı ve görevlendireceği Yönetim Kurulu üyelerinden biri tarafından açılır. Açılıştan sonra, toplantıyı yönetmek üzere , bir başkan, bir başkan yardımcısı ve iki yazman seçilir

@@ -1,0 +1,1 @@
+Madde 14- Genel Kurul kararları, toplantıya katılan üyelerin salt çoğunluğu ile alınır. Toplantıda bulunan üyelerin salt çoğunluğunun isteği ile oylama gizli yapılır. Toplantıda hazır bulunanların yarısından bir fazlasının olumlu oyunu almamış olan öneriler reddedilmiş sayılır. Bu kural, Yönetim Kurulunun aklanması veya görevlilerin seçiminde uygulanmaz.
