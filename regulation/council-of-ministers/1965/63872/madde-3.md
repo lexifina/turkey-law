@@ -1,0 +1,6 @@
+Madde 3 – Ön projelerin hazırlanması sırasında yerli imalat yönünden gözönüne alınacak hususlar:
+a. Ön projelerin yapılması sırasında yatırım yapacak ve projeyi hazırlayacak teşekküller, yatırımlarda yerli mamullerin ve hizmetlerin kullanılması üzerinde önemle duracaklardır. Türkiye'de imal edilen ve edilmesi mümkün olan mamuller ile tedariki mümkün hizmetler, dahilden sağlanır.
+Ön projelerin yapılmasında ve yatırımlarda bu Yönetmeliğe ekli listede yazılı mamullerin dahilden tedariki esastır.
+Listedeki mamullerin çalışır hale gelmesi için ithali gerekli ham ve yardımcı maddeler ile hariçten temini zaruri olan hizmetler için lüzumlu döviz ihtiyacı da ön projelerde belirtilir.
+b. Bağlı listede yapılacak değişiklik ve istisnalar Sanayi Bakanlığınca tesbit ve ilan olunur. Bu değişiklikler, dahilde imal edilenler ve Kalkınma Planı yıllık programlarında imali veya geliştirilmesi öngörülen mamuller gözönüne alınarak yapılır.
+c. Kalkınma Planı Yıllık Programlarında öngörülen yatırım konularına giren projelerin iç ve dış ödeme miktarlarının tesbitinde ilgili bakanlıklar ve Devlet Planlama Teşkilatı, yönetmelik esaslarının ön projede gözönünde alınıp alınmadığını tetkik eder ve dış ödemeyi asgari seviyede tutacak gerekli düzeltmeleri yapar.

@@ -1,0 +1,3 @@
+Madde 2 – Yönetmeliğin uygulama alanı:
+Bu Yönetmeliğin tümü genel, özel ve katma bütçeli ve döner sermayeli daire ve müesseselerle, belediyelerin ve İktisadi Devlet Teşekkülleriyle sermayesinin yarısı ve daha fazlası bu daire ve teşekküller tarafından ödenmiş ortaklıkların ve özel kanunla kurulmuş idare, teşekkül ve müesseseler, genellikle Türk Parası Kıymetini Koruma mevzuatına ithal işlemlerinde resmi sektör olarak muameleye tabi tutulan kuruluşların dış ödemesi olan bütün projelerine, (3-a) ve (6-b) maddeleri de özel sektör (Yabancı sermaye dahil) için uygulanır.
+Türkiye'nin taraf olduğu uluslararası anlaşmalara göre yapılan yatırımlarda, anlaşma hükümleri mahfuzdur.

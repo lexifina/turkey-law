@@ -1,0 +1,1 @@
+Madde 7 – Bu Yönetmeliğin hedeflerine ulaşmasını sekteleyici durumların meydana çıkması halinde ilgili Bakanlık ve teşekküllerle gerekli danışmaları yapmak suretiyle Sanayi Bakanlığı lüzumlu tedbirleri alır.

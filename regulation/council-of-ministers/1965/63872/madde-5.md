@@ -1,0 +1,3 @@
+Madde 5 – Hizmetler, kati proje ve imalat resimlerinin yapım ve temini
+a. Hizmetler, kati proje ve imalat resimleri prensip olarak Türkiye'de yapılır. Özelliği dolayısiyle veya Türkiye'de henüz gelişmemiş sahalarda yabancı firmalara başvurmak zarureti doğduğunda, yabancı firmaların yerli teşekküllerle azami işbirliği sağlanır. Gerektiğinde patent ve lisans anlaşmaları yapılabilir.
+b. Kati projeler ve imalat resimleri yabancı firmalara yaptırılacaksa, yerli malzeme ve standartlar da firmaya bildirilerek hesap ve projelerin bunlara göre yapılması sağlanır. Proje ve hesaplara metrik sistemin kullanılması esastır.
