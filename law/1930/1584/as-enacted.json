@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1584",
+  "year": 1930,
+  "title": "Türkiye Cumhuriyeti ile Amerika müttehit devletleri arasında münakit ticaret ve seyrisefain muahedenamesinin tasdikına mütedair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-04-21",
+  "gazette_issue": "1477",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1477.pdf",
+  "source_sha256": "553455cb03c8b1e9473ca1221ff948e452a669829b4eb096b2f8ff4c5da19848",
+  "text_sha256": "7096b7fdaed0de49b669d96004e213fb8065c7f6378f20029693a5af77e3c37d",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      8,
+      353
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801584.pdf",
+    "source_sha256": "ec162150c2c50c934cede9e58eea4f569fa03ad22aea34c85fff5611e0a71c42",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9783,
+    "bag": 0.9007,
+    "kd_coverage": 0.9851,
+    "kd_body_compared": 0.9851,
+    "rg_words": 918,
+    "kd_words": 939,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
