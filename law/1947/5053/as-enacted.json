@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5053",
+  "year": 1947,
+  "title": "Denizaltı sınıfı mensuplarına verilecek zamlar ve tazminler hakkında 3486 sayılı Kanunun 4145 sayılı Kanunla değişen 2. maddesinin (C) fıkrasının değiş tirilmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-06-06",
+  "gazette_issue": "6625",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6625.pdf",
+  "source_sha256": "fe27d548b639545179e71b3a34377a2d76e4b10186d75ec1cc2db564d1e5c749",
+  "text_sha256": "b13518fffe7ea7fd5ce3abe95bfa404dfeb94538cb32691c0db590fff355b400",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      24,
+      46
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905053.pdf",
+    "source_sha256": "70cc4037ae54948a5b36ba068e117553909200378f6b22adb5d06f75dffa4c38",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9692,
+    "bag": 0.888,
+    "kd_coverage": 0.9922,
+    "kd_body_compared": 0.9695,
+    "rg_words": 132,
+    "kd_words": 131,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
