@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2178/038863",
+  "source_id": 36318,
+  "date": "1999-09-15",
+  "title": "Murise ait vadeli mevduat hesaplarında bulunan paraların ölüm tarihindeki faizli bakiyelerinin veraset ve intikal vergisinin tarhına esas alınması gerektiği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36318",
+  "source_sha256": "dc035b29aa7c2e57b9fdb30a0dfeb0117dac03336f372853bbf2c4e12663fbb2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
