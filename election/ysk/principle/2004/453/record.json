@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/453",
+  "list_number": "453",
+  "decision_date": "2004-03-02",
+  "title": "YSK ilke kararı 2004/453",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4022/2004-453-karar.htm",
+  "source_sha256": "916f976a457578e17ea4c647f0a2bfb5c2be9fdf7adee43c46adcb805804e07d",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-03-02",
+  "law_text_complete": false
+}
