@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8554",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BAZI ÇELTİK VE PİRİNÇ TÜRLERİNİN İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "8554",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2004/8554",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8554&MevzuatTertip=5",
+  "source_sha256": "567e1cd93886455846219b02948b72a8189f958666c40acfcefcd10657644b44",
+  "source_bytes": 44348,
+  "published": "2004-04-27",
+  "gazette": "25445",
+  "in_force": "2004-04-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.04.2004); own commencement article: \"Bu Tebliğ 31/8/2004 tarihine kadar geçerli olmak üzere, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 31/8/2004 tarihine kadar geçerli olmak üzere, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 671,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
