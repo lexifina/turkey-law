@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4819",
+  "year": 2003,
+  "title": "Uyuşturucu Maddelerin Murakebesi Hakkında Kanunun Bazı Maddelerinde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-03-06",
+  "gazette_issue": "25040",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030306.htm",
+  "source_sha256": "11b8e9690795b024515784278c6f304fda011f297b0a812d291ed92cb71dc389",
+  "text_sha256": "e3f211e3a6add5c1f4f5ee2550bacb228e30b2d15b5f59c31e23764733b7042e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/03/06/25040-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030306.htm#7",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
