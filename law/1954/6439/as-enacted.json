@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6439",
+  "year": 1954,
+  "title": "Nafıa Vekâleti teşkilât ve vazifelerine dair Kanunun 5. maddesinin 4. fıkrasının değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-12-09",
+  "gazette_issue": "8874",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8874.pdf",
+  "source_sha256": "25a91be1875c70a4a3cf495aaf7a5e2624a604466dfbb0516de8607bc2f80d8e",
+  "text_sha256": "e7fe12e246521cd5ee6661a84a52d275cbf5ce4372e3e7940c64159c02cf50e0",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      17,
+      50
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706439.pdf",
+    "source_sha256": "b2ba514b076d3b8f48eb43b023d75d3382c5c641afc55b67d20210c04e51725f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9595,
+    "bag": 0.7857,
+    "kd_coverage": 0.9639,
+    "kd_body_compared": 0.9302,
+    "rg_words": 88,
+    "kd_words": 86,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
