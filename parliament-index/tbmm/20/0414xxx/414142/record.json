@@ -1,0 +1,103 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 414142,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Kamu Görevlileri Sendikaları Kanunu Tasarısı ile Antalya Milletvekili Deniz Baykal ve 39 arkadaşının, İstanbul Milletvekili Gürcan Dağdaş ve 6 arkadaşının, Trabzon Milletvekili Yusuf Bahadır ve 9 arkadaşının, İstanbul Milletvekili Ercan Karakaş ve 7 arkadaşının aynı mahiyetteki Kanun Teklifleri ve İstanbul Milletvekili Ercan Karakaş ve 2 arkadaşının İşçi ve Memur Emeklileri ile Bunların Dul ve Yetimlerinin Sendikalaşmasına İlişkin Kanun Teklifine ilişkin",
+  "title": "Kamu Görevlileri Sendikaları Kanunu Tasarısı ile Antalya Milletvekili Deniz Baykal ve 39 arkadaşının, İstanbul Milletvekili Gürcan Dağdaş ve 6 arkadaşının, Trabzon Milletvekili Yusuf Bahadır ve 9 arkadaşının, İstanbul Milletvekili Ercan Karakaş ve 7 arkadaşının aynı mahiyetteki Kanun Teklifleri ve İstanbul Milletvekili Ercan Karakaş ve 2 arkadaşının İşçi ve Memur Emeklileri ile Bunların Dul ve Yetimlerinin Sendikalaşmasına İlişkin Kanun Teklifine ilişkin",
+  "first_sitting_date": "1998-03-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 47,
+      "sitting": 63,
+      "sitting_date": "1998-03-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c047/tbmm20047063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c047/tbmm20047fih.pdf",
+      "pages": [
+        "115:142",
+        "144:148"
+      ]
+    },
+    {
+      "cilt": 47,
+      "sitting": 65,
+      "sitting_date": "1998-03-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c047/tbmm20047065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c047/tbmm20047fih.pdf",
+      "pages": [
+        "356:381"
+      ]
+    },
+    {
+      "cilt": 47,
+      "sitting": 66,
+      "sitting_date": "1998-03-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c047/tbmm20047066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c047/tbmm20047fih.pdf",
+      "pages": [
+        "409:443"
+      ]
+    },
+    {
+      "cilt": 48,
+      "sitting": 68,
+      "sitting_date": "1998-03-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c048/tbmm20048068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c048/tbmm20048fih.pdf",
+      "pages": [
+        "191:203"
+      ]
+    },
+    {
+      "cilt": 48,
+      "sitting": 69,
+      "sitting_date": "1998-03-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c048/tbmm20048069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c048/tbmm20048fih.pdf",
+      "pages": [
+        "226:240"
+      ]
+    },
+    {
+      "cilt": 48,
+      "sitting": 71,
+      "sitting_date": "1998-03-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c048/tbmm20048071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c048/tbmm20048fih.pdf",
+      "pages": [
+        "435:513"
+      ]
+    },
+    {
+      "cilt": 49,
+      "sitting": 72,
+      "sitting_date": "1998-03-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c049/tbmm20049072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c049/tbmm20049fih.pdf",
+      "pages": [
+        "19:78",
+        "80:114"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=481&v_gelecek_sayfa=301&v_kullanici_id=27484473",
+  "source_sha256": "94fb8579e32e273e4c57953525a3bd96fb391c34f72150d1d2a2f6b7f06acf54",
+  "in_force": "1998-03-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
