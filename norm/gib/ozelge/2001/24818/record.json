@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4010-106/28633",
+  "source_id": 24818,
+  "date": "2001-05-25",
+  "title": "Menkul sermaye iratlarında indirim oranı uygulanmadan önceki tutarın izah nedeni olacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24818",
+  "source_sha256": "751ac559bbf5f34ef2b4905fa78973a5b0068a34ef1f9615fd1146d1a433098a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
