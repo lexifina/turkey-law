@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2003/3",
+  "source_id": 361,
+  "date": "2003-07-22",
+  "title": "GELİR VERGİSİ KANUNU İÇ GENELGESİ SIRA NO : 2003/3",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/icgenelge/361",
+  "source_sha256": "329b4ed1d3690dbafc4d32344c43c9aa7306fb336286e978ceae82d39fab3168",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/433/icgenelge/358",
+        "quote": "22/7/2003 tarihli ve 2003/3 sayılı Gelir Vergisi Kanunu İç Genelgesinde yer alan hususlara ilaveten aşağıdaki açıklamaların yapılmasına gerek duyulmuştur. 1-KULLANILAMAZ DURUMDA OLAN TAŞITLARLA İLGİLİ OLARAK YAPILACAK İŞLEMLER 2003/3 sayıl"
+      }
+    ]
+  }
+}
