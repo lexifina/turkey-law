@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 426335,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Türkiye Cumhuriyeti Hükümeti ile Letonya Cumhuriyeti Hükümeti Arasında Hava Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Tasarısına İlişkin",
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Letonya Cumhuriyeti Hükümeti Arasında Hava Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Tasarısına İlişkin",
+  "first_sitting_date": "1999-08-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 45,
+      "sitting_date": "1999-08-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c008/tbmm21008045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c008/tbmm21008fih.pdf",
+      "pages": [
+        "477:482",
+        "645:668"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4bcc12901bcdb505a11b7caf050b165a7466d5a697e0272ec094566285943990",
+  "in_force": "1999-08-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
