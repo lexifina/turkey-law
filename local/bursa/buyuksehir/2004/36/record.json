@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "36",
+  "decision_date": "2004-05-28",
+  "title": "BursaRay Şube Müdürlüğü Kurulması",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/3628_MEC2004-3_36.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=2004",
+  "listing_sha256": "8700d24407d4c66c5c558dd97a0ca3a2dee45f294e75cdd791c62f5d3ec107dd",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
