@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6624-71",
+  "source_id": 32016,
+  "date": "2003-05-24",
+  "title": "Eğlence vergisi katma değer vergisi matrahına eklenmeli ve eğlence vergisi bilet bedelinden katma değer vergisi düşüldükten sonra kalan bedel üzerinden hesaplanmalıdır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/32016",
+  "source_sha256": "d0a8c4881702ce5ab7c794f34f012720eb3f857f17ac9a8d65a42f3b78a7a4d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
