@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2000-02-28T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2000-02-28",
+  "official_number": "B.07.0.GEL.0.59/5917-152/9078",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/591/ozelge/38482",
+  "source_id": "ozelge:38482",
+  "source_row_sha256": "52b3e3a14c242c118ec59ee22ada6c129c60579ea814d5e1f0d27775f105b8c4",
+  "title": "Akaryakıt satışlarında, bayilerin aldıkları akaryakıt ile sattıkları akaryakıt miktarları arasındaki farkın fiili stok fazlalığı da otomatik olarak gider yazılacak ve dönem sonu stoku, fiili miktar kadar fazla gösterilmiş olacaktır.",
+  "version_label": "as-enacted",
+  "word_count": 531
+}
