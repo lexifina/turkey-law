@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.66/6664-948/26912",
+  "source_id": 37132,
+  "date": "2001-05-17",
+  "title": "Yoklama sonucu zirai faaliyette kullanılmadığının tespit edilmesi halinde, arazi , arsaya ait esaslara göre vergilendirilebilir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37132",
+  "source_sha256": "13893f3d7ff17090e93b030482a5aef6c59d51b6ea3587a066ed556ef32cc6ed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
