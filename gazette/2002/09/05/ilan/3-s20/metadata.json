@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-09-05",
+  "issue": "24867",
+  "edition": "regular",
+  "item": 20,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Türkiye Kömür İşletmeleri Kurumu Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020905-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (71 = 71)",
+  "ilan_codes": [
+    "24805/2-2"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020905-3.htm",
+  "category_page_sha256": "8f55d7343dacfb8c654e0fdacb11b1861e915a3db3d65ee9dbdd44cb4ad08c74",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020905.htm",
+  "index_sha256": "48ebecdbd753b8af000b3b3728be28d2019786a7196e07bbe9d5104bf1fdd111",
+  "index_header": "5 Eylül 2002 ... Sayı : 24867",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
