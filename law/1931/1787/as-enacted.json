@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1787",
+  "year": 1931,
+  "title": "Türkiye dahilinde otomatik oyuncak makineleri ithal etmek ve bunları işletmek hakkının Himayei Etfal Cemiyetine münhasır olduğuna dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-04-01",
+  "gazette_issue": "1763",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1763.pdf",
+  "source_sha256": "1ccb81a196dbafb13a75956d85855c5ba723ba8cc60b0f294191e92efe7028d2",
+  "text_sha256": "4486bd221ed972db3c23eacb32875544dd32512b62fe152e0b31d00565b16d49",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      68,
+      148
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901787.pdf",
+    "source_sha256": "0d13b05d11b2dc098398c0b425958a80acf48b07c6033bc7f3b7a004efbc0b99",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9741,
+    "bag": 0.9574,
+    "kd_coverage": 0.9931,
+    "kd_body_compared": 0.9931,
+    "rg_words": 278,
+    "kd_words": 288,
+    "own_anchor": false,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
