@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4033 -160/58171",
+  "source_id": 24827,
+  "date": "2004-12-07",
+  "title": "Serbest Bölgede gerçekleştirilen faaliyetle ilgili olarak elde edilen kazancın ortaklara dağıtımı halinde tevkifat yapılmasının gerekip gerekmediği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24827",
+  "source_sha256": "1f7a0e929c96915bad48600fa104410a07e02c3c4304049e897199441abda5ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
