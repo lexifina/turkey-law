@@ -1,0 +1,2 @@
+B) Balık konserveleri (kutu balıkları)
+Madde 163 – Çeşitli balıkların avlanmalarını mütaakıp, bütün tazeliklerini muhafaza ettikleri halde ayıklanıp temizlendikten sonra pişirilip kurutularak ve içine zeytinyağı veya bu Tüzük ile yenilmesine müsaade edilmiş diğer bir nebati yağ ilavesiyle ermetik olarak kapatılmış kutular içinde sterilize edilmeleriyle hazırlanır. Bu konservelere biber, domates veya salçası gibi çeşni ve lezzet verecek zararsız maddeler de ilave edilebilir.

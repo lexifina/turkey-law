@@ -1,0 +1,1 @@
+Madde 462 – Genel olarak dondurmalarda şeker miktarı veznen % 18 den ve sütlü dondurmalarda yağ miktarı veznen % 2,8 den aşağı olmıyacaktır. Dondurmalara sakkarozdan başka tat verici maddelerin konması yasaktır.

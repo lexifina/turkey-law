@@ -1,0 +1,1 @@
+Madde 683 – Yağ ve et gibi yağlı maddeleri sarmak ve koymak için kullanılan ve (parşumen kağıdı) denilen kağıdın terkibinde mağnezyum klorür bulunmamalı ve ihtiva edeceği zararsız klorürler miktarı, mutfak tuzu hesabiyle % 2 yi geçmemelidir.

@@ -1,0 +1,1 @@
+Madde 158 – Konserveler içinde, esas gıda maddesile, mutad olarak beraber yenilen veya ilavesine müsaade edilmiş bulunanlardan başka, yabancı bir gıda maddesi veyahut zararsız da olsa herhangi bir kimyevi cisim veya boya katılmış olmıyacaktır.

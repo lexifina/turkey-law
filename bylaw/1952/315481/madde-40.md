@@ -1,0 +1,2 @@
+Madde 40 – (Değişik: 6/3/1980 - 8/525 K.)
+Süt tozları, yapımlarından sonra, hava, ışık ve nem geçirmeyecek biçimde ambalajlanır ve serin yerlerde saklanır. Bu ambalajlar üzerine yapımcı firmanın adı, adresi, varsa tescil edilmiş markası, içindeki net süt miktarı, yağlı, yarım yağlı veya yağsız olduğu, gün, ay ve yıl olarak yapım tarihi, seri numarası, sulandırma oranı, ambalajlama sırasında gaz ortamdan yararlanılmışsa gazın türü ve miktarı yazılı bir etiket bulundurulacak; ambalaj içindeki tarifesinde bütün bu hususlar yazılacaktır.

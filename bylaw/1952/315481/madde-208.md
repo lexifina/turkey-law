@@ -1,0 +1,1 @@
+Madde 208 – Yalnız kabuğu çatlayıp da içi bozulmamış ve akmamış yumurtalar satılabilirler. Kısmen akmış, içi bozulmuş ve lekeler husule gelmiş kirli olan yumurtalar insan gıdası olarak satılamazlar. Bunlar gıda imalı sanayiinden başka diğer sanayide ve hayvan beslenmesinde kullanılmak üzere ve kırık olarak satılabilirler.

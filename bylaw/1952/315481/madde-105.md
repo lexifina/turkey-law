@@ -1,0 +1,2 @@
+Madde 105 – (Değişik: 21/3/1956 - 4/6999 K.)
+Margarin imalathaneleri, her türlü teknik ve sıhhi şartları haiz oldukları mahalli sıhhat teşkilatınca kabul edildikten sonra Sıhhat ve İçtimai Muavenet Vekaletince verilecek müsaade ile açılıp çalışabilirler. Bu imalathanelerde margarin iptidai maddesi olarak kullanılmağa müsaade edilmiş maddelerden başka veya diğer yağları aynı zamanda bulundurmak veya bunları imal etmek yasaktır.

@@ -1,0 +1,1 @@
+Madde 541 – Muayene ve tahlil için laboratuvara gönderilmek üzere alınacak numune miktarı şaraplardan ve meyva şaraplarından 700 Cm3, biradan iki şişe, rakı sınıfı içkilerden ve likörlerden 500 er gram veya bu miktarlardan aşağı olmamak üzere bir veya bir kaç kapalı orijinal ambalajdan ibarettir.

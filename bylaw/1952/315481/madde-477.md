@@ -1,0 +1,1 @@
+Madde 477 – Cevizli sucuk ve benzerlerinin imallerinde kullanılacak iptidai maddelerin bu tüzükte kendileri için tespit edilmiş bulunan vasıfları haiz olmaları şarttır. Bozuk, kurtlu, çürük kuru meyvalarla sucuk yapılması, sucuklara suni tatverici maddelerle her türlü yabancı maddelerin katılması yasaktır.

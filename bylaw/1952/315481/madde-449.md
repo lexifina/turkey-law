@@ -1,0 +1,2 @@
+Madde 449 – Basit gazozlarda sitrik asit veya tartarik asit miktarı (karbonik asit hariç olmak üzere) litrede 1 gr, dan az ve 2 gr, dan fazla olamaz. Bu gazozlar limon, portakal, mandalin gibi tabii esanslarla kokulandırılabilirler.
+Muhtelif meyva usareleriyle veya şuruplariyle yapılan nevilerinde asgari asidite miktarı (tartarik asit hesabiyle) litrede 1 gr. dan az ve yapıldıkları şurup veya meyva usaresinden mütevellit asiditeleri gayri tabii bir şekil verecek kadar fazla olmamalıdır. Gazoz imalinde kullanılacak şurupların boyanmış olmaması şarttır.

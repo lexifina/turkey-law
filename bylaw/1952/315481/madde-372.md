@@ -1,0 +1,1 @@
+Madde 372 – Lokum çeşitleri şekerle (sakkarozla) yapılır. Ancak bunların imalinde glikoz kullanıldığı takdirde bu hususun satıldığı kaplarda bulundurulacak etikette açık ve okunaklı bir şekilde (glikozla yapılmıştır) ibaresinin yazılı olması mecburidir.

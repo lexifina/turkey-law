@@ -1,0 +1,2 @@
+Madde 98 – (Değişik: 21/3/1956 - 4/6999 K.)
+Rafine hayvan yağlarının satış kabları üzerinde (Rafine hayvan yağı) yazısiyle beraber, bunu imal eden müessesenin isim ve adresi, yağın elde edildiği hayvanın adı, tuzlu veya tuzsuz olduğu açıkca yazılı bir etiket bulunacaktır. Bu yağların, satış ve depo yerlerinde, tereyağlarına, margarinlere veyahut sertleştirilmiş yağlara mahsus reyonlarda (Kısımlarda) bulundurulması yasaktır.

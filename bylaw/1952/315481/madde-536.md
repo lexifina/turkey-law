@@ -1,0 +1,1 @@
+Madde 536 – Dış memleketlerden ithal edilip de bu Tüzükte ad ve vasıfları hakkında hüküm serdedilmemiş alkollü içkiler menşe memleketlerinin bu husustaki mevzuatı gözönünde tutularak işleme tabi tutulurlar.

@@ -1,0 +1,1 @@
+Madde 91 – Yukarki maddede yazılı yağlar normal olarak bünyeleri içinde bulunanlardan başka hayvanın diğer nesiçlerini veyahut herhangi yabancı bir un-suru ihtiva etmiyecekler, bozulmuş, kokmuş, küflenmiş ve kirlenmiş olmayacaklardır.

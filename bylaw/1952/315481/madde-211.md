@@ -1,0 +1,1 @@
+Madde 211 – Sarısı yumurtanın bir kenarına yapışmış veya dağılmış, lekeli, içinde rüşeym teşekkül etmiş, kokmuş veya daha başka bozukluk alametleri gösteren yumurtaların çiğ veya pişmiş olarak satılması yasaktır.

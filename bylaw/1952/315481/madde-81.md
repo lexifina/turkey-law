@@ -1,0 +1,2 @@
+Madde 81 – (Değişik: 6/11/1983 - 83/7366 K.)
+Pastörize tereyağları, TS. 1331 e uygun olarak yapılmış, üzerine yapımcı firmanın adı, adresi, varsa tescil edilmiş markası, yapıldığı sütün adı, içindeki yağ miktarıyla katkı maddeleri, gün, ay ve yıl olarak yapım tarihi veya seri numarası, son kullanma tarihi, depolama sıcaklığı, pastörize olduğu okunaklı ve silinmeyecek biçimde yazılmış ambalajlar içinde satışa çıkarılacaktır.

@@ -1,0 +1,4 @@
+Madde 284 – (Değişik birinci fıkra: 6/11/1983 - 83/7366 K.)
+Unlar, kağıt, kıl dökmeyen torba, plastik ve alüminyum varaktan yapılmış ambalajlar içinde satışa çıkarılacak; ambalajın üzerinde, unun, sınıfını (ekstra-ekstra, birinci nev'i, ikinci nev'i vb.), miktarını, yapımcı firmanın adını, adresini, varsa tescil edilmiş markasını, ay ve yıl olarak yapım tarihini, Yönetmeliğine göre konulan katkı maddelerini gösterir, okunaklı, düşmeyecek, silinmeyecek biçimde etiket ya da yazı bulunacaktır.
+(Değişik: 27/10/1972 - 7/5274 K.) Baklava, kadayıf, börek, bisküvi ve benzerlerinin imalinde kullanılacak unların etiketlerinde veya ambalajları üzerindeki yazılarda ayrıca bu hususların da belirtilmesi zorunludur.
+(Değişik: 27/10/1972 - 7/5274 K.) Her nev'i ekmeklik unun, içi kolayca temizlenebilen bir madde ile kaplı ve dış etkilerden zarar görmeyecek şekilde yapılmış, kapalı araçlarla taşınması zorunludur.

@@ -1,0 +1,3 @@
+B – Fondan:
+Madde 368 – Fondan: Şeker şurubunun (sakkaroz şekeri) kaynatılarak sitrik veya tartarik asit veya krem dö tartr ile kestirilmesi ve süsatüre edilmesiyle elde edilen yumuşakça kıvamda gayet ince zerreli, ya sade veya içine yaş ve kuru meyva aksamı, marmelat, meyva ezmeleri, kahve, kakao, zararsız tabii veya suni meyva veya çiçek esansları, vanilya veya vanilin, lokum, katılarak ve yönetmeliğinde kullanılmasına müsaade edilen boyalardan herhangi birisiyle hafifçe boyanarak el veya kalıpla hususi şekil verilmiş olan müstahzarlar anlaşılır.
+Bu maddenin veya içine katılmış diğer maddelerin imalinde kısmen veya tamamen glikoz kullanıldığı takdirde bu hususun satıldığı kaplar üzerinde bulundurulacak etikette yazılı olması mecburidir.

@@ -1,0 +1,1 @@
+Madde 207 – Perakende olarak yumurta satışı yapılan yerlerde yumurtaların serin yerlerde saklanması mecburi olduğu gibi, bu yerlerde satılan saklanmış yumurtaların her birinin üzerinde harflerinin büyüklüğü bir santimden aşağı olmamak üzere siyah renkli ve kaynatılmağa mukavim sabit mürekkeple yazılmış (konserve) damgasının bulunması mecburidir.

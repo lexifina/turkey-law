@@ -1,0 +1,1 @@
+Madde 6 – Her türlü gıda maddelerinin imal, ihzar, küçük ambalajlara taksim veya muhafaza olunduğu ve satıldığı yerlerin ve tesislerinin, içindeki alat ve edevatın, gıda maddelerinin taşındığı, içine konulduğu vasıta ve kapların tamamen temiz bulunması ve bütün bu safhalarda gıda maddelerinin her türlü televvüsten korunması mecburidir.

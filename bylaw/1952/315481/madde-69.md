@@ -1,0 +1,3 @@
+Madde 69 – (Değişik: 6/3/1980 - 8/525 K.)
+Peynirlerden muayene ve analiz için alınacak numune miktarı 200 gramdan aşağı olamaz. Varsa bu miktardan az olmamak üzere küçük bir ambalaj alınır. Muayene ve analize gönderilecek beyaz peynirler, salamura suları içinde ve ağızları plastik, paslanmaz maden veya cam kapaklı kavanozlar veya sızıntıya meydan vermeyen ve paslanmayan iyi kapanır kutular içine konur. Kaşar peynirleri vb.lerinden kabuk ve iç kısımları içerecek, büyük ambalaj halinde olanlardan peynirin tamamını temsil edecek biçimde numune alınır; yukarda nitelikleri belirtilen kaplar içine konur.
+Bakteriyolojik muayene ve analiz numunelerinin aseptik koşullarda alınıp, steril kaplar içinde gönderilmesi zorunludur.

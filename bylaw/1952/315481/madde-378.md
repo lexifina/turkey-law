@@ -1,0 +1,1 @@
+Madde 378 – Badem ezmesi ve benzerlerinin, yapıldıkları kuru meyvadan başka cins ve kuru meyva ile yapılması, içlerine un, sair hububat ve sebze nişastaları vesair ağırlaştırıcı maddeler katılması ve nitro benzol ve benzeri zararlı maddelerle kokulandırılması yasaktır.

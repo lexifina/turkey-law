@@ -1,0 +1,1 @@
+Madde 249 – Acımış, kokmuş, küflenmiş, ıslanmış, kurtlanmış veya başka bir surette bozulmuş olan hazır sebze çorbalıkları, münhal nabati çorbalıklar, levür hülasaları ve terbiyeler sağlığa az veya çok zarar verecek derecede bozulmuş sayılırlar.

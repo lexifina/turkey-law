@@ -1,0 +1,1 @@
+Madde 251 – Hazır sebze çorbalıkları, münhal nebati çorbalıklar, levür hülasaları ve terbiyelerden laboratuvarlara gönderilmek üzere alınacak örnek miktarı 150 gramdan aşağı olmamak üzere bir veya iki kutu yahut şişe, küçük torba veya paket gibi ambalajlarda olanlardan da 150 gramdan aşağı olmamak üzere bir veya iki aded orijinal ambalajdan ibarettir.

@@ -1,0 +1,1 @@
+Madde 157 – Konserve kutuları açıldıkları zaman, muhteviyatının koku, lezzet, manzara ve kıvamı tamamiyle tabii pişmiş gıda maddesi vasıflarında olacak ve kimyevi vasıflarında, bozukluğa ait hiç bir değişiklik bulunmıyacaktır.

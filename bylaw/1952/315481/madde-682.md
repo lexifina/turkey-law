@@ -1,0 +1,1 @@
+Madde 682 – Gıda maddelerini sarmağa veya koymağa mahsus varakalar ve madeni tüpler arsenikten ari olacak ve terkiplerinde bulunabilecek antimuan, civa, kurşun miktarları mecmuu % 0,5 i geçmiyecektir.

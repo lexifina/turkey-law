@@ -1,0 +1,1 @@
+Madde 16 – Gıda maddelerine, her hangi bir şifa hassasına malik olduğu veyahut terkibinde tabii olarak mevcut olan gıdai vasıfların fevkinde besleyici veya sıhhi bir tesiri haiz bulunduğu hakkında kayıt ve işaretler koymak yasaktır.

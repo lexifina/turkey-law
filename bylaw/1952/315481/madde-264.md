@@ -1,0 +1,2 @@
+Madde 264 – (Değişik: 27/10/1972 - 7/5274 K.)
+Yemeklik baklagil kuru taneleri iyi ve normal vasıflarda, yeter derecede kurumuş ve taneleri mümkün olduğu kadar mütecanis ve normal büyüklükte olmalı, buruşmuş olmamalıdır. Zararsız da olsa yabancı bitkisel kısımlar ve yabancı taneler miktarı % 2 den, taş, toprak, kum gibi kısımlar toplamı % 1 den, bit yenikli taneler miktarı % 3 ten ve rutubet miktarı % 14 ten fazla olmamalıdır.

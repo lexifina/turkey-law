@@ -1,0 +1,1 @@
+Madde 116 – Her türlü yemeklik nebati yağların boyanması, içine herhangi bir maksatla yabancı maddeler ilavesi ve muhtelif nevi nebati yağların birbirleriyle ve hayvani veyahut madeni yağlarla karıştırılması yasaktır.

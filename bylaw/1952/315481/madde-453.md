@@ -1,0 +1,1 @@
+Madde 453 – Suni gazlı suların şişeleri üzerinde imalathanenin isim ve adresini bildirir bir etiketi bulunacak ve ağızlarındaki kapsüllerinde yapanın soğuk damga veya sabit boya ile yazılı olmak üzere tanıtıcı bir işareti bulunacaktır.

@@ -1,0 +1,1 @@
+Madde 705 – Safiyetinden şüphe edilerek, muayene edilmek üzere numune alınan gıda maddelerinden, lüzum görülenlerin nihayet bir hafta zarfında yapılacak tahlil neticesine kadar mühür altına alınarak satılması men olunur. Bu suretle mühür altına alınan gıda maddeleriyle bu Tüzükte yazılı diğer levazımın miktarı ayrıca zabıt varakasına kaydedilir.

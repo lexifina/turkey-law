@@ -1,0 +1,1 @@
+Madde 656 – Derilerin korunmasında kullanılan ayakkabı kremi, boyası ve cilası ve benzerleri müstahzarlar anilin, tolüidin nitro benzolden, sağlığa zararlı boyalardan ve diğer maddelerden ari bulunmalıdır.

@@ -1,0 +1,1 @@
+Madde 377 – Badem şekeriyle badem ezmesinin imalinde şeker yerine kısmen veya tamamen glikoz kullanıldığı takdirde bu hususun satıldıkları kaplarda bulundurulacak etiketlerinde açık olarak yazılması mecburidir.

@@ -1,0 +1,1 @@
+Madde 598 – Her ne maksatla olursa olsun içine madeni ve uzvi zehirli bir madde katılmış bulunan çikolata ve çikolata tozları sağlığı hafif veya ağır surette ihlal edecek şekilde tağşiş edilmiş sayılırlar.

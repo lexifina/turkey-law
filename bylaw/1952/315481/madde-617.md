@@ -1,0 +1,2 @@
+Madde 617 – (Değişik: 6/11/1983 - 83/7366 K.)
+Hardal unu, şeker, sirke ya da şarap ve suyla yapılan karışıma sofra hardalı denir. İçerisine tuz konabileceği gibi, oranı kuru maddede % 10 u geçmemek üzere pirinç unu da katılabilir. Sofra hardalı, cam, porselen ya da bu Tüzükte belirtilen malzemeden yapılmış kaplar içerisinde satışa çıkarılır. Bu ambalajların üzerine yapımcı firmanın adı, adresi, varsa tescil edilmiş markası, net miktarı, yapım tarihi, yapımında kullanılan malzemenin cins ve miktarı belirtilir.

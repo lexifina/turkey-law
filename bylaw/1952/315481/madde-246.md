@@ -1,0 +1,1 @@
+Madde 246 – Hazır sebze çorbalıkları, münhal nebati çorbalıklara, terbiyelere; et hülasası, et suyu evsaf ve ayarında veya bunların aynıdır gibi ad ve vasıfların verilmesi ve bu yolda reklam yapılması yasaktır.

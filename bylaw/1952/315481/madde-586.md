@@ -1,0 +1,1 @@
+Madde 586 – Sütlü çikolata ve tozlanna ilave edilecek süt miktarı % 15 ten aşağı olamaz, süt tozu kullanılarak sütlü çikolata yapıldığı takdirde ilave edilen süt tozu anasırı % 15 nispetindeki taze sütün anasırını ihtiva edecektir. Bu nevi çikolataya veya tozlarına da vanilya veya vanilin ilave edilebilir.

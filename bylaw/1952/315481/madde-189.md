@@ -1,0 +1,1 @@
+Madde 189 – Yukarki maddelerde yazılı her türlü balık müstahzarlarının muhafazaları için içlerine tuzdan başka bir madde ilave etmek ve kıvam vermek için veya diğer maksatlarla başka bir cisim koymak yasaktır. Bunlardan tuzlu balıklara ve balık ezmelerine, çeşni vermek için az miktarda zararsız bazı nebati maddeler ilave edilebilir.

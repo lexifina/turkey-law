@@ -1,0 +1,1 @@
+Madde 599 – Çikolata ve çikolata tozlarından muayene ve tahlil için alınacak numuneler 200 gramdan aşağı olmamak üzere alınır ve açık olanlar cam kavanoz veya teneke kutu içinde, orijinal ambalaj olanlar ise bu miktardan aşağı olmamak üzere alınır ve doğrudan doğruya laboratuvara gönderilir.

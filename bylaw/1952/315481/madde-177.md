@@ -1,0 +1,1 @@
+Madde 177 – Bütün et müstahzarlarının içine et ve yağdan başka her türlü hayvan aksamının ve ilavesi mütat olan zararsız maddelerden başka diğer herhangi bir cismin katılması ve bu müstahzarların boyanması yasaktır.

@@ -1,0 +1,1 @@
+Madde 210 – Yumurtaların kabuklarını, haricen zararlı olmıyan nebati boya maddeleri ve hususi yönetmeliğinde kullanılmasına müsaade edilen suni uzvi boyalardan başka maddeleri vesair maddeler ile boyamak yasaktır.

@@ -1,0 +1,2 @@
+Madde 42 – (Değişik: 6/3/1980 - 8/525 K.)
+Süt tozlarından alınacak numune miktarı, yarım kilograma kadar olanlarda 250 gramdan az olmamak üzere bir veya bir kaç ambalaj, daha büyüklerinde ise 250 gram olacaktır. Kimyasal muayene ve analiz için alınacak numuneler, kapalı kutular, cam veya mantar kapaklı kavanozlarda: bakteriyolojik muayene ve analiz için alınacak numuneler ise, aseptik koşullarda, steril kaplarda laboratuvara gönderilecektir.

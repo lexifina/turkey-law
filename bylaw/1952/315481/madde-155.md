@@ -1,0 +1,1 @@
+Madde 155 – Satışa çıkartılan konserve kutularının kapakları içeri çekik veya düz olacak, kabarmış olmıyacaktır. Bu kutuların hiç bir yerinde delik, deşik ve içine kadar işlemiş derin pas lekeleri bulunmıyacak ve muhteviyatı kuru olarak hazırlanan veya adi derecede donmuş olması lazım gelen konservelerde çalkantı hissi olmıyacaktır.

@@ -1,0 +1,2 @@
+Madde 48 – (Değişik: 6/3/1980 - 8/525 K.)
+Krema ve kaymaklardan muayene ve analiz için alınacak numune miktarı, 200 gramdan az olmamak üzere bir veya bir kaç ambalajdır. Ambalaj, 200 gramdan büyük ise, kimyasal muayene ve analiz için temiz kaplara bakteriyolojik muayene ve analiz için aseptik koşullarda, steril cam kaplara, 200 gram numune alınır ve aynı gün 10°C ın altında laboratuvara gönderilir.

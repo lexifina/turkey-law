@@ -1,0 +1,1 @@
+Geçici Madde 2 – (Ek: 9/6/1979 - 7/17779 K.) Bu Tüzüğün yayımından önce satılmakta olan kozmetiklerin yapımcıları, yaptıkları kozmetiklerin içerdikleri maddeleri, oranlarını ve yapım yerlerini bu Tüzüğün yayımını izleyen 3 ay içerisinde Sağlık Bakanlığına bildirirler.

@@ -1,0 +1,4 @@
+Madde 636 – (Değişik: 10/12/1959 - 4/12500 K.)
+Asetik asit mahlülü ile yapılan ve küçük veya büyük kapalı kaplarla satılan alafranga turşuların imalinde kullanılacak asidin saf olması ve asetik asitten yapıldığının ambalajın üzerindeki etiketinde yazılması lazımdır. Bu suretle hazırlanan turşularda asit asetik miktarı % 5 den fazla olamaz.
+Sirke veya salamura ile yapılmış, açık veya kapalı olarak satılan turşuların sirke ile yapılanlarında asit miktarı asit asetik hesabiyle % 1 den az ve salamura ile yapılanlarında tuz miktarı % 5 den fazla olamaz.
+Yukarıki fıkralarda yazılı turşularda bakır (Cu) demir (Fe) mecmu miktarı 1000 gramda 30 miligramı geçmemelidir. Ancak hariçten bakır sulfat ilave edilmiş kornişon tipi hıyar turşularında bakır miktarı, suyundan süzülmek suretiyle ayrılmış madde kitlesinin bir kilogramında yüz miligram ve demir miktarı bir kilogramda eser miktarı geçemez.

@@ -1,0 +1,2 @@
+Madde 686 – (Değişik: 21/4/1971 - 7/2235 K.)
+Gıda maddelerinin ambalajında kullanılan ve 680 den 685 e kadar olan maddelerde gösterilen vasıf ve şartları haiz bulunmayan mukavva, kağıt, kese kağıdı, parşömen kağıdı, madeni varak, her türlü tüp, kapsül kapak ve tıpalar ile ad, miktar ve kimyasal yapıları 681 inci maddede belirtilen vasıf ve şartlara uygun olmayan plastik ambalaj malzemesi, sağlığa arz veya çok zarar verecek derecede taklit ve tağşiş edilmiş sayılırlar.

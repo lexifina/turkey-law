@@ -1,0 +1,1 @@
+Madde 480 – İçine her ne maksatla olursa olsun zehirli herhangi bir madde katılmış olan meyva suları, şıra, pestil, üzüm şırasiyle yapılan cevizli sucuk ve benzerleri sağlığı hafif veya ağır surette ihlal edecek derecede tağşiş edilmiş sayılırlar.

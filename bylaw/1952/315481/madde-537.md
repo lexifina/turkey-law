@@ -1,0 +1,1 @@
+Madde 537 – Kapların havi olduğu içki miktarı ile etiketler üzerinde yazılı miktarlar arasındaki fark en çok % 5 i ve içkinin alkol derecesiyle etiketlerinde gösterilen alkol derecesi arasındaki fark da en fazla yarım dereceyi geçemez.

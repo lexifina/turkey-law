@@ -1,0 +1,2 @@
+Madde 94 – Eritilmiş iç ve kuyruk yağlarının satış kapları üzerinde; yağıeriten imalathanenin isim ve adresi, yağın elde edildiği hayvanın ve uzvunun ismi, tuzlu veya tuzsuz olduğu açıkça yazılı bir etiket bulunacaktır.
+Bu yağların tereyağlarına, nebati ve hayvani margarinlere ve rafine yağlarına mahsus ambalajlar içine konması ve satış ve depo yerlerinde bu yağlara mahsus reyonlar içinde bulundurulması yasaktır.

@@ -1,0 +1,1 @@
+Madde 366 – Akide şekeri ve benzerleri adi şekerle (sakkarozla) yapılır. Ancak sakkaroz ve glikozla karışık olarak veya tamamen glikozla yapıldıkları takdirde bunların ambalajlarının veya satıldıkları kapların üzerinde (glikozla yapılmıştır) ibaresi yazılır veya bir etiket konur.

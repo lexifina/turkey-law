@@ -1,0 +1,5 @@
+Madde 422 – (Değişik: 4/6/1974 - 7/8369 K.)
+Kaynak sularının kaptajında, isalesinde, depolanmasında, doldurulmasında ve satışında uyulması gerekli zorunluluklar ve bunlara uyulmaması halinde alınması gereken tedbirlerle bu suların satışında kullanılacak kapların şekli ve üzerinde bulunması gereken yazı ve işaretler Yönetmelikte gösterilir.
+(Değişik: 6/11/1983 - 83/7366 K.) Kaynak ve maden suları, nitelikleri Yönetmeliğinde belirtilen, camdan ya da bu Tüzük’ün 680 - 685 inci maddelerinde kullanılmasına izin verilen diğer malzemeden yapılmış kaplar içinde satılırlar.
+(Değişik: 6/11/1983 - 83/7366 K.) Sişe, damacana ve galonların yıkanma, doldurulma ve kapsüllenmelerinin tam otomatik cihazla ve el değmeden yapılması, bunların alüminyumdan ya da bu Tüzükte kullanılmasına izin verilen bir maddeden yapılmış kapakla kapatılması, kapakların üzerine suyun sertlik derecesinin ve adının kabartma olarak yazılması zorunludur. Kapaklar, bir kez kullanılır.
+Damacanların yıkanması, temizlenmesi ve doldurulması yönetmelikte gösterilen esaslara göre yapılır.[8]

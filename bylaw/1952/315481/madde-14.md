@@ -1,0 +1,1 @@
+Madde 14 – Gıda maddeleri ile ambalajlarının üzerindeki her çeşit yazı, alamet ve işaretlerin vasıf, miktar ve menşe itibariyle, alıcının aldanması ihtimalini tamamen bertaraf edecek surette olmalıdır. (Mesela margarin üzerinde inek resmi ve suni bal üzerinde arı ve kovan resmi bulunamaz.)

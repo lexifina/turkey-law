@@ -1,0 +1,1 @@
+Madde 473 – Yaş ve kuru üzüm şırasında bulunabilecek mecmu şeker miktarı, sakkaroz hesabiyle % 12,5 gramdan az ve şıranın hafifçe tahammüründen husule gelen alkol miktarı da hacmen % 4 den ve asidite derecesi de % 5 dereceden fazla olmamalıdır.

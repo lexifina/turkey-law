@@ -1,0 +1,1 @@
+Madde 437 – Şerbetler mutad olarak sakkaroz şekeriyle yapılırlar. İçerisine herhangi bir suretle suni tad verici maddeler ilavesi yasaktır. Şerbetlerde mecmu şeker miktarı, (sakkaroz hesabiyle) % 10 dan aşağı bulunamaz.

@@ -1,0 +1,1 @@
+Madde 551 – Çekilmiş kahvelerin ihtiva ettikleri kafein miktarı % 1,2 den az, rutubet % 10 dan, kül miktarı % 5,5 den fazla, suda münhal hulasa miktarı % 22 den aşağı olmamalı ve zararsız da olsa yabancı hiç bir madde ihtiva etmemelidir.

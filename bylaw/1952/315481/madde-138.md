@@ -1,0 +1,1 @@
+Madde 138 – Doğrudan doğruya et halinde satılan veya çeşitli gıda müstahzarlarının yapılması için kullanılan etlerin, Sağlık Bakanlığınca müsaade edilmiş mezbahası olan yerlerde, bu mezbahalarda kesilmiş hayvan etleri olması ve Hayvan Sağlık Zabıtası Tüzüğü ve etlerin Teftiş Yönetmeliği hükümlerine göre muayene edilmiş ve buradaki şartlara uygun damgalanmış olması mecburidir.

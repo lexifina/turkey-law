@@ -1,0 +1,1 @@
+Madde 194 – Muayene ve tahlil için laboratuvarlara gönderilmek üzere alınan nümune miktarı tuzlu, kurutulmuş veya islenmiş balıklar 150 gr. balık ezmesi, havyar ve tarama ve balık yumurtası için 50 gr. veya bu miktarlara uygun orijinal ambalajlardan ibarettir.

@@ -1,0 +1,1 @@
+Madde 119 – Mayi ve sulp rafine yağlar eritildikten sonra tamamı ile berrak, renksiz veyahut açık sarı renkli, tortusuz ham yağın özel koku ve lezzeti giderilmiş olacak ve asiditeleri oleik asit hesabı ile % 0,3 ü geçmiyecek, acılık taamülü menfi bulunacaktır.

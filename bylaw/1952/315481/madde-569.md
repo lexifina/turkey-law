@@ -1,0 +1,1 @@
+Madde 569 – Çaylardan muayene ve tahlil için alınıp laboratuvara gönderilecek numune miktarı ağızları imtizaçlı kapakla kapalı teneke kutu veya cam kavanozlarda veya parşömen kağıda sarılmış olarak 100 gram veya bu miktardan az olmamak üzere bir orijinal ambalajdan ibarettir.

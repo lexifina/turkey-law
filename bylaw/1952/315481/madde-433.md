@@ -1,0 +1,1 @@
+Madde 433 – İçine herhangi bir sebeple zehirli maddeler katılmış olan memba ve umumi içme suları ve bu sularla yapılmış olan buzlar sağlığı az veya çok bozacak derecede taklit veya tağşiş edilmiş sayılırlar.

@@ -1,0 +1,1 @@
+Madde 575 – Toz kakaoda kül miktarı % 9 u geçmiyecek ve suda münhal maddeler mecmuu % 14 ten aşağı olmıyacaktır. Münhal kakaoda kalevi karbonat ve kalevi hidroksit miktarı, (sodyum karbonat hesabiyle) yağsız kuru madde üzerinden% 6 yı ve kül miktarı da yağsız madde üzerinden % 15,5 i geçmemelidir.

@@ -1,0 +1,1 @@
+Madde 427 – Fenni usullerle temizlenmek mecburiyeti bulunan suların kaptaj ve temizleme ve isalesine ait tesislerin, projelerin sular hakkındaki 831 sayılı Kanun gereğince Sağlık Bakanlığınca tasdik edilmiş olması şarttır. Bu suların ham ve temizlenmiş ve şehir şebekesindeki tevzi musluklarından günlük olarak fiziki, kimyevi ve bakteriyolojik vasıflarının kontrolü mecburidir.

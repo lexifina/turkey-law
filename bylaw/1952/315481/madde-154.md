@@ -1,0 +1,1 @@
+Madde 154 – Sterilizasyondan sonra soğutulan kutulardan her seriden en aşağı % 3 nispetinde ayrılacak numuneler 5 gün müddetle (38) derecelik etüvlerde ve sonra da iki hafta (20 - 22) derecede bekletilerek kabarıp kabarmadıkları araştırılacak ve müsbet veya menfi neticeler seri numaraları ve tarih ile birlikte hususi bir deftere kaydedilecektir.

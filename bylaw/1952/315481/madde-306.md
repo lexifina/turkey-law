@@ -1,0 +1,3 @@
+Madde 306 – (Değişik: 27/10/1972 - 7/5274 K.)
+Ekmek ve benzerleri iyi bir surette pişmiş ve kabarmış, normal manzara, koku ve lezzette bulunmalı, kesildiği zaman görülen delikler normal büyüklükte ve oldukça mütecanis olmalı, tıkız, yanık, hamur, yapışkan, içinde hamur haline gelmemiş un toprakları, iplikleşme, büyük yarık ve boşluklar olmamalı; tost ekmeği, sandöviç ekmeği, francala, pide, simit ve birinci nevi ekmekte gözle görülecek kepek bulunmamalıdır. Ekmeklerin alt ve üst kabukları iyi ve tam teşekkül etmiş ve iç kısmından ayrılmamış olmalıdır.
+Simitlerin içi pişkin olmalı ve üzerine koyulaştırıcı herhangi bir madde sürülmemelidir.

@@ -1,0 +1,4 @@
+Madde 418 – (Değişik: 4/6/1974 - 7/8369 K.)
+a) Kaynak suları işletmek isteyenler, yönetmelikte belirtilen esaslara uygun olarak önce Sağlık Bakanlığından tesis izni, sonra da sularını satabilmek için işletme ruhsatı almak zorundadırlar.
+b) Kaynak sularının gerek beslenme bölgeleri, gerekse kaptaj yapıldıkları yerler, suyu her türlü kirlenmelerden koruyacak ve içine insan ve hayvan girmesini ve diğer suların karışmasını önleyecek şekilde ve Umumi Hıfzıssıha Kanununun 237 nci madesinde tarif edildiği üzere, himaye bölgesi ile sınırlandırılmış olacaktır.
+c) Kaynak sularının, dışardan içerisine hiç bir şey sızmayacak tarzda sağlam ve suyun niteliklerini bozmayacak maddelerden yapılmış bir kaptaj tesisi içine alınması zorunludur. Kaptaj, isale ve depoların nitelikleri yönetmelikte gösterilen esaslara uygun olacaktır.[7]

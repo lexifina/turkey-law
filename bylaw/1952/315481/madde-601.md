@@ -1,0 +1,1 @@
+Madde 601 – Baharat, elde edildiği nebat ve aksamı haliyle veya öğütülerek toz şeklinde satılırlar. Toz şeklinde bir cins olarak satıldığı gibi birkaç cins ve neviden ibaret olmak üzere mahlüt olarak da satılabilirler. Bunların ambalajlarının üzerinde hangi cins baharın tozunu ihtiva ettiklerinin yazılı bulunması lazımdır.
