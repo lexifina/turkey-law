@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5123",
+  "year": 1947,
+  "title": "Türkiye Hükümeti ile Amerika Birleşik Devletleri Hükümeti arasında 12 Temmuz 1947 tarihinde Ankara'da imzalanan Türkiye'ye yapılacak Yardım hakkında Anlaşmanın onanmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-09-05",
+  "gazette_issue": "6699",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6699.pdf",
+  "source_sha256": "ff6cc2d140681649bcd0a3faac0e01a8b50b8a28d2cff87172870d4e4109ab13",
+  "text_sha256": "e7359e51ca011f7a3def9c527ecefb17570bf6eb813ae39e8978184d7589a337",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      13,
+      182
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905123.pdf",
+    "source_sha256": "34fbd3d2639fdc11f1c0389a47469e22a055097ed358169ea07356d22a7e82ae",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9036,
+    "bag": 0.6958,
+    "kd_coverage": 0.9988,
+    "kd_body_compared": 0.9988,
+    "rg_words": 800,
+    "kd_words": 825,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
