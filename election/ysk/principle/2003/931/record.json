@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2003/931",
+  "list_number": "931",
+  "decision_date": "2003-10-24",
+  "title": "YSK ilke kararı 2003/931",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4123/2003-931-karar.htm",
+  "source_sha256": "4d60bf4a724ef25cdf4073c525919de9a8b55093b0eeab6edcdff0d6f2299a1c",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2003-10-24",
+  "law_text_complete": false
+}
