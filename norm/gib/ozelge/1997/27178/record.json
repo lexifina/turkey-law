@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6518 -44/36401",
+  "source_id": 27178,
+  "date": "1997-08-27",
+  "title": "Ö.K.Cihazlardan bakım ve onarımına ilişkin yetki belgesi iptal edilen servisler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/27178",
+  "source_sha256": "2ffa7ea5eca9783d922de89eb0dcf272241e5e2f591a0bf05f10be0891739894",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
