@@ -1,0 +1,135 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1495",
+  "year": 1971,
+  "title": "8.6.1965 tarih ve 625 sayılı Özel Öğretim Kurumları Kanununa ek iki madde eklenmesine dair Kanun",
+  "adopted": "1971-10-26",
+  "adopted_as_published": "26/10/1971",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.11.1971 No: 14008",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401495.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 54",
+  "committee_reports": [
+    {
+      "label": "MM 410 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c018/mm__03018170ss0410.pdf"
+    },
+    {
+      "label": "CS 1667no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067127ss1667.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 381957,
+      "title": "8.6.1965 tarih ve 625 sayılı Özel Öğretim Kurumları Kanununa ek iki madde eklenmesine dair Kanun",
+      "adopted_as_published": "26/10/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401495.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 410 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c018/mm__03018170ss0410.pdf"
+        },
+        {
+          "label": "CS 1667no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067127ss1667.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 12,
+          "sitting": 65,
+          "sitting_date": "1971-03-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012fih.pdf",
+          "pages": [
+            "47"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 170,
+          "sitting_date": "1971-09-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c018/mm__03018170.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c018/mm__03018fih.pdf",
+          "pages": [
+            "216:221"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=801&v_kullanici_id=27483225",
+      "page_sha256": "a5c6fd2bb5c9b73d64ad49838a3a54a257c189cf96cdf2bd05acb20e57852516"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 317025,
+      "title": "8.6.1965 tarih ve 625 sayılı Özel Öğretim Kurumları Kanununa ek iki madde eklenmesine dair Kanun",
+      "adopted_as_published": "26/10/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401495.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 410 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c018/mm__03018170ss0410.pdf"
+        },
+        {
+          "label": "CS 1667no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067127ss1667.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 67,
+          "sitting": 121,
+          "sitting_date": "1971-10-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067121.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067fih.pdf",
+          "pages": [
+            "920"
+          ]
+        },
+        {
+          "cilt": 67,
+          "sitting": 125,
+          "sitting_date": "1971-10-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067125.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067fih.pdf",
+          "pages": [
+            "1049"
+          ]
+        },
+        {
+          "cilt": 67,
+          "sitting": 127,
+          "sitting_date": "1971-10-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067127.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067fih.pdf",
+          "pages": [
+            "1074:1075"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1501&v_kullanici_id=27483235",
+      "page_sha256": "90862d0a2d3ca4f6b8e6290e83307dc4f5ad5af6e60426a878c750f3d8f66877"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a5c6fd2bb5c9b73d64ad49838a3a54a257c189cf96cdf2bd05acb20e57852516",
+  "issuer": "Millet Meclisi",
+  "in_force": "1971-10-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 26/10/1971; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
