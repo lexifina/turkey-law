@@ -1,0 +1,2 @@
+Madde 7 — Yönelim kurulu, tabii üye müdür dahil 3 kişiden oluşur. Diğer 2 üye Biyoloji Bölümü Botanik Ana Bilim Dalı öğretim üyeleri arasından olmak üzere Rektör tarafından 3 yıl süre. ile atanır. Süresi biten üyeler yeniden seçilebilir. Süresi bitmeden ayrılanların yerine süreyi doldurmak üzere yenileri seçilir.
+Yönetim kurulu tam sayı ile toplanır ve çoğunlukla karar verir. Müdür yardımcıları oy hakkı olmaksızın yönetim kuruluna katılırlar.

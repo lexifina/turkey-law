@@ -1,0 +1,1 @@
+Madde 5 — Müdür görevi başında bulunmadığı zaman, müdür yardımcısını, müdür yardımcısı da bulunmazsa, yönetim kurulu üyelerinden birini vekil bırakır. Altı aydan uzun süreli üniversite dışı görevlendirmelerde müdür veya müdür yardımcıları yerine yenileri atanır.
