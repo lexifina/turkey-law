@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3079",
+  "year": 1936,
+  "title": "Subay ve askerî memurların tekaüdü için rütbe ve sınıflarına göre tayin olunan yaşları bildiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-12-30",
+  "gazette_issue": "3495",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3495.pdf",
+  "source_sha256": "c8543604fd74837f4e7ef76752480172867a3684cc3109b373f5acd48da4ddb4",
+  "text_sha256": "127eabac2b38e0d1166539990d7e7c3fa8743c0b21de433236e8c07135a37073",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      57
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703079.pdf",
+    "source_sha256": "a177d676776d9703f2f85e236ffe3e029e49a172c7262b03228b2d02091eec0c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9747,
+    "bag": 0.908,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9448,
+    "rg_words": 177,
+    "kd_words": 181,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
