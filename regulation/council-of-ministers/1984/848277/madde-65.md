@@ -1,0 +1,6 @@
+BEŞİNCİ KISIM
+İş Artışı ve Eksilişi
+Madde 65 – Yapım işlerine ait bir sözleşmenin uygulanması sırasında keşif ve sözleşmede öngörülmeyen iş artışı veya azalışı zorunlu hale gelirse, müteahhit, keşif bedelinin % 50 oranına kadar olan değişikliği, süre hariç, sözleşme ve şartnamesindeki hükümler dairesinde yapmakla yükümlüdür.
+Keşif bedeli artışının % 50'yi geçmesi halinde sözleşme feshedilir. Ancak, bu durumda müteahhit işin keşif bedeli ve % 50 keşif artışının karşılığı işleri sözleşme ve şartnamesindeki hükümler çerçevesinde yapmaya zorunludur. Taahhüdün % 50 keşif artışı ile bitmemesi ve tasfiye edilmesi halinde müteahhit kuruluştan hiç bir masraf ve tazminat isteyemez.
+% 50 oranından fazla artış, temel, tünel ve benzeri işler ile tabii afetler gibi nedenlerden ileri gelmiş ise, kuruluşun isteği, müteahhidin kabulü ve ilgili Bakanın onayı ile, süre hariç, aynı sözleşme ve şartname hükümleri içinde % 50'yi geçen işler de aynı müteahhide yaptırılabilir.
+Keşif bedelinin % 50'sinden daha düşük bedelle tamamlanacağı anlaşılan işlerde müteahhit işi bitirmeye zorunludur. Bu durumda, müteahhide, belgelemek şartı ile, yapmış olduğu gerçek giderlerine karşılık olarak ihale bedelinin % 50'si ile yaptığı işin tutarı arasındaki bedel farkının % 5'ine kadar tazminat ödenebilir.

@@ -1,0 +1,3 @@
+Emanet Suretiyle Yapılacak İşler
+Madde 61 – Kuruluşun yeterli işgücü, makine, araç, gereç ve taşıtlara sahip olması halinde ve ihaleye konulmasında fayda görülmeyen yapım, onarım ve taşıma işleri ile gizliliği olan işler, ihale yetkilisince kuruluş görevlilerinden tesbit edilecek emanet komisyonları eliyle emaneten yaptırılabilir.
+Bu usulle yapılacak işlerin emanet komisyonunca yapılamıyacak kısımları, nev'i itibariyle kısımlara ayrılarak, araya bir müteahhit girmeksizin taşaronlara da yaptırılabilir. Bu takdirde işin bünyesine giren ve sarfında kontrolü mümkün olabilen ana malzemeler ile emanet komisyonunca verilmesi mümkün olan malzemeler dışında kalan malzemeler de taşaron tarafından temin edilebilir.

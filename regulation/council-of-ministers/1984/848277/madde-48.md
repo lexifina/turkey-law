@@ -1,0 +1,2 @@
+Kesin Teminatın Geri Verilmesi
+Madde 48 – Taahhüdün sözleşme ve şartname hükümlerine uygun olarak yerine getirildiği anlaşıldıktan sonra, müteahhidin bu işten dolayı kuruluşa ve Sosyal Sigortalar Kurumuna bir borcu olmadığı ve o işle ilgili olarak ücret ve ücret sayılan ödemelerden yapılan vergi kesintilerinin ödendiği tesbit edildikten sonra kesin teminat; sözleşme yapılması ve kesin teminat alınması mecburi olmayan hallerde geçici teminat geri verilir.
