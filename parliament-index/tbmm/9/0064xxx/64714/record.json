@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 64714,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Beden Terbiyesi Genel Müdürlüğü 1945 yılı Kesinhesabına ait Uygunluk Bildiriminin sunulduğuna dair Sayıştay Başkanlığı tezkeresiyle Beden Terbiyesi Genel Müdürlüğü 1945 yılı Kesinhesabı hakkındaki kanun tasarısına dair (3/140, 1/54)",
+  "title": "Beden Terbiyesi Genel Müdürlüğü 1945 yılı Kesinhesabına ait Uygunluk Bildiriminin sunulduğuna dair Sayıştay Başkanlığı tezkeresiyle Beden Terbiyesi Genel Müdürlüğü 1945 yılı Kesinhesabı hakkındaki kanun tasarısına dair (3/140, 1/54)",
+  "first_sitting_date": "1951-02-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 42,
+      "sitting_date": "1951-02-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c005/tbmm09005042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c005/tbmm09005fih.pdf",
+      "pages": [
+        "104",
+        "174:175",
+        "178",
+        "181",
+        "196:198"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=101&v_kullanici_id=27484171",
+  "source_sha256": "dd7dc38ee4a39e0dc2e3307ce546e3835458073939ea0cc6de824cef1950e298",
+  "in_force": "1951-02-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
