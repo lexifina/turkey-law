@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5011-128/21487",
+  "source_id": 22259,
+  "date": "1998-06-08",
+  "title": "Şirketin ihracata ilişkin gümrük çıkış beyannamesinin ve faturanın 31.12.1991 tarihinde düzenlendiği, ancak malın fiili ihracatının 1992 yılında gerçekleştiği belirtilerek, malın ihraç bedelinin, hangi yılın hasılatı arasında gösterileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/22259",
+  "source_sha256": "915fd81ab3637dec5653c62bbecbd67ae2fb66532430ef80ae4029e281e5bafe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
