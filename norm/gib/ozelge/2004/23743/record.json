@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4215-4-2120/14009",
+  "source_id": 23743,
+  "date": "2004-03-28",
+  "title": "Primlerin ödenmiş olması şartıyla serbest meslek kazancının tespitinde, hasılattan gider olarak indirilebilmesi mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23743",
+  "source_sha256": "576fa11622e792940ea7ae25462eb8c1d05100fc59684bd34cdfdf01cdd92c2a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
