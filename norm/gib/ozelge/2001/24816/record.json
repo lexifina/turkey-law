@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4053-50/30191",
+  "source_id": 24816,
+  "date": "2001-06-04",
+  "title": "Zirai kazanç tutarının hayat standardı esasına esasına göre kazancın tespitinde, izah nedeni gelir olarak dikkate alınıp alınmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24816",
+  "source_sha256": "2d932eda78b58b54f3959c8bebfca0baf9427a5fdc89f71b38e59307a15a7cad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
