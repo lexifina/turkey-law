@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1520/11741",
+  "source_id": 37845,
+  "date": "2005-03-10",
+  "title": "Faaliyette bulunan ve 2004 yılında basit usule tabi olmanın genel ve özel şartlarını taşıyan...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37845",
+  "source_sha256": "dd6cce10868b77e1405fd2da7d98cc3523c8a910e302b0028c55c925f705bd1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
