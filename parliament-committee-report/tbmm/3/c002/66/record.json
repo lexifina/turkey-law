@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "66",
+  "label": "TBMM 66 no'lu Komisyon Raporu",
+  "title": "Yerli kumaştan elbise giyilmesine dair olan 9 Kânunuevvel 1341 tarih ve 788 numaralı kanunun birinci maddesinin tefsirine mahal olmadığı hakkında",
+  "document_date": "1928-02-09",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 2, birleşim 42)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c002/tbmm03002042ss0066.pdf",
+  "pdf_sha256": "ed06a129359d92e953056814578092c256dc523c913413bc2d47e67244899d1e",
+  "pdf_bytes": 257383,
+  "pdf_pages": 2,
+  "index_entries": [
+    120670
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=1&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1928-02-09",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
