@@ -1,0 +1,1 @@
+Madde 11- Yönetim Kurulu’nun toplantı nisabı kurulu oluşturan üye tam sayısının yarısından bir fazladır. Yönetim Kurulu Kararları oy çokluğuyla alınır. Oylamada eşitlik olması durumunda Merkez Müdürü’nün oyu iki oy olarak kabul edilir.

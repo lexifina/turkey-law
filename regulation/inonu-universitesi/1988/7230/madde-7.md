@@ -1,0 +1,2 @@
+Merkez Müdürü ve Müdür Yardımcıları
+Madde 7- Merkez Müdürü Üniversitenin konu ile ilgili öğretim elemanları arasından Rektör tarafından üç yıl için atanır. Müdür aynı zamanda Yönetim Kurulu’nun Başkanıdır. Süresi sona eren Müdür tekrar görevlendirebilir. Müdürün altı aydan fazla süreyle görevi başında bulunmaması halinde görevi sona erer. Müdür altı ayı geçmeyen ayrılmalarda Müdür Yardımcısını ya da bir yönetim kurulu üyesini müdür verili olarak tayin eder.

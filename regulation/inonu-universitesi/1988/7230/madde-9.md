@@ -1,0 +1,2 @@
+Yönetim Kurulu, Görevi ve Toplanması
+Madde 9- Yönetim Kurulu yedi üyeden oluşur. İnönü Üniversitesi Rektörü, Üniversitenin konu ile ilgili öğretim elemanları arasından beş kişiyi Merkez Yönetim Kurulu üyesi olarak atar. Rektörce atanan beş Yönetim Kurulu Üyesi’nden birisi olan Merkez Müdürü aynı zamanda Yönetim Kurulu’nun da Başkanıdır. Müdür Yardımcıları da Yönetim Kurulu üyesidir. Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden seçilebilir. Süresi bitmeden ayrılan üyelerin sürelerini doldurmak üzere yenileri seçilir.
