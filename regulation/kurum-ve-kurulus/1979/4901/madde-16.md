@@ -1,0 +1,1 @@
+Madde 16 - Kontrol örgütünde görevlendirilenler, kontrol tarafından sözleşme hükümlerine göre çalışma ve barınmaları için gösterilecek yerlerde bulunurlar ve bu yerlerin sürekli temiz ve bakımlı tutulmasında sorumludurlar.

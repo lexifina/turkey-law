@@ -1,0 +1,1 @@
+Madde 17 - Kontrol örgütünde görevlendirilenler, işyerlerini ziyarete gelen Devlet ve Hükümet ileri gelenleri ile kendilerinin üst ve amirlerini karşılayarak, görevleri ve yapmakta oldukları işler hakkında bilgi verir ve işyerlerinde kendilerine eşlik ederler.

@@ -1,0 +1,1 @@
+Madde 7 - Kontrol edilecek işe ait sözleşme dosyası örneği, işe başlama süresi içinde, proje, resim ve diğer evrak, işin gerektirdiği zamanlarda, dairesi tarafından kontrol örgütüne bir yazı ekinde gönderilir.

@@ -1,0 +1,1 @@
+Madde 18 - Kontrol örgütünde görevlendirilenler müteahhit ve vekillerine ve görevlilere karşı ciddi davranmaya, çıkabilecek anlaşmazlıklarda, işi tartışmaya dökmeyerek, konunun çözümü için en yakın amirine bildirmeye, işçilere işin ciddiyetine uygun ve ölçülü olarak iyi davranmaya özen gösterirler.

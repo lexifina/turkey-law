@@ -1,0 +1,1 @@
+Madde 14 - Kontrol örgütünden herhangi bir eleman yukarıdaki 13. Maddede yazılı hususları yerine getirmeden ayrıldığı takdirde durum bir tutanakla saptanarak ilgili hakkında idari ve gerekirse adli mercilere başvurularak soruşturma açılması sağlanır. Bu işlemlerin yürütülmesinden üst amirler müteselsilen sorumludur.

@@ -1,0 +1,1 @@
+Madde 6 - Kontrollük görevinin hangi kurul ve kişiler tarafından yapılacağı sözleşmedeki işe başlama süresi içinde idare veya idarece yetkili kılınan ünite tarafından müteahhide ve kontrol örgütüne yazı ile ismen bildirilir.

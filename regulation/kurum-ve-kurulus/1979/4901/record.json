@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4901",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BAYINDIRLIK İŞLERİ KONTROL YÖNETMELİĞİ",
+  "number": "4901",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1979/4901",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4901&MevzuatTertip=5",
+  "source_sha256": "c602a04a0d786a2202eee967e568060f5c60c02bb91885347a8590b9e2ed94e9",
+  "source_bytes": 75448,
+  "published": "1979-09-05",
+  "gazette": "16745",
+  "in_force": "1979-09-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.09.1979); own commencement article: \"Bu Yönetmelik, yayımı tarihinde itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4761,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

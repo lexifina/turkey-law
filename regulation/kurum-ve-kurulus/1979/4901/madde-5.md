@@ -1,0 +1,1 @@
+Madde 5 - Kontrol edilecek iş büyüklük ve önemine göre kısımlara ayrılabilir ve her kısım için ayrı bir süresi içinde idare veya idarece yetkili kılınan ünite tarafından müteahhide ve kontrol örgütüne yazı ile ismen bildirilir.

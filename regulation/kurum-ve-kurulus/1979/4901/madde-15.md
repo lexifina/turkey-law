@@ -1,0 +1,1 @@
+Madde 15 - Kontrol amiri, kontrol şefi, kontrol mühendisi ve yardımcıları iş yerlerinde doğal afet, kaza, yangın, salgın hastalık v.s. gibi hallerde gerekli önlemlerin alınmasını sağlar ve durumu ilgililere zamanında duyururlar.

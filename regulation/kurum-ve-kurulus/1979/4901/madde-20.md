@@ -1,0 +1,1 @@
+Madde 20 - Bu Yönetmelik, Bayındırlık ve İskan Bakanlığı tarafından Kuruluş ve Görevleri Yasası uyarınca düzenlenmiş olup, kapsam maddesinde belirtilen ihale ve emanet usulü ile yaptırılacak Bayındırlık işlerinin kontrol ve denetiminde uygulanır.
