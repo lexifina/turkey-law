@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 322597,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Seçimlerin temel hükümleri ve seçmen kütükleri hakkında 26.4.1961 tarih ve 298 sayılı Kanunun bazı hükümlerinin değiştirilmesi ve bu kanuna bir geçici madde eklenmesi hakkında kanun teklifi (M. Millet Meclisi:2/822; Cumhuriyet Senatosu: 2/48) (S. Sayısı:230)",
+  "title": "Seçimlerin temel hükümleri ve seçmen kütükleri hakkında 26.4.1961 tarih ve 298 sayılı Kanunun bazı hükümlerinin değiştirilmesi ve bu kanuna bir geçici madde eklenmesi hakkında kanun teklifi (M. Millet Meclisi:2/822; Cumhuriyet Senatosu: 2/48) (S. Sayısı:230)",
+  "first_sitting_date": "1973-03-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 46,
+      "sitting_date": "1973-03-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010046.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010fih.pdf",
+      "pages": [
+        "347",
+        "350:351",
+        "355:388"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=501&v_kullanici_id=27484924",
+  "source_sha256": "98417bc92fad03215cc7807f45d971b907d3ec9c3947c59efb5f4b18a66ed5e4",
+  "in_force": "1973-03-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
