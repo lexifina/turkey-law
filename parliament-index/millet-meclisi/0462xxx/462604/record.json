@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 462604,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Bursa Milletvekili Kasım Önadım ve 2 arkadaşının, 1479 sayılı Esnaf ve Sanatkârlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu (BAĞ-KUR) Kanununda değişiklik yapılması hakkında kanun teklifi ile İstanbul Milletvekili Reşit Ülker ve 2 arkadaşının, İstanbul Milletvekili Hüsamettin Tiyanşan ve 3 arkadaşının, Kütahya Milletvekili İhsan Ersoy'un, İçel Milletvekili Süleyman Şimşek ve 22 arkadaşının aynı Kanunda değişiklik yapılması hakkında kanun teklifleri. (2/451, 2/20, 2/74, 2/86. 2/467)",
+  "title": "Bursa Milletvekili Kasım Önadım ve 2 arkadaşının, 1479 sayılı Esnaf ve Sanatkârlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu (BAĞ-KUR) Kanununda değişiklik yapılması hakkında kanun teklifi ile İstanbul Milletvekili Reşit Ülker ve 2 arkadaşının, İstanbul Milletvekili Hüsamettin Tiyanşan ve 3 arkadaşının, Kütahya Milletvekili İhsan Ersoy'un, İçel Milletvekili Süleyman Şimşek ve 22 arkadaşının aynı Kanunda değişiklik yapılması hakkında kanun teklifleri. (2/451, 2/20, 2/74, 2/86. 2/467)",
+  "first_sitting_date": "1976-06-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 111,
+      "sitting_date": "1976-06-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c020/mm__04020111.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c020/mm__04020fih.pdf",
+      "pages": [
+        "211"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=1801&v_kullanici_id=27484893",
+  "source_sha256": "dfa9aa39a469f0a0f41614a17442e54340019868b2d84e812c00d130daacb9c6",
+  "in_force": "1976-06-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
