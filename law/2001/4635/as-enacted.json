@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4635",
+  "year": 2001,
+  "title": "Türk Silahlı Kuvvetleri Personel Kanunu ile Jandarma Teşkilat, Görev ve Yetkileri Kanununda Değişiklik Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü ile Sahil Güvenlik Komutanlığı Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-04-13",
+  "gazette_issue": "24372",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/04/20010413.htm",
+  "source_sha256": "dcb23d0fb3ec28a1a53399226af42c0915990f1b25d8dac69340f46f7c924185",
+  "text_sha256": "5c55d5a839a29a4c8521d4b0f752e9eedc161e929d974f7f59728c8d79f8dd96",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/04/13/24372-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/04/20010413.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
