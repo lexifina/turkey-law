@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4797",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti ile Libya Arap Halk Sosyalist Cemahiriyesi Arasında Konsolosluk Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-01-28",
+  "gazette_issue": "25007",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030128.htm",
+  "source_sha256": "4f0bd3cd9c823bc2aa4e2eb498b80692e6354f77d5cbf686bffc46bd7f8190ef",
+  "text_sha256": "62723d73907e4b9f4fc299359500222a30c095860fc5a1d225499d5a4cd00801",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/01/28/25007-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030128.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
