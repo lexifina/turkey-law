@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-29377-49700",
+  "source_id": 21722,
+  "date": "1997-11-20",
+  "title": "Mobil kümeslerin yatırım indiriminden faydalanması mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21722",
+  "source_sha256": "a5cc9c54f4a9082efed0715205f8da79759dc3b101133cb81708080522064cf7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
