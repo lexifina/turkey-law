@@ -1,0 +1,62 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "914",
+  "year": 1926,
+  "title": "Ticaret Vekâletile limanlar idaresinin 1926 senesi bütçelerinde münakale icrasına dair Kanun",
+  "adopted": "1926-06-08",
+  "adopted_as_published": "08/06/1926",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.06.1926 No: 407",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc004/kanuntbmmc004/kanuntbmmc00400914.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 4",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 126794,
+      "title": "Ticaret Vekâletile limanlar idaresinin 1926 senesi bütçelerinde münakale icrasına dair Kanun",
+      "adopted_as_published": "08/06/1926",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc004/kanuntbmmc004/kanuntbmmc00400914.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 26,
+          "sitting": 115,
+          "sitting_date": "1926-06-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c026/tbmm02026115.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c026/ehttbmm02026115.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c026/tbmm02026fih.pdf",
+          "pages": [
+            "149"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 116,
+          "sitting_date": "1926-06-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c026/tbmm02026116.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c026/ehttbmm02026116.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c026/tbmm02026fih.pdf",
+          "pages": [
+            "219:220",
+            "231:233"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=601&v_kullanici_id=27483145",
+      "page_sha256": "86eb2450254737548b5f3ceef2f7c375be8fe29bf13dce23ef94747fdeb2d028"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "86eb2450254737548b5f3ceef2f7c375be8fe29bf13dce23ef94747fdeb2d028",
+  "issuer": "TBMM",
+  "in_force": "1926-06-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 08/06/1926; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
