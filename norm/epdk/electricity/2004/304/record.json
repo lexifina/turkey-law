@@ -1,0 +1,28 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "304",
+  "decision_date": "2004-03-09",
+  "title": "01/04/2004 tarihinden geçerli olmak ve bu konuda yeni bir düzenleme yapılıncaya kadar uygulanmak üzere, Türkiye Elektrik İletim Anonim Şirketi (TEİAŞ) tarafından uygulanacak iletim tarifeleri hakkında",
+  "resmi_gazete_date": "2004-03-14",
+  "resmi_gazete_number": "25402",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rWi6OJGEeBk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rWi6OJGEeBk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vYR91GLiG0w=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hyasWVrNb8o=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iLG0U1fMid8="
+  ],
+  "source_sha256": "2160e4d03ce90353288f9666b81d19e5aedbea9c1c1caad92c629ef8cc47150f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-03-09",
+  "law_text_complete": false
+}
