@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6601-544/15905",
+  "source_id": 36959,
+  "date": "2000-04-07",
+  "title": "Depremde yıkılan, yanan veya tamamen kullanılmaz hale gelen binalarda çevre temizlik vergisi mükellefiyeti bu durumların meydana geldiği tarihten itibaren sona erecektir ve kanunların verdiği yetkiye dayanılarak kullanılması yasak edilen binalara ait çevr",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/36959",
+  "source_sha256": "9cc099f2aba04bd34825ff0f3ad115e2d1bd2185083d6261df1badadae998cd6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
