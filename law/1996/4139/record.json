@@ -1,0 +1,140 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4139",
+  "year": 1996,
+  "title": "1996 Malî Yılı Bütçe Kanunu",
+  "adopted": "1996-04-22",
+  "adopted_as_published": "22/04/1996",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.04.1996 No: 22622",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc079/kanuntbmmc079/kanuntbmmc07904139.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 79",
+  "committee_reports": [
+    {
+      "label": "TBMM 1 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003038ss0001.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 20,
+      "kayit_no": 397543,
+      "title": "1996 Malî Yılı Bütçe Kanunu",
+      "adopted_as_published": "22/04/1996",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc079/kanuntbmmc079/kanuntbmmc07904139.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 1 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003038ss0001.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 25,
+          "sitting_date": "1996-03-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c002/tbmm20002025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c002/tbmm20002fih.pdf",
+          "pages": [
+            "261"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 37,
+          "sitting_date": "1996-04-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003fih.pdf",
+          "pages": [
+            "224"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 38,
+          "sitting_date": "1996-04-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003fih.pdf",
+          "pages": [
+            "425:537",
+            "571:576"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 39,
+          "sitting_date": "1996-04-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003fih.pdf",
+          "pages": [
+            "83:753"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 40,
+          "sitting_date": "1996-04-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003040.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003fih.pdf",
+          "pages": [
+            "762:937"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 41,
+          "sitting_date": "1996-04-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004fih.pdf",
+          "pages": [
+            "6:218"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 42,
+          "sitting_date": "1996-04-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004fih.pdf",
+          "pages": [
+            "227:484"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 43,
+          "sitting_date": "1996-04-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004fih.pdf",
+          "pages": [
+            "489:556",
+            "558:560",
+            "567:572"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "97144160f3b38fb5ac548b2b46c93c414740c1e5c3b959fb89b36e2435d67aac"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "97144160f3b38fb5ac548b2b46c93c414740c1e5c3b959fb89b36e2435d67aac",
+  "issuer": "TBMM",
+  "in_force": "1996-04-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 22/04/1996; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
