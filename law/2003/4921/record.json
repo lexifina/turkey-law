@@ -1,0 +1,105 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4921",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti ile Türk Kültür ve Sanatları Ortak Yönetimi Genel Müdürlüğü Arasında Arsa Tahsisi Hakkında Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2003-07-09",
+  "adopted_as_published": "09/07/2003",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.07.2003 No: 25166",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc087/kanuntbmmc087/kanuntbmmc08704921.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 87",
+  "committee_reports": [
+    {
+      "label": "TBMM 55 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c012/tbmm22012068ss0055.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 165710,
+      "title": "Türkiye Cumhuriyeti ile Türk Kültür ve Sanatları Ortak Yönetimi Genel Müdürlüğü Arasında Arsa Tahsisi Hakkında Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "09/07/2003",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc087/kanuntbmmc087/kanuntbmmc08704921.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 55 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c012/tbmm22012068ss0055.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 24,
+          "sitting_date": "2003-01-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003fih.pdf",
+          "pages": [
+            "205"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 34,
+          "sitting_date": "2003-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c005/tbmm22005034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c005/tbmm22005fih.pdf",
+          "pages": [
+            "124"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 68,
+          "sitting_date": "2003-04-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c012/tbmm22012068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c012/tbmm22012fih.pdf",
+          "pages": [
+            "251:253"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 73,
+          "sitting_date": "2003-04-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c013/tbmm22013073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c013/tbmm22013fih.pdf",
+          "pages": [
+            "211"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 104,
+          "sitting_date": "2003-07-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c021/tbmm22021104.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c021/tbmm22021fih.pdf",
+          "pages": [
+            "27:32",
+            "107:130"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=101&v_kullanici_id=27483198",
+      "page_sha256": "3b1b9f7d0740ad4bf6f5a41022168eca1101bbfa81a60a96e8deca628a9f272e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "3b1b9f7d0740ad4bf6f5a41022168eca1101bbfa81a60a96e8deca628a9f272e",
+  "issuer": "TBMM",
+  "in_force": "2003-07-09",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 09/07/2003; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
