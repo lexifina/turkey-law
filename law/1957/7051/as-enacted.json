@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7051",
+  "year": 1957,
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı Kanuna bağlı (1) sayılı cetvel ile tadil ve eklerinin Adliye Vekâleti kısmında değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-09-13",
+  "gazette_issue": "9705",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9705.pdf",
+  "source_sha256": "02b45ede23affb364afa80e7b04176f5b3a4f96a030c17197b2e4ebd7273bb1f",
+  "text_sha256": "4c8014b7995b38840e94817544df4c32484ce903411c51236e6f5f23995b8ff1",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      1165,
+      1203
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907051.pdf",
+    "source_sha256": "351b7fcd6fd5a1e45fd336da9ecde0ef5fc20bdb9024757df502413317a0321d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9618,
+    "bag": 0.8702,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 129,
+    "kd_words": 133,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
