@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 426349,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Kamu İktisadî Teşebbüslerinin denetimine ait 1995-1996 Yılı Komisyon Raporu",
+  "title": "Kamu İktisadî Teşebbüslerinin denetimine ait 1995-1996 Yılı Komisyon Raporu",
+  "first_sitting_date": "1999-06-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 19,
+      "sitting_date": "1999-06-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c002/tbmm21002019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c002/tbmm21002fih.pdf",
+      "pages": [
+        "307"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4bcc12901bcdb505a11b7caf050b165a7466d5a697e0272ec094566285943990",
+  "in_force": "1999-06-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
