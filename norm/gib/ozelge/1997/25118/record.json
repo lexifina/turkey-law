@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3014-344-561/21496",
+  "source_id": 25118,
+  "date": "1997-05-26",
+  "title": "Vergi Usul Kanunu 114. Maddede yazılı zamanaşımı süresi dolduktan sonra meydana çıkarılan vergi hataları düzeltilemez.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25118",
+  "source_sha256": "589062a6026268696884eb7fece3149b3ea961ebc65c1def387fb4faf5c02b10",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
