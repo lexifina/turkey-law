@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4042-32/36485",
+  "source_id": 24806,
+  "date": "1998-10-09",
+  "title": "Kayıtlarda yer aldığı halde işletmenizde mevcut olmayan boş tüplerle ilgili olarak düzenlenecek faturada yer alacak bedel satışı yapılan aynı neviden malların gayri safi kâr oranı dikkate alınarak tespit edilecektir. Satışın olmaması halinde bağlı olduğun",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24806",
+  "source_sha256": "e8b57435f7496b7e685ecc85b39623faf858934e6e5a563a1a9dba0d2a917f3c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
