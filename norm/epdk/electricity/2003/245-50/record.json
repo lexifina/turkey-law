@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "245/50",
+  "decision_date": "2003-11-17",
+  "title": "Elektrik Piyasası ve Doğal Gaz Piyasasında Faaliyet Gösteren Lisans ve Sertifika Sahibi Tüzel Kişilerce Ödenmesi Gereken Yıllık Lisans Bedeli ile Katılma Payının Bildirim ve Tahsil Usulüne İlişkin",
+  "resmi_gazete_date": "2003-11-17",
+  "resmi_gazete_number": "25262",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DKjWAEbISR0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DKjWAEbISR0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CXH5hGOz564=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gWID+uSQL+I="
+  ],
+  "source_sha256": "26a8605792835a81e5e45a3c5ea94d5c15f0dca666c5c6da2134e4ea2ddf155a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-11-17",
+  "law_text_complete": false
+}
