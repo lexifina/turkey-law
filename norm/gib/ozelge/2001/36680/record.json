@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2495/52103",
+  "source_id": 36680,
+  "date": "2001-10-02",
+  "title": "Serbest muhasebeci mali müşavir ünvanına sahip ancak mesleki bürosu olmayan meslek mensubunun,ortağı ve kanuni temsilcisi  olduğu limited şirketin muhasebe kayıtlarını tutması ve beyannamelerini imzalaması mümkün değildir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/36680",
+  "source_sha256": "0d0f927c7fac75cc2ce95a5c4c076f533deb2e988257ba43d3e8bf386f1066ed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
