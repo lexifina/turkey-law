@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5308-001307",
+  "source_id": 30147,
+  "date": "2004-01-12",
+  "title": "Bedel ödenerek yapılan uçuşlar nedeniyle kazanılan ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30147",
+  "source_sha256": "7d992915ec0eed9cf68c6149c9535b385d839439ab4e61b9dd89838ba401b747",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
