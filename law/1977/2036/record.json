@@ -1,0 +1,150 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2036",
+  "year": 1977,
+  "title": "1970 Sayılı 1976 Yılı Bütçe Kanunu ile bu Kanuna bağlı cetvellerde değişiklik yapılması hakkında Kanun",
+  "adopted": "1977-02-26",
+  "adopted_as_published": "26/02/1977",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.02.1977 No: 15864",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/kanuntbmmc060/kanuntbmmc06002036.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 60",
+  "committee_reports": [
+    {
+      "label": "MM 500 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c024/mm__04024049ss0500.pdf"
+    },
+    {
+      "label": "CS 664no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c031/cs__16031037ss0664.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 457161,
+      "title": "1970 Sayılı 1976 Yılı Bütçe Kanunu ile bu Kanuna bağlı cetvellerde değişiklik yapılması hakkında Kanun",
+      "adopted_as_published": "26/02/1977",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/kanuntbmmc060/kanuntbmmc06002036.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 500 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c024/mm__04024049ss0500.pdf"
+        },
+        {
+          "label": "CS 664no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c031/cs__16031037ss0664.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 20,
+          "sitting": 139,
+          "sitting_date": "1976-10-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c020/mm__04020139.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c020/mm__04020fih.pdf",
+          "pages": [
+            "820"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 46,
+          "sitting_date": "1977-02-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c024/mm__04024046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c024/mm__04024fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 49,
+          "sitting_date": "1977-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c024/mm__04024049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c024/mm__04024fih.pdf",
+          "pages": [
+            "426:427"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 56,
+          "sitting_date": "1977-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c025/mm__04025056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c025/mm__04025fih.pdf",
+          "pages": [
+            "417",
+            "474",
+            "538:541"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=401&v_kullanici_id=27483225",
+      "page_sha256": "a1ea50d72be6fe3570ffdc776298387215c0ebc936785e40f90fb4075e9eeeb9"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 328926,
+      "title": "1970 sayılı 1976 yılı Bütçe Kanunu ile bu Kanuna bağlı cetvellerde değişiklik yapılması hakkında Kanun",
+      "adopted_as_published": "26/02/1977",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/kanuntbmmc060/kanuntbmmc06002036.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 500 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c024/mm__04024049ss0500.pdf"
+        },
+        {
+          "label": "CS 664no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c031/cs__16031037ss0664.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 31,
+          "sitting": 36,
+          "sitting_date": "1977-02-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c031/cs__16031036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c031/cs__16031fih.pdf",
+          "pages": [
+            "734"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 37,
+          "sitting_date": "1977-02-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c031/cs__16031037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c031/cs__16031fih.pdf",
+          "pages": [
+            "883:884",
+            "914",
+            "921:923"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2001&v_kullanici_id=27483235",
+      "page_sha256": "5b492ecceb3fd27972446dc39f2c79577d6e4ad977e62fa45dc3f9e7cfc6c880"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a1ea50d72be6fe3570ffdc776298387215c0ebc936785e40f90fb4075e9eeeb9",
+  "issuer": "Millet Meclisi",
+  "in_force": "1977-02-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 26/02/1977; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
