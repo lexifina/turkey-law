@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-255/18669",
+  "source_id": 24098,
+  "date": "1998-05-20",
+  "title": "Hazine bonosundan elde edilen faiz geliri vergi tevkifatına tabi tutulacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24098",
+  "source_sha256": "d2487385674229bab797c557b0daf12043a5fa1189a284f574f771826bb6527d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
