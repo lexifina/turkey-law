@@ -1,0 +1,1 @@
+Madde 7 – Yemin edecek memurların mensubu olduğu kurum veya kuruluşun memurları da (Hizmet ve görevi aksatmayacak şekilde bir kısmı görev başında kalmak suretiyle) merasim yapılacak yerde hazır bulundurulur.

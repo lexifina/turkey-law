@@ -1,0 +1,4 @@
+Özel Hükümler
+Madde 2 – Devlet Memurları Türkiye Cumhuriyeti Anayasasına ve kanunlarına sadakatla bağlı kalmak ve kanunları sadakatle uygulamak zorundadırlar. Devlet Memurları bu hususu asli Devlet Memurluğuna atandıktan sonra en geç bir ay içinde kurumlarınca düzenlenecek merasimde yapacakları yeminle belirlerler.
+Yemin Metni Aşağıdadır:
+"Türkiye Cumhuriyeti Anayasasına, Atatürk İnkılap ve İlkelerine, Anayasada ifadesi bulunan Türk Milliyetciliğine sadakatla bağlı kalacağıma; Türkiye Cumhuriyeti kanunlarını Milletin hizmetinde olarak tarafsız ve eşitlik ilkelerine bağlı kalarak uygulayacağıma; Türk Milletinin milli, ahlaki insani, manevi ve kültürel değerlerini benimseyip, koruyup, bunları geliştirmek için çalışacağıma; insan haklarına ve Anayasanın temel ilkelerine dayanan milli, demokratik, laik bir hukuk devleti olan Türkiye Cumhuriyetine karşı görev ve sorumluluklarımı bilerek, bunları davranış halinde göstereceğime namusum ve şerefim üzerine yemin ederim."
