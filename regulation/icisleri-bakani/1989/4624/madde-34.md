@@ -1,0 +1,4 @@
+Ortak İdari Masraflar
+Madde 34- Bağlı oldukları kuruma ait veya tahsisli olup, münhasıran döner sermaye işletmesinin kullanımına bırakılmış olan binaların, bakım ,onarım, ısıtma,aydınlatma ve benzeri giderleri döner sermaye işletmelerince karşılanır. Faaliyetlerini bağlı bulundukları kuruma ait veya tahsisli binalarda, bu idarelerle birlikte sürdüren döner sermaye işletmelerince bu binaların bakım, onarım,ısıtma,aydınlatma vb. giderlerine iştirak edilmez.
+Ancak bina giderlerine katılma payı olarak aylık gayrisafi satış veya iş hasılatlarının % 4 ‘ü gelir kaydedilmek üzere,takip eden dört ay içinde ilgili saymanlığa yatırılır.
+Bu madde ile amortisman bedeli başlıklı maddede geçen aylık ve yıllık gayrisafi satış ve iş hasılatından ayrılacak olan % miktarı Bakanlığın teklifi, Maliye ve Gümrük Bakanlığının uygun görüşü ile yarısına kadar azaltılabilir veya iki katına kadar artırılabilir.

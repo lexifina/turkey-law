@@ -1,0 +1,2 @@
+Faaliyet Alanı
+Madde 4- İşletmenin faaliyet alanları, Genel Müdürlüğün esas görevlerini aksatmayacak şekilde bütün kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler tarafından istenilecek bilgisayar, matbaa ve ciltevinin faaliyet alanına giren konularda iş ve hizmet üretiminde bulunmak ve Genel Müdürlükçe yürütülen bilgi işlem projelerini işletmek,matbaa, ciltevi ve bilgisayar faaliyetleri ile ilgili her türlü bakım ve onarımları yapmak veya yaptırmak, proje ihtiyacı donanım ve yazılımları satın almak veya satmaktır.

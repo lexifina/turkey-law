@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4624",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İÇİŞLERİ BAKANLIĞI NÜFUS VE VATANDAŞLIK İŞLERİ GENEL MÜDÜRLÜĞÜ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "number": "4624",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/1989/4624",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4624&MevzuatTertip=5",
+  "source_sha256": "ca52b751c17996eebfb9e48d123f311a2333da0d3fe9f1af1bb1dc27f3a1a9fb",
+  "source_bytes": 116992,
+  "published": "1989-02-03",
+  "gazette": "20069",
+  "in_force": "1989-02-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.02.1989); own commencement article: \"bu yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3202,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

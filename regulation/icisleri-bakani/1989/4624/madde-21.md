@@ -1,0 +1,7 @@
+Sayman Mutemetleri
+Madde 21- Saymanlıkça tahsilinde güçlük görülen döner sermaye gelirleri saymanca teklif edilen ve mutemetliği ita amirince onaylanan kefalete tabi sayman mutemetlerince tahsil edilir. Döner sermaye gelirlerinden hangilerinin sayman mutemetlerince tahsil edileceği, saymanın teklifi ve ita amirinin oluru ile saptanır.
+Sayman mutemetlerine saymanca uygun görülecek sayıda tahsil fişi zimmet karşılığı verilir.
+Sayman mutemetlerince tahsil edilen paralar, tahsil fişlerinin tarih ve numarası itibariyle, kasa defterine kaydedilir. Mutemetlerce yapılan tahsilat 3 günde bir döner sermaye saymanlığına yatırılır. Tahsilat miktarının 500.000 liraya ulaşması halinde tahsil edilen para en geç izleyen gün saymanlığa yatırılır.
+Saymanlıkça para tahsil edilirken mutemetçe tutulan kasa defterine “..........numaradan..........numaraya kadar tahsil fişleriyle kasa kayıtları karşılaştırılmış, kasa kayıtlarının doğru olduğu görülmüş ve fişlerin kapsamı olan ..... lira..... tarihli ve ..... sayılı vezne alındısı ile tahsil edilmiştir.” şeklinde kayıt konulur ve ilgililerce imzalanır.
+Ayrıca, son tahsilata ilişkin tahsil fişinin arkasında da “.....numaradan..... numaraya kadar olan tahsil fişleri kasa defterine tam ve hatasız kaydedilmiş ve bu fişlerle tahsil edilen toplam........ lira........tarihli ve ......sayılı vezne alındısı karşılığında saymanlığa yatırılmıştır.” şeklinde kayıt konulur ve ilgililerce imzalanır.
+Sayman her zaman sayman mutemetlerini kontrol edebilir ve iş yerlerinde bulunan paranın saymanlığa yatırılmasını isteyebilir.
