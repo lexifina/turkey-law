@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "219",
+  "year": 1965,
+  "title": "Bakanlar Kuruluna güvenildiğine dair",
+  "adopted": "1965-11-11",
+  "date_basis": "last-sitting",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 358276,
+      "title": "Bakanlar Kuruluna güvenildiğine dair",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 10,
+          "sitting_date": "1965-11-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001010.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001fih.pdf",
+          "pages": [
+            "322:323"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=684&v_gelecek_sayfa=201&v_kullanici_id=27485026",
+      "page_sha256": "6f98c4e2571a54ab88739da01933fd1614a76c485261c49bd00e1f890b1eaf96"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "6f98c4e2571a54ab88739da01933fd1614a76c485261c49bd00e1f890b1eaf96",
+  "issuer": "Millet Meclisi",
+  "in_force": "1965-11-11",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this karar (1965-11-11); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
