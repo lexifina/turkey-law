@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 360358,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "KADRİ KAPLAN (CUMHURİYET SENATOSU TABİİ ÜYESİ)",
+  "summary": "Ve 4 Arkadaşı 97 sayılı Kanunla değiştirilen 1076 sayılı Kanunun 3. maddesine 5 fıkra eklenmesine dair ek kanun teklifi (2/2)",
+  "title": "Ve 4 Arkadaşı 97 sayılı Kanunla değiştirilen 1076 sayılı Kanunun 3. maddesine 5 fıkra eklenmesine dair ek kanun teklifi (2/2)",
+  "first_sitting_date": "1966-02-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 40,
+      "sitting_date": "1966-02-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002fih.pdf",
+      "pages": [
+        "507"
+      ]
+    },
+    {
+      "cilt": 2,
+      "sitting": 44,
+      "sitting_date": "1966-02-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002044.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002fih.pdf",
+      "pages": [
+        "710"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 33,
+      "sitting_date": "1968-01-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c024/mm__02024033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c024/mm__02024fih.pdf",
+      "pages": [
+        "47"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 36,
+      "sitting_date": "1968-02-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c024/mm__02024036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c024/mm__02024fih.pdf",
+      "pages": [
+        "218:221"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=3701&v_kullanici_id=27484893",
+  "source_sha256": "331ad3f21b82345860b00bc4bd2df3a407646b322bd3c2f67e5b69ca5c884e84",
+  "in_force": "1966-02-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
