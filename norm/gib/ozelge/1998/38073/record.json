@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5309-58/36629",
+  "source_id": 38073,
+  "date": "1998-10-13",
+  "title": "K.D.V. ödeyerek ithal edilen akaryakıt ürünlerinin ithalatçıları veya bunlardan mal alan dağıtıcı firmalar tarafından teslimlerinde tevkifat uygulaması yapılmayacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38073",
+  "source_sha256": "628b56ed536dd340eeec49657b46cdfface433178f87bab6738195ead23a8915",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
