@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4003-72/38774",
+  "source_id": 22249,
+  "date": "2000-08-17",
+  "title": "Laboratuvar işletmeciliği yapan mükellefin, elde ettiği kazancın ticari faaliyet kapsamına girmesi nedeniyle başka laboratuvarlara tahlil için göndereceği örnekler için, sevk irsaliyesi düzenlemesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22249",
+  "source_sha256": "6b5048cb50ca9106a2cade302841f1e7d93e931abc6ec45858d6656a4ac02453",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
