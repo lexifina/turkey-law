@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 21,
+  "legislative_year": 3,
+  "sitting": 107,
+  "sitting_date": "2001-05-23",
+  "listed_date": "23 Mayıs 2001 Çarşamba",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/21/3/107/14606961-78f6-4a62-97fd-e42f1beb4a93.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=bd5601ac-eb32-4a1b-94f9-0185ceac7d42",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=21&YasamaYili=3",
+  "source_sha256": "319155bcb1946b47756e7155b9f42805f37938eb8ee19f3c128683b57706a275",
+  "source_bytes": 636459,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
