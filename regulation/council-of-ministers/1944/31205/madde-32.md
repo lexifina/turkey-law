@@ -1,0 +1,1 @@
+Madde 32 – İaşeleri Vekaletçe kabul edilen personel iaşe masrafları için her mevsim başında adam başına yapılacak günlük masraf idarenin teklifi üzerine Sıhhat ve İçtimai Muavenet Vekaletince kabul ve tasdik edildikten sonra yapılır.

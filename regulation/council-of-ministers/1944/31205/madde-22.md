@@ -1,0 +1,2 @@
+Madde 22 – Müşteri veya personel tarafından kırılan, zayi veya tahrip edilen eşya muhasebe kayıtlarına ancak İşletme Müdürünün tahriri ismi ile geçirilebilir.
+Kırılan, zayi ve tahrip edilen eşyanın aynen yerine konulması veya bedelinin tazmin ettirilmesi veya tutarı amortisman sermayesinin zimmetine geçirilmek suretiyle zararın telafi edilmesine İşletme Müdürü karar verir. Kasden kırılan veya zayi veya tahrip edilenlerin bedelleri amortisman nazarı dikkate alınmaksızın mukayyet kıymetleri üzerinden tazmin ettirilir. Buna ait kararı da keza İşletme Müdürü verir.

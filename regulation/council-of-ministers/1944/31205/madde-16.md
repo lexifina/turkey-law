@@ -1,0 +1,1 @@
+Madde 16 – Her ne kadar bütçe defterikebir hesaplarına ve tali hesaplara mütenazır olarak tanzim edilecek ise de, muhasebede ayrıca bir tahsisat defteri tutulması da lazımdır. Bu defterde günü gününe kaydedilmelidir.

@@ -1,0 +1,1 @@
+Madde 49 – Mubayaa ve inşa ile satış muamelelerinin hangilerinden teminat alınması icabedeceği İşletme Müdürünün tensibiyle tayin olunur. Ve muvakkat ve kati teminat miktarları Artırma, Eksiltme ve İhale kanuniyle tesbit edilen miktardan aşağı düşemiyeceği gibi teminatı kabul edilecek bankalarda Hükümetçe tesbit edilmiş olanlardır.

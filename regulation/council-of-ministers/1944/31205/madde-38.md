@@ -1,0 +1,1 @@
+Madde 38 – Ambardan talep edilecek eşya için üç nüshalı bir talep ve çıkış pusulası tanzim edilecektir. Bunlardan biri talepte bulunan serviste kalır, diğer ikisi müdür kanaliyle ambara gönderilir. Bu nüshalardan biri ambarda kalarak diğeri malla birlikte talepte bulunan servise iade edilir. (Nümune 9)

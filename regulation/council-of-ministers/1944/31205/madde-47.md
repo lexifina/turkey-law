@@ -1,0 +1,1 @@
+Madde 47 – Komisyon kararlarının her sene birden başlamak üzere müteselsil numaralı olması ve bu kararların kopyalı aslı zımbalı, sureti merbut sayfaları ihtiva eder bir deftere yazılması ve bunlardan zımbalı nüshasının koparılarak tediye veya satış evrakına bağlanması iktiza eder.

@@ -1,0 +1,1 @@
+Madde 20 – Her küçük muamele için kasayı ve muhasebeyi işgal etmemek ve bu suretle fişleri mümkün mertebe kısaltabilmek üzere 25 liraya kadar müteferrik ve cüz'i tediyeleri yapmak için veznedara 100 liraya kadar avans verilmesi ve verilen bu avans hesabının her 10 günde ve mutlaka ay sonlarında kapatılması suretiyle muamele yapılması lazımdır.

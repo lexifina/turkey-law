@@ -1,0 +1,1 @@
+Madde 15 – Bir senenin muamelesi aynı sene içinde görülmek icabedeceği için avans hesaplarının behemahal aynı mali yıl içinde kapatılması ve sarfedilmeyen paraların sene sonunda hemen istirdat edilmesi lazımdır.

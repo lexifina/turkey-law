@@ -1,0 +1,1 @@
+Madde 28 – Bozulur cinsten olmıyan levazımın stok miktarı idarece tespit edilerek buna göre fazla veya eksik bulundurulmaması lazımdır. Bunu takip ve zamanında idareyi haberdar etmek ambar memurlarının vazifesi cümlesindendir.

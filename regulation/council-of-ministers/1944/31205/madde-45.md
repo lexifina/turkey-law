@@ -1,0 +1,1 @@
+Madde 45 – İşletme Müdürü Sıhhat ve İçtimai Muavenet Vekaleti tarafından tayin ve tahdit edilen salahiyeti dahilinde, alım ve satım işleriyle, yapılması icabeden işler için ya doğrudan doğruya gördüğü veya servislerden her hangi birisinin yazılı olarak gösterdiği lüzum üzerine komisyona keza tahriren emir verir.

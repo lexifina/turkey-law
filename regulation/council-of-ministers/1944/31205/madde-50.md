@@ -1,0 +1,1 @@
+Madde 50 – Mikdarı ne olursa olsun İşletme Müdürü her nevi tesis ve inşa için behemehal Sıhhat Vekaletinden müsaade almak mecburiyetinde olduğu gibi yıkılmasına lüzum görülen bina veya kaldırılması icabeden herhangi bir tesis için dahi keza vekaletten müsaade istihsaline mecburdur.

@@ -1,0 +1,1 @@
+Madde 35 – İşletme tarifesinde otellerde muayyen günler kalacaklar için tenzilat kabul edilmiş olduğu takdirde müşterilerin bundan istifade edip etmiyeceklerini bidayeten anlamak iktiza edeceği için müracaat edeceklerin evvelemirde kaç gün kalacaklarının kendilerinden sorulması ve buna göre haklarında tarife tatbik edilmesi lazımdır.

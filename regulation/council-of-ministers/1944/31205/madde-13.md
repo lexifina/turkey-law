@@ -1,0 +1,1 @@
+Madde 13 – Alelümum evrakı müsbite Divanı Muhasebata gönderileceğine göre kasa ve yevmiye fişleri faturalar ve sair evrakın kopyalı olarak tanzimi ve bunların ilerde müracaat hasıl olduğu zaman istifade edilmek üzere işletme idaresinde hıfzedilmesi lazımdır.

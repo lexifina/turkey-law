@@ -1,0 +1,1 @@
+Madde 40 – Elektrik santralının bir senelik işletme masrafı yekünu sene zarfında istihsal edilen kilovat yekünu ile taksim edilince bir kilovat elektriğin maliyet fiatı elde edilir. (Aylık yapılacak hesap şekli yukarda tarif edilmiştir.)

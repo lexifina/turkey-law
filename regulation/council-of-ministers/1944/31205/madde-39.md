@@ -1,0 +1,1 @@
+Madde 39 – Banyo ve havuzlar için satılan bilet adedine müstenit günlük rapor yapılacaktır. Vasati olarak bir banyonun verdiği varidat yekünunun satılan bilet adedine taksimi suretiyle bulunur. Bir banyonun vasati maliyet fiatı ise masarif yekünunu banyo adediyle taksim ederek elde edilir. Bu raporlar muhasebece kontroldan sonra işletme müdürüne verilir.
