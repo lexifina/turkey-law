@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4210",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TEKNİK MEVZUATIN VE STANDARTLARIN TÜRKİYE İLE AVRUPA BİRLİĞİ ARASINDA BİLDİRİMİNE DAİR YÖNETMELİK",
+  "number": "4210",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı bulunduğu Bakan",
+  "issuer_slug": "dis-ticaret-mustesarliginin-bagli-bulundugu-bakan",
+  "path": "regulation/dis-ticaret-mustesarliginin-bagli-bulundugu-bakan/2002/4210",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4210&MevzuatTertip=5",
+  "source_sha256": "fcdba2e1edf8885b57a059f48cdcdc78af525e5d60a27c5c0ec992feaf904d0a",
+  "source_bytes": 58080,
+  "published": "2002-04-03",
+  "gazette": "24715",
+  "in_force": "2002-04-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.04.2002); own commencement article: \"Bu Yönetmelik, yayımı tarihinden bir ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinden bir ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2220,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
