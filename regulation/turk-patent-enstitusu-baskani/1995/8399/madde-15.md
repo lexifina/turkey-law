@@ -1,0 +1,2 @@
+Telif Haklarının Belirlenmesi
+Madde 15- Bu Yönetmelik hükümlerince yayımlanacak eserlerin, telif veya işlenme hak ve ücretleri, Bakanlar Kurulu'nun 20/2/1987 tarih ve 87/11526 sayılı Kararı ile yürürlüğe giren "Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmelik" hükümlerine göre hesaplanır ve ödenir. Ancak, resmi görev gereği hazırlanmış eserlere ücret ödenmez. Enstitü mensuplarının hazırladıkları eserlere de resmi görev gereği değilse telif ve tercüme ücreti ödenir ve yayınları satın alınır.

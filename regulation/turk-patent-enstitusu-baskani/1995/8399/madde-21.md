@@ -1,0 +1,1 @@
+Madde 21- Resmi Patent, Marka Gazeteleri ve Bültenlerin yayımlanmasından, yönetilmesinden Türk Patent Enstitüsü Başkanı sorumludur. Satış, ilan ve abone işlemleri için Enstitü Başkanlığı'na başvurulur.

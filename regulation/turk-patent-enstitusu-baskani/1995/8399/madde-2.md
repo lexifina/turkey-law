@@ -1,0 +1,2 @@
+Hukuki Dayanak
+Madde 2- Bu Yönetmelik, 1883 tarihli Paris Sözleşmesi'nin 12 nci Maddesi 27/6/1995 tarih ve 551, 554, 555 ve 556 sayılı Kanun Hükmünde Kararnameler, 24/6/1994 tarih ve 544 sayılı Kanun Hükmünde Kararname, Kamu Kurum ve Kuruluşlarınca ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmelik ile 5/12/1951 tarih ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu'na dayanılarak hazırlanmıştır.
