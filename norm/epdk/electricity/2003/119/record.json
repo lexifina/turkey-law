@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "119",
+  "decision_date": "2003-03-21",
+  "title": "Boğaziçi Elektrik Dağıtım Anonim Şirketi tarafından uygulanacak perakende satış tarifesi hakkında",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BAyMsrm6sM0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BAyMsrm6sM0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=SoqU+tHw6G4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ad+oho9BhrI="
+  ],
+  "source_sha256": "bb4e00b3f6297b6cb0b6eda848eae54663c565ca1a29929728815cd7cd226756",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-03-21",
+  "law_text_complete": false
+}
