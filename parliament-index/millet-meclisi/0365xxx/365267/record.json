@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 365267,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "EROL YILMAZ AKÇAL (RİZE)",
+  "summary": "Ve 2 Arkadaşı 13.7.1965 tarih ve 647 sayılı Cezaların infazı hakkındaki Kanunun 7. maddesinin (B) bendinin değiştirilmesine dair (2/116)",
+  "title": "Ve 2 Arkadaşı 13.7.1965 tarih ve 647 sayılı Cezaların infazı hakkındaki Kanunun 7. maddesinin (B) bendinin değiştirilmesine dair (2/116)",
+  "first_sitting_date": "1967-02-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 12,
+      "sitting": 46,
+      "sitting_date": "1967-02-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c012/mm__02012046.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c012/mm__02012fih.pdf",
+      "pages": [
+        "263"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 98,
+      "sitting_date": "1967-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016098.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016fih.pdf",
+      "pages": [
+        "590"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 100,
+      "sitting_date": "1967-05-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017100.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017fih.pdf",
+      "pages": [
+        "66"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 101,
+      "sitting_date": "1967-05-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017101.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017fih.pdf",
+      "pages": [
+        "106:113"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=4001&v_kullanici_id=27484893",
+  "source_sha256": "55f85cfda1739f463fe3afdecc269930a56a532258f5d19d985cff9467c20bbf",
+  "in_force": "1967-02-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
