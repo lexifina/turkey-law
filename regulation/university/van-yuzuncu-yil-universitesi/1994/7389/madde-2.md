@@ -1,0 +1,2 @@
+Amaç
+Madde 2 — Merkezin amacı, kuruluş gerekçesine uygun olarak; bilimsel uygulama ve araştırmalar için gereksinim duyulan ve merkezi laboratuar bünyesinde tesis edilmiş olan alet ve ekipmanın rantabl kullanımını organize ederek bilimsel uygulama Ve araştırmaların yürütülmesini sağlamak, çeşitli disiplinlerdeki araştırıcıların geniş kapsamlı yöresel ve ülkesel projeler için koordinasyonu sağlamak, diğer yükseköğretim kurumları da dahil olmak üzere kamu ve özel sektör kuruluşlarının, merkezi laboratuar ile ilgili analiz ve projelerinin yürütülmesini sağlamaktır.
