@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5351",
+  "year": 1949,
+  "title": "Tarım Bakanlığına bağlı bazı okul ve kurulların İdaresi hakkında 867 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-03-18",
+  "gazette_issue": "7159",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7159.pdf",
+  "source_sha256": "0d5a9209c9105cdb80b222b40db1d45c4ae254efaf92f244fe0bce582a04f6ad",
+  "text_sha256": "9667ba014eb27f163e615a14632ec8b5faae9ab94b213e6f6ddcea70b041866c",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      21
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105351.pdf",
+    "source_sha256": "ccfe3c67752d83b841f02fe1a01be2d89495eca811a23ccc31676cb76a486f93",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.974,
+    "bag": 0.9259,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9643,
+    "rg_words": 54,
+    "kd_words": 56,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
