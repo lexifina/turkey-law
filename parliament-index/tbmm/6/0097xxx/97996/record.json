@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 97996,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Türkiye-Estonya Ticaret ve kliding Anlaşmasına müzeyyel protokolün tasdikı hakkında (1/184)",
+  "title": "Türkiye-Estonya Ticaret ve kliding Anlaşmasına müzeyyel protokolün tasdikı hakkında (1/184)",
+  "first_sitting_date": "1939-06-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 27,
+      "sitting_date": "1939-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c003/tbmm06003027.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c003/tbmm06003fih.pdf",
+      "pages": [
+        "178",
+        "413"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 34,
+      "sitting_date": "1939-07-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c004/tbmm06004034.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c004/tbmm06004fih.pdf",
+      "pages": [
+        "9",
+        "224:225",
+        "227:231"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1070&v_gelecek_sayfa=1001&v_kullanici_id=27483993",
+  "source_sha256": "771aede6a361c009a7f6f80c4d6d97140f255921f8bbe41724e510975f911d6e",
+  "in_force": "1939-06-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
