@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 282512,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MELİH PABUÇCUOĞLU (BALIKESİR)",
+  "summary": "Ve Sakarya Milletvekili Nevzat Ercan'ın; 2924 Sayılı Kanunun Bazı Maddelerinin Değiştirilmesi ve Kanuna Bir Madde Eklenmesi Hakkında (2/1099)",
+  "title": "Ve Sakarya Milletvekili Nevzat Ercan'ın; 2924 Sayılı Kanunun Bazı Maddelerinin Değiştirilmesi ve Kanuna Bir Madde Eklenmesi Hakkında (2/1099)",
+  "first_sitting_date": "1995-10-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 95,
+      "sitting": 18,
+      "sitting_date": "1995-10-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c095/tbmm19095018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c095/tbmm19095fih.pdf",
+      "pages": [
+        "350:380"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "43aaab60f7da3252bdc7db630895d9f1c1cc55124b058e8901f22e28ebfb794c",
+  "in_force": "1995-10-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
