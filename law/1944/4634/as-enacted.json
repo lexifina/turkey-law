@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4634",
+  "year": 1944,
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-08-08",
+  "gazette_issue": "5777",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5777.pdf",
+  "source_sha256": "cddb934f3fe09522a82f1f81dfe4dd3d70ccf2460479d793ac0e35ee11d932d9",
+  "text_sha256": "6ef99a0a56c0dcff6edf90d1599901ba2ecaa90e0ced7ecf7b60feb45c1bdd74",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      428,
+      471
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604634.pdf",
+    "source_sha256": "f47141c09a4e89491f9073fd9832190f76472f37a9751c2a964c6718451bbae4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9703,
+    "bag": 0.9159,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9816,
+    "rg_words": 268,
+    "kd_words": 272,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
