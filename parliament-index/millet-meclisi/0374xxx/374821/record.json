@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 374821,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Demiryolları ile yolcu ve bagaj taşımalarına müteallik milletlerarası Andlaşmaya (CIV) ek Andlaşmanın, protokollerin ve nihai Andlaşmanın onaylanmasının uygun bulunduğu hakkında (1/423)",
+  "title": "Demiryolları ile yolcu ve bagaj taşımalarına müteallik milletlerarası Andlaşmaya (CIV) ek Andlaşmanın, protokollerin ve nihai Andlaşmanın onaylanmasının uygun bulunduğu hakkında (1/423)",
+  "first_sitting_date": "1968-11-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 29,
+      "sitting": 10,
+      "sitting_date": "1968-11-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c029/mm__02029010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c029/mm__02029fih.pdf",
+      "pages": [
+        "256:257",
+        "563:564",
+        "602:605"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=3701&v_kullanici_id=27484850",
+  "source_sha256": "54595f3d32bae0b61f48f42b9f9a57b1c8f76085ca91ad7a8913789216ee90a8",
+  "in_force": "1968-11-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
