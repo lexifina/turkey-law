@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2914-203-809/61930",
+  "source_id": 25424,
+  "date": "1997-12-25",
+  "title": "İmalat defteri tutma mecburiyeti hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25424",
+  "source_sha256": "bdb4e6050a1ab0121f46cd045fb04454f24fb355ea55f232520086d5b9309b76",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
