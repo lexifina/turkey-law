@@ -1,0 +1,1 @@
+Madde 9- Barınakta düzen, deniz ve kara trafiği, can ve mal güvenliği bakımlarından alınması gerekli önlemler hakkında,Marmara Bölgesi Liman ve Denizişleri Müdürlüğü ve İstanbul Liman Başkanlığı tarafından verilen emirler, gemi kaptanları , her çeşit deniz araçlarını yönetenler ve öteki ilgililer hemen yerine getireceklerdir.

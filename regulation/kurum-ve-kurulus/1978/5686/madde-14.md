@@ -1,0 +1,1 @@
+Madde 14- Barınakta,denize pasakül moloz,,safra çöp ve benzeri gibi maddeler atılamaz, yağ ve benzer kirletici maddeler bakılamaz, tank v sintine yıkanamaz, barınak rıhtımları ile ilgili yerler kirletilemez.
