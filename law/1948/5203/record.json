@@ -1,0 +1,61 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5203",
+  "year": 1948,
+  "title": "Devlet Denizyolları İşletme Genel Müdürlüğünün 1940 akçalı yılı Kesinhesap Kanunu",
+  "adopted": "1948-05-17",
+  "adopted_as_published": "17/05/1948",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "25.05.1948 No: 6914",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/kanuntbmmc030/kanuntbmmc03005203.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 30",
+  "committee_reports": [
+    {
+      "label": "TBMM 129 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c011/tbmm08011060ss0129.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 8,
+      "kayit_no": 77925,
+      "title": "Devlet Denizyolları İşletme Genel Müdürlüğünün 1940 akçalı yılı Kesinhesap Kanunu",
+      "adopted_as_published": "17/05/1948",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/kanuntbmmc030/kanuntbmmc03005203.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 129 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c011/tbmm08011060ss0129.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 60,
+          "sitting_date": "1948-05-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c011/tbmm08011060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c011/tbmm08011fih.pdf",
+          "pages": [
+            "361:362",
+            "381:385"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=716&v_gelecek_sayfa=201&v_kullanici_id=27483172",
+      "page_sha256": "43c790d79e884159a2ee4fd6aae5bd0a8d92ee3694b5a329adec3b8cc9047cfe"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "43c790d79e884159a2ee4fd6aae5bd0a8d92ee3694b5a329adec3b8cc9047cfe",
+  "issuer": "TBMM",
+  "in_force": "1948-05-17",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 17/05/1948; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
