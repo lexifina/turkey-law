@@ -1,0 +1,2 @@
+Elektronik Ortamlarda Kaydedilen Arşiv Malzemesi
+Madde 26 — Elektronik ortamlarda teşekkül eden bilgi ve belgelerden arşiv malzemesi özelliği taşıyanların kaybını önlemek ve devamlılığını sağlamak amacıyla bir kopyası CD, disket veya benzeri kayıt ortamlarına aktarılmak suretiyle saklanır. Bu tür malzemelerin muhafaza, tasnif, devir ve benzeri işlerde diğer malzemeler için uygulanan hükümler aynen geçerlidir.

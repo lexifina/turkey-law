@@ -1,0 +1,2 @@
+Üniversite Arşivinde Ayıklama ve İmha
+Madde 23 — Üniversite arşivinde yapılacak ayıklama ve imha işlemleri bu Yönetmeliğin dört ve beşinci kısımdaki hükümlere göre yapılır. 25 inci maddede açıklandığı üzere Üniversite arşivinde yapılacak kesin tasnif, dosya ve kutu gruplarının hazırlanması, Üniversite arşivindeki muhafazasına lüzum görülmeyen ve ayıklama işlemine tabi tutulacak evrak ve malzemenin ayrılmasından sonra yapılır.

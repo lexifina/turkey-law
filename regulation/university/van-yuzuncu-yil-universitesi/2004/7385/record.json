@@ -1,0 +1,34 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük\nMadde 50 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\n"
+  ],
+  "completeness": "text-only; source images pending",
+  "date_quote": "RG 5/5/2004-25453",
+  "first_law": null,
+  "gazette": "25418",
+  "images": {
+    "deferred": 1,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 1
+  },
+  "in_force": "2004-05-05",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "Van Yüzüncü Yıl Üniversitesi",
+  "kind": "regulation",
+  "notes": [
+    "Source image content pending."
+  ],
+  "published": "2004-03-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7385&MevzuatTertip=5",
+  "source_bytes": 189176,
+  "source_id": "8.5.7385",
+  "source_sha256": "616ac53c22951063963e75b74f1fd2a7afd66bf49b58bad24a0943fd6d387540",
+  "structure": "article-files",
+  "text_status": "current-consolidated",
+  "title": "YÜZÜNCÜ YIL ÜNİVERSİTESİ ARŞİV HİZMETLERİ YÖNETMELİĞİ",
+  "university_id": 472,
+  "version_label": "oldest version available",
+  "word_count": 4624
+}
