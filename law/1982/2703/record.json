@@ -1,0 +1,78 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2703",
+  "year": 1982,
+  "title": "16.6.1927 Tarihli ve 1076 Sayılı İhtiyat Zabitleri ve İhtiyat Askeri Memurları Kanununun 16.Maddesinin Değiştirilmesi ve 27.7.1967 Tarifi ve 926 Sayılı Türk Silahlı Kuvvetleri Personel Kanununun 107.Maddesine Bir Fıkra Eklenmesi Hakkında Kanun",
+  "adopted": "1982-08-19",
+  "adopted_as_published": "19/08/1982",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.8.1982 No: 17788",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc065/kanunmgkc065/kanunmgkc06502703.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 65",
+  "committee_reports": [
+    {
+      "label": "MGK 445 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c007/mgk_01007114ss0445.pdf"
+    },
+    {
+      "label": "DM 173no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c008/dm__02008129ss0173.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 151240,
+      "title": "16.6.1927 Tarihli ve 1076 Sayılı İhtiyat Zabitleri ve İhtiyat Askeri Memurları Kanununun 16.Maddesinin Değiştirilmesi ve 27.7.1967 Tarifi ve 926 Sayılı Türk Silahlı Kuvvetleri Personel Kanununun 107.Maddesine Bir Fıkra Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "19/08/1982",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc065/kanunmgkc065/kanunmgkc06502703.pdf",
+      "committee_reports": [
+        {
+          "label": "MGK 445 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c007/mgk_01007114ss0445.pdf"
+        },
+        {
+          "label": "DM 173no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c008/dm__02008129ss0173.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=401&v_kullanici_id=27483250",
+      "page_sha256": "4f51546c611149ff13cff28140d674ca4f2e25017752a080ee4650d493ac2ede"
+    },
+    {
+      "assembly": "Danışma Meclisi",
+      "term": null,
+      "kayit_no": 143626,
+      "title": "16.6.1927 Tarihli ve 1076 Sayılı İhtiyat Zabitleri ve İhtiyat Askeri Memurları Kanununun 16. Maddesinin Değiştirilmesi ve 27.7.1967 Tarihli ve 926 Sayılı Türk Silahlı Kuvvetleri Personel Kanununun 107. Maddesine Bir Fıkra Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "19/08/1982",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc065/kanundmc065/kanundmc06502703.pdf",
+      "committee_reports": [
+        {
+          "label": "DM 173 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c008/dm__02008129ss0173.pdf"
+        },
+        {
+          "label": "MGK 445no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c007/mgk_01007114ss0445.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "0b8d3603bdcc20d55b13e922eedbe2d683ac1a8fef214d51a785d2dc18bf495a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4f51546c611149ff13cff28140d674ca4f2e25017752a080ee4650d493ac2ede",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1982-08-19",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 19/08/1982; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
