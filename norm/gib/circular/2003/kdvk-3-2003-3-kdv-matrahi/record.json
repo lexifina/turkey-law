@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB sirkulerTarih: 2003-10-15T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "circular",
+  "official_date": "2003-10-15",
+  "official_number": "KDVK - 3 / 2003 - 3 / KDV Matrahı",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/981",
+  "source_id": "sirkuler:981",
+  "source_row_sha256": "088ef0537742c38f70fb336af402f30b2caaa1507b86003ea55ae92348dcb2d5",
+  "title": "Belediyenin geliri olan ve doğrudan belediyeye ödenen atık su ile ilgili çevre temizlik vergisi, bedelin bir unsuru sayılamayacağından su teslimine ilişkin katma değer vergisi matrahına dahil edilmemesi gerekmektedir.",
+  "version_label": "as-enacted",
+  "word_count": 300
+}
