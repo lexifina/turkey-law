@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.O.GEL.0.44/4407-1580/640",
+  "source_id": 23106,
+  "date": "2000-01-05",
+  "title": "Çiftçilerin kendi ürettikleri ürünleri satmak üzere mahalle veya çevre pazarlara götürerek satmaları ve bu satışlarını belediyece Pazar yeri olarak ayrılan yerlerde herhangi bir yer tahsisi olmadan günlük işgaliye harcı ödemek suretiyle yapması durumunda ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23106",
+  "source_sha256": "90b0446a5a31a3308d5119eac2422c07a7ac26eef5dad61a9e53bf95b1cd7e5c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
