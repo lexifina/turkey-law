@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4124",
+  "year": 1941,
+  "title": "Millî Müdafaa Vekâleti 1941 malî yılı bütçesine 83 000 000 lira fevkalâde tahsisat verilmesi hakkındaki 4054 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-09-26",
+  "gazette_issue": "4922",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4922.pdf",
+  "source_sha256": "ae328b026d6ac9a2ca360dddb11eaec3ed68b619e8828b03451cc2cb87572619",
+  "text_sha256": "60e936d07f938a9fd643e53a743850a5b69e2f8c890ffeca26b72dd83cb94d13",
+  "text_status": "ocr",
+  "pages": [
+    6,
+    7
+  ],
+  "line_span": [
+    [
+      1848,
+      1863
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204124.pdf",
+    "source_sha256": "b6df8c7d246136a9d21a6e9cedc039aa153e6c2dbb8f5a4b8fed70d087bc858f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9671,
+    "bag": 0.9078,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9714,
+    "rg_words": 73,
+    "kd_words": 70,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
