@@ -1,0 +1,60 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 52442,
+  "assembly": "TBMM",
+  "term": 10,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Amerikan vatandaş ve şirketlerinin memleketimizde yapacakları yatırımların İktisadi İş Birliği İdaresince garanti edilmesine dair Anlaşmanın onanması hakkında (1/63)",
+  "title": "Amerikan vatandaş ve şirketlerinin memleketimizde yapacakları yatırımların İktisadi İş Birliği İdaresince garanti edilmesine dair Anlaşmanın onanması hakkında (1/63)",
+  "first_sitting_date": "1954-11-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 1,
+      "sitting_date": "1954-11-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c002/tbmm10002001.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c002/tbmm10002fih.pdf",
+      "pages": [
+        "3"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 79,
+      "sitting_date": "1956-06-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c012/tbmm10012079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c012/tbmm10012fih.pdf",
+      "pages": [
+        "394",
+        "576:577"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 87,
+      "sitting_date": "1956-07-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c013/tbmm10013087.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c013/tbmm10013fih.pdf",
+      "pages": [
+        "139:140",
+        "143",
+        "184:187"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=832&v_gelecek_sayfa=201&v_kullanici_id=27484234",
+  "source_sha256": "132d70baf1058c0597c85ae37a1ae0869e18e80fdfd8304a228f83ac8dab1ebf",
+  "in_force": "1954-11-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
