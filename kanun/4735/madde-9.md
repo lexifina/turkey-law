@@ -1,0 +1,2 @@
+İş ve işyerinin sigortalanması
+MADDE 9 - Yapım işlerinde yüklenici; işyerlerindeki her türlü araç, malzeme, ihzarat, iş ve hizmet makineleri, taşıtlar, tesisler ile yapılan işin biten kısımları için, özellik ve niteliklerine göre işe başlama tarihinden kesin kabul tarihine kadar geçen süre içinde oluşabilecek deprem, su baskını, toprak kayması, fırtına, yangın gibi doğal afetler ile hırsızlık, sabotaj gibi risklere karşı ihale dokümanında belirtilen şekilde sigorta yaptırmak zorundadır.

@@ -1,0 +1,2 @@
+Öngörülemeyen durumlar nedeniyle işin tasfiyesi
+MADDE 24 - Hizmet veya yapım sözleşmelerinde, öngörülemeyen durumlar nedeniyle işin, sözleşme bedelinin üzerinde bir artış ile tamamlanabileceğinin tespit edilmesi halinde, hesabı genel hükümlere göre tasfiye edilerek kesin teminat ve varsa ek kesin teminatlar iade edilir. Ancak bu durumda, işin tamamının ihale dokumanı ve sözleşme hükümlerine uygun olarak yerine getirilmesi zorunludur.
