@@ -1,0 +1,78 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3586",
+  "year": 1989,
+  "title": "657 Sayılı Devlet Memurları Kanunu ile 926 Sayılı Türk Silahlı Kuvvetleri Personel Kanununa Ek Geçici Maddeler Eklenmesi ve 3053 Sayılı Türkiye Büyük Millet Meclisi Üyelerinin Ödenek ve Yollukları Hakkında Kanunun 1. Maddesinin Birinci Fıkrası ile 351 Sayılı Kanun Hükmünde Kararnamenin Geçici Maddesinin Değiştirilmesi Hakkında Kanun",
+  "adopted": "1989-06-16",
+  "date_basis": "last-sitting",
+  "official_gazette_as_published": "geri gönderme No:",
+  "committee_reports": [
+    {
+      "label": "TBMM 269 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c029/tbmm18029103ss0269.pdf"
+    },
+    {
+      "label": "TBMM 269ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c029/tbmm18029103ss0269ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 228064,
+      "title": "657 Sayılı Devlet Memurları Kanunu ile 926 Sayılı Türk Silahlı Kuvvetleri Personel Kanununa Ek Geçici Maddeler Eklenmesi ve 3053 Sayılı Türkiye Büyük Millet Meclisi Üyelerinin Ödenek ve Yollukları Hakkında Kanunun 1. Maddesinin Birinci Fıkrası ile 351 Sayılı Kanun Hükmünde Kararnamenin Geçici Maddesinin Değiştirilmesi Hakkında Kanun",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [
+        {
+          "label": "TBMM 269 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c029/tbmm18029103ss0269.pdf"
+        },
+        {
+          "label": "TBMM 269ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c029/tbmm18029103ss0269ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 16,
+          "sitting": 19,
+          "sitting_date": "1988-01-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c016/tbmm18016019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c016/tbmm18016fih.pdf",
+          "pages": [
+            "164"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 103,
+          "sitting_date": "1989-06-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c029/tbmm18029103.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c029/tbmm18029fih.pdf",
+          "pages": [
+            "288",
+            "301",
+            "325:335"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=363&v_gelecek_sayfa=101&v_kullanici_id=27483192",
+      "page_sha256": "361a4fae696438e8cdcec3e14c7a6b3da7efee401becf429a81634f0a6406b9b"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "361a4fae696438e8cdcec3e14c7a6b3da7efee401becf429a81634f0a6406b9b",
+  "issuer": "TBMM",
+  "in_force": "1989-06-16",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (1989-06-16); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
