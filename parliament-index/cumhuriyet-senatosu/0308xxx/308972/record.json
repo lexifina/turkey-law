@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 308972,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "HASAN TÜRKAY (ANKARA)",
+  "summary": "ve 3 arkadaşı Çalışma Bakanlığı kuruluş ve görevleri hakkındaki 4841 sayılı Kanunun 6. maddesinin (D) fıkrasının değiştirilmesi ile ilgili 18.5.1967 tarih ve 864 sayılı Kanunun eli 7. maddesinin 3. fıkrasının değiştirilmesine dair (Millet Meclisi 2/624, Cumhuriyet Senatosu 2/244) (S. Sayısı: 1130)",
+  "title": "ve 3 arkadaşı Çalışma Bakanlığı kuruluş ve görevleri hakkındaki 4841 sayılı Kanunun 6. maddesinin (D) fıkrasının değiştirilmesi ile ilgili 18.5.1967 tarih ve 864 sayılı Kanunun eli 7. maddesinin 3. fıkrasının değiştirilmesine dair (Millet Meclisi 2/624, Cumhuriyet Senatosu 2/244) (S. Sayısı: 1130)",
+  "first_sitting_date": "1968-04-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 46,
+      "sitting": 48,
+      "sitting_date": "1968-04-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c046/cs__07046048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c046/cs__07046fih.pdf",
+      "pages": [
+        "334",
+        "344",
+        "387"
+      ]
+    },
+    {
+      "cilt": 46,
+      "sitting": 49,
+      "sitting_date": "1968-04-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c046/cs__07046049.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c046/cs__07046fih.pdf",
+      "pages": [
+        "387",
+        "417:420"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=401&v_kullanici_id=27484924",
+  "source_sha256": "43e569bad21ed2adc7f6a66158069b7ff55af015f13de3a87c2dfe94e8b0727f",
+  "in_force": "1968-04-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
