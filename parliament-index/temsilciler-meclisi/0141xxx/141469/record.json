@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 141469,
+  "assembly": "Temsilciler Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Subay ve askeri memurların maaşatına dair olan 1453 sayılı Kanuna ek 3661 sayılı Kanunun muaddel 1. maddesi ve 4600 sayılı Kanunun muaddel 3. maddesiyle 8. maddesinin değiştirilmesine dair kanun tasarısı hak kında (1/24)",
+  "title": "Subay ve askeri memurların maaşatına dair olan 1453 sayılı Kanuna ek 3661 sayılı Kanunun muaddel 1. maddesi ve 4600 sayılı Kanunun muaddel 3. maddesiyle 8. maddesinin değiştirilmesine dair kanun tasarısı hak kında (1/24)",
+  "first_sitting_date": "1961-02-23",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 20,
+      "sitting_date": "1961-02-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001fih.pdf",
+      "pages": [
+        "310:317",
+        "317:320",
+        "320:334",
+        "341",
+        "406:408"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "bb90dab6d4f47dc8bdff309ed3890e18a91db9db1190e97dba21fda79fc10395",
+  "in_force": "1961-02-23",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
