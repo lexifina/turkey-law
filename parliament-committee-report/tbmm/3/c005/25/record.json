@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "25",
+  "label": "TBMM 25 no'lu Komisyon Raporu",
+  "title": "Türkiye-Afganistan muhadenet ve teşriki mesai muahedenamesinin tasdiki hakkında Kanun",
+  "document_date": "1928-11-29",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 5, birleşim 9)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c005/tbmm03005009ss0025.pdf",
+  "pdf_sha256": "bf2c86f044b4c9596c2b647dc4fd0c601f5ef6b4af6f292400ebdc2d674e1d40",
+  "pdf_bytes": 264419,
+  "pdf_pages": 3,
+  "index_entries": [
+    120166
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=2&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1928-11-29",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
