@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-06-08",
+  "issue": "25486",
+  "edition": "regular",
+  "item": 5,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "MEDAŞ-Meram Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040608-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (22 = 22)",
+  "ilan_codes": [
+    "7178/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040608-3.htm",
+  "category_page_sha256": "d664309bbbbeae98c8b2e2e2b6d268d73392a23ab2ba8264ce773a245d7bbc04",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040608.htm",
+  "index_sha256": "3fb43fd77735de75ff741044f8ef1e41802ec8b0d831c8d30cb779f1d0b96296",
+  "index_header": "8 Haziran 2004 ... Sayı : 25486",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
