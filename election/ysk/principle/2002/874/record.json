@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2002/874",
+  "list_number": "874",
+  "decision_date": "2002-11-07",
+  "title": "YSK ilke kararı 2002/874",
+  "summary": "Milletvekili adayı yaptığı itirazda, diğer partiler arasında 230-236 oy farkı olduğunu, numaralarını bildirdiği sandıklarda sayım dökümde yanlışlıklar yapıldığını, kendi oylarının geçersiz sayıldığını, birleştirme tutanaklarına oy sayısı geçirilirken hata yapıldığını, yeniden sayım ve döküm yapılması istemiş olması sonucu; ilçe seçim kurulları bu itirazı reddetmiş, il seçim kurulu ilçe seçim kurullarının itirazın reddine ilişkin kararları kaldırmış yeniden sayım ve döküm yapılmasını kararlaştırmıştır. İl seçim kurulu kararının sayım döküm yapılmasına ilişkin kısmının iptal edilmiş olması nedeniyle, birleştirme tutanaklarının incelenerek rakamsal hata olup olmadığının belirlenmesi gerekir.",
+  "concepts": "OYLARIN SAYIM VE DÖKÜMÜNE İTİRAZ,  GEREKÇESİ VE DELİLİ OLMAYAN İTİRAZLAR İNCELENMEZ, BİRLEŞTİRME TUTANAKLARININ TANZİMİNDE YANLIŞLIKLAR",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4167/2002-874-karar.htm",
+  "source_sha256": "be77599f7971be3de16e9ec43d35e043a93848f132a0e0a4b6a1e8ec02ecda26",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "2002-11-07",
+  "law_text_complete": true
+}
