@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 122415,
+  "assembly": "TBMM",
+  "term": 3,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "İktisat Vekâleti 1930 senesi bütçesinde 110.000 liralık münakale yapılması hakkında, İktisat Vekâleti 1930 senesi bütçesinde 181.623 liralık münakale yapılması hakkında, İktisat Vekâleti 1930 senesi bütçesinde 236.000 liralık münakale yapılması hakkında, Millî Müdafaa Vekâleti 1930 senesi hava bütçesinde 10.000 liralık münakale yapılması hakkında, Millî Müdafaa Vekâleti 1930 senesi deniz bütçesinde 183.000 liralık münakale yapılması hakkında, Adliye Vekâleti 1930 senesi bütçesinde 11.100 liralık münakale yapılması hakkında, iktisat Vekâleti 1930 senesi bütçesinde 40.000 liralık münakale yapılması hakkında, Emniyeti umumiye Umum Müdürlüğü 1930 senesi bütçesinde 13.500 liralık münakale yapılması hakkında, Maliye Vekâleti 1930 senesi bütçesinde 80.228 liralık münakale yapılması hakkında, Sıhhat ve içtimaî muavenet Vekâleti 1930 senesi bütçesinde 21.000 liralık münakale yapılması hakkında, Tapu ve kadastro Umum Müdürlüğü 1930 senesi bütçesinde 7.750 liralık münakale yapılması hakkında, Adliye vekaleti 1930 senesi bütçesinde 4.000 liralık münakale yapılmasına dair, Hariciye Vekâleti 1930 senesi bütçesinde 45.000 liralık münakale yapılması hakkında, Posta, telgraf ve telefon Umum Müdürlüğü 1930 senesi bütçesinde 31.000 liralık münakale yapılması hakkında kanun lâyinasıyle idare heyetinin, Riyaseticumhur 1930 senesi bütçesinde 3.000 liralık münakale yapılması hakkında kanun teklifine dair",
+  "title": "İktisat Vekâleti 1930 senesi bütçesinde 110.000 liralık münakale yapılması hakkında, İktisat Vekâleti 1930 senesi bütçesinde 181.623 liralık münakale yapılması hakkında, İktisat Vekâleti 1930 senesi bütçesinde 236.000 liralık münakale yapılması hakkında, Millî Müdafaa Vekâleti 1930 senesi hava bütçesinde 10.000 liralık münakale yapılması hakkında, Millî Müdafaa Vekâleti 1930 senesi deniz bütçesinde 183.000 liralık münakale yapılması hakkında, Adliye Vekâleti 1930 senesi bütçesinde 11.100 liralık münakale yapılması hakkında, iktisat Vekâleti 1930 senesi bütçesinde 40.000 liralık münakale yapılması hakkında, Emniyeti umumiye Umum Müdürlüğü 1930 senesi bütçesinde 13.500 liralık münakale yapılması hakkında, Maliye Vekâleti 1930 senesi bütçesinde 80.228 liralık münakale yapılması hakkında, Sıhhat ve içtimaî muavenet Vekâleti 1930 senesi bütçesinde 21.000 liralık münakale yapılması hakkında, Tapu ve kadastro Umum Müdürlüğü 1930 senesi bütçesinde 7.750 liralık münakale yapılması hakkında, Adliye vekaleti 1930 senesi bütçesinde 4.000 liralık münakale yapılmasına dair, Hariciye Vekâleti 1930 senesi bütçesinde 45.000 liralık münakale yapılması hakkında, Posta, telgraf ve telefon Umum Müdürlüğü 1930 senesi bütçesinde 31.000 liralık münakale yapılması hakkında kanun lâyinasıyle idare heyetinin, Riyaseticumhur 1930 senesi bütçesinde 3.000 liralık münakale yapılması hakkında kanun teklifine dair",
+  "first_sitting_date": "1931-01-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 24,
+      "sitting": 23,
+      "sitting_date": "1931-01-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c024/tbmm03024023.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c024/tbmm03024fih.pdf",
+      "pages": [
+        "46",
+        "55",
+        "60",
+        "63"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1561&v_gelecek_sayfa=1401&v_kullanici_id=27483795",
+  "source_sha256": "f40845383a88762bca885a365d51f41fabd42301844e01d48357878a530cf43f",
+  "in_force": "1931-01-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
