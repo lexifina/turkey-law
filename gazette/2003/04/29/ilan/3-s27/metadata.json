@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-04-29",
+  "issue": "25093",
+  "edition": "regular",
+  "item": 27,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Türkiye Radyo Televizyon Kurumu Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030429-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (28 = 28)",
+  "ilan_codes": [
+    "11966/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030429-3.htm",
+  "category_page_sha256": "23e4186d4f352778d6c5b54bd152dd2cbe37c231b6f61ae97bd32af11a6cf03b",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030429.htm",
+  "index_sha256": "08d702b2c4a78aeb6a45f3a7e681f62a4375a7bfd2bb954821bbd1e1f9c6eba7",
+  "index_header": "29 Nisan 2003 ... Sayı : 25093",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
