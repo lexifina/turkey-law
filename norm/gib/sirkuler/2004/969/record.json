@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-15 / 2004-15",
+  "source_id": 969,
+  "date": "2004-05-05",
+  "title": "Ticari Kazancın Tespiti Yönünden Özel Hesap Dönemi Tayin Olunan Mükelleflerce, Katma Değer Vergisi İndirimine Esas Belgelerin Kayıtlara Alınmasında Özel Hesap Döneminin, İndirimli Orana Tabi İşlemlerde Yüklenilen Ve Yılı İçerisinde Mahsubu Yapılamayan Ver",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/969",
+  "source_sha256": "0a5fd3966a9ccfe4b81a8f798de048fddc17e4c0686667a51b29de16a7d02a20",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
