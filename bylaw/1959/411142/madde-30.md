@@ -1,0 +1,2 @@
+Madde 30 – Fabrika ve imalathanelerin, alakalılarınca devamlı olarak işletme iznine esas olan vasıf ve şartlara uygun bir halde bulundurulması ve vukubulacak arıza ve noksanların akabinde giderilmesi şarttır.
+Ziraat Vekaletince yapılacak kontrollar sonunda fabrika ve imalathanelerde tesbit edilen noksanların Ziraat Vekaletince bunların mahiyetlerine göre belirtilecek müddetler içinde tamamlanması mecburidir.

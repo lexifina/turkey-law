@@ -1,0 +1,1 @@
+Muvakkat Madde 2 – Bu Nizamnamenin yürürlüğe girdiği tarihten önce yapılmış ve fakat muvakkat ruhsatnameye bağlanmamış imal ve kullanma ruhsatı taleplerinin tetkikinde; Ziraat Vekaletince yaptırılmış ve neticesi alınmış bulunan tahlil ve denemeler muteber sayılır. Diğer hususlarda Nizamname hükümleri aynen tatbik olunur.

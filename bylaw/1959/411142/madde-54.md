@@ -1,0 +1,1 @@
+Madde 54 – Ziraat Vekaleti, sabit ve seyyar fümigatuvarlar, uçaklar ve ben-zerleri gibi büyük ve ağır aletleri, nümune getirtmek ve memleket içinde denemeye tabi tutmak mecburiyetinden istisna edebilir. Bu takdirde 49 uncu maddede yazılı bulunanlara ilave olarak aranacak belgeler Ziraat Vekaletince ayrıca tesbit ve ilgililere tebliğ olunur.

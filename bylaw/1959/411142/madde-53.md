@@ -1,0 +1,2 @@
+Madde 53 – Sipariş izni verilen alet gümrüğe gelince, ithalatcının alete ve yedek parçalarına ait sevk faturasını kendisi tarafından tasdikli Türkçe tercümesi ile birlikte Ziraat Vekaletine ibraz etmesi ve sipariş izni ile kullanma ruhsatnamesinin tarih ve numaralarını bildirmesi lazımdır. Gümrüğe gelen alet ayrıca muayene ettirilerek kullanma ruhsatnamesine ve sipariş iznine esas olan hususlara uygunluğu anlaşıldığı takdirde Ziraat Vekaleti aletin gümrükten çekilmesine muvafakatını bildirir.
+Bu muvafakat verilmedikçe alet gümrükten çekilemez.

@@ -1,0 +1,1 @@
+Madde 71 – Ziraat Vekaletince yapılacak tetkikat sonunda uygun görüldüğü takdirde ihraç izni verilir. Bu izin; bir parti için ve azami 3 ay müddetle muteberdir. Ziraat Vekaletince takdir edilecek zaruri hallerde bu müddet bir misline kadar uzatılabilir.

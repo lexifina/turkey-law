@@ -1,0 +1,2 @@
+Madde 52 – Yukarıki maddede yazılı müracaat üzerine yapılacak tetkikatta o aletin veya aynı maksatla kullanılabilecek muadilinin kullanma zamanına nazaran memleket içindeki durumu ve imal imkanı, ithali teklif edilen aletin fiyatının uygun olup olmadığı, kullanma zamanına göre aletin ithal zamanının elverişli bulunup bulunmadığı gibi hususlar bilhassa nazara alınır.
+Tetkikattan müsbet netice alınması ve ithalin uygun olacağına Ziraat Vekaletince kanaat getirilmesi halinde sipariş izni verilir.

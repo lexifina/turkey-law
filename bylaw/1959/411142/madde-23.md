@@ -1,0 +1,1 @@
+Madde 23 – İşletme izni verilmiş fabrika veya imalalathanelerin sahibi tarafından kapatılması, sahip veya unvan değiştirilmesi hallerinde alakalılar durumu en az 15 gün evvel Ziraat Vekaletine bildirmekle mükelleftirler. Bu gibi hallerde eski izin iptal edilerek uygun görülürse yeni sahip ve unvan üzerinden tekrar izin verilebilir.

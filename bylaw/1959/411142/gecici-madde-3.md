@@ -1,0 +1,2 @@
+Muvakkat Madde 3 – 6968 sayılı kanunun mer'iyete girdiği tarihten bu Nizamnamenin mer'iyeti tarihine kadar verilmiş muvakkat ruhsatnameler, yeniden ücret alınmaksızın kati ruhsatnamelerle değiştirilir.
+Muvakkat ruhsatnamelere mesnet olan muamele ve belgelerde işbu Nizamname hükümlerine gören oksanlar bulunduğu takdirde, ilgililerin Ziraat Vekaletince yapılacak tebligat tarihinden itibaren 3 ay içinde bu noksanları tamamlamaları şarttır. Aksi halde, muvakkat ruhsatnameler değiştirilmez ve hükümsüz sayılır.
