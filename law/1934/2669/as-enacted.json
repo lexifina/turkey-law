@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2669",
+  "year": 1934,
+  "title": "Milli musiki ve temsil akademisinin teşkilat kanununun bazı maddelerinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-01-02",
+  "gazette_issue": "2896",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2896.pdf",
+  "source_sha256": "7e4c04366d0e44d2949eb157d55fedb5a70f6ea35dcc1384592442ad40b1d454",
+  "text_sha256": "975063c0c43286a70a8bf60c3c012dc821ead192c6eedd36eb052455ad36b9e8",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      198,
+      284
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402669.pdf",
+    "source_sha256": "e151b5474a6ebf7c764f6a723d8a1099da95a7249bff2df8d78d3759fde69642",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9009,
+    "bag": 0.8182,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8678,
+    "rg_words": 177,
+    "kd_words": 227,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
