@@ -1,0 +1,13 @@
+{
+  "number": "04-20/200-40",
+  "type": "Rekabet İhlali",
+  "decision_date": "2004-03-18",
+  "publication_date": "2004-08-02",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=7beb3e9a-2be1-409c-90bc-6eddf471f65e",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=967",
+  "pdf_sha256": "9c0968f9ec75810780c739051822ee1850bc4dc0c0e5c3040e7488b7dcf87f20",
+  "pdf_bytes": "334896",
+  "pages": "16",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
