@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8517",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "REVİZE EDİLEN TS 341 YEMEKLİK ZEYTİNYAĞI STANDARDININ DIŞ TİCARETTE ZORUNLU UYGULAMAYA KONULMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2004/21)",
+  "number": "8517",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2004/8517",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8517&MevzuatTertip=5",
+  "source_sha256": "bfc02cd2aaff75b1ef5ca5bcf83ee89c56c4496d10f574945ecc127fba362d5a",
+  "source_bytes": 162435,
+  "published": "2004-03-09",
+  "gazette": "25397",
+  "in_force": "2004-03-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.03.2004); own commencement article: \"Bu Tebliğ yayımı tarihinden üç ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden üç ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2703,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
