@@ -1,0 +1,563 @@
+Telekomünikasyon
+Kurumundan:
+Kriptolu
+Telsiz Sistemleri Yönetmeliği
+BİRİNCİ
+BÖLÜM
+Amaç,
+Kapsam, Dayanak ve Tanımlar
+Amaç
+Madde
+1 —Bu Yönetmeliğin amacı,
+2813 sayılı Telsiz Kanununa göre kamu kurum ve kuruluşlarının kriptolu
+telsiz sistemi kurma ve işletmesi ile bu cihazların standartları, imalatı,
+satışı, ithalatı veya ihracatı için kripto onayının verilmesi, kullanımı,
+kaydının tutulması, denetlenmesi, kontrolü, bakım ve onarımı, hizmetten
+çıkarılmasında uygulanacak usul ve esaslar
+ile yapılacak iş ve işlemleri belirlemektir.
+Kapsam
+Madde
+2 —Bu Yönetmelik, 2813 sayılı
+Telsiz Kanununa göre kamu kurum ve kuruluşlarının telsiz sistemleri üzerinden
+kriptolu haberleşme yapılmasına ilişkin usul ve esasların belirlenmesini
+kapsamaktadır. Ancak Türk Silahlı Kuvvetleri ve Milli İstihbarat Teşkilatı
+Müsteşarlığı bunun dışındadır.
+Hukuki
+Dayanak
+Madde
+3 —Bu Yönetmelik, 2813 sayılı
+Telsiz Kanununa dayanılarak hazırlanmıştır.
+Tanımlar
+Madde
+4 —Bu Yönetmelikte geçen;
+MSB.lığı
+: Milli Savunma Bakanlığını,
+Kurum
+: Telekomünikasyon Kurumunu,
+Gnkur.Bşk.lığı
+: Genelkurmay Başkanlığını,
+TÜBİTAK-UEKAE
+: Türkiye Bilimsel ve Teknik Araştırma Kurumu-Ulusal Elektronik ve Kriptoloji
+Araştırma Enstitüsünü,
+Kriptografi
+: Bilginin gizliliğinin sağlanması, bütünlüğünün korunması, erişilebilir
+olması, yetkisiz değiştirilememesi, kaynağının doğrulanması ve kaynağın
+kimliğini inkar edememesi gibi güvenlik hizmetlerinin yerine getirilmesiyle
+ilgili bilim dalını,
+Kripto
+: Kriptografiyle ilgili cihaz, ürün ve saireyi,
+Kriptolama
+: Kripto tekniklerinin kullanımını,
+Kriptolu
+Telsiz Cihazı: Dahili ve/veya harici kriptolama elemanı ile birlikte kullanılan
+sabit, mobil veya taşınabilir telsiz cihazını,
+Kriptolu
+Telsiz Sistemi : İçerisinde kriptolu telsiz cihazlarını ihtiva eden telsiz
+sistemini,
+Kripto
+Onayı: Kriptolu telsiz cihaz ve sistemlerinin TÜBİTAK-UEKAE’nın test sonuçlarına
+göre Gnkur.Bşk.lığı tarafından verilen onayı,
+Kripto
+Merkezi Onayı : Sabit veya mobil kripto merkezlerine, Gnkur.Bşk.lığı tarafından
+yapılacak kontrol ve denetlemeyi müteakip verilen onay belgesini,
+Kriptolu
+Haberleşme : Kriptolu telsiz cihazları ile kripto teknikleri kullanılarak gerçekleştirilen
+haberleşmeyi,
+3763
+sayılı Kanun : Türkiye’de Harp Silah ve Mühimmatı Yapan Hususi Sanayi Müesseselerin
+Kontrolü Hakkında Kanunu,
+Kontrole
+Tabi Tutulacak Malzeme: 3763 sayılı Kanun kapsamına giren malzemeyi,
+Kripto
+Algoritması : Kriptografik işlemlerin şifreleme, şifre çözme, kimlik doğrulama
+ve benzeri diğer adımlarında kullanılan tüm matematiksel fonksiyonlar ve
+protokollerini,
+Kripto
+Anahtarı : Bilginin kriptolanması ve çözülmesinde kullanılan ve
+algoritmaya uygulanan değişken karekter dizisini,
+Kripto
+Kleranslı Personel: Kripto ile ilgili hizmetlerde çalışmak üzere adına
+kripto güvenlik belgesi düzenlenen kişiyi,
+Tesis
+Güvenlik Belgesi: Savunma sanayii alanında faaliyet gösteren firma ve kuruluşlara
+Milli Savunma Bakanlığı tarafından verilen "MİLLİ" gizlilik
+dereceli belgeyi,
+Üretim
+Müsaade Belgesi: 3763 sayılı Kanun gereğince her yıl Ocak ayında Milli
+Savunma Bakanlığı tarafından Resmî Gazete’de yayımlanan, Kontrole Tabi
+Tutulacak Harp Araç, Gereç, Silah ve Mühimmatı Sanayii Listesi kapsamında
+üretim yapmak isteyen sanayi kuruluşlarından, aranan şartları karşılayanlara
+Milli Savunma Bakanlığınca verilen belgeyi,
+Standartlara
+Uygunluk Belgesi: Kurum test ve ölçüm laboratuvarında standartlara uygunluğu
+test edilerek onaylanan cihazlara verilen belgeyi,
+Teknik
+Dokümanlar: Cihaza ait teknik özellikleri içeren bilgileri, uygunluk değerlendirme
+belgelerini, RF, EMC ve LVD test raporlarını,
+RF
+(Radio Frequency) : Radyo Frekansını,
+EMC
+(Electromagnetic Compatibility) : Elektromanyetik Uyumluluğunu,
+LVD
+(Low Voltage Directive) : Düşük Voltaj Direktifini,
+ifade
+eder.
+İKİNCİ
+BÖLÜM
+Kriptolu
+Telsiz Sistemlerinin Kullanımı İçin Başvuru, İzin ve Onay
+Başvurularda
+Aranacak Hususlar ve Belgeler
+Madde
+5 —Kriptolu telsiz haberleşmesi
+yapmak isteyen kamu kurum ve kuruluşlarının aşağıda belirtilen bilgi ve
+belgelerle Kurum’a müracaat etmeleri gerekmektedir:
+a)
+Dilekçe,
+b)
+Kriptolu telsiz haberleşmesi ihtiyacını ayrıntılı olarak belirten gerekçe
+raporu,
+c)
+Harita veya ölçekli bir kroki üzerinde
+işaretlenmiş telsiz sistemi şeması,
+d)
+Mobil servis içerisindeki kara istasyonlarında kurulacak olan röle, sabit ve
+lokal alanda kullanılması halinde el telsizi cihazlarının ve sabit servis içinde
+kullanılacak sabit istasyonların kurulacağı yerlerin açık adresleri ve coğrafi
+koordinatları (Derece, Dakika, Saniye),
+e)
+Sistem türüne (hava, deniz, kara) göre doldurulmuş iki nüsha Kurum müracaat
+formu.
+Başvuruların
+Değerlendirilmesi
+Madde
+6 —Kuruma yapılan başvuruların
+değerlendirilmesi:
+a)
+Kurum tarafından Telsiz sistemi
+kurma talebi, ilgili mevzuat açısından değerlendirilerek, uygun görülen
+sistem için, kriptolu haberleşme açısından Gnkur.Bşk.lığı’ndan olumlu
+görüş alınmasını müteakip, sistem kurma izni verilir, frekans tahsisi yapılır
+ve izin yazısı
+ile birlikte müracaat formunun bir nüshası onaylanarak talep sahibine gönderilir.
+b)
+Yabancı devletlerin Türkiye’deki diplomatik temsilciliklerine münhasıran
+kendi hükümet merkezleri ile haberleşme yapmak veya kendi iç güvenlik amaçlarıyla
+kullanmak üzere mütekabiliyet esaslarına bağlı olarak kriptolu telsiz
+sistemi kurma ve işletme izni verilebilir. Bununla ilgili her türlü işlemler
+Dışişleri Bakanlığı kanalıyla yürütülür.
+c)
+Kurum, başvuruda bulunan kamu kurum veya kuruluşunun özelleştirme kapsamında
+olup olmadığını dikkate alır. Devletin hissesi % 51’in altında olanların
+müracaatları kabul edilmez. Devletin hissesi % 51’in altına düşmesi
+halinde ruhsat verilmiş olanların ruhsatı bu Yönetmeliğin 15 inci
+maddesinde belirtildiği şekilde iptal edilir.
+d)
+Tedarik işlemlerinde kullanılacak teknik şartname ve diğer dokümantasyonun
+kripto ile ilgili kısımları Gnkur.Bşk.lığı’nın uygun görüşü alınarak
+düzenlenir.
+e)
+Kamu kurum ve kuruluşları yukarıda belirtilen şartları sağladıktan sonra,
+kriptolu telsiz sistemini onayda belirtilen süre içinde kurabilir ve işletebilirler.
+Kripto
+Onayının Verilmesi
+Madde
+7 —Kriptolu telsiz
+sistemlerine kripto onayının verilmesinde aşağıdaki hususlar aranır:
+a)
+Telsiz sistemleri üzerinden kriptolu haberleşme yapmak üzere sadece kripto
+emniyeti test edilerek onay verilmiş kripto cihaz ve sistemleri kullanılır.
+Bu maksatla kullanılacak dahili veya harici kripto cihazları, bunların
+kriptografik algoritmaları ile kripto anahtarı üretme, dağıtma, yükleme
+sistem ve cihazları
+TÜBİTAK-UEKAE tarafından incelenir ve test edilir. Gnkur.Bşk.lığınca test
+sonuçlarına göre hangi gizlilik derecesine kadar kullanılabilir olduğunu
+belirten "kripto onayı" verilir,
+b)
+Kriptolu telsiz sistemlerinin kriptografik özellikleri dışında kalan her türlü
+teknik, ruhsat, tescil, frekans, imalat, ithalat, satış, bakım onarım ve
+benzeri hususlar hakkında ilgili mevzuat hükümleri uygulanır,
+c)
+Gnkur.Bşk.lığı tarafından uygun görüldüğü takdirde, TÜBİTAK-UEKAE
+tarafından sağlanacak Test Şartnamesine uygun dokümantasyon
+temin edilir.
+ÜÇÜNCÜ
+BÖLÜM
+Kriptolu
+Telsiz Kullanımı Usul ve Esasları ve İlgili Mali Hususlar
+Kriptolu
+Telsizlerin Kullanımı
+Madde
+8 —Telsiz sistemleri üzerinden
+kriptolu haberleşme yapmaya yetkili kurumlar 2813 sayılı Telsiz Kanununda
+belirtilmiştir. Bunun dışındaki kamu kurum ve kuruluşların hangi telsiz
+sistemleri üzerinden kriptolu haberleşme yapacağına Gnkur.Bşk.lığı tarafından
+karar verilir. Bu izne istinaden Kurum tarafından gerekli işlemler yapılır.
+Kriptolu telsiz cihaz ve sistemlerinin
+kamu kurum ve kuruluşları dışında amatör telsizcilere, gerçek ve tüzel
+kişilere pazarlama ve satışı yapılamaz.
+Ruhsat
+Alma Zorunluluğu
+Madde
+9 —Elektromanyetik dalgalar
+yoluyla haberleşme maksadıyla kullanılan ve her çeşit resim, ses ve veri
+almaya, vermeye veya kayda yarayan kriptolu telsiz alıcı, verici, alıcı/verici
+cihazlarının satış amacı dışında bulundurulması ve kullanılması için,
+Kurumdan ruhsat alınması zorunlu olup, kriptolu cihazların ruhsatlarına
+"Kriptolu Kullanılır" ibaresi eklenir.
+Telsiz
+Sisteminde Yapılacak Değişiklikler
+Madde
+10 —Ruhsat alarak kriptolu
+telsiz sistemlerini işletmekte olan kamu kurum ve kuruluşları tarafından, işletmekte
+oldukları telsiz sistemlerinde yapılabilecek değişiklik ile yeni işletme
+tipi veya mevcut sistemin ihtiyacı karşılamaması durumunda ilave cihaz alımı
+yapılabilmesi için, ilgili müracaat formu ile Kuruma müracaat ederek izin
+almak ve bu cihazlarını ruhsata kaydettirmek zorunludur. Yer değişikliği ve
+kriptolu cihaz ilavesi talepleri Kurum tarafından
+Gnkur.Bşk.lığı ile koordine edilerek yürütülür.
+Kullanıcılar
+tarafından telsiz cihazlarında kullanılan kripto algoritmasında ve kripto
+cihazlarında değişiklik ve tadilat yapılamaz.
+Kriptolu
+telsiz sistemlerinde yer, teknik özellik ve emisyon tiplerinin
+değiştirilmesi için aşağıdaki hususlar dikkate alınır:
+a)
+Kurumdan izin alınmadan cihazların teknik özelliklerinde herhangi bir değişiklik
+ve tadilat yapılamaz,
+b)
+Sistemdeki sabit bir istasyonun yerinin değiştirilmesi Kurumun iznine bağlıdır.
+Kara mobil servisinde çalışan kriptolu mobil istasyonlar ise ruhsatlarında
+belirtilen bölgelerin dışında çalıştırılamaz,
+c)
+Mobil serviste çalıştırılan kriptolu telsiz istasyonlarının emisyon
+tipleri değiştirilemez,
+d)
+Deniz ve hava mobil servislerinin özelliklerinden
+dolayı yer değiştirmelerinde bir sınırlama söz konusu değildir,
+e)
+Deniz ve hava mobil servisleri ile müşterek çalışan kara sabit ve sahil
+telsiz istasyonlarının görülen lüzum üzerine yer değişiklikleri yapılabilir.
+Ancak
+bu değişiklikler; verilen ruhsatlara da aktarılır ve Kuruma tasdik
+ettirilir. Bunun için ilgili kamu kurum ve kuruluşlarının Kuruma müracaat
+etmesi gerekmektedir.
+Kriptolu
+Telsiz Cihaz ve Sistemleri ile İlgili Mali Hususlar
+Madde
+11 —Kriptolu telsiz cihaz ve sistemleri ile ilgili
+ücretler Kurumun Telekomünikasyon Hizmetleri Ücret Tarifesine göre
+belirlenir. Bunun dışındaki mali hususlar konu ile ilgili kuruluşların
+mevzuatlarına göre uygulanır.
+DÖRDÜNCÜ
+BÖLÜM
+Denetim
+ve Kontrol Tedbirleri
+Emniyet
+ve Muhafaza Tedbirleri
+Madde
+12 —Kriptolu telsiz sistemi
+kullanan kamu kurum ve kuruluşları sistemin özelliğine istinaden aşağıda
+belirtilen hususlara riayet etmek zorundadır:
+a)
+Kriptolu telsiz sistemini kuran ve işleten kamu kurum ve kuruluşları
+sistemlerinin yetkisiz kimselerin eline geçmesi ve yetkisiz kişilerce kullanılmasını
+engelleyici muhafaza tedbirlerini almak zorundadır. Bu bağlamda; kriptolu
+telsiz sistemi ve cihazlarını kullanacak kişileri belirleyerek, kripto
+kleransı çıkartmak, bu kişilerin dışında yetkisiz kişilerin
+kullanımını önlemek için gerekli tedbirleri almak zorundadır,
+b)
+Kriptolu telsiz haberleşmesi yapan kamu kurum ve kuruluşları kriptografik
+ihlal ve sakatlanmalara karşı gerekli tedbirleri almakla yükümlüdür.
+Kriptolu
+Telsiz Sistemlerinin Denetimi ve Kontrolü
+Madde
+13 —Telsiz sistemlerinin
+verilen izinler çerçevesinde kullanımının denetlenmesi, kripto algoritması
+hariç olmak üzere Kurum tarafından yapılır. Kripto algoritması ya da
+sistem üzerinde, güvenliği etkileyici herhangi bir değişiklik yapılıp yapılmadığı,
+Kurum tarafından talep edildiği takdirde TÜBİTAK-UEKAE tarafından incelenir
+ve sonucu Kuruma bildirilir.
+Kamu
+kurum ve kuruluşlarına verilen ruhsat ve kullanma izinlerine göre tesis
+edilen ve işletilen her çeşit sistemin ve bu sistemlerde kullanılan cihazların
+kanun, yönetmelik ve ruhsatlarındaki kayıt ve şartlara uygunluğunu, ilgili
+denetleme formlarına göre yerlerinde denetlemeye Kurum yetkilidir. Ancak,
+gerekli hallerde TÜBİTAK-UEKAE’dan teknik destek alınır.
+Kurum,
+denetlemeye yetkili ve tanıtma
+kartı sahibi teknik elemanlardan oluşan ekipleri ile haberli veya habersiz
+olarak her telsiz sistemini her zaman denetleyebilir.
+Kurum
+tarafından kriptolu telsiz sistemi kurma izni verilirken, kullanıcılara gönderilen
+alınması gereken kripto emniyet ve muhafaza tedbirleri ile ilgili mevzuata
+uyulup uyulmadığı denetimlerde kontrol edilir.
+Denetlenen
+kamu kurum ve kuruluşları denetleme heyetine gereken kolaylığı göstermek
+zorundadır.
+Müeyyideler
+Madde
+14 —Yapılan denetim ve
+kontrollerde tespit edilen aykırılık durumlarında aşağıdaki hükümler
+uygulanır:
+a)
+Yapılan kontrollerde, proje uygulamaları ve kullanılan cihazların izin
+verilen özelliklere ve/veya bildirilen standartlara uymadığının tespiti
+halinde, tespit edilen aykırılıklar ve montaj hataları için satıcı ve
+kullanıcıya aykırılık ve hatanın giderilmesi için 45 gün süre verilir,
+b)
+İzinsiz cihaz ithal veya imal ederek satışını yapan kuruluşlar ile bu
+cihazları kullanan kuruluşların cihazları mühürlenerek gerekli yasal işlemler
+yapılır,
+c)
+Yapılan kontrollerde, sistem kurma izni öncesi Kurum tarafından verilmiş
+yetki belgesine sahip firmalardan cihaz alındığının tespiti veya izinsiz
+cihaz kullanıldığının tespiti halinde cihazın satıcı firmaya iadesi sağlanır.
+Ayrıca, Kurumca satıcı firmanın faaliyeti 6 ay süreyle geçici olarak
+durdurulur,
+d)
+Kurumdan gerekli izni almadan tarafların aralarında hibe, devir ve benzeri işlemlerle
+cihaz devretmeleri halinde cihazlar Kurum tarafından mühürlenir.
+e)
+Kurumdan ruhsat alınarak kurulmuş bulunan sistemlerde yer, teknik özellik ve
+emisyon tiplerinde izin alınmadan değişiklik yapılması halinde; telsiz
+sisteminin faaliyeti durdurulur, işletme izni iptal edilerek cihazların tamamı
+mühürlenir ve gerekli yasal işlemler yapılır. İlave izni alınmadan sisteme
+dahil edilen cihazların tespit edilmesi halinde de, ilgili cihazlar mühürlenerek
+gerekli yasal işlemler yapılır. Kurumdan izin alınmadan telsiz cihazlarının
+yer ve teknik özelliklerinde değişiklik yapılması halinde kullanıcıya
+sistemdeki değişiklikleri
+ruhsatında kayıtlı duruma getirmesi için 45 gün süre verilir.
+Yukarıda
+belirtilen aykırılıkların giderilmesi için verilen süre sonunda düzeltme
+yapılmaması veya aykırılığın düzeltilmesinin imkansız olduğunun
+tesbiti halinde verilen sistem kurma ve kullanma izni iptal edilerek cihazlar
+Kurum tarafından mühürlenir.
+İlgili
+hakkında 2813 sayılı Telsiz Kanunu ve 3763 sayılı Kanun uyarınca da
+gerekli yasal işlemler yapılır.
+İptal
+ve Çalınma
+Madde
+15 —Kriptolu telsiz
+sistemlerinin iptal ve çalınma durumunda aşağıda belirtilen işlemler yapılır:
+a)
+Kullanımdan kaldırma, kayıt silme ve iptal işlemleri;
+1)
+Kamu kurum ve kuruluşları kriptolu telsiz sistemlerinin kullanımdan kaldırmak
+istedikleri kısmı için Kurum’a müracaat ederler ve Gnkur.Bşk.lığının
+uygun görüşüne istinaden Kurum’un yetkili elemanları cihazları usulüne
+göre mühürler ve kullanma izinlerini iptal eder. İptal edilen telsiz
+sistemleri hakkında Gnkur.Bşk.lığı’na bilgi verilir,
+2)
+Kriptolu telsiz sistemi kullanma gerekçelerinin ortadan kalkması durumunda
+kriptolu telsiz kurma, tesis etme ve kullanma izinleri iptal edilmek üzere
+Gnkur.Bşk.lığı tarafından Kuruma bildirilir ve Kurum tarafından ilgililere
+verilen ruhsat iptal edilip gerekli işlemler yapılır,
+3)
+Kriptolu telsiz cihazlarının kullanılmasından tamamen vazgeçildiği
+hallerde durum Kuruma bildirilir. Kriptolu telsiz cihaz ve sistemlerinin kripto
+ile ilgili kısımları Gnkur.Bşk.lığının veya koordine sonucu uygun göreceği
+kuruluşun kripto kleranslı personeli tarafından usulüne uygun olarak imha
+edilerek zabıt tutulduktan sonra, Kurumdan alınacak belge ile cihazlar kullanıcıları
+veya ruhsat sahipleri tarafından, Kurumdan telsiz bakım onarım yetki belgesi
+alan telsiz bayilerine teslim edilir. Tarafların aralarında yaptıkları bu
+teslim tutanağını Kuruma getiren ruhsat sahiplerinin kullandıkları telsiz
+cihazları üzerindeki sorumlulukları sona erer ve ruhsatları iptal edilir.
+Kriptolu
+telsiz cihazları kullanılamayacak duruma geldiği takdirde ise kriptolu telsiz
+cihaz ve sistemlerinin kripto ile ilgili kısımları Gnkur.Bşk.lığının
+veya koordine sonucu uygun göreceği kuruluşun kripto kleranslı personeli
+tarafından usulüne uygun olarak imha edilerek zabıt tutulduktan sonra,
+Kurumdan alınacak belge ile cihazlar kullanıcıları veya ruhsat sahipleri tarafından,
+Makina Kimya Endüstrisi Kurumu Hurda İşletmesi Genel Müdürlüğüne teslim
+edilir. Buradan alınan tesellüm belgesini Kuruma getiren ruhsat sahiplerinin
+kullandıkları telsiz cihazları üzerindeki sorumlulukları sona erer ve
+ruhsatları iptal edilir,
+4)
+Kaydı silinen telsiz cihazları yerine yeniden telsiz kullanmak isteyen kuruluşlar
+Kuruma müracaat ederler.
+b)
+Cihazların çalınması durumundaki işlemler;
+1)
+İlgili kuruluş haberleşme güvenliği açısından kaybolan cihazlar ile
+ilgili olarak bu cihaz/sistemlerin kullanılmasını engelleyici gerekli önlem
+ve tedbirleri almak zorundadır. Ayrıca, konu ivedilikle ilgili güvenlik
+makamlarına bildirilerek tutanak tutulması sağlanır,
+2)
+İlgili kuruluş tarafından, güvenlik makamlarınca düzenlenen tutanak,
+ilgili Telekomünikasyon Kurumu Bölge Müdürlüğüne ivedilikle gönderilir,
+3)
+Konu Gnkur.Bşk.lığına bildirilir ve cihazı bulmaya yönelik izleme ve
+denetim işlemleri başlatılır.
+Kriptolu
+Telsiz Sistemlerin Kaydının Tutulması
+Madde
+16 —Kanunda belirtilen kriptolu
+haberleşme yapmaya yetkili kurumlar dışında, kriptolu telsiz kullanan kurum
+ve kuruluşların kullandığı sistem türü ile kullanılan cihaz, marka ve
+model ve seri numaraları Kurum tarafından kayıt altında tutulur.
+BEŞİNCİ
+BÖLÜM
+İmalat,
+Satış, İthalat, Bakım, Onarım ve İhracat
+Kriptolu
+Telsiz Cihaz ve Sistemlerinin İmalat ve Satış Yetki Belgeleri
+Madde
+17 —Kriptolu telsiz cihaz ve
+sistemlerinin imalatını yapacak kuruluşlar, kuruluş ve işletme açısından
+3763 sayılı Kanun ve mevzuat hükümlerine tabidir. Kurumdan kriptolu telsiz
+cihaz ve sistemleri için imalat ve satış yetki belgesi almak isteyen kuruluşların
+başvurularında aşağıdaki hususlar aranır:
+a)
+Kriptolu Telsiz Cihaz ve Sistemleri "İmalat Yetki Belgesi" için;
+1)
+MSB’den alınacak olan Tesis Güvenlik Belgesi ve Üretim
+Müsadesi Belgesini,
+2)
+Kriptolu telsizlerin üretileceği tesislerde, kripto ile ilgili faaliyetlerde
+çalışan ve kriptografik, bilgi, belge ve malzemelere nüfuz edecek personel için
+Gnkur.Bşk.lığından alınacak olan Kripto Güvenlik Belgesini,
+3)
+Kriptolu telsizlerin üretileceği tesislerde kripto ile ilgili faaliyetlerin
+yapıldığı kısımlar için Gnkur.Bşk.lığından alınacak olan Kripto
+Merkezi Onayını sağlayarak Kurumun ilgili mevzuat hükümleri çerçevesinde,
+resmi bir dilekçe ile Kuruma müracaat etmeleri
+gerekmektedir.
+b)
+Kriptolu Telsiz Cihaz ve Sistemleri "Satış Yetki Belgesi" için;
+1)
+Bu maddenin (a) bendinde belirtilen şartları yerine getirerek Kurumdan alınmış
+olan İmalat Yetki Belgesini,
+2)
+Cihazın kriptolu kısmı için Gnkur.Bşk.lığından alınacak olan Kripto
+Onay Belgesini,
+3)
+Cihazın telsiz kısmı için Kurumdan alınacak olan Standartlara Uygunluk
+Belgesini
+sağlayarak
+Kurumun ilgili mevzuat hükümleri çerçevesinde resmi bir dilekçe ile Kuruma
+müracaat etmesi gerekmektedir.
+Başvuruların
+incelenmesi sonucunda Kurum tarafından 2 yıl süreli olarak, İmalat ve Satış
+Yetki Belgesi düzenlenir.
+Kriptolu
+Telsiz Cihaz ve Sistemlerinin İthali
+Madde
+18 —Kriptolu telsiz cihaz ve
+sistemleri için İmalat Yetki Belgesine sahip kuruluşlar, kamu kurum ve kuruluşlarının
+ihtiyaçlarını yurt içinden karşılayamıyorlar ise:
+a)
+İthalatçı Yetki Belgesi için;
+1)
+Resmi müracaat dilekçesi,
+2)
+İmalat ve Satış Yetki Belgesi,
+3)
+İmalatçı tarafından tedariğin yurt içinden sağlanamadığına dair belge,
+ile birlikte müracaat etmeleri halinde Kurum tarafından "İthalatçı
+Yetki Belgesi" düzenlenir.
+b)
+Numune ithalat izni için;
+1)
+Resmi müracaat dilekçesi,
+2)
+İthalat izni verilecek olan kriptolu telsiz cihaz ve sistemlerinin menşei ile
+ilgili MSB.lığından alınacak olan onay yazısı,
+3)
+Marka, model ve fiyatını içeren orijinal proforma fatura,
+4)
+Teknik dokümanlar,
+ile
+birlikte müracaat etmeleri halinde, Kurum tarafından "Numune İthal İzni"
+düzenlenir.
+İthalatı
+müteakip, ithalatı yapan kuruluş, cihazın test edilebilmesi için Kurum
+laboratuvarlarına yönlendirilir. Kriptolu telsiz cihazlarının ithal edildiği
+ülkenin yetkili resmi kuruluşu tarafından hangi gizlilik derecesine kadar
+kullanılabileceğini gösteren Kripto Onay Belgeleri yurt içinde hangi
+gizlilik derecesinde
+kulanılabileceğinin değerlendirilmesi maksadıyla, Gnkur.Bşk.lığına gönderilerek
+görüşü alınır. Gerekli görüldüğünde cihazların TÜBİTAK-UEKAE tarafından
+test edilmesi istenebilir.
+c)
+Toplu ithalat izni için;
+1)
+Resmi müracaat dilekçesi,
+2)
+Toplu ithalat için düzenlenmiş
+fatura / proforma,
+3)
+Cihazın telsiz kısmı için Kurumdan alınacak olan Standartlara Uygunluk
+Belgesi,
+4)
+Cihazın kriptolu kısmı için Gnkur.Bşk.lığından alınacak olan Kripto
+Onay Belgesi,
+ile
+müracaat etmeleri halinde Kurum tarafından
+"Toplu İthal İzni" verilir.
+İthalatçı
+yetki belgesine sahip kuruluşlar, ithalatı müteakip 15 gün içerisinde
+ithalat envanterlerinin telsiz ile ilgili kısımlarını Kuruma, kriptolu kısımlarını
+da Gnkur.Bşk.lığına teslim eder.
+Kriptolu
+Telsiz Cihaz ve Sistemlerinin Satışı
+Madde
+19 —Kriptolu telsiz cihaz ve
+sistemlerinin imalatını ve ithalatını yapan kuruluşlar cihaz satışlarında
+aşağıda belirtilen hususlara uymak zorundadır:
+a)
+Satıcı kuruluş "İmalat ve Satış Yetki Belgesi"ne sahip olmalıdır,
+b)
+Satıcı kuruluş tarafından, satışı
+yapılan her kriptolu telsiz cihazına bu Yönetmeliğin 20 nci maddesine göre
+bakım ve onarım hizmeti sağlanır,
+c)
+Bakım ve onarımı yapılan cihazlarda Kurum tarafından onaylanmış
+standartlara veya sistem kurma izinlerine aykırı tadilat yapılamaz,
+d)
+Satışı yapılan her kriptolu telsiz cihazı ile birlikte, cihazın Türkçe
+montaj ve kullanma kılavuzu ve satışı yapan kuruluş tarafından tasdik
+edilmiş garanti belgesi alıcıya verilir,
+e)
+Alıcıya verilen fatura üzerinde cihazların marka, model ve seri numaraları
+açıkca belirtilir,
+f)
+Satılan kriptolu telsiz cihaz ve sistemlerinin ayar ve yerlerine montajı
+bizzat satıcı kuruluş tarafından yapılır. Bu durum, Kuruma satıcı ve
+kullanıcı tarafından müştereken gönderilecek olan sistem bildirim formu
+ile tespit edilir. Kriptolu telsiz cihaz ve sistemlerinin montaj ve ayarı ile
+ilgili her türlü sorumluluk satıcıya aittir,
+g)
+Kriptolu telsiz cihaz ve sistemlerinin imalat ve ithalat yetkisini almış
+kuruluşlar, cihaz satış yerleri dışında hiçbir yerde telsiz satışı
+yapamaz ve satış izni verilen yerler dahil hiçbir yerde faturasız telsiz
+cihazı bulunduramaz.
+Kriptolu
+Telsiz Cihaz ve Sistemlerinin Bakım ve Onarımı
+Madde
+20 —Kriptolu telsiz cihaz ve
+sistemlerinin bakım ve onarımı İmalat Yetki Belgesine ve Kurum mevzuat hükümlerine
+göre alınacak olan Bakım Onarım Yetki Belgesine sahip kuruluşlar tarafından
+yapılır.
+Kriptolu
+Telsiz Cihaz ve Sistemlerinin İhracatı
+Madde
+21 —Kriptolu telsiz cihaz ve
+sistemlerinin ihracatı Milli Savunma Bakanlığı tarafından 3763 sayılı
+Kanun ve ilgili mevzuata göre onay verilen firmalar tarafından yapılır.
+Kriptolu
+Telsiz Cihaz ve Sistemlerinin Standartlara Uygunluk Testleri
+Madde
+22 —Kriptolu telsiz cihaz ve
+sistemlerinin kripto ile ilgili kısımları TÜBİTAK-UEKAE
+tarafından, telsiz ile ilgili kısımları da Kurum tarafından standartlara
+uygunluk testine tabi tutulur.
+Yürürlük
+Madde
+23 —Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+Madde
+24 —Bu Yönetmelik hükümlerini Telekomünikasyon
+Kurulu Başkanı yürütür.
