@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7",
+  "decision_date": "2001-12-27",
+  "title": "2002 yılında doğal gaz safi satış hasılatı tutarından alınacak katılma payına ilişkin",
+  "resmi_gazete_date": "2001-12-29",
+  "resmi_gazete_number": "24625",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LiCxO7fqIdI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LiCxO7fqIdI="
+  ],
+  "source_sha256": "f4e12a8c9f418a2afdbfcba7616d08a56daeb92623cfd562ec2b1e1e5e546d58",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2001-12-27",
+  "law_text_complete": false
+}
