@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-06-06",
+  "issue": "25130",
+  "edition": "regular",
+  "item": 28,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "Ordu Devlet Hastanesi Satın Alma Komisyon Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030606-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (30 = 30)",
+  "ilan_codes": [
+    "17645/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030606-3-3.htm",
+  "category_page_sha256": "195f69bdee95bae85b848f37cd3b6cc94f05196685c7c59f7638e0865a11cefc",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030606.htm",
+  "index_sha256": "d8d3e19504d5ebcb59f9c6f9046825c7c8749817d11eec3937fb78338b463091",
+  "index_header": "6 Haziran 2003 ... Sayı : 25130",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
