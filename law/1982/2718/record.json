@@ -1,0 +1,78 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2718",
+  "year": 1982,
+  "title": "1.4.1933 Tarihli ve 2133 Sayılı Devlet Kitapları Mütedavil Sermayesi Hakkında Kanunun 2 nci Maddesine 7380 Sayılı Kanunla Eklenen ve 1733 Sayılı Kanunla Değiştirilen İkinci Fıkrasının Değiştirilmesine Dair Kanun",
+  "adopted": "1982-11-23",
+  "adopted_as_published": "23/11/1982",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.11.1982 No: 17881",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc065/kanunmgkc065/kanunmgkc06502718.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 65",
+  "committee_reports": [
+    {
+      "label": "MGK 462 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c007/mgk_01007121ss0462.pdf"
+    },
+    {
+      "label": "DM 152no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c011/dm__02011005ss0152.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 151260,
+      "title": "1.4.1933 Tarihli ve 2133 Sayılı Devlet Kitapları Mütedavil Sermayesi Hakkında Kanunun 2 nci Maddesine 7380 Sayılı Kanunla Eklenen ve 1733 Sayılı Kanunla Değiştirilen İkinci Fıkrasının Değiştirilmesine Dair Kanun",
+      "adopted_as_published": "23/11/1982",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc065/kanunmgkc065/kanunmgkc06502718.pdf",
+      "committee_reports": [
+        {
+          "label": "MGK 462 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c007/mgk_01007121ss0462.pdf"
+        },
+        {
+          "label": "DM 152no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c011/dm__02011005ss0152.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=401&v_kullanici_id=27483250",
+      "page_sha256": "4f51546c611149ff13cff28140d674ca4f2e25017752a080ee4650d493ac2ede"
+    },
+    {
+      "assembly": "Danışma Meclisi",
+      "term": null,
+      "kayit_no": 143642,
+      "title": "1.4.1933 Tarihli ve 2133 Sayılı Devlet Kitapları Mütedavil Sermayesi Hakkında Kanunun 2. Maddesine 7380 Sayılı Kanunla Eklenen ve 1733 Sayılı Kanunla Değiştirilen İkinci Fıkrasının Değiştirilmesine Dair Kanun",
+      "adopted_as_published": "23/11/1982",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc065/kanundmc065/kanundmc06502718.pdf",
+      "committee_reports": [
+        {
+          "label": "DM 152 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c011/dm__02011005ss0152.pdf"
+        },
+        {
+          "label": "MGK 461no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c007/mgk_01007120ss0461.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "0b8d3603bdcc20d55b13e922eedbe2d683ac1a8fef214d51a785d2dc18bf495a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4f51546c611149ff13cff28140d674ca4f2e25017752a080ee4650d493ac2ede",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1982-11-23",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 23/11/1982; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
