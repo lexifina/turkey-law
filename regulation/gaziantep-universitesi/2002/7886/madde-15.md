@@ -1,0 +1,1 @@
+Madde 15 — Gaziantep Üniversitesi Eğitim ve Araştırma Hastanesi sağlık uygulamalarında 2547 sayılı Kanun ve Yükseköğretim Kurulu kararları ile bu Yönetmelikte hüküm bulunmayan hallerde, Sağlık Bakanlığınca hazırlanan 13/1/1983 tarihli ve 17927 sayılı Resmî Gazete’de yayımlanan "Yataklı Tedavi Kurumları İşletme Yönetmeliği" hükümlerine tabidir.

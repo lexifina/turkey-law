@@ -1,0 +1,1 @@
+Geçici Madde 1 — Bu Yönetmeliğin yürürlüğe girmesiyle, 20/4/l990 tarihli ve 20498 sayılı Resmî Gazete’de yayımlanan Gaziantep Üniversitesi Eğitim, Araştırma ve Uygulama Hastanesi Yönetmeliği yürürlükten kaldırılmıştır.

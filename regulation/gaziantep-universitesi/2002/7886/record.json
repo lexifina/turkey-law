@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 17 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2002-08-11",
+      "11.08.2002",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 17 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24843",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2002-08-11",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/2002/7886",
+  "published": "2002-08-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7886&MevzuatTertip=5",
+  "source_bytes": 45998,
+  "source_id": "8.5.7886",
+  "source_sha256": "df23786724320990948de729ce58955f3acb4a11bb86dbd614fd34a4fd502f64",
+  "text_status": "as-enacted",
+  "title": "GAZİANTEP ÜNİVERSİTESİ SAĞLIK ARAŞTIRMA VE UYGULAMA\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 1863
+}
