@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3584",
+  "year": 1939,
+  "title": "Cenaze nakline mahsus Beynelmilel itilâfnameye iltihakımız hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-02-07",
+  "gazette_issue": "4126",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4126.pdf",
+  "source_sha256": "8125f93f4988ec4a2096147d2a37833cfecfcdb88131b2671ab73a5f4384bc39",
+  "text_sha256": "68afaa8b204bb42da977484f69cf02d4d3e2fb8b1e5f65a53bad3354015b0f2c",
+  "text_status": "ocr",
+  "pages": [
+    11,
+    12,
+    13
+  ],
+  "line_span": [
+    [
+      2275,
+      2556
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc019/kanuntbmmc019/kanuntbmmc01903584.pdf",
+    "source_sha256": "f79660077b77ffe490ce49223cc6e0aa4f1aba8cff2c8c912debb1e6ffda933e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.981,
+    "bag": 0.9331,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 1682,
+    "kd_words": 1694,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
