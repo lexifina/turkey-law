@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1497",
+  "year": 1929,
+  "title": "Berlin Büyükelçilik Binası ile Tahran Büyükelçiliği kışlık bina arsalarının satılması ve teferruatı hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-06",
+  "gazette_issue": "1209",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1209.pdf",
+  "source_sha256": "53dd83954bbda8654123de027a06c04ff5d1e61ed49797a307969d3c79753ad0",
+  "text_sha256": "6b91e13792ca5fc6756a6b379a7d697b1fceff910e92f4a6550914eb5ef885e0",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      70,
+      82
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701497.pdf",
+    "source_sha256": "135bf38f28e058f34fff13e72e838d481748e0719e2bc0d554577a0b6c62811f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9714,
+    "bag": 0.9186,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9767,
+    "rg_words": 88,
+    "kd_words": 86,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
