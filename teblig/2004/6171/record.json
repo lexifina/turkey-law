@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.6171",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 255)",
+  "number": "6171",
+  "path": "teblig/2004/6171",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6171&MevzuatTertip=5",
+  "source_sha256": "d199dd6ae2a977fd0fbce275abd5bf8f0e71d556c873eac3cfc50c521a962a4a",
+  "source_bytes": 225968,
+  "published": "2004-12-24",
+  "gazette": "25680",
+  "in_force": "2004-12-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.12.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5399,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
