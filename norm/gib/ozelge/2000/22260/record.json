@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2924-232-2347-17772",
+  "source_id": 22260,
+  "date": "2000-04-18",
+  "title": "Mükellefiyet türünde değişiklik olması nedeniyle kollektif şirket adına basılan belgelerin limited şirket bünyesinde kullanılmasının mümkün olup olmadığı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22260",
+  "source_sha256": "240fbaa3ee855448a17c83786c6a0bc952d2993466a1fb866256a4982433cdf2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
