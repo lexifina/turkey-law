@@ -1,0 +1,13 @@
+{
+  "number": "03-64/768-355",
+  "type": "Rekabet İhlali",
+  "decision_date": "2003-10-02",
+  "publication_date": "2004-04-15",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=5fb77000-fdb5-40f4-a176-6fd2611f01bb",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=983",
+  "pdf_sha256": "a9c565b0ae84913f917c763b111fc3b588292205777224a81dca9d8653073233",
+  "pdf_bytes": "237529",
+  "pages": "7",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
