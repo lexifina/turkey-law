@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6342-283/58331",
+  "source_id": 38169,
+  "date": "1999-12-30",
+  "title": "A.Ş.'nin kullanacağı fon kaynaklı yatırım kredisine ilişkin sözleşmenin tasdik işlemi  damga vergisinden ve harçtan istisnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38169",
+  "source_sha256": "2a65000a805e0acf745fd6462466591962a2d834d336128f4155aa419ec0baf6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
