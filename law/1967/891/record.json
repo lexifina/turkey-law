@@ -1,0 +1,190 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "891",
+  "year": 1967,
+  "title": "Tekel Genel Müdürlüğü döner sermayesinin 1 750 000 000 liraya çıkarılması hakkında Kanun",
+  "adopted": "1967-06-29",
+  "adopted_as_published": "29/06/1967",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "08.07.1967 No: 12642",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000891.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 50",
+  "committee_reports": [
+    {
+      "label": "MM 184 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016098ss0184.pdf"
+    },
+    {
+      "label": "CS 943no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042079ss0943.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 362672,
+      "title": "Tekel Genel Müdürlüğü döner sermayesinin 1 750 000 000 liraya çıkarılması hakkında Kanun",
+      "adopted_as_published": "29/06/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000891.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 184 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016098ss0184.pdf"
+        },
+        {
+          "label": "CS 943no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042079ss0943.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 9,
+          "sitting": 1,
+          "sitting_date": "1966-11-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c009/mm__02009001.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c009/mm__02009fih.pdf",
+          "pages": [
+            "2"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 32,
+          "sitting_date": "1967-01-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c011/mm__02011fih.pdf",
+          "pages": [
+            "183"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 98,
+          "sitting_date": "1967-05-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016098.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016fih.pdf",
+          "pages": [
+            "590:595",
+            "614",
+            "617:620"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 99,
+          "sitting_date": "1967-05-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017099.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017fih.pdf",
+          "pages": [
+            "10",
+            "37:38",
+            "47:50"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 100,
+          "sitting_date": "1967-05-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017100.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017fih.pdf",
+          "pages": [
+            "66",
+            "90:94"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 101,
+          "sitting_date": "1967-05-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017101.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017fih.pdf",
+          "pages": [
+            "105",
+            "136",
+            "141:144"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 102,
+          "sitting_date": "1967-05-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017102.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017fih.pdf",
+          "pages": [
+            "147:148",
+            "186:190"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1201&v_kullanici_id=27483225",
+      "page_sha256": "2a5e87afe32fdcc520e9a23a080355d8d2bbd886ef1825be8899987216e9bee9"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 304966,
+      "title": "Tekel Genel Müdürlüğü döner sermayesinin 1 milyar 750 milyon liraya çıkarılması hakkında Kanun",
+      "adopted_as_published": "29/06/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000891.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 184 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016098ss0184.pdf"
+        },
+        {
+          "label": "CS 943no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042079ss0943.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 40,
+          "sitting": 61,
+          "sitting_date": "1967-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040061.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040fih.pdf",
+          "pages": [
+            "247",
+            "466"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 79,
+          "sitting_date": "1967-06-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042079.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042fih.pdf",
+          "pages": [
+            "101:102",
+            "112",
+            "117:118"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=801&v_kullanici_id=27483235",
+      "page_sha256": "4f72905639da7d625721d8c8ff2722359dda2b185911b18822f5590e408f44b9"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2a5e87afe32fdcc520e9a23a080355d8d2bbd886ef1825be8899987216e9bee9",
+  "issuer": "Millet Meclisi",
+  "in_force": "1967-06-29",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 29/06/1967; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
