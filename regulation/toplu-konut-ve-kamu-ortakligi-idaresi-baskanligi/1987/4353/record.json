@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.4353",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "506 SAYILI KANUNA TABİ SiGORTALILARA VE BUNLARIN EMEKLİLERİNE AÇILACAK FAİZSİZ KONUT KREDİSİ YÖNETMELİĞİ",
+  "number": "4353",
+  "issuer": "Toplu Konut ve Kamu Ortaklığı İdaresi Başkanlığı",
+  "issuer_slug": "toplu-konut-ve-kamu-ortakligi-idaresi-baskanligi",
+  "path": "regulation/toplu-konut-ve-kamu-ortakligi-idaresi-baskanligi/1987/4353",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4353&MevzuatTertip=5",
+  "source_sha256": "3ac443d62ecb4039c56cc843329a82e1840388bed1f9857db7dae28873092da6",
+  "source_bytes": 95078,
+  "published": "1987-02-12",
+  "gazette": "19370",
+  "in_force": "1988-02-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/2/1988\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "1988-02-26",
+      "RG-26/2/1988",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1364,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
