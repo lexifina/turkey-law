@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4914",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Hırvatistan Cumhuriyeti Hükümeti Arasında Sağlık Alanında İşbirliğine Dair Anlaşmasının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-07-05",
+  "gazette_issue": "25159",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030705.htm",
+  "source_sha256": "8c38f3f9781731144ac194a8f320c244d34ed28715a0e87c464cf1d2613854de",
+  "text_sha256": "17d5308ed709703f98578fca067c097dd676b8c8176e758b409d929470de32c1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/07/05/25159-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030705.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
