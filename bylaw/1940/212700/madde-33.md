@@ -1,0 +1,1 @@
+Madde 33 – Heyetin tetkik neticesinde vereceği karar, ihracatçı veya mümessil tarafından ileri sürülen itirazı haklı gösterdiği takdirde ihracatçısına karara göre taayyün eden dereceden bir kontrol vesikası verilir ve bu takdirde zabıt varakasının, heyetin kararını da ihtiva eden bir nüshası, malümat olmak üzere Ticaret Vekaletine gönderilir.

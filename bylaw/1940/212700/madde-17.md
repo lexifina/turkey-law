@@ -1,0 +1,1 @@
+Madde 17 – 11 ila 14 üncü maddelerde sözü geçen tablonun -3 ila 8 - numaralı sütunlarında yazılı arpa vasıflarının icap edenlerinde mahsul vaziyetini gözönüne almak ve on beş gün evvel ilan etmek şartiyle değişiklik yapmağa Ticaret Vekaleti salahiyettardır.

@@ -1,0 +1,1 @@
+Madde 5 – Arpanın hususi ve umumi depolarda, temizleme yerlerinde ve mümkün oldukça demiryolu ve gemi ambarlarında rutubetten müteessir olacak şartlar altında ve koku neşredici veya ambalajları kirletici maddelerle bir arada bulundurulmaması ve fena koku sinmiş ve kirli vagon ve mavnalara konulmaması lazımdır.

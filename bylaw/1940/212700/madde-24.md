@@ -1,0 +1,1 @@
+Madde 24 – İhraç edilecek arpalar için, kontrol vesikası ibraz edilmedikçe, menşe şahadatnamesi verilemez. Menşe şahadatnamelerine, kontrol vesikasında yazılı sınıf ve derece kayıtları derc ve bulunduğu takdirde, diğer meşruhat da ilave olunur.

@@ -1,0 +1,1 @@
+Madde 36 – Memleket içinde ve dışında harb hali, seferberlik ve seferberliğe hazırlık veya tabii afetler gibi mucbir sebepler altında bu Nizamnamede yazılı tolerans miktarları Ticaret Vekaletince iki misline kadar artırılabilir.

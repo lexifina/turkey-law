@@ -1,0 +1,1 @@
+Madde 15 – Talep vukuunda, beyaz arpa ve ova arpası, sınıflarına dahil arpalardan, Vekalet Laboratuvarında analiz yapılarak, 16 ncı maddede yazılı evsafı haiz oldukları görülenler için (Biralık arpa) vesikası verilir.
