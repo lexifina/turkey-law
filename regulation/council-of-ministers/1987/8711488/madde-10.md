@@ -1,0 +1,2 @@
+İşletme Görevlerinin Üçüncü Şahıs ve Şirketlere Yaptırılması
+Madde 10 – İşletme hakkını devralan görevli şirketler, işin ekonomisi yönünden bir kısım işletme hizmetlerini, Bakanlığın muvafakatını aldıktan sonra üçüncü şahıs veya şirketlere yaptırabilirler. Bu görevlendirmeden dolayı görevli şirketler, bu Yönetmelikte ve işletme hakkı verilmesi sözleşmesinde belirtilen yükümlülüklerden kurtulamazlar.
