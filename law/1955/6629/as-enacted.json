@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6629",
+  "year": 1955,
+  "title": "5441 sayılı Devlet Tiyatrosu kuruluşu hakkındaki Kanunun 5, 8 ve 10 ncu maddelerinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1955-05-31",
+  "gazette_issue": "9016",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9016.pdf",
+  "source_sha256": "0a34026be05ec21e870615942f51f7faac46186d566463a9459567f14da111a8",
+  "text_sha256": "f46502777adfb4853e3189bc3619dfab44c75db8b9abef4054c264f9c12ff37d",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      723,
+      764
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706629.pdf",
+    "source_sha256": "dbf5fe1b5dd539e3bb51fc1ed7d120a067a3c05ef73c93ea8ddf662c51dcfda3",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9796,
+    "bag": 0.9135,
+    "kd_coverage": 0.9955,
+    "kd_body_compared": 0.9868,
+    "rg_words": 227,
+    "kd_words": 227,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
