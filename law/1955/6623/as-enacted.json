@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6623",
+  "year": 1955,
+  "title": "Türk Havayolları Anonim Ortaklığı Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1955-05-31",
+  "gazette_issue": "9016",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9016.pdf",
+  "source_sha256": "0a34026be05ec21e870615942f51f7faac46186d566463a9459567f14da111a8",
+  "text_sha256": "b0bc223ec2691889a2c7534b17623f58b4483a8482a6c249374a9e1e23ea1364",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      9,
+      222
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706623.pdf",
+    "source_sha256": "ab5cbbd13e314cd8d94dcd4cd117531ae24c13036b1c8baeaf1b6cc18a3f5682",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9787,
+    "bag": 0.9383,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9986,
+    "rg_words": 1407,
+    "kd_words": 1415,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
