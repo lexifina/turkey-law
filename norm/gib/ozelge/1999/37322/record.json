@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6605-174/6253",
+  "source_id": 37322,
+  "date": "1999-02-23",
+  "title": "Tellallık harcı belediyece görevlendirilecek bir yetkili vasıtasıyla mal veya mahsulü mahkeme kanalı ile satılan gerçek veya tüzel kişiden veya bu kişi adına mahkemeden satış anında defaten makbuz mukabilinde tahsili gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37322",
+  "source_sha256": "ddd3f213dbce621dff300f8c347d8dcfa95435d813924bfc3b5be355b3ea08f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
