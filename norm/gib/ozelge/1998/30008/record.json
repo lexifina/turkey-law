@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5217-19/49052",
+  "source_id": 30008,
+  "date": "1998-12-22",
+  "title": "Bakanlar Kurulunca vergi muafiyeti tanınan Vakfın öğrenci yurdu işletmesinin KDV'den müstesnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30008",
+  "source_sha256": "3d36cd8eb2ef6cdf25809201f374f83e5023272cb9bdc76316dc3d5ebc6a9ece",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
