@@ -1,0 +1,1 @@
+Madde 16 – Türkiye'de mukim ecnebi elçi, maslahatgüzar, elçilik müsteşar ve katipleri ile ataşelerinin ve vazifesi Türkiye'de olan ecnebi başkonsolosları, konsolos ve muavinleri ile fahri konsolosların kimlik belgelerini (Dışişleri Bakanlığımızdan veya valiliklerimizden verilmiş olacaktır.) İbraz etmek suretiyle gemilere girmeleri caizdir.

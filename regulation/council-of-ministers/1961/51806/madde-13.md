@@ -1,0 +1,1 @@
+Madde 13 – Resmi heyetlerle resmi şahısları uğurlamaya veya karşılamaya memur edilip 14 üncü maddede sayılan zevat dışında kalanların Emniyet ve Gümrük Baş Müdürünün verecekleri müşterek belge ile gemilere girmeleri mümkündür.

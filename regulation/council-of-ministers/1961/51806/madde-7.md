@@ -1,0 +1,1 @@
+Madde 7 – Bu izin belgeleri ile yalnız yolcu salonundan ve gümrük kontrolüne tabi tutulan yerlerden gemilere girip çıkılır. Giriş ve çıkışta vazifeli zabıta ve gümrük muhafaza memurlarına, icabında askeri ulaştırma kumandanları veya bunların vazifelendirdiği kimselere belgenin gösterilmesi mecburidir.

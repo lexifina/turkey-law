@@ -1,0 +1,1 @@
+Madde 15 – Cumhuriyet Senatosu üyeleri ile milletvekilleri yolcu salonunda ve iç kapısındaki ve gemi merdivenindeki memurlara lüzum hissettikleri hallerde hüviyetlerini göstermek suretiyle serbestçe gemiye girip çıkabilirler.

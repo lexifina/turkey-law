@@ -1,0 +1,1 @@
+Madde 1 – Milli emniyetimizin ve gümrük haklarımızın korunması ve giriş çıkışa ait nizamın disiplin altında cereyanını sağlamak maksadiyle yabancı limanlara gidip gelen gemilerimizle limanlarımıza gelen ecnebi gemilere iş icabı veya başka sebeplerle girip çıkmak isteyen ilgililer hakkında bu Yönetmelik hükümleri uygulanır.

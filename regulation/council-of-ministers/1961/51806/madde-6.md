@@ -1,0 +1,1 @@
+Madde 6 – Mezkür belge sahibi yabancı ise 2007 sayılı kanunla ecnebilere yasak olan işleri yapamaz. Yaptığı takdirde hakkında gerekli kanuni muamele ifa edilmekle beraber belgesi geri alınır ve bir daha yenisi verilmez.

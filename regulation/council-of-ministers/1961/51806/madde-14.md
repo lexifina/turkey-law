@@ -1,0 +1,1 @@
+Madde 14 – Mahallin en büyük mülki ve askeri amirleriyle, Örfi İdare, Mahalli Mıntaka, Merkez, Deniz, Hava Kuvvetleri Kumandanları ile Emniyet Müdürü ve Jandarma Kumandanı, Cumhuriyet Savcısı, Bölge Liman ve Deniz İşleri Müdürleri ve Liman Başkanları, Devlet Demir Yolları İşletmesi Müdür ve muavinleri izin belgesiz olarak gemilere serbestçe girip çıkabilirler.

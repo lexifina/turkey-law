@@ -1,0 +1,4 @@
+Yolcu salonlarında vazifelilerle uğurlamak ve karşılamak maksadiyle gemilere girecek eşhasa tatbik olunacak muamele
+Madde 10 – Geliş ve gidişte yolcu gemilerine yalnız hasta ve malül olan yolcularına refakat etmesi gereken yakınları mahallin en yüksek zabıta amiri ile Gümrük Başmüdürlüğünden alacakları müşterek müsaade kağıdı ile girebileceklerdir.
+Resmi bir vazife ile giden veya gelen Türk veya ecnebi şahsiyetleri yolcu etmek veya karşılamak zaruretinde olanlara da keza zabıta amiri (Emniyet Müdürü, olmayan yerlerde jandarma kumandanı) ile Gümrük Baş Müdüründen alacakları müşterek imzalı müsaade kağıdı ile gemilere girmelerine müsaade edilecektir.
+Gümrük Baş Müdürü, zabıta amiri tarafından imza edilecek belgeler münhasıran yukardaki iki hususta zabıta amiri ve gümrük baş müdürü, bulunmadığı takdirde muavini ile alakalı şube müdürü veya Salon Gümrük Müdürü tarafından imza edilecek ve kime verildiği de her iki makama bildirilecektir.

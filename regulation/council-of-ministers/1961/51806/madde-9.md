@@ -1,0 +1,1 @@
+Madde 9 – Zabıta ve Gümrük Teşkilatlarınca yapılan tahkikat ve tetkikat sonunda haklarında müsbet netice elde edilemiyenlerin gemilere girmelerine müsaade edilmez. Evvelce belge almış olup sonradan kaçakcılık vesair sebeplerle gemilere girmeleri mahzurlu olan kimselerin belgeleri geri alınır ve bir daha yenisi verilmez.

@@ -1,0 +1,1 @@
+Madde 19 – Gemilerde vazifeli olduğuna dair mensup bulundukları elçiliklerin veya konsoloslukların resmi mektubunu hamil olan elçilik ve konsolosluk mensuplarının da emniyet müdürü ile gümrük başmüdürünün müşterek müsaadesi ile gemilere girmelerine mani olunmıyacaktır.
