@@ -1,0 +1,79 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3801",
+  "year": 1992,
+  "title": "Ceza Muhakemeleri Usulü Kanunu ile Devlet Güvenlik Mahkemelerinin Kuruluş ve Yargılama Usulleri Hakkında Kanunun Bazı Maddelerinde Değişiklik Yapılmasına, Polis Vazife ve Salahiyet Kanununun ve Terörle Mücadele Kanununun Bazı Hükümlerinin Yürürlükten Kaldırılmasına Dair Kanun",
+  "adopted": "1992-05-21",
+  "date_basis": "last-sitting",
+  "official_gazette_as_published": "geri gönderme No:",
+  "committee_reports": [
+    {
+      "label": "TBMM 83 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c011/tbmm19011079ss0083.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 256537,
+      "title": "Ceza Muhakemeleri Usulü Kanunu ile Devlet Güvenlik Mahkemelerinin Kuruluş ve Yargılama Usulleri Hakkında Kanunun Bazı Maddelerinde Değişiklik Yapılmasına, Polis Vazife ve Salahiyet Kanununun ve Terörle Mücadele Kanununun Bazı Hükümlerinin Yürürlükten Kaldırılmasına Dair Kanun",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [
+        {
+          "label": "TBMM 83 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c011/tbmm19011079ss0083.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 71,
+          "sitting_date": "1992-04-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c010/tbmm19010071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c010/tbmm19010fih.pdf",
+          "pages": [
+            "111"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 76,
+          "sitting_date": "1992-05-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c011/tbmm19011076.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c011/tbmm19011fih.pdf",
+          "pages": [
+            "91"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 79,
+          "sitting_date": "1992-05-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c011/tbmm19011079.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c011/tbmm19011fih.pdf",
+          "pages": [
+            "326:349"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5",
+  "issuer": "TBMM",
+  "in_force": "1992-05-21",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (1992-05-21); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
