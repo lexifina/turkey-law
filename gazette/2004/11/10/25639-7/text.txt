@@ -1,0 +1,805 @@
+Enerji
+Piyasası Düzenleme Kurumundan:
+Elektrik
+İletim Sistemi Arz Güvenilirliği
+ve
+Kalitesi
+Yönetmeliği
+BİRİNCİ
+BÖLÜM
+Amaç,
+Kapsam, Hukuki Dayanak ve
+Tanımlar
+Amaç
+Madde
+1- Bu Yönetmeliğin
+amacı; elektrik iletim sisteminin güvenilir ve düşük maliyetli olarak
+planlanması, işletilmesi ve tüketicilere kaliteli, yeterli ve düşük
+maliyetli elektrik enerjisi arzedilebilmesi için uygulanacak arz güvenilirliği
+ve kalitesi koşullarına ilişkin usul ve esasların belirlenmesidir.
+Kapsam
+Madde
+2- Bu Yönetmelik;
+elektrik iletim sistemine ilişkin tasarım esasları, arz kalitesi koşulları
+ve işletme esasları ile üretim şalt tesislerine ilişkin tasarım esasları
+hakkında TEİAŞ ve iletim sistemi kullanıcılarının uymaları gereken
+hususları kapsar.
+Hukuki
+Dayanak
+Madde
+3- Bu Yönetmelik, 4628
+sayılı Elektrik Piyasası Kanununa dayanılarak hazırlanmıştır.
+Tanımlar
+Madde
+4- Bu Yönetmelikte geçen;
+Başkan:
+Enerji Piyasası Düzenleme Kurulu Başkanını,
+TEİAŞ:
+Türkiye Elektrik İletim Anonim Şirketini,
+UCTE:
+Elektrik İletimi Koordinasyon Birliğini,
+Arz
+Kapasitesi Kaybı: Elektrik
+üretim ve iletim sisteminde, ortaya çıkan arz kapasitesindeki azalmayı,
+Ayırıcı:
+Yüksüz elektrik devrelerini açıp kapayan cihazı,
+Bağlantı
+Noktası: Kullanıcıların bağlantı anlaşmaları uyarınca sisteme bağlandıkları
+saha veya irtibat noktasını,
+Bara:
+Aynı gerilimdeki fiderlerin bağlandığı iletkeni,
+Bara
+Kuplajı: Aynı gerilimdeki
+iki baranın kesici, ayırıcı, gerektiğinde seri reaktör yardımı ile
+birbirine bağlanmasını,
+Birincil
+veya (N-1) Kısıtlılık:
+İletim sisteminin herhangi bir ekipmanının veya birbirlerine bağımlı
+ekipman grubunun arıza nedeniyle devre dışı olması halini,
+İkincil
+veya (N-2) Kısıtlılık: İletim sisteminin birbirinden bağımsız iki
+ekipmanının arızalar nedeniyle aynı anda devre dışı olması halini,
+Çaprazlama:
+İletim hattının faz empedanslarının dengelenebilmesi için iletkenlerin,
+hattın uzunluğunun yaklaşık 1/3 ve 2/3 oranındaki noktalarında birbirleri
+ile yer değiştirmesini,
+Dalgalı
+Yük: Farklı genliklerde kesintili akım çeken ve şebeke gerilim dalga şeklini
+bozan değişken empedanslı yükü,
+Devre
+Dışı Olma: Tesis ve/veya
+teçhizatın bir parçasının bakım, onarım veya bir arıza nedeniyle
+otomatik veya elle devre dışı olmasını,
+Fider:
+Bir merkez barasından müşteri veya müşteriler grubuna enerji taşıyan hat
+veya kablo çıkışlarını,
+Frekans:
+Sistemdeki alternatif akımın Hertz olarak ifade edilen bir saniyedeki devir
+sayısını,
+İletim
+Devresi: İletim sisteminin iki ya da daha fazla kesici arasında kalan bölümünü,
+İletim
+Ekipmanı: İletim sistemine ait devre, bara ve şalt teçhizatını,
+İletim
+Sistemi: Elektrik iletim tesisleri ve şebekesini,
+İlgili
+Mevzuat: Elektrik piyasasına ilişkin kanun, yönetmelik, tebliğ, genelge,
+Kurul kararları ile ilgili tüzel kişilerin sahip olduğu lisans veya lisanları,
+Kesici:
+Yük altında veya arıza
+durumlarında elektrik devrelerini açıp kapamak için kullanılan cihazı,
+Kısa
+Devre Gücü: Kısa devre edilen bir baradan ortaya çıkan en yüksek görünür
+gücü,
+Kullanıcı:
+Üretim faaliyeti gösteren tüzel kişileri, dağıtım şirketlerini, enerji
+ithal, ihraç eden tüzel kişileri ve serbest tüketicileri,
+Kuranportör:
+Yüksek gerilim şebekesinde iki veya daha fazla istasyon arasında yüksek
+gerilim hatları üzerinden haberleşmeyi sağlamaya yönelik elektronik cihazı,
+Normal
+İşletme Koşulu: Gerilim,
+frekans ve hat akışlarının belirlenen sınırlar içinde olduğu, yük
+taleplerinin karşılandığı, yan hizmetlerin sağlandığı ve sistemin
+kararlı bir şekilde çalıştığı işletme koşulunu,
+Otomatik
+Üretim Kontrolü: Üretim
+veya talepteki bir değişime karşı sekonder frekans kontrolü sağlamak için
+üretim tesislerinin hız regülatörlerine gerekli sinyalleri gönderen ve
+jeneratörlerin MW çıkışlarını ayarlayan Milli Yük Tevzi Merkezindeki
+kontrol sistemi donanım ve yazılımı,
+Seri
+Kapasitör: Seri bağlı
+bulunduğu hatta, empedansı düşürerek sistem stabilitesini artırmak için
+kullanılan kapasitör grubunu,
+Seri
+Reaktör: Bağlı bulunduğu
+fiderde, akımı sınırlandırmak için kullanılan sargıyı,
+Sistem
+Acil Durum Şartları: Üretim,
+iletim, dağıtım tesis ve teçhizatının birden fazlasının devre dışı
+olması ile ortaya çıkan olağanüstü sistem işletme koşullarını,
+Stratejik
+Tesisler: Askeri tesisler ve
+havaalanı gibi tesisleri,
+Şönt
+Kapasitör: Reaktif güç üreten, sisteme paralel bağlı kondansatör grubunu,
+Şönt
+Reaktör: Bağlı bulunduğu hat, transformatör veya baradan reaktif güç çeken
+ve gerilim düşürmek için kullanılan sargıyı,
+Termik
+Kapasite: Belirli koşullar
+altında bir devre üzerinden akmasına izin verilen enerji miktarını,
+Tesis:
+Elektrik enerjisi üretimi, iletimi veya dağıtımı işlevlerini yerine
+getirmek üzere kurulan tesis ve/veya teçhizatı,
+Ünite:
+Bağımsız olarak yük alabilen ve yük atabilen her bir üretim grubunu,
+kombine çevrim santralleri için her bir gaz türbin ve jeneratörü ile gaz türbin
+ve jeneratörüne bağlı çalışacak buhar türbin ve jeneratörünün payını,
+Üretim
+Tesisi: Elektrik enerjisinin
+üretildiği tesisleri,
+Yıllık
+Yük Faktörü: Bir üretim ünitesinin veya üretim tesisinin yıllık fiili
+enerji üretiminin, bu üretim ünitesinin veya üretim tesisinin üretebileceği
+yıllık azami enerji üretimine yüzde olarak ifade edilen oranını,
+ifade
+eder.
+İKİNCİ
+BÖLÜM
+İletim
+Sisteminin Planlama ve Tasarım Esasları
+İletim
+Sisteminin Planlama Esasları
+Madde
+5- TEİAŞ, iletim
+sistemini ilgili mevzuatta yer alan usul ve esaslara göre planlar ve geliştirir.
+İletim
+sistemi; sistemin normal çalışma koşullarında, santralların azami üretimini
+sisteme aktarmaları ve sistemdeki birincil veya (N-1) kısıtlılık durumunda,
+gerilim ve frekansın bu Yönetmelikte ve Elektrik Piyasası Şebeke Yönetmeliği’nde
+belirlenen limitler içerisinde kalması sağlanarak, iletim tesislerinin termik
+limitlerin altında yüklenmesini, herhangi bir kullanıcının
+kaybedilmemesini, sistem kararlılığının bozulmamasını ve sistemin adalara
+bölünmemesini sağlayacak şekilde planlanır.
+İletim
+sistemindeki ikincil veya (N-2) kısıtlılık hallerinde, sistemin oturmasını
+önlemek amacıyla üretim veya yük atma yöntemlerine başvurulabilir.
+İletim
+sisteminin nominal gerilimleri; 380 kV, 154 kV ve 66 kV’dir. İletim sistemi;
+arıza öncesi planlama gerilim sınırları 380 kV için 370 kV ile 420 kV, 154
+kV için 146 kV ile 162 kV ve 66 kV için 62 kV ile 70 kV arasındadır. 380
+kV’luk sistemin mevcut olmadığı bölgelerde 154 kV’luk sistem için bu
+limitlerin 140 ile 170 kV olduğu kabul edilir.
+İletim
+sistemi, ilgili planlama yılı için, sistem puant yükünün %5 üzerindeki
+bir yüklenme durumunda, gerilimler bu maddenin dördüncü fıkrasındaki
+limitler içerisinde kalacak şekilde planlanır.
+UCTE
+sistemiyle senkron paralel çalışmanın başladığı tarihten itibaren 380 kV
+gerilim seviyesi 420 kV’ye
+yükseltilir.
+Enterkonnekte
+şebekedeki indirici güç transformatörleri, bu Yönetmeliğin Ek-1’inde
+belirtilen karakteristikleri kullanır.
+Kullanıcılara
+ait iletim tesisleri, iletim sisteminin bir parçası olup, bu tesislerde her türlü
+iletim yatırımı TEİAŞ’ın iznine bağlı olarak TEİAŞ ve ilgili kullanıcı
+tarafından ilgili mevzuat çerçevesinde yapılır.
+İletim
+Sisteminin Tasarım Esasları
+Madde
+6- 380 kV ve 154 kV
+iletim sisteminin tasarımı ve geliştirilmesinde aşağıdaki hususlar dikkate
+alınır;
+a)
+Bir transformatör merkezine bağlanacak 380 kV hat fiderlerin sayısı en fazla
+yedi, 154 kV hat fiderlerin sayısı en fazla on adet olarak tasarlanır. Ancak,
+kısa devre arıza akım seviyelerinin limitler dahilinde kalması, ekonomik
+durum ve sistem güvenliği dikkate alınarak daha fazla fiderin bağlantısı
+yapılabilir.
+b)
+İletim sistemi; hidroelektrik ve termik üniteler eş zamanlı olarak maksimum
+üretimle çalışırken, birincil veya (N-1) kısıtlılık durumunda iletim
+kapasitesinin yeterli olmasını sağlayacak şekilde tasarlanır.
+c)
+380 kV transformatör merkezlerinin 380 kV ve 154 kV kısımları, iki ana ve
+bir transfer bara düzeninde, transfer ve kuplaj fiderli veya tek kesicili
+transfer-kuplaj fiderli olarak tasarlanır.
+d)
+Yeni kurulacak 380/154 kV transformatör merkezleri; 4x250
+MVA veya 6x250 MVA, özel durumlarda ise 8x250 MVA transformatör düzeninde
+tasarlanır.
+e)
+154 kV transformatör merkezlerinin 154 kV kısmı iki ana bara düzeninde,
+kuplaj fiderli olarak tasarlanır. 154 kV transformatör merkezleri, sistemin
+“bölgesel ada” veya “katlı” şebeke şeklinde işletilmesine imkan
+verecek şekilde iki ana bara düzeninde kuplaj fiderli olarak tasarlanır.
+f)
+154 kV sistemi dağıtım sistemine bağlayan yeni transformatör merkezleri
+2x100 MVA, 3x100 MVA, 4x100 MVA şeklinde tasarlanır. Yeni transformatör
+merkezlerinde tasarım 100 MVA kurulu gücünde transformatöre göre yapılmakla
+birlikte fiili yüklere göre daha küçük kurulu güçte transformatörler
+kullanılabilir. Transformatörlerin fiili yükleri, kurulu gücünün %70’ine
+ulaştığı takdirde, kapasite artırımı planlanır. 100 MVA transformatör için
+34,5 kV hat fiderlerinin sayısı, bir tanesi stratejik yükler için kullanılmak
+üzere, 8+1 olarak tasarlanır.
+154
+kV sistemi dağıtım sistemine bağlayan bir transformatörün sekonder sargısının
+nötr noktası 1000 A’lik direnç üzerinden topraklanır.
+g)
+Ark ocağı tesisleri; fliker şiddeti, harmonik ve ani gerilim değişimini sınırlamak
+amacıyla, tesis edileceği yere ve gücüne bağlı olarak, uygun gerilim
+seviyesinden bağlanır. Sürekli işletmede kalacak, uzaktan erişimli mühürlenebilir
+tipte ölçüm sistemi ile fliker şiddeti, harmonik ve ani gerilim değişimleri
+ölçülür.
+h)
+Direkt transformasyonun gerekli olduğu hallerde, 380 kV sistemi dağıtım
+sistemine bağlayan transformatörler 380/33,6 kV ve 125 MVA olarak tasarlanır.
+Yıldız-üçgen bağlı 380/33,6 kV gerilim seviyeli bu transformatörler
+topraklama transformatörü kullanılarak topraklanır.
+i)
+Tek faz alternatif akım ile beslenen yükler ve 3 faz dalgalı yükler,
+sistemin kısa devre gücünün yeterli yükseklikte olduğu noktalarına bağlanır.
+Tek faz alternatif akım yüklerini besleyen indirici transformatör merkezleri,
+gerilim dengesizliklerini azaltmak için farklı faz çiftleri arasına bağlanır.
+Sistem kısa devre gücünün yeterli yükseklikte olmadığı noktalarda tek
+faz alternatif akım yüklerini besleyen indirici transformatör merkezleri,
+gerilim dengesizliklerini azaltmak için sisteme üç faz olarak bağlanır.
+j)
+İletim sistemi şalt teçhizatı için kısa devre arıza akımına dayanma
+kapasitesi 380 kV için 50 kA, 154 kV için 31,5 kA’dir. 33 kV gerilim
+seviyesinde de kısa devre arıza akımları 16 kA ile sınırlandırılır.
+k)
+380 kV ve 154 kV sistem tasarımlarında, TEİAŞ tarafından aksi belirtilmedikçe,
+toprak arıza faktörü 1,4 olarak kabul edilir.
+İletim
+sistemine yapılacak bağlantılarda, özel bir topraklama sisteminin gerekmesi
+durumunda, topraklama için uyulması gereken teknik şartlar ve gerilim yükselmesi
+üzerinde yapılacak incelemenin sonuçları bağlantı yapılmadan önce TEİAŞ
+tarafından kullanıcıya bildirilir.
+Primer
+tarafı 66 kV ve üzerinde olan transformatörlerin yüksek gerilim sargıları
+yıldız bağlı olarak ve yıldız noktasından topraklama bağlantısı yapılabilecek
+şekilde teşkil edilir. Transformatör merkezi primer topraklama hattı için
+en az 120 mm2 bakır
+kullanılır. Topraklama bağlantıları, TEİAŞ’ın onayladığı bağlantı
+sistemi ile yapılır.
+Kısa
+devre gücünün yüksek olduğu merkezlerde, güç transformatörlerinin
+sekonder tarafının nötr noktası, faz-toprak arıza akımlarını sınırlamak
+amacıyla bir nötr direnci veya nötr reaktörü üzerinden topraklanır. Ayrıca,
+bazı özel durumlarda dağıtım barasına nötr topraklama transformatörü
+tesis edilir.
+380/154
+kV yıldız-yıldız bağlı ototransformatörlerin primer ve sekonder sargılarının
+nötr noktaları doğrudan topraklanır ve nötr noktaları şalt merkezinin
+topraklama şebekesine bağlanır. 380 kV’yi dağıtım sistemine bağlayan yıldız–üçgen
+transformatörlerin primer sargılarının nötr noktası doğrudan, sekonder
+sargısı ise topraklama transformatörü üzerinden topraklanır. 154 kV’yi
+dağıtım sistemine bağlayan yıldız–yıldız tersiyersiz transformatörlerin
+primer sargılarının nötr noktası doğrudan, sekonder sargısının nötr
+noktası ise topraklama direnci üzerinden topraklanır.
+1)
+İletim sistemine bağlı ünitelere ait transformatörlerin iletim sistemi
+tarafındaki sargılarının nötr noktaları doğrudan topraklanır. Ancak üretimin
+yoğun olduğu bölgelerde, 154 kV sistemde faz toprak arıza akımlarının 3
+faz toprak arıza akımlarından yüksek olduğu durumlarda, tek faz toprak arıza
+akımlarını sınırlayabilmek için ünite transformatörünün iletim sistemi
+tarafındaki sargısının nötr noktası tam olarak izole edilir.
+m)
+Jeneratörlerin nötr noktası direnç üzerinden topraklanır. Jeneratör
+topraklama direnci, faz toprak arıza akımının rezistif ve kapasitif bileşenlerinin
+birbirine eşit olması şartına göre hesaplanarak tespit ve tesis edilir.
+Jeneratörlerin nötr noktası tam izole edilmez ve doğrudan veya reaktans üzerinden
+topraklanmaz.
+n)
+380 kV uzun iletim hatlarında gerektiğinde hattın endüktif reaktansını düşürmek
+için seri kapasitörler kullanılır.
+o)
+Sistemde şönt kompanzasyon, şönt reaktörler ve şönt kapasitörlerle yapılır.
+Şönt reaktörler hem hatta hem de baraya bağlanabilecek şekilde tasarlanır.
+Radyal iletim hatlarının ise sonuna yine hem hatta hem de baraya bağlanabilecek
+tasarım yapılır. Şönt reaktörler 380/154 kV ototransformatörlerin
+tersiyer sargılarına, şönt kapasitörler ise 154 kV transformatör
+merkezlerinin sekonder tarafındaki baralara tesis edilir.
+380
+kV sistemde tesis edilen şönt reaktörlerin standart kapasiteleri 60 MVAr, 80
+MVAr, 100 MVAr, 120 MVAr ve 150 MVAr’dır. 154 kV sistemde tesis edilen şönt
+reaktörlerin standart kapasiteleri ise 5 MVAr, 10 MVAr ve 20 MVAr’dır. Şönt
+reaktörler 420 kV ve 170 kV’de sürekli çalışabilecek şekilde tasarlanır.
+154
+kV transformatör merkezlerindeki 25 MVA, 50 MVA, 100 MVA ve
+125 MVA transformatörlerin sekonder tarafındaki baraya güç faktörünün düzeltilmesi
+amacıyla 5 MVAr, 10 MVAr ve 2x10 MVAr gücünde şönt kapasitör grupları
+tesis edilir. Şönt kapasitörler, transformatör kapasitesinin %20’sini geçmeyecek
+şekilde ve gerektiğinde ayrı fiderlere bağlı iki kapasitör grubu şeklinde
+tesis edilir.
+p)
+İletim hatlarının güzergahlarının ve transformatör merkezlerinin
+yerlerinin seçiminde, teknik, ekonomik, sosyal ve çevrenin korunmasına yönelik
+hususlar ile ilgili mevzuat dikkate alınır. İletim sistemi master planlarının
+ilgili belediyelerin imar planlarında yer alması sağlanır, bu imar planlarına
+bağlı kalınıp kalınmadığı takip edilir ve iletim hatlarının kamulaştırma
+işlemleri en kısa sürede sonuçlandırılır.
+Nüfusun
+yoğun olduğu yerleşim merkezlerinde ve sanayi bölgelerinde şartlar göz önünde
+bulundurularak, düşük kapasiteli iletim hatları aynı güzergah üzerinde yüksek
+kapasiteli çok devreli iletim hatları ile yenilenir.
+Transformatör
+merkezleri, elektrik sistemi
+tesis ve teçhizatı için geliştirilen, onaylanan ve kullanılan uluslararası
+tasarım, tesis, imalat ve performans standartlarına uygun olarak uzaktan
+insansız çalıştırılabilecek şekilde gerekli altyapı ile tasarımlanır
+ve tesis edilir.
+r)
+Uzunluğu 120 km’nin üzerindeki 380 kV hatlar için bu Yönetmeliğin
+Ek-2’sinde gösterilen şekilde hattın uzunluğu boyunca bir tam üç faz çaprazlama
+yapılır. 45 km’nin üzerindeki 154 kV hatlar için ise hattın uzunluğu
+boyunca bir tam üç faz çaprazlama yapılır.
+s)
+380 kV iletim hatları, standart 954 MCM Cardinal (546 mm2) ve 1272
+MCM Pheasant (726 mm2) kesitli, her bir fazda iki veya üçlü demet
+halinde çelik takviyeli (ACSR) alüminyum iletkenler kullanılarak tesis
+edilir. Uygun iklim ve hat profili/mekanik yüklenme şartlarına göre
+tasarlanan standart tek devre direkler üzerinde yukarıda tanımlanan iletken
+karakteristikli 380 kV hatlar kullanılır. Yoğun yerleşim bölgeleri gibi
+istisnai durumlarda tek bir direk üzerinde birden fazla devre kullanılabilir.
+İstisnai
+veya aşırı buz yükünün olabileceği 1600 m yüksekliğin üzerindeki güzergahlar
+gibi ilave emniyet gerektiren durumlarda, 1–20 km arasındaki kısıtlı
+mesafeler için özel tasarlanmış direkler üzerine, her demetteki iki veya
+üç iletken yerine, bunlara elektriksel olarak eşdeğer özelliklere
+sahip 2027 mm2 kesitli tek iletken tesis edilir. Havai
+hatların güzergahının temin edilemediği yoğun yerleşim bölgelerinde
+standart olarak 380 kV 2000 mm2 kesitli XLPE bakır iletkenli yeraltı
+kablosu tesis edilir.
+380
+kV iletim sisteminde enerji akışlarının planlanmasında kullanılan iletken
+termik kapasiteleri ve sınırları bu Yönetmeliğin Ek-3’ündeki gibi düzenlenir.
+t)
+154 kV iletim hatları, standart 468 mm2 795 MCM Drake, 546 mm2
+954 MCM Cardinal ve 726 mm2 1272 MCM Pheasant olan çelik takviyeli (ACSR)
+alüminyum iletken ve tek veya çift devre direkleri kullanılarak tesis edilir.
+154 kV hatlarda genellikle her fazda bir iletken bulunur. Çok yüksek talep bölgelerinde
+iletim hatlarının taşıma kapasitesini arttırmak için 154 kV ikili demet
+cardinal iletkenli çift devre stratejik kısa hatlar tesis edilir.
+Havai
+hatların güzergahının temin edilemediği yoğun yerleşim bölgelerinde
+standart olarak 154 kV, 630 mm2 veya 1000 mm2 kesitli XLPE
+bakır iletkenli yeraltı kablosu tesis edilir.
+154
+kV iletim sisteminde enerji akışlarının planlanmasında kullanılan iletken
+termik kapasiteleri ve sınırları ile yeraltı güç kablolarının tipleri ve
+kapasiteleri bu Yönetmeliğin Ek-3’ünde düzenlenmiştir.
+u)
+İletim hattını yıldırımdan korumak için 3 faz iletkene ilave olarak
+direklerin tepe noktalarına galvenize çelik toprak teli tesis edilir. Genel
+olarak, 380 kV standart direklerde tek devre ve çift devre hatları korumak için
+iki adet toprak teli kullanılır. 154 kV hatlar, direk tasarımına bağlı
+olarak bir veya iki toprak teli ile korunur. Standart olarak, 380 kV ve 154 kV
+hatlarda sırasıyla 96 mm2 ve
+70 mm2 koruma iletkenleri kullanılır.
+Yeni
+tesis edilen iletim hatlarında standart çelik toprak tellerinden biri yerine,
+380 kV ve 154 kV hatlarda 15,2 (± 0.3) mm çaplı toprak iletkeni ve bunun içine
+yerleştirilmiş fiber optik lifler kullanılır.
+İletim
+sisteminin işletimi ve enerji yönetiminin gereksinim duyduğu ses, bilgi ve
+koruma sinyalizasyon amaçlı iletişim için iletişim ortamı tesis edilir. İletişim
+ortamı, gerektiğinde diğer kamu ve özel iletişim gereksinimleri için de
+kullandırılabilir.
+İşletmede
+olan iletim hatlarındaki koruma iletkenleri ihtiyaç duyulduğunda fiber
+optikli koruma iletkeni ile değiştirilir.
+İletim
+hatlarının faz iletkenleri için uygun izolasyon seviyelerini sağlamak amacıyla
+zincir tipi porselen, cam veya fiber izolatörler kullanılır.
+v)
+Transformatör merkezleri sistem tasarımında kullanılan 380 ve 154 kV ortam
+koşulları ve sistem bilgileri bu Yönetmeliğin Ek-4’ünde düzenlenmiştir.
+Anahtarlama aşırı gerilimlerinin sınırlandırılması amacıyla parafudr
+kullanıldığı durumlarda, bu uygulamaların teknik karakteristikleri ile
+ilgili olarak TEİAŞ ve kullanıcı arasında karşılıklı bilgi alışverişi
+yapılır. Planlanan sistemin bütünlüğünün ve tasarım uyumluluğunun sağlanması
+için her uygulamanın ayrıntıları üzerinde mutabakata varılır.
+Transformatör merkezleri şalt tesislerinin tasarımı bu Yönetmeliğin
+Ek-5’inde yer alan örnek tek hat şemalarına göre yapılır.
+y)
+İletim sisteminde veri ve ses iletişimi kuranportör ve fiber optik iletişim
+sistemleri ile yapılır. Ayrıca, ihtiyaç duyulan durumlarda Türk Telekom A.Ş.’nin
+kiralık iletişim kanalları kullanılır. Yönetimsel Kontrol ve Veri Toplama
+Sistemi (SCADA) ile veri toplamak amacıyla, transformatör merkezleri ve üretim
+tesislerine Uzak Terminal Birimleri (RTU) konulur. TEİAŞ’ın transformatör
+merkezleri, üretim tesisleri ve Milli Yük Tevzi Merkezi/Bölgesel Yük Tevzi
+Merkezleri arasındaki ses iletişimi için özel bir telefon sistemi kullanılır.
+ÜÇÜNCÜ
+BÖLÜM
+Üretim
+Şalt Tesisleri Tasarım Esasları
+Üretim
+Şalt Tesisleri Tasarım
+Esasları
+Madde
+7- Üretim şalt
+tesislerinin tasarımı ve geliştirilmesinde aşağıdaki hususlar dikkate alınır;
+a)
+Ünite ana güç transformatörleri yüksüz en az 5 kademeli kademe değiştiricili
+olarak tesis edilir ve regülasyon aralığı ± 2 x %2,5’dir. Yükte kademe
+değiştiricili transformatörlerde normal koşullarda ± 8 x %1,25’lik bir
+regülasyon aralığı uygulanır.
+b)
+Toplam çıkış gücü 1500 MW’tan az olan üretim tesislerinin sisteme olan
+bağlantısı, bir iletim devresinin kaybı veya birincil veya (N-1) kısıtlılık
+durumunda hiçbir üretim kaybı olmayacak ve üretimin tamamı sisteme aktarılabilecek
+şekilde yapılır.
+c)
+Toplam çıkış gücü 1500 MW’tan fazla olan üretim tesislerinin bağlantısı,
+iki iletim devresinin kaybı veya ikincil veya (N-2) kısıtlılık durumunda üretiminin
+en az %80’ini sisteme aktarabilecek şekilde yapılır.
+d)
+Birbiriyle ilişkili iki iletim hattının kaybı veya ikincil veya (N-2) kısıtlılık
+durumunda ortaya çıkacak üretim kaybı 1200 MW’ı aşamaz.
+e)
+İletim sistemi ve üretim şalt tesisleri; bir iletim devresi veya bara bakım
+onarım nedeniyle devre dışı edilmiş iken diğer bir iletim devresinin veya
+baranın arıza nedeniyle devre dışı olması durumunda, sistemdeki en büyük
+üretim ünitesinden daha fazla üretim kaybına yol açmayacak şekilde tasarımlanır
+ve tesis edilir.
+f)
+Üretim tesisi şaltına bağlı üretim ünitelerinin havai hat bağlantılarının
+azami uzunluğu; yıllık yük faktörü %30’dan büyük veya eşit üretim üniteleri
+için 5 km’yi, diğer durumlarda ise 20 km’yi geçemez.
+g)
+Üretim tesisinin iletim sistemine bağlantısı için belirlenen iletim
+kapasitesi, herhangi bir arızadan önce;
+1)
+Teçhizatın kapasitesinin üzerinde yüklenmemesi,
+2)
+Gerilimlerin normal işletme koşulları için belirlenen sınırların dışına
+çıkmaması ve gerilim regülasyonunun yetersiz kalmaması,
+3)
+Sistemin kararlılığını kaybetmemesi,
+şartları
+sağlanacak şekilde planlanır.
+h)
+Üretim tesisi ve iletim sistemi arasındaki bağlantının kapasitesi, aynı
+zamanda;
+1)
+Bir iletim devresi ile bir kompansatör veya bir reaktif güç sağlayıcısının,
+2)
+İki iletim devresi veya bir iletim devresi ile daha önce devre dışı olmuş
+diğer bir iletim devresinin,
+3)
+Baranın birinin,
+4)
+Bir iletim devresi ile daha önce
+devre dışı olmuş bir üretim ünitesi, bir kompansatör veya bir reaktif güç
+sağlayıcının,
+herhangi
+birinin arıza nedeniyle devre dışı olması durumları dikkate alınarak
+planlanır. Bu bentte belirtilen arızalardan dolayı devre dışı olmalarda
+iletim sistemi; sistem kararsızlığı gerçekleşmeyecek şekilde planlanır.
+Talep
+bağlantıları ile üretim tesislerinin bağlantıları bu Yönetmeliğin
+Ek-6’sında yer alan örnek tek hat şemalarına göre tasarımlandırılır.
+ı)
+Bir bağlantı noktasında, sistemin kısa devre gücünün en fazla %5’i
+kadar kurulu güçte rüzgar enerjisine dayalı üretim tesisi bağlantısına
+izin verilir.
+Dalgalı
+yüklerin yoğun olarak bulunduğu bölgeler için TEİAŞ tarafından ilgili
+mevzuata göre verilen bağlantı görüşüne ilişkin değerlendirmede, bağlantı
+noktasındaki mevcut dalgalı yüklerin etkisi de dikkate alınır. Rüzgar hızının
+belli limitleri aşması durumunda rüzgar enerjisine dayalı üretim
+tesislerinin otomatik olarak devre dışı olma özellikleri dikkate alınarak,
+sistemde ani gerilim değişimi ve frekans dalgalanmalarını önlemek amacıyla
+sistem döner yedeği miktarını aşmayacak kurulu güçte rüzgar enerjisine
+dayalı üretim tesisi bağlantısına izin verilir.
+Rüzgar
+enerjisine dayalı üretim
+tesislerinin arıza ve arıza sonrası performansı bu Yönetmeliğin
+Ek-7’sinde sunulan grafiğe uygun olarak tasarımlandırılır.
+Rüzgar
+enerjisine dayalı üretim
+tesislerinin, reaktif enerji ve gerilim gibi teknik konularda sisteme
+verecekleri rahatsızlığın sınırlandırılması amacıyla rüzgar
+enerjisine dayalı asenkron rüzgar türbinine sahip üretim tesislerinin güç
+faktörü 0,99’dan düşük olamaz. Güç faktörü, kullanıcının kuracağı
+uygun kompanzasyon tesisleriyle yükseltilir.
+DÖRDÜNCÜ
+BÖLÜM
+Arz
+Kalitesi Koşulları ve İşletme Esasları
+Gerilim
+Madde
+8- İletim sisteminin
+nominal gerilimleri 380 kV,
+154 kV ve 66 kV’dir.
+Normal
+işletme koşullarında; 380 kV’lik iletim sistemi 340 kV ile 420 kV, 154
+kV’lik iletim sistemi ise 140 kV ile 170 kV aralıklarında çalıştırılır.
+66 kV ve altındaki iletim sistemi için gerilim değişim aralığı ± %
+10’dur. Ayrıca, iletim sistemi içerisindeki mevcut dağıtım seviyesi ve iç
+ihtiyaçlar için gerilim seviyeleri 34.5 kV, 33 kV, 31.5 kV, 15.8 kV, 10.5 kV
+ve 6.3 kV’dir.
+380
+kV ve 154 kV sistemler, bu Yönetmeliğin
+Ek-8’inde yer alan gerilim sınır değerlerine göre planlanır ve işletilir.
+İşletme gerilim sınırları, arıza sonrası ünite ana güç transformatörünün
+kademe ayarları değiştirilmeden veya şönt kompanzasyon anahtarlaması yapılmadan
+önceki değerler olarak uygulanır.
+Frekans
+Madde
+9- Sistemin nominal
+frekansı TEİAŞ tarafından 50 Hertz (Hz) etrafında 49.8 - 50.2 Hz aralığında
+kontrol edilir. İşletme sınırı 10 dakikadan daha uzun süre geçilemez.
+Normal
+sistem işletmesi ve otomatik üretim kontrolü için hedef sistem frekansı
+49.95 - 50.05 Hz arasındadır.
+Çeşitli
+üretim ve/veya talep kaybı durumları için frekans sapmaları;
+a)
+± 200 MW’ı geçmeyen üretim
+veya talep değişimlerinde ± 0.2
+Hz’den,
+b)
+± 200 MW’tan ± 600
+MW’a kadar olan üretim veya talep değişimlerinde ± 0.5
+Hz’den,
+c)
+Puant yükte ± 600 MW’tan ± 770 MW’a kadar olan
+üretim veya talep değişimlerinde ± 0.8
+Hz’den,
+daha
+fazla olamaz ve bu limitler
+60 saniyeden daha uzun bir süre ile aşılamaz.
+Üretim
+tesisleri; bu maddede tanımlananlardan
+daha ağır bir kısıtlılık olayının gerçekleşmesi, elektrik sisteminin
+tamamen veya kısmen istem dışı enerjisiz kalması gibi durumlarda, frekansın
+52.0 Hz’e yükselebileceği veya 47 Hz’e düşebileceği göz önünde
+bulundurularak, Elektrik Piyasası Şebeke Yönetmeliği hükümleri çerçevesinde
+tasarımlandırılır.
+Akım
+Harmonikleri
+Madde
+10- Kabul edilebilir akım
+harmonik limitleri bu Yönetmeliğin Ek-9’unda düzenlenmiştir.
+Elektriğin
+kalitesini belirleyen diğer kriterler Elektrik Piyasası Şebeke Yönetmeliği’nde
+belirlendiği şekilde uygulanır.
+Reaktif
+Enerjinin Kompanzasyonu
+Madde
+11- İletim sistemine doğrudan
+bağlı tüketiciler ve dağıtım lisansına sahip tüzel kişiler tarafından;
+iletim sistemine bağlantıyla ilgili her bir ölçüm noktasında ve her bir
+uzlaşma periyodunda, sistemden çekilen endüktif reaktif enerjinin sistemden
+çekilen aktif enerjiye oranı yüzde ondördü, sisteme verilen kapasitif
+reaktif enerjinin sistemden çekilen aktif enerjiye oranı ise yüzde onu geçemez.
+İletim
+sisteminin her bir ölçüm noktasında öngörülen orana uyulmaması durumunda
+kullanıcılara uygulanacak yaptırımlar bağlantı ve sistem kullanım anlaşmalarında
+düzenlenir.
+Oranların
+kontrolü ilgili mevzuat hükümleri çerçevesinde yapılır.
+Kısıtlılık
+Durumları
+Madde
+12- İletim sisteminde
+olasılığı en yüksek iletim kısıtlılık durumları;
+a)
+Birincil veya (N-1) kısıtlılık:
+1)
+Bir iletim devresinin,
+2)
+Bir üretim ünitesinin,
+3)
+Üretim tesisinin iletim sistemine bağlantı elemanlarından birinin,
+4)
+Senkron kompansatör, statik Var kompansatör, şönt reaktör, kapasitör gibi
+bir şönt kompanzasyon ünitesinin,
+5)
+Bir seri kompanzasyon ünitesinin,
+6)
+Bir transformatör ünitesinin,
+7)
+Bir harici enterkonneksiyonun,
+açma
+işlemi sonucunda sistemden ayrılmasıdır.
+b)
+İkincil veya (N-2) kısıtlılık:
+1)
+İletim devresi ile buna bağımlı olmaksızın açan ikinci bir iletim
+devresinin,
+2)
+İletim devresi ile bir transformatör ünitesinin,
+3)
+İletim devresi ile üretim tesisinin iletim sistemine bağlantı elemanlarından
+birinin,
+4)
+Üretim tesisinin iletim sistemine bağlantı elemanlarından biri ile bir
+transformatör ünitesinin,
+5)
+Üretim tesisinin iletim sistemine bağlantı elemanlarından biri ile bir şönt
+kompanzasyon ünitesinin,
+6)
+Üretim tesisinin iletim sistemine bağlantı elemanlarından biri ile bir seri
+kompanzasyon ünitesinin,
+7)
+Transformatör ünitesi ile ikinci bir transformatör ünitesinin,
+8)
+Transformatör ünitesi ile bir şönt kompanzasyon ünitesinin,
+9)
+Şönt kompanzasyon ünitesi ile ikinci bir şönt kompanzasyon ünitesinin,
+10)
+İletim devresi ile bir şönt kompanzasyon ünitesinin,
+11)
+Bir üretim ünitesi ile bir iletim devresinin,
+12)
+Bir üretim ünitesi ile bir transformatör ünitesinin,
+13)
+Bir üretim ünitesi ile ikinci bir üretim ünitesinin,
+14)
+Bir üretim ünitesi ile bir şönt kompanzasyon ünitesinin,
+15)
+Bir iletim devresi ve bu devre ile ilişkili diğer bir hattın seri
+kompanzasyon ünitesinin,
+16)
+Transformatör ünitesi ile bir seri kompanzasyon ünitesinin,
+17)
+Bir üretim ünitesi ile bir seri kompanzasyon ünitesinin,
+18)
+Aynı direkteki çift devre hattın,
+açma
+işlemleri sonucunda sistemden ayrılmasıdır.
+İletim
+sisteminde olasılığı düşük kısıtlılıklar ise:
+a)
+Bara arızasını,
+b)
+Bara kuplaj kesicisi arızasını,
+c)
+Kesici arızasını,
+d)
+Koruma sistemi arızasını,
+e)
+İletişim koruma kanalı arızasını,
+f)
+Beklenmedik ikincil veya (N-2) kısıtlılık durumlarını,
+kapsar.
+İşletme
+Güvenliği Esasları
+Madde
+13- İşletme güvenliği
+esasları; sistemin gerçek zaman şartları altında gerilim, frekans ve güç
+akışlarının belirlenen limitler içerisinde kararlılığını kaybetmeden işletilmesi
+için alınması gereken tedbir, önlem ve işletme prensiplerini kapsar.
+Sistemin aylık, haftalık ve günlük işletme programları; fiili çalışma
+koşulları, iklim değişimleri, bakım onarım programları ile birlikte işletmede
+gerçek zamanda ortaya çıkacak program dışı üretim ve iletim devre dışı
+olmaları, beklenmedik talep ve hava koşulları gibi olaylar dikkate alınarak
+belirlenir. İşletme güvenliği esasları kapsamında, fiili işletme şartları
+altında sistemin işletilebilmesi için işletme zaman çizelgelerine uygun
+olarak alınması gereken önlemler yer alır.
+İletim
+sistemi; arz kapasitesi kaybı, herhangi bir ana iletim ekipmanının kabul
+edilemez derecede aşırı yüklenmesi, kabul edilemez gerilim koşulları ya da
+yetersiz gerilim performansı yedekleri ile sistem kararsızlığının olmadığı
+ve;
+a)
+Tek bir iletim devresi, bir reaktif kompansatör ya da diğer reaktif güç sağlayıcısının,
+b)
+Arızanın sistemin birbirinden uzak noktalarında olması veya söz konusu
+hatların kapasitelerinin altında yüklendiği durumlarda iki iletim devresinin
+veya tek bir iletim devresi ile daha önceden devre dışı kalmış diğer bir
+iletim devresinin,
+c)
+Baranın birinin,
+d)
+Tek bir iletim devresi ile daha önceden devre dışı kalmış bir üretim ünitesi,
+bir reaktif kompansatör ya da diğer reaktif güç sağlayıcısının,
+arızalanması
+durumlarında güvenli olarak işletilir.
+Aşağıdaki
+durumlar için ikinci fıkradaki işletme esasları dikkate alınmaz:
+a)
+İletim sisteminin bir parçasını oluşturan saplama bağlantılı devrelerden
+oluşan transformatör merkezlerinde herhangi bir fider veya hat arızasında
+devrelerin açılması ile birlikte transformatörlerin bağlantılarının
+kesilmesi durumunda,
+b)
+Arıza riskinin arttığı yıldırım, buzlanma, kar, tipi, sel, aşırı rüzgar
+gibi kötü hava koşullarının ortaya çıkması durumunda TEİAŞ tarafından,
+bu risklerin azaltılması için sistemin yedek kapasitesinin arttırılması,
+jeneratörlerin otomatik olarak devre dışı olmalarını sağlayan koruma
+sistemlerinin kurulması, (N-1) ve (N-2) kısıtlılık durumlarına karşı,
+uygun işletme alternatif stratejilerinin oluşturulması veya sistemin sıcak
+yedek kapasitesinin arttırılarak iletim ekipmanları üzerindeki güç akış
+yükünün azaltılması gibi önlemlerin alınması durumunda,
+c)
+Arz veya talep kaybına ilişkin risklerin artması durumunda, daha
+ekonomik olması kaydıyla, sistem işletme prensipleri bakımından birincil kısıtlılık
+durumunda ikincil kısıtlılık durumunun işletme kurallarına geçilebilir.
+Bu şekildeki işletme durumuna hava şartları tekrar elverişli hale gelinceye
+ve sistem tekrar güvenli hale getirilinceye kadar devam edilir. Bu durumda,
+birincil kısıtlılığa yol açan arıza; bir iletim ekipmanının aşırı yüklenmesine,
+frekans veya gerilimlerin belirlenen limitler dışına çıkmasına veya
+sistemin kararsızlığına neden olamaz.
+İkincil
+kısıtlılıklara yol açan arızalarda ana iletim ekipmanlarının aşırı yüklenmelerini
+ve talep kaybının engellenebilmesi için gecikmeden yeni bir üretim programı
+hazırlanır. Bu programın uygulanamaması durumunda, arıza sonrası önlem
+olarak kısa dönem talep kontrolü uygulanır.
+Ekonomik
+gerekçelerle talep kontrolü yapılamaz.
+Arıza
+sonrası alınan tüm önlemler ve gerekçeleri, üretim faaliyeti gösteren
+ilgili tüzel kişiler ile etkilenmesi muhtemel tüm serbest tüketicilere
+bildirilir. Bu durumda, Elektrik Piyasası Şebeke Yönetmeliğinin
+acil durum, elle talep kontrolü, üretim tesislerinin ve etkilenmesi muhtemel tüm
+serbest tüketicilerin yeni
+üretim programı hakkında bilgilendirilmesi ve/veya kısa dönem acil durum aşırı
+yüklenme işletme şartları ile ilgili hükümleri uygulanır. İlgili sistem
+işletmecisi veya üretim faaliyeti gösteren tüzel kişi ve iletim sistemine
+bağlı etkilenmesi muhtemel tüketiciler ile mutabakata varılması şartı
+ile arıza sonrasında, Elektrik Piyasası Şebeke Yönetmeliği hükümlerinde
+yer almayan ek önlemler de uygulanabilir. Birincil veya (N-1) kısıtlılığa
+yol açan arızanın ardından, mümkün olan en kısa süre içerisinde sistemi
+tekrar normal işletme koşullarına geri döndürmek için gerekli önlemler alınır.
+İşletme
+güvenliği usul ve esasları; dağıtım şirketlerine, iletim sistemine doğrudan
+bağlı üretim faaliyeti gösteren tüzel kişilere ve iletim sistemine bağlı
+tüketicilere uygulanır. Ancak, sistemin işletme güvenliğinin ve bütünlüğünün
+tehlikeye girmesi durumunda, taraflarla müzakere edilerek, bu hükümlerin dışında
+birtakım özel işletme usul ve esasları da uygulanabilir.
+BEŞİNCİ
+BÖLÜM
+Bildirimler,
+Anlaşmazlıkların Çözümü, Geçici ve Son Hükümler
+Bildirimler
+Madde
+14- Bu Yönetmelik uyarınca
+yapılacak tüm bildirimler 7201 sayılı Tebligat Kanunu hükümlerine uygun
+olarak yapılır.
+Anlaşmazlıkların
+Çözümü
+Madde
+15- Bu Yönetmeliğin
+uygulanmasında ortaya çıkan anlaşmazlıkların TEİAŞ ve ilgili taraflar
+arasında çözümlenememesi halinde anlaşmazlığın çözümü konusunda
+Enerji Piyasası Düzenleme Kurumuna yazılı olarak başvurulur. Enerji Piyasası
+Düzenleme Kurulunun bu konuda vereceği karar tarafları bağlar.
+Geçici
+Madde 1- TEİAŞ’a,
+Elektrik Piyasası Şebeke Yönetmeliği ile bu Yönetmeliğe uyumu konusunda,
+Enerji Piyasası Düzenleme Kurumuna sunulan iletim sistemi on yıllık gelişim
+raporunda yer alan iletim sisteminin performansına ilişkin gerekçeler dikkate
+alınarak, bu Yönetmeliğin yayımı tarihinden itibaren üç yıl muafiyet tanınır.
+Geçici
+Madde 2- TEİAŞ, 4628
+sayılı Elektrik Piyasası Kanununun yayımından önce harici bir elektrik
+sistemi ile yapılmış sözleşmeler için, sözleşme süresi boyunca bu Yönetmelik
+hükümlerinden muaf tutulur.
+Geçici
+Madde 3- 1/1/2007
+tarihinden itibaren; iletim sistemine doğrudan bağlı tüketiciler ve dağıtım
+lisansına sahip tüzel kişiler için, iletim sisteminin her bir ölçüm
+noktasında aylık çekilen endüktif reaktif enerjinin sistemden çekilen aktif
+enerjiye oranı yüzde yirmibeş, aylık sisteme verilen kapasitif reaktif
+enerjinin sistemden çekilen aktif enerjiye oranı yüzde onbeş olarak uygulanır.
+1/1/2009
+tarihinden itibaren ise bu
+oranlar, bu Yönetmeliğin onbirinci
+maddesi hükümlerinde yer alan esaslara göre tespit edilir.
+Yürürlük
+Madde
+16- Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+Madde
+17- Bu Yönetmelik hükümlerini Başkan
+yürütür.
+ARZ GÜVENİLİRLİĞİ VE KALİTESİ YÖNETMELİĞİNİN EKLERİ İÇİN BAKINIZ.doc
