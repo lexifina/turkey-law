@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.6162",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO:285 )",
+  "number": "6162",
+  "path": "teblig/2004/6162",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6162&MevzuatTertip=5",
+  "source_sha256": "fd1ef320353968c3563a390389b34800758ab9c56d903a85a8065dc7d29d6c29",
+  "source_bytes": 117071,
+  "published": "2004-11-26",
+  "gazette": "25652",
+  "in_force": "2004-11-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.11.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7326,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.6162-EKLER.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
