@@ -1,0 +1,2 @@
+Madde 9 – Acil hallerde rahim tahliyesi, resmi yataklı tedavi kurumlarıyla özel hastanelerde yapılır. Ancak, kadının buralara taşınması olanaksızsa, ameliye, muayenehane, ev gibi hastanın bulunduğu yerlerde de yapılabilir.
+Hekim, müdahaleyi yapmadan önce, olanaksızsa, müdahaleden itibaren en geç 24 saat içinde, kadının kimliğini, yapılan müdahaleyle müdahaleyi gerektiren nedenleri ve sonucunu, illerde sağlık ve sosyal yardım müdürlüklerine, ilçelerde hükümet tabipliklerine yazılı olarak bildirmek zorundadır. Bu raporlar, il sağlık ve sosyal yardım müdürlüklerinde toplanır.
