@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6003-155/10612",
+  "source_id": 36372,
+  "date": "2000-03-06",
+  "title": "Noterler arasında birlik ve yardımlaşmayı sağlamak amacıyla kurulan emeklilik yardım fonundan, ölen üyelerin eş ve çocuklarına yapılan ödemelerin V.İ.V.' ne tabi olup olmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36372",
+  "source_sha256": "6b1f4de5442a35c6101fc2c8dafb9b6432daccd3e9fee12ef583c5977ebfff0e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
