@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "123",
+  "decision_date": "2003-03-21",
+  "title": "Doğal gaz Piyasası tarifeler hakkında",
+  "resmi_gazete_date": "2003-03-23",
+  "resmi_gazete_number": "25057",
+  "categories": [
+    "Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ci7xOspIgM4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ci7xOspIgM4="
+  ],
+  "source_sha256": "f37e33445c27165f54e69ffd6112ec5c797e61e068a91fd89e6c9bb8e4433f42",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7233,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-03-21",
+  "law_text_complete": false
+}
