@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "216",
+  "year": 1993,
+  "title": "(10/4) Esas Numaralı Meclis Araştırması Komisyonunun Görev Süresinin Uzatılmasına İlişkin",
+  "adopted": "1993-02-02",
+  "adopted_as_published": "02/02/1993",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.02.1993 No: 21488",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc076/karartbmmc076/karartbmmc07600216.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 76",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 259989,
+      "title": "(10/4) Esas Numaralı Meclis Araştırması Komisyonunun Görev Süresinin Uzatılmasına İlişkin",
+      "adopted_as_published": "02/02/1993",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc076/karartbmmc076/karartbmmc07600216.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 28,
+          "sitting": 62,
+          "sitting_date": "1993-02-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c028/tbmm19028062.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c028/tbmm19028fih.pdf",
+          "pages": [
+            "308"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "8174a4a852777ce4fe7dde48d2af0edea47d24b78ef1ac4f4c5410f27ebeda3e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8174a4a852777ce4fe7dde48d2af0edea47d24b78ef1ac4f4c5410f27ebeda3e",
+  "issuer": "TBMM",
+  "in_force": "1993-02-02",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 02/02/1993; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
