@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2921-229-433-26114",
+  "source_id": 26099,
+  "date": "2005-01-23",
+  "title": "Bir vergilendirme döneminden fazla devam eden eğitim-öğretim gibi hizmetlerde bedelinin tamamının veya bir kısmının hizmet ifasından önce tahsil edilebilmesi, bu hizmetlerde fatura düzenlenmemiş olası koşuluyla hizmet ifasından önce tahsil edilen bedel üz",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26099",
+  "source_sha256": "712e104488c54147eb0d3bd5ee0845aa2cd12a9af5bbbf60a2659825e0fe56ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
