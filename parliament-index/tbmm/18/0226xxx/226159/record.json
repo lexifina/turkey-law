@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 226159,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MUSTAFA UĞUR ENER (KÜTAHYA)",
+  "summary": "Ve 6 Arkadaşının; 13.10.1983 Tarih ve 2919 sayılı Kanun ile 657 sayılı Devlet Memurları Kanununun 36. Maddesinin (F) Bendi ve 241 sayılı Kanun Hükmünde Kararnamenin 39. Maddesinin Değiştirilmesine Dair (2/47)",
+  "title": "Ve 6 Arkadaşının; 13.10.1983 Tarih ve 2919 sayılı Kanun ile 657 sayılı Devlet Memurları Kanununun 36. Maddesinin (F) Bendi ve 241 sayılı Kanun Hükmünde Kararnamenin 39. Maddesinin Değiştirilmesine Dair (2/47)",
+  "first_sitting_date": "1988-04-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 46,
+      "sitting_date": "1988-04-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007046.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c007/tbmm18007fih.pdf",
+      "pages": [
+        "116:117"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "728e64b0f8f780646c400a912dc0e7acd2c54ef7214ac492c3fdcae4ef1c728e",
+  "in_force": "1988-04-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
