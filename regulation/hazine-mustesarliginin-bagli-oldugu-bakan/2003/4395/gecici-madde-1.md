@@ -1,0 +1,1 @@
+Geçici Madde 1 — Bu Yönetmeliğin yayımı tarihinden önceki usullere göre yapılmış olan görevlendirme işlemleri geçerlidir. Ancak bu görevlere ilişkin olarak henüz sonuçlandırılmamış inceleme ve tespit işlemleri, bu Yönetmelik hükümlerine tabidir.
