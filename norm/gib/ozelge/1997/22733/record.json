@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5114-41/37143",
+  "source_id": 22733,
+  "date": "1997-09-02",
+  "title": "Şirketin şantiyesinde kullandığı binek otomobillerine ait giderler ile amortisman giderlerinin indirilip indirilemeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/22733",
+  "source_sha256": "1d25eafff22c8bea126232ece7394fed94526355550ec563c076abba393b9361",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
