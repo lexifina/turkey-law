@@ -1,0 +1,73 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1633",
+  "year": 1949,
+  "title": "1633 sayılı Karar",
+  "adopted": "1949-01-13",
+  "adopted_as_published": "13/01/1949",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "19.01.1949 No: 7109",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/karartbmmc031/karartbmmc03101633.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 31",
+  "committee_reports": [
+    {
+      "label": "TBMM 81 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c015/tbmm08015031ss0081.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 8,
+      "kayit_no": 78517,
+      "title": "1633 sayılı Karar",
+      "adopted_as_published": "13/01/1949",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/karartbmmc031/karartbmmc03101633.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 81 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c015/tbmm08015031ss0081.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 15,
+          "sitting": 29,
+          "sitting_date": "1949-01-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c015/tbmm08015029.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c015/tbmm08015fih.pdf",
+          "pages": [
+            "32",
+            "72"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 31,
+          "sitting_date": "1949-01-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c015/tbmm08015031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c015/tbmm08015fih.pdf",
+          "pages": [
+            "76",
+            "113"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=192&v_gelecek_sayfa=101&v_kullanici_id=27483271",
+      "page_sha256": "9e37554730adfba307b9ae66ee309c80f92a2012e67e4b54ed57d695e7a944a0"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9e37554730adfba307b9ae66ee309c80f92a2012e67e4b54ed57d695e7a944a0",
+  "issuer": "TBMM",
+  "in_force": "1949-01-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 13/01/1949; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
