@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6969",
+  "year": 1957,
+  "title": "5436 sayılı Kanuna müsteniden Türkiye Cumhuriyeti Hükümeti ile Amerika Birleşik Devletleri arasında akdedilen anlaşmalar gereğince ithal olunacak zirai ve gıdai maddelerin muafiyeti hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-05-24",
+  "gazette_issue": "9615",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9615.pdf",
+  "source_sha256": "28daf8d183daa8d000b04f0f15e68132a7af514e3afe995325c3f6b6c06400a1",
+  "text_sha256": "e390c6a65868863de2509b6426f1b495370da31fe2e3a8e58f99286714449931",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      1683,
+      1724
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906969.pdf",
+    "source_sha256": "52262c5789f2c94dbb00dd3986986edec4cc7a69e71bf979edadfd61401ba220",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9796,
+    "bag": 0.8163,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9551,
+    "rg_words": 145,
+    "kd_words": 156,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
