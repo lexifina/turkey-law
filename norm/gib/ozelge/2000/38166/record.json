@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/ 6384-54/9942",
+  "source_id": 38166,
+  "date": "2000-03-02",
+  "title": "Gümrükte sözlü beyan işlemlerinde düzenlenen tek tip gümrük beyannamelerinden özel işlem vergisi alınması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38166",
+  "source_sha256": "45fdafcbfd6b6006ada980a92dc76bb32d7a2cec6a5589651c7944cd4674fed9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
