@@ -1,0 +1,1 @@
+MADDE 2. Mediko-Sosyal Kültür ve Spor İşleri Dairesi; Üniversitelerde hizmet verdiği kesimin bütünü için bir sağlık kuruluşu, öğrencilerin sosyal, kültürel danışma ve rehberlik ile spor ihtiyaçlarını karşılayan bir hizmet birimi ve aynı zamanda eğitim-öğretimin desteklenmesi amacıyla bu alanda uygulama ve araştırmaların yapıldığı bir uygulama dairesidir.

@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.10169",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜKSEKÖĞRETİM KURUMLARI, MEDİKO-SOSYAL SAĞLIK, KÜLTÜR VE SPOR İŞLERİ DAİRESİ UYGULAMA YÖNETMELİĞİ",
+  "number": "10169",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1984/10169",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10169&MevzuatTertip=5",
+  "source_sha256": "560779736a57b1e5fa348c64b2fc03e85d72f6511d510aac3daab17797f05472",
+  "source_bytes": 38315,
+  "published": "1984-02-03",
+  "gazette": "18301",
+  "in_force": "1984-02-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.02.1984); own commencement article: \"bu Yönetmelik, yayım tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik, yayım tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1593,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
