@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-31774",
+  "source_id": 38283,
+  "date": "1998-09-07",
+  "title": "Yeni alınan ödeme kaydedici cihazı 15 gün içerisinde vergi dairesine kaydettirip ödeme kaydedici cihaza ait levhayı almayan mükellefe uygulanacak ceza hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38283",
+  "source_sha256": "ac04104d3428ff6a099f10d85d6d5b08092d3a2d6f6fdfcc34478b710c7fc978",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
