@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5024-29-035857",
+  "source_id": 24686,
+  "date": "1998-10-07",
+  "title": "Kooperatife ait arsanın anonim şirkete devredilmesi halinde K.V.K.'nun 37, 38 ve 39 uncu maddelerinin uygulanıp uygulanmayacağı ve kooperatiflere ait gayrimenkullerin kiralanması karşılığında bunlara yapılan kira ödemeleri tevkifata tabi olduğu hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/24686",
+  "source_sha256": "bee54f965f2e70b34c22e0d3bd07aa79002ee36b9f708b3491c219e8d84a4678",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
