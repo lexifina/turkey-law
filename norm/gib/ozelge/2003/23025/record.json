@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.44/4405-54/49284",
+  "source_id": 23025,
+  "date": "2003-11-17",
+  "title": "Konut için ödenen yıllık kiradan, kısmen işyeri olarak kullanılan kısma isabet eden kira miktarının hesaplanarak, ilgili yıl için tespit edilen yıllık kira tutarı ile karşılaştırılması gerektiği yönündeki görüşünüz Bakanlığımızca da uygun görülmüştür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23025",
+  "source_sha256": "7f812c23dc20698de04ed8e1ec3b395282106e61388be08c3c5d689afdc55ca2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
