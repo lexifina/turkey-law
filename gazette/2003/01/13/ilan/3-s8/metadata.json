@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-01-13",
+  "issue": "24992",
+  "edition": "regular",
+  "item": 8,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "İzmir Su ve Kanalizasyon İdaresi Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030113-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (17 = 17)",
+  "ilan_codes": [
+    "346/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030113-3.htm",
+  "category_page_sha256": "b2aa2f2cebc1b6ce94f8a0a1ada520932bf2900ba3d811cb7399f58ad271ab6c",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030113.htm",
+  "index_sha256": "877e29a52f1ac7b05d8a2729007f9b8bf0903ddf066900eb78fc3a3d88246898",
+  "index_header": "13 Ocak 2003 ... Sayı : 24992",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
