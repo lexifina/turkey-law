@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6609-444/11497",
+  "source_id": 27190,
+  "date": "2005-03-09",
+  "title": "Ruhsatsız olarak başlatılan inşaat için bina inşaat harcı uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/27190",
+  "source_sha256": "c1f961e8308a54be3aa256c04bd75f7fd80db98332962b5374551cf7a3786af3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
