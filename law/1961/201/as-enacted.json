@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "201",
+  "year": 1961,
+  "title": "5887 sayılı Harçlar Kanununun 79 ncu ve 80 nci maddeleri ile bu kanuna bağlı 7 ve 8 sayılı tarifelerin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1961-01-07",
+  "gazette_issue": "10701",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10701.pdf",
+  "source_sha256": "9d7c2f77e523ffeed8d4f533348b6fb54c8b8206455fe48c5ed922619b1c0f21",
+  "text_sha256": "f9abae294e67afc415132e0f8aa7d730a51423ada0d13d475af44c54462f52d0",
+  "text_status": "ocr",
+  "pages": [
+    11,
+    12
+  ],
+  "line_span": [
+    [
+      4003,
+      4005
+    ],
+    [
+      4016,
+      4067
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300201.pdf",
+    "source_sha256": "1f7959b120db2e1f44ceb44ba558c8280ef21d540ef164aca4825d8649e6cfc3",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9104,
+    "bag": 0.8114,
+    "kd_coverage": 0.9723,
+    "kd_body_compared": 0.2234,
+    "rg_words": 279,
+    "kd_words": 1101,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
