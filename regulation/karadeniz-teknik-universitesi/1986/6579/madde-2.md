@@ -1,0 +1,2 @@
+Kapsam
+Madde 2- Bu yönetmelik, Yükseköğretim Kanunu, Yükseköğretimle ilgili diğer kanunlar, Yükseköğretim üst kuruluşlarının kararları ve Karadeniz Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim, Sınav, Değerlendirme ve Öğrenci İşleri Yönetmeliğine göre Fatih Eğitim Fakültesinde uygulanan Öğretmenlik Sertifikası Programı, sınav ve değerlendirme esasları ile öğrenci kabulüne ilişkin hükümleri kapsar.

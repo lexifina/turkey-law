@@ -1,0 +1,1 @@
+Madde 6- Fakülte Yönetim Kurulu, programa kabul edilecek öğrencileri tespit etmede, Karadeniz Üniversitesinde, öğretmenlik alanında (alan bilgisi) veren fakültelerin öğrencileri ile orta öğretimde öğretmenlik yapabilmek için gerekli dallardan mezun olan adaylara öncelik tanır.
