@@ -1,0 +1,56 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 78809,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar / Adalet Komisyonu Raporu",
+  "title": "TBMM fihrist kaydı 78809 (Raporlar / Adalet Komisyonu Raporu)",
+  "first_sitting_date": "1948-06-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 12,
+      "sitting": 72,
+      "sitting_date": "1948-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c012/tbmm08012fih.pdf",
+      "pages": [
+        "216"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 76,
+      "sitting_date": "1948-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c012/tbmm08012076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c012/tbmm08012fih.pdf",
+      "pages": [
+        "375:376"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 78,
+      "sitting_date": "1948-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c012/tbmm08012078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d/c012/tbmm08012fih.pdf",
+      "pages": [
+        "465"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1724&v_gelecek_sayfa=601&v_kullanici_id=27484112",
+  "source_sha256": "bf7b0318b31df427417d270b68441aab568ae3f501798e60f1fc5784ba4cb588",
+  "in_force": "1948-06-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
