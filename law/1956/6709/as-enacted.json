@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6709",
+  "year": 1956,
+  "title": "Hastalık ve analık sigortası Kanununun 7 ve 27 nci maddelerinin tadiline ve bu kanuna bir muvakkat madde eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-04-11",
+  "gazette_issue": "9282",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9282.pdf",
+  "source_sha256": "ba190f84264ce1594aa85933762dc7dd487c262ecd5061e0101b018b413b8b1d",
+  "text_sha256": "be9da5e76f833cc38716eb59e53eb9a083096f9cbf2f4fb243d9f7a96dee8e55",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      294,
+      329
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806709.pdf",
+    "source_sha256": "91fa82b3f858a4762456634a529e10461523308dbc4ec1d465ebc1de629fe428",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9872,
+    "bag": 0.9284,
+    "kd_coverage": 0.9543,
+    "kd_body_compared": 0.9543,
+    "rg_words": 189,
+    "kd_words": 197,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
