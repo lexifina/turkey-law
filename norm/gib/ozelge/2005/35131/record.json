@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6202-1938/008276",
+  "source_id": 35131,
+  "date": "2005-02-22",
+  "title": "Mal ve hizmet alımlarına ilişkin ihale ve doğrudan temin kararları ile benzeri konularda düzenlenen sözleşmelerde damga vergisi matrahı katma değer vergisi hariç tutar üzerinden hesaplanacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35131",
+  "source_sha256": "ab56515a02136342340d0c3f0c02fc7a3ab3d8ff77f39310f4e9587b53d2800b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
