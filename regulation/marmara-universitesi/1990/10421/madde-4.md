@@ -1,0 +1,1 @@
+Madde 4- Bu amaca ulaşmak için, kütüphaneler, Marmara Üniversitesi Kütüphane ve Dokümantasyon Daire Başkanlığı merkezi örgütü içinde işletilir. Merkez ve birim kütüphanelerinin her biri bu örgütün hizmetlerinden faydalanır ve katkıda bulunur.

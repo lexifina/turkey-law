@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’ de yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1990-11-20",
+      "20.11.1990",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik Resmi Gazete’ de yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "20701",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1990-11-20",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Marmara Üniversitesi",
+  "issuer_slug": "marmara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/marmara-universitesi/1990/10421",
+  "published": "1990-11-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10421&MevzuatTertip=5",
+  "source_bytes": 32275,
+  "source_id": "8.5.10421",
+  "source_sha256": "0e5ce2a1836ae2ffe1bcc9db268d65ab162267318e9854bdb0085c325ab3f9d7",
+  "text_status": "as-enacted",
+  "title": "MARMARA ÜNİVERSİTESİ KÜTÜPHANELER YÖNETMELİĞİ",
+  "university_id": 210,
+  "word_count": 957
+}
