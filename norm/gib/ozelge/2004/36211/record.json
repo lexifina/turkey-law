@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6340-166-3932",
+  "source_id": 36211,
+  "date": "2004-01-27",
+  "title": "Bankalar, yurt dışı kredi kuruluşları ve uluslar arası kurumlarca kullandırılacak kredilerin teminatına yönelik tapu sicil müdürlüklerince yapılacak ipotek işlemlerinde tapu harcı ve damga vergisinin tahsil edilip edilemeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36211",
+  "source_sha256": "fe10605e19eb4e4f226701e98d2a11f64f97fcf2aa839b74e87d24fc29ab1507",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
