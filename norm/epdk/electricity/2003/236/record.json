@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "236",
+  "decision_date": "2003-10-31",
+  "title": "Başkent Elektrik Dağıtım Anonim Şirketi Dağıtım Tarifesi",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bGGm+NuTcK8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bGGm+NuTcK8="
+  ],
+  "source_sha256": "959e2b898f76542a1bafe5c55e0641cd9ee2dd9f5cd723397001efab5f29b9fc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-10-31",
+  "law_text_complete": false
+}
