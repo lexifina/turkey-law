@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3040-367-845/14398",
+  "source_id": 27222,
+  "date": "1998-04-15",
+  "title": "İlgili şirket yönetici ve ortaklarının \"kaçakçılık\" suçunu işlediğini yaptığı inceleme sonucu ortaya çıkaran denetim elemanının doğrudan savcılığa suç duyurusunda bulunabileceği; ayrıca defterdarlıktan mütalaa alınmasına gerek olmadığı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27222",
+  "source_sha256": "743bd590e0f1031ed7c1f31ee23068d4a9c22268a24da60681498d71c714dee4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
