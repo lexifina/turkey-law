@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5301",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti ile Filistin Yönetimi Adına Filistin Kurtuluş Örgütü Arasındaki Geçici Serbest Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-02-16",
+  "gazette_issue": "25729",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050216-1.htm",
+  "source_sha256": "a959f0a5a8d984992342a6142d5f222a9d1e6ed0e906250edbf903f2b62c4b75",
+  "text_sha256": "0d6720d9a0e8791e331ba043932e758ef2c254aa94605c83dae08cbd030d02fc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/02/16/25729-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050216-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
