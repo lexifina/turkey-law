@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/555",
+  "list_number": "555",
+  "decision_date": "2004-03-09",
+  "title": "YSK ilke kararı 2004/555",
+  "summary": "Seçmen kütüklerindeki bilgilerden yararlanma konusunda bir istem olduğunda ve istem konusunun açık olarak bildirilmesi durumunda, istemin mahiyeti ve özelliği göz önüne alınarak Yüksek Seçim Kurulunca 2839 sayılı Kanunun 40. maddesi kapsamına göre değerlendirilir ve gerekli karar verilir. Aksi halde, istemin reddi gerekir.",
+  "concepts": "SEÇİM BELGELERİNDEN FAYDALANMA USULÜ, İZİN İSTEMİNİN AÇIK OLARAK BELİRTİLMESİ GEREKİR",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3992/2004-555-karar.htm",
+  "source_sha256": "5f9653c2950a630f279fa33bc433d2a2504410893335b93a1631c4bc8f6f5a83",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "2004-03-09",
+  "law_text_complete": true
+}
