@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3152",
+  "year": 1937,
+  "title": "Gümrük tarifesi hakkındaki 1499 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-04-20",
+  "gazette_issue": "3585",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3585.pdf",
+  "source_sha256": "a2348ffd6dc7b2c11a94d32e682221ac19dc23900b502a5a35476994dd7e0bf0",
+  "text_sha256": "238fe11e6635dca9830eb6e10e1c36e97c12382643c4bd384d27af4e8531474a",
+  "text_status": "ocr",
+  "pages": [
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      903,
+      993
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [4, 5] (no text layer)",
+    "tesseract_pages": [
+      4,
+      5
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703152.pdf",
+    "source_sha256": "564efdb73852ed2fca181659864b75caec8626697762e6af92518677c8b35059",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9695,
+    "bag": 0.8647,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9968,
+    "rg_words": 626,
+    "kd_words": 625,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
