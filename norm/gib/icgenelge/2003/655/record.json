@@ -1,0 +1,43 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2003/2",
+  "source_id": 655,
+  "date": "2003-03-28",
+  "title": "VERGİ BARIŞI KANUNU İÇ GENELGESİ SERİ NO: 2003/2",
+  "source": "https://gib.gov.tr/mevzuat/kanun/458/icgenelge/655",
+  "source_sha256": "8c93ea2825570a0f2dbe3459567b93682440c1fe07928f0a4a7643717d840688",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/458/icgenelge/653",
+        "quote": "28/3/2003 tarihli ve 2003/2 Seri Nolu Vergi Barışı Kanunu İç Genelgesinin"
+      },
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/458/icgenelge/653",
+        "quote": "28/3/2003 tarihli 2003/2 Seri Nolu Vergi Barışı Kanunu İç Genelgesinin"
+      }
+    ]
+  },
+  "unincorporated_annexes": [
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/harclartum1tarife.html",
+      "title": "(1) sayılı tarife",
+      "status": "official-link-only; annex text not included"
+    },
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/harclartum4tarife.html",
+      "title": "492 sayılı Harçlar Kanununa bağlı (4) sayılı tarifenin",
+      "status": "official-link-only; annex text not included"
+    }
+  ]
+}
