@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6508-91/015757",
+  "source_id": 38251,
+  "date": "2003-04-11",
+  "title": "Katma Değer Vergisi Mükelleflerinin Ödeme Kaydedici Cihazları Kullanmaları Mecburiyeti Hakkında ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38251",
+  "source_sha256": "9894c454da660b710dfffbb6d9958703f7bd2d6b58b2d52e5783ab63b57f3ca7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
