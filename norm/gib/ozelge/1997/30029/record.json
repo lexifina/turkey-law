@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5501-2636/22137",
+  "source_id": 30029,
+  "date": "1997-05-28",
+  "title": "Kurum ve kuruluşların kendileri değil de, bunlara ait iktisadi işletmelerine dahil bulunan gayrimenkullerin kendi personeline bile olsa bedel karşılığı kiraya verilmesi halinde katma değer vergisi uygulanacağı tabiidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30029",
+  "source_sha256": "a698897b205908970d775c73aae09b3e4d9eae3b5be3dd655778324ee8f5d774",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
