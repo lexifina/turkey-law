@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.57/5732-",
+  "source_id": 38040,
+  "date": "2004-11-30",
+  "title": "Antalya Serbest Bölgede bulunan firmalara ve serbest bölge içindeki limana yanaşan...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38040",
+  "source_sha256": "60efd36be2c74106ad5b8e55b85b00d1dd5c4755b50a32857351249a45a41324",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
