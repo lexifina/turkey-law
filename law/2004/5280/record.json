@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5280",
+  "year": 2004,
+  "title": "2003 Malî Yılı Katma Bütçeli İdareler Kesinhesap Kanunu",
+  "adopted": "2004-12-28",
+  "adopted_as_published": "28/12/2004",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.01.2005 No: 25692 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905280.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 89",
+  "committee_reports": [
+    {
+      "label": "TBMM 709 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c069/tbmm22069035ss0709.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 199541,
+      "title": "2003 Malî Yılı Katma Bütçeli İdareler Kesinhesap Kanunu",
+      "adopted_as_published": "28/12/2004",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905280.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 709 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c069/tbmm22069035ss0709.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 58,
+          "sitting": 118,
+          "sitting_date": "2004-08-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c058/tbmm22058118.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c058/tbmm22058fih.pdf",
+          "pages": [
+            "15"
+          ]
+        },
+        {
+          "cilt": 68,
+          "sitting": 33,
+          "sitting_date": "2004-12-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c068/tbmm22068033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c068/tbmm22068fih.pdf",
+          "pages": [
+            "265"
+          ]
+        },
+        {
+          "cilt": 71,
+          "sitting": 43,
+          "sitting_date": "2004-12-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c071/tbmm22071043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c071/tbmm22071fih.pdf",
+          "pages": [
+            "179:235",
+            "318:329"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=501&v_kullanici_id=27483198",
+      "page_sha256": "7ca6fd34cec2c04b442d482dc9b5cfc0c6b038434ea86f61b3ce28aa500942e4"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7ca6fd34cec2c04b442d482dc9b5cfc0c6b038434ea86f61b3ce28aa500942e4",
+  "issuer": "TBMM",
+  "in_force": "2004-12-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 28/12/2004; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
