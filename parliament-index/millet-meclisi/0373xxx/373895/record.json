@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 373895,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "7334 sayılı İktisadi ve Ticari İlimler Akademileri Kanununun birinci ve yirmi birinci maddelerinin değiştirilmesine ve bu kanuna dört ek madde eklenmesine dair kanun tasarısı ile İzmir Milletvekili Arif Ertunga ve Mustafa Uyar'ın, 7334 sayılı İktisadi ve Ticari İlimler Akademileri Kanununun 1. maddesinin değiştirilmesine ve bu kanuna 6 madde eklenmesine dair kanun teklifi ile Cumhuriyet Senatosu Adana Üyesi Mehmet Ünaldı ve 11 arkadaşının, 7334 sayılı İktisadi ve Ticari İlimler Akademisi Kanununun 1. maddesinin değiştirilmesine ve bu kanuna 7 madde eklenmesine dair.kanun teklifi hakkında (1/483, 2/280, 2/410)",
+  "title": "7334 sayılı İktisadi ve Ticari İlimler Akademileri Kanununun birinci ve yirmi birinci maddelerinin değiştirilmesine ve bu kanuna dört ek madde eklenmesine dair kanun tasarısı ile İzmir Milletvekili Arif Ertunga ve Mustafa Uyar'ın, 7334 sayılı İktisadi ve Ticari İlimler Akademileri Kanununun 1. maddesinin değiştirilmesine ve bu kanuna 6 madde eklenmesine dair kanun teklifi ile Cumhuriyet Senatosu Adana Üyesi Mehmet Ünaldı ve 11 arkadaşının, 7334 sayılı İktisadi ve Ticari İlimler Akademisi Kanununun 1. maddesinin değiştirilmesine ve bu kanuna 7 madde eklenmesine dair.kanun teklifi hakkında (1/483, 2/280, 2/410)",
+  "first_sitting_date": "1969-03-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 35,
+      "sitting": 70,
+      "sitting_date": "1969-03-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c035/mm__02035070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c035/mm__02035fih.pdf",
+      "pages": [
+        "299",
+        "447:450",
+        "486:487",
+        "493",
+        "504:507"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=5001&v_kullanici_id=27484836",
+  "source_sha256": "1f1d215eb00fc589a468bb59bba5426e28e2902af0fa66c9e7a5091591dcfe42",
+  "in_force": "1969-03-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
