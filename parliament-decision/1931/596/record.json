@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "596",
+  "year": 1931,
+  "title": "596 sayılı Karar",
+  "adopted": "1931-01-01",
+  "adopted_as_published": "01/01/1931",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "10.01.1931 No: 1695",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/karartbmmc009/karartbmmc00900596.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 9",
+  "committee_reports": [
+    {
+      "label": "TBMM 23 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c024/tbmm03024017ss0023.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120874,
+      "title": "596 sayılı Karar",
+      "adopted_as_published": "01/01/1931",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/karartbmmc009/karartbmmc00900596.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 23 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c024/tbmm03024017ss0023.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 16,
+          "sitting_date": "1930-12-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c023/tbmm03023016.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c023/tbmm03023fih.pdf",
+          "pages": [
+            "50"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 17,
+          "sitting_date": "1931-01-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c024/tbmm03024017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c024/tbmm03024fih.pdf",
+          "pages": [
+            "10"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=256&v_gelecek_sayfa=201&v_kullanici_id=27483258",
+      "page_sha256": "7b8b712825e7125ecdd3dd4b4a53bc56f41c5d808061bb5ce64fdce502b4a69e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7b8b712825e7125ecdd3dd4b4a53bc56f41c5d808061bb5ce64fdce502b4a69e",
+  "issuer": "TBMM",
+  "in_force": "1931-01-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 01/01/1931; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
