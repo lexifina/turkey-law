@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82611,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "ABDULKADİR CAVİT EKİN (DİYARBAKIR)",
+  "summary": "Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü memur ve Hizmetlilerinin ücretlerine dair olan Kanunda değişiklik yapan 4620 ve 5000 sayılı kanunların bazı Hükümlerinin değiştirilmesi hakkında (2/51)",
+  "title": "Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü memur ve Hizmetlilerinin ücretlerine dair olan Kanunda değişiklik yapan 4620 ve 5000 sayılı kanunların bazı Hükümlerinin değiştirilmesi hakkında (2/51)",
+  "first_sitting_date": "1947-06-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 69,
+      "sitting_date": "1947-06-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006fih.pdf",
+      "pages": [
+        "43"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 70,
+      "sitting_date": "1947-06-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006fih.pdf",
+      "pages": [
+        "87"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 71,
+      "sitting_date": "1947-06-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006fih.pdf",
+      "pages": [
+        "124:125"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 73,
+      "sitting_date": "1947-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006fih.pdf",
+      "pages": [
+        "239:240"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "89cc5dc0771589931f54f69e2061a823b93c6e7c7053bfb30e7d1db40ada367c",
+  "in_force": "1947-06-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
