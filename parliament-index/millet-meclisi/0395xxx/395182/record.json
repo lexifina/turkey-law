@@ -1,0 +1,70 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 395182,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Tekel Genel Müdürlüğü 1973 yılı Bütçe kanunu tasarısı (1748)",
+  "title": "Tekel Genel Müdürlüğü 1973 yılı Bütçe kanunu tasarısı (1748)",
+  "first_sitting_date": "1972-12-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 29,
+      "sitting": 12,
+      "sitting_date": "1972-12-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029fih.pdf",
+      "pages": [
+        "351"
+      ]
+    },
+    {
+      "cilt": 33,
+      "sitting": 57,
+      "sitting_date": "1973-02-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c033/mm__03033057.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c033/mm__03033fih.pdf",
+      "pages": [
+        "551"
+      ]
+    },
+    {
+      "cilt": 34,
+      "sitting": 66,
+      "sitting_date": "1973-02-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c034/mm__03034066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c034/mm__03034fih.pdf",
+      "pages": [
+        "812",
+        "814"
+      ]
+    },
+    {
+      "cilt": 35,
+      "sitting": 71,
+      "sitting_date": "1973-02-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035fih.pdf",
+      "pages": [
+        "482",
+        "570",
+        "573"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2701&v_kullanici_id=27484850",
+  "source_sha256": "1442e8a1cdd474cd8c1c3a22a950fda79ed5868b5b73694427e83c45b8799512",
+  "in_force": "1972-12-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
