@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "",
+  "source_id": 489,
+  "date": "2005-01-10",
+  "title": "HARÇLAR KANUNU İÇ GENELGESİ SIRA NO: 2005/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/icgenelge/489",
+  "source_sha256": "a3de464314833851b747e444a824bd793146ab1e8f73bd66a55d3c725768514c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
