@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1991-11-02",
+      "02.11.1991",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21039",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1991-11-02",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dicle Üniversitesi",
+  "issuer_slug": "dicle-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dicle-universitesi/1991/10198",
+  "published": "1991-11-02",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10198&MevzuatTertip=5",
+  "source_bytes": 26790,
+  "source_id": "8.5.10198",
+  "source_sha256": "a104e06049a0468e77584b3fb654284787b36f585c9c61a8f4ee28f4ce19fba2",
+  "text_status": "as-enacted",
+  "title": "DİCLE ÜNİVERSİTESİ SAĞLIK BİLİMLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 188,
+  "word_count": 836
+}
