@@ -1,0 +1,19 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 5,
+  "term_label": "5. Dönem",
+  "legislative_year": 3,
+  "cilt": 18,
+  "sitting": 65,
+  "label": "65. Birleşim",
+  "sitting_date": "1937-05-26",
+  "date_as_published": "26 Mayıs 1937",
+  "weekday": "Çarşamba",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c018/tbmm05018065.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c018/tbmm05018fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d05&v_yasama_yili=3&v_cilt=",
+  "source_sha256": "9ce0645a05285d06648fd5a6e9bdf7083417702836ec04dce4e43a8ac347d80e",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
