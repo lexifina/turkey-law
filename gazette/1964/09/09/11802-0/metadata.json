@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-issue",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "1964-09-09",
+  "issue": "11802",
+  "issue_basis": "official archive file name /arsiv/<issue>.pdf (the archive numbers its files by issue; e.g. 24091.pdf = 26.06.2000, the issue before HTML issue 24092)",
+  "edition": "regular",
+  "archive_mukerrer_flag": null,
+  "item": 0,
+  "section": null,
+  "heading": null,
+  "title": "09.09.1964 tarihli Resmi Gazete",
+  "official_link": "https://www.resmigazete.gov.tr/arsiv/11802.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/Home/Filter",
+  "index_request": {
+    "method": "POST",
+    "searchtype": 2,
+    "arsivaramayeri": "1",
+    "from": "1964-01-01",
+    "to": "1964-12-31"
+  },
+  "index_sha256": "d5e5f23d4ae1a691414a3e2046462244bffc3fe1a170f9efc319d0ff3f043590",
+  "index_header": "official archive listing date 09.09.1964",
+  "issue_pdf": "https://www.resmigazete.gov.tr/arsiv/11802.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; whole issue published as a scanned PDF (no OCR); items not listed"
+}
