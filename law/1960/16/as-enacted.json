@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "16",
+  "year": 1960,
+  "title": "Dışişleri Bakanlığı kuruluşu hakkındaki 3312 sayılı Kanuna ek 5250 sayılı Kanunda değişiklik yapılması ve bu kanuna bazı maddeler eklenmesi hakkında geçici Kanun (BASILI GENEL KURUL TUTANAGI BULUNMAMAKTADIR)",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-07-14",
+  "gazette_issue": "10551",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10551.pdf",
+  "source_sha256": "fe276df08016febd7baef7051ed388e8e6227eab87de844c491d841a105cf8e0",
+  "text_sha256": "33f330069fe22af5640ec3e963243ce5faa6a55474d543e0cc9fe5b261e5349a",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      56
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300016.pdf",
+    "source_sha256": "537166abd5ffd9ae8298cacb6a858c096c96fc013828cc12ff9f78102012b215",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9435,
+    "bag": 0.83,
+    "kd_coverage": 0.9853,
+    "kd_body_compared": 0.9655,
+    "rg_words": 358,
+    "kd_words": 348,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
