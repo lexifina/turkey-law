@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2337/6903",
+  "source_id": 38214,
+  "date": "2005-02-14",
+  "title": "Reddedilen mirasın Hazine'ye geçmesi için ölenin, mirası reddedenin yakın mirasçıları dışında yasal ve mansup hiç bir mirasçısının olmaması ya da vasiyet yoluyla hak kazanan üçüncü bir kişinin bulunmaması gerektiği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/38214",
+  "source_sha256": "12bfcbfff0f9ad88d619d34a9dd543f1eebe77617079e97bc394866ec8cd115b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
