@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3837",
+  "year": 1992,
+  "title": "Yükseköğretim Kurumları Teşkilatı Hakkında 41 Sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair 2809 Sayılı Kanun ile 78 ve 190 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "1992-07-03",
+  "adopted_as_published": "03/07/1992",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "11.07.1992 No: 21281",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc075/kanuntbmmc075/kanuntbmmc07503837.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 75",
+  "committee_reports": [
+    {
+      "label": "TBMM 110 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c015/tbmm19015093ss0110.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 256573,
+      "title": "Yükseköğretim Kurumları Teşkilatı Hakkında 41 Sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair 2809 Sayılı Kanun ile 78 ve 190 Sayılı Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "03/07/1992",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc075/kanuntbmmc075/kanuntbmmc07503837.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 110 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c015/tbmm19015093ss0110.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 71,
+          "sitting_date": "1992-04-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c010/tbmm19010071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c010/tbmm19010fih.pdf",
+          "pages": [
+            "111"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 86,
+          "sitting_date": "1992-06-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c013/tbmm19013086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c013/tbmm19013fih.pdf",
+          "pages": [
+            "145"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 93,
+          "sitting_date": "1992-07-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c015/tbmm19015093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c015/tbmm19015fih.pdf",
+          "pages": [
+            "19:136"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5",
+  "issuer": "TBMM",
+  "in_force": "1992-07-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 03/07/1992; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
