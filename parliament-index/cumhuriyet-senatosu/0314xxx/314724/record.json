@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 314724,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "444 sayılı Kanunun 1. ve 2. maddelerinin değiştirilmesine dair (Millet Meclisi 2/229:Cumhuriyet Senatosu 2/297) (S. Sayısı, 1450)",
+  "title": "444 sayılı Kanunun 1. ve 2. maddelerinin değiştirilmesine dair (Millet Meclisi 2/229:Cumhuriyet Senatosu 2/297) (S. Sayısı, 1450)",
+  "first_sitting_date": "1970-04-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 57,
+      "sitting": 64,
+      "sitting_date": "1970-04-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057fih.pdf",
+      "pages": [
+        "833"
+      ]
+    },
+    {
+      "cilt": 59,
+      "sitting": 82,
+      "sitting_date": "1970-06-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c059/cs__09059082.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c059/cs__09059fih.pdf",
+      "pages": [
+        "373",
+        "389"
+      ]
+    },
+    {
+      "cilt": 60,
+      "sitting": 98,
+      "sitting_date": "1970-07-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060098.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060fih.pdf",
+      "pages": [
+        "686:691",
+        "704:706"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=401&v_kullanici_id=27484924",
+  "source_sha256": "43e569bad21ed2adc7f6a66158069b7ff55af015f13de3a87c2dfe94e8b0727f",
+  "in_force": "1970-04-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
