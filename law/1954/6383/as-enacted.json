@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6383",
+  "year": 1954,
+  "title": "Tapulama Kanununun 5. Maddesinin Değiştirilmesine ve Bu Kanuna Yeni Hükümler İlâvesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-20",
+  "gazette_issue": "8663",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8663.pdf",
+  "source_sha256": "49132546a7d80f90ec6ed440bb5b599841341d3794731ed2b6e89877c7c7468e",
+  "text_sha256": "ef4e46fac6f5a595c74d98a47c5158930dc56b613b01cdfa924b9d99d33a9200",
+  "text_status": "ocr",
+  "pages": [
+    27
+  ],
+  "line_span": [
+    [
+      5933,
+      5971
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606383.pdf",
+    "source_sha256": "2b062abb90510e26688684a12fc377b08d780f60eb6f738d848d005a9bacfd27",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9866,
+    "bag": 0.9537,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9923,
+    "rg_words": 259,
+    "kd_words": 261,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
