@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5428- 1892",
+  "source_id": 33211,
+  "date": "2005-01-14",
+  "title": "İnsan sağlığına yönelik olarak diş hekimlerine ve kurumlar aracılığı ile nihai tüketiciye diş, protez. kron köprü ve protez kapsamında değerlendirilen porselen diş. teslimleri ile hizmeti % 8 oranında katma değer vergisine tabi olması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33211",
+  "source_sha256": "9a18194bffd1156e2e88f30870cd9a6da1e3e9735ce88eb70d930e37a394300c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
