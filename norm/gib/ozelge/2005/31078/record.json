@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5411-2496",
+  "source_id": 31078,
+  "date": "2005-03-24",
+  "title": "Hizmet ihracında katma değer vergisi istisnası uygulanabilmesi için hizmetten yurt dışında yararlanılmalıdır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31078",
+  "source_sha256": "9e148071f0ecaa240e763fdda3bf3114708c6d12a3e605035c628bd49d3a4106",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
