@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4201-30/44486",
+  "source_id": 20718,
+  "date": "2004-09-21",
+  "title": "1997 yılından beri Türkiye'de oturmakta olan şahıs, yabancı TV şirketlerine verdiği gazetecilik hizmeti faaliyetinizden dolayı tam mükellefiyet esasında vergilendirilmesigerekir. Öte yandan, Türkiye'de elde edilen ücret gelirlerinin Gelir Vergisi Kanununu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20718",
+  "source_sha256": "2fa81bae36ec55de6a3591dfaee8ebb9ae82367f8e1e0bd047f8b96b59032a11",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
