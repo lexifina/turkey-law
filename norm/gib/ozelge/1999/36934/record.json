@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1046/29432",
+  "source_id": 36934,
+  "date": "1999-07-12",
+  "title": "Cari işlemler hesabını yıl sonunda kapatamayan banka şubelerinin B.S.M.V. karşısındaki durumu hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36934",
+  "source_sha256": "cc4f050dbef42f4be94ee8353e3ae3ca4f3b3fe532b6c0e944d9ad06b572278c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
