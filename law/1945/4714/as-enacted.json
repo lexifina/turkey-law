@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4714",
+  "year": 1945,
+  "title": "Vakıflar memba sulariyle orman ve zeytinliklerinin işletilmesi hakkındaki 3913 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-04-12",
+  "gazette_issue": "5980",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5980.pdf",
+  "source_sha256": "2d4b4b44db8d9f3144138db9c2eb4001153a353f26680989c3c13b806c1f566c",
+  "text_sha256": "736a1af4985380cbb0b64a4d55a0cda1d13f7e1203828d8f29024fc3134eb432",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      73,
+      92
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704714.pdf",
+    "source_sha256": "4a3b0e70bfb1a4dfbb1d853864b052f2189031021ff15c4cb98b0813275b21d9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9523,
+    "bag": 0.9123,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9869,
+    "rg_words": 134,
+    "kd_words": 153,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
