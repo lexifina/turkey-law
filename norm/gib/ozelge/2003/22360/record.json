@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4041-76/32273",
+  "source_id": 22360,
+  "date": "2003-07-24",
+  "title": "Maliyet bedeli artırımının, işletme hesabına göre defter tutan mükellefler tarafından ne şekilde kayıt altına alınacağı, işletme hesap özetinde ve gelir vergisi beyannamesinde ne şekilde gösterileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22360",
+  "source_sha256": "637b3686a2ed4ae33fe2d15f6f52429b52315c08ea473db5ef8ffb84db9728fe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
