@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-29140/7667",
+  "source_id": 21735,
+  "date": "2002-02-15",
+  "title": "Yatırım indirimi dolayısıyla zamanında tahakkuk ettirilmemiş olan vergilerin mükelleften geri alması gerekir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21735",
+  "source_sha256": "24aa44202eb27c43d2556d0e5845c19af1b92039e5078ef39070b68197c822bb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
