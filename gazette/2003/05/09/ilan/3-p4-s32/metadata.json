@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-09",
+  "issue": "25103",
+  "edition": "regular",
+  "item": 32,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "Trakya Üniversitesi Rektörlüğü Döner Sermaye İşletme Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030509-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (67 = 67)",
+  "ilan_codes": [
+    "12840/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030509-3-4.htm",
+  "category_page_sha256": "6cdc05a7f2fd2e4d11d63c3f40149086a4a000d57fe4d1662ee643d4cac5e56d",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030509.htm",
+  "index_sha256": "88c9a897fd46a3a7228a7fb6d2c5c6040456f50574192dd7e98cebb6cc8f8a01",
+  "index_header": "9 Mayıs 2003 ... Sayı : 25103",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
