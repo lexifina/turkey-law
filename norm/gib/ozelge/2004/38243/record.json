@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6508-95/16442",
+  "source_id": 38243,
+  "date": "2004-04-14",
+  "title": "3100 Sayılı Kanunda fiş ebatları ile ilgili bir sınırlama olmadığı ve 7 Seri No.lu Genel Tebliğinde açıklanan koşulları taşıması şartıyla ödeme kaydedici cihaz fişlerinin küçük ebatlı olmasının mümkün olmasının mümkün olması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38243",
+  "source_sha256": "8d0bb50edfa5f262668fd1ee135605b5b002730a5f54bc7718cba5579fd7160b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
