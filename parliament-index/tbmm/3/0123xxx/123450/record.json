@@ -1,0 +1,61 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 123450,
+  "assembly": "TBMM",
+  "term": 3,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "İktisat, Maliye*Memurin Kanunu Encümeni*Memurin Kanununun 89. maddesinin tefsiri hakkında Başvekâlet tezkeresine dair",
+  "title": "İktisat, Maliye*Memurin Kanunu Encümeni*Memurin Kanununun 89. maddesinin tefsiri hakkında Başvekâlet tezkeresine dair",
+  "first_sitting_date": "1928-12-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 16,
+      "sitting_date": "1928-12-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c006/tbmm03006016.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c006/tbmm03006fih.pdf",
+      "pages": [
+        "63",
+        "83"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 29,
+      "sitting_date": "1929-01-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c007/tbmm03007029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c007/tbmm03007fih.pdf",
+      "pages": [
+        "70",
+        "80",
+        "86"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 34,
+      "sitting_date": "1929-02-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c008/tbmm03008034.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c008/tbmm03008fih.pdf",
+      "pages": [
+        "28",
+        "55"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1561&v_gelecek_sayfa=501&v_kullanici_id=27483795",
+  "source_sha256": "1988040a7176305f8832c913a4a6c8e960e488bf1124a0f358e73a6eb91d016c",
+  "in_force": "1928-12-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
