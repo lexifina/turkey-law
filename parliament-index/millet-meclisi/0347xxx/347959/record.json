@@ -1,0 +1,125 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 347959,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "31.12.1961 tarihli ve 193 sayılı gelir vergisi Kanununun bazı madde ve fıkralarının değiştirilmesi ve bu kanuna bazı hükümler eklenmesi hakkında kanun tasarısına dair (1/632)",
+  "title": "31.12.1961 tarihli ve 193 sayılı gelir vergisi Kanununun bazı madde ve fıkralarının değiştirilmesi ve bu kanuna bazı hükümler eklenmesi hakkında kanun tasarısına dair (1/632)",
+  "first_sitting_date": "1964-02-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 28,
+      "sitting": 63,
+      "sitting_date": "1964-02-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028fih.pdf",
+      "pages": [
+        "4"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 70,
+      "sitting_date": "1964-03-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028fih.pdf",
+      "pages": [
+        "629:640"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 73,
+      "sitting_date": "1964-03-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028fih.pdf",
+      "pages": [
+        "683:712"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 79,
+      "sitting_date": "1964-03-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029fih.pdf",
+      "pages": [
+        "149:178"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 80,
+      "sitting_date": "1964-03-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029fih.pdf",
+      "pages": [
+        "191:240"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 81,
+      "sitting_date": "1964-04-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029081.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029fih.pdf",
+      "pages": [
+        "247:254",
+        "256:277"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 82,
+      "sitting_date": "1964-04-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029082.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029fih.pdf",
+      "pages": [
+        "282",
+        "288:305"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 87,
+      "sitting_date": "1964-04-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029087.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029fih.pdf",
+      "pages": [
+        "440:470"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 90,
+      "sitting_date": "1964-04-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029090.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029fih.pdf",
+      "pages": [
+        "555:577",
+        "587:594"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=6601&v_kullanici_id=27484836",
+  "source_sha256": "31b2c4bf6cb96d8822ea10d268841a778aeb9ba6f6970cb494e5912bef997dbb",
+  "in_force": "1964-02-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
