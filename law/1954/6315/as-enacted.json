@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6315",
+  "year": 1954,
+  "title": "Muamele Vergisi Kanununun 9. Maddesine Bir Fıkra Eklenmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-09",
+  "gazette_issue": "8653",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8653.pdf",
+  "source_sha256": "c09b7c1b064c17f218e886a875bdd85e72b9c32fa6634b3b7c474b29bbe7e002",
+  "text_sha256": "22ffcc8d606ed2f492e204ecefc6870c2f128a0cf5dbd878f1943a9927a3936e",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      591,
+      608
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606315.pdf",
+    "source_sha256": "fab836692e7be09b55dd8ffc32b95f722ef9299bd0496c3af0c49262ec1099d0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9736,
+    "bag": 0.9395,
+    "kd_coverage": 0.9818,
+    "kd_body_compared": 0.9818,
+    "rg_words": 107,
+    "kd_words": 110,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
