@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1941",
+  "year": 1932,
+  "title": "Jandarmadan olan şoförlere verilecek ücret hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-04-13",
+  "gazette_issue": "2076",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2076.pdf",
+  "source_sha256": "7b6f9076a0358bd8d023001c9f7c1ccb891c08858d7b0e35f19d0265d6885f3b",
+  "text_sha256": "c0e7f8099bd11f0e53fec3c3b7a9d7bde62ecc30740fee2df30cb66fdd1be0a5",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      189,
+      218
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101941.pdf",
+    "source_sha256": "7e0c0f49e31640cb8f592ac024beb53e3eeabd6c83294e90de4e273e16128727",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9193,
+    "bag": 0.8308,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9697,
+    "rg_words": 66,
+    "kd_words": 66,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
