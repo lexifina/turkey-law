@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 130780,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "İstiklâl Harbinde malul olan ve malulen terhis edilen ihtiyat mülazımı Halil Efendinin (4/160) numaralı istidası ve mumaileyhin ihtiyat zabitanına bahşolunan mükâfattan müstefid olması lazımgeldiğîne dair.",
+  "title": "İstiklâl Harbinde malul olan ve malulen terhis edilen ihtiyat mülazımı Halil Efendinin (4/160) numaralı istidası ve mumaileyhin ihtiyat zabitanına bahşolunan mükâfattan müstefid olması lazımgeldiğîne dair.",
+  "first_sitting_date": "1924-02-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 102,
+      "sitting_date": "1924-02-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005102.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005102.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+      "pages": [
+        "838"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2766&v_gelecek_sayfa=401&v_kullanici_id=27483743",
+  "source_sha256": "5da90d39732de858796f527f3df7d67c19485f269365491da697ec44885e2e26",
+  "in_force": "1924-02-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
