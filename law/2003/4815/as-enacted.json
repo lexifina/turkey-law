@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4815",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti ile Bosna Hersek Arasındaki Serbest Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-03-06",
+  "gazette_issue": "25040",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030306.htm",
+  "source_sha256": "11b8e9690795b024515784278c6f304fda011f297b0a812d291ed92cb71dc389",
+  "text_sha256": "ae174d0e0b9c3e4322b74bb38caccee91b7e6cb5e91b84aa6133cbfbaefa8ccd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/03/06/25040-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030306.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
