@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102-452",
+  "source_id": 23100,
+  "date": "2004-11-19",
+  "title": "Fındık patozu tek başına motorlu araç vasfına hai olmadığından buna sahip olan çiftçiler, işletme büyüklüğünü aşmaları halinde gerçek usulde, aksi takdirde tevkifat yapılmak suretiyle vergilendirilecekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23100",
+  "source_sha256": "bee59e73cc5b92e5d762404cdd6c13c532ca9cb5b53e72e4e0becb55c42fd7a6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
