@@ -1,0 +1,48 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1470",
+  "year": 1929,
+  "title": "Ziraî kredi kooperatifleri kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-05",
+  "gazette_issue": "1208",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1208.pdf",
+  "source_sha256": "cbd85ed44fbb56298a1b514906c3eb47bf5d245da81c95874462eafa77de2f6c",
+  "text_sha256": "658fd2093f95c313a21674c4e5bc7f507718c45c39c63dd5719dbd69835f88f8",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      12,
+      388
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701470.pdf",
+    "source_sha256": "6dc6adc50365e666ee1ddd5f729b086f970b8ed642e6b0c89a8e8defd15525f3",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9782,
+    "bag": 0.932,
+    "kd_coverage": 0.9984,
+    "kd_body_compared": 0.9984,
+    "rg_words": 1249,
+    "kd_words": 1240,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
