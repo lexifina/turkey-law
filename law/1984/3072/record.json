@@ -1,0 +1,102 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3072",
+  "year": 1984,
+  "title": "21.2.1967 Tarih ve 832 Sayılı Sayıştay Kanununda Değişiklik Yapılması ve Bu Kanuna Üç Ek Madde Eklenmesi Hakkında Kanun",
+  "adopted": "1984-11-06",
+  "adopted_as_published": "06/11/1984",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.12.1936 No: 3478",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803072.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 68",
+  "committee_reports": [
+    {
+      "label": "TBMM 137 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c008/tbmm17008020ss0137.pdf"
+    },
+    {
+      "label": "TBMM 137ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c008/tbmm17008021ss0137ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 241261,
+      "title": "21.2.1967 Tarih ve 832 Sayılı Sayıştay Kanununda Değişiklik Yapılması ve Bu Kanuna Üç Ek Madde Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "06/11/1984",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803072.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 137 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c008/tbmm17008020ss0137.pdf"
+        },
+        {
+          "label": "TBMM 137ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c008/tbmm17008021ss0137ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 80,
+          "sitting_date": "1984-06-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+          "pages": [
+            "376"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 19,
+          "sitting_date": "1984-10-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c008/tbmm17008019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c008/tbmm17008fih.pdf",
+          "pages": [
+            "4"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 20,
+          "sitting_date": "1984-11-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c008/tbmm17008020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c008/tbmm17008fih.pdf",
+          "pages": [
+            "35:49"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 21,
+          "sitting_date": "1984-11-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c008/tbmm17008021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c008/tbmm17008fih.pdf",
+          "pages": [
+            "106:111",
+            "114:122"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=101&v_kullanici_id=27483190",
+      "page_sha256": "ea56a9603e47224a927a44e02ec5568f795bda52beced9e9df249912bcba60cd"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ea56a9603e47224a927a44e02ec5568f795bda52beced9e9df249912bcba60cd",
+  "issuer": "TBMM",
+  "in_force": "1984-11-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 06/11/1984; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
