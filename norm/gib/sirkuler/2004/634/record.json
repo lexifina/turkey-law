@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-23/2004-15  /Yatırım İndirimi 3",
+  "source_id": 634,
+  "date": "2004-04-14",
+  "title": "Yeminli Mali Müşavirlerce 2003 yılına ilişkin olarak düzenlenecek olan yatırım indirimi tasdik raporu veya içerisinde yatırım indirimi istisnasının değerlendirildiği tam tasdik raporlarının; beyanname verme konusunda kendilerine süre verilip verilmediğine",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/634",
+  "source_sha256": "517fd043fc18435a63bf9edf6e7dabf7fcda8bb5cb101a06d9cd9ea08cf8fa36",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
