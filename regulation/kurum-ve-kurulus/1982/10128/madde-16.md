@@ -1,0 +1,1 @@
+MADDE 16. Üye ve uzmanlar tarafından düzenlenen denetleme rapor ve layihaları, Yükseköğretim Kurulu Başkanlığınca konusu itibariyle ilgili birime havale edilir. Bu birimler, rapor ve layihalarda maddeler halinde belirtilen eksiklerin herbirinin giderilmesini denetim gören kurumla yazışmak suretiyle sağlar.

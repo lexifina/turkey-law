@@ -1,0 +1,20 @@
+Başkanın Görev ve Yetkileri
+MADDE 9. Başkanın görev ve yetkileri şunlardır:
+a) Kurulu temsil etmek,
+b) Yükseköğretim Kurulu Başkanı ile Kurulun ilişkisini sağlamak,
+c) Yükseköğretim Denetleme Kurulunun toplantıları için gündem hazırlamak ve toplantılara Başkanlık etmek,
+d) Kurulun yıllık çalışma ve denetleme programını hazırlamak ve Kurul kararını alarak onaylanmak üzere Yükseköğretim Kurulu Başkanlığına sunmak,
+e) Yıllık çalışma ve denetleme programının uygulanmasını sağlamak,
+f) Üyelere, gerektiğinde, çalışma ve denetleme programı dışında görev vermek,
+g) Üyeler tarafından hazırlanan layiha, rapor ve fezlekeleri Yükseköğretim Kurulu Başkanlığına sunmak,
+h) Yıllık çalışma ve denetleme programında öngörülen işlerle, Yükseköğretim Kurulunca verilen işlerin hangi üye ve uzmanlar tarafından yapılacağını tespit etmek,
+i) Grup çalışmalarında grup başkanını tayin etmek,
+j) Yükseköğretim Kurulu Başkanlığından ceza ve disiplin soruşturmaları için onay almak,
+k) Üyeler tarafından düzenlenen hakediş, rapor ve çalışma çizelgelerini incelemek ve onaylamak,
+l) Kurulun yıllık sarfiyat tahminleri ve gerekçesini hazırlayarak Yükseköğretim Kurulu Başkanlığına sunmak,
+m) Üye ve uzmanların hizmet içi gelişmelerini sağlayıcı önlemleri almak,
+n) Yükseköğretim Kurulu Başkanının daveti üzerine ve ayda en az bir defa, Yükseköğretim Denetleme Kurulunun çalışmaları ve özellikle yapılan denetleme ve soruşturma sonucu düzenlenen rapor ve fezlekelerden çıkan ve Yükseköğretim Kurulunun ana konularını ilgilendiren genel sonuçlar hakkında Yükseköğretim Kuruluna bilgi vermek,
+o) Üye ve uzmanların acil durumlarda yurtiçi görevlendirilmelerini yapmak,
+ö) Yetki verilmesi halinde ita amirliği görevini ifa etmek,
+p) Üye, uzman ve personelin izinlerini düzenlemek,
+r) Her öğretim yılı sonunda, Kurulun durumu ve bir yıllık çalışma sonuçlarını içeren faaliyet raporunu düzenleyerek Yükseköğretim Kurulu Başkanlığına sunmak.

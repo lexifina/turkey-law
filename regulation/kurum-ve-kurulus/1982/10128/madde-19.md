@@ -1,0 +1,3 @@
+Bilgi ve Belge Verme Yükümlülüğü
+MADDE 19. Yükseköğretim Denetleme kurulu Başkanı, üye ve uzmanları münferiden veya toplu olarak, denetimleri sırasında, Yükseköğretim Kurumlarının her kademesindeki yöneticilerinden yazılı veya sözlü bilgi vermelerini, resmi belgelerin veya kayıtların suretlerini veya gerekli gördüklerinde asıllarını isteyebilirler.
+Yükseköğretim Kurumlarının her kademesindeki ilgililer, Yükseköğretim Denetleme Kurulu üye ve uzmanlarının görevlerini yapmaları hususunda kendilerine kolaylık göstermeye ve yardımcı olmaya, yazılı veya sözlü sorularına cevap vermeye, görmeyi ve incelemeyi istedikleri her türlü resmi belge, kayıt ve defterler ile tesisleri itirazsız ve gecikmeksizin göstermeye mecburdurlar.

@@ -1,0 +1,5 @@
+Savunma Hakkı ve Savunmaları Yazı ile Alınacak Kimseler
+MADDE 26. Rektör, dekan, enstitü ve yüksekokul müdürleri öğretim üyeleri ile üniversite ve üst kuruluşlar genel sekreterlerinin savunmaları yazılı alınır. Ancak gerektiğinde, bunların sözlü olarak ifadeleri alınabilir. Diğer görevlilerin sözlü olarak sorguya çekilmesi mümkündür.
+Bu husus kayıtlarla hesapların incelenmesine ihtiyaç gösteren hallere ve soruşturmanın mahiyet ve önemine göre soruşturmacı tarafından takdir olunur.
+Sanığa kendisine atfedilen suçun neden ibaret olduğu soruşturmacı tarafından ayrı ayrı maddeler halinde bildirilir ve suçun önemine göre savunmada bulunabileceği uygun bir zaman verilir.
+Sorgu sırasında veya savunma sonunda sanık tarafından ileri sürülen tanıklar dinlenir ve ortaya konan karşıt deliler gözönünde bulundurulur ve bu deliller usulüne uygun olarak toplanır. Ayrıca sanığın lehinde veya aleyhinde olarak suçun meydana gelip gelmediğini ortaya koyacak her çeşit delil soruşturmacılar tarafından resen de araştırılıp tespit olunur.
