@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8794",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TEKSTİL VE KONFEKSİYON ÜRÜNLERİNİN İTHALATINA İLİŞKİN TEBLİĞ (2005/6)",
+  "number": "8794",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2005/8794",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8794&MevzuatTertip=5",
+  "source_sha256": "bbb64fdf15930a4618bc9df14d0046b67ab2f38869247a01c05f1d249d0c7637",
+  "source_bytes": 12865,
+  "published": "2005-01-27",
+  "gazette": "25709",
+  "in_force": "2005-01-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.01.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 170,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
