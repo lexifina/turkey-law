@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 465600,
+  "assembly": "TBMM Birleşik Toplantı",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Tokat Milletvekili Cevat Atılgan ve 126 arkadaşının, memuriyet mevkii ve nüfuzunu kötüye kullandıkları ve bu eylemlerinin Türk Ceza Kanunu'nun 228, 230 ve 240. maddelerine uyduğu iddiasıyla Başbakan Süleyman Demirel, Maliye eski Bakanı Yılmaz Ergenekon ve Ticaret Bakanı Halil Başol haklarında Anayasanın 90. TBMM Birleşik Toplantısı İçtüzüğünün 12. maddeleri uyarınca, Meclis Soruşturması açılmasına ilişkin önergesi ile 59 Numaralı TBMM Soruşturma Hazırlık Komisyonu Raporu (9/59)",
+  "title": "Tokat Milletvekili Cevat Atılgan ve 126 arkadaşının, memuriyet mevkii ve nüfuzunu kötüye kullandıkları ve bu eylemlerinin Türk Ceza Kanunu'nun 228, 230 ve 240. maddelerine uyduğu iddiasıyla Başbakan Süleyman Demirel, Maliye eski Bakanı Yılmaz Ergenekon ve Ticaret Bakanı Halil Başol haklarında Anayasanın 90. TBMM Birleşik Toplantısı İçtüzüğünün 12. maddeleri uyarınca, Meclis Soruşturması açılmasına ilişkin önergesi ile 59 Numaralı TBMM Soruşturma Hazırlık Komisyonu Raporu (9/59)",
+  "first_sitting_date": "1980-04-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 19,
+      "sitting": 18,
+      "sitting_date": "1980-04-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t19/c019/tbmm19019018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t19/c019/tbmm19019fih.pdf",
+      "pages": [
+        "34"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=8&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=8&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=324&v_gelecek_sayfa=301&v_kullanici_id=27484928",
+  "source_sha256": "93ca732bf5f67bedef5bda79d0338f7ef9ee02fbc2c2ad1ad21956bf9dcaca34",
+  "in_force": "1980-04-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
