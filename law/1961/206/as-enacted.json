@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "206",
+  "year": 1961,
+  "title": "Arazi ve Bina vergilerinin matrahlarına uygulanacak misiller hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1961-01-09",
+  "gazette_issue": "10702",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10702.pdf",
+  "source_sha256": "ae67ffa8544f46868bf20262cbb061ca46cf9040645b773239646e978a96cf3d",
+  "text_sha256": "44bd2b76b9776cc27494846426e50276917c7bc020ce4ecb97cf21fa884dd6eb",
+  "text_status": "ocr",
+  "pages": [
+    11,
+    12
+  ],
+  "line_span": [
+    [
+      1644,
+      1769
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300206.pdf",
+    "source_sha256": "291cb130e369ed2585076b20dab74e55c5bc1f299693232a6f47ab9a7fa7e182",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9767,
+    "bag": 0.9054,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9913,
+    "rg_words": 699,
+    "kd_words": 692,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
