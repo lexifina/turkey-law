@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 116006,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "1.12.1928 tarih ve 457 numaralı kararın tefsiri hakkında 3/139 numaralı Başvekâlet tezkeresi ve Dahiliye ve Adliye encümenleri mazbataları ile askerî şahısların askerî makamların kararları aleyhine Şûrayi devlete müracaat edib edemeyeceklerinin tefsiri hakkında 3/470 numaralı Başvekâlet tezkeresine dair",
+  "title": "1.12.1928 tarih ve 457 numaralı kararın tefsiri hakkında 3/139 numaralı Başvekâlet tezkeresi ve Dahiliye ve Adliye encümenleri mazbataları ile askerî şahısların askerî makamların kararları aleyhine Şûrayi devlete müracaat edib edemeyeceklerinin tefsiri hakkında 3/470 numaralı Başvekâlet tezkeresine dair",
+  "first_sitting_date": "1934-06-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 23,
+      "sitting": 68,
+      "sitting_date": "1934-06-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023fih.pdf",
+      "pages": [
+        "136"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 70,
+      "sitting_date": "1934-06-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023fih.pdf",
+      "pages": [
+        "205:207"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=1401&v_kullanici_id=27483870",
+  "source_sha256": "fa41bfcecca45f1a5556541c33f67214c7c722880e60ff575f5e63c98ad87943",
+  "in_force": "1934-06-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
