@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 174986,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MAZHAR ARIKAN (İÇEL)",
+  "summary": "Ve 22 Arkadaşı 27 Mayıs 1960 tarihinden sonra görevlerinden uzaklaştırılan memurlar hakkında (Millet Meclisi 2/309, Cumhuriyet Senatosu 2/61)",
+  "title": "Ve 22 Arkadaşı 27 Mayıs 1960 tarihinden sonra görevlerinden uzaklaştırılan memurlar hakkında (Millet Meclisi 2/309, Cumhuriyet Senatosu 2/61)",
+  "first_sitting_date": "1963-06-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 71,
+      "sitting_date": "1963-06-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c011/cs__02011fih.pdf",
+      "pages": [
+        "385"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 93,
+      "sitting_date": "1963-07-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c013/cs__02013093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c013/cs__02013fih.pdf",
+      "pages": [
+        "470:471"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=7&meclis_kisa_adi=CS&diger_donem_adi=t02"
+    },
+    {
+      "cilt": 13,
+      "sitting": 95,
+      "sitting_date": "1963-07-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c013/cs__02013095.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c013/cs__02013fih.pdf",
+      "pages": [
+        "658:659"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2e6d2a64cafaed3a62bb4f4cc81182c6ea559de9b7e93558bce17b93db24d55b",
+  "in_force": "1963-06-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
