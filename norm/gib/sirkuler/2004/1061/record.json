@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "ÖKC-3/2004-3",
+  "source_id": 1061,
+  "date": "2004-12-27",
+  "title": "Akaryakıt Pompalarının (LPG dahil) Ödeme Kaydedici Cihazlara Bağlanmasına İlişkin Süre ve Kullanılacak Belgeler",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/sirkuler/1061",
+  "source_sha256": "30caf4bfddd38a6f53b156763a4f94f9fbd1e6065e47aeca77ebb297522a1524",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
