@@ -1,0 +1,134 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 333167,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "1979 yılı Bütçe Kanunu Tasarısı ve Bütçe Karma Komisyonu Raporu. (Millet Meclisi:1/208;Cumhuriyet Senatosu:1/583) (S. Sayısı:844)",
+  "title": "1979 yılı Bütçe Kanunu Tasarısı ve Bütçe Karma Komisyonu Raporu. (Millet Meclisi:1/208;Cumhuriyet Senatosu:1/583) (S. Sayısı:844)",
+  "first_sitting_date": "1979-02-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 41,
+      "sitting": 32,
+      "sitting_date": "1979-02-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c041/cs__18041032.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c041/cs__18041fih.pdf",
+      "pages": [
+        "4:116"
+      ]
+    },
+    {
+      "cilt": 41,
+      "sitting": 33,
+      "sitting_date": "1979-02-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c041/cs__18041033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c041/cs__18041fih.pdf",
+      "pages": [
+        "120"
+      ]
+    },
+    {
+      "cilt": 41,
+      "sitting": 34,
+      "sitting_date": "1979-02-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c041/cs__18041034.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c041/cs__18041fih.pdf",
+      "pages": [
+        "244"
+      ]
+    },
+    {
+      "cilt": 41,
+      "sitting": 35,
+      "sitting_date": "1979-02-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c041/cs__18041035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c041/cs__18041fih.pdf",
+      "pages": [
+        "334",
+        "367",
+        "370"
+      ]
+    },
+    {
+      "cilt": 41,
+      "sitting": 36,
+      "sitting_date": "1979-02-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c041/cs__18041036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c041/cs__18041fih.pdf",
+      "pages": [
+        "456",
+        "464",
+        "482"
+      ]
+    },
+    {
+      "cilt": 41,
+      "sitting": 37,
+      "sitting_date": "1979-02-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c041/cs__18041037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c041/cs__18041fih.pdf",
+      "pages": [
+        "562",
+        "604"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 38,
+      "sitting_date": "1979-02-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c042/cs__18042038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c042/cs__18042fih.pdf",
+      "pages": [
+        "3",
+        "133"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 39,
+      "sitting_date": "1979-02-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c042/cs__18042039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c042/cs__18042fih.pdf",
+      "pages": [
+        "182",
+        "234",
+        "266:316"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 40,
+      "sitting_date": "1979-02-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c042/cs__18042040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c042/cs__18042fih.pdf",
+      "pages": [
+        "327",
+        "332",
+        "342",
+        "379",
+        "403"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=4801&v_kullanici_id=27484903",
+  "source_sha256": "8a8dbdbaf58010cafe23952e5118cd0ab9ea4e9af05a61d792d47c281a1e11c3",
+  "in_force": "1979-02-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
