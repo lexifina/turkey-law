@@ -1,0 +1,1 @@
+Geçici Madde 1- Eski yönetmeliklerin yürürlükte olduğu dönemlerde ilgil yayın komisyonlarınca karara bağlanmış ve henüz yayını bitirilememiş işler, ilgili yönetmeliklerin hükümlerine göre sonuçlandırılır.

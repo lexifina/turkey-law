@@ -1,0 +1,1 @@
+Madde 18- Anadolu Üniversitesi Açık Öğretim Hizmetleri Yayın ve Uygulama Yönetmeliği hariç, bu yönetmeliğin yürürlüğe girmesinden önce üniversitelerce yayınlanmış yayın yönetmelikleri ve bunların ekleri ile 03.07.1983 tarih ve 18096 sayılı Resmi Gazete’de yayınlanan Üniversiteler Yayın Yönetmeliği yürürlükten kaldırılmıştır.

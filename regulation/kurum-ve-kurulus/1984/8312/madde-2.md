@@ -1,0 +1,2 @@
+Madde 2- Her üniversitede bir rektör yardımcısının başkanlığında üniversite yönetim kurulunun kendi üyeleri arasından belirleyeceği iki öğretim üyesinden oluşan bir yayın komisyonu oluşturulur.
+Yayın komisyonu üniversite senatosunca saptanan esaslara göre yayınlar açısından gerekli planlamaları yapar, her türlü kararı alır ve uygulamaları izler. Komisyon kararları üniversite yönetim kurulunun onayı ile kesinleşir.

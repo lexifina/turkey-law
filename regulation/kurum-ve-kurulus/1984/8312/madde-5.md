@@ -1,0 +1,1 @@
+Madde 5- Çeviri yayınlar için çevirenin yazardan ve yayın hakkına sahip kişi veya kurumdan yazılı yayım izni alması şarttır. Bu iş için gerekli ücretin üniversite bütçesinden ödenmesine yayın komisyonu karar verir.

@@ -1,0 +1,1 @@
+Madde 12- Kitap ve teksirler için kabul edilecek eserlerin hazırlanmış, sunuş şekli ve eserleri ile yine şekle dayanan baskı esaslarını Yayın Komisyonu belirler. Yazarlar eserlerin üniversite veya bağlı kuruluşlarınca basılmasını kabul ettikleri taktirde bu esaslara uymak zorundadırlar.

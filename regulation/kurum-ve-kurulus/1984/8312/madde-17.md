@@ -1,0 +1,1 @@
+Madde 17- Üniversite ve bağlı kuruluşların kendi malı olan ders kitabı ve teksirlerini öğrencilere satış bedeli üzerinden en az % 20 indirimli olarak ve aradan 5 yıl geçtiği halde satılmamış kitap veya diğer yayınları uygun görülecek bir indirimle hatta gerektiğinde ücretsiz olarak ilgililere dağıtımına Yayın Komisyonu yetkilidir.
