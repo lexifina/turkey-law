@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7244",
+  "year": 1959,
+  "title": "Çeşitli teadül ve teşkilât kanunlariyle diğer kanunlarda mevcut aylık ve ücret tutarlarının değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-03-02",
+  "gazette_issue": "10148",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10148.pdf",
+  "source_sha256": "74395704c3e56763715408b62156c53cd5abcf2ca58c66f977c0269ba250c242",
+  "text_sha256": "5ab05d7bc9cbb7d60790835fbafa45654e08e1d801fef58ce828b80c1e73bdd4",
+  "text_status": "ocr",
+  "pages": [
+    66,
+    67
+  ],
+  "line_span": [
+    [
+      27569,
+      27885
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107244.pdf",
+    "source_sha256": "d61d6834d27cdb259f1e00e91f3c06da7509a682200346baec4dac1c403ba278",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9339,
+    "bag": 0.8229,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9981,
+    "rg_words": 1046,
+    "kd_words": 1068,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
