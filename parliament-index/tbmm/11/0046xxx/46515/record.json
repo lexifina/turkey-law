@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 46515,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "RIZA ÇERÇEL (AFYONKARAHİSAR)",
+  "summary": "2767 sayılı Sıtma ve frengi ilâçları Kanununun tadili hakkında (2/5)",
+  "title": "2767 sayılı Sıtma ve frengi ilâçları Kanununun tadili hakkında (2/5)",
+  "first_sitting_date": "1957-11-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 5,
+      "sitting_date": "1957-11-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001005.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001fih.pdf",
+      "pages": [
+        "28"
+      ]
+    },
+    {
+      "cilt": 1,
+      "sitting": 30,
+      "sitting_date": "1958-01-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001030.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001fih.pdf",
+      "pages": [
+        "547"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d11&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 1,
+      "sitting": 31,
+      "sitting_date": "1958-01-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001fih.pdf",
+      "pages": [
+        "565:568"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d11&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 1,
+      "sitting": 32,
+      "sitting_date": "1958-01-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001032.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001fih.pdf",
+      "pages": [
+        "609:613"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "f9fdd836172b5db5498669322daae8b9c5bdaaf7c78df90da004c18fc584633b",
+  "in_force": "1957-11-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
