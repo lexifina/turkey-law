@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6516-850/31623",
+  "source_id": 38238,
+  "date": "2004-07-05",
+  "title": "Hurdaya ayrılan, geçici olarak kullanım dışı bırakılan veya kullanırken satılmak istenen ödeme kaydedici cihazlarla ilgili işlemler ödeme kaydedici cihaz yetkili servislerince yapılması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38238",
+  "source_sha256": "f57ebd4dcbb2af2812822f25b3dd07445e84959684977d8b88c4fd822af1ab38",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
