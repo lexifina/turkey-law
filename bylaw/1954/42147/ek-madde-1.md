@@ -1,0 +1,2 @@
+EK MADDE 1 – (Ek: 15/5/1975 - 7/10000 K.) Yükselme süresi içinde 3 üncü maddenin B bendinin b fıkrası gereğince müfettişlikte başarı gösteremiyeceği anlaşılanlarla, yeterlik sınavına girip de kazanamayan veya özürsüz olarak sınava girmekten çekinen müfettiş yardımcıları, derece ve kademeleri ile meslekleriyle ilgili görevlere atanırlar.
+Muvakkat Madde – Bu Nizamnamenin mer'iyete girdiği tarihten evvel 3 üncü maddenin (a) fıkrasında yazılı şartları haiz olmadığı halde başmüfettiş veya müfettişliğe tayin edilmiş olanların müktesep hakları mahfuzdur.

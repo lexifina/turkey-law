@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (Ek: 15/5/1975 - 7/10000 K.) 3 üncü maddenin C bendi hükmü bu Tüzüğün yürürlüğe girdiği tarihten önce Teftiş Kurulu Başkanı, müşavir müfettiş, başmüfettiş ve müfettişliğe atanmış olanlar haklarında uygulanmaz.

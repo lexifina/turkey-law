@@ -1,0 +1,1 @@
+Madde 10 – Müfettişler, Genel Müdürlükten aldıkları program veya emirlerle vazifelerine başlarlar ve Genel Müdürlükle yapacakları muhabereleri Teftiş Heyeti Reisliği yoliyle yaparlar ve Genel Müdürden doğrudan doğruya aldıkları emirleri Teftiş Heyeti Reisine bildirirler.

@@ -1,0 +1,1 @@
+Madde 38 – Toprak ve İskan İşleri Genel Müdürlüklerinin birleştirilmesi hakkındaki 5613 sayılı kanunun 3 üncü maddesinin C. fıkrası gereğince hazırlanmış ve Devlet Şürasınca tetkik edilmiş olan bu Nizamname hükümleri, Resmi Gazetede neşri tarihinden itibaren mer'iyete girer.

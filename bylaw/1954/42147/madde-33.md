@@ -1,0 +1,1 @@
+Madde 33 – Müfettişler, kendilerine gelen yazıları ve yazdıkları her nevi yazı, rapor ve fezlekelerin örneklerini saklamağa, gelen ve giden evrakı kayda mahsus bir defterle imza mukabilinde verdikleri veya gönderdikleri her nevi evrak için bir de zimmet defteri tutmağa mecburdurlar.

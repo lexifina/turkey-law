@@ -1,0 +1,2 @@
+Madde 18 – Cevaplı raporların mevzuunu, teftiş edilenlerin mevzuat ve mukarrerata nazaran tenkidi mucip görülen muamele ve hareketleri ve serdi uygun görülen tavsiyeler teşkil eder.
+Memurların muamelelerinin teftişi ile ilgili bulunan cevaplı raporlar, taallük ettiği servisler itibariyle tanzim edilir. Teftiş, aynı serviste çalışan bir kaç memurun muamelelerine şamil olduğu takdirde teftiş neticesinin bir bütün halinde tetkik ve mütalaasında zaruret bulunmadıkça bu memurlardan her birinin muameleleri için ayrı, ayrı rapor düzenlenir.

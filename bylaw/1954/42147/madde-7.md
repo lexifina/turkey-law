@@ -1,0 +1,2 @@
+Madde 7 – Müfettişler, tetkik, teftiş ve tahkik vazifelerini ifa sırasında ilgililerin muhafaza ve mesuliyeti altındaki - mahrem de olsa - her türlü evrak ve defterleri, para ve para hükmündeki evrak ve senetlerle demirbaş eşya ve ayniyatı görmeğe, incelemeğe ve saymağa ve icabında bunları mühür altına almağa salahiyetlidirler.
+İlgililer, kendilerine yapılan ilk talepte bunları müfettişe göstermeğe ve sayıp incelemesine yardım etmeğe mecburdurlar.
