@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 426353,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanuna Bir Madde Eklenmesine Dair Kanun Tasarısı; Bolu Milletvekili Avni Akyol'un, 22.6.1965 Tarihli ve 633 Sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanuna Ek Bir Madde Eklenmesiyle ilgili Kanun Teklifi ile Milliyetçi Hareket Partisi Grup Başkanvekili Erzurum Milletvekili İsmail Köse'nin, Millî Eğitim Temel Kanununun Bir Maddesinde Değişiklik Yapılmasına Dair ve 22.6.1965 Tarihli ve 633 Sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanuna Ek Bir Madde Eklenmesiyle İlgili Kanun Tekliflerine İlişkin",
+  "title": "Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanuna Bir Madde Eklenmesine Dair Kanun Tasarısı; Bolu Milletvekili Avni Akyol'un, 22.6.1965 Tarihli ve 633 Sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanuna Ek Bir Madde Eklenmesiyle ilgili Kanun Teklifi ile Milliyetçi Hareket Partisi Grup Başkanvekili Erzurum Milletvekili İsmail Köse'nin, Millî Eğitim Temel Kanununun Bir Maddesinde Değişiklik Yapılmasına Dair ve 22.6.1965 Tarihli ve 633 Sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanuna Ek Bir Madde Eklenmesiyle İlgili Kanun Tekliflerine İlişkin",
+  "first_sitting_date": "1999-07-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 36,
+      "sitting_date": "1999-07-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c006/tbmm21006fih.pdf",
+      "pages": [
+        "599:615"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 37,
+      "sitting_date": "1999-07-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c007/tbmm21007037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c007/tbmm21007fih.pdf",
+      "pages": [
+        "27:37",
+        "38:40",
+        "42:48",
+        "50:99",
+        "123:146"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4bcc12901bcdb505a11b7caf050b165a7466d5a697e0272ec094566285943990",
+  "in_force": "1999-07-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
