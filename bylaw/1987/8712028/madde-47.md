@@ -1,0 +1,3 @@
+Başvuru
+Madde 47 – İthal izni için, ithal edilecek maddenin üretildiği fabrika ile fabrikanın bulunduğu ülkeyi, varsa patent tarih ve numarasını, kimyasal bileşimini ve belli başlı özelliklerini gösteren menşe şahadetnamesi ve proforma (teklif) faturaları, maddenin özellikleri ve ambalajları yönünden güvenli olduklarına ilişkin bulunan ve yetkili mercilerce belirlenen deneme istasyonlarından alınmış orijinal ambalaj belgesi de eklenerek bir dilekçe ile İçişleri Bakanlığına başvurulması gerekir.
+İthal izni verilmeden önce ithali istenilen patlayıcı maddelerden örnek isteyerek inceleme ve testler yapmaya ve yaptırmaya İçişleri Bakanlığı yetkilidir.

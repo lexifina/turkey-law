@@ -1,0 +1,2 @@
+Kaldırılan Hükümler
+Madde 135 – Bakanlar Kurulunun 18/5/1956 günlü ve 4/7310 sayılı kararıyla yürürlüğe konulan Barut ve Patlayıcı Maddelerle Silah ve Teferruatının ve Av Malzemesinin Sureti Murakabesine Dair Tüzük ile bu Tüzüğün bazı maddelerinin değiştirilmesine ilişkin Bakanlar Kurulunun 8/5/1963 günlü ve 6/1718 sayılı, 31/7/1980 günlü ve 8/1391 sayılı kararlarıyla yürürlüğe konulan Tüzükler yürürlükten kaldırılmıştır.

@@ -1,0 +1,4 @@
+Geçici Depolar
+Madde 100 – Geçici depolar, üç yıla kadar süren geçici işler için yapılabilir. Bu süre içinde işin tamamlanmaması halinde geçici depolama izin belgesinin süresi bir yıl uzatılabilir. Geçici depolarda dayanıklı ve yanmaz tipte prefabrik yapı elemanları kullanılabilir. Ancak, prefabrik yapı elemanlarıyla yapılan depolarda, işçilerin geliş ve gidişlerinde güvenliği sağlamak amacıyla depo yakınında koruyucu sütreler yapılması zorunludur. Bu gibi depoların kapı ve yan duvarları birbirine geçme veya bindirmeli olarak sağlam yapılır ve çatılar izin merciince uygun görülen hafif ve yanmaz malzemeyle örtülür. Döşemeler yerüstü sürekli depolarda olduğu gibi yapılır.
+Gezici depoların projeleri sürekli depoların projeleri gibi olur.
+Bu depolarda en çok altı tona kadar patlayıcı madde depolanabilir.

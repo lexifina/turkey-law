@@ -1,0 +1,3 @@
+Perakende Satıcılar İçin Miktar Sınırlaması
+Madde 94 – (Değişik birinci fıkra: 14/5/2001 - 2001/2443 K.) Perakende satıcılar, dükkanlarında, en çok on kilogram dumansız avbarutu, on kilogram kara av barutu ve taş barutu ile kara av barutuyla doldurulmuş yirmi bin, dumansız av barutu ile doldurulmuş altmış bin av fişeği bulundurabilirler. Ayrıca birinci gruba giren perakende satıcılar, sahip oldukları, kiraladıkları veya noterden onaylı muvafakat belgesi aldıkları deponun kapasitesi miktarnıca av fişeği satın alabilirler..
+Her türlü av kapsülleri, boş kovanlar, oyun ve eğlence aracı olan patlayıcı maddeler, bu sınırlamaya tabi değildir.

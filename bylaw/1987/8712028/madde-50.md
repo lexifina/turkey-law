@@ -1,0 +1,2 @@
+İthalde Güvenlik Önlemleri
+Madde 50 – İthal edilmekte olan patlayıcı maddelerin, yüklenmesi, boşaltılması, istifi, taşınması ve bunlardan örnek alınması sırasında sinirli, aceleci ve sert hareketlerden kaçınılması sağlanır. Ambalajların düşürülmemesine, çarpılmamasına ve bozulmamasına, istiflerin bu Tüzüğe uygun olmasına dikkat edilir. Sandıkların açılmasında ve depolamada gerekli güvenlik önlemleri alınır.

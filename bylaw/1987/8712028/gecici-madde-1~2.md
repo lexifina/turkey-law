@@ -1,0 +1,2 @@
+Geçici Madde 1 – (Ek: 14/5/2001 - 2001/2443 K.)
+Tüzük kapsamına giren patlayıcı maddelerin üretildiği, işlendiği ve depolandığı iş yerleri ile bunlara ait veya bağımsız patlayıcı madde depolarında bu Tüzüğün yürürlüğe girdiği tarihi izleyen dört yıl içerisinde Tüzük hükümlerine ve eklerine uygun gerekli değişikliklerin yapılması zorunludur. Bu süre içerisinde değişiklikleri yapmayan işyerleri ve depoların ruhsatları iptal edilerek faaliyetlerine son verilir.[1]

@@ -1,0 +1,4 @@
+BİRİNCİ KISIM
+Genel Esaslar
+Kapsam
+Madde 1 – Av ve taş barutlarının, lağım patlatmakta kullanılan patlayıcı maddelerin ve bunların fitil, kapsül, ateşleme aletleriyle malzemelerinin, nişan, tüfek ve tabanca fişeklerinin, şenlik fişeklerinin, havai fişeklerin, maytapların ve benzerlerinin, dolu veya boş av fişekleriyle bunların hazırlanmasında kullanılan, tapa, kapsül gibi av malzemesinin, av saçmasının ve av kurşunlarının, potas güherçilesinin, üretilmesi için işyeri kurulması ve işletilmesi, üretilen maddelerin ambalajlanması, taşınması, saklanması, depolanması, ithali, satışı, kullanılması, yok edilmesi, denetimi, yivsiz av tüfeklerinin, hava ve gaz basıncı ile çalışan ateşsiz nişan tüfek ve tabancalarının ve bunların parçalarının ithali ve alınacak güvenlik önlemlerine ilişkin usul ve esaslar bu Tüzükte gösterilmiştir.
