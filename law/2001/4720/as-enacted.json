@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4720",
+  "year": 2001,
+  "title": "Türkiye Cumhuriyeti Anayasasının Bir Maddesinin Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-12-01",
+  "gazette_issue": "24600",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/12/20011201.htm",
+  "source_sha256": "f2e0bbce935771f63f1f150b6e68d7e5a28ace5098e919ca902d971c8ee2a35c",
+  "text_sha256": "a919a9f62e7dd0486b3d4195dcee7d6f40485610a08e2e84ae4c0936f292c0a8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/12/01/24600-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/12/20011201.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
