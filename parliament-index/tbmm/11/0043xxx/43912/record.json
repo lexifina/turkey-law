@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 43912,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "4772 sayılı İş kazalariyle meslek hastalıkları ve analık sigortaları hakkındaki Kanunun bâzı maddelerinin değiştirilmesine ve bu kanuna bir maddeeklenmesine dair kanun lâyihası hakkında (1/353)",
+  "title": "4772 sayılı İş kazalariyle meslek hastalıkları ve analık sigortaları hakkındaki Kanunun bâzı maddelerinin değiştirilmesine ve bu kanuna bir maddeeklenmesine dair kanun lâyihası hakkında (1/353)",
+  "first_sitting_date": "1960-02-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 12,
+      "sitting": 42,
+      "sitting_date": "1960-02-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c012/tbmm11012042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c012/tbmm11012fih.pdf",
+      "pages": [
+        "65"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 66,
+      "sitting_date": "1960-05-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013fih.pdf",
+      "pages": [
+        "417:418"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1113&v_gelecek_sayfa=901&v_kullanici_id=27484293",
+  "source_sha256": "91301e9678a127e0ba66c634bfc5ddffff42dc788a20c9a5d7795b696b57060b",
+  "in_force": "1960-02-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
