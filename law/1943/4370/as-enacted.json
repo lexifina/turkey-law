@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4370",
+  "year": 1943,
+  "title": "Jandarma erat kanununun 4248 sayılı kanunla değiştirilen 14. maddesinin değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-01-21",
+  "gazette_issue": "5310",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5310.pdf",
+  "source_sha256": "4d4cda84c47062ea1684c4bdd26994e9cc34ba18e8c248216ad017050e617756",
+  "text_sha256": "a89c22972143f7bfcebf7de5e7867fe8ef00d4ba14af7877236a58004dabbe45",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      30
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc024/kanuntbmmc024/kanuntbmmc02404370.pdf",
+    "source_sha256": "44b0120e8b7a81be5f868fcffbbc73c752502a52835496fd161ab741002d805d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9787,
+    "bag": 0.925,
+    "kd_coverage": 0.9915,
+    "kd_body_compared": 0.9752,
+    "rg_words": 122,
+    "kd_words": 121,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
