@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1995-10-24",
+      "24.10.1995",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "22443",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1995-10-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kocaeli Üniversitesi",
+  "issuer_slug": "kocaeli-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kocaeli-universitesi/1995/6925",
+  "published": "1995-10-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6925&MevzuatTertip=5",
+  "source_bytes": 31437,
+  "source_id": "8.5.6925",
+  "source_sha256": "156ced1abf2fa4db26aeb208b36594d6288fe08a19543d18e63fb858a5542aad",
+  "text_status": "as-enacted",
+  "title": "KOCAELİ ÜNİVERSİTESİ KAYNAK TEKNOLOJİSİ ARAŞTIRMA, EĞİTİM VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 209,
+  "word_count": 766
+}
