@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5786",
+  "year": 1951,
+  "title": "Belediye Gelirleri Kanununun 9 ncu Maddesinin 1 nci Fıkrasının Değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-06-18",
+  "gazette_issue": "7837",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7837.pdf",
+  "source_sha256": "ef13aa626ab783c656c68e22c0186b5fb25aba9f93dbe6d5f609882fe7324304",
+  "text_sha256": "c4cd58d47cb2f74ed9e657342bc05efaafda760922b03a091aeb133e6ab0bbfe",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      22
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305786.pdf",
+    "source_sha256": "cbc52256b1c31721aeefa1ef335625aaf6f4fea00fbc99a869d0cd3eb326bf96",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.974,
+    "bag": 0.9106,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9683,
+    "rg_words": 62,
+    "kd_words": 63,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
