@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5217-27/20666",
+  "source_id": 31956,
+  "date": "1999-05-25",
+  "title": "Şirketin devir bilançosunda yer alan ve sonraki döneme devreden KDV'nin, devreden şirket tarafından indirim konusu yapılabilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31956",
+  "source_sha256": "c58da005ba69102990d444f7d2daf947f735e751e4b2c2bbab823a250a53b3b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
