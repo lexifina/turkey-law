@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-34/18330",
+  "source_id": 37555,
+  "date": "2002-04-25",
+  "title": "Cep telefonu işletmecilerinin nihai tüketiciye hazır kart satışı yaparken düzenlenen faturada özel iletişim vergisi hesaplanmayacak ve ödenmiş olan özel iletişim vergisi malın maliyetine dahil ederek \"153 Ticari Mallar\" hesabının borcuna kaydedilecektir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/37555",
+  "source_sha256": "993eb250c3cd863f2b9a5bc8301dead46adfb4d4eef6f9f4c2ecbf4a92147bd1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
