@@ -1,0 +1,1 @@
+Madde 28 – 1593 sayılı Umumi Hıfzıssıhha Kanununun 141 inci maddesine dayanılarak yapılmış ve Devlet Şürasınca tetkik edilmiş olan bu Nizamname hükümleri, Resmi Gazete'de basıldığı günün ertesinden itibaren yürümeğe başlar.

@@ -1,0 +1,2 @@
+Madde 17 – Gemi doktor ve sıhhat memurları, yolcular ile mürettebatın sıhhatleri ile ilgili umumi hallerini ve gemideki bütün yenecek ve içileceklerin fenalık ve bozukluklarını kontrol etmekle mükellef ve bundan doğrudan doğruya mesuldürler.
+Doktor veya sıhhat memurları, bulundukları gemilerde gerek Umumi Hıfzıssıhha Kanununun ve gerek işbu Nizamnamenin ilgili hükümlerine aykırı hallerin zuhurunda, keyfiyeti gemi başkaptanına şifahen ve icabında yazı ile bildirmeğe mecbur olup, bunları sebepsiz olarak tatbik etmiyen başkaptanlar mesul tutulacaklardır.

@@ -1,0 +1,2 @@
+Madde 7 – Güvertede en az elli yolcu için bir ve kamaralarda onbeş yolcu için keza bir hela ile bunlara ilave olarak yerin müsaadesi nispetinde münasip miktarda pisuvarlar bulunur.
+Gerek kamara ve gerek güvertede bulunan helalar bu nispet dahilinde olarak, her seferde yolcuların miktarına göre tayin edilir ve bundan sonra, mevcut kadın ve erkek yolcuların adedine göre, kadın ve erkeklere mahsus olmak üzere tefrik ve üzerlerindeki levhalar buna göre tebdiledilir.

@@ -1,0 +1,1 @@
+Madde 12 – Gemilerde, bulaşık yıkamağa mahsus mahaller, mutbağın dışında olacaktır. Bunun için ayrı bir yer tefrikine müsait bulunmıyan gemilerin bulaşıkları, mutbak içinde ayrılmış hususi bir mahalde yıkanır.

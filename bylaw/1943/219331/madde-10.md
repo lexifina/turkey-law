@@ -1,0 +1,4 @@
+Madde 10 – Gemilerin taşıyabilecekleri yolcu ile büyük ve küçükbaş hayvan miktarı, o geminin bağlama limanının mıntaka liman reisi tarafından, usulüne tevfikan tesbit ve muayene şahadetnamelerine kaydolunur.
+Hiç bir gemi, muayene şahadetnamesine yazılacak ve bu suretle tesbit edilecek istiap haddinden fazla yolcu ve hayvan alamaz.
+Umumi istiap hadleri bu şekilde tesbit edilen gemilerin, güverte yolcuları ile hayvan nakline tahsis edilebilcek mahallerine, ne kadar insan ve ne kadar büyük veya küçükbaş hayvan konulabileceği, bağlama limanının münteha liman reisliği ile sahil sıhhiye tabibi tarafından müştereken tesbit edilerek, bu yerlerin görülebilecek mahallerine sabit boya ve büyük harfler ile yazılır.
+Hayvan nakline tahsis edilmiş olan mahaller, hiç bir zaman yolcuya tahsis edilen ambar veya güvertenin aynı kısmında bulunamaz.

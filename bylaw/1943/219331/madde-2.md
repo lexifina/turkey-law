@@ -1,0 +1,1 @@
+Madde 2 – Gerek memleket sahilleri arasında ve gerek ecnebi limanlarına sefer yapan ve sırf yolcu veya yük ile birlikte yolcu taşıyan kamaralı gemiler ile yalnız yolcu nakleden şehir içi vapurları, bu Nizamname hükümleri bakımından, yolcu gemisi sayılır.
