@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Birleşik Toplantısı",
+  "assembly": "TBMM BİRLEŞİK TOPLANTI",
+  "term_label": "16. Toplantı Yılı",
+  "cilt": 16,
+  "sitting": 1,
+  "label": "1. Birleşim",
+  "sitting_date": "1976-11-10",
+  "date_as_published": "10 Kasım 1976",
+  "weekday": "Çarşamba",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t16/c016/tbmm16016001.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t16/c016/tbmm16016001gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t16/c016/tbmm16016fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=8&meclis_kisa_adi=TBMM(MM-CS)&diger_donem_adi=t16",
+  "source_sha256": "414f77f4b036fe7f62946dfda14f561ac31c0010a5ce0be50f4617beb9f172e2",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
