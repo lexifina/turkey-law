@@ -1,0 +1,2 @@
+Madde 38
+Bir gemi, uçak, tren, kara taşıtı ya da başka bir taşıt aracı bir kişi, bir koyacak veya maddelerin ilgili sağlık yönetimince bildirilmiş olduğu üzere hastalığın bulaştığı bir bölgeden gelmesi haline bağlı bulunan ve V inci Başlık altında öngörülen tedbirler yalnızca bu bölgeden gelenlere uygulanacaktır. Bu sınırlandırma, hastalığın bulaştığı bölgenin sağlık makamının hastalığın yayılmasını önlemek için gerekli bütün tedbirleri alması ve 31 inci maddenin 1 inci fıkrasında yazılı tedbirleri uygulaması şartlarına bağlıdır.

@@ -1,0 +1,10 @@
+Madde 54
+1 - Gemiler
+a) Kemiriciler ve veba taşıyıcılarının bulunmayacakları koşullarda tutulurlar,
+b) Dönemsel olarak farelerden temizlenirler.
+2 - Fareden temizleme belgeleri ile farelerden muafiyet belgeleri yalnızca, 17 nci madde uyarınca yetkili kılınmış limanların sağlık makamlarınca verilir. Bu belgeler 6 ay süreyle geçerlidir. Bununla birlikte, yerine göre, farelerden temizleme işleminin ya da denetimin daha iyi koşullar altında yapılabileceği bir limana yönelmiş olan gemiler için bu süre bir ay uzatılabilir.
+3 - Fareden temizleme belgeleri ile farelerden muafiyet belgeleri 1 inci ekte gösterilen örneğe uygun olacaktır.
+4 - Kendisine geçerli bir belge gösterilmezse, 17 nci madde uyarınca yetkili kılınmış bir limanın sağlık makamı, soruşturma ve denetimden sonra;
+a) 17 nci maddenin 2 nci fıkrası uyarınca yetkili kılınmış bir limanda gemiyi kendisi farelerden temizletebilir, ya da bu işlemi kendi yönetim ve denetimi altında yaptırabilir. Her vakaya göre gemideki kemiricilerin yok edilmesini sağlamak üzere kullanılacak tekniği kararlaştırır. Farelerden temizleme imkan nispetinde gemi ve yüküne her türlü zarar vermekten kaçınılacak yolda uygulanır. Bu işlem iyi uygulanabilmesi için gerekli süreden kesinlikle daha fazla sürmemelidir. İşlem imkan nispetinde ambarlar boşken yapılır. Boş gemilerde yüklemeden evvel yapılır. Farelerden temizleme tatmin edici bir şekilde tamamlandığında, sağlık makamı fareden temizle belgesi verir.
+b) 17 nci madde uyarınca yetkili kılınmış her limanda, sağlık makamı eğer gemide kemiriciler bulunmadığı kanısına varırsa farelerden muafiyet belgesi verebilir. Bu belge ancak geminin denetimi ambarlar boşken veya gemide yalnız safra suyu varken ya da kemiriciler için cazip olmayan ve niteliğinden veya istif biçiminden dolayı ambarların tam denetimine imkan veren maddeler ile yüklü iken yapıldığı zaman verilir. Ambarları dolu bir petrol tankeri için Farelerden Muafiyet Belgesi verilebilir.
+5 - Farelerden temizlemenin yapıldığı limanın sağlık makamı, bu işlemin uygulandığı koşulların yeterli bir sonuç alınmasına imkan vermediği kanısında ise bu durumu fareden temizleme belgesine kaydeder.

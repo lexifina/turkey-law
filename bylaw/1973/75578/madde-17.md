@@ -1,0 +1,4 @@
+Madde 17
+1 - Sağlık yönetimleri, ülkelerinin yeter sayıda limanlarında 54 üncü maddede bildirilen Fareden Muafiyet Belgelerini vermek amacıyla gemilerin denetimini yapacak yeterlikte personel bulundurulması için gerekli tedbirleri alırlar ve bu koşulları yerine getiren limanları yetkili kılarlar.
+2 - Sağlık Yönetimleri ülkelerinin uluslararası trafiğinin önemini ve bu trafiğin dağılışını gözönüne alarak, bu maddenin 1 inci fıkrası uyarınca yetkili kılınmış limanlar arasından, gemilerin farelerden temizlenmesi için gerekli gereçleri ve personeli bulunanlardan 54 üncü maddede yazılı fareden temizleme Belgelerini vermeye yetkili olanları tespit ederler.
+3 - Limanları bu şekilde tespit eden Sağlık yönetimleri fareden temizlenme ve Fareden Muafiyet Belgelerinin bu Tüzüğün gereklerine göre verilmesini sağlarlar.

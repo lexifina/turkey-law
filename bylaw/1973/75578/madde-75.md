@@ -1,0 +1,2 @@
+Madde 75
+Sarıhumma taşıyıcısının bulunduğu bir bölgenin sağlık makamı, uluslararası bir yolculuk yaparak hastalığın bulaştığı bir bölgeden gelen ve geçerli bir sarı humma aşısı belgesi bulunmayan bir kişinin ya bu belge geçerli oluncaya kadar ya da bulaşıcılığa maruz kalmış olabileceği son günden itibaren en çok altı gün geçinceye kadar tecridini isteyebilir; bu iki şıktan en kısa süreni uygulanır.

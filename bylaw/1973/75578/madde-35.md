@@ -1,0 +1,4 @@
+Madde 35
+75 inci madde saklı kalmak üzere bu Tüzüğün aykırı hükümlerine bakılmaksızın aşağıdaki durumlarda bulunan yolculara ve tayfalara hekim incelenmesinden başka hiçbir sağlık tedbiri uygulanmaz:
+a) esen bir gemide bulunan ve gemiden dışarı çıkmayanlar;
+b) transit geçen esen bir uçakta bulunan ve üzerinden transit geçilen ülkenin bir hava limanının direkt transit bölgesi sınırlarını aşmayanlar ve eğer hava limanında henüz böyle bir bölge kurulmamış ise hastalıkların yayılmasını önlemek için sağlık makamınca istenen ayrı bir yerde durma tedbirlerine uyanlar. Yukarıda öngörülen koşullar altında bulunan bir kişi, yakında bulunan başka birhava limanından sadece yolculuğuna devam etmek amacıyla, inmiş olduğu hava limanından ayrılmak zorunda kalır ve eğer transfer, sağlık makamı ya da makamlarının denetimi altında yapılırsa yukarıda öngörülen bağışıklıktan yararlanmasını sürdürür.

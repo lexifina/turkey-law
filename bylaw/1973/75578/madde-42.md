@@ -1,0 +1,2 @@
+Madde 42
+80 inci madde hükümleri saklı kalmak üzere, gemilerin veya uçakların sağlık nedenleri dolayısiyle bir limana veya hava limanına girmeleri önlenemez. Ancak liman veya hava limanı sağlık makamı, bu Tüzüğün izin verdiği sağlık tedbirlerinden gerekli gördüklerini uygulamak için liman veya hava limanı müsait değilse bu gemi veya uçaklar kendisine en uygun gelen ve en yakındaki yeterli liman ya da hava limanına sorumluluğu yüklenerek gitmeye zorlanabilir.

@@ -1,0 +1,4 @@
+Madde 11
+1 - Örgüt bütün sağlık yönetimlerine 3 den 8 e kadar olan maddeler ile 9 uncu maddenin a) bendi uyarınca aldığı salgınla ilgili ve diğer bütün bilgileri, ilk fırsatta ve her vakaya uygun yollardan gönderir. Aynı zamanda 9 uncu madde ile istenen bilgilerin yokluğunu da bildirir. İvedi olan bildiriler, telgraf, teleks ya da telefonla yapılır.
+2 - Salgınla ilgili ek veriler ile gözetim programından ötürü Örgütün elinde bulunan öbür bütün bilgiler, gerektiği zaman, bütün sağlık yönetimlerine bildirilir.
+3 - İlgili Hükümetin iziniyle Örgüt, komşu ülkeler ya da Dünya sağlığı için ağır bir tehdit teşkil eden Tüzüğe bağlı bir hastalık salgınına ilişkin anket yapabilir. Bu gibi anketler, Hükümetlerin gereken koruma tedbirlerini almalarına yardım amacıyla yapılır ve o yere bir ekibin gönderilmesini de kapsayabilir.

@@ -1,0 +1,2 @@
+Madde 105
+Örgütün Genel Müdürü bütün üyeler ve ortak üyeler ile 99 uncu maddede bildirilen sözleşmeler, tüzükler ve aynı nitelikteki anlaşmaların öteki taraflarına bu Tüzüğün Dünya Sağlık Genel Kurulunca kabul edildiğini bildirir. Genel Müdür aynı şekilde bu Devletlere ve bu Tüzüğe taraf olan öteki Devletlere, bu Tüzüğü değiştiren ya da tamamlayan her Ek Tüzügü ve sırasıyla 100, 102, 103 ve 104 üncü maddeler uyarınca aldığı her bildirimi ve Dünya Sağlık Genel Kurulu tarafından 101 inci madde uyarınca alınan her kararı bildirir.
