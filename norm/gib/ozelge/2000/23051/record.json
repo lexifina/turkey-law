@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1079/24919",
+  "source_id": 23051,
+  "date": "2000-05-26",
+  "title": "Büyükşehir belediye sınırları içerisinde tuhafiyecilikle ilgili işyeri açmak isteyen mükellef basit usule tabi olmanın genel ve özel şartlarını taşıması halinde basit usulde vergilendirmeden yararlanabilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23051",
+  "source_sha256": "d7300796d2446f8834f6e7fa70e499ca934ab41d112a42c67713e523bd042e1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
