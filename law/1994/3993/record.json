@@ -1,0 +1,72 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3993",
+  "year": 1994,
+  "title": "Yükseköğretim Kurumları Teşkilatı Hakkında 41 Sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabülüne Dair 28.3.1983 Tarihli ve 2809 Sayılı Kanuna Ek Maddeler Eklenmesi ile 78 ve 190 Sayılı Kanun Hükmünde Kararnamelerin Eki Cetvellerde Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "1994-06-01",
+  "adopted_as_published": "01/06/1994",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.06.1994 No: 21952",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703993.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 77",
+  "committee_reports": [
+    {
+      "label": "TBMM 661 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c061/tbmm19061109ss0661.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 268622,
+      "title": "Yükseköğretim Kurumları Teşkilatı Hakkında 41 Sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabülüne Dair 28.3.1983 Tarihli ve 2809 Sayılı Kanuna Ek Maddeler Eklenmesi ile 78 ve 190 Sayılı Kanun Hükmünde Kararnamelerin Eki Cetvellerde Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "01/06/1994",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703993.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 661 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c061/tbmm19061109ss0661.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 37,
+          "sitting": 116,
+          "sitting_date": "1993-06-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c037/tbmm19037116.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c037/tbmm19037fih.pdf",
+          "pages": [
+            "82"
+          ]
+        },
+        {
+          "cilt": 61,
+          "sitting": 109,
+          "sitting_date": "1994-06-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c061/tbmm19061109.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c061/tbmm19061fih.pdf",
+          "pages": [
+            "270",
+            "311:332"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=201&v_kullanici_id=27483194",
+      "page_sha256": "2ed704f93574c719c805e61fefaefa27aa942ed14954cfb0a63361110561de0c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2ed704f93574c719c805e61fefaefa27aa942ed14954cfb0a63361110561de0c",
+  "issuer": "TBMM",
+  "in_force": "1994-06-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 01/06/1994; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
