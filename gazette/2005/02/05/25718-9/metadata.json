@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-05",
+  "issue": "25718",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Genelge",
+  "title": "KOBİ Bilgi Sitesi ile İlgili 2005/2 Sayılı Başbakanlık Genelgesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050205-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050205.htm",
+  "index_sha256": "690c26cc08d5cda4a43b7360c65576e86f1382e6687ce5c5cbd27d1c62772b34",
+  "index_header": "5 Şubat 2005 ... Sayı : 25718",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
