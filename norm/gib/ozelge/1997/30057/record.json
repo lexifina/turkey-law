@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5510-230/18454",
+  "source_id": 30057,
+  "date": "1997-05-06",
+  "title": "Fabrikada üretilen malların dağıtım müesseselerince kaybedilmesi halinde, alıcı müessesenin eline ulaşmayan mala ait K.D.V.'nin ve ek vergi ödenecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30057",
+  "source_sha256": "c82a0f721f7fe4405a40e75de14eb2059d28f6fc9673238bfe4ed965f64a5f42",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
