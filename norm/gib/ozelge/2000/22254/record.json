@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5301-2776/13053",
+  "source_id": 22254,
+  "date": "2000-03-24",
+  "title": "Bir ticari organizasyon olmaksızın, zaman zaman yedieminlik faaliyetinde bulunanlara ilgili idarelerce bu hizmetleri dolayısıyla yapılan ödemeler ücret niteliği taşıdığından, söz konusu ödemeler katma değer vergisinin konusuna girmemektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/22254",
+  "source_sha256": "935871b0d7dcca0167a1840954d0a718087bce94da994ddbc83b282d4fac8c9b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
