@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Belediye Meclisi",
+  "number": "139",
+  "decision_date": "1981-06-15",
+  "title": "GEÇEN TOPLANTI ZAPTININ KABULÜ HK.",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1981-139.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1981",
+  "listing_sha256": "61cdb8cff53303d03378e5c277307ecaa570d5acb4504679b1bb989f039442c0",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
