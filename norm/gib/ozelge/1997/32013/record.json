@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5211-12/51921",
+  "source_id": 32013,
+  "date": "1997-12-01",
+  "title": "C.F. (Coast and Freight) satış şeklinde, F.O.B: (Free On Board) değer ile bunların navlun bedelinin ihracaat faturasında ayrıca gösterilmek suretiyle bunların toplamının, ihracaat istisnası uygulaması kapsamında, katma değer vergisi matrahından indirilmes",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32013",
+  "source_sha256": "620ffdaa073cabf4cdd0bb8f076d72695a98006d2a669f2f199fa7f81d18c625",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
