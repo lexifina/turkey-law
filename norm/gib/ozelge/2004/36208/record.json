@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GEL.0.63/6373-2582",
+  "source_id": 36208,
+  "date": "2004-06-19",
+  "title": "Bankaların, yurtdışı kredi kuruluşlarının ve uluslararası kurumların kullandıracakları her türlü kredilerin temini ve bu krediler nedeniyle kredi kuruluşlarına karşı verilecek teminatlar ve alınan bu kredilerin geri ödemeye ilişkin işlemleri. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36208",
+  "source_sha256": "4a74ce07bc274a3a82cddc79bbb537e1ded2cdaa736b6949be72e0e675899ab5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
