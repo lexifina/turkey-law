@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 12 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2001-06-18",
+      "18.06.2001",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 12 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24436",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2001-06-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2001/6800",
+  "published": "2001-06-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6800&MevzuatTertip=5",
+  "source_bytes": 25099,
+  "source_id": "8.5.6800",
+  "source_sha256": "859a265e7e47c1f5304e9019ed9ff4e2dd1410c7c9c1f3524962bc77d68964c3",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nKADIN SORUNLARI ARAŞTIRMA VE UYGULAMA MERKEZİ (HÜKSAM)\r\nYÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 787
+}
