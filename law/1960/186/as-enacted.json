@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "186",
+  "year": 1960,
+  "title": "Subay, askeri memur ve astsubayların lojman ihtiyacı için gelecek yıllara geçici yüklenmelere girişilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-12-30",
+  "gazette_issue": "10694",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10694.pdf",
+  "source_sha256": "9ed03b5a65456c358f909a8b23a63cd53a7e97f6f14ec3f3426956536e65a9d2",
+  "text_sha256": "3cf20ff76ab2c469a1774f5822b95959b666cb51df1dc870523f3288e7e5dd42",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      676,
+      719
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300186.pdf",
+    "source_sha256": "41a9c4ccae667ea358017a2c70d13bc9cf301f18f086d46299ca3a8b516035ba",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9257,
+    "bag": 0.8902,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8715,
+    "rg_words": 181,
+    "kd_words": 179,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
