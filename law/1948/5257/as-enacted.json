@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5257",
+  "year": 1948,
+  "title": "Milli Eğitim Bakanlığı Kuruluş kadroları hakkında 4926 sayılı Kanuna bağlı (1) sayılı cetvelde değişiklik yapılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1948-07-14",
+  "gazette_issue": "6957",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6957.pdf",
+  "source_sha256": "730f6ae37970d20ac47efb1a3e77403699e428c6be368d120c19f2133b4078e7",
+  "text_sha256": "81c685b9ca0265a8cda375a5013fd6723d461e7066d2f64a680c2230a829afcd",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      673,
+      702
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/kanuntbmmc030/kanuntbmmc03005257.pdf",
+    "source_sha256": "24b5afad50eaeb57802f44de6cb64a9546deb063ad9faf90e1b0297f9a90f47a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9597,
+    "bag": 0.8848,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9907,
+    "rg_words": 110,
+    "kd_words": 108,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
