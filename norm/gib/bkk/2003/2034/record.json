@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2003/5700",
+  "source_id": 2034,
+  "date": "2003-06-06",
+  "title": "Yurt Dışına Çıkışlarda Harç Alınmasına İlişkin Usul ve Esaslar Hakkında Kararda Değişiklik Yapılmasına Dair Karar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/615/bkk/2034",
+  "related_law": "4705 sayılı YURT DIŞINA ÇIKIŞLARDAN HARÇ ALINMASI VE 4481 SAYILI KANUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "1ff36032c706da51474bd559b6a4e4dfd85ef8442476cd34336672849126e4f0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
