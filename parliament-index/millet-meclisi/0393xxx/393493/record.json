@@ -1,0 +1,56 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 393493,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "1086 sayılı Hukuk Usulü Muhakemeleri Kanununun bazı maddelerinin değiştirilmesi ve bu kanuna bâzı maddeler eklenmesi hakkında kanun tasarısı ile Cumhuriyet Senatosu İstanbul Üyesi Ekrem Özden ve 9 arkadaşının ve Ankara Milletvekili Suna Tural ile Sinop Milletvekili Hilmi İşgüzar'ın, 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun bazı maddelerinin değiştirilmesi hakkında kanun tekliflerine dair (1/717,2/461,2/470,2/539)",
+  "title": "1086 sayılı Hukuk Usulü Muhakemeleri Kanununun bazı maddelerinin değiştirilmesi ve bu kanuna bâzı maddeler eklenmesi hakkında kanun tasarısı ile Cumhuriyet Senatosu İstanbul Üyesi Ekrem Özden ve 9 arkadaşının ve Ankara Milletvekili Suna Tural ile Sinop Milletvekili Hilmi İşgüzar'ın, 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun bazı maddelerinin değiştirilmesi hakkında kanun tekliflerine dair (1/717,2/461,2/470,2/539)",
+  "first_sitting_date": "1973-01-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 32,
+      "sitting": 4,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032004.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032fih.pdf",
+      "pages": [
+        "426:471"
+      ]
+    },
+    {
+      "cilt": 32,
+      "sitting": 42,
+      "sitting_date": "1973-01-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032fih.pdf",
+      "pages": [
+        "324"
+      ]
+    },
+    {
+      "cilt": 36,
+      "sitting": 94,
+      "sitting_date": "1973-04-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036094.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036fih.pdf",
+      "pages": [
+        "575"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=3101&v_kullanici_id=27484836",
+  "source_sha256": "41826363f1b1f8d8c091efcb411e238ad4ac3698258438372e66aeb9b30781dc",
+  "in_force": "1973-01-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
