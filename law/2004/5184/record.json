@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5184",
+  "year": 2004,
+  "title": "Ziraat Odaları ve Ziraat Odaları Birliği Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2004-06-03",
+  "adopted_as_published": "03/06/2004",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09.06.2004 No: 25487",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08805184.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 88",
+  "committee_reports": [
+    {
+      "label": "TBMM 455 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051097ss0455.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 207726,
+      "title": "Ziraat Odaları ve Ziraat Odaları Birliği Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "03/06/2004",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08805184.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 455 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051097ss0455.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 47,
+          "sitting": 74,
+          "sitting_date": "2004-04-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c047/tbmm22047074.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c047/tbmm22047fih.pdf",
+          "pages": [
+            "6"
+          ]
+        },
+        {
+          "cilt": 50,
+          "sitting": 92,
+          "sitting_date": "2004-05-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c050/tbmm22050092.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c050/tbmm22050fih.pdf",
+          "pages": [
+            "7"
+          ]
+        },
+        {
+          "cilt": 51,
+          "sitting": 97,
+          "sitting_date": "2004-06-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051097.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c051/tbmm22051fih.pdf",
+          "pages": [
+            "248:282",
+            "307:316"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=401&v_kullanici_id=27483198",
+      "page_sha256": "48bd612a80b7f74f51d30c16bc0ba7cd7e6341df596568c61d8c08c42b65c32c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "48bd612a80b7f74f51d30c16bc0ba7cd7e6341df596568c61d8c08c42b65c32c",
+  "issuer": "TBMM",
+  "in_force": "2004-06-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 03/06/2004; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
