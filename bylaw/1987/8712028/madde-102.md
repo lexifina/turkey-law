@@ -1,0 +1,10 @@
+Depolarda Ortak Teknik Özellikler
+Madde 102 – Sürekli, geçici ve gezici depolarda aşağıdaki teknik özellikler bulunur:
+A - Bina içinde zeminden çatıya kadar yapılan bacalar ve bunlara açılan havalandırma delikleriyle depoların havalandırılmaları sağlanır. Baca delikleri, kuş, fare gibi hayvanların ve böceklerin girmesine engel olabilecek bakır veya pirinç tel kafeslerle örtülür.
+B - Depolar mevzuatın öngördüğü paratoner sistemiyle donatılır. Paratonerler veya çubuklarla yer arasında tam bir iletkenliğin bulunup bulunmadığının ve iletkenlerin depo duvarlarından ve çatısından izole edilmiş olup olmadığının araştırılması ve arızalarının giderilmesi için her yıl yağmur ve dolu mevsiminden önce kontrol ettirilir.
+C - Depo kapılarına ve girişte duvarların yanına, statik elektriğe karşı topraklanmış pirinç, bakır veya alüminyum levhalar konur.
+D - Aydınlatma tesisatı, yalıtılmış tipteki armatürlerle ve bu konudaki mevzuata uygun olarak yapılır.
+E - (Değişik: 14/5/2001 - 2001/2443 K.) Patlayıcı madde depolarının çevresinde, Ek-5’e uygun olarak yapılacak sütrenin tabanı, depo binasına bir buçuk metre uzaklıktan başlar. Sütreler, depo çatısının en üst noktasından en az bir metre yükseklikte ve sütrenin üstü de en az bir metre genişlikte yapılır. Sütre, depo binasını tamamen çevreliyorsa geçiş için uygun giriş yerleri ve tüneller açılır. Sütrenin üzeri çimlendirilir veya bodur ağaçlarla ağaçlandırılır.
+Engebeli arazide kurulmuş ve etrafında sütre görevini yapacak yüksek tümsekler bulunan depolarda sütrenin, varsa tehlike gösteren yönde yapılması yeterlidir.
+F - (Değişik: 14/5/2001 - 2001/2443 K.) Gezici depolar hariç olmak üzere, stoklama kapasitesi beş bin kilograma kadar olan depolardan en az otuz metre, daha fazla patlayıcı madde stoklanacak depolarda ise en az altmış metre uzaklığa bir metre yüksekliğinde taş veya beton duvar yapılarak üzerine geçişleri engelleyecek şekilde bir metre yüksekliğinde dikenli tel çekilir.
+G - Patlayıcı madde depolarının yapımında Ek: 1 sayılı çizelgede gösterilen en az güvenlik uzaklıklarına uyulması zorunludur.

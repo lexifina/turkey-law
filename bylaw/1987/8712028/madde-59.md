@@ -1,0 +1,7 @@
+Güvenlik Önlemleri
+Madde 59 – Ambalajların, taşıma sırasında patlayıcı maddelerin ambalaj içindeki, ambalajların taşıt içindeki dengeleri bozulmayacak biçimde yerleştirilmelerine özen gösterilir.
+Yükleme ve boşaltma, seyir ve durma sırasında, taşıtın yakınında veya içinde sigara içilmez ve ateş yakılmaz. Ambalajlar, taşıt içinde sıkışmayacak, sarsılmayacak, çarpılmayacak ve yuvarlanmayacak biçimde istif edilir ve ıslanmaması için önlemler alınır.
+Yükleme ve boşaltma işlerinde çalışan işçilerin, çalışma sırasında, çivisiz, işin ve işyerinin özelliğine uygun ayakkabı giymeleri zorunludur; çalışma günlerinde alkollü içki kullanmaları ve iş başında sigara içmeleri yasaktır.
+Yükleme ve boşaltma sırasında, darbe, düşürme, sürtme, çarpma gibi tehlikeli olabilecek hareketlerden kaçınılır.
+Patlayıcı madde yüklü taşıtların insan ve hayvan topluluklarının bulundukları yerlerde bekletilmesi yasaktır. Demiryolu istasyonlarında, limanlarda ve hava limanlarında patlayıcı maddelerin yükleme ve boşaltma işlemleri öncelikle ve bekletilmeden yapılır ve yüklenen taşıtların yükleme ve boşaltma yerlerinden derhal uzaklaştırılması sağlanır.
+Patlayıcı maddelerin yükleme, boşaltma ve taşınmasında diğer güvenlik önlemleri yanında, Bakanlar Kurulunun 30/4/l953 günlü ve 4/685 sayılı kararıyla yürürlüğe konulan sabotajlara Karşı Korunma ve Sabotajları Önleme Hakkında Talimat hükümlerine göre de gerekli önlemler alınır.

@@ -1,0 +1,2 @@
+Nitroselülozlar
+Madde 30 – Komprime ve jelatinize edilmemiş, plastikleştirici madde ile cips haline getirilmemiş nitroselüloz ve kollodyumların en az yüzde otuz oranında suya da alkol ile nemlendirilmiş olarak, her türlü sürtünmeyi ve nem kaybını önleyecek biçimde kapatılmış, su sızdırmaz, galvanizli saçtan, hermetikli veya uygunluğu Sanayi ve Ticaret Bakanlığınca onaylanmış kaplara konulması zorunludur.

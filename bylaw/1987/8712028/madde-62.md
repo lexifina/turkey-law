@@ -1,0 +1,3 @@
+Geceleme Yeri
+Madde 62 – Taşıtlar olabildiğince yerleşim yerleri dışında ve etrafı en az iki yüz metreye kadar boş bulunan arazide geceleyebilirler. Yerleşim yerleriyle konaklama yerleri arasında bir tepe veya benzeri bir engel bulunursa, uzaklık, yüz metreye kadar indirilebilir. Konaklamalarda her aracın başında sürekli olarak en az bir kişi korumayla görevlendirilir, ayrıca, topluca korunmaları için gerekli önlemler alınır. İçişleri Bakanlığı gerekli gördüğü zaman ve yerlerde gece patlayıcı madde taşınmasını sınırlamaya ve yasaklamaya yetkilidir.
+Hava karardıktan sonra taşıtların önüne ve yanlarına görünebilen yükseklikte beyaz, arkasına kedi gözü camı veya kırmızı reflektörler konulması zorunludur.

@@ -1,0 +1,5 @@
+Yangın
+Madde 25 – Her işyerinde işyerinin büyüklük ve özelliğine göre mekanik veya otomatik olarak çalışan alarm cihazları bulundurulur. İşyerinde, yapılan işin cinsine ve özelliğine göre etkili olabilecek tipte ve yeterli sayıda kolayca kullanılabilecek biçimde karbondioksitli, köpüklü veya otomatik yangın söndürme cihazlarının bulundurulması zorunludur.
+Bu cihazlar ve bunlara yardımcı tesisat ve teçhizat sürekli işler halde tutulur. Cihazlar, her altı ayda bir tartılır, ağırlığı diğer hususlar üzerine takılacak bir etikete işlenir, içindeki etkili maddenin net ağırlığının yarıdan aşağıya düştüğünün anlaşılması halinde, yeniden doldurulur.
+Suyla çalışan yangın söndürme cihaz ve tesisatı belirli yerlerde kutu ve dolaplar içinde kolaylıkla alınıp kullanılabilir biçimde düzenlenir. Bunlar, yangın hidrantları, varsa basınçlı su sağlayan motopomplar günde en az bir defa beş dakika çalışma denemesine tabi tutulur.
+Yeterli sayıda işçi, bir yangın söndürme ekibi oluşturacak biçimde görevlendirilir ve eğitilir. Eğitim günleri ve çalışmalar, ilgililerin her isteminde gösterilmek üzere özel defterine işlenir.
