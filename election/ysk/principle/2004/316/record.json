@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/316",
+  "list_number": "316",
+  "decision_date": "2004-02-14",
+  "title": "YSK ilke kararı 2004/316",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4062/2004-316-karar.htm",
+  "source_sha256": "dc1db7c7f2f0f03b061a158ff555de8c01062db29f530e938c88a5a9d199f306",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two HTML text extractions differ",
+  "in_force": "2004-02-14",
+  "law_text_complete": false
+}
