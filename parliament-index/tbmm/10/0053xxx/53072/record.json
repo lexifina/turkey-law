@@ -1,0 +1,64 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 53072,
+  "assembly": "TBMM",
+  "term": 10,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Suriye, Lübnan, Irak, Ürdün, Mısır, İran, Afganistan, Libya, Pakistan, Kıbrıs, Türkiye Hükümetleri için orman siyaseti eğitimi temin eden bir merkezin teşkili suretiyle, teknik yardım yapılması gayesiyle Birleşmiş Milletler Gıda ve Ziraat Teşkilâtı arasında imzalanan 10 numaralı Ek Anlaşmanın onanması hakkında (1/105)",
+  "title": "Suriye, Lübnan, Irak, Ürdün, Mısır, İran, Afganistan, Libya, Pakistan, Kıbrıs, Türkiye Hükümetleri için orman siyaseti eğitimi temin eden bir merkezin teşkili suretiyle, teknik yardım yapılması gayesiyle Birleşmiş Milletler Gıda ve Ziraat Teşkilâtı arasında imzalanan 10 numaralı Ek Anlaşmanın onanması hakkında (1/105)",
+  "first_sitting_date": "1954-11-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 1,
+      "sitting_date": "1954-11-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c002/tbmm10002001.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c002/tbmm10002fih.pdf",
+      "pages": [
+        "5"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 63,
+      "sitting_date": "1955-04-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c006/tbmm10006063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c006/tbmm10006fih.pdf",
+      "pages": [
+        "298",
+        "424:425",
+        "464"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 79,
+      "sitting_date": "1955-05-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007fih.pdf",
+      "pages": [
+        "579",
+        "588:590",
+        "592",
+        "595",
+        "605",
+        "650:653"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "10ff2d5176eecb7e6b7b94a75a747c9095e75756f90f32d1b12aca09e061dfcb",
+  "in_force": "1954-11-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
