@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5501-2628/14827",
+  "source_id": 30034,
+  "date": "1997-04-09",
+  "title": "Bayilere yapılan telefon kartı ve jeton satışlarında, satış bedeli içerisinden iç yüzde oranı uygulanmak suretiyle hesaplanan katma değer vergisinin ayrılmasından sonra kalan miktar üzerinden bayilere % 5 ískonto uygulandığı anlaşılmış olup, telefon kartı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30034",
+  "source_sha256": "97ac1fd8870db75a52558006a93d6c08ca224c352884c57ca1a89ef45c6f237a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
