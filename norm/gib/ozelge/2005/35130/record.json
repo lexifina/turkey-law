@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6207-",
+  "source_id": 35130,
+  "date": "2005-02-27",
+  "title": "Resmi daireler tarafından mal ve hizmet alımlarına ilişkin olarak kişilere yapılan ödemelerin (avans ödemeleri dahil) damga vergisi konusuna girdiği fakat kişiler tarafından resmi dairelere yapılan ödemelerin damga vergisi konusu dışında kaldığı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35130",
+  "source_sha256": "e4cefbea6290de4fd527b51fd199b2cf63af1b3e6f981f2e640688479bb4475f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
