@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6314-420",
+  "source_id": 37453,
+  "date": "2005-02-10",
+  "title": "Serbest bölgelerde yapılacak Noter işlemleri hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/37453",
+  "source_sha256": "43ed7e1576754147d5361ac414e0c7391e91828949431bfc21d48655c0fd8a95",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
