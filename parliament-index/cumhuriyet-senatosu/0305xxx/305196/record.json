@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 305196,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı Kanuna bağlı (1) sayılı cetvelin Adalet Bakanlığı kısmına kadrolar eklenmesi hakkında kanun tasarısına dair (Millet Meclisi 1/354, Cumhuriyet Senatosu 1/579) (S. Sayısı:952)",
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı Kanuna bağlı (1) sayılı cetvelin Adalet Bakanlığı kısmına kadrolar eklenmesi hakkında kanun tasarısına dair (Millet Meclisi 1/354, Cumhuriyet Senatosu 1/579) (S. Sayısı:952)",
+  "first_sitting_date": "1967-06-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 41,
+      "sitting": 70,
+      "sitting_date": "1967-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c041/cs__06041070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c041/cs__06041fih.pdf",
+      "pages": [
+        "3"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 77,
+      "sitting_date": "1967-06-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042fih.pdf",
+      "pages": [
+        "26:28"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=2001&v_kullanici_id=27484903",
+  "source_sha256": "57a55688e108516b7dc023f22addf80df9a64a1025a876ef5989677de1d9ba06",
+  "in_force": "1967-06-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
