@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2977-320-159/5827",
+  "source_id": 27057,
+  "date": "2001-01-30",
+  "title": "Gerek test  sürüşü gerekse başka arazi araçlarını satın alarak işletme aktifine kaydetmesi durumunda, yüklenilen KDV'nin indiriminin mümkün bulunup bulunmadığı ve amortisman ayrılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27057",
+  "source_sha256": "d8298c5c819189c38d08e77cca4b5a69c2baef4665f76ab770733a8a5cd15a4d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
