@@ -1,0 +1,13 @@
+{
+  "number": "99-42/444-278",
+  "type": "Menfi Tespit ve Muafiyet",
+  "decision_date": "1999-09-14",
+  "publication_date": "2000-08-19",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=4bf5ee1e-eff6-4c77-a26c-e8c46c25a038",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1041",
+  "pdf_sha256": "512fd17cd3834be705a20b8951c4f0704bdf50cb3597e0fb4020efa21b1b48f7",
+  "pdf_bytes": "156206",
+  "pages": "3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
