@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07 .0.GEL.0.63/6389-66/35079",
+  "source_id": 35981,
+  "date": "2000-07-21",
+  "title": "7269 sayılı Kanuna göre, beyanname, taahhütname ve sözleşmelerin her türlü vergi, resim ve harçtan muaf olup, olmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35981",
+  "source_sha256": "f03cf3d82634f6d1bacfcf1264f9b95b0bfe38a76d253a965449ab1e5e48eed9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
