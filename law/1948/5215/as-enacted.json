@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5215",
+  "year": 1948,
+  "title": "Gümrük Koruma memurlarına Askeri Teşkilata göre tensikı hakkında 1844 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1948-06-15",
+  "gazette_issue": "6932",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6932.pdf",
+  "source_sha256": "e641b53542e63426eaf789bcd19051075f31d690e43b50feb64a19b91f0200eb",
+  "text_sha256": "a852d4bd89f90a0f0fa61041b07c0eb92d6d44052b62f64105ce626c6d31622a",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      46,
+      74
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/kanuntbmmc030/kanuntbmmc03005215.pdf",
+    "source_sha256": "1b269fc95e8037032d8cfcb152cd80166489a9abe3598325cd349965a9c226c3",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9524,
+    "bag": 0.8527,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9871,
+    "rg_words": 166,
+    "kd_words": 155,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
