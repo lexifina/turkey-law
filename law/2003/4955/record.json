@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4955",
+  "year": 2003,
+  "title": "Tütün, Tütün Mamülleri,Tuz ve Alkol İşletmeleri Genel Müdürlüğünün Yeniden Yapılandırılması ile Tütün ve Tütün Mamullerinin Üretimine, İç ve Dış Alım ve Satımına, 4046 Sayılı Kanunda ve 233 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanuna Bir Geçici Madde Eklenmesi Hakkında Kanun",
+  "adopted": "2003-07-24",
+  "adopted_as_published": "24/07/2003",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.07.2003 No: 25184",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc087/kanuntbmmc087/kanuntbmmc08704955.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 87",
+  "committee_reports": [
+    {
+      "label": "TBMM 214 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c024/tbmm22024111ss0214.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 165744,
+      "title": "Tütün, Tütün Mamülleri,Tuz ve Alkol İşletmeleri Genel Müdürlüğünün Yeniden Yapılandırılması ile Tütün ve Tütün Mamullerinin Üretimine, İç ve Dış Alım ve Satımına, 4046 Sayılı Kanunda ve 233 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanuna Bir Geçici Madde Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "24/07/2003",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc087/kanuntbmmc087/kanuntbmmc08704955.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 214 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c024/tbmm22024111ss0214.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 20,
+          "sitting": 103,
+          "sitting_date": "2003-07-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c020/tbmm22020103.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c020/tbmm22020fih.pdf",
+          "pages": [
+            "444"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 105,
+          "sitting_date": "2003-07-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c021/tbmm22021105.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c021/tbmm22021fih.pdf",
+          "pages": [
+            "183"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 111,
+          "sitting_date": "2003-07-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c024/tbmm22024111.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c024/tbmm22024fih.pdf",
+          "pages": [
+            "249:260"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=101&v_kullanici_id=27483198",
+      "page_sha256": "3b1b9f7d0740ad4bf6f5a41022168eca1101bbfa81a60a96e8deca628a9f272e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "3b1b9f7d0740ad4bf6f5a41022168eca1101bbfa81a60a96e8deca628a9f272e",
+  "issuer": "TBMM",
+  "in_force": "2003-07-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 24/07/2003; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
