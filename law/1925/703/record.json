@@ -1,0 +1,72 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "703",
+  "year": 1925,
+  "title": "Tedariki vesaiti nakliye komisyonunun sureti teşekkül ve vezaifi hakkında Kanun",
+  "adopted": "1925-12-31",
+  "adopted_as_published": "31/12/1341",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.01.1926 No: 269",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc004/kanuntbmmc004/kanuntbmmc00400703.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 4",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 126578,
+      "title": "Tedariki vesaiti nakliye komisyonunun sureti teşekkül ve vezaifi hakkında Kanun",
+      "adopted_as_published": "31/12/1341",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc004/kanuntbmmc004/kanuntbmmc00400703.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 18,
+          "sitting": 108,
+          "sitting_date": "1925-04-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c018/tbmm02018108.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c018/ehttbmm02018108.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c018/tbmm02018fih.pdf",
+          "pages": [
+            "293"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 28,
+          "sitting_date": "1925-12-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c020/tbmm02020028.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c020/ehttbmm02020028.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c020/tbmm02020fih.pdf",
+          "pages": [
+            "203"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 34,
+          "sitting_date": "1925-12-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c020/tbmm02020034.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c020/ehttbmm02020034.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c020/tbmm02020fih.pdf",
+          "pages": [
+            "318:319"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=401&v_kullanici_id=27483145",
+      "page_sha256": "a2de1980c388178e0b82226c69adc112f544797154804b49f6622059390dad84"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a2de1980c388178e0b82226c69adc112f544797154804b49f6622059390dad84",
+  "issuer": "TBMM",
+  "in_force": "1925-12-31",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 31/12/1341 (Rumi year, +584); record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
