@@ -1,0 +1,1 @@
+MADDE 1- "Üniversitelerde Akademik Teşkilat Yönetmeliği”nin Geçici 2. maddesi uyarınca Hacettepe Üniversitesi Senatosu’nun 7/9/1983 tarih ve 83-115 sayılı kararı ile "Hacettepe Üniversitesi Yerbilimleri Enstitüsü" "Hacettepe Üniversitesi Yerbilimleri Uygulama ve Araştırma Merkezi"ne dönüştürülmüştür.
