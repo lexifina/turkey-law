@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1078/22393",
+  "source_id": 23040,
+  "date": "2000-05-11",
+  "title": "Gerçek usulde vergilendirildiği faaliyetlerini 1.1.1994 tarihinden önce terk eden ve aynı işin devamı olmayan bir işe 1.1.1999 tarihinden sonra başlayan mükelleflerin gelir vergisi kanununda yer alan basit usule tabi olmanın genel ve özel şartlarını toplu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23040",
+  "source_sha256": "88cc0053df63aa14e26644836cf2d270adc6b52492469254168e4efb51e93299",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
