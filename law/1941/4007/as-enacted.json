@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4007",
+  "year": 1941,
+  "title": "Memurların tahsil müesseselerinde talebe olamayacaklarına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-05-06",
+  "gazette_issue": "4801",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4801.pdf",
+  "source_sha256": "3e6db90bb19fb21abc7df6da21843f3777feb6368c802c357d2561c312f8ea3a",
+  "text_sha256": "45ebed516ad36af51ded09ea4197e9ea7620dbcaeb5c0c4801b2d2180da45a3f",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      108,
+      133
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204007.pdf",
+    "source_sha256": "c737ec3367c7d07463f23541c58b56ad92b8a3e5f54c9dcad562e49dd2eafd36",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9714,
+    "bag": 0.8889,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9863,
+    "rg_words": 153,
+    "kd_words": 146,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
