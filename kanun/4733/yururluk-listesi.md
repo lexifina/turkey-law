@@ -5,3 +5,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 4955 | Geçici Madde 2 | 30/7/2003
 4971 | 6 | 15/8/2003
 5035 | 6 | 2/1/2004
+Anayasa Mah.’nin E.: 2002/32 ve K.: 2003/100 sayılı Kararı | 9 | 11/8/2004
