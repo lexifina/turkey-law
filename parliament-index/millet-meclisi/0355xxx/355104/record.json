@@ -1,0 +1,80 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 355104,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MEBRURE AKSOLEY (İSTANBUL)",
+  "summary": "5434 Sayılı TC Emekli Sandığı Kanununun 93. maddesinin (B) bendinin sonuna bir fıkra eklenmesi hakkında (2/757)",
+  "title": "5434 Sayılı TC Emekli Sandığı Kanununun 93. maddesinin (B) bendinin sonuna bir fıkra eklenmesi hakkında (2/757)",
+  "first_sitting_date": "1964-12-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 33,
+      "sitting": 18,
+      "sitting_date": "1964-12-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c033/mm__01033018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c033/mm__01033fih.pdf",
+      "pages": [
+        "674"
+      ]
+    },
+    {
+      "cilt": 40,
+      "sitting": 110,
+      "sitting_date": "1965-05-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040110.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 40,
+      "sitting": 111,
+      "sitting_date": "1965-05-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040111.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040fih.pdf",
+      "pages": [
+        "100:101"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 137,
+      "sitting_date": "1965-06-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042137.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042fih.pdf",
+      "pages": [
+        "623"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 138,
+      "sitting_date": "1965-07-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042138.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042fih.pdf",
+      "pages": [
+        "682:683"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=4&meclis_kisa_adi=MM&diger_donem_adi=d01"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=5901&v_kullanici_id=27484893",
+  "source_sha256": "44f101e24e28de9ce3978efbf766152a351a5b7ce7350736bdf2712290362679",
+  "in_force": "1964-12-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
