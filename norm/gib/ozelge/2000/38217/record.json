@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2213/58778",
+  "source_id": 38217,
+  "date": "2000-12-11",
+  "title": "Mükellefçe verilen değişiklik beyanı üzerine yapılan tarhiyat sırasında vergi aslına bağlı ceza kesilmeyeceği gibi, gecikme faizi de uygulanmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/38217",
+  "source_sha256": "57949e30bb212e857d2de85de71783adc1fe4e2ea882437bb7618c7af4a165d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
