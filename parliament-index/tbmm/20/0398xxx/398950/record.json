@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 398950,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "1996 Malî Yılı Genel ve Katma Bütçeli Kuruluşlar Bütçe Kanunu Tasarıları (1/285,286)",
+  "title": "1996 Malî Yılı Genel ve Katma Bütçeli Kuruluşlar Bütçe Kanunu Tasarıları (1/285,286)",
+  "first_sitting_date": "1996-04-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 39,
+      "sitting_date": "1996-04-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003fih.pdf",
+      "pages": [
+        "583"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 40,
+      "sitting_date": "1996-04-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003fih.pdf",
+      "pages": [
+        "762"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 41,
+      "sitting_date": "1996-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004041.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004fih.pdf",
+      "pages": [
+        "6"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 42,
+      "sitting_date": "1996-04-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004fih.pdf",
+      "pages": [
+        "227"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 43,
+      "sitting_date": "1996-04-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004043.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004fih.pdf",
+      "pages": [
+        "489:566"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "f9c5f3604163eaaf4c6a5d497a68fcd48a0339acdedd3a34ce2dee09eab56bb8",
+  "in_force": "1996-04-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
