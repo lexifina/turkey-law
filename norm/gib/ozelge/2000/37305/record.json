@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6685--",
+  "source_id": 37305,
+  "date": "2000-01-13",
+  "title": "Emlak Vergisi ve Çevre Temizlik Vergisinin ödenmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37305",
+  "source_sha256": "697ed124ff472701180fe047a7c2de29d17876bc7371af9c15405b3fc0381135",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
