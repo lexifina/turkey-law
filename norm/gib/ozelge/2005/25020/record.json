@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.55/5530- 92 / 13128",
+  "source_id": 25020,
+  "date": "2005-03-22",
+  "title": "Deprem, sel felaketi ve Maliye Bakanlığının yangın sebebiyle mücbir sebep ilan ettiği yerlerdeki yangın sonucu zayi olanlar hariç olmak üzere, zayi olan mallara ait katma değer vergisi indirilemez.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25020",
+  "source_sha256": "d5346b78b802706b9eaacb39e43f08bb51ba9c3b5fa5d6cc7763e4d27b631a02",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
