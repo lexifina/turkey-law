@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3892",
+  "year": 1940,
+  "title": "Cezaevleri inşası için istikraz akdine ve sâri taahhüdat icrasın dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-07-09",
+  "gazette_issue": "4556",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4556.pdf",
+  "source_sha256": "c23ec3ee58afb9f53f0effbec94caeeec21b4d3b0e7183744adce3dccf082bb3",
+  "text_sha256": "7a5e821de19f427d6fffdd26ee9d9f9ba6c23e35e6eb18982cbba57cebef460b",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      330,
+      349
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103892.pdf",
+    "source_sha256": "f79ab025487523d686d85c222b73de93203847c45e4fd3df2ae77a16270e6aa7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9379,
+    "bag": 0.8973,
+    "kd_coverage": 0.9785,
+    "kd_body_compared": 0.9479,
+    "rg_words": 94,
+    "kd_words": 96,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
