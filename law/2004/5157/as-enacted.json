@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5157",
+  "year": 2004,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Tayland Krallığı Hükümeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması ile Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-05-07",
+  "gazette_issue": "25455",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/05/20040507.htm",
+  "source_sha256": "fd55944384decc8416fa8059dbbf2b2b0030307f713e0b87a7c73fa047f9bc92",
+  "text_sha256": "f4514beef2cabfb92224242066a6678a5b898ec2d6858ee95802572f7c675c4e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/05/07/25455-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/05/20040507.htm#8",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
