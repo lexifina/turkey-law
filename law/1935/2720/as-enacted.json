@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2720",
+  "year": 1935,
+  "title": "Devlet memurları maaşlarının tevhid ve teadülü hakkındaki 1452 numaralı kanuna bağlı 2 sayılı cetvelde yapılacak ilâveye ve Hudud ve Sahiller Sıhhat Umum Müdürlüğü kadrosundan çıkarılacak memuriyetlere dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-05-25",
+  "gazette_issue": "3011",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3011.pdf",
+  "source_sha256": "1b6ca2d3c794d0054bb2961cb76cadc55925ce3e2013de7b8477bd203d359d47",
+  "text_sha256": "3b216e393bf1db454ecf83dc63c22adbd4976f69cbf69dd7dcd9e3f2750c2f21",
+  "text_status": "ocr",
+  "pages": [
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      857,
+      1016
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502720.pdf",
+    "source_sha256": "7aeee04f6d29811d57145352e1741b1e573bf709f837ca97d212f15058298cba",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9144,
+    "bag": 0.8885,
+    "kd_coverage": 0.9672,
+    "kd_body_compared": 0.9874,
+    "rg_words": 305,
+    "kd_words": 318,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
