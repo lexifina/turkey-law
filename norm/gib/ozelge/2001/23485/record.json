@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-20878",
+  "source_id": 23485,
+  "date": "2001-04-16",
+  "title": "Kurumun özelleştirilmesi nedeniyle işten ayrılanların, özel gider indiriminden faydalanıp faydalanamayacakları hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23485",
+  "source_sha256": "3fda53cefb3662f57cc325e10139f16ed72b0bceb997eb738ea602da9e7aeac9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
