@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4052-38/10201",
+  "source_id": 24073,
+  "date": "2004-03-11",
+  "title": "Mükellefin vefatı halinde faiz gelirinin beyanı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24073",
+  "source_sha256": "a7fc5afcc9bd12171a6d31d801598e2804c59036f03ca3acb833ed9e0c70ea7a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
