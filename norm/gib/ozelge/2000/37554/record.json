@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5501-260/20698",
+  "source_id": 37554,
+  "date": "2000-05-02",
+  "title": "Aylık sabit ücret bedeli adı altında alınan bedel özel iletişim vergisi matrahına dahil edilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/37554",
+  "source_sha256": "020d4e114caaf8036970a73a42f57515d6e8fd22fdefc95e4b98fcc81d82ef41",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
