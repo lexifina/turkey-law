@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6662-156/1805",
+  "source_id": 37137,
+  "date": "1999-01-15",
+  "title": "Kooperatife ait arsanın emlak vergisine tabi tutulması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37137",
+  "source_sha256": "1fb04f9274ab8857adac4b9599313a99aede5797cd80e529b059bff4a37d19c0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
