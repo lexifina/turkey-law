@@ -1,0 +1,103 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 355063,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "TAHSİN TELLİ (ERZURUM)",
+  "summary": "Diyanet İşleri Başkanlığı kuruluş ve görevleri hakkında (2/643)",
+  "title": "Diyanet İşleri Başkanlığı kuruluş ve görevleri hakkında (2/643)",
+  "first_sitting_date": "1965-02-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 36,
+      "sitting": 61,
+      "sitting_date": "1965-02-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036fih.pdf",
+      "pages": [
+        "263:264"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 72,
+      "sitting_date": "1965-03-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037fih.pdf",
+      "pages": [
+        "267:269"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 102,
+      "sitting_date": "1965-05-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039102.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039fih.pdf",
+      "pages": [
+        "69:89"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 104,
+      "sitting_date": "1965-05-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039104.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039fih.pdf",
+      "pages": [
+        "152"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 106,
+      "sitting_date": "1965-05-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039106.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039fih.pdf",
+      "pages": [
+        "284:286",
+        "373:377",
+        "378:382"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 108,
+      "sitting_date": "1965-05-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039108.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039fih.pdf",
+      "pages": [
+        "579:596"
+      ]
+    },
+    {
+      "cilt": 40,
+      "sitting": 110,
+      "sitting_date": "1965-05-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040110.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040fih.pdf",
+      "pages": [
+        "82:85"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=6001&v_kullanici_id=27484893",
+  "source_sha256": "649c43de03685cb893514fb90f507f8b2b0f254beaeb5e0e1b67fee6a2e52d28",
+  "in_force": "1965-02-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
