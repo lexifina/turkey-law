@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1685",
+  "year": 1930,
+  "title": "Uyuşturucu maddeler hakkındaki kanunun 8. maddesile 16. maddesinin son fıkrasının tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-06-12",
+  "gazette_issue": "1518",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1518.pdf",
+  "source_sha256": "7774f4884e6cf0e4f2b6df8d55308aa72cb2a930ccf8170bb0ed1f9286e73d02",
+  "text_sha256": "958247692653b6eb7bf90b56340d4eabe052d81636a16232003b286840bed705",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      38,
+      98
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801685.pdf",
+    "source_sha256": "99619ec0e3dbdc9fecb61ef7fbf2c6873cb6511d6d202bbda431b45bfe16a94b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9462,
+    "bag": 0.9237,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9762,
+    "rg_words": 126,
+    "kd_words": 126,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
