@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5934",
+  "year": 1952,
+  "title": "Türkiye ile İtalya Arasındaki Kültür Anlaşmasının Onanması Hakkındaki Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-05-17",
+  "gazette_issue": "8112",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8112.pdf",
+  "source_sha256": "6fb7cfedf6be2c3a259589b1c5699d1249f3d469509294b77dbe2cd2a8eb1fcc",
+  "text_sha256": "68de08e4bdb4ece69f5ba6f0f161d4b32cf86e56e7c5064528c54a8afc8a9f6e",
+  "text_status": "ocr",
+  "pages": [
+    4,
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      521,
+      709
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405934.pdf",
+    "source_sha256": "38e66ea1667d27cc73bfbf6d2464bb6edbfc69e6a8d691ae2304a91d6c06dc34",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9596,
+    "bag": 0.88,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 1084,
+    "kd_words": 1100,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
