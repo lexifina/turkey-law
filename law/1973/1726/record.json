@@ -1,0 +1,157 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1726",
+  "year": 1973,
+  "title": "261 sayılı Kanun gereğince Hükümetçe alınan kararın onanması hakkında kanun",
+  "adopted": "1973-05-08",
+  "adopted_as_published": "08/05/1973",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18.05.1973 No: 14539",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601726.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 56",
+  "committee_reports": [
+    {
+      "label": "MM 677 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072ss0677.pdf"
+    },
+    {
+      "label": "MM 677ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072ss0677ek01.pdf"
+    },
+    {
+      "label": "MM 677ek02no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072ss0677ek02.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 393234,
+      "title": "261 sayılı Kanun gereğince Hükümetçe alınan kararın onanması hakkında kanun",
+      "adopted_as_published": "08/05/1973",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601726.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 677 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072ss0677.pdf"
+        },
+        {
+          "label": "MM 677ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072ss0677ek01.pdf"
+        },
+        {
+          "label": "MM 677ek02no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072ss0677ek02.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 17,
+          "sitting_date": "1969-12-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001fih.pdf",
+          "pages": [
+            "509"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 93,
+          "sitting_date": "1972-05-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024fih.pdf",
+          "pages": [
+            "823"
+          ]
+        },
+        {
+          "cilt": 35,
+          "sitting": 72,
+          "sitting_date": "1973-03-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035fih.pdf",
+          "pages": [
+            "616:617",
+            "658",
+            "661:662"
+          ]
+        },
+        {
+          "cilt": 36,
+          "sitting": 75,
+          "sitting_date": "1973-03-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036fih.pdf",
+          "pages": [
+            "128",
+            "168",
+            "170:173"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1001&v_kullanici_id=27483225",
+      "page_sha256": "527fe61057172c75db7e994b7bc2d86caa3d426114acd67ad09f586a4f03c72e"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 321835,
+      "title": "261 sayılı Kanun gereğince Hükümetçe alınan kararın onanması hakkında Kanun.",
+      "adopted_as_published": "08/05/1973",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601726.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 677 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072ss0677.pdf"
+        },
+        {
+          "label": "MM 677ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072ss0677ek01.pdf"
+        },
+        {
+          "label": "MM 677ek02no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c035/mm__03035072ss0677ek02.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 45,
+          "sitting_date": "1973-03-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010fih.pdf",
+          "pages": [
+            "336",
+            "672",
+            "699",
+            "722",
+            "105:106",
+            "131:132",
+            "159:160"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1701&v_kullanici_id=27483235",
+      "page_sha256": "b72c34be4a1905335c6e8be089c858335765608ea5d4dfd7757ae144141b09fa"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "527fe61057172c75db7e994b7bc2d86caa3d426114acd67ad09f586a4f03c72e",
+  "issuer": "Millet Meclisi",
+  "in_force": "1973-05-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 08/05/1973; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
