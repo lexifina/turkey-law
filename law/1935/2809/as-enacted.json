@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2809",
+  "year": 1935,
+  "title": "Sıcak ve soğuk maden sularının istismarı ile kaplıcalar tesisatı hakkındaki 10.6.1936 tarihli kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-06-24",
+  "gazette_issue": "3036",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3036.pdf",
+  "source_sha256": "f133f23cb09a0de7c6d36652897d840ef57393f0cf91a4cc5ff495dad9cfb347",
+  "text_sha256": "dc7b68ed41221499956f4c23c43d258a3eef1a64fe76ef8d3bd2c07085665957",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      1788,
+      1804
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502809.pdf",
+    "source_sha256": "76f262cbd12e3ed278b6be48dd9a6c37a151d827217759aa26185a52157735ae",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9943,
+    "bag": 0.9664,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9737,
+    "rg_words": 75,
+    "kd_words": 76,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
