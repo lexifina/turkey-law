@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3139-15/18331",
+  "source_id": 38297,
+  "date": "2002-04-25",
+  "title": "Gelir ve kurumlar vergisi beyannameleri ile eklerinin tasdikine ilişkin olarak yeminli mali müşavirlerle düzenlenen sözleşmeler, mükelleflerin bağlı oldukları vergi dairelerine sözleşme düzenlenmesi gereken sürenin bitimini takip eden ayın son gününe kada",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38297",
+  "source_sha256": "bbc0bf8f713e5810d778af2af5bc3d64391dc704a67b3091cdcf757f3d8c4b6e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
