@@ -1,0 +1,8 @@
+İç denetçinin nitelikleri ve atanması
+MADDE 65 - İç denetçi olarak atanacakların, 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilenler ile aşağıdaki şartları taşıması gerekir:
+a)İlgili kamu idaresinin özelliği de dikkate alınarak İç Denetim Koordinasyon Kurulu tarafından belirlenen alanlarda en az dört yıllık yüksek öğrenim görmüş olmak.
+b) Kamu idarelerinde denetim elemanı olarak en az beş yıl veya İç Denetim Koordinasyon Kurulunca belirlenen alanlarda en az sekiz yıl çalışmış olmak.
+c) Mesleğin gerektirdiği bilgi, ehliyet ve temsil yeteneğine sahip olmak.
+d)İç Denetim Koordinasyon Kurulunca gerekli görülen diğer şartları taşımak.
+Kamu idarelerine iç denetçi olarak atanacaklar, İç Denetim Koordinasyon Kurulu koordinatörlüğünde, Maliye Bakanlığınca iç denetim eğitimine tâbi tutulur. Eğitim programı, iç denetçi adaylarına denetim, bütçe, malî kontrol, kamu ihale mevzuatı, muhasebe, personel mevzuatı, Avrupa Birliği mevzuatı ve mesleki diğer konularda yeterli bilgi verilecek şekilde hazırlanır. Bu eğitimi başarıyla tamamlayanlara sertifika verilir. İç denetçi adayları için uygulanacak eğitim programının süresi, konuları ve eğitim sonucunda yapılacak işlemler ile diğer hususlar İç Denetim Koordinasyon Kurulu tarafından hazırlanarak Maliye Bakanlığınca çıkarılacak yönetmelikle düzenlenir.
+İç denetçiler, üst yöneticiler tarafından, sertifikalı adaylar arasından atanır. İç denetçilerin kamu idareleri itibarıyla sayıları, çalışma usul ve esasları ile diğer hususlar İç Denetim Koordinasyon Kurulunca hazırlanarak, Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca çıkarılacak yönetmelikle belirlenir.

@@ -1,0 +1,4 @@
+Malî istatistiklerin hazırlanması ve açıklanması
+MADDE 53 -Genel yönetim kapsamındaki kamu idarelerine ait malî istatistikler, Maliye Bakanlığınca derlenir. Merkezî yönetim kapsamı dışındaki kamu idareleri malî istatistiklerini belirlenmiş ilkelere uygun olarak hazırlar ve belirlenen süreler içinde Maliye Bakanlığına gönderir.
+Merkezî yönetim kapsamındaki kamu idarelerine ait malî istatistikler, Maliye Bakanlığınca aylık olarak yayımlanır. Sosyal güvenlik kurumları ve mahallî idarelere ait malî istatistikler ile merkezî yönetim kapsamındaki kamu idarelerine ait malî istatistikler Maliye Bakanlığınca birleştirilerek, genel yönetim kapsamındaki kamu idarelerine ait malî istatistikler elde edilir ve üçer aylık dönemler itibarıyla yayımlanır.
+Malî istatistiklerin anlaşılabilir ve kullanıcılar için kolayca ulaşılabilir olması esastır.

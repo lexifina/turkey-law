@@ -1,0 +1,2 @@
+Kamu alacaklarının silinmesi
+MADDE 79 - İdare hesaplarında kayıtlı olup, zaruri veya mücbir sebeplerle takip ve tahsil imkânı kalmayan kamu alacaklarından merkezî yönetim bütçe kanununda gösterilen tutara kadar olanların kayıtlardan çıkarılmasına genel bütçe kapsamındaki kamu idarelerinde Maliye Bakanı, diğer kamu idarelerinde üst yöneticiler yetkilidir. Bu tutarı aşan kamu alacaklarından silinmesi öngörülenler merkezî yönetim bütçe kanununa ekli cetvelde gösterilir.
