@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4874",
+  "year": 1946,
+  "title": "Kazanç Vergisi Kanununun 3. maddesinin 14. fıkrasının değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-04-08",
+  "gazette_issue": "6277",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6277.pdf",
+  "source_sha256": "8cba9caeee27fbdfe7cd76b2e947ad5dade6c3eab328c01bd9ff6dbbde4c6039",
+  "text_sha256": "ca19c8f28ee8bc94fc5fa85a405f9920ca3fcca2814326d02f238a7a4ba6d830",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      196,
+      215
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804874.pdf",
+    "source_sha256": "bb49d62b38b3f67c772249e4160b9b2d219fbb574430c05b5f03eacb0853b7b2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.92,
+    "bag": 0.7368,
+    "kd_coverage": 0.9685,
+    "kd_body_compared": 0.9685,
+    "rg_words": 124,
+    "kd_words": 127,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
