@@ -1,0 +1,8 @@
+14 – 22/11/1990 tarih ve 3682 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası: 7)
+Adli sicildeki hükümlülük kaydının silinmesi:
+Madde 7 – (13/6/1967 tarih ve 879 sayılı Kanunun hükmüdür.)
+A) Kabahat ile mahküm olan kimse cezasını çektiği veya genel af, zamanaşımı veya şikayetin geri alınması gibi sebeplerle cezanın ortadan kalktığı veya düştüğü tarihten itibaren bir sene içinde bir cürüm veya evvelki hükmün verildiği Asliye Mahkemesinin kazası dairesinde diğer bir kabahatten dolayı aynı cinsten veya daha ağır bir cezaya mahküm olmadığı veya ertelenmiş olan hükümlülüklerin esasen vaki olmamış sayıldığı hallerde bu tarihten sonra ;
+B) Zimmet, ihtilas, irtikap, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi yüz kızartıcı suçlarla ağır hapis veya 5 seneden fazla hapis cezasını müstelzim suçlar haricinde kalan bir cürümden dolayı mahküm olan kimse, cezasını çektiği veya genel af, zamanaşımı veya şikayetin geri alınması gibi sebeplerle cezanın ortadan kalktığı veya düştüğü
+tarihten itibaren beş sene içinde işlediği bir cürümden dolayı evvelce verilen ceza cinsinden bir cezaya veya hapis yahut ağır hapis cezasına mahküm olmadığı veya ertelenmiş olan hükümlülüklerin esasen vaki olmamış sayıldığı hallerde bu tarihten sonra ;
+İlgilinin veya Cumhuriyet savcısının yahut Adli Sicil Müdürlüğünün talebi üzerine hükmü veren mahkemece veya talep edenin bulunduğu yer asliye ceza mahkemesince, duruşma yapılmaksızın, adli sicildeki hükümlülük kaydının silinmesine karar verilir.
+15 – 10/9/1993 tarih ve 524 sayılı KHK İle yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri (Madde numaraları: 10, 11 ve Ek Madde 3)

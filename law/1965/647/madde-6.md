@@ -1,0 +1,2 @@
+Madde 6 – (13/7/1965 tarih ve 647 sayılı Kanunun hükmüdür.)
+Adliye mahkemelerinde para cezasından başka bir ceza ile mahküm olmıyan kimse, işlediği bir suçtan dolayı ağır veya hafif para veya altı aya kadar ağır hapis veya bir yıla kadar hapis veya hafif hapis cezalarından biri ile mahküm olur ve geçmişteki hali ile ahlaki temayüllerine göre cezanın tecili ilerde cürüm işlemekten çekinmesine sebep olacağı hakkında mahkemece kanaat edilirse bu cezanın teciline hükmolunabilir. Bu halde tecilin sebebi hükümde yazılır.

@@ -1,0 +1,2 @@
+Madde 18 – (13/7/1965 tarih ve 647 sayılı Kanunun hükmüdür.)
+Andlaşmalarda öngörülen hükümler saklı kalmak şartiyle, yabancılar hakkında Türk mahkemelerince hükmolunan hürriyeti bağlayıcı cezaların infazının, mütekabiliyet ve cezanın aynen tatbik olunacağı hususu taahhüt edilmek kaydiyle, yabancının mensup bulunduğu Devletin infaz müesseselerine bırakılmasına, Adalet Bakanlığının teklifi üzerine Bakanlar Kurulunca karar verilebilir.
