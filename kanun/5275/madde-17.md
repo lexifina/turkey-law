@@ -1,0 +1,4 @@
+Hükümlünün istemiyle infazın ertelenmesi
+MADDE 17.- (1) Üç yıl ve daha az süreli hapis cezalarının derhâl infazının, hükümlü veya ailesi için mahkûmiyetin amacı dışında ağır bir zarara neden olacağı anlaşılırsa, hükümlünün istemi üzerine infazı Cumhuriyet Başsavcılığınca ertelenebilir. Erteleme süresi altı ayı geçemez.
+(2) Üç yıl ve daha az süreli hapis cezaları; hükümlünün yüksek öğrenimini bitirebilmesi, ana, baba, eş veya çocuklarının ölümü veya adı geçenlerin sürekli hastalık veya malûllükleri nedeniyle ailenin tarım topraklarının işlenebilmesinin olanaksız hâle gelmesi veya hükümlünün hastalığının sürekli bir tedaviyi gerektirmesi gibi zorunlu ve çok ivedi hâllerde, Cumhuriyet Başsavcılığınca altı ayı geçmeyen sürelerle ara verilerek infaz edilebilir. Ancak bu ara verme iki defadan fazla olamaz.
+(3) Erteleme isteminin kabulü, güvence gösterilmesine veya diğer bir koşula bağlanabilir.

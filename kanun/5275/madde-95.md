@@ -1,0 +1,2 @@
+Özel izin
+MADDE 95.- (1) Açık ceza infaz kurumlarında bulunanlarla kapalı ceza infaz kurumunda olup da açık ceza infaz kurumlarına ayrılmaya hak kazananlara, aileleriyle bağlarını sürdürmelerini veya güçlendirmelerini ve dış dünyaya uyumlarını sağlamak amacıyla kurum en üst amirinin önerisi ve Cumhuriyet Başsavcılığının onayı ile yılda en çok üç kez olmak üzere her defasında yol hariç üç güne kadar izin verilebilir.
