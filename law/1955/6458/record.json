@@ -1,0 +1,93 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6458",
+  "year": 1955,
+  "title": "Temsil Ödeneği Kanununun birinci maddesine bir fıkra ilâvesine dair kanun",
+  "adopted": "1955-01-31",
+  "adopted_as_published": "31/01/1955",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "08.02.1955 No: 8925",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706458.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 37",
+  "committee_reports": [
+    {
+      "label": "TBMM 91 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004031ss0091.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 10,
+      "kayit_no": 51587,
+      "title": "Temsil Ödeneği Kanununun birinci maddesine bir fıkra ilâvesine dair kanun",
+      "adopted_as_published": "31/01/1955",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706458.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 91 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004031ss0091.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 23,
+          "sitting_date": "1955-01-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 29,
+          "sitting_date": "1955-01-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004029.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004fih.pdf",
+          "pages": [
+            "97"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 30,
+          "sitting_date": "1955-01-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004fih.pdf",
+          "pages": [
+            "154:155"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 34,
+          "sitting_date": "1955-01-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004fih.pdf",
+          "pages": [
+            "251"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "81ba0373f5de58db5985dfe303a55b7fb28358fca50619cf672b9c6bea3a9d0e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "81ba0373f5de58db5985dfe303a55b7fb28358fca50619cf672b9c6bea3a9d0e",
+  "issuer": "TBMM",
+  "in_force": "1955-01-31",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 31/01/1955; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
