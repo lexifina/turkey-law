@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2143",
+  "year": 1933,
+  "title": "Evkaf Umum Müdürlüğü 1932 malî senesi bütçesinde münakale yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-04-19",
+  "gazette_issue": "2380",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2380.pdf",
+  "source_sha256": "fbde9e75b48d99bf978d68a4964b74d578616960b97c7f77bb560e63c3385905",
+  "text_sha256": "56d1ee76f3ee3f67da2dc99dbe78108c280e15a38ef0f907d8cab8c884565252",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      217,
+      268
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202143.pdf",
+    "source_sha256": "2d8be7aa8128284dac02a6208e5f7cb158203bdc486c83c1074d716ca30ac3f2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9033,
+    "bag": 0.9,
+    "kd_coverage": 0.9778,
+    "kd_body_compared": 0.9712,
+    "rg_words": 99,
+    "kd_words": 104,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
