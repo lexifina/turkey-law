@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 97157,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Askerî tayınat ve yem kanununun birinci maddesine müzeyyel 1495 sayılı kanuna ek kanun lâyihası (1/625)",
+  "title": "Askerî tayınat ve yem kanununun birinci maddesine müzeyyel 1495 sayılı kanuna ek kanun lâyihası (1/625)",
+  "first_sitting_date": "1941-05-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 52,
+      "sitting_date": "1941-05-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c018/tbmm06018052.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c018/tbmm06018fih.pdf",
+      "pages": [
+        "66"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 72,
+      "sitting_date": "1941-07-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c020/tbmm06020072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c020/tbmm06020fih.pdf",
+      "pages": [
+        "2",
+        "34"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1070&v_gelecek_sayfa=401&v_kullanici_id=27483993",
+  "source_sha256": "950f9cc6126c575ead7c418c2a30a169b07ec0ab5f0fd9ba1d7980e39c4c9e14",
+  "in_force": "1941-05-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
