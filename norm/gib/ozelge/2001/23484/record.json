@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-1462/62688",
+  "source_id": 23484,
+  "date": "2001-11-21",
+  "title": "Memur sendika aidatlarının ücretin vergi matrahının tespitinde indirim konusu yapılıp yapılamayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23484",
+  "source_sha256": "9aed8328d4fda353c4944db5225f878642c8ad4f52137e3fec05dba98f590aae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
