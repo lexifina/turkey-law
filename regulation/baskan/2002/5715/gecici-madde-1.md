@@ -1,0 +1,1 @@
+Geçici Madde 1 — İç tesisatla ilgili mevcut uygulamalar, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren bir yıl geçerli olup, bu tarihten sonra yapılacak uygulamalar, bu Yönetmelik hükümlerine uygun olmak zorundadır.

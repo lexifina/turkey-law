@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.5715",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DOĞAL GAZ PİYASASI İÇ TESİSAT YÖNETMELİĞİ",
+  "number": "5715",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2002/5715",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5715&MevzuatTertip=5",
+  "source_sha256": "51be6fe7fbbd02051fa1aba97836d32b5d19c360fca57f79bda75de1000c91cc",
+  "source_bytes": 21360,
+  "published": "2002-09-18",
+  "gazette": "24880",
+  "in_force": "2002-09-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.09.2002); own commencement article: \"Bu Yönetmelik 2/11/2002 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2/11/2002 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 886,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
