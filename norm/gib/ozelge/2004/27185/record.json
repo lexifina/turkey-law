@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2864-124-3155",
+  "source_id": 27185,
+  "date": "2004-07-08",
+  "title": "Mükellef adına düzenlenen vergi inceleme raporlarında tarh edilmesi gereken vergilerle kesilmesi gereken cezalar için tarhiyat öncesi uzlaşmaya varılması sonucunda tahakkuk eden vergi ve kesilen cezalar için dava açılması veya düzeltme talebinde bulunulma",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27185",
+  "source_sha256": "0e5690040594ef4773afa8573e5b260be846f24cae50b443d1171c347010d1cf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
