@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5311-2103-42971",
+  "source_id": 38083,
+  "date": "1997-10-08",
+  "title": "ihracat istisnası veya tecil-terkin kapsamında işlem yapan mükellefler tarafından vergi dairesine ibraz edilen gümrük beyannamelerinin aslı veya noterce onaylı örneklerinin teyidinin, vergi dairesi tarafından söz konusu belgeleri düzenleyen gümrük idarele",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38083",
+  "source_sha256": "d6f5da5d22eaffbb9b8310efd0043cbe604c7f8b72926a04843e1bd243ebbe9e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
