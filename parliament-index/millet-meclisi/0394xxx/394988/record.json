@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 394988,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Anayasa Mahkemesine Yasama meclislerinden seçilecek asıl ve yedek üyelikler için adaylığa başvuruna, seçim esas ve usulühakkında kanun tasarısı (1/591)",
+  "title": "Anayasa Mahkemesine Yasama meclislerinden seçilecek asıl ve yedek üyelikler için adaylığa başvuruna, seçim esas ve usulühakkında kanun tasarısı (1/591)",
+  "first_sitting_date": "1972-02-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 30,
+      "sitting": 17,
+      "sitting_date": "1972-02-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c030/mm__03030017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c030/mm__03030fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 33,
+      "sitting": 51,
+      "sitting_date": "1973-02-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c033/mm__03033051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c033/mm__03033fih.pdf",
+      "pages": [
+        "120",
+        "121"
+      ]
+    },
+    {
+      "cilt": 34,
+      "sitting": 64,
+      "sitting_date": "1973-02-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c034/mm__03034064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c034/mm__03034fih.pdf",
+      "pages": [
+        "607"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2601&v_kullanici_id=27484850",
+  "source_sha256": "c0a527027edec6fb4a2db7a0eae27cefe0c5ba472545d0a7664dc51486084de1",
+  "in_force": "1972-02-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
