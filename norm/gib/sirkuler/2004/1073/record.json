@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "Gider Vergileri Kanunu-5 / 2004-5/ ÖİV-2",
+  "source_id": 1073,
+  "date": "2004-12-20",
+  "title": "01.01.2005 tarihinden itibaren mobil telefon aboneliğinin ilk tesisinde (operatör değişiklikleri hariç) maktu olarak alınacak tutar 22.000.000 (yirmiikimilyon) TL (22 YTL) olarak uygulanacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/sirkuler/1073",
+  "source_sha256": "c33d0da18aa5249891e8f1f5507c5c9e8f181f491175dee7e68e5446f4dd0db9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
