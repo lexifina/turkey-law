@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 442033,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İstanbul Milletvekili Metin Timin ve 12 arkadaşının, 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa geçici madde eklenmesi hakkında, kanun teklifine dair, (2/546)",
+  "title": "İstanbul Milletvekili Metin Timin ve 12 arkadaşının, 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa geçici madde eklenmesi hakkında, kanun teklifine dair, (2/546)",
+  "first_sitting_date": "1978-04-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 131,
+      "sitting_date": "1978-04-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c005/mm__05005131.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c005/mm__05005fih.pdf",
+      "pages": [
+        "212"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 116,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006116.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006fih.pdf",
+      "pages": [
+        "547"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8f8dc35caee710978b8473ff228d6d1dfd54c7a0692e36769b2154cfeb9801a5",
+  "in_force": "1978-04-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
