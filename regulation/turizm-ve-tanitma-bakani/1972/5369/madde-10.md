@@ -1,0 +1,1 @@
+MADDE 10- Yabancı konukların bir bölge içersinde gezdirilip ağırlanmasının ilgili bölge müdürlüğü mihmandarlarınca yapılması esastır. Ancak istisnai durumlarda bakanlık merkezinden mihmandarlar görevlendirilebilir.

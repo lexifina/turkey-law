@@ -1,0 +1,1 @@
+MADDE 5- Mihmandar olarak görevlendirilecek kimseler bu Yönetmelikte belirtilen nitelikleri taşıyan memurlar arasında bakanlık merkezinde ilgili Daire Başkanı, bölgelerde ise Bölge Müdürlerince seçilir.

@@ -1,0 +1,1 @@
+MADDE 17- Mihmandarla konukların gezdirilmesi ile ilgili programları aynen uygulamak zorundadırlar. Kendiliklerinden hiçbir değişiklik yapamazlar. İstisnai durumlarda herhangi bir ödemeyi gerektirmiyorsa konuğun isteği üzerine ufak değişiklikler yapılabilir. Yapılan değişiklikler vakit geçirilmeden yetkililere bildirilir.

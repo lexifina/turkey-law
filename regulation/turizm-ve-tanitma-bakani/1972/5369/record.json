@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.5369",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TURİZM VE TANITMA BAKANLIĞI MİHMANDARLIK GÖREVİ HAKKINDA YÖNETMELİK",
+  "number": "5369",
+  "issuer": "Turizm ve Tanıtma Bakanı",
+  "issuer_slug": "turizm-ve-tanitma-bakani",
+  "path": "regulation/turizm-ve-tanitma-bakani/1972/5369",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5369&MevzuatTertip=5",
+  "source_sha256": "6e3e10be947af895c98c02e561a5ac19b4f2850ab8414fde99e2f029481a0bdc",
+  "source_bytes": 28116,
+  "published": "1972-02-04",
+  "gazette": "14089",
+  "in_force": "1972-02-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.02.1972); own commencement article: \"Bu Yönetmelik Resmi Gazete ile yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete ile yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1103,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

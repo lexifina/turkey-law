@@ -1,0 +1,1 @@
+MADDE 24- Kokteyl ve ziyafet verilmesi, yemeklerde istakoz ikram olunması, içkilerden şampanya ya da viski verilmesi, konuklar için hatıra eşya ya da diğer hediyelik eşya alınması, gezi ve yemeklerde Bakanlık konuklarından başkalarının da davet edilmesi hususları Bakanlık Makamının onayına bağlıdır.

@@ -1,0 +1,1 @@
+MADDE 28- Gerektiğinde tutulacak her türlü taşıt ücretleri belediye rayiçlerine göre ödenir. Belediye rayici olmayan yerlerde pazarlıkla ve Km.esasına göre ödeme yapılır. Km. esasına göre tutulan taşıtlarında her gün işe başlamadan ve iş sonunda Km. rakamları mihmandarlar tarafından tespit ve kontrol edilir.

@@ -1,0 +1,1 @@
+MADDE 25- Mihmandarlara gerekli avans kesine yakın bir şekilde hesaplanarak verilecektir. Mihmandarlar verilen avans miktarlarından daha fazla ödeme yapamazlar. Çok zaruri hallerde fazla masraf yapmak gerekirse fazla masraf için ayrı fatura alınır ve görev sonunda fatura bedeli nakden tahakkuk ettirilerek istihkak sahibine gönderilir.

@@ -1,0 +1,1 @@
+MADDE 8- Mihmandarlar, görev sırasında, milli bütünlüğümüzü zedeleyici ve milli gururumuzu rencide edici herhangi bir konuşma ve davranışta bulunmamağa yada sebebiyet vermemeye azami dikkat gösterirler.

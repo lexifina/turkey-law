@@ -1,0 +1,2 @@
+MADDE 11- Mihmandarlar bölgesel ve ülkesel konularda uzmanlaşacak şekilde yetiştirilirler. Bölgesel konularda uzmanlaşacak mihmandarların belirli bölge ve yerler hakkında geniş, ayrıntılı bilgi ve görgü sahibi olmaları sağlanır. Ülkesel mihmandarlar ise fazla ayrıntılara inmeden ülke çapında ana hatları ile bilgi verme amacı ile yetiştirilir.
+Belirli bölge ve yerlerde, sadece o bölge ve yerler için uzmanlaşmış mihmandarlar çalıştırılır.

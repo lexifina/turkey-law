@@ -1,0 +1,2 @@
+MADDE 16- Gezi programları Bakanlık Merkezinde ilgili Dairesince, bölgelerde ise Bölge Müdürlüklerince hazırlanır. Programlarda otel ve lokanta isimleri, gidilecek müze ve ören yerlerinin hepsi ayrıntılı bir şekilde belirtilir.Rezervasyonlar Merkezde ilgili Dairesince, Bölgelerde ise Bölge Müdürlüklerince yaptırılır.
+Otel ve lokanta seçiminde konukların makam ve mensup olduklar sosyal kategoriler göz önünde tutulur.

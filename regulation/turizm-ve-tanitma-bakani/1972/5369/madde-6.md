@@ -1,0 +1,1 @@
+MADDE 6- Mihmandar olarak görevlendirilecek memurların en az lise veya dengi okullardan birini bitirmiş olmaları, konuğun dilini yada İngilizce, Almanca ve Fransızca dillerinden birini bilmeleri zorunludur. Lisan bilgisi bakanlıkça yapılacak imtihanla tespit olunur.
