@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK- 29  /2005-1 /Basit Usulde Vergilendirme - 4",
+  "source_id": 628,
+  "date": "2005-01-13",
+  "title": "5216 Sayılı Kanunun Geçici 2 nci Maddesinin Basit Usulde Vergilendirilen Mükellefler Yönünden Açıklanması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/628",
+  "source_sha256": "cb9e106b3aba2ad5993f7842566f240a29dadd8e506efdf1489a45ec30c86968",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
