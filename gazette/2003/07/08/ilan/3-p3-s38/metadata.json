@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-07-08",
+  "issue": "25162",
+  "edition": "regular",
+  "item": 38,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "Kütahya AGM Başmühendisliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030708-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (41 = 41)",
+  "ilan_codes": [
+    "22388/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030708-3-3.htm",
+  "category_page_sha256": "eff2306b1a3f5150bc4601352c49726a090d5675eb303bceaee4223d7b3e9f47",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030708.htm",
+  "index_sha256": "649d67ac5c273d0090616401ea3382dca2253884b771c21d6fe3f352601e0e4a",
+  "index_header": "8 Temmuz 2003 ... Sayı : 25162",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
