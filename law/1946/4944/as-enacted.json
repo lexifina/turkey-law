@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4944",
+  "year": 1946,
+  "title": "Askerî Memnu Mıntakalar Kanununun 1 nci maddesinin A fıkrasının değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-06-20",
+  "gazette_issue": "6338",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6338.pdf",
+  "source_sha256": "e3d6b0aa7696dff3e3e4f77ea00e00eb22a29fb672cfa9b6da238200285f3a2d",
+  "text_sha256": "a12ab21f4b1c0a6bbaa9d88c214667b60bfcd8659b2294be883c96f00e906d36",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      272,
+      308
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804944.pdf",
+    "source_sha256": "f3d47d8bc8a077b2a50108ff296e474726388c3577c05cb0ee4b61a5b3e8c4c6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9437,
+    "bag": 0.8265,
+    "kd_coverage": 0.9862,
+    "kd_body_compared": 0.9729,
+    "rg_words": 223,
+    "kd_words": 221,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
