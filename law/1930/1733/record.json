@@ -1,0 +1,62 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1733",
+  "year": 1930,
+  "title": "Hudut ve Sahiller Sıhhat Umum Müdürlüğünün tahsisat harici taahhüdatının sureti tediyesine dair kanun",
+  "adopted": "1930-12-30",
+  "adopted_as_published": "30/12/1930",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.01.1931 No: 1692",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901733.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 9",
+  "committee_reports": [
+    {
+      "label": "TBMM 15 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c023/tbmm03023015ss0015.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120577,
+      "title": "Hudut ve Sahiller Sıhhat Umum Müdürlüğünün tahsisat harici taahhüdatının sureti tediyesine dair kanun",
+      "adopted_as_published": "30/12/1930",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901733.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 15 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c023/tbmm03023015ss0015.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 15,
+          "sitting_date": "1930-12-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c023/tbmm03023015.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c023/tbmm03023fih.pdf",
+          "pages": [
+            "39:40",
+            "42",
+            "45:48"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=663&v_gelecek_sayfa=501&v_kullanici_id=27483152",
+      "page_sha256": "af8d481dee0ea45cbf336aa049d87770faccbfab540a73077f39f55990a6863d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "af8d481dee0ea45cbf336aa049d87770faccbfab540a73077f39f55990a6863d",
+  "issuer": "TBMM",
+  "in_force": "1930-12-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 30/12/1930; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
