@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-578/13135",
+  "source_id": 22237,
+  "date": "2002-03-26",
+  "title": "Site Yönetimince site sakinlerine ihtiyaç duydukları tüketim maddelerinin satışı faaliyeti adi ortaklık halinde yürütülen ticari faaliyettir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22237",
+  "source_sha256": "0b504d183b0e21b49278e689f4db1c194b298a498cec2dbc923eb9bed25de86b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
