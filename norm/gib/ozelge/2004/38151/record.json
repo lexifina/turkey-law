@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6211-",
+  "source_id": 38151,
+  "date": "2004-11-17",
+  "title": "Damga Vergisi muafiyeti bulunan kurumların sosyal sigorta bildirgeleri damga vergisine tabi olmaması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38151",
+  "source_sha256": "5e9640f943ae989d694c5c7a59c83e306baa7600df7c0d6b806ddfd2742683d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
