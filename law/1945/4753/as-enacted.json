@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4753",
+  "year": 1945,
+  "title": "Çiftçiyi Topraklandırma Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-06-15",
+  "gazette_issue": "6032",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6032.pdf",
+  "source_sha256": "09fce1018c523201e5ceef79930510aa86a4e117dbd25cd8601ce80220f7f883",
+  "text_sha256": "878162c10160f67d1f4723d794712b0bf0ef339c9c15a49116a4fb5587651a9d",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      21,
+      635
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704753.pdf",
+    "source_sha256": "2821bf4ca56930b9cda28f14b095bca927cfd5ff98c3da94e203aea3ba4833aa",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9458,
+    "bag": 0.8651,
+    "kd_coverage": 0.9989,
+    "kd_body_compared": 0.9989,
+    "rg_words": 4283,
+    "kd_words": 4417,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
