@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1773",
+  "year": 1931,
+  "title": "Hazîneden taksitle gayri menkul mal satın almış olanların taksit bedellerinin tecili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-03-26",
+  "gazette_issue": "1758",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1758.pdf",
+  "source_sha256": "9e819500681ba2daa852666fa5ef189a1ef96c7c2f8bf73ef16d91f89f84a12d",
+  "text_sha256": "150f3dfef77f2f7b960e4c6ccdcb6fae57118486e46e878017d7421b9e91ec74",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      742,
+      758
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [3] (no text layer)",
+    "tesseract_pages": [
+      3
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901773.pdf",
+    "source_sha256": "7ff4a1af8cb376534433e2210a7371d6cb8b0242ce69d1a3f304027404b5579b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9662,
+    "bag": 0.9136,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9832,
+    "rg_words": 126,
+    "kd_words": 119,
+    "own_anchor": false,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
