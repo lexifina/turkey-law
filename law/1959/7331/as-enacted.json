@@ -1,0 +1,53 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7331",
+  "year": 1959,
+  "title": "Askerî Ceza Kanununun 3914 sayılı Kanunla muaddel 56. maddesinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-06-15",
+  "gazette_issue": "10231",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10231.pdf",
+  "source_sha256": "030e6bf182b5cafb8a308d9fbf8f3676403b12cdd34ccd1335f805e246a63308",
+  "text_sha256": "c4bd8518a73fbab35a73a28802b929fd7ed05c2ab43600039542877c63800146",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      286,
+      356
+    ],
+    [
+      380,
+      383
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [2, 3] (no text layer)",
+    "tesseract_pages": [
+      2,
+      3
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107331.pdf",
+    "source_sha256": "12d2e28462a960d068314bc598bc276a43e47f8893d51485c54d7c1fb54b8b6f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9511,
+    "bag": 0.8383,
+    "kd_coverage": 0.9947,
+    "kd_body_compared": 0.9895,
+    "rg_words": 606,
+    "kd_words": 569,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
