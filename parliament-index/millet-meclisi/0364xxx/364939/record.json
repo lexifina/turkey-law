@@ -1,0 +1,92 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 364939,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Türk Silâhlı Kuvvetleri Personel kanunu tasarısı (1/234)",
+  "title": "Türk Silâhlı Kuvvetleri Personel kanunu tasarısı (1/234)",
+  "first_sitting_date": "1966-11-25",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 10,
+      "sitting_date": "1966-11-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c009/mm__02009010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c009/mm__02009fih.pdf",
+      "pages": [
+        "205"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 51,
+      "sitting_date": "1967-02-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c012/mm__02012051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c012/mm__02012fih.pdf",
+      "pages": [
+        "477:478"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 89,
+      "sitting_date": "1967-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016fih.pdf",
+      "pages": [
+        "318:324",
+        "345:365",
+        "382:405",
+        "494:517",
+        "551:572",
+        "595:616"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 123,
+      "sitting_date": "1967-06-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c019/mm__02019123.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c019/mm__02019fih.pdf",
+      "pages": [
+        "28:55",
+        "84:87",
+        "98",
+        "119",
+        "149:152"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 146,
+      "sitting_date": "1967-07-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c021/mm__02021146.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c021/mm__02021fih.pdf",
+      "pages": [
+        "542",
+        "585",
+        "641:642",
+        "660:668",
+        "692",
+        "698:708"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=3201&v_kullanici_id=27484850",
+  "source_sha256": "caa18d4fb38a16d87a528db89752a9dd8c4383b937cbede86705c3d9e951d8cd",
+  "in_force": "1966-11-25",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
