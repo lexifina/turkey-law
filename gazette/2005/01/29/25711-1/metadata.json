@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-01-29",
+  "issue": "25711",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararı",
+  "title": "2005/8409 Kamu Hizmetlerinin Ortak Platformda, Tek Kapıdan (portal) Sunumu ve Vatandaşın Devlet Hizmetlerine Elektronik Ortamdan Güvenli ve Hızlı Bir Şekilde Erişimini Sağlamak Amacıyla e-Devlet Kapısı Teknik Altyapısının Kurulmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050129-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050129.htm",
+  "index_sha256": "5dbaeea806655069e5438b1f01f6e5be908cb0bbf9dc9d04a6774be85a3180f6",
+  "index_header": "29 Ocak 2005 ... Sayı : 25711",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
