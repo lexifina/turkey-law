@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4005-14/55274",
+  "source_id": 24106,
+  "date": "1999-12-15",
+  "title": "Şirket tarafından tahsil edilen yönetim ücreti ve başarı primlerini 1998 yılına ilişkin olarak verilen yıllık GV. beyannamesi ile bildirilen gelirden gider olarak indirilmesi mümkün bulunmamaktadır. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24106",
+  "source_sha256": "210efb519904b069bc9604fb7e87a7021b58c4de28b95df50f4b699dba2102a6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
