@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2449",
+  "year": 1934,
+  "title": "Gümrük muhafaza kıtalarında takım kumandanlarına birer mirî binek hayvanı verilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-05-28",
+  "gazette_issue": "2712",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2712.pdf",
+  "source_sha256": "ce5e6d9c77f41c54f2a42e716adaa51f4454bbb1f636b335331a2b1e53e454c9",
+  "text_sha256": "d0ee0df4475baa144fb3db9e26e71ac9030bd8c6372779a9df678b96610a8f56",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      2507,
+      2532
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302449.pdf",
+    "source_sha256": "b3cc847a6c65f2fdd81d2f7444c65e524521f08da780a305d20a93da6c20751c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9476,
+    "bag": 0.88,
+    "kd_coverage": 0.96,
+    "kd_body_compared": 0.9359,
+    "rg_words": 77,
+    "kd_words": 78,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
