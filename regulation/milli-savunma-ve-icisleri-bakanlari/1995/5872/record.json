@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.5872",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAVAŞTA BIRAKILACAK AYLIK YÖNETMELİĞİ",
+  "number": "5872",
+  "issuer": "Millî Savunma ve İçişleri Bakanları",
+  "issuer_slug": "milli-savunma-ve-icisleri-bakanlari",
+  "path": "regulation/milli-savunma-ve-icisleri-bakanlari/1995/5872",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5872&MevzuatTertip=5",
+  "source_sha256": "a3d0506ed5ef409f93716d383958ce186617b509ae48765422f654fc0ede4ae7",
+  "source_bytes": 49013,
+  "published": "1995-10-03",
+  "gazette": "22423",
+  "in_force": "1995-10-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.10.1995); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 640,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.5872%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
