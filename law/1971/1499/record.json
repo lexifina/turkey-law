@@ -1,0 +1,129 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1499",
+  "year": 1971,
+  "title": "1971 yılı Bütçe Kanunu ile bu kanuna bağlı cetvellerde değişiklik yapılması hakkında Kanun",
+  "adopted": "1971-12-20",
+  "adopted_as_published": "20/12/1971",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.12.1971 No: 14054",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501499.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 55",
+  "committee_reports": [
+    {
+      "label": "MM 435 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019014ss0435.pdf"
+    },
+    {
+      "label": "CS 1668no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067124ss1668.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 387425,
+      "title": "1971 yılı Bütçe Kanunu ile bu kanuna bağlı cetvellerde değişiklik yapılması hakkında Kanun",
+      "adopted_as_published": "20/12/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501499.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 435 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019014ss0435.pdf"
+        },
+        {
+          "label": "CS 1668no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067124ss1668.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 19,
+          "sitting": 13,
+          "sitting_date": "1971-12-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019fih.pdf",
+          "pages": [
+            "307"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 14,
+          "sitting_date": "1971-12-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019014.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019fih.pdf",
+          "pages": [
+            "358:362",
+            "396",
+            "410:411"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 17,
+          "sitting_date": "1971-12-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019fih.pdf",
+          "pages": [
+            "450",
+            "451",
+            "478:479"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 18,
+          "sitting_date": "1971-12-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019018.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019fih.pdf",
+          "pages": [
+            "495",
+            "541",
+            "543:546"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=801&v_kullanici_id=27483225",
+      "page_sha256": "a5c6fd2bb5c9b73d64ad49838a3a54a257c189cf96cdf2bd05acb20e57852516"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 319749,
+      "title": "1971 yılı Bütçe Kanunu ile bu kanuna bağlı cetvellerde değişiklik yapılması hakkında Kanun",
+      "adopted_as_published": "20/12/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501499.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 435 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019014ss0435.pdf"
+        },
+        {
+          "label": "CS 1668no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067124ss1668.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1501&v_kullanici_id=27483235",
+      "page_sha256": "90862d0a2d3ca4f6b8e6290e83307dc4f5ad5af6e60426a878c750f3d8f66877"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a5c6fd2bb5c9b73d64ad49838a3a54a257c189cf96cdf2bd05acb20e57852516",
+  "issuer": "Millet Meclisi",
+  "in_force": "1971-12-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 20/12/1971; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
