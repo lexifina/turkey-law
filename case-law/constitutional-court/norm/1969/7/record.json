@@ -1,0 +1,67 @@
+{
+  "id": "671e6331-284e-fcf4-86a5-508a205448bf",
+  "decision_number": "1969/7",
+  "case_number": "1969/1",
+  "decision_date": "1969-01-31",
+  "published_date": "1969-05-23",
+  "source_publication_date": "1969-02-03",
+  "gazette_number": 13205,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1969/7",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "c047201530dbbf5c8f9dfa8dd7ebb1017a7310c80fe9aca6a8aeac9671488bbc",
+  "version_label": "as-enacted",
+  "in_force": "1969-01-31",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": false,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1339-11-01",
+      "normNumaraAdParamId": "f37d554c-401e-4ed4-9ae7-389732b98bbd",
+      "incelemeturuKarsonucuParamId": "be1c069d-fc50-cc2f-7d43-bde063ae8263",
+      "sonucGerekcesiParamId": "a25c017e-4835-21b8-30ce-b85613d20fab",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "tamamı",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/7"
+        },
+        {
+          "hukum": "1961/31"
+        },
+        {
+          "hukum": "1961/32"
+        },
+        {
+          "hukum": "1961/114"
+        },
+        {
+          "hukum": "1961/127"
+        },
+        {
+          "hukum": "1961/140"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 1545
+}
