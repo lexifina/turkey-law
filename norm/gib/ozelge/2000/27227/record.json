@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.30/3044-371-685/47122",
+  "source_id": 27227,
+  "date": "2000-10-17",
+  "title": "Kanuni süresinde verilmeyen veya eksik beyan edilen beyannamelerden dolayı mükelleflerin pişmanlık taleplerinin değerlendirilip değerlendirilemeyeceği hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27227",
+  "source_sha256": "26343aac166e1a7cb77b8263ea2586d30c43c892982f882abc95879499c14a3d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
