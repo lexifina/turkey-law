@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": null,
+  "date_quote": "31.1.1942 | 2/17247 | - | 14.2.1942 tarihinden itibaren bir ay sonra",
+  "first_law": null,
+  "gazette": "4753",
+  "history": "current-text",
+  "images": {
+    "deferred": 1,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 1
+  },
+  "in_force": "1942-03-14",
+  "in_force_basis": "latest source-printed amendment commencement or Resmi Gazete date (current consolidated text)",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1941-03-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=215266&MevzuatTertip=3",
+  "source_bytes": 75539,
+  "source_id": "2.3.215266",
+  "source_sha256": "b7b5d9931fabd7860f0add9fdfedf32ee2630482d783cce214973cfc8b88747a",
+  "source_type": "Tüzükler",
+  "title": "İPEK VE SUNİ İPEK KADIN ÇORAPLARI STANDARDI HAKKINDAKİ NİZAMNAME",
+  "word_count": 1261
+}
