@@ -1,0 +1,7 @@
+Sanığın tutuklanması ve tutuklama müzekkeresinin şekli
+Madde 106 - (Değişik: 5/3/1973 - 1696/13 md.)
+(Değişik Birinci Fıkra : 18/11/1992 - 3842/5 md.) Sanığın tutuklanmasına ancak hakim karar verir. Tutuklanması talep edilen sanık hazırsa karardan önce dinlenir, hazır bulunan sanık isterse sorgu sırasında vekaletname aranmaksızın müdafii de hazır bulunabilir ve karar verilmeden önce Cumhuriyet Savcısı ile hazır olan müdafi dinlenir. Sanık hazır değilse talebe ilişkin karar, yokluğunda ve evrak üzerinden verilir.
+(Değişik: 18/11/1992 - 3842/5 md.) Tutuklama müzekkeresinde, sanığın mümkün olduğu kadar açıkça kim olduğu ve şekli ile kendisine isnad olunan fiil, fiilin gerçekleştiği zaman ve yer, fiilin kanunda hükme bağlandığı maddeler, suçun kanuni unsurları ve tutuklamanın sebebi belirtilir.
+951
+Tutuklama müzekkeresinin sureti tutma anında tebliğ edilir. Bu mümkün olmadığı takdirde de, tutma sebepleri ve aleyhindeki isnat sanığa hemen yazılı olarak bildirilmekle beraber tevkifevine konulduğunun en geç ertesi günü kendisine tebliğ olunur. Tebliğ, tutuklama müzekkeresinin aslına, bir suretinin sanığa verildiği ve tarihi yazılmak ve sanığın yakalandığı gün gösterilmek ve altı sanık ile tebliğ yapan memur tarafından imzalanmak suretiyle olur ve bu asıl tevkifevi dosyasında saklanır.Bu muamelenin yapıldığı yazılı olan tutuklama müzekkeresinin diğer bir sureti dava dosyasına konur.
+Sanığa, tutuklama müzekkeresinin tebliğinde tutuklama kararına itiraz hakkı olduğu bildirilir.(1)

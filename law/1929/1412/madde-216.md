@@ -1,0 +1,2 @@
+Madde 216 – Hastalık veya malüliyet veya iktihamı mümkün olmayan başka bir sebeple bir şahit veya ehlihibrenin uzun veya gayrı muayyen bir zaman için duruşmada hazır bulunması kabil olmayacağı anlaşılırsa mahkeme bir naip marifetiyle veya istinabe yoliyle onun dinlenmesine karar verebilir. Yemin verilmesi icap eden hususlarda yemin ettirildikten sonra dinlenir.
+Bu hüküm meskenlerinin uzak bulunmasından dolayı celpleri müşkül olan şahit ve ehlihibrenin dinlenmesinde dahi caridir.(1)

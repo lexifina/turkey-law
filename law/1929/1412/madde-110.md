@@ -1,0 +1,4 @@
+Tutuklulukta geçecek süre
+Madde 110 – (Mülga: 21/5/1985 - 3206/82 md.; yeniden düzenleme: 18/11/1992 - 3842/ 7 md.)
+Hazırlık soruşturmasında tutukluluk süresi azami altı aydır. Kamu davasının açılması halinde bu süre hazırlık soruşturmasında tutuklukta geçen süre dahil iki yılı geçemez.
+Soruşturmanın veya yargılamanın özel zorluğu veya geniş kapsamlı olması sebebiyle yukarıda belirtilen sürelerin sonunda kamu davası açılamamış veya hüküm tesis edilememiş ise, soruşturma konusu fiilin kanunda belirtilen cezasının alt sınırı yedi seneye kadar hürriyeti bağlayıcı cezayı gerektiren suçlarda tutuklama kararı kaldırılır. Yedi sene ve daha fazla hürriyeti bağlayıcı cezaları gerektiren suçlarda tutuklama sebebine, delillerin durumuna ve sanığın şahsi hallerine göre tutukluluk halinin devamına veya sona erdirilmesine veya uygun görülecek nakdi kefaleti vermesi şartıyla sanığın tahliyesine karar verilebilir.(1)

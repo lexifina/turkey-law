@@ -1,0 +1,3 @@
+Madde 213 – Reis bir kimsenin daveti hakkındaki istidayı reddeylediği takdirde maznun o kimseyi doğrudan doğruya davet ettirebileceği gibi evvelce bir istida vermeksizin dahi o kimseyi getirebilir.
+Doğrudan doğruya davet olunan kimse, yol masrafiyle kaybedeceği vakit için tarifeye göre verilmesi muktazi tazminat, celpnamenin tebliği sırasında kendisine verilir veya mahkeme kalemine yatırıldığı bildirilirse hazır bulunmağa mecburdur.
+Doğrudan doğruya davet olunan kimsenin beyanatı duruşma sırasında hadisenin tenvirine yararsa mahkeme talep vukuunda, yukardaki fıkrada yazılı masraf ve tazminatın Devlet Hazinesinden verilmesine karar verir.

@@ -1,0 +1,2 @@
+Aramaya maruz kalan kimseye verilecek varaka ve vesika
+Madde 99 – Aramanın hitamında aramaya maruz kalan kimseye talebi üzerine aramanın 94 ve 95 inci maddelere uyan sebeplerini ve 94 üncü maddede gösterilen halde cezalandırılması maksut olan fiilin mahiyetini mübeyyin bir varaka verilir. Yine talebi üzerine zaptolunan veya emniyet altına alınan eşyanın müfredatını havi bir defter ve şayet şüpheyi dair bir şey elde edilmemiş ise bunu mübeyyin bir vesika verilir.

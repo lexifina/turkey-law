@@ -1,0 +1,2 @@
+Yemin Şekli
+Madde 57 – Şahide teklif edilecek yemin şahadetten evvel: (Bir şey saklamaksızın ve bir şey katmaksızın kimseden korkmıyarak bir tesire kapılmıyarak bildiğimi namusum ve vicdanım üzerine dosdoğru söyliyeceğime yemin ederim) ve şehadetten sonra; (Bir şey saklamaksızın, bir şey katmaksızın kimseden korkmıyarak, bir tesire kapılmıyarak bildiğimi namusum ve vicdanım üzerine dosdoğru söylediğime yemin ederim) şeklinde olur. Yemin verilirken herkes ayağa kalkar.

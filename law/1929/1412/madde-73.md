@@ -1,0 +1,2 @@
+Ehlihibrenin salahiyeti
+Madde 73 – Ehlihibre lüzum gösterirse raporunu tanzim için şahitleri dinlemek ve maznunu sorguya çekmek suretiyle muhtaç olduğu mütemmim malümatın istihsali temin olunabilir. Aynı maksatla ehli hibrenin kısmen veya tamamen dosyayı tetkik etmesine ve şahitlerin dinlenmesinde veya maznunun sorguya çekilmesinde hazır bulunmasına ve hatta bunlara doğrudan doğruya sual sormasına dahi müsaade olunabilir.

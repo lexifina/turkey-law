@@ -1,0 +1,4 @@
+Zabıt varakalarının okunmasiyle iktifa olunabilecek haller
+Madde 244 – Bir şahit veya ehlihibre yahut maznunun şeriklerinden biri vefat etmiş veya akıl hastalığına tutulmuş veya meskeni bulunmamış olursa evvelce alınan ifadesini havi zabıt varakasının okunmasiyle iktifa olunabilir. Evvelce mahküm olan şerik hakkında dahi hüküm böyledir.
+(Değişik: 21/5/1985 - 3206/50 md.) 162 ve 216 ncı maaddelere göre dinlenen tanık ve bilirkişilere ait tutanağın okunmasıyla da yetinilebilir.
+Zabıt varakalarının bu suretle okunması ancak mahkeme karariyle olur. Bu kararda zabıt varakalarının okutturulmasını icap ettiren sebepler ve ifadesi okutturulan şahsın evvelce yeminle dinlenmiş olup olmadığı beyan olunacaktır. Bu hükümler şahit ve ehlihibrenin yeniden dinlenmesi halinde yeminin lüzumuna dair olan hükümleri değiştirmez.
