@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4229-2/61233",
+  "source_id": 23446,
+  "date": "2000-12-20",
+  "title": "4603 sayılı Kanunun yürürlüğe girdiği tarihe kadar bankaların personeline kendi iç mevzuatınıa göre ödenen yol parası, geçici görevlendirme ve ikamet giderlerinin gelir vergisine tabi tutulmaması gerekmekte; ancak, adı geçen Kanunun yürürlüğe girdiği tari",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23446",
+  "source_sha256": "1334b82ca8d49ac0b7300dc8cd7e3c763f1777b2ff54d83f4440a2155aed9bc8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
