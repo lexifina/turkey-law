@@ -1,0 +1,80 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 458825,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Kars Milletvekili Doğan Araslı'nın, küçük çiftçilerin TC Ziraat Bankası ve Tarım Kredi Kooperatiflerine olan borçlarının 10 yılda 10 eşit taksitle faizsiz ödenmesine ilişkin kanun teklifi (2/516)",
+  "title": "Kars Milletvekili Doğan Araslı'nın, küçük çiftçilerin TC Ziraat Bankası ve Tarım Kredi Kooperatiflerine olan borçlarının 10 yılda 10 eşit taksitle faizsiz ödenmesine ilişkin kanun teklifi (2/516)",
+  "first_sitting_date": "1976-12-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 44,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c021/mm__04021044.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c021/mm__04021fih.pdf",
+      "pages": [
+        "436:437",
+        "524:535"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 17,
+      "sitting_date": "1976-12-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c022/mm__04022017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c022/mm__04022fih.pdf",
+      "pages": [
+        "17:24",
+        "127:135",
+        "178",
+        "214:217",
+        "278",
+        "291:294",
+        "439",
+        "480",
+        "516:519",
+        "543",
+        "552:555",
+        "565:566",
+        "595:598",
+        "619",
+        "648:651"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 31,
+      "sitting_date": "1977-01-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c023/mm__04023031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c023/mm__04023fih.pdf",
+      "pages": [
+        "7",
+        "50:53",
+        "66",
+        "102:105",
+        "125",
+        "161:165",
+        "184",
+        "224:227",
+        "237",
+        "291:294"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=2001&v_kullanici_id=27484893",
+  "source_sha256": "1cb1676aabc966ca101894c4f8436f2943333e4f12a1be3b24c477eec26d6f6b",
+  "in_force": "1976-12-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
