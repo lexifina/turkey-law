@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "35",
+  "year": 1961,
+  "title": "Millî Birlik Komitesince Temsilciler Meclisine 18 üyenin seçildiği hakkında",
+  "adopted": "1961-01-02",
+  "adopted_as_published": "02/01/1961",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kararmbkc043/kararmbkc04300035.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 43",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "Milli Birlik Komitesi",
+      "term": null,
+      "kayit_no": 468142,
+      "title": "Millî Birlik Komitesince Temsilciler Meclisine 18 üyenin seçildiği hakkında",
+      "adopted_as_published": "02/01/1961",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kararmbkc043/kararmbkc04300035.pdf",
+      "committee_reports": [],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=21&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=21&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "8a70b58777c12f2143e0b00918f0d08e2d9d2e9763db42a3f6c26266320d20bd"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=21&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8a70b58777c12f2143e0b00918f0d08e2d9d2e9763db42a3f6c26266320d20bd",
+  "issuer": "Milli Birlik Komitesi",
+  "in_force": "1961-01-02",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Birlik Komitesi) as printed in the official TBMM kararlar index: 02/01/1961; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
