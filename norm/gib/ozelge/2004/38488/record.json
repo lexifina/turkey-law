@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2828",
+  "source_id": 38488,
+  "date": "2004-08-25",
+  "title": "Beyannamelerin tasdik ettirilmesi isteğe bağlı olup, net satışlar toplamı ve/veya aktif toplamı her yıl için belirlenen yeniden değerleme oranında artırılarak uygulanacak hadleri aşan mükelleflerin yıllık gelir veya kurumlar vergisi beyannamelerini yeminl",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38488",
+  "source_sha256": "c52743ed82062e8a25cea3c8ccd506c277aa6ea16b148ea8473455a84d9e4c40",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
