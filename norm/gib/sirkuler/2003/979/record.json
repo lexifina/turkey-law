@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK - 5 / 2003 - 5 / Konut yapı kooperatifleri",
+  "source_id": 979,
+  "date": "2003-11-21",
+  "title": "Konut yapı kooperatiflerine yapılan inşaat taahhüt işleri uygulaması, İstisna veya indirimli oran kapsamına giren inşaat taahhüt işleri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/979",
+  "source_sha256": "3fe27fff34334ad982829ba575c4d558c8c0ac610e8380aa3ab8d69fe5423c3c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
