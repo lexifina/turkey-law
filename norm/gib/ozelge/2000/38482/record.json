@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5917-152/9078",
+  "source_id": 38482,
+  "date": "2000-02-28",
+  "title": "Akaryakıt satışlarında, bayilerin aldıkları akaryakıt ile sattıkları akaryakıt miktarları arasındaki farkın fiili stok fazlalığı da otomatik olarak gider yazılacak ve dönem sonu stoku, fiili miktar kadar fazla gösterilmiş olacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/591/ozelge/38482",
+  "source_sha256": "dda25782b52d45bd5e0d3e6d9f8bd86610b3741281bbdd239a921aa882451aaf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
