@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4494",
+  "year": 1943,
+  "title": "Devlet Memurları Aylıklarının Tevhit ve Teadülü hakkındaki 3656 sayılı ve 3888 sayılı kanunlara ek 3966 sayılı kanunun muvakkat üçüncü maddesinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-09-22",
+  "gazette_issue": "5514",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5514.pdf",
+  "source_sha256": "9de1784db2e9eb30ffeaa39d2ddcbf8a1b86685c1f2d4a88a6f5493b2558f955",
+  "text_sha256": "394af4ccff544070b1e734f142fa84466f46a2bf03b2fc2411f0fa6a15b16074",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      303,
+      325
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [3] (no text layer)",
+    "tesseract_pages": [
+      3
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504494.pdf",
+    "source_sha256": "e232805755560a57a437588eb2b1d72b550441ae2322976ee8fbf3748242b2c9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9106,
+    "bag": 0.8012,
+    "kd_coverage": 0.9665,
+    "kd_body_compared": 0.9505,
+    "rg_words": 164,
+    "kd_words": 182,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
