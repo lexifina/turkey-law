@@ -1,0 +1,6 @@
+Mali Tablo Düzenleme Çalışmaları
+Madde 46- Kurum’un yıllık mali tablolarının çıkarılmasından önce aşağıdaki hazırlık çalışmaları yapılır;
+1) Sayım : Kurumda para, kıymetli evrak, malzeme, sabit değerler, stoklar ile varsa emaneten alınmış ya da verilmiş olan değerlerin tümü, hesap döneminin son günü itibariyle saptanır.
+2) Değerlendirme : Mali tabloların gerçek durumu yansıtabilmesi amacıyla, Vergi Usul Kanunu’ndaki iktisadi işlemlere dahil kıymetleri değerleme hükümleri ile belirlenmiş olan esas ve usullere uyulur.
+3) Hesapların incelenmesi ve tasfiyesi : Bilançonun aktif ve pasifinde yer alacak tüm değerlere ilişkin hesaplar özenle incelenerek, varsa hatalar ve eksiklikler giderilir. Bankalarla mutabakat sağlanır, avanslar kapatılır ve tüm kayıtlar mevzuat ve yönetmelik hükümleri uyarınca düzenlenir.
+4) Reeskontlar : Cari yıl gelir ve giderleri arasında gelecek hesap dönemlerine ait olanların bırakılmaması amacıyla; gelecek hesap dönemlerine ait olarak peşin ödenen giderler ile cari hesap dönemine ait olduğu halde henüz tahsil edilmemiş gelirler, reeskont edilerek geçici aktif hesaplarda; gelecek hesap dönemlerine ait peşin tahsil olunan gelirler ile cari hesap dönemine ait olduğu halde henüz ödenmemiş giderler de, reeskont edilerek geçici pasif hesaplarda muhasebeleştirilir.

@@ -1,0 +1,1 @@
+Geçici Madde 1- Bu Yönetmeliğin Resmi Gazete’de yayımlandığı tarihe kadar Kurul Kararına dayanılarak Kurum’ca yapılmış olan satınalma işleri ile her türlü ödemeler, bu Yönetmelik hükümlerine göre yapılmış sayılır.

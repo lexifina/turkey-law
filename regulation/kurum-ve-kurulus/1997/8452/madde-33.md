@@ -1,0 +1,2 @@
+Bütçe Kesin Hesap Cetveli
+Madde 33- Bilanço ve gelir-gider tablosunun çıkarılmasından sonra, hesap dönemine ilişkin bütçe ile alınan ödenekleri, yıl içinde alınmış ek ödenekleri ve varsa ödenek iptallerini, ayrıca yıl içinde yapılan harcamalar ile kullanılmamış ödenek artıklarını, harcama kalemleri itibariyle gösteren kesin hesap cetveli, İdari ve Mali İşler Dairesi Başkanlığı’nca hazırlanarak, izleyen yılın Şubat ayı sonuna kadar Kurul Başkanı’na sunulur.

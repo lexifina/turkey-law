@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.8452",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "REKABET KURUMU BÜTÇE ve MUHASEBE YÖNETMELİĞİ",
+  "number": "8452",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1997/8452",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8452&MevzuatTertip=5",
+  "source_sha256": "e4945215082272207b54907641513bd5874e487e562c532ad04ab1e2feaafc7d",
+  "source_bytes": 82627,
+  "published": "1997-08-07",
+  "gazette": "23073",
+  "in_force": "1997-08-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.08.1997); own commencement article: \"bu Yönetmelik Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4032,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
