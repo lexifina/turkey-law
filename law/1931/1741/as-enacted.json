@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1741",
+  "year": 1931,
+  "title": "Askerî şahıslar tarafından işlenip askerî mahkemelerce rüyet ve hükme raptedilen veya henüz görülmekte olan suçların af ve teciline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-01-13",
+  "gazette_issue": "1698",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1698.pdf",
+  "source_sha256": "8c80a1df6bb1127ce1adaf932981fba789d6aa95f7da95fa7e4d13351e59c73c",
+  "text_sha256": "1fac115a75f6c05cdad110b9e90a835cd94cf557cb91a9b8e0c3c895cbd8de9c",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      3,
+      234
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901741.pdf",
+    "source_sha256": "0ade2ba376d2e09baef7e987236bc3d1bc0e92e075f3a81c8957a3535d9da6dc",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9792,
+    "bag": 0.8891,
+    "kd_coverage": 0.9911,
+    "kd_body_compared": 0.9911,
+    "rg_words": 684,
+    "kd_words": 674,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
