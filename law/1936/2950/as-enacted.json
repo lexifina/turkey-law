@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2950",
+  "year": 1936,
+  "title": "Vakıf malların taksitle satılması ve kiraya verilmesi ve satış paralarının kullanılması ve emaneten idare edilen mülhak vakıflardan idare ve tahsil masrafı alınması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-04-27",
+  "gazette_issue": "3289",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3289.pdf",
+  "source_sha256": "969bbe30910166379b9a607ac33c82274f41b115ff55a36cffefd7a19cb2e313",
+  "text_sha256": "8923a7b8106805543bc7f596d4d2be57b1bc593dd7942301c2d6892028f51fc6",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      935,
+      999
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602950.pdf",
+    "source_sha256": "d9133f2f9f1ee8c780a43c3b248a334cf94df3f8b3d892e793196955055704c6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9719,
+    "bag": 0.9114,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9937,
+    "rg_words": 316,
+    "kd_words": 318,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
