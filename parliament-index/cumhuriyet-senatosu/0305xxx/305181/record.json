@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 305181,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "5434 sayılı Kanuna ek 2.8.1960 gün ve 42 sayılı Kanuna, 16.7.1965 gün ve 696 sayılı Kanunla eklenen geçici maddeye bir fıkra eklenmesi hakkındaki kanun teklifine dair (Millet Meclisi 2/215, Cumhuriyet Senatosu 2/214) (S. Sayısı:940)",
+  "title": "5434 sayılı Kanuna ek 2.8.1960 gün ve 42 sayılı Kanuna, 16.7.1965 gün ve 696 sayılı Kanunla eklenen geçici maddeye bir fıkra eklenmesi hakkındaki kanun teklifine dair (Millet Meclisi 2/215, Cumhuriyet Senatosu 2/214) (S. Sayısı:940)",
+  "first_sitting_date": "1967-06-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 40,
+      "sitting": 66,
+      "sitting_date": "1967-06-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040fih.pdf",
+      "pages": [
+        "392",
+        "452:463"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=1901&v_kullanici_id=27484903",
+  "source_sha256": "b598e6962199786ff980700e4ab3325d1e4c22822859bf68a0b20030ae08b48f",
+  "in_force": "1967-06-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
