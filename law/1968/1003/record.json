@@ -1,0 +1,150 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1003",
+  "year": 1968,
+  "title": "Vakıflar Genel Müdürlüğü 1968 yılı Bütçe Kanunu",
+  "adopted": "1968-02-19",
+  "adopted_as_published": "19/02/1968",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "02.03.1968 No: 12841",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05101003.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 51",
+  "committee_reports": [
+    {
+      "label": "MM 637 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c025/mm__02025045ss0637.pdf"
+    },
+    {
+      "label": "CS 1059no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045026ss1059.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 367961,
+      "title": "Vakıflar Genel Müdürlüğü 1968 yılı Bütçe Kanunu",
+      "adopted_as_published": "19/02/1968",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05101003.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 637 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c025/mm__02025045ss0637.pdf"
+        },
+        {
+          "label": "CS 1059no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045026ss1059.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 22,
+          "sitting": 11,
+          "sitting_date": "1967-12-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c022/mm__02022011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c022/mm__02022fih.pdf",
+          "pages": [
+            "267"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 40,
+          "sitting_date": "1968-02-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c024/mm__02024040.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c024/mm__02024fih.pdf",
+          "pages": [
+            "415:416"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 45,
+          "sitting_date": "1968-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c025/mm__02025045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c025/mm__02025fih.pdf",
+          "pages": [
+            "255:285",
+            "328",
+            "390:393"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1301&v_kullanici_id=27483225",
+      "page_sha256": "a0c56a410c6b9bd2d01af94b425ff2bc60047b4006abf95695e054a0443e1b05"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 307911,
+      "title": "Vakıflar Genel Müdürlüğü 1968 yılı Bütçe Kanunu",
+      "adopted_as_published": "19/02/1968",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05101003.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 637 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c025/mm__02025045ss0637.pdf"
+        },
+        {
+          "label": "CS 1059no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045026ss1059.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 44,
+          "sitting": 23,
+          "sitting_date": "1968-01-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044fih.pdf",
+          "pages": [
+            "854"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 26,
+          "sitting_date": "1968-02-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045fih.pdf",
+          "pages": [
+            "381:398"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 27,
+          "sitting_date": "1968-02-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045027.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045fih.pdf",
+          "pages": [
+            "401",
+            "429",
+            "537:538"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1001&v_kullanici_id=27483235",
+      "page_sha256": "094cb387034ac00eea805b544e30971275b2ef020692510be97000c9900f57c8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a0c56a410c6b9bd2d01af94b425ff2bc60047b4006abf95695e054a0443e1b05",
+  "issuer": "Millet Meclisi",
+  "in_force": "1968-02-19",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 19/02/1968; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
