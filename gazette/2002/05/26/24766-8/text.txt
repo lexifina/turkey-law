@@ -1,0 +1,334 @@
+Başbakanlıktan:
+Nükleer Güç Tesislerinin Yer Seçimi ile İlgili Etüt ve Değerlendirme Çalışmalarında Kalite Temini Yönetmeliği
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+Madde 1 — Bu Yönetmeliğin amacı nükleer güç tesislerinde yer seçimi ile ilgili yapılacak etüt, değerlendirme ve doğrulama çalışmalarında kaliteyi etkileyecek faaliyetlerin kontrol edilmesi ve onaylanması ile ilgili esasları ortaya koymak ve istenen kaliteyi sağlamaktır.
+Kapsam
+Madde 2 — Bu Yönetmelik yer seçimi faaliyetlerinden; yerin etüdü, değerlendirilmesi ve doğrulanması aşamalarında kalite temini ile ilgili yönetim ve uygulama faaliyetleri ile değerlendirmeleri kapsar.
+Dayanak
+Madde 3 — Bu Yönetmelik; 2690 sayılı Türkiye Atom Enerjisi Kurumu Kanununun 4 üncü maddesinin (e) bendi ile Nükleer Tesislere Lisans Verilmesine İlişkin Tüzük hükümlerine dayanılarak hazırlanmıştır.
+Tanımlar
+Madde 4 — Bu Yönetmelikte geçen:
+Alt Tedarikçi: Tedarikçiye donanım, malzeme ve hizmet veren yerli ve/veya yabancı firmaları,
+Doğrulama: Hizmet veya malzemenin kalite temin programına uygunluğunun kontrolünü,
+Karot: Sondajlar vasıtasıyla yer yüzünün altındaki kayaç, maden v.s. den alınan numuneyi,
+Kalite Temin Programı: Yer seçimi ile ilgili etüt, değerlendirme ve doğrulama faaliyetlerinde takip edilecek prensipleri ve bu faaliyetlerde yer alan sorumlu organizasyon, tedarikçi ve alt tedarikçilerin sorumlulukları ile bunlar arasındaki ilişkileri ortaya koyan temel dokümanı,
+Sorumlu Organizasyon: Yer seçimi faaliyetleri ile ilgili kalite temin programının hazırlanmasının ve uygulanmasının sorumluluğunu taşıyan organizasyonu,
+TAEK: Türkiye Atom Enerjisi Kurumunu,
+Tedarikçi: Hizmet ve malzemeyi sağlayacak olan ve sorumlu organizasyonla bu işi yapmak için sözleşme yapan firma veya firmalar grubu ile bunların temsilcilerini,
+Uyumsuzluk: Belirtilen şartların yerine getirilmemesini,
+ifade eder.
+Bu Yönetmelikte kullanılan diğer tanımların anlamı 9/9/1991 tarihli ve 20986 sayılı Resmî Gazete’de yayımlanan Türkiye Atom Enerjisi Kurumu Nükleer Tanımlar Yönetmeliğinde belirtilmiştir.
+İKİNCİ BÖLÜM
+Uygulamalar
+Kalite Temini Programının Hazırlanması
+Madde 5 — Kalite temini programı, madde mamul ve hizmetlerde kalitenin temin edilmesi ile ilgili işlemleri belirler ve bu işlemlerle ilgili uygun metot ve kontrol seviyelerini ve doğrulamaları saptar. Bütün kalite temin programları kaliteyi etkileyen faaliyetlerin güvenlik açısından önem arz eden hususlarla paralel olacak şekilde kontrol edilmesini sağlar.
+a) Hizmetlerin Sınıflandırılması
+Yerin etüt, değerlendirme ve doğrulanması aşamalarındaki bütün hizmetler ve ilgili malzeme ve ekipman, bu Yönetmelikte "hizmetler" olarak geçecektir. Hangi hizmetin kalite temin programına konu olacağı ve hangisinde diğerlerinden daha hassas kontrola ihtiyaç duyulacağı, hizmetlerin yeniden gözden geçirilmesiyle tespit edilir.
+Hizmetler, yer seçimi işleminin belirtilen bir aşamasında özel bir teknik disiplin içerisinde gerçekleştirilen faaliyetlerdir. Hizmetlerin sınıflandırılmasında, göz önünde tutulacak en önemli faktör, güvenliği etkileyecek bir hata ve/veya hizmet performansındaki eksikliktir.
+İlave olarak;
+1) Hizmetlerin karmaşıklığı, kendine has özellikleri olması ve ilk defa uygulanması,
+2) Özel kontrol ihtiyacı, idari metotlar, işlemdeki takip ve denetim, hizmetle ilgili metotlar ve ekipman,
+3) Sonuçların fonksiyonel uygunluğunun doğrulamalarla ne derece gösterilebileceği,
+4) Hizmetlerin standardizasyon derecesi ve kalite geçmişi,
+dikkate alınacak diğer faktörlerdir.
+b) Kalite Temini Faaliyetleri
+Her hizmet için kalite temin faaliyeti, programlanmış faaliyetler ve çalışma faaliyetleri olarak iki temel unsuru içerir.
+Kalitenin temin edilmesiyle ilgili program faaliyetleri, uygun kalite temin programını tesis etmek ve etkili olarak yürütmek için gerekli olan idari veya yönetim özellikli faaliyetleri, bu faaliyetlerin tesis edilen programla ilişkisini ve yerin etüt, değerlendirme ve doğrulama işlemleri esnasında kaliteyi etkileyen faaliyetlerin kontrolu ve yönetimini kapsar.
+Kalite temini çalışma faaliyetleri, teknik özellikli olup genel olarak işin (sondaj ve numune alınması gibi) uygulama ve yönetimini ve kalitenin sağlanması uygulamalarını (araştırma ve deney uygulamaları gibi) kapsar.
+c) Kalite Temini Faaliyetlerinin Sınıflandırılması
+Kalite temin faaliyetleri; uygulanabilir kalite temin faaliyetlerinin kapsamına ve uygulanması gereken kontrol ve doğrulama derecesine göre sınıflandırılır.
+Programlanmış kalite temin faaliyetleri: kalite temin faaliyet alanında, özel faaliyetler için belirtilmiş koşulların tamamı veya bir kısmı seçilir ve uygulanır. Bazı hizmetler için bu koşulların tamamı tatbik edilebilir, bazıları için ise bir kısmı yeterlidir. Kontrol ve doğrulama derecelerine göre değiştirilecek olan faktörler aşağıdakileri kapsar:
+1) Uygulama ve talimatların cinsi ve kapsamı,
+2) Doğrulama metotları (araştırma, deneyler, takip ve tetkik),
+3) Doğrulamanın kapsamı (tekli ve çoklu doğrulama metotları),
+4) Denetim için kapsam ve ihtiyaç,
+5) Kayıtların sayısı ve içeriği.
+Prensip olarak kontrol sayısı ve doğrulama faaliyetleri aşağıdaki hallerde azaltılır:
+1) Faaliyetler tam olarak tespit edildiğinde adım-adım uygulama gerekli değildir. (Bununla beraber her faaliyet için, çalışma planı ve takvimi, iş alanının en iyi şekilde tarifi gereklidir.)
+2) Böyle durumlarda doğrulama, düzenlenen yönteme uygun olarak iş bitiminde uygulanır.
+3) Kalite temin program kapsamı içinde belirtilen hizmetler, seçilmiş kalite temin koşullarına veya konuyla ilgili ulusal standartlara uygun olmalıdır. Her özel hizmet için uygulanan kalite temin koşulları tarif edilir.
+Kalite Temin Programının Kapsamı
+Madde 6 — Kalite temin programının kapsamı aşağıda belirtilmiştir:
+a) Yer Seçimi Faaliyetlerinin Gözden Geçirilmesi
+Yer seçimi ve araştırmalarıyla ilgili kalite temin programı;
+1) Etüt,
+2) Değerlendirme,
+3) Doğrulama,
+aşamalarındaki faaliyetleri tanımlanır.
+b) Yer Hizmetlerinin Sınıflandırılması
+Yer etütlerinde gerekli olan güvenlikle ilgili hizmetler, güvenlikle ilgilerine ve bu Yönetmeliğin 5 inci maddesinin (a) bendinde bahsedilen diğer faktörlere göre sınıflandırılır. Bu hizmetlerin uygulamalarında Çevresel Etki Değerlendirmesi Yönetmeliği çerçevesinde verilen çevre ile ilgili faktörler dikkate alınır.
+c) Yer Etütleri İçin Kalite Temin Faaliyetleri
+Çeşitli yer seçimi faaliyetleri için kalite temin programının seçimi, bu maddenin (b) bendinde sınıflandırılmış hizmetlere göre yapılır. Bu çalışma bu Yönetmeliğin 5 inci maddesinin (c) bendinde belirtilen sınıflandırmaya, değişik yer etüdü basamaklarına ve aşağıdaki bölümlere uygun olur.
+1) Yer Etüdü Safhaları
+Yer seçimi faaliyetlerinin birbirini takip eden aşamalarında tetkik edilen veri kalite temin şartlarına bağlıdır. Yönetmelikte listelenen ilgili kalite temin şartlarının tümüne tabi olması zorunlu olmayabilir. Bununla beraber farklı yerlerin karşılaştırılması için kullanılan verinin geliştirilmesinde eşdeğer kalite temini çalışmaları uygulanır. Yer etüdü safhasında aşağıda belirtilen faaliyetler yerine getirilir:
+(a) Oluşturulacak faaliyetlerin planlanması ve dokümante edilmesi,
+(b) Uygun şekilde vasıflandırılmış personelin kullanılması,
+(c) Yönetmeliğe uygun kayıt sisteminin oluşturulması ve uygulanması.
+2) Yer Değerlendirme Safhası
+Bu safhada güvenlik açısından önemli olan faaliyetler için Yönetmelikte uygulanabilen bütün kalite temin şartlarının gerekli olduğu kabul edilir. Uygun şekilde sınıflandırılmış bu şartlar, bu safhada yapılan tesis sistemlerinin tasarım ve lisanslanmasına veri ve analiz formunda doğrudan veya dolaylı girdi sağlayan bütün araştırma ve analizlere uygulanır.
+3) Yerin Onaylanma Safhası
+Bu safhada sürdürülecek faaliyetler için kalite temin çalışmaları bu Yönetmeliğin 5 inci maddesinin (b) bendinde belirtilenlerle uyumlu ve daha önceki yer seçimi ile ilgili safhalardaki kalite temin çalışmaları ile tutarlı olur.
+Kalite Temin Programının Dokümantasyonu
+Madde 7 — Kalite temin programı, nükleer güç tesisi projesinin tamamlayıcı bir parçası olarak bu Yönetmeliğin şartlarına göre oluşturulur. Sorumlu organizasyon veya yetkili kıldığı kişi veya kuruluş bütün yer seçimi faaliyetlerinin kalite temin programında belirtilen uygulama, plan ve talimatlara uygun olarak yerine getirilmesinden sorumludur.
+Gerektiğinde, yer seçimi ile ilgili etkinlikleri içeren konulardaki kalite temin program tanımı TAEK’in inceleme ve onayına sunulur.
+a) Kalite Temin Programının Açıklaması
+Kalite temin programında aşağıdaki hususlar yer alır:
+1) Amaçların ve politikaların belirlenmesi,
+2) Kalite temin programında bulunan mal ve hizmetlerin açık tanımı,
+3) Kalite temini faaliyetlerinin, planlama ve uygulamasını da içeren, organizasyon yapısı,
+4) Programdaki gerekli personelin ve organizasyonların yükümlülük ve yetkilerinin tanımlanması,
+5) Programa uygulanacak olan metotların açıklanması,
+6) Yapılacak olan işin tanıtımı, planlanması ve kontrolü için yöntemlerin açıklanması,
+7) Tetkik ve kontrol faaliyetlerinin planlama ve uygulanması için uyarlanacak olan metodun açıklanması,
+8) Kaliteyi etkileyen faaliyetleri sürdürecek olan personelin vasıfları ve bu vasıfları haiz olunması için gerekli eğitim şartlarının açıklanması.
+Kalite temin programı ile ilgili açıklamaların organizasyon üst yönetimi tarafından onaylanmış olması gereklidir.
+b) Kalite Temin Programı Yöntemleri
+Kalite temin program yöntemleri görevlerin yerine getirilmesiyle ilgili ayrıntılı bilgi ve direktifleri ortaya koyar.
+Kalite temin programı kapsamı aşağıdaki gibi olur:
+1) Amaç: mevcut yöntem için amaç, kısa ve özlü olarak bildirilir,
+2) Kapsam : yöntemin sınırları tarif edilir,
+3) Tanımlar: metinde geçen genel kullanım dışındaki veya yönteme özel anlamı olan teknik terimler tanımlanır,
+4) Atıflar : daha fazla bilgi için gerekli kaynaklar belirtilir,
+5) Sorumluluklar: yöntemlerin başarılı sonuçlar vermesi için sorumluluklar açıklanır,
+6) Faaliyetler: yöntemin amacına ulaşması için yapılacak faaliyetlerin sırası verilir,
+7) Dokümantasyon: kullanılan formlar, bilgiler ve sonuçlar belirtilir,
+8) Kayıtlar: kayıtlar oluşturulur ve sınıflandırılır.
+c) İş Planları ve Zamanlama Çizelgesi
+Nükleer güç tesisinde planlamayı, sistematik veri toplamayı ve yer ile ilgili parametrelerin profesyonelce değerlendirilmesini sağlamak için iş planları ve zamanlama çizelgeleri oluşturulur. Her plan kendinden daha fazla ayrıntı içeren alt planlardan oluşur.
+Alt grup planlamalarını toplamak ve diğer organizasyonlarla uyum içinde çalışmak için bir ana plan kullanılır. İş planları ve ilgili zamanlama çizelgeleri; akış diyagramları, zamanlama çizelgeleri, koşullara uygun malzeme, faaliyet tipleri ve yer seçimi uygulamalarının yer aldığı iş bölümünü tanımlaması şeklinde olur.
+d) İş Yöntemleri ve Talimatları
+İş yöntemleri; genel veya özel faaliyetlerin, özel işlemlerin, saha ve laboratuvar testlerinin, fonksiyonların ve doğrulamaların ayrıntılı uygulama talimatlarıdır. Bu talimatlar iş performansının ve elde edilen sonuçların önceden belirlenen şartlara uygun olduğunu açık bir şekilde gösterir. İş yöntemleri, istenen veri, veri toplama metotları, formların doldurulması ve raporların
+hazırlanması için gerekli ayrıntıları kapsar. Eğer bunlardan herhangi bir kısmı uygulanamamış veya değiştirilmiş ise bu durum ilgili standartlara ve iş yöntemlerinin kontrol edilmiş kopyalarına not edilir.
+Kalite temin programı ile ilgili genel faaliyetler iş yöntemlerini de kapsar.
+Bu yöntemler şunlardır:
+1) Gözden Geçirme Metodu : Bu metot, gözden geçirme mekanizmalarının tanıtılmasını, zamanlama çizelgesini, konuyla ilgili tavsiyeleri ve bunların getirdiği çözüm yollarını içerir.
+2) Rapor Formatı : Kağıt boyutunun tarifi, sınırlar, sayfa numaralama sistemi, numaralama tipi, satır aralığını da belirten başlık sistemi, referans formu, revizyon yöntemleri gibi hususları içerir.
+3) Çizim Formatı: Sayfaya yerleştirme, sayfa boyutu, ölçek, başlık blokları, sınırlar, açıklama yeri ve çizimde kullanılan sembolleri içerir.
+4) Proje Dosyalama Sistemi: Literatür, haritalar, çizimler, hesaplamalar, laboratuvar analizleri, fotoğraflar ve karşılaştırmaları içeren dokümanların dosyalanması sisteminden oluşur.
+İş yöntem ve talimatları çalışanlar için uygun, açık, net, özlü ve belirgin olur.
+e) El Kitapları
+Yer seçimi çalışmalarındaki kaliteyi etkileyen bütün faaliyetler,özel proje faaliyetlerini ve nükleer güç tesisinin teknik disiplinlerini de içerecek şekilde gruplandırılarak hazırlanacak el kitaplarında gösterilir.
+Yer seçimi uygulamaları için oluşturulması gereken tipik el kitapları şunlardır:
+1) Proje Yönetimi El Kitabı
+Sorumlu yönetici tarafından tesis edilmiş ve uygun bulunmuş projenin kontrol yönetimi usullerini içerir. Uygun politikalar ve sorumluluklar ile projenin nasıl çalışacağını, diğer politikalar (bölünmeler, teknik disiplinler v.s.) ve yöntemlerle nasıl birleşeceği gibi çalışma talimatlarını ihtiva eder.
+Yönetim uygulamaları kapsamında;
+a) Görev belirtilmesi,
+b) Programlama ve iş programı,
+c) Mektup formatı,
+d) Kontrol yöntemleri,
+e) Rapor formatı,
+f) Seyahat raporları,
+g) Günlük arazi raporları,
+h) Telefon konuşma kayıtları,
+ı) Toplantı notları,
+j) Proje ile ilgili geziler,
+k) Proje talimatlarının hazırlanması,
+l) Çizim formatı,
+yer alır.
+2) Teknik Disiplin Yöntemleri El Kitabı
+Teknik disiplin çerçevesinde jeoloji, hidroloji, sismoloji, inşaat mühendisliği gibi iş faaliyetlerinin yapılması ve doğrulanması için kullanılan yöntemler ile teknik disiplin içinde faaliyetlerin yönlendirilmesi, teknik disiplinler arasında ilişkinin kontrol edilmesi ve elde edilen sonuçların doğrulanması hususlarındaki talimat ve beklentileri kapsar.
+Ayrıca teknik disiplin el kitabı, muayene ve deney gibi faaliyetlerin uygulanması ve doğrulanması için kalite temin programında gerekli olan bütün çalışma yöntem ve talimatları da kapsar.
+3) Kalite Temini El Kitabı
+Kalite temin program yöntemleri, kalite temin el kitabında gruplandırılır. Kalite temin el kitabı kalite temini talimat ve standartlarında açıklanan bütün kalite temini safhalarını kapsar.
+Organizasyon
+Madde 8 — Sorumlu organizasyon, proje ile ilişkili bütün birimleri, aralarındaki hiyeraraşiyi, raporlaşma ve iletişim ilişkilerini açıkça gösterecek şekilde ortaya koyacak bir proje organizasyon şeması hazırlar ve ana yüklenici, alt yüklenici ve danışmanların da yükümlü oldukları işlerle ilgili organizasyon şemalarını belirler. Bu
+organizasyon şemalarında, her iş için sorumluluklar açıkça belirtilir. Kalite temin biriminin proje organizasyonu içindeki pozisyonu, yönetime rapor verme ve organizasyondaki diğer birimlerle iletişim şekli kesin bir biçimde ortaya konur.
+a) Personel Kadroları
+Kadrolaşma planları, pozisyonları ve bu pozisyonlarla ilgili nitelikleri tanımlar. Pozisyon tanımı projedeki her pozisyon için hazırlanacak ve bu tanımlama aşağıdaki hususları kapsar:
+1) Pozisyon unvanı,
+2) Pozisyon amacı,
+3) Sorumluluklar,
+4) Yetkiler,
+5) Eğitim ve deneyim şartları,
+6) Danışmanlık sorumlulukları.
+b) Proje Yöneticisinin ve Sorumlu Kalite Temin Temsilcisinin Yer Seçimi Faaliyetleri için Fonksiyonu ve Sorumlulukları
+Proje yöneticisinin ve sorumlu kalite temin temsilcisinin yer seçimi faaliyetleri ile ilgili sorumlulukları aşağıda verilmiştir:
+Proje Yöneticisinin sorumlulukları:
+1) Sorumluluğun belirlenmesi, planların sağlanması, yer seçimi proje organizasyonun iç ve dış ilişkilerin açıklanması, iç ve dış gruplar arasında iletişim ve yönetimin sağlanması,
+2) Bütün kalite temin fonksiyonlarının yer seçimi proje grubu tarafından etkin bir şekilde yürütüldüğünün gözetimi,
+3) Yer seçimi proje grubu, danışmanlar ve diğer yükleniciler için kalite temin şartlarının oluşturulmasının sağlanması, kalite temin kitabı ve program yönetimi gibi kalite temin dokümanlarının onaylanması,
+4) İş planı ve zamanlama çizelgesinin onaylanması,
+5) Standartların, kodların, rehberlerin ve yer seçiminde uygulanacak yöntemlerin tespit edilmesi ve yer seçimi faaliyeti sırasında kullanılacak talimat ve özel yöntemlerin onaylanması,
+6) Yer seçim projesi dosya sisteminin oluşturulması,
+7) Yer seçimi faaliyetlerinde problem ve eksiklikler belirlendiğinde bunların çözümüne yönelik metot ve zamanlama programının geliştirilmesinin yanı sıra yer seçimi projesinin düzenli işleyişi ile ilgili olarak da sorumlu organizasyonun yönetimine oluşturulmuş program konusunda rapor verilmesi,
+8) Gerektiğinde uyumsuzluk ve eksikliklerin çözümüyle ilgili tavsiyelerde bulunmak,
+9) Düzeltici faaliyetlerin önerilmesi, kontrol edilmesi ve onaylanması.
+Kalite temin temsilcisinin sorumlulukları:
+1) Yer için etkili bir kalite temin programı hazırlamak,
+2) Yer seçimi proje grubunun kalite temin fonksiyonlarını koordine etmek, kalite temin program tanımlarını yapmak, tanımların bütün revizyonlarını çıkarmak,
+3) Ana tedarikçilerin onaylanmış kalite temin programları, kalite temin el kitabı ve yöntemleri gibi ilgili dokümanları değerlendirmek ve kapsamları hakkında tavsiyelerde bulunmak,
+4) Ekipman ve hizmetlerin sağlanması için kalite temin şartlarını kontrol etmek ve onaylamak,
+5) Proje faaliyetleri akışı içinde, proje grubu tarafından uygulanacak kalite temin yöntemleri uygulamalarını hazırlamak ve kontrol etmek,
+6) Kalite temin şartlarının, iş planları ve çizelgelerinde bulunduğunun onaylanmasından önce, bu şartların yer seçimi faaliyetlerinde kullanılan iş yöntemleri ve talimatlarında da bulunduğunu kontrol etmek ve sağlamak,
+7) Bir takip ve denetim programı oluşturarak yer araştırması faaliyetlerini ve elde edilen sonuçların kayıtlarını iş esnasında takip etmek,
+8) Faaliyetlerde eksiklik görüldüğünde, uyumsuzluk raporlarını hazırlanmasını başlatmak,
+9) Yüklenicilerin kalite temin programlarının tetkik edilmesini organize etmek, programdaki eksiklikleri tanımlamak ve düzeltici faaliyetlerin yürütülmesini temin etmek,
+10) Yer seçimi faaliyetlerini denetleme komitesinin çalışmalarına iştirak etmek,
+11) Proje ekip personeli için kalite temin programı uyum kursları organize etmek ve yürütmek,
+12) Kaliteye uygun olmayan durumları tanımlamak ve bu durumların tekrarını önleyen doğrulama işlemlerini oluşturmak,
+13) Bütün yüklenici ve tedarikçilerin kalite temin gruplarının koordinasyonunu sağlamak,
+14) Planlamanın organizasyonunu, iç kalite temin program denetimini hazırlamak ve uygulamak,
+15) Kalite temin faaliyetlerinin niteliği ile ilgili olarak sorumlu organizasyon yönetimine rapor yazmak.
+c) Personelin Vasıflandırılması ve Eğitimi
+Proje dosyasında, projede çalışan bütün personelin niteliklerinin kaydı bulunur. Her özel görev pozisyonu için gereken eğitim programı sorumlu yönetici tarafından belirlenir.
+Sorumlu yönetici, çalışanların tahsil, deneyim ve eğitimleri bakımından görev tanımına uygun olarak vasıflandırıldığına dair bir belgeyi tanzim etmek ve gerektiğinde her denetimde ibraz etmek zorundadır.
+d) Danışman Personelinin Kalite Temin Eğitimi
+Yer seçimi işlemlerinde jeoteknik, sismolojik, meteorolojik ve demografik gibi özel çalışmalar için değişik danışmanlar gerekir. Bu servisler için tedarik dokümanları, bu çalışmalarla ilgili her özel görev için personelin eğitim ve vasıflandırılma gereksinimini, kalite temin personelinin eğitim ve vasıflandırılmasını da içerecek şekilde belirtilir.
+e) Yer Seçimi İnceleme Komitesi
+Nükleer güç tesislerinin organizasyon yapısı çerçevesinde bağımsız bir Yer Seçimi İnceleme Komitesi oluşturulur. Bu komitenin fonksiyonu güvenlikle ilgili olduğu tanımlanan ve ileride nükleer güç tesisi tasarımında doğrudan girdi olacak rapor, çalışma ve analizleri geliştirmek ve denetlemektir. Sorumlu Yönetici komite tarafından kontrol edilecek faaliyet ve raporların tespit edilmesi ve Yer Seçimi İnceleme Komitesinin direktiflerinin bildiriminden sorumludur. Sorumlu Yönetici komite üyelerini atar ve uygulanacak denetim şeklini tespit eder.
+Yer Seçimi İnceleme Komitesi üyeleri incelenen ve değerlendirilen işten doğrudan sorumlu kişiler değildir. Sorumlu Yönetici atanmış İnceleme Komitesi üyelerinin temel deneyim ve yeteneklerini denetler. Yer Seçimi İnceleme Komitesi tarafından işin inceleme ve değerlendirme uygulamaları bu Yönetmeliğin 9 uncu maddesinin (f/5) bendinde düzenlenmiştir.
+Kalite Temin Programının Uygulanması
+Madde 9 — Kalite temin programında olması gereken ve yer seçimi çalışmalarında kaliteyi etkileyen işleri yapan her organizasyon aşağıda sıralanmış olan kontrol faaliyetlerini yerine getirir:
+a) Doküman Kontrolü
+Kalite temin programına bağlı nükleer güç tesisinin yer seçimi işlemi ile ilgili bütün faaliyetlerde kullanılan dokümanların kontrolü için yöntemler hazırlanır.
+Bu yöntemler aşağıdaki şartları sağlar:
+1) Doğru dokümanların tanımı ve faaliyette kullanılan sürümlerinin tanımlanması,
+2) Geçerli dağıtım listelerinin tutulması,
+3) Sadece doğru ve uygulanabilir dokümanların kullanılmasının sağlanması için kontrol önlemleri,
+4) Kullanılmayan dokümanların geri çekilmeleri veya elden çıkarılmaları için tanımlanmaları,
+5) Bir doküman dağıtım kaydının tutulması.
+Kontrola tabi tutulacak dokümanlar tanımlanmalı ve aşağıdakileri içermelidir:
+1) Program yöntemleri,
+2) İş planları ve zamanlama çizelgeleri,
+3) Tedarik dokümanları,
+4) Çalışma metotları ve talimatlar,
+5) Çizimler,
+6) Teknik özellikler.
+b) Çalışmaların Kontrolü, Değerlendirmeleri ve Analizleri
+Çalışmaların hazırlanması ve uygulanması, değerlendirilmesi ve analizleri kontrola tabi tutulur.
+Bu kontrollar kapsamında;
+1) TAEK’in koyduğu şartlar, mühendislik kodları ve standartlar gibi faaliyetlerde kullanılan genel dokümanların tanımlanması,
+2) Analiz için girdi verisinin kullanılmasında, veri kaynağının güvenilirliğinin tanımlanması,
+3) Değerlendirme ve analizlerin uygulanmasında kişilerden istenen özelliklerin tanımlanması,
+yer alır.
+Metotlar, çalışma talimatları ve planlamalar ile ilgili dokümanlar bu konularda deneyimli personel tarafından denetlenir. Çalışma, değerlendirme ve analiz sonuçları okunaklı, kopyalanabilir, dosyalanabilir ve yeniden elde edilebilir formda olur.
+c) Tedarik Kontrolü
+1) Genel
+Hizmet ve ekipman tedariği için ilgili kalite temin tedbirleri uygulanır. Bu tedbirler yer seçimi ile ilgili aşağıdaki tedarik faaliyetlerini kapsar:
+a) Tedarik dokümanlarının hazırlanması ve kontrolü,
+b) Hizmet ve ekipman seçimi,
+c) Teklif değerlendirme ve kontrat kararı,
+d) Yüklenicinin performansının kontrolü,
+e) Hizmetlerin veya ekipmanın kabulü.
+2) Tedarik Dokümanının Hazırlanması ve Kontrolü
+Hizmet ve ekipman temini ile ilgili tedarik dokümanları aşağıdakileri kapsar:
+a) İş kapsamının ayrıntılı açıklaması (hizmet veya ekipman özellikleri),
+b) Düzenleyici ve teknik şartlara atıf,
+c) Uygulanabilir kalite temin programı veya diğer kontrollar için tedarikçi tarafından yerine getirilecek şartlar,
+d) Dokümantasyon şartları,
+e) Satın alıcının; üretilen hizmet veya ekipmanla ilgili olarak araştırma ve denetim maksadıyla, tesisi, dokümanları ve diğer bilgileri kullanabilme hakkı,
+f) Uyumsuzlukların giderilmesi için rapor ve kabul şartları,
+g) Hizmet ve ekipmanın kabul metodu,
+h) Koşulların alt yüklenicilere iletilmesi,
+ı) Kayıtların satın alıcıya devir şartları.
+Tedarik dokümanlarının basılmasından önce hazırlama, kontrol, gözden geçirme ve onay için metotlar oluşturulup, metotlarda, tedarik dokümanlarının kabulü ve yayımı için uzman personel tanımlanır.
+3) Hizmet ve Ekipman Tedarikçisinin Seçimi
+Tedarikçilerin seçimi, tedarik dokümanları koşullarına uygun olarak, hizmet veya ekipman temin etme kapasitelerinin değerlendirilmesi sonuçlarına göre yapılır.
+Satın alıcı, tedarikçilerin değerlendirilmesi ve seçimi için bir metot oluşturur, bu metot, tedarikçilerin kapasitesini saptayabilecek çeşitli organizasyonların tanımlarını kapsar. Tedarikçilerin değerlendirilme metotları ve sonuçları doküman haline getirilir.
+4) Teklif Değerlendirme ve Kontrat Kararı
+Satın alıcı, ihalenin tedarik dokümanı koşullarına uygunluğunu temin için gerekli tedbirleri kapsayan bir metot oluşturur. Bu tedbirler aşağıdaki hususları kapsar:
+a) Teknik değerlendirmeler,
+b) Kalite temin şartları,
+c) Araştırma geliştirme çalışmaları,
+d) Tedarikçinin personeli,
+e) Tedarikçinin performans/üretim yeteneği,
+f) Tedarikçinin geçmiş performansı,
+g) Tedarik doküman şartlarına alternatifler,
+h) Tedarik doküman şartları dışındaki istisnalar.
+5) Tedarikçinin Performans Kontrolü
+Satın alıcı, tedarikçinin uygulamalarını tedarik dokümanlarında belirtilmiş olan şartlara göre takip eder. Kalite temin programına tabi hizmetlerin yerine getirilmesi esnasında, tedarik dokümanlarına ve hazırlanmış işin planı ve zamanlamasına göre tedarikçinin tesislerinde ve/veya arazide kontrollar yapılır.
+6) Hizmet veya Ekipmanın Kabulü
+Kabul işlemi, tedarik dokümanlarında belirtilen takip, muayene ve tetkik faaliyetlerinin sonuçlarına göre yapılır. Temin edilen bütün ekipman son kabulden önce denetim ve deneye tabi tutulur. Kalitenin belirlenmesi muayene, deney ve kalibrasyon sertifikaları gibi kalitenin objektif göstergelerinin değerlendirilmesini de kapsar.
+Açıkça belirtilmiş teçhizat tipi ve cihazlar için denetimin tip ve basamaklarını belirtecek metotlar hazırlanır ve denetim sonuçları doküman haline getirilir.
+d) Malzeme Kontrolü
+1) Genel
+Malzeme, teçhizat, ekipman ve numunelerin depolanma ve taşınmaları esnasında tanımlanmaları ve kontrolları için metotlar hazırlanır ve uygulanır. Bu metotlar malların temizleme, paketleme, koruma ve tanımlanmaları için gerekli şartları kapsar. Sınırlı ömrü olan malzeme ve numuneler için imalat tarihi, bozulma ömrü ve kullanma süreleri tanımlanır.
+Yer etüdü araştırma ve izleme programı esnasında toplanan numuneler (su, toprak, kayaç v.s.) sınıflandırılır, kayıp ve bozulmaları önlemek için kataloglanarak depolanır.
+2) Numunelerin Depolanması ve Taşınması
+Numuneler paslanmayan, hava geçirmeyen kaplarla, uygun etiketlenerek ve iyi tanımlanmış olarak gönderilir ve nem kaybına karşı korunur.
+Karotlar, tahribata dayanıklı ve herhangi bir yöne kaymasına mani olacak şekilde bölünmüş dayanıklı kutular içinde depolanır ve taşınır.
+Numuneler, alındıkları sahalar, sondaj numarası, karot aralığı, karot uzunluğu, karot aralıklarının üst ve alt derinlikleri belirtilerek etkilenir ve hizmetten çıkarılıncaya kadar veya sorumlu organizasyon tarafından atılma izni alınıncaya kadar uygun bir şekilde kataloglanıp depolanır.
+e) İşlem Kontrolü
+Özel beceri gerektiren faaliyetler, teçhizat veya işlemler belirtilir ve kontrola tabi tutulur. Kontrollar, faaliyetleri uygulayacak personel ile kullanılacak teçhizatın tanım ve özelliklerini, uygulanacak faaliyetlerin hazırlanış, yöntem ve uygulama talimatlarını içerir. Bu faaliyetlerin kontrol ve doğrulamaları, onların izlenme ve gözetimi ile üretimlerinin yahut iş sonuçlarının denetim ve değerlendirilmesini kapsar.
+İşin doğrulanmasının derecesi ve tipi ile sonuçları doküman haline getirilir.
+f) Kalite Doğrulamaları
+1) Çalışmaların Gözden Geçirilmesi, Değerlendirilmesi ve Analizleri
+Her çalışma için değerlendirme ve analizler kalite temin programına tabi tutulur ve elde edilen sonuçların doğrulanması için Sorumlu Yönetici veya vekili tarafından bir veya daha fazla kişi, grup veya organizasyon atanır. Atanan kişi/organizasyon, yapılan işten doğrudan sorumlu olmaz. Doğrulama, işin değerlendirme ve gözden geçirme sonuçlarına göre uygulanır.
+İşlemin uygun olarak yerine getirildiğini doğrulamak için yapılan gözetim ve denetimlerin sonuçları dokümante edilir. Teftiş edenlerin ve diğer onaylayıcıların tanımı açık bir şekilde ve tarih atılarak belirtilir.
+Teftiş kayıtları Sorumlu Yöneticiye kabul için teslim edilir. Yapılan teftiş sonuçlarının değerlendirilmesi Sorumlu Yönetici tarafından yapılır.
+2) Arazi Faaliyetlerinin Doğrulanması
+Arazi faaliyetlerinin doğrulanması, vasıflı personel ve bu iş için belirtilmiş teçhizatla oluşturulmuş olan yöntemlere uygun olması şartıyla yapılır. Bu doğrulamalar arazi çalışmalarının başından sonuna kadar uygulanır. Kontrol edilen ve doğrulanan faaliyetler aşağıdakileri kapsar:
+a) İş planına ve metotlara uygunluk,
+b) Personelin nitelikleri,
+c) Dokümanların tanımı ve kontrolü,
+d) Faaliyetlerin izlenmesi,
+e) Numune alma metotları (toprak, kaya, su gibi),
+f) Sınıflandırma, kayıt alma ve rapor yazma metotları,
+g) Numunelerin tanıtımı, taşınması ve depolanması.
+Arazi faaliyeti kayıtlarının doğrulanmaları ilgili yönetime rapor edilir ve kalite temin kayıtları gibi korunur.
+3) Laboratuvar Faaliyetlerinin Doğrulanması
+Laboratuvar analiz ve deneylerinin uygulanmasında doğrulamalar; faaliyetlerin ehliyetli personel tarafından özel bir teçhizatla, yöntemlere uygun olarak yapılması ve yönetilmesi şartıyla yapılır.
+Doğrulanması yapılacak hususlar aşağıdadır:
+a) Laboratuvar kalite temin programının oluşturulması ve uygulanması,
+b) Laboratuvar personelinin nitelikleri,
+c) Ölçüm ve deney cihazlarının kontrolu ve ayarı,
+d) Numunelerin tanıtımı, kontrolu ve depolanması,
+e) Doküman kontrol yöntemleri ve uygulamaları,
+f) Uygulanabilir standart ve koşullara uygun standart deney metotları ve yeterli deney yöntemlerinin oluşturulması ve kullanımı,
+g) Deney verisi, sonuçlar, şartlar ve gözlemlerin dokümantasyonu,
+Bütün laboratuvar analiz kayıtları ve deney program doğrulamalar ilgili idari birime rapor edilir ve kalite temin kayıtları gibi korunur.
+4) Hesaplamaların ve Bilgisayar Yazılımının Doğrulanması
+Hesaplamalar önceden tespit edilen yöntemlere göre oluşturulup doğrulanır. Hesaplamalar için kullanılan bilgisayar kodları doğrulanıp doküman haline getirilir. Doğrulamalar oluşturulmuş yöntemlere uygun olarak yapılır. Doğrulama, matematiksel modelleme, sayısal analiz, standart deney veri bankası ve mevcut bilgisayar programlarının deneysel verilerin ışığında sınanmasını veya
+elle yapılan hesapların kontrol edilmesini kapsar. Bütün bu programlarla ilgili dokümanlar, vasıflı bir denetçi tarafından onaylanabilmesi için yeterli ayrıntıda olur. Program kapsamına giren dokümanların hazırlanması için mevcut bilinen standartlar kullanılır veya uygunluğu kabul edilen bir yöntem geliştirilir.
+Bütün bilgisayar yazılım doğrulamaları, bilgisayar yazılım kayıtlarında doküman haline getirilir.
+5) Yer Seçimi İnceleme Komitesi Tarafından İşin İncelenmesi ve Değerlendirilmesi
+Sorumlu Yönetici, çalışma sonucu oluşan ve Yer Seçimi İnceleme Komitesi tarafından incelenip değerlendirilecek olan raporlar/analizler ve diğer teknik dokümanları tanımlar ve komitenin incelemesi için teslim eder.
+İnceleme talep edildiğinde, Sorumlu Yönetici inceleme alanını, hedeflerini, şartlarını ve yardımcı dokümanları ve incelemeyi yönetecek personeli tanımlar.
+İnceleme için aşağıdakilerden birisi kullanılacaktır:
+a) Komite içinde kurallara göre toplanan inceleme grubu,
+b) Bağımsız yüklenici veya danışman kullanımı,
+c) Proje organizasyonu çerçevesinde yapılan herhangi bir bağımsız inceleme,
+d) Yukarıdakilerin herhangi bir uygun birleşimi.
+İnceleme ile ilgili bütün eleştiriler ve kararlar inceleme komitesi başkanı veya vekili tarafından eleştirmeyi yapan kişi ile birlikte tetkik edilerek kabul, ret veya kısmi kabul v.s. gibi karara bağlanacak ve uygun bir şekilde bildirilir.
+Başkanın hazırlayacağı veya hazırlatacağı inceleme raporu aşağıdakileri kapsar:
+a) Yer Seçimi İnceleme Komitesi’nin inceleme istekleri,
+b) Yer Seçimi İnceleme Komitesi’nin kontrol listesi formu,
+c) Yer Seçimi İnceleme Komitesi’nin eleştirme ve karar formu,
+d) Yer Seçimi İnceleme Komitesi’nin toplantı tutanakları,
+e) İnceleme eleştirilerinin oturum özeti.
+Rapor veya analizlerdeki bütün eksikler, boşluklar veya tanımlanan yanlışlıklar göz önünde tutularak bu maddenin (g ) bendine göre ele alınır.
+6) Ölçümlerin ve Deney Cihazlarının Ayarları ve Kontrolü
+Yer seçimi işlemlerinde veri elde etmek için kullanılan ölçüm ve deney cihazları kontrola tabi tutulur. Bütün teçhizatın ve cihazların yapılmış olan kalibrasyonu kaydedilir ve bu kayıtlar kalite temini kayıtları olarak saklanır.
+g) Uyumsuzluk Kontrolü
+Herhangi bir uyumsuzluğun rapor edilmesi için, uygulama ve özellikleri önceden belirtilmiş bir yöntem oluşturulur. Yöntem , ‘Uyumsuzluk Raporu’ diye isimlendirilen bir rapor yazma formunu da kapsar. Bu form Sorumlu Yöneticiye ve Kalite Temin Temsilcisine bildirilir. Uyumsuzluk raporu proje ekibinden her hangi biri tarafından da yazılabilir. Uyumsuzluk raporunda eksik açıkça tanımlanır ve
+uyumsuzluğu düzeltecek işlem belirtilir. Uyumsuzluk gözetim veya inceleme esnasında görülmüş ise uyumsuzluk raporu, gözetim veya inceleme raporunun parçası olur ve bu raporların metni içerisinde uyumsuzluk raporuna atıfta bulunulur.
+Sorumlu Yönetici rapor edilmiş olan uyumsuzluğun uygun bir şekilde incelenmesinden ve düzeltilmesinden sorumlu olur. Sorumlu Yönetici düzeltmenin yapılmasından önce Yer İnceleme Komitesinden önerilerini bildirmesini veya bazı durumlarda düzeltmenin oluşturulmasını isteyebilir. Rapor edilen uyumsuzluk ve uygulanan düzeltme doküman haline getirilir.
+h) Düzeltici İşlem
+Sorumlu Yönetici, kalite koşullarının tanımlanıp düzeltilmesini, bazı önemli durumlarda ise, tekrarını önlemek için, kalitenin sağlanamama nedenini saptayıp düzeltici işlemin yapılmasını sağlar. Kaliteyi etkileyen önemli durumların tanımlanma raporları, bunların sebepleri ve yapılan düzeltme işleminin dokümanları hazırlanıp Sorumlu Yöneticiye
+bildirilir. Bu raporlarda eksiklik görüldüğünde Yer Seçimi İnceleme Komitesi veya Sorumlu Yönetici, isteklerine uygun ilave işlemler için raporu ilk hazırlayana iade eder.
+ı) Kayıtlar
+Yer seçimi işleminde yapılan çalışmalara ait yeterli sayıda kayıt muhafaza edilir. Muhafaza edilen kayıtların miktar ve formunun belirlenmesinde aşağıdaki kriterler kullanılır:
+1) Muhafaza edilen kayıtların geçerliliğine dair gerekli bilgiyi içermesi,
+2) İşin uygulama basamaklarının gerekli olduğu takdirde tanımlanabilmesi ve yeniden oluşturulabilmesi.
+Bu kayıtlar, potansiyel yer bölgelerinin bir listesini, uygun bulunmayan yer bölgelerinin kabul edilememe nedenlerini ve kabul edilen yer için uygulanan analiz sonuçlarını kapsar. Kalite temin kayıtlarının tanımı, kullanımı, doldurulması, depolanması ve düzeltilmesi için kayıt yöntemleri oluşturulur.
+Sistem, kayıtların idaresiyle doğrudan sorumlu olmayan personelin, bir problem olmaksızın elde edebilmesini temin edebilecek şekilde oluşturulur. Kayıt sistemi bu dokümanlarla ve sonuç kayıt dosyasıyla ilgili koşulları içerir.
+Kayıtlar, süreli ve süresiz bulundurma zamanlarına göre sınıflandırılır. Süreli kalite temin kayıtları, tesisin ömrü boyunca saklanır. Süreli olmayan kalite temin kayıtları için belli bir bulundurma zamanı belirlenir. Kayıtların sınıflandırılması, tipine ve bulundurma zamanlarına göre, gerçekliğini kanıtlayan yetkili bir kişinin imzasıyla veya mühürüyle birlikte ve her kayıt için kodlanmış dosyalarla yapılır. Yöntem, tamamlanmış kayıt dosyaları için saklama koşullarını, kontrol ve depolanma şekillerini belirtir. Dosyaların depolandığı yerler izinsiz yer değiştirmelerini önlemek için kilitlenir.
+j) Uygunluk Değerlendirmesi
+Kalite temin programının iç ve dış uygunluk değerlendirmeleri, kalite temin program koşullarının ve uygulama yöntemlerinin uyumluluğunu araştırmak ve programın geçerliliğini saptamak için planlanır ve yürütülür. Uygunluk değerlendirmeleri için, ilgili yönetmeliklere uyumlu bir şekilde program, hazırlık, yönetim ve takip yöntemleri oluşturulur. Yer araştırmaları için kalite
+temin programı uygunluk değerlendirme metodolojisi, bütün nükleer güç tesisleri uygunluk değerlendirmeleri ile uyumlu olur.
+Dış uygunluk değerlendirmelerinin tamamlanmasından sonra uygunluk değerlendirme raporu değerlendirilen organizasyona, Sorumlu Yönetici için hazırlanan kopya ile birlikte gönderilir.
+Uygunluk değerlendirmesine verilecek olan cevabın hazırlanması ve sunulmasında olduğu gibi, uygunluk değerlendirme raporlarının sunulması için de bir zamanlama çizelgesi oluşturulur. İç uygunluk değerlendirmeleri için değerlendirilen organizasyon biriminin yöneticisi, değerlendirme sonuçlarını gözden geçirip Sorumlu Yöneticiye yapılması istenen faaliyetler için rapor verir. Dış
+uygunluk değerlendirmeleri için, değerlendirilen organizasyon yönetimi uygunluk değerlendirme raporuna karşılık verir. Cevap, en az uygunluk değerlendirme raporunda belirtilen eksiklikler ile ilgili yerine getirilecek olan düzeltme faaliyetlerine ait bir planı kapsar.
+Değerlendirmelerle ilgili bütün kayıtlar, kalite temin dosyasında saklanır. Bu kayıtlar değerlendirme esnasında ortaya çıkan ilgili dokümanların yanı sıra, en az uygunluk değerlendirme planı, raporu ve bu rapora verilen cevapları ve yapılan düzeltme faaliyetlerinin kayıtlarını da kapsar.
+Özel Durumlar
+Madde 10 — Yönetmelik kapsamında belirtilen hususlarda ülke şartlarına ve bölgeye uygun olmayan durumların belirlenmesi halinde TAEK’in onayı ile ilgili madde hükümleri uygulanmaz.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Onay, Uyumsuzluk, Uygunluk Değerlendirmesi ve Denetim Esasları
+Madde 11 — Onay, uyumsuzluklar, uygunluk değerlendirmesi ve denetim esasları 13/3/1997 tarihli ve 22932 sayılı Resmi Gazete’de yayımlanan Nükleer Tesislerde Kalite Temini ve Denetim Yönetmeliğine göre yapılır.
+Yürürlük
+Madde 12 — Bu Yönetmelik Başbakanın onayını müteakip yayımı tarihinde yürürlüğe girer.
+Yürütme
+Madde 13 — Bu Yönetmelik hükümlerini Başbakan yürütür.
