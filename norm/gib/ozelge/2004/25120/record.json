@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6627-23/1894",
+  "source_id": 25120,
+  "date": "2004-01-15",
+  "title": "Sigorta hususunda devamlılık arz eden müşterilerin sigorta işlemleri hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/25120",
+  "source_sha256": "52806e0a85075cf0abccbccbaf1991e120751e1ee559d1cbf976bab7a5833df5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
