@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3848",
+  "year": 1940,
+  "title": "Ankara Hukuk fakültesinin Maarif Vekâletine devri hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-06-03",
+  "gazette_issue": "4525",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4525.pdf",
+  "source_sha256": "d7c9ad470f40ed592876741067d39ecb95262f0bc965285742ea922ff77e8785",
+  "text_sha256": "1e5e71fdf548861a83479a0198948cf33a5b370f8b7fba8dc05ba3094e831398",
+  "text_status": "ocr",
+  "pages": [
+    12
+  ],
+  "line_span": [
+    [
+      3251,
+      3283
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103848.pdf",
+    "source_sha256": "2e6f8f03ae18998684319acef9659dc5c7961745d9f2bebf5ff3f57f7b13da8b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9936,
+    "bag": 0.9747,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9602,
+    "rg_words": 218,
+    "kd_words": 226,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
