@@ -1,0 +1,60 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2004/50",
+  "date": "2004-12-03",
+  "title": "SPK Haftalık Bülteni 2004/50",
+  "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_50.pdf",
+  "source_sha256": "4df545378dac181e0408a92efe6510371b3fe41319b3d16a330693c9807431b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "F. YENİ FAALİYET İZNİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2004 – 03.12.2004 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_50.pdf"
+    },
+    {
+      "heading": "B. 29.11.2004 –03.12.2004 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_50.pdf"
+    },
+    {
+      "heading": "C. 29.11.2004 – 03.12.2004 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_50.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_50.pdf"
+    },
+    {
+      "heading": "F. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_50.pdf"
+    },
+    {
+      "heading": "G. DUYURU",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Ege Standart",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_50.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
