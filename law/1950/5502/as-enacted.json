@@ -1,0 +1,52 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5502",
+  "year": 1950,
+  "title": "Hastalık ve Analık Sigortası Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-01-10",
+  "gazette_issue": "7402",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7402.pdf",
+  "source_sha256": "150a00cdbb7a703f238ec58c5d64dc3ed7e5524ba7bbc73050cfaa696568e3b6",
+  "text_sha256": "5ccbb86d894fd74a4ecb583a191a84517f19a966321f6a75ca40a146f590e3cd",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      14,
+      550
+    ],
+    [
+      551,
+      577
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205502.pdf",
+    "source_sha256": "f1542e0ebfa4ed0e03f5b8e7c7f7bc79a1695c587dfd753a373e4879a45b7cb0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.978,
+    "bag": 0.8215,
+    "kd_coverage": 0.9975,
+    "kd_body_compared": 0.9982,
+    "rg_words": 2774,
+    "kd_words": 2845,
+    "own_anchor": true,
+    "foreign_anchors": 8
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
