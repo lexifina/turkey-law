@@ -1,0 +1,175 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "783",
+  "year": 1966,
+  "title": "4947 sayılı Türkiye Emlâk Kredi Bankası Kanununun 6143 sayılı Kanunla değişik 5. maddesinin değiştirilmesi hakkında Kanun",
+  "adopted": "1966-11-15",
+  "adopted_as_published": "15/11/1966",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "22.11.1966 No: 12458",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000783.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 50",
+  "committee_reports": [
+    {
+      "label": "MM 91 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008122ss0091.pdf"
+    },
+    {
+      "label": "CS 822no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037004ss0822.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 362546,
+      "title": "4947 sayılı Türkiye Emlâk Kredi Bankası Kanununun 6143 sayılı Kanunla değişik 5. maddesinin değiştirilmesi hakkında Kanun",
+      "adopted_as_published": "15/11/1966",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000783.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 91 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008122ss0091.pdf"
+        },
+        {
+          "label": "CS 822no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037004ss0822.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 45,
+          "sitting_date": "1966-02-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002fih.pdf",
+          "pages": [
+            "732"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 57,
+          "sitting_date": "1966-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004057.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004fih.pdf",
+          "pages": [
+            "677"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 75,
+          "sitting_date": "1966-04-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c005/mm__02005075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c005/mm__02005fih.pdf",
+          "pages": [
+            "654"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 122,
+          "sitting_date": "1966-08-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008122.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008fih.pdf",
+          "pages": [
+            "792:793",
+            "825",
+            "839:842"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 123,
+          "sitting_date": "1966-08-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008123.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008fih.pdf",
+          "pages": [
+            "888",
+            "910",
+            "921",
+            "933:936"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1101&v_kullanici_id=27483225",
+      "page_sha256": "80251869e03af7558ae631349888e850be9b61a18fdf958704c8ec81c5f86c7f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 304855,
+      "title": "4947 sayılı Türkiye Emlâk Kredi Bankası Kanununun 6143 sayılı Kanunla değişik 5 nci maddesinin değiştirilmesi hakkında",
+      "adopted_as_published": "15/11/1966",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000783.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 91 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008122ss0091.pdf"
+        },
+        {
+          "label": "CS 822no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037004ss0822.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 37,
+          "sitting": 1,
+          "sitting_date": "1966-11-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037001.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 4,
+          "sitting_date": "1966-11-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037004.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037fih.pdf",
+          "pages": [
+            "84",
+            "86:102"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 5,
+          "sitting_date": "1966-11-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037005.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c037/cs__06037fih.pdf",
+          "pages": [
+            "138",
+            "151:152"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=701&v_kullanici_id=27483235",
+      "page_sha256": "28c4c071a296cef811d1914cc4a93e05eb005f54447af6f75911f51122fe206f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "80251869e03af7558ae631349888e850be9b61a18fdf958704c8ec81c5f86c7f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1966-11-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 15/11/1966; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
