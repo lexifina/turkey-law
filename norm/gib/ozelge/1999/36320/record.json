@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6026-134/033606",
+  "source_id": 36320,
+  "date": "1999-08-05",
+  "title": "Mirasçılara ödenen sigorta tazminatı veraset yoluyla intikal sayıldığından Veraset ve İntikal Kanunu'nun 16. maddesi gereği vergilendirilmesi gerekir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36320",
+  "source_sha256": "2301ede448915850b065da115ef3d303b56f0f77d20de799319ebb30ab41444b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
