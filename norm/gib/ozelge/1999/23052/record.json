@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1060/29599",
+  "source_id": 23052,
+  "date": "1999-07-13",
+  "title": "Taşıt işletmeciliğinden dolayı götürü usulde vergiye tabi olan mükelleflerin devamlılık arzetmeyecek şekilde zorunlu durumlarda tek bir tespite dayalı olarak şehirlerarası taşımacılık yaptıkları takdirde basit usuldeki mükellefiyetlerinin devam ettirilmes",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23052",
+  "source_sha256": "e7d48e1d77e34ccac4b181b9d626a0a9ca4e1462b59e39dde2369ef6488647ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
