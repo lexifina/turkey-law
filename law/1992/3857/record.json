@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3857",
+  "year": 1992,
+  "title": "17.06.1982 Tarihli ve 2684 Sayılı İlköğretim ve Ortaöğretimde Parasız Yatılı veya Burslu Öğrenci Okutma ve Bunlara Yapılacak Sosyal Yardımlara İlişkin Kanunun 2947 Sayılı Kanunla Değişik 5. Maddesine Bir Fıkra Eklenmesi Hakkında Kanun",
+  "adopted": "1992-12-03",
+  "adopted_as_published": "03/12/1992",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.12.1992 No: 21433",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc076/kanuntbmmc076/kanuntbmmc07603857.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 76",
+  "committee_reports": [
+    {
+      "label": "TBMM 41 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c022/tbmm19022035ss0041.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 259883,
+      "title": "17.06.1982 Tarihli ve 2684 Sayılı İlköğretim ve Ortaöğretimde Parasız Yatılı veya Burslu Öğrenci Okutma ve Bunlara Yapılacak Sosyal Yardımlara İlişkin Kanunun 2947 Sayılı Kanunla Değişik 5. Maddesine Bir Fıkra Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "03/12/1992",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc076/kanuntbmmc076/kanuntbmmc07603857.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 41 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c022/tbmm19022035ss0041.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 31,
+          "sitting_date": "1992-02-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c003/tbmm19003031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c003/tbmm19003fih.pdf",
+          "pages": [
+            "232"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 43,
+          "sitting_date": "1992-03-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c004/tbmm19004043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c004/tbmm19004fih.pdf",
+          "pages": [
+            "507"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 35,
+          "sitting_date": "1992-12-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c022/tbmm19022035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c022/tbmm19022fih.pdf",
+          "pages": [
+            "189:193"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5",
+  "issuer": "TBMM",
+  "in_force": "1992-12-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 03/12/1992; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
