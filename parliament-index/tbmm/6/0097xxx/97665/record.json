@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 97665,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "İcra ve iflâs kanununun bazı maddelerinin değiştirilmesi hakkında (1/297)",
+  "title": "İcra ve iflâs kanununun bazı maddelerinin değiştirilmesi hakkında (1/297)",
+  "first_sitting_date": "1940-01-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 24,
+      "sitting_date": "1940-01-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c008/tbmm06008024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c008/tbmm06008fih.pdf",
+      "pages": [
+        "52"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 70,
+      "sitting_date": "1940-06-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c012/tbmm06012070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c012/tbmm06012fih.pdf",
+      "pages": [
+        "144:145"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 71,
+      "sitting_date": "1940-07-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c013/tbmm06013071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c013/tbmm06013fih.pdf",
+      "pages": [
+        "5:19"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "917920db1c48393e3dc73961073cd3e6640d3d9bca66fa4f886a6af4d44108c0",
+  "in_force": "1940-01-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
