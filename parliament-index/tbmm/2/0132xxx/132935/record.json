@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 132935,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEFSİRLER",
+  "heading_as_published": "Tefsirler",
+  "summary": "Memurin kanununun otuz dokuzuncu maddesinin tefsiri.",
+  "title": "Memurin kanununun otuz dokuzuncu maddesinin tefsiri.",
+  "first_sitting_date": "1927-03-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 30,
+      "sitting": 44,
+      "sitting_date": "1927-03-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c030/tbmm02030044.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c030/ehttbmm02030044.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c030/tbmm02030fih.pdf",
+      "pages": [
+        "128"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 45,
+      "sitting_date": "1927-03-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c030/tbmm02030045.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c030/ehttbmm02030045.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c030/tbmm02030fih.pdf",
+      "pages": [
+        "155:162"
+      ]
+    },
+    {
+      "cilt": 31,
+      "sitting": 59,
+      "sitting_date": "1927-04-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/tbmm02031059.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/ehttbmm02031059.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/tbmm02031fih.pdf",
+      "pages": [
+        "257"
+      ]
+    },
+    {
+      "cilt": 32,
+      "sitting": 66,
+      "sitting_date": "1927-05-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/tbmm02032066.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/ehttbmm02032066.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/tbmm02032fih.pdf",
+      "pages": [
+        "102"
+      ]
+    },
+    {
+      "cilt": 32,
+      "sitting": 67,
+      "sitting_date": "1927-05-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/tbmm02032067.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/ehttbmm02032067.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/tbmm02032fih.pdf",
+      "pages": [
+        "129"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=383&v_gelecek_sayfa=301&v_kullanici_id=27483770",
+  "source_sha256": "828cbce041263c5a5f236d68c0330dea91a78c745b808d04270da46ac4eb6ea9",
+  "in_force": "1927-03-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
