@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5109-252/2780",
+  "source_id": 24684,
+  "date": "2000-01-11",
+  "title": "Kanunla kurulan vakıflardan 29.07.1998 tarihinden önce bankalarda açılmış olan vadeli hesaplara yürütülen faizlere tevkifat uygulanmaması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/24684",
+  "source_sha256": "f51fc625822434b0b0f5191b764d5894af1e7fb7f70dbc079752553006ddb972",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
