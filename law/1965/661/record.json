@@ -1,0 +1,213 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "661",
+  "year": 1965,
+  "title": "Hâkimler Kanununa ek 5017 Sayılı Kanuna bağlı ve 7168 ve 45 Sayılı Kanunlarla değiştirilmiş bulunan cetvelin değiştirilmesine dair Kanun",
+  "adopted": "1965-07-15",
+  "adopted_as_published": "15/07/1965",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.07.1965 No: 12057",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800661.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 48",
+  "committee_reports": [
+    {
+      "label": "MM 933 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042125ss0933.pdf"
+    },
+    {
+      "label": "CS 655no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030116ss0655.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 352527,
+      "title": "Hâkimler Kanununa ek 5017 Sayılı Kanuna bağlı ve 7168 ve 45 Sayılı Kanunlarla değiştirilmiş bulunan cetvelin değiştirilmesine dair Kanun",
+      "adopted_as_published": "15/07/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800661.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 933 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042125ss0933.pdf"
+        },
+        {
+          "label": "CS 655no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030116ss0655.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 28,
+          "sitting": 67,
+          "sitting_date": "1964-03-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028067.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028fih.pdf",
+          "pages": [
+            "478"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 86,
+          "sitting_date": "1965-04-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038fih.pdf",
+          "pages": [
+            "47"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 96,
+          "sitting_date": "1965-04-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038096.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c038/mm__01038fih.pdf",
+          "pages": [
+            "400"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 125,
+          "sitting_date": "1965-06-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042125.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042fih.pdf",
+          "pages": [
+            "38:43"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 126,
+          "sitting_date": "1965-06-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042126.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042fih.pdf",
+          "pages": [
+            "80"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 128,
+          "sitting_date": "1965-06-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042128.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042fih.pdf",
+          "pages": [
+            "93:119"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 129,
+          "sitting_date": "1965-06-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042129.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042fih.pdf",
+          "pages": [
+            "136"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 130,
+          "sitting_date": "1965-06-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042130.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042fih.pdf",
+          "pages": [
+            "167:192"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2201&v_kullanici_id=27483225",
+      "page_sha256": "72502e1956df30c5ef99199dc46917911e8471e14e17fcbaec377d2337359133"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 177296,
+      "title": "Hâkimler Kanununa ek 5017 sayılı Kanuna bağlı ve 7168 ve 45 sayılı kanunlarla değiştirilmiş bulunan cetvelin değiştirilmesine dair Kanun",
+      "adopted_as_published": "15/07/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800661.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 933 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042125ss0933.pdf"
+        },
+        {
+          "label": "CS 655no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030116ss0655.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 29,
+          "sitting": 100,
+          "sitting_date": "1965-06-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029100.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029fih.pdf",
+          "pages": [
+            "2"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 104,
+          "sitting_date": "1965-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029104.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029fih.pdf",
+          "pages": [
+            "293"
+          ]
+        },
+        {
+          "cilt": 30,
+          "sitting": 116,
+          "sitting_date": "1965-07-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030116.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030fih.pdf",
+          "pages": [
+            "432:436"
+          ]
+        },
+        {
+          "cilt": 30,
+          "sitting": 118,
+          "sitting_date": "1965-07-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030118.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030fih.pdf",
+          "pages": [
+            "510",
+            "519:526"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=601&v_kullanici_id=27483235",
+      "page_sha256": "5357870691ec6d0e13bb878c85f5731194f6982d1f16dd56598658fc277237bf"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "72502e1956df30c5ef99199dc46917911e8471e14e17fcbaec377d2337359133",
+  "issuer": "Millet Meclisi",
+  "in_force": "1965-07-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 15/07/1965; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
