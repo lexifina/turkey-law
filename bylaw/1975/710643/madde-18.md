@@ -1,0 +1,1 @@
+Madde 18 – Bakanlık, denetlenecek kooperatif kuruluşlarının durumunu ve denetim konusunu gözönünde tutarak, öncelikle kooperatifin bağlı olduğu üst kuruluşu, kooperatifi kredi bakımından finanse eden ve teknik yardımda bulunan teşekkül ve müesseseleri denetleme ile görevlendirir.
