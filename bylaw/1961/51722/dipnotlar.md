@@ -1,0 +1,1 @@
+[1] Hernekadar, bu tüzüğün dayanağını teşkil eden 91 sayılı Kanun yürürlükten kaldırılmış ise de 223 sayılı Kanun Hükmündeki Kararnamenin geçici 3. maddesi gereğince hazırlanılacak yönetmelikler yürürlüğe girinceye kadar, yürürlüktedir.

@@ -1,0 +1,3 @@
+Komisyonların teşkilatlandırılması:
+Madde 3 – a) 2 nci maddenin b fıkrasında bahiskonusu edilen Komisyon kurulması kararında Komisyon Başkanlık ve Raportörlüğünün veya bunlardan birinin kimler veya hangi daire temsilcileri tarafından yapılacağı belirtilmemiş ise Komisyon ilk toplantısında bir Başkan ve Raportör seçer. Başkan Komisyon faaliyetlerinin tespit edilen esaslar dahilinde yürütülmesinden ve üyelerin kendilerine verilen görevleri yerine getirmelerinin gözetiminden sorumludur.
+b) Komisyon çalışmaları, yazışma, teksir, döküman temini ve muhafazası vesaire gibi sekreterlik hizmetlerine ihtiyaç gösterdiği takdirde bu ihtiyaçlar Komisyon toplantılarının yapıldığı daire veya teşekkül tarafından sağlanır.

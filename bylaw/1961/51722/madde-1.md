@@ -1,0 +1,1 @@
+Madde 1 – Devlet Planlama Teşkilatının Kurulması hakkındaki 30/9/1960 tarihli ve 91 sayılı Kanunun 7 ve 8 inci maddeleri ile 9 uncu maddesinin b fıkrası gereğince teşkil olunacak komisyonların kuruluş ve çalışmaları bu Tüzük hükümlerine tabidir.
