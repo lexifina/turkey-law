@@ -1,0 +1,61 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 377707,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Sendikalar Kanununun bâzı maddelerinin değiştirilmesi ve bu kanuna bir madde ile 31. maddesine bir bend eklenmesi hakkında kanun tasarısı ile Sakarya Milletvekili Hayrettin Uysal ve 16 arkadaşının, 274 sayılı Sendikalar Kanununun 2. maddesinin değiştirilmesi,Yozgat Milletvekili Abdullah Baştürk ile 4 arkadaşının, 274 sayılı Sendikalar Kanununun bâzı maddelerinin değiştirilmesi ve 657 sayılı Devlet Memurları Kanununun 4. maddesinin (e) bendinin kaldırılması, İstanbul Milletvekili Rıza Kuas'ın, 274 sayılı Sendikalar Kanununun bir kısım maddelerinin değiştirilmesi hakkındaki kanun tekliflerine dair (1/194,2/84, 2/140, 2/287)",
+  "title": "Sendikalar Kanununun bâzı maddelerinin değiştirilmesi ve bu kanuna bir madde ile 31. maddesine bir bend eklenmesi hakkında kanun tasarısı ile Sakarya Milletvekili Hayrettin Uysal ve 16 arkadaşının, 274 sayılı Sendikalar Kanununun 2. maddesinin değiştirilmesi,Yozgat Milletvekili Abdullah Baştürk ile 4 arkadaşının, 274 sayılı Sendikalar Kanununun bâzı maddelerinin değiştirilmesi ve 657 sayılı Devlet Memurları Kanununun 4. maddesinin (e) bendinin kaldırılması, İstanbul Milletvekili Rıza Kuas'ın, 274 sayılı Sendikalar Kanununun bir kısım maddelerinin değiştirilmesi hakkındaki kanun tekliflerine dair (1/194,2/84, 2/140, 2/287)",
+  "first_sitting_date": "1970-05-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 80,
+      "sitting_date": "1970-05-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+      "pages": [
+        "716"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 101,
+      "sitting_date": "1970-06-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006101.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006fih.pdf",
+      "pages": [
+        "260:309",
+        "318",
+        "387:390"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 133,
+      "sitting_date": "1970-07-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008133.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+      "pages": [
+        "623",
+        "643:645",
+        "684:685",
+        "694:698"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2001&v_kullanici_id=27484836",
+  "source_sha256": "4a02f972bcfc29177bc17bdaa7b95e96bb6501f3f2a4568d948a5b2869e0edd9",
+  "in_force": "1970-05-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
