@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 11- Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1997-05-17",
+      "17.05.1997",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 11- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "22992",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1997-05-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/1997/10233",
+  "published": "1997-05-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10233&MevzuatTertip=5",
+  "source_bytes": 97331,
+  "source_id": "8.5.10233",
+  "source_sha256": "85163d1fc37436dac1eb359d656f6cdd319a107886d1a2b7708c4f6b0090d663",
+  "text_status": "as-enacted",
+  "title": "ANKARA ÜNİVERSİTESİ TÜRK İNKILÂP TARİHİ ENSTİTÜSÜ ARŞİVİNDEN YARARLANMA USUL VE ESASLARINA AİT YÖNETMELİK",
+  "university_id": 180,
+  "word_count": 1505
+}
