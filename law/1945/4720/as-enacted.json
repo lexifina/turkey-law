@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4720",
+  "year": 1945,
+  "title": "Birleşmiş Krallıkta mamul eşyanın Türkiye'ye ihracına mütaallik garantilere dair munzam Anlaşmanın 5. maddesine bir «f» fıkrası ilâvesi için İngiltere Sefareti ile teati edilen notaların onanması hakkında 'kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-05-04",
+  "gazette_issue": "5997",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5997.pdf",
+  "source_sha256": "a6894a6e35dfb06ee1573c508b841637b45eb600cfb6fa64593e838aa9761388",
+  "text_sha256": "4fa9a6400ef51de7ccdf432c3615a448acfe1020d2889152cb097697720d7572",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      42,
+      61
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704720.pdf",
+    "source_sha256": "123816b5bc6ed543dd5e55bce89d676bb5247e82c7008a5fa53a8e0052e9f6a1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.969,
+    "bag": 0.913,
+    "kd_coverage": 0.9741,
+    "kd_body_compared": 0.9741,
+    "rg_words": 117,
+    "kd_words": 116,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
