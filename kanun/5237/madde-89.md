@@ -16,4 +16,7 @@ d) Yüzünün sürekli değişikliğine,
 e) Gebe bir kadının çocuğunun düşmesine,
 Neden olmuşsa, birinci fıkraya göre belirlenen ceza, bir kat artırılır.
 (4) Fiilin birden fazla kişinin yaralanmasına neden olması hâlinde, altı aydan üç yıla kadar hapis cezasına hükmolunur.
+____________
+(1) Bu fıkrada yer alan “ikinci” ibaresi, 31/3/2005 tarihli ve 5328 sayılı Kanunun 5 inci maddesiyle “üçüncü” şeklinde değiştirilmiş ve metne işlenmiştir.
+(2) Bu madde başlığı “Daha az cezayı gerektiren haller” iken, 31/3/2005 tarihli ve 5328 sayılı Kanunun 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiş, sözkonusu maddenin birinci fıkrası metinden çıkarılmış, ikinci fıkra birinci fıkra olarak teselsül ettirilmiştir.
 (5) Bilinçli taksir hâli hariç olmak üzere, bu maddenin kapsamına giren suçların soruşturulması ve kovuşturulması şikâyete bağlıdır.
