@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4041",
+  "year": 1941,
+  "title": "Şeker ve glikozdan alınan istihlâk vergisinin arttırılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-05-31",
+  "gazette_issue": "4822",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4822.pdf",
+  "source_sha256": "8fed0b37c5065b0324fcd19de3b86525853d04184879709b3bc575e7c32e6488",
+  "text_sha256": "5080f40de5c65831ad058d555fca9ffb5bff21082904673ef1cd3362041c2ece",
+  "text_status": "ocr",
+  "pages": [
+    7
+  ],
+  "line_span": [
+    [
+      1037,
+      1119
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204041.pdf",
+    "source_sha256": "68ed72a390123a66ed9e7dcf6f9d65dc06ec571e611619622642f60f48500982",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9678,
+    "bag": 0.925,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9967,
+    "rg_words": 589,
+    "kd_words": 600,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
