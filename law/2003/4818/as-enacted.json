@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4818",
+  "year": 2003,
+  "title": "Kaçakçılığın Men ve Takibine Dair Kanunun Bir Maddesinde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-03-06",
+  "gazette_issue": "25040",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030306.htm",
+  "source_sha256": "11b8e9690795b024515784278c6f304fda011f297b0a812d291ed92cb71dc389",
+  "text_sha256": "8a57ef07052a78008cd0535a03984db5893d44aea7b022e50bdf881076e4e025",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/03/06/25040-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030306.htm#6",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
