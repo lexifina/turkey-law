@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5144-387-43369",
+  "source_id": 24699,
+  "date": "1997-10-10",
+  "title": "Yapı kooperatifine Götürü usulde vergilendirilen mükellefin yapacağı kira ödemelerinden G. V. tevkifatı mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24699",
+  "source_sha256": "4fb367b3f5d0af9ffff8532d1c6ea68681ab3aba8b902d87e7b2b150e18bcacb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
