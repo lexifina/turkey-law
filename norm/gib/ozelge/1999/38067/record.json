@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5300-3287/37935",
+  "source_id": 38067,
+  "date": "1999-09-09",
+  "title": "Bilanço defteri yerine tutulan işletme defterinin yasal bir defter olması ve süresinde tasdik ettirilmiş bulunması gözönüne alınarak,mal veya hizmeti satanların defterlerine de kaydedilmiş ve süresinde beyan edilmiş olması şartıyla indirim olarak kabul ed",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38067",
+  "source_sha256": "637d167f65d8a005c38e299971e33a0f25ea665e0bd39340e8c430b07741d5e7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
