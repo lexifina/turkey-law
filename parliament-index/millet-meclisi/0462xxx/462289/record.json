@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 462289,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Atatürk Üniversitesi Öğretim Üyeleri ve öğretim yardımcıları kadro kanunu tasarısı (1/329)",
+  "title": "Atatürk Üniversitesi Öğretim Üyeleri ve öğretim yardımcıları kadro kanunu tasarısı (1/329)",
+  "first_sitting_date": "1976-01-29",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 47,
+      "sitting_date": "1976-01-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c014/mm__04014047.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c014/mm__04014fih.pdf",
+      "pages": [
+        "343"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 122,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c019/mm__04019122.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c019/mm__04019fih.pdf",
+      "pages": [
+        "147",
+        "298:300.351",
+        "424:427"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=1301&v_kullanici_id=27484850",
+  "source_sha256": "0b55aa3a460eafbcd543c4c663df7fa689993ae19e00796a4cfd25f0f1e4d49d",
+  "in_force": "1976-01-29",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
