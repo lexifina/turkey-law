@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5374",
+  "year": 1949,
+  "title": "Milli Savunma Bakanlığına bağlı döner sermayeli Hasırcı Çiftliği ve Tay Deposunun arazi, bina, Tesis ve diğer malzemesiyle birlikte Tarım Bakanlığına devri hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-05-03",
+  "gazette_issue": "7197",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7197.pdf",
+  "source_sha256": "4637d2de30f6329fd6d5ec63f5fa444e1d8e263d40691643c90935d44511a552",
+  "text_sha256": "c2f8a9fe9fa003a2968220d974ac3e4b1b67ff3eafaa7cf563d16c2b70beabd5",
+  "text_status": "ocr",
+  "pages": [
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      515,
+      545
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105374.pdf",
+    "source_sha256": "ead6cfc79f868814038093ad7080b66aae6eedca1a936bc0d6e8dddbb06a37dc",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9656,
+    "bag": 0.9101,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9883,
+    "rg_words": 176,
+    "kd_words": 171,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
