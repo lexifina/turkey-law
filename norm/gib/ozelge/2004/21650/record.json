@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.46/4600-73981/019169",
+  "source_id": 21650,
+  "date": "2004-04-30",
+  "title": "Ödevlilerin mağdur olmamaları için kabul edilen bu raporlarla ilgili olarak; vergi indirimine esas tarihin eskiden aldığı rapor tarihi yerine ödevlinin müracaat tarihi olarak uygulanması gerekmektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21650",
+  "source_sha256": "cc7f5664b4b89fdea4b01475086e97b4988bff8548c9ba13cf5765bd635e46ae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
