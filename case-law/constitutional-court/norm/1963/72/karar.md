@@ -1,0 +1,46 @@
+ANAYASA MAHKEMESİ KARARI
+Esas No.:1963/ 7
+Karar No.:1963/72
+Karar tarihi:29/3/1963
+Resmi Gazete tarih/sayı:31.10.1963/11543
+İtirazda bulunan : İzmir 1. Ağır Ceza Mahkemesi
+İtirazın konusu : Türk Parasının Kıymetini Koruma hakkındaki 1567 sayılı kanunun ve tadillerinin, Anayasa'ya aykırı bulunduğu ileri sürülerek iptali istenilmiştir.
+Olay : Arif Canpoyraz'ın, İngiltere'den kalay ithal etmek üzere akreditif açtırıp bedeli karşılığı dövizi peşin olarak transfer ettirdiği halde, 14/11/1958 ve 16/11/1959 günlü taahhütnamelerine rağmen ilk taahhütnamedeki kalaya ve ikinci taahhütnamedeki navlun bedeline ait hesapları zamanında kapatmadığı ileri sürülerek 14 sayılı kararın 72 nci maddesi delaletiyle 1567 sayılı kanunun değişik 3/C maddesi gereğince cezalandırılması isteğiyle hakkında kamu dâvası açılmıştır.
+İzmir Birinci Ağır Ceza Mahkemesinde yapılan yargılama sonunda sanığın beraatine karar verilmiş ve bu karar Yargıtay 3 üncü Ceza Dairesince bozulmuş ve Mahkemece bozmaya uyulmıyarak eski hükümde ısrara karar verilmiştir. Israr kararının temyizi üzerine C. Başsavcılığı tebliğnamesinde (Türk Parası Kıymetini Koruma Mevzuatının Anayasa'ya aykırı olduğunu) ileri sürerek kararın bu sebeple bozulmasını istemiştir.
+Yargıtay Genel Kurulu; henüz Anayasa Mahkemesi faaliyete geçmemiş olduğundan Anayasa'ya aykırılık iddiasının inceleme konusu yapılamıyacağını belirterek kararı başka yönden bozmuştur.
+Tekrar yapılan, duruşmada : Müdahil vekili, Anayasa Mahkemesi işe başlamış olduğundan, C. Başsavcılığının tebliğnamesinde belirtilen Anayasa'ya aykırılık iddiası hakkında bir karar verilmesini mahkemeden İstemiş ve C. Savcısı ile sanık müdafii de bu isteğe uymuşlardır.
+Mahkemece de: 1567 sayılı kanunun Anayasa'ya aykırılığı iddiasının Anayasa'nın 5 ve 33 üncü maddeleri karşısında ciddi olduğu kanısına varıldığından Anayasa'nın 151 inci maddesi gereğince dâvanın geri bırakılmasına ve bu kararla ilgili kâğıt örneklerinin Anayasa Mahkemesine gönderilmesine. 27/12/1962 gününde karar verilmiştir.
+İnceleme : Anayasa Mahkemesi içtüzüğünün 15 inci maddesi gereğince yapılan ilk incelemede; başvurmanın, Anayasa'nın 151 inci ve Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri hakkındaki 22/4/1962 gün ve 44 sayılı kanunun 27 nci maddesine uygun olduğundan esasın incelenmesine dair verilen karar üzerine düzenlenen rapor, mahkeme kararı,ve komisyon raporları ve Meclis müzakere tutanakları ile Anayasa'nın ilgili maddeleri ve bu maddelere ilişkin Anayasa Komisyonu raporu ve Temsilciler Meclisi görüşme tutanakları okunduktan ve Üyelerden Şemsettin Akçoğlu'nun incelemenin itiraz konusu kanunun tümüne teşmili ve Üyelerden Muhittin Gürün'ün görüşmenin bu kanunun 3 üncü maddesi ile l inci maddenin yalnız (Türk Parası Kıymetinin Korunması zımnında kararlar ittihazına icra Vekilleri Heyeti selâhiyetlidir.) seklindeki cümlesine hasredilmesi ve Üyelerden İsmail Hakkı Ülkmen'in 3 üncü maddenin C bendinin olayla ilgili bulunmaması sebebiyle mahkemenin bu konuda Anayasa Mahkemesine itirazda bulunamıyacağı yolundaki görüşlerine aykırı olarak incelemenin bu kanunun olayda uygulanması söz konusu olan 1. ve 3 üncü maddelerine hasrı kararlaştırıldıktan sonra gereği görüşülüp düşünüldü:
+İtiraz konusu 1567 sayılı kanunun 6258 sayılı kanunla değişik l inci maddesinde:
+(Kambiyo, nukut, esham ve tahvilât alım ve satımının ve bunlarla kıymetli madenler ve kıymetli taşlarla bunlardan mamul veya bunları muhtevi her nevi eşya ve kıymetlerin ve ticari senetlerle tediyeyi temine yarayan her türlü vasıta ve vesikaların memleketten ihracı veya memlekete ithalinin tanzim ve tahdidine ve Türk Parasının Kıymetinin Korunması zımnında kararlar ittihazına İcra Vekilleri Heyeti selâhiyetlidir.) hükmü yer almakta ve aynı kanunun 6258 sayılı kanunla değişik 3 üncü maddesi de ceza hükümlerini kapsamaktadır.
+Dâva; sanığın 3 üncü maddenin (C) bendi gereğince cezalandırılması isteminden ibaret olduğuna göre bu maddede olayda uygulama yeri bulunmayan tüzel kişilere ilişkin ceza hükümleri inceleme konusu yapılmamıştır, itiraz konusu 1. ve 3 üncü maddelerin Anayasa'ya aykırılığı iddiası; Anakara 3 üncü Asliye ceza Mahkemesinin itiraz yoluyla baş vurması üzerine daha önce mahkememizce incelenerek yerinde görülmemiş ve itiraz 28/3/1963 gün ve 4/71 sayılı kararla reddedilmiştir. Sözü edilen kararda, 1. ve 3 üncü maddelerin Anayasa'nın 5. ve 33 üncü maddelerine aykırı olmadığı gerekçeleri gösterilmek suretiyle etraflı bir şekilde açıklanmış ve bu görüşü değiştirecek yeni bir durum mevcut bulunmamıştır. İşbu itirazın reddi gerekir.
+Sonuç :
+1- 1567 sayılı kanunun l inci maddesinin Anayasa'ya aykırı olmadığına, Üyelerden Rifat Göksu, İsmail Hakkı Ülkmen, Şemsettin Akçoğlu, İbrahim Senil ve Celâlettin Kuralmen'in maddenin tümünün, Muhittin Gürün'ün de sadece (... ve Türk Parasının Kıymetinin Korunması zımnında kararlar ittihazına İcra Vekilleri Heyeti selâhiyetlidir. ...) şeklinde ki cümlesinin Anayasa'ya aykırı olduğu yolundaki muhalefetleri ile ve oyçokluğu ile;
+2- 1567 sayılı kanunun olayda uygulanması söz konusu olan 3 üncü maddesinin C bendinin gerçek kişilere ilişkin hükmünün de Anayasa'ya aykırı olmadığına, Üyelerden Rifat Göksu, Celâlettin Kuralmen'in kararnamelerle suç ihdasının Anayasa'ya aykırı olduğu ve İsmail Hakkı Ülkmen'in de sözü geçen C bendinin olayla ilgisi bulunmaması sebebiyle mahkemenin bu konuda Anayasa Mahkemesine itirazda bulunamıyacağı yollu muhalefetleri ile ve oyçokluğu ile;
+29/3/1963 gününde karar verildi.
+Başkan Sünuhi Arsan | Başkanvekili Tevfik Gerçeker | Üye Rifat Göksu | Üye İ. Hakkı Ülkmen
+Üye Lütfi Akadlı | Üye Şemsettin Akçoğlu | Üye İbrahim Senil | Üye İhsan Keçecioğlu
+Üye Salim Başol | Üye Celâlettin Kuralmen (Muhalefet Şerhi İlişiktir) | Üye Hakkı Ketenoğlu | Üye Ahmet Akar
+Üye Muhittin Gürün (muhalefet şerhi eklidir) | Üye Lütfi Ömerbaş | Üye Ekrem Tüzemen
+MUHALEFET ŞERHİ
+İptali istenen, 1567 sayılı kanunun birinci maddesi ile, yasama yetkisi yürütme organına devredilmiş ve 3 üncü maddenin C bendi ile de kararnamelerle suç ihdasına imkân verilmiştir.
+Aynı konuya ait mahkememizin esas 1963/4 ve karar 1963/71 sayılı ve 28/3/1963 günlü kararı altındaki muhalefet şerhinde açıkladığımız sebeplere göre 1567 sayılı kanunun l inci maddesi ile 3 üncü maddesinin C bendi Anayasa'ya aykırı olduğundan iptali gerekeceği reyi ile ekseriyet kararına muhalifim.
+ |  |  |  | Üye Rifat Göksu
+MUHALEFET ŞERHİ
+Dâva konusu olan Türk Parasının Kıymetini Koruma hakkındaki 1567 sayılı kanunun, 6258 sayılı kanunla değiştirilen l inci maddesinin (... ve Türk Parasının Kıymetinin korunması zımnında kararlar ittihazına) İcra Vekilleri Heyetini yetkili kılan hükmü; yasama yetkisinin yürütme organına devri niteliğinde olduğundan Anayasa'nın 5 inci maddesine aykırı olup iptali gerekir.
+Bu konuya ilişkin düşüncelerim; sözü geçen kanunun Anayasa'ya aykırı bulunduğu iddiasiyle açılmış olan diğer bir dâva dolayısiyle Anayasa Mahkemesince verilen 28/3/1963 günlü ve 1963/4 - 1963/71 sayılı karara ait muhalefet şerhinde daha geniş bir surette açıklanmıştır.
+Bu sebeplerle kararın bu fıkraya ilişkin kısmına muhalifim.
+ |  |  |  | Üye Muhittin Gürün
+MUHALEFET ŞERHİ
+Mahkemenin 1963/4 esas ve 1963/71 karar sayılı ve 28/3/1963 tarihli kararının iştirak etmiş olduğum aynı konuya ilişkin muhalefet şerhinde açıklanmış bulunan sebeplerle 1567 sayılı kanunun "l" inci maddesi ile "3" üncü maddesinin "C" bendinin Anayasa'ya aykırı olduğu düşüncesinde bulunduğumdan bu cihetten çoğunluk kararına muhalifim.
+ |  |  |  | Üye Celâlettin Kuralmen
+MUHALEFET ŞERHİ
+Mahkememizin 1963/4 esas ve 1963/71 karar sayılı ve 28/3/1953 günlü kararına ilişkin muhalefet şerhinde açıkladığımız yönlerden ve aynı sebeplerle çoğunluk kararına muhalifiz.
+Üye Şemsettin Akçoğlu | Üye İ. Senil
+MUHALEFET ŞERHİ
+1- İzmir Birinci Ağır Ceza Mahkemesince Anayasa'ya aykırılığı ileri sürülmüş olan Türk Parası Kıymetini koruma hakkındaki 1567 sayılı kanunun 6258 sayılı kanunla değişik l ve 3 üncü maddelerinin Anayasa'nın 5 ve 33 üncü maddelerine aykırı olduğu hakkında aynı konuya ilişkin esas 1963/4 ve karar 1963/71 sayılı ve 28/3/1963 tarihli karara yazdığım muhalefet şerhinde açıkladığım sebepler bu karar hakkında da aynen varittir.
+2- Bundan başka olayda yukarıda yazılı kanunun değişik 3 üncü maddesinin C bendinin uygulama yeri yoktur. Zira bu bent Türkiye'den yabancı memleketlerdeki şahıs ve firmalara bir mal satmak veya bir hizmet ifa etmek gibi bir sebeple Türkiye dışında tekevvün eden döviz alacaklarını birinci madde gereğince ısdar edilecek kararlar hükümleri dairesinde ve mezkûr kararlarda belirtilen süreler içinde yurda getirmeyenler hakkında uygulanabilir.
+Halbuki olayda bahis konusu olan aykırılık, mal ithali için döviz transferi yaptıran bir şahsın, bu döviz karşılığında ithal edeceği malı taahhüt ettiği süre içinde ithal ederek hesabını kapatmamasından ibaret olup dışarıda döviz alacağı tekevvünü ile ilgili olmadığından olaya ancak 3 üncü maddenin A bendi uygulanabilir.
+Anayasa'nın 151 inci ve 4 4sayılı kanunun 27 nci maddesi gereğince mahkemeler ancak bir dâvada uygulayacakları kanun hükmünün Anayasa'ya aykırılığı iddiasiyle Anayasa Mahkemesine başvurabilirler. Olayda bu durum mevcut olmadığına göre 3/C maddesine ait itirazın bu sebeple reddi gerekmektedir.
+Yukarıda açıklanan sebeplere binaen çoğunluk kararına muhalifim.
+ |  |  |  | Üye İ. Hakkı Ülkmen
