@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.4648",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MALİYE BAKANLIĞI GELİRLER GENEL MÜDÜRLÜĞÜ, VERGİ İSTİHBARAT UZMANLIĞI GÖREV, YETKİ, ÇALIŞMA VE ATAMA YÖNETMELİĞİ",
+  "number": "4648",
+  "issuer": "Maliye Bakanı",
+  "issuer_slug": "maliye-bakani",
+  "path": "regulation/maliye-bakani/1997/4648",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4648&MevzuatTertip=5",
+  "source_sha256": "d8d688711e342446aad5b808183244e4e2bd14f7905fbbf5117ec07b63c6441b",
+  "source_bytes": 82093,
+  "published": "1997-01-10",
+  "gazette": "22873",
+  "in_force": "2002-12-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/12/2002\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2002-12-14",
+      "RG-14/12/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2001-07-20",
+      "RG-20/07/2001",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2933,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
