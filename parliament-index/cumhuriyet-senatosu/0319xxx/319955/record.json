@@ -1,0 +1,124 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 319955,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Anayasa Mahkemesine Yasama Meclislerinden seçilecek asıl ve yedek üyelikler için adaylığa başvurma, seçim esas ve usulü hakkında kanun tasarısı hakkında (Millet Meclisi:1/591; Cumhuriyet Senatosu:1/71) (S. Sayısı:93)",
+  "title": "Anayasa Mahkemesine Yasama Meclislerinden seçilecek asıl ve yedek üyelikler için adaylığa başvurma, seçim esas ve usulü hakkında kanun tasarısı hakkında (Millet Meclisi:1/591; Cumhuriyet Senatosu:1/71) (S. Sayısı:93)",
+  "first_sitting_date": "1972-04-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 50,
+      "sitting_date": "1972-04-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004050.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004fih.pdf",
+      "pages": [
+        "267"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 56,
+      "sitting_date": "1972-05-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004056.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004fih.pdf",
+      "pages": [
+        "413",
+        "435:436"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 57,
+      "sitting_date": "1972-05-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004057.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004fih.pdf",
+      "pages": [
+        "444:454"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 58,
+      "sitting_date": "1972-05-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004fih.pdf",
+      "pages": [
+        "462:483"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 59,
+      "sitting_date": "1972-05-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004fih.pdf",
+      "pages": [
+        "489:492"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 60,
+      "sitting_date": "1972-05-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004fih.pdf",
+      "pages": [
+        "502"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 65,
+      "sitting_date": "1972-06-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004fih.pdf",
+      "pages": [
+        "645"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 65,
+      "sitting_date": "1972-06-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004fih.pdf",
+      "pages": [
+        "645",
+        "677:688"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 66,
+      "sitting_date": "1972-06-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c004/cs__11004fih.pdf",
+      "pages": [
+        "677:688"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=3501&v_kullanici_id=27484903",
+  "source_sha256": "f9c0848cdfaafc201f1e863e6e54f50bac5bd80e53db2397f709f51e2bc8b9f7",
+  "in_force": "1972-04-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
