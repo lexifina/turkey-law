@@ -1,0 +1,12 @@
+Diğer istisnalar
+MADDE 7 - Bu Kanuna ekli;
+1. (I) sayılı listede yer alan malların;
+a) Milli Savunma Bakanlığı, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve Milli İstihbarat Teşkilâtının ihtiyacı için bu kuruluşlara veya bunların gerek göstermeleri üzerine ve işlemlerin bu kuruluşlar adına yapılması koşuluyla akaryakıt ikmalini yapanlara teslimi,
+b) 6326 sayılı Petrol Kanunu hükümlerine göre petrol arama ve istihsal faaliyetlerinde kullanılmak üzere bu faaliyetleri yapanlara teslimi,
+2. (II) sayılı listedeki kayıt ve tescile tâbi mallardan, münhasıran aracı sakatlığına uygun hareket ettirici özel tertibatı bulunanların malûl ve sakatlar tarafından beş yılda bir defaya mahsus olarak bizzat kullanılmak üzere ilk iktisabı,
+3. (II) sayılı listede yer alan mallardan; uçak ve helikopterlerin Türk Hava Kurumu tarafından ilk iktisabı,
+4. (IV) sayılı listedeki 9302.00 ve 93.03 tarife pozisyonunda yer alan malların Milli Savunma Bakanlığı, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı, Milli İstihbarat Teşkilâtı, Emniyet Genel Müdürlüğü ve Gümrükler Muhafaza Genel Müdürlüğüne teslimi veya bunlar tarafından ithali,
+5. (IV) sayılı listede yer alan malların genel ve katma bütçeli dairelere, il özel idarelerine, belediyelere, köylere ve bunların teşkil ettikleri birliklere bedelsiz teslimi veya bunlar tarafından bedelsiz olarak ithali,
+6. Kanuna ekli listelerdeki mallardan 4458 sayılı Gümrük Kanununun 167 nci maddesi [(5)numaralı fıkrasının (a) bendi ile (7) numaralı fıkrası hariç], geçici ithalat ve hariçte işleme rejimleri ile geri gelen eşyaya ilişkin hükümleri kapsamında gümrük vergisinden muaf veya müstesna olan eşyanın ithali (Bu Kanunun 5 inci maddesinde düzenlenen ihracat istisnası ile 8 inci maddesinin (2) numaralı fıkrasında düzenlenen ihraç kaydıyla teslimlerde verginin tecil ve terkin edilmesi uygulamasından yararlanılarak ihraç edilen, ancak 4458 sayılı Gümrük Kanununun 168, 169 ve 170 inci maddelerinde belirtildiği şekilde geri gelen eşyanın ithalat istisnasından faydalanabilmesi için, bu eşya ile ilgili olarak ihracat istisnasından veya tecil-terkin uygulamasından faydalanılan miktarın gümrük idaresine ödenmesi veya bu miktar kadar teminat gösterilmesi şarttır.),
+7. 4458 sayılı Gümrük Kanununun transit, gümrük antrepo, dahilde işleme, gümrük kontrolü altında işleme rejimlerine tâbi tutulanlar ile serbest bölgeler ve geçici depolama yerleri hükümlerinin uygulandığı mallar,
+Vergiden müstesnadır.
