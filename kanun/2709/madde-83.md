@@ -3,4 +3,4 @@ Seçimden önce veya sonra bir suç işlediği ileri sürülen bir milletvekili,
 Türkiye Büyük Millet Meclisi üyesi hakkında, seçiminden önce veya sonra verilmiş bir ceza hükmünün yerine getirilmesi, üyelik sıfatının sona ermesine bırakılır; üyelik süresince zamanaşımı işlemez.
 Tekrar seçilen milletvekili hakkında soruşturma ve kovuşturma, Meclisin yeniden dokunulmazlığını kaldırmasına bağlıdır.
 Türkiye Büyük Millet Meclisindeki siyasi parti gruplarınca, yasama dokunulmazlığı ile ilgili görüşme yapılamaz ve karar alınamaz.
-5. Üyeliğin düşmesi
+5. Milletvekilliğinin düşmesi (1)

@@ -35,3 +35,16 @@ Madde 4 — Türkiye Cumhuriyeti Anayasasının Geçici 4 üncü maddesi yürür
 Bu hükmün, onaylanarak yürürlüğe girebilmesi için halkoyuna sunulması zorunlu olup halkoylaması, Anayasanın 175 inci maddesinin bu Kanunla değişik hükümlerine göre yapılır.
 Yürürlük
 Madde 5 — Bu Kanunun ikinci maddesi ile Anayasanın 75 inci maddesinde yapılan değişiklik ilk milletvekili genel seçiminde, diğer maddeleri ise bu Kanunun yayımı tarihinde yürürlüğe girer.
+2- 23/7/1995 tarihli ve 4121 sayılı Kanunun 16 ncı maddesi:
+Madde 16 – Bu Kanunun halkoylamasına sunulması halinde,
+1 inci maddesi,
+2, 3, 13 ve 15 inci maddeleri birlikte,
+4 üncü maddesi,
+5 inci maddesi,
+6, 7 ve 14 üncü maddeleri birlikte,
+8 inci maddesi ve 17 nci maddesinin ilk fıkrası birlikte,
+9 ve 10 uncu maddeleri birlikte,
+11 inci maddesi,
+12 nci maddesi,
+Ayrı ayrı oylanır.
+Halkoylaması, ilk milletvekili genel seçimi ile birarada yapılır.
