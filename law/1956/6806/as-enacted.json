@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6806",
+  "year": 1956,
+  "title": "Temsil ödeneği Kanununun birinci maddesine bir fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-07-24",
+  "gazette_issue": "9363",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9363.pdf",
+  "source_sha256": "cf0dfd8465fb5f71032b763409e8726db5fd306ee4ff6db5703fdd3fc9bfc51a",
+  "text_sha256": "71dcf663db9ae849f2a295544e5baff50ea0693ca40e7dbb49495d3bda298958",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      25
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806806.pdf",
+    "source_sha256": "ee77ca12a0d7e4087f451af7dfdc80ec84718df46486614f4497e0ed5e8fc786",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9517,
+    "bag": 0.8515,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.963,
+    "rg_words": 49,
+    "kd_words": 54,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
