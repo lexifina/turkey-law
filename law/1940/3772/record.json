@@ -1,0 +1,73 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3772",
+  "year": 1940,
+  "title": "58 917 000 liralık fevkalâde tahsisat verilmesi hakkındaki 3628sayılı kanuna ek kanun",
+  "adopted": "1940-01-17",
+  "adopted_as_published": "17/01/1940",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "25.01.1940 No: 4416",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103772.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 21",
+  "committee_reports": [
+    {
+      "label": "TBMM 56 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c008/tbmm06008026ss0056.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96234,
+      "title": "58 917 000 liralık fevkalâde tahsisat verilmesi hakkındaki 3628sayılı kanuna ek kanun",
+      "adopted_as_published": "17/01/1940",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103772.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 56 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c008/tbmm06008026ss0056.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 8,
+          "sitting": 25,
+          "sitting_date": "1940-01-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c008/tbmm06008025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c008/tbmm06008fih.pdf",
+          "pages": [
+            "62"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 26,
+          "sitting_date": "1940-01-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c008/tbmm06008026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c008/tbmm06008fih.pdf",
+          "pages": [
+            "68",
+            "78",
+            "93:96"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "f15a5671fc667e191e72d3ae85666559809efb3effef55607c685f24c613ad56"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "f15a5671fc667e191e72d3ae85666559809efb3effef55607c685f24c613ad56",
+  "issuer": "TBMM",
+  "in_force": "1940-01-17",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 17/01/1940; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
