@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4066-632/56147",
+  "source_id": 37881,
+  "date": "2001-10-18",
+  "title": "Gerçek kişi ortaklar tarafından karın sermayeye ilavesi suretiyle elde edilen kar paylarının menkul sermaye iradı olarak beyanı gerekmemektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37881",
+  "source_sha256": "702395702de7af4905fa557bc362d44f1b26aec5f15d8d02ff91da7006a5bc1a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
