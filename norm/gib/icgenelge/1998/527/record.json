@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "",
+  "source_id": 527,
+  "date": "1998-12-03",
+  "title": "MOTORLU TAŞITLAR VERGİSİ İÇ GENELGESİ SERİ NO 1998/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/icgenelge/527",
+  "source_sha256": "20c9b52c39d56439bb2a523c48f37044c6f342778ba2c5ada0d6c0ff6f4eaa54",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
