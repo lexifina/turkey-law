@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2680",
+  "year": 1935,
+  "title": "Jandarma umum kumandanlığı 1934 malî yılı bütçesinin 426. faslında yapılacak değişiklik hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-04-06",
+  "gazette_issue": "2970",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2970.pdf",
+  "source_sha256": "fd6e9e62c1c018240c4c398f8ad8e596137c5175c640f00be00c4b7d18b626b0",
+  "text_sha256": "495726b20da42d6138bcf83fee97f4fe2539ffc2e11260e26afcc042c9cec948",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      51
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502680.pdf",
+    "source_sha256": "95da12e8aa771f4f1d5aebace7ae80efff98bb47654ad4a5b2dd20cc5139d3a1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9345,
+    "bag": 0.9073,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9375,
+    "rg_words": 100,
+    "kd_words": 112,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
