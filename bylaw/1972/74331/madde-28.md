@@ -1,0 +1,1 @@
+Madde 28 – 10 Haziran 1930 tarihli ve 1705 sayılı Kanun ile bu Kanuna ek 3018 sayılı Kanuna dayanılarak düzenlenen ve Danıştayca incelenen bu Tüzük hükümleri, Resmi Gazete ile yayımı tarihinden 6 ay sonra gelen ilk Ağustos ayının birinci günü yürürlüğe girer,

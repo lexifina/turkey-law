@@ -1,0 +1,2 @@
+Madde 8 – Pamuk çırçır - prese fabrikalarında; makinalara pamuk sevk aspiratörü ve rutubet ölçme aleti ile pamuğu temizleyici, rutubetlendirici, kurutucu ve pamuğun iyi çırçırlanmasını ve işlenmesini temin edecek yedirici cihazlardan veya bunların benzerlerinden gerekli görülenlerin bulundurulması hakkında, Tarım Bakanlığı ile Ticaret, Sanayi ve Tarım Odalarının mütalaalarını da almak suretiyle bir karar almaya, Ticaret Bakanlığı yetkilidir.
+Bu kararın hangi tarihte yürürlüğe gireceği kararda belirtilir.

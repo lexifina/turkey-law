@@ -1,0 +1,1 @@
+Madde 9 – Aynı fabrikada rollergin, sawgin ve lintergin makinalarının bulunması halinde, cinslerine göre, makinalarla preselerinin fabrikanın ayrı binalarında veya aynı binanın ayrılmış bölümlerinde bulundurulması zorunludur.

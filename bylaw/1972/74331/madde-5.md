@@ -1,0 +1,2 @@
+Madde 5 – Pamuk çırçır - prese fabrikaları ile linter ve prese fabrikaları işletenler, Ticaret Bakanlığınca tespit edilen her kontrol mevsiminde ve işletmeye başlamadan en az bir hafta önce, Pamukların Kontroluna Dair Tüzüğün 3 üncü maddesi hükmüne göre bağlı bulundukları pamuk kontrol merkezine, örneği Ticaret Bakanlığınca saptanacak bir bildirgeyle, çalışmaya başlıyacaklarını bildirirler.
+Çalışma dönemi içinde meydana gelen değişiklikler ile çalışma döneminin sona erdiği tarih kontrol merkezine ayrıca bildirilir.
