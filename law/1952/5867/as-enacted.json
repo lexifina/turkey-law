@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5867",
+  "year": 1952,
+  "title": "Muamele Vergisi Kanununun 9 ncu Maddesine Bir Fıkra Eklenmesine ve 89 ncu Maddesinin 6 ncı Fıkrasının Değiştirilmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-02-05",
+  "gazette_issue": "8026",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8026.pdf",
+  "source_sha256": "c13d561c7b29093f1829a07942ae792d3c68355eb027c430b664f6c814a48f78",
+  "text_sha256": "53e4a49635c1a54a2d5dd20ebe5ff4094ca07090e9086e0604e05de317aa0c2f",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      475,
+      491
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405867.pdf",
+    "source_sha256": "3300da12bd555f0cf4e6621593352d5d21781ca9c07405eae3cc25fe07964741",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9628,
+    "bag": 0.8667,
+    "kd_coverage": 0.9783,
+    "kd_body_compared": 0.9783,
+    "rg_words": 90,
+    "kd_words": 92,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
