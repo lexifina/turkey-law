@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/1004",
+  "list_number": "1004",
+  "decision_date": "1999-04-29",
+  "title": "YSK ilke kararı 1999/1004",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4650/1999-1004-karar.htm",
+  "source_sha256": "c01def4a49c1f28d7d3bfe5f9f1bb2c3acdcf5ced45b1c4a2c2632948d5828d9",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-04-29",
+  "law_text_complete": false
+}
