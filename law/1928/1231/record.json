@@ -1,0 +1,127 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1231",
+  "year": 1928,
+  "title": "1928 senesi Muvazenei Umumiye Kanunu",
+  "adopted": "1928-05-03",
+  "adopted_as_published": "03/05/1928",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "08.05.1928 No: 883",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc006/kanuntbmmc006/kanuntbmmc00601231.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 6",
+  "committee_reports": [
+    {
+      "label": "TBMM 110 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003062ss0110.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120035,
+      "title": "1928 senesi Muvazenei Umumiye Kanunu",
+      "adopted_as_published": "03/05/1928",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc006/kanuntbmmc006/kanuntbmmc00601231.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 110 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003062ss0110.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 62,
+          "sitting_date": "1928-04-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003062.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/ehttbmm03003062.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003fih.pdf",
+          "pages": [
+            "151:166"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 63,
+          "sitting_date": "1928-04-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003063.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/ehttbmm03003063.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003fih.pdf",
+          "pages": [
+            "175:193"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 64,
+          "sitting_date": "1928-04-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003064.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/ehttbmm03003064.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003fih.pdf",
+          "pages": [
+            "196",
+            "223"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 65,
+          "sitting_date": "1928-04-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003065.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/ehttbmm03003065.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003fih.pdf",
+          "pages": [
+            "226:253"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 66,
+          "sitting_date": "1928-04-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003066.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/ehttbmm03003066.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003fih.pdf",
+          "pages": [
+            "258:279"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 68,
+          "sitting_date": "1928-04-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003068.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/ehttbmm03003068.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003fih.pdf",
+          "pages": [
+            "330:344"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 69,
+          "sitting_date": "1928-04-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003069.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/ehttbmm03003069.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003fih.pdf",
+          "pages": [
+            "346:360"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "a0d5c6f8bbb70702bea9b127d501abc25664add8a8a9e7714cdbe8dde4058a53"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a0d5c6f8bbb70702bea9b127d501abc25664add8a8a9e7714cdbe8dde4058a53",
+  "issuer": "TBMM",
+  "in_force": "1928-05-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 03/05/1928; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
