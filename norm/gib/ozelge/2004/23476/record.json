@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-2108/31343",
+  "source_id": 23476,
+  "date": "2004-07-02",
+  "title": "Yabancı uyruklu personel statüsünde görev yapan ve ücretleri gerçek usulde vergilendirilen öğretim elemanları da söz konusu harcamaları dolayısıyla özel gider indirimi uygulamasından yararlanabileceklerdir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23476",
+  "source_sha256": "67831b59f73d7fbdf9e7416894a178de66819db38e224c96c1ed3b287d54d429",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
