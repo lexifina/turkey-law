@@ -1,0 +1,2 @@
+Merkez Yönetim Kurulu
+Madde 7 — Merkez Yönetim Kurulu beş kişiden oluşur ve Merkez Müdürü'nün başkanlığında, Merkez Müdürü'nün seçeceği bir Merkez Müdür Yardımcısı, Yerbilimleri Uygulama ve Araştırma Merkezi Müdürü, Jeoloji Mühendisliği Bölüm Başkanı, Hidrojeoloji Mühendisliği Anabilim Dalı Başkanından oluşur. Çift görevlendirmeler nedeniyle eksik kalan üyelikler, Müdür' ün önereceği elemanlar arasından, Rektör' ce yapılan atamalarla tamamlanır.

@@ -1,0 +1,3 @@
+Merkez Müdürü
+Madde 6 — Atanması: Merkez Müdürü, Merkez kapsamına giren bölümlerde görevli öğretim üyeleri arasından, Rektör tarafından üç yıl için atanır. Süresi biten Merkez Müdürü tekrar atanabilir. Merkez Müdürü'nün, kendisine çalışmalarına yardıma olmak üzere, Merkez kapsamına giren bölümlerin öğretim üyeleri ve yardımcıları arasından üç yıl için atayacağı en çok iki yardımcısı bulunur. Merkez Müdürü gerektiğinde yardımcılarını değiştirebilir. Merkez Müdürü'nün görevi sona erdiğinde yardımcılarının görevleri de sona erer.
+Merkez Müdürü'ne vekalet etmede veya müdürlüğün boşalmasında yapılacak işlem Dekanlarda olduğu gibidir.
