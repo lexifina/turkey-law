@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 388062,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Hacettepe Üniversitesi 1971 yılı Bütçe Kanununa bağlı (B) işaretli cetvelde değişiklik yapılması hakkında kanun tasarısı ve Bütçe Karma Komisyonu raporuna dair (1/574)",
+  "title": "Hacettepe Üniversitesi 1971 yılı Bütçe Kanununa bağlı (B) işaretli cetvelde değişiklik yapılması hakkında kanun tasarısı ve Bütçe Karma Komisyonu raporuna dair (1/574)",
+  "first_sitting_date": "1972-01-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 31,
+      "sitting_date": "1972-01-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020fih.pdf",
+      "pages": [
+        "405"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 35,
+      "sitting_date": "1972-02-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020fih.pdf",
+      "pages": [
+        "483",
+        "525"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 36,
+      "sitting_date": "1972-02-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020fih.pdf",
+      "pages": [
+        "556",
+        "601"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2501&v_kullanici_id=27484836",
+  "source_sha256": "cea96686c381a154359b5e6a1860df6517dc5a8cf1c5eb251d256919f85ea45f",
+  "in_force": "1972-01-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
