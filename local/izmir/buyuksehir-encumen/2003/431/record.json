@@ -1,0 +1,22 @@
+{
+  "number": "431",
+  "number_as_published": "431",
+  "year": 2003,
+  "title": "Encümen kararı 2003/431",
+  "decision_date": "2003-08-19",
+  "source": "https://www.izmir.bel.tr/tr/Encumen/TariheGoreKararGetir?draw=1&start=0&length=500&yil=2003&ay=&gun=&txtSozcuk=",
+  "official_document": null,
+  "source_sha256": "ce52ba94f24efd7f4e2e542c90735c8869f7b2c4fbd6c560cd7fb101756c24ae",
+  "issuer": "İzmir Büyükşehir Belediye Encümeni",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2003-08-19",
+  "in_force_basis": "Decision date as printed in the official council listing: 19/08/2003; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.izmir.bel.tr/tr/EncumenKararlari/50"
+}
