@@ -1,0 +1,1 @@
+Madde 375 – Badem şekerinde badem nispeti % 45 ten, şeker nispeti % 43 ten az, şeker tabakasının nispeti % 55 ten fazla, ve vanilyalı badem şekerinde de badem nispeti % 30 dan az ve şeker tabakasının nispeti de % 66 dan fazla olmamalı ve yaldızlı draje çeşitlerinde kullanılacak kalay ve alüminyum tamamiyle saf bulunmalıdır.

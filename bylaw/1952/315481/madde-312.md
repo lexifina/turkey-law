@@ -1,0 +1,2 @@
+Madde 312 – (Değişik: 27/10/1972 - 7/5274 K.)
+Su miktarı yufkada % 43 ü yassı kadayıfta % 45 i, tel kadayıfta % 26 yı geçmemelidir. Yufkalarda tuz miktarı kuru maddede % 2 yi, diğerlerinde % 1,5 u ve tuzsuz kül miktarı yapıldığı un nevindeki kül miktarını geçemez. Külün % 10 luk asit klorhidrikte erimeyen kısmı % 0,10 u geçmemelidir. Suya geçen asiditesinin tadili için 100 grama 7,5 santimetre küpten fazla normal kalevi solüsyonu sarf edilmemelidir.

@@ -1,0 +1,1 @@
+Madde 97 – Rafine hayvan yağlarının içine imal esnasında % 2 nispetinde patates nişastası ilavesi mecburidir. Rafine hayvan yağlarının içindeki saf yağmiktarı % 95 ten aşağı olmıyacaktır. Bu yağlara diğer başka bir yağ veya zararsız da olsa her türlü kimyevi maddeler katılması ve boyanması yasaktır.

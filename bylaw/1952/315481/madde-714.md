@@ -1,0 +1,1 @@
+Madde 714 – 11/8/1942 tarih ve 2-18542 sayılı Bakanlar Kurulu karariyle yürürlüğe konmuş olan gıda maddelerinin ve umumi sıhhati ilgilendiren eşya ve levazımın hususi vasıflarını gösteren Nizamname kaldırılmıştır.

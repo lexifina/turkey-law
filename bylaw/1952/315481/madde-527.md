@@ -1,0 +1,1 @@
+Madde 527 – Distile alkollü içkiler, berrak olacak, renk, koku ve tadları normal bulunacaktır. İmallerinde kullanılan ilk maddeler bozuk veya avarya olmalarında veya başka herhangi hir sebepten dolayı görünüş; koku ve tadları anormal bulunanlar ve kirlenmiş olanlar içki olarak satılamazlar.

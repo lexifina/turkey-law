@@ -1,0 +1,2 @@
+Madde 213 – (Değişik: 6/11/1983 - 83/7366 K.)
+Toz yumurtaların ambalajları, cam, teneke, alüminyum, karton, parşömen kağıdı ya da bu Tüzük'ün 680 - 685 inci maddelerinde belirtilen ambalaj maddelerinden hava almayacak biçimde yapılmış kapalı zarflar, kutular ya da paketler halinde olacak; ambalaj üzerine, yapımcı firmanın adı, adresi, varsa tescil edilmiş markası, bileşimi, net miktarı, kullanılan koruma maddesi, son kullanma tarihi okunaklı ve silinmeyecek biçimde yazılacaktır.

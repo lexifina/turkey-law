@@ -1,0 +1,2 @@
+Madde 709 – (Değişik: 21/3/1956 - 4/6999 K.)
+İşbu Nizamname hükümlerine muhalif hal ve harekette bulunanlar işledikleri fiil ve hareketlerinin mahiyetine göre Türk Ceza Kanununa veya hususi kanunlarına nazaran daha ağır bir cezayı istilzam etmediği takdirde Umumi Hıfzıssıhha Kanununun 296 ve 297 nci maddeleri delaletiyle Türk Ceza Kanununun 363, 396 ve 398 inci maddeleri veya Umumi Hıfzıssıhha Kanununun 282 nci maddesi mucibince cezalandırılır.

@@ -1,0 +1,1 @@
+Madde 362 – Nöbet şekeri, ticari şekerin (sakkaroz) tasfiye ve usulüne göre billurlaştırılmasiyle elde edilmiş şekli olup hemen renksiz, şeffaf ve iri billurlar halinde, temiz, toz ve topraksız olmalı ve yabancı maddeler ihtiva etmemelidir.

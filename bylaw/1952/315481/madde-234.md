@@ -1,0 +1,2 @@
+Madde 234 – (Değişik: 27/1/1968 - 6/9470 K.)
+Diyabetlilerin beslenmesine mahsus olarak hazırlanan glüten ekmeği ile esası glüten olan glüten makarnası, glüten şehriyesi, glüten irmiği gibi yiyecekler kapalı ambalajlar içinde satılır. Bu ambalajların üzerine imalatçı firmanın tescil edilmiş markası, adresi ve yiyeceğin net miktarı ile bileşiminde bulunan su, yağ, protein ve karbonhidratın yüzde oranlarının okunaklı ve açık olarak yazılması ve bu nevi yiyeceklerde karbonhidrat oranının benzeri bulunan yiyeceklere göre önemli miktar da düşük olması şarttır.

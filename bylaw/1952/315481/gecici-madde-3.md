@@ -1,0 +1,2 @@
+Geçici Madde 3 – (Ek: 19/6/1979 - 7/17866 K.) Bu Tüzüğün yayımından önce gıda maddeleriyle temasta bulunan plastik maddeleri üretenler, plastiklerin içerdikleri maddeleri, oranlarını ve yapım yerlerini, bu Tüzüğün yayımını izleyen 3 ay içerisinde Sağlık Bakanlığına bildirirler.
+Geçici Madde – (Ek: 13/10/1980 - 8/1770 K.) Bu Tüzüğün yayımından önce satılmakta olan deterjanların yapımcıları, deterjanların içerdikleri maddeleri, oranlarını ve yapım yerlerini, bu Tüzüğün yayımını izleyen 3 ay içersinde Sağlık Bakanlığına bildirirler.

@@ -1,0 +1,1 @@
+Madde 8 – Bu Tüzükte geçen (asidite derecesi), ilgili bahislerinde ayrıca bir kayıt ve sarahat bulunmadıkça, Türk Kodeksin de beyan edildiği gibi 100 gram maddede mevcut serbest asidi tadil etmek için sarfı iktiza eden normal kalevinin cm3, adedi demektir.

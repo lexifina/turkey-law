@@ -1,0 +1,2 @@
+Madde 273 – (Değişik: 27/10/1972 - 7/5274 K.)
+Ekstra - ekstra unun bir santimetre karede 900 deliği bulunan 6 numaralı elek üstünde bıraktığı kepek ve irmikten ibaret elek kalıntısı; % 1 den, kül miktarı kuru maddede % 0,650 den, külün % 10 luk klorhidrik asitte erimeyen kısmı % 0,10 dan, serbest asiditesi % 0,04 ten fazla, kuru glüten miktarı % 9 dan az olmamalı; glüteni yaş iken açık renkte ve tamamen elastiki olmalıdır.

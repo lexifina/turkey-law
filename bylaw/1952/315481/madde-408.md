@@ -1,0 +1,1 @@
+Madde 408 – Pekmez ve bulamalara hariçten şeker, glikoz ve her nevi muhafaza maddeleri, yabancı ve ağırlaştırıcı maddeler katılması yasaktır. Bulamalara sanat icabı olarak bir miktar yumurta sarısı ve akı katılması caizdir.

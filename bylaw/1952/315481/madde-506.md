@@ -1,0 +1,2 @@
+Madde 506 – (Değişik: 21/3/1956 - 4/6999 K.)
+Şarapların ve diğer bütün alkollü içkilerin imalinde, fermantasyon, muhafaza ve nakillerinde ve satışlarında kullanılacak her türlü kablar ve kapakları, alat ve vasıtalar; kurşun, çinko, bakır veya 1 den fazla kurşunu havi bir halitadan veya kadmiyum ve halitalarından veya sağlığa zararlı olabilen veya içkilerin vasıflarını bozan maddelerden yapılmış olmaması ve bu içki maddelerini her türlü kirlenmelere karşı tamamiyle koruması şarttır.

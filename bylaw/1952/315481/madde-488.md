@@ -1,0 +1,3 @@
+Madde 488 – (Değişik: 21/3/1956 - 4/6999 K.)
+Çerez (Dessert) veya likör şarapları: Fermantasyon sonunda hacmen % 13 alkol husule getirebilecek olan; + 20 C° de en az 1095 dansiteli (12,5 bome) yaş üzüm şırasına fermantasyon esnasında alkol ve icabında mistel veya taze üzüm pekmezi katılmak suretiyle yapılan şaraplara denir. İlave edilecek alkol, tercihan şaraptan; pekmez ise vakum ile elde edilmiş olmalıdır. Bu maksatla hacmen en çok % 7,5 a kadar alkol ilave edilebilir.
+Bu tip şarapların alkol miktarı, memleket içinde istihlak edilenlerin de + 20 C° de hacmen en çok % 17,5 ve litresinde en az 50 gram mürci şeker bulunacaktır.

@@ -1,0 +1,1 @@
+Madde 715 – 1593 sayılı Umumi Hıfzıssıhha Kanununun 199 uncu maddesi mucibince tanzim ve Danıştayca tetkik edilmiş olan bu Tüzük hükümleri Resmi Gazete'de basıldığı tarihten itibaren 45 gün sonra yürürlüğe girer.

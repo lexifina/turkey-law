@@ -1,0 +1,1 @@
+Madde 554 – Kafeinsiz veya kafeini az kahve ismiyle satılan kahvelerde suda münhal hulasa miktarı % 20 den aşağı, rutubet miktarı % 8 den fazla olmamalı ve zararsız da olsa hiç bir yabancı maddeyi ihtiva etmemelidir.

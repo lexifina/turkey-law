@@ -1,0 +1,6 @@
+Madde 478 – Meyva suları, şıra, pestil, üzüm şırasiyle yapılan cevizli sucuk ve benzerleri aşağıda yazılı hallerde taklit veya tağşiş edilmiş sayılırlar:
+a) Çıkarıldıkları meyvadan başka bir meyvanın adı ile adlandırılıp satılan veya zararsız da olsa yabancı bir madde ile karıştırılmış veya boyanmış bulunan meyva suyu, meyva usareleri,
+b) Sanat icabı olarak içine su veya şeker veya asit sitrik veya hepsi birden konulması icap eden meyva suları, meyva usareleri hariç olmak üzere içine su veya şeker veya sair yabancı maddeler; gliserin, her nevi asitler, glikoz konulmuş veya özel yönetmeliğinde yazılı cinsten başka veya belli miktardan fazla muhafaza maddeleri katılmış olan meyva suları veya meyva usareleri,
+c) Zararsız da olsa herhangi bir boya ile boyanmış ve içine muhafaza maddeleri veya suni tat verici maddeler katılmış olan şıralarla, içindeki şeker miktarı % 12,5 dan az, alkol miktarı hacmen % 4 den ve asidite derecesi % 5 den fazla olan kuru veya yaş üzüm şıraları,
+d) İçine nişai maddeler, sair yabancı maddeler, her nevi yabancı asitler, suni tat verici maddeler katılmış veya boyanmış olan pestiller,
+e) Zararsız da olsa imalinde kullanılması mutad olmayan yabancı maddeleri veya suni tat verici maddeleri ihtiva eden cevizli sucuk ve benzerleri.

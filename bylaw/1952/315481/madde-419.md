@@ -1,0 +1,3 @@
+Madde 419 – (Değişik: 4/6/1974 - 7/8369 K.)
+Kaynak suları, ancak, kaynaklardaki veya kaynaklarından doğrudan doğruya özel borularla sevkedildiği ve nitelikleri bu Tüzük'ün 420 nci maddesinde belirtilen doldurma yerlerinde doldurularak satılabilir. Doldurma yerlerinde doldurulmuş kaplar içindeki suların başka yerlere taşınarak oralarda tekrar başka kaplara doldurulmak suretiyle satışa çıkarılması ve satışı yasaktır.
+Kaynak sularının çıkış ve doldurma yerleri Belediye sınırları içinde olanlar belediyelerce, bunlardan biri veya her ikisi belediye sınırları dışında olanlar Sağlık Bakanlığı örgütlerince kontrol edilecek ve en az üç ayda bir kaynaktan alınacak numuneler analize gönderilecektir.

@@ -1,0 +1,2 @@
+Madde 26 – (Değişik: 6/3/1980 - 8/525 K.)
+Pastörize sütlerin bulundukları kapların veya şişelerin kapakları üzerinde yapımcı firmanın adı, adresi, varsa tescil edilmiş markası, sütün yağlı, yarım yağlı veya yağsız (yavan) olduğu, pastörizasyon tarihi gün ve ay olarak veya sadece gün adıyla kolayca okunabilir biçimde belirtilecektir. Tam yağlı sütler kırmızı, yarım yağlılar mavi, yavan olanlar yeşil kapak veya band taşıyacaktır.

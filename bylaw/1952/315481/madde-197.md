@@ -1,0 +1,1 @@
+Madde 197 – Umumi soğuk hava depoları, soğuğun bu maksatla kullanılma tek- nolojisine tamamiyle uygun olarak yapılmış ve faaliyetlerine resmen müsaade edilmiş fenni müesseseler halinde kurulacaklar ve çeşitli gıda maddeleri bu depolarda birbirlerinin vasıflarını bozmıyacak ve birbirlerini kirletmiyecek tarzda ayrı kompartımanlarda saklanacaklardır.

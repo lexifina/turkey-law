@@ -1,0 +1,3 @@
+Madde 101 – (Değişik: 10/12/1959 - 4/12500 K.)
+Margarinler yapıldıkları yağların koku ve lezzetlerinden tamamiyle ari olacakları ve erime dereceleri (36) derecenin altında bulunacaktır. İmal esnasında ilave edilmiş süt veya kremadan ileri gelme en fazla % 10 nispetinde süt yağını ihtiva edebilecek, asidite dereceleri % 2, tuz miktarı da tuzsuz margarinler % 0,5, tuzlu olanlarda % 5 i geçmiyecektir.
+Margarinlere % 5 nispetine kadar nebati lesitin ilave edileceği gibi Sıhhat ve İçtimai Muavenet Vekaletinden alınacak müsaade ile beher gramında bir milletlerarası ünite D vitamini ve 20 milletlerarası ünite A vitaminleriyle vitaminize edilebilirler.

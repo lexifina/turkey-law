@@ -1,0 +1,2 @@
+Madde 236 – (Değişik: 27/1/1968 - 6/9470 K.)
+Perhiz yiyeceklerine her ne surette olursa olsun devai bir nitelik verilerek satılması yasaktır. Ancak özelliklerine ait tarifnamelerine yazılan kısa bazı kayıtlar ile (Şeker hastalarına mahsustur) gibi reklam mahiyetinde olmayan açıklamalar müstesnadır. Bununla beraber çocuk beslenmesinde kullanılan unlara katılan kalsiyum, fosfor ve benzeri maddeler dolayısiyle bu unların çocukların diş ve kemiklerinin gelişmesine yaradığını mübalağalı bir surette belirten açıklamaların yazılması ve bu hususta reklam yapılması da yasaktır.

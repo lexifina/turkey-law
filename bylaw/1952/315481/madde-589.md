@@ -1,0 +1,1 @@
+Madde 589 – Sütlü çikolatalarda bulunan kakao kitlesi (kakao yağı + kakaotozu) en az % 25 olacaktır. Bunların imalinde nebati lesitin kullanıldığı takdirde nebati lesitin miktarı müstahzarın % 0,3 ünü geçmemelidir.

@@ -1,0 +1,1 @@
+Madde 161 – Yukarki maddede yazılı konserveler, yalnız et ile hazırlanabileceği gibi, teksif edilmiş veya edilmemiş et suyu ile birlikte veya içine biber, bahar salça gibi çeşni verecek zararsız bir madde konarak veyahut sebze, pirinç, bulgur gibi mahalli adetlere uygun gıdalarla karışık olarak da hazırlanabilir.

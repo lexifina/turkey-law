@@ -1,0 +1,1 @@
+Madde 165 – Yukarki maddede yazılı konservelerin etiketleri üzerinde, genel hükümlerin 159 uncu maddede yazılı izahlardan başka sebzelerin basit veya yağ ile pişirilerek doğrudan doğruya yenebilecek tarzda hazırlandıkları meyva konservelerine şeker ilave edilip edilmediği edilmiş ise yüzdeki şeker miktarı yazılacaktır.

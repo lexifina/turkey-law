@@ -1,0 +1,2 @@
+Madde 99 – (Değişik: 21/3/1956 - 4/6999 K.)
+Rafine hayvan yağı imal eden müesseseler, gerekli sıhhi ve teknik tesisleri ihtiva ettikleri mahalli sıhhat memurlarının raporu ile anlaşıldıktan sonra sıhhat ve İçtimai Muavenet Vekaletinin müsaadesi ile açılıp faaliyette bulunabilirler. Bu imalathanelerde iptidai madde olarak kullanılan yağlardan başka hayvani veyahut nebati diğer bir yağın aynı zamanda imali, depo edilmesi vesatılması yasaktır.

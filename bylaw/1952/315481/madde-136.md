@@ -1,0 +1,1 @@
+Madde 136 – Muayene ve tahlil için her türlü yemeklik nebati yağlardan 250 gram numune alınır ve ağzı imtizaçlı cam veya mantar kapaklı temiz ve kuru bir şişe veya kavonoz içinde laboratuvara gönderilir.

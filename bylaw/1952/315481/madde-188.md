@@ -1,0 +1,3 @@
+F) Havyar ve tarama:
+Madde 188 – (Değişik: 16/5/1953 - 4/808 K.)
+Mersin balığının ve nevilerinin, tuzlanmış olarak tabii bir halde piyasaya arzedilen veya nesiçlerinden temizlenip tuz ilavesiyle ezilerek hazırlanan yumurtalarına havyar denilir. Havyarın rengi menşeine göre siyah veya kırmızı olur. Bazı nevi tatlısu balıklarının, yumurtalarının halile veya siyah havyar imali esası üzerine veya hususi bir tarzda tuzlanmasiyle yapılmış sarı - turuncu renkli maddeye tarama denir. Taramalara % 2 nispetini geçmemek üzere güherçile konulabilir. Taramalar, içine ekmek içi, zeytinyağı ve limon konularak (hazırlanmış tarama) halinde de satılabilirler. Bu taramaların hazırlanması için kullanılacak bütün iptidai maddelerin bu Nizamnamede yazılı vasıflarda olması lazımdır.

@@ -1,0 +1,1 @@
+Madde 140 – Dondurulmuş olarak devamlı muhafaza usulü ile saklanmış etler, kasap dükkanlarında bu etlerin vasıflarını muhafaza etmelerine yetecek derecede soğutulmuş soğuk hava depo veya dolaplarında bulundurulacak ve bu etlerin üzerlerine dondurularak saklandığını bildirir ayrıca bir etiket konulacaktır.

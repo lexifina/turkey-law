@@ -1,0 +1,1 @@
+Madde 619 – Ambalaj içerisinde satılan baharatın ambalajı üzerinde amilinin isim ve adresi, muhtevasının cins ve nevileriyle net miktarı ve bir kaç neviden mürekkep olduğu takdirde bu nevi baharların isimleri ayrı ayrı yazılı bulunacaktır.

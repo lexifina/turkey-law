@@ -1,0 +1,1 @@
+Madde 156 – Konservelerde gerek doğrudan doğruya ve gerek (38) derecelik etüvlerde 5 gün bırakıldıktan sonra havalı veya havasız şartlarda yapılan bakteriyolojik kültürler tamamiyle steril kalacaktır.

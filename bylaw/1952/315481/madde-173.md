@@ -1,0 +1,2 @@
+D) Kavurmalar:
+Madde 173 – Kavurmalar 171 inci maddede yazılı şartlardaki kasaplık hayvanların, kendisine yapışık az miktarda yağdan başka diğer bütün aksamından tecrit edilmiş et kitlelerinin, parçalanarak yağ içinde kavrulduktan sonra temiz ve zararsız kaplarda yağ içine gömülmek ve üzerleri, et kitlesini tamamiyle ve kafikalınlıkta kapatacak bir tabaka halinde yağ ile örtülmek suretiyle yapılan et müstahzarlarıdır.

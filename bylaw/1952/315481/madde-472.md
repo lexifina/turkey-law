@@ -1,0 +1,1 @@
+Madde 472 – Şiraya hariçten glikoz, suni tatlılandırıcı maddeler, zararsız da olsa her nevi uzvi veya madeni asitler ve muhafaza maddeleri katılması ve bunların herhangi bir boya ile boyanması yasaktır.

@@ -1,0 +1,4 @@
+İnsektisit, Rodentisit ve Mollusisitler
+Ek Madde 1 – (Ek: 21/4/1971 - 7/2235 K.) İnsan sağlığını ve huzurunu bozan her çeşit ergin ve larva halindeki sinek, bit, pire, tahtakurusu, güve, örümcek, akrep, kırkayak, çiyan, hamamböceği, kene gibi eklem bacaklıları yok etmek, kaçırmak için kullanılan maddelere insektisit (Haşare öldürücü),fare gibi zararlı kemiricileri öldürmek gayesiyle kullanılan maddelere redentisit (Fare öldürücü), sümüklü böcek gibi yumuşakcaları öldürmek gayesiyle kullanılan maddelerede mollusisit (Yumuşakça öldüren) denir.
+Bu maddelerin imali, ithali ve kullanma gayesine göre çeşitli maddelerle karıştırılması (Formülasyon) Sağlık Bakanlığının iznine bağlıdır.
+İmalat, ithalat veya formülasyon için Bakanlığa başvuranlar, talep vukuunda bütün özellik ve analiz metotlarını vermek zorundadırlar.

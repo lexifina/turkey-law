@@ -1,0 +1,1 @@
+Madde 141 – Mezbahalardaki sıhhi muayene neticesinde şarta bağlı olarak yenilmesine müsaade edilen etler, resmi makamların nezareti altında gerekli muamelelere tabi tutulduktan sonra mahiyetleri açıkça bildirilmek suretiyle belirli yerlerde satılabilir. Bu etlerin lokanta, aşçı dükkanları gibi umuma mahsus gıda maddeleri hazırlayan müesseselerde kullanılması yasaktır.

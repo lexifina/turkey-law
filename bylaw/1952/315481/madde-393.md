@@ -1,0 +1,1 @@
+Madde 393 – Hamur tatlıları ile böreklerin, pastaların, diğer sütlü veya sütsüz, şekerli veya şekersiz yiyeceklerin imalinde kullanılacak bütün iptidai maddelerin bu Tüzükte bu maddeler için tesbit edilmiş bulunan vasıfları haiz olması şarttır.

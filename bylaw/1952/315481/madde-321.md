@@ -1,0 +1,2 @@
+Madde 321 – (Değişik: 27/10/1972 - 7/5274 K.)
+Şehriye, kuskus, makarna ve benzerlerinin kuru maddede toplam azot miktarı en az % 1,9, en çok % 2,3 (toplam azot tayini Kjeldahl metodu ile yapılacaktır) olacak, tuzsuz kül miktarı % 1 den ve külün % 10 luk klorhidrik asitte erimeyen kısmı % 0,15 ten, 96 santigrat derecelik ethyl alkole geçen asiditesi asit sülfürik hesabiyle ve fenol ftalein endikatörü karşında N/50 alkali ile yapılacak titrede % 0,05 ten fazla olmayacak ve rutubet miktarı % 13'ü geçmeyecektir.

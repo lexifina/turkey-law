@@ -1,0 +1,1 @@
+Madde 407 – Pekmezin + 15 santigrattaki kesafeti 1,300 den, mecmu şeker miktarı glikoz hesabiyle % 60 dan az, kül miktarı % 3,5 dan ve asidite derecesi % 8 den fazla, bulamalarda mecmu şeker miktarı glikoz hesabiyle % 70 den az ve kül miktarı % 3,5 dan fazla olmamalıdır.

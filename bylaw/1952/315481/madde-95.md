@@ -1,0 +1,3 @@
+KISIM: III
+Rafine Hayvan Yağları
+Madde 95 – Sıhhatli kasaplık hayvanların iç ve kuyruk yağlarının eritilerek yağdan başka nesiç ve uzuv parçalarından tamamiyle temizlendikten sonra (36) derece altında erimiş olarak kalan kısımlarının bu derecenin üstünde katılaşan kısımlarından ayrılmasiyle elde edilerek özel koku ve lezzetlerinin tamamiyle izalesi ve asiditelerinin tadili için fizik ve kimyevi bir işlemeye tabi tutulmak suretiyle istihsal edilen yağlara rafine hayvan yağı denir. Bu yağlar rafine kuyruk yağı, rafine iç yağı gibi tedarik edildikleri hayvanların isimlerinin ilavesiyle adlandırılarak satışa çıkarılırlar.

@@ -1,0 +1,1 @@
+Madde 677 – Perdelerin, mobilyaların, halıların yapılmasında kullanılan maddeler, istorlar, boyalı duvar kağıtları, (…),[13] kağıttan mamul yaka ve çamaşırlar ve benzerleri deri astarlar, abajorlar, suni yaprak, çiçek vemeyvalar, büro eşyası, kağıtlar, kağıttan ve deriden yapılan eşya arsenikten ve diğer zararlı maddelerden ari olmalıdır.

@@ -1,0 +1,1 @@
+Madde 587 – Her nevi çikolata ve çikolata tozlarında safi şekerli çikolata kitlesi üzerinden hesap edilmek üzere şeker (sakkaroz) en fazla % 60 ve kakaoyağı % 16 dan aşağı olmamalı ve kakao yağından ve sütlü nevilerinde süt yağından başka cins yağ bulunmamalıdır.

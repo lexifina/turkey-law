@@ -1,0 +1,1 @@
+Madde 162 – Teksif edilmiş et suyu ile hazırlanan et konservelerinin etsularının (+ 18) derecenin altında ve teksif edilmemiş et suyu ile hazırlanan et konservesi sularının da (+ 5) derecenin altında tamamiyle katılaşmış olması lazımdır.

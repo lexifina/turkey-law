@@ -1,0 +1,2 @@
+B – Şıra:
+Madde 471 – Üzüm suyunun hafif fermantasyonu ile elde edilen mamule şira denir. Kuru üzümden yapılmış şiranın (kuru üzüm şirası) adı ile satılması mecburidir. Kuru üzümden şira yapılırken taze üzümde bulunan su miktarını geçmemek üzere içine içilmeye elverişli su ve tatlılığını artırmak üzere şeker ilavesi caiz olduğu gibi içinde hafif fermantasyondan mütevellit az miktarda alkol de bulunabilir.

@@ -1,0 +1,2 @@
+Madde 5 – (Değişik: 21/3/1956 - 4/6999 K.)
+Umumun istihlakine mahsus her türlü gıda maddelerinin imal, ihzar veya küçük orijinal ambalajlara taksim suretiyle muameleye tabi tutulduğu bütün yerler, resmi müsaade alınmaksızın işletilemezler. Bu yerlerin her türlü teknik ve sıhhi şartlarının kifayetsizliğinden ve içinde çalışanların sıhhatli ve temiz olmalarından ve kanun hükümlerine göre muayyen zamanlarda muayenelerinden dolayı ceza mesuliyeti, bu müesseseleri işletenler veya şahsi ihmali olan işçiler hakkında tatbik olunur.

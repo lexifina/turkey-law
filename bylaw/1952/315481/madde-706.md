@@ -1,0 +1,2 @@
+Madde 706 – Laboratuvarlar, muayene ve tahlil ettikleri her gıda maddesinin bu Tüzüğe göre haiz olması lazımgelen hususi vasıflarını ve fenni şartlarını gözönünde bulundurarak kendilerine gönderilen numunelerin muayenesini ona göre icra ve raporların açık ve etraflı bir şekilde tanzim ederek, neticeyi en kısa bir zamanda bildirirler.
+Laboratuvarlar, muayene ettikleri numunelerin artan kısımlarını, işin sonuna kadar ve bunlardan bozulmaya meyyal olanları bozuluncaya kadar, bozulmalarını mümkün mertebe mani olacak bir şekil ve surette iyi bir yerde muhafaza ederler.

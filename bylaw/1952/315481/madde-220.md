@@ -1,0 +1,2 @@
+Madde 220 – Domates salçalarına ve sularına başka cins sebze ve meyve ezmeleri, nişastalı maddeler, zararsız da olsa, ağırlaştırıcı ve koyulaştırıcı ve renk verici maddelerin katılması yasaktır. Domates suyu ve salçaları, diğer cins yabancı bitkileri ve yabancı maddeleri, kum taneciklerini, canlı, cansız böcekleri ve bunların parçacıklarını, kabuk ve çekirdekleri, erimemiş tuzu ihtiva etmeyecektir.
+Domates salçaları, domates suyu ve domates konserveleri, ketçap ve soslar patogen mikroorganizmaları veya bunların toksinlerini ihtiva etmeyecektir.

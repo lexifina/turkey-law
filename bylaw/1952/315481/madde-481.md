@@ -1,0 +1,1 @@
+Madde 481 – Muayene ve tahlil için alınacak nümune miktarı, ağzı imtizaçlı kapakla kapalı teneke kutu, cam kavanoz veya şişe içinde olmak üzere açık olarak satılanlardan 200 gr. dan az olmamak şartiyle ve bunların hususi ambajlar içinde satılanlarından keza 200 gr. dan az olmamak üzere bir veya mütaaddit orijinal ambalajdan ibarettir.

@@ -1,0 +1,1 @@
+Madde 125 – Sertleştirilmiş nebati yağlar; gerek rafinaj ve gerekse sertleştirme esnasında kullanılan hiç bir kimyevi madde ve serbest kalevıyi ihtiva etmiyeceklerdir. Bu yağların boyanması, içlerine her ne maksatla olursa olsun yabancı bir madde veyahut diğer bir yağ ilavesi ve muhtelif nevi sertleştirilmiş nebati yağların birbirleriyle karıştırılması yasaktır.

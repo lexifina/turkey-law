@@ -1,0 +1,1 @@
+Madde 517 – Bira imalinde arpa veya diğer hububat ile şerbetçi otundan başka bunların yerine zararsız da olsa başka maddeler, karemela veya kavrulmuş malttan başka boya kullanmak, nötralize edici maddeler veya alkol, gliserinmiyan kökü, köpürtücü maddeler veya yukardaki maddelerde izin verilenlerden başka herhangi bir yabancı madde katmak yasaktır.

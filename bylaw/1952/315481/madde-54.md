@@ -1,0 +1,2 @@
+Madde 54 – (Değişik: 6/3/1980 - 8/525 K.)
+Yoğurt kaplarının üzerine, yoğurdun yağ durumu, yapıldığı sütün türü, yapıldığı yer, yapımcı firmanın adı, adresi varsa tescil edilmiş markası gün, ay ve yıl olarak yapım tarihi açıkça yazılı bir etiket yapıştırılması ya da yoğurdun üzerini örten kapakta bunların belirtilmesi, ambalajlı satılıyorsa yoğurdun net miktarının yazılması zorunludur. Bu bilgiler kapakta bulunuyorsa, kabın üstünde yapımcı firmanın belirtilmesi gerekir.

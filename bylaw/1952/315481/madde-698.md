@@ -1,0 +1,2 @@
+Madde 698 – (Değişik: 21/4/1971 - 7/2235 K.)
+Yenilecek ve içilecek maddelerin konmasına, hazırlanmasına, yapılmasına, usarelerinin çıkarılmasına, nakline mahsus olan ve 688 - 697 nci maddelerde tespit edilen vasıf ve şartlara uygun bulunmayan eşya ve malzeme ile 681 inci madde uyarınca çıkarılacak Yönetmelikteki esaslara uygun olmayan plastik malzeme, sağlığa az veya çok zarar verecek derecede bozulmuş sayılırlar.

@@ -1,0 +1,1 @@
+Ek Madde 4 – (Ek: 21/4/1971 - 7/2235 K.) Ambalajı, 3 üncü maddedeki hususları ihtiva etmeyen ve muhtevası ambalajındaki beyana uymayan insektisit, redentisit ve mollusisitler, taklit ve tağşiş edilmiş sayılırlar.

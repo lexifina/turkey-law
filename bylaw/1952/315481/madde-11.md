@@ -1,0 +1,2 @@
+Madde 11 – (Değişik: 6/11/1983 - 83/7366 K.)
+Belli gıda maddelerinin konulmasına özgü, üzerlerinde buna ilişkin işaret bulunan kaynak ve maden suyu, gazoz, bira, şarap vb. şişelerine ve gıda ambalajı olarak kullanılan diğer kaplara, organik ve anorganik asitler, lessivler, dezenfektan cisimler, amonyak, petrol ve benzin gibi sağlığa zararlı ve zehirli maddeler konarak satışa çıkarılması, satılması ve böyle bir kap içine bu gibi maddeler konarak, alıcıya verilmesi yasaktır.

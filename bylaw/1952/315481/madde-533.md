@@ -1,0 +1,1 @@
+Madde 533 – Likörlerin imalinde şeker yerine suni tad verici maddeler veya zararsız da olsa normal terkiplerine yabanci diğer maddeler katılması yasaktır. Saf glikoz veya envert şekeriyle yapıldığı takdirde bu cihetin etiketinde gösterilmesi lazımdır.

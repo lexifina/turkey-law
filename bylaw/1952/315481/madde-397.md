@@ -1,0 +1,1 @@
+Madde 397 – Her çeşit hamur tatlıları, börekler, pastalar, mahallebi ve benzerleri gibi sütlü yiyeceklerin zararsız da olsa herhangi bir boya ile boyanması yasaktır. Ancak zerdenin yalnız safranla boyanması caizdir.

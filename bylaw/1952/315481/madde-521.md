@@ -1,0 +1,1 @@
+Madde 521 – Biraların satış kapları (şişe, fıçı vesaire) üzerine nev'i, yapanın tanıtıcı işareti veya monoğrafı, kapalı ambalajlar içinde satılanların üzerine ihtiva ettikleri biranın net miktarı yazılmış ve şişe kapakları üzerinede yapanın tanıtıcı işareti ve adı basılmış bulunacaktır.

@@ -1,0 +1,1 @@
+Madde 583 – Kakaolardan tahlil ve muayene için alınıp laboratuvara gönderilecek numune miktarı ağızları imtizaçlı kapakla kapalı teneke kutu veya cam kavanozlarda olarak en az 200 gram veya bu miktardan aşağı olmamak üzere bir orijinal ambalajdan ibarettir.

@@ -1,0 +1,1 @@
+Madde 530 – Distile alkollü içkilerin ambalaj ve satış kapları üzerinde içkinin adı ve nevi ile alkol derecesi, yapanın tanıtıcı işareti, adı ve adresi, kapalı ambalajlarda bulunanların net miktarı yazılmış olmalıdır.

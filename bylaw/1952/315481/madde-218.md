@@ -1,0 +1,1 @@
+Madde 218 – Muayene ve tahlil edilmek üzere laboratuvarlara gönderilmek için alınacak örnek miktarı kabuklu yumurtalardan 10 aded, yumurta tozlarından ambalajları küçük ise 50 Gr. dan az almamak üzere bir orijinal ambalaj, büyükse 50 gramdan ibaret olup bunlar ağızları imtizaçlı kapaklı kapalı cam, teneke veya tahta kutular içinde olarak gönderilir.

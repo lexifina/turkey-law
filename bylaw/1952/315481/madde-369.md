@@ -1,0 +1,2 @@
+C – Şekerleme:
+Madde 369 – Şekerleme armut, elma, incir, kayısı, badem, kestane, turunç gibi meyvaların ve kabuklarının veya fındık, fıstık, badem, ceviz, hindistan cevizi gibi kuru meyvaların şekerle kaynatılmasiyle yapılmış müstahzar anlaşılır. Sanat icabı olarak imal esnasında meyva veya kabukların zararsız tabii veya suni esanslar ile kokulandırılması ve kullanılmasına müsaade edilen boyalardan herhangi birisiyle hafifçe boyanması caizdir. Bunların imalinde glikoz kullanıldığı takdirde bu hususun satıldıkları kaplarda bulundurulacak etikette yazılması mecburidir.

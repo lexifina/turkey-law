@@ -1,0 +1,3 @@
+Madde 53 – (Değişik: 6/3/1980 - 8/525K.)
+Yoğurtlar, niteliklerini bozmayacak ve insan sağlığına zarar vermeyecek, özellikleri bu Tüzükte belirtilen cam, karton, paslanmaz çelik, aloksel alümin-yum, porselen, emaye, plastik vb. kaplar içerisinde yapılıp satılacaktır. Plastik kaplar yoğurt kabı olarak ancak bir kez kullanılabilir. Toprak çömleklerde ve alüminyum kaplarda yoğurt satışı yasaktır.
+Yoğurt kaplarının, içlerine toz, toprak vb. girmeyecek biçimde, su geçirmez kağıt, cam, alüminyum veya Tüzükte özelliğı belirtilen sağlığa zararsız plastik maddelerden yapılmış ve bir kez kullanılacak bir kapak ile örtülmesi zorunludur.

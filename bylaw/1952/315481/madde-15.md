@@ -1,0 +1,1 @@
+Madde 15 – Üzerlerinde vezinlerinin gösterilmesi lazım veya mutad olan gıda maddelerinin, bu vezinleri safi olarak itibar edilir. Bu gibi maddelerde hasıl olacak fire miktarı, bu Tüzükte ayrıca belirtilmemiş olanlar için üzerlerinde yazılan adede nazaran, umumiyet itibariyle % 3'ü geçmemek şartiyle kabul olunur.

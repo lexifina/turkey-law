@@ -1,0 +1,2 @@
+Madde 93 – (Değişik: 21/3/1956 - 4/6999 K.)
+Eritilmiş iç ve kuyruk yağları; özel koku, renk ve lezzette olacaklardır. Terkiplerindeki safi yağ miktarı % 96 dan aşağı olmıyacak, tuz miktarı tuzsuz olanlarda % 0,5 den ve tuzlu olanlarda % 5 ten, asiditeleri % 2 dereceden fazla bulunmıyacaktır. İçinde hayvanın uzuv veya nesiç parçaları bulunmıyacak, zarar-sız da olsa herhangi bir kimyevi maddeyi ve yabancı bir yağı ve deri kazıntı yağlarını ihtiva etmiyecekler ve hiç bir boya ile boyanmış olmıyacaklardır.

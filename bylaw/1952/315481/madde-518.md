@@ -1,0 +1,1 @@
+Madde 518 – Biranın beher litresinde 20 Mg. geçmemek şartiyle, kükürtlenmiş şerbetçi otundan veya fıçıların temizlenmesinden ileri gelen kükürt dioksit bulunabilir. Biraya bundan başka herhangi bir antiseptik madde veya suni tad verici maddeler ve sağlığa zararlı herhangi bir yabancı madde katmak yasaktır.
