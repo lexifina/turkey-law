@@ -1,0 +1,2 @@
+Bayilikleri Uygun Görülmeyen Veya Bayilikleri İptal Edilenlerin İtirazı
+Madde 6- Bayilik yapmaları uygun görülmeyenler ile bayilikleri iptal edilenlerin itirazları birinci derecede illerde defterdar, ilçelerde malmüdürleri tarafından mahallen incelettirilerek karara bağlanır. Malmüdürleri tarafından birinci derecede verilen kararlar itiraz üzerine ikinci derecede defterdarlarca, defterdarların birinci derecede verdikleri kararlar ise ikinci derecede Bakanlıkça evrak üzerinde sonuçlandırılır.

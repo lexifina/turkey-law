@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.5784",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "PUL VE DEĞERLİ KAĞITLARIN BAYİLER VE YETKİLİ MEMURLAR VASITASI İLE SATTIRILMASINA VE BAYİLERE SATIŞ AİDATI VERİLMESİNE DAİR YÖNETMELİK",
+  "number": "5784",
+  "issuer": "Maliye ve Gümrük Bakanı",
+  "issuer_slug": "maliye-ve-gumruk-bakani",
+  "path": "regulation/maliye-ve-gumruk-bakani/1988/5784",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5784&MevzuatTertip=5",
+  "source_sha256": "22648f6b11cb4cb03436b9449ed167a5333b8b33d4fd71f6ac59a60bc9a80681",
+  "source_bytes": 27730,
+  "published": "1988-06-08",
+  "gazette": "19836",
+  "in_force": "1988-06-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.06.1988)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1056,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
