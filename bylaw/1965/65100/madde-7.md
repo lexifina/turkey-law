@@ -1,0 +1,3 @@
+II – Akıl hastalığı veya akıl zayıflığı sebebiyle hacri gerektiren hallerde
+Madde 7 – Akıl hastalığı veya akıl zayıflığı sebebiyle, işlerini görmekten aciz olmak veya daimi muavenet ve tekayyüde muhtaç bulunmak yahut başkasının emniyetini tehdit etmek gibi bir kimsenin hacri müstelzim hallerini resmi işleri dolayısiyle öğrenen adliye ve idare memurları, belediye başkanları, ihtiyar meclisleri ve sağlık müesseseleri durumu hemen bu kimsenin ikametgahının bulunduğu yer sulh hakimine haber vermeğe mecburdur.
+Birinci fıkradaki sebeplerle bir kimsenin hacredilmesi sonucu olarak başkalarının da vesayet altına alınması lazım gelirse, sulh hakimi, aynı zamanda bu hususa da karar verir.

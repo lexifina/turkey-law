@@ -1,0 +1,2 @@
+II – Yürürlükten kaldırılan hükümler
+Madde 69 – 27/2/1934 günlü ve 2/220 sayılı kararname ile yürürlüğe konulmuş olan "Kanunu Medeninin Velayet, Vesayet ve Miras Hukukuna Mütaallik Hükümlerinin Tatbik Suretine dair Nizamname"nin 6 - 18 inci maddeleri bu Tüzüğün 68 inci maddesi gereğince hazırlanacak yönetmelik hükümlerinin yürürlüğe girdiği tarihte; diğer maddeleri ise bu Tüzüğün yürürlüğe girdiği tarihte yürürlükten kalkar.

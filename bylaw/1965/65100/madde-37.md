@@ -1,0 +1,2 @@
+3 – Vasiyetname örneğinin tebliği
+Madde 37 – Vasiyetnamenin açılmasından sonra, lehlerine vasiyet yapılmış veya mirascı tayin edilmiş olan herkese vasiyetnamenin bu hususa dair hükümlerini ihtiva eden bir örneği, başvurmalar beklenmeksizin, masrafı terekeye ait olmak üzere, tebliğ olunur. İkametgahı belli olmıyanlara, vasiyetnamede lehine bir hüküm bulunduğu veya mirascı nasbolunduğu ilanla bildirilir.
