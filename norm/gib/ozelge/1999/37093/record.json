@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6654-256/8256",
+  "source_id": 37093,
+  "date": "1999-03-04",
+  "title": "Her ikiside emekli olup, birisinin üzerine kışlık mesken birisinin üzerine yazlık mesken kayıtlı olan karı kocadan sadece kocanın üzerine kayıtlı kışlık meskeni için indirimli vergi oranı uygulanacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37093",
+  "source_sha256": "02528553f385fde40bbb65bbd1653f0ce9c72e15f82bb36076712f317b780ca6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
