@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7054",
+  "year": 1957,
+  "title": "Karayolları Genel Müdürlüğü kuruluş ve görevleri hakkındaki 5539 sayılı Kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-09-13",
+  "gazette_issue": "9705",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9705.pdf",
+  "source_sha256": "02b45ede23affb364afa80e7b04176f5b3a4f96a030c17197b2e4ebd7273bb1f",
+  "text_sha256": "48e656734eb569b8c2ffe5b193659729afd20004d7775cabd4d4a6696c07a7aa",
+  "text_status": "ocr",
+  "pages": [
+    6,
+    9
+  ],
+  "line_span": [
+    [
+      1948,
+      1949
+    ],
+    [
+      1407,
+      1436
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907054.pdf",
+    "source_sha256": "a681bb5f8a1e83bc1db2667243ea785ad5a0d1c819cef812ef020c5a56d8560e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9711,
+    "bag": 0.9184,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9906,
+    "rg_words": 219,
+    "kd_words": 212,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
