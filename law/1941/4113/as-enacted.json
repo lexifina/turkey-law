@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4113",
+  "year": 1941,
+  "title": "Maarif Vekâleti merkez teşkilât ve vazifeleri hakkındaki 2287 numaralar kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-09-25",
+  "gazette_issue": "4921",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4921.pdf",
+  "source_sha256": "4e50e68d4baea70b4b46e0d9b4ad4b415eb8d1443c532f6e955623c83fcfd724",
+  "text_sha256": "7da254eb5add7701bfa0ca30dfebf5c42a358c79da636624b52797eb664ecc80",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      74,
+      146
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204113.pdf",
+    "source_sha256": "4607efd9852fc8775c1a466a5606dd91489242cee4f98d6507b7df6f06474dc0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9826,
+    "bag": 0.9479,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9947,
+    "rg_words": 375,
+    "kd_words": 376,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
