@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-489",
+  "source_id": 22741,
+  "date": "2000-11-23",
+  "title": "Bankalarca bastırılarak satılan çekler için ödenen değerli kağıt bedelleri, safi ticari kazancın tespitinde gider olarak indirim konusu yapılabilir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/446/ozelge/22741",
+  "source_sha256": "8cc424135bd31a2744f1859c08ea830b0b80b7d7b933be6f1e19605488f8d74f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
