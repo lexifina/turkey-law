@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 314708,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "22 Nisan 1962 tarihli ve 45 sayılı Yüksek Hâkimler Kurulu Kanununun bâzı maddelerinin yeniden düzenlenmesine ve bâzı maddelerinin değiştirilmesine dair Kanun hakkında (Millet Meclisi 1/108; Cumhuriyet Senatosu 1/1041) (S. Sayısı, 1447)",
+  "title": "22 Nisan 1962 tarihli ve 45 sayılı Yüksek Hâkimler Kurulu Kanununun bâzı maddelerinin yeniden düzenlenmesine ve bâzı maddelerinin değiştirilmesine dair Kanun hakkında (Millet Meclisi 1/108; Cumhuriyet Senatosu 1/1041) (S. Sayısı, 1447)",
+  "first_sitting_date": "1970-01-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 55,
+      "sitting": 26,
+      "sitting_date": "1970-01-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c055/cs__09055026.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c055/cs__09055fih.pdf",
+      "pages": [
+        "268"
+      ]
+    },
+    {
+      "cilt": 57,
+      "sitting": 42,
+      "sitting_date": "1970-02-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057fih.pdf",
+      "pages": [
+        "12:60"
+      ]
+    },
+    {
+      "cilt": 59,
+      "sitting": 78,
+      "sitting_date": "1970-06-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c059/cs__09059078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c059/cs__09059fih.pdf",
+      "pages": [
+        "235",
+        "313",
+        "401:430"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2010&v_gelecek_sayfa=1301&v_kullanici_id=27484916",
+  "source_sha256": "c8078183eabae505fdcbb8baf42c1c6a14a28ca05c5b22f3fcb7d5dff1824d05",
+  "in_force": "1970-01-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
