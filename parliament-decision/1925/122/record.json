@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "122",
+  "year": 1925,
+  "title": "Ergene vadisindeki bataklığın kurutulması hakkında.",
+  "adopted": "1925-03-30",
+  "adopted_as_published": "30/03/1341",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc003/karartbmmc003/karartbmmc00300122.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 3",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 127182,
+      "title": "Ergene vadisindeki bataklığın kurutulması hakkında.",
+      "adopted_as_published": "30/03/1341",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc003/karartbmmc003/karartbmmc00300122.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 16,
+          "sitting": 89,
+          "sitting_date": "1925-03-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c016/tbmm02016089.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c016/ehttbmm02016089.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c016/tbmm02016fih.pdf",
+          "pages": [
+            "257",
+            "260:261"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=372&v_gelecek_sayfa=101&v_kullanici_id=27483257",
+      "page_sha256": "e228901ad6f11a656cd8327e2a875df29e22fcf072a936eb1281e63ea2dfb591"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e228901ad6f11a656cd8327e2a875df29e22fcf072a936eb1281e63ea2dfb591",
+  "issuer": "TBMM",
+  "in_force": "1925-03-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 30/03/1341 (Rumi year, +584); record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
