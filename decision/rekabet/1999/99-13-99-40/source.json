@@ -1,0 +1,13 @@
+{
+  "number": "99-13/99-40",
+  "type": "Rekabet İhlali",
+  "decision_date": "1999-03-04",
+  "publication_date": "1999-07-03",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=0e3d04b7-7663-46ea-80c7-e53dc979f730",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1045",
+  "pdf_sha256": "e4f7ecfe22a1415ffa3668d2c373d98431e589a7df5e8b18565185174f63e6c4",
+  "pdf_bytes": "266566",
+  "pages": "23",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official title"
+}
