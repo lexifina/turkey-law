@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4437",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL HİZMET KURULUŞLARININ ÇOK AMAÇLI OLARAK ÇALIŞMASI VE ÇOK AMAÇLI SOSYAL HİZMET KURULUŞLARI KURULMASI HAKKINDA YÖNETMELİK",
+  "number": "4437",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2000/4437",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4437&MevzuatTertip=5",
+  "source_sha256": "57afe7376a6cac9abc554cbfb8a2f28590ce51182ba59cf900403b37cb2d032b",
+  "source_bytes": 20881,
+  "published": "2000-03-31",
+  "gazette": "24006",
+  "in_force": "2000-03-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.03.2000); own commencement article: \"bu Yönetmelik, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 523,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

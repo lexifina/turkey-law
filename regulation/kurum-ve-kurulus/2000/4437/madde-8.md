@@ -1,0 +1,2 @@
+Kurum içi yararlanma
+Madde 8- Kurumun koruması, bakımı ve/veya rehberliği ve denetimi altında bulunan kişilerin; hizmet aldıkları il/ilçe ve kuruluşlar dışındaki il/ilçe ve kuruluşlarda kalmasını gerektiren geçici barınma ve beslenme talepleri ile mesleki müdahale gereksinimleri, ilgili il müdürlükleri tarafından karşılıklı mutabakat sağlanmak suretiyle değerlendirilir ve karşılanır. Bu konularda ortaya çıkabilecek sorunlar, Genel Müdürlükçe çözülür.
