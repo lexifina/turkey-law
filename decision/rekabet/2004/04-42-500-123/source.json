@@ -1,0 +1,13 @@
+{
+  "number": "04-42/500-123",
+  "type": "Birleşme ve Devralma",
+  "decision_date": "2004-06-17",
+  "publication_date": "2004-08-17",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=dc7a73cd-16b9-451f-8dd5-49b537a378da",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=965",
+  "pdf_sha256": "d85a42c866a8f4e67002d6b29cb81834a4f690fe2b02478f4ff1b82ab7f09848",
+  "pdf_bytes": "220392",
+  "pages": "5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official title"
+}
