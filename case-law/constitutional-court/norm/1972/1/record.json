@@ -1,0 +1,88 @@
+{
+  "id": "ca1727cf-402c-279c-2b98-d1647cb2d8b8",
+  "decision_number": "1972/1",
+  "case_number": "1971/52",
+  "decision_date": "1972-02-03",
+  "published_date": "1972-06-07",
+  "source_publication_date": "1972-02-06",
+  "gazette_number": 14208,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1972/1",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "276847587244ceb703decaa53b369ef1343cecc9b9c01900fb923d0e99fff8f6",
+  "version_label": "as-enacted",
+  "in_force": "1972-02-03",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": false,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1949-06-08",
+      "normNumaraAdParamId": "5b0691cc-c734-6797-bae5-1710c0bbc519",
+      "incelemeturuKarsonucuParamId": "b70853bc-8190-61fb-36c6-4565bb3e5124",
+      "sonucGerekcesiParamId": "e593c292-8963-c0be-721c-41882e63ae9b",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "ek 2",
+          "fikra": "2",
+          "bent": "a",
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/2"
+        },
+        {
+          "hukum": "1961/19"
+        },
+        {
+          "hukum": "1961/154"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    },
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1976-06-01",
+      "normNumaraAdParamId": "9754f6e2-1c6f-22f5-951d-0cc3e2075112",
+      "incelemeturuKarsonucuParamId": "b70853bc-8190-61fb-36c6-4565bb3e5124",
+      "sonucGerekcesiParamId": "e593c292-8963-c0be-721c-41882e63ae9b",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "1",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/120"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 8147
+}
