@@ -1,0 +1,31 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "1997/1",
+  "source_id": 502,
+  "date": "1997-01-17",
+  "title": "VERASET VE İNTİKAL VERGİSİ KANUNU İÇ GENELGESİ SERİ NO: 1997/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/icgenelge/502",
+  "source_sha256": "60de64fda286c4230a7e622be5c59c651cf91e32db37fe86ce8909f04f775923",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/24226",
+        "quote": "17/1/1997 tarihli ve 1997/1 sayılı Veraset ve İntikal Vergisi Kanunu İç Genelgesinde"
+      },
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36390",
+        "quote": "17/1/1997 tarihli ve 1997/1 sayılı Veraset ve İntikal Vergisi Kanunu İç Genelgesininde"
+      }
+    ]
+  }
+}
