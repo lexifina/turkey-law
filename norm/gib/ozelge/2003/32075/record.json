@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5424-209-45335",
+  "source_id": 32075,
+  "date": "2003-10-21",
+  "title": "KDV Kanununun 24/b maddesi hükmüne göre, ambalaj giderleri, sigorta komisyon ve benzeri gider karşılıkları ile vergi, resim, hare, pay, fon karşılığı gibi unsurlar katma değer vergisi matrahına dahil bulunmaktadır.Bu nedenle, elektrik bedeli ile birlikte ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32075",
+  "source_sha256": "43ecd6ad5690e3d8c48e1e98d4306e3fd4265dc64a36dd4e8bc8dc2cba003639",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
