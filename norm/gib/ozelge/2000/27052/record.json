@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2976-317-856/16138",
+  "source_id": 27052,
+  "date": "2000-04-10",
+  "title": "Şirketlerin  amortismana tabi iktisadi kıymetleri için 213 sayılı V.U.K.'na göre, fevkalade ekonomik ve teknik amortisman oranı uygulanıp uygulanmayacağı hakknda.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27052",
+  "source_sha256": "30292b110ceb5ecd2597811d1f5e8690bfd6f757387c6654fe019ac2051f3379",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
