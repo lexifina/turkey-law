@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-840/254035",
+  "source_id": 22374,
+  "date": "1997-06-18",
+  "title": "İlgili bankaya ait gayrimenkul veya iştirak hisselerinin alış bedeli ve satış bedeli arasındaki fark ve ilgili banka  lehine alınan ve Maliyet Artış Fonu olarak isimlendirilen kısmın da banka ve sigorta muameleleri vergisine tabi olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/22374",
+  "source_sha256": "9a815cc7c79e710abed194e2a796918d1548014ad3226b977e61dd1b9c761af2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
