@@ -1,0 +1,47 @@
+{
+  "source_id": "7.5.8334",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÜNİVERSİTELERARASI KURUL'UN VE KURUL'A BAĞLI KOMİSYONLARIN ÇALIŞMA ESASLARI YÖNETMELİĞİ",
+  "number": "8334",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1982/8334",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8334&MevzuatTertip=5",
+  "source_sha256": "7f14c079f2ffcfcec64590b7c6597abedf1871dae73261d657f257e010bd8326",
+  "source_bytes": 26750,
+  "published": "1982-12-14",
+  "gazette": "17898",
+  "in_force": "2003-03-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/03/2003\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2003-03-27",
+      "RG-27/03/2003",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1998-09-12",
+      "RG-12/09/1998",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1997-12-27",
+      "RG-27/12/1997",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazetede yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 864,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
