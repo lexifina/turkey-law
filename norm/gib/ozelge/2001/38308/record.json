@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-17/27135",
+  "source_id": 38308,
+  "date": "2001-05-18",
+  "title": "Kira bedellerinin mamül maliyetleriyle ilişkilendirilmesi gerektiğinden finansal kira bedellerinin Tekdüzen Hesap Planında yer alan \"730-Genel Üretim Giderleri\" hesabında izlenmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38308",
+  "source_sha256": "4ba2c00391cffd46c8f0b2d3a8b81d4f15b4e061fdd079e1ff2ab193c97e3bd7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
