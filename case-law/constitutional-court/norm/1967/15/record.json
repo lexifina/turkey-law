@@ -1,0 +1,52 @@
+{
+  "id": "32cf2346-7323-211f-ae51-2f1eba3148eb",
+  "decision_number": "1967/15",
+  "case_number": "1967/15",
+  "decision_date": "1967-05-30",
+  "published_date": "1967-11-04",
+  "source_publication_date": "1967-06-02",
+  "gazette_number": 12742,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1967/15",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "41227ccac78d6bd5bfd9fa5c168fcaf3b9833c4ac6ba5c1cf2ef1ead918726ce",
+  "version_label": "as-enacted",
+  "in_force": "1967-05-30",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": false,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1957-05-15",
+      "normNumaraAdParamId": "5ba1d481-9f8b-f3cf-da1e-2f03a2bdf904",
+      "incelemeturuKarsonucuParamId": "23fcca64-d9a4-419a-cc11-20a5c62b4a95",
+      "sonucGerekcesiParamId": "a25c017e-4835-21b8-30ce-b85613d20fab",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "4",
+          "fikra": "1",
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": false,
+      "farkliGerekce": true,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/137"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 1216
+}
