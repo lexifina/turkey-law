@@ -1,0 +1,1 @@
+Madde 12 – Erkeklere sterilizasyon ameliyatını, uzman hekimler, mesleklerini uyguladıkları yerlerde, pratisyen hekimlerse, resmi tedavi kurumlarında yaparlar. Buralarda, Tüzük'e ekli (5) sayılı listede yer alan araç ve gereçlerin bulunması zorunludur.

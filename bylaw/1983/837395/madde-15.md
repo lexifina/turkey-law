@@ -1,0 +1,2 @@
+İzin belgesinin alınma yöntemi:
+Madde 15 – İzin belgeleri, 13 üncü maddede sözü edilenlere, rahim tahliyesi ve sterilizasyon için başvurduklarında imzalatılır. Eşin, ya da vasinin gelmemesi halinde, bunların sterilizasyon ya da rahim tahliyesine izin verdiklerine ilişkin yazılı ve imzalı belge yeterli sayılır. Belgeyi getiren, imzanın sahibine ait olduğunun hukuki sorumluluğunu kabul ettiğine ilişkin bir belgeyi de imzalamak zorundadır.
