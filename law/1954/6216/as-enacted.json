@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6216",
+  "year": 1954,
+  "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanununa Geçici Bir Madde Eklenmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-01-09",
+  "gazette_issue": "8603",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8603.pdf",
+  "source_sha256": "0dbf4cfe513fe9547c0929cf3b2d24d0b476b9ce3502bd8d05ccb6b6be004fee",
+  "text_sha256": "f25b4f9770b6a1790c499d60879be064a52990872b993c6e8b541a18ea3c375c",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      260,
+      285
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606216.pdf",
+    "source_sha256": "ba4ba74a0c2ef7777b68427c6954f57a091a78796c66b11c1bca03d4a814e7ba",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9857,
+    "bag": 0.8944,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9863,
+    "rg_words": 140,
+    "kd_words": 146,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
