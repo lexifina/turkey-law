@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2269",
+  "year": 1933,
+  "title": "Ankara su tesisatı için Maliye ve Dahiliye vekilliklerine verilen taahhüd mezuniyetinin uzatılması ve miktarının 2 300 000 liraya çıkarılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-06-07",
+  "gazette_issue": "2421",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2421.pdf",
+  "source_sha256": "06b7b6836dae2a44675a53e7a82a37b469e6e844fc41d7b77d2960dca1257780",
+  "text_sha256": "10fa2a176fb35b51d2d55d17d50106f8c669c1a5dc49c840d2795137c66fe405",
+  "text_status": "ocr",
+  "pages": [
+    7
+  ],
+  "line_span": [
+    [
+      1078,
+      1115
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202269.pdf",
+    "source_sha256": "a4134531b668b620e07836389f8376c04e52882990a98d24df2f7518e6c7948f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9556,
+    "bag": 0.8821,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9845,
+    "rg_words": 136,
+    "kd_words": 129,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
