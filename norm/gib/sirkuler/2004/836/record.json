@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-5/2004-3/ Mükelleflerin Mal ve Hizmet Alımlarına İlişkin Bildirim Formu (Form B)-1",
+  "source_id": 836,
+  "date": "2004-06-25",
+  "title": "Mükelleflerin Mal ve Hizmet Alımlarına İlişkin Bildirim Formu Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/836",
+  "source_sha256": "9912cced3695fceac4b3e1967ec081e7f4875030130ecfbe9a7b17dd06331a91",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
