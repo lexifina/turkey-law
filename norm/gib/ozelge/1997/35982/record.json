@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.64/6430-265/18960",
+  "source_id": 35982,
+  "date": "1997-05-07",
+  "title": "Bir bankanın kamu kuruluşundan 3917 sayılı K.nun 7.maddesi kapsamında iktisap ettiği gayrimenkulü bir bakanlık teşkilatına ait vakfa satışı harçtan istisnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35982",
+  "source_sha256": "cd8a39050a9694fea01e6e774bb81a7ef7524e01ed9088b7ef0ca8bee5452e98",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
