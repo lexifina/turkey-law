@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-14/2005-1/Enflasyon Düzeltmesi Uygulaması-10",
+  "source_id": 827,
+  "date": "2005-02-01",
+  "title": "5024 sayılı Kanunun geçici 1 inci maddesinde yer alan ihtiyarilikten yararlanmış olup da enflasyon düzeltmesi yapmamış olan mükelleflerin 213 sayılı Vergi Usul Kanununun geçici 25 ve mükerrer 298 inci maddelerine göre yapacakları enflasyon düzeltmesine il",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/827",
+  "source_sha256": "20c4758d7daec482694816e0f92d5fb4dc8771379f9f0d3ff06865ae1dc51122",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
