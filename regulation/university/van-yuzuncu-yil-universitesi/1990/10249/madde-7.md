@@ -1,0 +1,1 @@
+Madde 7 - Genel Kurul ve Yönetim Kurulu üye tam sayısının yarıdan bir fazlası ile toplanır. Hazır bulunanların oy çoğunluğu ile karar alınır. Oyların eşitliği halinde Müdürün katıldığı tarafın görüşü kabul edilmiş sayılır.
