@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK- 7/2003-7 / Ücret Gelirlerinde Özel İndirim",
+  "source_id": 650,
+  "date": "2003-12-12",
+  "title": "Özel indirim uygulaması 1.1.2004 tarihinden itibaren yürürlükten kalktığından, Aralık ayında peşin olarak ödenen ücretlerin vergilendirilmesinde 2003 yılı özel indirim tutarı tam olarak dikkate alınır. Öte yandan, 1.1.2004 tarihinden sonra yapılan ücret ö",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/650",
+  "source_sha256": "20c039baf7e5a11ad87b9e9b4570e3de22212f6ca620d42081c1219fddd7a5dc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
