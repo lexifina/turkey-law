@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.68/6802-2",
+  "source_id": 37933,
+  "date": "2004-01-21",
+  "title": "Garantör sıfatıyla sağlanan ve aracı bankalara ikraz anlaşmaları ile devredilen kredilerin, kambiyo ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37933",
+  "source_sha256": "150f1ec82083c5fc4a9441cc1e0f14d23f771cb50020e1a692195108f682fac0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
