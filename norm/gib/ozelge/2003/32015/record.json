@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6624-82/23100",
+  "source_id": 32015,
+  "date": "2003-05-30",
+  "title": "Eğlence vergisinin matrahına katma değer vergisi dahil edilip edilmeyeceği ve katma değer vergisi dahil olarak düzenlenen giriş biletleri üzerinden hesaplanması gereken eğlence vergisinin iç yüzde yöntemi ile bulunacak katma değer vergisi hariç bedel üzer",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/32015",
+  "source_sha256": "48180c27f9e19152d21c1401e5f0c264beaede87f4ab59d952e56753f00a353e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
