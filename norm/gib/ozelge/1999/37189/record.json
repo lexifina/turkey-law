@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6654-256",
+  "source_id": 37189,
+  "date": "1999-03-01",
+  "title": "Emekli aylığı alan ve kendi üzerine kayıtlı meskeni bulunmayanlar,kendisinin ve eşinin başka bir gelirinin olmaması, ayrıca eşi üzerine tek meskenin yarı hissesinin kayıtlı olması şartıyla eşinin tek meskendeki yarı hissesi için 1999 yılında indirimli ver",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37189",
+  "source_sha256": "e145c6a142eb028c698bf7cca4608ae8b1657c8b4787f7ea173f706f823aa21e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
