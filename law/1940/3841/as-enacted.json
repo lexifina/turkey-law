@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3841",
+  "year": 1940,
+  "title": "Bazı maddelerden istihlâk vergisi alınması hakkındaki 2731 sayılı kanunun bazı hükümlerini değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-05-29",
+  "gazette_issue": "4521",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4521.pdf",
+  "source_sha256": "0bbef9de9c48344b66bdfe4f0f7511040adf0ce8b483004e659f89483ff8a8d3",
+  "text_sha256": "1dfa03f0752a413bd976ae356e748a9004be5a135e9825ed69d69c75a24f86c5",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      1072,
+      1102
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103841.pdf",
+    "source_sha256": "276152787f49d748fb410d732bafc8f9953f1f85ea3fc46f26b54075300f59cf",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9706,
+    "bag": 0.9179,
+    "kd_coverage": 0.9856,
+    "kd_body_compared": 0.9763,
+    "rg_words": 208,
+    "kd_words": 211,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
