@@ -1,0 +1,55 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5130",
+  "year": 1947,
+  "title": "Türkiye ile Irak arasında imza edilen Dostluk ve iyi Komşuluk Anlaşması ile bu Anlaşmaya ek Protokol ve Sözleşmelerin onanması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-09-12",
+  "gazette_issue": "6705",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6705.pdf",
+  "source_sha256": "2d55fa802b3e222c143974ac6b0836cf0bb78d0aa39568af97893da84eee227b",
+  "text_sha256": "7c9372a044a04eac2c8fde3e9abb1c38dc9e7b12f9909438a3eb4bfff9b81324",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "line_span": [
+    [
+      19,
+      2236
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905130.pdf",
+    "source_sha256": "6b505756b95ceb11a899f39acb5cb1c27c484f9cf5b42e9e956a231523c54e61",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.906,
+    "bag": 0.8176,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 8973,
+    "kd_words": 8549,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
