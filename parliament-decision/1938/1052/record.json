@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1052",
+  "year": 1938,
+  "title": "1052 sayılı Karar",
+  "adopted": "1938-05-30",
+  "adopted_as_published": "30/05/1938",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "03.06.1938 No: 3924",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/karartbmmc018/karartbmmc01801052.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 18",
+  "committee_reports": [
+    {
+      "label": "TBMM 203 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c025/tbmm05025069ss0203.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 105012,
+      "title": "1052 sayılı Karar",
+      "adopted_as_published": "30/05/1938",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/karartbmmc018/karartbmmc01801052.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 203 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c025/tbmm05025069ss0203.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 68,
+          "sitting_date": "1938-05-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c025/tbmm05025068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c025/tbmm05025fih.pdf",
+          "pages": [
+            "236"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 69,
+          "sitting_date": "1938-05-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c025/tbmm05025069.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c025/tbmm05025fih.pdf",
+          "pages": [
+            "306"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=234&v_gelecek_sayfa=101&v_kullanici_id=27483265",
+      "page_sha256": "531fb016e7d28a3eeb7af5538c7a6ec28b9cb6dcdb7cd720656e3367502e5454"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "531fb016e7d28a3eeb7af5538c7a6ec28b9cb6dcdb7cd720656e3367502e5454",
+  "issuer": "TBMM",
+  "in_force": "1938-05-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 30/05/1938; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
