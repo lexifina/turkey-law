@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 79285,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar / Bütçe Komisyonu Raporu",
+  "summary": "Hava sınıfı mensuplarına verilecek zamlar ve tazminler hakkında 3485 sayılı kanuna ek kanun tasarısına dair. (1/643)",
+  "title": "Hava sınıfı mensuplarına verilecek zamlar ve tazminler hakkında 3485 sayılı kanuna ek kanun tasarısına dair. (1/643)",
+  "first_sitting_date": "1950-03-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 25,
+      "sitting": 69,
+      "sitting_date": "1950-03-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025fih.pdf",
+      "pages": [
+        "643",
+        "837"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1724&v_gelecek_sayfa=1501&v_kullanici_id=27484112",
+  "source_sha256": "9e9a73ea166c8f1edede815a0b81b96d66ddbc882fceaa23c051a790af342fc2",
+  "in_force": "1950-03-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
