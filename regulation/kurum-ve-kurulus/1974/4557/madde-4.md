@@ -1,0 +1,1 @@
+Madde 4- Akademik Kurul yaz tatili dışında, her iki ayda bir ve gerekli görülen diğer hallerde Genel Müdürün çağrısı üzerine toplanır. Toplantı günü, gündemi ve ilgili bilgiler önceden yazılı olarak Genel Müdürlükçe üyelere bildirilir.

@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4557",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE VE ORTA DOĞU AMME İDARESİ ENSTİTÜSÜ AKADEMİK KURUL YÖNETMELİĞİ",
+  "number": "4557",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1974/4557",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4557&MevzuatTertip=5",
+  "source_sha256": "9002415c47c8ee58fc264250f4e03f2b62bacd65890efe3c7092467113524f6d",
+  "source_bytes": 14588,
+  "published": "1974-02-01",
+  "gazette": "14786",
+  "in_force": "1974-02-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.02.1974); own commencement article: \"Bu yönetmelik 1 Şubat 1974 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu yönetmelik 1 Şubat 1974 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 353,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Madde 5- Akademik Kurul üye sayısının çoğunluğu ile toplanır ve toplantıya katılanların üçte iki çoğunluğu ile karar alır. Toplantı ve karar nisabının hesaplanmasında artan kesirler gözönüne alınmaz.
+Kurulun bu Yönetmeliği 3 üncü maddesinin 5 ve 6 ncı fıkraları ile ilgili toplantılarına sadece öğretim üyeleri katılır. Bilim ve sınav kurullarında, Üniversite ve Akademilerin öğretim üyelerine de yer verilir. Kurulun seçilecek bir üyesi sekreterlik görevini yapar.
