@@ -1,0 +1,108 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4605",
+  "year": 2000,
+  "title": "Motorlu Taşıtlar Vergisi Kanunu, Finansman Kanunu, Gelir Vergisi Kanunu, Katma Değer Vergisi Kanunu ile 4306 ve 4481 Sayılı Kanunlarda Değişiklik Yapılması ve Kurumlar Vergisi Kanununa Bir Geçici Madde Eklenmesi Hakkında Kanun",
+  "adopted": "2000-11-23",
+  "adopted_as_published": "23/11/2000",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.11.2000 No: 24246 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc085/kanuntbmmc085/kanuntbmmc08504605.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 85",
+  "committee_reports": [
+    {
+      "label": "TBMM 539 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c045/tbmm21045017ss0539.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 288411,
+      "title": "Motorlu Taşıtlar Vergisi Kanunu, Finansman Kanunu, Gelir Vergisi Kanunu, Katma Değer Vergisi Kanunu ile 4306 ve 4481 Sayılı Kanunlarda Değişiklik Yapılması ve Kurumlar Vergisi Kanununa Bir Geçici Madde Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "23/11/2000",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc085/kanuntbmmc085/kanuntbmmc08504605.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 539 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c045/tbmm21045017ss0539.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 43,
+          "sitting": 12,
+          "sitting_date": "2000-11-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c043/tbmm21043012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c043/tbmm21043fih.pdf",
+          "pages": [
+            "13"
+          ]
+        },
+        {
+          "cilt": 44,
+          "sitting": 15,
+          "sitting_date": "2000-11-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c044/tbmm21044015.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c044/tbmm21044fih.pdf",
+          "pages": [
+            "16"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 17,
+          "sitting_date": "2000-11-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c045/tbmm21045017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c045/tbmm21045fih.pdf",
+          "pages": [
+            "236:300"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 19,
+          "sitting_date": "2000-11-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c045/tbmm21045019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c045/tbmm21045fih.pdf",
+          "pages": [
+            "488:530",
+            "534:600",
+            "608:631"
+          ]
+        },
+        {
+          "cilt": 46,
+          "sitting": 20,
+          "sitting_date": "2000-11-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c046/tbmm21046020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c046/tbmm21046fih.pdf",
+          "pages": [
+            "25:39",
+            "42:103",
+            "127:150"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=201&v_kullanici_id=27483196",
+      "page_sha256": "27f6349c470be789884dbe548b81e4090c3b758dd96480247e2d1a6081a31714"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "27f6349c470be789884dbe548b81e4090c3b758dd96480247e2d1a6081a31714",
+  "issuer": "TBMM",
+  "in_force": "2000-11-23",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 23/11/2000; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
