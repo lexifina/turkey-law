@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4106-348/28617",
+  "source_id": 37894,
+  "date": "1999-07-08",
+  "title": "Şirket tarafından üretilen alabalığın satılması durumunda, alıcıların bu ürünlerin şirket tarafından üretildiğine kanaat getirmeleri ve müteselsil sorumluluğu yüklenmeleri şartıyla gelir vergisi tevkifatı yapmadan bu ürünleri satın almaları mümkün bulunma",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37894",
+  "source_sha256": "09f818c73b2c6c2fd2ad288b18314e21d72a367aba0ffcac83ed68f6d44d40ee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
