@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4429-11/14551",
+  "source_id": 22702,
+  "date": "2004-04-02",
+  "title": "Sosyal Güvenlik Destek Primin\"in Bağ-Kur primi olarak değerlendirilerek, gelirin elde edildiği yılda ödenmiş olduğunun tevsik edilmesi şartıyla, mükellefler tarafından ticari veya serbest meslek kazançları dolayısıyla verilecek yıllık beyannamede bildiril",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22702",
+  "source_sha256": "50cbe38c79be18c83f867a47d4dc414fbd1d0957ee4d90fc8b065ba0a586f7ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
