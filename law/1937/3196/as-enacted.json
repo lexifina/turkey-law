@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3196",
+  "year": 1937,
+  "title": "Ankara şehri İmar müdürlüğünün Ankara belediyesine bağlanması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-06-05",
+  "gazette_issue": "3623",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3623.pdf",
+  "source_sha256": "29cdf924a53810291bf3129bbd4cb7a7e0a3c9f45797d9bc6155bd192e87ef10",
+  "text_sha256": "264b02a7c6e5d9a6d9bf989dc15c7c7cc51f9e5f2477729a7d4dfeab284c0352",
+  "text_status": "ocr",
+  "pages": [
+    10
+  ],
+  "line_span": [
+    [
+      2859,
+      2918
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703196.pdf",
+    "source_sha256": "31f1e73d38c4a7a1c8df31882a1d435bb01edd63b1b9438e86c463994b22ab48",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9878,
+    "bag": 0.9579,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9922,
+    "rg_words": 378,
+    "kd_words": 385,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
