@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5004",
+  "year": 2003,
+  "title": "2003 Malî Yılı Bütçe Kanunu ile Bağlı Cetvellerinde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-11-22",
+  "gazette_issue": "25297",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/11/20031122.htm",
+  "source_sha256": "399493f11bc0ac950ea2d5b9a49a995b49b083bac6f0325a5337ea6b4be491a2",
+  "text_sha256": "0ca9f491dea4b950540c2f725a4415d6f79be0ffde61c8b8015fb0d9b1fef3e2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/11/22/25297-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/11/20031122.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
