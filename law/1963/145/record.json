@@ -1,0 +1,132 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "145",
+  "year": 1963,
+  "title": "Yalova Kaplıcaları İşletme İdaresi 1947, 1948, 1949, 1950, 1951, 1952, 1953, 1954, 1955 ve 1956 malî yılları bilançosunun onanmasına dair Kanun",
+  "adopted": "1963-01-22",
+  "adopted_as_published": "22/01/1963",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.01.1963 No: 11321",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600145.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 46",
+  "committee_reports": [
+    {
+      "label": "MM 356 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010016ss0356.pdf"
+    },
+    {
+      "label": "CS 35no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c008/cs__02008030ss0035.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 340668,
+      "title": "Yalova Kaplıcaları İşletme İdaresi 1947, 1948, 1949, 1950, 1951, 1952, 1953, 1954, 1955 ve 1956 malî yılları bilançosunun onanmasına dair Kanun",
+      "adopted_as_published": "22/01/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600145.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 356 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010016ss0356.pdf"
+        },
+        {
+          "label": "CS 35no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c008/cs__02008030ss0035.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 35,
+          "sitting_date": "1962-01-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c002/mm__01002035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c002/mm__01002fih.pdf",
+          "pages": [
+            "46"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 16,
+          "sitting_date": "1962-12-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010016.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010fih.pdf",
+          "pages": [
+            "55",
+            "65",
+            "68",
+            "109:112"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 18,
+          "sitting_date": "1962-12-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010018.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010fih.pdf",
+          "pages": [
+            "182",
+            "183",
+            "197",
+            "253:256"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1701&v_kullanici_id=27483225",
+      "page_sha256": "9f3c50e76358d05609152df7db0add6c732e78f24bfdcd01f0298d63b0ebfe89"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 173429,
+      "title": "Yalova Kaplıcaları İşletme İdaresi 1947, 1948, 1949, 1950, 1951, 1952, 1953, 1954, 1955 ve 1956 malî yılları bilançosunun onanmasına dair Kanun",
+      "adopted_as_published": "22/01/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600145.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 356 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c010/mm__01010016ss0356.pdf"
+        },
+        {
+          "label": "CS 35no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c008/cs__02008030ss0035.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 8,
+          "sitting": 30,
+          "sitting_date": "1963-01-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c008/cs__02008030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c008/cs__02008fih.pdf",
+          "pages": [
+            "102",
+            "141",
+            "143:145"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=101&v_kullanici_id=27483235",
+      "page_sha256": "6628bf23192d21ae13dce1ef77f1be03aff34b8bb223cda2683706f58dd6c31c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9f3c50e76358d05609152df7db0add6c732e78f24bfdcd01f0298d63b0ebfe89",
+  "issuer": "Millet Meclisi",
+  "in_force": "1963-01-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 22/01/1963; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
