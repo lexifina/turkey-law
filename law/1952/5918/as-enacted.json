@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5918",
+  "year": 1952,
+  "title": "Askerî Muhakeme Usulü Kanununun 4280 Sayılı Kanunla Değiştirilen 4. Maddesinin Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-05-02",
+  "gazette_issue": "8099",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8099.pdf",
+  "source_sha256": "3dffa8f9d7c6108e5e0eb7f88ded177b53c59a46062e731d3904a8aa493988eb",
+  "text_sha256": "e66584f421be544ee7d7da0984f31bb9067e31a5fd07f10e868781d9c4a9b6ac",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      10,
+      52
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405918.pdf",
+    "source_sha256": "bf8e483b1f881393fd315b9115110ad3cdbbcbe1dc14df4ef9df828cf6bb3efd",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9887,
+    "bag": 0.9424,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9929,
+    "rg_words": 278,
+    "kd_words": 280,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
