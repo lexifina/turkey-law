@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 4076,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Kayseri Mebusu Sabit Beyin, Tekâlifi Harbiye ve taahhüdatı askeriyeden matlubu olanlara arazi ve emlâki metruke itasına dair kanun teklifi hakkında (2/646)",
+  "title": "Kayseri Mebusu Sabit Beyin, Tekâlifi Harbiye ve taahhüdatı askeriyeden matlubu olanlara arazi ve emlâki metruke itasına dair kanun teklifi hakkında (2/646)",
+  "first_sitting_date": "1923-02-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 27,
+      "sitting": 186,
+      "sitting_date": "1923-02-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c027/tbmm01027186.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c027/ehttbmm01027186.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c027/tbmm01027fih.pdf",
+      "pages": [
+        "139"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1993&v_gelecek_sayfa=1801&v_kullanici_id=27483712",
+  "source_sha256": "557d2730895c9517a798153dfb8e039b8e21b91adb5d06e300446a2007506d50",
+  "in_force": "1923-02-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
