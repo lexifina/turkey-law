@@ -1,0 +1,66 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 157325,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "title": "Cumhuriyet Senatosu fihrist kaydı 157325 (Teklifler)",
+  "first_sitting_date": "1962-05-10",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 61,
+      "sitting_date": "1962-05-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+      "pages": [
+        "112"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 74,
+      "sitting_date": "1962-06-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+      "pages": [
+        "333:335"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 76,
+      "sitting_date": "1962-07-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+      "pages": [
+        "358"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 77,
+      "sitting_date": "1962-07-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+      "pages": [
+        "416:423"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2e6d2a64cafaed3a62bb4f4cc81182c6ea559de9b7e93558bce17b93db24d55b",
+  "in_force": "1962-05-10",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
