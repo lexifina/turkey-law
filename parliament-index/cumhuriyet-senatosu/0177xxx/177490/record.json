@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 177490,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "506 sayılı Kanunun 118. maddesinin değiştirilmesine dair kanun teklifi hakkında (Millet Meclisi 2/846, Cumhuriyet Senatosu 2/184) (S. Sayısı:710)",
+  "title": "506 sayılı Kanunun 118. maddesinin değiştirilmesine dair kanun teklifi hakkında (Millet Meclisi 2/846, Cumhuriyet Senatosu 2/184) (S. Sayısı:710)",
+  "first_sitting_date": "1965-07-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 30,
+      "sitting": 118,
+      "sitting_date": "1965-07-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030118.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030fih.pdf",
+      "pages": [
+        "510",
+        "515",
+        "576:577"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=1501&v_kullanici_id=27484903",
+  "source_sha256": "06455e406ccf609ce946e3b58bae41ca41be4d224c1fe36980b1269ba5512c87",
+  "in_force": "1965-07-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
