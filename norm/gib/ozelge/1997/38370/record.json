@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.64/6421-58/16720",
+  "source_id": 38370,
+  "date": "1997-04-28",
+  "title": "Müteaahhit tarafından inşaa edilip satışı yapılan bağımsız bölümlerin 2982 Sayılı \t    Kanun karşısındaki durumu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/469/ozelge/38370",
+  "source_sha256": "94b12293c72935f17e1407465f4e182373e5f2db4bd8fe5fadb941b97722b80e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
