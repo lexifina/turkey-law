@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 317136,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Cumhuriyet Senatosu Çanakkale Üyesi Nahit Altan'ın, Cumhuriyet Senatosu İçtüzüğünün 5. maddesinin 3. ve 4. cümlelerinin kaldırılması ve 8. maddesinin matlabının ve (A) fıkrasının 1.2. ve 3. bentleriyle (B) fıkrasının değiştirilmesi hakkında İçtüzük teklifi ile Cumhuriyet Senatosu Adana Üyesi Mehmet Ünaldı'nın, Cumhuriyet Senatosu İçtüzüğünün 5,8,11,13,14,15,17,54,56,59,60,72,73,74,120 ve 125. maddelerinin değiştirilmesine dair İçtüzük teklifi hakkında (2/211; 2/255) (S. Sayısı:1272'ye ek)",
+  "title": "Cumhuriyet Senatosu Çanakkale Üyesi Nahit Altan'ın, Cumhuriyet Senatosu İçtüzüğünün 5. maddesinin 3. ve 4. cümlelerinin kaldırılması ve 8. maddesinin matlabının ve (A) fıkrasının 1.2. ve 3. bentleriyle (B) fıkrasının değiştirilmesi hakkında İçtüzük teklifi ile Cumhuriyet Senatosu Adana Üyesi Mehmet Ünaldı'nın, Cumhuriyet Senatosu İçtüzüğünün 5,8,11,13,14,15,17,54,56,59,60,72,73,74,120 ve 125. maddelerinin değiştirilmesine dair İçtüzük teklifi hakkında (2/211; 2/255) (S. Sayısı:1272'ye ek)",
+  "first_sitting_date": "1970-11-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 62,
+      "sitting": 10,
+      "sitting_date": "1970-11-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c062/cs__10062010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c062/cs__10062fih.pdf",
+      "pages": [
+        "98:100"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=3001&v_kullanici_id=27484903",
+  "source_sha256": "41af239050c5559b2ff396cebfc70e266ec5e1214e71b45fbaec207af1d907ac",
+  "in_force": "1970-11-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
