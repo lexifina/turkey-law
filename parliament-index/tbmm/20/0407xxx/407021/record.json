@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 407021,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Polonya Cumhuriyetinin Kuzey Atlantik Antlaşmasına Katılımına ilişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun Tasarısına ilişkin",
+  "title": "Polonya Cumhuriyetinin Kuzey Atlantik Antlaşmasına Katılımına ilişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun Tasarısına ilişkin",
+  "first_sitting_date": "1998-10-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 64,
+      "sitting": 10,
+      "sitting_date": "1998-10-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c064/tbmm20064010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c064/tbmm20064fih.pdf",
+      "pages": [
+        "148:155",
+        "166",
+        "184:189"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=481&v_gelecek_sayfa=401&v_kullanici_id=27484473",
+  "source_sha256": "b3d12fabc877d00f17260dafcbab0adf4db0ebe5c75f727d6f6453643c6093d8",
+  "in_force": "1998-10-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
