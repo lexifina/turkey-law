@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2000/91",
+  "list_number": "91",
+  "decision_date": "2000-02-12",
+  "title": "YSK ilke kararı 2000/91",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4369/2000-91-karar.htm",
+  "source_sha256": "3e28d7120d9a582ccb43c4b0bbd17328b5d08d2e9c4930dea9f3159f28f39ca2",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2000-02-12",
+  "law_text_complete": false
+}
