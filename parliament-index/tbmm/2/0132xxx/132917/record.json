@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 132917,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEFSİRLER",
+  "heading_as_published": "Tefsirler",
+  "summary": "Matlubat ve düyunu hazinenin sureti mahsubuna mütedair 23 Nisan 1340 tarihli Mahsubu Umumi Kanununun birinci maddesinin tefsiri.",
+  "title": "Matlubat ve düyunu hazinenin sureti mahsubuna mütedair 23 Nisan 1340 tarihli Mahsubu Umumi Kanununun birinci maddesinin tefsiri.",
+  "first_sitting_date": "1924-10-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 45,
+      "sitting_date": "1924-10-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c009/tbmm02009045.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c009/ehttbmm02009045.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c009/tbmm02009fih.pdf",
+      "pages": [
+        "23"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 107,
+      "sitting_date": "1925-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c018/tbmm02018107.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c018/ehttbmm02018107.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c018/tbmm02018fih.pdf",
+      "pages": [
+        "235"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 4,
+      "sitting_date": "1925-11-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c019/tbmm02019004.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c019/ehttbmm02019004.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c019/tbmm02019fih.pdf",
+      "pages": [
+        "48:49"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=383&v_gelecek_sayfa=101&v_kullanici_id=27483770",
+  "source_sha256": "c1d548b49ce07e2a4d9716f4f126bb2c34af8388a581500824eeb2da8f09a2ff",
+  "in_force": "1924-10-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
