@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4278",
+  "year": 1942,
+  "title": "Askerî kara, deniz ve hava ataşeleri maiyetlerine birer er verilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-08-08",
+  "gazette_issue": "5179",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5179.pdf",
+  "source_sha256": "4a9f8c906329516473c30586b99c5c7b95e48b38c2cfb5cd1d4d136264d8d67f",
+  "text_sha256": "69b1333a3e2e330c8eea7ca436624f44064d5eef23e42f225446b5c261f06762",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      104,
+      186
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304278.pdf",
+    "source_sha256": "012302747dd99a5816b16963beb5903fb407427bfa2d6172bc0df65e44e16bd0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9739,
+    "bag": 0.9225,
+    "kd_coverage": 0.9956,
+    "kd_body_compared": 0.9859,
+    "rg_words": 276,
+    "kd_words": 283,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
