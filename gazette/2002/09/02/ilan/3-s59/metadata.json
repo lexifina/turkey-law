@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-09-02",
+  "issue": "24864",
+  "edition": "regular",
+  "item": 59,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "MSB. İstanbul İç Tedarik Bölge Başkanlığı (1) Nolu İhale Komisyon Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020902-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (63 = 63)",
+  "ilan_codes": [
+    "24756/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020902-3.htm",
+  "category_page_sha256": "8cfde24610033961990f78a8866099ea7f48c95bbcf8b028fb05f9cd7cd39d1f",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020902.htm",
+  "index_sha256": "144334d1a5e6114395aaf015bb42b4eedaefcd6e5a5b06788fc17d3e225f7a24",
+  "index_header": "2 Eylül 2002 ... Sayı : 24864",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
