@@ -1,0 +1,5 @@
+Personel istihdamı
+MADDE 22.- Büyükşehir belediyesi personeli büyükşehir belediye başkanı tarafından atanır. Personelden müdür ve üstü unvanlı olanlar ilk toplantıda büyükşehir belediye meclisinin bilgisine sunulur.
+Genel sekreter, belediye başkanının teklifi üzerine İçişleri Bakanı tarafından atanır. Genel sekreter kadrosuna atananlar, genel idare hizmeti sınıfına dahil bakanlık genel müdürleri, genel sekreter yardımcısı kadrosuna atananlar ise bakanlık bağımsız daire başkanları için ilgili mevzuatında öngörülen tüm haklardan aynen yararlanırlar.
+Büyükşehir belediyesi daire başkanları, bağlı genel müdürlüklerin daire başkanlarının yararlandığı makam ve görev tazminatından aynen yararlanırlar.
+Sözleşmeli ve işçi statüsünde çalışanlar hariç belediye memurlarına, başarı durumlarına göre toplam memur sayısının % 10'unu ve Devlet memurlarına uygulanan aylık katsayının (30.000) gösterge rakamı ile çarpımı sonucu bulunacak miktarı geçmemek üzere hastalık ve yıllık izinleri dahil olmak üzere, çalıştıkları sürelerle orantılı olarak encümen kararıyla yılda en fazla iki kez ikramiye ödenebilir.
