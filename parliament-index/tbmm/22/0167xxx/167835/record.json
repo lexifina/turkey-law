@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 167835,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "İSMAİL KATMERCİ (İZMİR)",
+  "summary": "Balıkesir Milletvekili A. Edip Uğur ile Gaziantep Milletvekili Ahmet Uzer'in; İş Kanunu, Sendikalar Kanunu ile Basın Mesleğinde Çalışanlarla Çalıştıranlar Arasındaki Münasebetlerin Tanzimi Hakkında Kanunda Değişiklik Yapılmasına İlişkin Kanunun Yürürlük Tarihinin Değiştirilmesi Hakkında (2/97)",
+  "title": "Balıkesir Milletvekili A. Edip Uğur ile Gaziantep Milletvekili Ahmet Uzer'in; İş Kanunu, Sendikalar Kanunu ile Basın Mesleğinde Çalışanlarla Çalıştıranlar Arasındaki Münasebetlerin Tanzimi Hakkında Kanunda Değişiklik Yapılmasına İlişkin Kanunun Yürürlük Tarihinin Değiştirilmesi Hakkında (2/97)",
+  "first_sitting_date": "2003-03-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 48,
+      "sitting_date": "2003-03-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c008/tbmm22008048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c008/tbmm22008fih.pdf",
+      "pages": [
+        "57:86"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "66ff55d5a0d0d1e0906be9fad02382007df85b0722cee305a515ce66f9372765",
+  "in_force": "2003-03-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
