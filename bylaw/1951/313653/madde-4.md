@@ -1,0 +1,1 @@
+Madde 4 – Bu Tüzüğün 2 ve 3 üncü maddeleri mevzuuna giren iş ve kazalardan doğan hadiseler için tutanak düzenlenmemiş veya düzenlenememiş olan hallerde tutanak yerine bu baptaki tahkikat evrakı malüllük raporlarına eklenir. Şu kadar ki malüllüğün vazifeden doğup doğmadığının tesbiti bakımından tahkikat evrakının yukarda yazılı hususları ihtiva etmesi şarttır.
