@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2241",
+  "year": 1933,
+  "title": "Tapu tahririne dair olan 10.4.1340 tarih ve 47 sayılı Kanunun 8. maddesinin tadiline ve mezkûr kanuna bazı fıkralar ilâvesine dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-06-06",
+  "gazette_issue": "2420",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2420.pdf",
+  "source_sha256": "62fa3758a4160d73c6b24c031183b0a62c2c3c670180bf89599b0a0842dde123",
+  "text_sha256": "f9fc9234c3755be831f711ae53126832aa8f10effef1f8f85595958f8afadb62",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      57
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202241.pdf",
+    "source_sha256": "48b7493df2f713d9fe9d952de9777f6c8b163c990c1a88e4eb49d4d805de3749",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9653,
+    "bag": 0.9383,
+    "kd_coverage": 0.9891,
+    "kd_body_compared": 0.9731,
+    "rg_words": 192,
+    "kd_words": 186,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
