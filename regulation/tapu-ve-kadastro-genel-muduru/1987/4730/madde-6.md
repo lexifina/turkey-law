@@ -1,0 +1,6 @@
+Çalışma alanı sınırına itiraz
+Madde 6 - Kadastro teknisyenlerinin belirlediği çalışma alanı sınırına, sınır tespitine ilişkin tutanağın tebliğ veya ilan tarihinden itibaren 7 günlük süre içinde ilgililerince (belediye başkanı, köy veya mahalle muhtarı ve orman idaresinin mahalli kuruluşu ile sınırdaki taşınmaz malı ile ilgili özel ve tüzel kişiler) kadastro müdürlüğüne yapılacak itirazlar, gerekiyorsa mahallinde de inceleme yapmak suretiyle kadastro müdürü tarafından 7 gün içinde karara bağlanır. Bu sürenin sonunda yapılacak itirazlar dikkate alınmaz.
+Karar tebliği
+Karar 7 - Kadastro müdürünce verilen karar, ilgililer hazırsa birer örneği imza karşılığı kendilerine verilir. Hazır değilse, Tebligat Kanunu hükümlerine göre tebliğ edilir. Kararda, tebliğ tarihinden itibaren 7 gün içinde kadastro mahkemesine itiraz edebilecekleri açıklanır.
+Bu karara karşı itiraz edilmesi halinde, 3402 sayılı Kadastro Kanununun 4 üncü maddesi gereğince itiraz, kadastro mahkemesince, gerekiyorsa mahallinde inceleme yapılarak duruşma yapılmaksızın 15 gün içinde kesin karara bağlanır.
+Kadastro çalışma alanı sınırı, mahalle, köy veya belediye mülki sınırı sayılmaz. Ayrıca, sınıra itiraz ve orman sınırı tespiti işleminin gecikmesi kadastro çalışmalarını durdurmaz.
