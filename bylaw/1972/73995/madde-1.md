@@ -1,0 +1,1 @@
+Madde 1 – Bina, arsa ve arazinin, vergi değerlerinin takdirinde şehir, kasaba ve köylerin tabii, iktisadi ve bölgesel şartlarına göre nazara alınacak normlar ile uyulacak usul ve esaslar ve mükelleflerden bu konuda istenecek bilgilerle, tarım arazisinin vergi değerinin tespitinde arazinin verim gücünün hangi hallerde nazara alınacağı bu Tüzükte gösterilmiştir.

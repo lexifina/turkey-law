@@ -1,0 +1,3 @@
+İnceleme memurlarına bilgi verme zorunluluğu:
+Madde 4 – Muhtarlar, ihtiyar kurulları, meslek kuruluşları, belediyeler, resmi ve yarı resmi diğer kuruluşlarla gerçek ve tüzel kişiler; inceleme yetkisine sahip memurların bu hususa ilişkin olarak istedikleri bilgileri vermek zorundadırlar. İnceleme yetkisine sahip memurlar, vergi değeri takdir edilecek bina, arsa ve araziyi gezip görebilirler.
+Ancak, çalışma saatleri dışında veya tatil günlerinde bina, arsa ve arazi, bunları işgal edenlerin muvafakatı olmaksızın gezilip görülemez. Binaların gezilmesi sırasında ev halkının rahatsız edilmemesine dikkat edilir.
