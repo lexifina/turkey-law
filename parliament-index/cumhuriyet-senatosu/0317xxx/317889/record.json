@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 317889,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "İş Kanununa dair (Millet Meclisi 1/347; Cumhuriyet Senatosu 1/1228) (S. Sayısı:1640)",
+  "title": "İş Kanununa dair (Millet Meclisi 1/347; Cumhuriyet Senatosu 1/1228) (S. Sayısı:1640)",
+  "first_sitting_date": "1971-06-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 65,
+      "sitting": 75,
+      "sitting_date": "1971-06-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065fih.pdf",
+      "pages": [
+        "344"
+      ]
+    },
+    {
+      "cilt": 66,
+      "sitting": 93,
+      "sitting_date": "1971-07-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066fih.pdf",
+      "pages": [
+        "155",
+        "165:193"
+      ]
+    },
+    {
+      "cilt": 66,
+      "sitting": 94,
+      "sitting_date": "1971-07-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066094.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066fih.pdf",
+      "pages": [
+        "213:258"
+      ]
+    },
+    {
+      "cilt": 66,
+      "sitting": 95,
+      "sitting_date": "1971-07-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066095.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066fih.pdf",
+      "pages": [
+        "272:307",
+        "314:315"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2010&v_gelecek_sayfa=1601&v_kullanici_id=27484916",
+  "source_sha256": "46d92f20f8a83c42824012c4d9c00ea960a273094c41ac957910bfb8b5ed7d8a",
+  "in_force": "1971-06-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
