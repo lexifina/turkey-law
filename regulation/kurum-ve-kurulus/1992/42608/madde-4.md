@@ -1,0 +1,18 @@
+Tanımlar
+Madde 4- Bu Yönetmelikte geçen; Bakanlık: Tarım ve Köyişleri Bakanlığı’nı,
+Araştırma Enstitüsü: Tarım ve Köyişleri Bakanlığı’nın bitki ıslahı üzerinde çalışan Araştırma Enstitüsü Müdürlüklerini,
+İl Müdürlüğü: Tarım ve Köyişleri Bakanlığı’nın illerdeki müdürlüklerini,
+Üretme İstasyonu: Tarım ve Köyişleri Bakanlığı’nın tohum, fide, fidan ve çöğür üretimi yapan üretme istasyonu müdürlüklerini,
+Tarım İşletmesi: Tarım ve Köyişleri Bakanlığı’nın ilgili kuruluşlarından Tarım İşletmeleri Genel Müdürlüğü’ne bağlı tarım işletmesi müdürlüklerini,
+Çalışma Grubu: Bitki Genetik Kaynakları Çalışma Grubunu,
+Bitki genetik Kaynakları: Yerel çeşitler ve / veya köy populasyonlarını, tabiatta mevcut yabani türleri ve geçiş formlarının özel amaçlar için geliştirilmiş çeşitleri, bazı önemli karakterlere sahip ıslah materyalini,
+Baz Kolleksiyonlar: Islah ve araştırma çalışmaları için genetik varyasyonların emniyeti açısından uzun süreli muhafazaya alınan ve dağıtıma konu olmayan generatif ve vegetatif materyali,
+Aktif Kolleksiyonlar: Baz kolleksiyonları bütünleyen, materyal değişimi, araştırma üretim, yenileme, değerlendirme gibi amaçlar için dağıtımı yapılan, orta süreli muhafazaya alınan materyali,
+Herbaryum: Tekniğine uygun olarak kurutulmuş, preslenmiş ve saklanmış bitki örneklerini,
+Tohum Gen Bankası: Tohumla üreyen bitkilerin tohumlarının baz ve aktif kolleksiyonları ile herbaryum örneklerinin muhafaza edildiği yeri,
+Kolleksiyon Bahçeleri: Vejetatif materyalin yetiştirilerek muhafaza edildiği yeri,
+İn Vitro Şartlarda Muhafaza: Vejetatif materyalin baz kolleksiyonlarının tüp, petri kutusu gibi kontrollü şartlarda muhafaza edilmesini,
+Sürvey: Bir sorunla ilişkili şartların konu uzmanlarınca organize edilmiş bir defaya mahsus veya periyodik olarak görsel etüdünü,
+Karakterizasyon: Yüksek derecede kalıtsal olan her türlü çevre şartlarında ortaya çıkabilen ve gözle kolayca fark edilebilen botanik karakterlerinin tespit edilmesini,
+Dökümantasyon: Muhafazaya alınan bitkiler ile ilgili bilgilerin kayda alınmasını,
+ifade eder.

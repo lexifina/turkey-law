@@ -1,0 +1,2 @@
+İntrodüksiyon
+Madde 18- Materyal introdüksiyonu, ilgili kuruluşların talepleri üzerine Bitki Gen Kaynakları Araştırma Enstitüsü tarafından tek elden gerçekleştirilir. Yurtdışı introdüksiyon materyali karantina işlemlerinden sonra talep edilen kuruluşlara gönderilir. Talep eden kuruluş bu materyal ile ilgili araştırmasını tamamladığında sonuç bilgilerini introdüksiyonun yapıldığı kuruluşa göndermek üzere Bitki Gen Kaynakları Araştırma Enstitüsü’ne iletir.

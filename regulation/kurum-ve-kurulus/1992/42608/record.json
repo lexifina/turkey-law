@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.42608",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİTKİ GENETİK KAYNAKLARININ TOPLANMASI MUHAFAZASI VE KULLANILMASI HAKKINDA YÖNETMELİK",
+  "number": "42608",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1992/42608",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=42608&MevzuatTertip=5",
+  "source_sha256": "1085b96c524c01ff85d7167e6bcf1dc38fbc1e8ab1c1b81c22f2906848ddda7d",
+  "source_bytes": 41168,
+  "published": "1992-08-15",
+  "gazette": "21316",
+  "in_force": "1992-08-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.08.1992); own commencement article: \"Bu Yönetmelik, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1697,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

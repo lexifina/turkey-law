@@ -1,0 +1,5 @@
+Uluslararası İşbirliği
+Madde 20- Mevcut kolleksiyonlarının tamamının yurtdışına çıkarılması yasaktır. Uluslararası anlaşmalarda kolleksiyonların bütün olarak dışarıya aktarılmasını öngören hükümlere “Şerh” konur.
+Yurtdışından gelecek materyal istekleri, materyal miktarı, istenen örnek sayısı bitkilerin ihracattaki önemi bu konudaki diğer mevzuat hükümleri ve ikili araştırmalar dikkate alınarak Bitki Gen Kaynakları Araştırma Enstitüsü’nce karşılanır. Materyal üzerinde yapılan çalışmaların sonucu Bitki Gen Kaynakları Araştırma Enstitüsü’nce bildirilir. Bu duruma uymayan yerlere bir daha materyal gönderilmez.
+Yabancı kişi ve kuruluşların bitki toplama talepleri her yıl yapılacak olan toplama programları, toplanacak bitki türleri ve toplama yapılacak yerler dikkate alınarak Bakanlıkça gönderilir.
+Bakanlığa doğrudan yapılan taleplerin kabul edilmesi halinde talep sahibi ve Bakanlık arasında bir proje yapılır. Bu projede yer alacak hususlar ve uyulacak prensipler kuruluşa bildirilir. Karşı tarafın olumlu görüşünün alınmasını takiben proje ve program hazırlanır ve uygulamaya geçilir.
