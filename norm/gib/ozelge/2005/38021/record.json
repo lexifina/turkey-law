@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5528 -  2148/12320",
+  "source_id": 38021,
+  "date": "2005-03-14",
+  "title": "Muhtelif Bitki ve Meyve Çaylarına uygulanan KDV oranları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38021",
+  "source_sha256": "1ffe3f318cf9a90696577599172571707a385ffa52f18d96c5d1be0fbed3d1fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
