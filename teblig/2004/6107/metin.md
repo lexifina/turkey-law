@@ -1,0 +1,6 @@
+Bakanlık Adı | : | Maliye Bakanlığı
+Tebliğin Adı | : | Vergi Usul Kanunu Genel Tebliği
+Tebliğ No | : | Sıra No: 331
+R. Gazete Tarihi | : | 18/3/2004
+R. Gazete Sayısı | : | 25406
+VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 331) Bilindiği üzere, beyannamelerin şekil, muhteva ve eklerini belirlemeye Maliye Bakanlığının yetkili olduğu vergi kanunları ile hüküm altına alınmıştır. Bu çerçevede, vergi beyannamelerinde, "T.C. Kimlik Numarası" ve "E-Posta Adresi"ne ilişkin alanlara yer verilmiştir. Buna göre, gerçek kişi mükellefler tarafından vergi dairelerine verilecek beyannamelerde bulunan, "T.C. Kimlik Numarası"na ilişkin alan doldurulacaktır. Ayrıca, mükelleflerin elektronik posta adresinin bulunması halinde ilgili alanın doldurulması, bulunmaması halinde ise ilgili alana elektronik posta adresinin olmadığının yazılması gerekmektedir. Diğer taraftan, vergi dairelerince beyannamelerin alınması sırasında "T.C. Kimlik Numarası" ile "E-Posta Adresi"ne ilişkin alanların doldurulup doldurulmadığı kontrol edilecektir. Tebliğ olunur.
