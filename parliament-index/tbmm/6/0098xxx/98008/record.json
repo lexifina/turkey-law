@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 98008,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Türkiye ile Fransa arasında mevcut 23 Ağustos 1939 tarihli tediye Anlaşmasına zeyil olarak imzalanan lâhikanın tasdikına dair (1/324)",
+  "title": "Türkiye ile Fransa arasında mevcut 23 Ağustos 1939 tarihli tediye Anlaşmasına zeyil olarak imzalanan lâhikanın tasdikına dair (1/324)",
+  "first_sitting_date": "1940-03-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 28,
+      "sitting_date": "1940-03-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c009/tbmm06009028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c009/tbmm06009fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 21,
+      "sitting_date": "1941-12-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c022/tbmm06022021.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c022/tbmm06022fih.pdf",
+      "pages": [
+        "148"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 25,
+      "sitting_date": "1942-01-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c023/tbmm06023025.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c023/tbmm06023fih.pdf",
+      "pages": [
+        "66:67",
+        "103:104",
+        "107:110"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1070&v_gelecek_sayfa=501&v_kullanici_id=27483993",
+  "source_sha256": "4f107e8ea95c40b665ba5c5e74c7a8edfbfb026c444553bec5313e4c5765ba04",
+  "in_force": "1940-03-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
