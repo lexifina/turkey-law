@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.GEL.0.65/6508-42/27981",
+  "source_id": 38292,
+  "date": "1997-07-04",
+  "title": "Rakam kapasitesi düşük olan ÖKC'lerin mali hafızası dolup değişmesi gerektiği zaman daha yüksek kapasiteli bir hafıza takılarak her günün sonunda bir \"Z raporu\" alacak şekilde düzenlenmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38292",
+  "source_sha256": "34be9a93988a2edb4d5610cfa5c3cf1525700368c125f773272ed00d2cbe248a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
