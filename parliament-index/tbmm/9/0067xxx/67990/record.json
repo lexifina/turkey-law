@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 67990,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "HAMDİ BULGURLU (ANKARA)",
+  "summary": "Türkiye Cumhuriyeti Emekli Sandığı Kanununun geçici 3. ve 30. maddelerinde değişiklik yapılması hakkında kanun teklifi (2/478)",
+  "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanununun geçici 3. ve 30. maddelerinde değişiklik yapılması hakkında kanun teklifi (2/478)",
+  "first_sitting_date": "1953-01-07",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 19,
+      "sitting": 24,
+      "sitting_date": "1953-01-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c019/tbmm09019024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c019/tbmm09019fih.pdf",
+      "pages": [
+        "49"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 10,
+      "sitting_date": "1953-11-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c025/tbmm09025010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c025/tbmm09025fih.pdf",
+      "pages": [
+        "426"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 44,
+      "sitting_date": "1954-02-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028044.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c028/tbmm09028fih.pdf",
+      "pages": [
+        "432:433"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=676&v_gelecek_sayfa=501&v_kullanici_id=27484220",
+  "source_sha256": "e5f1a9a88c2ae136a10ad394c2949fc810a7e4983576aecfa1ad85f2284f89ba",
+  "in_force": "1953-01-07",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
