@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-07-10",
+  "issue": "25164",
+  "edition": "regular",
+  "item": 16,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "Bandırma Belediyesi İşletmeler Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030710-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (40 = 40)",
+  "ilan_codes": [
+    "23069/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030710-3-3.htm",
+  "category_page_sha256": "b03f00e9e63b1b96f3ae9b05b3f08ffa422b775462d49f8404fd43123609c115",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030710.htm",
+  "index_sha256": "0c628ef27405a321d2bb5d68fa74f24f2825848fd437b580355d15cb7aba45d1",
+  "index_header": "10 Temmuz 2003 ... Sayı : 25164",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
