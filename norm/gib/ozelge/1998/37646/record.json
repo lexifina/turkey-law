@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5004-60-035386",
+  "source_id": 37646,
+  "date": "1998-10-05",
+  "title": "Müzik eserlerinin kullanımından doğan telif haklarını koruyan ve hak sahiplerine ulaştıran birliğin faaliyetinin kurumlar vergisine tabi olup olmadığı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37646",
+  "source_sha256": "7a7236cdd00243c4d7ab93ccad0fa07ff9e34e4918b4baf68cc90c7222cdf57c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
