@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2857-115-1909/1296",
+  "source_id": 25122,
+  "date": "1999-01-13",
+  "title": "Tabi afetlere maruz kalan mükelleflerin afetin zarar verdiği gelir kaynakları ile ilgili vergi borçları ve vergi cezaları afetin meydana geldiği tarihe kadar geçen mükellefiyet dönemlerine taalluk etmesi ve söz konusu tarihe kadar ödenmemiş olması şartıyl",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25122",
+  "source_sha256": "436197afe2593c878e3866f9cbe7883e07176601c45c5186bdd77f3b04d387cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
