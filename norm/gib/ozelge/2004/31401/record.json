@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5413- 535-47883",
+  "source_id": 31401,
+  "date": "2004-10-13",
+  "title": "Yatırım teşvik belgesi sahibi şirketlerin belge kapsamında katma değer vergisi istisnası uygulanarak ithal ettiği makine ve teçhizatı Hazine Müsteşarlığının izin ve onayı ile yatırım teşvik belgesinde isim değişikliği yapılmak suretiyle bir başka mükellef",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31401",
+  "source_sha256": "ad533fe4dcc1985382a246eb602aebf0f4e6de44f8462e5165ff2d2d2e683264",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
