@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4045-87/11900",
+  "source_id": 24266,
+  "date": "2005-03-11",
+  "title": "İlgili yıl faaliyetlerinden zarar ettikleri halde rızaen kar beyan eden mükelleflerin, geçmiş yıl zararını sonraki yıllarda beyan edecekleri gelirden mahsup etmelerinin mümkün olmaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24266",
+  "source_sha256": "9032016e6f1e695d6b704dbf67a693099c65a24dc1493d52f513cebd659164b9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
