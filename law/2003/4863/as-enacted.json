@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4863",
+  "year": 2003,
+  "title": "Hakimler ve Savcılar Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-06-03",
+  "gazette_issue": "25127",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030603.htm",
+  "source_sha256": "c7850d3a0952e4b9b73f99d6d96d16c7347afebef4e9d71fcea97f65dafd6435",
+  "text_sha256": "8a6c5d15ac9d794b21cf96f8f5ede030f2bc2eeead7b2e881d098e474655f5c0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/06/03/25127-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030603.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
