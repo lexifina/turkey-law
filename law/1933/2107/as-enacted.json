@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2107",
+  "year": 1933,
+  "title": "Bazı vekalet binaları ile Temyiz mahkemesi ve hapishane binalarının inşasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-01-25",
+  "gazette_issue": "2313",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2313.pdf",
+  "source_sha256": "8fa537b18fefbc0ab281e85e74f444a055c26803abdf3bdf6fdfae468abdf36c",
+  "text_sha256": "30499c382ae22511406207c794064c9a5158ccfe46c6d1150934f6eed8e3a433",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      245,
+      284
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202107.pdf",
+    "source_sha256": "f483f77e0036ff944517ee3f962fd035085186eb66c645a5547f958fe9d463aa",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9664,
+    "bag": 0.9129,
+    "kd_coverage": 0.9789,
+    "kd_body_compared": 0.9655,
+    "rg_words": 147,
+    "kd_words": 145,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
