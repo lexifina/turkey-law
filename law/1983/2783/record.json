@@ -1,0 +1,56 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2783",
+  "year": 1983,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Tunus Cumhuriyeti Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "adopted": "1983-01-11",
+  "adopted_as_published": "11/01/1983",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "13.01.1983 No: 17927",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanundmc066/kanundmc06602783.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 66",
+  "committee_reports": [
+    {
+      "label": "DM 226 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c012/dm__02012029ss0226.pdf"
+    },
+    {
+      "label": "MGK 510no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c008/mgk_01008127ss0510.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Danışma Meclisi",
+      "term": null,
+      "kayit_no": 143799,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Tunus Cumhuriyeti Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+      "adopted_as_published": "11/01/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanundmc066/kanundmc06602783.pdf",
+      "committee_reports": [
+        {
+          "label": "DM 226 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c012/dm__02012029ss0226.pdf"
+        },
+        {
+          "label": "MGK 510no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c008/mgk_01008127ss0510.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=322&v_gelecek_sayfa=101&v_kullanici_id=27483253",
+      "page_sha256": "865902146506a3648609d3b60120d1560238fd89af425a017532a853430f753b"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "865902146506a3648609d3b60120d1560238fd89af425a017532a853430f753b",
+  "issuer": "Danışma Meclisi",
+  "in_force": "1983-01-11",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Danışma Meclisi) as printed in the official TBMM kanunlar index: 11/01/1983; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
