@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-556/10658",
+  "source_id": 36641,
+  "date": "2001-02-21",
+  "title": "Odun ve kömür sobaları ile kalorifer kazanlarında yakıt şeklinde kullanılan, prinadan odun imalatı ve ticaretinin, mahrukatçılık faaliyeti kapsamında değerlendirilerek ödeme kaydedici cihaz kullanma mecburiyetinin dışında bırakılması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36641",
+  "source_sha256": "138332f75396537f2df0c313355113e085970eca95c1d7b8b78bd9b772eb5cb7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
