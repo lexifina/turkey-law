@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4878",
+  "year": 2003,
+  "title": "Uydular Aracılığı ile Haberleşme Uluslararası Teşkilatı (İNTELSAT) Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-06-17",
+  "gazette_issue": "25141",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030617.htm",
+  "source_sha256": "f3f820b251a2d432b90febbd5c3de2de16d17da155b6022113612e28a948558d",
+  "text_sha256": "6f53652b417c84311935b3e8c070fe4230e5e523010b7adcdcfcfd19546dc7f4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/06/17/25141-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030617.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
