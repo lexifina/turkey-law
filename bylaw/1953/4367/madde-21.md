@@ -1,0 +1,5 @@
+Hakem Heyetinin toplantısı ve kararları:
+Madde 21 – Hakem Heyeti zabıt varakasına itiraz vukuundan itibaren tatil günleri hariç olmak üzere 24 saat zarfında salahiyetli memur tarafından toplantıya davet olunur.
+Heyet Reisi veya azaları ve yedekleri, ihtilaf çıkan amil, satıcı, veya alakalının veyahut bunların temsilcilerinin usul ve furuundan veya üçüncü dereceye kadar (dahil) kan, civar veya sıhri hısımlarından bulunduğu veya şeriki veya müstahdemi olduğu takdirde Heyete katılamazlar.
+Heyet, davet tarihinden itibaren - tatil günleri hariç olmak üzere - üç gün zarfında toplanarak kendisine tevdi edilecek zabıt varakasiyle (16) ncı maddeye göre alınan nümuneler üzerinde gerekli tetkikatı yaparak ilk toplantı gününden itibaren en çok beş gün zarfında karar vermeğe mecburdur.
+Hakem Heyeti, lüzum gördüğü takdirde yediemine tevdi edilmiş olan malları da tetkik edebileceği gibi salahiyetli memur ve muterizden de gereken her türlü izahatı alabilir. Bundan başka salahiyetli memurla muteriz de Heyet huzurunda şifahi izahat vermek talebinde bulunabilir.
