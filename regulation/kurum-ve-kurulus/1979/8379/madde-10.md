@@ -1,0 +1,1 @@
+Madde 10- İmha Komisyonu'nca imha edilen banknotlarla ilgili olarak düzenlenmiş ve imza edilmiş imha zabıtları Maliye Bakanlığı* ile Banka arasındaki münasebetlerde kati hüküm ifade eden nihai bir vesika olarak Bankada saklanır.

@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.8379",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ESKİMİŞ, YIPRANMIŞ VEYA KISMEN FİZİKİ PARÇA KAYBINA UĞRAMIŞ BANKNOTLARIN DEĞİŞTİRİLMESİ HAKKINDA 14 OCAK 1970 TARİHLİ VE 1211 SAYILI KANUN'UN 37 NCİ MADDESİ GEREĞİNCE MALİYE BAKANLIĞI* VE TÜRKİYE CUMHURİYET MERKEZ BANKASI ARASINDA MÜŞTEREKEN KARARLAŞTIRILAN ESASLARLA İLGİLİ YÖNETMELİK",
+  "number": "8379",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1979/8379",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8379&MevzuatTertip=5",
+  "source_sha256": "9da810fbe2297e4ff60c390111d4fcd00dc17e6ef039f8c34cacd97d23a0cfc8",
+  "source_bytes": 17318,
+  "published": "1979-11-12",
+  "gazette": "16807",
+  "in_force": "1979-11-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.11.1979); own commencement article: \"bu Yönetmelik Banka Meclisi'nin 11 Ekim 1979 tarih ve 2807/12406 sayılı kararıyla kabul edilmiş olup, Bankamız ve Bankalar için 12 Kasım 1979 tarihinden itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik Banka Meclisi'nin 11 Ekim 1979 tarih ve 2807/12406 sayılı kararıyla kabul edilmiş olup, Bankamız ve Bankalar için 12 Kasım 1979 tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 612,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

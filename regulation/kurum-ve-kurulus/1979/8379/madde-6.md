@@ -1,0 +1,1 @@
+Madde 6- Türkiye Cumhuriyet Merkez Bankası Şubelerine ve Bankalara ibraz edilen banknotların değiştirme bedelleri; söz konusu banknotlar sahte olmamak ve bu Yönetmelikteki yazılı kurallara uygun bulunmak koşulu ile sahiplerine ödenir.

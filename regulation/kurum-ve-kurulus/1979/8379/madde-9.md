@@ -1,0 +1,1 @@
+Madde 9- Değiştirme gişelerine ibraz edilen banknotlar arasında sahteleri bulunduğu takdirde keyfiyet hakkında Türk Ceza Kanunu'nun "Meskukata Müteallik Kabahatlar" hakkındaki 531 inci maddesi uyarınca bir zabıt tutalarak sahte banknot Cumhuriyet Savcılığı'na tevdi olunur.
