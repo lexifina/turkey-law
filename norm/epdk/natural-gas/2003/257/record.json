@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "257",
+  "decision_date": "2003-12-19",
+  "title": "4646 sayılı Doğal Gaz Piyasası Kanununun 8 inci maddesi uyarınca serbest tüketicilere ilişkin kurul kararı (Karar No: 257, Karar Tarihi: 19/12/2003)",
+  "resmi_gazete_date": "2003-12-23",
+  "resmi_gazete_number": "25325",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xdojF07sVjM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xdojF07sVjM="
+  ],
+  "source_sha256": "3de501776a5e8c4a3ced42889f6b99912c7fa1f495af23d965d4bfc21dfa5a71",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-12-19",
+  "law_text_complete": false
+}
