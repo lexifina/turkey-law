@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-04-04",
+  "issue": "25423",
+  "edition": "regular",
+  "item": 5,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "TKİ. Bursa Linyitleri İşletmesi Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/04/20040404-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (10 = 10)",
+  "ilan_codes": [
+    "4149/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/04/20040404-3.htm",
+  "category_page_sha256": "e3b459ab9561c98ead536d5758383a26f29876b304e9bbcba5c0c33454c56086",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/04/20040404.htm",
+  "index_sha256": "4e0751cfe85b25400727e80f6b49804cfeac72f61d025275b3a5d059b26fda25",
+  "index_header": "4 Nisan 2004 ... Sayı : 25423",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
