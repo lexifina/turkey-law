@@ -1,0 +1,2 @@
+Kabul şartları
+Madde 5–Uzmanlık öğrenciliğine kabul için öğrencilerin Tıpta Uzmanlık Sınavı (TUS) ve benzeri sınavları başarmış olmaları koşuluyla eğitim ve öğretimi rahatça izleyebileceklerini belirlemek üzere İngilizce dil sınavına tabi tutulurlar. İngilizce dil sınavında başarılı olmayanlar öğrenciliğe kabul edilmezler. İngilizce dil sınav şekli ve uygulaması Fakülte Yönetim Kurulu’nca belirlenir.

@@ -1,0 +1,2 @@
+Tez jürisi
+Madde 17-Anabilim veya Bilim Dalı Başkanı 5Asil ve 3 Yedek üyeden sınav jürisi oluşturur ve sınav tarihini belirler. Yönetim Kurulu’nun onayına sunar. İlgili Anabilim veya Bilim Dalı Başkanı ile varsa rehber öğretim üyesi, jürinin tabi üyeleridir. Jüri üyeleri, ilgili Anabilim veya Bilim Dalının ve bu dala en yakın veya ilgili Bilim Dallarının öğretim üyelerinden seçilir. Jüri üyeleri diğer eğitim kurumları mensupları arasından da seçilebilir. Tezler Dekanlıkça sınav tarihinden en az 10 gün önce jüri üyelerine dağıtılır.

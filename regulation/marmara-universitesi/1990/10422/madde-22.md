@@ -1,0 +1,2 @@
+Yabancı ülkede eğitim görenler
+Madde 22-Bir yabancı ülkede Uzmanlık eğitimi yaparak bu çalışmasını Sağlık Bakanlığına kabul ettiren ve sınavı yapılma üzere Fakülteye gönderilen adayların sınavları madde 16,17,18,19,20 hükümlerine uygun olarak yapılır. Ancak yurtdışında uzmanlık belgesi almış olanlardan tez istenmez. Bu adayların akademik çalışmaları ve bilimsel yayınları tez kapsamında değerlendirilir.
