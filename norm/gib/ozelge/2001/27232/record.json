@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3049-376-392/13393",
+  "source_id": 27232,
+  "date": "2001-03-12",
+  "title": "Ceza indirimi uygulaması sonucu tahakkuku verilen vergi ve ceza miktarının ödeme tarihi paranın banka şubesine yatırldığı tarih değil, bu paranın söz konusu şube tarafından Merkez Bankasına yatırldığı tarihdir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27232",
+  "source_sha256": "90e9eea5d17fac579da40d804af4a0efb27a9633f9dd92da2ba5de4dcbd61b3b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
