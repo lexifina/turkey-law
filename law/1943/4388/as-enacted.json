@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4388",
+  "year": 1943,
+  "title": "Riyaseti Cumhur 1942 malî yılı bütçesine 50 000 lira munzam tahsisat verilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-03-30",
+  "gazette_issue": "5368",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5368.pdf",
+  "source_sha256": "5e6156f39fb60c6aa71619fcc0e33688f9014088170b06c1abf7f5fcd5aa2c44",
+  "text_sha256": "0cfc0bc5dda9a4f0183fb9187fd4caf60412d421265f27f5f0cccce439529414",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      86,
+      95
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504388.pdf",
+    "source_sha256": "046e18aa964489ed66bc942b0e2760cfbeecd29c54acc7cf003dac0b08670587",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9285,
+    "bag": 0.8689,
+    "kd_coverage": 0.9655,
+    "kd_body_compared": 0.9655,
+    "rg_words": 66,
+    "kd_words": 58,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
