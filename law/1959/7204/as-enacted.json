@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7204",
+  "year": 1959,
+  "title": "Büyük Millet Meclisi azasının tahsisat ve harcırahları hakkındaki 1757 sayılı Kanunun 6478 sayılı Kanunla değiştirilen 1. maddesine bir fıkra eklenmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-02-21",
+  "gazette_issue": "10141",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10141.pdf",
+  "source_sha256": "66b64e856e035a762cb4c3a6529994a977d4ba808695401736d14999b886f844",
+  "text_sha256": "f557220bf0136d38f1ef05f066d18c07ea374f8e1a8ac69f19fee7c8231fafe4",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      221,
+      241
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107204.pdf",
+    "source_sha256": "9b769b2f990b32b05b072fabc25341c14c4803fa344892274877001d93cefe57",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9258,
+    "bag": 0.8555,
+    "kd_coverage": 0.9767,
+    "kd_body_compared": 0.9438,
+    "rg_words": 89,
+    "kd_words": 89,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
