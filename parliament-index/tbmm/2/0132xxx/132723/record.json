@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 132723,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEFSİRLER",
+  "heading_as_published": "Tefsirler",
+  "summary": "Asker olan mebusların vaziyeti hukukiyelerinin tespiti hakkında (3/43) memurinden mebus olanların tekaüt ve mazuliyet aidatı hakkında kabul edilen takrirde muharrer memurin kelimesinin Büyük Millet Meclisi azası meyanında bulunan erkân, ümeraa ve zabîtana şamil olup olmadığının tefsiri.",
+  "title": "Asker olan mebusların vaziyeti hukukiyelerinin tespiti hakkında (3/43) memurinden mebus olanların tekaüt ve mazuliyet aidatı hakkında kabul edilen takrirde muharrer memurin kelimesinin Büyük Millet Meclisi azası meyanında bulunan erkân, ümeraa ve zabîtana şamil olup olmadığının tefsiri.",
+  "first_sitting_date": "1923-10-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 44,
+      "sitting_date": "1923-10-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c003/tbmm02003044.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c003/ehttbmm02003044.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c003/tbmm02003fih.pdf",
+      "pages": [
+        "106",
+        "250",
+        "307:310"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 70,
+      "sitting_date": "1923-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c004/tbmm02004070.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c004/ehttbmm02004070.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c004/tbmm02004fih.pdf",
+      "pages": [
+        "317:323"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "726f99e0b1386a2a326b1382306515418f861fcbd9c4635a436d2a7acd94ffbd",
+  "in_force": "1923-10-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
