@@ -1,0 +1,34 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2003/1",
+  "source_id": 491,
+  "date": "2003-08-12",
+  "title": "HARÇLAR KANUNU İÇ GENELGESİ SIRA NO:2003/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/icgenelge/491",
+  "source_sha256": "5820e8596459bf7512c023204f5620a6b673f7daf33e55e76e0eec6853b85e90",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/439/icgenelge/488",
+        "quote": "12.8.2003 tarih ve B.07.0.GEL.0.63/6336-42-34088 sayılı ve 2003/1 Sıra No.lu Harçlar Kanunu İç Genelgesi ve "
+      }
+    ]
+  },
+  "unincorporated_annexes": [
+    {
+      "source": "https://cdn.gib.gov.tr/api/gibportal-file/file/getFileResources?objectKey=arsiv/fileadmin/mevzuatek/eski/harclartum8tarife.html",
+      "title": "492 sayılı Harçlar Kanununa bağlı (8) sayılı tarifenin",
+      "status": "official-link-only; annex text not included"
+    }
+  ]
+}
