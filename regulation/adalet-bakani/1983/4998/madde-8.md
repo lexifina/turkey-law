@@ -1,0 +1,1 @@
+MADDE 8- Askerî Yargıtay ve Sıkıyönetim Komutanlıkları Askerî mahkemelerinde görevlendirilen hâkimlerle, Askeri Yargıtay Başsavcılığı ve Sıkıyönetim Komutanlıkları Askerî Savcılıklarında görevlendirilen Cumhuriyet Savcı ve Yardımcıları hakkında 7 Temmuz 1982 gün ve 17747 sayılı Resmî Gazete'de yayımlanan "Not ve Sicillerin Düzenlenmesi Hakkında Yönetmelik" hükümleri uygulanır.
