@@ -1,0 +1,4 @@
+Türkiye Cumhuriyet Merkez Bankasınca ilân edilecek hususlar
+MADDE 11- (Değişik:26/2/2003--4814/10 md.)
+Türkiye Cumhuriyet Merkez Bankası, 16 ncı madde gereğince çek hesabı açtırmaktan yasaklamaya ve 16c maddesinin dördüncü fıkrası gereğince yasaklama kararının ortadan kaldırılmasına dair mahkeme kararlarının Türkiye Cumhuriyet Merkez Bankasına bildirilmesine ilişkin esas ve usulleri Adalet Bakanlığının; bankalara duyurulmasına ilişkin esas ve usulleri Türkiye Bankalar Birliğinin görüşünü alarak Resmî Gazetede yayımlanacak bir tebliğle düzenler.
+Türkiye Cumhuriyet Merkez Bankası, yeterli karşılığı olmadığı için ödenmeyen ve daha sonra ödenen karşılıksız çekler ile hesap sahibi hakkındaki bilgilerin bankalardan toplanma ve bankalara duyurulma esas ve usullerini Türkiye Bankalar Birliğinin görüşünü alarak belirler ve Resmî Gazetede yayımlar. Bankalar belirlenen esas ve usuller çerçevesinde bu bilgileri Türkiye Cumhuriyet Merkez Bankasına gönderirler.

@@ -1,0 +1,5 @@
+Hesaben tesviye
+MADDE 6- T. C. Merkez Bankası, çeklerin banka şubeleri arasında hesaben tesviyesini sağlayacak tüzelkişiliği haiz sistemi kurmaya ve gözetimi altında yürütmeye yetkilidir. T. C. Merkez Bankası, şubesi bulunmayan yerlerde bu yetkisini uygun göreceği başka bir bankaya devredebilir.
+Hesaplaşma sisteminin kuruluş ve işleyişi, T. C. Merkez Bankasınca çıkarılacak bir yönetmelikle düzenlenir.
+(Ek fıkra:26/2/2003--4814/5 md.) Yönetmelikte belirtilen esaslar çerçevesinde çeklerin fizikî olarak ibraz edilmeksizin sadece çek bilgileri üzerinden bankalararası takas odaları aracılığı ile elektronik ortamda muhatap bankaya gönderilerek işlem görmesi, 6762 sayılı Türk Ticaret Kanununun 710 uncu maddesine göre takas odasına ibraz hükmündedir.
+(Ek fıkra:26/2/2003--4814/5 md.) Takas odaları aracılığıyla ibraz edilmiş çekler için, 10 uncu maddede belirlenen sorumluluk miktarı dahil kısmî ödeme yapılmaz. Ancak, takas odaları aracılığıyla ibraz edilen çekin, hesapta yeterli karşılığının olmadığının belirlenmesi halinde muhatap banka tarafından, hesapta bulunan kısmî karşılık tutarı, çeki ibraz eden hamil lehine onbeş gün süreyle bloke edilir.

@@ -1,0 +1,5 @@
+İbraz ve ödeme
+MADDE 4- (Değişik:26/2/2003--4814/3 md.)
+Çek hesabı açılan bankaya muhatap banka denir.
+Koşullarına uygun ve karşılığı var olan çek, muhatap bankanın herhangi bir şubesine ibraz edildiğinde hamilin vergi kimlik numarası saptandıktan sonra ödenir. Ancak, çek hesabı açılmış olan şube dışında herhangi bir şubeye ibraz edilen çek, o şubece karşılığı sorulmak suretiyle ödenir.
+Çekin karşılığının tamamen veya kısmen bulunmaması halinde bankanın ödeme yükümlülüğü, 10 uncu maddede belirlenen sorumluluk miktarı saklı kalmak üzere, çek hesabında bulunan miktarla sınırlıdır. 10 uncu maddede belirlenen miktar dahil olmak üzere kısmî ödeme halinde, çekin ön ve arka yüzünün onaylı fotokopisi ücretsiz olarak hamile verilir. Çek hamili, bu fotokopiyle müracaat borçlularına veya kambiyo senetleri hakkındaki takip usullerine başvurabileceği gibi; Cumhuriyet savcılığına şikâyette bulunurken dilekçesine bu fotokopiyi ekleyebilir ve bunu icra daireleri ile mahkemelerde ispat aracı olarak kullanabilir. Mahkeme veya icra dairesinin istemi halinde çekin aslı bu mercilere gönderilir.

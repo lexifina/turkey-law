@@ -1,0 +1,3 @@
+Bildirme ve duyuru
+MADDE 9- (Değişik:26/2/2003--4814/8 md.)
+Muhatap banka, yeterli karşılığı olmadığı için çekin ödenmediğini ve hesap sahibi hakkında gereken bilgileri, ibraz tarihinden itibaren on gün içinde Türkiye Cumhuriyet Merkez Bankasına bildirir. Bu bildirimden sonra çek tutarı ile 16c maddesinde öngörülen tazminat ve gecikme faizinin hamile veya hamile ödenmek üzere muhatap bankaya ödenmesi de, muhatap banka tarafından ödeme tarihinden itibaren on gün içinde Türkiye Cumhuriyet Merkez Bankasına bildirilir. Türkiye Cumhuriyet Merkez Bankası da bu bildirimleri en geç onbeş gün içinde bankalara duyurur.
