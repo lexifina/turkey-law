@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-10-27",
+  "issue": "24919",
+  "edition": "regular",
+  "item": 20,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "PTT Genel Müdürlüğü İstanbul Sanatoryum ve Hastanesi Başhekimliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/10/20021027-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (37 = 37)",
+  "ilan_codes": [
+    "30173/1-1",
+    "30174/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/10/20021027-3.htm",
+  "category_page_sha256": "6ee5b9bd4917014c192990857215119a9e327365c1981b7a6bdca2ac67f79e35",
+  "issue_on_category_page": "24728",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/10/20021027.htm",
+  "index_sha256": "4567c0194b8691bd5d528df9919162bb8aa1266c320f027b52bac69b249226f9",
+  "index_header": "27 Ekim 2002 ... Sayı : 24919",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
