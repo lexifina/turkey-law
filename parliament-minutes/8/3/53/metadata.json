@@ -1,0 +1,19 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 8,
+  "term_label": "8. Dönem",
+  "legislative_year": 3,
+  "cilt": 11,
+  "sitting": 53,
+  "label": "53. Birleşim",
+  "sitting_date": "1948-04-30",
+  "date_as_published": "30 Nisan 1948",
+  "weekday": "Cuma",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c011/tbmm08011053.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c011/tbmm08011fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d08&v_yasama_yili=3&v_cilt=",
+  "source_sha256": "97908d4cd65b750724e5ebf3547ecdaf7929708306ad64ec78f49596a66d6c34",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
