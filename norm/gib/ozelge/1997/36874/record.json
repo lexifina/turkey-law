@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-805/27140",
+  "source_id": 36874,
+  "date": "1997-06-30",
+  "title": "Toplu Konut İdaresi, Mali Yılı Bütçe Kanunu, banka ve sigorta muameleleri vergisi, Gelir Ortaklığı senetleri.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36874",
+  "source_sha256": "73834c02c63be3eb0cb73d0081454d8cf036063867d901e1fefcf90959934bcd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
