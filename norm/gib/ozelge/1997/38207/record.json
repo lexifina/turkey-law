@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.GEL.0.36/3660-l7663/60480",
+  "source_id": 38207,
+  "date": "1997-12-18",
+  "title": "Tahsil olunan harcın, ihracatın kısmen gerçekleşmesi halinde iade edilip edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38207",
+  "source_sha256": "a91d83e0a98deceae037c321604ed113421d67c4f9d7177fea56c40311a8f9a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
