@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.46/4600- 16561/003361",
+  "source_id": 21646,
+  "date": "2005-01-25",
+  "title": "Vergi indirimi talebinde bulunan ödevlinin ilgili kanun ve yönetmelik gereğince istenilen belgelerle başvurduğundan ve şekle uygun olarak aldığı rapor gereğince vergi indiriminden faydalandırıldığından, yapılan işlemlerde vergi kanunları açısından da  yas",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21646",
+  "source_sha256": "069a4f6b94380577c332b5f38504f11bba1e46241543a7721b8af350824d1b0b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
