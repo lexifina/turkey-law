@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "527",
+  "year": 1929,
+  "title": "Muhasebeî umumiye kanununun 48. maddesinin tefsirine mahal olmadığı hakkında",
+  "adopted": "1929-12-05",
+  "adopted_as_published": "05/12/1929",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "11.12.1929 No: 1368",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/karartbmmc008/karartbmmc00800527.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 8",
+  "committee_reports": [
+    {
+      "label": "TBMM 8 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c014/tbmm03014010ss0008.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120801,
+      "title": "Muhasebeî umumiye kanununun 48. maddesinin tefsirine mahal olmadığı hakkında",
+      "adopted_as_published": "05/12/1929",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/karartbmmc008/karartbmmc00800527.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 8 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c014/tbmm03014010ss0008.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 9,
+          "sitting_date": "1929-12-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c014/tbmm03014009.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c014/tbmm03014fih.pdf",
+          "pages": [
+            "2"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 10,
+          "sitting_date": "1929-12-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c014/tbmm03014010.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c014/tbmm03014fih.pdf",
+          "pages": [
+            "7"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=256&v_gelecek_sayfa=101&v_kullanici_id=27483258",
+      "page_sha256": "3a7b0147dbcc9341e2a1662f26e52a02179ae12115f8a708f9032bb3ce566928"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "3a7b0147dbcc9341e2a1662f26e52a02179ae12115f8a708f9032bb3ce566928",
+  "issuer": "TBMM",
+  "in_force": "1929-12-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 05/12/1929; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
