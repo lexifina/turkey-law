@@ -1,0 +1,1 @@
+Madde 12 - Üniversite arşivi işlemleri Devlet Arşiv Hizmetleri Hakkında Yönetmeliğinin 3 üncü kısmında yer alan 21.i1a 29 uncu madde hükümleri çerçevesinde yapılır. Sözkonusu hükümlere ek veya bu hükümlerden farklı olarak bu Yönetmeğin aşağıda 13 ila 18 inci madde hükümleri uygulanır.

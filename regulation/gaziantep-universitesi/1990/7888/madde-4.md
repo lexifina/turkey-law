@@ -1,0 +1,10 @@
+Tarifler
+Madde 4 - Bu Yönetmelikte geçen:
+a) Arşiv Malzemesi: Türk Devlet ve Millet hayatını ilgilendiren ve en son işlem tarihi üzerinden otuz yıl geçmiş veya üzerinden onbeş yıl geçtikten sonra kesin sonuca bağlanmış olup, ikinci maddede belirtilen Gaziantep Üniversitesi birimleri ve bunlara bağlı kuruluşların işlemleri sonucunda teşekkül eden ve Üniversite tarafından muhafazası gereken, Türk Milletinin geleceğine, tarihi. siyasi, sosyal, kültürel. hukuki ve teknik değer olarak intikal etmesi gereken belgeler ve devlet hakları ile milletlerarası hakları belgelemeye, korumaya, bunlarla ilgili işlemler ve münasebetler bakımından tarihi, hukuki, idari, askeri, iktisadi, dini, ilmi, edebi, estetik. kültürel. biyografik, jenelojik ve teknik herhangi bir konuyu aydınlatmaya, düzenlemeye, tespite yarayan, ayrıca ait olduğu devrin ahlak, örf ve adetlerini veya çeşitli sosyal özelliklerini belirten her türlü yazılı evrak, defter, resim, plan, harita, proje, mühür, damga, fotoğraf, film, ses ve görüntü bandı, bilgisayar bantları ile bunların kullanabilirliğini sağlayan dokümantasyon, baskı ve benzeri belgeleri ve malzemeyi,
+b) Arşivlik Malzeme: (a) bendinde sayılan her türlü belge ve malzemeden zaman bakımından henüz arşiv malzemesi vasfını kazanmayanlarla, son işlem tarihi üzerinden yüzbir yıl geçmemiş memuriyet sicil dosyalarını,
+c) Birim Arşivi: Gaziantep Üniversitesi birim ve kuruluşlarının görev ve faaliyetleri sonucu kendiliğinden teşekkül eden ve bu birim ve kuruluşların bünyesinde aktüalitesini kaybetmemiş olarak aktif bir biçimde ve günlük iş akımı içinde kullanılan arşivlik malzemenin belirli bir süre saklandığı arşiv birimlerini,
+d) Üniversite Arşivi: Üniversitenin Rektörlük teşkilatı içinde yer alan ve arşiv malzemesi ile arşivlik malzemenin, birim arşivlerine nazaran daha uzun süreli saklandığı merkezi arşivi,
+e) Üniversite: Gaziantep Üniversitesi'ni,
+f) Rektörlük : Gaziantep Üniversitesi Rektörlüğü’nü,
+g) Birimler: Bu Yönetmeliğin ikinci maddesinde belirtilen, Gaziantep Üniversitesi'nin eğitim-öğretim, araştırma ve idari birimleri ile bunlara bağlı kuruluşları,
+ifade eder.
