@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/41",
+  "list_number": "41",
+  "decision_date": "1999-01-15",
+  "title": "YSK ilke kararı 1999/41",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4737/1999-41-karar.htm",
+  "source_sha256": "89ffbd1ae17b7b2ae335f2a67a5a568199d307db8e8e70102dd02504847eff3b",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-01-15",
+  "law_text_complete": false
+}
