@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2327",
+  "year": 1933,
+  "title": "Hudut ve Sahiller Sıhhat Umum Müdürlüğü 1933 malî senesi bütçesinde bazı tadilât yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-11-04",
+  "gazette_issue": "2543",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2543.pdf",
+  "source_sha256": "9b31e5416a393097558d067605f681fcc09c3180e3b0d970bd0f7cb493bead13",
+  "text_sha256": "f1f41cb96d47ee9f01f7315164495fda5ce5531c965862b9a850d2f268bca103",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      211,
+      234
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202327.pdf",
+    "source_sha256": "9f9b376c57f25140651aab223dd6845a8e2d42dd2482cbf9a11da6d23fd2a94b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9677,
+    "bag": 0.9455,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9815,
+    "rg_words": 114,
+    "kd_words": 108,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
