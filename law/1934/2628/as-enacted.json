@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2628",
+  "year": 1934,
+  "title": "Adapazarı Türk ticaret bankasının tezyid olunan sermayesine hazinenin iştiraki hakkındaki kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-12-26",
+  "gazette_issue": "2890",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2890.pdf",
+  "source_sha256": "f48a8bb6ad187ddf716c0887c16a4d358e07a9788d80fc683b1bcd6c35815b3b",
+  "text_sha256": "38b09e19a862fe30ea2307190b7dcb0998163fd57317f81f3c621511fca326c9",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      477,
+      510
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402628.pdf",
+    "source_sha256": "20a39a894881fe54b5296f0eefe1adf45a836e00138b23917cca9f545acf01c9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9561,
+    "bag": 0.9182,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9825,
+    "rg_words": 108,
+    "kd_words": 114,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
