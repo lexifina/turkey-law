@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-06-23",
+  "issue": "25147",
+  "edition": "regular",
+  "item": 13,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-1",
+  "title": "TCDD İşletmesi Genel Müdürlüğü İzmir Kira ve Değerlendirme Komisyonu Başkanlığından:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030623-3-1.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (21 = 21)",
+  "ilan_codes": [
+    "20546/2-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030623-3-1.htm",
+  "category_page_sha256": "cab1b8a3cd2bc7e321b3aa01dfdca195ced05f34a25c1a7e8ea1ababb5c7c4ef",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030623.htm",
+  "index_sha256": "7f06cec2c66f2cc5857ff1fb5d86a1229e5a035bea190b2d2f8143d2293b0737",
+  "index_header": "23 Haziran 2003 ... Sayı : 25147",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
