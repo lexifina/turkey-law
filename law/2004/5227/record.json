@@ -1,0 +1,148 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5227",
+  "year": 2004,
+  "title": "Kamu Yönetiminin Temel ilkeleri ve Yeniden Yapılandırılması Hakkında Kanun",
+  "adopted": "2004-07-15",
+  "adopted_as_published": "15/07/2004",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "geri gönderme No:",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08805227.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 88",
+  "committee_reports": [
+    {
+      "label": "TBMM 349 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c041/tbmm22041054ss0349.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 207769,
+      "title": "Kamu Yönetiminin Temel ilkeleri ve Yeniden Yapılandırılması Hakkında Kanun",
+      "adopted_as_published": "15/07/2004",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc088/kanuntbmmc088/kanuntbmmc08805227.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 349 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c041/tbmm22041054ss0349.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 41,
+          "sitting": 54,
+          "sitting_date": "2004-02-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c041/tbmm22041054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c041/tbmm22041fih.pdf",
+          "pages": [
+            "304:386"
+          ]
+        },
+        {
+          "cilt": 41,
+          "sitting": 55,
+          "sitting_date": "2004-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c041/tbmm22041055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c041/tbmm22041fih.pdf",
+          "pages": [
+            "412:514"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 56,
+          "sitting_date": "2004-02-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042fih.pdf",
+          "pages": [
+            "33:122"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 57,
+          "sitting_date": "2004-02-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042057.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042fih.pdf",
+          "pages": [
+            "192:300"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 58,
+          "sitting_date": "2004-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042fih.pdf",
+          "pages": [
+            "347:440"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 59,
+          "sitting_date": "2004-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042fih.pdf",
+          "pages": [
+            "486:586"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 60,
+          "sitting_date": "2004-02-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042fih.pdf",
+          "pages": [
+            "595:756"
+          ]
+        },
+        {
+          "cilt": 57,
+          "sitting": 116,
+          "sitting_date": "2004-07-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c057/tbmm22057116.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c057/tbmm22057fih.pdf",
+          "pages": [
+            "276:370"
+          ]
+        },
+        {
+          "cilt": 61,
+          "sitting": 5,
+          "sitting_date": "2004-10-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c061/tbmm22061005.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c061/tbmm22061fih.pdf",
+          "pages": [
+            "191:208"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=915&v_gelecek_sayfa=401&v_kullanici_id=27483198",
+      "page_sha256": "48bd612a80b7f74f51d30c16bc0ba7cd7e6341df596568c61d8c08c42b65c32c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "48bd612a80b7f74f51d30c16bc0ba7cd7e6341df596568c61d8c08c42b65c32c",
+  "issuer": "TBMM",
+  "in_force": "2004-07-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 15/07/2004; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
