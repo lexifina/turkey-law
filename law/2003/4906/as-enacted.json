@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4906",
+  "year": 2003,
+  "title": "Ticaret Gemilerinde Çalışan Kaptanlar ve Gemi Zabitlerinin Mesleki Yeterliliklerinin Asgari İcaplarına İlişkin 53 Sayılı Sözleşmenin Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-07-01",
+  "gazette_issue": "25155",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030701.htm",
+  "source_sha256": "eb2d46ee358456b2184ef35f07137cd2c5e88b9bb7f095b5f8631f6307bc2fd6",
+  "text_sha256": "41680410d0fd84f1fd88213fc85b2f981c580dcc8031d961081aca8e4dbb0e50",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/07/01/25155-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030701.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
