@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6231-1-326/015196",
+  "source_id": 38149,
+  "date": "2005-04-05",
+  "title": "Okul öncesi eğitim kurumları, bağımsız anaokulları olarak kurulabileceği gibi gerekli görülen ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38149",
+  "source_sha256": "1ece8e1fcc3ea1f39a6209d08a7fd897e9946fe432ab10f9d2118d4045920eec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
