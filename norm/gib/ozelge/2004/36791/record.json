@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1105 / 23935",
+  "source_id": 36791,
+  "date": "2004-05-28",
+  "title": "Bankalar tarafından görev zararı doğuran krediler nedeniyle ödenen banka ve sigorta muameleleri vergisinin iadesi mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36791",
+  "source_sha256": "13751a72ae58fa998a1ee0a3b7f74f8a32822fb9f670c8b8b1ced88216e3dbe3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
