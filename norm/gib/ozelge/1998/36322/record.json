@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6019-1839/13712",
+  "source_id": 36322,
+  "date": "1998-04-17",
+  "title": "Emekli ve yardım sandıklarına, sosyal sigorta kurumlarına yapılan bağış ve yardımlar veraset ve intikal vergisine tabi tutulmamaktadır",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36322",
+  "source_sha256": "f75f9d4066df95643cf9ed7ea256c5a072115a4469496f21db8e10d0898b25a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
