@@ -1,0 +1,160 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "444",
+  "year": 1964,
+  "title": "10 ve 11. Dönem Türkiye Büyük Millet Meclisi Üyelerinin ödeneklerinden Mütevellit TC Ziraat Bankası ve Maliye Bakanlığına olan borçlarının ertelenmesine ait kanun",
+  "adopted": "1964-03-31",
+  "adopted_as_published": "31/03/1964",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "11.04.1964 No: 11680",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700444.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 47",
+  "committee_reports": [
+    {
+      "label": "MM 453 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025038ss0453.pdf"
+    },
+    {
+      "label": "CS 429no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019055ss0429.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 347514,
+      "title": "10 ve 11. Dönem Türkiye Büyük Millet Meclisi Üyelerinin ödeneklerinden Mütevellit TC Ziraat Bankası ve Maliye Bakanlığına olan borçlarının ertelenmesine ait kanun",
+      "adopted_as_published": "31/03/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700444.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 453 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025038ss0453.pdf"
+        },
+        {
+          "label": "CS 429no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019055ss0429.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 12,
+          "sitting": 44,
+          "sitting_date": "1963-02-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012fih.pdf",
+          "pages": [
+            "52"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 141,
+          "sitting_date": "1963-09-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021141.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021fih.pdf",
+          "pages": [
+            "477"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 38,
+          "sitting_date": "1964-01-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025fih.pdf",
+          "pages": [
+            "444:446",
+            "496:499"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 39,
+          "sitting_date": "1964-01-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025fih.pdf",
+          "pages": [
+            "504",
+            "533:536"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2001&v_kullanici_id=27483225",
+      "page_sha256": "0190b5d3e712a47a9416ed66ca93fb48a7dc71af149d929697c5f08cf9e0b36c"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 162548,
+      "title": "10 ve 11 nci Dönem Türkiye Büyük Millet Meclisi üyelerinin ödeneklerinden mütevellit TC Ziraat Bankası ve Maliye Bakanlığına olan borçlarının ertelenmesine ait Kanun",
+      "adopted_as_published": "31/03/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700444.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 453 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025038ss0453.pdf"
+        },
+        {
+          "label": "CS 429no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019055ss0429.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 17,
+          "sitting": 33,
+          "sitting_date": "1964-01-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c017/cs__03017033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c017/cs__03017fih.pdf",
+          "pages": [
+            "551:552"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 55,
+          "sitting_date": "1964-03-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019fih.pdf",
+          "pages": [
+            "603:604"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 56,
+          "sitting_date": "1964-03-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019fih.pdf",
+          "pages": [
+            "637:644",
+            "651:653"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=401&v_kullanici_id=27483235",
+      "page_sha256": "b27864a2411d79e2f3620f821cf17fe5c23dbd74ad2aa8fabc8d647341892a48"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0190b5d3e712a47a9416ed66ca93fb48a7dc71af149d929697c5f08cf9e0b36c",
+  "issuer": "Millet Meclisi",
+  "in_force": "1964-03-31",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 31/03/1964; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
