@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6652-312/26109",
+  "source_id": 37023,
+  "date": "2004-06-09",
+  "title": "Avustralya'daki yabancı ülke temsilciliklerine ait gayrimekullerle ilgili yeni vergi uygulamasına başlanıldığı ve bu kapsamda söz konusu gayrimekullerden \"yıllık konut vergisi\" talep edildiği, bu durumun Viyana Sözleşmesine aykırı olduğu, bu tür vergileri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37023",
+  "source_sha256": "98f3a26b3ee994a14df239ffd33e787b11d8f7e598de8916bc7255202f54d04c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
