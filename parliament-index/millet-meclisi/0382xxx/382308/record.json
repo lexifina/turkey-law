@@ -1,0 +1,66 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 382308,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "title": "Millet Meclisi fihrist kaydı 382308 (Raporlar)",
+  "first_sitting_date": "1971-02-23",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 57,
+      "sitting_date": "1971-02-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011057.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011fih.pdf",
+      "pages": [
+        "365"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 66,
+      "sitting_date": "1971-03-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012fih.pdf",
+      "pages": [
+        "82"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 74,
+      "sitting_date": "1971-03-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012fih.pdf",
+      "pages": [
+        "337"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 107,
+      "sitting_date": "1971-06-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014107.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014fih.pdf",
+      "pages": [
+        "14:15"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2201&v_kullanici_id=27484836",
+  "source_sha256": "b78a336419c758bf01b0e096994ebfbb557260a5c49d92aef4c655ad2796fe14",
+  "in_force": "1971-02-23",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
