@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 11- Bu Yönetmelik 1997–1998 eğitim-öğretim yılından itibaren uygulanmak Üzere yayımı tarihinde yürürlüğe girer. Yürütme Madde 12 Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür."
+  ],
+  "date_evidence": [
+    [
+      "1997-11-07",
+      "07.11.1997",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 11- Bu Yönetmelik 1997–1998 eğitim-öğretim yılından itibaren uygulanmak Üzere yayımı tarihinde yürürlüğe girer. Yürütme Madde 12 Bu Yönetmelik hükümlerini İstanbul Teknik Üniversitesi Rektörü yürütür.",
+  "first_law": null,
+  "gazette": "23163",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1997-11-07",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/1997/10336",
+  "published": "1997-11-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10336&MevzuatTertip=5",
+  "source_bytes": 16303,
+  "source_id": "8.5.10336",
+  "source_sha256": "2ee51640fee62f8be33921b010a745a6a6372686cf98cf65b42cac866f12bf1a",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ DENİZCİLİK FAKÜLTESİ LİSANS İNGİLİZCE GELİŞTİRME EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 762
+}

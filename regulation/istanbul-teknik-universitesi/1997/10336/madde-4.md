@@ -1,0 +1,2 @@
+Yeterlik Sınavı
+Madde 4 - İTÜ Senatosu'nca eşdeğerliliği kabul edilen uluslararası ve ulusal sınavlarda Senatoca belirlenen başarı belgelerinden birine sahip olanlar, İngilizce yeterlik sınavına girmeden İTÜ Denizcilik Fakültesi'nin lisans öğrencisi olurlar. İngilizce geliştirme öğretimi sırasında yukarıda tanımlanan belgeye sahip olan öğrenciler, isterlerse İngilizce geliştirme öğretimine devam etmeyebilirler ve takip eden yarıyılda lisans öğrencisi olurlar.

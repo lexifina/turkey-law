@@ -1,0 +1,1 @@
+Madde 6 - İngilizce yeterlik sınavında başarısız olan veya bu sınava girmesi gerektiği halde katılmayan öğrenciler, İTÜ Denizcilik Fakültesi Temel Bilimler Bölümü'nce di! beceri düzeylerinin saptanabilmesi için yerleştirme sınavına alınarak düzeylerine göre A "ileri" B "orta" C "başlangıç" Olmak üzere üç ayrı gruba ayrılırlar.
