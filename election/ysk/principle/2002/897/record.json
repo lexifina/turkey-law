@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2002/897",
+  "list_number": "897",
+  "decision_date": "2002-11-12",
+  "title": "YSK ilke kararı 2002/897",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4165/2002-897-karar.htm",
+  "source_sha256": "0468437ede6ffec383a0189ac2f68889048c4ea33822efe7746e2d67b26ae3cb",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2002-11-12",
+  "law_text_complete": false
+}
