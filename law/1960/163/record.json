@@ -1,0 +1,48 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "163",
+  "year": 1960,
+  "title": "Birleşik Kırallık ve Türkiye Cumhuriyeti arasında sosyal sigorta mevzuunda akdedilen Sözleşmenin tasdikı hakkında Kanun",
+  "adopted": "1960-12-14",
+  "adopted_as_published": "14/12/1960",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "21.12.1960 No: 10686",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300163.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 43",
+  "committee_reports": [
+    {
+      "label": "MBK 161 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MBK_/d00/c004/mbk_00004055ss0161.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Birlik Komitesi",
+      "term": null,
+      "kayit_no": 467857,
+      "title": "Birleşik Kırallık ve Türkiye Cumhuriyeti arasında sosyal sigorta mevzuunda akdedilen Sözleşmenin tasdikı hakkında Kanun",
+      "adopted_as_published": "14/12/1960",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300163.pdf",
+      "committee_reports": [
+        {
+          "label": "MBK 161 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MBK_/d00/c004/mbk_00004055ss0161.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=21&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=21&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "a90471070f21e011151cc037dd00f49ecd7af3e4a035e7bea3ef2a88a4c71cc2"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=21&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a90471070f21e011151cc037dd00f49ecd7af3e4a035e7bea3ef2a88a4c71cc2",
+  "issuer": "Milli Birlik Komitesi",
+  "in_force": "1960-12-14",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Birlik Komitesi) as printed in the official TBMM kanunlar index: 14/12/1960; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
