@@ -1,0 +1,85 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6838",
+  "year": 1956,
+  "title": "5423 sayılı Esnaf Vergisi Kanununun kaldırılması ve 5421 sayılı Kanunun bazı maddelerinin tadili ve bazı maddelerine fıkralar ilâvesi hakkındaki 6582 sayılı Kanunun bazı maddelerinin tadili ve bu kanuna bazı hükümler ilâvesine mütedair kanun",
+  "adopted": "1956-09-01",
+  "adopted_as_published": "01/09/1956",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "10.09.1956 No: 9403",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806838.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 38",
+  "committee_reports": [
+    {
+      "label": "TBMM 303 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c013/tbmm10013103ss0303.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 10,
+      "kayit_no": 51967,
+      "title": "5423 sayılı Esnaf Vergisi Kanununun kaldırılması ve 5421 sayılı Kanunun bazı maddelerinin tadili ve bazı maddelerine fıkralar ilâvesi hakkındaki 6582 sayılı Kanunun bazı maddelerinin tadili ve bu kanuna bazı hükümler ilâvesine mütedair kanun",
+      "adopted_as_published": "01/09/1956",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806838.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 303 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c013/tbmm10013103ss0303.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 13,
+          "sitting": 99,
+          "sitting_date": "1956-08-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c013/tbmm10013099.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c013/tbmm10013fih.pdf",
+          "pages": [
+            "676"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 103,
+          "sitting_date": "1956-08-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c013/tbmm10013103.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c013/tbmm10013fih.pdf",
+          "pages": [
+            "972:975",
+            "992:999"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 104,
+          "sitting_date": "1956-09-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c013/tbmm10013104.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c013/tbmm10013fih.pdf",
+          "pages": [
+            "1009",
+            "1016",
+            "1037:1040"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=643&v_gelecek_sayfa=401&v_kullanici_id=27483184",
+      "page_sha256": "a86ffbd74fc0a05fa2ddf9cc34640addbda821df83e230142baba68e1f4fb85f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a86ffbd74fc0a05fa2ddf9cc34640addbda821df83e230142baba68e1f4fb85f",
+  "issuer": "TBMM",
+  "in_force": "1956-09-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 01/09/1956; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
