@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6527-142/036271",
+  "source_id": 38277,
+  "date": "1999-08-27",
+  "title": "Gerçek usulde G.V. mükellefi olan doktorların serbest meslek erbabı olmaları sebebiyle, Ö.K.C.kullanma mecburiyeti yoktur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38277",
+  "source_sha256": "ec072fce82b666049e595bc5cffa3079c46c2b7f71981905856c4e2c119bf3a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
