@@ -1,0 +1,78 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 333155,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "6136 sayılı Ateşli Silahlar ve Bıçaklar hakkında Kanunun başlığı ile 1, 2, 3, 4, 5, 12, 13, 14, 15 16. maddelerinin ve ek maddesinin değiştirilmesine ve iki ek madde ve bir geçici madde eklenmesine dair kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu İçişleri ve Anayasa ve Adalet komisyonları raporları. (Millet Meclisi:1/160;Cumhuriyet Senatosu:1/614) (S. Sayısı:875)",
+  "title": "6136 sayılı Ateşli Silahlar ve Bıçaklar hakkında Kanunun başlığı ile 1, 2, 3, 4, 5, 12, 13, 14, 15 16. maddelerinin ve ek maddesinin değiştirilmesine ve iki ek madde ve bir geçici madde eklenmesine dair kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu İçişleri ve Anayasa ve Adalet komisyonları raporları. (Millet Meclisi:1/160;Cumhuriyet Senatosu:1/614) (S. Sayısı:875)",
+  "first_sitting_date": "1979-01-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 40,
+      "sitting": 23,
+      "sitting_date": "1979-01-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c040/cs__18040023.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c040/cs__18040fih.pdf",
+      "pages": [
+        "24"
+      ]
+    },
+    {
+      "cilt": 40,
+      "sitting": 27,
+      "sitting_date": "1979-01-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c040/cs__18040027.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c040/cs__18040fih.pdf",
+      "pages": [
+        "150"
+      ]
+    },
+    {
+      "cilt": 40,
+      "sitting": 30,
+      "sitting_date": "1979-01-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c040/cs__18040030.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c040/cs__18040fih.pdf",
+      "pages": [
+        "279:286"
+      ]
+    },
+    {
+      "cilt": 40,
+      "sitting": 31,
+      "sitting_date": "1979-02-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c040/cs__18040031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c040/cs__18040fih.pdf",
+      "pages": [
+        "294:322"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 42,
+      "sitting_date": "1979-02-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c042/cs__18042042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c042/cs__18042fih.pdf",
+      "pages": [
+        "474"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=4801&v_kullanici_id=27484903",
+  "source_sha256": "8a8dbdbaf58010cafe23952e5118cd0ab9ea4e9af05a61d792d47c281a1e11c3",
+  "in_force": "1979-01-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
