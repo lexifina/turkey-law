@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4429-7/21624",
+  "source_id": 24414,
+  "date": "2000-05-08",
+  "title": "Ticari faaliyeti ile ilgili bulunmayan, isteğe bağlı olarak Sosyal Sigortalar Kurumu'na ödenen primlerinin safi ticari kazancın tespitinde gider yazılması mümkün olmadığı gibi, ticari kazanç dolayısıyla verilecek yıllık beyannamede bildirilen gelirden ind",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24414",
+  "source_sha256": "2471005c2aa6ed7e9c25ce1e31550147b377a23332ea623ab732e47b82368e6d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
