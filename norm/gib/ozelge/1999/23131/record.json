@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102-131/8315",
+  "source_id": 23131,
+  "date": "1999-03-05",
+  "title": "İşletme büyüklüğü ölçüleri içerisinde yer almayan zirai faaliyetlerde bulunan çiftçiler zirai mahsul ve zirai hizmet bedelleri üzerinden tevkifat suretiyle vergilendirilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23131",
+  "source_sha256": "b4c599ace2d7b6bdd7f57bc7f491d8f7f59366ac7b9fa546df45fee1ad616056",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
