@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102-218/18251",
+  "source_id": 23105,
+  "date": "2000-04-20",
+  "title": "Küçük ve büyük baş hayvan alım satımı ile uğraşanların faaliyeti hayvanları satmadan önce besiye alıp almamalarına göre ticari ya da zirai faaliyet olarak değerlendirilir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23105",
+  "source_sha256": "0fa360632479f39ad4a2fa40320060d6ef08cb895ff2ee5ea36a4d3036bd03fb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
