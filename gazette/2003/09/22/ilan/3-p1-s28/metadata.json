@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-09-22",
+  "issue": "25237",
+  "edition": "regular",
+  "item": 28,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-1",
+  "title": "Türkiye Şeker Fabrikaları Anonim Şirketi Afyon Şeker Fabrikasından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030922-3-1.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (29 = 29)",
+  "ilan_codes": [
+    "34615/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030922-3-1.htm",
+  "category_page_sha256": "6b7c14813d567c15138112b9983f7881c585d8b2da749cf37cbdc686d3a372a7",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030922.htm",
+  "index_sha256": "e7e2b91ec3a8eeb787930a71e765d981b5a08abdd9279b6eadaf1a3d3c6e37ff",
+  "index_header": "22 Eylül 2003 ... Sayı : 25237",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
