@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3106",
+  "year": 1937,
+  "title": "Su süzgeci istasyonunun işletilmesi ve süzgeçten baraja kadar olan isale hattının idare ve muhafazası ile masrafları hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-02-05",
+  "gazette_issue": "3526",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3526.pdf",
+  "source_sha256": "ebc8a4607cbaa9586c4fb695152fe2285b28b54634a9f9a8c2d0f421eccfdd84",
+  "text_sha256": "0b0eea2267a9f854f282df422135483cb2056545c1d57c13729949bb4ca56231",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      31,
+      54
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703106.pdf",
+    "source_sha256": "6c9e21a5e72ba0846b9f7adbf0d18ae0115234786dbcc2ef4eb6e2bc3b2ca81b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.945,
+    "bag": 0.9065,
+    "kd_coverage": 0.9734,
+    "kd_body_compared": 0.9634,
+    "rg_words": 169,
+    "kd_words": 191,
+    "own_anchor": false,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
