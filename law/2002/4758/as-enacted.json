@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4758",
+  "year": 2002,
+  "title": "23 Nisan 1999 Tarihine Kadar İşlenen Suçlardan Dolayı Şarta Salıverilmeye, Dava ve Cezaların Ertelenmesine Dair Kanunda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2002-05-23",
+  "gazette_issue": "24763",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2002/05/20020523.htm",
+  "source_sha256": "c41d9b6cfa7d5a80f3302c66988675eba1b81c0bf084a19a6eddaf3b5e88a823",
+  "text_sha256": "55a5c4c9350ffac22cc69e027f173d5829de940c4ff8e1476a6a03de1b38b603",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2002/05/23/24763-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2002/05/20020523.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
