@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "DV-3/2004-2/",
+  "source_id": 1026,
+  "date": "2004-01-12",
+  "title": "Gümrük idarelerine mükellefler tarafından verilen beyannamelere ilişkin damga vergisinin ödeme şekli hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/sirkuler/1026",
+  "source_sha256": "82c5627770255109cc9d754880ee1ba144a135b41526762da0f2d1055c99f46a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
