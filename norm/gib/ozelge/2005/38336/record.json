@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1244 / 1682",
+  "source_id": 38336,
+  "date": "2005-01-12",
+  "title": "Repo işlemine tabi tutulmuş olan menkul kıymetlerin kesin satış işleminde repo giderleri dikkate alınmadan banka ve sigorta muameleleri vergisinin hesaplanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38336",
+  "source_sha256": "200bdbf79821be21e246d7b6d548b894cec459f56ef5a6ad8377a00ef4a7051c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
