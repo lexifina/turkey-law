@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-01-12",
+  "issue": "25698",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Yenimahalle Belediyesi İmar Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/01/20050112-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (2 = 2)",
+  "ilan_codes": [
+    "295/1-1",
+    "294/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/01/20050112-4.htm",
+  "category_page_sha256": "3b945e7e497079402b7d425be4e3e5bcc0a49d23c0b5bf3abdcbb26c2ab9d976",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/01/20050112.htm",
+  "index_sha256": "be4c79d1883ba2a5c96a297345585644e836dfb603d5225a5cd1d589a3aaf8bd",
+  "index_header": "12 Ocak 2005 ... Sayı : 25698",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
