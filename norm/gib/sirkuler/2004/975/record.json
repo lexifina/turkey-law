@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-9 / 2004-9",
+  "source_id": 975,
+  "date": "2004-02-19",
+  "title": "Deniz ve Hava Taşıma Araçları İçin Liman ve Hava Meydanlarında Verilen Hizmetler, katma değer vergisinden istisna edilecek işlemler ile vergiye tabi olacak işlemler",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/975",
+  "source_sha256": "f659e7fc879c4b50c64c4bd84b0fa0ee15c5bc0f89769d46f7457479c9221828",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
