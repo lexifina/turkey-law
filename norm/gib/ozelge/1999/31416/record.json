@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5213-14/15396",
+  "source_id": 31416,
+  "date": "1999-04-22",
+  "title": "Yatırım teşvik belgesi kapsamında alınan makine ve teçhizat için ödenen KDV'nin iadesi mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31416",
+  "source_sha256": "eed6e2f1c19a0bf00339ed5cbac82f5edf63b31c7825aa994df29c0cfc9b0c82",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
