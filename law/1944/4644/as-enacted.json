@@ -1,0 +1,64 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4644",
+  "year": 1944,
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-08-12",
+  "gazette_issue": "5781",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5781.pdf",
+  "source_sha256": "63b047535ddc8c59ec8bf2c326cfe070605b1d341099809e79ab81bf6a32fc65",
+  "text_sha256": "17166e3fb55381557e1d3a4d1d0f00d5a6a9a15b5407197e5541d1756c8cb1df",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "line_span": [
+    [
+      11,
+      7241
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604644.pdf",
+    "source_sha256": "1f4291d5b2368a1b114cc985fa0c1b699eca14cb0f07ea112ea274cf52f19ee4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.668,
+    "bag": 0.924,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9978,
+    "rg_words": 10872,
+    "kd_words": 11291,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
