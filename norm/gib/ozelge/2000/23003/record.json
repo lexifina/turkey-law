@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4428-101/17345",
+  "source_id": 23003,
+  "date": "2000-04-17",
+  "title": "Genel Müdürlük personelinden alınan harcırah beyannamelerinde beyan edilen taksi ve dolmuş ücretleri ile bu personele verilen iş elbiselerinin diktirilmesi sırasında terzilere yapılan ödemeler karşılığında fatura, perakende satış vesikaları alınabilir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23003",
+  "source_sha256": "9ebf2e0c05ef226138e8a21fa7a5e193f03d6495647039cf88ab0479d473fa93",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
