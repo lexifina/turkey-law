@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102-206/53747",
+  "source_id": 23128,
+  "date": "1999-12-08",
+  "title": "Mükellefin bir biçerdövere sahip olması nedeniyle gerçek usulde zirai kazanç mükellefi olması ve sahip olduğu biçerdöveri eşine kiraya vermesi halinde elde edeceği gelirin zirai kazancın tespitinde dikkate alınması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23128",
+  "source_sha256": "169301b554c5603836721019ebfd40fe48853bb9bb9f3c11c351e472b186256e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
