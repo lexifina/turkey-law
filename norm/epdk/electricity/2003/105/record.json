@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "105",
+  "decision_date": "2003-03-21",
+  "title": "Ulusal Tarife Öncesi Dağıtım Tarifesi",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9eAhS99WT+c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9eAhS99WT+c=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zatyqX9hEL0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RV8K2/Zyges=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OKvC17/f8jY="
+  ],
+  "source_sha256": "91df098c0f96bf72f124843414e796770cc14bcf9a6bfc2c15e7e42e972eca9d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-03-21",
+  "law_text_complete": false
+}
