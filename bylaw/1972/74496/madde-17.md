@@ -1,0 +1,1 @@
+Madde 17 – Rehabilitasyon merkezi sağlık kuruluna, üyelerden Tıp Fakültesini bitiriş itibariyle en kıdemlisi başkanlık eder. Kurul, üye sayısının çoğunluğu ile toplanır. Toplantılarda başkandan başka, fizik tedavi veya ortopedi uzmanlarından birinin bulunması şarttır. Kararlar çoğunlukla verilir. Oyların eşitliği halinde Başkanın katıldığı taraf çoğunlukta sayılır.

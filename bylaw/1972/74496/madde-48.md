@@ -1,0 +1,1 @@
+Madde 48 – Çalışma Bakanlığı, Yüksek Sağlık Kurulunu, olağan toplantıları dışında da toplantıya çağırabilir. Bu husus Çalışma Bakanlığınca toplantı sebebiyle birlikte Kurul Başkanlığına yazılı olarak bildirilir.

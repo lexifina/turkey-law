@@ -1,0 +1,1 @@
+Madde 30 – Kuruma ait müesseselerde işe alıştırma devresinde elde edilen mahsul ve mamuller, kalitelerine ve benzeri tesisler mallarının piyasadaki rayicine göre değerlendirilerek Kurumca sattırılır veya Kurumun kendi ihtiyaçlarında kullanılır. Satışa ve kullanmaya elverişli olmayanlar usulüne göre elden çıkarılır.

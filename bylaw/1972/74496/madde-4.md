@@ -1,0 +1,1 @@
+Madde 4 – Hizmet akdine göre, bu Tüzüğün ikinci Bölümünün, D cetvelinde gösterilen mesleklerden birinden fazlasını yapmakta olan sigortalının iş kazası veya meslek hastalığı yönünden sürekli iş göremezlik durumuna girmesi halinde, bunlardan, sürekli iş göremezlik derecesinin en yükseğini vermiş olan meslek "sigortalının mesleği" sayılır.

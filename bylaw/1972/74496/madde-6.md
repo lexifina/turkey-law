@@ -1,0 +1,8 @@
+Madde 6 – A cetveli listelerinde yazılı arızalardan birinin meslekte kazanma gücünü ne oranda azaltacağı aşağıdaki şekilde hesaplanır:
+a) A cetvelindeki vücudun çeşitli bölgelerine veya sistemlerine göre hazırlanmış olan 14 arıza listesinde sigortalının arızası bulunur. Bu arızanın solundaki arıza sıra numarası ile sağındaki arıza ağırlık ölçüsü bir tarafa kaydedilir.
+b) (Değişik: 12/11/1978 - 7/16989 K.) B cetveli listelerinde önce sigortalının işkolu, sonra bu işkolu içindeki meslek veya iş çeşidi bulunur. Bunun karşısındaki meslek grup numarası da bir yere yazılır.
+(Değişik: 12/11/1978 - 7/16989 K.) Sigortalının meslek veya iş çeşidi bu listelerde bulunmadığı takdirde meslek veya işinin benzeri veya en yakını esas alınır.
+Aynı adı taşıyan meslek veya iş çeşidi birden çok iş kolu listesinde yer aldığı takdirde, sigortalının çalıştığı iş kolu listesindeki meslek veya iş çeşidi esas alınır.
+c) Sürekli iş göremezlik simgesini gösteren C cetvelinin arızaya uygun tablosunun dikey kolonunda yukarıda tespit edilen arıza sıra numarası ile yatay kolonundaki meslek grup numarasının kesiştiği noktadaki sürekli iş göremezlik simgesi bulunarak bir tarafa kaydedilir.
+d) D cetvelinin dikey kolonunda yukarıda tespit edilen arıza ağırlık ölçüsüile yatay kolonundaki meslek simgesinin kesiştiği noktadaki sayı, meslekte kazanma gücünün azalma oranıdır.
+e) Tespit edilen bu meslekte kazanma gücü azalmasının sigortalının yaşına uygun oranını bulmak için E cetvelinden yararlanılır. Bu cetvelin dikey kolonunda bulunan meslekte kazanma gücünün azalma oranı ile üstteki yatay kolonda bulunan sigortalının sürekli iş göremezlik halinin tespiti tarihindeki yaşının kesiştiği yerdeki sayı, bu yaşa uyan sürekli iş göremezlik sebebiyle meslekte kazanma gücünün azalma oranıdır.

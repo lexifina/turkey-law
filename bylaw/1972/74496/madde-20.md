@@ -1,0 +1,1 @@
+Madde 20 – Kendilerine Kurumca yazılı bildiri gönderilen sigortalılardan işe alıştırılmaktan kaçınan veya başladıktan sonra işi bırakanların, sürekli iş göremezlik gelirlerinin veya malullük aylıklarının yarısı, bildiride belirtilen tarihten sonraki aybaşından başlanarak alıştırma işine başlayıncaya kadar kesilir.

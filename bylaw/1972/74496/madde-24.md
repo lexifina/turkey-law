@@ -1,0 +1,1 @@
+Madde 24 – Günlük çalışma saatleri, sigortalının kişisel durumuna ve alıştırılacağı işin mahiyet ve özelliğine göre, rehabilitasyon merkez sağlık kurulunca arttırılıp eksiltilebilir. Ancak, günlük çalışma süresi 8 saati geçemez.

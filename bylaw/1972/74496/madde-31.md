@@ -1,0 +1,1 @@
+Madde 31 – Kuruma ait olmayan özel rehabilitasyon müesseselerinde işe alıştırmanın amaca uygun şekilde yapılıp yapılmadığı ve işe alıştırmaya tabi tutulanların durumu, Kurumun bu işle görevlendireceği elemanları tarafından denetlenir.
