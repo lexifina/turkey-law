@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4220-126/352",
+  "source_id": 24659,
+  "date": "2002-01-03",
+  "title": "15 Aralık &#8211; 14 Ocak dönemi için ücretin tahakkuk ve ödemesi 14 Ocak tarihinde yapılması halinde ise bu ücretin ödeme yapılan ayın geliri sayılarak, ilgili takvim yılında geçerli olan vergi tarifesine göre vergi tevkifatının yapılması gerekmektedir",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24659",
+  "source_sha256": "1b6e3603cbc254438c6ab094056c62b30cc31d0f2605f7cd43f833c3e4c6270d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
