@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.9037",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2004/15)",
+  "number": "9037",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2004/9037",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9037&MevzuatTertip=5",
+  "source_sha256": "242dd98b6db00aa5bf063e4fb1dbaab2af13f3c6c566181cf0813f5493bb2867",
+  "source_bytes": 70610,
+  "published": "2004-08-01",
+  "gazette": "25540",
+  "in_force": "2004-08-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.08.2004); own commencement article: \"Bu tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2968,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
