@@ -1,0 +1,35 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2003/1",
+  "source_id": 603,
+  "date": "2003-02-19",
+  "title": "TAHSİLAT İÇ GENELGESİ SERİ NO: 2003/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/442/icgenelge/603",
+  "source_sha256": "b90c9cab857eea3209b9d9e2d9dd464ddd7fff728fbaa25f4704e51613dcfd02",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/442/icgenelge/591",
+        "quote": "19/02/2003 tarihli ve B.07.0.GEL.0.38/3802-66/6378 sayılı 2003/1 Seri No.lu Tahsilat İç Genelgesi. b)"
+      },
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/442/icgenelge/617",
+        "quote": "19.02.2003 tarihli ve B.07.1.GİB.0.38/3802-66/6378 sayılı 2003/1 Seri Nolu Tahsilat İç Genelgesi. 6183 sayılı Amme Alacaklarının Tahsili Usulü Hakkında Kanununun, amme alacaklarının tecil ve taksitlendirilmesini düzenleyen 48 inci maddesi u"
+      },
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/442/icgenelge/601",
+        "quote": "19.02.2003 Tarihli ve 2003/1 Seri No'lu Tahsilat İç Genelgesi. İlgide kayıtlı Genelge ile İliniz Defterdarlık, Vergi Dairesi Başkanlıkları ve Vergi Dairelerine tanınan tecil ve taksitlendirme yetkisi tutar itibarıyla aşağıdaki şekilde yenid"
+      }
+    ]
+  }
+}
