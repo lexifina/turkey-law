@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4037-18/29964",
+  "source_id": 24410,
+  "date": "2001-06-01",
+  "title": "222 sayılı Kanun hükümlerie göre, makbuz karşılığı yapılacak yardımların beyan edilecek gelirden indirilip indirilemeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24410",
+  "source_sha256": "0905b5cc63d4de356af0220d08381dc0f8897617432960c65c3153dfb6b88fc4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
