@@ -1,0 +1,1 @@
+Madde 42 – Hak sahipleri tespit komisyonu ve rayiç bedel takdir komisyonu yaptıkları çalışmaları, ilgili köyde 30 gün askı sureti ile ilan ederler. Bu ilan ilgililere şahsen yapılan tebliğ hükmündedir.

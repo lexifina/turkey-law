@@ -1,0 +1,6 @@
+Madde 46 – Hak sahipleri tanımına girmeyen kişilerin kullanımındaki taşınmazlar ile sulu toprakta 40, kuru toprakta 100 dönümlük sınırlamayı aşması nedeniyle hak sahibi olmıyan taşınmazlar için yeni hak sahipliği tespiti günü komisyon başkanlığınca 15 gün sureyle ilgili köyde askı sureti ile ilan edilir.
+İlanda yeni hak sahibi tespiti yapılacak taşınmazların ada, parsel, yüz ölçümü, vasfı, mevkii belirtilerek paftalar asılır.
+Süre bitiminde dilekçeler talipliler huzurunda değerlendirilir. Aynı taşınmaz için, hak sahipliği şartlarına uygun birden fazla talipli olması halinde, hak sahibi talipliler huzurunda kura ile belirlenir. Bu durum tüm talipliler huzurunda bir tutanakla tespit edilir.
+Hak sahipleri tespit komisyonunca tespit edilen hak sahipleri listesi ilgili köyde 30 gün süre ile asılarak ilan edilir. Listede taşınmazların mahallesi, mevkii, ada, parsel numaraları, yüz ölçümü, avsfı, hak sahibinin adı, soyadı, doğum yeri ve tarihi, ana ve baba adı yazılır.
+Komisyonca tespit edilen hak sahipliğine itiraz, ilan süresinin bitiminden itibaren en geç 30 gün içinde ilgili mahkemeye yapılır. Bu konuda yapılan itirazın bu süre zarfında, itiraz sahibi tarafından hak sahipleri tespit komisyonuna da bildirilmesi gerekir.
+İtirazsız kesinleşen hak sahibi listeleri taşra teşkilatının tasdiki, Bakanlığın onayı ile yürürlüğe girer.

@@ -1,0 +1,4 @@
+Madde 48 – Rayiç bedel takdir komisyonu taşınmazların kimin tarafından kullanıldığını, fiili durumu, yeri ve mevkii gibi hususları dikkate alarak her taşınmaz için ayrı rayiç bedel tespiti yapar ve durumu bir tutanakla tespit ederek rayiç bedel sicil defterine işler. Çalışmalar bitiminde hazırladığı dosyayı Bakanlık bölge müdürlüğüne teslim eder.
+Rayiç bedele itiraz dolayısı ile açılan dava var ise dava sonucunda;
+a) Hak sahibi lehine fark olur ise, peşin ödeyenlerin alacağı miktar Fon bütçesinden iade edilir. Taksitli ödemeye bağlananların alacağı fark, kendilerine iade edilmeyerek, borçlarına mahsup edilir ve ilgiliye bildirilir.
+b) Dava sonucu takdir edilen bedel, rayiç bedelin üzerinde ise peşin ödeyenlerden meydana gelen fark peşin veya on yıllık eşit taksitle, taksitle ödeme yapanlardan ise meydana gelen fark kalan taksitlerine eşit tevzi edilerek tahsil edilir. Durum ilgililere bildirilir.

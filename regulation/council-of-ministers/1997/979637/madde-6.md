@@ -1,0 +1,2 @@
+Köylerin Nakledileceği Arazilerin Ön Etüdü
+Madde 6 – 6831 sayılı Orman Kanunu'nun 2/A maddesi uygulaması ile orman sınırları dışına çıkarılan alanların tahmini zirai iskan kapasitesini belirlemek amacıyla, taşra teşkilatı koordinatörlüğünde, Tarım ve Köyişleri Bakanlığı taşra teşkilatı ile Orman Genel Müdürlüğü ve Köy Hizmetleri Genel Müdürlüğü taşra kuruluşlarınca müştereken ön etüt raporları hazırlanarak Bakanlığın tasdikine sunulur.

@@ -1,0 +1,2 @@
+Rayiç Bedel Tespiti
+Madde 47 – 25 inci maddede açıklandığı şekilde tespiti yapılan taşınmazların rayiç bedeli 29 uncu maddeye göre oluşturulacak komisyon tarafından tespit ve ilan edilir. Bu bedel ilandan sonra değiştirilemez. Tespit edilen bedele karşı, adına tespit yapılan şahıslarca 60 gün içerisinde itiraz davası açılabilir. Ancak itiraz edilmiş olması, bu Yönetmeliğe göre yapılacak iş ve işlemleri durdurmaz.

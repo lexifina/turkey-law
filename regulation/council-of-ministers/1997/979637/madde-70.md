@@ -1,0 +1,1 @@
+Madde 70 – 6 Ocak 1986 gün ve 18980 sayılı Resmi Gazetede yayımlanarak yürürlüğe girmiş bulunan "Orman Köylülerinin Kalkınmalarının Desteklenmesi Hakkında Yönetmelik" ile bunun ek ve değişikliklerine ilişkin Yönetmelikler yürürlükten kaldırılmıştır.

@@ -1,0 +1,4 @@
+Taksitlendirme
+Madde 51 – Taksitli ödemelerde borçlandırma, borçlanmanın yapıldığı tarihteki T.C. Ziraat Bankasının zirai kredilere uyguladığı Faiz oranı esas alınarak yapılır ve yıllık taksit, faizi ile birlikte ödenir.
+Taksit tarihinde ödenmeyen borcun geçen süresi için, taksit borcunun ödeneceği yılda T.C. Ziraat Bankasının uyguladığı gecikme faizi üzerinden gecikme faizi alınır. Ancak bu süre her taksit süresinde 3 ayı geçemez. Bu süre içinde de taksitini yatırmayanların bütün borcu muaccel hale gelir ve genel hükümler içerisinde tahsil edilir.
+Taksitli satışlarda Bakanlığın talebi üzerine bu yerlere Hazine lehine ipatek tesis edilir. Taksitli satışlarda, taşınmazlara ait borcun tamamı ödenmeden, taşınmazlar başkasına satılamaz. Bu yerler satış vaadine konu olamaz ve bunlar üzerinde zirai krediler hariç, ipotek tesis edilemez, haciz işlemi yapılamaz. Bu hususlar tapu kütüğünün beyanlar hanesinde belirtilir.

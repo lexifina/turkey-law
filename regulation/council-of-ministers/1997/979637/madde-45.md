@@ -1,0 +1,1 @@
+Madde 45 – Hak sahipleri tespit komisyonu, beyanlar hanesinde ismi yazılı kişilerin, hak sahipliği tanımı çerçevesinde, hak sahipi olup olmadıklarını tespit eder ve hak sahibi olarak tespit edilenleri, hak sahibi sicil defterine işler.

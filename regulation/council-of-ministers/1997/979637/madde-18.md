@@ -1,0 +1,7 @@
+DÖNDÜNCÜ BÖLÜM
+Tescil, Devir ve Geri Alma
+Tescil ve Devir
+Madde 18 – 13 üncü maddenin 2 nci fıkrası ve 15 inci madde gereğince yeni yerleşim yerinde verilecek taşınmazların devri, tespit edilen bedelleri peşin ödenmesi veya borçlanma sözleşmesi ile kanuni ipotek işlemlerini tamamlamaları kaydıyla hak sahipleri adına tescili en geç bir ay içinde Bakanlık taşra teşkilatınca mahalli tapu sicil müdürlüğünden talep edilir. Islah, imar ve ihya edilerek mülkiyeti devredilen taşınmaz mallar 20 yıl süre ile tespit edilen dağıtım amaçları dışında kullanılamaz, miras hükümleri dışında bölünemez ve başkalarına devir ve temlik edilemez. Taksimi ve satış suretiyle ortaklığın giderilmesi talebine ve satış vaadi sözleşmesine konu olamaz, hacedilemez.
+Bu hususlar, tapu kütüğünün şerhler hanesinde belirtilir.
+Ancak, tarım alanı olarak ayrılıp da adına ifraz veya tescili yapılmış olan şahsın asker, tutuklu, yatalak hasta olması veya ölmesi hallerinde aynı aile içinde tarım işlerini yapacak herhangi birinin bulunmaması halinde veya kamu hizmeti ve sağlık nedenleriyle yeni yerleşim yerini terk edecek olanların taşınmazları; bu durumlarını belgelendirmek ve Bakanlıktan izin alınmak suretiyle, aynı köyde oturan diğer bir aileye kiraya verilebilir veya ortak işletmecilik yapılabilir.
+Ayrıca herhangi bir sebeple geri alınan taşınmaz mallar o yerleşim yerinde yeniden hak sahibi olan ailelere devredilebilir.

@@ -1,0 +1,13 @@
+İKİNCİ BÖLÜM
+Tarım Alanı Haline Gelmiş Yerlerin Değerlendirilmesi
+Tarım Alanı Haline Gelmiş Yerlerin Tespiti
+Madde 25 – Orman sınırları dışına çıkarılan ve 2924 sayılı Kanunun 2 nci maddesinin (c) bendi kapsamına giren tarla, bağ, bahçe, zeytinlik, fındıklık, fıstıklık (antep fıstığı), çam fıstığı gibi tarım alanları ve buralardaki yapı ve tesislerin yerleri, orman sınırları dışına çıkarıldıkları tarihteki fiili durumlarına göre ifraz edildikten sonra, bu yerleri satın alma hakkına sahip olan kişilere, Bakanlıkça rayiç bedelleri üzerinden peşin veya istenildiği takdirde borçlandırılmak sureti ile taksitle satılır.
+Yukarıdaki fıkra hükümlerine göre ifraz edilen yerlerin tespiti ve satışında aşağıdaki esaslar uygulanır.
+a) Kadastro çalışmaları sırasında; 3402 sayılı Kadastro Kanunu'nun 14 üncü maddesinde öngörülen 40 ve 100 dönümlük sınırlama göz önünde bulundurularak, bu yerleri tasarruf edenlerin isimleri kadastro tutanağının beyanlar hanesine yazılır.
+b) Kadastro müdürlükleri, tespitlerini Hazine adına kesinleştiği tarihten itibaren en geç bir ay içinde, bu yerleri ve beyanlar hanesinde belirtilen kişileri Bakanlığa bildirir.
+c) Beyanlar hanesinde adı geçenlerin gerçek hak sahibi olup olmadıkları, Bakanlıkça kurulacak hak sahipleri tespit komisyonlarınca tespit edilir.
+d) 31.12.1981 tarihinde köy statüsünde olan yerler, bilahare köy statüsünden çıkmış olsalar da, uygulamada 31.12.1981 tarihindeki statüleri esas alınır.
+e) Birden fazla köye ayrılmış veya sınırlarında değişiklik olmuş köylerde, köyün orman kadastrosu yapıldığı tarihteki mülki sınırları esas alınır.
+f) Hak sahibi kişiler, sulu toprakta 40, kuru toprakta 100 dönümden fazla yer için hak sahibi olamazlar.
+g) Evvelce kadastrosu veya tapulaması tamamlanan çalışma alanlarında 6831 sayılı Orman Kanunu'nun 1744 sayılı Kanunla değişik 2 nci maddesi ve 2896 ve 3302 sayılı Kanunlarla değişik 2 nci maddesinin (B) bendi hükmü gereğince orman sınırları dışına çıkarılan yerlerdeki Hazine adına ihtilafsız veya hükmen tescil edilmiş yerler ile 6831 sayılı Orman Kanunu'nun 1744 sayılı Kanunla değişik 2 nci maddesi ve 2896 ve 3302 sayılı Kanunlarla değişik 2 nci maddesinin (B) bendi hükmü gereğince Hazine adına orman sınırları dışına çıkarılan sahalardaki gerçek veya tüzel kişiler adına (Hazine hariç) tescil edilmiş taşınmazlardan tapu kayıtları mahkeme kararı ile iptal edilip Hazine adına tescil edilen taşınmaz mallar için de bu madde hükümlerinin kadastro ile ilgili hükümleri dışındaki satış ve devir hükümleri uygulanır.
+6831 sayılı Orman Kanunu hükümlerine göre tahsis edilen yerler ile Hazinenin mülkiyetinden çıkan veya kamu hizmetlerine tahsis edilen veya bu maksatla fiilen kullanılan taşınmaz mallarda bu madde hükmü uygulanmaz.

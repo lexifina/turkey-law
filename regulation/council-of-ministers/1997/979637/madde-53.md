@@ -1,0 +1,3 @@
+Rayiç Bedel Tespiti Satış ve Faiz Uygulaması
+Madde 53 – 52 nci maddede belirtilen yerlere ilişkin kadastronun yapılması ve hak sahiplerinin kesinleşmesinden sonra, 29 uncu maddede belirtilen rayiç bedel takdir komisyonunca, her parsel ve üzerindeki tesislerin vasıfları tespit edilerek, rayiç bedel takdirine esas alınır. Satışı yapılacak taşınmazların bedeli, tespit edilen rayiç bedel üzerinden peşin veya talep halinde beş yıllık süre içinde ve yıllık eşit taksitlerle ödenmek üzere Bakanlıkça alınır.
+Hak sahipliliği ve rayiç bedeller, taşra teşkilatının tasdiki, Bakanlığın onayı ile yürürlüğe girer.

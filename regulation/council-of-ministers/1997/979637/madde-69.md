@@ -1,0 +1,1 @@
+Madde 69 – Bu Yönetmelik kapsamına giren yerler, 2510 sayılı İskan Kanunu ve mülga 4753 sayılı Kanun gereğince Hazinece bedeli tahsil edilerek dağıtılmış ve dağıtım yapılan kişilere, hükümsüz sayılan kayıtlar karşılığında başkaca bir yer verilmemiş ise bu kişilerden ikinci defa bedel alınmaz.

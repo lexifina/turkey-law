@@ -1,0 +1,1 @@
+Madde 56 – Bu Yönetmeliğin yürürlüğe girdiği tarihten önceki mevzuat hükümlerine göre, Tapu ve Kadastro Genel Müdürlüğü birimlerince teknik uygulamasına başlanılan ve ancak uygulamaların neticelendirilmemiş yerlerde de bu Yönetmelik hükümleri uygulanır.

@@ -1,0 +1,3 @@
+Satış İşleri
+Madde 49 – Yönetmeliğin 25 inci, 47 nci ve 48 inci maddeleri gereğince yapılan, satılacak taşınmazların hak sahipleri ve rayiç bedel tespitleri Bakanlık taşra teşkilatının teklifi ve Bakanlığın onayı ile ilgilileri adına satışına karar verilir ve durum tebligat yerine geçmek üzere ilanen ilgililere duyurulur. Bedel; ilgililerce, ilan tarihinden itibaren 1 yıl içerisinde peşin olarak veya ilgilinin aynı süre içinde yazılı başvurusu üzerine, 10 yıl içerisinde yıllık eşit taksitlerle tahsil olunur. Ancak taksitli ödeme halinde ilk taksitin borçlanma sözleşmesi yapılmasından itibaren 3 ay içinde ödenmesi gerekir.
+Satış komisyonu, satışlarla ilgili karar defteri tutar ve kararları bu deftere işler. Karar pulu veya tutarı satış yapılan şahıstan alınır.
