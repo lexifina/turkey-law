@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2922-230-857/21589",
+  "source_id": 26204,
+  "date": "1997-05-26",
+  "title": "Sevk irsaliyelerinin düzenlenme tarihi yanında ayrıca bir sevk tarihinin yer alması mecburidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26204",
+  "source_sha256": "67aba89d4ee2582febd291e8d5af36ae1a7b3efeb703c4fcda6f6bf9cfe84e56",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
