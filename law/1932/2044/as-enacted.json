@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2044",
+  "year": 1932,
+  "title": "Ankara'da 29.8.1931 tarihinde imzalanan Türkiye Lehistan ikamet mukavelenamesinin tasdiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-07-05",
+  "gazette_issue": "2142",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2142.pdf",
+  "source_sha256": "b06227916f50250793b838db1b2a7f7447c9a629ede77cba1841cdc88599b8b2",
+  "text_sha256": "fcb2bf31039137cbf43952ecfbf41892efd89c0877bbc2c43dd0feabbd637067",
+  "text_status": "ocr",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "line_span": [
+    [
+      1497,
+      1980
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01102044.pdf",
+    "source_sha256": "1c7b8415e3c37f77f625cc1eec15258fb90bea08cd65cfd37b736358101e3678",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.957,
+    "bag": 0.824,
+    "kd_coverage": 0.9993,
+    "kd_body_compared": 0.9993,
+    "rg_words": 1483,
+    "kd_words": 1450,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
