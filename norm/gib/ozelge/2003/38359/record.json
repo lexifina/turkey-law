@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6685-4818",
+  "source_id": 38359,
+  "date": "2003-09-30",
+  "title": "Yapı Kooperatifinin maliki bulunduğu ve imar planında umumi hizmet alanlarına...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/38359",
+  "source_sha256": "a186aa791ad1d2dbc7fdda04c68477a626cf7d8d4dc4edec735e076f858dd2d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
