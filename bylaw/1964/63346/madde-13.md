@@ -1,0 +1,2 @@
+Madde 13 – Yolcu beraberinde getirilen bitkiler ile Türkiye sınırları dışında toprağı olupta özel izinle gidip gelenlerin kendi yetiştirildikleri, mülteci ve göçmenlerin beraberinde getirdikleri bitkilerden (Ekim, dikim ve çoğaltmada kullanılmak üzere dahi olsa) ithal permisi aranmaz. Yalnız bu bitkiler giriş kapılarında muayeneye tabi tutulur.
+Yolcu beraberinde getirilecek bitkilerin cins ve miktarları bir Yönetmelikle tesbit edilir.

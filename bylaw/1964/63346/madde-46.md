@@ -1,0 +1,2 @@
+Madde 46 – 39 uncu maddenin (e) ve (f) bentlerine göre yokedilmesi gereken bitkiler, malsahibi veya temsilcisi ve ilgili memur ile bir zabıta memurunun önünde, bunlardan herhangi biri yazılı çağrıya rağmen gelmediği veya bulunmadığı takdirde huzurlarına bakılmaksızın yok edilir ve durum bir tutanakla tesbit edilir.
+Yokedilen bitkilerin değeri ve bu Tüzüğe aykırı hareketleri sebebiyle hastalık veya zararlıların bulaşmasına sebep olanlar yahut hastalık veya zararlıyı zamanında görevli teşkilata haber vermiyenler hakkında 6968 sayılı kanunun 17 nci maddesi hükümleri uygulanır.

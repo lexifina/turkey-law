@@ -1,0 +1,1 @@
+Madde 16 – İlgili idare veya acentalar gümrük kapılarına gelecek olan taşıtların varış zamanlarını uçaklar için en az 2, diğer taşıtlar için en az 24 saat önce Mahalli Zirai Karantina Teşkilatına bildirmekle ve ilgililer hamule senetleri ile bu işi gören diğer belgeleri karantina teşkilatına göstermekle yükümlüdürler.

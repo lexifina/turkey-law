@@ -1,0 +1,1 @@
+Madde 32 – Zirai Karantina Teşkilatı tarafından verilen Menşe ve Sağlık Sertifikası veya İhraç İzin Belgesini havi bitkiler, Resmi Gazete'de ilan edilen gümrük kapılarının herhangi birinden ihraç edilebilirler.

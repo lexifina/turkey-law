@@ -1,0 +1,1 @@
+Madde 11 – Menşe ve Sağlık Sertifikasının, gönderen memleketin resmi bitki koruma servisince İngilizce, Fransızca veya Almanca dillerinden biriyle yazılmış olması, diğer dillerde yazılmış olanlara da, yetkili makamlarca onanmış Türkçe tercümelerinin eklenmesi gerekir.

@@ -1,0 +1,1 @@
+Madde 36 – Bitkilerin, Türk sınırları içinden kara, deniz veya hava vasıtalarıyla transit olarak geçirilmesine, ancak herhangi bir hastalık veya zararlıyı bulaştırmayacak halde bulundurulmaları şartı ile izin verilir.

@@ -1,0 +1,1 @@
+Madde 34 – Daha önce muayene edilmiş olan bitki, ihraç edilinceye kadar, her zaman ve her yerde yeniden muayene edilebilir. Muayene sonucunda ilk muayenedeki duruma aykırı bir hal görüldüğü takdirde, mevcut belgeye rağmen o malın gümrükten geçirilmemesi gümrüğe bildirilir. Gümrükçe de ihracat işlemi durdurulur.

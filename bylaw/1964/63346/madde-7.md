@@ -1,0 +1,1 @@
+Madde 7 – Hariçten ekim, dikim ve çoğaltmada kullanılmak üzere bitki ithal edecekler önceden Tarım Bakanlığına, Tüzüğe bağlı 1 sayılı örneğe uygun bir dilekçe ile başvurarak, 2 sayılı örneğe göre "Bitki İthal Permisi" almak zorundadırlar.

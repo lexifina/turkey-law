@@ -1,0 +1,1 @@
+Madde 15 – Dışardan posta yolu ile gelip PTT idarelerince içindekilerin tetkiki için gümrük idarelerine verilen posta paketlerinde çıkacak bitkilerin gümrük idarelerince ve bu idarelere verilmiyenlerde rastlanacak bitkilerin de PTT idarelerince, sahiplerine verilmezden önce, en yakın Zirai Karantina Teşkilatına bildirilmesi zorunludur.

@@ -1,0 +1,1 @@
+Madde 9 – Bitki ithal edenler, malın boşaltılmasından önce, hangi memleketten geldiğini, cins ve miktarını, ambalaj şeklini ve kullanma maksadını ve ekim, dikim ve çoğaltmada kullanılacaksa ayrıca permi tarih ve sayısını, Tüzüğe bağlı 3 sayılı örneğe göre düzenlenmiş bir "Bitki İthal Bildirisi" ile mahalli zirai karantina teşkilatına bildirmek zorundadırlar.

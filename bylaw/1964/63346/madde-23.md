@@ -1,0 +1,1 @@
+Madde 23 – Karantina memuru, muayene sırasında ithali istenen bitkilerin memlekete girmesi yasak hastalık veya zararlılarla bulaşık olduğundan şüphe ederse, bu bitkileri teşhis sonucu alınıncaya kadar müşahade altında tutabilir. Bu müşahade, bitkinin ve bitkide bulunduğu şüphe edilen bulaşık hastalık veya zararlının mahiyetine göre en kısa zamanda tamamlanır.
