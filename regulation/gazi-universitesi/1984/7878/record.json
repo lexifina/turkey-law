@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayım tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1984-04-10",
+      "10.04.1984",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayım tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "18368",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1984-04-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gazi Üniversitesi",
+  "issuer_slug": "gazi-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gazi-universitesi/1984/7878",
+  "published": "1984-04-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7878&MevzuatTertip=5",
+  "source_bytes": 33327,
+  "source_id": "8.5.7878",
+  "source_sha256": "a39ec430e0f8d870f809b1767476fa04c7cfb8cdff570ee4b225b792f92d91f9",
+  "text_status": "as-enacted",
+  "title": "GAZİ ÜNİVERSİTESİ KAZALARI ARAŞTIRMA VE ÖNLEME\r\nENSTİTÜSÜ YÖNETMELİĞİ",
+  "university_id": 195,
+  "word_count": 745
+}

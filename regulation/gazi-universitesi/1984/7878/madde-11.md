@@ -1,0 +1,1 @@
+MADDE 11 — Gazi üniversitesi Kazaları Araştırma ve önleme Enstitüsünün eğitim, öğretim ve diğer hizmetleriyle ilgili işlemlerde Yüksek öğretim Kurulunun Lisans Üstü Eğitim öğretim Enstitülerinin teşkilat ve işleyiş yönetmeliği ve Gazi üniversitesi ile ilgili Yönetmelik Hükümleri uygulanır.

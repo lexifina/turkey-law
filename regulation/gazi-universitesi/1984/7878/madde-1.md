@@ -1,0 +1,2 @@
+MADDE 1 — Yüksek Öğretim Kurumlan Te^Iatı hakkında 41 Sayılı Kanun Hükmünde Kararnameyi değiştiren 28.3.1983 tarih ve 2809 sayılı Kanunun 10. maddesi gereğince, Gazi Üniversitesine hağh olmak üzere lisans üstü Öğretim, bilimsel araştırma, yayım ve uygulama kurumu olarak -Gazi üniversitesi Kazaları Araştırına ve önleme adı ile bir Enstitü kurulmuştur.
+Gazi Üniversitesi Kazaları Araştırma ve önleme Enstitüsü, bu yönetmelik hükümlerine göre yönetilir.
