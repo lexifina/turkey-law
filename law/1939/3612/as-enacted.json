@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3612",
+  "year": 1939,
+  "title": "İktisat Vekâleti teşkilât ve vazifeleri hakkındaki 2450 sayılı kanunda bazı değişiklikler yapan kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-05-30",
+  "gazette_issue": "4219",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4219.pdf",
+  "source_sha256": "25a9f215b6b5634147f2f6102c25fc6ea7a04aef320dd7a32dd1ece86718d0f8",
+  "text_sha256": "584b4b2422743edefa85be30727c0e922cf30746ccbaa90da7e824499c9b75d2",
+  "text_status": "ocr",
+  "pages": [
+    8
+  ],
+  "line_span": [
+    [
+      2104,
+      2389
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003612.pdf",
+    "source_sha256": "e0dee1cef205678f80de0395c07e834e255976343a03eb32a8a091b4abb4d3a9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9006,
+    "bag": 0.8265,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9973,
+    "rg_words": 775,
+    "kd_words": 749,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
