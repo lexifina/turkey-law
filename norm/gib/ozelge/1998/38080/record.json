@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5279-10-110/18955",
+  "source_id": 38080,
+  "date": "1998-05-21",
+  "title": "Kollektif ve adi komandit şirketlerdeki hisse devri işlemlerinde de ortaklığın sona ermesi sonucunu doğurmaması halinde katma değer vergisi uygulanmayacaktır. Ortaklığın sona ermesi sonucunu doğuran hisse devri işlemlerinde ise vergi uygulanacağı tabiidir",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38080",
+  "source_sha256": "c7d269fc4c3ee6639eb79e021c5f74327b73d4d4e48f86d57371a152fcb37ed5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
