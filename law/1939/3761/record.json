@@ -1,0 +1,74 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3761",
+  "year": 1939,
+  "title": "Ankara Yüksek ziraat enstitüsünün 1935 malî yılı hesabı katî kanunu",
+  "adopted": "1939-12-27",
+  "adopted_as_published": "27/12/1939",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.01.1940 No: 4403",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103761.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 21",
+  "committee_reports": [
+    {
+      "label": "TBMM 45 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007018ss0045.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96223,
+      "title": "Ankara Yüksek ziraat enstitüsünün 1935 malî yılı hesabı katî kanunu",
+      "adopted_as_published": "27/12/1939",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103761.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 45 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007018ss0045.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 17,
+          "sitting_date": "1939-12-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007fih.pdf",
+          "pages": [
+            "118"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 18,
+          "sitting_date": "1939-12-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007018.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c007/tbmm06007fih.pdf",
+          "pages": [
+            "132:133",
+            "136",
+            "141",
+            "145:148"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "f15a5671fc667e191e72d3ae85666559809efb3effef55607c685f24c613ad56"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "f15a5671fc667e191e72d3ae85666559809efb3effef55607c685f24c613ad56",
+  "issuer": "TBMM",
+  "in_force": "1939-12-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/12/1939; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
