@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5859",
+  "year": 1952,
+  "title": "Temyiz Mahkemesi Teşkilâtına Dair Kanunun 2020 Sayılı Kanunla Değişen 1 ve 5 nci ve 5458 Sayılı Kanunla Değişen 3 ncü Maddelerinin Değiştirilmesi ve 4ncü Maddesine Bir Fıkra Eklenmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-01-21",
+  "gazette_issue": "8013",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8013.pdf",
+  "source_sha256": "482e97a570fdc587ff6b96b0579a6a1928042bbbe5224d6ea06bc27a7fb01167",
+  "text_sha256": "e4f121f25fb91a3af944da73610fb37adc402762002a61a6b738ab7c7f7f2d81",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      131,
+      240
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405859.pdf",
+    "source_sha256": "2f98089b629da663a833f17d6f41fb849660eee446bb233a69c9bbe36213d858",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9829,
+    "bag": 0.9566,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9977,
+    "rg_words": 872,
+    "kd_words": 882,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
