@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2124",
+  "year": 1933,
+  "title": "Seyrisefaîn idaresince 1932 malî senesi zarfında aktedilecek istikrazlar hakkındaki 2093 numaralı Kanunun ikinci maddesinin tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-04-04",
+  "gazette_issue": "2370",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2370.pdf",
+  "source_sha256": "4bf3e450abbd75bb1f03e0fe2e6a140bb386b6f94b716349c5892a96f65443b5",
+  "text_sha256": "28a060e8b27e1e1649df967d5a6ec8685502a80dc15a2068182fe065c0c88c15",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      42
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202124.pdf",
+    "source_sha256": "9b487a44c10c28d1b8da77344d3cc754c7b432dc1c074525370096b6c1004838",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.986,
+    "bag": 0.9787,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9832,
+    "rg_words": 118,
+    "kd_words": 119,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
