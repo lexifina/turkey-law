@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4942",
+  "year": 1946,
+  "title": "Kazanç Vergisi Kanununda değişiklikler yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-06-20",
+  "gazette_issue": "6338",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6338.pdf",
+  "source_sha256": "e3d6b0aa7696dff3e3e4f77ea00e00eb22a29fb672cfa9b6da238200285f3a2d",
+  "text_sha256": "c1eb0725d6b44df2757922308b0a038f8855876179f34856d263d036bf35f63b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      46
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804942.pdf",
+    "source_sha256": "6b949c2bf7e15eeab1b1f99bee6314b27d778f05b2fc54903d4081df25ffffb4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9804,
+    "bag": 0.9312,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9909,
+    "rg_words": 219,
+    "kd_words": 219,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
