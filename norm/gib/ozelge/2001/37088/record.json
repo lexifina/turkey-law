@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6685-4430/42751",
+  "source_id": 37088,
+  "date": "2001-08-13",
+  "title": "Köy kıymet beyan defterine kaydı gereken taşınmazlardan eğitime katkı payı ve özel işlem vergisinin alınıp alınmayacağı hususu...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37088",
+  "source_sha256": "778dafd4800b6020326b47d5e840f279b7781116cc5f6876ca14859855c288ec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
