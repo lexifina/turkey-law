@@ -1,0 +1,2 @@
+Hukuki Dayanak ve Kuruluş
+Madde 3 – 2547 sayılı Yüksek Öğretim Kanununun 2880 sayılı Kanunla değişik 7/d-2 maddesi ve 03/07/2002 tarihli YÖK Yürütme Kurulu Kararı ile YÖK Başkanlığı’nın 17/07/2002 tarih ve 14643 sayılı yazısı uyarınca Hacettepe Üniversitesi Rektörlüğüne bağlı olarak, amaç maddesinde belirtilen bilimsel araştırma ve çalışmalarda bulunmak üzere "Hacettepe Üniversitesi Stratejik Araştırmalar Merkezi (HÜSAM)" kurulmuştur.
