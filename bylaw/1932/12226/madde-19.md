@@ -1,0 +1,1 @@
+Madde 19 – Tezkiye varakaları memurların terfilerinde esas olup kıdemsırasına göre yapılacak terfilerde tezkiye varakalarında yazılı hususlar daima nazarı itibara alınır. Tezkiyeleri düzgün olmıyan memurlar kıdem sırası gelsebile o sene için terfiden mahrum olurlar.

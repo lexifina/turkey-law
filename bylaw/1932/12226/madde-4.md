@@ -1,0 +1,1 @@
+Madde 4 – Vekaletin merkez teşkilatına mensup memurları ile merkezden nasbedilen memurlarının ve nahiye müdürlerinin tercümeihal varakaları Vekalete ve diğer memurlarınki vilayetlere verilir. Müfettişi Umumilik memurları tercümeihalleri Vekalete gönderilir.

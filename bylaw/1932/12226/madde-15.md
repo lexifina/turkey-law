@@ -1,0 +1,1 @@
+Madde 15 – Yukarki maddede yazılı mahrem muameleler neticesi olarak vaki tayin, beçayiş, nakil, ve ihraç hususlarına ait tebliğ emirleri ve mucipleri ile memurların haklarındaki şikayetler gibi şahsi ve mahrem evrak dahi bu mahrem evrak zarfına hıfzolunur.

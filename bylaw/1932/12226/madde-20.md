@@ -1,0 +1,1 @@
+Madde 20 – Memurda görülecek ve tashihi kabil olacak fena huyların ve hareketlerin ıslahı için kendisine tebligat yapılır ve ıslahıhal edip etmediği takip edilerek bundan alınacak netice memurun mahrem siciline dercedilir.

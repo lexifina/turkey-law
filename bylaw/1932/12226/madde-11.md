@@ -1,0 +1,1 @@
+Madde 11 – Sicil cüzdanlarının muhafazasna itina lazım olup bunlar, merkezde Vekalet makamından Müdürler Encümeni ve her sınıf memur için tabi oldukları makam amirleri ve vilayetlerde valilerle alakadar heyetlerden ve makamlardan başka hiç bir kimse tarafından görülemez. Aksi halde doğrudan doğruya alakadar memurlar mes'ul tutulur.
