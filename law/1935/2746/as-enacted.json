@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2746",
+  "year": 1935,
+  "title": "Küçük Yozgad barut ve Silâhtarağa fişek fabrikaları müstahdemininin Askerî fabrikalar Umum Müdürlüğü esas kadrosuna ilâve edilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-06-05",
+  "gazette_issue": "3020",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3020.pdf",
+  "source_sha256": "5547b69f23b7bdf4b725be1e073bf44463877ea9c53135c62f88f6cd3f10c81b",
+  "text_sha256": "a9002cae1955c11b9d8652d6954a5838716ddb9e5def5d8705f883faea59c059",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      795,
+      814
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [4] (no text layer)",
+    "tesseract_pages": [
+      4
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502746.pdf",
+    "source_sha256": "e340ade9b2a98f1d5588dc600d08e708543b0fc9545a0a9b9bd9f7583467d62b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9587,
+    "bag": 0.8889,
+    "kd_coverage": 0.9806,
+    "kd_body_compared": 0.9623,
+    "rg_words": 105,
+    "kd_words": 106,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
