@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5891",
+  "year": 1952,
+  "title": "1951 yılı Bütçe Kanununa Bağlı (A/1) İşaretli Cetvelde Aktarma Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-02-28",
+  "gazette_issue": "8046",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8046.pdf",
+  "source_sha256": "0b2c6586547c851c63ff994a083ec7a2345858647648e08210f19659c8acbd0c",
+  "text_sha256": "0206c7aec7ffb965b0f3e9feb8070aff7321d6f6a8ccf5e849ec3a8b6f1773d5",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      80,
+      93
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405891.pdf",
+    "source_sha256": "1e08309f8706bed0ffddd7ee6b6cba7f9ba2aa6cdff5ee4e3281eabac51052f2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.972,
+    "bag": 0.9162,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.978,
+    "rg_words": 90,
+    "kd_words": 91,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
