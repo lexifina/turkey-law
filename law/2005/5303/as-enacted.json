@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5303",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti ile Avrupa Birliği Arasındaki Malî İşbirliği Çerçevesinde Temin Edilecek Malî Yardımların Uygulanmasına İlişkin Çerçeve Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-02-26",
+  "gazette_issue": "25739",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050226-1.htm",
+  "source_sha256": "5c566efd0eb583e4d7db570d25bdd586e4330322e9234b1df516205c6a0196da",
+  "text_sha256": "6ff61a84fa30baaff54dc3497df8865883bcee592e77c04cbfc5124845c5765b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/02/26/25739-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050226-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
