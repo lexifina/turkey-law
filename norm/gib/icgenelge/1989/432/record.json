@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "VUK-3-24466-341-490/36095",
+  "source_id": 432,
+  "date": "1989-05-01",
+  "title": "VERGİ USUL KANUNU İÇ GENELGESİ SIRA NO : 1989/6",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/icgenelge/432",
+  "source_sha256": "4431fdde945b0b0a8f838a547b49b7237412b0dd6ae5afd5f368884392ac04a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
