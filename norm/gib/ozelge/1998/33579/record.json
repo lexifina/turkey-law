@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5417-1692/31575",
+  "source_id": 33579,
+  "date": "1998-09-03",
+  "title": "Kooperatif tarafından doğalgaz servis hattı döşettirilmesi işlemlerine katma değer vergisi uygulanmayacaktır",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33579",
+  "source_sha256": "c9b56931be7878693b86f0912b1afd2edbc7334db7458d3a57fd9fee7df88a14",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
