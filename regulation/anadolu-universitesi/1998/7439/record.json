@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 5- Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1998-07-17",
+      "17.07.1998",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 5- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "23405",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1998-07-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Anadolu Üniversitesi",
+  "issuer_slug": "anadolu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/anadolu-universitesi/1998/7439",
+  "published": "1998-07-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7439&MevzuatTertip=5",
+  "source_bytes": 8394,
+  "source_id": "8.5.7439",
+  "source_sha256": "1380f869d514db80f6255d5497cc1c2a93b3584c2a2afa5338c587b6f0567197",
+  "text_status": "as-enacted",
+  "title": "ANADOLU ÜNİVERSİTESİ VEKALET ÜCRETİ DAĞITIM YÖNETMELİĞİ",
+  "university_id": 179,
+  "word_count": 166
+}

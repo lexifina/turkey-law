@@ -1,0 +1,1 @@
+Madde 4- Vekalet ücretinin % 20’si, Üniversite hukuk servisinde fiilen çalışan memur ve hizmetliler arasında eşit olarak dağıtılır. Bu kişiler, işten ayrılmaları halinde vekalet ücretinden yararlanamaz.
