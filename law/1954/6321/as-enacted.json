@@ -1,0 +1,51 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6321",
+  "year": 1954,
+  "title": "Mahmudiye ve Çifteler Adiyle Yeniden İki Kaza Kurulması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-10",
+  "gazette_issue": "8654",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8654.pdf",
+  "source_sha256": "c32fc5c1f4dd8f57fcb67570e673486242d2cf6613dd5fc05767c58bdc6dd2ae",
+  "text_sha256": "d6c4b5afeb842b43872901e6c531215c139c81609937182398de4f4036774dc6",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      318,
+      326
+    ],
+    [
+      327,
+      336
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [3] (no text layer)",
+    "tesseract_pages": [
+      3
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606321.pdf",
+    "source_sha256": "2762475eeca35cc3d202e999d95763da81a50da08b0baaf0252bc7c521a81d1f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9447,
+    "bag": 0.834,
+    "kd_coverage": 0.9766,
+    "kd_body_compared": 0.2683,
+    "rg_words": 131,
+    "kd_words": 477,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
