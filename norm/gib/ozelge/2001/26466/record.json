@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3224-2435/39960",
+  "source_id": 26466,
+  "date": "2001-07-20",
+  "title": "Katma Değer Vergisi iadesi tasdik işlemlerinde karşıt incelemenin amacı, iade veya mahsup edilecek katma değer vergisi tutarını doğru olarak belirlemektir.Yeminli mali müşavirlerin karşıt inceleme çerçevesinde diğer mükelleflerin defter ve belgelerini inc",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/26466",
+  "source_sha256": "a1ff8c2de85d5a213e43275985af51aa8f6cedb15f6f75261a0d899473aa48a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
