@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 132942,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEFSİRLER",
+  "heading_as_published": "Tefsirler",
+  "summary": "Meskûkât darbı hakkındaki 12 Şubat 1340 tarihli kanunun tefsiri.",
+  "title": "Meskûkât darbı hakkındaki 12 Şubat 1340 tarihli kanunun tefsiri.",
+  "first_sitting_date": "1925-11-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 19,
+      "sitting": 2,
+      "sitting_date": "1925-11-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c019/tbmm02019002.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c019/ehttbmm02019002.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c019/tbmm02019fih.pdf",
+      "pages": [
+        "20"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 45,
+      "sitting_date": "1926-01-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c021/tbmm02021045.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c021/ehttbmm02021045.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c021/tbmm02021fih.pdf",
+      "pages": [
+        "244"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 46,
+      "sitting_date": "1926-01-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c021/tbmm02021046.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c021/ehttbmm02021046.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c021/tbmm02021fih.pdf",
+      "pages": [
+        "282:284"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 47,
+      "sitting_date": "1926-01-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c021/tbmm02021047.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c021/ehttbmm02021047.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c021/tbmm02021fih.pdf",
+      "pages": [
+        "291:292"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=383&v_gelecek_sayfa=201&v_kullanici_id=27483770",
+  "source_sha256": "1a3185e4ec2591c9dd907c15be22c7c74680a5c059abeefe9da87a40934a2992",
+  "in_force": "1925-11-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
