@@ -1,0 +1,1 @@
+Geçici Madde 2- Bu Yönetmeliğin 33 üncü maddesinde belirtilen yönerge altı ay içinde yürürlüğe konulur. Bu yönergenin yürürlüğe konulmasına kadar, mevcut Yönergenin bu Yönetmeliğe aykırı olmayan hükümlerinin uygulanmasına devam olunur.

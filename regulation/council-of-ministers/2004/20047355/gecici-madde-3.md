@@ -1,0 +1,1 @@
+Geçici Madde 3- Yönetim Kurulu, bu Yönetmeliğin yürürlüğe girmesinden sonra yapılacak ilk Genel Kurula katılacak diğer kamu kuruluşlarını, yükseköğretim kurumlarını, özel kuruluşları ve tanınmış kişileri, bu Yönetmelikte belirlenen esaslar çerçevesinde resen belirlemeye yetkilidir.

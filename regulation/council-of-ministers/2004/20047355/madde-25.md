@@ -1,0 +1,3 @@
+Genel Sekreterlik personeli
+Madde 25- Genel Sekreter, Genel Sekreter yardımcıları, Sayman ve diğer Genel Sekreterlik personeli, Yönetim Kurulunun 2/3 ünün teklifi ve Bakanlığın olumlu görüşü üzerine 4857 sayılı İş Kanununa tabi olarak iş sözleşmesi ile çalıştırılırlar. Bunların görevine son verme işlemi de aynı usule göre yapılır.
+Milli Komisyon çalışmalarının yoğunlaştığı ve Genel Sekreterlik iş ve işlemlerinin arttığı dönemlerde, Yönetim Kurulunun kararı ve Bakanlığın uygun görüşü ile sürekli çalışan personel sayısını aşmamak üzere, 4857 sayılı Kanunun 11 inci maddesine göre belirli süreli iş sözleşmesi ile ilave personel çalıştırılabilir.

@@ -1,0 +1,2 @@
+Temsilcilik süresi ve temsilcilik sıfatının kaybedilmesi
+Madde 13- Genel Kurul temsilciliği sıfatı, kazanılmasından itibaren 4 yıl sürer. Süresi biten Genel Kurul temsilcilerinin görevleri, yeni Genel Kurulun oluşumuna kadar devam eder. Kişilerin, Genel Kurul temsilcisi olarak belirlendikleri kurumdan ayrılmaları, istifaları, çalışamaz hale gelmeleri veya ölümleri hallerinde temsilcilik sıfatları ortadan kalkar. Yerlerine, öncekilerin görev sürelerini tamamlamak üzere, ilgili kurum tarafından yeni isim bildirilir.

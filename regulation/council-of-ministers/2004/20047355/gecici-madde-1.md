@@ -1,0 +1,1 @@
+Geçici Madde 1- 26/4/1982 tarihli ve 8/4568 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yönetmelik hükümlerine göre teşkil olunan Genel Kurul, Yönetim Kurulu ve Denetim Kurulunun görev süreleri bu Yönetmelikte öngörülen sürelere tamamlanır.

@@ -1,0 +1,2 @@
+Genel Kurulun yapısı
+Madde 9- Genel Kurul, Hükümet temsilcileri; eğitim, bilim, kültür ve iletişim konularıyla ilgili resmi ve özel kurum ve kuruluşların temsilcileri ile eğitim, temel bilimler, insan ve toplum bilimleri, kültür ve iletişim konularında tanınmış kişilerden oluşur. Genel Kurul üyeleri, UNESCO’nun çalışma alanına giren eğitim, temel bilimler, insan ve toplum bilimleri, kültür ve iletişim konuları göz önünde bulundurularak belirlenir.

@@ -1,0 +1,3 @@
+Denetim Kurulunun görev süresi, çalışma şekli, Denetim Kurulu üyeliğinin sona ermesi
+Madde 23- Denetim Kurulu, her yıl aralarından seçtikleri başkanın yönetiminde toplanır. Denetim Kurulu üyeleri bir araya gelerek ya da ayrı olarak hesap ve kayıtlar üzerinde inceleme yapar ve buna göre raporunu hazırlar. Denetim Kurulu kararları oy çokluğu ile alınır. Denetim Kurulunun görev süresi 4 yıldır. Denetim Kurulu üyelerinin görev süresi, yeni Denetim Kurulu seçilinceye kadar sürer. Denetim Kurulu üyeliği; istifa, çalışmayı engelleyecek hastalık, ölüm veya üyelerin çalışmakta oldukları bakanlık, resmi ve özel kurum ve kuruluşlardaki görevlerinden ayrılmaları hallerinde sona erer.
+Üyeliği sona eren üyelerin yerlerini, kalan süreyi tamamlamak üzere, yedek üyeler alır.
