@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6685-4826",
+  "source_id": 37131,
+  "date": "2003-11-24",
+  "title": "3194 Sayılı İmar Kanunu'nun 18. maddesinin uygulanması sonucu arsa niteliği kazanan taşınmazların üzerinde zirai faaliyet yapılsa bile, arsa olarak vergilendirilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37131",
+  "source_sha256": "e49195f7cafbe73cc22d018467b7c3d8b7d266b3cd5a6160e912a37fa7ce019c",
+  "text_status": "metadata-only",
+  "text_omitted_reason": "Personal data in source text; metadata and official source link only.",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
