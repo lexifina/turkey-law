@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "88",
+  "year": 1960,
+  "title": "Devrilen iktidar zamanında suç işliyen yüksek dereceli memurlar hakkında yapılacak soruşturma usulüne dair 45 sayılı Kanunun tatbikatının durdurulması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-10-04",
+  "gazette_issue": "10620",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10620.pdf",
+  "source_sha256": "83bb4c75e7928f0603c65001f235324eeccf1fb8d70d202eac7e0cd55bf95fc0",
+  "text_sha256": "5a8180c401a51132644c36a847b442cc27cbfc067c65024b652bc5931731760a",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      48,
+      63
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300088.pdf",
+    "source_sha256": "8c28c4b39b4f20b42d13925345cdffdecf063f64d9977a49185017b67aba781a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9815,
+    "bag": 0.9497,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9457,
+    "rg_words": 92,
+    "kd_words": 92,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
