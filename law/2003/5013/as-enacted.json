@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5013",
+  "year": 2003,
+  "title": "Biyoloji ve Tıbbın Uygulanması Bakımından İnsan Hakları ve İnsan Haysiyetinin Korunması Sözleşmesi İnsan Hakları ve Biyotıp Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-12-09",
+  "gazette_issue": "25311",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031209.htm",
+  "source_sha256": "581a0d8fb70afd343166de36e2af22cbc90029a5896d89eda374e55e433d14b0",
+  "text_sha256": "a111d2a171a29cd9f1b7aafed1173b3f9e229cbb4f76f6eb33e37a6aa17c1433",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/12/09/25311-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031209.htm#8",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
