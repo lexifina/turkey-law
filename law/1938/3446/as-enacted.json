@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3446",
+  "year": 1938,
+  "title": "Ziraat Vekâleti vazife ve teşkilât Kanununda değişiklikler yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-06-25",
+  "gazette_issue": "3943",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3943.pdf",
+  "source_sha256": "8889feb1942ea9b6eac1f9d0eac7f23fccab0ed315aca4e05a816bf533910a53",
+  "text_sha256": "6c9fbba321178ea42fb7aa37fb0a6ad5b6c8534078ab86b7dcea74eeb4fb0600",
+  "text_status": "ocr",
+  "pages": [
+    22
+  ],
+  "line_span": [
+    [
+      7311,
+      7401
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803446.pdf",
+    "source_sha256": "7f6606d668695ba9a198ccd0d297d03e5e1699a5de18bc3d0ec7813c71d7f0df",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9644,
+    "bag": 0.8507,
+    "kd_coverage": 0.9951,
+    "kd_body_compared": 0.9951,
+    "rg_words": 199,
+    "kd_words": 204,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
