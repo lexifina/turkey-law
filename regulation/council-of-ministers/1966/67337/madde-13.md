@@ -1,0 +1,1 @@
+Madde 13 – Nöbetçi memurluğu görevini yapacak subay, astsubay, memur ve hizmetlilerle diğer personele, bu görevlerinden ötürü herhangi bir ücret ödenmez. Nöbet tutanlar, nöbetin bitiminde bir iş günü izinli sayılırlar. Nöbet konusu ile ilgili özel kanunlardaki haklar saklıdır.

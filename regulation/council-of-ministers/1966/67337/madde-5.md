@@ -1,0 +1,1 @@
+Madde 5 – 3 üncü madde gereğince, alarm haberlerini almış olan Bakanlıklar taşra teşkilatının amirleri, alarm haberlerinin alındığını, vakit geçirmeden, mahallin en büyük mülki amirine bildirmekten sorumludurlar.

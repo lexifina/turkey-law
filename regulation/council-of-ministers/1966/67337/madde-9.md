@@ -1,0 +1,1 @@
+Madde 9 – Alarm Haberini alan nöbetçi memuru, alarm haberini bildirenin adını, soyadını, görevini ve alarmın bildirildiği saati kaydederek "Nöbetçi Memurluğu Özel Talimatı"ndaki hükümlere göre hareket eder.

@@ -1,0 +1,2 @@
+Madde 16 – Bir binada, Bakanlığın veya teşkilatın birkaç dairesinde birden fazla nöbetçi memurluğu bulunduğu takdirde, en kıdemli olanı, kıdemli nöbetçi memuru olur. Kıdemli nöbetçi memurluğu cetvelleri, Bakanlık, Genel Müdürlük veya İl Savunma Sekreterliklerince düzenlenir ve bütün nöbet odalarına asılır. Nöbet yerleri krokilerle belirtilir.
+Kıdemli nöbetçi memuru, bina dahilindeki diğer nöbetçi memurlarının faaliyetlerini, kontrol eder, aksaklıkları nöbet defterine kaydeder ve ilgililere bildirir.

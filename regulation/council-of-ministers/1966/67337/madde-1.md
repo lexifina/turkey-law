@@ -1,0 +1,1 @@
+Madde 1 – Yetkili merciler tarafından bildirilecek alarm haberlerinin sürat ve emniyetle ilgililere ulaştırılmasını sağlamak amacı ile Bakanlıklarda ve Bakanlıklarca uygun görülecek teşkilat ve kurumlarında birer Nöbetçi Memurluğu kurulur.

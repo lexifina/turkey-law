@@ -1,0 +1,1 @@
+Madde 10 – Bakanlıklarda ve Bakanlıklarca uygun görülecek teşkilat ve kurumlarında, nöbet tutacak personelin tesbit işlemi, kurum amiri ile savunma sekreterliklerince,11 inci maddedeki nitelikler gözönünde bulundurulmak suretiyle müştereken yapılır.

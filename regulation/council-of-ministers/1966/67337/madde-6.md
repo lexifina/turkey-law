@@ -1,0 +1,1 @@
+Madde 6 – Bakanlıkların, 3 üncü madde gereğince, kendi taşra teşkilatına alarm haberlerini ulaştırmaları, mahallin en büyük mülki amirinin, aldığı alarm haberini Bakanlıklar taşra teşkilatına ulaştırma sorumluluğunu kaldırmaz.

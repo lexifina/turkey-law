@@ -1,0 +1,1 @@
+Madde 15 – 1281 ve onu tadil eden 6577 sayılı Kanun hükümlerine göre Türk Silahlı Kuvvetleri dışında görev almış bulunan subay ve astsubaylar; bulundukları teşkilatta nöbetçi memuru olarak görev aldıkları takdirde, 211 sayılı Türk Silahlı Kuvvetleri İç Hizmet Kanunu ve Yönetmeliği hükümleri saklı kalmak kaydı ile bu Yönetmelik hükümlerine tabidirler.
