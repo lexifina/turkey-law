@@ -1,0 +1,60 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 93027,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Türkiye ile Almanya arasında Ticari mübadelelere ve Tediyelerin tanzimine mütedair Anlaşmaya bağlı II. listeye 14 milyon liralık munzam bir kontenjan ilâvesine, .r ve üzüm kontenjanlarında münakale yapılmasına dair teati olunan mektupların tasdi ki hakkında (1/241)",
+  "title": "Türkiye ile Almanya arasında Ticari mübadelelere ve Tediyelerin tanzimine mütedair Anlaşmaya bağlı II. listeye 14 milyon liralık munzam bir kontenjan ilâvesine, .r ve üzüm kontenjanlarında münakale yapılmasına dair teati olunan mektupların tasdi ki hakkında (1/241)",
+  "first_sitting_date": "1944-04-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 41,
+      "sitting_date": "1944-04-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009041.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009fih.pdf",
+      "pages": [
+        "48"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 78,
+      "sitting_date": "1944-06-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011fih.pdf",
+      "pages": [
+        "146"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 79,
+      "sitting_date": "1944-07-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c012/tbmm07012079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c012/tbmm07012fih.pdf",
+      "pages": [
+        "6",
+        "33",
+        "37:38",
+        "46:49"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5aed36bc18935b858c988b46324b7655995008e05d79c79994755c30df27f29c",
+  "in_force": "1944-04-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
