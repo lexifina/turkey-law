@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2906-177-502/l0946",
+  "source_id": 25402,
+  "date": "1997-03-17",
+  "title": "Şarküteri işletmeciliği ve sayısal loto aboneliği hizmeti yapan mükellefler defter tutma bakımından hangi sınıfa girdiğinin tespiti hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25402",
+  "source_sha256": "5104e39153ea47621f38fac441621b713c697203e82f23510d1d738a7c995696",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
