@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-438/029449",
+  "source_id": 38281,
+  "date": "1999-07-12",
+  "title": "Mükellefler faaliyetleriyle ilgili olarak birden fazla Ö.K.C. kullanabilir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38281",
+  "source_sha256": "a67c6839b5dde301bf2a993fcf50ba0095c1d846a6a80269f5e627c72de5dae7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
