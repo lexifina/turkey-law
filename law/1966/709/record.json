@@ -1,0 +1,125 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "709",
+  "year": 1966,
+  "title": "709 sayılı Kanun",
+  "adopted": "1966-01-10",
+  "adopted_as_published": "10/01/1966",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.01.1966 No: 12211",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900709.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 49",
+  "committee_reports": [
+    {
+      "label": "MM 1025 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043142ss1025.pdf"
+    },
+    {
+      "label": "CS 715ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031031ss0715ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 358188,
+      "title": "709 sayılı Kanun",
+      "adopted_as_published": "10/01/1966",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900709.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 1025 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043142ss1025.pdf"
+        },
+        {
+          "label": "CS 715ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031031ss0715ek01.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1101&v_kullanici_id=27483225",
+      "page_sha256": "80251869e03af7558ae631349888e850be9b61a18fdf958704c8ec81c5f86c7f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 302437,
+      "title": "709 sayılı Kanun",
+      "adopted_as_published": "10/01/1966",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900709.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 1025 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043142ss1025.pdf"
+        },
+        {
+          "label": "CS 715ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031031ss0715ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 30,
+          "sitting": 115,
+          "sitting_date": "1965-07-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c030/cs__05030115.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c030/cs__05030fih.pdf",
+          "pages": [
+            "302"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 25,
+          "sitting_date": "1966-01-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031fih.pdf",
+          "pages": [
+            "367"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 30,
+          "sitting_date": "1966-01-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031fih.pdf",
+          "pages": [
+            "609"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 31,
+          "sitting_date": "1966-01-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c031/cs__05031fih.pdf",
+          "pages": [
+            "645:658",
+            "659:675",
+            "676:678"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=701&v_kullanici_id=27483235",
+      "page_sha256": "28c4c071a296cef811d1914cc4a93e05eb005f54447af6f75911f51122fe206f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "80251869e03af7558ae631349888e850be9b61a18fdf958704c8ec81c5f86c7f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1966-01-10",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 10/01/1966; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
