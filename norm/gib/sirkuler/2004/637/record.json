@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-20/2004-12/Eğitim ve sağlık harcamaları",
+  "source_id": 637,
+  "date": "2004-03-08",
+  "title": "Mükellefin kendisi, eşi ve küçük çocuklarına ilişkin olarak yapılan eğitim ve sağlık harcamalarının gelir vergisi matrahının tespitinde indirimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/637",
+  "source_sha256": "7c8c506652846359bb5d1309882775d621363a7d35a702ae374cfe01b820a46b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
