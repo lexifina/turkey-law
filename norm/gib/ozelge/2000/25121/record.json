@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.028/2857-115-920/33804",
+  "source_id": 25121,
+  "date": "2000-07-18",
+  "title": "İşyerlerinde çıkan yangın sonucu varlıklarında meydana gelen zararlar nedeniyle, vergi borçlarını ödeyemeyen mükellefin borçlarının terkin edilip edilemeyeceği hakkında. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25121",
+  "source_sha256": "ff7f9aaab36a21317093c563244fe16729b48e85b35af300ca5de907be507841",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
