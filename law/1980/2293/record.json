@@ -1,0 +1,139 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2293",
+  "year": 1980,
+  "title": "Devlet Su İşleri Genel Müdürlüğü 1980 Yılı Bütçe Kanunu",
+  "adopted": "1980-02-27",
+  "adopted_as_published": "27/02/1980",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09.03.1980 No: 16924",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc063/kanuntbmmc063/kanuntbmmc06302293.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 63",
+  "committee_reports": [
+    {
+      "label": "MM 426no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015053ss0426.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 445394,
+      "title": "Devlet Su İşleri Genel Müdürlüğü 1980 Yılı Bütçe Kanunu",
+      "adopted_as_published": "27/02/1980",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc063/kanuntbmmc063/kanuntbmmc06302293.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 426no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015053ss0426.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 13,
+          "sitting": 16,
+          "sitting_date": "1979-12-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c013/mm__05013016.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c013/mm__05013fih.pdf",
+          "pages": [
+            "362"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 44,
+          "sitting_date": "1980-02-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014fih.pdf",
+          "pages": [
+            "4"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 53,
+          "sitting_date": "1980-02-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015fih.pdf",
+          "pages": [
+            "169:171"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 55,
+          "sitting_date": "1980-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015fih.pdf",
+          "pages": [
+            "387",
+            "445",
+            "579:582"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=201&v_kullanici_id=27483225",
+      "page_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 334314,
+      "title": "Devlet Su İşleri Genel Müdürlüğü 1980 Yılı Bütçe Kanunu",
+      "adopted_as_published": "27/02/1980",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc063/kanuntbmmc063/kanuntbmmc06302293.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 426no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015053ss0426.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 45,
+          "sitting": 28,
+          "sitting_date": "1980-02-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 46,
+          "sitting": 35,
+          "sitting_date": "1980-02-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046fih.pdf",
+          "pages": [
+            "198",
+            "199:226",
+            "254",
+            "299:300"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2301&v_kullanici_id=27483235",
+      "page_sha256": "5c956aae333412b6cc932c4b4cee49d823cedecaefdc9e3e0d257694aee83f2d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1980-02-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 27/02/1980; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
