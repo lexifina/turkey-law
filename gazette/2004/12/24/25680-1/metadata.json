@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-12-24",
+  "issue": "25680",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "Kanun",
+  "title": "5272 Belediye Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2004/12/20041224.htm#1",
+  "link_format": "inline-anchor",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2004/12/20041224.htm",
+  "index_sha256": "49466d1ec20cdbbffe1a94b1900bc36a053b2e270da07f67f003df84ad06a716",
+  "index_header": "24 Aralık 2004 ... Sayı : 25680",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; item printed inside the single-page issue; text not split out"
+}
