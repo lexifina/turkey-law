@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4417-366/10547",
+  "source_id": 37865,
+  "date": "2004-03-15",
+  "title": "Kapıcılık ve kalorifercilik hizmetinde bir işçi çalıştırılacağı...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37865",
+  "source_sha256": "dbf43c6fc7c551e8297e05c5e0165bc544b9b2567d3417ca533a82bc2c32d9d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
