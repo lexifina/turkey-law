@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-882/20760",
+  "source_id": 36818,
+  "date": "1997-05-20",
+  "title": "Banka sermayesinin bir kısmının halka açılması ile elde edilecek emisyon primleri üzerinden B.S.M.V.'nin ödenmesinin gerektiği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36818",
+  "source_sha256": "9ec7f2da608ea84b8c1d219196677dd747eeee3d21d1896b6629dd29370902d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
