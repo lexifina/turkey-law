@@ -1,0 +1,31 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2001/1",
+  "source_id": 493,
+  "date": "2001-04-09",
+  "title": "HARÇLAR KANUNU İÇ GENELGESİ SIRA NO:2001/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/icgenelge/493",
+  "source_sha256": "47b2b2129c8ae9524d5196c8fa44464fabc3754ae0994c959d712900c52de356",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36063",
+        "quote": "09.04.2001 tarihli ve 2001/1 No.lu Harçlar Kanunu İç genelgesinde"
+      },
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38178",
+        "quote": "9/4/2001 tarih ve 2001/1 sıra numaralı Harçlar Kanunuı İç Genelge'sinde"
+      }
+    ]
+  }
+}
