@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5318",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti ile Tunus Cumhuriyeti Arasında Serbest Ticaret Alanı Tesis Eden Ortaklık Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-03-19",
+  "gazette_issue": "25760",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050319-1.htm",
+  "source_sha256": "1ecb5c648ebe4598a0c904c0caf8ad7c1ec9808a39417d3a0abe889d76942f9b",
+  "text_sha256": "f9987b053a67c38da0aeb41e0a1ae38f4d801821d62fb754789029db8d91c415",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/03/19/25760-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050319-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
