@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5711-530/012956",
+  "source_id": 38020,
+  "date": "2005-03-21",
+  "title": "Hizmet ihracı kapsamında ihracat yapanların iade ve mahsup işlemlerinde, ihraç bedelinin tamamına ait döviz alım belgelerinin veya dövizin yurt dışından geldiğini gösteren bankadan alınmış belgenin ibrazının gerektiği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38020",
+  "source_sha256": "34bd6c607ba81988a0cac7f0774ef2c83c578a41f59bdd94533f6bca9c5feb55",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
