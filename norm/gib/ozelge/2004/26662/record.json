@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-96/031643",
+  "source_id": 26662,
+  "date": "2004-07-05",
+  "title": "Üretim ve hizmet işletmelerinde uygulanacak olan maliyet hesapları hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26662",
+  "source_sha256": "b984c98276c57aa66b3f629c2e929b1876332facb29e5f85fdf48be34de9e5fb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
