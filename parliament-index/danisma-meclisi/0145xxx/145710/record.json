@@ -1,0 +1,60 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 145710,
+  "assembly": "Danışma Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "AKİF ERGİNAY (DANIŞMA MECLİSİ TRABZON ÜYESİ)",
+  "summary": "Ve 10 Arkadaşının, 506 Sayılı Sosyal Sigortalar Kurumu Kanununun 77. Maddesinin 7. Fıkrasının Değiştirilmesi Hakkında Kanun Teklifi. (2/122) (Başkanlığa geliş tarihi:8.6.1983) (Sağlık ve Sosyal İşler Esas) ve Bütçe-Plan komisyonlarına:9.6.1983",
+  "title": "Ve 10 Arkadaşının, 506 Sayılı Sosyal Sigortalar Kurumu Kanununun 77. Maddesinin 7. Fıkrasının Değiştirilmesi Hakkında Kanun Teklifi. (2/122) (Başkanlığa geliş tarihi:8.6.1983) (Sağlık ve Sosyal İşler Esas) ve Bütçe-Plan komisyonlarına:9.6.1983",
+  "first_sitting_date": "1983-06-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 117,
+      "sitting_date": "1983-06-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c018/dm__02018117.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c018/dm__02018fih.pdf",
+      "pages": [
+        "628"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 22,
+      "sitting": 169,
+      "sitting_date": "1983-10-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c022/dm__02022169.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c022/dm__02022fih.pdf",
+      "pages": [
+        "126"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 22,
+      "sitting": 172,
+      "sitting_date": "1983-10-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c022/dm__02022172.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c022/dm__02022fih.pdf",
+      "pages": [
+        "325:329"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d5690152aebc50658fb2eeade43cc8741d930fe44ee3f6a733eacfffa6a44ec9",
+  "in_force": "1983-06-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
