@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 3292,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Sinob Mebusu Şevket Beyin, Sulh Mahkemeleri Kanununun tadiline dair kanun teklifi, Kırşehir Mebusu Sadık Beyin, Sulh Hâkimleri Kanununa bir zeyil ilâvesi hakkında kanun teklifine dair (2/178, 2/240)",
+  "title": "Sinob Mebusu Şevket Beyin, Sulh Mahkemeleri Kanununun tadiline dair kanun teklifi, Kırşehir Mebusu Sadık Beyin, Sulh Hâkimleri Kanununa bir zeyil ilâvesi hakkında kanun teklifine dair (2/178, 2/240)",
+  "first_sitting_date": "1921-09-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 12,
+      "sitting": 71,
+      "sitting_date": "1921-09-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/tbmm01012071.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/ehttbmm01012071.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/tbmm01012fih.pdf",
+      "pages": [
+        "149:151"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 97,
+      "sitting_date": "1921-10-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c013/tbmm01013097.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c013/ehttbmm01013097.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c013/tbmm01013fih.pdf",
+      "pages": [
+        "189:190"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1993&v_gelecek_sayfa=801&v_kullanici_id=27483712",
+  "source_sha256": "519f4f4ed2c11830d3f43b2570e0224991b47f6dc19b6a6e99eb2587ec17e7c0",
+  "in_force": "1921-09-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
