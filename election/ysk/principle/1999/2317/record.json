@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/2317",
+  "list_number": "2317",
+  "decision_date": "1999-10-26",
+  "title": "YSK ilke kararı 1999/2317",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4449/1999-2317-karar.htm",
+  "source_sha256": "67ecc08b0d9f0d37652e7c854e731a93cf992a076965737893c91762259ad090",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-10-26",
+  "law_text_complete": false
+}
