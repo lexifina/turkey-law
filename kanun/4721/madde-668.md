@@ -1,0 +1,1 @@
+MADDE 668.- Mirasçılardan hiç biri tarımsal işletmenin bir bütün olarak kendisine özgülenmesini istemez veya özgülenme istemi reddedilirse, mirasçılardan her biri işletmenin bir bütün olarak satılmasını isteyebilir.

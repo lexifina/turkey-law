@@ -1,0 +1,1 @@
+MADDE 92.- Yabancı dernekler, uluslararası alanda işbirliği yapılmasında yarar görülen hâllerde ve karşılıklı olmak koşuluyla kültürel, ekonomik ve teknik konularda bilgi veya teknolojilerinden yararlanılmak üzere, Bakanlar Kurulunun izniyle Türkiye'de faaliyette bulunabilirler, şube açabilirler, üst kuruluşlar kurabilirler, kurulmuş üst kuruluşlara katılabilirler.
