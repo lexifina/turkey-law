@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6786",
+  "year": 1956,
+  "title": "6368 sayılı Kanunla tasdik olunan Milletlerarası Sağlık Nizamnamesinin bazı maddesini tadil eden Ek Nizamnamenin tasdiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-07-16",
+  "gazette_issue": "9359",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9359.pdf",
+  "source_sha256": "5bb9b3d23203dd7207ba706c91dc33b853cd192eb02e711b85f1918f900ac247",
+  "text_sha256": "d5102972980f1e2b5d71318c09f6463da30c6ec7b839c09061af7f035a6af914",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "line_span": [
+    [
+      719,
+      1107
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806786.pdf",
+    "source_sha256": "564dc4c3ec23d2d377c6c11e236e5c153783bdf8e4a6b389930c430b51f0337f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.976,
+    "bag": 0.8733,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 2087,
+    "kd_words": 2159,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
