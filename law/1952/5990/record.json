@@ -1,0 +1,93 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5990",
+  "year": 1952,
+  "title": "Umumi Müfettişlik Teşkiline Dair Kanun ile Ek ve Tadillerinin Yürürlükten Kaldırılması Hakkında Kanun",
+  "adopted": "1952-11-21",
+  "adopted_as_published": "21/11/1952",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.11.1952 No: 8270",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03505990.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 35",
+  "committee_reports": [
+    {
+      "label": "TBMM 224 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c016/tbmm09016087ss0224.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 62154,
+      "title": "Umumi Müfettişlik Teşkiline Dair Kanun ile Ek ve Tadillerinin Yürürlükten Kaldırılması Hakkında Kanun",
+      "adopted_as_published": "21/11/1952",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03505990.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 224 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c016/tbmm09016087ss0224.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 12,
+          "sitting": 32,
+          "sitting_date": "1952-01-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012fih.pdf",
+          "pages": [
+            "339"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 84,
+          "sitting_date": "1952-06-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c016/tbmm09016084.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c016/tbmm09016fih.pdf",
+          "pages": [
+            "190"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 87,
+          "sitting_date": "1952-06-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c016/tbmm09016087.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c016/tbmm09016fih.pdf",
+          "pages": [
+            "318"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 7,
+          "sitting_date": "1952-11-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c017/tbmm09017007.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c017/tbmm09017fih.pdf",
+          "pages": [
+            "245"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=746&v_gelecek_sayfa=301&v_kullanici_id=27483180",
+      "page_sha256": "2db9f5c5ede8d51172031dd9d24c7f736d700be1025e848dd31314d245055ab4"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2db9f5c5ede8d51172031dd9d24c7f736d700be1025e848dd31314d245055ab4",
+  "issuer": "TBMM",
+  "in_force": "1952-11-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/11/1952; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
