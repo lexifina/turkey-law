@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6215-585/10508",
+  "source_id": 38154,
+  "date": "2003-03-14",
+  "title": "Genel ve katma bütçeli dairelere ait konukevleri ile bu konukevlerinde açılan kantinler hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38154",
+  "source_sha256": "a6e97446a41424a757ef646acf72b8071489413e540c6147e850e37d3c9dd4af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
