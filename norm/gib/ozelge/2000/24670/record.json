@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5417-1740/31047",
+  "source_id": 24670,
+  "date": "2000-06-27",
+  "title": "Spor Klubü Derneğinin, çay ocağı, büfe ve lokal işletme faaliyetinden dolayı, teslim ve hizmetleri katma değer vergisine tabi bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/24670",
+  "source_sha256": "ab558ad08d8c21b51b5f39f67a85b322eb275a37c12a22c12416f59da919fe90",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
