@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 365051,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MUZAFFER ALANKUŞ (CUMHURİYET SENATOSU CUMHURBAŞKANINCA SEÇİLEN ÜYESİ)",
+  "summary": "Türk Ceza Kanununun 567. maddesine bir fıkra eklenmesine dair kanun teklifi ve İçişleri, Turizm ve Tanıtma, Adalet ve Millî Eğitim komisyonları raporları (2/173)",
+  "title": "Türk Ceza Kanununun 567. maddesine bir fıkra eklenmesine dair kanun teklifi ve İçişleri, Turizm ve Tanıtma, Adalet ve Millî Eğitim komisyonları raporları (2/173)",
+  "first_sitting_date": "1967-06-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 117,
+      "sitting_date": "1967-06-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018117.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c018/mm__02018fih.pdf",
+      "pages": [
+        "422"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=4101&v_kullanici_id=27484893",
+  "source_sha256": "e56c8efc9be8ab6e113489cbe5897186d168d6d7e21acb2bcf271c81834b7ff0",
+  "in_force": "1967-06-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
