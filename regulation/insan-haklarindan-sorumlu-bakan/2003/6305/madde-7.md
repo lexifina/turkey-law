@@ -1,0 +1,2 @@
+Danışma ve başvuru masaları
+Madde 7 — İllerde valilik yazı işleri müdürlüğünde, ilçelerde kaymakamlık yazı işleri müdürlüğünde herkesin kolayca ulaşabileceği bir danışma ve başvuru masası oluşturulur. Masaya gelen başvurularla ilgilenmek üzere illerde vali, ilçelerde kaymakam tarafından sürekli bir memur görevlendirilir. Masa görevlisinin hukuk formasyonuna sahip olması veya halkla ilişkiler konusunda uzman olması göz önünde bulundurulur.
