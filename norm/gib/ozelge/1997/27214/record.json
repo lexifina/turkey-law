@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3026-354-427/9434",
+  "source_id": 27214,
+  "date": "1997-03-07",
+  "title": "İşyeri kapatma cezasının uygulanmasında, bu cezaya dayanak teşkil eden tutanaklarla yapılan tespitler ve uygulanacak cezalar hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27214",
+  "source_sha256": "318f87d0e109706f0590e15a77fcf9b4f5ba759f2eab6db505f72853e79133e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
