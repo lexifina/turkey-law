@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4598",
+  "year": 2000,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Çin Halk Cumhuriyeti Hong Kong Özel İdari Bölgesi Hükümeti Arasında Hava Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2000-11-09",
+  "gazette_issue": "24225",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2000/11/20001109.htm",
+  "source_sha256": "157117e5d3f5bed7e9698582ea33d554da835a2696248dc00688cd0cb314563a",
+  "text_sha256": "f98c8b306b0da237290efeed2d442764c3af80177880e97705f24816b6938d8c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2000/11/09/24225-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2000/11/20001109.htm#6",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
