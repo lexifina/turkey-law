@@ -1,0 +1,2 @@
+Mali Hükümler
+Madde 7 – Merkezin gelirleri, Balıkesir Üniversitesi Bütçesinde yeralan ödeneklerden, Döner Sermaye gelirlerinden proje ile çeşitli kaynaklardan (Turizm Bakanlığı TUGEV, TUTAV, TÜRSAB, YÖK ve Araştırma Fonları gibi) sağlanacak ödenek ve bağışlardan, merkezde yürütülen projelerde yer almış ödeneklerden, diğer kurum ve şahıslardan yapılmış bağışlardan, yayın, konferans, kurs ve seminer gelirlerinden oluşur.
