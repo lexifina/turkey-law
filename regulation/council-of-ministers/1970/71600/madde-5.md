@@ -1,0 +1,1 @@
+Madde 5 – Daimi teşhir bölümleri bulunan kütüphaneler ve arşiv merkezleri, resmi şekilde halkın ziyaretine açık bulunan tarihi anıtlar, tarihi anıtlara ait binaların kısım veya müştemilatı tarihi, arkeolojik tabii önemi haiz mevkiler ve parklar, nebatat ve hayvanat bahçeleri, akvaryumlar ve benzeri teşekküller bu tarife girer.

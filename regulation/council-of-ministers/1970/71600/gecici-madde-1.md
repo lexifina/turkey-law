@@ -1,0 +1,3 @@
+Geçici Madde 1 – (Ek: 11/4/1985 - 85/9365 K.)
+Bu Yönetmelik'in yürürlüğe girdiği tarihten itibaren mevcut ICOM Türkiye Milli Komitesi ve bütün üyelerin üyelikleri iptal edilmiştir. ICOM Türkiye Milli Komitesi bu Yönetmelik hükümlerine göre yeniden kurulur.
+ICOM Türkiye Milli Komitesinin mal ve para varlığı ile bütün evrakları halen görevde olan İcra Komitesinden iki, Eski Eserler ve Müzeler Genel Müdürlüğü'nden üç kişinin katılmasıyla kurulan beş kişilik bir komisyonca denetime tabii tutulduktan sonra, bu Yönetmelik hükümlerine göre teşekkül ettirilecek yeni İcra Komitesine teslim edilmek üzere, tutanakla geçici olarak Eski Eserler ve Müzeler Genel Müdürlüğü'ne devredilir.
