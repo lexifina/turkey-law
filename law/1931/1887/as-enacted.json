@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1887",
+  "year": 1931,
+  "title": "Türkiye Cumhuriyeti ile Çekoslovakya Hükümeti arasında aktedilen uzlaşma ve hakem ve adli tesviye mukavelenamesinin tasdiki hak kında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-08-05",
+  "gazette_issue": "1865",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1865.pdf",
+  "source_sha256": "ed6f889c483bf9dbfb7975de1d3eb07028f29927f6019b0afd96e823fba5c73d",
+  "text_sha256": "3d6aa091bcac57cb3caeffcc1d2eb678277b30a2fe7adc4cb6431bd1fcee8edd",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      1056,
+      1512
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001887.pdf",
+    "source_sha256": "af7e464c798733c82df00cced15942002178debecdf554b319e14b8d21cfff3e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.976,
+    "bag": 0.9164,
+    "kd_coverage": 0.9986,
+    "kd_body_compared": 0.9986,
+    "rg_words": 1421,
+    "kd_words": 1429,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
