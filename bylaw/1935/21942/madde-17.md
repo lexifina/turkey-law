@@ -1,0 +1,1 @@
+Madde 17 – Bu suretle elde edilen paralar, ulusal bir bankaya yatırılır. Hangi bankaya verileceği ve ne suretle nemalandırılacağı idare heyetince tayin ve Dahiliye Vekili tarafından tasdik olunur. Bütün varidat bankaya yatırılacağı gibi bütün ödemeler de banka vasıtasiyle yaptırılır. Sandığın hususi veznesi yoktur.

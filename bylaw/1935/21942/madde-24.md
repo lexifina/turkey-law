@@ -1,0 +1,1 @@
+Madde 24 – Kefaletli hizmetten ayrılanlar bu müddet içinde yine kefaletli hizmete geçtiklerinde ilk yarıyı istemeğe hakları kalmaz. 22 nci maddeye göre Kefalet Sandığından birinci yarıyı aldıktan sonra üç sene içinde tekrar kefalete bağlı bir hizmete geçenlerin sandıkta kalan son yarı hisseleri memuriyetleri müddetince sermaye olarak hesaplarına sandıkta kalır.

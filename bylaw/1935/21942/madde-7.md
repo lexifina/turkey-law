@@ -1,0 +1,1 @@
+Madde 7 – Muhasebeci paraya el sürmez. Sandık namına yapılacak Ödemeler ve masraflar, usulüne gÖre tahakkuk ettikten sonra reis ve onun bulunmadığı zamanlarda vekalet eden aza ile muhasebeci tarafından birlikte imzalanacak çek ile hak sahibine veya mutemede bankadan verdirilir.

@@ -1,0 +1,1 @@
+Madde 10 – Muhasebecinin ve katiplerin vazİfelerini iyi yapmamalarından doğan idari ve inzibati mesuliyetlerinin tayini idare heyetine aittir. Cezaya ve tazminata dayanan mesuliyetler, umumi hükümlere ve Memurin Muhakemat Kanununda yazılı usullere bağlıdır.
