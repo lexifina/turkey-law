@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 115362,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Konya Mebusu Kâzım Bey ve 2 arkadaşının, belediye Kanununun 110. maddesinin 6. fıkrasının tefsiri hakkında 4/28 numaralı takririne dair",
+  "title": "Konya Mebusu Kâzım Bey ve 2 arkadaşının, belediye Kanununun 110. maddesinin 6. fıkrasının tefsiri hakkında 4/28 numaralı takririne dair",
+  "first_sitting_date": "1932-06-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 63,
+      "sitting_date": "1932-06-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c009/tbmm04009063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c009/tbmm04009fih.pdf",
+      "pages": [
+        "132"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 64,
+      "sitting_date": "1932-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c009/tbmm04009064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c009/tbmm04009fih.pdf",
+      "pages": [
+        "147"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=301&v_kullanici_id=27483870",
+  "source_sha256": "ccaf2928c6e18a5943e6c89e94cc59be0cbf222c786fd2c7c3cef37ad4f1a715",
+  "in_force": "1932-06-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
