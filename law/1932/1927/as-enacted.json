@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1927",
+  "year": 1932,
+  "title": "Barut ve mevaddı infilâkiye, fişek ve av malzemesi ve av saçması inhisarlarını işletmek üzere Maliye Vekâleti 1931 senesi bütçesine 400 000 liranın tahsisatı fevkalâde olarak vazına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-01-12",
+  "gazette_issue": "2000",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2000.pdf",
+  "source_sha256": "7a7ed6fca788a2b61e90462be04f02639941654deab6e599fe59f05d1e9d12bb",
+  "text_sha256": "fc1b1975c1ef0adecef08ed3415a0f2b8dc8fcc753f40a35505580bcde84a85d",
+  "text_status": "ocr",
+  "pages": [
+    11
+  ],
+  "line_span": [
+    [
+      2478,
+      2520
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101927.pdf",
+    "source_sha256": "9b745d129df0465e604d9bd3e716a8066693005f86167b6e3c6f2039e84aef8b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9767,
+    "bag": 0.9363,
+    "kd_coverage": 0.9699,
+    "kd_body_compared": 0.9559,
+    "rg_words": 137,
+    "kd_words": 136,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
