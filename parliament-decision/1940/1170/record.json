@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1170",
+  "year": 1940,
+  "title": "Harice gönderilecek ataşemiliterlerin hizmetçileri için harcırah verilip verilmeyeceği mevzuunun tefsir yolu ile halline imkân olmadığı hakkında",
+  "adopted": "1940-04-10",
+  "adopted_as_published": "10/04/1940",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/karartbmmc021/karartbmmc02101170.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 21",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96938,
+      "title": "Harice gönderilecek ataşemiliterlerin hizmetçileri için harcırah verilip verilmeyeceği mevzuunun tefsir yolu ile halline imkân olmadığı hakkında",
+      "adopted_as_published": "10/04/1940",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/karartbmmc021/karartbmmc02101170.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 37,
+          "sitting_date": "1940-04-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c010/tbmm06010037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c010/tbmm06010fih.pdf",
+          "pages": [
+            "34",
+            "38:41"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "ffa59c0363d1c1013c21bd18ccb7eb66913184cf5c91e37778b30083b5192ac6"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ffa59c0363d1c1013c21bd18ccb7eb66913184cf5c91e37778b30083b5192ac6",
+  "issuer": "TBMM",
+  "in_force": "1940-04-10",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 10/04/1940; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
