@@ -1,0 +1,94 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3205",
+  "year": 1985,
+  "title": "18 Kasım 1960 Tarihli ve 132 Sayılı Türk Standartları Enstitüsü Kuruluş Kanununun Bazı Hükümlerinin Değiştirilmesi ve Bu Kanuna Bazı Maddeler Eklenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun",
+  "adopted": "1985-05-16",
+  "adopted_as_published": "16/05/1985",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.05.1985 No: 18765",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803205.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 68",
+  "committee_reports": [
+    {
+      "label": "TBMM 311 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c016/tbmm17016100ss0311.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 241395,
+      "title": "18 Kasım 1960 Tarihli ve 132 Sayılı Türk Standartları Enstitüsü Kuruluş Kanununun Bazı Hükümlerinin Değiştirilmesi ve Bu Kanuna Bazı Maddeler Eklenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun",
+      "adopted_as_published": "16/05/1985",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc068/kanuntbmmc068/kanuntbmmc06803205.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 311 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c016/tbmm17016100ss0311.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 80,
+          "sitting_date": "1984-06-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+          "pages": [
+            "378"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 98,
+          "sitting_date": "1985-05-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c016/tbmm17016098.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c016/tbmm17016fih.pdf",
+          "pages": [
+            "292",
+            "308"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 99,
+          "sitting_date": "1985-05-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c016/tbmm17016099.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c016/tbmm17016fih.pdf",
+          "pages": [
+            "325"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 100,
+          "sitting_date": "1985-05-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c016/tbmm17016100.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c016/tbmm17016fih.pdf",
+          "pages": [
+            "365:373"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=201&v_kullanici_id=27483190",
+      "page_sha256": "a004580d4d1ccc63094c61508a9b07d742ad9b963b0cb5e4aa44d6643249876d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a004580d4d1ccc63094c61508a9b07d742ad9b963b0cb5e4aa44d6643249876d",
+  "issuer": "TBMM",
+  "in_force": "1985-05-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 16/05/1985; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
