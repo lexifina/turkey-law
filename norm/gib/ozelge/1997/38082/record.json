@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5314-371-44839",
+  "source_id": 38082,
+  "date": "1997-10-20",
+  "title": "Yurt dışından Türkiye'ye yapılan taşımalarda istisnanın beyan edileceği dönem malın istenilen adrese teslim edildiği tarih esas alınmak suretiyle Türkiye'ye giriş ile teslim mahalli arasındaki harcamalara ait katma değer vergisinin de iade hesabına alınma",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38082",
+  "source_sha256": "f672dc9504fa6868ed9dc5837e89a881f0e46fc52be1ce9a596cf46048e4cfef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
