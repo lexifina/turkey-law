@@ -1,0 +1,2 @@
+Madde 7 – Zabıta, zabıt varakasında tesbit ettiği şahidlerle Cumhuriyet Müddeiumumisi ve sorgu sırasında maznun tarafından gösterilen şahid ve ehli hibre ile mahkemece lüzum görülecek diğer şahidleri ve ehli hibreyi ve suçtan zarar gören şahsı Cumhuriyet Müddeiumumisinin yazılı veya şifahi emrile mahkemede hazır bulundurmaya mecburdur.
+Bu emir çağrılanlar hakkında zabıtaya ihzar müzekkeresinde olduğu gibi zor kullanmak salahiyetini de verir.

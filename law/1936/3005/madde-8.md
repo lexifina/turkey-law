@@ -1,0 +1,2 @@
+Madde 8 – Maznun yakalandığı günde mahkemeye sevk edileceği sırada çalışma zamanı bitmiş veya herhangi bir tatil gününe tesadüf etmiş ise Cumhuriyet Müddeiumumisi mahkemeyi hemen çalışmaya davet edebileceği gibi maznunun mahkemeye sevkini ertesi güne de bırakabilir.
+Şu kadar ki Cumhuriyet Müddeiumumisi tarafından dördüncü maddede yazılı sebepten dolayı maznunun mahkemeye sevki ertesi güne bırakılmış ise yukarıki fıkrada yazılı sebeplede olsa maznunun mahkemeye sevki ikinci bir teahhura uğratılamaz.

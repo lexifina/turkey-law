@@ -1,0 +1,1 @@
+Madde 5 – Cumhuriyet Müddeiumumisi, suçun bu kanunun şümulüne girip girmediğini veya amme davasını açmak icab edip etmediğini tayin için işin incelenmesine lüzum görürse bu bakımlardan tahkikat yapılmak üzere maznunun mahkemeye sevkini yakalandığının ertesi gününe bırakabilir.

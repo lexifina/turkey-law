@@ -1,0 +1,2 @@
+Madde 15 – Ceza işlerini gören asliye mahkemesi her hangi bir sebeple çalışamadığı hallerde meşhud suç hakkındaki duruşmayı oranın asliye hukuk işlerine bakan mahkeme görür.
+Sulh mahkemelerinin göreceği meşhud suçların muhakemesi sulh hakimi bulunmadığı zaman asliye mahkemesinde görülebileceği gibi asliye mahkemesinin çalışmadığı zamanlarda bu mahkemeye aid işler sulh hakimi tarafından da görülebilir.

@@ -1,0 +1,1 @@
+Madde 2 – Şikayet üzerine veya şahsi dava yolile takib olunan suçlarda, suçtan zarar görenlerin zabıta memurlarına ağızdan şikayetleri, şikayet ve şahsi dava açmak hakkındaki umumi usullere göre yapılacak muamele hükmünde sayılır.

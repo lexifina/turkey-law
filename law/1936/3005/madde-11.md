@@ -1,0 +1,1 @@
+Madde 11 – Duruşma bir celsede neticelenemeyip de başka güne bırakılacaksa Cumhuriyet Müddeiumumisi tarafından hakkında tevkif müzekkeresi verilmiş olan maznunun kefaletle veya kefaletsiz tahliyesine mahkemece karar verilebilir.
