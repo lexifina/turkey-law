@@ -1,5 +1,5 @@
 Yönetmelik ve Yürürlükten Kaldırılan ve Uygulanmayacak Hükümler
-İdari para cezaları
+İdari para cezaları (1)
 MADDE 19 -Bu Kanuna göre idarî para cezalarının veya idarî yaptırımların uygulanması, bu Kanunun diğer hükümlerinin uygulanmasına engel oluşturmaz. Bu Kanuna göre verilen ceza ve tedbirler diğer kanunlar gereği yapılacak işlemleri engellemez.
 Bu Kanuna göre;
 a) Aşağıdaki haller ağır kusur sayılarak, sorumluları hakkında beşyüz milyar Türk Lirası idarî para cezası uygulanır:
@@ -13,6 +13,8 @@ b) Aşağıdaki haller birinci derece kusur sayılarak, sorumluları hakkında i
 3) 4 üncü madde hükümlerinin ihlali.
 4) 12 nci maddede yer alan hükümler dahilinde iletim ve depolama tesislerine erişimin dolaylı veya dolaysız olarak engellenmesi.
 Yukarıda belirtilenlerin dışında kalan ancak Kanunun getirdiği yükümlülüklere uymayanlara Kurumca elli milyar Türk Lirasına kadar idarî para cezası verilir.
+––––––––––––––––––––––
+(1) Bu maddede yer alan para cezalarının 2004 yılında uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
 Bayiler için yukarıda yer alan cezaların beşte biri uygulanır.
 Cezalar tahsil edilinceye kadar, mahkeme kararı ile ilgililerin varlıklarına tedbir konulabilir. Tesisler, lisans alınıncaya veya bu Kanuna göre lisans gerektirmeyen faaliyet gösterecek hale getirilinceye kadar mühürlenir.
 Ceza uygulanan bir fiilin iki takvim yılı geçmeden aynı kişi tarafından tekrarı halinde, cezalar iki kat olarak uygulanır.
