@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4952",
+  "year": 1946,
+  "title": "Başbakanlık Kuruluşu Hakkındaki 4443 Sayılı Kanuna Ek Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-09-17",
+  "gazette_issue": "6410",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6410.pdf",
+  "source_sha256": "d927a29243f0e8c2bf6b990626a3895d7b217f849b0806db7e5a7f343b456537",
+  "text_sha256": "b3e5815fcb29578acd83991c55bdf5616c4aa009af294d13cfbc4b3653f6194d",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      34,
+      49
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02904952.pdf",
+    "source_sha256": "a51e68c6339a6998ebe0dc63aea94874d33547a6ec17b2ad32d8550034cebc61",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9308,
+    "bag": 0.8333,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9718,
+    "rg_words": 75,
+    "kd_words": 71,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
