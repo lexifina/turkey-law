@@ -1,0 +1,74 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3031",
+  "year": 1984,
+  "title": "21,6.1927 Tarihli ve 1111 Sayılı Askerlik Kanununun Bazı Maddelerinin Değiştirilmesi, Bu Kanuna Bir Ek ve Üç Geçici Madde Eklenmesi Hakkında Kanun",
+  "adopted": "1984-06-27",
+  "adopted_as_published": "27/06/1984",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09.07.1984 No: 18453",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc067/kanuntbmmc067/kanuntbmmc06703031.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 67",
+  "committee_reports": [
+    {
+      "label": "TBMM 90 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004084ss0090.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 239373,
+      "title": "21,6.1927 Tarihli ve 1111 Sayılı Askerlik Kanununun Bazı Maddelerinin Değiştirilmesi, Bu Kanuna Bir Ek ve Üç Geçici Madde Eklenmesi Hakkında Kanun",
+      "adopted_as_published": "27/06/1984",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc067/kanuntbmmc067/kanuntbmmc06703031.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 90 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004084ss0090.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 80,
+          "sitting_date": "1984-06-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+          "pages": [
+            "376"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 84,
+          "sitting_date": "1984-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004084.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+          "pages": [
+            "530",
+            "562:567",
+            "570",
+            "580:583"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "5e6f3e9d8585a78cfeef2a4f773b727decbc15e07e160f9a598887f4937cfafa"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5e6f3e9d8585a78cfeef2a4f773b727decbc15e07e160f9a598887f4937cfafa",
+  "issuer": "TBMM",
+  "in_force": "1984-06-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/06/1984; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
