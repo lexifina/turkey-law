@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3372",
+  "year": 1987,
+  "title": "29.8.1977 Tarihli ve 2108 Sayılı Muhtar Ödenek ve Sosyal Güvenlik Yasasının Bazı Maddelerinin Değiştirilmesine ve Bazı Maddelerinin Kaldırılmasına Dair Kanun",
+  "adopted": "1987-05-21",
+  "adopted_as_published": "21/05/1987",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.05.1987 No: 19471",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc070/kanuntbmmc070/kanuntbmmc07003372.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 70",
+  "committee_reports": [
+    {
+      "label": "TBMM 571 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041109ss0571.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 249512,
+      "title": "29.8.1977 Tarihli ve 2108 Sayılı Muhtar Ödenek ve Sosyal Güvenlik Yasasının Bazı Maddelerinin Değiştirilmesine ve Bazı Maddelerinin Kaldırılmasına Dair Kanun",
+      "adopted_as_published": "21/05/1987",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc070/kanuntbmmc070/kanuntbmmc07003372.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 571 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041109ss0571.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 40,
+          "sitting": 99,
+          "sitting_date": "1987-05-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040099.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040fih.pdf",
+          "pages": [
+            "103"
+          ]
+        },
+        {
+          "cilt": 40,
+          "sitting": 105,
+          "sitting_date": "1987-05-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040105.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c040/tbmm17040fih.pdf",
+          "pages": [
+            "492"
+          ]
+        },
+        {
+          "cilt": 41,
+          "sitting": 109,
+          "sitting_date": "1987-05-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041109.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041fih.pdf",
+          "pages": [
+            "181:202",
+            "227:230"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=401&v_kullanici_id=27483190",
+      "page_sha256": "5877ff681863294c88d5df56a47f8723b0b0802ad981cd39436186cc42c2f649"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5877ff681863294c88d5df56a47f8723b0b0802ad981cd39436186cc42c2f649",
+  "issuer": "TBMM",
+  "in_force": "1987-05-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/05/1987; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
