@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 374844,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "991 sayılı Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü İşçileri Emekli Sandığı ile Askerî Fabrikalar Tekaüt ve Muavenet Sandığının Sosyal Sigortalar Kurumuna devri hakkındaki Kanuna ek ve geçici maddeler eklenmesine dair (1/678)",
+  "title": "991 sayılı Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü İşçileri Emekli Sandığı ile Askerî Fabrikalar Tekaüt ve Muavenet Sandığının Sosyal Sigortalar Kurumuna devri hakkındaki Kanuna ek ve geçici maddeler eklenmesine dair (1/678)",
+  "first_sitting_date": "1969-04-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 36,
+      "sitting": 84,
+      "sitting_date": "1969-04-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036084.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036fih.pdf",
+      "pages": [
+        "44",
+        "113:114",
+        "319",
+        "657:688"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=4001&v_kullanici_id=27484850",
+  "source_sha256": "9f9b6a3b47e3301fe990bccf2e01bdb84e77d3259d9b94eab973b17793fe9259",
+  "in_force": "1969-04-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
