@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-2647/17583",
+  "source_id": 38093,
+  "date": "1997-05-01",
+  "title": "Fabrikadan satın alınan ıskarta boruların herhangi bir işleme, sirkülasyona ve kimyevi amelyeye tabi tutulmadan mükellefçe üçüncü kişilere satılmasında tevkifat uygulanmayacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38093",
+  "source_sha256": "0d886139aa45d5bb4863bf0b1c3f060f635b2911af545be8ed3463cc5b6d5493",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
