@@ -8,3 +8,5 @@ e) 3294 sayılı Sosyal Yardımlaşma ve Dayanışmayı Teşvik Kanununa göre k
 f) Kuruluş amaçlarında kullanılmak üzere; kamu kurumu niteliğindeki meslek kuruluşlarına bu Kanunun yürürlük tarihinden önce tahsis, irtifak hakkı veya kiralanmış olanlara,
 Bu Kanun hükümlerine göre belirlenecek rayiç bedel üzerinden doğrudan satılabilir.
 (d) bendindeki taşınmaz malları satın alacakların veya bunların kanuni ve akdi haleflerinin, bu Kanunun yürürlüğe girdiği tarihte, taşınmaz malın bulunduğu köy nüfusuna kayıtlı olmaları veya 31.12.2000 tarihinden beri o köyde ikamet etmeleri şarttır.
+––––––––––––––––––
+(1) Bu maddenin yürürlüğü; Anayasa Mahkemesi’nin 23/1/2002 tarihli ve E.: 2001/382, K.: 2002/2 (Yürürlüğü Durdurma) sayılı Kararı ile İptal Kararının Resmi Gazete’de yayımlandığı 4/10/2002 tarihine kadar durdurulmuştur.
