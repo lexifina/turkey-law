@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 12 —Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2004-06-20",
+      "20.06.2004",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 12 —Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "25498",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2004-06-20",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Galatasaray Üniversitesi",
+  "issuer_slug": "galatasaray-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/galatasaray-universitesi/2004/7069",
+  "published": "2004-06-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7069&MevzuatTertip=5",
+  "source_bytes": 21622,
+  "source_id": "8.5.7069",
+  "source_sha256": "1853c8c2d36345f6848fee56f765bdee36bf15501c0444d0981da85067d016f6",
+  "text_status": "as-enacted",
+  "title": "GALATASARAY ÜNİVERSİTESİ KÜLTÜREL DOKÜMANTASYON\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 194,
+  "word_count": 548
+}
