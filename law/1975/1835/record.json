@@ -1,0 +1,163 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1835",
+  "year": 1975,
+  "title": "27 Ağustos 1973 tarihinde Ankara'da imzalanan Türkiye-Irak Hampetrol Boru Hattı Anlaşması ve onay süresinin uzatılmasına dair işbu Anlaşmaya ek olarak Türkiye ile Irak arasında teati edilen sırasıyle 26 Aralık 1973 ve 20 Nisan 1974 tarihli mektupların onaylanmasının uygun bulunduğuna dair Kanun.",
+  "adopted": "1975-01-28",
+  "adopted_as_published": "28/01/1975",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.02.1975 No: 15142",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801835.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 58",
+  "committee_reports": [
+    {
+      "label": "MM 103 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007021ss0103.pdf"
+    },
+    {
+      "label": "CS 426no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018022ss0426.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 448189,
+      "title": "27 Ağustos 1973 tarihinde Ankara'da imzalanan Türkiye-Irak Hampetrol Boru Hattı Anlaşması ve onay süresinin uzatılmasına dair işbu Anlaşmaya ek olarak Türkiye ile Irak arasında teati edilen sırasıyle 26 Aralık 1973 ve 20 Nisan 1974 tarihli mektupların onaylanmasının uygun bulunduğuna dair Kanun.",
+      "adopted_as_published": "28/01/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801835.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 103 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007021ss0103.pdf"
+        },
+        {
+          "label": "CS 426no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018022ss0426.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 42,
+          "sitting_date": "1974-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c001/mm__04001042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c001/mm__04001fih.pdf",
+          "pages": [
+            "613"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 111,
+          "sitting_date": "1974-07-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006111.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006fih.pdf",
+          "pages": [
+            "538"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 21,
+          "sitting_date": "1975-01-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007fih.pdf",
+          "pages": [
+            "410:419",
+            "424:427"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 22,
+          "sitting_date": "1975-01-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007022.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007fih.pdf",
+          "pages": [
+            "436",
+            "467:470"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=201&v_kullanici_id=27483225",
+      "page_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 325042,
+      "title": "27 Ağustos 1973 tarihinde Ankara'da imzalanan Türkiye-Irak Hampetrol Boru Hattı Anlaşması ve onay süresinin uzatılmasına dair işbu anlaşmaya ek olarak Türkiye ile Irak arasında teati edilen sırasiyle 26 Aralık 1973 ve 20 Nisan 1974 tarihli mektupların onaylanmasının uygun bulunduğuna dair Kanun",
+      "adopted_as_published": "28/01/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801835.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 103 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007021ss0103.pdf"
+        },
+        {
+          "label": "CS 426no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018022ss0426.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 18,
+          "sitting": 19,
+          "sitting_date": "1975-01-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018fih.pdf",
+          "pages": [
+            "454"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 22,
+          "sitting_date": "1975-01-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018022.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018fih.pdf",
+          "pages": [
+            "543",
+            "556:564",
+            "568:570"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 23,
+          "sitting_date": "1975-01-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018fih.pdf",
+          "pages": [
+            "570",
+            "596",
+            "610:611"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1801&v_kullanici_id=27483235",
+      "page_sha256": "0a870416ae325ef7c2b7383ddb74f9ce53a00b028164dfb225bb98530ce1a326"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1975-01-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 28/01/1975; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
