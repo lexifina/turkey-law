@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2902-l72-66/2087",
+  "source_id": 25299,
+  "date": "1997-01-20",
+  "title": "Yurt içinde ve yurt dışında inşaat taahüt işi yapan şirketin genel merkez dışında her bir iş için ayrı ayrı defter tutup tutmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25299",
+  "source_sha256": "4f49ca7a1dec13656dfcd6dc6860232f2eb9c3d7db557dccb17a8a326bdd32d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
