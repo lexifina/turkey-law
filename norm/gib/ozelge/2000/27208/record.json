@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-472/5034",
+  "source_id": 27208,
+  "date": "2000-02-04",
+  "title": "3100 sayılı Kanunun mükerrer 8. maddesinin 1 numaralı fıkrasında yazılı fiilleri işleyenlere için yapılacak işlemler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/27208",
+  "source_sha256": "f34297e10c435bb2651c00f49bb07df871e22b656dddaa609a4d9424cde2b8a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
