@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.6155",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 253)",
+  "number": "6155",
+  "path": "teblig/2004/6155",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6155&MevzuatTertip=5",
+  "source_sha256": "de467bed8a0b0acfa3319e94193c89befd0f3e2d3010c579921e18d5275b01ad",
+  "source_bytes": 23391,
+  "published": "2004-11-05",
+  "gazette": "25634",
+  "in_force": "2004-11-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.11.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 442,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
