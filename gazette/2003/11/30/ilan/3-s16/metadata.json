@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-11-30",
+  "issue": "25302",
+  "edition": "regular",
+  "item": 16,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Elazığ Şeker Fabrikasından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031130-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (33 = 33)",
+  "ilan_codes": [
+    "47287/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031130-3.htm",
+  "category_page_sha256": "7e15df00a50688f2733c047eaf6d29e547234738cb83fb87f5caccea8b83d77d",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031130.htm",
+  "index_sha256": "b3e1e6b56fb71ffe6beb61511c73f278962510e72e877ecdd44d0431212c0057",
+  "index_header": "30 Kasım 2003 ... Sayı : 25302",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
