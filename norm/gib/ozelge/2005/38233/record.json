@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6508-102/8326",
+  "source_id": 38233,
+  "date": "2005-02-22",
+  "title": "Termal yazıcılı ödeme kaydedici cihazlarda kullanılacak kağıt ruloların taşıması gereken...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38233",
+  "source_sha256": "bba43ecd847272ed833805551f1f9c944ab4d29ff7bacbcaa43f868269f78058",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
