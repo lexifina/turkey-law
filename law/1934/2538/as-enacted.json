@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2538",
+  "year": 1934,
+  "title": "Orta orman mektebi teşkili ve muallimleri hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-07-03",
+  "gazette_issue": "2742",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2742.pdf",
+  "source_sha256": "acaea81f1276fc29ce6b1153d9645271bba4f844ec30500c93f457aed601426f",
+  "text_sha256": "f068e685b98cf2c0cf9abb14a94a62d95e4eefcb107aa2d12d2b88462f8762eb",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      1137,
+      1195
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [5] (no text layer)",
+    "tesseract_pages": [
+      5
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302538.pdf",
+    "source_sha256": "1d9be26f5d5cbfbc07eb99d108bafbb7c041f7cb6c3f5752b85f7b81941c8f46",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9285,
+    "bag": 0.8684,
+    "kd_coverage": 0.9958,
+    "kd_body_compared": 0.9942,
+    "rg_words": 339,
+    "kd_words": 347,
+    "own_anchor": false,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
