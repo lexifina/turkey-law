@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2243/22990",
+  "source_id": 26850,
+  "date": "2002-05-21",
+  "title": "Sigorta şirketince ödenen vefat tazminatlarının, mirasın açıldığı yani miras bırakanın ölümünün gerçekleştiği tarihte terekeye eklenmesi , poliçenin endekslendiği döviz biriminin miras bırakanın ölümü tarihindeki Türkiye Cumhuriyeti Merkez Bankasınca ilan",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/26850",
+  "source_sha256": "a9bd0bbdad51a169b3ea941f677175a92c44475fb2eb424601eefc20c73f25ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
