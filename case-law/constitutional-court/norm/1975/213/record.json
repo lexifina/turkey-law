@@ -1,0 +1,52 @@
+{
+  "id": "01b3cac9-728e-64ac-c8a5-f178536091cb",
+  "decision_number": "1975/213",
+  "case_number": "1975/197",
+  "decision_date": "1975-12-09",
+  "published_date": "1976-04-09",
+  "source_publication_date": "1975-12-12",
+  "gazette_number": 15554,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1975/213",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "effebf4d6dc7b67d1c29c862d7f3fc786ddd777282eafa162abe6bf827adccd8",
+  "version_label": "as-enacted",
+  "in_force": "1975-12-09",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": false,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1974-05-15",
+      "normNumaraAdParamId": "b6542f8b-4fc5-de4c-f937-84879b867967",
+      "incelemeturuKarsonucuParamId": "23fcca64-d9a4-419a-cc11-20a5c62b4a95",
+      "sonucGerekcesiParamId": "a25c017e-4835-21b8-30ce-b85613d20fab",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "2",
+          "fikra": "a",
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/12"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 2549
+}
