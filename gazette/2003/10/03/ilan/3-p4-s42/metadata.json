@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-10-03",
+  "issue": "25248",
+  "edition": "regular",
+  "item": 42,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "Ziraat Bankası Anonim Şirketi Genel Müdürlüğü Satın Alma ve İnşaat Daire Başkanlığından:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/10/20031003-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (51 = 51)",
+  "ilan_codes": [
+    "36757/2-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/10/20031003-3-4.htm",
+  "category_page_sha256": "d125b4573d11ba637352f93986f8b4af6a016f6eb0c5239fdfa6f73174c54f50",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/10/20031003.htm",
+  "index_sha256": "ad00efd304d0cdcb9d484204ac2632ce8d0a9fa7b70e3182f64cf55e021cb128",
+  "index_header": "3 Ekim 2003 ... Sayı : 25248",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
