@@ -1,0 +1,2 @@
+Hukuki Dayanak
+Madde 3 – Bu Yönetmelik 28.5.1970 gün ve 1264 sayılı Madeni Ufaklık ve Hatıra Para Bastırılması Hakkında Kanun, 9.12.1994 gün ve 4059 sayılı Hazine Müsteşarlığı ile Dış Ticaret Müsteşarlığı Teşkilat ve Görevleri Hakkında Kanun ile 8.6.1984 gün, 234 sayılı Darphane ve Damga Matbaası Genel Müdürlüğü’nün Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnameye dayanılarak hazırlanmıştır.

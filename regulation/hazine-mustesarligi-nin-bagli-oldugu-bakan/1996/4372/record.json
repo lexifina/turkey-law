@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4372",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MADENİ HATIRA PARA VE HATIRA MADALYONU BASIMI VE SATIŞI HAKKINDA YÖNETMELİK",
+  "number": "4372",
+  "issuer": "Hazine Müsteşarlığı’nın bağlı olduğu Bakan",
+  "issuer_slug": "hazine-mustesarligi-nin-bagli-oldugu-bakan",
+  "path": "regulation/hazine-mustesarligi-nin-bagli-oldugu-bakan/1996/4372",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4372&MevzuatTertip=5",
+  "source_sha256": "8707884b133dafdb3e51420ea9ddc8440b7627a7cdcc116829e3bb90674db487",
+  "source_bytes": 31052,
+  "published": "1996-09-26",
+  "gazette": "22769",
+  "in_force": "1996-09-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.09.1996); own commencement article: \"bu Yönetmelik, yayımı tarihinden itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik, yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 953,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+İstatistiki Bilgiler
+Madde 15 – Yıllık emisyon programlarının hazırlanmasına ve madeni hatıra para hareketlerinin takibine yardımcı olmak amacıyla, Genel Müdürlükçe görevlendirilecek personel, satılan madeni hatıra para ve madalyonların miktarı, yurt içi ve yurt dışı abone sayısı ve yapılan masraflara ait istatistikleri tutar. Genel Müdürlük paraların tanıtımı ve abonelik işleri için her türlü organizasyonu düzenlemeye ve bu konudaki harcamaları yapmaya yetkilidir.
