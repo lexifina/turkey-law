@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 79906,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar / Meclis Hesaplarını İnceleme Komisyonu Raporu",
+  "summary": "Büyük Millet Meclisi 1948 sayılı Nisan:Haziran ayları hesabı hakkında (5/89)",
+  "title": "Büyük Millet Meclisi 1948 sayılı Nisan:Haziran ayları hesabı hakkında (5/89)",
+  "first_sitting_date": "1948-11-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 9,
+      "sitting_date": "1948-11-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c013/tbmm08013009.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c013/tbmm08013fih.pdf",
+      "pages": [
+        "212",
+        "241"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1724&v_gelecek_sayfa=701&v_kullanici_id=27484112",
+  "source_sha256": "1b4105e15b8a655bc9c52f77c8021b73899fd10c0e03c59f4c9a232cc577c798",
+  "in_force": "1948-11-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
