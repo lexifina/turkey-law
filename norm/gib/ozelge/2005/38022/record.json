@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5528-2148",
+  "source_id": 38022,
+  "date": "2005-03-14",
+  "title": "Liste halinde sunulan bazı ürünlerin KDV oranlarının doğru olup olmadığı hususu...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38022",
+  "source_sha256": "bccc7f84af597ddd8e200dcb60ac4ef2d9f89d2d8ba60b745b02b3bc18d9cb0b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
