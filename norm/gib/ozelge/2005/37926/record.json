@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.68./6802-2",
+  "source_id": 37926,
+  "date": "2005-01-03",
+  "title": "Türkiyede yerleşik kişilerce yurt dışından sağlanan, ortalama vadesi asgari 1 yıl olan döviz ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37926",
+  "source_sha256": "7fb2ba8fba278bf3d344d1b319b1d4981d4a81a1418674abb60da8a35e19c848",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
