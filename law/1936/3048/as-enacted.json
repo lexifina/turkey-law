@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3048",
+  "year": 1936,
+  "title": "Denizyolları ve AKAY işletmelerile fabrika ve havuzlar teşkilâtı hakkındaki 2248 numaralı Kanunun 15. maddesine ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-06-22",
+  "gazette_issue": "3336",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3336.pdf",
+  "source_sha256": "0d8d736bb556ab2a161ef07940a90d1ac63b79f67d0a83f0d5fa651099e63588",
+  "text_sha256": "a885bcf8966bb2211697f02cb440b6779c055382dab88d53ebdec79c3920f3cd",
+  "text_status": "ocr",
+  "pages": [
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      624,
+      670
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01603048.pdf",
+    "source_sha256": "41214846f52d245c0c8162676f313283ab6dd62f1b2239713d113a4fc952bec1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9168,
+    "bag": 0.8512,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9886,
+    "rg_words": 163,
+    "kd_words": 175,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
