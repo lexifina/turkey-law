@@ -1,0 +1,70 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 359887,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Ege Üniversitesi 1966 yılı Bütçe Kanunu tasarısı (1/11)",
+  "title": "Ege Üniversitesi 1966 yılı Bütçe Kanunu tasarısı (1/11)",
+  "first_sitting_date": "1965-12-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 17,
+      "sitting_date": "1965-12-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001fih.pdf",
+      "pages": [
+        "431"
+      ]
+    },
+    {
+      "cilt": 2,
+      "sitting": 44,
+      "sitting_date": "1966-02-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002044.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002fih.pdf",
+      "pages": [
+        "706"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 50,
+      "sitting_date": "1966-02-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c003/mm__02003050.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c003/mm__02003fih.pdf",
+      "pages": [
+        "607",
+        "694:697"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 51,
+      "sitting_date": "1966-02-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004fih.pdf",
+      "pages": [
+        "3",
+        "64:67",
+        "80:83"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2901&v_kullanici_id=27484850",
+  "source_sha256": "65933683e242eb52d16638c46a77a06d40b39c03a3565bef1f5a758a3192544a",
+  "in_force": "1965-12-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
