@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-303/006085",
+  "source_id": 38284,
+  "date": "1998-02-23",
+  "title": "Limited Şirketlerin ödeme kaydedici cihaz kullanmaya, ödeme kaydedici cihaz kullanmayı gerektiren bir işle uğraşmaya başladığı tarihten itibaren 30 gün içerisinde başlaması gerekir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38284",
+  "source_sha256": "71f0834b47f6fa1e1270a1eb283d7d7ba15d98579e52cdfb326cd9220ba862aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
