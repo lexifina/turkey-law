@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-399/22000",
+  "source_id": 24090,
+  "date": "1999-06-01",
+  "title": "Apartmandaki konutlara verilen hizmetler ile ortak giderlerin karşılanması amacıyla malik veya kiracılardan gider karşılığı, toplanan paraların yatırılması suretiyle apartman yönetimi tarafından bankalarda açılmış bulunan mevduat hesaplarına yürütülen fai",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24090",
+  "source_sha256": "eafd85356401fb3987763872a6cb7828b34ae413b7b5bba7a639d5fbbcefa9e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
