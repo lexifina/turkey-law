@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4764",
+  "year": 1945,
+  "title": "Askerî Şûranın teşkilât ve vazifeleri hakkındaki 636 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-07-03",
+  "gazette_issue": "6047",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6047.pdf",
+  "source_sha256": "38d7546a66bdbefa147f707918923b46ee296f048bde0884cf552881150c5ad0",
+  "text_sha256": "b5df3830ab8c2cb81834dbd1a2932479aa6af83d10fe6953aadc2698474d873f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      14,
+      21
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704764.pdf",
+    "source_sha256": "286423793bc21a36ce432e6903cf915f87bb9ba9ed12f00376f812ce5e2a1f09",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9735,
+    "bag": 0.9351,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9048,
+    "rg_words": 39,
+    "kd_words": 42,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
