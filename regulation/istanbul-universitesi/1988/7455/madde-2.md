@@ -1,0 +1,1 @@
+Madde 2- Bu amaca ulaşmak için Kütüphaneler İ.Ü.Kütüphane ve Dokümantasyon Daire Başkanlığı merkez olmak üzere bir ağ içinde işletilir. Üniversiteye bağlı Fakülte, Yüksekokul Kütüphanelerinin herbiri bu ağın hizmetlerinden yararlanır ve hizmetlerine katkıda bulunur.
