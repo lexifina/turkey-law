@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.64/6421-83/46547",
+  "source_id": 38368,
+  "date": "1997-06-03",
+  "title": "İnşaat şirketinden arsa payı üzerinden satın alınan  ve natamam bırakılan meskenin alıcı tarafından ikmal edilmesinin  harçtan muaf olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/469/ozelge/38368",
+  "source_sha256": "e8a9caf6f1cc753c4d499f188efffe76e49acd970472af52570769d0e6a99835",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
