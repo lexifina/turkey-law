@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2928-236-127-58159",
+  "source_id": 22251,
+  "date": "2004-12-13",
+  "title": "Ayakta hasta muayene ve tedavi etmeye yönelik polikliniklerin bu faaliyetleri serbest meslek kapsamındadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22251",
+  "source_sha256": "a5150148efd16350b0e7d5da4e93dcca84df0d19120f6010402e40c0ee8f1903",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
