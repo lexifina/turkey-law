@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4069-5/11976",
+  "source_id": 37898,
+  "date": "1999-03-24",
+  "title": "İşletmenin aktifinde kayıtlı bulunmayan cep telefonuna ilişkin haberleşme ücretinin gider olarak kayıt edilmesi mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37898",
+  "source_sha256": "8921f01331a47c1be33d7f42c9d00ca44eb4f1d2f6801b4936f413dc78982eef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
