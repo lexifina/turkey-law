@@ -1,0 +1,1 @@
+Madde 16 — Bakanlık mensuplarından emekli olanlar ile Merkez Teşkilâtı dışında görev alanların Bakanlıktaki görevlerinden ayrılmadan önce Kütüphane ve Dokümantasyon Merkezinden «İlişki Kesme Belgesi» (Örnek: 4) almaları gerekir.

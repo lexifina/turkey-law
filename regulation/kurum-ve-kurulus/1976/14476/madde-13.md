@@ -1,0 +1,1 @@
+Madde 13 — Ödünç alman yayınların kaybedilmesi, yırtılması, temiz kullanılmaması hallerinde, değerleri, sürüm değerleri üzerinden ödetilmesi için ilgili mevzuat uyarınca gerekli işlem yapılır. (Örnek 3)

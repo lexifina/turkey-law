@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.14476",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI TALİM VE TERBİYE DAİRESİ KÜTÜPHANE VE DOKÜMANTASYON MERKEZİ YÖNETMELİĞİ",
+  "number": "14476",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1976/14476",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14476&MevzuatTertip=5",
+  "source_sha256": "d5a86bcf04049aa9b0fa9f014ecac07f78cf38b78d328c30e6069b877c4c4098",
+  "source_bytes": 51432,
+  "published": "1976-07-07",
+  "gazette": "15639",
+  "in_force": "1976-07-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.07.1976); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1506,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
