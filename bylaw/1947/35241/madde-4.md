@@ -1,0 +1,1 @@
+Madde 4 – Bu kağıtları alan yukarda yazılı makamlar kurs adaylarını öğrenim derecelerine göre ayırırlar. Aynı öğrenim derecesinde bulunanların diploma dereceleri ve sicilleri, imtihanla alınanların imtihan numaraları ve sicilleri esas tutularak cetvelleri yapılır. Bu cetveller kursun açılmasından en az bir buçuk ay evvel Bakanlığa sunulur.

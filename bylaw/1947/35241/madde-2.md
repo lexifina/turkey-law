@@ -1,0 +1,1 @@
+Madde 2 – Her sene kursa alınacakların miktarı Bakanlıkça tespit edilerek kursun açılmasından üç ay evvel merkez dairelerine ve valiliklere tebliğ edilir. Ve kursa girmek istiyenlerin doldurmasına mahsus yeter miktarda beyan kağıdı gönderilir.

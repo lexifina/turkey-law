@@ -1,0 +1,1 @@
+Madde 5 – Bakanlıkta toplanan bu listeler Müdürler Komisyonunca tetkik edilerek o sene için kursa alınması lazım gelenler sicil ve tahsil esaslarına göre tespit olunduktan sonra valiliklere kursun açılmasından yirmi gün evvel tebliğ olunur.
