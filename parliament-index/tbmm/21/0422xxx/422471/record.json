@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 422471,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "27.11.1975 Tarihli ve 13 Sayılı Devlet Sanayi ve İşçi Yatırım Bankası Kuruluşuna Dair Kanun Hükmünde Kararname, 14.11.1983 Tarihli ve 165 Sayılı Devlet Sanayi ve İşçi Yatırım Bankası AŞ'nin Kuruluşu Hakkında Kanun Hükmünde Kararname, 15.7.1988 Tarihli ve 329 Sayılı Devlet Sanayi ve İşçi Yatırım Bankası AŞ'nin Kuruluşu Hakkında Kanun Hükmünde Kararnamenin Bazı Maddelerinin Değiştirilmesine Dair Kanun Hükmünde Kararname ile 12.2.1990 Tarihli ve 401 Sayılı Türkiye Kalkınma Bankası Anonim Şirketinin Kuruluşu Hakkında Kanun Hükmünde Kararnamenin Bazı Maddelerinin Değiştirilmesi Hakkında Kanun Hükmünde Kararname ve Devlet Sanayi ve İşçi Yatırım Bankası AŞ'nin Kuruluşu Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair (1/21, 1/48, 1/115, 1/155,1/515)",
+  "title": "27.11.1975 Tarihli ve 13 Sayılı Devlet Sanayi ve İşçi Yatırım Bankası Kuruluşuna Dair Kanun Hükmünde Kararname, 14.11.1983 Tarihli ve 165 Sayılı Devlet Sanayi ve İşçi Yatırım Bankası AŞ'nin Kuruluşu Hakkında Kanun Hükmünde Kararname, 15.7.1988 Tarihli ve 329 Sayılı Devlet Sanayi ve İşçi Yatırım Bankası AŞ'nin Kuruluşu Hakkında Kanun Hükmünde Kararnamenin Bazı Maddelerinin Değiştirilmesine Dair Kanun Hükmünde Kararname ile 12.2.1990 Tarihli ve 401 Sayılı Türkiye Kalkınma Bankası Anonim Şirketinin Kuruluşu Hakkında Kanun Hükmünde Kararnamenin Bazı Maddelerinin Değiştirilmesi Hakkında Kanun Hükmünde Kararname ve Devlet Sanayi ve İşçi Yatırım Bankası AŞ'nin Kuruluşu Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair (1/21, 1/48, 1/115, 1/155,1/515)",
+  "first_sitting_date": "1999-10-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 3,
+      "sitting_date": "1999-10-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c013/tbmm21013003.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c013/tbmm21013fih.pdf",
+      "pages": [
+        "381:407"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 4,
+      "sitting_date": "1999-10-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c013/tbmm21013004.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c013/tbmm21013fih.pdf",
+      "pages": [
+        "438:471"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 6,
+      "sitting_date": "1999-10-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c013/tbmm21013006.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c013/tbmm21013fih.pdf",
+      "pages": [
+        "626:656"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 7,
+      "sitting_date": "1999-10-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c014/tbmm21014007.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c014/tbmm21014fih.pdf",
+      "pages": [
+        "16:31",
+        "52:75"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=755&v_gelecek_sayfa=101&v_kullanici_id=27484530",
+  "source_sha256": "faafcda12fccb2895eeaf496b9bc85d3e3549d3925cd62366d1d72b5b0a64263",
+  "in_force": "1999-10-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
