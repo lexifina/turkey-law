@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-470/40435",
+  "source_id": 37558,
+  "date": "2000-08-31",
+  "title": "Bankadaki tasarruflarını Hazine Bonosu alarak değerlendiren kişinin depremzede olması halinde, Devlet İç borçlanma senetlerine ilişkin faiz vergisinde bu konuda herhangi bir muafiyet yada istisna bulunmadığından, banka tarafından kesilen vergiler iade edi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37558",
+  "source_sha256": "1c2b1435e80765f4acd2cc9f42b03848691defff990523e2bfca1ad290d95300",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
