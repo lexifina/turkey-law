@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "284/1",
+  "decision_date": "2004-01-08",
+  "title": "Dağıtım tarifesi usul ve esasları",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CalxhXi1Ii8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CalxhXi1Ii8="
+  ],
+  "source_sha256": "70fedbbd00f3c26077ee2f79c9633b74384a672d68f28612383ebbbe8aa71216",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-01-08",
+  "law_text_complete": false
+}
