@@ -1,0 +1,20 @@
+ANAYASA MAHKEMESİ KARARI
+Esas No.:1963/46
+Karar No.:1963/43
+Karar tarihi:28/2/1963
+Resmi Gazete tarih/sayı:6.4.1963/11375
+İtirazda bulunan : 3533 sayılı kanun hükümlerine göre hakem sıfat ve yetkisini haiz İstanbul Yüksek Dereceli Hukuk Hâkimi.
+İtirazın konusu : 1963/38 sayılı ve 14/2/1963 günlü hakem kararında İstanbul Belediye Başkanlığı adına vekili tarafından İstanbul Vakıflar Başmüdürlüğü aleyhine 3533 sayılı kanun hükümleri dairesinde açılmış olan Eminönü'nde Mısır Çarşısı diye adlandırılan özel kişiler adına kayıtlı ve mülk vasfında iken. Belediyece istimlâk edilip restore edildikten sonra 7044 sayılı kanunla, tek taraflı olarak Vakıflar Genel Müdürlüğü adına tescil edilmiş bulunan gayrimenkullere ait tapu kayıtlarının düzeltilmesi ve bu gayrimenkullerin Belediye adına tescili dâvasının görülmesi sırasında, davacı vekilinin; hiç bir bedel ödenmeden bir gayrimenkulun tüzel kişi de olsa başkası adına tescilinin Anayasa'nın mülkiyet hakkı için tanıdığı teminata aykırı bulunduğuna ilişkin olarak ileri sürdüğü itirazın hakemlikçe ciddî ve kabule değer olduğu kanısına varıldığı belirtilerek, Anayasa'nın 151 inci ve geçici 9 uncu maddeleri gereğince bu iddia hakkında karar verilmesi istenmiştir.
+Anayasa Mahkemesinin, içtüzüğün 15 inci maddesi uyarınca 28/2/ 1963 gününde ilk inceleme için yaptığı toplantısında; işin, niteliği bakımından başka güne bırakılmasına lüzum görülmeyerek incelemeye devam edilmesine oybirliği ile karar verildikten sonra hakem kararı ile ekleri ve rapor okundu :
+Gereği görüşülüp düşünüldü :
+Anayasa'nın 151 inci maddesi ve Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri hakkındaki 22/4/1962 günlü ve 44 sayılı kanunun 20 nci maddesinin 2 numaralı bendi ile 27 nci maddesine göre mahkemeler uygulayacakları kanun hükümlerinin Anayasa'ya aykırı olduğunu, doğrudan doğruya veya taraflardan birinin ciddi gördüğü iddiası üzerine, ileri sürerek mahkememizden bir karar verilmesini istemeğe ve yargılamayı durdurmağa yetkilidirler.
+Olayda İstanbul Yüksek Dereceli Hukuk Hâkimi 3533 sayılı kanun uyarınca işe hakem sıfatiyle baktığından hakemin Anayasa Mahkemesine başvurmaya yetkisi olup olmadığının incelenmesi gerekir.
+Bu kanun, genel, katma ve özel bütçelerle idare edilen daire ve belediyelerle sermayesinin tamamı Devlete, belediyeye veya Özel idarelere ait olan daire ve müesseseler arasında çıkan ve Adalet Mahkemelerinin görevine giren uyuşmazlıkların cebri tahkim yolu ile halledileceğini göstermektedir.
+3533 sayılı kanunun belirttiği hakemlerin yetki sınırlarını tâyin eden ve verecekleri kararların kesin olacağını gösteren özel hükümler bir yana bırakılırsa bu hakemlerin de kişiler arasındaki uyuşmazlıkları halleden hakemlerden farklı olmadıkları anlaşılır.
+Sözü geçen kanun bir kısım hakemlerin Yargıtay Başkanı veya mahallin yüksek dereceli hukuk hâkimi olacağını göstermiştir. Ancak bu hakemlerin aynı zamanda hâkim oluşları bu dâvaların bir mahkemede görüldüğünü kabule elverişli değildir. Nitekim, genel bütçe ile idare edilen daireler arasındaki uyuşmazlıklarda hakem, bir hâkim değil bir Bakan olacaktır.
+Bu duruma göre mahkemelerce halli lâzım gelecek bir uyuşmazlığı 3533 sayılı kanun hükümleri uyarınca halledecek hakemlere ne Anayasa'da ve nede 22/4/1962 gün ve 44 sayılı kanunda uygulanacak kanun hükümlerinden ötürü Anayasa Mahkemesine başvurma hakkı tanınmadığından ve olayda, İstanbul Yüksek Dereceli Hukuk Hakimi de genel hükümler uyarınca mahkemeye ait bir vazife görmekte olmayıp elindeki dâvayı hakem sıfatiyle halletmek mevkiinde bulunduğundan itirazın yetki yönünden reddi gereklidir.
+Sonuç : Gösterilen sebeplerden ötürü itirazın, yetkisizlik bakımından reddine, işbu kararın İtirazda bulunan hakeme tebliğine 28/2/1963 gününde oybirliği ile karar verildi.
+Başkan Sünuhi Arsan | Başkanvekili Tevfik Gerçeker | Üye Osman Yeten | Üye Rifat Göksu
+Üye Lütfi Akadlı | Üye Şemsettin Akçoğlu | Üye İbrahim Senil | Üye İhsan Keçecioğlu
+Üye Salim Başol | Üye Celallettin Kuralmen | Üye Yekta Aytan | Üye Fazıl Uluocak
+Üye Muhittin Gürün | Üye Lütfi Ömerbaş | Üye Ekrem Tüzemen
