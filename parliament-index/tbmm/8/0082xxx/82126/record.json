@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82126,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Kamu alacaklarının tahsili hakkında kanun tasarısı (1/48)",
+  "title": "Kamu alacaklarının tahsili hakkında kanun tasarısı (1/48)",
+  "first_sitting_date": "1946-11-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 5,
+      "sitting_date": "1946-11-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c002/tbmm08002005.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c002/tbmm08002fih.pdf",
+      "pages": [
+        "70"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 34,
+      "sitting_date": "1948-01-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c009/tbmm08009034.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c009/tbmm08009fih.pdf",
+      "pages": [
+        "65"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 3,
+      "sitting_date": "1948-11-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c013/tbmm08013003.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c013/tbmm08013fih.pdf",
+      "pages": [
+        "29:3"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 3,
+      "sitting_date": "1949-11-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c021/tbmm08021003.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c021/tbmm08021fih.pdf",
+      "pages": [
+        "31"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 13,
+      "sitting_date": "1949-12-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022013.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022fih.pdf",
+      "pages": [
+        "50"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=941&v_gelecek_sayfa=601&v_kullanici_id=27484132",
+  "source_sha256": "cb688a10cb038d9be4ece930cc992f3e39e3079e070be63d8c7c90191a8091ab",
+  "in_force": "1946-11-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
