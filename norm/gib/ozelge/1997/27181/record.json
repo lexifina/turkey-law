@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5511-1919/24338",
+  "source_id": 27181,
+  "date": "1997-06-12",
+  "title": "Tecil-terkin işlemleri sonucunda fiilen ödenmesi gereken ve daha önce vergi dairesine ödenmiş olan K.D.V.'ni etkilememesi şartıyla, vergi aslına bağlı olarak uygulanan vergi ziyaı cezalarından birisinin kesilmemesi ve gecikme faizi aranılmaması gerektiği ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27181",
+  "source_sha256": "8d34ac1c621f08fa1f20854b6b496374813a3a30e5f17664b2f3b44303673079",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
