@@ -1,0 +1,75 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 384129,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Özel Yüksek Okul öğrencilerinin öğrenimlerine devam edebilmeleri için açılacak resmi yüksek okullar hakkında kanun tasarısı (1/483)",
+  "title": "Özel Yüksek Okul öğrencilerinin öğrenimlerine devam edebilmeleri için açılacak resmi yüksek okullar hakkında kanun tasarısı (1/483)",
+  "first_sitting_date": "1971-01-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 40,
+      "sitting_date": "1971-01-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010fih.pdf",
+      "pages": [
+        "203",
+        "342:360",
+        "366:402",
+        "469:507",
+        "517:537",
+        "548:549",
+        "555",
+        "601:604"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 103,
+      "sitting_date": "1971-05-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013103.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013fih.pdf",
+      "pages": [
+        "573"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 148,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016148.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016fih.pdf",
+      "pages": [
+        "658"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 154,
+      "sitting_date": "1971-08-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017154.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017fih.pdf",
+      "pages": [
+        "149",
+        "151:160"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2101&v_kullanici_id=27484850",
+  "source_sha256": "8af304721e65178fed123645710fcf029bbfc31e0fdff8599f88c6b438240622",
+  "in_force": "1971-01-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
