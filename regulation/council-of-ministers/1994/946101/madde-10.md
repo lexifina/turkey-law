@@ -1,0 +1,8 @@
+Gizli Sicil Raporları Doldurmak İçin Gerekli Süre
+Madde 10 – Haklarında sicil raporu düzenlenecek personelin, değerlendirilmelerini yapacak sicil amirlerinin yanında en az 6 ay çalışmış olmaları şarttır.
+Üç sicil amiri bulunan personel hakkında sicil verecek amirlerden bir veya ikisinin bulunmaması halinde mevcut amirlerin raporuna itibar edilir.
+İki sicil amiri bulunan personel hakkında da yukarıdaki fıkrada belirtilen durumda birinci veya ikinci sicil amirinin dolduracağı sicil raporu, o dönem için geçerli sayılır.
+Bir sicil amiri bulunan personel hakkında o sicil amirinin değerlendirmesine göre işlem yapılır.
+Sicil amirlerinin hiçbirinin bulunmaması veya sicil verecek süre görevde kalmamaları halinde sicil raporları sonradan göreve atananlar veya vekilleri tarafından üç aylık bir sürenin sonunda derhal doldurulur. Bu uygulama sonunda da personele o dönem için sicil raporu verme imkanı bulunmazsa sicil raporu, düzenleme döneminde üç aydan az olmamak üzere personel ile en fazla çalışan sicil amiri tarafından doldurulur.
+Sicil amirinin yanında çalışırken alınan mazeret izinleri ile yıllık izinler ve doktor veya sağlık kurulu raporuna dayanan hastalık izinleri, hizmet içi eğitimde geçen süreler, sicil raporu düzenlenmesi için gereken 6 aylık süreye dahildir.
+Şu kadar ki, amirin yanında 3 ay fiilen çalışmış olmak şarttır. Hizmet içi eğitimin veya hastalığın sicil raporu doldurmak için gerekli sürenin geçmesine imkan vermeyecek kadar uzun sürmesi ve dolayısiyle personel hakkında sicil raporu doldurma imkanının bulunmaması halinde, bir defaya mahsus olmak üzere geriye doğru en çok üç yılın sicil notlarının ortalaması esas alınır.

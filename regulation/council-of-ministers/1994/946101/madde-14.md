@@ -1,0 +1,3 @@
+Sicil Raporlarının Dolduruluş Şekli
+Madde 14 – Sicil raporları önceden hazırlanan müsvettelerden yararlanılarak Yönetmelik ekindeki sicil raporu, herhangi bir silinti ve kazıntı yapılmaksızın el yazısı ile doldurulur. Müsvetteler imha edilir. Fazla ve yanlış yazılan kelime veya notlar okunulacak surette çizilerek doğrusu yazıldıktan sonra keyfiyet imza ile tasdik edilir.
+Sicil amirleri 12 nci madde uyarınca tesbit edecekleri sicil notunu kendileri hesaplayarak sicil raporunun ilgili bölümüne yazarlar. Memurların sicil notu ortalamaları, personel servisi (veya görevli personel) tarafından hesaplanarak sicil raporunun ilgili bölümüne yazılır.

@@ -1,0 +1,3 @@
+Görevden Ayrılış Halinde Sicil Raporlarının Doldurulması
+Madde 11 – Bir görevde 6 ay veya daha fazla bir süre bulunup başka göreve atananların sicil raporları, bunların atanmalarından önceki sicil amirlerince ayrıldıkları tarihi takip eden onbeş gün içinde doldurulur ve Aralık ayında ikinci sicil amirine verilmek üzere personel servisine (veya görevli personele) teslim edilir.
+Sicil raporlarının doldurulma zamanı gelmeden ve yeni sicil amirine sicil raporu doldurmak için yeterli süre kalmadan görevlerinden ayrılan sicil amirleri en az 6 ay beraber çalıştıkları personelin sicil raporlarının kendilerine ait bölümünü görevlerinden ayrılmadan önce doldurarak personel servisine (veya görevli personele) teslim ederler.
