@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3510",
+  "year": 1938,
+  "title": "3510 sayılı Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-07-14",
+  "gazette_issue": "3959",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3959.pdf",
+  "source_sha256": "8747d468222c7c3c6502ccfb58c7f6f1dabf2f5ef41e2758c5e2d016dfd8b2c6",
+  "text_sha256": "4d891653cf2ce0709cc593ce788fc635c0bfed55e91a8b4c461f838f49072f0e",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      2100,
+      2111
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [9] (no text layer)",
+    "tesseract_pages": [
+      9
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803510.pdf",
+    "source_sha256": "0841dcb1b075ce769bb6e43fd8df0e1535f6cf6c74172ae42c8006927541dd53",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9812,
+    "bag": 0.951,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9467,
+    "rg_words": 72,
+    "kd_words": 75,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
