@@ -1,0 +1,51 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2599",
+  "year": 1982,
+  "title": "Ankara Üniversitesi 1982 Malî Yılı Bütçe Kanunu",
+  "adopted": "1982-02-17",
+  "adopted_as_published": "17/02/1982",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "1.3.1982 No: 17620",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc065/kanunmgkc065/kanunmgkc06502599.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 65",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 151134,
+      "title": "Ankara Üniversitesi 1982 Malî Yılı Bütçe Kanunu",
+      "adopted_as_published": "17/02/1982",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc065/kanunmgkc065/kanunmgkc06502599.pdf",
+      "committee_reports": [],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=301&v_kullanici_id=27483250",
+      "page_sha256": "8c9ea736e8ddbe02c20bec428577222ec12706c5e0c3bc15f51c41aa7a4af0e2"
+    },
+    {
+      "assembly": "Danışma Meclisi",
+      "term": null,
+      "kayit_no": 143448,
+      "title": "Ankara Üniversitesi 1982 Malî Yılı Bütçe Kanunu",
+      "adopted_as_published": "17/02/1982",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc065/kanundmc065/kanundmc06502599.pdf",
+      "committee_reports": [],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "0b8d3603bdcc20d55b13e922eedbe2d683ac1a8fef214d51a785d2dc18bf495a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8c9ea736e8ddbe02c20bec428577222ec12706c5e0c3bc15f51c41aa7a4af0e2",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1982-02-17",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 17/02/1982; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
