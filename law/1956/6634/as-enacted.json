@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6634",
+  "year": 1956,
+  "title": "Gayrimenkul kiraları hakkındaki Kanunun muvakkat 1 nci maddesinin Ç fıkrasının değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-01-14",
+  "gazette_issue": "9207",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9207.pdf",
+  "source_sha256": "1863f30aad26e8a3692f5b14ef0d419b9c69de64420787a3a868186b1ec5992e",
+  "text_sha256": "57a64f081f4aa067238863f741ccaee4b9651a7730405253acc0780658ba10a2",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      33
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806634.pdf",
+    "source_sha256": "0ce403b78afb1069ab03aeeb8e7cebc729aabb9621569b7afb2e4b7338f2c4bc",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9599,
+    "bag": 0.8693,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8438,
+    "rg_words": 148,
+    "kd_words": 160,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
