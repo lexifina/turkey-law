@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "24",
+  "year": 1920,
+  "title": "Temettü Kanunu",
+  "adopted": "1920-09-21",
+  "adopted_as_published": "21/09/1336",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.02.1337 No: 4",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc001/kanuntbmmc001/kanuntbmmc00100024.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 1",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 1,
+      "kayit_no": 1470,
+      "title": "Temettü Kanunu",
+      "adopted_as_published": "21/09/1336",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc001/kanuntbmmc001/kanuntbmmc00100024.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 52,
+          "sitting_date": "1920-08-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003052.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/ehttbmm01003052.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003fih.pdf",
+          "pages": [
+            "294"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 64,
+          "sitting_date": "1920-09-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004064.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/ehttbmm01004064.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004fih.pdf",
+          "pages": [
+            "106"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 68,
+          "sitting_date": "1920-09-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004068.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/ehttbmm01004068.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004fih.pdf",
+          "pages": [
+            "226:235"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 69,
+          "sitting_date": "1920-09-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004069.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/ehttbmm01004069.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004fih.pdf",
+          "pages": [
+            "246:254"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "3e033a92c7a8943f4335981533b631f49a8313684ba5b857662ded3c81594e37"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "3e033a92c7a8943f4335981533b631f49a8313684ba5b857662ded3c81594e37",
+  "issuer": "TBMM",
+  "in_force": "1920-09-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/09/1336 (Rumi year, +584); record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
