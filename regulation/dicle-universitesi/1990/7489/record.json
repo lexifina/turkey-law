@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmî Gazete'de yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1990-11-03",
+      "03.11.1990",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik Resmî Gazete'de yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "20684",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1990-11-03",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dicle Üniversitesi",
+  "issuer_slug": "dicle-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dicle-universitesi/1990/7489",
+  "published": "1990-11-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7489&MevzuatTertip=5",
+  "source_bytes": 28184,
+  "source_id": "8.5.7489",
+  "source_sha256": "d7d06bbd43a91a43f9d3d0afbf3146a843e4e997bc598dcf7b1834df4f217a52",
+  "text_status": "as-enacted",
+  "title": "DİCLE ÜNİVERSİTESİ GAP UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 188,
+  "word_count": 671
+}
