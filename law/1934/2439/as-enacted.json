@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2439",
+  "year": 1934,
+  "title": "Yüksek mühendis mektebi 1933 senesi bütçesinin fasılları arasında münakale yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-05-26",
+  "gazette_issue": "2710",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2710.pdf",
+  "source_sha256": "dfe2c47e1d3262b062fa97c20aa8be4a7d403fe5bea220fd4a977261e7c73f61",
+  "text_sha256": "e85b85d98d9ac62fb26ae5953435e820e723d56d93c029a97db5bc9beade9757",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    9
+  ],
+  "line_span": [
+    [
+      2578,
+      2578
+    ],
+    [
+      1260,
+      1284
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302439.pdf",
+    "source_sha256": "ce805c4b14861955b909f652e07b15cabc3d4dab8acbffef15d2be80780cfaca",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.937,
+    "bag": 0.9296,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9718,
+    "rg_words": 73,
+    "kd_words": 71,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
