@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6652-",
+  "source_id": 36977,
+  "date": "2004-08-15",
+  "title": "Bir kuruma ait olup yap-işlet-devret modeliyle bir şirkete kiralanan bir arsa üzerinde inşa edilen binanın emlak vergi mükellefinin şirket olması ve bir vakfa ait lojmanlarda oturan çalışanlardan belli bir bedel tahsil edilmesi halinde emlak vergisi ödenm",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36977",
+  "source_sha256": "862ae2cc4332da1c6c5dcbe44b02d9e1e17ae65f6aa7e99fbc27f995f97f91aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
