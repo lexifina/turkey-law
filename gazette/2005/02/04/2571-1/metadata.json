@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-04",
+  "issue": "2571",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararı",
+  "title": "2005/8413 İşverenlerin Elli veya Daha Fazla İşçi Çalıştırdıkları İşyerlerinde Çalıştırmaları Gereken Özürlü, Eski Hükümlü ve 3713 Sayılı Terörle Mücadele Kanununun Ek 1 inci Maddesinin (B) Fıkrası Kapsamındaki Terör Mağduru Çalıştırma Oranlarının Belirlenmesine İlişkin 8/3/2004 Tarihli ve 2004/6976 Sayılı Kararnamenin Eki Karar’ın, 1/1/2005 - 31/12/2005 Tarihleri Arasında da Uygulanmasına Dair Kara",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050204-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050204.htm",
+  "index_sha256": "94f1b2caabfd6ec39c14fe967fe3de71f45aea21cd2430c9c614f1625f450b64",
+  "index_header": "4 Şubat 2005 ... Sayı : 2571",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
