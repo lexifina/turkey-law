@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6662-",
+  "source_id": 37019,
+  "date": "2004-07-17",
+  "title": "Tasarruf Mevduatı Sigorta Fonunun faaliyetleri nedeniyle edindiği bina,arazi ve arsa Emlak Vergisinden muaftır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37019",
+  "source_sha256": "d0e9cdef773e745f3fd689f4869b5fe3c4d45b4ba0e4b7b635a5f567d31f4dbe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
