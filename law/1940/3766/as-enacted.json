@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3766",
+  "year": 1940,
+  "title": "Muamele vergisi kanununun bazı hükümlerinin değiştirilmesine ve bu kanuna bazı hükümler eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-01-15",
+  "gazette_issue": "4410",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4410.pdf",
+  "source_sha256": "7a844418c1529a983091fe82705e0ac574d50a845bf82318086b30c0d11eff67",
+  "text_sha256": "f37ceed3bf42c435357536ff58e5764a099d0e7ae487949a4d666a2c77f6e4e2",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      13,
+      209
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103766.pdf",
+    "source_sha256": "388bb6449a514fe767c42f12ed9895555d634f90b4c07391f4f6b1a36dfd7fd2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9763,
+    "bag": 0.9269,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9981,
+    "rg_words": 1066,
+    "kd_words": 1070,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
