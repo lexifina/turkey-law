@@ -1,0 +1,82 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 63695,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Amasya Milletvekili Kemal Eren ve Ankara Milletvekili Salâhattin Benli'nin, Gayrimenkule Tecavüzün Def'ine dair kanun teklifi hakkında (2/191)",
+  "title": "Amasya Milletvekili Kemal Eren ve Ankara Milletvekili Salâhattin Benli'nin, Gayrimenkule Tecavüzün Def'ine dair kanun teklifi hakkında (2/191)",
+  "first_sitting_date": "1951-07-25",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 104,
+      "sitting_date": "1951-07-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009104.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009fih.pdf",
+      "pages": [
+        "301",
+        "375:376",
+        "409:425",
+        "634",
+        "911:918"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 24,
+      "sitting_date": "1952-01-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012fih.pdf",
+      "pages": [
+        "35",
+        "234:241",
+        "327",
+        "341:372",
+        "402:403"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 37,
+      "sitting_date": "1952-02-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013fih.pdf",
+      "pages": [
+        "120",
+        "223:225",
+        "274"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 55,
+      "sitting_date": "1952-03-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c014/tbmm09014055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c014/tbmm09014fih.pdf",
+      "pages": [
+        "123:137",
+        "151:181",
+        "224:254",
+        "382:389",
+        "418:433"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=401&v_kullanici_id=27484171",
+  "source_sha256": "251fa6f9ec6b8523e27fed72f8edffe71ca7309f177279a47b7cc1dd7d213795",
+  "in_force": "1951-07-25",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
