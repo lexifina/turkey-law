@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "415",
+  "decision_date": "2004-12-30",
+  "title": "01/01/2005 tarihinden bu konuda yeni bir düzenleme yapılıncaya kadar uygulanmak üzere perakende satış tarifesi ile ilgili",
+  "resmi_gazete_date": "2004-12-31",
+  "resmi_gazete_number": "25687",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=imWyGjreVPI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=imWyGjreVPI="
+  ],
+  "source_sha256": "5bad880f667b1d7ffdbfae2ee74a2fde3cc2140217bb52a21736ae8f60e2df26",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-12-30",
+  "law_text_complete": false
+}
