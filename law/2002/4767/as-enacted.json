@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4767",
+  "year": 2002,
+  "title": "Toplu Konut Kanununda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2002-07-03",
+  "gazette_issue": "24804",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2002/07/20020703.htm",
+  "source_sha256": "02978247926bc87d12d5e34bb6658ffdc52420b61479435667304d71f0915f9d",
+  "text_sha256": "1c2107fadc54a4d86a3c1fc7392e5fc5b28be6405c94fa8f09f57f3d96b1ef94",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2002/07/03/24804-27",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2002/07/20020703.htm#27",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
