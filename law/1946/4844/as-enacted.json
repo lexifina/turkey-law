@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4844",
+  "year": 1946,
+  "title": "Devlet Denizyolları ve Limanları İşletme Genel Müdürlüğü ihtiyaçları için gelecek yıllara geçici yüklen-nelere girişilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-02-04",
+  "gazette_issue": "6223",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6223.pdf",
+  "source_sha256": "42dc7091fadb8cfcb778f2e5353b9f9bd17ee0d8256638800766784c26dcda25",
+  "text_sha256": "26fffdefc419baa97074bca067c711e016e0281a94cc92820f07b8ef9afffafc",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      40,
+      63
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804844.pdf",
+    "source_sha256": "6aa746b12942cf2ab539ec9b3d0a4150f8db1d5bed294b93d82e51c603993d3b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9599,
+    "bag": 0.9026,
+    "kd_coverage": 0.9935,
+    "kd_body_compared": 0.9686,
+    "rg_words": 154,
+    "kd_words": 159,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
