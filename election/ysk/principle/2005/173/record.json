@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2005/173",
+  "list_number": "173",
+  "decision_date": "2005-04-02",
+  "title": "YSK ilke kararı 2005/173",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3696/2005-173-karar.htm",
+  "source_sha256": "1821a6c5376feb7c24a29a95fd8e313c93ff9b564352a3442e8a634e4080791a",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2005-04-02",
+  "law_text_complete": false
+}
