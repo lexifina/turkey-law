@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4788",
+  "year": 1945,
+  "title": "Uyuşmazlık Mahkemesi kurulması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-07-14",
+  "gazette_issue": "6057",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6057.pdf",
+  "source_sha256": "040c42a4a5619a876e2cbba91724ec93ced81394a5dfc703236104ce8a03aecc",
+  "text_sha256": "9d4902673bad9f5e62ec4af7812bdb9e3ed885bdf637b6b5850f742c76c82a9a",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      206,
+      416
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704788.pdf",
+    "source_sha256": "dbac74889759932607f437025a0a56f7b3d2a85a907e21a3f58b5fc7ce5edc3c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.96,
+    "bag": 0.9173,
+    "kd_coverage": 0.9986,
+    "kd_body_compared": 0.9986,
+    "rg_words": 1361,
+    "kd_words": 1397,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
