@@ -1,0 +1,61 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "640",
+  "year": 1999,
+  "title": "Plan ve Bütçe Komisyonu Üyeliklerine Yapılan Seçime Dair",
+  "adopted": "1999-06-07",
+  "adopted_as_published": "07/06/1999",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "10.06.1999 No: 23721",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc083/karartbmmc083/karartbmmc08300640.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 83",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 426111,
+      "title": "Plan ve Bütçe Komisyonu Üyeliklerine Yapılan Seçime Dair",
+      "adopted_as_published": "07/06/1999",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc083/karartbmmc083/karartbmmc08300640.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 11,
+          "sitting_date": "1999-06-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c001/tbmm21001011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c001/tbmm21001fih.pdf",
+          "pages": [
+            "186"
+          ]
+        },
+        {
+          "cilt": 1,
+          "sitting": 12,
+          "sitting_date": "1999-06-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c001/tbmm21001012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c001/tbmm21001fih.pdf",
+          "pages": [
+            "194:195"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "74490a09a4a133c912f1dc63caaf4b5615cece47e0b339f41d8243f6cafd435c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "74490a09a4a133c912f1dc63caaf4b5615cece47e0b339f41d8243f6cafd435c",
+  "issuer": "TBMM",
+  "in_force": "1999-06-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 07/06/1999; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
