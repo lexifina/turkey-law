@@ -1,0 +1,2 @@
+Hakem Ücretleri
+Madde 15 -Hakem heyetine veya hakemlere intikal eden anlaşmazlıklar dolayısiyle hükmedilecek hakem ücretleri o yerde uygulanmakta olan avukatlık asgari ücret tarifesi esaslarına göre tesbit olunur. Tesbit olunan bu ücret hakem heyetlerinde 3'e bölünmek suretiyle ödenir. Tek hakem olan yerlerde ise hakeme avukatlık asgari ücret tarifesine göre tesbit olunan ücretin üçte birisi ödenir.

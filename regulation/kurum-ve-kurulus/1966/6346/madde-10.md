@@ -1,0 +1,6 @@
+Duruşmaya Hazırlık
+Madde 10 -Davacı; hakem heyetine veya hakeme hitaben yazılmış 3 nüsha dilekçe ile müracaat suretiyle davasını açar. Dava dilekçesinin hakemlikçe alınıp deftere kaydedilmesiyle dava açılmış olur.
+Dava dilekçesinde davacının adı, soyadı ve adresi, davalının adı, soyadı ve adresi ve varsa tarafların vekillerinin adı, soyadı ve adresleri, davanın konusu, vakalar, hukuki sebepler ve deliller ile talep yazılarak evrakı müsbiteler mevcut ise bunların da asıl veya suretleri dilekçeye bağlanır.
+Dava dilekçesi ile birlikte tahkim masraflarını karşılamak üzere dava dilekçesinde yazılı meblağın yüzde ikisi nisbetinde tahkim masrafları karşılığı hakem heyeti veya hakem adına mahalli Halk Bankası veya bu bankanın bulunmadığı yerlerde T.C. Ziraat Bankasına yatırılarak makbuzu dava dilekçesine eklenir.
+Yukandaki hususlar yerine getirildikten sonra dava dilekçesi karşı tarafa iadeli taahhütlü olarak tebliğ edilir ve karşı taraftan 7 gün içinde yazılı mürafaasını bildirmesi istenilir.
+Hakem heyetleri veya hakemler 7 günlük müddetin bitiminden sonra ilk 5 gün içinde hakem önünde cereyan edecek olan tahkikatın şeklini ve müddetlerini tayin ile duruşma gününü tesbit ederek taraflara iadeli taahhütlü olarak tebliğ eder.
