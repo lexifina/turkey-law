@@ -1,0 +1,1 @@
+Madde 91 – Müesseselerde veya halk elinde bulunan hayvanların, bilhassa kendilerinden et ve diğer gıda maddeleri elde edilenlerin her türlü taarruz tesirlerine karşı korunmaları için özel tedbirler alınır.

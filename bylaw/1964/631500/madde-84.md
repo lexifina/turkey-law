@@ -1,0 +1,1 @@
+Madde 84 – Hassas bölgelerdeki müessese ve fabrikalarda önemli makine, araçve malzemeden, harb zamanı ihtiyaçları için yeteri kadar yedek tedarik olunarak, müesseseler dışında emniyetli yerlerde saklanmaları sağlanır.

@@ -1,0 +1,2 @@
+Madde 49 – Kılavuzlukların barıştaki yerleri, bölgeleri içindeki kendi evleri veya iş yerleridir. Muhtarlık odaları da kullanılabilir. Seferde bu maksatladaha elverişli ve kafi koruma sağlayan başka yerler seçilebilir.
+Kılavuzluklar, aynı zamanda bölgelerindeki halk için bir danışma ve haberalma bürosu mahiyetinde olduğundan, bu yerlerin halk tarafından kolaylıkla görülecek ve bellenecek şekilde olması gözetilir ve kapıları üzerine birer levha konulur.

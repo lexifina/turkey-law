@@ -1,0 +1,2 @@
+Madde 97 – Cadde ve sokak kılavuzları; barışta ve savaşta kendi kesimlerine ait her türlü bilgilerin tesbitinde, halka ait hizmetlerde korunma kılavuzlarına yardımcılık ve halka yol göstericilik yaparlar.
+Barışta bina korunma personelinin seçilmesini ve eğitimlerinin sağlanmasını izlerler; savaş sırasında bu personel ile yangın başlangıçlarının söndürülmesi, ilk kurtarma ve yardım işlerinin yapılmasını sağlamaya çalışırlar.

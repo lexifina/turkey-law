@@ -1,0 +1,2 @@
+Madde 27 – Sosyal yardım servislerinin başlıca görevi; olağanüstü hallerde halkın durumdan haberdar edilmesi, tahliye ve seyrekleştirme işlerine yardımda bulunulması, felaket sıralarında evsiz, giyeceksiz ve yiyeceksiz kalanların veya felaket bölgelerinden gelenlerin acil ilk yardım, geçici barındırma, giydirme ve yedirilmeleri, birbirlerini kayıp edenlerin buluşturulması, işsiz ve kimsesiz kalanlara yardım gibi işlerdir.
+Sivil savunma servisleri personelin yedirilmesi de bu servis tarafından yapılır.

@@ -1,0 +1,1 @@
+Madde 60 – Vardiye halinde çalışan müesseselerde sivil savunma teşkilleri; vardiya mevcutlarına göre ve her vardiya için ayrı ayrı kurulur. Değişenlerin yerlerine yenileri seçilerek kadroları daima tamam bulundurulur.

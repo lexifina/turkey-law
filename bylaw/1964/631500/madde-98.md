@@ -1,0 +1,1 @@
+Madde 98 – Cadde veya sokak kılavuzlarının halk tarafından tanınmaları için görev sıralarında kollarında bir tanınma işareti ile bir düdük, bir gaz maskesi, harp paketi, el feneri gibi şahsi teçhizatları bulunur.

@@ -1,0 +1,1 @@
+Madde 59 – Müesseselerin sivil savunma teşkilleri; müesseselerdeki milli savunma ile ilgili diğer hizmetlerde görevli olmayan 16-65 yaşlarındaki kimseler arasından barış zamanında personeli seçilmek ve gerekli araç, gereç ve teçhizatı sağlamak suretiyle göreve hazır bulundurulur.

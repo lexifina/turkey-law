@@ -1,0 +1,1 @@
+Madde 76 – Hassas bölgelerdeki binaların ağaç kısımlarının kolayca tutuşmamaları için yangına karşı dayanıklı maddelerle boyanmak veya badana edilmek, mümkün olanlar yanmaz maddelerle değiştirilmek üzere gerekli tedbirler alınır.

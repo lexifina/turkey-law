@@ -1,0 +1,3 @@
+Madde 32 – Barışta mevcut emniyet ve trafik teşkilatı; olağanüstü hal veya seferdeki tehlike zamanlarında halka yardım etmek, panik ve kargaşalıkları önlemek, sükünet, emniyet ve asayişi sağlamak ve trafiği düzenlemek gibi hizmetleri karşılamak üzere barıştan seçilecek ve yetiştirilecek mükellef personelle artırılmak suretiyle genişletilir.
+Bu servise ayrılacak mükellef personel miktarı, hassas bölge nüfusunun binde beşini geçmemek üzere mahallin özellik ve ihtiyacına göre tesbit olunur.
+Patlamayan bombaların diğer şüpheli cisimlerin ve NBC maddeleri ile bulaşmış sahaların tahdit ve kontrol altına alınması ve tahliye işlerine yardım da bu servisin görevleri arasındadır.

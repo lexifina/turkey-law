@@ -1,0 +1,2 @@
+Bina korunma personeli ve malzemesi:
+Madde 99 – Hassas bölgelerdeki bütün ev, apartman ve içinde oturulan diğer binalarda, sivil savunma bakımından gerekli tedbirlerin alınması, yangın başlangıçlarının söndürülmesi, ilk yardım ve kurtarma hizmetleri gibi görev ve faaliyetler için; buralarda oturanlar arasında işbölümü yapılarak, her binada bir korunma amiri ve nüfus mevcuduna göre sırasile birer veya daha fazla itfaiyeci, hastabakıcı, kurtarıcı ve sığınak bulunan yerlerin gerekenlerinde sığınak amiri gibi korunma personeli ayrılır.

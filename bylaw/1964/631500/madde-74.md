@@ -1,0 +1,1 @@
+Madde 74 – Meskün bölgeler içindeki odun, kömür, kereste depoları gibi kolayca yanıcı maddelere ait stokların da, ya etrafının yangın kesen duvarlarla çevrilmesi veya meskün bölge dışına çıkarılması gibi emniyet tedbirleri alınır.

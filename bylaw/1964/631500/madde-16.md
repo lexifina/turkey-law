@@ -1,0 +1,2 @@
+Madde 16 – Yardımcı servislerin barış kuvvetlerinin bir kısmı yerlerinde kalmakla beraber, çoğunluğu sivil savunma servisleriyle birlikte toplanma bölgeleri civarındaki münasip yerlere çıkarılır.
+Yardımcı servisler; kendi servis başkanları tarafından sevk ve idare edilmekle beraber, sivil savunma servisleriyle müşterek çalışma, işbirliği ve yardımlaşma bakımlarından sivil savunma idare merkezlerinin emri altında bulunurlar. Bu maksatla bu servislerin idare merkezlerinde yetkili birer temsilcisi bulunur.

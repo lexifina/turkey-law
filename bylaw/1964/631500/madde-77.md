@@ -1,0 +1,1 @@
+Madde 77 – Binaların çatı, tavan veya tarasalarında ve etrafında parlayıcı ve kolayca yanıcı maddeler varsa, olağanüstü halden itibaren yangın tehlikesi getirmeyecek yerlere konulur veya uzaklaştırılır. Binalar içinde bulundurulmasına kesin zaruret olan bu gibi maddeler için de gerekli emniyet tedbirleri alınır.

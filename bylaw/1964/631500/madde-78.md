@@ -1,0 +1,1 @@
+Madde 78 – Yukarıki maddelerde yazılanlardan başka bütün daire, müessese ve evlerde ve diğer binalarda yapı tarzlarına ve diğer özelliklerine göre yangın tehlikesine karşı gerekli önleme tedbirleri alınır. Yangın başlangıçlarının söndürülmesi için yeteri kadar söndürme malzemesi bulundurulur.

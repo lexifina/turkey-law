@@ -1,0 +1,2 @@
+Madde 35 – Barışta mevcut itfaiye teşkilatı yakarıki maddede yazılı maksadı sağlamak üzere, her korunma bölgesine en az bir itfaiye grupu düşecek şekilde kuvvetlendirilir ve genişletilir. Bir itfaiye grupunun kuvveti 30 - 50 kişidir.
+Belediye itfaiyesi bulunmayan şehir ve kasabalarda, belediyelere bağlı olarak mükellef personelden ibaret seferi itfaiye grup, takım veya ekipleri kurulur. Bu grup, takım veya ekiplerin başına belediye zabıta amiri veya diğer ilgili bir belediye personeli amir olarak görevlendirilir.

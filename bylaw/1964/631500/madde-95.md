@@ -1,0 +1,1 @@
+Madde 95 – Etrafındaki arazi veya binalardan bariz şekilde farklı görünüşteki daire, müessese ve fabrikaların ve diğer büyük binaların havadan kolayca tanınmamaları için; ağaçlandırma, boyama, şekil değiştirme, örtme gibi etrafa uydurma ve gizleme tedbirleri aldırılabilir.

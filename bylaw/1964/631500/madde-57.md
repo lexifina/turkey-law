@@ -1,0 +1,2 @@
+Madde 57 – Hassas bölgelerdeki mevcudu 200 den aşağı planlamaya tabi resmi ve hususi müesseselerde itfaiye, kurtarma ve ilk yardım servislerinin, hassas bölgeler dışındaki mevcudu 100 den fazla olan müesseselerde de itfaiye ve ilkyardım servislerinin kurulması mecburidir. Diğer servislerden lüzum görülecek olanlar kurulabilir.
+Hassas bölgeler içinde olup da mevcudu 100 den az ve planlamaya tabi olmayan müesseselerde, bina korunma personeli ve malzemesi hakkında bu Tüzüğün 99-102 nci maddeleri uygulanır.

@@ -1,0 +1,4 @@
+Kontrol merkezi ve karargah servisi:
+Madde 64 – Resmi ve hususi müesseselerde, olağanüstü zamanlardan itibaren sivil savunma teşkilat, faaliyet ve hizmetlerini sevk ve idare etmek üzere bir kontrol merkezi ile bu merkez içinde bir karargah servisi kurulur. Bu merkez taarruz tesirlerine karşı müessesenin en emniyetli bir yerinde veya sığınağında bulunur. Alarm ve irtibat hizmeti de bu servis tarafından yürütülür.
+Müessese amiri veya yerine görevlendireceği sivil savunma amiri kontrol merkezinin de amiridir. Kontrol merkezi amirliği müessese amiri tarafından yapıldığı takdirde sivil savunma amiri onun, yardımcısı olur. Bir kaç üniteden müteşekkil müesseselerin kontrol merkezlerinde merkez amirinden başka ünitelerin amirleri veya yetkili temsilcileri de bulunurlar.
+Karargah servisinin mevcudu ortalama her 200 kişiye 2 kişi düşecek şekilde hesaplanır.

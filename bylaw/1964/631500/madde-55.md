@@ -1,0 +1,1 @@
+Madde 55 – Mevzuat hükümlerine ve mahalli mülki idare amirliklerinden verilecek direktiflere göre, korunma kılavuzlarının bildireceği hususların ve isteklerin cadde ve sokak kılavuzları, bina korunma personeli ve halk tarafından yerine getirilmesi mecburidir.
