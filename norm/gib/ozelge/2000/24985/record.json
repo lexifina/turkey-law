@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2803-5-805/41932",
+  "source_id": 24985,
+  "date": "2000-09-08",
+  "title": "Vergi mahremiyetini ilgilendiren konular bilgi verilip verilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24985",
+  "source_sha256": "ff25d816af73624ac426ef807afa5d32cce5050ed4b4f9f091b06d0a6fc24c45",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
