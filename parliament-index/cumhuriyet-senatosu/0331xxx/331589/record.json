@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 331589,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Milletlerarası Para Fonu ile Milletlerarası İmar ve Kalkınma Bankasına Katılmak İçin Hükümete Yetki Verilmesine dair 5016 sayılı Kanuna Ek Milletlerarası Para Fonu Ana sözleşmesinde Değişiklik Yapılmasına dair Anlaşmanın Uygun Görülmesi ve Milletlerarası Para Fonu ile Milletlerarası İmar ve Kalkınma Bankasına Katılmak İçin Hükümete Yetki Verilmesine Dair Kanunun 798 sayılı Kanunla değişik 2. maddesini değiştiren 28.5.1970 tarih Ve 1265 sayılı Kanunun 1. ve 2. maddeleri ile Milletlerarası Finansman Kurumuna Katılmak İçin Hükümete Yetki Verilmesine dair 6850 sayılı Kanunun 2. Maddesinin Değiştirilmesi Hakkında Kanun Tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Malî ve İktisadi İşler, Dışişleri, Turizm ve Tanıtma ve Bütçe ve Plan komisyonları raporları. (Millet Meclisi :1/50; Cumhuriyet Senatosu :1/558)",
+  "title": "Milletlerarası Para Fonu ile Milletlerarası İmar ve Kalkınma Bankasına Katılmak İçin Hükümete Yetki Verilmesine dair 5016 sayılı Kanuna Ek Milletlerarası Para Fonu Ana sözleşmesinde Değişiklik Yapılmasına dair Anlaşmanın Uygun Görülmesi ve Milletlerarası Para Fonu ile Milletlerarası İmar ve Kalkınma Bankasına Katılmak İçin Hükümete Yetki Verilmesine Dair Kanunun 798 sayılı Kanunla değişik 2. maddesini değiştiren 28.5.1970 tarih Ve 1265 sayılı Kanunun 1. ve 2. maddeleri ile Milletlerarası Finansman Kurumuna Katılmak İçin Hükümete Yetki Verilmesine dair 6850 sayılı Kanunun 2. Maddesinin Değiştirilmesi Hakkında Kanun Tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Malî ve İktisadi İşler, Dışişleri, Turizm ve Tanıtma ve Bütçe ve Plan komisyonları raporları. (Millet Meclisi :1/50; Cumhuriyet Senatosu :1/558)",
+  "first_sitting_date": "1978-04-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 37,
+      "sitting": 50,
+      "sitting_date": "1978-04-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c037/cs__17037050.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c037/cs__17037fih.pdf",
+      "pages": [
+        "309:316"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=4701&v_kullanici_id=27484903",
+  "source_sha256": "731427fedb7ff51456a39b5424745e29282a6d202608e893d0757eb88adf0137",
+  "in_force": "1978-04-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
