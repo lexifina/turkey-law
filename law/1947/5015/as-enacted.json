@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5015",
+  "year": 1947,
+  "title": "Altmış milyon liralık madenî ufaklık para bastırılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-02-25",
+  "gazette_issue": "6541",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6541.pdf",
+  "source_sha256": "faf80a966324db01a438f3b82c5aa3b2f06f8c11b3d9e60dc3faf9621bc1c26e",
+  "text_sha256": "adb8bdc6be9148c17e8d10b78bc52c5e8d973cd185249820c0aa4739c3e45d3f",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      11,
+      107
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905015.pdf",
+    "source_sha256": "cea7e75f9ade4bd3684a2ea339bf49483c947a0dfd649cdf2f5880d5402dba06",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9652,
+    "bag": 0.9036,
+    "kd_coverage": 0.9969,
+    "kd_body_compared": 0.9924,
+    "rg_words": 645,
+    "kd_words": 657,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
