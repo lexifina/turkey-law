@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.9472",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ASAYİŞE MÜESSİR BAZI FİİLLERİN ÖNLENMESİ HAKKINDA KANUN GEREĞİNCE YAPILACAK İLANIN USUL VE ŞEKLİNİ GÖSTERİR YÖNETMELİK",
+  "number": "9472",
+  "issuer": "Adalet ve İçişleri Bakanları",
+  "issuer_slug": "adalet-ve-icisleri-bakanlari",
+  "path": "regulation/adalet-ve-icisleri-bakanlari/1972/9472",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9472&MevzuatTertip=5",
+  "source_sha256": "2fc25ea2ae4bc518a53120a5ab9f2961acfb1f94938e4e3394838b6510fdc86a",
+  "source_bytes": 43907,
+  "published": "1972-05-24",
+  "gazette": "14195",
+  "in_force": "1972-05-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.05.1972); own commencement article: \"Bu Yönetmelik Resmi Gazete ile yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete ile yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 666,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

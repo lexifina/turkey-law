@@ -1,0 +1,1 @@
+Madde 10 - Bu yönetmeliğe ait raportörlük işlemleri, ilgisine göre Jandarma Genel Komutanlığı veya Emniyet Genel Müdürlüğü tarafından yürütülür. Tereddüt hasıl olan hallerden, İçişleri Bakanlığı makamının tensibine göre hareket olunur.

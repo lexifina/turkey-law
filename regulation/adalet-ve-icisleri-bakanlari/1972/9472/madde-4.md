@@ -1,0 +1,3 @@
+Madde 4 - İçişleri Bakanlığında, Bakanlık Müsteşarının veya Müsteşar yardımcısının başkanlığında, Adalet Bakanlığı Ceza İşleri Genel Müdürlüğünden bir temsilci ile İçişleri Bakanlığı Hukuk Müşavirlerinden biri, Emniyet Genel Müdürlüğü ve Jandarma Genel Komutanlığı Asayiş Şube Müdürleri ve Hukuk İşleri Müdürlerinden oluşan bir kurulda, valiliklerce ilan yapılması isteğiyle gönderilen belgeler incelenerek, 3 üncü madde kapsamına girenler hakkında gerekli ilanın yapılmasına karar verilir.
+Kurul, Jandarma Genel Komutanlığı veya Emniyet Genel Müdürlüğünce 3 üncü madde esaslarına uygun olarak İçişleri Bakanlığının resen gönderilen ilan istemleri hakkında da karar verir.
+Kurul kararı İçişleri Bakanlığının onayı ile kesinleşir.
