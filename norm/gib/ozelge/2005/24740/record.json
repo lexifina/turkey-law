@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3014-344-728/10207",
+  "source_id": 24740,
+  "date": "2005-03-03",
+  "title": "Geçici vergi için vergi ziyaı cezasının bu verginin ilgili olduğu döneme ilişkin normal vade tarihinden, takdir komisyonu kararı, inceleme raporu veya kendiliğinden verilen beyannamenin vergi dairesi kayıtlarına girdiği tarihe kadar hesaplanması gerekmekt",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24740",
+  "source_sha256": "0fcd2f97aeb11f0ce73cc402aa1de6d68fca6d5799d7e53b21b9badb4d19c354",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
