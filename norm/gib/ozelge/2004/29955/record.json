@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5501-2868/51664",
+  "source_id": 29955,
+  "date": "2004-11-02",
+  "title": "Serbest meslek faaliyetini mutad ve sürekli bir şekilde yapanlar gerçek usulde katma değer vergisine tabi bulunmakta, arızi nitelik taşıyan serbest meslek faaliyetlerinde ise katma değer vergisi mükellefiyeti doğmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29955",
+  "source_sha256": "4be223beb1f3620800ee548baee0416703c4046bb4047fea52b447db05910893",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
