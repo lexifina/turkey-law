@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1998/275",
+  "list_number": "275",
+  "decision_date": "1998-10-03",
+  "title": "YSK ilke kararı 1998/275",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4757/1998-275-karar.htm",
+  "source_sha256": "06c58af308b40be44abbd97442fcbb467b6a473f66bf02f09f74eee2bd979f43",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1998-10-03",
+  "law_text_complete": false
+}
