@@ -12,7 +12,16 @@ b) Lisans, sertifika, onay ve vize işlemleri üzerinden alınacak bedeller.
 c) Yayın ve sair gelirler.
 d) Ayrıntıları kamuoyuna duyurulmak kaydıyla ve piyasanın gelişimine dair etüt ve proje çalışmalarının finansmanında kullanılmak üzere uluslararası kurum ve kuruluşlar tarafından verilecek hibeler.
 Katılma payının mükellefi, lisans ve sertifika sahibi olan tüzel kişilerdir. Katılma payı, anılan mükelleflerin yıllık faaliyet dönemine ilişkin olarak düzenleyecekleri gelir tablolarında yer alan safi satış hasılatı tutarının, Kurulca % 0,2 (binde iki) oranını aşmayacak şekilde belirlenecek katılma payı oranı ile çarpımı sonucu bulunur. Yıl içerisinde uygulanacak katılma payı oranı, bir önceki yılın Aralık ayı içerisinde ilan edilir.
-––––––––––––––
-(1) “A) Kurumun elektrik piyasası ile ilgili gelirleri aşağıdaki gelir kalemlerinden oluşur:” hükmü 4646 sayılı Kanunun 19 uncu maddesiyle eklenmiştir.
 Kurumun gelirlerinin, giderlerini karşılaması esastır. Kurumun gelir fazlası ertesi yılın Mart ayı sonuna kadar genel bütçeye aktarılır. Kurumun gelirleri, Kurulun uygun gördüğü bankalarda açılacak hesaplarda tutulur. Kurumun gelirleri bu Kanunda belirtilen görevlerini tam olarak yerine getirebilmesi için yeterli düzeye gelinceye kadar, gerekli mali kaynak genel bütçeden karşılanır.
 Kurumun mal ve varlıkları Devlet malı sayılır, haczedilemez, rehnedilemez.
+––––––––––––––
+(1) “A) Kurumun elektrik piyasası ile ilgili gelirleri aşağıdaki gelir kalemlerinden oluşur:” hükmü 4646 sayılı Kanunun 19 uncu maddesiyle eklenmiştir.
+C) (Ek: 4/12/2003-5015/27 md.) Kurumun petrol piyasası ile ilgili gelirleri aşağıdaki kalemlerden oluşur:
+a) Katılma payı.
+b) Lisans, onay, izin ve vize işlemleri üzerinden alınacak bedeller.
+c) Yayın ve sair gelirler.
+d) Ayrıntıları kamuoyuna duyurulmak kaydıyla ve piyasanın gelişimine dair etüt ve proje çalışmalarının finansmanında kullanılmak üzere uluslararası kurum ve kuruluşlar tarafından verilecek hibeler.
+(a) alt bendindeki katılma payının mükellefi; rafinaj, işleme, dağıtıcı, iletim, taşıma, ihrakiye, depolama, bayi ve madeni yağ üretim lisansı sahibi gerçek ve tüzel kişilerdir. Müşterek lisans sahipleri katılma payını toplam net satışları üzerinden öder. Katılma payı, lisans sahiplerince yıllık gelir tablolarında yer alan net satışlar tutarının binde biri oranını ve iki milyon ABD Dolarını aşmayacak şekilde Kurulca belirlenir. Yıl içinde uygulanacak katılma payı oranı bir önceki yılın Aralık ayı içinde açıklanır.
+Net satış hasılatı içinde yer alması halinde, yıl içinde petrol için ödenen gümrük vergi, resim ve harçları ile Özel Tüketim Vergisi toplamı net satışlar toplamından tenzil edilir.
+Katılma payı ödemekle yükümlü lisans sahipleri, herhangi bir bildirim beklemeksizin her yıl Mayıs ayı sonuna kadar bir önceki yıla ait bilanço ve gelir tablolarını Kuruma göndermek ve katılma payının yarısını Haziran, ikinci yarısını Kasım ayı sonuna kadar ödemek zorundadır.
+Süresinde beyan edilmeyen veya hatalı beyan edilen katılma paylarına ilişkin cezaî ve idarî işlemler Kurumca tamamlanarak ilgili organlar nezdinde adlî ve idarî işlemler başlatılır. Süresinde ödenmeyen malî yükümlülükler ve gecikme zamları hakkında 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanarak ilgili vergi daireleri aracılığı ile tahsili sağlanır.

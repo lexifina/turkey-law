@@ -1,14 +1,16 @@
 İKİNCİ BÖLÜM
 Elektrik Piyasası Faaliyetleri ve Lisanslar
-Elektrik piyasası faaliyetleri
+Elektrik piyasası faaliyetleri (1)
 MADDE 2- Elektrik piyasası faaliyetleri bu Kanun hükümlerine göre piyasada faaliyet gösterecek tüzel kişilerin üretim, iletim, dağıtım, toptan satış, perakende satış, perakende satış hizmeti, ticaret, ithalat ve ihracat faaliyetleridir.
 Piyasada faaliyet gösterecek tüzel kişilerin faaliyetlerinde uymaları gereken usul ve esaslar bu Kanun ve ilgili yönetmeliklerle düzenlenir.
-Piyasada faaliyet gösterecek özel hukuk hükümlerine tabi tüzel kişilerin 6762 sayılı Türk Ticaret Kanunu hükümleri doğrultusunda anonim şirket ya da limited şirket olarak kurulmaları ve anonim şirket olarak kurulmaları halinde, hisselerinin tamamının nama yazılı olması şarttır. Bu şirketlerin asgari sermayeleri ile ana sözleşmelerinde bulunması gereken sair hususlar yönetmelikle düzenlenir.
+Piyasada faaliyet gösterecek özel hukuk hükümlerine tabi tüzel kişilerin 6762 sayılı Türk Ticaret Kanunu hükümleri doğrultusunda anonim şirket ya da limited şirket olarak kurulmaları ve anonim şirket olarak kurulmaları halinde, otoprodüktörler hariç olmak üzere hisselerinin tamamının nama yazılı olması şarttır. Bu şirketlerin asgari sermayeleri ile ana sözleşmelerinde bulunması gereken sair hususlar yönetmelikle düzenlenir. (1)
 Piyasada, bu Kanun hükümleri uyarınca lisans almak koşuluyla yerine getirilebilecek faaliyetler ve faaliyet gösterebilecek tüzel kişiler şunlardır:
 a) Üretim faaliyeti gösterebilecek tüzel kişiler: Otoprodüktör ve otoprodüktör grupları tarafından gerçekleştirilen üretim faaliyeti dışındaki elektrik enerjisi üretimi, Elektrik Üretim Anonim Şirketi ve özel sektör üretim şirketleri tarafından
 gerçekleştirilir. Elektrik Üretim Anonim Şirketi ve özel sektör üretim şirketleri, lisansları uyarınca gerçek ve tüzel kişilere elektrik enerjisi ve/veya kapasite satışı yapabilirler.
 1. Elektrik Üretim Anonim Şirketi; özel sektör üretim yatırımlarını dikkate almak suretiyle Kurul onaylı üretim kapasite projeksiyonu uyarınca, gerektiğinde yeni üretim tesisleri kurabilir, kiralayabilir ve işletebilir.
 Elektrik Üretim Anonim Şirketi, DSİ bünyesindeki üretim tesislerini bu Kanun hükümlerine göre devralır, TEAŞ'dan devralınan ve özel hukuk hükümlerine tabi tüzel kişilere devri yapılmamış üretim tesislerini kendisi ve/veya bağlı ortaklıkları vasıtasıyla işletir ya da gerektiğinde sistemden çıkarır.
+––––––––––––––––––––
+(1) 4/12/2003 tarihli ve 5015 sayılı Kanunun 27 nci maddesiyle, bu maddenin üçüncü fıkrasında yer alan “...halinde”, ibaresinden sonra gelmek üzere “otoprodüktörler hariç olmak üzere” ibaresi eklenmiştir.
 Elektrik Üretim Anonim Şirketi, işletme hakkı devri yoluyla özel hukuk hükümlerine tabi tüzel kişilere devri yapılmış veya yapılacak tesis ve işletmelerin ve bunlara yapılacak ilave ve idame yatırımlarının mülkiyetini muhafaza eder.
 2. Özel sektör üretim şirketleri; sahip oldukları, finansal kiralama yoluyla edindikleri veya işletme hakkını devraldıkları üretim tesisi ya da tesislerinde elektrik enerjisi üretimi ve satışı ile iştigal eden özel hukuk hükümlerine tabi tüzel kişilerdir.
 Herhangi bir özel sektör üretim şirketinin iştirakleri ile birlikte işletmekte olduğu üretim tesisleri yoluyla piyasada sahip olacağı toplam pay, bir önceki yıla ait yayımlanmış Türkiye toplam elektrik enerjisi kurulu gücünün yüzde yirmisini geçemez.

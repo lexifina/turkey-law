@@ -1,3 +1,3 @@
 GEÇİCİ MADDE 2- Elektrik Piyasası Düzenleme Kurulunun ilk üyeleri, bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay içinde atanır.
-İlk defa atanan üyelerden Başkan dışında, ikinci yılın sonunda kura sonucunda belirlenecek iki üye ve dördüncü yılın sonunda, kalan üyelerden kura sonucunda belirlenecek iki üyenin yerine, bu Kanunda belirtilen hükümlere uygun olarak yeni üye ataması yapılır.
+İlk defa atanan üyelerden Başkan dışında, ikinci yılın sonunda kura sonucunda belirlenecek iki üye ve dördüncü yılın sonunda, kalan üyelerden kura sonucunda belirlenecek iki üyenin yerine, bu Kanunda belirtilen hükümlere uygun olarak yeni üye ataması yapılır. (Ek hükümler: 4/12/2003-5015/28 md.) Petrol Piyasası Kanununun yürürlüğe girmesini müteakip en geç bir ay içinde atanacak iki üyenin görev süreleri altı yıldır. Bu üyeler kuraya tâbi tutulmaz ve bu iki üyeliğe görev süresinin bitiminde yeniden atama yapılır.
 Kurul oluşmadan Kurum personelinin ataması yapılamaz.

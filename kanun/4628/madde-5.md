@@ -1,5 +1,5 @@
 Enerji Piyasası Düzenleme Kurulu ve Kurul Başkanlığı (1)
-MADDE 5- Kurul, biri Başkan, biri İkinci Başkan olmak üzere yedi üyeden oluşur.
+MADDE 5- (Değişik birinci fıkra: 4/12/2003-5015/24 md.) Kurul, biri Başkan, biri İkinci Başkan olmak üzere dokuz üyeden oluşur.
 Kurul üyeleri; hukuk, siyasal bilgiler, idari bilimler, kamu yönetimi, iktisat, mühendislik, işletme ya da maliye dallarında eğitim veren en az dört yıllık yüksek öğrenim kurumlarından mezun olmuş, kamu kurum ve kuruluşlarında ya da özel sektörde en az on yıl deneyim sahibi ve mesleğinde temayüz etmiş kişiler arasından Bakanlar Kurulunca atanır.
 Bakanlar Kurulu, atamayla birlikte Kurul Başkanını ve İkinci Başkanı görevlendirir.
 Kurul başkan ve üyelerinin görev süresi altı yıldır. Görev süresi sona eren üyeler tekrar seçilebilir.
