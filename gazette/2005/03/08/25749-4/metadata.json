@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-03-08",
+  "issue": "25749",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Milletlerarası Andlaşma",
+  "title": "2005/8520 Türkiye Cumhuriyeti ve Federal Demokratik Etyopya Cumhuriyeti Arasında İmzalanan, Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşma’nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050308-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050308.htm",
+  "index_sha256": "87da3e5c7b5d6f3ef58a86a69b390a2265662658e4cf3634d520bf3c6993108f",
+  "index_header": "8 Mart 2005 ... Sayı : 25749",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
