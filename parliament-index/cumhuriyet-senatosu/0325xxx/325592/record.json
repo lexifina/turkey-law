@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 325592,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "1475 sayılı İş Kanununun bazı maddelerinin değiştirilmesi ve 26. maddesinin ikinci fıkrasının yürürlükten kaldırılması, 193 sayılı Gelir Vergisi Kanununun 25. maddesinin 7. fıkrasının değiştirilmesi ve bir geçici madde eklenmesi hakkında kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Sosyal İşler ve Bütçe ve Plan komisyonları raporları (Millet Meclisi:1/136; Cumhuriyet Senatosu:1/362) (S. Sayısı:508)",
+  "title": "1475 sayılı İş Kanununun bazı maddelerinin değiştirilmesi ve 26. maddesinin ikinci fıkrasının yürürlükten kaldırılması, 193 sayılı Gelir Vergisi Kanununun 25. maddesinin 7. fıkrasının değiştirilmesi ve bir geçici madde eklenmesi hakkında kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Sosyal İşler ve Bütçe ve Plan komisyonları raporları (Millet Meclisi:1/136; Cumhuriyet Senatosu:1/362) (S. Sayısı:508)",
+  "first_sitting_date": "1975-07-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 23,
+      "sitting": 71,
+      "sitting_date": "1975-07-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c023/cs__14023071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c023/cs__14023fih.pdf",
+      "pages": [
+        "2",
+        "3",
+        "89:91",
+        "104:147",
+        "151:152"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=4201&v_kullanici_id=27484903",
+  "source_sha256": "e4e32890d724b4ad0f94e2889024ac5de00bc7e1a7901ae112a77b6043a5ef35",
+  "in_force": "1975-07-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
