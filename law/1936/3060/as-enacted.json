@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3060",
+  "year": 1936,
+  "title": "Millî Müdafaa Vekâletince taahhüde girişilmesi hakkında 2980 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-08-05",
+  "gazette_issue": "3374",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3374.pdf",
+  "source_sha256": "1d7f1ec9893cf7f5d4e086d18c55f05783ca87d63f2842811c2159481dddc01e",
+  "text_sha256": "bcfe55fab91a9624b4e876dad47d7efb1e43e2515c587c564ff58e6fb0fea027",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      1390,
+      1406
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01603060.pdf",
+    "source_sha256": "f0d15fe91bda48cc149ea6faccce93f40c3d328204550e34b338ae051384a581",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9929,
+    "bag": 0.961,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9829,
+    "rg_words": 116,
+    "kd_words": 117,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
