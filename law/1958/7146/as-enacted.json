@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7146",
+  "year": 1958,
+  "title": "İstanbul Teknik Üniversitesine bağlı Maden Fakültesinin binalariyle lâboratuvarlarının inşa ve tesisi hakkındaki 6034 sayılı Kanuna ek Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-07-03",
+  "gazette_issue": "9945",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9945.pdf",
+  "source_sha256": "76528dcf209d16faad940386dd8b22f599414a2b7504b77b6983e05aa9b4f89c",
+  "text_sha256": "3ead177f0693e82cc6d26c0da5723185ee021724a552dd8058364f01ea517904",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      652,
+      688
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007146.pdf",
+    "source_sha256": "dae795be247f2172fad4b9a8a78ccda412433ffed6eda319bdad0e4ca8dc19cd",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.986,
+    "bag": 0.8827,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.988,
+    "rg_words": 159,
+    "kd_words": 167,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
