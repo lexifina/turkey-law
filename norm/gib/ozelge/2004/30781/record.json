@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5509-197/15456",
+  "source_id": 30781,
+  "date": "2004-04-08",
+  "title": "Bilgisayar kullanımı ile ilgili uygulama programlan bilgisayarlardan ayrı mütalaa edildiğinden bunlara ait tadil, bakım ve onarım işlerine ait katma değer vergisinin tevkifata tabi tutulması söz konusu değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30781",
+  "source_sha256": "caa039626ee4e42658981a8f497e3df099eb69892a9916ca2575b91a0cb63866",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
