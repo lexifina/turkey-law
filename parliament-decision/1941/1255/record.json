@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1255",
+  "year": 1941,
+  "title": "Kır, çarşı ve mahallât bekçilerinin Memurin muhakemat kanunu hükümlerine tabi olup olmadıklarının tefsirine mahal olmadığı hakkında",
+  "adopted": "1941-08-08",
+  "adopted_as_published": "08/08/1941",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/karartbmmc022/karartbmmc02201255.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 22",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 97023,
+      "title": "Kır, çarşı ve mahallât bekçilerinin Memurin muhakemat kanunu hükümlerine tabi olup olmadıklarının tefsirine mahal olmadığı hakkında",
+      "adopted_as_published": "08/08/1941",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/karartbmmc022/karartbmmc02201255.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 20,
+          "sitting": 75,
+          "sitting_date": "1941-08-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c020/tbmm06020075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c020/tbmm06020fih.pdf",
+          "pages": [
+            "62",
+            "67:76"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=248&v_gelecek_sayfa=101&v_kullanici_id=27483267",
+      "page_sha256": "bd5dc1c94ebccc4e41b5cd0a28c6dd2c001014df6188d604da897d8463275c62"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "bd5dc1c94ebccc4e41b5cd0a28c6dd2c001014df6188d604da897d8463275c62",
+  "issuer": "TBMM",
+  "in_force": "1941-08-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 08/08/1941; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
