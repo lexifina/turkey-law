@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 122911,
+  "assembly": "TBMM",
+  "term": 3,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Türkiye Cumhuriyeti ile Sosyalist Şuralar Cumhuriyetleri İttihadı arasında münakit sular mukavelenamesinin Türkçe metninde ve bu mukavele ile ona müzeyyel protokolun tasdikına dair kanunda vaki sehivlerin tashihi hakkında kanun lâyihasına dair.",
+  "title": "Türkiye Cumhuriyeti ile Sosyalist Şuralar Cumhuriyetleri İttihadı arasında münakit sular mukavelenamesinin Türkçe metninde ve bu mukavele ile ona müzeyyel protokolun tasdikına dair kanunda vaki sehivlerin tashihi hakkında kanun lâyihasına dair.",
+  "first_sitting_date": "1928-04-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 62,
+      "sitting_date": "1928-04-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003062.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/ehttbmm03003062.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003fih.pdf",
+      "pages": [
+        "141"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 71,
+      "sitting_date": "1928-05-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c004/tbmm03004071.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c004/ehttbmm03004071.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c004/tbmm03004fih.pdf",
+      "pages": [
+        "43",
+        "105"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1561&v_gelecek_sayfa=101&v_kullanici_id=27483795",
+  "source_sha256": "fd59f2429e51a066ba7d6817555b4ff24a4f3a41fbdc19f3497c7522838053d7",
+  "in_force": "1928-04-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
