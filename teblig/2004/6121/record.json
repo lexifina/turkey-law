@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.6121",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MUHASEBE SİSTEMİ UYGULAMA GENEL TEBLİĞİ (SIRA NO: 12)",
+  "number": "6121",
+  "path": "teblig/2004/6121",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6121&MevzuatTertip=5",
+  "source_sha256": "ac5bee8ef8dbfa13b9639df7979e6ed81b20e673ae29e580eb13ef7718ca4889",
+  "source_bytes": 28784,
+  "published": "2004-05-05",
+  "gazette": "25453",
+  "in_force": "2004-05-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.05.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1264,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
