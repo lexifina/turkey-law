@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6527-185/015758",
+  "source_id": 26309,
+  "date": "2003-04-11",
+  "title": "Bilgisayar ortamında hazırlanan CD ve VCD satışı ve pazarlama işinin internet üzerinden yapılması, büronun sadece müşteri ile iletişimde kullanılması, bunun dışında emtia satışı yapılmaması, hizmet bedelinin müşterinin ayağına gitmek suretiyle tahsil edil",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26309",
+  "source_sha256": "297b00eedf8aa0000d014d81dedb0fac7c3b774ce4f2287e2432571e27537af3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
