@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4066",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET BAKANLIĞI AİLE ŞURASI YÖNETMELİĞİ",
+  "number": "4066",
+  "issuer": "Aile ile görevli Devlet Bakanı",
+  "issuer_slug": "aile-ile-gorevli-devlet-bakani",
+  "path": "regulation/aile-ile-gorevli-devlet-bakani/1990/4066",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4066&MevzuatTertip=5",
+  "source_sha256": "fdb6d7d523cd2690fc7cb7125834e7cceb0007be938afcfce00c7da833909778",
+  "source_bytes": 18393,
+  "published": "1990-07-31",
+  "gazette": "20591",
+  "in_force": "1990-07-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.07.1990); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 620,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
