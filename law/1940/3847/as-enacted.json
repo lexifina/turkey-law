@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3847",
+  "year": 1940,
+  "title": "Devlet Demiryolları ve Limanları İşletme Umum Müdürlüğü 1939 malî yılı bütçesine munzam tahsisat verilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-05-31",
+  "gazette_issue": "4523",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4523.pdf",
+  "source_sha256": "5311e7df80daae18ec4a417d4163611a89a099a0b99ef2e882b2bb74386545b9",
+  "text_sha256": "4edfc0889dda949d888719f86fe5db6c155935baed21ba15c5503e61483a7db8",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      30,
+      42
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103847.pdf",
+    "source_sha256": "e189a56fc43d67a6f22778a8a47a36065737f7d2fe3fa72925688207d8184648",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9111,
+    "bag": 0.8538,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9792,
+    "rg_words": 77,
+    "kd_words": 96,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
