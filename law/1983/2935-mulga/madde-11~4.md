@@ -1,0 +1,3 @@
+5 - 13/4/1990 tarih ve 421 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 11, Ek Madde 3.)
+Madde 11 – (e) bendine eklenen altbent - (9/4/1990 tarih ve 413 sayılı KHK'nin hükmüdür.)
+Bölgedeki faaliyetleri yanlış aksettirmek veya gerçek dışı haber ve yorumlar yapmak suretiyle bölgedeki kamu düzeninin ciddi şekilde bozulmasını veya bölge halkının heyecanlanmasını yahut güvenlik kuvvetlerinin görevlerini gereği gibi yerine getirmelerini engelleyecek şekilde yayınlanan her türlü basılmış eser hakkında, bunların bölge dışında basılmış olup olmadığına bakılmasızın, Olağanüstü Hal Bölge Valisinin teklifi üzerine İçişleri Bakanınca yukarıda belirtilen tedbirleri almak, gerektiğinde bunları basan matbaayı kapatmak,

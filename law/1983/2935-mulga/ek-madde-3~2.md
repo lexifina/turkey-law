@@ -1,0 +1,8 @@
+Ek Madde 3 – (9/4/1990 tarih ve 413 sayılı KHK'nin hükmüdür.)
+(Değişik birinci fıkra : 13/4/1990 - KHK - 421/2 md.) Olağanüstü hal bölgesi ile mücavir iller içinde veya dışında basılmış olup olmadığına bakılmaksızın Türk Ceza Kanununun 480 inci maddesinde yazılı hakaret suçlarının gerçeğe aykırı yazı, haber, havadis, fotoğraf veya vesikaların neşredilmesi veya her türlü olay ve vesikaların tahrif edilerek yayımlanması suretiyle işlenmesi halinde, faillere, 480 inci maddede yazılı cezalara ilave olarak 30 milyon Liradan 100 milyon Liraya kadar ağır para cezası verilir.
+Bu fiillerin 5680 sayılı Basın Kanununun 3 üncü maddesinde belirtilen mevkuteler vasıtasıyla işlenmesi halinde, ayrıca sahiplerine de; mevkute bir aydan az süreli ise bir önceki ay ortalama fiili satış miktarının, aylık veya bir aydan fazla süreli ise bir önceki fiili satış miktarı-
+1338
+nın toplam satış bedeli tutarının yüzde doksanı kadar ağır para cezası verilir. Ancak,bu ceza 30 milyon Liradan az olamaz. Bu mevkutelerin sorumlu müdürlerine, sahiplerine verilecek cezanın yarısı uygulanır.
+Bu maddenin tatbiki, bu hususta ayrıca şikayette bulunulmasına bağlıdır. Şikayet dilekçesi verilmediği takdirde gerçeğe aykırılık re'sen araştırılmaz. Bu husustaki şikayetin Türk Ceza Kanununun 490 ıncı maddesindeki süre içinde yapılması gerekir.
+Türk Ceza Kanununun 158, 159 ve 268 inci maddelerinde yazılı hakaret suçlarının da birinci ve ikinci fıkrada yazılı şekilde işlenmesi halinde, bu maddeler de gösterilen failler de, yukarıdaki fıkralar hükümleri uygulanmak suretiyle cezalandırılır.
+Türk Ceza Kanununun 481 inci maddesinin uygulandığı hallerde bu madde hükümleri tatbik edilmez.

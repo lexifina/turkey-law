@@ -1,0 +1,3 @@
+Ek Madde 3 – fıkra bir - (9/4/1990 tarih ve 413 sayılı KHK'nin hükmüdür.)
+Olağanüstü hal bölgesi ile mücavir illerde Türk Ceza Kanununun 480 inci maddesinde yazılı hakaret suçlarının gerçeğe aykırı yazı, haber, havadis, fotoğraf veya vesikaların neşredilmesi veya her türlü olay ve vesikaların tahrif edilerek yayınlanması suretiyle işlenmesi halinde, faillere, 480 inci maddede yazılı cezalara ilave olarak 30 milyon Liradan 100 milyon Liraya kadar ağır para cezası verilir.
+6 - 9/5/1990 tarih ve 424 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri . (Madde numaraları : 11, 33, Ek maddeler; 1, 2, 3, 4, 5, 6.)

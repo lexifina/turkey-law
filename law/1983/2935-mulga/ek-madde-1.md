@@ -1,0 +1,2 @@
+Ek Madde 1 – (14/11/1984 tarih ve 3076 sayılı Kanun ile kabul edilen 4/6/1984 tarih ve 201 sayılı KHK'nin hükmüdür.)
+Olağanüstü Hal Kanununun verdiği yetkilerin kullanılmasından dolayı tazminat davaları,idare aleyhine,idari yargıda açılır.İdarenin, kamu görevlisine şahsi kusurdan dolayı rücu edebilmesi, şahsi kusurun çok açık ve ağır olmasına bağlıdır. İlgili bakanın uygun görüşü olmadıkça rücu davası açılamaz.

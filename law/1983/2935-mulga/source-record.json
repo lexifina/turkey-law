@@ -1,0 +1,81 @@
+{
+  "source_id": "5.5.2935",
+  "path": "law/1983/2935-mulga",
+  "number": "2935",
+  "tertip": "5",
+  "title": "OLAĞANÜSTÜ HAL KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "document": "repealed-provisions",
+  "companion_of": "law/1983/2935",
+  "enacted": "1983-10-25",
+  "enacted_as_printed": "25.10.1983",
+  "published": "1983-10-27",
+  "gazette": "18204",
+  "in_force": "1992-11-18",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"8 - 18/11/1992 tarih ve 3842 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş hükümlerin metinleri.(madde numarası: 26)\"",
+  "date_evidence": [
+    [
+      "1992-11-18",
+      "8 - 18/11/1992 tarih ve 3842 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş hükümlerin metinleri.(madde numarası: 26)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1990-05-09",
+      "6 - 9/5/1990 tarih ve 424 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri . (Madde numaraları : 11, 33, Ek maddeler; 1, 2, 3, 4, 5, 6.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1990-04-13",
+      "5 - 13/4/1990 tarih ve 421 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 11, Ek Madde 3.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1990-04-13",
+      "(Değişik birinci fıkra : 13/4/1990 - KHK - 421/2 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "1990-04-09",
+      "4 - 9/4/1990 tarih ve 413 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları: 11,33, Ek madde 1.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1988-04-21",
+      "3 - 21/4/1988 tarih ve 3432 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 12.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1986-09-03",
+      "2 - 3/9/1986 tarih ve 3310 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 11.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1984-11-14",
+      "1- 14/11/1984 tarih ve 3076 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları : 11.)",
+      "a repeal note (enactment date of the repealing act)"
+    ]
+  ],
+  "repeal_notes": [
+    "1- 14/11/1984 tarih ve 3076 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları : 11.)",
+    "2 - 3/9/1986 tarih ve 3310 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 11.)",
+    "3 - 21/4/1988 tarih ve 3432 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 12.)",
+    "4 - 9/4/1990 tarih ve 413 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları: 11,33, Ek madde 1.)",
+    "5 - 13/4/1990 tarih ve 421 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 11, Ek Madde 3.)",
+    "6 - 9/5/1990 tarih ve 424 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri . (Madde numaraları : 11, 33, Ek maddeler; 1, 2, 3, 4, 5, 6.)",
+    "8 - 18/11/1992 tarih ve 3842 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş hükümlerin metinleri.(madde numarası: 26)",
+    "9 – 24/5/2007 tarihli ve 5668 Kanun ile yürürlükten kaldırılmış veya değiştirilmiş hükümlerin metinleri.(Madde numaraları: Ek Madde 2 ve 3.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=2935&MevzuatTertip=5",
+  "source_sha256": "d3783ec63d51adb092c5e8246ececb796b427cfeba16a1632694a39317f91e4a",
+  "source_bytes": 36976,
+  "words": 1779,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
