@@ -1,0 +1,80 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 63744,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "title": "TBMM fihrist kaydı 63744 (Mazbatalar)",
+  "first_sitting_date": "1953-02-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 36,
+      "sitting_date": "1953-02-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c020/tbmm09020036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c020/tbmm09020fih.pdf",
+      "pages": [
+        "32:43",
+        "68:91",
+        "109:127",
+        "176:185",
+        "216:226",
+        "245:246"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 57,
+      "sitting_date": "1953-03-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c021/tbmm09021057.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c021/tbmm09021fih.pdf",
+      "pages": [
+        "26",
+        "50",
+        "188:189",
+        "213:223",
+        "230:248",
+        "259:276",
+        "322:346",
+        "353:364",
+        "412:414",
+        "415",
+        "419:437",
+        "447:452",
+        "524",
+        "579"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 76,
+      "sitting_date": "1953-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c022/tbmm09022076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c022/tbmm09022fih.pdf",
+      "pages": [
+        "4:29",
+        "35",
+        "45",
+        "49",
+        "52",
+        "68",
+        "70:73"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=1101&v_kullanici_id=27484171",
+  "source_sha256": "7229cd976d4e8f5d817581035fbbbe717008dd1b28fd2a14f9d619d52b3b1c99",
+  "in_force": "1953-02-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
