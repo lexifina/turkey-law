@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-04-05",
+  "issue": "25070",
+  "edition": "regular",
+  "item": 23,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Konya Büyükşehir Belediye Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030405-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (55 = 55)",
+  "ilan_codes": [
+    "7722/1-1",
+    "7721/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030405-3.htm",
+  "category_page_sha256": "89c4d8ad8e1b6ace504d2aa70d1cf946b444b28188b8e98bbb5ad4a0b6ffcc95",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030405.htm",
+  "index_sha256": "bb774b0b1a570c2b21f5e3b656093a1c6fa85e36a145dae5e3d3c8d9fce17d36",
+  "index_header": "5 Nisan 2003 ... Sayı : 25070",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
