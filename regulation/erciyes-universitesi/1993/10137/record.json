@@ -1,0 +1,42 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [],
+  "date_evidence": [
+    [
+      "1993-04-19",
+      "19.04.1993",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "1995-12-15",
+      "RG-15/12/1995-22494",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-15/12/1995-22494",
+  "first_law": null,
+  "gazette": "21557",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1995-12-15",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Erciyes Üniversitesi",
+  "issuer_slug": "erciyes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/erciyes-universitesi/1993/10137",
+  "published": "1993-04-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10137&MevzuatTertip=5",
+  "source_bytes": 28355,
+  "source_id": "8.5.10137",
+  "source_sha256": "efe1771d831932e3d0514553fec21fb04b372b63082acdf9bce0d99257786320",
+  "text_status": "current-consolidated",
+  "title": "ERCİYES ÜNİVERSİTESİ TÜRK DÜNYASI ARAŞTIRMALAR MERKEZİ (TÜDAM) YÖNETMELİĞİ",
+  "university_id": 192,
+  "word_count": 953
+}

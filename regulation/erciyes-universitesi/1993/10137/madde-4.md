@@ -1,0 +1,2 @@
+Müdür:
+Madde 4- Erciyes Üniversitesi Türk Dünyası Araştırmaları Merkezi Müdürü, Erciyes Üniversitesinde çalışan kadrolu öğretim üyeleri arasından 3 yıl için Üniversite Rektörü tarafından atanır. Süresi dolan müdür yeniden atanabilir. Müdür, kendisine yardımcı olmak üzere Erciyes Üniversitesi öğretim üyeleri arasından 3 yıl için kendisine bir yardımcı atayabilir. Müdür Yardımcısı, Merkez Müdürünün yokluğunda müdüre vekalet eder.
