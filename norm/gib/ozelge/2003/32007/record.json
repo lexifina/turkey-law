@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5424-2-02-",
+  "source_id": 32007,
+  "date": "2003-01-16",
+  "title": "Mal bedeli ve katma değer vergisi tutarlarının toplamı için $ cinsinden düzenlenen senetlerin ödenmesi sırasında ortaya çıkan vade farkı mahiyetindeki kur farkına ilişkin katma değer vergisinin kur farkı tutarına iç yüzde oranı uygulanmak suretiyle hesapl",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32007",
+  "source_sha256": "ba0e5829607721dd5bb1905fac8170ab8db133bee5a5f2d51acb062c0005b579",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
