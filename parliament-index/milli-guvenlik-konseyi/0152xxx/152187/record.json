@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 152187,
+  "assembly": "Milli Güvenlik Konseyi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "1318 Sayılı Finansman Kanununun Taşıt Alım Vergisine İlişkin Maddelerinde Değişiklik Yapılmasına Dair Kanun Tasarısı Hakkında (1/48)",
+  "title": "1318 Sayılı Finansman Kanununun Taşıt Alım Vergisine İlişkin Maddelerinde Değişiklik Yapılmasına Dair Kanun Tasarısı Hakkında (1/48)",
+  "first_sitting_date": "1980-11-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 19,
+      "sitting_date": "1980-11-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c001/mgk_01001019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c001/mgk_01001fih.pdf",
+      "pages": [
+        "307:316"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=MGK&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 1,
+      "sitting": 20,
+      "sitting_date": "1980-11-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c001/mgk_01001020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c001/mgk_01001fih.pdf",
+      "pages": [
+        "324:330"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=MGK&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=964&v_gelecek_sayfa=401&v_kullanici_id=27484962",
+  "source_sha256": "f141bb10769d6b59174987dbe69a2f898daac1bc795caa03f8682bfdb54e6640",
+  "in_force": "1980-11-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
