@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2846",
+  "year": 1935,
+  "title": "Posta, Telgraf ve Telefon Umum Müdürlüğü 1935 malî senesi bütçe Kanununa ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-11-22",
+  "gazette_issue": "3163",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3163.pdf",
+  "source_sha256": "d4fd112b5778cfea54736437e0be2c3d58dfdf9baa1173103fd59cc547808328",
+  "text_sha256": "efa736591869441b48599615de5ff3884bf065d735bd3d1b2057b752e67bcc72",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      54,
+      74
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602846.pdf",
+    "source_sha256": "aab917a85dd05335980dc729486cd820b6e1d0e6e6465bf44678aa2c45a42275",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9223,
+    "bag": 0.812,
+    "kd_coverage": 0.9841,
+    "kd_body_compared": 0.9118,
+    "rg_words": 71,
+    "kd_words": 68,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
