@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5360",
+  "year": 1949,
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı Kanuna bağlı 1 sayılı cetveli değiştiren 4607 sayılı Kanuna bağlı 2 sayılı cetvelde değişiklik yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-04-13",
+  "gazette_issue": "7181",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7181.pdf",
+  "source_sha256": "f5c3dbd0bd1def7e111a548cdb29a14a6fbb6ff725df7d727bf4800cfb3293ba",
+  "text_sha256": "5d39e82472c90d9761536276cafdd7f7a334f08b3d8126312b37cf29c57c2a15",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      22
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105360.pdf",
+    "source_sha256": "ddef8d750daa1bac90f4700f5c4715de6d9b410977a76fc9796c021509e6ca6f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9106,
+    "bag": 0.9079,
+    "kd_coverage": 0.9605,
+    "kd_body_compared": 0.9367,
+    "rg_words": 78,
+    "kd_words": 79,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
