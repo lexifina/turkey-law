@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "80",
+  "decision_date": "2002-12-30",
+  "title": "Doğal gaz piyasası ile ilgili tarifeler hakkında",
+  "resmi_gazete_date": "2002-12-31",
+  "resmi_gazete_number": "24980",
+  "categories": [
+    "Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=SanvSZrvzwU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=SanvSZrvzwU="
+  ],
+  "source_sha256": "6516278e5a06e61b5262b184b7548425a75a7f659f17673daf1b8ee0aea4ac4b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7233,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2002-12-30",
+  "law_text_complete": false
+}
