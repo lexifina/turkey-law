@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8796",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 35)",
+  "number": "8796",
+  "issuer": "Gümrük Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2005/8796",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8796&MevzuatTertip=5",
+  "source_sha256": "f45f21f35eb5cfcc2cc7b2e21c56a8554c8e0067a4801460db1d96eb82be108e",
+  "source_bytes": 15102,
+  "published": "2005-01-28",
+  "gazette": "25710",
+  "in_force": "2005-01-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.01.2005); own commencement article: \"Bu Tebliğ 01/01/2005 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 01/01/2005 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 223,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
