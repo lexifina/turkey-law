@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4586",
+  "year": 1944,
+  "title": "Ankara Belediyesi için İsviçre'den satın alınacak otobüslere müteallik Anlaşmayla esas olan mektupların 5. numarasında derpiş olunan müddetin 30 Haziran 1943 tarihine kadar uzatılması hakkında kanun",
+  "adopted": "1944-06-12",
+  "adopted_as_published": "12/06/1944",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "17.06.1944 No: 5733",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604586.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 26",
+  "committee_reports": [
+    {
+      "label": "TBMM 143 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011069ss0143.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 7,
+      "kayit_no": 90213,
+      "title": "Ankara Belediyesi için İsviçre'den satın alınacak otobüslere müteallik Anlaşmayla esas olan mektupların 5. numarasında derpiş olunan müddetin 30 Haziran 1943 tarihine kadar uzatılması hakkında kanun",
+      "adopted_as_published": "12/06/1944",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604586.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 143 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011069ss0143.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 68,
+          "sitting_date": "1944-06-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011fih.pdf",
+          "pages": [
+            "10"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 69,
+          "sitting_date": "1944-06-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011069.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011fih.pdf",
+          "pages": [
+            "29"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 71,
+          "sitting_date": "1944-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011fih.pdf",
+          "pages": [
+            "40:45"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "07e06d74fa5f53c8982c760a272083eab8a1bed0021118d504aac8eab397d5e7"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "07e06d74fa5f53c8982c760a272083eab8a1bed0021118d504aac8eab397d5e7",
+  "issuer": "TBMM",
+  "in_force": "1944-06-12",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 12/06/1944; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
