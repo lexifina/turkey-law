@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "183",
+  "year": 1960,
+  "title": "Memurların tahsil müesseselerinde talebe olamayacaklarına dair 4007 sayılı Kanun ile bu kanunun birinci maddesinin değiştirilmesi hakkında 4214 sayılı Kanunun yürürlükten kaldırılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-12-30",
+  "gazette_issue": "10694",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10694.pdf",
+  "source_sha256": "9ed03b5a65456c358f909a8b23a63cd53a7e97f6f14ec3f3426956536e65a9d2",
+  "text_sha256": "a8b55dd61a071e940fcc764047c8c5f230b1a46e130d1cae6905cbacd7920c22",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      520,
+      532
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300183.pdf",
+    "source_sha256": "e5b449cec59b49a125eff1dd3cbb12ab2f266299ccd02a8bf2d1b9b48efc1b89",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9623,
+    "bag": 0.8525,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8971,
+    "rg_words": 61,
+    "kd_words": 68,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
