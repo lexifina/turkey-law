@@ -1,0 +1,3 @@
+Müdür
+Madde 4- Araştırma ve Uygulama Merkezi Müdürü, Rektör tarafından üç yıl süre ile atanan bir öğretim elemanıdır. Süresi biten müdür yeniden seçilebilir. Müdür kendisine üç yıl için bir yardımcı seçebilir. Müdürün görevi sona erince yardımcısının görevi de kendiliğinden sona erer.
+Araştırma ve Uygulama Merkezi Müdürü yürütme amiridir. Müdür Yönetim Kuruluna Başkanlık eder. Çalışmaların düzenli bir şekilde yürümesini sağlar. Müdür geçici olarak görevden ayrıldığında yardımcısı ona vekalet eder . Yardımcısı yoksa veya mazeretli ise yönetim kurulu üyelerinden birini vekil olarak bırakır . Göreve vekalet 6 aydan fazla sürerse yeni bir müdür atanır.
