@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5513-311/02085",
+  "source_id": 31424,
+  "date": "1997-01-20",
+  "title": "Deniz taşımacılığı işi ile iştigal etmekte olan mükellefin, işletmesinde kullanılmak üzere imal edeceği yatın imal ve inşaası ile ilgili olarak satın alacağı mal ve hizmetlerin faturaları kendi adına düzenlenmek ve imal edilecek yat için kullanılmak şartı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31424",
+  "source_sha256": "910faa6d185183ebdc7cd0965aced3a38e1b1ce9eaf20cb122a5691859ab53fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
