@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5517-1651/10367",
+  "source_id": 31961,
+  "date": "1998-03-18",
+  "title": "Üniversite hastanelerinin kuruluş amaçlarına uygun teslim ve hizmetlerinin KDV'den istisnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31961",
+  "source_sha256": "576fd4532200106e2472ec6f97b826e9b213dce3cbf83643ae1678e494b78a10",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
