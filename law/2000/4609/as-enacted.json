@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4609",
+  "year": 2000,
+  "title": "Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun 47nci Maddesinde Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2000-12-02",
+  "gazette_issue": "24248",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2000/12/20001202.htm",
+  "source_sha256": "2d012713e7406c01dd450dc7c439b3cc43526b6f9371ac1c1d859f7b7b66dcd5",
+  "text_sha256": "5248f2c2dc4abdd497742e0abd3ac7aa174e3d7997b9757c94340f17b637f74b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2000/12/02/24248-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2000/12/20001202.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
