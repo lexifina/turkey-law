@@ -1,0 +1,67 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 389736,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Askeri Yargıtay hakkında kanun tasarısı (1/613)",
+  "title": "Askeri Yargıtay hakkında kanun tasarısı (1/613)",
+  "first_sitting_date": "1972-02-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 41,
+      "sitting_date": "1972-02-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c021/mm__03021041.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c021/mm__03021fih.pdf",
+      "pages": [
+        "117"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 58,
+      "sitting_date": "1972-03-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c023/mm__03023058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c023/mm__03023fih.pdf",
+      "pages": [
+        "106"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 84,
+      "sitting_date": "1972-05-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024084.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024fih.pdf",
+      "pages": [
+        "419"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 96,
+      "sitting_date": "1972-06-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024096.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024fih.pdf",
+      "pages": [
+        "868"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2501&v_kullanici_id=27484850",
+  "source_sha256": "592968d76d23b1c1f59fa2ea43a92ad79697c53390fd19c8a43c12266fe9b8ae",
+  "in_force": "1972-02-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
