@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-04-01",
+  "issue": "25066",
+  "edition": "regular",
+  "item": 19,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-1",
+  "title": "B.Çekmece İlçesi Beylikdüzü Belediye Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030401-3-1.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (26 = 26)",
+  "ilan_codes": [
+    "7223/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030401-3-1.htm",
+  "category_page_sha256": "6fffad3068925fe6b48e65f399e698bebf1245dba7678a4795960f49de3d13a2",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030401.htm",
+  "index_sha256": "6f62f4c36d2aa25df5c98d41658d5b111db9dd6e5bff28be0fd2b8ca04ea81ea",
+  "index_header": "1 Nisan 2003 ... Sayı : 25066",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
