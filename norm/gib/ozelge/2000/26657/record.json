@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.44/4408-19/43869",
+  "source_id": 26657,
+  "date": "2000-09-25",
+  "title": "Basit usule tabi mükelleflerin kullanacakları belgeler ile zarfların basımı, dağıtımı, izlenmesi ve kayıtlarının tutulması işlemlerinin ilgili mesleki teşekküllerce yürütülmesi uygun görülmüştür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/26657",
+  "source_sha256": "678436722d37af994a3372a8e8a26581931d9742f208f9fe0ffcf75e5bacf58d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
