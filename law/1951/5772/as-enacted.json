@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5772",
+  "year": 1951,
+  "title": "Millî Piyango Teşkiline Dair Olan 3670 Sayılı Kanunun 7. ve 10. Maddelerinin Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-06-01",
+  "gazette_issue": "7823",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7823.pdf",
+  "source_sha256": "a11ee36fcf581694dcc13e20287f224c46b19c2937dd4f8395beea4544dc3b32",
+  "text_sha256": "6ebe872cbe0652feee9403514de0a5182f58490677452a92c2ac82ac65ae9692",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      45,
+      69
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305772.pdf",
+    "source_sha256": "6d50a0fb8bb0b06d187f8b1bf957669ddc9342135c0c70cee16065d4375c33ea",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9702,
+    "bag": 0.9363,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9873,
+    "rg_words": 158,
+    "kd_words": 158,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
