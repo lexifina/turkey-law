@@ -1,0 +1,51 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7448",
+  "year": 1960,
+  "title": "İstanbul Teknik Üniversitesi 1959 malî yılı Bütçe Kanununa bağlı (A/1) ve (A/2) işaretli cetvellerde değişiklik yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-02-29",
+  "gazette_issue": "10444",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10444.pdf",
+  "source_sha256": "e669f1779431502e8c54db5252813b3fbcd5793045ac8c6bb7b48176a164d8f7",
+  "text_sha256": "cd2c6298680045967260676d0ab5b1ad559c13b67aa8d5b881172d71f6af22a6",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      1530,
+      1536
+    ],
+    [
+      1525,
+      1527
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [5] (no text layer)",
+    "tesseract_pages": [
+      5
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/kanuntbmmc042/kanuntbmmc04207448.pdf",
+    "source_sha256": "5f7c062cb19137cbc5faaae8135c033e2f9ba07b527e45bba7370852ce7c8d00",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9717,
+    "bag": 0.8806,
+    "kd_coverage": 0.9701,
+    "kd_body_compared": 0.5929,
+    "rg_words": 67,
+    "kd_words": 113,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
