@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3441",
+  "year": 1938,
+  "title": "Yabancı memleketlere gönderilecek memurların harcırahları hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-06-25",
+  "gazette_issue": "3943",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3943.pdf",
+  "source_sha256": "8889feb1942ea9b6eac1f9d0eac7f23fccab0ed315aca4e05a816bf533910a53",
+  "text_sha256": "9b9b6b3e99d58722c18a39ad07802016d33e1e4a5f185658d548505569dd7633",
+  "text_status": "ocr",
+  "pages": [
+    20
+  ],
+  "line_span": [
+    [
+      6222,
+      6269
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803441.pdf",
+    "source_sha256": "099069d736bc08907eacc614e41ab0b0a18a284d1b5518e7f47d1f75c6b628fa",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9798,
+    "bag": 0.9135,
+    "kd_coverage": 0.9963,
+    "kd_body_compared": 0.9852,
+    "rg_words": 265,
+    "kd_words": 271,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
