@@ -1,0 +1,76 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 105860,
+  "assembly": "TBMM",
+  "term": 5,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Maliye Vekâleti teşkilâtı ve vazifeleri hakkında (1/173)",
+  "title": "Maliye Vekâleti teşkilâtı ve vazifeleri hakkında (1/173)",
+  "first_sitting_date": "1935-05-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 25,
+      "sitting_date": "1935-05-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003025.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003fih.pdf",
+      "pages": [
+        "114"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 37,
+      "sitting_date": "1935-06-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c004/tbmm05004037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c004/tbmm05004fih.pdf",
+      "pages": [
+        "135",
+        "195"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 41,
+      "sitting_date": "1935-10-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005041.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005fih.pdf",
+      "pages": [
+        "40",
+        "41"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 60,
+      "sitting_date": "1936-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011fih.pdf",
+      "pages": [
+        "26",
+        "46:47",
+        "64:87",
+        "112:140",
+        "332:344",
+        "349",
+        "369:372"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d70cb9a6ef8f59dd4d5115c7dc7bc0537c4773fd1ca49c120ff908ee5d2a48bd",
+  "in_force": "1935-05-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
