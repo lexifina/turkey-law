@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 63794,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Niğde Mebusu Necip Bilge ve Kayseri Mebusu Mehmet Özdemir'in, Köy Kanununun 28 ve bu kanuna ek 5672 sayılı Kanunun 1 ve 2. maddelerinin değiştirilmesi hakkındaki kanun teklifine dair (2/453)",
+  "title": "Niğde Mebusu Necip Bilge ve Kayseri Mebusu Mehmet Özdemir'in, Köy Kanununun 28 ve bu kanuna ek 5672 sayılı Kanunun 1 ve 2. maddelerinin değiştirilmesi hakkındaki kanun teklifine dair (2/453)",
+  "first_sitting_date": "1953-02-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 48,
+      "sitting_date": "1953-02-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c020/tbmm09020048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c020/tbmm09020fih.pdf",
+      "pages": [
+        "546"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 74,
+      "sitting_date": "1953-04-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c021/tbmm09021074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c021/tbmm09021fih.pdf",
+      "pages": [
+        "554"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=1101&v_kullanici_id=27484171",
+  "source_sha256": "7229cd976d4e8f5d817581035fbbbe717008dd1b28fd2a14f9d619d52b3b1c99",
+  "in_force": "1953-02-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
