@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.7175",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIMDA KENDİ ADINA VE HESABINA ÇALIŞANLAR SOSYAL SİGORTALAR KANUNU KAPSAMINDA TARIMSAL FAALİYETTE BULUNANLARIN TESPİT, TESCİL VE TAKİBİ HAKKINDA YÖNETMELİK",
+  "number": "7175",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2004/7175",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=7175&MevzuatTertip=5",
+  "source_sha256": "b5b01ee102c790da53bbb2d775c74bba7b0aaed1c4d3d18a3d0fb567aed2e6c5",
+  "source_bytes": 18691,
+  "published": "2004-09-16",
+  "gazette": "25585",
+  "in_force": "2004-09-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.09.2004); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 894,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,4 @@
+Sigortalı Sayılanlar
+Madde 5 — Herhangi bir işverene hizmet akdi ile bağlı olmaksızın kendi adına ve hesabına tarımsal faaliyette bulunanlardan, bu Yönetmeliğin 6 ncı maddesi kapsamı dışında kalanlar sigortalı sayılırlar. Ancak, ilk tescil tarihinde 58 yaşını dolduran kadınlar ile 60 yaşını dolduran erkekler istekleri halinde sigortalılık kapsamına alınırlar.
+Sigortalı olmak için tarımsal faaliyet sonucu bir gelir elde edilmesi şart olmayıp fiilen tarımsal faaliyette bulunulması yeterlidir.
+Mülk veya hayvan sahibinin elde edilen üründen belli bir pay almak veya kiralamak suretiyle, mülkünden veya hayvanından başkalarının yararlanmasına izin vermesi, bu Yönetmelik kapsamında ortaklık olarak kabul edilir ve mülk veya hayvan sahibi ile bunlardan yararlananların her biri tarımsal faaliyette bulunanlar kapsamında değerlendirilir.

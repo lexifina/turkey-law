@@ -1,0 +1,3 @@
+Muhtarların Bildirme Yükümlülüğü
+Madde 9 — Köy ve mahalle muhtarları, Kanuna göre sigortalı sayılanları sigortalılıklarının başladığı tarihten, sigortalılığı sona erenleri ise sigortalılıklarının sona erdiği tarihten itibaren en geç üç ay içinde Kuruma bildirirler.
+İl müdürlükleri de, üçer aylık dönemler halinde kendi görev alanında bulunan muhtarlardan Kanun kapsamında tarımsal faaliyete başlayanlar ile tarımsal faaliyetleri sona erenlere ait kayıtları isterler. Muhtarlar, istenilen bilgileri en geç bir ay içinde il müdürlüklerine vermek zorundadırlar. İl müdürlüğünce istenilen kayıtları süresi içinde vermeyen veya eksik ve yanlış bilgi veren muhtarlar, bağlı oldukları valilik veya kaymakamlığa bildirilir.

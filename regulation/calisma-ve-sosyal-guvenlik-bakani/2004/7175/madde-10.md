@@ -1,0 +1,2 @@
+Kurum ve Kuruluşların Belge İsteme Zorunluluğu
+Madde 10 — Kamu kurum ve kuruluşları, belediyeler, kamu iktisadi teşebbüsleri, esnaf kefalet kooperatifleri, tarım kredi kooperatifleri ve bankalar, bu Yönetmeliğe göre tarımsal faaliyette bulunanların, ruhsat, ihale ve kredi işlemlerinde; 2926 sayılı Kanun veya diğer sosyal güvenlik kanunları kapsamında sigortalı olduklarını gösterir belgeyi istemek ve belge istenenler de bu belgeyi ibraz etmek zorundadırlar.
