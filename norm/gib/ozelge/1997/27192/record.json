@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6685-3745/33985",
+  "source_id": 27192,
+  "date": "1997-08-13",
+  "title": "Emlak vergisi beyannamesini ek süreden sonra ve idarece tarhiyata başlanılmadan önce verilmesi halinde vergi ziyaına sebebiyet verilmiş olacağından, mükellefiyetin başlangıç yılı için kesilecek usulsüzlük cezası kusur cezası ile karşılaştırılacak ve mikta",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/27192",
+  "source_sha256": "41e4bb63028ead9d17962f6b06e39c92f0959a0f8f0052d6bf31f0dc20bc7a0b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
