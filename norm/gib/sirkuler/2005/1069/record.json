@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "SM, SMMM, YMM-2 /2005-1 / Tasdik Raporu",
+  "source_id": 1069,
+  "date": "2005-01-04",
+  "title": "Meslek Mensuplarının Serbest Bölgelerdeki faaliyetleri hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/sirkuler/1069",
+  "source_sha256": "ae6bb01420a224fcfd1c177c9de56c6feb325414420f7b40829eaf801623f482",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
