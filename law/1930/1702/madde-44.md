@@ -1,0 +1,1 @@
+Madde 44 – 439 numaralı Orta Tedrisat Muallimleri Kanunu ile maarif teşkilatına mütedair 789 numaralı kanunun ve 842 numaralı ilk mektep ve muallim ve muavinlerine ait kanunla diğer kanunların bu kanun maddelerine uymayan hükümleri mülgadır.

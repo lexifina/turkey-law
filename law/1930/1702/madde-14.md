@@ -1,0 +1,1 @@
+Madde 14 – Uhdelerinde başmuallimlik gibi idari vazife bulunan ilk mektep muallimleri Teadül Kanununun 5 ve 789 numaralı Maarif Teşkilatı Kanununun 13 üncü maddesi muacibince ayrıca bir tahsisat alırlar.

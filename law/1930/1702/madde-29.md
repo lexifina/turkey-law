@@ -1,0 +1,1 @@
+Madde 29 – İlk mektepe muallimlik etmekte aczi üç teftiş raporile sabit olan ilk mektep mualimi tekaüde sevkedilir.Kezalik bir mektep ve sınıfta inzibatı muhafaza edemediği için iki defa başka mektebe tahvil edilen orta tedrisat muallimi en son nakledildiği mektepte de idaresizliği ve aczi tahakkuk ettiği takdirde tekaüde sevkolunur.(1)

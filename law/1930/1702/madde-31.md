@@ -1,0 +1,1 @@
+Madde 31 – Arkadaşlarına, iftirada bulunan müdür, muallim, başmuallimlerle ilk tedrisat müfettişleri,iftiraları hangi nevi cezayı icap ettirecek suç ise o suçun cezasından bir derece ağırı ile cezalandırırlar.

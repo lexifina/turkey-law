@@ -1,0 +1,1 @@
+Madde 4 – İlk vazifeye stajyer olarak başlanır. Staj senesi sonunda ehliyet ve tedris kabiliyeti, talim sicilli ve teftiş raporu ile sabit olan stajyerler muallim unvanını alırlar. Meslekte kıdem, muallim unvanı alındığı tarihten hesap edilir. Muallim unvanı alınmadıkça terfi edilemez ve iki sene zarfında muallim unvanını alamıyan stajyerlerin vazifesine nihayet verilir.

@@ -1,0 +1,1 @@
+Madde 17 – Kanunun neşri tarihinde muallimlerin esas vazifeleri itibariyle bulundukları derecedeki müktesep hakları mahfuzdur.Ancak bulundukları dereceler kıdemlerine nispetle yüksek olanlar o derecenin kıdemini dolduruncaya kadar terfi edemezler.

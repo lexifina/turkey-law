@@ -1,0 +1,3 @@
+Muallimlerin taltifi
+Madde 18 – (Değişik: 25/7/1931 - 1880/3 md.)
+İlk ve orta tedrisat muallimlerinden emsali arasında hususi kıymeti haiz orijinal bir eser meydana getiren muallimler otuz altı ve kırkıncı maddelerde yazılı meclis ve komisyon mazbatası üzerine bir sene kıdem zammı alırlar.Ancak bu eserlerin orijinal ve kıymeti mahsusayı haiz olduğu evvelce Darülfünunca veya bir hey'eti ilmiyece tasdik edilmiş olmak şarttır. Vazifelerini mütadin fevkında yüksek bir muvaffakiyetle ifa ettikleri teftiş raporla, talim sicilleri ve maarif ve mektep müdürlerinin bu husustaki mütalaalariyle sabit olanlar keza 36 ncı ve 40 ıncı maddelerde zikredilen meclis ve komisyon mazbatası üzerine takdirname verilmek veya bir seneye kadar kıdemlerine zammolunmak suretiyle taltif edilirler.
