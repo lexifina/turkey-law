@@ -1,0 +1,3 @@
+Hesapların incelenmesi
+Madde 30 – Para, pul, değerli kağıt, ambar ve emanet eşya hesaplarının incelenmesi, denetleme dönemine devreden ve bu dönemde gelen, ödenen ve teslim edilenlere ait olarak defter, makbuz, dosya ve diğer kayıtların, ilgili daire ve kuruluşlara bu konularda sorulanlara alınan cevapların birbirleriyle karşılaştırılması yoluyla yapılır.
+Açık ve ilgilisi hakkında işlem yapılmasını gerektirecek aksaklık veya yolsuzluk görülmesi halinde, Kurul Başkanlığına, denetleme dönemi öncesi hesaplarının yeniden inceleme konusu yapılması yolunda teklifte bulunulur ve alınacak emre göre hareket olunur.

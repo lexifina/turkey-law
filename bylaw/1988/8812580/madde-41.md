@@ -1,0 +1,3 @@
+Tavsiyeler
+Madde 41 – Müfettişlerin, teftiş ve denetlemelerde tesbit edilmiş olan aksaklıklara ve bunların düzeltilmesine ait olan ve Kurul Başkanlığınca da uygun bulunan görüşleri, tavsiyeler listesi adı altında ilgililere tebliğ edilmek üzere mahalline gönderilir. Bunların yerine getirilip getirilmediği yetkililerce takip edilir. Bir sonraki teftiş ve denetlemede tavsiyelere uyulup uyulmadığına bakılır. Uyulmamışsa ve bu, haklı sebeplere dayanıyorsa, durum raporda belirtilir; aksi halde sorumlular hakkında soruşturmaya geçilir.
+Yargı yetkisinin kullanılmasına dair hususlar tavsiye konusu edilemez.
