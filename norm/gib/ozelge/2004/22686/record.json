@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4020-127/53422",
+  "source_id": 22686,
+  "date": "2004-11-11",
+  "title": "Yaşlılık aylığı bağlanıp ticari veya serbest meslek kazancı dolayısıyla mükellef olanların, 1479 Sayılı Yasanın Ek 20. Maddesine göre zorunlu olarak ödemeleri gereken sosyal güvenlik destekleme primlerini,  ticari veya mesleki kazancın tespitinde indirim ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22686",
+  "source_sha256": "d2a8a7947797d9b2e483bd5e15c6e1b087c391ecbdfa13d6d81d3b9274fccaba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
