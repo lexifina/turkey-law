@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-10/2004-8/Enflasyon Düzeltmesi Uygulaması-7",
+  "source_id": 831,
+  "date": "2004-08-09",
+  "title": "2004 yılı içinde münhasıran sürekli olarak işlenmiş altın, gümüş alım-satımı ve imali ile iştigal eden mükelleflerin enflasyon düzeltmesi yapıp yapmaması ile ilgili",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/831",
+  "source_sha256": "c3dec27299877030be98bc9edf2c063618776ec108272463f34de73bd56c676f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
