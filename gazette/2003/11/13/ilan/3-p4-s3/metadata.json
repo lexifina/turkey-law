@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-11-13",
+  "issue": "25288",
+  "edition": "regular",
+  "item": 3,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "Ardavuç Orman İşletme Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031113-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (56 = 56)",
+  "ilan_codes": [
+    "44558/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031113-3-4.htm",
+  "category_page_sha256": "ceb9cb4929b2b170ca30f00b64312d45a767110e697a76c8925e866baefcf79a",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031113.htm",
+  "index_sha256": "3d2abd5305ca4cb98dd06b3287b3e27a50d43b5e3d37920db137cb8d2df65533",
+  "index_header": "notices index header \"luş : 7 Ekim 1920 13 Ekim 2003 PERŞEMBE Sayı : 25288 İLÂN BÖLÜ\" (date misprinted); issue 25288 confirmed by the daily issue index header \"13 Kasım 2003 ... Sayı : 25288\" (https://www.resmigazete.gov.tr/eskiler/2003/11/20031113.htm)",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
