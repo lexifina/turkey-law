@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4722",
+  "year": 1945,
+  "title": "Türkiye-Amerika Ticaret Anlaşmasına bağlı bir numaralı listede gümrük resmi konsolide edilmiş bulunan 695 D. Pozisyonundaki maddelere ait gümrük resminin 2, 75 kuruşa çıkarılmasına mukabil 695 E. Pozisyonuna giren maddelere müteallik gümrük resminin 3, 30 kuruşa indirilmesi hakkındaki Amerika Hükümetiyle teati edilen mektupların onanmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-05-04",
+  "gazette_issue": "5997",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5997.pdf",
+  "source_sha256": "a6894a6e35dfb06ee1573c508b841637b45eb600cfb6fa64593e838aa9761388",
+  "text_sha256": "2f6f41e35e23f6f79b673d01f5a8bb8ec5079b1c9fcf0e6f8eb819458a423d6a",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      156,
+      238
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704722.pdf",
+    "source_sha256": "93937df4b54bd26aa20c695494afed9946a5bd35a058c65e431a2dda146368ea",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9403,
+    "bag": 0.8638,
+    "kd_coverage": 0.9791,
+    "kd_body_compared": 0.9791,
+    "rg_words": 548,
+    "kd_words": 573,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
