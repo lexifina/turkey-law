@@ -1,0 +1,2 @@
+Yurt İçi ve Yurt Dışı İlişkiler Dairesi Başkanlığının Görevleri
+Madde 9 – Yurt İçi ve Yurt Dışı İlişkiler Dairesi Başkanlığı, Yüksek Kurumun amaçları ve çalışma konularıyla ilgili çalışmalar yapan Yurt içi ve dışındaki kurum ve kuruluşlarla gerçek ve tüzel kişileri belirler, çalışmalarını takip eder, Yüksek Kurumun bunlarla münasebetlerini düzenler, Yüksek Kurumun yayın ve tanıtma çalışmalarını yürütür.

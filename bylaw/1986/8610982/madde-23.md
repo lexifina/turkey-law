@@ -1,0 +1,2 @@
+Bilgi ve Belge Talebi
+Madde 23 – Yüksek Kurum ve Bağlı kuruluşlar, Kanunun verdiği görevleri yerine getirmek amacıyla çalışmaları için gerekli gördükleri bilgi ve belgeleri ilgili mevzuat hükümleri çerçevesinde bütün kamu kurum ve kuruluşlarından ve bunların yurt dışı teşkilatlarından, üniversitelerden, derneklerden, eğitim, bilim, kültür ve sanat kurum ve kuruluşlarından, araştırma merkezlerinden, diğer hakiki veya hükmi şahıslardan isteyebilirler.
