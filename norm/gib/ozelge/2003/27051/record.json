@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-64/018114",
+  "source_id": 27051,
+  "date": "2003-04-30",
+  "title": "Taşocağı sahası için amortisman uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27051",
+  "source_sha256": "8e37c10febb0e62b3956394854dca86239ab13228a545484c004f4559d39fac8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
