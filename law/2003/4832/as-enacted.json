@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4832",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Hindistan Cumhuriyeti Hükümeti Arasında Suçluların İadesi Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-03-25",
+  "gazette_issue": "25059",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030325.htm",
+  "source_sha256": "51f437ab47a30b75db6429f636f43c84831bec1a77dbf20e58e3f65bc1500501",
+  "text_sha256": "c2597021ff2fd9d2124cba811cb7f5799ac339bb1252a465034a7f7b882d85c9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/03/25/25059-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030325.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
