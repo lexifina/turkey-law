@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2714",
+  "source_id": 38502,
+  "date": "2003-07-22",
+  "title": "KDV İadesi Tasdik Raporlarına göre iade talep edilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38502",
+  "source_sha256": "f4addf26753b692bb90b6bb37d3627fc2d80ae57bfd5bfcd47143f00d8203e61",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
