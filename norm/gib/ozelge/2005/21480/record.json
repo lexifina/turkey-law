@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4213-1897/761",
+  "source_id": 21480,
+  "date": "2005-01-07",
+  "title": "Site yönetimine bağlı olarak çalıştırılan güvenlik görevlisine yapılan ücret ödemelerinin gelir vergisinden istisna edilmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21480",
+  "source_sha256": "02aabb5142a17b6f1414c9a43b17d49bbe8d30d808dc700e391fc632f24399b9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
