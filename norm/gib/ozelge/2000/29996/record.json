@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5301-2778/13477",
+  "source_id": 29996,
+  "date": "2000-03-28",
+  "title": "Belediyelerin kamulaştırma suretiyle iktisap ettiği gayrimenkullerin istimlak edilmişse vergi uygulanmayacaktır.Fakat, istimlak edilen gayri menkul iktisadi işletmenin aktifine kayıtlı ve envanterine dahil bulunuyorsa, intikal katma değer vergisine tabidi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29996",
+  "source_sha256": "b5d0a1299962bc72d9f7b54eba3f1f21916d2357955f1e61d9dd7fcec86619ca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
