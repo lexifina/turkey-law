@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-06-14",
+  "issue": "25492",
+  "edition": "regular",
+  "item": 15,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Amasya İli Özel İdaresi İl Daimi Encümeninden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040614-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (24 = 24)",
+  "ilan_codes": [
+    "7500/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040614-3.htm",
+  "category_page_sha256": "3f8335986912062938872adf836edeb65826a331b0c29c4b02e238c6805a4313",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040614.htm",
+  "index_sha256": "351b91b813270f052fe1ee38095574820dce87cbd17b9789a4a0fb1f35e555d7",
+  "index_header": "14 Haziran 2004 ... Sayı : 25492",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
