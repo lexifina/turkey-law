@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6650",
+  "year": 1956,
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı Kanuna bağlı (1) sayılı cetvel ile tadil ve eklerinin Adliye Vekâleti kısmında değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-02-07",
+  "gazette_issue": "9227",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9227.pdf",
+  "source_sha256": "08dd87785c0a931b9101651cda8b9a56f779c97df74fa0ccf93cca68d89a17da",
+  "text_sha256": "9216d735f8f2ec2b7112f88fad68abe5187a967725fe1df1a13989ccabe58ed3",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      24
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806650.pdf",
+    "source_sha256": "cec9e7c196e82f88cc2b02b5d9da24c891164266c36d4b9a1fd764a7ac97b0d5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9525,
+    "bag": 0.9154,
+    "kd_coverage": 0.9792,
+    "kd_body_compared": 0.4077,
+    "rg_words": 106,
+    "kd_words": 233,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
