@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4236-1/45474",
+  "source_id": 37852,
+  "date": "2004-09-27",
+  "title": "5084 sayılı Kanun",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37852",
+  "source_sha256": "8f27ebcd2b5b16ee5c637b705b471b3705f9ba9ce57f9b6787f04f559de5f6f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
