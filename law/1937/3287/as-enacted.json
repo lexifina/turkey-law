@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3287",
+  "year": 1937,
+  "title": "Yalova kaplıcaları ile kaplıca bölgesinin idaresi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-12-25",
+  "gazette_issue": "3792",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3792.pdf",
+  "source_sha256": "b6e16db7f6e29d7bff25327b8e39ca67fa16b5db5497f63633412a2c61b24e9b",
+  "text_sha256": "4833eb100897aca96ede6d6f3408d6abc0e3ee4392f00c8442c45de483f3c052",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      1266,
+      1354
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803287.pdf",
+    "source_sha256": "6f437f7ab13dfe5195330570fb22d8b72cea4d295591a873d4bad84f3600596c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9821,
+    "bag": 0.9376,
+    "kd_coverage": 0.997,
+    "kd_body_compared": 0.9895,
+    "rg_words": 654,
+    "kd_words": 667,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
