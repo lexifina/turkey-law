@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5411",
+  "source_id": 38027,
+  "date": "2005-01-30",
+  "title": "Terminal İsletmeciligi A.Ş. tarafindan sunulacak VIP hizmetinden yurt dışında yararlanılmaması...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38027",
+  "source_sha256": "8edf14e18c3af2e89415f65e119fb6d7650c480db47140ab4af4e0d6bb3cbf13",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
