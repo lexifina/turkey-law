@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4596",
+  "year": 2000,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Arasında Sosyal Güvenlik Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2000-11-09",
+  "gazette_issue": "24225",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2000/11/20001109.htm",
+  "source_sha256": "157117e5d3f5bed7e9698582ea33d554da835a2696248dc00688cd0cb314563a",
+  "text_sha256": "b7bccf42fe61e527307f3030e60b2dbe08825395d62c5f27de9677a14e16cc33",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2000/11/09/24225-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2000/11/20001109.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
