@@ -1,0 +1,2 @@
+Madde 17 – İstihlak resmi verilmeden ticarete çıkarılan gerek Türkiye içinde yapılmış gerek dışardan getirtilmiş müstahzarlara vazıyed edilerek cezaen üç kat resmi ve tekerrürü halinde sahibinden başkaca yirmi beş liradan iki yüz liraya kadar hafif para cezası alınır.
+Kanunun onuncu maddesinde yazılı tahlil neticesinde saf ve formülüne muvafık olmadığı tebeyyün eden müstahzarlara dahi vaziyet olunarak yapılan muhakeme neticesinde yok edilir ve sahibinden elli liradan beşyüz liraya kadar ağır para cezası alınır ve tekerrürü halinde yapma veya sokma izni geri alınır.

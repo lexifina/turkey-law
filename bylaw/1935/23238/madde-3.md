@@ -1,0 +1,1 @@
+Madde 3 – Türkiye içinde bu müstahzarları yapan kurumlar ihtiyaç halinde mahalli malsandığına bir beyanname ile müracaat ederek ne nevi tıbbi veya ispençiyari müztahzara ne miktarda pul ilsak edeceğini bildirir. Malsandığı da beyannamede cins ve miktarı gösterilen pulları bedeli karşılığında alakadarlara verir.

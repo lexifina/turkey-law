@@ -1,0 +1,2 @@
+Madde 18 – Ruhsatsız olarak müstahzar yapıp satan veya sattıranlardan müstahzar yapmağa salahiyetli bulundukları takdirde elli liradan ikiyüz liraya kadar hafif para cezası ve müstahzar yapmağa salahiyetli olmadıkları takdirde hükmen iki yüz liradan beş yüz liraya kadar ağır para cezası alınır ve bu müstahzarlara vaziyet edilerek mahkemece yok edilmesine dahi karar verilir.
+Dışarıdan izinsiz olarak müstahzar sokup satan ve sattıranlar hakkında bu madde hükümleri aynen cari olmakla beraber ayrıca gümrük ve kaçakçılık kanunları hükümleri de tatbik olunur.

@@ -1,0 +1,4 @@
+Madde 6 – Dışardan gelen tıbbi ve ispençiyari müstahzarların gümrük muamelesi bittikten sonra 48 saat zarfında gümrük idaresi tarafından mahallin en büyük sıhhiye memuruna resmen haber verilmek suretiyle malların gümrükten çıkarılmasına müsaade olunur.
+Sıhhiye idaresine yazılacak yazıda çıkarılan malın cinsi, miktarı, getiren tüccarın adı ve adresi ve verilen pul miktarı gösterilir. Tüccarın elinde ısmarlama izin kağıdı varsa yazılan yazıda bu kağıdın tarih ve sayısiyle tüccarın adı ve adresi ve verilen pul miktarını göstermek yeter.
+Gümrük idaresinden alınan pulların, gümrük muamelesi bittikten en çok 48 saat sonra, tıbbi müstahzarları getiren tüccarın gümrük idaresine adres olarak gösterdiği yerde ve en büyük sıhhiye memuru tarafından gönderilecek bir memurun kontrolu altında zarflara yapıştırılması gereklidir.
+Pul yapıştırılmıyan müstahzarat satışa çıkarılamaz.

@@ -1,0 +1,1 @@
+Madde 2 – Türkiye içinde yapılanlarla dışarıdan getirtilenleri ayırt etmek için pullar, iki renkli ve bir, iki, üç ve beş kuruş değerinde olacaktır. Pulların şekilleri ve nevileri Maliye ve Sıhhat ve İçtimai Muavenet Bakanlıklarınca saptanır.
