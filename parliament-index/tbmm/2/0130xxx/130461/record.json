@@ -1,0 +1,70 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 130461,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Memlekette kuvvetli bir telsiz tesisatı vücuda getirilmek ve Ankara şehrinde merkezi batarya sisteminde telefon şebekesi yapılmak ve Ankara ile İstanbul arasında bir telefon hattı tesisiyle Posta ve Telgraf ve Telefon binası inşa edilmek üzere Posta ve Telgraf Müdüriyeti Umumiyesinin senei haliye bütçesine bir milyon lira tahsisatı munzamitası hakkında.",
+  "title": "Memlekette kuvvetli bir telsiz tesisatı vücuda getirilmek ve Ankara şehrinde merkezi batarya sisteminde telefon şebekesi yapılmak ve Ankara ile İstanbul arasında bir telefon hattı tesisiyle Posta ve Telgraf ve Telefon binası inşa edilmek üzere Posta ve Telgraf Müdüriyeti Umumiyesinin senei haliye bütçesine bir milyon lira tahsisatı munzamitası hakkında.",
+  "first_sitting_date": "1924-11-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 1,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c008/tbmm02008001.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c008/ehttbmm02008001.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c008/tbmm02008fih.pdf",
+      "pages": [
+        "1015"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 8,
+      "sitting_date": "1924-11-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c010/tbmm02010008.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c010/ehttbmm02010008.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c010/tbmm02010fih.pdf",
+      "pages": [
+        "281:284"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 41,
+      "sitting_date": "1925-01-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c012/tbmm02012041.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c012/ehttbmm02012041.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c012/tbmm02012fih.pdf",
+      "pages": [
+        "320:321"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 60,
+      "sitting_date": "1925-02-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c014/tbmm02014060.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c014/ehttbmm02014060.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c014/tbmm02014fih.pdf",
+      "pages": [
+        "139",
+        "157:162",
+        "189:190"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2766&v_gelecek_sayfa=801&v_kullanici_id=27483743",
+  "source_sha256": "b7da914399976986ec91daaf690b052f53cd0ee11e4d0889ccb362eef254c2b3",
+  "in_force": "1924-11-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
