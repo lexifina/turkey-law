@@ -1,0 +1,1 @@
+Madde 3 – İkinci maddede zikredilen tipler için tesbit edilen iplik numaralarının kontrol muayenelerinde +1 numaraya kadar tolerans kabul edilir. Ancak bu tolerans tayin edilen asgari metre murabbaı sıkletlerinin tenezülüne bir sebep teşkil edemez.

@@ -1,0 +1,1 @@
+Madde 16 – Bu Nizamname hükümlerine uygun olmayan kaput bezlerini imal eden fabrikalar 3018 sayılı kanunun cezai hükümleriyle cezalandırılır. Ancak işlenilen suçların bilerek yapıldığı tahakkuk ederse bu takdirde 1705 sayılı kanunun cezai hükümleri tatbik olunur.
