@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1749",
+  "year": 1931,
+  "title": "865 numaralı ticaret kanununun 386. maddesinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-02-28",
+  "gazette_issue": "1735",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1735.pdf",
+  "source_sha256": "998c01fba0bd95943de5ae6c5a7917e37d9eecfcc9bdce6814dfd59253e22d19",
+  "text_sha256": "c4fe72f11066ed65b185d07a4dca2275658c4641ae13ccfe3d03ba3d97dd9bc4",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      14,
+      89
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901749.pdf",
+    "source_sha256": "c69b282c3ca23761ab9af51a6ea0f1bddee14ee3f8759ab90022e9f82ea2724e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.968,
+    "bag": 0.8821,
+    "kd_coverage": 0.9769,
+    "kd_body_compared": 0.9635,
+    "rg_words": 213,
+    "kd_words": 219,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
