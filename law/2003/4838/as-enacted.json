@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4838",
+  "year": 2003,
+  "title": "Jandarma Teşkilat, Görev ve Yetkileri Kanununa Bir Madde Eklenmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-04-08",
+  "gazette_issue": "25073",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/04/20030408.htm",
+  "source_sha256": "b7b8ff065f41b812f5fc5fecfa104b80442d7acfea0f84ffc8b6a969479820db",
+  "text_sha256": "bf54731b6661337783f7cfe0f5ff2b5372fe256f510f13bced9edd6d83208792",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/04/08/25073-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/04/20030408.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
