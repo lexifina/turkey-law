@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2544",
+  "year": 1934,
+  "title": "Muvakkat kaza salahiyetile başka yerlere gönderilecek hâkimlere verilecek tahsisat kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-07-04",
+  "gazette_issue": "2743",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2743.pdf",
+  "source_sha256": "ae66b904bef2d4a846f3c87cb73b78740634f2208dd2af20c57f7bfcb7e4ad4b",
+  "text_sha256": "59471d8c61b1e1fc83f3a0bd8bde47cb3752aeeac1b2e29c62e56ced7181613a",
+  "text_status": "ocr",
+  "pages": [
+    8,
+    9
+  ],
+  "line_span": [
+    [
+      1904,
+      1904
+    ],
+    [
+      1851,
+      1882
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302544.pdf",
+    "source_sha256": "3f0b5c98eb729b146aeffaefb7fce25024975a1bbd39bec9adcb04486612652a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9237,
+    "bag": 0.8505,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9794,
+    "rg_words": 119,
+    "kd_words": 97,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
