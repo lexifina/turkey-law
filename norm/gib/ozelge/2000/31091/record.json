@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5211-103/15815",
+  "source_id": 31091,
+  "date": "2000-04-17",
+  "title": "Ltd.  Şirketin  ihracatçı  firmaya  yaptığı fason  işçilik hizmetinin,  ihraç kaydıyla  bir  teslim  olmadığından,  tecil-terkin uygulaması kapsamında değerlendirilip değerlendirilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31091",
+  "source_sha256": "ecd3322fdb64b2a758ae2b8f622c0a2f89d928a4b5cab178dba6fe18fd671841",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
