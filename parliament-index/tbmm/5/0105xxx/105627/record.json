@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 105627,
+  "assembly": "TBMM",
+  "term": 5,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Havayolları Devlet İşletme İdaresi 1934 yılı bütçesinden 6 024 liranın tenzilile yeniden açılacak fasla tahsisat olarak konulmasına dair",
+  "title": "Havayolları Devlet İşletme İdaresi 1934 yılı bütçesinden 6 024 liranın tenzilile yeniden açılacak fasla tahsisat olarak konulmasına dair",
+  "first_sitting_date": "1935-05-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 22,
+      "sitting_date": "1935-05-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003fih.pdf",
+      "pages": [
+        "1:4",
+        "291",
+        "298:299",
+        "304",
+        "324:327"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1318&v_gelecek_sayfa=1101&v_kullanici_id=27483909",
+  "source_sha256": "41f2e3b31b97cd6eee5a474d41dc0a801585076503b392a181a9e04bffc15ed4",
+  "in_force": "1935-05-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
