@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu yönetmelik Resmi Gazete’de yayımı tarihinden itibaren yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1988-01-24",
+      "24.01.1988",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu yönetmelik Resmi Gazete’de yayımı tarihinden itibaren yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "19704",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1988-01-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Atatürk Üniversitesi",
+  "issuer_slug": "ataturk-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ataturk-universitesi/1988/7524",
+  "published": "1988-01-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7524&MevzuatTertip=5",
+  "source_bytes": 20814,
+  "source_id": "8.5.7524",
+  "source_sha256": "38563df849cdb55e97f75a45f6cf2b0c64ec491af2ca20641bbd22006902388f",
+  "text_status": "as-enacted",
+  "title": "ATATÜRK ÜNİVERSİTESİ ÇEVRE SORUNLARI ARAŞTIRMA MERKEZİ MÜDÜRLÜĞÜ YÖNETMEMELİĞİ",
+  "university_id": 181,
+  "word_count": 566
+}
