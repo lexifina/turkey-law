@@ -1,0 +1,3 @@
+BOĞAZİÇİ ÜNİVERSİTESİ MAKRO EKONOMİ VE UYGULAMALI EKONOMETRİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+Kuruluş Amacı
+Madde 1-Boğaziçi Üniversitesi Rektörlüğü’ne bağlı olmak üzere bir Makro Ekonomi Ve Uygulamalı Ekonometri Uygulama Ve Araştırma Merkez’i kurulmuştur (bundan böyle Merkez olarak anılacaktır). Merkez, makro-ekonomi, ekonometri ve makro ve mikro uygulamalı ekonometri araştırmaları yapan bir birimdir. Merkez çerçevesinde ulusal ekonomi politikaları, bölgesel ve uluslararası ekonomi politikalarının koordinasyonuna konu teşkil eden makro ve mikro alanlarda ölçümsel ağırlıklı çalışmalar yapacaktır. Buna temel ve destek olarak, teorik makro-ekonomi ve ekonometri araştırmaları da Merkez kapsamındadır.

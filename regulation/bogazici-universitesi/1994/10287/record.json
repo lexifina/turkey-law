@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1994-07-23",
+      "23.07.1994",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21999",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1994-07-23",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Boğaziçi Üniversitesi",
+  "issuer_slug": "bogazici-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bogazici-universitesi/1994/10287",
+  "published": "1994-07-23",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10287&MevzuatTertip=5",
+  "source_bytes": 27365,
+  "source_id": "8.5.10287",
+  "source_sha256": "bee5d85b6bc2e15423f3a0112598b13ea0e9c889ab3adcee28e85f49f1d95b57",
+  "text_status": "as-enacted",
+  "title": "BOĞAZİÇİ ÜNİVERSİTESİ MAKRO EKONOMİ VE UYGULAMALI EKONOMETRİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 183,
+  "word_count": 682
+}
