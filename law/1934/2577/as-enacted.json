@@ -1,0 +1,51 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2577",
+  "year": 1934,
+  "title": "Dahiliye Vekâleti merkez teşkilât ve vazifeleri hakkındaki kanunun bazı maddelerinin tadiline ait kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-07-15",
+  "gazette_issue": "2752",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2752.pdf",
+  "source_sha256": "cace06c44038bcb68634fce607f38e5db026ec7e1ef69ca552545520616e8ffc",
+  "text_sha256": "81d481ba008a1f1d6ebdcf10b55b632f1acda730bd9f4e493138f97f8fa48e9f",
+  "text_status": "ocr",
+  "pages": [
+    4,
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      741,
+      874
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [4, 5, 6] (no text layer)",
+    "tesseract_pages": [
+      4,
+      5,
+      6
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302577.pdf",
+    "source_sha256": "a45706bdbe51f9175b38857324a9a09b2341864f6207f31f6fd5c051bab26a94",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9076,
+    "bag": 0.8964,
+    "kd_coverage": 0.9962,
+    "kd_body_compared": 0.9984,
+    "rg_words": 639,
+    "kd_words": 636,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
