@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2935-257-46-5940",
+  "source_id": 26658,
+  "date": "2005-03-07",
+  "title": "Tevsik zorunluluğu olmayan ödeme ve tahsilat yapabilecek kurum ve kuruluşlar.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26658",
+  "source_sha256": "3142da1426ab19b4d19f3783b3cbd46a4f026f788121ff63ba413482c88c96d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
