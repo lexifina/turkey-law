@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "OKC-2/2004-2",
+  "source_id": 1062,
+  "date": "2004-06-04",
+  "title": "Akaryakıt İstasyonu İşletmecilerinin Pompalarını Ödeme Kaydedici Cihazlara Bağlatmaları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/sirkuler/1062",
+  "source_sha256": "08fd6b0627b9b3135712b35d4a82990d68cf0160089491e993f7abb857588128",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
