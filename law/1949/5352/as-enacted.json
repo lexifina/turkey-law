@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5352",
+  "year": 1949,
+  "title": "Köy Enstitüleri Kanununun 9. maddesinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-03-18",
+  "gazette_issue": "7159",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7159.pdf",
+  "source_sha256": "0d5a9209c9105cdb80b222b40db1d45c4ae254efaf92f244fe0bce582a04f6ad",
+  "text_sha256": "aa501b60412f6147a26fd4d4f2d18d24bf8e3db8c04519a386cf27ee827f634d",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      37,
+      51
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105352.pdf",
+    "source_sha256": "88f830bcfce2bc624a908013cc4d58ddfa9890fbb5ec94126f98b9d5bf2d65ad",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9547,
+    "bag": 0.8682,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9697,
+    "rg_words": 65,
+    "kd_words": 66,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
