@@ -1,0 +1,4 @@
+Sicil amirinin yanındaki hizmet süresi
+Madde 9-Hakkında yıllık sicil düzenlenecek meslek mensubunun sicil amiri yanında en az altı ay çalışmış olması gereklidir. İzin, hastalık, geçici görev veya bağlı bulunulan birim dışında geçici olarak görevlendirilme gibi ayrılmalar da bu süreden sayılır. Aynı sicil amiri yanında geçmesi gereken altı aylık süre zorunlu sebeplerle doldurulamamış ise, bu süre üç ay olarak uygulanır.
+Bir meslek mensubunun bağlı bulunduğu grup veya birimin dışındaki bir grup veya birimde görevlendirilmesi halinde eski görevine döndüğü tarihten itibaren 15 gün içinde geçici olarak görevlendirildiği grup veya birimin şefi tarafından, ilgili hakkındaki kanaatlerini belirten gizli bir rapor düzenlenerek Özlük İşleri Müdürlüğüne verilir.
+Özlük İşleri Müdürlüğü bu raporları yıllık sicilin düzenlenmesinde göz önünde bulundurulmak üzere sicil formuyla birlikte sicil amirlerine verilir.

@@ -1,0 +1,2 @@
+İstifaya davet veya emekliliğini isteme
+Madde 22-Üç sicil döneminde üst üste olumsuz sicil alan meslek mensuplarına, Memurlar Seçim ve Disiplin Kurulunun kararı ve Birinci Başkanın onayı üzerine emekliliklerini istemeleri veya istifa etmeleri bildirilir. Bir ay içinde bu davete uymayanlar istifa etmiş sayılırlar. Adaylık süresi sonunda hizmete elverişli görülmeyen denetçi yardımcısı adaylarının görevlerine de Memurlar Seçim ve Disiplin Kurulu kararı ve Birinci Başkanın onayıyla son verilir.

@@ -1,0 +1,2 @@
+Sicil amirlerinin görüşlerinde aykırılık olması hali
+Madde 14-İlk ve ikinci derece sicil amirlerinin verdikleri toplam puanların sonucunda, yeterlik ve başarı derecesinin tespiti yönünden aykırılık olması halinde, ikinci derece sicil amiri üye olanlar için daire başkanı, diğerleri için Birinci Başkan ilgili hakkındaki düşüncesini belirtir. Bu durumda yeterlik ve başarı derecesinin tespitinde, üst derece sicil amirinin katıldığı sicil amirinin verdiği puanlar esastır.

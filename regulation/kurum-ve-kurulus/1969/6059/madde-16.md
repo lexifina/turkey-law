@@ -1,0 +1,2 @@
+İcmal fişleri
+Madde 16- Meslek mensuplarının sicil dosyalarında her takvim yılı sonunda toplanan rapor değerlendirme fişleri, Özlük İşleri Müdürlüğünce örneği (EK:5) de gösterilen (Rapor değerlendirme icmal fişi) ne işaretlenerek puan ortalaması tespit edilir. Bu fişler yıllık sicil formuna eklenmek suretiyle, verimlilik faktörünün değerlendirilmesinde göz önünde bulundurulmak üzere sicil amirlerine gönderilir. Bu fişlerin bir örneği ilgili meslek mensubuna verilir.
