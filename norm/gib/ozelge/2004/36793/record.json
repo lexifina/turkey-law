@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1356 / 20849",
+  "source_id": 36793,
+  "date": "2004-05-10",
+  "title": "Bankalar tarafından Devlet iç ve dış borçlarının geri ödenmesi amacıyla Hazine Müsteşarlığı'na yapılan döviz satışları dolayısıyla döviz satış tutarı üzerinden binde bir oranında banka ve sigorta muameleleri vergisi ödenmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36793",
+  "source_sha256": "2cae49073b85016cad9ace91a65fdf556f4e6f039efd0e6d46f67d5f4c272cf2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
