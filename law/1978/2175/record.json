@@ -1,0 +1,184 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2175",
+  "year": 1978,
+  "title": "Kayseri Üniversitesi kurulması hakkında Kanun",
+  "adopted": "1978-11-07",
+  "adopted_as_published": "07/11/1978",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18.11.1978 No: 16463",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202175.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 62",
+  "committee_reports": [
+    {
+      "label": "CS 820 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038077ss0820.pdf"
+    },
+    {
+      "label": "MM 125no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006162ss0125.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 453634,
+      "title": "Kayseri Üniversitesi kurulması hakkında Kanun",
+      "adopted_as_published": "07/11/1978",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202175.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 820 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038077ss0820.pdf"
+        },
+        {
+          "label": "MM 125no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006162ss0125.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 80,
+          "sitting_date": "1977-12-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c001/mm__05001080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c001/mm__05001fih.pdf",
+          "pages": [
+            "521"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 158,
+          "sitting_date": "1978-06-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006158.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006fih.pdf",
+          "pages": [
+            "344"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 161,
+          "sitting_date": "1978-06-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006161.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006fih.pdf",
+          "pages": [
+            "438"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 162,
+          "sitting_date": "1978-06-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006162.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006fih.pdf",
+          "pages": [
+            "508:511"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 163,
+          "sitting_date": "1978-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006163.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006fih.pdf",
+          "pages": [
+            "528",
+            "550",
+            "556:559"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 164,
+          "sitting_date": "1978-06-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006164.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006fih.pdf",
+          "pages": [
+            "564",
+            "573",
+            "574:577"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "7a740f64a552447b8129a88f3d2f4df24e0d020a643e9dcd5d7789377fc9d296"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 332614,
+      "title": "Kayseri Üniversitesi Kurulması Hakkında Kanun.",
+      "adopted_as_published": "07/11/1978",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202175.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 820 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038077ss0820.pdf"
+        },
+        {
+          "label": "MM 125no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006162ss0125.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 38,
+          "sitting": 71,
+          "sitting_date": "1978-06-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038fih.pdf",
+          "pages": [
+            "210"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 75,
+          "sitting_date": "1978-09-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038fih.pdf",
+          "pages": [
+            "438"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 77,
+          "sitting_date": "1978-10-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c038/cs__17038fih.pdf",
+          "pages": [
+            "567:573",
+            "576:577"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2101&v_kullanici_id=27483235",
+      "page_sha256": "5968d4b2c253a1860b028e1dc7851eac90ae7fee6ea9ef01b19c36bdc0393519"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7a740f64a552447b8129a88f3d2f4df24e0d020a643e9dcd5d7789377fc9d296",
+  "issuer": "Millet Meclisi",
+  "in_force": "1978-11-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 07/11/1978; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
