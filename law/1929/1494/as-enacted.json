@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1494",
+  "year": 1929,
+  "title": "Ordu zabitan heyetine mahsus 863 ve 1252 numaralı terfi kanunlarının bazı maddelerinin tadiline dair kanun.",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-13",
+  "gazette_issue": "1215",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1215.pdf",
+  "source_sha256": "77937c1e3f8a26925d984d2e9b230de720b055b9bcf0797d9b62613ddaa02784",
+  "text_sha256": "2aa7ea7191b13da2abcbc15096a4574038d923b527b7aa2e512d0d3afd7a0411",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      18,
+      230
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701494.pdf",
+    "source_sha256": "1d9ddd6a4052289a9ebb8b76a86b0b71d2232015711c07d80a3e9669fb13c2e9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9731,
+    "bag": 0.9276,
+    "kd_coverage": 0.9921,
+    "kd_body_compared": 0.9899,
+    "rg_words": 898,
+    "kd_words": 892,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
