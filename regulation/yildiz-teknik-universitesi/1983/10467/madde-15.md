@@ -1,0 +1,1 @@
+Madde 15-Kol Başkanları, yönetim deneyimleri de göz önünde tutularak, başkan tarafından seçilir ve atanması yapılmak üzere Rektörlüğe önerilir. Başkanı olacağı kol ile ilgili alanlarda yükseköğrenim diplomasına sahip olmak, Kol Başkanı olarak atanabilmenin önkoşuludur.

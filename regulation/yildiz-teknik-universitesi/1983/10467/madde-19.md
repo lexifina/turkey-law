@@ -1,0 +1,1 @@
+Madde 19- MSM’nin sağlık hizmetlerinin yürütülmesi için, yeterli sayıda uzman ve pratisyen hekim, diş hekimi, eczacı, memur, hemşire, ebe, laborant ve diğer hizmetliler görevlendirilir. Bunlar Sağlık Hizmetleri Kolu’na bağlı olarak görev yaparlar.

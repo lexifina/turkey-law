@@ -1,0 +1,1 @@
+Madde 23 – Acil vaka’lar dışında Sağlık Kolu’nun çalışma saatleri içinde MSM’nin hizmet verdiği kesimden hiç kimsenin muayene ve tedavisi MSM hekimlerinin havalesi olmadan ilgili ve diğer sağlık kuruluşlarında yaptırılamaz.

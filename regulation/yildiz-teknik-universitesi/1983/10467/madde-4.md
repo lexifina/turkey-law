@@ -1,0 +1,1 @@
+Madde 4- Tersi belirtilmedikçe bu yönetmelikte geçen “Üniversite”, “Rektörlük”, “MSM” ve “Öğrenciler” sözlerinden sırasıyla “Yıldız Üniversitesi”, “Yıldız Üniversitesi Rektörlüğü”, “Yıldız Üniversitesi Mediko Sosyal Merkezi” ve “Yıldız Üniversitesine bağlı Fakültelerde, Enstitülerde ve Yüksek Okullarda Lisans veya Lisansüstü öğrenim gören öğrenciler” anlaşılmalıdır.

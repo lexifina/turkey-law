@@ -1,0 +1,1 @@
+Madde 3- Mediko Sosyal Merkezi kısaca “MSM” olarak adlandırılır. Bu örgüt hizmet verdiği kesimin bütünü için bir sağlık kuruluşu, ayrıca öğrenciler için onların toplumsal ve sağlıksal gereksinmelerini karşılamaya yönelik bir hizmet kuruluşudur.

@@ -1,0 +1,1 @@
+Madde 11-Başkan Yardımcısı, yönetim deneyimleri de göz önünde tutularak, Başkan tarafından seçilir ve atanması yapılmak üzere Rektörlüğe önerilir. Yükseköğrenim diplomasına sahip olmak Başkan Yardımcılığına atanabilmek için önkoşuldur.
