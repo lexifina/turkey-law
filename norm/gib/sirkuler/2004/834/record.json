@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-7/2004-5/ Yeniden Değerleme Oranı Uygulaması -1",
+  "source_id": 834,
+  "date": "2004-07-19",
+  "title": "2004 yılı ikinci geçici vergi döneminde uygulanacak yeniden değerleme oranı % 6 ( yüzde altı) olarak tespit edilmiştir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/834",
+  "source_sha256": "24a99de18325bdaefb8f69dae8dee1ce54ccba44737633e8bc4b6674a5bc9dfe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
