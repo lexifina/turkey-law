@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6601-662 /6555",
+  "source_id": 37284,
+  "date": "2004-02-18",
+  "title": "Konutlar ile su ve kanalizasyon hizmetleri ayrı bir kanunla düzenlenmiş bulunan büyükşehir belediye sınırları ve mücavir alanlardaki konutlara ait çevre temizlik vergisiait çevre temizlik vergisi hususu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37284",
+  "source_sha256": "312e3984980eba1b962b20ff2e062ac2e093ea8abb5978a7cc0e339140762cb3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
