@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 317128,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Bazı ölümlerin tespitine ait Sözleşmenin onaylanmasının uygun bulunduğuna dair (Millet Meclisi 1/379; Cumhuriyet Senatosu 1/1230) (S. Sayısı:1630)",
+  "title": "Bazı ölümlerin tespitine ait Sözleşmenin onaylanmasının uygun bulunduğuna dair (Millet Meclisi 1/379; Cumhuriyet Senatosu 1/1230) (S. Sayısı:1630)",
+  "first_sitting_date": "1971-07-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 66,
+      "sitting": 93,
+      "sitting_date": "1971-07-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066fih.pdf",
+      "pages": [
+        "154"
+      ]
+    },
+    {
+      "cilt": 67,
+      "sitting": 110,
+      "sitting_date": "1971-09-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067110.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c067/cs__10067fih.pdf",
+      "pages": [
+        "82",
+        "100:106",
+        "155:156",
+        "167",
+        "219:220"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=3301&v_kullanici_id=27484903",
+  "source_sha256": "11b21781b3e0e8d53849a7a9eaf89aa0167cd4dacdb299603894b1727f82c89c",
+  "in_force": "1971-07-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
