@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "882",
+  "year": 1935,
+  "title": "Konya mebusu Kâzım Gürel'in teşriî masuniyeti hakkında",
+  "adopted": "1935-05-18",
+  "adopted_as_published": "18/05/1935",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "22.05.1935 No: 3009",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/karartbmmc015/karartbmmc01500882.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 15",
+  "committee_reports": [
+    {
+      "label": "TBMM 100 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003025ss0100.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104842,
+      "title": "Konya mebusu Kâzım Gürel'in teşriî masuniyeti hakkında",
+      "adopted_as_published": "18/05/1935",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/karartbmmc015/karartbmmc01500882.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 100 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003025ss0100.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 24,
+          "sitting_date": "1935-05-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003fih.pdf",
+          "pages": [
+            "83"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 25,
+          "sitting_date": "1935-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c003/tbmm05003fih.pdf",
+          "pages": [
+            "116"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=234&v_gelecek_sayfa=201&v_kullanici_id=27483265",
+      "page_sha256": "99cf70633e60aa40583f87f67f4ed5a076a98fadd3cf104b33b8881175fd2b87"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "99cf70633e60aa40583f87f67f4ed5a076a98fadd3cf104b33b8881175fd2b87",
+  "issuer": "TBMM",
+  "in_force": "1935-05-18",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 18/05/1935; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
