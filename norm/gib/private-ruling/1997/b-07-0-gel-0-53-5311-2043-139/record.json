@@ -1,0 +1,18 @@
+{
+  "checked_on": "2026-11-14",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "kind": "private-ruling",
+  "official_date": "1997-01-02",
+  "official_number": "B.07.0.GEL.0.53/5311-2043/139",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31100",
+  "source_id": "ozelge:31100",
+  "source_row_sha256": "e3d1137759e0eb4fc578bcc82a6827b95feb34fcc5f614800f59aaead1cfdca1",
+  "title": "Türkiye'de ikamet etmeyen yolculara tanınan istisnanının kapsamına sadece mal teslimleri girmekte, hizmet ifaları istisnadan faydalanamamaktadır. Bu nedenle, yabancı turistlere verilen otel hizmetlerine ait katma değer vergisinin iadesi mümkün değildir.",
+  "version_label": "as-enacted",
+  "word_count": 155
+}
