@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 106101,
+  "assembly": "TBMM",
+  "term": 5,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Tababet ve şuabatı sanatlerinin tarzı icrasına dair olan 1219 sayılı kanuna katılacak ve 2182 sayılı kanuna eklenecek kanun lâyihası (1/341)",
+  "title": "Tababet ve şuabatı sanatlerinin tarzı icrasına dair olan 1219 sayılı kanuna katılacak ve 2182 sayılı kanuna eklenecek kanun lâyihası (1/341)",
+  "first_sitting_date": "1935-11-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 9,
+      "sitting_date": "1935-11-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c006/tbmm05006009.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c006/tbmm05006fih.pdf",
+      "pages": [
+        "102"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 17,
+      "sitting_date": "1935-12-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c007/tbmm05007017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c007/tbmm05007fih.pdf",
+      "pages": [
+        "96",
+        "128",
+        "165"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d70cb9a6ef8f59dd4d5115c7dc7bc0537c4773fd1ca49c120ff908ee5d2a48bd",
+  "in_force": "1935-11-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
