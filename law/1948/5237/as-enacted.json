@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5237",
+  "year": 1948,
+  "title": "Belediye Gelirleri Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1948-07-09",
+  "gazette_issue": "6953",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6953.pdf",
+  "source_sha256": "bdef4c3f12f1210c46e73211db85cdf9cf891d4dc51b0319d162c799d4132993",
+  "text_sha256": "1ebc1c4832193263b9dc6b312f1f778f1a44da7525f13926f27a36548f41826d",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      17,
+      1234
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/kanuntbmmc030/kanuntbmmc03005237.pdf",
+    "source_sha256": "6d5e4b246e2c71ca7b1e90f290b7ac91547f86ea03fbc24e26ab4930a9b0b623",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9276,
+    "bag": 0.8227,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9996,
+    "rg_words": 5313,
+    "kd_words": 5524,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
