@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5513- 462/043997",
+  "source_id": 31404,
+  "date": "2004-09-17",
+  "title": "Limanlar ve hava meydanlarının inşaası yenilenmesi ve genişletilmesi işlerini fiilen yapan veya yaptıranların ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31404",
+  "source_sha256": "5f3355996cceabca36d7935cae000239852300c7372a317508ab55faaa555b27",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
