@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 79754,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar / İçişleri Komisyonu Raporu",
+  "summary": "Bolu Milletvekili Lûtfi Gören'in, İdarei Umumiyei Vilavet Kanununun muaddel 116 ve 140. maddelerinin değiştirilmesine dair olan 1562 sayılı Kanunun değiştirilmesi hakkında kanun teklifiyle İdarei Umumiyei Vilayat Kanununun değişik 116 ve 140. maddelerinin değiştirilmesi hakkında kanun tasarısına dair (2/26, 1/136)",
+  "title": "Bolu Milletvekili Lûtfi Gören'in, İdarei Umumiyei Vilavet Kanununun muaddel 116 ve 140. maddelerinin değiştirilmesine dair olan 1562 sayılı Kanunun değiştirilmesi hakkında kanun teklifiyle İdarei Umumiyei Vilayat Kanununun değişik 116 ve 140. maddelerinin değiştirilmesi hakkında kanun tasarısına dair (2/26, 1/136)",
+  "first_sitting_date": "1947-05-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 58,
+      "sitting_date": "1947-05-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005fih.pdf",
+      "pages": [
+        "148"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 59,
+      "sitting_date": "1947-05-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005fih.pdf",
+      "pages": [
+        "173:177"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 62,
+      "sitting_date": "1947-05-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005fih.pdf",
+      "pages": [
+        "199"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1724&v_gelecek_sayfa=101&v_kullanici_id=27484112",
+  "source_sha256": "2935d46adc300c2db4fc645ad7aaaa7ebc07a90929b4b3b7039c4d8033f0ed71",
+  "in_force": "1947-05-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
