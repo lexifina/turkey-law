@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-2934",
+  "source_id": 29944,
+  "date": "2005-02-09",
+  "title": "Yurt dışındaki müşteriler için karşılıklılık ilkesine göre uluslararası roaming anlaşmaları çerçevesinde Türkiye'de verilen roaming hizmetleri KDVK'den istisnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29944",
+  "source_sha256": "5edf76cfee1e2e470e30f23dbe3c93cc9a9be17f23d2103ecd23aed7f69f891e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
