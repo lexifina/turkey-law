@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/588",
+  "list_number": "588",
+  "decision_date": "2004-03-13",
+  "title": "YSK ilke kararı 2004/588",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3979/2004-588-karar.htm",
+  "source_sha256": "e921c4035456ce17fdfbd19780a7584912f6b95ce870fb65ee0d8e49a5b6862a",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-03-13",
+  "law_text_complete": false
+}
