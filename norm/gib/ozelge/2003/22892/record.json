@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4012-5/054185",
+  "source_id": 22892,
+  "date": "2003-12-18",
+  "title": "Birden fazla takvim yılına sirayet eden inşaat ve onarma işlerinin vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22892",
+  "source_sha256": "3d7c07541f81be954b090fd518c85dca474b7e2aae49f3177367add2bb4453bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
