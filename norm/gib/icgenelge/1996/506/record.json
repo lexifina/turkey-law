@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "1996/2",
+  "source_id": 506,
+  "date": "1996-03-20",
+  "title": "VERASET VE İNTİKAL VERGİSİ KANUNU İÇ GENELGESİ SERİ NO: 1996/2",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/icgenelge/506",
+  "source_sha256": "c09aec82aa685b19ab77ad122cc311bbf437ce3ed59ce3bfca3ada1d7ab2181b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36243",
+        "quote": "20/03/1996 tarihli ve 1996/2 sayılı Veraset ve İntikal Vergisi Kanunu İç Genelgesinde"
+      }
+    ]
+  }
+}
