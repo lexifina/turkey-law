@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4789",
+  "year": 2003,
+  "title": "Milli Güvenlik Kurulu ve Milli Güvenlik Kurulu Genel Sekreterliği Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-01-18",
+  "gazette_issue": "24997",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030118.htm",
+  "source_sha256": "e2d871127f66a551a5512b160b6574176c20e5173044b6ea54ea9a6fef067bb0",
+  "text_sha256": "1ea2707e8f6f1f63e63f2fb109a626b8da4669f7b41f2dbf4dc9f00c28a341f6",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/01/18/24997-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030118.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
