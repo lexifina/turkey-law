@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 225606,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "775 Sayılı Gecekondu Kanununun Bazı Hükümlerinin Değiştirilmesi Hakkında Kanun Hükmünde Kararname ile Bu Kanun Hükmünde Kararnamenin İki Maddesinde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname ve Konya Milletvekili Haydar Koyuncu'nun Aynı Kanununun 34 unca Maddesinin Birinci Fıkrasının Değiştirilmesine Dair Kanun Teklifine ilişkin",
+  "title": "775 Sayılı Gecekondu Kanununun Bazı Hükümlerinin Değiştirilmesi Hakkında Kanun Hükmünde Kararname ile Bu Kanun Hükmünde Kararnamenin İki Maddesinde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname ve Konya Milletvekili Haydar Koyuncu'nun Aynı Kanununun 34 unca Maddesinin Birinci Fıkrasının Değiştirilmesine Dair Kanun Teklifine ilişkin",
+  "first_sitting_date": "1988-03-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 29,
+      "sitting_date": "1988-03-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c003/tbmm18003029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c003/tbmm18003fih.pdf",
+      "pages": [
+        "274:301"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a537655a8362c498d5f1ca955368f8066a88b104f97d8cee236a94edafe10e75",
+  "in_force": "1988-03-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
