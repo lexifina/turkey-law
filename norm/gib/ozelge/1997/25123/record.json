@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2857-ll5-868/09285",
+  "source_id": 25123,
+  "date": "1997-03-07",
+  "title": "Varlıklarının en az üçte birini kaybeden mükelleflerin bu afetlerin zarar verdiği gelir kaynakları ile ilgili bulunan vergi borçları ve vergi cezaları Maliye Bakanlığınca zararla mütenasip olmak üzere, kısmen veya tamamen terkin olunur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25123",
+  "source_sha256": "840e4ca8f6b43e2efc03a8957ff793b5116cc94083fd5d33981d0403641d7258",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
