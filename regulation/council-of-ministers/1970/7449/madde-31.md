@@ -1,0 +1,1 @@
+Madde 31 – Büro tarafından olumlu sonuca bağlanan istemler ve Gümrük Giriş Tarife Cetvelinin mali ve koruyucu etkisinin memleket ekonomisine en uygun nitelikte bulunmasını temin için yapılacak diğer çalışmalara ait teklifler 933 sayılı Kanunun 13 üncü maddesi gereğince Yüksek Planlama Kurulunun uygun mütalaası alındıktan sonra Bakanlar Kuruluna sunulur.

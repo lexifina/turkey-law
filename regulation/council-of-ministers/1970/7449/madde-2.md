@@ -1,0 +1,1 @@
+Madde 2 – İstemlerle bunlar üzerinde yapılacak hazırlık çalışmaları ve bu Yönetmelikle kendisine verilen diğer işlemler, 28/7/1967 tarihli ve 933 sayılı Kanunun 4 üncü maddesiyle kurulan Başbakanlık, Devlet Planlama Teşkilatı, Yatırımları ve İhracatı Geliştirme ve Teşvik Bürosu Başkanlığı tarafından yapılır.

@@ -1,0 +1,3 @@
+Madde 12 – Yatırımcı malı gümrükten çekebilmek ve kati taksitlendirme belgesi almak üzere, eşyanın hangi gümrükte bulunduğunu, gümrük giriş beyannamesi tarih ve numarası ile tahakkuk ettirilmiş olup da henüz ödenmemiş olan ve taksite bağlanması istenen vergileri gösterir, ilgili gümrük idaresince tasdikli bir belgeyi "Büro" ya tevdi eder.
+Bu istem üzerine, taksitlendirme işlemi yapılarak malın gümrükten çekilmesini sağlayacak olan "Kati taksitlendirme" belgesi verilir.
+Gümrükleme muhtelif tarihlerde ve ayrı gümrüklerde yapılacaksa, her parti mal için ayrı bir "Kati Taksitlendirme Belgesi" verilir.

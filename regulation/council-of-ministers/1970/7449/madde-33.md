@@ -1,0 +1,1 @@
+Madde 33 – 474 sayılı Kanun ve bu Yönetmelik hükümlerine göre istemde bulunup taksit müsaadesi alanlar, bu vergi ve resimler için, ayrıca, Amme Alacaklarının Tahsili Usulü Hakkındaki Kanuna göre tecil ve taksitlendirme isteminde bulunamazlar.

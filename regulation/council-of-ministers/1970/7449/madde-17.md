@@ -1,0 +1,1 @@
+Madde 17 – Kati taksitlendirme belgesinde cinsi ve gümrük tarife pozisyonu yazılı eşyanın dışında ithal edilmek istenen malları ait vergi ve resimlerin taksitlendirme işlemi ilgili gümrük idaresince yapılmaz.

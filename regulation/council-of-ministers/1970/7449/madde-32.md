@@ -1,0 +1,1 @@
+Madde 32 – Yatırımcı, taksitlendirme istemi neticeye bağlanmadan malı gümrüğe gelmişse, gümrük vergi ve resimlerini teminat vermek suretiyle malını gümrükten çekmek için Büro'ya üç nüsha dilekçe ile baş vurulabilir.

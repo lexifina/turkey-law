@@ -1,0 +1,1 @@
+Madde 34 – Taksitlendirme işlemlerinin başlangıcı, vergi ve resimleri taksitlendirilen ithal eşyasının, her ne surette olursa olsun gümrük hattını aştığı tarihtir. Taksitler her parti malın çekildiği tarihi takip eden yol içerisindeki aynı günde ödenir.

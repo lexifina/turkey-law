@@ -1,0 +1,1 @@
+Madde 20 – Büro taksitlendirilmesi istenen vergi ve resimler toplamı ile yatırımın Uzun Vadeli Kalkınma Planı ve Yıllık Program ilkelerine uygunluk derecesini ve istek sahibinin mali gücünü gözönünde tutarak inceleme ve hazırlık çalışmalarını yapar.

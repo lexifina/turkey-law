@@ -1,0 +1,1 @@
+Madde 8 – BÜRO, taksitlendirilmesi istenene vergi ve resimler toplamı ile yatırımın Kalkınma Planı ve Yıllık Program ilkelerine uygunluk derecesini ve istek sahibinin mali gücünü gözönünde tutarak inceleme çalışmalarını yapar.

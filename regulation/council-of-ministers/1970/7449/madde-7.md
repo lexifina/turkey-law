@@ -1,0 +1,1 @@
+Madde 7 – Taksit istemleri akreditifin açıldığı tarihten itibaren ithal süresinin bittiği tarihe kadar yapılabilir. Bu Yönetmeliğin 32 nci ve 5383 sayılı Gümrük Kanununun 27 nci maddesi hükümleri dışında her ne şekilde olursa olsun mal gümrükten çekilmişse taksit isteminde bulunamaz.

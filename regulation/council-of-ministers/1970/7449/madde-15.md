@@ -1,0 +1,1 @@
+Madde 15 – Gümrük idareleri, kati taksitlendirme belgesine esas teşkil edecek tasdikli belgeyi, (Madde 12 nin birinci paragrafında anlatılan) gelen mala terettüp eden gümrük vergi ve resimleri toplamını damga resmi hariç), peşin alınan miktarı ve taksitlendirilecek miktarı ayrı ayrı belirtecek şekilde tanzim eder.
