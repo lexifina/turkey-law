@@ -1,0 +1,3 @@
+Merkez Müdürü
+Madde 8 - Merkez Müdürü, Rektör tarafından (3) yıl için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Müdür kendisine (3) yıl için bir yardımcı seçebilir. Müdürün görevi sona erince, yardımcının görevi de kendiliğinden sona erer. Müdür, geçici olarak görevinden ayrıldığında, yardımcısı ona vekalet eder. Yardımcısı yoksa veya mazeretli ise Yönetim Kurulu üyelerinden birini vekil bırakır. Görevden ayrılma ve vekalet altı ayı aşamaz.
+Müdür, Merkezi temsil eder. Merkez kurullarına başkanlık eder. Çalışmalann düzenli ve etkin bir şekilde yürütülmesini sağlar. Faaliyetlerin düzenli bir şekilde yürütülmesinde, faaliyetlerin gözetim ve denetiminde, izlenmesi ve kontrolünde Rektöre karşı sorumludur.
