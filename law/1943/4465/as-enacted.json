@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4465",
+  "year": 1943,
+  "title": "Nahiye müdürlerinin devir masrafları hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-07-20",
+  "gazette_issue": "5460",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5460.pdf",
+  "source_sha256": "1ad7cc65cd3ec6e8896306967d8aba5c3aed4ae3b4b5df885bc15d6219078e97",
+  "text_sha256": "d35357f782413d4b03e61abbe1dda1f985cd14084e6a10707f47a90ecb59538f",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      1358,
+      1369
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504465.pdf",
+    "source_sha256": "5a238504572d853d3835d6e76ca0efe4df737530a695d7ab9431164ae864b0fd",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.937,
+    "bag": 0.9009,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9649,
+    "rg_words": 56,
+    "kd_words": 57,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
