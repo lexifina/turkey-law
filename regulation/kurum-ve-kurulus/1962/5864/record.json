@@ -1,0 +1,33 @@
+{
+  "source_id": "7.5.5864",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ SAVUNMA BAKANLIĞI TEŞKİLATINDAKİ HİZMETLİLERİN İSTİHDAM, TARZ VE ŞARTLARI HAKKINDA YÖNETMELİK",
+  "number": "5864",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1962/5864",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5864&MevzuatTertip=5",
+  "source_sha256": "9fc6cf735ac37f4584aa50b32d15a637d57c9b8c2fa62095ec997e713ab7b554",
+  "source_bytes": 96800,
+  "published": "1962-02-14",
+  "gazette": "11035",
+  "in_force": "1962-02-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.02.1962); own commencement article: \"Bu Yönetmelik yayını tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayını tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2231,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.5864%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
