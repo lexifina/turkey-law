@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5964",
+  "year": 1952,
+  "title": "Gümrük Kanununun 18. Maddesi Uyarınca Gümrük Resminden Muaf Olarak Yurda Giren Eşyadan Tekel Maddesi Olanlarının Tekel Resmi ile Diğer Vergi ve Resimlerden de Muafiyetine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-06-23",
+  "gazette_issue": "8142",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8142.pdf",
+  "source_sha256": "ec7d0afab6f26dedec02179e13746eb3ea7251d207b0a9b7912f8c872f35b431",
+  "text_sha256": "3b954eba4f4fce4e94a02b129ac55cbe289892bc7a445846e2462eef9cc71246",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      889,
+      918
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405964.pdf",
+    "source_sha256": "3dcccc1b991bcb57f58604877a58075840645c26809d69cde5559105fae20e5a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9607,
+    "bag": 0.9299,
+    "kd_coverage": 0.9692,
+    "kd_body_compared": 0.9545,
+    "rg_words": 196,
+    "kd_words": 198,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
