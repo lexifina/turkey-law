@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "338",
+  "decision_date": "2004-07-06",
+  "title": "TETAŞ’ın Serbest Tüketici Niteliği Haiz Mevcut Müşterilerine İlişkin",
+  "resmi_gazete_date": "2004-07-10",
+  "resmi_gazete_number": "25518",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VmqJKbRSggk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VmqJKbRSggk="
+  ],
+  "source_sha256": "7f5c29f5015cf3204edbde9c4fe5dc5afad90e722bf4c0bc6eb097cd20a52882",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-07-06",
+  "law_text_complete": false
+}
