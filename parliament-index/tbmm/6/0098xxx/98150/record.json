@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 98150,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "27 kânunuevvel 1939 tarihinde ve mütaakıp günlerde vukubulan zelzelede felâkete uğrayanların kurtarılmasında fevkalâde hizmetleri görülen bazı mahkûmların cezalarının affı hakkında (1/714)",
+  "title": "27 kânunuevvel 1939 tarihinde ve mütaakıp günlerde vukubulan zelzelede felâkete uğrayanların kurtarılmasında fevkalâde hizmetleri görülen bazı mahkûmların cezalarının affı hakkında (1/714)",
+  "first_sitting_date": "1941-11-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 5,
+      "sitting_date": "1941-11-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c021/tbmm06021005.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c021/tbmm06021fih.pdf",
+      "pages": [
+        "26"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 17,
+      "sitting_date": "1941-12-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c022/tbmm06022017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c022/tbmm06022fih.pdf",
+      "pages": [
+        "92",
+        "106:107",
+        "149:150"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1070&v_gelecek_sayfa=601&v_kullanici_id=27483993",
+  "source_sha256": "6c37fc091c61794f2e7244e3040636d1fba9c55172b44ee45b55df5e12ea29f8",
+  "in_force": "1941-11-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
