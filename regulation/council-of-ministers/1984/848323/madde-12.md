@@ -1,0 +1,2 @@
+Emval Listelerinin Verilmesi:
+Madde 12 – Yönetmeliğin 13 ncü maddesi 2 nci fıkrasında belirtilen kamu kuruluşlarınca gerekli kontrolün yapılabilmesi için mahalli orman bölge şefliğince, inşaatına başlanan ev, ahır, ambar ve samanlık sahipleri ile inşaat, mahallerini, uyacakları yapı sistemlerini ve tahsis edilen emval miktarını gösterir liste, köylerde ilgili köy muhtarlığına, kasabalarda ise ilgili belediye başkanlığına gönderilir.
