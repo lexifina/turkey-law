@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4431",
+  "year": 1943,
+  "title": "Türkiye Cumhuriyet Merkez Bankası hakkındaki 1715 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-06-12",
+  "gazette_issue": "5428",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5428.pdf",
+  "source_sha256": "1b58694ddb31969e011f0c9401748fe1bad754eb5646f4854c3fc2c0a86572aa",
+  "text_sha256": "911bab635ab08d6671759174483e165c7da34375d0a8aa057af64041ec38f2da",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      39
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504431.pdf",
+    "source_sha256": "9b2ae306ad5faa67843b53683584d0ffa7c0cfd81c43f67100e6681d24225cd3",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9657,
+    "bag": 0.8682,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9873,
+    "rg_words": 155,
+    "kd_words": 158,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
