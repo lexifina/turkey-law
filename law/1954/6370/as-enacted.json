@@ -1,0 +1,51 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6370",
+  "year": 1954,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Amerika Birleşik Devletleri Hükümeti Arasında Münakit Muaddel Ekonomik İş Birliği Anlaşmasını Tadil Eden 7 Ocak 1952 Tarihli Anlaşmanın Onanmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-19",
+  "gazette_issue": "8662",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8662.pdf",
+  "source_sha256": "b2f19da34bc2a07b1f7a90e3fec9a05a7b9e2d64fc26ab725bc95a6f38d61c5a",
+  "text_sha256": "a3092871cd541433247f45d7c0bb3ce11b31d4214fc23848478236aa56998af2",
+  "text_status": "ocr",
+  "pages": [
+    25,
+    26,
+    27
+  ],
+  "line_span": [
+    [
+      3479,
+      3511
+    ],
+    [
+      3512,
+      3693
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606370.pdf",
+    "source_sha256": "a206a5daf7247291f3f54c2f4109d9f0eea237e8722995757a021af1a709cd8e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9734,
+    "bag": 0.9076,
+    "kd_coverage": 0.9922,
+    "kd_body_compared": 0.9929,
+    "rg_words": 1367,
+    "kd_words": 1402,
+    "own_anchor": true,
+    "foreign_anchors": 8
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
