@@ -1,0 +1,64 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3861",
+  "year": 1940,
+  "title": "İngiliz menşeli mallar bedellerinin sureti tesviyesi ve ithal edilmeyen İngiliz menşeli malların ithalini teminen nota teatisi suretiyle yapılan anlaşmanın tasdiki hakkında kanun",
+  "adopted": "1940-05-30",
+  "adopted_as_published": "30/05/1940",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "05.06.1940 No: 4527",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103861.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 21",
+  "committee_reports": [
+    {
+      "label": "TBMM 141 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c011/tbmm06011054ss0141.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96323,
+      "title": "İngiliz menşeli mallar bedellerinin sureti tesviyesi ve ithal edilmeyen İngiliz menşeli malların ithalini teminen nota teatisi suretiyle yapılan anlaşmanın tasdiki hakkında kanun",
+      "adopted_as_published": "30/05/1940",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103861.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 141 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c011/tbmm06011054ss0141.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 52,
+          "sitting_date": "1940-05-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c011/tbmm06011052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c011/tbmm06011fih.pdf",
+          "pages": [
+            "143",
+            "198:199",
+            "402:403",
+            "408",
+            "449:452"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=794&v_gelecek_sayfa=101&v_kullanici_id=27483166",
+      "page_sha256": "29501483f38f95dd8d88114aa5fdbf99ef4723a6b3d5255a78b9c96c933510ff"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "29501483f38f95dd8d88114aa5fdbf99ef4723a6b3d5255a78b9c96c933510ff",
+  "issuer": "TBMM",
+  "in_force": "1940-05-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 30/05/1940; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
