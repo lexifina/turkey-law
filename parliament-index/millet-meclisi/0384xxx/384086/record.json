@@ -1,0 +1,51 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 384086,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Karayolları Genel Müdürlüğü 1971 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında kanun tasarısı (1/501)",
+  "title": "Karayolları Genel Müdürlüğü 1971 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında kanun tasarısı (1/501)",
+  "first_sitting_date": "1971-07-08",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 15,
+      "sitting": 127,
+      "sitting_date": "1971-07-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015127.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015fih.pdf",
+      "pages": [
+        "277"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 137,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016137.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c016/mm__03016fih.pdf",
+      "pages": [
+        "55",
+        "131:133",
+        "162:163",
+        "185",
+        "255:256",
+        "268",
+        "347:350"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2301&v_kullanici_id=27484850",
+  "source_sha256": "f85be621d49ec69d64ba4a74933da5a18f3781a22d221189b0820e0abc7cce9f",
+  "in_force": "1971-07-08",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
