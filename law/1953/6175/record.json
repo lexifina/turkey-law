@@ -1,0 +1,74 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6175",
+  "year": 1953,
+  "title": "İtalya'daki Alman İhtira Beratları hakkında Roma'da imzalanan Andlaşmaya İlhakımızın Tasdikına dair Kanun",
+  "adopted": "1953-07-17",
+  "adopted_as_published": "17/07/1953",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.07.1953 No: 8466",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506175.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 35",
+  "committee_reports": [
+    {
+      "label": "TBMM 277 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024111ss0277.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 62339,
+      "title": "İtalya'daki Alman İhtira Beratları hakkında Roma'da imzalanan Andlaşmaya İlhakımızın Tasdikına dair Kanun",
+      "adopted_as_published": "17/07/1953",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506175.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 277 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024111ss0277.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 24,
+          "sitting": 109,
+          "sitting_date": "1953-07-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024109.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024fih.pdf",
+          "pages": [
+            "670"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 111,
+          "sitting_date": "1953-07-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024111.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c024/tbmm09024fih.pdf",
+          "pages": [
+            "792:793",
+            "797",
+            "801",
+            "841:844"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=746&v_gelecek_sayfa=401&v_kullanici_id=27483180",
+      "page_sha256": "ff74e52de55aecd9b2fc3cb3190bd2951c4e06389dd8f9d341dfbbed2c8b8110"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ff74e52de55aecd9b2fc3cb3190bd2951c4e06389dd8f9d341dfbbed2c8b8110",
+  "issuer": "TBMM",
+  "in_force": "1953-07-17",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 17/07/1953; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
