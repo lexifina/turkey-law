@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-17356",
+  "source_id": 23488,
+  "date": "1999-05-04",
+  "title": "Ücret gelirinin elde edildiği dönemlerde yapılan harcamalar karşılığı alınan belgelerin özel gider indirimine konu harcama belgesi olarak kabul edilmesi, ücret gelirinin elde edilmediği dönemlerde yapılan harcamalar karşılığı alınan belgelerin ise özel gi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23488",
+  "source_sha256": "3740ddc58edb379e913b89e31f52e1c69f9bf66e5e17e1d9c4dfd4da57cdd8de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
