@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "377/40",
+  "decision_date": "2004-10-26",
+  "title": "1/10/2004 tarihinden geçerli olmak üzere, elektrik piyasasında Türkiye Elektrik Ticaret Taahhüt Anonim Şirketi tarafından iletim sistemine doğrudan bağlı tüketicilerine uygulanacak tarife tablosu hakkında",
+  "resmi_gazete_date": "2004-11-02",
+  "resmi_gazete_number": "25631",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YwT2PEXfcaY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YwT2PEXfcaY="
+  ],
+  "source_sha256": "ed05b42757f6f3e84c459d81cab95f9a0245642a121f5940932066336f9a5c77",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-10-26",
+  "law_text_complete": false
+}
