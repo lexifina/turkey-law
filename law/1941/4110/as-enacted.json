@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4110",
+  "year": 1941,
+  "title": "İnhisarlar Umum Müdürlüğü mütedavil sermayesinin 36 500 000 liraya iblâğına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-08-15",
+  "gazette_issue": "4887",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4887.pdf",
+  "source_sha256": "720ece3cb00b0dccab6fce226fd9958fdaf828cda9cfebe48d4b6d1c06f22929",
+  "text_sha256": "c929879dd03c8c726e5c62ecf8bebc484286635da7b434c40b532a6a3131079a",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      956,
+      973
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204110.pdf",
+    "source_sha256": "e98d7499376f3c31e6b1a723d5d13d3294ae53f1aec7ca30a9ab9dbddb33168c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9315,
+    "bag": 0.8462,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9773,
+    "rg_words": 131,
+    "kd_words": 132,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
