@@ -1,0 +1,48 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6290",
+  "year": 1954,
+  "title": "Gümrük Kanununun Bazı Maddelerinin Değiştirilmesine ve 1499 sayılı Gümrük Tarifesi Kanunu ile Ek ve Tadillerinin Kaldırılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-06",
+  "gazette_issue": "8651",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8651.pdf",
+  "source_sha256": "3fee6e0481523699b068389184b1b20bb1848349406a981d6760f892ff613bc8",
+  "text_sha256": "e5d7a6ef67cc5fb78d79b4355fd0c82fca1ee457d92db698b75a57b741d7a3eb",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      13,
+      673
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606290.pdf",
+    "source_sha256": "201c781f89ec287e8d170474ed076e4bdfe9447f00615bef8d6462ab75843c9a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9019,
+    "bag": 0.8524,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9993,
+    "rg_words": 3597,
+    "kd_words": 2991,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
