@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "Cumhuriyet Senatosu",
+  "assembly": "CUMHURİYET SENATOSU",
+  "term_label": "17. Toplantı Yılı",
+  "cilt": 35,
+  "sitting": 24,
+  "label": "24. Birleşim",
+  "sitting_date": "1978-02-02",
+  "date_as_published": "02 Şubat 1978",
+  "weekday": "Perşembe",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c035/cs__17035024.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c035/cs__17035024gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t17/c035/cs__17035fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=7&meclis_kisa_adi=CS&diger_donem_adi=t17",
+  "source_sha256": "8e17f28b760e559de8743790a66bca7380e0991970d82975ebe9550bd292251b",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
