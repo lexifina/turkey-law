@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK- 11/2004-3/Geçici Vergi Beyannamesi-2",
+  "source_id": 646,
+  "date": "2004-01-23",
+  "title": "Beyannamesini gerek 10 Şubat, gerekse 16 Şubat tarihine kadar veren mükelleflerin beyan ettikleri vergiyi 17 Şubat 2004 tarihi akşamına kadar ödeyecekleri tabiidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/646",
+  "source_sha256": "62744e5cf5c32c30938060a75fa33f4ed6e1d7c54cadf00c54bddca09aeeeddd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
