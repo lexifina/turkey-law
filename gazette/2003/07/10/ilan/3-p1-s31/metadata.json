@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-07-10",
+  "issue": "25164",
+  "edition": "regular",
+  "item": 31,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-1",
+  "title": "Bilecik Devlet Hastanesi Satın Alma Komisyon Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030710-3-1.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (36 = 36)",
+  "ilan_codes": [
+    "23653/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030710-3-1.htm",
+  "category_page_sha256": "46ba9a3b0ee3fc25036fc4a76b53452b1a3c9a14dcff5781b16b550463768cc5",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030710.htm",
+  "index_sha256": "0c628ef27405a321d2bb5d68fa74f24f2825848fd437b580355d15cb7aba45d1",
+  "index_header": "10 Temmuz 2003 ... Sayı : 25164",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
