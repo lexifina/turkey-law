@@ -1,0 +1,2 @@
+Dönem İçinde Nakil
+Madde 37- Dönem içinde öğrenci nakli; velinin kamu görevi veya işyeri nakli, ikamet değişikliği, can güvenliği, sağlık kurulu raporu veya 33 üncü madde de belirtilen durumlar gibi sebepler dışında yapılmaz. Bu sebeplerden herhangi birisi ile öğrencinin, dönem içinde okuldan başka bir okula nakledilmesi halinde, aldığı dersler ve puanları dikkate alınarak yeni okuluna intibakı için gerekli belgeler düzenlenir.

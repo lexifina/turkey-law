@@ -1,0 +1,2 @@
+Sınav Sonuçlarının Duyurulması
+Madde 32- Öğretim elemanları yaptıkları sınavların, verdikleri ödev ve projelerin sonuçlarını öğrencilere bildirirler ve yapılan başlıca ortak hataları sınıfta açıklarlar. Yazılı sınavlar, uygulamalar ve ödev sonuçları yazılı sınavın yapıldığı tarihe veya ödevin, uygulamanın yahut projenin teslimi tarihine göre en çok onbeş gün içinde öğrenciye duyurulur. Öğrencinin istemesi halinde sınav kağıdı ders öğretmeni ile birlikte bir defa daha incelenir.

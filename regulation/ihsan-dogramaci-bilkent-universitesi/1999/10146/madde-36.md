@@ -1,0 +1,12 @@
+ÜÇÜNCÜ BÖLÜM
+Dönem Notlarının Tespiti
+Dönem Notu
+Madde 36- Bir dersin dönem notu; o döneme ait yazılı, sözlü ve uygulamalı sınavlarla, ödev ve projelere verilen puanların aritmetik ortalaması alınarak ve nota çevrilerek belirlenir. Öğretim elemanı, öğrencinin sınıf içi etkinlik ve başarı durumunu dikkate alarak takdir hakkını kullanabilir.
+Ancak, takdir edilen not; yazılı, sözlü ve uygulamalı sınavlar ile ödev ve projelere verilen puanlarla izah edilebilmeli, bu puanların aritmetik ortalamasının nota çevrilmesi ile elde edilen nottan aşağı olmamalıdır.
+Bir dönemde, öğrenciye her dersten bir dönem notu verilir. Ancak;
+a) Kompozisyon ayrı, dil ve edebiyat ayrı not konusu olmakla birlikte dönem notu olarak Türk Dili ve Edebiyatı dersi için bir not verilir. Bu notun nasıl tespit edileceği dersin programında belirtilir.
+b) Yabancı dil dersinde okuma, anlama, konuşma ve yazma’dan verilen yazılı, sözlü ve varsa ödev puanlarının ayrı ayrı aritmetik ortalamaları alınır, daha sonra bu puanların ağırlıklı ortalamasına göre dönem notu takdir edilir.
+c) Öğretim sorumlusunun raporlu, izinli olması, göreve geç başlaması, dönem bitmeden ayrılmasının kesin olduğu; doğal afet, salgın hastalık, olağanüstü hal ve benzeri durumlardan dolayı yapılamayan dersler, yoğunlaştırılmış programlar ile tamamlanır. Ders yılının uzatılması yönüne gidilmez. Bu programlara ayrılacak ders saati sayısı, dönem içinde devam edilmeyen toplam ders saati sayısından az olmayacak şekilde düzenlenir.
+d) Sağlık durumları veya beden bozuklukları sebebiyle beden eğitimi dersine veya bazı beden eğitimi faaliyetlerine katılamayacak durumda olan öğrenciler, okul doktorundan, okul doktorunun bulunmadığı veya teşhis koyamadığı durumlarda, resmi sağlık kurum ve kuruluşlarındaki bir doktordan rapor almak zorundadır.
+Raporda, sağlık durumlarının veya beden bozukluklarının hangi beden eğitimi faaliyetlerine, geçici bir süre için mi, sürekli olarak mı engel oluşturduğu açıklanmalıdır.
+Raporun okul yönetimince kabul edilmesi halinde, beden eğitimi faaliyetlerinin bazı uygulamalı bölümlerinden muaf tutulanlar, bu bölümlerden sorumlu tutulmazlar ve sadece teorik bilgilerle ve sakıncalı görülmeyen uygulamalı bölümlere, bütün uygulamalı bölümlerden muaf tutulanlar ise sadece teorik bilgilere göre değerlendirilirler. Bu tür öğrencilerin okuldan ayrılarak başka okullara nakil yapıp yapmamaları konusu, Okul Yönetim Kurulunca ele alınır ve karara bağlanır.

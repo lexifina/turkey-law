@@ -1,0 +1,4 @@
+Sınavlara Katılmayanlar
+Madde 31- Sınavlara katılmayan, ödev veya projesini zamanında teslim etmeyen öğrenci özürünü, özürün başlangıcından itibaren 7 gün içinde bildirmek, bitimini izleyen 7 gün içinde de belgelendirerek okul yönetimine vermek zorundadır. Ancak; kaza, ölüm, yangın ve benzeri durumlarda bu süre okul idaresinin takdirine bırakılır.
+Özürsüz olarak sınavlara katılmayan, ödev veya projesini zamanında teslim etmeyen ve sınavlarda kopya çeken öğrenciye puan olarak sıfır verilir ve durum okul idaresine yazılı olarak bildirilir.
+Özürü veya raporu okul idaresince uygun kabul edilen öğrencinin durumu ders öğretmenine yazılı olarak bildirilir. Bu öğrenci, ders öğretmeninin belirleyeceği bir zamanda ve önceden duyurularak sınava alınır, ödev veya projesi kabul edilir. Bu sınav, sınıfta diğer öğrencilerle ders işlenirken yapılabileceği gibi ders dışında da yapılabilir.

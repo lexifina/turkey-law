@@ -1,0 +1,2 @@
+Not Çizelgelerinin Teslimi
+Madde 66- Birinci döneme ait not çizelgeleri dönem sona ermeden en geç üç gün önce, ikinci döneme ait not çizelgeleri ise dönemin son gününde öğretim elemanları tarafından okul müdürlüğüne verilir. Bu çizelgelerde, o döneme ait yazılı, sözlü, uygulamalı sınavlarla, ödev ve projelere verilen puanlar belirtilir ve puanların aritmetik ortalamasına göre takdir edilen dönem notu rakamla yazılır.

@@ -1,0 +1,5 @@
+Yazılı Sınav Sonuçlarının Değerlendirilmesi
+Madde 26- Ölçme sonuçları, yalnız not vermek veya eksiklik aramak için değil, eğitim ve öğretim amaçlarına ne ölçüde ulaşıldığını tespit etmek, özellikle, işlenen konuların hangilerinde öğrencilerin başarılı olduklarını belirlemek, başarısız olunan konularda ne gibi tedbirlerin alınması gerektiğini ortaya çıkarmak amacı ile de kullanılır.
+Öğretim Sorumlusu; her sınav sonunda, özellikle yazılı sınavlardan sonra öğrenciler hangi konularda ve ne derecede başarılı olduğunu belirler. Başarı oranı az ise sebeplerini araştırır ve değerlendirir. Buna göre ilgili konuları yeniden işlemek veya öğrencilere alıştırma çalışmaları yaptırmak gibi tedbirleri alır.
+Yazılı sınav sonunda, öğrenci mevcudunun çoğunluğu başarısız olmuşsa, öğretmen başarısız öğrenciler için bir sınav daha yapabilir. Bu sınava, isteyen başarılı öğrenciler de katılabilir. Bu sınavlarda, öğrencinin aldığı en yüksek puan geçerli olur.
+Sınavlar Cumartesi ve Pazar günleri de yapılabilir.

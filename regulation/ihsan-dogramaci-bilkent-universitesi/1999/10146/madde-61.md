@@ -1,0 +1,5 @@
+Devam Zorunluluğu
+Madde 61- Öğrenciler okula devam etmek zorundadırlar.
+a) Bölüm dersleri devamsızlık toplamı 8 günü aşan ve bir ders yılı içinde toplam 20 gün okula özürsüz olarak devam etmeyen öğrenci, notları ne olursa olsun başarısız sayılır.
+b) Yurt içinde ve yurt dışında, tiyatro, spor, müzik, folklor ve benzeri eğitici ve kültürel faaliyetler için Okul yönetimince görevlendirilen öğrenciler okula devam edemedikleri süre için izinli sayılırlar. Yurt içindeki faaliyetlere katılan öğrencilere o ilin milli eğitim müdürlüğünce, yurt dışındaki faaliyetlere katılanlar ise valilikçe izin verilir. Bu izinlerin toplamı ile diğer devamsızlıkların toplamı devam süresinin yarısını aşamaz. Ancak, uluslararası yurt içi ve yurt dışı yarışmalarla bunların hazırlık çalışmalarına katılan öğrencilerin, bu organizasyonun devamı süresince izinli sayıldıkları süreler, devamsızlık süresinin hesabında dikkate alınmaz.
+c) Yetiştirme programına devam zorunludur. Yetiştirme programında devam etmek zorunda oldukları toplam ders saatinin özürlü olarak üçte biri kadarına devam etmeyen öğrenciler, notları ne olursa olsun başarısız sayılırlar.

@@ -1,0 +1,3 @@
+Yazılı ve Uygulamalı Sınavların Niteliği ve Zamanı
+Madde 27- Yazılı ve uygulamalı sınavların zamanı en az bir hafta önceden öğrencilere duyurulur. Bir sınıfta bir günde uygulanacak yazılı ve uygulamalı sınavların sayısı ikiyi geçemez.
+Genellikle yazılı sınavların süresinin bir ders saatini aşmaması amaçlanır. Yazılı sınavların, ödev ve projelerin zamanlarının belirlenmesinde sınıf öğretim elemanı, aynı sınıfta dersi olan öğretim elemanları arasında işbirliği yapılmasını sağlar. Bu işbirliğinin esasları okul müdürlüğü tarafından düzenlenir. Tekniğine uygun olarak hazırlamak ve bir dersten her dönemde birden fazla uygulamamak kaydıyla yazılı sınavlar test olarak yapılabilir.

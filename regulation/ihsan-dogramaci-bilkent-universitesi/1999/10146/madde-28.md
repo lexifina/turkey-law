@@ -1,0 +1,2 @@
+Sözlü Sınavlar
+Madde 28- Bir dönemde öğrencilere her dersten bir sözlü sınav puanının verilmesi esastır. Dersin özelliğine göre ve imkanlar ölçüsünde daha çok sözlü puanı da verilebilir. Sözlü sınav için başlıbaşına bir ders saati ayrılmaz. Sözlü puanı öğrencilerin, eğitici çalışmalarındaki faaliyetleri, derse hazırlıkları, ders içindeki etkinlikleri ve dersle ilgili araştırma çalışmaları değerlendirilerek verilir ve öğrenciye anında bildirilir.
