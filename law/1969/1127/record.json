@@ -1,0 +1,115 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1127",
+  "year": 1969,
+  "title": "14.7.1965 tarih ve 657 sayılı Devlet Memurları Kanununun 237. maddesi ile 238. maddesinin 4. fıkrasının uygulanmasına dair kanun",
+  "adopted": "1969-02-25",
+  "adopted_as_published": "25/02/1969",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.02.1969 No: 13137 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201127.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 52",
+  "committee_reports": [
+    {
+      "label": "MM 829 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c034/mm__02034058ss0829.pdf"
+    },
+    {
+      "label": "CS 1218no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051038ss1218.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 373312,
+      "title": "14.7.1965 tarih ve 657 sayılı Devlet Memurları Kanununun 237. maddesi ile 238. maddesinin 4. fıkrasının uygulanmasına dair kanun",
+      "adopted_as_published": "25/02/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201127.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 829 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c034/mm__02034058ss0829.pdf"
+        },
+        {
+          "label": "CS 1218no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051038ss1218.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 33,
+          "sitting": 55,
+          "sitting_date": "1969-02-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c033/mm__02033055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c033/mm__02033fih.pdf",
+          "pages": [
+            "523"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 58,
+          "sitting_date": "1969-02-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c034/mm__02034058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c034/mm__02034fih.pdf",
+          "pages": [
+            "387",
+            "424:460"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1501&v_kullanici_id=27483225",
+      "page_sha256": "66251c4483ca186d733ac0d6ddf330376a3f317f3ebe9b3ad35f2b553c9b6259"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 312987,
+      "title": "14.7.1965 tarih ve 657 sayılı Devlet Memurları Kanununun 237 nci maddesi ile 238 nci maddesinin 4 ncü fıkrasının uygulanmamasına dair Kanun",
+      "adopted_as_published": "25/02/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201127.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 829 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c034/mm__02034058ss0829.pdf"
+        },
+        {
+          "label": "CS 1218no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051038ss1218.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 51,
+          "sitting": 38,
+          "sitting_date": "1969-02-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051fih.pdf",
+          "pages": [
+            "1051:1052",
+            "1058:1088"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1101&v_kullanici_id=27483235",
+      "page_sha256": "1eaad7ada00aca89de2fafea1c48fe47bacb9ae26f5a743f31a7c677dcbb0e77"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "66251c4483ca186d733ac0d6ddf330376a3f317f3ebe9b3ad35f2b553c9b6259",
+  "issuer": "Millet Meclisi",
+  "in_force": "1969-02-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 25/02/1969; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
