@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 449601,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "14.7.1964 günlü ve 500 sayılı Kıbrıs'a gönderilecek Türk Askerî Birliği mensuplarının aylık ve ücretleriyle çeşitli istihkakları ve-birliğin 'başka giderleri hakkında Kanunun birinci maddesinin değiştirilmesine ve bu Kanuna bir geçici madde eklenmesine dair kanun tasarısı (1/199)",
+  "title": "14.7.1964 günlü ve 500 sayılı Kıbrıs'a gönderilecek Türk Askerî Birliği mensuplarının aylık ve ücretleriyle çeşitli istihkakları ve-birliğin 'başka giderleri hakkında Kanunun birinci maddesinin değiştirilmesine ve bu Kanuna bir geçici madde eklenmesine dair kanun tasarısı (1/199)",
+  "first_sitting_date": "1974-11-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 1,
+      "sitting_date": "1974-11-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007001.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007fih.pdf",
+      "pages": [
+        "6"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 62,
+      "sitting_date": "1975-04-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011fih.pdf",
+      "pages": [
+        "167"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 77,
+      "sitting_date": "1975-05-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012fih.pdf",
+      "pages": [
+        "216:223",
+        "249:252",
+        "260",
+        "310:313"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=1001&v_kullanici_id=27484850",
+  "source_sha256": "f5d9ba71892d6746c27cd14edf51d3e15f06e15855d2eb040db656616bc81853",
+  "in_force": "1974-11-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
