@@ -1,0 +1,13 @@
+{
+  "number": "00-29/313-180",
+  "type": "Rekabet İhlali",
+  "decision_date": "2000-08-03",
+  "publication_date": "2000-12-05",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=97c2151b-8ee1-442b-b792-6cc4fe792d36",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1038",
+  "pdf_sha256": "72026e548ee6b7a533479cb6b38671d587c3debff72fdc24e7453a76b8ba79c1",
+  "pdf_bytes": "230266",
+  "pages": "5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
