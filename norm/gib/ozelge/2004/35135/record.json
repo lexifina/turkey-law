@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6211-225/047436",
+  "source_id": 35135,
+  "date": "2004-10-12",
+  "title": "Damga vergisi muafiyeti bulunan Sosyal Yardımlaşma ve Dayanışma Vakfı Başkanlığının, çalışanları için   damga vergisi muafiyeti bulunan Sosyal Sigortalar Kurumuna verilen sigorta prim bildirgelerinin damga vergisine tabi tutulmaması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35135",
+  "source_sha256": "edd7ca6bf146e68909c110f7f45f60d1c7455698345fb35e8ca1c4a06db1c49c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
