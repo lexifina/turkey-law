@@ -1,0 +1,1 @@
+Geçici Madde 2 – Çeşitli bütçelerden satınalınmış olup halen Başbakanlık Basımevinde kullanılmakta bulunan makina, alet ve malzeme, bir komisyon tarafından takdir edilecek halihazır değerleri tutarları ödenmemiş sermayeye mahsup edilmek üzere, bedelsiz olarak işletmeye devrolunur.

@@ -1,0 +1,1 @@
+Madde 5 – Döner sermayenin hesap usulleri, alım - satım ve işletme işlemleri ile abone ve sipariş işleri Başbakanlık ile Maliye Bakanlığı tarafından müştereken hazırlanacak Yönetmelik esaslarına göre yürütülür.

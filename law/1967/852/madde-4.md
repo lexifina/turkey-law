@@ -1,0 +1,1 @@
+Madde 4 – Döner sermayede çalıştırılacak ücretli personelin kadroları, Maliye Bakanlığının mütalâası alınmak suretiyle Başbakanlıkça tespit olunur. Bu personele ait ücretlerle işçilerin fazla mesai ücretleri döner sermayeden ödenir.

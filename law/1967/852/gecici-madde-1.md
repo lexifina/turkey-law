@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Kanunun yürürlüğe girmesinden önce mal sandıklarına yatırılmış olan abone bedelleri, bütçeden döner sermayeye tahsis edilen meblağdan işletme fonuna aktarılmak suretiyle hesaben tasfiye edilir.

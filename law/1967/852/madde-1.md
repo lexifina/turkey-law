@@ -1,0 +1,2 @@
+Madde 1 – (Değişik: 25/12/2003-5034/1 md.)
+23.5.1928 tarihli ve 1322 sayılı Kanunların ve Nizamnamelerin Sureti Neşir ve İlanı ve Mer'iyet Tarihi Hakkında Kanunda sayılan basım ve dağıtım işlerini yapmak üzere Başbakanlığa bağlı olarak kurulmuş bulunan Başbakanlık Basımevi Döner Sermaye İşletmesinin sermayesi, kendi kaynaklarından ve kurum kârından karşılanmak kaydıyla 15 (onbeş) trilyon liraya yükseltilmiştir. Bu miktar ihtiyaç halinde Bakanlar Kurulunca bir katına kadar artırılabilir.
