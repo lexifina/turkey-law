@@ -1,0 +1,130 @@
+{
+  "id": "452b6f7c-885d-1c33-039d-428c59b4696c",
+  "decision_number": "1966/19",
+  "case_number": "1963/67",
+  "decision_date": "1966-04-14",
+  "published_date": "1966-07-13",
+  "source_publication_date": "1966-04-17",
+  "gazette_number": 12347,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1966/19",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "7eb557ee98239b1f26e9189ec83f4723b4723fd2fa996784bec8d068213191f8",
+  "version_label": "as-enacted",
+  "in_force": "1966-04-14",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": true,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1949-05-30",
+      "normNumaraAdParamId": "c2de7f75-d749-7e7d-aa53-690057315dca",
+      "incelemeturuKarsonucuParamId": "b70853bc-8190-61fb-36c6-4565bb3e5124",
+      "sonucGerekcesiParamId": "2945019e-60a1-5378-fa93-b621014b48a2",
+      "kararYururlulukDurumu": "1966-10-12 00:00:00",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "1",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": true,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/149"
+        },
+        {
+          "hukum": "1961/152"
+        },
+        {
+          "hukum": "1961/geçici 15"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    },
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1949-05-30",
+      "normNumaraAdParamId": "c2de7f75-d749-7e7d-aa53-690057315dca",
+      "incelemeturuKarsonucuParamId": "b70853bc-8190-61fb-36c6-4565bb3e5124",
+      "sonucGerekcesiParamId": "2945019e-60a1-5378-fa93-b621014b48a2",
+      "kararYururlulukDurumu": "1966-10-12 00:00:00",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "2",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": true,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/151"
+        },
+        {
+          "hukum": "1961/152"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    },
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1949-05-30",
+      "normNumaraAdParamId": "c2de7f75-d749-7e7d-aa53-690057315dca",
+      "incelemeturuKarsonucuParamId": "b70853bc-8190-61fb-36c6-4565bb3e5124",
+      "sonucGerekcesiParamId": "2945019e-60a1-5378-fa93-b621014b48a2",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "3",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": true,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/10"
+        },
+        {
+          "hukum": "1961/40"
+        },
+        {
+          "hukum": "1961/109"
+        },
+        {
+          "hukum": "1961/110"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 7819
+}
