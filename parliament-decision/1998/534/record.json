@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "534",
+  "year": 1998,
+  "title": "(10/19, 29, 40, 88, 98, 127, 150, 166) Esas Numaralı Meclis Araştırması Komisyonunun Görev Süresinin Uzatılmasına İlişkin",
+  "adopted": "1998-02-26",
+  "adopted_as_published": "26/02/1998",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "04.03.1998 No: 23276",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc081/karartbmmc081/karartbmmc08100534.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 81",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 20,
+      "kayit_no": 413346,
+      "title": "(10/19, 29, 40, 88, 98, 127, 150, 166) Esas Numaralı Meclis Araştırması Komisyonunun Görev Süresinin Uzatılmasına İlişkin",
+      "adopted_as_published": "26/02/1998",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc081/karartbmmc081/karartbmmc08100534.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 46,
+          "sitting": 60,
+          "sitting_date": "1998-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c046/tbmm20046060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c046/tbmm20046fih.pdf",
+          "pages": [
+            "184"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=246&v_gelecek_sayfa=101&v_kullanici_id=27483282",
+      "page_sha256": "4e444176fe7bbe79047c79d754d95f723b24a28e6779b324b74845748ba01540"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4e444176fe7bbe79047c79d754d95f723b24a28e6779b324b74845748ba01540",
+  "issuer": "TBMM",
+  "in_force": "1998-02-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 26/02/1998; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
