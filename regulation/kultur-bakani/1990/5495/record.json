@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.5495",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YAZMA VE ARAP HARFLİ BASMA ESERLER İLE ŞERİ KÜNYELERİNİNTESBİTİ, YABANCI DİL VE TÜRKÇE ESERLERİN KATALOG FİŞLERİNİN ÇIKARTILMASI VE ŞERİ SİCİLLERİ TÜRKÇELEŞTİRME ÜCRET YÖNETMELİĞİ",
+  "number": "5495",
+  "issuer": "Kültür Bakanı",
+  "issuer_slug": "kultur-bakani",
+  "path": "regulation/kultur-bakani/1990/5495",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5495&MevzuatTertip=5",
+  "source_sha256": "c8a225fba40be2cb31bbb84df8404ac6aaf73ed4180ad33ef2ef65c1b2103a47",
+  "source_bytes": 321408,
+  "published": "1990-09-15",
+  "gazette": "20636",
+  "in_force": "1990-09-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.09.1990); own commencement article: \"bu Yönetmelik yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 573,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

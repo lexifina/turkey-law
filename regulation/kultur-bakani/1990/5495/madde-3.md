@@ -1,0 +1,2 @@
+Çalıştırılacak Kişiler
+Madde 3 - Eski nesillerden günümüze gelen; 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu'nun kapsamına giren kıymetli el yazması ve Arap harfli basma eserlerin künyelerinin tesbiti, şer'i sicillerin Türkçeleştirilmesi, yabancı dil ve Türkçe eserlerin katalog fişlerinin çıkartılması işlemleri, Arap alfabesini, yabancı dilleri bilen ve konunun uzmanı olan kişilere yaptırılır.
