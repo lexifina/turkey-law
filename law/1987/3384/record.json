@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3384",
+  "year": 1987,
+  "title": "18.12.1981 Tarihli ve 2565 Sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanununun 21. Maddesinin Birinci Fıkrasının (b) Bendinin Değiştirilmesine Dair Kanun",
+  "adopted": "1987-06-15",
+  "adopted_as_published": "15/06/1987",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "25.06.1987 No: 19498",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc070/kanuntbmmc070/kanuntbmmc07003384.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 70",
+  "committee_reports": [
+    {
+      "label": "TBMM 581 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c042/tbmm17042116ss0581.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 249524,
+      "title": "18.12.1981 Tarihli ve 2565 Sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanununun 21. Maddesinin Birinci Fıkrasının (b) Bendinin Değiştirilmesine Dair Kanun",
+      "adopted_as_published": "15/06/1987",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc070/kanuntbmmc070/kanuntbmmc07003384.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 581 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c042/tbmm17042116ss0581.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 39,
+          "sitting": 92,
+          "sitting_date": "1987-04-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c039/tbmm17039092.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c039/tbmm17039fih.pdf",
+          "pages": [
+            "292"
+          ]
+        },
+        {
+          "cilt": 41,
+          "sitting": 112,
+          "sitting_date": "1987-06-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041112.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c041/tbmm17041fih.pdf",
+          "pages": [
+            "341"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 116,
+          "sitting_date": "1987-06-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c042/tbmm17042116.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c042/tbmm17042fih.pdf",
+          "pages": [
+            "214:217"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=401&v_kullanici_id=27483190",
+      "page_sha256": "5877ff681863294c88d5df56a47f8723b0b0802ad981cd39436186cc42c2f649"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5877ff681863294c88d5df56a47f8723b0b0802ad981cd39436186cc42c2f649",
+  "issuer": "TBMM",
+  "in_force": "1987-06-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 15/06/1987; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
