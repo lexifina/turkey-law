@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 174957,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "VEYSİ YARDIMCI (CUMHURİYET SENATOSU AĞRI ÜYESİ)",
+  "summary": "Ve 23 Arkadaşı, X ve XI. dönem Türkiye Büyük Millet Meclisi üyelerinin ödeneklerinden mütevellit TC Ziraat Bankası ve Maliye Vekâletine olan borçlarının 10 yıl faizsiz taksite bağlanmasına ve tahakkuk etmiş faizlerinin kaldırılmasına ait (Millet Meclisi 2/251, Cumhuriyet Senatosu 2/37)",
+  "title": "Ve 23 Arkadaşı, X ve XI. dönem Türkiye Büyük Millet Meclisi üyelerinin ödeneklerinden mütevellit TC Ziraat Bankası ve Maliye Vekâletine olan borçlarının 10 yıl faizsiz taksite bağlanmasına ve tahakkuk etmiş faizlerinin kaldırılmasına ait (Millet Meclisi 2/251, Cumhuriyet Senatosu 2/37)",
+  "first_sitting_date": "1962-12-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 14,
+      "sitting_date": "1962-12-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c007/cs__02007014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c007/cs__02007fih.pdf",
+      "pages": [
+        "283"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 31,
+      "sitting_date": "1963-01-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c008/cs__02008031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c008/cs__02008fih.pdf",
+      "pages": [
+        "179",
+        "206:230",
+        "255:257",
+        "276:290"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2e6d2a64cafaed3a62bb4f4cc81182c6ea559de9b7e93558bce17b93db24d55b",
+  "in_force": "1962-12-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
