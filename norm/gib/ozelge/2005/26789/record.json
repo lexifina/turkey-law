@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2947-269-70-16102",
+  "source_id": 26789,
+  "date": "2005-03-10",
+  "title": "Gayrimaddi bir hak olan işletme hakkının sermayenin veya özel maliyet bedelleirnin itfası hükümlerine göre amortismana tabi olması ve kira süresine göre eşit yüzdelerle itfa edilebilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26789",
+  "source_sha256": "d9f5d7ba84d3abd8dfff3ecd77600a62847c8c95c2e114255be93784f7e3aaad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
