@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 64530,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Yeniden 22 kaza kurulması hakkında kanun lâyihalarına dair (1/506, 507, 508, 509, 510, 511, 512, 513, 514. 515. 517. 518. 519. 520. 521. 522,523, 524, 525, 526, 527, 549)",
+  "title": "Yeniden 22 kaza kurulması hakkında kanun lâyihalarına dair (1/506, 507, 508, 509, 510, 511, 512, 513, 514. 515. 517. 518. 519. 520. 521. 522,523, 524, 525, 526, 527, 549)",
+  "first_sitting_date": "1953-02-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 52,
+      "sitting_date": "1953-02-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c020/tbmm09020052.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c020/tbmm09020fih.pdf",
+      "pages": [
+        "852",
+        "1202:1204",
+        "1207",
+        "1231",
+        "1331:1334"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=1201&v_kullanici_id=27484171",
+  "source_sha256": "0242c9d1a8fae32ada4ca3cc79e64e39ca65c4a21d44089bb1db775cc5626f9d",
+  "in_force": "1953-02-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
