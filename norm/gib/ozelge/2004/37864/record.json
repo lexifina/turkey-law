@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4401-258",
+  "source_id": 37864,
+  "date": "2004-03-28",
+  "title": "Hamam, sıhhi banyo ve sauna gibi  işletmelerde işverenden ücret almadan  çalışan personelin...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37864",
+  "source_sha256": "aa0dd4682ff6010f942975eeaf26f1d1c938f39d5f219de569028d72c90e663c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
