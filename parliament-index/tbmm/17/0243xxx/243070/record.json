@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 243070,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Türkiye Cumhuriyeti ile Fransa Cumhuriyeti Arasında 20 Ocak 1972 Tarihinde İmzalanan Sosyal Güvenlik Genel Sözleşmesinin Ek Sözleşmenin Onaylanmasının Uygun Bulunduğuna Dair (1/466)",
+  "title": "Türkiye Cumhuriyeti ile Fransa Cumhuriyeti Arasında 20 Ocak 1972 Tarihinde İmzalanan Sosyal Güvenlik Genel Sözleşmesinin Ek Sözleşmenin Onaylanmasının Uygun Bulunduğuna Dair (1/466)",
+  "first_sitting_date": "1984-09-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 2,
+      "sitting_date": "1984-09-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c006/tbmm17006002.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c006/tbmm17006fih.pdf",
+      "pages": [
+        "85",
+        "103:105",
+        "116:119"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "44d5f6ead08f8610e9ab9065bc05787eab920edf79a28c33bd48787a4db564bd",
+  "in_force": "1984-09-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
