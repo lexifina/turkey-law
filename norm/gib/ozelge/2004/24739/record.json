@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4224-40/36073",
+  "source_id": 24739,
+  "date": "2004-07-30",
+  "title": "Bağ-Kur primlerinin ilgili dönemlere ilişkin olup ödenmiş olması şartıyla geçici vergiye ilişkin kazancın tespitinde indirim konusu yapılması ve geçici vergi beyannamesinin 20 no.lu \"Diğer İndirimler\" sütununda gösterilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24739",
+  "source_sha256": "b822a39eac9a280ca545d2dda73a48fd84c7d3430ed99fe59f3db5a1fda88185",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
