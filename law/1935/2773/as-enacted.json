@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2773",
+  "year": 1935,
+  "title": "Kültür bakanlığı merkez örgütleri ve ödevleri hakkındaki 2287 numaralı Kanunun bazı maddelerinin değiştirilmesine ve bazı maddeler eklenmesine ilişkin kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-06-15",
+  "gazette_issue": "3029",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3029.pdf",
+  "source_sha256": "c44359b9f949c5e613ca049ebf727c549f382a4974f76c441c9fb85b169ba05f",
+  "text_sha256": "1396b86b03a28bfa50ac088318e7ae9cd11f9eb1159835433f7a70ae0c3b77b5",
+  "text_status": "ocr",
+  "pages": [
+    6,
+    7
+  ],
+  "line_span": [
+    [
+      631,
+      810
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [6, 7] (no text layer)",
+    "tesseract_pages": [
+      6,
+      7
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502773.pdf",
+    "source_sha256": "7f58e06f82ba2eef87b7ff3fa97c6fa767684158bfe0a1e200aed94aa76dd8ad",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9391,
+    "bag": 0.8838,
+    "kd_coverage": 0.9979,
+    "kd_body_compared": 0.9979,
+    "rg_words": 985,
+    "kd_words": 945,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
