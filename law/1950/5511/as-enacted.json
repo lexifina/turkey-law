@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5511",
+  "year": 1950,
+  "title": "Gördes Kasabasının nakledileceği Kocamutluk Mevkiinde yapılacak meskenler hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-01-13",
+  "gazette_issue": "7405",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7405.pdf",
+  "source_sha256": "0c80f3c51a7c7654198603bba7197fc0a8e68b98a0fa814d7a741277ff256c4e",
+  "text_sha256": "77bf9f7f4b013de15a89e0efc4216cc0ddfd8f3dec7b0d7da7608683a34ad2f4",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      756,
+      835
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205511.pdf",
+    "source_sha256": "52644b16dfaa74528198b4feb2ebfec2f7665e6c3aa590b8ee08b6a6060127d5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.982,
+    "bag": 0.8305,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9957,
+    "rg_words": 431,
+    "kd_words": 462,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
