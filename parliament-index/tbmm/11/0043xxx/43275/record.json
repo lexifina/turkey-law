@@ -1,0 +1,73 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 43275,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Tebligat kanunu lâyihası (1/105)",
+  "title": "Tebligat kanunu lâyihası (1/105)",
+  "first_sitting_date": "1957-12-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 20,
+      "sitting_date": "1957-12-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001fih.pdf",
+      "pages": [
+        "314",
+        "500"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 12,
+      "sitting_date": "1958-12-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c006/tbmm11006012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c006/tbmm11006fih.pdf",
+      "pages": [
+        "95",
+        "170:187",
+        "195",
+        "213",
+        "237:241",
+        "248:256",
+        "294",
+        "311",
+        "354",
+        "389",
+        "413",
+        "480",
+        "631"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 33,
+      "sitting_date": "1959-02-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c007/tbmm11007033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c007/tbmm11007fih.pdf",
+      "pages": [
+        "38",
+        "64:73",
+        "89:90",
+        "118:119"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=644&v_gelecek_sayfa=201&v_kullanici_id=27484289",
+  "source_sha256": "64e75b0929b228ecdd8db61b7b842af99c86227619b6766b0651556f7d61d3d4",
+  "in_force": "1957-12-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
