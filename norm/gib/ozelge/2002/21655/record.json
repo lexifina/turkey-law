@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.46/4606-5830/014176",
+  "source_id": 21655,
+  "date": "2002-04-01",
+  "title": "Daha önce bakmakla yükümlü sıfatıyla vergi indiriminden faydalanan kişinin bağlı olduğu işyerine ayrıca bir yazı yazılarak hizmet erbabının artık vergi indiriminden faydalanmadığının bildirilmesi, Yeni işe giren ve daha önce hiç vergi indiriminden faydala",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21655",
+  "source_sha256": "4191d5dc164a666dfd6dc67d804412f630b92b2698fa5990b1765731f232f9ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
