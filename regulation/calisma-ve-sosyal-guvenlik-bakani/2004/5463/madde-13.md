@@ -1,0 +1,2 @@
+Gece Çalışma Dönemi
+Madde 13 — Bir işyerinde yapılmakta olan asıl işin yürütülmesi koşullarına ve sürelerine göre, hazırlama, tamamlama ve temizleme işlerinin yapılacağı saatlerin, 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 69 uncu maddesinde tanımlanan gece dönemine rastlaması halinde de, bu işler, bu Yönetmelikte belirtilen koşullar içinde yaptırılabilir. Ancak, çocukların ve kadınların bu şekilde çalıştırılmaları, 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 71 inci ve 73 üncü maddeleri hükümlerine tabidir.

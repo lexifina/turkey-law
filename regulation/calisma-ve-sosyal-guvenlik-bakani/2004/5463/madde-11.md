@@ -1,0 +1,2 @@
+Günde Yedibuçuk Saatlik Sürenin Aşılmaması Gereken İşler
+Madde 11 — 15/4/2004 tarihli ve 25434 sayılı Resmî Gazete’de yayımlanan Sağlık Kuralları Bakımından Günde Ancak Yedibuçuk Saat veya Daha Az Çalışılması Gereken İşler Hakkında Yönetmelikte belirtilen işlere ilişkin olarak hazırlama, tamamlama ve temizleme işlerinin asıl işçilere yaptırılması halinde, bu işlerin, söz konusu Yönetmelikte yer alan işlerden her birine özgü olmak üzere belirtilmiş bulunan iş sürelerini aşmayacak biçimde düzenlenmesi zorunludur.

@@ -1,0 +1,2 @@
+İş Sağlığı ve Güvenliği
+Madde 8 — İşverenler, hazırlama, tamamlama ve temizleme işlerinin yürütülmesi sırasında, iş sağlığı ve güvenliğinin sağlanması için gerekli her türlü önlemi almak, araç ve gereçleri noksansız bulundurmak ve işçilerin gerekli iş sağlığı ve güvenliği eğitimini almalarını sağlamakla yükümlüdürler. İşçiler de iş sağlığı ve güvenliği konusunda alınan her türlü önleme uymak zorundadırlar.
