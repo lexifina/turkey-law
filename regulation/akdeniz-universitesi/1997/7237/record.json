@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayınlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1997-09-05",
+      "05.09.1997",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayınlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "23101",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1997-09-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/1997/7237",
+  "published": "1997-09-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7237&MevzuatTertip=5",
+  "source_bytes": 27598,
+  "source_id": "8.5.7237",
+  "source_sha256": "30f1038f6c0980f57e2ed8cd63b4d0e11736188fc03714d8970bfe7d363d286d",
+  "text_status": "as-enacted",
+  "title": "AKDENİZ ÜNİVERSİTESİ  SPORCU SAĞLIĞI \r\nARAŞTIRMA VE  UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 919
+}

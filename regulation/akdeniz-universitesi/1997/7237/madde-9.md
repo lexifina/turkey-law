@@ -1,0 +1,1 @@
+Madde 9 - Yönetim Kurulu Müdürün davetiyle ayda en az bir kez toplanır. Müdür veya en az üç Yönetim Kurulu üyesinin gündemi belirten yazılı başvurusu ile de iki gün içerisinde olağanüstü toplantı yapılabilir.

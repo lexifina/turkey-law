@@ -1,0 +1,9 @@
+Çalışma Alanı
+Madde 2- a) Sporcu fizyolojisi, sağlığı (sakatlıklar, beslenme, hijyen, doping) ve rehabilitasyon alanlarında bilimsel ve uygulamalı araştırmalar yapmak, araştırma laboratuarları oluşturmak, yeni teknikler geliştirmek, sağlık turizmi ile uğraşan özel sektöre ilgili konularda danışmanlık yapmak, amatör ve profesyonel spor kulüplerinin sorunlarıyla ilgili projeler hazırlamak, bilimsel rapor vermek, sorunlarının çözümünde yardımcı olmak, konuyla ilgili proje ve araştırmalarda danışmanlık hizmeti vermek,
+b) Akdeniz Üniversitesi’nin farklı birimlerinde sporcu fizyolojisi, sağlığı ve rehabilitasyonu ile ilgili alanlarda yürütülen bilimsel ve teknik araştırmaları teşvik etmek ve desteklemek,
+c) Akdeniz Üniversitesi bünyesindeki Spor Bilimleri Araştırma ve Uygulama Merkezi, Spor Yüksek Okulu ve benzeri kurumlarla işbirliği yapmak,
+d) Üniversitede çalışma alanı içerisindeki araştırma ve uygulama alanında, araştırma ve uygulama yapacak öğretim elemanı ve öğrencilerin yetişmesini teşvik etmek, bunun gerçekleşmesini sağlamak için gerekli ortam ve olanakları yaratmak,
+e) Yurt içinde ve yurt dışında benzer amaç için çalışan merkez ve kurumlarla işbirliği yapmak ve bilgi alışverişinde bulunmak,
+f) Çalışma alanına giren konularda araştırma ve uygulamaları teşvik etmek, duyurmak ve bilgi alışverişini hızlandırmak amacı ile eğitim programları, seminer, kurs ve konferanslar düzenlemek, gerektiğinde bu çalışmalar ile ilgili sertifikalar vermek, faaliyetler ile ilgili yayınlar yapmak,
+g) Çalışma alanına giren konularda, eğitim ve öğretim yapmak, ya da görgü ve bilgisini geliştirmek üzere kısa veya uzun süreli yurt dışına eleman göndermek, ya da bu amaçla yurt dışından gönderilenleri kabul etmek,
+h) Merkezin kuruluş amacına , Yüksek Öğretim Kanunu amaç ve ilkelerine uygun diğer çalışmaları yapmak.
