@@ -1,0 +1,1 @@
+Madde 7- Araştırma Merkezi Yönetim Kurulu, Müdürün Başkanlığında, Müdür Yardımcıları, Müdürce gösterilecek altı aday arasından Araştırma Merkezi Kurulu tarafından olan üç yıl için seçilecek üç öğretim elemanlarından oluşur.

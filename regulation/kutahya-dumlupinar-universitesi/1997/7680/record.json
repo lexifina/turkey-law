@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1997-01-28",
+      "28.01.1997",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "22891",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1997-01-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kütahya Dumlupınar Üniversitesi",
+  "issuer_slug": "kutahya-dumlupinar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kutahya-dumlupinar-universitesi/1997/7680",
+  "published": "1997-01-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7680&MevzuatTertip=5",
+  "source_bytes": 19526,
+  "source_id": "8.5.7680",
+  "source_sha256": "76f100472af790dbeb9e9da3ea5fd515c24f3d3ab4dcbb4e4c9143ceb4f9b0d8",
+  "text_status": "as-enacted",
+  "title": "DUMLUPINAR ÜNİVERSİTESİ TARİH VE ARAŞTIRMALARI\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 190,
+  "word_count": 486
+}
