@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6624-124/12923",
+  "source_id": 37244,
+  "date": "2005-03-18",
+  "title": "Belediye sınırları ve  mücavir alanlar içinde  yer alan  eğlence  işletmeleri ve verginin    mükellefi hususu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37244",
+  "source_sha256": "0d2137f88c306d1246a224fa852462babaf4860602417677aa74b76d440d5a64",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
