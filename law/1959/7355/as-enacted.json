@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7355",
+  "year": 1959,
+  "title": "Sosyal Hizmetler Enstitüsü kurulmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-06-22",
+  "gazette_issue": "10233",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10233.pdf",
+  "source_sha256": "702ed4b5fcb782812b9fa74ff875fd18178d5b4707707b276fc214e43ed75313",
+  "text_sha256": "22e2cdd7f33953951002f23efb0c0de1442a82badef4f22653e72bf16efeed9d",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      1369,
+      1780
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107355.pdf",
+    "source_sha256": "03e73721b537b0da3fd3f31e5a918536939d40cfe87f4bbde61f1f8cb143327c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9118,
+    "bag": 0.7948,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9934,
+    "rg_words": 1180,
+    "kd_words": 1373,
+    "own_anchor": true,
+    "foreign_anchors": 5
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
