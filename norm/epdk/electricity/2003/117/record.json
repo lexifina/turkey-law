@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "117",
+  "decision_date": "2003-03-21",
+  "title": "Karaelmas Elektrik Dağıtım Anonim Şirketi tarafından uygulanacak perakende satış tarifesi hakkında",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3tZL18Bovo0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3tZL18Bovo0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dY6+QlcA8iA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wia3Aw3+ENg="
+  ],
+  "source_sha256": "c55736db758f567ebe907299bee8746293675cfb0fb5e78d1c84b243c99b14a1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-03-21",
+  "law_text_complete": false
+}
