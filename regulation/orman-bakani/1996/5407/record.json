@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.5407",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ AĞAÇLANDIRMA VE EROZYON KONTROLU SEFERBERLİĞİ YÖNETMELİĞİ",
+  "number": "5407",
+  "issuer": "Orman Bakanı",
+  "issuer_slug": "orman-bakani",
+  "path": "regulation/orman-bakani/1996/5407",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5407&MevzuatTertip=5",
+  "source_sha256": "c44bf083da14c41944bc175969a9a67d08ad63cbb8b355d802191a0d73bd1fc7",
+  "source_bytes": 136784,
+  "published": "1996-09-27",
+  "gazette": "22770",
+  "in_force": "1996-09-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.09.1996); own commencement article: \"bu yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4925,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
