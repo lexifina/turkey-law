@@ -1,0 +1,1 @@
+Madde 1 – Türk harflerinin kabul ve tatbikına dair olan 1 Teşrinisani 1928 tarih ve 1353 numaralı kanunun 9 uncu maddesi hilafına olarak arap harfleriyle tedrisat yapmak için gizli veya aleni dershane açanlar ve bu dershanelerde tedrisatta bulunanlar 1 Mart 1926 tarih ve 765 numaralı Türk Ceza Kanununun 526 ncı maddesi mucibince tecziye olunacaklardır.
