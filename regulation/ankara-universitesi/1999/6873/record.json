@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 12- Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1999-02-10",
+      "10.02.1999",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 12- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "23607",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1999-02-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/1999/6873",
+  "published": "1999-02-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6873&MevzuatTertip=5",
+  "source_bytes": 24955,
+  "source_id": "8.5.6873",
+  "source_sha256": "eeb9d4cc739aac71fa7632d92a04ad23c0aa023829dbd3ddd812f4dcf583aa52",
+  "text_status": "as-enacted",
+  "title": "ANKARA ÜNİVERSİTESİ HEPATOLOJİ ENSTİTÜSÜ KURULUŞ VE\r\nÇALIŞMA ESASLARINA İLİŞKİN YÖNETMELİK",
+  "university_id": 180,
+  "word_count": 623
+}

@@ -1,0 +1,2 @@
+Enstitü Müdürü
+Madde 8- Enstitü Müdürü, Rektör tarafından Üniversitenin konu ile ilgili öğretim üyeleri arasından üç yıl için atanır. Süresi dolan müdür yeniden atanabilir. Müdür enstitüde görevli aylıklı öğretim elemanları arasından en çok iki kişiyi üç yıl için yardımcı atayabilir. Müdürün bulunmadığı zaman müdür yardımcılarından biri vekalet eder. Göreve vekalet altı aydan fazla sürerse süreyi tamamlamak üzere yeni bir müdür atanır.

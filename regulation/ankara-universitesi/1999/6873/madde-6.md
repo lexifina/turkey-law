@@ -1,0 +1,2 @@
+Enstitü Yönetim Kurulu
+Madde 6- Enstitü Yönetim Kurulu, müdürün başkanlığında, müdür yardımcıları ve müdür tarafından gösterilecek konu ile ilgili altı aday arasından Enstitü Kurulu tarafından üç yıl için seçilecek üç öğretim üyesinden oluşur. Süresi biten üyeler yeniden seçilebilirler. Yönetim Kurulu gerekli hallerde geçici çalışma grupları kurabilir ve bunların görevlerini düzenler. Yönetim Kurulu müdürünün gerekli gördüğü hallerde salt çoğunlukla toplanır. Yönetim Kurulu kararlarını, katılanların çoğunluğu ile alır.
