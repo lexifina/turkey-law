@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4449",
+  "year": 1943,
+  "title": "4449 sayılı Kanun",
+  "adopted": "1943-06-28",
+  "adopted_as_published": "28/06/1943",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.07.1943 No: 5444",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504449.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 25",
+  "committee_reports": [
+    {
+      "label": "TBMM 79 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c003/tbmm07003039ss0079.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 7,
+      "kayit_no": 90076,
+      "title": "4449 sayılı Kanun",
+      "adopted_as_published": "28/06/1943",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504449.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 79 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c003/tbmm07003039ss0079.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 38,
+          "sitting_date": "1943-06-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c003/tbmm07003038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c003/tbmm07003fih.pdf",
+          "pages": [
+            "96"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 39,
+          "sitting_date": "1943-06-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c003/tbmm07003039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c003/tbmm07003fih.pdf",
+          "pages": [
+            "109:110"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 41,
+          "sitting_date": "1943-06-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c003/tbmm07003041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c003/tbmm07003fih.pdf",
+          "pages": [
+            "128"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=562&v_gelecek_sayfa=501&v_kullanici_id=27483169",
+      "page_sha256": "7a9a088ad4b8bcbe4431ab609fed6a712fb91c66dd2f0ffa1147adaad21c7165"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7a9a088ad4b8bcbe4431ab609fed6a712fb91c66dd2f0ffa1147adaad21c7165",
+  "issuer": "TBMM",
+  "in_force": "1943-06-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 28/06/1943; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
