@@ -1,0 +1,2 @@
+Şuraya Çağırma
+Madde 8- Bakanlıkça, Hazırlık Komitesinin teşkilini ve 5 inci maddede gösterilen üyelerin ismen belirlenmesini müteakip, Şuranın başlama tarihinden en az sekiz ay önce, Şuranın konularını ve teşkil edilmesi düşünülen komisyonları kapsayan bir mektup hazırlanarak üyelere gönderilir. Mektupta, bildiri vermek isteyenlerden bildiri konuları, katılmak istedikleri komisyonlar ve varsa gündeme ilişkin tekliflerini bildirmeleri istenir.
