@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5085",
+  "year": 1947,
+  "title": "Vakıflar Genel Müdürlüğü 1947 yılı Bütçe Kanununa bağlı (A) ve (R) işaretli cetvellerde değişiklik yapılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-06-21",
+  "gazette_issue": "6638",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6638.pdf",
+  "source_sha256": "14bc0bd664163447badd74ee674ffc9c101b5629a5e27f01276927b3e9b90e65",
+  "text_sha256": "dc3a1aacf096722cb856ee9a8e2f06263e2327321e9b11767f1e8a5c4a8e6636",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      427,
+      450
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905085.pdf",
+    "source_sha256": "ce264a2a324c85ca1bac28520179654c07f954af428e632a5c2e58f74e399b50",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9047,
+    "bag": 0.75,
+    "kd_coverage": 0.9737,
+    "kd_body_compared": 0.9487,
+    "rg_words": 105,
+    "kd_words": 117,
+    "own_anchor": false,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
