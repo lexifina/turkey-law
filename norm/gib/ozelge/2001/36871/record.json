@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 56/5601-555/5518",
+  "source_id": 36871,
+  "date": "2001-01-29",
+  "title": "Özelleştirme idaresine ödenmek üzere bankalardan alınan döviz, döviz satış tutarı üzerinden BSMV' ye tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36871",
+  "source_sha256": "5e6cb4e045a10f9517af8afb490639f81f7d2dead05315bebaca4a08f3c52b7f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
