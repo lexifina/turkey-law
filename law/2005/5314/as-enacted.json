@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5314",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Lübnan Cumhuriyeti Hükümeti Arasında Bayındırlık İşleri ve Doğal Afet Zararlarının Azaltılması Konusunda Bilimsel ve Teknik İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-03-08",
+  "gazette_issue": "25749",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050308-3.htm",
+  "source_sha256": "8ae89df5fb0f72b9446b8ce4482b5a46b993a5e06eaaccf583a4fe0647d333c5",
+  "text_sha256": "c9c143b4b6ebc2f4b54a4c1c0afd1a22ac7206b5e98af07bc692906f2700c4c5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/03/08/25749-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050308-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
