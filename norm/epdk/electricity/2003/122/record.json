@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "122",
+  "decision_date": "2003-03-21",
+  "title": "Kaçak ve usulsüz elektrik kullanımı ve güvence bedelleri hakkında",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=viwjMgWQopc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=viwjMgWQopc="
+  ],
+  "source_sha256": "aa7d76686aa8a5fb32f5d7d4a90a79fc38734edafdbe794fd001ecdb506424a6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-03-21",
+  "law_text_complete": false
+}
