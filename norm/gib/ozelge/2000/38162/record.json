@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6231-3-53/15409",
+  "source_id": 38162,
+  "date": "2000-04-06",
+  "title": "Fenni mesullerce belediyelere hitaben düzenlenen taahhütnamelerin, 7269 sayılı Kanun kapsamında deprem bölgesinde bulunan ve depremden etkilenen binaların yeniden inşası, onarımı veya depreme dayanıklı hale getirilmesine ilişkin projenin uygulanması amacı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38162",
+  "source_sha256": "32133886e70d25d73eef265ff73c564a43a785e2b960bbb1f4ebb859f5f4d6b2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
