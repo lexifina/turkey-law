@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "",
+  "source_id": 529,
+  "date": "1989-06-20",
+  "title": "MOTORLU TAŞITLAR VERGİSİ İÇ GENELGESİ SERİ NO 1989/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/icgenelge/529",
+  "source_sha256": "97690b0ee1fd948b1a570d50c251b95083b5bdd9103fcba62e93ccb8700b7751",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
