@@ -1,0 +1,1 @@
+Madde 83 – Cenaze hareket ettirilirken merasim kumandanının vereceği bir ikaz kumandası veya (Ti...) işareti üzerine kıta saygı duruşuna geçer. Kıta haricinde kalan subaylar cenazeye cephe alarak el ile selam verirler.

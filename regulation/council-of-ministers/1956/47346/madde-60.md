@@ -1,0 +1,1 @@
+Madde 60 – Alay kumandanı ve daha küçük rütbeli subaylar tayin edildikleri birliklere şahsen tanıtılır. Bu tanıtma kaide olarak bir derece üst kumandan tarafından yapılır. Bu kaidenin hilafına olarak alay kumandanının (Müstakil taburlarda tabur kumandanının) bir derece üst kumandan tarafından tanıtılmasına imkan ve zaman müsiat olmazsa bunlar kendi kendilerini tanıtırlar.

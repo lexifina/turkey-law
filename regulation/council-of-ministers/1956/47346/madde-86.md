@@ -1,0 +1,2 @@
+Madde 86 – Cenazenin mezara indirilmesinde kıta merasim kumandanının kumandasiyle veya verilecek (Ti...) işaretiyle saygı duruşu yapar. Bu esnada kıta haricinde merasime katılanlar mezara cephe alarak saygı duruşuna geçerler.
+Cenaze gömüldükten sonra ölen zat hakkında konuşmalar yapılır. Eğer merhum şehit ise telkinden evvel bir manga mezarın üç adım karşısında ve cephe mezara dönük olmak üzere vaziyet alır ve tüfekle üç atım ihtiram atışı yapılarak merasime son verilir.

@@ -1,0 +1,1 @@
+Madde 40 – Yemin edinceye kadar geçen zaman zarfında, yeminin ehemmiyet ve kutsiyeti, verilecek söze bağlı kalmanın yüksekliği, sözden dönmenin namus ve haysiyet üzerine yapacağı fena tesirler yemin edeceklere anlatılır.

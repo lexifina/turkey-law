@@ -1,0 +1,1 @@
+Madde 71 – Merasime, yabancı devletlere mensup ordu birlikleri katılacaksa bir saygı nişanesi olmak üzere merasim duruşunda sağ başta geçişte de önde yer verilir. Yalnız geçişte kılavuzluk vazifesi yapmak üzere bu birliğin önünde bir kıta bulundurulur.

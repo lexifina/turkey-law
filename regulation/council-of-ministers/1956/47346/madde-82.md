@@ -1,0 +1,1 @@
+Madde 82 – Askeri cenaze merasimin tertibi için, ölen zatın ailesi veya yakınları tarafından vaktinde ilgili makamlara müracaat edilmesi lazımdır. Bu merasimin tertiplenmesi için cenazenin bulunduğu yerde askeri bir birliğin bulunması şarttır.

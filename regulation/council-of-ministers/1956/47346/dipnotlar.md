@@ -1,0 +1,1 @@
+[1] Bu Yönetmelikte düzenlenen merasim ve protokol işlerinin ne şekilde tertip, tanzim ve yürütüleceğini şekil ve şemalarla açıklayan ekler ve cetveller 3 üncü tertip düsturun 37 inci cild (devamı) sahife 2345'te Resmi Gazete'nin 29.9.1956 tarih ve 9420 sayısında yayımlanmıştır.

@@ -1,0 +1,1 @@
+Madde 105 – Resmi memuriyeti olmayan denizde tuğamiral, kara ve havada tuğgeneral rütbesinin dununda bulunan Türk subaylarına hiçbir mahalde topla selam resmi yapılmıyacağı gibi Türk harb gemileriyle müstahkem mevki arasında dahi topla merasim yapılmaz.

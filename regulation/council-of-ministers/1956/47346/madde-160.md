@@ -1,0 +1,2 @@
+Boru ile selam:
+Madde 160 – Harb gemilerinde borozan bulunduğu takdirde seyir halinde bulunan bir gemi, demirli veya seyir halinde diğer harb gemisinin yanından geçerken evvela ast gemi kumandanı üst gemi kumandanını boru ile (Dikkat) çalarak selamlar. Bunu takiben üst Kumandan gemisi boru ile (Dikkat) çalarak selamlar. Takriben bir dakika sonra üst evvela rahat çalar ve takiben ast rahat çalar. Boru ile (Dikkat) çalındığı vakit bütün erler hazırol vaziyetine geçer astsubaylar ve subaylar el ile selam verirler.

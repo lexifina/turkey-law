@@ -1,0 +1,2 @@
+Madde 79 – Muharebede veya vazifede bir kaza neticesinde şehit olan ordu mensuplarına hususi emirle merasim yapılır, emir verilmemişse bir üst rütbeye yapılan merasim icra edilir. Mümkünse cenaze top arabasında taşınır, varsa bando bulundurulur.
+Cenaze merasimine iştirak edecek kıtalarla kıta dışında merasime katılanların tertiplenmesinde, merasim başlar başlamaz kıtanın cenazenin ilerisinde kolayca yürüyüşe geçebilmesi ve kıta haricindekilerin teşkil edilecek kortejdeki yerlerini kolayca alabilmeleri imkanı sağlanmalıdır.

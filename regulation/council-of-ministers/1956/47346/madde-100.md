@@ -1,0 +1,1 @@
+Madde 100 – Yabancı memurlara saygı göstermek için Türk harb gemilerinden atılacak selam topları, Türk memurlarına eşit olarak (Cetvel: 1) e göredir. Cetvele uymayan yabancı memurlara atılacak top sayısı o memurun kendi memleketinde hakkı bulunduğu kadar olup, bilinmediği takdirde kendisine veya beraberinde bulunan şahıslara sorularak öğrenilir.

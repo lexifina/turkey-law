@@ -1,0 +1,3 @@
+Madde 17 – Hükümet Merkezi haricindeki garnizonlarda yapılacak askeri merasim ve tebrikler:
+a. Mevkiin en büyük kumandanının tayin ve tesbit edeceği kara, deniz, hava, jandarma ve gümrük kuvvetleri mensuplarıyla birikte ve merasim kıyafeti (1 No.lı elbise) ile mahallin en büyük mülki amirini makamında tebrik ederler. Geçiş sırası 8 inci maddedeki esaslara göre tertip ve tanzim olunur.
+b. Tebrik merasiminin sonunda askeri kıta bulunan mahallerde mahallin en büyük mülki amiri en büyük rütbeli kumandanı ile birlikte merasime katılan birlikleri ve sivil teşekkülleri teftiş ederler. Bunu mütaakıp geçit resminin kabul edileceği yere gelinir, ve program gereğince geçit resmi başlar.

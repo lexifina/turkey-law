@@ -1,0 +1,1 @@
+Madde 38 – Silah altına alınan ihtiyat erler bölük kumandanları tarafından toplanarak evvelce ettikleri yemin kendilerine hatırlatılır ve niçin silah altına alındıkları ve milletin kendilerinden neler beklediği ve nasıl çalışmak ve fedakarlık yapmak lazım geldiği söylenerek yurt sevgileri arttırılır.

@@ -1,0 +1,2 @@
+YEMİN MERASİMİ
+Madde 34 – Orduya giren her asker Ordu Dahili Hizmet Kanununda yazılı olduğu gibi yemin eder. Yemin merasimi her sene acemi erlerin kıtaya gelişlerinden bir ay sonra kolordu veya müstakil tümen kumandanlarının tayin edecekleri bir günde çok parlak ve canlı bir surette yapılır. Bundan sonra kendilerine silahsız hizmetler verilebilir. Üç aylık talim ve terbiyeden sonra da silahlı vazife verilebilir.

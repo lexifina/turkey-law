@@ -1,0 +1,2 @@
+Madde 125 – (1) Kumandan bulunan fors sahibi veya diğer bir subay bir limana varışında, uhdesinde sefaret veya sefaret müsteşarlığı bulunan Türk siyasi memurlarını evvela ziyaret eder ve fakat sefaret müsteşarı veya başkonsolostan ast dereceyi haiz olan siyasi memurların evvela ziyaretlerine intizar edilir.
+(2) Uhdesinde sefaret bulunan siyasi memurların makamları hakkında tereddüt hasıl olduğu takdirde resmi ziyaret yapılmadan evvel bir subay gönderilerek malümat alınır.

@@ -1,0 +1,2 @@
+Büyük rütbeli yabancılar:
+Madde 107 – Büyük rütbeli yabancı memurlardan biri veye fors çekmek hakkını haiz yabancı bir deniz subayı veya general rütbesinde yabancı bir kara ve hava subayı Türk harb gemilerinden birini ziyaret edecek olursa gemiden ayrılırken kendi harb gemilerini ziyaret esnasınde atılacak olan top adedi ile veya 19, u geçmemek üzere münasip görülecek aded top ile selamlanır. Eğer bu zatta kendi devletinin tüzüğü mucibince rütbesine eşit toplardan daha dun ise ziyadesiyle selamlanır.

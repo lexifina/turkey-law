@@ -1,0 +1,1 @@
+Madde 101 – Topla selamlanmak hakkını haiz siyasi ve mülki memurlarla kara, deniz ve hava subaylarının bindikleri gemi (Madde: 99) mucibince topla merasim yapılmaktan istisna edilmiş bir harb gemisi veyahut bir tüccar gemisi ise limanda bulunan harb gemilerinin kıdemli kumandanı emrindeki gemilerden birine bu merasimin ifasını emredebilir.

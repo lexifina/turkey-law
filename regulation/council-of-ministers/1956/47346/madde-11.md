@@ -1,0 +1,1 @@
+Madde 11 – Hükümet Merkezindeki bilümum birlik, müessese ve okullara tayin edilerek gelenler veyahut tayin edilerek ayrılanlardan yarbay ve muadili askeri memurlar (Dahil) daha küçük rütbe sahipleri, kendi rütbelerinden iki dereceye kadar üst amirlerini ziyaret ederler.

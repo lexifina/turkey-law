@@ -1,0 +1,1 @@
+Madde 12 – Milli Müdafaa Vekili ve Erkanıharbiyei Umumiye Reisini ziyaret etmek isteyen basın mensuplarının ziyaretleri Milli Müdafaa Vekaleti Temsil Bürosu tarafından diğer sivil zevatın ziyaretleri hususi kalem müdürleri veya emir subayları tarafından tertip ve tanzim olunur.

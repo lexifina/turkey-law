@@ -1,0 +1,4 @@
+YABANCI DEVLET BAŞKANLARINA VEYA HÜKÜMDARLARINA
+YAPILACAK MERASİM
+Madde 91 – a) Yabancı bir reisicumhur veya hükümdarlariyle bilfiil hükümdarlık eden prens veya prenseslerden biri yahut bunlardan birinin kocası veya eşi Türkiye Cumhuriyeti dahilinde topla selam yapılacağı ilan edilmiş bulunan müstahkem mevkilerle kıyı bataryalarının bulundukları yerlere veya bir harb gemisinin bulunduğu mahalle geliş ve gidişlerinde, ilk geliş ve son ayrılışlarında o mevki veya harb gemilerinden 21 pare top atılmak suretiyle selamlanır. Türk harb gemilerinden birine geliş ve gidişlerinde de aynı merasim yapılır. Selam toplarının atışında merasime katılan bütün harb gemileri grandi direğine o hükümetin milli bayrağını çekerler. Gemi tek direkli ise mevcut olan direğe çekilir.
+b) Türk harb gemileri, yabancı devlet başkanları ile hükümdarlardan birinin forsunu taşıyan bir gemiye tesadüfünde veya bu gemiyi geçerken veyahut bu gemi tarafından geçilirken 21 pare topla forsu selamlarlar.

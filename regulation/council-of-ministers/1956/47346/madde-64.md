@@ -1,0 +1,1 @@
+Madde 64 – Karşılayıcı kıta iyi giyinmiş, silahsız ve kıta yalnız palaska takmış olmalı. Garnizonda bando varsa ve karşılamaya bir bölük çıkacaksa beraber alınmalı, gelecek erlerin eşyalarını taşımak üzere münasip miktarda nakil vasıtası beraber götürülmelidir.

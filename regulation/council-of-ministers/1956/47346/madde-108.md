@@ -1,0 +1,3 @@
+Milli sancağa selam:
+Madde 108 – Bir gemi kumandanı veya birden ziyade gemilere kumanda eden kıdemli bir subay bir ecnebi limana demirlediği zaman, orada limana sahip olan devletin müstahkem mevkii veya batarya veya bir harb gemisi bulunuyor ve kendi tarafından ifa olunacak selamın iade edileceğine kanaat hasıl ederse, o devletin sancağını 21 pare top ile selamlar.
+Bir harb gemisi bir ecnebi limanını her ziyaretinde top ile selamlar. Ancak limandan muvakkaten çıkarıldığı takdirde mahalli memurların muvafakatiyle avdette selam resminden sarfınazar edilir. Bu husus milletlerarasınca kabul edilmiştir.

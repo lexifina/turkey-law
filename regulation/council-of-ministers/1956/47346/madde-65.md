@@ -1,0 +1,1 @@
+Madde 65 – Kışlaya varıldığı zaman kıta nizam karakolu tarafından selamlanır ve bundan sonra münasip bir yerde gelen erlere istirahat verilir. Kafi istirahatten sonra alay (Müstakil tabur) kumandanı "Hoş geldiniz" der ve onlara gönül çekici münasip sözler söyledikten sonra birliklere taksim edilir.

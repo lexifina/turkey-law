@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "gazette": "9420",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1956-09-29",
+  "in_force_basis": "original Gazette publication date in official listing",
+  "issuer": "Council of Ministers",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "listing_gazette": "9420",
+  "listing_published": "1956-09-29",
+  "published": "1956-09-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=3&MevzuatNo=47346&MevzuatTertip=3",
+  "source_bytes": 409585,
+  "source_id": "3.3.47346",
+  "source_sha256": "a41838558a20d15f2cd11dc2744ba967d3c600e8652796d7bf2eef97e4a49558",
+  "title": "ASKERİ MERASİM VE PROTOKOL TALİMATNAMESİ",
+  "word_count": 17218
+}

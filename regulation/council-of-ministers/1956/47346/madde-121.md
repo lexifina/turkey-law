@@ -1,0 +1,2 @@
+Milli Savunma Vekili Forsu:
+Madde 121 – Milli Savunma Vekili forsunu çekmiş bulunan bir gemi amiral veya herhangi bir fors çekmiş bulunan bir Türk harb gemisi tarafından topla selamlanırsa, Milli Savunma Vekili forsunu çekmiş bulunan gemi tarafından topla selama mukabele edilmez. Eğer yabancı harb gemileri tarafından Milli Savunma Vekili forsu topla selamlanır ise, lüzum hasıl olduğu takdirde Vekilin beraberinde bulunduğu amiral gemisi, veya herhangi bir gemiye işaret veya sair vasıta ile yabancı gemisine topla selam iade edilmemesi emredilir.

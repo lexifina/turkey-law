@@ -1,0 +1,1 @@
+Madde 32 – Cumhuriyet ve Zafer bayramlariyle dini bayramlarda, kumandanlar veya memur edeceği şahıslar tarafından hastahaneler, dini bayramlarda kışlalar ve hastaneler ziyaret edilerek tebrikler yapılır.

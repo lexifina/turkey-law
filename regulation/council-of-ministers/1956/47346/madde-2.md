@@ -1,0 +1,1 @@
+Madde 2 – Bu Tatimatnamede yazılan veya hususi emirle yaptırılacak askeri merasimin kanun, kararname ve talimatnameler dairesinde tertip ve tanzimi işi ile Erkanıharbiyei Umumiye Riyaseti Personel Başkanlığı vazifelidir.

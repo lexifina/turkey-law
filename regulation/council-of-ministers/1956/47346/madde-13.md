@@ -1,0 +1,1 @@
+Madde 13 – Hükümet Merkezi haricindeki garnizonlara gelen veya ayrılan ordu mensuplarından alay ve daha büyük birlik kumandanları ile bu rütbelere eşit diğer rütbe sahipleri ve muadilleri o garnizondaki en büyük üste kadar, diğerleri de kendi rütbelerinin iki derece üstüne kadar o garnizonda bulunan üstlerini makamlarında ziyaret ederler.

@@ -1,0 +1,4 @@
+YABANCI HÜKÜMDAR AİLELERİNE YAPILACAK MERASİM
+Madde 92 – a) Yabancı hükümdar ailelerine mensup prenslerden biri Türkiye Cumhuriyeti dahilinde topla selam yapılacağı ilan edilmiş bulunan müstahkem mevkilerle kıyı bataryalarının bulundukları yerlere veya bir harb gemisinin bulunduğu mahalle geliş ve gidişlerinde, ilk geliş ve son ayrılışlarında o mevki ve harb gemilerinden 21 pare top atılmak suretiyle selamlanırlar. Türk harb gemilerinden birine geliş ve gidişlerinde de aynı merasim yapılır. Selam toplarının atışında merasime katılan bütün harb gemileri grandi direğine o prensin mensup olduğu hükümetin milli bayrağını çekerler.
+b) Türk harb gemileri yabancı bir devlet limanında bulunurken böyle bir ziyaret olursa (a) paragrafındaki merasim aynen yapılır.
+c) Türk harb gemileri prensin forsunu çekmiş bir gemiye tesadüf ederse veya bu gemiyi geçerse veyahut bu gemi tarafından geçilirse yine (a) paragrafındaki merasim aynen yapılır.
