@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4048-44/14519",
+  "source_id": 24812,
+  "date": "2002-04-02",
+  "title": "Hayat standartı uygulamasında mükellefin eşine ait emekli ikramiyesinin izah nedeni gelir olarak kabul edilip edilmeyeceği hakkında... ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24812",
+  "source_sha256": "91ee2d2611970450a701305ed5399335024a84a79350e4464d70f41c2c80bef8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
