@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5287",
+  "year": 2005,
+  "title": "Ticari Karayolu Taşıtlarının Geçici İthaline İlişkin Gümrük Sözleşmesinin Uygun Bulunması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-01-18",
+  "gazette_issue": "25704",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050118-1.htm",
+  "source_sha256": "14991ac985e1ebe09a165a5a39edd6fb020ba58827548a781666bf25d5f6bea8",
+  "text_sha256": "701f7b05e71bcd9fdac229a988e1f8f1e807e8cfa6c968b18aa913ac156e2002",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/01/18/25704-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050118-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
