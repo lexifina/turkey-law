@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2924-232-2398/58011",
+  "source_id": 26305,
+  "date": "2000-12-07",
+  "title": "Yemek hizmeti veren işyerleri ile yemek fişi satışı faaliyetinde bulunan firmaların yemek fişi almak isteyen firmalara fatura düzenleyip düzenlemeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26305",
+  "source_sha256": "27e201fa96d7c5de379403d87b0e45d5d2ae733ee0560cdbba91539a4bc038b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
