@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3725",
+  "year": 1939,
+  "title": "Mazbut vakıflara ait akarların tamir ve ihyaları için 2578 sayılı kanun mucibince tavizen alınan 150 000 liranın ödenmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-10-05",
+  "gazette_issue": "4328",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4328.pdf",
+  "source_sha256": "293722d6f29d3387276aa7430e56d72f5be0d5bc52d646ebeef96f6ec9db7275",
+  "text_sha256": "715031add31b013a2282341fc65cc558831b1758ddf7add9bcccf499943b0320",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      20,
+      36
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003725.pdf",
+    "source_sha256": "e7cbb23f2e1cb0b9cf8cbad28c0f62e58543ed8b4e6b0360fb5f906766922356",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9586,
+    "bag": 0.9257,
+    "kd_coverage": 0.9767,
+    "kd_body_compared": 0.9551,
+    "rg_words": 90,
+    "kd_words": 89,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
