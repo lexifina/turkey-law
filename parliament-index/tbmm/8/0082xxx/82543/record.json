@@ -1,0 +1,102 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82543,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "HIFZI OĞUZ BEKATA (ANKARA)",
+  "summary": "Milli Korunma Kanununun bazı maddelerinin değiştirilmesi hakkında 5020 sayılı Kanuna ek kanun teklifi (2/33)",
+  "title": "Milli Korunma Kanununun bazı maddelerinin değiştirilmesi hakkında 5020 sayılı Kanuna ek kanun teklifi (2/33)",
+  "first_sitting_date": "1947-04-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 49,
+      "sitting_date": "1947-04-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005049.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005fih.pdf",
+      "pages": [
+        "3"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 57,
+      "sitting_date": "1947-05-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005057.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c005/tbmm08005fih.pdf",
+      "pages": [
+        "93"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 71,
+      "sitting_date": "1947-06-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006fih.pdf",
+      "pages": [
+        "111"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 72,
+      "sitting_date": "1947-06-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006fih.pdf",
+      "pages": [
+        "183:204"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 73,
+      "sitting_date": "1947-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006fih.pdf",
+      "pages": [
+        "216:235"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 6,
+      "sitting_date": "1947-11-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c007/tbmm08007006.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c007/tbmm08007fih.pdf",
+      "pages": [
+        "77"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 74,
+      "sitting_date": "1949-04-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018fih.pdf",
+      "pages": [
+        "549"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "89cc5dc0771589931f54f69e2061a823b93c6e7c7053bfb30e7d1db40ada367c",
+  "in_force": "1947-04-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
