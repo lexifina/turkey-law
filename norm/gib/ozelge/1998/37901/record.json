@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4106-85/17232",
+  "source_id": 37901,
+  "date": "1998-05-08",
+  "title": "Tarım işletmelerinde üretilen fındığın, Fiskobirlik Müdürlüğü tarafından satın alınmasında zirai ürünlerin alış bedelleri üzerinden gelir vergisi tevkifatı yapılacağı tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37901",
+  "source_sha256": "e9dfdbf3df9cbc51f855cd7d988bc65617a5b8b013004eea8dd4fcfa7cbcf274",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
