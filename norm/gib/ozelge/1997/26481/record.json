@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2925-233-636/21588",
+  "source_id": 26481,
+  "date": "1997-05-26",
+  "title": "Okul kantinlerinde Ö.K.C. Kullanımının zorluğu nedeniyle dip koçanlı perakende satış fişi bastırılıp kullanılmasının mümkün olup olmadığı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26481",
+  "source_sha256": "859c19dd5ac34005c37d72b0227a4f3358c7871625e0a82aebe60d6ab34892ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
