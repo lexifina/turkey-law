@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-02-09",
+  "issue": "25368",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlân",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Altındağ Belediye Başkanlığı İmar Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/02/20040209-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (1 = 1)",
+  "ilan_codes": [
+    "1183/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/02/20040209-4.htm",
+  "category_page_sha256": "6d9f48316f81cf5d28dd7e7f0b777be94ee9ee50ce0b830dd4590f7ebbbca8e6",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/02/20040209.htm",
+  "index_sha256": "f2074c4e83577f9c934122a013a3db15aeaa59e15b29725b6d07188b7d95c3fd",
+  "index_header": "9 Şubat 2004 ... Sayı : 25368",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
