@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6916",
+  "year": 1957,
+  "title": "5434 sayılı Kanunun 6311 sayılı Kanunla değiştirilen 17. maddesinin değiştirilmesine ve 5434 sayılı Kanuna muvakkat bir madde eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-02-23",
+  "gazette_issue": "9543",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9543.pdf",
+  "source_sha256": "6868a0b19c2a64eda94db2184d3cc77cac74b351ffa375d33cc5ea968142c8d3",
+  "text_sha256": "3a6142203cfe6cb54d3031fd69d03675b562477992e72698bd980888ca4a577e",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      10,
+      140
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906916.pdf",
+    "source_sha256": "a0d18ac41bccf68605b002db598f7223927372bdb348bd0a56de641b5078e2e5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9201,
+    "bag": 0.8097,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9719,
+    "rg_words": 714,
+    "kd_words": 747,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
