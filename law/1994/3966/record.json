@@ -1,0 +1,87 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3966",
+  "year": 1994,
+  "title": "Genel Bütçeye Dahil Dairelerin 1967,1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981 ve 1982 Malî Yılları Kesinhesap Kanunu",
+  "adopted": "1994-02-08",
+  "adopted_as_published": "08/02/1994",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18.02.1994 No: 21853",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703966.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 77",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 268594,
+      "title": "Genel Bütçeye Dahil Dairelerin 1967,1968,1969,1970,1971,1972,1973,1974,1975,1976,1977,1978,1979,1980,1981 ve 1982 Malî Yılları Kesinhesap Kanunu",
+      "adopted_as_published": "08/02/1994",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703966.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 12,
+          "sitting_date": "1991-12-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c001/tbmm19001012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c001/tbmm19001fih.pdf",
+          "pages": [
+            "334:335"
+          ]
+        },
+        {
+          "cilt": 33,
+          "sitting": 87,
+          "sitting_date": "1993-04-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c033/tbmm19033087.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c033/tbmm19033fih.pdf",
+          "pages": [
+            "264"
+          ]
+        },
+        {
+          "cilt": 52,
+          "sitting": 67,
+          "sitting_date": "1994-01-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c052/tbmm19052067.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c052/tbmm19052fih.pdf",
+          "pages": [
+            "89:91",
+            "100",
+            "118:122"
+          ]
+        },
+        {
+          "cilt": 52,
+          "sitting": 68,
+          "sitting_date": "1994-02-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c052/tbmm19052068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c052/tbmm19052fih.pdf",
+          "pages": [
+            "198",
+            "237",
+            "324:328"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=101&v_kullanici_id=27483194",
+      "page_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1",
+  "issuer": "TBMM",
+  "in_force": "1994-02-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 08/02/1994; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
