@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-07-22",
+  "issue": "25176",
+  "edition": "regular",
+  "item": 30,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-2",
+  "title": "Tütün, Tütün Mamulleri ve Alkollü İçkiler Piyasası Düzenleme Kurumundan :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030722-3-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (34 = 34)",
+  "ilan_codes": [
+    "25208/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030722-3-2.htm",
+  "category_page_sha256": "a789d00f794d926033f194a6f0f2ec29ab82cc4c0779891e9ab45d54f3b10972",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030722.htm",
+  "index_sha256": "4716105e5da31316328fce434a3ff324fd639a924d3af844abcf863b748179c3",
+  "index_header": "22 Temmuz 2003 ... Sayı : 25176",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
