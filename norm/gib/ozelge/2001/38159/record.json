@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6231-3-95/5239",
+  "source_id": 38159,
+  "date": "2001-01-26",
+  "title": "Depremde afete maruz kalanlar için yaptırılan konutlara ilişkin olarak firmalara yapılan hakediş ödemeleri sırasında damga vergisinin kesilip kesilmeyeceği  hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38159",
+  "source_sha256": "bc66b7f6374d4c6fa6f0b074964c85c0ce5e8bedfa6714ae9bbc1a3546f15916",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
