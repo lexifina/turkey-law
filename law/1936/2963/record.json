@@ -1,0 +1,60 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2963",
+  "year": 1936,
+  "title": "Kalpazanlığın cezalandırılmasına dair 20 nisan 1929 tarihinde Cenevre'de tanzim ve imza edilmiş olan beynelmilel mukavele ile merbutu protokol ve nihaî senede iltihak edilmesi hakkında kanun",
+  "adopted": "1936-05-04",
+  "adopted_as_published": "04/05/1936",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09.05.1936 No: 3299",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602963.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 16",
+  "committee_reports": [
+    {
+      "label": "TBMM 161 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c010/tbmm05010056ss0161.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104177,
+      "title": "Kalpazanlığın cezalandırılmasına dair 20 nisan 1929 tarihinde Cenevre'de tanzim ve imza edilmiş olan beynelmilel mukavele ile merbutu protokol ve nihaî senede iltihak edilmesi hakkında kanun",
+      "adopted_as_published": "04/05/1936",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602963.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 161 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c010/tbmm05010056ss0161.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 58,
+          "sitting_date": "1936-05-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011fih.pdf",
+          "pages": [
+            "4:9"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=920&v_gelecek_sayfa=101&v_kullanici_id=27483162",
+      "page_sha256": "a274169445dbc921a74425ccb535ecc268148b569d8b8351a65db77bbccd044d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a274169445dbc921a74425ccb535ecc268148b569d8b8351a65db77bbccd044d",
+  "issuer": "TBMM",
+  "in_force": "1936-05-04",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 04/05/1936; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
