@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4007-154/1668",
+  "source_id": 21368,
+  "date": "2004-01-12",
+  "title": "Hayat  Sigortası sisteminden, bireysel  emeklilik sistemine geçilmesi halinde birikimli hayat sigortasına ödenmiş olan primlerin nakden iadesi veya bireysel emeklilik sistemine aktarılması halinde vergilendirme hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21368",
+  "source_sha256": "7ff55e1378ac25c202b513b481d227aa44f024b181217574bd7f7a11a51ea736",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
