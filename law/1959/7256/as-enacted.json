@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7256",
+  "year": 1959,
+  "title": "Türkiye Atom Enerjisi programının tatbik şekli hakkında Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-04-08",
+  "gazette_issue": "10180",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10180.pdf",
+  "source_sha256": "3bc1dd6289e05636e0aa1956959094b9ba574472a9213137c129ec7e8ab67884",
+  "text_sha256": "36c8f8b198c936a97b9f93470233bb725a4ffe4f6dc0ddca4a615584f0a17ecf",
+  "text_status": "ocr",
+  "pages": [
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      580,
+      645
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [3, 4] (no text layer)",
+    "tesseract_pages": [
+      3,
+      4
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107256.pdf",
+    "source_sha256": "baae006a79eca00a3dd88540d71c67baf9a9f85aaa92cde2ec6176cd063a9fe7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9223,
+    "bag": 0.8462,
+    "kd_coverage": 0.9956,
+    "kd_body_compared": 0.987,
+    "rg_words": 460,
+    "kd_words": 463,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
