@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 349778,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "HİLMİ GÜLDOĞAN (DİYARBAKIR)",
+  "summary": "Ve Üç Arkadaşı Nişan ve Madalya Kanunu hakkında (2/616)",
+  "title": "Ve Üç Arkadaşı Nişan ve Madalya Kanunu hakkında (2/616)",
+  "first_sitting_date": "1963-12-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 23,
+      "sitting": 9,
+      "sitting_date": "1963-12-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023009.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023fih.pdf",
+      "pages": [
+        "149"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 17,
+      "sitting_date": "1963-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023fih.pdf",
+      "pages": [
+        "486:487"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=5601&v_kullanici_id=27484893",
+  "source_sha256": "e95d8c641c8ff29d99f4a54c646e40371a3fb4c24ac7a0b3c6599a82d4822dc6",
+  "in_force": "1963-12-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
