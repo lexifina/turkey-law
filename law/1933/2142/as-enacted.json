@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2142",
+  "year": 1933,
+  "title": "Ankara Şehri Otomatik telefon Kanununun muaddel 7 nci maddesine bir fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-04-19",
+  "gazette_issue": "2380",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2380.pdf",
+  "source_sha256": "fbde9e75b48d99bf978d68a4964b74d578616960b97c7f77bb560e63c3385905",
+  "text_sha256": "337535ef70947067c572c845751847ffcc91041be7bd6f3d4266927a5691ce14",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      203,
+      216
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202142.pdf",
+    "source_sha256": "c383825e3f464313f3fe9444ef7e0189234b58e551ec6523249b377cd09f7dec",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9787,
+    "bag": 0.9197,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9714,
+    "rg_words": 69,
+    "kd_words": 70,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
