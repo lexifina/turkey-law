@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-834/22150",
+  "source_id": 36816,
+  "date": "1997-05-28",
+  "title": "Menkul kıymet alım satım faaliyeti devamlılık arz eden şirketlerin, bu alım satım karları gibi gelirleri üzerinden B.S.M.V. ödemeleri gerektiği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36816",
+  "source_sha256": "523372e583ffd90dde7aff769c9295626aa0fd57f94a273a305c4e82f96482a6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
