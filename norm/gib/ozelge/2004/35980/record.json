@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6369-642",
+  "source_id": 35980,
+  "date": "2004-01-15",
+  "title": "konut kredisi borcuyla ilgili olarak yapılacak işlemlerde düzenlenen kağıtların damga vergisinden, kullandırılacak kredilerle ilgili ipotekler ile bu konutların hak sahipleri adına tapuya tescilinin harçtan istisna edilmesi gerektiği hakkında...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35980",
+  "source_sha256": "1f12a903e2b8bc5f46faa665c4b6535fcb826bfdeaf5abac1dabcc643c34fb34",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
