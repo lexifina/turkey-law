@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 383956,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa ek ve geçici maddeler eklenmesine ve bu kanun ile diğer kanunların bâzı hükümlerinin kaldırılmasına dair (1/438)",
+  "title": "5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa ek ve geçici maddeler eklenmesine ve bu kanun ile diğer kanunların bâzı hükümlerinin kaldırılmasına dair (1/438)",
+  "first_sitting_date": "1971-02-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 47,
+      "sitting_date": "1971-02-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010047.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010fih.pdf",
+      "pages": [
+        "548"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 66,
+      "sitting_date": "1971-03-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012fih.pdf",
+      "pages": [
+        "53",
+        "338"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 91,
+      "sitting_date": "1971-04-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013091.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013fih.pdf",
+      "pages": [
+        "12",
+        "199:219",
+        "390:426",
+        "431:471",
+        "479:514",
+        "528:551",
+        "568:569",
+        "574:578",
+        "584:589",
+        "623:626"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 125,
+      "sitting_date": "1971-07-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015125.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015fih.pdf",
+      "pages": [
+        "203",
+        "240",
+        "270:294"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2201&v_kullanici_id=27484850",
+  "source_sha256": "8ce42570f9f4dc834db1d94f6fe07966e41e63dc99da2c0e2f5dde7dd3fac9ee",
+  "in_force": "1971-02-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
