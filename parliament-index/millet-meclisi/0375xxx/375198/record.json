@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 375198,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "İstanbul Milletvekili Kaya Özdemir'in, 931 sayılı İş Kanununun 5. maddesinin değiştirilmesi ve bu kanuna bâzı hükümler ilâve edilmesiyle ilgili kanun teklifi (2/797)",
+  "title": "İstanbul Milletvekili Kaya Özdemir'in, 931 sayılı İş Kanununun 5. maddesinin değiştirilmesi ve bu kanuna bâzı hükümler ilâve edilmesiyle ilgili kanun teklifi (2/797)",
+  "first_sitting_date": "1969-01-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 30,
+      "sitting": 22,
+      "sitting_date": "1969-01-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030fih.pdf",
+      "pages": [
+        "284"
+      ]
+    },
+    {
+      "cilt": 32,
+      "sitting": 42,
+      "sitting_date": "1969-02-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c032/mm__02032042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c032/mm__02032fih.pdf",
+      "pages": [
+        "57"
+      ]
+    },
+    {
+      "cilt": 36,
+      "sitting": 87,
+      "sitting_date": "1969-05-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036087.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036fih.pdf",
+      "pages": [
+        "162:164",
+        "332:344"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=4601&v_kullanici_id=27484893",
+  "source_sha256": "7ae4d44ab6459751bd452ff70dc4f88d8e7631bd173cb6c03ebcddc82d178fb1",
+  "in_force": "1969-01-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
