@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2810-13-828/4124",
+  "source_id": 25025,
+  "date": "2001-01-22",
+  "title": "Mükelleflerin tutuklu bulunması bir mücbir sebep halidir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25025",
+  "source_sha256": "69e73a2bc4ce2007d177955d85e85dfe6e6c167e1fe71735f0bca3695ca7b47b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
