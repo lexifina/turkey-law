@@ -1,0 +1,51 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1705",
+  "year": 1950,
+  "title": "Kore'ye Gönderilen Savaş Birliği Hakkında",
+  "adopted": "1950-12-11",
+  "adopted_as_published": "11/12/1950",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.12.1950 No: 7694",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/karartbmmc033/karartbmmc03301705.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 33",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 62585,
+      "title": "Kore'ye Gönderilen Savaş Birliği Hakkında",
+      "adopted_as_published": "11/12/1950",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/karartbmmc033/karartbmmc03301705.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 17,
+          "sitting_date": "1950-12-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c003/tbmm09003017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c003/tbmm09003fih.pdf",
+          "pages": [
+            "195:199",
+            "201:204"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "57f5d6a13942dc91a534daee615e9c033e448929879c76a5b3d96cfdcf0eb400"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "57f5d6a13942dc91a534daee615e9c033e448929879c76a5b3d96cfdcf0eb400",
+  "issuer": "TBMM",
+  "in_force": "1950-12-11",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 11/12/1950; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
