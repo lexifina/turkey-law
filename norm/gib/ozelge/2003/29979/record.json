@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5410-259-56121",
+  "source_id": 29979,
+  "date": "2003-12-30",
+  "title": "Tapuya tescil edilmeyen ancak satıcı tarafından alıcıya fiilen teslim edilen gayrimenkullerde, katma değer vergisi açısından vergiyi doğuran olay gayrimenkulun fiilen teslimi ile meydana gelmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29979",
+  "source_sha256": "b9dd7c8a43a42d07e94161c1ff2663cc1332629ac0255e15aa8a6d653fd57b34",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
