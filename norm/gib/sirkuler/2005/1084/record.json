@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "BGK-1/2005-1",
+  "source_id": 1084,
+  "date": "2005-03-02",
+  "title": "İnternete bağlanma hizmeti veren, bira, alkollü içki içilmeyen, satılmayan ve ruhsatnamelerinde 'Kahvehane' veya 'İnternet Kafe' yazılı yerlerin eğlence vergisi ile yükümlü tutulmamaları gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/sirkuler/1084",
+  "source_sha256": "da507264ea88c1015c68db5e8475434e62b249ce4112d59b6b791c80e8c80710",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
