@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6516-775/27870",
+  "source_id": 25036,
+  "date": "2003-06-30",
+  "title": "Ödeme kaydedici cihazları kullanma mecburiyeti işe başlama veya mecburiyeti kapsamına girme tarihinden itibaren başlar.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/25036",
+  "source_sha256": "59b2332bf7661bdcc1c64b8f52d777dc5190f70dc954b1432a4d19ab44e1bffa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
