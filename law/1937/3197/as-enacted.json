@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3197",
+  "year": 1937,
+  "title": "Satılan kinin bedelinin Sıhhat ve İçtimaî Muavenet Vekâleti 1936 malî yılı bütçesine tahsisat kaydi hakkında",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-06-05",
+  "gazette_issue": "3623",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3623.pdf",
+  "source_sha256": "29cdf924a53810291bf3129bbd4cb7a7e0a3c9f45797d9bc6155bd192e87ef10",
+  "text_sha256": "f1a7a5d4f5c6792ecff09c6db9254db211d35cb9f56528ed248cf02278e53140",
+  "text_status": "ocr",
+  "pages": [
+    10
+  ],
+  "line_span": [
+    [
+      2920,
+      2933
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703197.pdf",
+    "source_sha256": "a3bb6a026ecf05e39f6107601ea2624c08484db6f95001abc6cbb3ba1a85c973",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9481,
+    "bag": 0.8923,
+    "kd_coverage": 0.9697,
+    "kd_body_compared": 0.9275,
+    "rg_words": 66,
+    "kd_words": 69,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
