@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-56/018124",
+  "source_id": 22899,
+  "date": "2003-04-30",
+  "title": "İhracat teslimleri ve yurt dışında yapılan inşaat işinden sağlanan  kazançların, Türkiye'ye döviz olarak getirildiğinin tevsik edilmesi şartıyla kurumlar vergisinden müstesna tutulması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22899",
+  "source_sha256": "9f68421157c6a50435601df5491bd93c74bf5c5ff82abd579d0021206b832903",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
