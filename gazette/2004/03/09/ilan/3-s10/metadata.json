@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-03-09",
+  "issue": "25397",
+  "edition": "regular",
+  "item": 10,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Eti Gümüş Anonim Şirketi Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/03/20040309-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (11 = 11)",
+  "ilan_codes": [
+    "2821/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/03/20040309-3.htm",
+  "category_page_sha256": "c7157b9b1ad34754821695d0a33f03c3d04d63a24b1cf2e71be45f8f32afc8d2",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/03/20040309.htm",
+  "index_sha256": "b129c09a9ea0c778ccdba059223cc48940b36152fbf0697de149a129af60116d",
+  "index_header": "9 Mart 2004 ... Sayı : 25397",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
