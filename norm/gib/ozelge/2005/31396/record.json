@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5313-514-14263",
+  "source_id": 31396,
+  "date": "2005-03-29",
+  "title": "Hava taşımacılığında kullanılması mümkün olmayan ve öğrencilere yerde eğitim verme, mesleki bilgi ve becerilerini artırma amacıyla kullanılan ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31396",
+  "source_sha256": "1be40b9bc67a3696e6bfb19389fd66accb867a68c18937ddfafd7c19c7fcf487",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
