@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5179",
+  "year": 2004,
+  "title": "Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-06-05",
+  "gazette_issue": "25483",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/06/20040605.htm",
+  "source_sha256": "aba4265e01db8c1782753e94cfa140b5e0aa63f387a6695e453ad124b93f7a40",
+  "text_sha256": "66521a4c6f50ac5eba3abda057b42f9b8a769e40f750ea6aa19daf2755018ae5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/06/05/25483-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/06/20040605.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
