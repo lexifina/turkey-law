@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-12-02",
+  "issue": "25304",
+  "edition": "regular",
+  "item": 17,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "TEDAŞ Rize Elektrik Dağıtım Müessesesinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031202-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (43 = 43)",
+  "ilan_codes": [
+    "47762/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031202-3-4.htm",
+  "category_page_sha256": "7fdc58e9a9fa619ff4f2fc4202f255ee95b6e1ee67f8bb368cd3b53d19fdf7ca",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031202.htm",
+  "index_sha256": "4fb4760fa2ab40b016e3ca593875c54ac3e31cae32b398ad6166a6e799d65d58",
+  "index_header": "2 Aralık 2003 ... Sayı : 25304",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
