@@ -14,7 +14,7 @@ k) Kesin teminat miktarı ile kesin teminatın iadesine ait şartlar.
 1) Garanti istenilen hallerde süresi ve garantiye ilişkin şartlar.
 m) İşin yapılma yeri, teslim etme ve teslim alma şekil ve şartları.
 n) Gecikme halinde alınacak cezalar.
-o) Mücbir sebepler ve süre uzatımı verilebilme şartları.
+o) (Değişik: 30/7/2003-4964/43 md.) Mücbir sebepler ve süre uzatımı verilebilme şartları, sözleşme kapsamında yaptırılacak iş artışları ile iş eksilişi durumunda karşılıklı yükümlülükler.
 p) Denetim, muayene ve kabul işlemlerine ilişkin şartlar.
 r) Yapım işlerinde iş ve işyerinin sigortalanması ile yapı denetimi ve sorumluluğuna ilişkin şartlar.
 s) Sözleşmede değişiklik yapılma şartları.
