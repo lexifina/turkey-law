@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 229432,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "RIZA YILMAZ (ANKARA)",
+  "summary": "Ve 13 Arkadaşının, 506 Sayılı Sosyal Sigortalar Kurumu Kanununun 2098 Sayılı Kanunla Eklenen Ek 1. Maddesine 2 Bent Eklenmesi Hakkında (2/35)",
+  "title": "Ve 13 Arkadaşının, 506 Sayılı Sosyal Sigortalar Kurumu Kanununun 2098 Sayılı Kanunla Eklenen Ek 1. Maddesine 2 Bent Eklenmesi Hakkında (2/35)",
+  "first_sitting_date": "1988-10-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 15,
+      "sitting": 9,
+      "sitting_date": "1988-10-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015009.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015fih.pdf",
+      "pages": [
+        "30"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 12,
+      "sitting_date": "1988-10-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015fih.pdf",
+      "pages": [
+        "179:196"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "728e64b0f8f780646c400a912dc0e7acd2c54ef7214ac492c3fdcae4ef1c728e",
+  "in_force": "1988-10-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
