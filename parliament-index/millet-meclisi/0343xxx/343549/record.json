@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 343549,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Polis vazife ve salâhiyeti Kanununun 2. maddesinin değiştirilmesine dair (1/458)",
+  "title": "Polis vazife ve salâhiyeti Kanununun 2. maddesinin değiştirilmesine dair (1/458)",
+  "first_sitting_date": "1963-05-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 17,
+      "sitting": 82,
+      "sitting_date": "1963-05-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017082.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c017/mm__01017fih.pdf",
+      "pages": [
+        "51"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 99,
+      "sitting_date": "1963-06-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+      "pages": [
+        "295"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 131,
+      "sitting_date": "1963-09-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021131.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021fih.pdf",
+      "pages": [
+        "35",
+        "36"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=4701&v_kullanici_id=27484850",
+  "source_sha256": "d516859723edca557b07d22141b72a7c11885de8db49ba85ca485485502c2d6c",
+  "in_force": "1963-05-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
