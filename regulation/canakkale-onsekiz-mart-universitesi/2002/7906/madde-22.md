@@ -1,0 +1,32 @@
+Malzemenin Üniversite Arşivinde Tasnifi ve Yerleştirilmesi
+Madde 22 — Arşivlik malzeme (ve arşiv malzemesi), işlem gördüğü tarihte meydana gelen teşekkül ve münasebet biçimlerine uymak suretiyle düzenleme esasına dayanan organik metotla (Provenance Sistemi) tasnif edilir. Bu tasnif sisteminin esası, arşivlere devredilen fonları, bütünlüklerini bozmadan aslî düzeni ile bırakmaktır.
+Arşivlik malzemenin işlem gördüğü tarihlerdeki ait olduğu birimler, hiyerarşik bütünlük içerisinde tespit edilir. Birimlerin kendilerine ait olan evrakı bir araya getirilir.
+Tasnif işlemleri, şu sırayı takip eder:
+a) Önce, her birime ait evrak, tek tek elden geçirilerek ayırma işlemi yapılır. Birimlerin evrakı, işlem gördükleri tarihlerdeki teşekkül ve münasebet biçimlerine uygun şekilde bir araya getirilir.
+Ayırma işlemi, Üniversitenin genel idarî yapı şeması tespit edildikten sonra yapılır.
+Kesin tasnif, muhafazasına lüzum görülmeyen malzemenin ayıklama ve imhasından sonra yapılır.
+b) Teşkilât şemasına göre, Rektörlük bünyesinde Daire Başkanlıklarının, birimlerde ise birim kodlarının ayrı ayrı tespit edilmesi işlemine geçilir.
+Teşkilat kodlarının tespiti işlemi veya yeni kurulan birimler için kod ihdası Devlet Arşivleri Genel Müdürlüğü ile koordineli olarak yapılır.
+c) Ayırımı yapılan evraktan, konu ve işlem itibarıyla aidiyeti aynı olanlar, ekleri ile birlikte bir araya getirilir. Evraka ekli olan harita, plan, proje ve benzerleri, asıl evraktan ayrılmaz. Bu tür ekler asıl evrak ve vesaik ile birlikte ele alınır.
+Birden fazla yaprak ve sayfadan ibaret olan evrakın, dağılmasına mani olmak, yerlerinin kaybolmasını önlemek ve aidiyetlerini sağlamak, dolayısıyla kullanılmalarını kolaylaştırmak için yaprak ve sayfalar numaralandırılır. Her dosyada, evraklar 1’den başlamak üzere sıra numarası alır. Evrakın ekleri, kendi içerisinde sayıldıktan sonra, asıl evrakın ön yüzünün sol alt köşesine adet olarak kurşun kalemle yazılır.
+d) Daha sonra, birimleri tespit edilmiş olan evrak, kendi içerisinde "gün, ay ve yıl" sırasına göre, kronolojik sıraya konur. Bu işlem yapılırken, aşağıdaki hususlar göz önüne alınır:
+i) Kronolojik sıralama işlemi, küçük tarihten büyük tarihe doğru yapılır. Birden fazla eki bulunan evrakın, kronolojik sıralamasında da aynı usul uygulanır.
+ii) Üzerinde yalnızca "ay"ı olup, günü belli olmayan evraklar, sıralamada, evrakın sayısı gibi ipucu olacak bir unsura sahip değilse, bunlar bulundukları ayın en sonuna, toplu olarak konulur.
+iii) Üzerinde gün ve ay olmayıp, sadece yıl yazılı olanlar, ait oldukları yılın en sonuna konulur.
+iv) Üzerinde yazılı bir tarih olmadığı hâlde, tahminî tarihlemesi yapılan evraklar da, ait oldukları yılın, ayı ve günü belli olmayan evrakları arasına konulur.
+e) Ayırma neticesinde, arşiv malzemesinin ait olduğu, daire başkanlığına kadar, daha önceden belirlenmiş kodlarını ihtiva eden, lâstikten yapılmış "Arşiv Yer Damgası", (Ek: 1), evrakın ön yüz alt bölümüne siyah ıstampa mürekkebi kullanılmak suretiyle basılır. Arşiv yer damgasında, "Alt Birim Kodu"na kadar olan kısımlar değişmeyeceğinden, bunların belirlenmiş kodları, lâstik damganın yapılması sırasında damgada yer alır. Aynı damganın "Kutu veya Klâsör Numarası", "Dosya Numarası" ve "Evrak Sıra Numarası" bölümleri ise kurşun kalemle doldurulur.
+"Kutu Numarası" bölümünde evrak ve vesaikin dosyalar içerisinde konacağı kutuya verilecek müteselsil numara yazılır.
+"Dosya Numarası" bölümüne bir kutuda yer alacak dosyalara verilecek müteselsil numara yazılır.
+"Evrak Sıra Numarası" bölümüne ise, her bir dosyaya yerleştirilecek evraklara verilecek sıra numarası yazılır. Her bir dosya içerisinde yer alacak evraklar 1'den başlamak üzere sıra numarası alır. "Arşiv Yer Damgası", aidiyet ve bütünlüğü sağlaması bakımından , evrakın eklerine de basılır.
+Kodlamada, "Kutu Numarası", "Dosya Numarası" ve "Evrak Sıra Numarası" bölümleri, kurşun kalemle doldurulur. Boyalı, sabit, tükenmez veya mürekkepli kalemle evrak üzerine yazı yazılmaz.
+f) Her bir dosya gömleği içerisine, o dosyada yer alacak evrakın dökümünü verecek, bir "Dosya Muhteviyatı Döküm Formu" (Ek: 2) konacaktır.
+g) İstenen belgelere süratli bir şekilde ulaşmayı sağlamak için, belgelerin dosyalar içerisinde yerleştirileceği kutuların (veya klasörlerin), sırtlarında bulunan etiketler üzerine yukarıda belirtilen kodlamanın, "Evrak Sıra Numarası" hanesine kadar olan bilgiler kaydedilir. Bu etiketlerde (Ek:3), "Dosya Numarası" hanesine, bir kutuda yer alacak dosyaların ilk ve son numaraları ile, ayrıca "İşlem Yılı" yazılır. Aynı şekilde, dosya gömleklerinin ön yüzlerine de, kodlamanın "Dosya Sıra Numarası" dahil, "İşlem yılı" kaydedilir.
+Ayrıca, hizmetlerin hususiyeti ve aidiyeti itibariyle kendi arasında müteselsil numara almış olan evrak için; kutu etiketleri ile dosya gömleklerinin ön yüzlerinde, "İşlem Yılı" hanesinin altına, dosya ve dolayısıyla kutu içerisinde yer almış olan bu tür evrakın almış olduğu müteselsil numaranın başlangıç ve bitiş numaraları, aramada bir kolaylık unsuru olması bakımından kaydedilir. Bunun için, "İşlem Yılı" hanesinin altında bu numaraların yer alacağı bir boş kısım bırakılır.
+h) Kutu ve dosyalara verilecek sıra numaraları, dosyalama sistemleri devam ettiği sürece müteselsil olarak devam ettirilir.
+ı) Bu tasnif sisteminde, ayırma ve tarihleme işlemi tamamlanan evrakın, envanteri hazırlanır. Bunun için her evrakın veya ekleriyle birlikte evrak bütünlüğünün, mahiyeti hakkında özeti çıkarılıp fişlenir.
+i) Bütün bu işlemler, daha sonra kataloglara geçirilir.
+j) Tasnifi tamamlanmış olan evrak, standart dosya gömlekleri içerisinde kutulara (Ek: 4) (veya klâsörlere) konmuş olarak, gerekli şartları haiz arşiv depolarında ve madenî raflarda, tasnif plânına uygun olarak, bir yerleştirme plânı dahilinde yerleştirilir.
+Bu yerleştirmede, raflarda, çift taraflı ranzalar da dahil soldan sağa, gözlerde ise yukarıdan aşağıya doğru teselsül eden bir sıra dahilinde hareket edilir.
+Yerleştirme işlemi, arşiv deposuna girildiğinde, sol taraftaki ilk rafın sol üst köşesinden başlamak üzere yapılır. Bu işlem, her raf grubu için tekrarlanır.
+Arşiv deposunun yerleşim şeması çıkarılır ve depo girişinin uygun bir yerine asılır.
+Bu tasnif sistemi, yalnızca klasik tip arşiv belgesi denilen evrak için söz konusudur. Değişik tür ve çeşitteki malzemenin (film, fotoğraf, plâk, ses ve görüntü kaseti, disket, cd, vb.) tasnifi, değişik sistem ve işlemlere göre yapılır.

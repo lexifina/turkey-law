@@ -1,0 +1,3 @@
+Arşivlerden Yararlanma
+Madde 8 — Arşiv malzemesinin aslı hiç bir sebep ve suretle, arşiv dışına çıkarılamaz.
+Ancak, Devlete, gerçek ve tüzel kişilere ait bir hizmetin görülmesi, bir hakkın korunması ve ispatı gerektiğinde, usulüne göre örnekler verilebilir. Yahut mahkemelerce tayin edilecek bilirkişiler veya ilgili dairelerince görevlendirilecek yetkililerce yerinde incelenebilir.

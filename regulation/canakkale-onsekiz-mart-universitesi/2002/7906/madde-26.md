@@ -1,0 +1,3 @@
+Devlet Arşivleri Genel Müdürlüğüne Devredilecek Malzemenin Ayrılması ve Teslimi
+Madde 26 — Üniversite Arşivi ve taşra teşkilatı birim arşivlerinde saklanma süresini tamamlayan arşiv malzemesi "Devlet Arşivleri Genel Müdürlüğüne Devredilecekler" şeklinde ayrılarak, hazırlanacak "Arşiv Malzemesi Devir-Teslim ve Envanter Formu" (Ek:5), varsa kayıt defterleri ile birlikte en geç 1 yıl içinde Devlet Arşivleri Genel Müdürlüğüne devredilir.
+Elektronik ortamlarda kayıtlı arşiv malzemesinin devir işlemlerinde Devlet Arşivleri Genel Müdürlüğü tarafından belirlenecek formatlara uyulur.
