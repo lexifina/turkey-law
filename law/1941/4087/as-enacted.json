@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4087",
+  "year": 1941,
+  "title": "Tayınat ve yem kanununun birinci maddesine müzeyyel 1495 sayılı kanunda değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-07-12",
+  "gazette_issue": "4858",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4858.pdf",
+  "source_sha256": "a3cede28973d005d3a623b1a0ba256586c75bc32af2c2f42f95bcf37c0ed04b1",
+  "text_sha256": "a1f2f4a2dab8461e151cd755a108d86cf7f4046c0d4cd0a845ecfcf49bff1182",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      30,
+      41
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204087.pdf",
+    "source_sha256": "e3f51abea66340352ef1e4e9517534992486309621146878c2f873da8bf507ea",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9809,
+    "bag": 0.9365,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9688,
+    "rg_words": 64,
+    "kd_words": 64,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
