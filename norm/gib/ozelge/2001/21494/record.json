@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4213-2216/9281",
+  "source_id": 21494,
+  "date": "2001-02-15",
+  "title": "Dernek tarafından çalıştırılan kaloriferciye yapılan ödemelerin ücret olarak vergilendirilmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21494",
+  "source_sha256": "77ef42b81b03395bdd623d513a55ecd4dc2c78e64e94e6e9180f1fdf0d94973e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
