@@ -1,0 +1,98 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "282",
+  "year": 1961,
+  "title": "Çiftçi Mallarının Korunması Hakkındaki 4081 Sayılı Kanuna Üç Geçici Madde Eklenmesine Dair Kanun (1/53)",
+  "adopted": "1961-03-13",
+  "adopted_as_published": "13/03/1961",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "17.3.1961 No: 10760",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc044/kanunkmc044/kanunkmc04400282.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 44",
+  "committee_reports": [
+    {
+      "label": "TM 32 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001023ss0032.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Temsilciler Meclisi",
+      "term": null,
+      "kayit_no": 141192,
+      "title": "Çiftçi Mallarının Korunması Hakkındaki 4081 Sayılı Kanuna Üç Geçici Madde Eklenmesine Dair Kanun (1/53)",
+      "adopted_as_published": "13/03/1961",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc044/kanunkmc044/kanunkmc04400282.pdf",
+      "committee_reports": [
+        {
+          "label": "TM 32 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001023ss0032.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 20,
+          "sitting_date": "1961-02-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001fih.pdf",
+          "pages": [
+            "285"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+        },
+        {
+          "cilt": 1,
+          "sitting": 22,
+          "sitting_date": "1961-03-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001022.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001fih.pdf",
+          "pages": [
+            "456",
+            "473"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+        },
+        {
+          "cilt": 1,
+          "sitting": 23,
+          "sitting_date": "1961-03-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001fih.pdf",
+          "pages": [
+            "492:495"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+        },
+        {
+          "cilt": 1,
+          "sitting": 24,
+          "sitting_date": "1961-03-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c001/tm__00001fih.pdf",
+          "pages": [
+            "499:500"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "499eee21abcf17b22e2a5f5e5ed5014fe409edb13278221e33001795decc9239"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "499eee21abcf17b22e2a5f5e5ed5014fe409edb13278221e33001795decc9239",
+  "issuer": "Temsilciler Meclisi",
+  "in_force": "1961-03-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Temsilciler Meclisi) as printed in the official TBMM kanunlar index: 13/03/1961; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
