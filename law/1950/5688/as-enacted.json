@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5688",
+  "year": 1950,
+  "title": "Karayolları Genel Müdürlüğü 1950 Yılı Bütçe Kanununa Bağlı (A) ve (R) İşaretli Cetvellerde Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-12-16",
+  "gazette_issue": "7684",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7684.pdf",
+  "source_sha256": "b7cd240c52d383c10db4987c64d0053ed9af10e67a3bf5280a8c93d39520fd78",
+  "text_sha256": "3e746949acc448c27f50dca6052fab2c598322cb761b63fe2fc5153d738dae79",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      180,
+      205
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305688.pdf",
+    "source_sha256": "3b023a2d84d7bf04efc72286669847323587c2ccd8ecd18e1c1da639b1fd47fd",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9564,
+    "bag": 0.9221,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9868,
+    "rg_words": 158,
+    "kd_words": 152,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
