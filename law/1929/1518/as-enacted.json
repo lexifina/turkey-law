@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1518",
+  "year": 1929,
+  "title": "Tuz Satışı ve Tuz Fiyatları Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-09",
+  "gazette_issue": "1211",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1211.pdf",
+  "source_sha256": "5d9bfa8b7424cc02764e1297c3aa93eca2ebc4b41c667e51b8591c38e1ab343c",
+  "text_sha256": "b320bb1c5e845c8102e08b23527d61a367f169ff4fecebe11b88e9101e7136e1",
+  "text_status": "ocr",
+  "pages": [
+    14
+  ],
+  "line_span": [
+    [
+      1179,
+      1313
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701518.pdf",
+    "source_sha256": "dfd44eae4ff2890166356afc13f4a4b95bc001bcd263fbfa7372e47bac0fa84e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9294,
+    "bag": 0.7939,
+    "kd_coverage": 0.9957,
+    "kd_body_compared": 0.9828,
+    "rg_words": 232,
+    "kd_words": 233,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
