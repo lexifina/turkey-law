@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4883",
+  "year": 2003,
+  "title": "Karadenizin Kirliliğe Karşı Korunması Komisyonunun Ayrıcalık ve Bağışıklıklara İlişkin Anlaşmasının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-06-17",
+  "gazette_issue": "25141",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030617.htm",
+  "source_sha256": "f3f820b251a2d432b90febbd5c3de2de16d17da155b6022113612e28a948558d",
+  "text_sha256": "f4c6dee7d809cf5fc2dbcfb40f7324d52263ea99476f8b0452c63a39eb13c875",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/06/17/25141-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030617.htm#8",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
