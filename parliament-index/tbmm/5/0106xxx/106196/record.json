@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 106196,
+  "assembly": "TBMM",
+  "term": 5,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Türkiye Cumhuriyeti Hükümeti ile İsveç Kıratlığı Hükmeti arasında akid ve imza edilmiş olan ticaret ve kliring itilâfnameleri ile merbutları olan porotokol ve mektubların tasdiki hakkında (1/937)",
+  "title": "Türkiye Cumhuriyeti Hükümeti ile İsveç Kıratlığı Hükmeti arasında akid ve imza edilmiş olan ticaret ve kliring itilâfnameleri ile merbutları olan porotokol ve mektubların tasdiki hakkında (1/937)",
+  "first_sitting_date": "1938-01-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 22,
+      "sitting": 29,
+      "sitting_date": "1938-01-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c022/tbmm05022029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c022/tbmm05022fih.pdf",
+      "pages": [
+        "140"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 44,
+      "sitting_date": "1938-04-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c024/tbmm05024044.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c024/tbmm05024fih.pdf",
+      "pages": [
+        "6",
+        "22:23",
+        "71:72",
+        "76:79"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1318&v_gelecek_sayfa=701&v_kullanici_id=27483909",
+  "source_sha256": "181fd54f8f988e0de157c439685bc414ad0873ecd53ac605b64273797aae85a0",
+  "in_force": "1938-01-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
