@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 53712,
+  "assembly": "TBMM",
+  "term": 10,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "«Gümrük Tarifeleri ve Ticaret Genel Anlaşması Âkıd Taraflarının 9. Devre toplantısı Nihai Senedi» ve buna merbut «Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının kısım I ve XXIX ve XXX. maddelerinin tadiline mütedair Protokol», «Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının ön sözü ile I ve II. kısımlarının tadiline mütedair Protokol», «Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının teşkilâta mütaallik hükümlerinin tasdikine mütedair Protokol» ve «Ticari İş Birliği Teşkilâtını tesis eden Anlaşma»nın tasdiki ve bu vesikaların imza ve kabulü ile ilgili bilcümle muamelenin yapılması hususunda Hükümete salâhiyet verilmesi hakkında kanun lâyihasına dair (1/569)",
+  "title": "«Gümrük Tarifeleri ve Ticaret Genel Anlaşması Âkıd Taraflarının 9. Devre toplantısı Nihai Senedi» ve buna merbut «Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının kısım I ve XXIX ve XXX. maddelerinin tadiline mütedair Protokol», «Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının ön sözü ile I ve II. kısımlarının tadiline mütedair Protokol», «Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının teşkilâta mütaallik hükümlerinin tasdikine mütedair Protokol» ve «Ticari İş Birliği Teşkilâtını tesis eden Anlaşma»nın tasdiki ve bu vesikaların imza ve kabulü ile ilgili bilcümle muamelenin yapılması hususunda Hükümete salâhiyet verilmesi hakkında kanun lâyihasına dair (1/569)",
+  "first_sitting_date": "1957-06-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 77,
+      "sitting_date": "1957-06-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c020/tbmm10020077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c020/tbmm10020fih.pdf",
+      "pages": [
+        "29",
+        "226:227",
+        "230",
+        "242",
+        "276:279"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1644&v_gelecek_sayfa=1401&v_kullanici_id=27484243",
+  "source_sha256": "2c7d5e8a418b8d2e78b5aec509b26a8621a9176fc8f64d63d6a60da258590309",
+  "in_force": "1957-06-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
