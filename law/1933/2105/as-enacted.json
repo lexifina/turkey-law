@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2105",
+  "year": 1933,
+  "title": "1932 Malî Senesi Muvazenei Umumiye Kanununun 39 ncu maddesine merbut (N) işaretli cetvele yirmi muallimin daha ilâvesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-01-24",
+  "gazette_issue": "2312",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2312.pdf",
+  "source_sha256": "eb920bb7fee5052b85d38d39b4724aa007fbb220130acdb9af25311d9091568a",
+  "text_sha256": "65bb71b39da1e0071920ce7fb0861110950e1f67d7ec929f9b8742a2143a96cf",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      395,
+      443
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202105.pdf",
+    "source_sha256": "2e4b3dae66cd867ee2c11db3fde75073d19e690fdfc7faec0febf59b49dd9777",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9,
+    "bag": 0.8272,
+    "kd_coverage": 0.9681,
+    "kd_body_compared": 0.9485,
+    "rg_words": 99,
+    "kd_words": 97,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
