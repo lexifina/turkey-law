@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 230338,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "ERDAL KALKAN (EDİRNE)",
+  "summary": "Ve 6 Arkadaşının, 1402 Sayılı Sıkıyönetim Yasasının 17.Maddesinin 1. Fıkrasının Yürürlükten Kaldırılmasına İlişkin (2/20)",
+  "title": "Ve 6 Arkadaşının, 1402 Sayılı Sıkıyönetim Yasasının 17.Maddesinin 1. Fıkrasının Yürürlükten Kaldırılmasına İlişkin (2/20)",
+  "first_sitting_date": "1989-04-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 25,
+      "sitting": 79,
+      "sitting_date": "1989-04-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c025/tbmm18025079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c025/tbmm18025fih.pdf",
+      "pages": [
+        "262:277"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "728e64b0f8f780646c400a912dc0e7acd2c54ef7214ac492c3fdcae4ef1c728e",
+  "in_force": "1989-04-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
