@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4276",
+  "year": 1942,
+  "title": "Ceza hükümlerini ihtiva eden kanunlarda fevkalâde hallerin tesbit ve ilânı hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-08-08",
+  "gazette_issue": "5179",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5179.pdf",
+  "source_sha256": "4a9f8c906329516473c30586b99c5c7b95e48b38c2cfb5cd1d4d136264d8d67f",
+  "text_sha256": "ad95f92286697a7fc33cb0f56a3fae126a49385ac0332fbda41e147716787738",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      18,
+      28
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304276.pdf",
+    "source_sha256": "b2684b2ece3f24c6ff05ff9555d8681243a928af65785af6f55aeee7630bf7fb",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9753,
+    "bag": 0.9412,
+    "kd_coverage": 0.9831,
+    "kd_body_compared": 0.7733,
+    "rg_words": 61,
+    "kd_words": 75,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
