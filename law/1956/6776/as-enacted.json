@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6776",
+  "year": 1956,
+  "title": "Ankara'da Ege mahallesinde bulunan4872 ada 1 parsel numaralı arsanın satışı hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-07-14",
+  "gazette_issue": "9358",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9358.pdf",
+  "source_sha256": "f84f81c775bc1a49abc6cb85b274862a13e96f914cb0f2067dcd4d81298350d6",
+  "text_sha256": "95d9d6aeca4f147a98ae642657653851c4d5191587b95abf6cb006a6f3109c19",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      25
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806776.pdf",
+    "source_sha256": "7a8da7216de2feee5ba0ecb8f744009f7d68ebf6b3ddfff69b206c5d5077f679",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9141,
+    "bag": 0.8182,
+    "kd_coverage": 0.9895,
+    "kd_body_compared": 0.9694,
+    "rg_words": 81,
+    "kd_words": 98,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
