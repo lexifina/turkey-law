@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-28604/12676",
+  "source_id": 37674,
+  "date": "2002-03-22",
+  "title": "Devir, birleşme veya nev'i değişikliği işlemlerinin Kurumlar Vergisi Kanununa uygun olarak gerçekleşmemesi halinde, devir eden kurumdan yatırım indirimi dolayısıyla alınmayan vergiler tahsil edilecektir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37674",
+  "source_sha256": "18be0cd828d191f07188f10e7a481cf3fd4dea7fd874401ba6cd40f006ea0a94",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
