@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-276/034621",
+  "source_id": 24803,
+  "date": "1998-09-29",
+  "title": "Yurtdışındaki bir ülkenin resmi kurumundan olan alacağınıza ilişkin olarak söz konusu kurumca tarafınıza verilen resmi yazıda, alacağınızın mahiyeti, tutarı ve size ait olduğuna ilişkin bilgilerin yer alması ve gerçek bir alacağı temsil etmesi halinde söz",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24803",
+  "source_sha256": "9892feddd4268ca7d7d6966ff546aef1987e6b2f052218b10fca138e3b9aadf4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
