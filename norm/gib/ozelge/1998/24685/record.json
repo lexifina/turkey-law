@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5144-487/50328",
+  "source_id": 24685,
+  "date": "1998-12-29",
+  "title": "Gelir Vergisi Kanunu'nun 94 üncü maddesinin 1/6 ncı  bendine eklenen (c) alt  bendi uyarınca, tevkifatın, Dernek tarafından yapılması gerekeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/24685",
+  "source_sha256": "c5f4541211d20369e587c8ffc0030f7dff008d2c685e29cbf0c20edf49d51d89",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
