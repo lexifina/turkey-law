@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5711-390/052972",
+  "source_id": 31088,
+  "date": "2003-12-11",
+  "title": "Bir A.Ş.' nin 2000 yılı KDV Beyannamelerinde ihraç kayıtlı mal teslimlerinden doğan tecil terkin kapsamındaki KDV iadesi talebinde bulunulduğu ve Mükellefin Tam Tasdik Sözleşmesi olan YMM' den alınan yazıda firmanın ihraç kayıtlı mal teslimlerine ilişkin ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31088",
+  "source_sha256": "5ef23b89a632bc5dd94669cfe36be116bdac69273ac2d09a3a963296bf18294f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
