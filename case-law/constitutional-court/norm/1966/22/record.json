@@ -1,0 +1,82 @@
+{
+  "id": "381a782c-df3f-d05b-01bb-06237d34715f",
+  "decision_number": "1966/22",
+  "case_number": "1966/10",
+  "decision_date": "1966-04-28",
+  "published_date": null,
+  "source_publication_date": "1966-05-01",
+  "gazette_number": 0,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1966/22",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "5f22997135ca9996492b069e16be4b1767c4e9c1272e65b0285641ada0ae7c4f",
+  "version_label": "as-enacted",
+  "in_force": "1966-04-28",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": false,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1956-08-31",
+      "normNumaraAdParamId": "b6d01ed7-bac5-a0bf-b14a-f5bfac37c5f7",
+      "incelemeturuKarsonucuParamId": "98f8ce7e-05ef-48f3-187c-93b34a7266cc",
+      "sonucGerekcesiParamId": "7430563c-4d3f-15e2-46cc-4ffd30cdaf0c",
+      "kararYururlulukDurumu": "Yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "Geçici 6",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/149"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    },
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1965-07-15",
+      "normNumaraAdParamId": "eb542227-2a94-7e66-53d1-a47538f418f3",
+      "incelemeturuKarsonucuParamId": "98f8ce7e-05ef-48f3-187c-93b34a7266cc",
+      "sonucGerekcesiParamId": "7430563c-4d3f-15e2-46cc-4ffd30cdaf0c",
+      "kararYururlulukDurumu": "Yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "1",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "yok"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 258
+}
