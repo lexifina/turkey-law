@@ -1,0 +1,1 @@
+Madde 5 – Hususi idare ve belediyeler tarafından kurulan sandıkların ilk tesis masrafları, hususi idare ve belediye bütçelerinden tesviye edilir. Sandıkların açıldıkları tarihten itibaren beş yıl içinde yıllık kazançları idare masrafiyle tevdiata verdikleri faizleri karşılayamadığı takdirde açıkları, hususi idare ve belediye bütçelerinden kapatılır.

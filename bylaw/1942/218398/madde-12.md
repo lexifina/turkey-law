@@ -1,0 +1,1 @@
+Madde 12 – Hususi idareler tarafından kurulan tasarruf sandıklarının umumi heyetleri vilayet umumi meclisi ve belediyeler tarafından kurulan tasarruf sandıklarının umumi heyetleri de belediye meclisleridir.

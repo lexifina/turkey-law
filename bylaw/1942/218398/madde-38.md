@@ -1,0 +1,1 @@
+Madde 38 – Tasarruf sandıkları, Ticaret ve Dahiliye Vekaletlerinin müşterek kararlariyle tasfiye edilirler. Tasfiyeye karar verildiği takdirde 2999 sayılı kanunun 41 inci maddesinin 3 üncü fıkrası tatbik olunur. Tasfiye memurları Ticaret Vekaletince tayin edilirler.

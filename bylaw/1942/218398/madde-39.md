@@ -1,0 +1,1 @@
+Madde 39 – Tasfiye neticesinde mevduat sahiplerinin tahakkuk edecek zararı Hazineye ait olup kar zuhur ettiği takdirde, evvela 1711 sayılı kanunun ikinci maddesi mucibince hususi idare ve belediye bütçelerinden ödenen paralar iade edilir. Bakıye kalırsa Hazineye irat kaydedilir.

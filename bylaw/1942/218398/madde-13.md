@@ -1,0 +1,1 @@
+Madde 13 – Sandık idare heyeti, sandık müdürünün reisliği altında varsa muavinleriyle sandığın imza salahiyetini haiz şef veya memurları arasından mahallin en büyük mülkiye amirince seçilecek iki zattan mürekkeptir. Sandık belediyece kurulmuş ise bu tayin salahiyeti belediye reisine aittir.
