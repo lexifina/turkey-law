@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.7991",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2005 MALİ YILI BÜTÇE UYGULAMA TALİMATI (SIRA NO: 7)",
+  "number": "7991",
+  "path": "teblig/2005/7991",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=7991&MevzuatTertip=5",
+  "source_sha256": "9e23bd1ba36e2b1352dc175db50f9ff0ba87014635a241adb82bdf175b465a9e",
+  "source_bytes": 56717,
+  "published": "2005-03-13",
+  "gazette": "25754",
+  "in_force": "2005-03-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.03.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2076,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
