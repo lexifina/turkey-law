@@ -1,0 +1,81 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 56692,
+  "assembly": "TBMM",
+  "term": 10,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "EDİBE SAYAR (ZONGULDAK)",
+  "summary": "Basın Kanununun 33. maddesinin değiştirilmesi hakkında (2/123)",
+  "title": "Basın Kanununun 33. maddesinin değiştirilmesi hakkında (2/123)",
+  "first_sitting_date": "1955-04-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 60,
+      "sitting_date": "1955-04-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c006/tbmm10006060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c006/tbmm10006fih.pdf",
+      "pages": [
+        "220"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 66,
+      "sitting_date": "1955-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c006/tbmm10006066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c006/tbmm10006fih.pdf",
+      "pages": [
+        "403"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 67,
+      "sitting_date": "1955-04-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c006/tbmm10006067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c006/tbmm10006fih.pdf",
+      "pages": [
+        "466:470",
+        "454:502"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 68,
+      "sitting_date": "1955-04-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c006/tbmm10006068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c006/tbmm10006fih.pdf",
+      "pages": [
+        "484:502"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 71,
+      "sitting_date": "1955-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007fih.pdf",
+      "pages": [
+        "64:65"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "823743de97d9e80008042f898b95c72733c186c32fd1ea2bed0f615ac7ab5f46",
+  "in_force": "1955-04-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
