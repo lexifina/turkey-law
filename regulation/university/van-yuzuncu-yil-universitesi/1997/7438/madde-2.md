@@ -1,0 +1,15 @@
+Çalışma Alanı
+Madde 2 — a) Kadınla ilgili çeşitli alanlarda (hukuksal, sosyolojik, ekonomik, kültürel, sağlık v.b.) temel ve uygulamalı araştırmalar yapmak veya yaptırmak Türk kadınının statüsünü yükseltmek amacıyla projeler hazırlamak ve yürürlüğe koymak,
+b) Yüzüncü Yıl Üniversitesi'nin farklı birimlerinde kadın konularında yapılan bilimsel çalışmaları teşvik etmek ve desteklemek, lisansüstü ve doktora öğrencilerini "Kadın Sorunları ve Çözümleri" üzerinde araştırma yapmaya özendirmek ve teşvik etmek,
+c) Atatürk İlke ve İnkılaptan ile kazanılmış olan kadın haklarının korunması, yaygınlaştırılması ve geliştirilmesini sağlamak,
+d) Yun içinde kadın konusunu ele alarak çalışmalar yapan çok çeşitli kurum ve kuruluşlarla işbirliği yapmak ve bilgi alışverişinde bulunmak,
+e) Yurt dışındaki benzer merkezlerle işbirliği yapmak, uluslararası toplantılar düzenlemek,
+f) Kadınlarla ilgili konularda bilgi ve görgü arttırmak amacı ile ve eğitim görmek üzere yurt dışına eleman göndermek veya yurt dışından eleman gelmesini sağlamak,
+g) Toplumun kadın konularındaki eğitimini sağlamak ve sorunlarını duyurmak amacıyla, eğitim programlan hazırlamak, seminer ve konferanslar düzenlemek, beceri kursları açmak,
+h) Kadın sorunları ile ilgili eğitici film, poster ile basılı eserlere kadın ve aile ile ilgili araştırmaları da içine alan kadın konusunda yayınlanmış eserlerden oluşan bir arşiv ve kitaplık oluşturmak,
+i) Kadın sağlığı, aile planlaması ve kadın haklan ile ilgili yasalarda kadının yeri konularında kamu ve özel sektöre ait işyerinde çalışan kadınlara konferanslar düzenleyerek onları bilgilendirmek,
+j) Kadının toplumdaki yerini yükseltmek amacı ile kadın ve aile ite ilgili çalışmalar yapmak,
+k) Merkezin kuruluş amacına, Yükseköğretim Kanunu amaç ve ilkelerine uygun diğer çalışmaları yapmak,
+1) Kadın sorunları, özellikle kadının eğitimi konusunda diğer akademik kurumlarla ve Milli Eğitim Bakanlığı, Kültür Bakanlığı, Sağlık Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı, Başbakanlık Aile Araştırma Kurumu, gönüllü kuruluşlar ve uluslararası örgütlerle işbirliği yapmak,
+m) Her türlü araçtan yararlanarak toplumda kadına ilişkin yerleşmiş yanlış bilgi ve konuları düzeltmeye çalışmak,
+n) Bütün bu çalışmaları yapmak ve desteklemek üzere gerekli organ ve kurullar ile gönüllü gruplar oluşturmak.

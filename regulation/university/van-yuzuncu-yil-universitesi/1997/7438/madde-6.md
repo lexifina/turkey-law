@@ -1,0 +1,1 @@
+Madde 6 — Müdür Yönetim Kurulu Üyeleri arasından kendisine bir veya iki Müdür Yardımcısı seçer, Müdür Yardımcıları, Müdürün görevlerini yürütmesinde yardımcı olur ve bulunmadığı zamanlarda Müdüre vekalet ederler.

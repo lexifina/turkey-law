@@ -1,0 +1,1 @@
+Madde 8 — Yönetim Kurulu, Merkez Müdürü, Müdür Yardımcıları ve Müdür tarafından önerilip Rektörce onaylanan 4 üyeden oluşur. Süresi biten müdür tekrar atanabileceği gibi görev süresi dolmadan aynı şekilde görevden alınabilir.
