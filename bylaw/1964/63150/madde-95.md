@@ -1,0 +1,1 @@
+Madde 95 – Bu kısımda sözü geçen daire, müessese ve teşekküller; Sivil Savunma İdaresiyle işbirliği halinde, haber alma ve yayma, ikaz ve alarm sistemini müştereken tesbit, tesis ve işletmekten sorumludurlar.

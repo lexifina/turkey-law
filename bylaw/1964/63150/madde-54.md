@@ -1,0 +1,1 @@
+Madde 54 – Sivil savunma planları, düzenlenerek onandıktan sonra da devamlı surette gözden geçirilerek gelişen ve değişen durum ve şartlara göre üzerlerinde gerekli yenilik ve değişiklikler yapılır. Bunlar da yetkili inceleme ve onama mercilerinden geçirilir.

@@ -1,0 +1,1 @@
+Madde 15 – Süresi içinde yoklamalarını yaptırmamış mükelleflerin durumları,13 üncü maddede yazılı makamlar tarafından mahalli muhtarlıklar aracılığı ile incelenerek tesbit edilir ve gerekli işlem yapılır.

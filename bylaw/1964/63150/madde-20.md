@@ -1,0 +1,1 @@
+Madde 20 – Sivil Savunma Hizmet Teşkilatında görevli mükellefler, barışta, eğitim, deneme ve tatbikat için veya tabii afetler ve büyük yangınlar dolayısiyle yapılacak kurtarma ve yardım hizmetlerine katılmak üzere ilanen veya adlarına tebligat yapılmak suretiyle göreve çağrılabilirler.

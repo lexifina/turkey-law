@@ -1,0 +1,3 @@
+Madde 82 – Genel ve kısmi tatbikat; İçişleri Bakanlığının direktifi üzerine ve en az bir ay önce ilgili bakanlıklar ile tüzel kişiliği haiz genel müdürlüklere ve valiliklere bilgi verilmek suretiyle yapılır.
+Kısmi tatbikat, mahalli mülki idare amirliklerinin teklifi ve İçişleri Bakanlığının tasvibi ile de yapılabilir.
+Özel tatbikat; daire, müessese ve fabrikalar tarafından, önceden mahiyetive zamanı mahalli en büyük mülki idare amirliğine bildirilmek suretiyle kendi bünyeleri içinde yapılır. Bu tatbikat mülki idare amirinin vereceği emir üzerine de yapılabilir. Özel tatbikatta, mahalli mülki idare amirliğince müşahit de bulundurulabilir.

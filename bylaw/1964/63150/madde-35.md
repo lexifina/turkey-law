@@ -1,0 +1,1 @@
+Madde 35 – Hassas bölgelerden tahliye olunacak kimseler, bulundukları il veya ilçe sınırları veya çevresi içine gönderilmek suretiyle yakın tahliyeye tabi tutulurlar. Bunların tahliye ve yerleştirme hazırlıkları ve planları yukarıki esaslar dairesinde mahalli mülki idare amirliklerince düzenlenir ve yürütülür.

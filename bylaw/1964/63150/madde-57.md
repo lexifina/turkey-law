@@ -1,0 +1,1 @@
+Madde 57 – Genel veya bölgesel planların, diğer bakanlık veya daireleri ilgilendiren kısımları bu makamlara da bildirilerek, bunların gerçekleştirilmesi ve yürütülmesi bu bakanlık veya dairelerce sağlanır.

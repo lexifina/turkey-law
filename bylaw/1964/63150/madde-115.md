@@ -1,0 +1,1 @@
+Madde 115 – Depoların tesisine kadar, istenen şartları haiz Devlete ait bina ve depo bulunduğu takdirde, bunlardan istifade olunur. Bu gibi yerler bulunmadığı takdirde İçişleri Bakanlığının muvafakatı ile kira ile tutulabilir. Depo yerlerinin rutubetsiz, havadar, mazbut ve yangına karşı emniyetli olması gereklidir.

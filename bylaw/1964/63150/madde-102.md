@@ -1,0 +1,1 @@
+Madde 102 – Köylerde ve diğer meskün yerlerde radyoaktif serpinti tehlikesinin başlaması, derecesi ve zararsız hale gelmesi gibi safhalarını tesbit ederek, halkı uyarmak ve en yakın mülki idare veya zabıta amirliklerine de haber vermek üzere muhtar ve ihtiyar meclisi üyeleri, gerekli alet ve bilgilerle donatılarak görevlendirilebilir.

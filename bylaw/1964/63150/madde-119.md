@@ -1,0 +1,2 @@
+Madde 119 – Sivil savunmaya yardımcı diğer servisler ile resmi ve hususi müesseselere ait sivil savunma tesis, vasıta, malzeme ve teçhizatı; ilgili idare, işletme ve müesseseler tarafından temin olunur ve olağanüstü hal ve ihtiyaçlar için saklanır.
+Bu maksatla her idare, işletme ve müessesenin yıllık bütçe, plan veya programlarına, bir yılda karşılanması mümkün olmayanlar yıllara bölünerek, yeteri kadar ödenek konulur. Bütçe veya iş programları bulunmayan müesseselerde de aynı şekilde yeteri kadar para ayrılır.

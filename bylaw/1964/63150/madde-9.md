@@ -1,0 +1,3 @@
+Madde 9 – Mükellefler; yoklama ve muayene bittikten sonra, "Mükellefler Yoklama ve Muayene Defteri" ile tesbit edilen meslek, sanat, iş ve kabiliyetlerine, yaş ve sağlık durumlarına göre % 15 yedeği ile sivil savunma teşkillerine ayrılırlar. Bu ayrım sırasında sivil savunma servislerinin başkanları veya temsilcileri de bulunabilirler.
+Teşkillere ayrılan mükellefler, her servis ayrı ayrı ve tali bölgelere ayrılan yerler de bölge bölge olmak üzere "Mükellefler Görev Defterine geçirilirler. % 15 yedekten artanlar olursa, genel yedek olarak yoklama ve muayene defterinde kalır.
+Bu defterler vali ve kaymakamların onayı ile tamamlanır. Her servise ayrılan mükelleflerin birer listesi ilgili servis başkanlıklarına da verilir.

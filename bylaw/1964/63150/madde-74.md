@@ -1,0 +1,2 @@
+Madde 74 – Hassas bölgelerden başlanmak üzere 15 yaşından yukarı ve sivil savunma hizmet teşkilatı dışındaki bütün halk, sivil savunma konularında yetiştirilmek üzere ders ve konferanslarla öğretime tabi tutulabilirler.
+Halkın, davet vukuunda bu öğretime katılması mecburidir. Ancak sağlık veya diğer makul mazeretlerini tevsik edenler veya herhangi bir müessesede bu gibi öğretime katıldığına dair belge gösterenler, bu mecburiyetten istisna edilirler. Mazereti kabul olunanlar, daha sonraki ders ve konferanslara katılırlar.

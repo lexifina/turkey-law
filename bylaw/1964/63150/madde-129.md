@@ -1,0 +1,1 @@
+Madde 129 – 7126 sayılı Sivil Savunma Kanununun 30 uncu ve aynı kanunun 85 sayılı kanunla değiştirilen 13, 19, 20 ve 40 ıncı maddelerine dayanılarak hazırlanmış ve Danıştayca incelenmiş olan bu Tüzük hükümleri Resmi Gazete ile yayımı tarihinde yürürlüğe girer.

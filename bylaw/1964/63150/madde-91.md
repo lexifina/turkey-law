@@ -1,0 +1,1 @@
+Madde 91 – Hava hücumu tehlikesi haberlerinin kaynağını, aktif hava savunması ile ilgili hava kontrol merkezlerinin yayınları; radyoaktif serpinti tehlikesi haberlerinin kaynağını da radyolojik gözetleme postaları ve bu maksatla görevlendirilen meteoroloji istasyonları ve toplama merkezleri, teşkil eder.

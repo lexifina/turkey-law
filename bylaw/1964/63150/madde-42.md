@@ -1,0 +1,1 @@
+Madde 42 – Dağılma bölgelerine gönderilecek kimseler ile daire ve müesseselerin yerleştirilmelerinin ve yiyecek, içecek, yakacak, sağlık, ulaştırma ve haberleşme gibi günlük zaruri ihtiyaçlarının sağlanmasına ait tedbirler barıştan tesbit edilerek sivil savunma planlarında gösterilir.

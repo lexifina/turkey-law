@@ -1,0 +1,1 @@
+Madde 118 – Sivil Savunma İdaresine ait vasıta, malzeme ve teçhizatın ikmal, depolama, bakım, kullanma, kayıt, kayıt silme ve denetleme gibi iş ve işlemleri, İçişleri Bakanlığınca bir yönetmelikle tesbit olunur.

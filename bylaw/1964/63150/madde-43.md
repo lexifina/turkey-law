@@ -1,0 +1,1 @@
+Madde 43 – Seyrekleştirme; olağanüstü hallerde tahliye kararı ile birlikte uygulanacağı gibi Milli Güvenlik Kurulunun tasvibi ile İçişleri Bakanlığınca verilecek emir üzerine tahliyeden önce de uygulanabilir. Ani tehlike hallerinde mahalli mülki idare amirliklerince doğrudan da yapılabilir.

@@ -1,0 +1,3 @@
+Madde 72 – Sivil Savunma İdaresi Teşkilatı personeli ile resmi ve özel daire, müessese ve teşekküllerdeki sivil savunma uzmanlarının ve İçişleri Bakanlığınca lüzum görülecek diğer personelin, sivil savunma idare merkezleri ve servisleri başkanlarının sivil savunma kolej veya enstitülerinde öğretim görmeleri esastır.
+Bunlardan sivil savunma kolej veya enstitülerinde yetiştirilmeleri mümkün olamayanlar, bölge eğitim merkezlerinde yapılacak öğretime tabi tutulurlar.
+Çeşitli sivil savunma konularında öğretmenlik yapabilecek personelin yetiştirilebilmesi için sivil savunma kolej, enstitü veya bölge eğitim merkezlerinde yapılacak öğretime, çeşitli teşkilata mensup veya arzu eden serbest kimseler de çağrılabilirler.

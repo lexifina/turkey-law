@@ -1,0 +1,2 @@
+Madde 124 – Resmi ve hususi müesseseler sivil savunma teşkilleri personeli için özel elbise mecburiyeti yoktur. Ancak sivil savunma amirlerine müesseselerince 123 üncü maddede yazılı olduğu şekilde bir elbise ile gerektiğinde yağmurluk ve çizme verilir.
+Müesseselerin sivil savunma teşkillerinden itfaiye, kurtarma ve ilk yardım servisleri personeli ile teknik onarım servisi personelinden gerekenlere müesseselerince birer iş elbisesi verilir. Müesseseler sivil savunma teşkilleri personeli, sivil savunma sembolü ile tanınma işaretlerini takarlar.

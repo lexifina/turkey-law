@@ -1,0 +1,1 @@
+Madde 71 – Sivil savunma kolej ve enstitülerinde ve bölge eğitim merkezlerinde uygulanacak kurs, konferans veya seminerler gibi öğretim şekilleri ile bunların programları, süreleri, açılma zamanları ve ilgililerin bu öğretime çağrılmaları, Sivil Savunma İdaresi Başkanlığınca tesbit ve İçişleri Bakanlığınca tasvip olunacak esaslar dairesinde yapılır.

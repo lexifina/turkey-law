@@ -1,0 +1,1 @@
+Madde 16 – Sivil Savunma Hizmet Teşkilatına ayrılan mükelleflerden herhangi bir sebeple boşalacak yerler % 15 yedeklerden ve bunlardan boşalacak yerler de "Mükellefler Yoklama ve Muayene Defteri" ndeki genel yedeklerden doldurularak kadrolar daima tamam bulundurulur. Genel yedeklerin kalmaması halinde ihtiyaç miktarına göre yeni mükellefler seçilir.

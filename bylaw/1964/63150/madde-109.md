@@ -1,0 +1,1 @@
+Madde 109 – Sivil savunmaya yardımcı diğer servislerin; olağanüstü hallerde artacak vasıta, malzeme ve teçhizat ihtiyaçlarının cins ve miktarları, kendi idarelerince tesbit olunur. Ayrıca, her ekipten en az bir tane olmak üzere servislerdeki personel mevcudunun onda biri oranında dozimetre ve her 20 dozimetre için bir dozimetre şarj aleti bulundurulur.

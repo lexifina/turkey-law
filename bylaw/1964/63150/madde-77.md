@@ -1,0 +1,1 @@
+Madde 77 – İçişleri Bakanlığı ile ilgili bakanlıklar arasında tesbit olunacak esaslar dairesinde, okulların ve diğer eğitim müesseselerinin programlarına sivil savunma bilgileri de konularak okutulur.

@@ -1,0 +1,1 @@
+Madde 48 – Tahliye veya seyrekleştirme emri üzerine, bulundukları yerleri terk etmeleri gerekenlere şahsen veya mahalli mütat araçlarla ilanen tebliğ olunur. Belli edilen müddet içinde bu tebligata riayet etmiyenler, en büyük mülki idare amirinin emri ile zabıtaca zorla çıkarılıp mürettep yerlerine gönderilirler.

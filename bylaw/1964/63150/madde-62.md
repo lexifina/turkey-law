@@ -1,0 +1,3 @@
+C) Daire ve müesseselere ait planlama:
+Madde 62 – Hassas bölgeler içinde olup da personel mevcudunun yıllık ortalaması yüzden fazla bulunan veya hassasiyeti kabul edilmiş olan resmi ve hususi müesseseler (Daire, teşekkül, müessese, fabrika, imalathane, atelye, okul, üniversite, yurt ve pansiyonlar ile yatak sayısı yüzden fazla olan hastahane ve oteller ve benzeri toplu çalışma ve iş yerleri) sivil savunma planı yapmakla mükelleftirler.
+İlgili bakanlık veya valiliklerce lüzum görüldüğü takdirde; hassas bölgeler içinde olup da personel mevcudu 100 den az veya hassas bölgeler dışında olup da personel mevcudu 100 den fazla olan müesseseler de planlamaya tabi tutulabilir.

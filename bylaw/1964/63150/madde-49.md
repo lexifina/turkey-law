@@ -1,0 +1,2 @@
+Madde 49 – Tahliye ve seyrekleştirmeye tabi olmamakla beraber kendi arzu ve imkanları ile hassas bölgeleri terk etmek isteyenler ve 40 ıncı maddeye göre yerlerinde kalmalarına lüzum olmayanlar buralardan ayrılabilirler. Ancak bunlarda genel tahliye yollarını takip etmek ve kabul bölgelerinden birine gittikleri takdirde, yerleşmeleri ve üretici hale gelmeleri hususunda en büyük mülki idare amirinin alacağı tedbirlere uymak zorundadırlar.
+Tahliyeye tabi olup da mükellefiyet dışı bırakılmış olan araçları ile gitmek isteyenlere de aynı şartlarla müsaade olunabilir.

@@ -1,0 +1,2 @@
+Madde 92 – İkaz ve alarm merkezleri ile hava kontrol merkezleri arasındaki işbirliği hususları ile ikaz ve alarm konularında diğer askeri kaynaklardan ve imkanlardan faydalanma şekilleri, ilgili makamlar arasında yapılacak anlaşmalarla tesbit olunur ve uygulanır.
+Radyoaktif serpinti tehlikesinin tesbit ve ihbarında, Sivil Savunma Kanununun 29 uncu maddesi gereğince meteoroloji istasyonlarından faydalanma ve bu maksatla bunlara yapılacak yardım şekilleri, Sivil Savunma İdaresi Başkanlığı ile Meteoroloji Genel Müdürlüğü tarafından müştereken düzenlenir.

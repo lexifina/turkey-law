@@ -1,0 +1,2 @@
+Madde 65 – 63 ve 64 üncü maddelere göre birleşik planlamaya tabi müessese gruplarına ait müşterek teşkilat ve hizmetler, personel mevcudu en fazla olan veya personel eşitliği halinde mahalli mülki idare amirliğince uygun görülecek müessese veya ünitenin koordinatörlüğü altında planlanır ve yürütülür. Bu hususta anlaşmazlık çıkması halinde bu anlaşmazlık mülki idare amirliklerince çözümlenir.
+Düzenlenecek plana göre her müessese veya ünite, kendisine düşecek hazırlıkları, tedbir ve faaliyetleri ve bunların gerektirdiği harcamaları yapmakla mükelleftir.

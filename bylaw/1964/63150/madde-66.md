@@ -1,0 +1,2 @@
+Madde 66 – Çeşitli üniteleri veya branşları bulunan büyük müesseselerde, sivil savunma görev ve hizmetlerinin tesbiti, koordinesi ve planlaması için, müessese amirinin başkanlığında her ünite veya branşın yetkili idare veya teknik amirlerinden mürekkep bir "Sivil Savunma Komisyonu" kurulur. Savunma sekreteri bulunan müesseselerde bu sekreter komisyonun ikinci başkanıdır.
+Sivil savunma amirleri bu komisyonun tabii üyesi ve raportörüdür.
