@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4789",
+  "year": 2003,
+  "title": "Milli Güvenlik Kurulu ve Milli Güvenlik Kurulu Genel Sekreterliği Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2003-01-15",
+  "adopted_as_published": "15/01/2003",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18.01.2003 No: 24997",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc087/kanuntbmmc087/kanuntbmmc08704789.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 87",
+  "committee_reports": [
+    {
+      "label": "TBMM 20 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003022ss0020.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 165576,
+      "title": "Milli Güvenlik Kurulu ve Milli Güvenlik Kurulu Genel Sekreterliği Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "15/01/2003",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc087/kanuntbmmc087/kanuntbmmc08704789.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 20 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003022ss0020.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 13,
+          "sitting_date": "2002-12-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c001/tbmm22001013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c001/tbmm22001fih.pdf",
+          "pages": [
+            "435"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 21,
+          "sitting_date": "2003-01-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c002/tbmm22002021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c002/tbmm22002fih.pdf",
+          "pages": [
+            "702"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 22,
+          "sitting_date": "2003-01-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003022.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003fih.pdf",
+          "pages": [
+            "34:38"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "1ead0530dd1eb40937f3d3a8a688b5abf6d67f0c773b4fcc26fef3bb634ca188"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1ead0530dd1eb40937f3d3a8a688b5abf6d67f0c773b4fcc26fef3bb634ca188",
+  "issuer": "TBMM",
+  "in_force": "2003-01-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 15/01/2003; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
