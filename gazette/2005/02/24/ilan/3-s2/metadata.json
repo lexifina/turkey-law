@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-24",
+  "issue": "25737",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "TEDAŞ Diyarbakır Elektrik Dağıtım Müessese Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050224-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (10 = 10)",
+  "ilan_codes": [
+    "1805/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050224-3.htm",
+  "category_page_sha256": "43d1f4aa3a361c62af9eb3f67a8b350906daafa837464353669d047c87ae4add",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050224.htm",
+  "index_sha256": "d358eceb70f5320fc2f8e3e145d0c57528d51abf1a87c5257c18d70f8dbef308",
+  "index_header": "24 Şubat 2005 ... Sayı : 25737",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
