@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3011-341-391/19435",
+  "source_id": 27230,
+  "date": "2003-05-09",
+  "title": "Adi ortaklık bünyesinde işlenen fiillere ilişkin olarak gerek stopaj gelir vergisi gerekse katma değer vergisi ile ilgili cezalardan, ölen ortağın hissesine isabet eden ceza düşecek, diğer ortaklardan sadece hisselerine isabet eden ceza aranılacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27230",
+  "source_sha256": "fa82ec0d4c5cc689109dc083ed9c6dc53f220d5bc5ed9a5486223c888c54e04d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
