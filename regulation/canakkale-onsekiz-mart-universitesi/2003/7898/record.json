@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 10 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2003-07-17",
+      "17.07.2003",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 10 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "25171",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2003-07-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Çanakkale Onsekiz Mart Üniversitesi",
+  "issuer_slug": "canakkale-onsekiz-mart-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/canakkale-onsekiz-mart-universitesi/2003/7898",
+  "published": "2003-07-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7898&MevzuatTertip=5",
+  "source_bytes": 12240,
+  "source_id": "8.5.7898",
+  "source_sha256": "c9ec37b773555e5b4541af0ccbc15dc16ef79715b35ac54647ea4766bb7fc58a",
+  "text_status": "as-enacted",
+  "title": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ ATATÜRK İLKELERİ VE İNKILÂP TARİHİ ARAŞTIRMA VE UYGULAMA\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 186,
+  "word_count": 316
+}
