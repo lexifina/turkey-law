@@ -1,8 +1,10 @@
 Soruşturma ve Dava Hakkı ile Tarifeler
-Yaptırımlar ve yaptırımların uygulanmasındaki usul
+Yaptırımlar ve yaptırımların uygulanmasındaki usul (1)
 MADDE 9 - Kurul, doğal gaz piyasasında faaliyet gösteren gerçek veya tüzel kişilere yapacağı yazılı ihtara rağmen mevzuata aykırı durumlarını devam ettirenlere aşağıdaki yaptırım ve cezaları uygular:
 a) Kurul tarafından bilgi isteme veya yerinde inceleme hallerinde; istenen bilgilerin yanlış, eksik veya yanıltıcı olarak verildiğinin saptanması veya hiç bilgi verilmemesi ya da yerinde inceleme imkanının verilmemesi hallerinde, ikiyüz milyar lira para cezası verilir ve yedi gün içinde bilgilerin doğru olarak verilmesi ve/veya inceleme imkanının sağlanması ihtar edilir. Ancak, kolay giderilebilecek kusurlu haller için ilgili gerçek ve tüzel kişilerden belgelerin doğru olarak verilmesi ve/veya inceleme imkanının sağlanması istenir.
 b) Bu Kanun hükümlerine ve çıkarılan yönetmelik, talimat ve tebliğlere aykırı hareket edildiğinin saptanması halinde, ikiyüzelli milyar lira para cezası verilir ve otuz gün içinde gönderilmesi ihtar edilir.
+––––––––––––
+(1) Bu maddede yer alan para cezası miktarlarının 2002 ve 2003 yılları için uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
 c) Lisans veya sertifika genel esasları ve yükümlülüklerinden herhangi birisinin yerine getirilmediğinin saptanması halinde, üçyüz milyar lira para cezası verilir ve otuz gün içinde düzeltilmesi ihtar edilir.
 d) Lisans veya sertifika müracaatında ve bunların verilmesinde aranan şartlar konusunda, gerçek dışı belge sunulması veya yanıltıcı bilgi verilmesi veya lisans veya sertifikada öngörülen hususları etkileyecek şartlardaki değişikliklerin Kurula bildirilmemesi halinde, dörtyüz milyar lira para cezası verilir ve otuz gün içinde düzeltilmesi ihtar edilir.
 e) Lisans müracaatı sırasında iştirak ilişkisi konusunda yanıltıcı bilgi verilmesi veya faaliyet süresi boyunca iştirak ilişkisi yasağına aykırı davranışta bulunulması halinde, dörtyüz milyar lira para cezası verilir ve otuz gün içerisinde iştirak ilişkisinin düzeltilmesi ihtar edilir.

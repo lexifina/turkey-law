@@ -1,6 +1,6 @@
 İKİNCİ BÖLÜM
 Yaptırımlar ve Dava Hakkı
-Yaptırımlar ve yaptırımların uygulanmasında usul
+Yaptırımlar ve yaptırımların uygulanmasında usul (1)
 MADDE 11- Kurul, piyasada faaliyet gösteren tüzel kişilere aşağıdaki yaptırım ve cezaları uygular:
 a) Kurul tarafından bilgi isteme veya yerinde inceleme hallerinde; istenen bilgilerin yanlış, eksik veya yanıltıcı olarak verildiğinin saptanması veya hiç bilgi verilmemesi ya da yerinde inceleme imkanının verilmemesi hallerinde, ikiyüz milyar lira para cezası verilir ve yedi gün içinde bilgilerin doğru olarak verilmesi ve/veya inceleme imkanının sağlanması ihtar edilir, ancak kolay giderilebilecek kusurlu haller için, ilgili gerçek ve tüzel kişilerden, para cezası uygulanmaksızın ihtar edilerek, yedi gün içerisinde bilgilerin doğru olarak verilmesi ve/veya inceleme imkanının sağlanması istenir.
 b) Bu Kanun hükümlerine ve çıkarılan yönetmelik, talimat ve tebliğlere aykırı hareket edildiğinin saptanması halinde, ikiyüzelli milyar lira para cezası verilir ve aykırılığın otuz gün içinde giderilmesi ihtar edilir.
@@ -17,6 +17,8 @@ Para cezası, bu Kanuna aykırı hareket eden tarafların her birine ayrı ayrı
 verilmesine engel olmayacağı gibi, lisans iptaline de mani değildir.
 Bu Kanundaki cezalan gerektiren fiillerin birden fazla olması halinde ve aralarında irtibat olması durumunda en yüksek cezayı gerektirecek fiilin cezası; irtibat bulunmaması halinde ise her birinin cezası ayrı ayrı uygulanır.
 Para cezası kararı verilmesi halinde ilgili tüzel kişi tebliğden itibaren onbeş gün içinde Kurula müracaat ederek kararın yeniden gözden geçirilmesini talep edebilir. Bu talebin yapılmaması veya talebin reddi hallerinde para cezası kararı kesinleşir.
+___________________
+(1) Bu maddede yer alan para cezaları ile ilgili uygulama için, Kanunun sonunda yer alan "ÇİZELGE" ye bakınız.
 Para cezası uygulama hakkı, aykırılığın vuku bulduğu tarihi izleyen yılın başından itibaren beş yıllık zamanaşımına tabidir.
 Kurulun inceleme ve araştırma amacıyla yapacağı herhangi bir işlem, bu işlemin ilgili tarafa tebliği, karar aleyhine yargı yoluna başvurulmuş olması, zamanaşımını keser.
 Verilen para cezası 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre Maliye Bakanlığınca, Kurum adına tahsil olunur.
