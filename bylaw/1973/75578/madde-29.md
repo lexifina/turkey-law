@@ -1,0 +1,2 @@
+Madde 29
+Kamu sağlığı için ağır bir tehlike meydana getiren acele haller dışında, bir liman ya da hava limanının sağlık makamı, Tüzüğe bağlı bir hastalık olmayan veya bu hastalığın bulaşmış olmasından kuşkulanılmayan bir gemi yahut uçağa başka bir salgın hastalık nedeniyle serbesti müsaadesi vermeyi reddetmemelidir; özellikle yük veya azık boşaltmak ya da yüklemek yahut akaryakıt veya içme suyu almaktan onu önlememelidir.

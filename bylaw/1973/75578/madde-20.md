@@ -1,0 +1,5 @@
+Madde 20
+1 - Her liman ile her hava limanının çevresi içindeki alan gelişmiş ve gelişmemiş Aedes aegypti'den ve sıtma veya uluslararası trafikte salgınla ilgili bir önem taşıyan öbür hastalıkların taşıyıcısı sivrisineklerden ari tutulur. Bu amaçla çevrenin dolayında en az 400 metrelik bir uzaklığa kadar uzanan bir korunma kuşağında sivrisinekleri yok etme tedbirleri düzgün olarak uygulanır.
+2 - Bu maddenin 1 inci fıkrasında sözü geçen hastalığı taşıyıcıların bulunduğu bir bölge içinde ya da böyle bir bölgenin hemen yakınında bulunan bir havalimanının direkt transit bölgesi içinde bulunan ve ister insanları ister hayvanları barındırmak için ayrılmış olan bütün yerler sivrisineklere karşı korunur.
+3 - Bu maddenin amaçları için bir hava limanının çevresinden maksat, havalimanının yapıları ile uçakların durmasına yarayan ya da yarayacak olan yeryüzü ya da su yüzünün bulunduğu bölgeyi çevreleyen çizgi demektir.
+4 - Sağlık yönetimleri, yılda bir kez olmak üzere Örgüt'e liman ve hava limanlarının uluslararası trafik için salgınla ilgili yayıcılardan ne derecede ari tutulduklarına ilişkin bilgiler verirler.

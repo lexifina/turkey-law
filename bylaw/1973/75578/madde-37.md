@@ -1,0 +1,4 @@
+Madde 37
+1 - Bir limanın, bir hava limanının veya bir sınır kapısının sağlık makamı varışta, uluslararası yolculuk yapan bir gemiyi, uçağı, treni, kara taşıtını, başka taşıt aracını ya da koyacağı ve her kişiyi hekime inceletebilir.
+2 - Bir gemiye, uçağa, trene, kara taşıtına, başka bir taşıt aracına veya koyacağa uygulanacak ek sağlık tedbirleri, bunların içinde yolculuk sırasında mevcut yahut hekim incelenmesi sırasındaki koşullara göre, fakat hastalığın bulaştığı bir bölgeden gelen bir gemi, uçak, tren veya kara taşıtına, başka bir taşıt aracına veya koyacağa bu Tüzüğün uygulanmasına izin verdiği tedbirleri aşmamak üzere tespit edilir.
+3 - Kamu sağlığı için ağır tehlike olabilecek özel güçlükleri karşılamak zorunda olan sağlık yönetiminin bulunduğu ülkede, uluslararası yolculuk yapan her kişiden varışında, gidecek olduğu adresi yazılı olarak vermesi istenebilir.

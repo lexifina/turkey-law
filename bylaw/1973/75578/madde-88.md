@@ -1,0 +1,2 @@
+Madde 88
+Bir trenin, bir kara taşıtının ya da başka bir taşıt aracının varışında içinde bir çiçek vakası görülürse, hastalığın bulaştığı kişi indirilir ve 86 ncı maddenin birinci fıkrasının hükümleri uygulanır. Gözetim ya da tecrid süresi tren, kara taşıtı, ya da başka taşıt aracının varış gününden sayılır ve tren veya kara taşıtı veya başka taşıt aracının bulaşmış sayılan bölümleri hastalıktan temizlenir.
