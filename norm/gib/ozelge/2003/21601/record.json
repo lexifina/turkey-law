@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6001-705/035812",
+  "source_id": 21601,
+  "date": "2003-08-28",
+  "title": "Üniversite  sınavında birinci olan öğrenciye şirket tarafından verilen ödül, veraset ve intikal vergisinin konusuna girmediğinden, bu ödülün veraset ve intikal vergisine tabi tutulmaması gerektiği hususunda.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/21601",
+  "source_sha256": "a6a732a5db26a5906892887501a551e054ece592c45e50e3137ecfb012523c0a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
