@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 166345,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Topluma Kazandırma Yasası Tasarısına ilişkin",
+  "title": "Topluma Kazandırma Yasası Tasarısına ilişkin",
+  "first_sitting_date": "2003-07-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 23,
+      "sitting": 109,
+      "sitting_date": "2003-07-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c023/tbmm22023109.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c023/tbmm22023fih.pdf",
+      "pages": [
+        "376:390"
+      ]
+    },
+    {
+      "cilt": 24,
+      "sitting": 110,
+      "sitting_date": "2003-07-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c024/tbmm22024110.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c024/tbmm22024fih.pdf",
+      "pages": [
+        "17:36",
+        "158:181"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 112,
+      "sitting_date": "2003-07-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c025/tbmm22025112.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c025/tbmm22025fih.pdf",
+      "pages": [
+        "19:41",
+        "247:318"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1248&v_gelecek_sayfa=101&v_kullanici_id=27484562",
+  "source_sha256": "eadc5b32e16df9b5bb1451cc9829858f72638910803b952373c18dc6248eb122",
+  "in_force": "2003-07-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
