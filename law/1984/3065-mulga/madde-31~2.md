@@ -1,0 +1,3 @@
+Madde 31 – (3/6/1986 tarih ve 3297 sayılı Kanunun hükmüdür.)
+1. Amortismana tabi iktisadi kıymetlerin katma değer vergisi, bunların aktife girdiği veya kullanılmaya başlandığı vergilendirme döneminden itibaren 3 yıl içinde ve üç eşit miktarda bu bölümdeki esaslar dairesinde indirim konusu yapılır.
+2. Yatırımların teşviki amacıyla sektör veya mal grupları itibariyle Bakanlar Kurulu, bu süreleri azaltmaya yetkilidir. Ancak, bu iktisadi kıymetlerin en az üç yıl işletmede kullanılması şarttır. Bu iktisadi kıymetlerin üç yıldan dahakısa bir süre içinde satılması, işletmeden çekilmesi, işletme dışı amaçlarla kullanılmaya başlanılması halinde indirim konusu yapılan vergi düzeltilir.
