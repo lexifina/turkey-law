@@ -1,0 +1,192 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "77",
+  "year": 1962,
+  "title": "Uzun Vadeli Planın Yürürlüğe konması ve bütünlüğünün korunması Hakkında Kanun.",
+  "adopted": "1962-10-16",
+  "adopted_as_published": "16/10/1962",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18.10.1962 No: 11235",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500077.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 45",
+  "committee_reports": [
+    {
+      "label": "MM 232ek02 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007123ss0232ek02.pdf"
+    },
+    {
+      "label": "MM 232ek03no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007123ss0232ek03.pdf"
+    },
+    {
+      "label": "CS 93no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c005/cs__01005092ss0093.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 335393,
+      "title": "Uzun Vadeli Planın Yürürlüğe konması ve bütünlüğünün korunması Hakkında Kanun.",
+      "adopted_as_published": "16/10/1962",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500077.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 232ek02 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007123ss0232ek02.pdf"
+        },
+        {
+          "label": "MM 232ek03no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007123ss0232ek03.pdf"
+        },
+        {
+          "label": "CS 93no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c005/cs__01005092ss0093.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 96,
+          "sitting_date": "1962-06-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005096.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+          "pages": [
+            "473"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 109,
+          "sitting_date": "1962-07-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006109.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006fih.pdf",
+          "pages": [
+            "164"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 118,
+          "sitting_date": "1962-09-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006118.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c006/mm__01006fih.pdf",
+          "pages": [
+            "570"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 122,
+          "sitting_date": "1962-09-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007122.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007fih.pdf",
+          "pages": [
+            "122"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 123,
+          "sitting_date": "1962-10-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007123.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007fih.pdf",
+          "pages": [
+            "196:228"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 124,
+          "sitting_date": "1962-10-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007124.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007fih.pdf",
+          "pages": [
+            "298:317"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1601&v_kullanici_id=27483225",
+      "page_sha256": "bbdd867e769c8bf5b4742e47e941c611bd3a2472815a799bfa1c73e5cfba7238"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 156425,
+      "title": "Uzun vadeli plânın yürürlüğe konması ve bütünlüğünün korunması hakkında Kanun",
+      "adopted_as_published": "16/10/1962",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500077.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 232ek02 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007123ss0232ek02.pdf"
+        },
+        {
+          "label": "MM 232ek03no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c007/mm__01007123ss0232ek03.pdf"
+        },
+        {
+          "label": "CS 93no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c005/cs__01005092ss0093.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 90,
+          "sitting_date": "1962-10-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c005/cs__01005090.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c005/cs__01005fih.pdf",
+          "pages": [
+            "371"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 91,
+          "sitting_date": "1962-10-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c005/cs__01005091.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c005/cs__01005fih.pdf",
+          "pages": [
+            "396:397"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 92,
+          "sitting_date": "1962-10-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c005/cs__01005092.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c005/cs__01005fih.pdf",
+          "pages": [
+            "422",
+            "423:461"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "1d71d5ca37a597738ce2edfca2bb8ceb18a16f1ab45d81f98c9f010fbc9ac7a2"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "bbdd867e769c8bf5b4742e47e941c611bd3a2472815a799bfa1c73e5cfba7238",
+  "issuer": "Millet Meclisi",
+  "in_force": "1962-10-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 16/10/1962; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
