@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2001-03-18",
+  "issue": "24346",
+  "edition": "regular",
+  "item": 3,
+  "section": "YARGI BÖLÜMÜ",
+  "heading": "Yargıtay Kararları",
+  "title": "Yargıtay 14. Hukuk Dairesine Ait 14 Adet Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2001/03/20010318.htm#3",
+  "link_format": "inline-anchor",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2001/03/20010318.htm",
+  "index_sha256": "5f3d0ac0e14ffba75c42f11cafcdc1b55ec050fcc1431f2093b673fcd7b487d9",
+  "index_header": "18 Mart 2001 ... Sayı : 24346",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
