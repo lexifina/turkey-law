@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 156568,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Millî Eğitim Bakanlığına bağlı Erlik okulları mütedavil sermayesi hakkındaki 3423 sayılı Kanunun 3. maddesinin değiştirilmesine dair Millet Meclisince kabul edilen kanun teklifi hakkında (Millet Meclisi 2/42. Cumhuriyet Senatosu 2/21)",
+  "title": "Millî Eğitim Bakanlığına bağlı Erlik okulları mütedavil sermayesi hakkındaki 3423 sayılı Kanunun 3. maddesinin değiştirilmesine dair Millet Meclisince kabul edilen kanun teklifi hakkında (Millet Meclisi 2/42. Cumhuriyet Senatosu 2/21)",
+  "first_sitting_date": "1962-06-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 71,
+      "sitting_date": "1962-06-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c004/cs__01004fih.pdf",
+      "pages": [
+        "288",
+        "341",
+        "354:355",
+        "415",
+        "460:461"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=101&v_kullanici_id=27484903",
+  "source_sha256": "738407abf7ebe7cbb4e4b9ca0b75543892caee085972fb879dc9c916fb2249e5",
+  "in_force": "1962-06-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
