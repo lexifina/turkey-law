@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3131",
+  "year": 1937,
+  "title": "Denizyolları ve AKAY işletmeleri idarelerinin yaptıracağı gemiler için 10 milyon liralık tahsisat verilmesine dair olan Kanunun 1. maddesinin değiştirilmesi hakkındaki 3047 numaralı Kanunun birinci maddesinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-02-19",
+  "gazette_issue": "3538",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3538.pdf",
+  "source_sha256": "f6f3e7106d417713895faa3720ba2a4b503cefa165a7892b438306808fb47262",
+  "text_sha256": "4c5589afe8714b366535f773cff9d0fe9da655511f50edc06e671c15f74abccf",
+  "text_status": "ocr",
+  "pages": [
+    11
+  ],
+  "line_span": [
+    [
+      2312,
+      2332
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [11] (no text layer)",
+    "tesseract_pages": [
+      11
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703131.pdf",
+    "source_sha256": "de12fc5f3588b26afd20a9f4b250491b1a078f44505e2cca875afbb53037865c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9588,
+    "bag": 0.8421,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9839,
+    "rg_words": 125,
+    "kd_words": 124,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
