@@ -1,0 +1,247 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "219",
+  "year": 1963,
+  "title": "1963 yılı Bütçe Kanunu",
+  "adopted": "1963-02-23",
+  "adopted_as_published": "23/02/1963",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "1.9.26.30.3.1963 No: 11344, 11351, 11365, 11369",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600219.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 46",
+  "committee_reports": [
+    {
+      "label": "MM 80 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012046ss0080.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 340745,
+      "title": "1963 yılı Bütçe Kanunu",
+      "adopted_as_published": "23/02/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600219.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 80 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012046ss0080.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 9,
+          "sitting": 12,
+          "sitting_date": "1962-12-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c009/mm__01009012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c009/mm__01009fih.pdf",
+          "pages": [
+            "563"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 44,
+          "sitting_date": "1963-02-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012fih.pdf",
+          "pages": [
+            "52"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 46,
+          "sitting_date": "1963-02-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012fih.pdf",
+          "pages": [
+            "246:310"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 47,
+          "sitting_date": "1963-02-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012fih.pdf",
+          "pages": [
+            "325:405"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 48,
+          "sitting_date": "1963-02-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012fih.pdf",
+          "pages": [
+            "412:473"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 49,
+          "sitting_date": "1963-02-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012fih.pdf",
+          "pages": [
+            "477:585"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 50,
+          "sitting_date": "1963-02-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012fih.pdf",
+          "pages": [
+            "594:625",
+            "639:712"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 51,
+          "sitting_date": "1963-02-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c013/mm__01013051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c013/mm__01013fih.pdf",
+          "pages": [
+            "6:101"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 52,
+          "sitting_date": "1963-02-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c013/mm__01013052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c013/mm__01013fih.pdf",
+          "pages": [
+            "106:241"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 53,
+          "sitting_date": "1963-02-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c013/mm__01013053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c013/mm__01013fih.pdf",
+          "pages": [
+            "263:280"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 54,
+          "sitting_date": "1963-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c013/mm__01013054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c013/mm__01013fih.pdf",
+          "pages": [
+            "417:535"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 56,
+          "sitting_date": "1963-02-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014fih.pdf",
+          "pages": [
+            "9:86"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 57,
+          "sitting_date": "1963-02-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014057.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014fih.pdf",
+          "pages": [
+            "107:209"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 58,
+          "sitting_date": "1963-02-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014fih.pdf",
+          "pages": [
+            "222:295"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1801&v_kullanici_id=27483225",
+      "page_sha256": "33cf0b4851d47949e2eebb18398e9f799f6d84f9701f66640a4cbe2215be964f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 173505,
+      "title": "1963 yılı Bütçe Kanunu",
+      "adopted_as_published": "23/02/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc046/kanuntbmmc046/kanuntbmmc04600219.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 80 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c012/mm__01012046ss0080.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 8,
+          "sitting": 33,
+          "sitting_date": "1963-01-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c008/cs__02008033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c008/cs__02008fih.pdf",
+          "pages": [
+            "261",
+            "299:357"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 42,
+          "sitting_date": "1963-02-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c009/cs__02009042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t02/c009/cs__02009fih.pdf",
+          "pages": [
+            "623",
+            "674:678"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=201&v_kullanici_id=27483235",
+      "page_sha256": "556899a76dfbaf68914e5dd95f82a8639a02df8d2ff256048f22c24a0c15d660"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "33cf0b4851d47949e2eebb18398e9f799f6d84f9701f66640a4cbe2215be964f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1963-02-23",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 23/02/1963; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
