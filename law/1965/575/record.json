@@ -1,0 +1,182 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "575",
+  "year": 1965,
+  "title": "Askeri öğrencilerden başarı gösteremeyenler hakkındaki 5401 Sayılı Kanuna Geçici bir madde eklenmesine dair Kanun",
+  "adopted": "1965-04-07",
+  "adopted_as_published": "07/04/1965",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "17.04.1965 No: 11978",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800575.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 48",
+  "committee_reports": [
+    {
+      "label": "MM 757 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034034ss0757.pdf"
+    },
+    {
+      "label": "CS 575no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026069ss0575.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 352419,
+      "title": "Askeri öğrencilerden başarı gösteremeyenler hakkındaki 5401 Sayılı Kanuna Geçici bir madde eklenmesine dair Kanun",
+      "adopted_as_published": "07/04/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800575.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 757 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034034ss0757.pdf"
+        },
+        {
+          "label": "CS 575no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026069ss0575.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 33,
+          "sitting": 13,
+          "sitting_date": "1964-11-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c033/mm__01033013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c033/mm__01033fih.pdf",
+          "pages": [
+            "574"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 23,
+          "sitting_date": "1964-12-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+          "pages": [
+            "163"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 31,
+          "sitting_date": "1964-12-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+          "pages": [
+            "416"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 32,
+          "sitting_date": "1964-12-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+          "pages": [
+            "466:467"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 34,
+          "sitting_date": "1965-01-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+          "pages": [
+            "503:504",
+            "526:529"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 35,
+          "sitting_date": "1965-01-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+          "pages": [
+            "534",
+            "555:558"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2101&v_kullanici_id=27483225",
+      "page_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 177209,
+      "title": "Askerî öğrencilerden başarı gösteremiyenler hakkındaki 5401 sayılı Kanuna geçici bir madde eklenmesine dair Kanun",
+      "adopted_as_published": "07/04/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800575.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 757 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034034ss0757.pdf"
+        },
+        {
+          "label": "CS 575no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026069ss0575.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 24,
+          "sitting_date": "1965-01-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c023/cs__04023024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c023/cs__04023fih.pdf",
+          "pages": [
+            "125"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 60,
+          "sitting_date": "1965-03-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+          "pages": [
+            "286"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 69,
+          "sitting_date": "1965-04-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026069.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+          "pages": [
+            "712:713",
+            "725:726"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=501&v_kullanici_id=27483235",
+      "page_sha256": "90e575b0d681a9aaaed8fe9da175069303e902e0ae9d6b5e4ea68e0ee49b37f8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1",
+  "issuer": "Millet Meclisi",
+  "in_force": "1965-04-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 07/04/1965; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
