@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 358704,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Sivil Savunma İdaresi Başkanlığı Fon İşleri Saymanlığının 1960, 1961 1962 ve 1963 yılları hesabına ait raporun bilançosu ile birlikte sunulduğuna dair (3/132, 3/133, 3/152, 3/156)",
+  "title": "Sivil Savunma İdaresi Başkanlığı Fon İşleri Saymanlığının 1960, 1961 1962 ve 1963 yılları hesabına ait raporun bilançosu ile birlikte sunulduğuna dair (3/132, 3/133, 3/152, 3/156)",
+  "first_sitting_date": "1966-04-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 82,
+      "sitting_date": "1966-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c006/mm__02006082.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c006/mm__02006fih.pdf",
+      "pages": [
+        "15"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 116,
+      "sitting_date": "1966-07-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008116.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008fih.pdf",
+      "pages": [
+        "298",
+        "360:363"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=3501&v_kullanici_id=27484836",
+  "source_sha256": "14b34c863f21d37135d31cbe55714cc16cc27edae4b36000f46b306ce3d3cefe",
+  "in_force": "1966-04-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
