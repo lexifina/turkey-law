@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1990-09-13",
+      "13.09.1990",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "20634",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1990-09-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Fırat Üniversitesi",
+  "issuer_slug": "firat-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/firat-universitesi/1990/10512",
+  "published": "1990-09-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10512&MevzuatTertip=5",
+  "source_bytes": 24108,
+  "source_id": "8.5.10512",
+  "source_sha256": "8b3b155c605815c2ce702dbdf0ff6dc02e2834ed077e11f89d09fbb405f03d13",
+  "text_status": "as-enacted",
+  "title": "FIRAT ÜNİVERSİTESİ ÇEVRE SORUNLARI UYGULAMA VE ARAŞTIRMA MERKEZİ (FÜÇAM) YÖNETMELİĞİ",
+  "university_id": 193,
+  "word_count": 903
+}

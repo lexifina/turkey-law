@@ -1,0 +1,1 @@
+MADDE 8- Yönetim Kurulu üyelerinden biri Üniversite Senatosu tarafından Senato Üyeleri arasından, diğer dördü de Müdürün önereceği iki katı sayıda öğretim üyesi arasından rektör tarafından seçilir ve üç yıl süre ile görevlendirilir. Süresi bitmeden, herhangi bir nedenle Yönetim Kurulu üyeliğinden ayrılan öğretim üyesi yerine aynı usulle yenisi seçilir.

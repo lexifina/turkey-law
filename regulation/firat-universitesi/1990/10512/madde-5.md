@@ -1,0 +1,2 @@
+Müdür
+MADDE 5- FÜÇAM’ı temsil etmek, faaliyetlerini koordine etmek ve yürütmek üzere bir müdürü bulunur. Müdür çevre sorunları ile ilgili araştırma, eğitim-öğretim ve yayım faaliyetlerinde bulunan Üniversite Öğretim Üyeleri arasından Rektör tarafından üç yıl süre ile atanır. Süresi biten Müdür yeniden atanabileceği gibi, süresi tamamlanmadan aynı usulle görevden alınabilir. Müdür olarak atanan öğretim üyesi, Üniversitedeki diğer akademik görevlerini de sürdürür.

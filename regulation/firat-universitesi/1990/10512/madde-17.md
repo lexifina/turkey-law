@@ -1,0 +1,3 @@
+MADDE 17- FÜÇAM Döner Sermaye İşletmesi’nin kurulması, FÜÇAM Yönetim Kurulu tarafından kararlaştırılabilir. Rektörlük Makamınca uygun görülmesi ile gerekli işlemler yapılarak Döner Sermaye İşletmesi kurulur. Kurulacak Döner Sermaye İşletmesinin İşletme Müdürü FÜÇAM Müdürü ve Yönetim Kurulu ise FÜÇAM Yönetim Kurulu olur.
+VI. DİĞER HÜKÜMLER
+MADDE 18 FÜÇAM’ın faaliyetlerinde gerekli olan fiziki imkanlar (büro, laboratuar, atelye, taşıt vb.) ile akademik, teknik ve idari personel rektörlük tarafından temin edilir. İhtiyaç duyulan elemanların sayısı ve özellikleri ile diğer ihtiyaçlar FÜÇAM Yönetim Kurulu tarafından kararlaştırılır.
