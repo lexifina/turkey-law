@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4322",
+  "year": 1942,
+  "title": "Muharip yabancı ordu mensuplarından Türkiye'ye iltica edenler hakkındaki 4104 sayılı kanunun tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-12-17",
+  "gazette_issue": "5285",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5285.pdf",
+  "source_sha256": "cdcb2298c98db7983619b650b4bb1294fd3ee73131fd5c6daf3367adcdb49fb5",
+  "text_sha256": "2c7f417f97989b5c42fcd9afa9a509c4999fb03d67d9dde7f8d253f604f43b43",
+  "text_status": "ocr",
+  "pages": [
+    7,
+    8
+  ],
+  "line_span": [
+    [
+      1547,
+      1570
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc024/kanuntbmmc024/kanuntbmmc02404322.pdf",
+    "source_sha256": "64f00537544178ce77e8124f4f8b46de77ba709a46ef9edd2cceb594b3a195bb",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.947,
+    "bag": 0.9364,
+    "kd_coverage": 0.9906,
+    "kd_body_compared": 0.9633,
+    "rg_words": 115,
+    "kd_words": 109,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
