@@ -1,0 +1,4 @@
+Ders Türleri
+Madde 15 — a) Zorunlu Dersler: Öğrencilerin kayıt oldukları eğitim-öğretim programı gereğince almak zorunda oldukları derslerdir.
+b) Seçmeli Dersler: Yüksekokulun belirli ders programları içerisinde, danışman öğretim elemanının muvafakatı ile öğrencilerin alabileceği derslerdir. İlk iki hafta içinde bırakılmayan seçmeli dersler, zorunlu dersler gibi işlem görür. Süresi içerisinde bırakılan seçmeli ders yerine yenisi alınabilir.
+c) 2547 sayılı Yükseköğretim Kanunun 5 inci maddesinin (ı) bendinde belirtilen derslerin (Atatürk İlkeleri ve İnkılap Tarihi, Türk Dili, Yabancı Dil, Beden Eğitimi, Güzel Sanat dalları dersleri ) yukarıdaki (a), (b) ve (c) bentlerinde belirtilen derslerin; kayıt, haftalık ders saatleri , hangi sınıflarda okutulacağı öğrencilerin bu derslere devamı, sınavları, başarı durumları, muafiyeti konularında Kafkas Üniversitesi Senatosunun kararları doğrultusunda işlem yapılır.

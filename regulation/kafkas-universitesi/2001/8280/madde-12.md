@@ -1,0 +1,2 @@
+Eğitim Öğretim Programları
+Madde 12 — Derslerin müfredatı ve öğretim elemanlarının vereceği dersler ve bunların müfredatları öğretim yılı başlamadan önce ilgili program koordinasyonunca belirlenir ve ait olduğu öğretim yılı veya yarıyılı başlama tarihinden en geç on beş gün önce Yüksek-okul Müdürlüğüne verilir. Derslerin hangi öğretim elemanı tarafından verileceği Yüksekokul Kurulunda görüşüldükten sonra uygulamaya konulur.

@@ -1,0 +1,2 @@
+Sınav Sonuçlarına İtiraz
+Madde 23 — Sınav sonuçlarına itirazı olan öğrenci, sonuçların ilanından sonra beş iş günü içinde itirazını bir dilekçe ile Müdürlüğe yapar ve evrakının yeniden incelenmesini isteyebilir. İtiraz ilgili öğretim elemanına iletilir. Not düzeltmeleri, ancak maddi hata görüldüğünde, öğretim elemanının önerisi üzerine bölümce yapılır ve müdürlükçe bildirilir. Maddi hata tespit edilmediği takdirde, bu durum öğrenciye tebliğ edilir.

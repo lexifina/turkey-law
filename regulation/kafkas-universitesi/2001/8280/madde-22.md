@@ -1,0 +1,2 @@
+SınavlarınDeğerlendirilmesi
+Madde 22 — Sınavlar 100 tam not üzerinden değerlendirilir. Başarı notu (geçme notu) en az 50’dir. Bu not, ara sınavların katkısı ile yarıyıl/yıl sonu sınav katkısının toplamıdır. Ara sınav not ortalamasının başarı notuna katkısı %30, yarıyıl/yıl sonu notunun katkısı ise %70’tir. Ancak yarıyıl/yıl sonu ve bütünleme sınavlarında öğrenci en az 50 puan alması zorunludur. Bütünlemeye kalmış öğrencinin başarı notunun hesaplanmasında yarıyıl/yıl sonu sınavlardaki değerlendirme esas alınır.

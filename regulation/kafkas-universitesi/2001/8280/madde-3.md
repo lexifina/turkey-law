@@ -1,0 +1,7 @@
+Kayıt Yenileme
+Madde 3 — Öğrenciler her yarıyılda/yılda başarısız oldukları derslerden (Bu Yönetmeliğin 15 inci maddesinin (c) bendindeki dersler dahil) en çok haftalık 36 saati aşmamak şartı ile her yarıyıl/yıl başında Yönetim Kurulunun koyacağı esaslar ve ders programlarına göre kayıtlarını yenilemek zorundadırlar. Şayet öğrenci en fazla üç dersten devamını almış, yarıyıl/yıl sonu sınavlarına girmeye hak kazanmış ise haftalık 36 saatlik ders sınırını aşabilir.
+Öğrenciler başarısız oldukları derslerin kayıtlarını öncelikle yenilemeye zorunludurlar.
+Ders kayıtları yarı yıl başlangıcından 3 işgünü önce başlar ve yarıyılın 2 nci işgünü çalışma saati sonunda sona erer. Bu süre içinde kaydını yenilemeyen öğrenci, o yarıyılda devam etme hakkını kaybetmiş olur. Kaybedilen yarı yıl /yıl öğrenim süresinden sayılır.
+Süresi içinde kayıtlarını yenilemeyen öğrencilerin, devamsızlık sınırını aşmamak kaydıyla, mazeretlerinin haklı ve geçerli olduğu Yönetim Kurulunca kabul edilmesi halinde kayıtları yenilenir.
+Kesin kayıt ve kayıt yenileme sırasında harcının ilk taksitini ve kalanını ödememişse öğrencinin kaydı yapılmaz veya yenilenmez.
+Tek dersten kalmış olan öğrencilerin; yukarıda belirtilen kayıt süresi içerisinde harçlarını yatırmaları şartıyla, tek ders sınav sonuçları açıklanıncaya kadar ders kayıt hakları saklı tutulur. Tek ders sınav sonuçlarının ilanından sonra 2 iş günü içinde ders kayıtları yapılır, bu süreyi aşan öğrencilerin ders kaydı yapılmaz ve o yarıyıl/yıla devam etme hakkını kaybetmiş sayılır.

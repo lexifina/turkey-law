@@ -1,0 +1,2 @@
+Yatay ve Dikey Geçişler
+Madde 34 — Diğer Yüksekokullardan gelen yatay ve dikey geçiş istekleri, "Yükseköğretim Kurumları Arasında Ön Lisans Düzeyinde Yatay Geçiş Esaslarına İlişkin Yönetmelik" ile “Meslek Yüksekokulu Mezunlarının İntibaklarına İlişkin Yönetmelik” ve Yükseköğretim Kurulunun bu konudaki kararları çerçevesinde karşılanmaya çalışılır. Bu amaçla ayrılacak kontenjanlar ile Eğitim-Öğretim programlarına intibak esasları Yüksekokul Yönetim Kurulunca kararlaştırılır.
