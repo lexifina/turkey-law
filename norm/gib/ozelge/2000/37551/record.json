@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5900-21/17665",
+  "source_id": 37551,
+  "date": "2000-04-18",
+  "title": "Mükellefin tevkif suretiyle fazladan ödediğive mahsup imkanı olmayan fon payının iade edilip edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37551",
+  "source_sha256": "4f1de289efc9832856590d899eca87d6844a6b643d677fb3f0bfd0a843a6e337",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
