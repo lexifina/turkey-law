@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5400-3719-38431",
+  "source_id": 30148,
+  "date": "2003-09-19",
+  "title": "İnşaat işi ile uğraşan gerçek ve tüzel kişilerin Konut Yapı Kooperatiflerine fiilen yaptığı inşaat taahhüt hizmetlerine ilişkin olarak hesapladığı katma değer vergisinden, söz konusu işlemler nedeniyle yüklendiği katma değer vergisini indirim konusu yapma",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30148",
+  "source_sha256": "ed95e469b632ada35d848f7c03ece709a5e498e88eac151ef3acaf0035635dd4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
