@@ -1,0 +1,3 @@
+Basın:
+Madde 168 – Türkiye Büyük Millet Meclisi Genel Kurul ve komisyonlarındaki çalışmaları takibedecek basın ve yayın mensuplarına, Başkanlıkça özel bir giriş kartı verilir. Bu kartı taşımayan basın ve yayın mensupları, Türkiye Büyük Millet Meclisinde basına ayrılan yerlere giremezler. Bu özel kartlarla ilgili esaslar, Başkanlık Divanınca kararlaştırılır.[103]
+Türk ve yabancı basın ve yayın mensuplarına özel dinlenme locaları ve çalışma büroları ayrılması, Meclis binasının diğer kısımlarına girebilmeleri ve basın ve yayın mensuplarına ilişkin sair hususlar, Başkanlık Divanınca hazırlanacak bir yönetmelik ile düzenlenir.

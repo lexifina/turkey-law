@@ -1,0 +1,2 @@
+Seçimlerin yenilenmesi kararı:
+Madde 95 – (Değişik: 4/4/1977-643 S. Karar/1 md.) Seçimlerin yenilenmesine dair önergeler, Anayasa Komisyonunda görüşülür ve Anayasa Komisyonu raporu Genel Kurulda Gündemdeki bütün konularda önce görüşüldükten sonra açık oya sunulur. (Ek cümle: 9/10/2018 -1200 S.Karar/25 md.) Türkiye Büyük Millet Meclisi üye tamsayısının beşte üç çoğunluğunun oyu ile seçimlerin yenilenmesine karar verebilir.
