@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7406",
+  "year": 1960,
+  "title": "5887 sayılı Harçlar Kanununun 6955 sayılı Kanunla muaddel 97. maddesinin tadili ve bu kanuna muvakkat bir madde ilâvesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-01-15",
+  "gazette_issue": "10406",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10406.pdf",
+  "source_sha256": "07f37b4ecf12bf0916dc1edda30c682e65d17096a9edcd2e63b9a685d2afb8c1",
+  "text_sha256": "b2b3d61142853286fba80f016d37d264f8a975ea31944b7ed88cf400c3ef0319",
+  "text_status": "ocr",
+  "pages": [
+    8
+  ],
+  "line_span": [
+    [
+      1797,
+      1835
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/kanuntbmmc042/kanuntbmmc04207406.pdf",
+    "source_sha256": "65ff9be48202d7d67dc9b5a271a0f196d9b8a8629cf7f17416a442099bbf2f50",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.976,
+    "bag": 0.8918,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9871,
+    "rg_words": 152,
+    "kd_words": 155,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
