@@ -1,0 +1,66 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7397",
+  "year": 1959,
+  "title": "Sigorta şirketlerinin murakabesi hakkında Kanun",
+  "adopted": "1959-12-21",
+  "adopted_as_published": "21/12/1959",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.12.1959 No: 10394",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/kanuntbmmc042/kanuntbmmc04207397.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 42",
+  "committee_reports": [
+    {
+      "label": "TBMM 1 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c010/tbmm11010007ss0001.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 11,
+      "kayit_no": 42521,
+      "title": "Sigorta şirketlerinin murakabesi hakkında Kanun",
+      "adopted_as_published": "21/12/1959",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/kanuntbmmc042/kanuntbmmc04207397.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 1 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c010/tbmm11010007ss0001.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 7,
+          "sitting_date": "1959-11-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c010/tbmm11010007.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c010/tbmm11010fih.pdf",
+          "pages": [
+            "216",
+            "221:238",
+            "294:311",
+            "324",
+            "348",
+            "382",
+            "414:419"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=429&v_gelecek_sayfa=301&v_kullanici_id=27483188",
+      "page_sha256": "8bb3cf8925335927061c99f6844a22cf71dcb62cf095bfdc01513aa41e533d3f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8bb3cf8925335927061c99f6844a22cf71dcb62cf095bfdc01513aa41e533d3f",
+  "issuer": "TBMM",
+  "in_force": "1959-12-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/12/1959; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
