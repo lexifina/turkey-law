@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102- 419-22352",
+  "source_id": 23101,
+  "date": "2004-05-20",
+  "title": "Çiftçiye ait olmakla beraber ticari işletmeye dahil edilmeyen biçerdöver veya bu mahiyetteki bir motorlu araç veya on yaşına kadar ikiden fazla traktörün işletilmesinden elde edilen gelirlerin ticari kazanç hükümlerine göre vergilendirilmeleri hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23101",
+  "source_sha256": "dd2b7c35d8704a7e8359fc2969a3729761826adac0bd7d0ea5459a7ce6523d32",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
