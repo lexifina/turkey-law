@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "87/12067",
+  "source_id": 1734,
+  "date": "1987-09-17",
+  "title": "DAMGA VERGİSİ KANUNUNUN MÜKERRER 30 UNCU MADDESİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/bkk/1734",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "5b4e168fea92acf99656f13e36bc40de742bd59d532e66a251fa68494666c2aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
