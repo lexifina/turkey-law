@@ -1,0 +1,69 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 114020,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Resmî devair ve müessesat ile Devlete aid idare ve şirketlerde ve menafii umumiyeye hadim müesseselerde bulundurulabilecek vesaiti nakliye hakkındaki kanuna müzeyyel kanuna dair",
+  "title": "Resmî devair ve müessesat ile Devlete aid idare ve şirketlerde ve menafii umumiyeye hadim müesseselerde bulundurulabilecek vesaiti nakliye hakkındaki kanuna müzeyyel kanuna dair",
+  "first_sitting_date": "1931-06-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 18,
+      "sitting_date": "1931-06-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002fih.pdf",
+      "pages": [
+        "162"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 23,
+      "sitting_date": "1931-07-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003023.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003fih.pdf",
+      "pages": [
+        "46",
+        "46"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 25,
+      "sitting_date": "1931-07-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003025.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003fih.pdf",
+      "pages": [
+        "66"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 31,
+      "sitting_date": "1931-07-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003fih.pdf",
+      "pages": [
+        "206"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1296&v_gelecek_sayfa=1201&v_kullanici_id=27483843",
+  "source_sha256": "484a343f72a51a89d3d1a68493a7f92dd20f423c4f0e97bc0aaf1b4ee11dc4bb",
+  "in_force": "1931-06-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
