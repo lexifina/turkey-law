@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-12/2004-4 Yıllık Beyannameler",
+  "source_id": 645,
+  "date": "2004-01-30",
+  "title": "Yıllık gelir vergisi beyannamesi, kurumlar vergisi beyannamesi yasal süresinden önce verilebilir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/645",
+  "source_sha256": "438d137e34cd7d67c842eaa4710594cc61298018059aac98aa96691141a6c850",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
