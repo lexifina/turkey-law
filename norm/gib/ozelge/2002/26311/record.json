@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6527-175/26643",
+  "source_id": 26311,
+  "date": "2002-06-07",
+  "title": "Mükelleflerin bütün satışlarının bedelinin Maliye Bakanlığının her yıl  belirlediği tutarları aşması ve bu tutarın altında herhangi bir satışının olmaması halinde, satışlarında Vergi Usul Kanununa göre fatura düzenlemek zorunda olacaklarından bu mükellefl",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26311",
+  "source_sha256": "4195296944bf963d51e86205396694a60700f93b4771754e1586cbde873be670",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
