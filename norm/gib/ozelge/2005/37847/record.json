@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4428-235/6240",
+  "source_id": 37847,
+  "date": "2005-02-09",
+  "title": "Meslek odasına kayıt yaptırması mümkün olan mükelleflerin, kullanacakları belgeleri ilgili oda veya birliklerden temin etmesi, anlaşmalı  matbaalara bastırdıkları faturaları ikinci sınıf tüccarların tabi olduğu hükümler çerçevesinde iptal edilmesi  gerekm",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37847",
+  "source_sha256": "7c739a6884ddb66fdd122c82ec8b105370464bf0fcf7d1cd2429c903ac8163b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
