@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7174",
+  "year": 1958,
+  "title": "Öğretmenlerin özel okullarda ve özel öğrenci yurtlarında ek vazife deruhde edebilmeleri hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-12-19",
+  "gazette_issue": "10087",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10087.pdf",
+  "source_sha256": "6a8360669c5b3d383105acfaff511a41ad6bc47fef0334f4df8dfe34e54dfdf8",
+  "text_sha256": "31f7d6ceea3594ffca80f75fe468a5c0be6d0ae23a3eead3e5fb22187a476477",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      28
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107174.pdf",
+    "source_sha256": "51a034eab5de000d12fb7ce1ca74b7726c2bb90a8354fbc9a9af15b29a82e974",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.944,
+    "bag": 0.8712,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9639,
+    "rg_words": 83,
+    "kd_words": 83,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
