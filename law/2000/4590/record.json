@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4590",
+  "year": 2000,
+  "title": "MEDA Programı ve Avrupa Yatırım Bankasının Akdeniz Ülkelerindeki Diğer Malî Anlaşmaları Çerçevesinde Malî ve Teknik İşbirliğinin Uygulamasına İlişkin Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2000-06-30",
+  "adopted_as_published": "30/06/2000",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.07.2000 No: 24102",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc084/kanuntbmmc084/kanuntbmmc08404590.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 84",
+  "committee_reports": [
+    {
+      "label": "TBMM 414 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c040/tbmm21040123ss0414.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 419605,
+      "title": "MEDA Programı ve Avrupa Yatırım Bankasının Akdeniz Ülkelerindeki Diğer Malî Anlaşmaları Çerçevesinde Malî ve Teknik İşbirliğinin Uygulamasına İlişkin Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "30/06/2000",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc084/kanuntbmmc084/kanuntbmmc08404590.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 414 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c040/tbmm21040123ss0414.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 30,
+          "sitting": 75,
+          "sitting_date": "2000-04-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c030/tbmm21030075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c030/tbmm21030fih.pdf",
+          "pages": [
+            "6"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 90,
+          "sitting_date": "2000-05-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c032/tbmm21032090.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c032/tbmm21032fih.pdf",
+          "pages": [
+            "126"
+          ]
+        },
+        {
+          "cilt": 40,
+          "sitting": 123,
+          "sitting_date": "2000-06-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c040/tbmm21040123.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c040/tbmm21040fih.pdf",
+          "pages": [
+            "64:68",
+            "108:131"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=201&v_kullanici_id=27483196",
+      "page_sha256": "27f6349c470be789884dbe548b81e4090c3b758dd96480247e2d1a6081a31714"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "27f6349c470be789884dbe548b81e4090c3b758dd96480247e2d1a6081a31714",
+  "issuer": "TBMM",
+  "in_force": "2000-06-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 30/06/2000; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
