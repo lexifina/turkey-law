@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 233993,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "6760 Sayılı Vakıflar Umum Müdürlüğü Vazife ve Teşkilatı Hakkında Kanunun Bir Maddesinde Değişiklik Yapılmasına Dair (1/607)",
+  "title": "6760 Sayılı Vakıflar Umum Müdürlüğü Vazife ve Teşkilatı Hakkında Kanunun Bir Maddesinde Değişiklik Yapılmasına Dair (1/607)",
+  "first_sitting_date": "1990-04-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 44,
+      "sitting": 105,
+      "sitting_date": "1990-04-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c044/tbmm18044105.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c044/tbmm18044fih.pdf",
+      "pages": [
+        "115"
+      ]
+    },
+    {
+      "cilt": 45,
+      "sitting": 115,
+      "sitting_date": "1990-05-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c045/tbmm18045115.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c045/tbmm18045fih.pdf",
+      "pages": [
+        "315:330"
+      ]
+    },
+    {
+      "cilt": 46,
+      "sitting": 117,
+      "sitting_date": "1990-05-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c046/tbmm18046117.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c046/tbmm18046fih.pdf",
+      "pages": [
+        "29:32",
+        "35",
+        "40:44"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=919&v_gelecek_sayfa=601&v_kullanici_id=27484387",
+  "source_sha256": "99dfa81a4d6786cc02125c059dff220c602a2b5d6610354e3bd07c534b30cce8",
+  "in_force": "1990-04-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
