@@ -1,0 +1,1 @@
+Madde 1 – Bu yönetnelik memurların kasıt, kusur, ihmal ve tedbirsizlik sonucu idareye verdikleri zararlar ile kamu hukukuna tabi görevlerle ilgili olarak kişilerin uğradıkları zararların nevi ve miktarlarının tesbiti, takibi, amirlerin sorumlulukları, yapılacak işlemlerle ilgili usul ve esasları belirlemek amacıyla hazırlanmıştır.
