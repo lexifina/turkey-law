@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4535-5",
+  "source_id": 21235,
+  "date": "2003-11-24",
+  "title": "Arazi ve arsalar yatırım indirimi istisnasına konu edilemez.Ayrıca üzerinde dikili durumda satın alınacak meyve ve sebze bahçesi de daha önce kullanılmış olarak değerlendirileceğinden yatırım indirimi istisnasına konu olamaz.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21235",
+  "source_sha256": "d8510d6fe1de23605e8ce8891415103a5dff095c5deb3fc44397fea0007b9910",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
