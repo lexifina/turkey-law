@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7113",
+  "year": 1958,
+  "title": "Subaylar Heyetine Mahsus Terfi Kanununun 8. maddesinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-04-19",
+  "gazette_issue": "9889",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9889.pdf",
+  "source_sha256": "770d44754da64cbb4d8e3702b4c0dcf652a3c230c826e43a9cd723f3a076b345",
+  "text_sha256": "4c0b7a1b85735e0c51e8e1fd2bfdc3e3e56b894b2a63be842d80946a1dde138d",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      16,
+      41
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007113.pdf",
+    "source_sha256": "92bb73e6b6abbb0d02d8bc788ff5a88f90b35b41868b0f0567e1f719f05397cc",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9839,
+    "bag": 0.9251,
+    "kd_coverage": 0.9825,
+    "kd_body_compared": 0.9658,
+    "rg_words": 114,
+    "kd_words": 117,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
