@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 368461,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Devlet Hava Meydanları İşletmesi Genel Müdürlüğü 1968 yılı Bütçe Kanunu tasarısı hakkında (1/430)",
+  "title": "Devlet Hava Meydanları İşletmesi Genel Müdürlüğü 1968 yılı Bütçe Kanunu tasarısı hakkında (1/430)",
+  "first_sitting_date": "1968-02-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 24,
+      "sitting": 40,
+      "sitting_date": "1968-02-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c024/mm__02024040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c024/mm__02024fih.pdf",
+      "pages": [
+        "416"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 47,
+      "sitting_date": "1968-02-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c025/mm__02025047.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c025/mm__02025fih.pdf",
+      "pages": [
+        "665:667",
+        "691:693"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 48,
+      "sitting_date": "1968-02-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c026/mm__02026048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c026/mm__02026fih.pdf",
+      "pages": [
+        "94",
+        "143:146"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=4401&v_kullanici_id=27484836",
+  "source_sha256": "daf3d353d7f8ee2344339f99b19ccebc6e45fa118539c3e0904aeaefd16bc235",
+  "in_force": "1968-02-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
