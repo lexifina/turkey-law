@@ -1,0 +1,73 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2373",
+  "year": 1933,
+  "title": "Türkiye Cumhuriyeti ile Japonya İmparatorluğu arasında münakid ticaret ve seyrisefain muahedesine mütedair itilâf hakkında kanun",
+  "adopted": "1933-12-28",
+  "adopted_as_published": "28/12/1933",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.01.1934 No: 2597",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302373.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 13",
+  "committee_reports": [
+    {
+      "label": "TBMM 61 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019020ss0061.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112495,
+      "title": "Türkiye Cumhuriyeti ile Japonya İmparatorluğu arasında münakid ticaret ve seyrisefain muahedesine mütedair itilâf hakkında kanun",
+      "adopted_as_published": "28/12/1933",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302373.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 61 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019020ss0061.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 19,
+          "sitting": 19,
+          "sitting_date": "1933-12-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019fih.pdf",
+          "pages": [
+            "152"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 20,
+          "sitting_date": "1933-12-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c019/tbmm04019fih.pdf",
+          "pages": [
+            "174",
+            "177",
+            "187:189"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=401&v_kullanici_id=27483155",
+      "page_sha256": "00bcd6f9695e3266d3a0df3b6a0f5e04a9694d6c82078190be329ab9916be435"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "00bcd6f9695e3266d3a0df3b6a0f5e04a9694d6c82078190be329ab9916be435",
+  "issuer": "TBMM",
+  "in_force": "1933-12-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 28/12/1933; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
