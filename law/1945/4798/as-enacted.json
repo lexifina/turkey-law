@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4798",
+  "year": 1945,
+  "title": "Subaylar Heyetine mahsus Terfi Kanununun 11. maddesini değiştiren 4554 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-08-13",
+  "gazette_issue": "6082",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6082.pdf",
+  "source_sha256": "b1f959e543f48410b3c4230b9ddaee0e0498d4da2a89cbf7c266506e5d7720f0",
+  "text_sha256": "cb48f12ae8164a5b43395a9dd4c13f243fe4e36e0700a7523d6b14bce04216bb",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      9,
+      44
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704798.pdf",
+    "source_sha256": "9429c5a216f15b4d3f9ccd89f7c3063ba78cc11762a758c57f1a089c3e41c713",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9277,
+    "bag": 0.9246,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9903,
+    "rg_words": 193,
+    "kd_words": 207,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
