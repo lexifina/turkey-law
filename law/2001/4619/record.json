@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4619",
+  "year": 2001,
+  "title": "İspirto ve İspirtolu İçkiler İnhisarı Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "2001-01-11",
+  "adopted_as_published": "11/01/2001",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.01.2001 No: 24293",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc085/kanuntbmmc085/kanuntbmmc08504619.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 85",
+  "committee_reports": [
+    {
+      "label": "TBMM 398 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c052/tbmm21052043ss0398.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 288425,
+      "title": "İspirto ve İspirtolu İçkiler İnhisarı Kanununda Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "11/01/2001",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc085/kanuntbmmc085/kanuntbmmc08504619.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 398 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c052/tbmm21052043ss0398.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 26,
+          "sitting_date": "1999-06-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c005/tbmm21005026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c005/tbmm21005fih.pdf",
+          "pages": [
+            "7"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 80,
+          "sitting_date": "2000-04-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c031/tbmm21031080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c031/tbmm21031fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 52,
+          "sitting": 43,
+          "sitting_date": "2001-01-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c052/tbmm21052043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c052/tbmm21052fih.pdf",
+          "pages": [
+            "381:419"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=201&v_kullanici_id=27483196",
+      "page_sha256": "27f6349c470be789884dbe548b81e4090c3b758dd96480247e2d1a6081a31714"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "27f6349c470be789884dbe548b81e4090c3b758dd96480247e2d1a6081a31714",
+  "issuer": "TBMM",
+  "in_force": "2001-01-11",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 11/01/2001; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
