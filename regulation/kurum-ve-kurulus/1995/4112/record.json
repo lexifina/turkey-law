@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.4112",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "90/755 SAYILI KARARNAME UYARINCA GELİŞMEKTE OLAN ÜLKELERE YAPILACAK TEKNİK YARDIMLARLA İLGİLİ FAALİYETLERİN YÜRÜTÜLMESİNE İLİŞKİN ESASLAR",
+  "number": "4112",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1995/4112",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4112&MevzuatTertip=5",
+  "source_sha256": "895d979eaba0af14396c3f527662ac114a938839e677c47d3373fa9ffa272b35",
+  "source_bytes": 24732,
+  "published": "1995-12-19",
+  "gazette": "22498",
+  "in_force": "1995-12-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.12.1995)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1049,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
