@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5011-168/10995",
+  "source_id": 37666,
+  "date": "2000-03-07",
+  "title": "Yurt dışında ödenen vergilerin hesaplanankurumlar vergisinden mahsup edilip edilmeyeceği ve geçici vergi hesaplanıp hesaplanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37666",
+  "source_sha256": "976db909876aad2576af7539186c637a85b74328d59093fe2a0c378c4796dfa9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
