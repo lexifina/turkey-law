@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6244",
+  "year": 1954,
+  "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanununda Bazı Değişiklikler Yapılmasına ve Bu Kanuna Bazı Hükümler Eklenmesine Dair 5951 Sayılı Kanuna Ek Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-02-13",
+  "gazette_issue": "8633",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8633.pdf",
+  "source_sha256": "363590cc260b35edf4595ac9875840564dddbbfd039c8760dbea5ec03def2759",
+  "text_sha256": "240940f1bcb2b8629bd0bca9e4b9b26de3bf5df84e311630ec71f31239df757c",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      162,
+      203
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606244.pdf",
+    "source_sha256": "cca05e4e3a137b59fbb061142ef5923f6a102a00af7b594a506db1d16b28faa6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9688,
+    "bag": 0.9164,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9927,
+    "rg_words": 278,
+    "kd_words": 274,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
