@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6654-256/5197",
+  "source_id": 37095,
+  "date": "1999-02-16",
+  "title": "İmar planında park alanında kalan sözkonusu iki adet bina için kısıtlı vergi uygulanması, dolayısıyla tahakkuk eden verginin 1/10'unun tahsil edil-mesi, 9/10'unun ise tecil edilmesi gerekir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37095",
+  "source_sha256": "8a82e5943cacbdef27fe96b3ab8d243b84a36852d424018af3b04724ea75fb39",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
