@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3595",
+  "year": 1939,
+  "title": "Orman Umum Müdürlüğü 1938 malî yılı bütçesine munzam tahsisat verilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-04-20",
+  "gazette_issue": "4188",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4188.pdf",
+  "source_sha256": "ae10491472ce48b0e00e44555304bbf291df0c30e1f789c53fbc978711213e73",
+  "text_sha256": "34ab8904b7985d33643f80a8589a83c39559c75748f3f7331280a0fa355e87a0",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      74,
+      87
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003595.pdf",
+    "source_sha256": "50f75a0bb86e517d8392ffc50a084d196f87b325b65a08325d05ee0e49d8e64d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9527,
+    "bag": 0.9057,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9643,
+    "rg_words": 52,
+    "kd_words": 56,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
