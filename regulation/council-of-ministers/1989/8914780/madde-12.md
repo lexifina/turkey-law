@@ -1,0 +1,2 @@
+Bulundurmaya dönüşme
+Madde 12 – Bu Yönetmelik hükümlerine göre verilen taşıma ruhsatları, Olağanüstü Hal Bölgesine giren iller (mücavir iller dahil) sınırları içinde geçerli olmak kaydıyla olağanüstü halin bitimi tarihinden itibaren kırkbeş gün içinde mahalli mülki amirliklerine müracaat edilmesi halinde bulundurmaya dönüştürülebilir. Müracaatın bu süre içinde yapılmaması durumunda sözkonusu ruhsatlar iptal edilir.

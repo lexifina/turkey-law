@@ -1,0 +1,5 @@
+Silahların Emniyet Genel Müdürlüğü veya Jandarma Genel Komutanlığına teslimi
+Madde 10 – (Değişik: 1/11/2000 - 2000/1657 K.)
+Ellerinde bulunan ruhsatsız silahlarına ruhsat talebinde bulunan kişilerin taşıma ve bulundurma ruhsatı verilmesi mümkün olmayan silahları ile taşıma ve bulundurma ruhsatı verilmesi için bu Yönetmelikte öngörülen süreler içinde müracaatta bulunmayanların silahlarına el konulur ve bu silahlar bölge esasına göre Emniyet Genel Müdürlüğü veya Jandarma Genel Komutanlığına teslim edilir.
+Kendilerine silah taşıma ruhsatı verildikten sonra bu silahlarını en az iki kez 11 inci maddede belirtilen esaslara aykırı şekilde taşıyanların ruhsatları iptal edilir ve bu silahlar Emniyet Genel Müdürlüğü veya Jandarma Genel Komutanlığına teslim edilir.
+(Ek: 14/12/2001-2001/3508 K.) Jandarma Genel Komutanlığına teslim edilen silahlar, ruhsat iptal onayı ve ekspertiz raporu ile birlikte en yakın Kara Kuvvetleri Komutanlığı ordu donatım teşkillerinden birine EK-A’daki tutanakla teslim edilerek, irada kaydı sağlanır.
