@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4822",
+  "year": 2003,
+  "title": "Tüketicinin Korunması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-03-14",
+  "gazette_issue": "25048",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030314.htm",
+  "source_sha256": "91808b81413658fc601f2c37fc217a9546046f00899ce3f9b5729f8d8629753a",
+  "text_sha256": "3927000ff9f8400bfee623aa549c40461e366acd7cec0a2ce519d786a800645c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/03/14/25048-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/03/20030314.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
