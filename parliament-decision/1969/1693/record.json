@@ -1,0 +1,51 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1693",
+  "year": 1969,
+  "title": "Türkiye Büyük Millet Meclisi seçiminin yenilenmesi hakkında",
+  "adopted": "1969-03-24",
+  "adopted_as_published": "24/03/1969",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.03.1950 No: 7469",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/karartbmmc032/karartbmmc03201693.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 32",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 8,
+      "kayit_no": 78577,
+      "title": "Türkiye Büyük Millet Meclisi seçiminin yenilenmesi hakkında",
+      "adopted_as_published": "24/03/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/karartbmmc032/karartbmmc03201693.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 72,
+          "sitting_date": "1950-03-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025fih.pdf",
+          "pages": [
+            "1038:1046",
+            "1107:1110"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=192&v_gelecek_sayfa=101&v_kullanici_id=27483271",
+      "page_sha256": "9e37554730adfba307b9ae66ee309c80f92a2012e67e4b54ed57d695e7a944a0"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9e37554730adfba307b9ae66ee309c80f92a2012e67e4b54ed57d695e7a944a0",
+  "issuer": "TBMM",
+  "in_force": "1969-03-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 24/03/1969; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
