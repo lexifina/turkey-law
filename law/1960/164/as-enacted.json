@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "164",
+  "year": 1960,
+  "title": "Yassıada'da ve Türkiye Cumhuriyeti Milli Birlik Komitesi İrtibat Bürosunda çalışanlara yevmiye ve munzam ücret ödenmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-12-22",
+  "gazette_issue": "10687",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10687.pdf",
+  "source_sha256": "7616084242c8c5b4b44029586a6216b50cca5b2e6de491cd678f6b6055e41a82",
+  "text_sha256": "dae6a2cbd1d109692dfa3778ee6ac952a3255c41b4fc0d1ac030d946d0442f3d",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      38
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300164.pdf",
+    "source_sha256": "930e53b6fa001570f36fc086f546e07e1c396050b0791a8ef3208af08f4d3091",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9833,
+    "bag": 0.9288,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.885,
+    "rg_words": 174,
+    "kd_words": 200,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
