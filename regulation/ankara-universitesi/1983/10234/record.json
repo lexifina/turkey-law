@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1983-04-15",
+      "15.04.1983",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "18019",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1983-04-15",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/1983/10234",
+  "published": "1983-04-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10234&MevzuatTertip=5",
+  "source_bytes": 35452,
+  "source_id": "8.5.10234",
+  "source_sha256": "1291c8d6ccc92fc467ccc57608b80aab40053971a82e2a179ed0404ce33c6c98",
+  "text_status": "as-enacted",
+  "title": "ANKARA ÜNİVERSİTESİ MEDİKAL-SOSYAL-KÜLTÜREL VE SPOR İŞLERİ DAİRESİ BAŞKANLIĞI YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 1329
+}

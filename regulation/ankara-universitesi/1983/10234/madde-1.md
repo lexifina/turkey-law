@@ -1,0 +1,1 @@
+Madde 1- Bu yönetmelik, Ankara Üniversitesi Medikal-Sosyal Kültürel ve Spor İşleri Dairesinin örgütlenmesi, yönetimi ve çalışmaları ile, görevlilerin yetki görev ve sorumluluklarına ilişkin temel hükümleri kapsar.

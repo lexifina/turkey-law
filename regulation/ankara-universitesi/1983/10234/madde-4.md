@@ -1,0 +1,3 @@
+Amaç:
+Madde 4- Dairenin amacı, öğrencilerin beden ve ruh sağlığını korumak, hasta olanları tedavi etmek veya ettirmek, öğrencilerin sosyal ve psikolojik ihtiyaçları ile ilgilenmek, ilgi alanlarına göre zamanlarını değerlendirmelerine ve yeni ilgi alanları kazanmalarına imkan tanımak ve bu hizmetlerle öğrencilerin sağlık ve sosyal durumlarının iyiye, kişiliklerinin sağlıklı yöne yönelmesine katkıda bulunmaktır.
+Ankara Üniversitesi çalışanları, emeklileri ve bunların bakmakla yükümlü olduğu aile bireyleri de, Dairenin yalnız sağlık hizmetlerinden yararlanır. Daire bunların daire tabibliği görevini yapar. Daire aynı zamanda bu amaçlarına yönelik araştırmalar yapan veya yaptıran bir araştırma ve eğitim Dairesidir.
