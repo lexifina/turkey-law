@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2013",
+  "year": 1932,
+  "title": "Askerî Fabrikalar Umum Müdürlüğüne mütedavil sermaye verilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-06-23",
+  "gazette_issue": "2132",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2132.pdf",
+  "source_sha256": "a527ad45c1e15b12957bd5852b89600faa28a27916239d83d546861b9082234a",
+  "text_sha256": "463fcb46d3d942b1f8cb747cc757a1553b87058945f91d1cac9922f23d4f59f4",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      1034,
+      1096
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01102013.pdf",
+    "source_sha256": "e72db02031883d5db8f0204529dcdba6432f20ffe0ffa94883a459e3e474141f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9616,
+    "bag": 0.885,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9157,
+    "rg_words": 222,
+    "kd_words": 261,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
