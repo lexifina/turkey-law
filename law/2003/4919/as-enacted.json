@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4919",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-07-15",
+  "gazette_issue": "25169",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030715.htm",
+  "source_sha256": "ba7d2e8d7d78dbf016a18179cf22e1170d613d8a4df2bbfac7a6ef890c4aabb5",
+  "text_sha256": "520d3abb65178e78359df509a8b6b7f4f8501b82d718cd1dcf11e8772166f485",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/07/15/25169-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030715.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
