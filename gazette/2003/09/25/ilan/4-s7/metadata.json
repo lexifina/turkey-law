@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-09-25",
+  "issue": "25240",
+  "edition": "regular",
+  "item": 7,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "İçişleri Bakanlığı Emniyet Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030925-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (7 = 7)",
+  "ilan_codes": [
+    "35838/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030925-4.htm",
+  "category_page_sha256": "da1bb0d177559b2482391035f33fa53d7d61ee20b44b6869763092221f73aca9",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030925.htm",
+  "index_sha256": "2d632e54b331fe1119a08d4c07f57643fb0d7ed20a421e02f623b5332bc19240",
+  "index_header": "25 Eylül 2003 ... Sayı : 25240",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
