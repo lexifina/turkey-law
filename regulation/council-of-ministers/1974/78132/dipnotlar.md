@@ -1,0 +1,1 @@
+[1] Bu maddede sözügeçen Türkiye Milli Komitesi kurucu üyelerinin üyelikleri 11/4/1985 tarih ve 85/9377 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan yönetmeliğin 12 nci maddesiyle iptal edilmiş bulunduğundan Kurucu Üyelerin adları ile görevlerini gösteren liste metinden çıkarılmıştır.

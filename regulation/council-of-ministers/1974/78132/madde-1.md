@@ -1,0 +1,1 @@
+Madde 1 – Memleketimizin de üyesi bulunduğu UNESCO'nun bir kolu olan ve merkezi Paris'te bulunan Milletlerarası Anıtlar ve Sitler Konseyi (ICOMOS) Tüzüğünün ilgili hükümlerine uygun olarak ICOMOS Türkiye Milli Komitesi kurulmuştur.
