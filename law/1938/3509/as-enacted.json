@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3509",
+  "year": 1938,
+  "title": "2294 numaralı Kanunun meriyet müddetinin uzatılması hakkındaki 2967 numaralı kanuna müzeyyel kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-07-09",
+  "gazette_issue": "3955",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3955.pdf",
+  "source_sha256": "17219eefccb5bc196216104ae93cb26852fd117d20c94114bdfe508596e45b1b",
+  "text_sha256": "f98ca9876bfec8c20d72f6331b5b56ea0fbbd790a6e13e7f2df1302035cf8107",
+  "text_status": "ocr",
+  "pages": [
+    42
+  ],
+  "line_span": [
+    [
+      13749,
+      13762
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [42] (no text layer)",
+    "tesseract_pages": [
+      42
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803509.pdf",
+    "source_sha256": "7bf2174e170054c1e9b2ab0dff317f3b9fcd59db35fefcaf5c22a7cc4e7a8168",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.921,
+    "bag": 0.8821,
+    "kd_coverage": 0.9703,
+    "kd_body_compared": 0.9519,
+    "rg_words": 96,
+    "kd_words": 104,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
