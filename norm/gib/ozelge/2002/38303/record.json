@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-30/8207",
+  "source_id": 38303,
+  "date": "2002-02-20",
+  "title": "Kanuni defterlere kaydedilmiş olan vesikaların sahte ve muhteviyatı itibariyle yanıltıcı belge olduğu raporda tesbit edilmemişse, bunların iade talebinden çıkarılmakla birlikte 191.indirilecek katma değer vergisi hesabında muhafaza edilmesinde bir sakınca",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38303",
+  "source_sha256": "56a7d3b11c23d887c62c8677d3ed02039de8f511420e815f30f3d240aaedc975",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
