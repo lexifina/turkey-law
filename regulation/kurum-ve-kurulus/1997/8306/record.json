@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.8306",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİR ÜNİVERSİTE ADINA BİR DİĞER ÜNİVERSİTEDE LİSANSÜSTÜ EĞİTİM GÖREN ARAŞTIRMA GÖREVLİLERİ HAKKINDA YÖNETMELİK",
+  "number": "8306",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1997/8306",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8306&MevzuatTertip=5",
+  "source_sha256": "89ca3628f0b554076484d892acc4eb6d2500aa941fcd0e6ab8c9c2057cc440f0",
+  "source_bytes": 15639,
+  "published": "1997-05-23",
+  "gazette": "22997",
+  "in_force": "1997-05-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.05.1997); own commencement article: \"Bu Yönetmelik hükümleri, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 425,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

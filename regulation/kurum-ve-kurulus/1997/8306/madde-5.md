@@ -1,0 +1,1 @@
+Madde 5- Atanan veya görevlendirilen araştırma görevlileri kadrosunun tahsis edildiği üniversitenin ilgili enstitünün düzenleyeceği eğitimi-öğretim programına göre eğitimi sürdürürler ve ilgili anabilim dalında hizmet görürler.
