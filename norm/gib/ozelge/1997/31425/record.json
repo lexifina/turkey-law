@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5403-52/23070",
+  "source_id": 31425,
+  "date": "1997-06-04",
+  "title": "Yabancı bir ülke vatandaşının Türk Kara Sularında bulunan bir yatı satın almak istemesihalinde, yatın satışında herhangi bir vergi, resim ve harç ödeyip ödemiyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/31425",
+  "source_sha256": "fc6899bf71ec0e7ac7384cb91af436d5a5cf26a7429618522181fdbf80648e86",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
