@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6508-49/003589",
+  "source_id": 38285,
+  "date": "1998-02-09",
+  "title": "Toptan emtia ticaretiyle uğraşan mükelleflerin ödeme kaydedici cihaz kullanma mecburiyetleri hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38285",
+  "source_sha256": "8931cf244852d3f5c6674c4d8ed5d7c338fd46483fa7575ed9f01dac9df3a640",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
