@@ -1,0 +1,72 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "545",
+  "year": 1930,
+  "title": "545 sayılı Karar",
+  "adopted": "1930-01-27",
+  "adopted_as_published": "27/01/1930",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "03.02.1930 No: 1414",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/karartbmmc008/karartbmmc00800545.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 8",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120819,
+      "title": "545 sayılı Karar",
+      "adopted_as_published": "27/01/1930",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/karartbmmc008/karartbmmc00800545.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 14,
+          "sitting_date": "1929-12-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c014/tbmm03014014.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c014/tbmm03014fih.pdf",
+          "pages": [
+            "42"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 25,
+          "sitting_date": "1930-01-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c015/tbmm03015025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c015/tbmm03015fih.pdf",
+          "pages": [
+            "28"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 27,
+          "sitting_date": "1930-01-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c015/tbmm03015027.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c015/tbmm03015fih.pdf",
+          "pages": [
+            "42"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=256&v_gelecek_sayfa=101&v_kullanici_id=27483258",
+      "page_sha256": "3a7b0147dbcc9341e2a1662f26e52a02179ae12115f8a708f9032bb3ce566928"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "3a7b0147dbcc9341e2a1662f26e52a02179ae12115f8a708f9032bb3ce566928",
+  "issuer": "TBMM",
+  "in_force": "1930-01-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 27/01/1930; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
