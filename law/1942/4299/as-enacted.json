@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4299",
+  "year": 1942,
+  "title": "4299 sayılı Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-08-20",
+  "gazette_issue": "5189",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5189.pdf",
+  "source_sha256": "34192efa85366c52ee98c5744fe21af109570370d8705de60e4a3290e4ec2178",
+  "text_sha256": "c3540e84d089f53c2f52780d6f3728594947b48d15f888545b4e50ca304ae5d2",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      372,
+      388
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304299.pdf",
+    "source_sha256": "20ff0e26b126221f2121b4d571f49bc47dcadece4e63b9038771c280e624d9d2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9593,
+    "bag": 0.924,
+    "kd_coverage": 0.9529,
+    "kd_body_compared": 0.9318,
+    "rg_words": 89,
+    "kd_words": 88,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
