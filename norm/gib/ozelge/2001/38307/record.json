@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3224-2439/54676",
+  "source_id": 38307,
+  "date": "2001-10-12",
+  "title": "Yeminli mali müşavirlerin düzenleyecekleri KDV İadesi Tasdik Raporları ile  ihracatçı firmanın ihracata ve iade talebine konu teşkil eden malları temin ettiği satıcı firma kayıtlarına inilerek elde edilecek fatura bilgilerinin doğruluğu tasdik olunacak ve",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38307",
+  "source_sha256": "44c48858903acdb0abe6d9ba946cdcbd75eedef3e461489953f2de13b3c31283",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
