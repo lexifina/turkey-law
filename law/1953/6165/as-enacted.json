@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6165",
+  "year": 1953,
+  "title": "İstanbul Opera Binası İnşaatının Hazinece ikmali ve Sureti idaresi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-22",
+  "gazette_issue": "8464",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8464.pdf",
+  "source_sha256": "ab36d698af7cb50519787fdf9ce3cbe690b72c98b4ac1dff80e341c3c703592b",
+  "text_sha256": "cb05979ec00087069e55cbeb171343d97a3eccb47df0539592ec86a75798e4ce",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      897,
+      925
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506165.pdf",
+    "source_sha256": "02191c3d2458423661f26e19873e61ab3c03572080e2145b43fafd19ba697fb0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9748,
+    "bag": 0.8268,
+    "kd_coverage": 0.9892,
+    "kd_body_compared": 0.9688,
+    "rg_words": 86,
+    "kd_words": 96,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
