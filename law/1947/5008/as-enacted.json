@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5008",
+  "year": 1947,
+  "title": "Posta Kanununa ek 2721 sayılı Kanunun bazı maddelerinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-02-21",
+  "gazette_issue": "6538",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6538.pdf",
+  "source_sha256": "c4f7398d7a3432122bcb8b095217625de7f9820bd326e8d4161704d1e34bf561",
+  "text_sha256": "6d9a46959e68924bc0f4ea1bd5c70cd84010d6196eca7cc541736f1c4563b5d3",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      269,
+      288
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [2] (no text layer)",
+    "tesseract_pages": [
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905008.pdf",
+    "source_sha256": "f57b695a77740f6b17fcf998b8e309e3246f0a9da6308fbfbe4b1a0d7ea30c10",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.934,
+    "bag": 0.8123,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9879,
+    "rg_words": 162,
+    "kd_words": 165,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
