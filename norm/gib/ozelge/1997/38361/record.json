@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.37/3760-974/11851",
+  "source_id": 38361,
+  "date": "1997-03-21",
+  "title": "Emlak ve Çevre Temizlik Vergilerinin vergi dairelerince tahsil edilmediği dikkate alındığında, bu vergilerin ilgili belediyenin posta çek hesabına posta çeki veya posta havalesi aracılığı ile ödenmesi mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/38361",
+  "source_sha256": "8fbdbd9ff4bffc12d747b2e34ad2230a335e8562b029ce4f1c4c62783c454416",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
