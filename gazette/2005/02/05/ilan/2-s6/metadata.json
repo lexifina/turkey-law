@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-05",
+  "issue": "25718",
+  "edition": "regular",
+  "item": 6,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Yargı İlânları",
+  "category": "yargi",
+  "category_page": "2",
+  "title": "Diyarbakır 3. Asliye Hukuk Hakimliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050205-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (7 = 7)",
+  "ilan_codes": [
+    "993/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050205-2.htm",
+  "category_page_sha256": "a58f2ac5a9dc910b0dfbfdc1cc8e24cf9bb4979435df166a7216debfc8063c62",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050205.htm",
+  "index_sha256": "7ba5beb1939b97c4834eff8aa0bd6a231ae2aeda49561f8e0f3e6ffad1501f92",
+  "index_header": "5 Şubat 2005 ... Sayı : 25718",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed (court notice)"
+}
