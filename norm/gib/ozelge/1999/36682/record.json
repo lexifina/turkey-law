@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-753/7906",
+  "source_id": 36682,
+  "date": "1999-03-03",
+  "title": "Bankanın hem Milli Savunma Bakanlığı hem de Petrol Ofisi A.Ş. adına düzenlenecek ithalat akreditifine ilişkin olarak aldığı paralar üzerinden banka ve sigorta muameleleri vergisi ödemesi gerektiği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36682",
+  "source_sha256": "9cd8ae071a2f4ddef4ba0febdb2f6fd6dd5baa1ba32f273f1ed5d7e70661b230",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
