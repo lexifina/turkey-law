@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7335",
+  "year": 1959,
+  "title": "Milletlerarası Para Fonu ile Milletlerarası İmar ve Kalkınma Bankasına katılmak için Hükümete yetki verilmesine dair 5016 sayılı Kanunun 2. maddesinin tadili hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-06-15",
+  "gazette_issue": "10231",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10231.pdf",
+  "source_sha256": "030e6bf182b5cafb8a308d9fbf8f3676403b12cdd34ccd1335f805e246a63308",
+  "text_sha256": "ea756ba9f2d353e23c38c52663954f6509657c1164428f8eb9307e2125a59a6d",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      1814,
+      1818
+    ],
+    [
+      1784,
+      1805
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107335.pdf",
+    "source_sha256": "129c413d8c89b2d759bb31f537b5bd32450f60d3c8644ce1bb5ad721cf4469d8",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9515,
+    "bag": 0.8627,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9619,
+    "rg_words": 103,
+    "kd_words": 105,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
