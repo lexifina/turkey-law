@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4019",
+  "year": 1941,
+  "title": "Türkiye-İsveç Kliring Anlaşmasının küsbe bedellerine müteallik hükümlerini tadilen İsveç ile nota teatisi suretiyle yapılan Anlaşmanın kabul ve tasdiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-05-07",
+  "gazette_issue": "4802",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4802.pdf",
+  "source_sha256": "8e3635cd4d915c00d6c320aa59e112f2590e515438da9483c49310a0813a2e11",
+  "text_sha256": "3e6914024b61d54defeabdb45106c2d67f9c6bf483567cc11c4263e99ea015b8",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      989,
+      1004
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204019.pdf",
+    "source_sha256": "fc7e7c180f35143b44f8a65e6a73c38e1cbbcb7f946e878a8ae46ef0ee704104",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9776,
+    "bag": 0.8961,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9747,
+    "rg_words": 77,
+    "kd_words": 79,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
