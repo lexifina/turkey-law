@@ -1,0 +1,2 @@
+Soruşturma Açılmasını Gerektiren Nedenler
+Madde 45 —Soruşturma; kuruluş hizmetlerinin gereği gibi yürütülmesini sağlamak amacı ile mevzuatın emrettiği görevleri yurt içinde veya dışında yerine getirmeyen, uyulması zorunlu kılınan hususları yapmayan, yasakladığı işleri yapan, kanunlara göre suç sayılan işlem ve eylemlerde bulunan personel hakkında disiplin, idari ve yasal sorumlulukların belirlenmesi için açılır.

@@ -1,0 +1,3 @@
+Kontrolörlerin Haberleşme Biçimi
+Madde 34 —Kontrolörler bağlı bulundukları başmüdürlükler dışındaki diğer başmüdürlükler, bağımsız üniteler, Genel Müdürlük ve Genel Müdürlük düzeyindeki diğer tüm makamlarla olan haberleşmelerini başmüdürlükleri aracılığıyla, bunların dışındaki işyerleri ve makamlarla olan haberleşmelerini ise doğrudan doğruya yaparlar. Bağlı oldukları başmüdürlükler dışındaki çalışmalarda bulunulan Başmüdürlük ve Genel Müdürlükçe saptanan durumlarda ise Teftiş Kurulu Başkanlığı ile aracısız haberleşebilirler.
+İvedi ve gizli hallerde haberleşme; şifresi olan makamlarla kapalı telgraf veya kapalı faks yazıyla yapılır. İvedi fakat gizli olmayan haberleşmelerde, duruma göre telgraf, faks, telefon kullanılabilir.

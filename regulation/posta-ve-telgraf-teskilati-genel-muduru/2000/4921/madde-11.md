@@ -1,0 +1,3 @@
+Kontrolörlerin Sorumlulukları ve Uyacakları Hususlar
+Madde 11 —Kontrolörler mevzuatta öngörülen yetkilerini tam olarak kullanmaktan, görevlerini noksansız ve zamanında yerine getirmekten yürürlükteki mevzuat çerçevesinde sorumludurlar.
+Kontrolörler bulundukları yerlerde, görev ve sıfatlarının gerektirdiği saygınlık ve güven duygusunu sarsacak nitelikte davranışlarda bulunamazlar. Yürütmeye müdahale edemezler. İnceledikleri belgeler üzerinde açıklama, ekleme ve düzeltme yapamazlar. Kuruluş personeli ile sosyal ilişkilerin gerektirdiği hususlar dışında özel ilişki tesis edemezler. Teftiş edecekleri yerleri, yapacakları işleri ve görevleri nedeniyle edindikleri gizli bilgi ve belgeleri açıklayamazlar.

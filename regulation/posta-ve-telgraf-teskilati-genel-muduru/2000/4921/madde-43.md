@@ -1,0 +1,4 @@
+Teftiş Raporlarına Genel Müdürlükte Uygulanacak İşlemler
+Madde 43 —Kontrolörler tarafından işlemi tamamlanarak Genel Müdürlüğe gönderilen raporlar, Teftiş Kurulunda incelendikten sonra ilgili dairelere gönderilir. Daireler raporları en geç bir ay içinde inceleyip, gereğine göre alınan önlemleri ve teftiş gören birimlere yapılan bildirileri de belirtmek suretiyle, Teftiş Kuruluna iade edilir. Bu süre zorlayıcı nedenler karşısında uzatılabilir.
+Dairelerin görüş, önlem ve bildirilerini kapsayan raporlar, kurulda görevli müfettişlerce görülerek varsa dairelerce yapılan tebliğler kontrolörlere iletilir.
+Kontrolörler Genel Müdürlük dairelerince yapılan işlemlerde ve bildirilerde noksanlık veya mevzuata aykırılık görürlerse, bu yönü ayrı bir yazı ile açıklayıp tamamlayıcı görüşlerini Teftiş Kurulu Başkanlığına sunarlar.
