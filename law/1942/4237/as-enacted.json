@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4237",
+  "year": 1942,
+  "title": "Fevkalâde hallerde haksız olarak mal iktisap edenler hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-06-03",
+  "gazette_issue": "5122",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5122.pdf",
+  "source_sha256": "f6fccb13f03f9cf0ea3607279a76073338a4ccb820f79115aacadccbd405c004",
+  "text_sha256": "83710012eb705ae51585468e5d8c75865e02857fd69ba5efc46bdd17092aef1b",
+  "text_status": "ocr",
+  "pages": [
+    8,
+    9
+  ],
+  "line_span": [
+    [
+      2018,
+      2289
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304237.pdf",
+    "source_sha256": "db33e6158907cd999fa3addeb31f0cab6cc8f7b0a545114f701d5c2c4218e58e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9142,
+    "bag": 0.9199,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9986,
+    "rg_words": 1403,
+    "kd_words": 1432,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
