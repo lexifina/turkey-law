@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6521-25/43017",
+  "source_id": 38262,
+  "date": "2001-08-15",
+  "title": "Kurumlar Vergisinden muaf olan kurumlarca ( askeri kantinler vb.) ÖKC kullanılıp kullanılmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38262",
+  "source_sha256": "f7c9c9d0379842adbb3f1d91c927f39b9cc14a069c3d3035f7b616db4fe49f7e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
