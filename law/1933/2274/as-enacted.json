@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2274",
+  "year": 1933,
+  "title": "İnhisarlar teşkilâtını değiştirmek ve ecnebi mütehassıs tahsisatını artırmak salâhiyeti hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-06-12",
+  "gazette_issue": "2425",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2425.pdf",
+  "source_sha256": "7cfae3fe51a97989a58c0f7746b1d826aa5ad7ec77867c6dec47adadff45ca04",
+  "text_sha256": "d43c097685d24b3409509145f4b35bb907455194f30426e3ea434f6b3d30bb7e",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      515,
+      536
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [4] (no text layer)",
+    "tesseract_pages": [
+      4
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202274.pdf",
+    "source_sha256": "1072ce7568d9c3ddd5d7973a7a004fe281407d93644eba3e3ed5ca8d15e0c97c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9084,
+    "bag": 0.8227,
+    "kd_coverage": 0.9867,
+    "kd_body_compared": 0.9739,
+    "rg_words": 133,
+    "kd_words": 153,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
