@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "106",
+  "year": 1960,
+  "title": "6290 sayılı Kanuna ekli Gümrük Giriş Tarife Cetvelinin 51 nci faslının 51.01 ve 51.03 pozisyonları ile 59 ncu faslının 59.05 pozisyonunda tali pozisyonlar ihdasına dair 34 sayılı Kanunun geçici maddesinin tadili ile bu kanuna yeniden geçici bir madde ilavesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-10-27",
+  "gazette_issue": "10640",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10640.pdf",
+  "source_sha256": "f16f7c9d199a266d556afab8d97b2c7c7c096a49e89e76f1acb873a78c4def41",
+  "text_sha256": "66c85308a77703f5d91c5df6d64e898f20ca9da6b0c824bbb106c69eeba36e81",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      14,
+      53
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300106.pdf",
+    "source_sha256": "50ef4322fad1c24b826ae039fcb04d395f6c2484eca4664bdac4a4711a985e9d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9606,
+    "bag": 0.8843,
+    "kd_coverage": 0.9917,
+    "kd_body_compared": 0.9676,
+    "rg_words": 245,
+    "kd_words": 247,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
