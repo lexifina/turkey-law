@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5424-216-29998",
+  "source_id": 30828,
+  "date": "2004-06-28",
+  "title": "Fiyat farkı ve kur farkları için düzenlenecek faturada gösterilecek katma değer vergisi oranı, fiyat veya kur farkının ilişkin bulunduğu teslim ve hizmete, vergiyi doğuran olayın vuku bulduğu tarihte uygulanan vergi oranı olması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30828",
+  "source_sha256": "9b7a5fab0d7a608ab82d4f15ff1ee3df3350d1794ae52dd471ee8fb86ad68cc8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
