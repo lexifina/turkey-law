@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5328-1562/19644",
+  "source_id": 38078,
+  "date": "1998-05-26",
+  "title": "Çimento, çakıl ve kumun suyla karışımı sonucu elde edilen hazır betonun konut yapı kooperatiflerine mikserle götürülerek kalıplara dökülmesi işine %1 katma değer vergisi oranı uygulanacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38078",
+  "source_sha256": "7018bad46157d9e2b00df516ca16de867699f942f035ac317c4abfccdd76426c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
