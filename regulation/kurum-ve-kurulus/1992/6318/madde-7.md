@@ -1,0 +1,6 @@
+Projelerin Sonuçlanması
+Madde 7 - Projelerin sonuçlanması aşağıdaki esaslara göre yapılır:
+a) Sonuçlanan projenin bilimsel ve teknik tüm yönlerini ve sonuçlarını kapsayan kesin rapor, sözleşme süresinin tamamlanmasını izleyen en çok 1 ay içinde, beş nüsha olarak Kuruma gönderilir. Genel olarak bilimsel veya teknik bir çalışmanın takdimi için gerekli tüm unsurları içermesi gereken rapor, koordinatörce tespit edilen formata uygun biçimde hazırlanır.
+b) Kesin rapor, proje koordinatörü tarafından incelenerek, projede öngörülen amaçların ve çalışma takviminin gerçekleşme durumunu ve varılan sonuçları değerlendiren bir mütaala hazırlanır.
+Proje kesin raporu, bu mütalaa ile birlikte Değerlendirme Komisyonunca incelenir. Gereken hallerde, kesin rapor yürütücüye geri verilerek bilimsel ve teknik muhtevası bakımından veya şekil yönünden geliştirilmesi istenebilir. Sonuçta rapor kabul veya reddedilir.
+c) Proje yürütücüleri, Kurumun iznini almak şartıyla, yurtiçinde veya yurtdışında araştırma ile ilgili makale yayınlayabilir ve tebliğ sunabilir. Yayımlanmak üzere kabul edilen makalelerle, sunulan tebliğlerin bir örneğinin Kuruma gönderilmesi zorunludur. Ticari uygulamaların söz konusu olduğu hallerde veya gizlilik gerektiren hallerde, bunlara riayet edilmesi yayın yapanların sorumluluğundadır.

@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.6318",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL ÇEVRE KORUMA KURUMU BAŞKANLIĞI ÇEVRE KORUMA PROJELERİNİN YAPTIRILMASI ESASLARINA DAİR YÖNETMELİK",
+  "number": "6318",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1992/6318",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6318&MevzuatTertip=5",
+  "source_sha256": "4f3e0d76a951d959966f25a9b156e891fc7d7cc07cb57d805c60427f4f573537",
+  "source_bytes": 21698,
+  "published": "1992-02-24",
+  "gazette": "21152",
+  "in_force": "1992-02-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.02.1992); own commencement article: \"Bu Yönetmelik yayımı tarihinden itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 998,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

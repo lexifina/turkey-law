@@ -1,0 +1,8 @@
+Projelerin İzlenmesi
+Madde 6 - Projelerin izlenmesindeki esaslar şunlardır:
+a) Projenin sözleşmeye ve projede öngörülen esaslara göre yürütülüp yürütülmediği, gelişme raporları ve gerektiğinde yerinde inceleme yoluyla Kurumun proje koordinatörü veya koordinatörce teklif edilen diğer kurum personeli tarafından izlenir.
+b) Gelişme raporları, sözleşmede belirtilen süreler sonunda örneğine uygun olarak Kuruma gönderilir. Rapor sürelerinin tespitinde proje süresi, kapsamı ve çalışma takvimi gözönünde tutulur.
+Gelişme raporlarında, çalışmanın gelişme durumu, termin planı, varılan ara sonuçlar; yapılan ve yapılması düşünülen ara takdim ve yayınlar, projeyle ilgili bilimsel, teknik, idari ve mali her türlü bilgiler yer alır. Sözleşmede belirtilen tarihte gelişme raporu gönderilmediği ve kabul edilebilir özür bildirilmediği takdirde proje koordinatörünün teklifi Değerlendirme Komisyonu kararıyla, rapor gelene kadar proje durdurulabilir ve bu süre içinde hiçbir ödeme yapılmaz.
+c) İzleme sonucunda öngörülen amaç ve çalışma takvimine uygun biçimde yürütülmediği koordinatörce anlaşılan projeler ile ilgili olarak sözleşme ve protokol esasları Değerlendirme Komisyonunca uygulanır.
+Proje yürütücülerinin kusurları veya ihmalleri sonucunda proje olumsuz bir duruma gelmişse koordinatörün teklifi ve Değerlendirme Komisyonunun kararı ve Başkanlık Makamının onayı ile proje sözleşme- sinin hiç bir ihtara gerek kalmaksızın fesh edileceği, proje sözleşmesinde belirtilir.
+Zorunlu nedenlerle (ölüm, doğal afet, savaş ve Kurumun sebebiyet verdiği hallerde) yürütülmeleri imkansız hale gelen projeler proje yürütücüsünün başvurusu ve Kurumun kararı ile yürürlükten kaldırılır veya proje süresi uzatılır.
