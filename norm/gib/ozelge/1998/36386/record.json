@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6019-1849/047279",
+  "source_id": 36386,
+  "date": "1998-12-15",
+  "title": "İkramiye kazanılması 4369 sayılı Kanunda yapılan değişiklikten önce gerçekleştiğinden, verginin hangi süre içinde ödeneceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36386",
+  "source_sha256": "d402cd9e20eba60c6bb0ab5c5fbd5b4de335cae8af699c5413f098ee8f728e52",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
