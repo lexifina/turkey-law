@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "2119",
+  "year": 1959,
+  "title": "Şanlı ve kahraman ordumuza Türkiye Büyük Millet Meclisinin güven, selâm ve muhabbetlerinin iblâğına dair",
+  "adopted": "1959-02-25",
+  "adopted_as_published": "25/02/1959",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.02.1959 No: 10145",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/karartbmmc041/karartbmmc04102119.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 41",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 11,
+      "kayit_no": 42639,
+      "title": "Şanlı ve kahraman ordumuza Türkiye Büyük Millet Meclisinin güven, selâm ve muhabbetlerinin iblâğına dair",
+      "adopted_as_published": "25/02/1959",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/karartbmmc041/karartbmmc04102119.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 44,
+          "sitting_date": "1959-02-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c007/tbmm11007044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c007/tbmm11007fih.pdf",
+          "pages": [
+            "734:735"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "4d2f3b099a1b37fe089d3d304ad51cd0ed398da0d8603cb04dd3fc3705077d60"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4d2f3b099a1b37fe089d3d304ad51cd0ed398da0d8603cb04dd3fc3705077d60",
+  "issuer": "TBMM",
+  "in_force": "1959-02-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 25/02/1959; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
