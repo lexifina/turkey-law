@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-04-20",
+  "issue": "25439",
+  "edition": "regular",
+  "item": 10,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Makina ve Kimya Endüstrisi Kurumu Silah Fabrikası Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/04/20040420-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (20 = 20)",
+  "ilan_codes": [
+    "4852/1-1",
+    "4853/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/04/20040420-3.htm",
+  "category_page_sha256": "8ce6d4b4420cea1ce474347620a1a2b49d999b1c09197caeb2373ade693f5ed6",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/04/20040420.htm",
+  "index_sha256": "b650a33d31ac8bc4575aeb912d660b4ccae6acb0a66b7edec80f1102b0157172",
+  "index_header": "20 Nisan 2004 ... Sayı : 25439",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
