@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3015",
+  "year": 1936,
+  "title": "Gümrük muhafaza genel komutanlığı emrindeki deniz teşkilâtının askerleştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-06-15",
+  "gazette_issue": "3330",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3330.pdf",
+  "source_sha256": "04150bc81411489202e739390a10c6d703dd6bb224157a6da9d53413b165ad0f",
+  "text_sha256": "61e50309560ee18dc169f15f34d79fda0923904f87516b7bcfa14c5f9f61a44d",
+  "text_status": "ocr",
+  "pages": [
+    21,
+    22
+  ],
+  "line_span": [
+    [
+      4197,
+      4424
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01603015.pdf",
+    "source_sha256": "6a86bb4d56bf946a753d61360da5c9c66c59ecc03602e5ae1b1894ad337f505c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.976,
+    "bag": 0.9238,
+    "kd_coverage": 0.9937,
+    "kd_body_compared": 0.9937,
+    "rg_words": 1093,
+    "kd_words": 1107,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
