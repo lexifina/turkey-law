@@ -1,0 +1,78 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 327293,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "211 sayılı Türk Silâhlı Kuvvetleri İç Hizmet Kanununun 108. maddesinin 1. fıkrasının sonuna (e) bendi ile iki fıkra eklenmesi hakkında kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Millî Savunma Komisyonu raporu. (Millet Meclisi:1/392;Cumhuriyet Senatosu:1/437) (S. Sayısı:596 ve 596'ya 1. ek)",
+  "title": "211 sayılı Türk Silâhlı Kuvvetleri İç Hizmet Kanununun 108. maddesinin 1. fıkrasının sonuna (e) bendi ile iki fıkra eklenmesi hakkında kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Millî Savunma Komisyonu raporu. (Millet Meclisi:1/392;Cumhuriyet Senatosu:1/437) (S. Sayısı:596 ve 596'ya 1. ek)",
+  "first_sitting_date": "1976-05-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 28,
+      "sitting": 62,
+      "sitting_date": "1976-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028fih.pdf",
+      "pages": [
+        "55"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 70,
+      "sitting_date": "1976-05-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028fih.pdf",
+      "pages": [
+        "322"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 72,
+      "sitting_date": "1976-06-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028fih.pdf",
+      "pages": [
+        "398:413"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 77,
+      "sitting_date": "1976-06-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028fih.pdf",
+      "pages": [
+        "465"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 80,
+      "sitting_date": "1976-06-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028fih.pdf",
+      "pages": [
+        "540:547"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=4401&v_kullanici_id=27484903",
+  "source_sha256": "0097d2c9d22b17a0779fcfb06834d003b68765b539260f112afbd8e12751f6f3",
+  "in_force": "1976-05-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
