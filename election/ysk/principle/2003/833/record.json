@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2003/833",
+  "list_number": "833",
+  "decision_date": "2003-10-04",
+  "title": "YSK ilke kararı 2003/833",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4127/2003-833-karar.htm",
+  "source_sha256": "2b946163eef21f03e826fc809cb4a4533e5ad80628d08eaf7d3c7b09929ef1c0",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2003-10-04",
+  "law_text_complete": false
+}
