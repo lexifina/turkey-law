@@ -1,0 +1,51 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7052",
+  "year": 1957,
+  "title": "Türkiye Cumhuriyeti Ziraat Bankası Kanununa ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-09-13",
+  "gazette_issue": "9705",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9705.pdf",
+  "source_sha256": "02b45ede23affb364afa80e7b04176f5b3a4f96a030c17197b2e4ebd7273bb1f",
+  "text_sha256": "c7710ceb907af8306a0b301e5b566e990722c03874ad9d37d3ce81e9d90fbc3b",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    6,
+    9
+  ],
+  "line_span": [
+    [
+      1943,
+      1943
+    ],
+    [
+      1209,
+      1250
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907052.pdf",
+    "source_sha256": "1fbea7b0236e09c4ce74cd84abcd13ac32762bb390432e5d6d25179c232f5d47",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9459,
+    "bag": 0.7869,
+    "kd_coverage": 0.9541,
+    "kd_body_compared": 0.9738,
+    "rg_words": 313,
+    "kd_words": 305,
+    "own_anchor": true,
+    "foreign_anchors": 7
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
