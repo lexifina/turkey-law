@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6609-447/12351",
+  "source_id": 37343,
+  "date": "2005-03-14",
+  "title": "Depremde yıkılan binaların yerine yeniden yapılan binalarda ve depreme hazırlık için yapılan bina yenilemesi inşaatlarında, inşaat ruhsatı harcı alınmaması yönünde yasal bir düzenleme talep edilmesi hususu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37343",
+  "source_sha256": "1939224d3694f17cb651d3a54b9f5974ec9d9beaa8b96e7940b2ee6588d4966e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
