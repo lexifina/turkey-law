@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 349846,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "RİFAT ÖZTÜRKÇİNE (İSTANBUL)",
+  "summary": "Bina yapımını teşvik ve izinsiz yapılan binalar hakkındaki 6188 sayılı kanuna ek kanun teklifi (2/46)",
+  "title": "Bina yapımını teşvik ve izinsiz yapılan binalar hakkındaki 6188 sayılı kanuna ek kanun teklifi (2/46)",
+  "first_sitting_date": "1964-02-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 27,
+      "sitting": 59,
+      "sitting_date": "1964-02-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c027/mm__01027059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c027/mm__01027fih.pdf",
+      "pages": [
+        "461"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 65,
+      "sitting_date": "1964-02-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028fih.pdf",
+      "pages": [
+        "323"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=5701&v_kullanici_id=27484893",
+  "source_sha256": "e0ac2d3381d9048881414ec406d244dd58b2dd5ee54edc8e26a783685897140d",
+  "in_force": "1964-02-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
