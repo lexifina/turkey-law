@@ -1,0 +1,101 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2969",
+  "year": 1936,
+  "title": "Askerî ve mülkî tekaüd Kanununun 45. maddesine bir fıkra eklenmesine dair kanun",
+  "adopted": "1936-05-15",
+  "adopted_as_published": "15/05/1936",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "22.05.1936 No: 3310",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602969.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 16",
+  "committee_reports": [
+    {
+      "label": "TBMM 93ek01 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011060ss0093ek01.pdf"
+    },
+    {
+      "label": "TBMM 93no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c008/tbmm05008031ss0093.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104183,
+      "title": "Askerî ve mülkî tekaüd Kanununun 45. maddesine bir fıkra eklenmesine dair kanun",
+      "adopted_as_published": "15/05/1936",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602969.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 93ek01 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011060ss0093ek01.pdf"
+        },
+        {
+          "label": "TBMM 93no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c008/tbmm05008031ss0093.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 8,
+          "sitting": 31,
+          "sitting_date": "1936-01-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c008/tbmm05008031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c008/tbmm05008fih.pdf",
+          "pages": [
+            "133:135"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 59,
+          "sitting_date": "1936-05-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011fih.pdf",
+          "pages": [
+            "12"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 60,
+          "sitting_date": "1936-05-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011fih.pdf",
+          "pages": [
+            "27"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 63,
+          "sitting_date": "1936-05-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011063.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011fih.pdf",
+          "pages": [
+            "63:64"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=920&v_gelecek_sayfa=101&v_kullanici_id=27483162",
+      "page_sha256": "a274169445dbc921a74425ccb535ecc268148b569d8b8351a65db77bbccd044d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a274169445dbc921a74425ccb535ecc268148b569d8b8351a65db77bbccd044d",
+  "issuer": "TBMM",
+  "in_force": "1936-05-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 15/05/1936; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
