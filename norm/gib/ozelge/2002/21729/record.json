@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-31942/3981",
+  "source_id": 21729,
+  "date": "2002-01-25",
+  "title": "Kurumlar vergisi mükelleflerinden, gerçekleştirilmeyen yatırım harcamaları üzerinden hesaplanan yatırım indirimi istisnası üzerinden Gelir Vergisi Kanununa göre yapılan tevkifatlar, hesaplanan vergiden mahsup edilecek olup, tecil faizinin mahsuptan sonra ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21729",
+  "source_sha256": "1bd64dd8e491cd5a4623c923d5f6580897c2b5336cd3fbdc81bbfae3efd9ea1a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
