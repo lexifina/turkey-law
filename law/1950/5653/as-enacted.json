@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5653",
+  "year": 1950,
+  "title": "Orman Kanununun bazı maddelerinin değiştirilmesine ve bu kanuna bazı maddeler eklenmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-04-03",
+  "gazette_issue": "7473",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7473.pdf",
+  "source_sha256": "616c93526cff64db97f37f62f0da50dbc4fa2386c7119b48dbda0fae8ebe40f0",
+  "text_sha256": "5decf8ce51c496e20f88b2cbd9b570b082e76410491d8427ed776a07042becec",
+  "text_status": "ocr",
+  "pages": [
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "line_span": [
+    [
+      2425,
+      3186
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205653.pdf",
+    "source_sha256": "ab37a073f07f9e3b188540a0b1119fbe117e9ca2d29ac197736d2c153ff24259",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9518,
+    "bag": 0.9107,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9995,
+    "rg_words": 4212,
+    "kd_words": 3920,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
