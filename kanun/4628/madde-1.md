@@ -2,7 +2,7 @@ BİRİNCİ KISIM
 Genel Hükümler
 BİRİNCİ BÖLÜM
 Amaç, Kapsam, Tanımlar
-Amaç, kapsam ve tanımlar
+Amaç, kapsam ve tanımlar (1)
 MADDE 1- Bu Kanunun amacı; elektriğin yeterli, kaliteli, sürekli, düşük maliyetli ve çevreyle uyumlu bir şekilde tüketicilerin kullanımına sunulması için, rekabet ortamında özel hukuk hükümlerine göre faaliyet gösterebilecek, mali açıdan güçlü, istikrarlı ve şeffaf bir elektrik enerjisi piyasasının oluşturulması ve bu piyasada bağımsız bir düzenleme ve denetimin sağlanmasıdır.
 Bu Kanun; elektrik üretimi, iletimi, dağıtımı, toptan satışı, perakende satışı, perakende satış hizmeti, ithalat ve ihracatı ile bu faaliyetlerle ilişkili tüm gerçek ve tüzel kişilerin hak ve yükümlülüklerini, Elektrik Piyasası Düzenleme Kurumunun kurulması ile çalışma usul ve esaslarını ve elektrik üretim ve dağıtım varlıklarının özelleştirilmesinde izlenecek usulü kapsar.
 Bu Kanunun uygulanmasında;
@@ -11,8 +11,8 @@ Bu Kanunun uygulanmasında;
 3. TEAŞ: Türkiye Elektrik Üretim İletim Anonim Şirketini,
 4. TEDAŞ: Türkiye Elektrik Dağıtım Anonim Şirketini,
 5. DSİ: Devlet Su İşleri Genel Müdürlüğünü,
-6. Kurum: Elektrik Piyasası Düzenleme Kurumunu,
-7. Kurul: Elektrik Piyasası Düzenleme Kurulunu,
+6. Kurum: Enerji Piyasası Düzenleme Kurumunu, (1)
+7. Kurul: Enerji Piyasası Düzenleme Kurulunu, (1)
 8. Mevcut sözleşmeler: Bu Kanunun yürürlüğe girdiği tarihten önce, 4/12/1984 tarihli ve 3096 sayılı Kanun, 8/6/1994 tarihli ve 3996 sayılı Kanun, 16/7/1997 tarihli ve 4283 sayılı Kanun, 21/1/2000 tarihli ve 4501 sayılı Kanun hükümleri ve ilgili yönetmeliklere göre imzalanan sözleşmeleri, imtiyaz sözleşmelerini ve uygulama sözleşmelerini,
 9. İştirak: Kanın iktisadi teşebbüsü olanlar hariç olmak üzere; doğrudan veya .dolaylı olarak tek başına veya başka şirket ve şirketler veya gerçek kişi ve kişilerle birlikle piyasada faaliyet gösteren herhangi bir tüzel kişiyi kontrol eden şirket veya doğrudan ya da dolaylı olarak, tek başına veya birlikte, başka herhangi bir şirket ve şirketler veya gerçek kişi ve kişiler tarafından kontrol edilen, piyasada faaliyet gösteren tüzel kişiyi ve bu şirketlerin ve/veya piyasada faaliyet gösteren tüzel kişilerin birinin diğeriyle veya birbirleriyle olan doğrudan veya dolaylı ilişkisini,
 10. Kontrol: Bir tüzel kişi üzerinde doğrudan veya dolaylı olarak o tüzel kişinin sermayesinin ya da ticari mal varlığının yarısından fazlasını veya oy haklarının yarısından fazlasını kullanma hakkını ya da denetim kurulu, yönetim kurulu veya tüzel kişiyi temsile yetkili organların üyelerinin yarıdan fazlasını atama hakkını ya da işlerini idare etme hakkını,
@@ -21,6 +21,8 @@ Bu Kanunun uygulanmasında;
 13. Dağıtım: Elektrik enerjisinin 36 kV ve altındaki hatlar üzerinden naklini,
 14. Toptan satış: Elektriğin tekrar satış için satışını,
 15. Perakende satış: Elektriğin tüketicilere satışını,
+––––––––––––––––––––––
+(1) 18/4/2001 tarihli ve 4646 sayılı Kanunun 14 üncü maddesiyle, bu maddenin (6) numaralı bendinde yer alan “Elektrik Piyasası Düzenleme Kurumu” ibaresi “Enerji Piyasası Düzenleme Kurumu”, (7) numaralı bendinde yer alan “Elektrik Piyasası Düzenleme Kurulu” ibaresi “Enerji Piyasası Düzenleme Kurulu” şeklinde değiştirilmiştir.
 16. Perakende satış hizmeti: Perakende satış lisansına sahip şirketlerce, elektrik enerjisi ve/veya kapasite satımı dışında tüketicilere sağlanan diğer hizmetleri,
 17. Tüketici: Elektriği kendi ihtiyacı için alan serbest ve serbest olmayan tüketicileri,
 18. Tedarikçi: Tüketicilerine elektrik enerjisi ve/veya kapasite sağlamakla yükümlü olan üretim şirketleri, otoprodüktörler, otoprodüktör grupları, toptan satış şirketleri ve perakende satış şirketlerini,

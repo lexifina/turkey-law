@@ -1,4 +1,4 @@
-Elektrik Piyasası Düzenleme Kurulu ve Kurul Başkanlığı
+Enerji Piyasası Düzenleme Kurulu ve Kurul Başkanlığı (1)
 MADDE 5- Kurul, biri Başkan, biri İkinci Başkan olmak üzere yedi üyeden oluşur.
 Kurul üyeleri; hukuk, siyasal bilgiler, idari bilimler, kamu yönetimi, iktisat, mühendislik, işletme ya da maliye dallarında eğitim veren en az dört yıllık yüksek öğrenim kurumlarından mezun olmuş, kamu kurum ve kuruluşlarında ya da özel sektörde en az on yıl deneyim sahibi ve mesleğinde temayüz etmiş kişiler arasından Bakanlar Kurulunca atanır.
 Bakanlar Kurulu, atamayla birlikte Kurul Başkanını ve İkinci Başkanı görevlendirir.
@@ -21,6 +21,8 @@ m) Kuruma taşınır ve taşınmaz mal veya hizmet alınması, satılması ve ki
 n) Uluslararası organizasyon ve teşkilatların piyasaya ilişkin mevzuat ve uygulamalarını izleyerek, gerekli gördüğü düzenlemeleri yapmak; yasal düzenleme ihtiyacı duyulması halinde gerekli hazırlıkları yaparak Bakanlığa sunmak.
 o) Kurumun üçüncü kişilerle olan alacak, hak ve borçları hakkında her türlü işleme karar vermek.
 p) Elektrik enerjisi üretiminde çevresel etkiler nedeniyle yenilenebilir enerji kaynaklarının ve yerli enerji kaynaklarının kullanımını özendirmek amacıyla gerekli tedbirleri almak ve bu konuda teşvik uygulamaları için ilgili kurum ve kuruluşlar nezdinde girişimde bulunmak.
+––––––––––––––––––––––
+(1) 18/4/2001 tarihli ve 4646 sayılı Kanunun 14 üncü maddesiyle, bu maddenin başlığında ve metninde yer alan “Elektrik Piyasası Düzenleme Kurulu” ibaresi “Enerji Piyasası Düzenleme Kurulu” şeklinde değiştirilmiştir.
 Bu Kanunun diğer maddeleri ile belirlenen yetkilerinin yanısıra, Kurul aşağıdaki yetkilere de sahiptir:
 a) Bu Kanun hükümlerinin uygulanması ve bu Kanunla kendisine verilen görevleri yerine getirmek için gerekli olan ve piyasada rekabeti geliştirmeye yönelik olarak gerçek ve tüzel kişilerin uymaları gereken, talimatları ve tebliğleri , şebeke
 yönetmeliğini, dağıtım yönetmeliğini, müşteri hizmetleri yönetmeliğini ve dengeleme ve uzlaştırma yönetmeliğini onaylamak.
