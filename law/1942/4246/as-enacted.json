@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4246",
+  "year": 1942,
+  "title": "Gümrük tarifesi kanununa bağlı ithalât umumi tarifesinin muhtelif pozisyonlarına dahil bazı maddelerin gümrük resimlerinde 2294 sayılı kanunun birinci maddesinin verdiği salâhiyete istinaden İcra Vekilleri Heyetince yapılan değişikliklerin tasdiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-06-05",
+  "gazette_issue": "5124",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5124.pdf",
+  "source_sha256": "ddc14bc27a99ba6c8f3c053bb83cb6c765fb3177d8d057ac7f6ba9c42903bcbe",
+  "text_sha256": "e2a345087cc5fe94495e21deafb5d3e83f9532894dbc2b15964f1bc24ef10f26",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      256,
+      275
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304246.pdf",
+    "source_sha256": "650b9559faeb5c44a6aa68c6809c2553f3a5cd6871b6759feebadb015d30ef99",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9793,
+    "bag": 0.9128,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.1661,
+    "rg_words": 99,
+    "kd_words": 578,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
