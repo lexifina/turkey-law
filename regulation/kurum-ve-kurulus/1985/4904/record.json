@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4904",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AFETLER SEBEBİYLE EDİNİLEN BİNA ARSA VE ARAZİLERDEN ARTA KALANLARIN DEĞERLENDİRİLMESİNE DAİR YÖNETMELİK",
+  "number": "4904",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1985/4904",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4904&MevzuatTertip=5",
+  "source_sha256": "72c9b322e0c8e3297d146fc6c34f719607aa6efb6f486fb3be7c9944f75ed4d2",
+  "source_bytes": 33687,
+  "published": "1985-10-13",
+  "gazette": "18897",
+  "in_force": "1985-10-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.10.1985); own commencement article: \"Bu yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1596,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
