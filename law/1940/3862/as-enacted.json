@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3862",
+  "year": 1940,
+  "title": "İngiltere ile 3 şubat 1940 tarihinde Londra'da imza edilmiş olan 1 Mart 1930 da Ankara'da münakit Ticaret ve seyrisefain muahedesinin tadiline müteallik anlaşmanın tasdiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-06-05",
+  "gazette_issue": "4527",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4527.pdf",
+  "source_sha256": "ff0b29f155b31cfbf2e5b65ce15e3b89bb341cc235d5cf91be98a43bef2d6d34",
+  "text_sha256": "69d1292ea5779618fcbc9f34c0ef3974da6b9dc11aa227b704e75bf135c8b405",
+  "text_status": "ocr",
+  "pages": [
+    18
+  ],
+  "line_span": [
+    [
+      3366,
+      3437
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103862.pdf",
+    "source_sha256": "a0eeb395bca5097f717b0d0b392956bf3bfb9afe4a5f35d019a08da60a2dbce2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.966,
+    "bag": 0.9035,
+    "kd_coverage": 0.9902,
+    "kd_body_compared": 0.9902,
+    "rg_words": 413,
+    "kd_words": 410,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
