@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "238",
+  "year": 1961,
+  "title": "4273 sayılı Subaylar heyetine mahsus terfi kanununun 10 ncu maddesi ( c ) fıkrasının tadili ve bu kanuna 4 geçici madde eklenmesi hakkındaki 63 sayılı Kanunun geçici 2 nci maddesinin tadiline dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1961-01-12",
+  "gazette_issue": "10705",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10705.pdf",
+  "source_sha256": "668e7645f39ea8e40baa525b06c006763ee444d05f378157222ba47c427a29c1",
+  "text_sha256": "df1f03925baf2c5f340e746f5c00ab96795281e67ceb6c561e2f69fe90205e90",
+  "text_status": "ocr",
+  "pages": [
+    35
+  ],
+  "line_span": [
+    [
+      7386,
+      7407
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300238.pdf",
+    "source_sha256": "591b80bcb8e099c0b43efca3939fa705bbc8e684dad9c90f4e107a27fb26a79f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9423,
+    "bag": 0.9214,
+    "kd_coverage": 0.9928,
+    "kd_body_compared": 0.8519,
+    "rg_words": 142,
+    "kd_words": 162,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
