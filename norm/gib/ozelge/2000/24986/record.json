@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2803-5-803/37030",
+  "source_id": 24986,
+  "date": "2000-08-04",
+  "title": "Adli ve idari sorşturmalarda bilgi istenmesi durumunda vergi mahremiyetinin ihal edilip edilmeyeceği konusunda.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24986",
+  "source_sha256": "93143f2e685a18eb370afce539b13c88d28bc7ddae6792cac2de8e15e20d3781",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
