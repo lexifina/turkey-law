@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 22,
+  "legislative_year": 1,
+  "esas_no": "7/558",
+  "submitted": "2003-05-14",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet YILMAZCAN",
+  "province": "Kahramanmaraş",
+  "summary": "Irak petrollerinden Türkiye'ye pay verilmesiyle ilgili anlaşmalara ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bd-a7e1-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "6990b9a97eed58e97420aa082dc3f43062b4b6787f5220f2647b9dc7cf599870",
+  "in_force": "2003-05-14",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
