@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4928",
+  "year": 2003,
+  "title": "Çeşitli Kanunlarda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-07-19",
+  "gazette_issue": "25173",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030719.htm",
+  "source_sha256": "5fd1dd4f73bceef257bc0f1bca14239d542f4b582dc2238874446050cbb726f4",
+  "text_sha256": "4190405c329960a1b5403ea2afe9414bf985d37512f65e2d34ed6b2beae862bc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/07/19/25173-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030719.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
