@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4035-207/668",
+  "source_id": 22253,
+  "date": "2000-01-08",
+  "title": "İşletmeden çekilmeden veya satılmadan ticari işletmeye dahil nakil vasıtalarının kiraya verilmesi ile vergiye tabi muameleler sona ermemekte ve işi terk gerçekleşmemektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22253",
+  "source_sha256": "820808f1aa2c0630d6c40cadffbb852f1c56fe81800dd61a147767a2dda8ad60",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
