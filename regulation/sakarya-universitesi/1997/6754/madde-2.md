@@ -1,0 +1,1 @@
+Madde 2 - Merkez'in amacı, İngilizce, Almanca, Fransızca, İtalyanca, Arapça vs. gibi yabancı diller üzerinde araştırmalar ve incelemeler yapmak, ilgili yerli ve yabancı kurumlar ile bu doğrultuda işbirliği içerisinde bulunmak, anılan yabancı dillerden yararlanılmasına hizmet etmek üzere eğitim programları düzenlemektir.
