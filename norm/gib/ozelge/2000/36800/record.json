@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1078/16463",
+  "source_id": 36800,
+  "date": "2000-04-11",
+  "title": "Şirketlerin, yatırım teşvik belgesi kapsamında bankalardan kullandıkları kredi dolayısıyla, banka lehine doğan B.S.M.V. için, şirketlere V.U.K. düzeltme hükümlerinin uygulanıp uygulanmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36800",
+  "source_sha256": "8e8512089b7c3e7bf03f87e3847c55a32d7390a5631027e0b67b39ce99eb75a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
