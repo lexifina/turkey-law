@@ -1,0 +1,3 @@
+Standartlar
+Madde 5 — Doğal gaz piyasa faaliyetlerinin gerçekleştirileceği tüm doğal gaz tesislerinin tasarımı, yapım ve montajı, test ve kontrolü, işletmeye alma ve işletilmesi, bakımı, onarımı ve tesislerde asgari emniyetin sağlanması ile ilgili olarak; TS, EN, ISO, IEC standartlarından herhangi birine, bu standartlarda yoksa, TSE tarafından kabul gören diğer standartlara ve/veya dokümanlara uyulması zorunludur. Standartlarda değişiklik olması halinde, değişiklik getiren standart, uygulanan standardın iptal edilmesi veya yürürlükten kaldırılması halinde ise yeni standart geçerli olur.
+Tesislerde, hiçbir şekilde standart dışı malzeme ve ekipman kullanılamaz. Ancak standardı bulunmayan malzeme ve ekipman için kalite uygunluk belgesine sahip olma şartı aranır.

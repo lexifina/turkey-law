@@ -1,0 +1,3 @@
+Personelin Vasıfları ve Eğitimi
+Madde 7 — Lisans sahibi; tesislerin işletilmesinde, görevinin gerektirdiği vasıf ve eğitime sahip personel kullanır. Personelin görev tanımı, eğitimi ve değerlendirilmesi ile eğitim yenileme sürelerini kapsayan program hazırlanıp uygulanır.
+Tesislerde görevli tüm personel; acil durum, yanıcı sıvı ve gazların özellikleri ile potansiyel tehlikeler, yangınla mücadele ve ilk yardım konusunda eğitilir. Ayrıca ilgili personel kendi görev alanlarında uygulamalı eğitime tabi tutulur. Tesislerde, eğitimi başarılı şekilde tamamlayan personel görevlendirilir. Bu eğitimler belirli aralıklarla tekrarlanır.

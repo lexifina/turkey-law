@@ -1,0 +1,2 @@
+İşletme ve Bakım El Kitapçıkları
+Madde 8 — Lisans sahibi, normal işletme ve bakım sırasında kullanılmak üzere, tesislerin devreye alınma, işletme ve devre dışı bırakılma işlemleri sırasında gerekli emniyetin sağlanmasına yönelik kitapçıklar hazırlar. Bu kitapçıklar, normal olmayan işletme şartlarında gereken müdahale, düzeltme ve kontrol işlemlerini de içerir ve gerektikçe güncel hale getirilerek tesislerin ilgili bölümlerinde kullanıma hazır tutulur.

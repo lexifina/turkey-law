@@ -1,0 +1,2 @@
+Geçici Madde 1 — Bu Yönetmeliğin yürürlüğe giriş tarihinden önce ihalesi gerçekleşen, yapımı devam eden veya tamamlanan, ancak işletmeye alınmamış tesisler, emniyetli bir şekilde işletilmelerini teminen, gerekli test ve kontroller yapılarak işletmeye alınır.
+Bu Yönetmeliğin yürürlüğe giriş tarihinden önce işletilmekte olan mevcut tesislerin işletilmesine, asgari emniyetin sağlanması için, lisans sahibince gerekli tedbirlerin alınması kaydıyla devam edilir.

@@ -1,0 +1,3 @@
+Acil Durumda Müdahale
+Madde 9 — Lisans sahibi; oluşabilecek acil durumun mahiyet ve mahalline göre, müdahale edecek personel ve kullanılacak ekipmanları da içeren kitapçıklar hazırlar. Bu kitapçıklar, tesislerin ilgili bölümlerinde kullanıma hazır tutulur ve gerektikçe güncel hale getirilir.
+Acil durum esnasında ihtiyaç duyulacak personel, ekipman, alet ve malzemeler hazır bulundurulur. Tesislerdeki potansiyel tehlikeler ve müdahale imkanları hakkında ilgili makamlara bilgi verilir. Acil durum halinde, hazırlanan kitapçıklar doğrultusunda gerekli emniyet tedbirleri alınarak müdahale yapılır. Etki alanındaki personel ve halkın tahliyesi ile diğer gerekli önlemlerin alınması için ilgili yerel makamlar ile koordinasyon sağlanır.

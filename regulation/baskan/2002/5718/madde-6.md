@@ -1,0 +1,3 @@
+Hak ve Yükümlülükler
+Madde 6 — Tesislerin yapım ve hizmet faaliyetlerinin, sertifika sahiplerine yaptırılması zorunludur. Lisans sahibi, bu faaliyetleri kendisi de gerçekleştirebilir.
+Lisans sahibi; ilgili tesislerin tasarımından başlamak üzere, inşa edilmesi ve montajından işletmeye alınmasına kadar olan her aşamada, söz konusu faaliyetlerin ilgili mevzuat çerçevesinde yürütülüp yürütülmediğine ilişkin test ve/veya kontrolleri diğer bir sertifika sahibine yaptırır. Yapılan test ve kontrollere ilişkin her türlü kayıt ve raporlar ile tesislerin işletme, bakım ve onarım kayıtlarının lisans sahibi tarafından tutulması ve muhafaza edilmesi zorunludur.
