@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6421",
+  "year": 1954,
+  "title": "Devlet Su işleri Umum Müdürlüğü 1954 yılı Bütçe Kanununa bağlı (A/1) ve (A/2) işaretli cetvellerin bazı tertiplerine munzam tahsisat verilmesi hakkında kanun",
+  "adopted": "1954-06-18",
+  "adopted_as_published": "18/06/1954",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "25.06.1954 No: 8738",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706421.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 37",
+  "committee_reports": [
+    {
+      "label": "TBMM 16 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c001/tbmm10001010ss0016.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 10,
+      "kayit_no": 51550,
+      "title": "Devlet Su işleri Umum Müdürlüğü 1954 yılı Bütçe Kanununa bağlı (A/1) ve (A/2) işaretli cetvellerin bazı tertiplerine munzam tahsisat verilmesi hakkında kanun",
+      "adopted_as_published": "18/06/1954",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706421.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 16 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c001/tbmm10001010ss0016.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 8,
+          "sitting_date": "1954-06-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c001/tbmm10001008.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c001/tbmm10001fih.pdf",
+          "pages": [
+            "162"
+          ]
+        },
+        {
+          "cilt": 1,
+          "sitting": 9,
+          "sitting_date": "1954-06-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c001/tbmm10001009.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c001/tbmm10001fih.pdf",
+          "pages": [
+            "196"
+          ]
+        },
+        {
+          "cilt": 1,
+          "sitting": 10,
+          "sitting_date": "1954-06-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c001/tbmm10001010.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c001/tbmm10001fih.pdf",
+          "pages": [
+            "204",
+            "210:213"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "81ba0373f5de58db5985dfe303a55b7fb28358fca50619cf672b9c6bea3a9d0e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "81ba0373f5de58db5985dfe303a55b7fb28358fca50619cf672b9c6bea3a9d0e",
+  "issuer": "TBMM",
+  "in_force": "1954-06-18",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 18/06/1954; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
