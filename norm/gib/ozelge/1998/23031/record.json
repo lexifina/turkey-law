@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-302/49440",
+  "source_id": 23031,
+  "date": "1998-12-24",
+  "title": "Antika, mobilya, tablo, hat ve elyazması Kur'an'ların herhangi bir kurum veya kuruluşta bulundurulmasına veya beyan edilmesine gerek bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23031",
+  "source_sha256": "1145874fd809406834bb03c4ba92e5670b77b184c84a18f9d32c1914851bb736",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
