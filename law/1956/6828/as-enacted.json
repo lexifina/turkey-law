@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6828",
+  "year": 1956,
+  "title": "1956 malî yılı Muvazenei Umumiye Kanununa bağlı (A/1) ve (D) işaretli cetvellerde değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-09-04",
+  "gazette_issue": "9398",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9398.pdf",
+  "source_sha256": "62b4d7bbdf76f78b84f2b5f829973d279e30ac3be7003c9d4b161690f3a5cc1c",
+  "text_sha256": "6fe1312b0bd7833505b05b6e71783133c3f250276bea0c65a411182027cb2b7a",
+  "text_status": "ocr",
+  "pages": [
+    11,
+    12
+  ],
+  "line_span": [
+    [
+      2543,
+      2559
+    ],
+    [
+      2729,
+      2759
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806828.pdf",
+    "source_sha256": "2c52978bb7b03487442da6f171dec1ab3a28d10ec9fd15788b5671cfa57b827b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.924,
+    "bag": 0.9115,
+    "kd_coverage": 0.9568,
+    "kd_body_compared": 1.0,
+    "rg_words": 143,
+    "kd_words": 162,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
