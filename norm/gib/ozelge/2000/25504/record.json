@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2926-234-297/57639",
+  "source_id": 25504,
+  "date": "2000-12-06",
+  "title": "Şirket tarafından yük boşaltma işini yaptırılan kimselere ödenen hammaliye ücreti için gider pusulası düzenlenip düzenlenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25504",
+  "source_sha256": "fc5c10ced9c154faa99cc5a5f81163788f99a51ed6f98a4d24695ff2534c04b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
