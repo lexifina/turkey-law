@@ -1,0 +1,78 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2816",
+  "year": 1983,
+  "title": "2816 sayılı Kanun",
+  "adopted": "1983-04-18",
+  "adopted_as_published": "18/04/1983",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18/04/1983 No: 18022 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602816.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 66",
+  "committee_reports": [
+    {
+      "label": "MGK 567 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c008/mgk_01008140ss0567.pdf"
+    },
+    {
+      "label": "DM 303no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016084ss0303.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 151358,
+      "title": "2816 sayılı Kanun",
+      "adopted_as_published": "18/04/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602816.pdf",
+      "committee_reports": [
+        {
+          "label": "MGK 567 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c008/mgk_01008140ss0567.pdf"
+        },
+        {
+          "label": "DM 303no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016084ss0303.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=501&v_kullanici_id=27483250",
+      "page_sha256": "c8f17855ba46fc768612c9928306ff488895bac71ffc91ce4c289d5bde1d88ce"
+    },
+    {
+      "assembly": "Danışma Meclisi",
+      "term": null,
+      "kayit_no": 143846,
+      "title": "2816 sayılı Kanun",
+      "adopted_as_published": "18/04/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanundmc066/kanundmc06602816.pdf",
+      "committee_reports": [
+        {
+          "label": "DM 303 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c016/dm__02016084ss0303.pdf"
+        },
+        {
+          "label": "MGK 567no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c008/mgk_01008140ss0567.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=322&v_gelecek_sayfa=101&v_kullanici_id=27483253",
+      "page_sha256": "865902146506a3648609d3b60120d1560238fd89af425a017532a853430f753b"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "c8f17855ba46fc768612c9928306ff488895bac71ffc91ce4c289d5bde1d88ce",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1983-04-18",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 18/04/1983; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
