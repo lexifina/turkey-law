@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "441",
+  "decision_date": "2005-02-24",
+  "title": "12/02/2004 tarihli ve 25371 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 10/02/2004 tarihli ve 297 sayılı Kurul Kararı değiştirilmiştir",
+  "resmi_gazete_date": "2005-03-04",
+  "resmi_gazete_number": "25745",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=97QoEYiXlEk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=97QoEYiXlEk="
+  ],
+  "source_sha256": "cad7e487d917a7bbc628935ee715a93d027ada7306be5adba5d4d19afa58fc2c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-02-24",
+  "law_text_complete": false
+}
