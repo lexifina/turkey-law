@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5336",
+  "year": 1949,
+  "title": "Yol işleri için benzinden alınacak vergi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-02-18",
+  "gazette_issue": "7135",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7135.pdf",
+  "source_sha256": "e1f1c17eabf4dbf8d590fe676b185835bc4766b1901cc2e4d6c821166ace8cf3",
+  "text_sha256": "b9be39e2f400b27c49222332ce91eb04f27105c3e5b3f6bb647b8ab2983b7bed",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      771,
+      872
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105336.pdf",
+    "source_sha256": "510b0ee26b1617d54293357151e8fc76da7dfe0ef199368368014a293fad10dc",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9745,
+    "bag": 0.8993,
+    "kd_coverage": 0.9966,
+    "kd_body_compared": 0.9883,
+    "rg_words": 583,
+    "kd_words": 596,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
