@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4904",
+  "year": 1946,
+  "title": "Danıştay Kanununun bazı maddelerinde değişiklik yapılmasına ve bu kanuna bazı madde ve fıkralar eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-06-01",
+  "gazette_issue": "6322",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6322.pdf",
+  "source_sha256": "2fe4d83bdc105b03d642c6f95fd5d19d9615d9401e2ae61f0055153a92888b03",
+  "text_sha256": "49d975f6ab01e1c7d93d02f2b5f0722017095d7328db1e842b6d7588caeac773",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      11,
+      328
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804904.pdf",
+    "source_sha256": "84a8786bc4be01d4accdb8f3693057337cdcdea9b1798ae6be3af3f00b79b717",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9234,
+    "bag": 0.8154,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9388,
+    "rg_words": 1891,
+    "kd_words": 2059,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
