@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.9233",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "POLİS MÜZELERİ YÖNETMELİĞİ",
+  "number": "9233",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1985/9233",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9233&MevzuatTertip=5",
+  "source_sha256": "36a343a69bfe64c8b15829234e598723202b45c1a3a7101dd25b41ec29e2d610",
+  "source_bytes": 28260,
+  "published": "1985-04-05",
+  "gazette": "18716",
+  "in_force": "1985-04-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.04.1985); own commencement article: \"Bu Yönetmelik Resmi Gazete'de yayınlandığı tarihten itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete'de yayınlandığı tarihten itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 835,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

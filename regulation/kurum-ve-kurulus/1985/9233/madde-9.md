@@ -1,0 +1,2 @@
+Mutemetin Görevleri
+Madde 9 - Mutemet, Ayniyat Yönetmeliğine uygun olarak müzede bulunan demirbaş, mefruşat ve diğer eserlerin kayıtlarını tutmak, bunları varsa bölüm memurlarına zimmetle teslim etmek, demirbaş listelerini hazırlayarak, müdüre onaylatmak ve ilgili yerlere asmak, her yıl sayım cetvelleri düzenleyerek Genel Müdürlüğe gönderilmesini sağlamak ve müdürün vereceği diğer işleri Ayniyat Yönetmeliğine göre yapmak ile görevlidir.
