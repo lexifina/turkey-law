@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-11/2004-9/ Okul Aile Birlikleri-1",
+  "source_id": 1107,
+  "date": "2004-08-05",
+  "title": "Mülkiyeti Hazineye ait olup Milli Eğitim Bakanlığına tahsisli ve bu Bakanlığa bağlı okul ve kurumlardaki kantin, açık alan, salon ve benzeri yerlerin okul aile birliklerince işletilmesi veya işlettirilmesi ile ilgili olarak yapılacak uygulama",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1107",
+  "source_sha256": "20ef491c30d3b9d28d55a544e01019faa450ce578b34cf1fa4b38961db01941d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
