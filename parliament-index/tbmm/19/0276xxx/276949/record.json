@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 276949,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MUZAFFER İLHAN (MUĞLA)",
+  "summary": "Ve Antalya Milletvekili Adil Aydın'ın;6831 Sayılı Orman Kanununun, 2155 Sayılı Bazı Kamu Personeline Tayın Bedeli Verilmesi Hakkında Kanun ve 5434 Sayılı Emekli Sandığı Kanununun Bazı Maddelerinin Değiştirilmesine Dair Kanun Teklifi ile; Aydın Milletvekili Cengiz Altınkaya'nın; 6831Sayılı Orman Kanununun 12. Maddesinin Değiştirilmesine Dair Kanun Teklifi ve Muğla Milletvekili Nevşat Özer ve 2 Arkadaşının;22.6.1978 Tarihli ve 2155 Sayılı Bazı Kamu Personeline Tayın Bedeli Verilmesi Hakkında Kanunun Bazı Maddelerinin Değiştirilmesine Dair (2/678, 2/188, 2/720)",
+  "title": "Ve Antalya Milletvekili Adil Aydın'ın;6831 Sayılı Orman Kanununun, 2155 Sayılı Bazı Kamu Personeline Tayın Bedeli Verilmesi Hakkında Kanun ve 5434 Sayılı Emekli Sandığı Kanununun Bazı Maddelerinin Değiştirilmesine Dair Kanun Teklifi ile; Aydın Milletvekili Cengiz Altınkaya'nın; 6831Sayılı Orman Kanununun 12. Maddesinin Değiştirilmesine Dair Kanun Teklifi ve Muğla Milletvekili Nevşat Özer ve 2 Arkadaşının;22.6.1978 Tarihli ve 2155 Sayılı Bazı Kamu Personeline Tayın Bedeli Verilmesi Hakkında Kanunun Bazı Maddelerinin Değiştirilmesine Dair (2/678, 2/188, 2/720)",
+  "first_sitting_date": "1995-02-23",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 80,
+      "sitting": 79,
+      "sitting_date": "1995-02-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c080/tbmm19080079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c080/tbmm19080fih.pdf",
+      "pages": [
+        "121:123"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "43aaab60f7da3252bdc7db630895d9f1c1cc55124b058e8901f22e28ebfb794c",
+  "in_force": "1995-02-23",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
