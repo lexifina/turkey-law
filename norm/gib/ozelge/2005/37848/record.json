@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-",
+  "source_id": 37848,
+  "date": "2005-02-08",
+  "title": "Satın aldığınız arazinin 25/11/1997 tarihinde parsellendikten sonra 29/09/1999 tarihinde...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37848",
+  "source_sha256": "0586138185aea96580650345a3b6e02619b2e8eb5869e5489a88ead068b5396d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
