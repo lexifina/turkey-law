@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8720",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELİRLİ ÜÇÜNCÜ ÜLKELERDE İŞLEM GÖRDÜKTEN SONRA GERİ İTHAL EDİLEN BELİRLİ TEKSTİL ÜRÜNLERİNE VE GİYİM EŞYASINA UYGULANAN EKONOMİK ETKİLİ HARİÇTE İŞLEME REJİMİ TEBLİĞİ (2005/3)",
+  "number": "8720",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2005/8720",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8720&MevzuatTertip=5",
+  "source_sha256": "ce6f624006d772f551816df24225fceaa1011a34395e73da1231f058bd170c5e",
+  "source_bytes": 22070,
+  "published": "2005-01-07",
+  "gazette": "25693",
+  "in_force": "2005-01-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.01.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 817,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
