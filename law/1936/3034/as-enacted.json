@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3034",
+  "year": 1936,
+  "title": "Doyçe bank elinde bulunan Ergani bakırı Türk anonim şirketi hisse senedlerinin satın alınmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-06-20",
+  "gazette_issue": "3335",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3335.pdf",
+  "source_sha256": "3295c6e592b65c9ae6ea15b181e22a7b4d7f4d525724552bc09dc04bd8c7d413",
+  "text_sha256": "3ef45c7b6bf600f125d4710675c7daab42af1d7a611e8dd476628bb6c6da3446",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      16,
+      30
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01603034.pdf",
+    "source_sha256": "c7cc91833a3ea8b1fcd22bf6e35feb0c84ce1fee4afd86ef85484991fdd2c9c8",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9714,
+    "bag": 0.9202,
+    "kd_coverage": 0.9639,
+    "kd_body_compared": 0.9419,
+    "rg_words": 82,
+    "kd_words": 86,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
