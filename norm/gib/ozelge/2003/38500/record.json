@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2718",
+  "source_id": 38500,
+  "date": "2003-08-05",
+  "title": "Yeminli mali müşavirlerce düzenlenmiş KDV İadesi Tasdik Raporlarının ilgili vergi dairesince tetkiki üzerine tespit edilen rapor dizpozisyonu ve şekle müteallik hususlardaki eksikliklerin yeminli mali müşavirlere tamamlatılması veya raporlarla ilgili yazı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38500",
+  "source_sha256": "81b68156fc9ab83b4ecb8c8c3ff47e44d3cc525aec89f6a2199b7439e7fa503f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
