@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 420284,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Türkiye Cumhuriyeti Anayasasının 69. Maddesinde Değişiklik Yapılmasına İlişkin Kanun Teklifi, Demokratik Sol Parti Genel Başkanı İstanbul Milletvekili Bülent Ecevit, Milliyetçi Hareket Partisi Genel Başkanı Osmaniye Milletvekili Devlet Bahçeli ve Anavatan Partisi Genel Başkanı Rize Milletvekili Mesut Yılmaz ile 243 Milletvekilinin, Türkiye Cumhuriyeti Anayasasının 86. Maddesinde Değişiklik Yapılmasına İlişkin Kanun Teklifi ile Demokratik Sol Parti Genel Başkanı İstanbul Milletvekili Bülent Ecevit, Milliyetçi Hareket Partisi Genel Başkanı Osmaniye Milletvekili Devlet Bahçeli ve Anavatan Partisi Genel Başkanı Rize Milletvekili Mesut Yılmaz ve Doğru Yol Partisi Genel Başkanı İstanbul Milletvekili Tansu Çiller ile 399 Milletvekilinin Türkiye Cumhuriyeti Anayasasının 101. Maddesinde Değişiklik Yapılmasına İlişkin Kanun Teklifine ilişkin",
+  "title": "Türkiye Cumhuriyeti Anayasasının 69. Maddesinde Değişiklik Yapılmasına İlişkin Kanun Teklifi, Demokratik Sol Parti Genel Başkanı İstanbul Milletvekili Bülent Ecevit, Milliyetçi Hareket Partisi Genel Başkanı Osmaniye Milletvekili Devlet Bahçeli ve Anavatan Partisi Genel Başkanı Rize Milletvekili Mesut Yılmaz ile 243 Milletvekilinin, Türkiye Cumhuriyeti Anayasasının 86. Maddesinde Değişiklik Yapılmasına İlişkin Kanun Teklifi ile Demokratik Sol Parti Genel Başkanı İstanbul Milletvekili Bülent Ecevit, Milliyetçi Hareket Partisi Genel Başkanı Osmaniye Milletvekili Devlet Bahçeli ve Anavatan Partisi Genel Başkanı Rize Milletvekili Mesut Yılmaz ve Doğru Yol Partisi Genel Başkanı İstanbul Milletvekili Tansu Çiller ile 399 Milletvekilinin Türkiye Cumhuriyeti Anayasasının 101. Maddesinde Değişiklik Yapılmasına İlişkin Kanun Teklifine ilişkin",
+  "first_sitting_date": "2000-04-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 30,
+      "sitting": 76,
+      "sitting_date": "2000-04-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c030/tbmm21030076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c030/tbmm21030fih.pdf",
+      "pages": [
+        "297:316"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=606&v_gelecek_sayfa=201&v_kullanici_id=27484520",
+  "source_sha256": "a134895ff64dfbfccf43fe1bb407deaa0f745f5d1c9a19452fc933835867f56a",
+  "in_force": "2000-04-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
