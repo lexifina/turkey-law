@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5038",
+  "year": 2004,
+  "title": "İş Sağlığı ve Güvenliği ve Çalışma Ortamına İlişkin 155 Sayılı Sözleşmenin Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-01-13",
+  "gazette_issue": "25345",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/01/20040113.htm",
+  "source_sha256": "dc226b0f5f835bc5964580203f2f7d42089b744f6d4db99964c24d4ea9291f22",
+  "text_sha256": "8d00a0e5bb92303c0df9a16e4a14aa8366f317c1be6deeb70c5b74e1dff5b3de",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/01/13/25345-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/01/20040113.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
