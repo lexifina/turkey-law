@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-12-24",
+  "issue": "25326",
+  "edition": "regular",
+  "item": 17,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-2",
+  "title": "Ankara Valiliği Yenimahalle İlçe Milli Eğitim Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031224-3-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (27 = 27)",
+  "ilan_codes": [
+    "51738/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031224-3-2.htm",
+  "category_page_sha256": "0e5e825aecbefa1ce695a5e7b0934022d3a7fa198634b712769696f1dd78fa18",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031224.htm",
+  "index_sha256": "ea8ace74c724f78c0a412040a9269ba75ed6152fe16c628cc19bdffeb1e323c4",
+  "index_header": "24 Aralık 2003 ... Sayı : 25326",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
