@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-03-18",
+  "issue": "25759",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "Kanunlar",
+  "title": "5308 İş Mahkemeleri Kanununda Değişiklik Yapılmasına İlişkin Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050318-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050318.htm",
+  "index_sha256": "cd98dc7acac0e74fb50e4131224ff02ff251d5cc1a126e4f4a41476ca5b93ef3",
+  "index_header": "18 Mart 2005 ... Sayı : 25759",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
