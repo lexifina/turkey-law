@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5095",
+  "year": 1947,
+  "title": "Tarım Kredi Kooperatifleri Kanununda değişiklik yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-06-24",
+  "gazette_issue": "6640",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6640.pdf",
+  "source_sha256": "6837dc2c0e788c17d2c587916ad5f736066d8b8ada661aeb376d07b55257e750",
+  "text_sha256": "e2f06e8c46dd6489ad4b11889a076eae248cef5e1c610a08c850fbed21726393",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      87,
+      109
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905095.pdf",
+    "source_sha256": "041d9d2685915117b3f422dd08703169a0663ef0be1fc1b9c6ec4f68a21a3044",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9786,
+    "bag": 0.8955,
+    "kd_coverage": 0.9902,
+    "kd_body_compared": 0.9714,
+    "rg_words": 99,
+    "kd_words": 105,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
