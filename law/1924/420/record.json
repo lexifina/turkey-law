@@ -1,0 +1,85 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "420",
+  "year": 1924,
+  "title": "Men'i Müskirat Kanunu mucibince Türkiye haricine çıkarılmak üzere idhar edilmiş olan müskirat ve şarapların tehiri imhası hakkında Kanun",
+  "adopted": "1924-02-21",
+  "adopted_as_published": "21/02/1340",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc002/kanuntbmmc002/kanuntbmmc00200420.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 2",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 126257,
+      "title": "Men'i Müskirat Kanunu mucibince Türkiye haricine çıkarılmak üzere idhar edilmiş olan müskirat ve şarapların tehiri imhası hakkında Kanun",
+      "adopted_as_published": "21/02/1340",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc002/kanuntbmmc002/kanuntbmmc00200420.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 97,
+          "sitting_date": "1924-02-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005097.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005097.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+          "pages": [
+            "634",
+            "638"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 99,
+          "sitting_date": "1924-02-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005099.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005099.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+          "pages": [
+            "697"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 107,
+          "sitting_date": "1924-02-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/tbmm02006107.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/ehttbmm02006107.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/tbmm02006fih.pdf",
+          "pages": [
+            "164",
+            "165"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 108,
+          "sitting_date": "1924-02-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/tbmm02006108.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/ehttbmm02006108.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/tbmm02006fih.pdf",
+          "pages": [
+            "201:202",
+            "204:206"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "2b35c191fdd3c399e4eac6ad55b61a3b361fd02e090170698a29eb549ce8faae"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2b35c191fdd3c399e4eac6ad55b61a3b361fd02e090170698a29eb549ce8faae",
+  "issuer": "TBMM",
+  "in_force": "1924-02-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/02/1340 (Rumi year, +584); record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
