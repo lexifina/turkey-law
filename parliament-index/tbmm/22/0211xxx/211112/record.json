@@ -1,0 +1,121 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 211112,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Kamu Yönetiminin Temel İlkeleri ve Yeniden Yapılandırılması Hakkında (1/731)",
+  "title": "Kamu Yönetiminin Temel İlkeleri ve Yeniden Yapılandırılması Hakkında (1/731)",
+  "first_sitting_date": "2004-02-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 41,
+      "sitting": 54,
+      "sitting_date": "2004-02-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c041/tbmm22041054.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c041/tbmm22041fih.pdf",
+      "pages": [
+        "304:325",
+        "327:386"
+      ]
+    },
+    {
+      "cilt": 41,
+      "sitting": 55,
+      "sitting_date": "2004-02-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c041/tbmm22041055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c041/tbmm22041fih.pdf",
+      "pages": [
+        "412:514"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 56,
+      "sitting_date": "2004-02-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042056.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042fih.pdf",
+      "pages": [
+        "33:55",
+        "56:91",
+        "93:122"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 57,
+      "sitting_date": "2004-02-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042057.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042fih.pdf",
+      "pages": [
+        "192:237",
+        "239:300"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 58,
+      "sitting_date": "2004-02-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042fih.pdf",
+      "pages": [
+        "347:375",
+        "378:440"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 59,
+      "sitting_date": "2004-02-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042fih.pdf",
+      "pages": [
+        "486:536",
+        "539:586"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 60,
+      "sitting_date": "2004-02-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c042/tbmm22042fih.pdf",
+      "pages": [
+        "595:610",
+        "612:628",
+        "629:655",
+        "657:756"
+      ]
+    },
+    {
+      "cilt": 57,
+      "sitting": 116,
+      "sitting_date": "2004-07-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c057/tbmm22057116.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c057/tbmm22057fih.pdf",
+      "pages": [
+        "276:370"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1277&v_gelecek_sayfa=401&v_kullanici_id=27484575",
+  "source_sha256": "e71c4ce227b457f4c922816e90c83bdec5015a37cddadf2198dc1104ef680bca",
+  "in_force": "2004-02-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
