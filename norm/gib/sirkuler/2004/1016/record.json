@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "DV-13/2004-12/ Diğer Vergi Beyannameleri Dışındaki Beyanname ve Bildirimler",
+  "source_id": 1016,
+  "date": "2004-08-04",
+  "title": "Devlet Memurlarının Tedavi Yardım ve Cenaze Giderleri Yönetmeliği çerçevesinde verilen tedavi yardım beyannamesi, aile yardım bildirimi ile Mal Bildiriminde Bulunulması Hakkında Yönetmeliği çerçevesinde verilen mal bildirimleri vb. beyanname ve bildirimle",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/sirkuler/1016",
+  "source_sha256": "f65f54fa813cba2605fb7effd340c36d6ffcd268dc1630accf14cd3445e2c09e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
