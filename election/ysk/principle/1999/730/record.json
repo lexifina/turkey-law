@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/730",
+  "list_number": "730",
+  "decision_date": "1999-04-26",
+  "title": "YSK ilke kararı 1999/730",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4664/1999-730-karar.htm",
+  "source_sha256": "1b4158b51de56726b8d09e0e6dd01c6b9e8adfa22f47549c773ca2ff65cf4cb4",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-04-26",
+  "law_text_complete": false
+}
