@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2000-03-02T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2000-03-02",
+  "official_number": "B.07.0.GEL.0.63/ 6384-54/9942",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38166",
+  "source_id": "ozelge:38166",
+  "source_row_sha256": "99f20592d285b4b52ca59d1cf5cfce1c7987aae92aca08bbc629186b4edf5e73",
+  "title": "Gümrükte sözlü beyan işlemlerinde düzenlenen tek tip gümrük beyannamelerinden özel işlem vergisi alınması gerekmektedir.",
+  "version_label": "as-enacted",
+  "word_count": 165
+}
