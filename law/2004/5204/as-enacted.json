@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5204",
+  "year": 2004,
+  "title": "Milli Eğitim Temel Kanunu ve Devlet Memurları Kanununda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-07-08",
+  "gazette_issue": "25516",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/07/20040708.htm",
+  "source_sha256": "462fafa9c2f5c9c8671005e0740d51080087b93b7e3c9bc91958eca00ca5c138",
+  "text_sha256": "2a3ab41d33e417a1d306fc1ef076ecbd6ca75ae79b07d7efec4bdbac1eb48574",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/07/08/25516-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/07/20040708.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
