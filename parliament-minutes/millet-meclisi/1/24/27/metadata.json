@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "Millet Meclisi",
+  "assembly": "MİLLET MECLİSİ",
+  "term_label": "1. Dönem",
+  "cilt": 24,
+  "sitting": 27,
+  "label": "27. Birleşim",
+  "sitting_date": "1964-01-07",
+  "date_as_published": "07 Ocak 1964",
+  "weekday": "Salı",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024027.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024027gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=4&meclis_kisa_adi=MM&diger_donem_adi=d01",
+  "source_sha256": "eaa72ed54bfbf93387702832b98b6e00966f6bd832a0774ce1f11157af926594",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
