@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.055-5528-2104/9383",
+  "source_id": 33215,
+  "date": "2003-03-01",
+  "title": "Diş ipi, gargara, diş macunu, diş fırçası, elektrikli diş fırçası, ateş ölçer ve ateş ölçer refili ithalinde uygulanacak KDV oranları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33215",
+  "source_sha256": "d737834abf213a14d3a6b0b45b103570a7b3f2a6dbc48a7649a7dcbc2a3c9d88",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
