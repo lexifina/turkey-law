@@ -1,0 +1,3 @@
+Taşra teşkilâtı ve görevleri
+MADDE 7 – Taşra teşkilâtı, bölge müdürlüklerinden oluşur.
+Bölge müdürlükleri; sorumluluk sahasında her türlü akaryakıt ikmalini yapmak, boru hatlarını işletmek, bakımını ve hüsnü muhafazasını sağlamakla görevlidirler.
