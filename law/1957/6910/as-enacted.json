@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6910",
+  "year": 1957,
+  "title": "Ateşli silâhlar ve bıçaklar hakkındaki 6136 sayılı Kanuna 6768 sayılı Kanunla eklenen muvakkat 5. maddenin tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-02-16",
+  "gazette_issue": "9537",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9537.pdf",
+  "source_sha256": "4e9af1638bdcdaec1e1291e4be3becdddcac35509a155b069ea042634b4c8987",
+  "text_sha256": "207639100a4d2d00daad56c13bb0adca44e3c43adb32bcb803a87b0d82662c45",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      177,
+      193
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906910.pdf",
+    "source_sha256": "c5d20f8a2bd2be45f31cbdc6bc24459bfb0686541fd8e0124a1a3e69913765a4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9635,
+    "bag": 0.9108,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9813,
+    "rg_words": 108,
+    "kd_words": 107,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
