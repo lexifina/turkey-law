@@ -1,0 +1,61 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 97528,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 ve 3888 sayılı kanunlara bağlı cetvellerin Maarif Vekilliği kısmında değişiklik yapılması, 3694, 3829, 4142 sayılı kanunlara bağlı kadroların değiştirilmesi ve 3656 sayılı kanunun 26. maddesine bir fıkra eklenmesi hakkında (1/883)",
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 ve 3888 sayılı kanunlara bağlı cetvellerin Maarif Vekilliği kısmında değişiklik yapılması, 3694, 3829, 4142 sayılı kanunlara bağlı kadroların değiştirilmesi ve 3656 sayılı kanunun 26. maddesine bir fıkra eklenmesi hakkında (1/883)",
+  "first_sitting_date": "1942-11-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 28,
+      "sitting": 10,
+      "sitting_date": "1942-11-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c028/tbmm06028010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c028/tbmm06028fih.pdf",
+      "pages": [
+        "78"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 22,
+      "sitting_date": "1942-12-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c029/tbmm06029022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c029/tbmm06029fih.pdf",
+      "pages": [
+        "236"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 24,
+      "sitting_date": "1943-01-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c030/tbmm06030024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c030/tbmm06030fih.pdf",
+      "pages": [
+        "44:46",
+        "149",
+        "158",
+        "185:186",
+        "203:206"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1070&v_gelecek_sayfa=801&v_kullanici_id=27483993",
+  "source_sha256": "648535a050215dc12360eb1a126a290b5e0b9dffd6070c6e28457eca8595075a",
+  "in_force": "1942-11-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
