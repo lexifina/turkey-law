@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.8404",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DANIŞTAY ARŞİV YÖNETMELİĞİ",
+  "number": "8404",
+  "issuer": "Danıştay Başkanı",
+  "issuer_slug": "danistay-baskani",
+  "path": "regulation/danistay-baskani/2002/8404",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8404&MevzuatTertip=5",
+  "source_sha256": "1ac2426544a089edf148cd0e91daf2798f84cbb7df625fbce504f260e0ab373a",
+  "source_bytes": 43517,
+  "published": "2002-01-31",
+  "gazette": "24657",
+  "in_force": "2002-01-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.01.2002); own commencement article: \"bu Yönetmelik, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1707,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

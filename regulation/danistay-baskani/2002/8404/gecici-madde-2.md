@@ -1,0 +1,1 @@
+Geçici Madde 2- 2l.2.l984 günlü ve 18919 sayılı Resmi Gazetede yayımlanan Danıştay Arşiv Yönetmeliğinin 7'nci maddesi gereğince arşiv malzemesi olan esas ve karar defterleri ile 2575 sayılı Yasanın yürürlüğe girdiği tarihten önce karara bağlanmış ve dosyasında daire ve kurul kararı bulunan karar kartonları, bilgisayar ortamına alındıkça imha edilir.
