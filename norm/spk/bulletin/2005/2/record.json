@@ -1,0 +1,66 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2005/2",
+  "date": "2005-01-14",
+  "title": "SPK Haftalık Bülteni 2005/2",
+  "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_2.pdf",
+  "source_sha256": "278f2d003919ebeba033d1bcaf6eced3a2e159de8a4dbbaf7894c40f156e5227",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "F. YENİ FAALİYET İZNİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2005 – 14.01.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_2.pdf"
+    },
+    {
+      "heading": "B. 10.01.2005 –14.01.2005 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_2.pdf"
+    },
+    {
+      "heading": "C. 10.01.2005 – 14.01.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_2.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Haftalık Bülten",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_2.pdf"
+    },
+    {
+      "heading": "E. DİĞER ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Kuşadası Belediye Düğün",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_2.pdf"
+    },
+    {
+      "heading": "F. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_2.pdf"
+    },
+    {
+      "heading": "G. DUYURULAR",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Türk Lirasından",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_2.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
