@@ -1,0 +1,2 @@
+Sektörler ve Temsilcileri
+Madde 10- Fırat Üniversitesi Doğu Anadolu Bölgesi Araştırma ve Uygulama Merkezi araştırma ve uygulamalarını sektörleri aracılığıyla yürütür. Doğu Anadolu Projesinde görev almış tüm DAP Genel Koordinatörleri, DAP Üniversite Koordinatöleri ve DAP Proje Yürütücüleri, Doğu Anadolu Bölgesi Araştırma ve Uygulama Merkezi Danışma Kurulunun doğal üyeleridir. Ayrılan doğal üyelerin yerine atanacak yeni üyelerin seçimi, sektörler ve temsilcilerinin görev ve çalışmaları ilgili Yönetim Kurulunca hazırlanacak yönergeler ile belirlenir.

@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 13- Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2001-05-22",
+      "22.05.2001",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 13- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24409",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2001-05-22",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Fırat Üniversitesi",
+  "issuer_slug": "firat-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/firat-universitesi/2001/7669",
+  "published": "2001-05-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7669&MevzuatTertip=5",
+  "source_bytes": 23324,
+  "source_id": "8.5.7669",
+  "source_sha256": "f5e5f2d844319cac77dfb92a79ef9c9fbdb4f01c7aabafa105e3c5faefad0395",
+  "text_status": "as-enacted",
+  "title": "FIRAT ÜNİVERSİTESİ DOĞU ANADOLU BÖLGESİ ARAŞTIRMA VE\r\nUYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 193,
+  "word_count": 755
+}
