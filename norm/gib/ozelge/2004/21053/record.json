@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-73/007245",
+  "source_id": 21053,
+  "date": "2004-02-23",
+  "title": "Sürekli olarak işlenmiş altın alım-satımı ve imali ile iştigal eden mükellefler için vergilendirilecek ticari kazancın tespiti hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/21053",
+  "source_sha256": "591fd6ad3fb40d185bed34bffd9e4bfa7cf3f93076bba7089debecf165abe18a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
