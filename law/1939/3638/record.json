@@ -1,0 +1,74 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3638",
+  "year": 1939,
+  "title": "Türkiye-İsveç Ticaret ve kliring anlaşması ile buna bağlı protokol ve mektupların tasdiki hakkında kanun",
+  "adopted": "1939-06-12",
+  "adopted_as_published": "12/06/1939",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "19.06.1939 No: 4236",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003638.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 20",
+  "committee_reports": [
+    {
+      "label": "TBMM 48 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c003/tbmm06003022ss0048.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96100,
+      "title": "Türkiye-İsveç Ticaret ve kliring anlaşması ile buna bağlı protokol ve mektupların tasdiki hakkında kanun",
+      "adopted_as_published": "12/06/1939",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003638.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 48 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c003/tbmm06003022ss0048.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 22,
+          "sitting_date": "1939-06-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c003/tbmm06003022.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c003/tbmm06003fih.pdf",
+          "pages": [
+            "6"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 25,
+          "sitting_date": "1939-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c003/tbmm06003025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c003/tbmm06003fih.pdf",
+          "pages": [
+            "91",
+            "93",
+            "98",
+            "121:124"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=794&v_gelecek_sayfa=601&v_kullanici_id=27483166",
+      "page_sha256": "f2a33e784288cdd0a67648b147e17656a1a1a6e2136f14448fc6a7066bbf13a7"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "f2a33e784288cdd0a67648b147e17656a1a1a6e2136f14448fc6a7066bbf13a7",
+  "issuer": "TBMM",
+  "in_force": "1939-06-12",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 12/06/1939; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
