@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/786",
+  "list_number": "786",
+  "decision_date": "1999-04-27",
+  "title": "YSK ilke kararı 1999/786",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4658/1999-786-karar.htm",
+  "source_sha256": "e985798327708821ba00ced6a94992cb54bc46763aa143551ac1503a429593f2",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-04-27",
+  "law_text_complete": false
+}
