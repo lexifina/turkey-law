@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 22,
+  "legislative_year": 3,
+  "esas_no": "7/5426",
+  "submitted": "2005-03-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ümmet KANDOĞAN",
+  "province": "Denizli",
+  "summary": "Nevruz kutlamalarına katılan Norveç heyetine ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bd-c42f-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "691351aee299123de52c4e11b9e0cae5940702ea2fb4d01ad8aa75043478e427",
+  "in_force": "2005-03-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
