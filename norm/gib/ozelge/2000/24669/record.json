@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4417-311/30950",
+  "source_id": 24669,
+  "date": "2000-06-27",
+  "title": "Derneklerin esnaf muaflığından yararlananlara mal ve hizmet alımları karşılığında yapacakları ödemelerden vergi tevkifatının yapılarak muhtasar beyanname ile beyan edilmesi gerekmektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24669",
+  "source_sha256": "66373449adc374a8947ac91dbfde7b23ceae47f72d29a9ce941cf8d2aa6a9adb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
