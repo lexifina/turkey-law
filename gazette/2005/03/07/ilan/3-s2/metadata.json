@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-03-07",
+  "issue": "25748",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Düzce - Merkez Organize Sanayi Bölgesi Müteşebbis Heyet Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/03/20050307-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (3 = 3)",
+  "ilan_codes": [
+    "2178/2-2"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/03/20050307-3.htm",
+  "category_page_sha256": "4f5a7d82ca15145098a6a230110e594bb9a447be263f94bf481143b659a802d9",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/03/20050307.htm",
+  "index_sha256": "da9238351defcad31da921ca4dd9accbe93639f9124f8d8f8c6eead2a1138555",
+  "index_header": "7 Mart 2005 ... Sayı : 25748",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
