@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6131",
+  "year": 1953,
+  "title": "Erzincan'da Yaptırılacak Meskenler hakkındaki 5594 sayılı Kanunun İkinci Maddesinin Değiştirilmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-15",
+  "gazette_issue": "8458",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8458.pdf",
+  "source_sha256": "dced2470f2a44aeb0edbd04312d459fb8542df7f1c33843c1eac02e744ef7f59",
+  "text_sha256": "972c43fdb1634a92a777e841384d32d186c8f2af628f9ddbd42945e689ec3aa1",
+  "text_status": "ocr",
+  "pages": [
+    15
+  ],
+  "line_span": [
+    [
+      4726,
+      4753
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506131.pdf",
+    "source_sha256": "3c41e54fb0e82930c11c56f9be7d7feecd7c9030147ccbc84039add2518b60c0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9825,
+    "bag": 0.8034,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8643,
+    "rg_words": 113,
+    "kd_words": 140,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
