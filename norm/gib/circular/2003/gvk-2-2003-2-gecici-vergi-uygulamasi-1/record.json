@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB sirkulerTarih: 2003-08-07T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "circular",
+  "official_date": "2003-08-07",
+  "official_number": "GVK-2/2003-2/Geçici Vergi Uygulaması 1",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/655",
+  "source_id": "sirkuler:655",
+  "source_row_sha256": "988011e84ed0c3a88f20c36c3102cbca8c1460f71305ec8c4b88760f4614e724",
+  "title": "2003 yılının ikinci dönemine ilişkin olarak verilecek geçici vergi beyannamesinin 25 numaralı satırına yazılacak olan 'hesaplanan geçici vergi tutarı', geçici vergi matrahı olarak beyan edilen tutarın % 20 si olarak hesaplanmayacak, matrahın birinci dönem",
+  "version_label": "as-enacted",
+  "word_count": 644
+}
