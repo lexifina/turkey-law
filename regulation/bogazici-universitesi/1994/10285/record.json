@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1994-02-18",
+      "18.02.1994",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21853",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1994-02-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Boğaziçi Üniversitesi",
+  "issuer_slug": "bogazici-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bogazici-universitesi/1994/10285",
+  "published": "1994-02-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10285&MevzuatTertip=5",
+  "source_bytes": 27085,
+  "source_id": "8.5.10285",
+  "source_sha256": "4eef66f4ccbf1482b3f5beea413e2a8d779b26c78627e68ab6c2a7ecc80c28d5",
+  "text_status": "as-enacted",
+  "title": "BOĞAZİÇİ ÜNİVERSİTESİ İKTİSADİ TASARIM UYGULAMA VE ARAŞTIRMA\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 183,
+  "word_count": 620
+}
