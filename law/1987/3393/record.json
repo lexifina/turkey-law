@@ -1,0 +1,73 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3393",
+  "year": 1987,
+  "title": "7338 Sayılı Veraset ve İntikal Vergisi Kanunu, 3065 Sayılı Katma Değer Vergisi Kanunu, 488 Sayılı Damga Vergisi Kanunu, 2982 Sayılı Konut İnşaatında ve Kalkınmada öncelikli Yörelerde Yapılacak Yatırımlarda Vergi, Resim ve Harç İstisna ve Muaflıkları Tanınması Hakkında Kanun ile 193 Sayılı Gelir Vergisi Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "1987-06-19",
+  "adopted_as_published": "19/06/1987",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.06.1987 No: 19503",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc070/kanuntbmmc070/kanuntbmmc07003393.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 70",
+  "committee_reports": [
+    {
+      "label": "TBMM 599 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c043/tbmm17043120ss0599.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 249533,
+      "title": "7338 Sayılı Veraset ve İntikal Vergisi Kanunu, 3065 Sayılı Katma Değer Vergisi Kanunu, 488 Sayılı Damga Vergisi Kanunu, 2982 Sayılı Konut İnşaatında ve Kalkınmada öncelikli Yörelerde Yapılacak Yatırımlarda Vergi, Resim ve Harç İstisna ve Muaflıkları Tanınması Hakkında Kanun ile 193 Sayılı Gelir Vergisi Kanununda Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "19/06/1987",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc070/kanuntbmmc070/kanuntbmmc07003393.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 599 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c043/tbmm17043120ss0599.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 42,
+          "sitting": 115,
+          "sitting_date": "1987-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c042/tbmm17042115.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c042/tbmm17042fih.pdf",
+          "pages": [
+            "114"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 120,
+          "sitting_date": "1987-06-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c043/tbmm17043120.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c043/tbmm17043fih.pdf",
+          "pages": [
+            "73",
+            "157:161",
+            "165:169"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=401&v_kullanici_id=27483190",
+      "page_sha256": "5877ff681863294c88d5df56a47f8723b0b0802ad981cd39436186cc42c2f649"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5877ff681863294c88d5df56a47f8723b0b0802ad981cd39436186cc42c2f649",
+  "issuer": "TBMM",
+  "in_force": "1987-06-19",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 19/06/1987; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
