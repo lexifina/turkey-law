@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK - 7 / 2004 - 7",
+  "source_id": 977,
+  "date": "2004-01-16",
+  "title": "2003 takvim yılına ait beyannamelerin verilme ve ödenme zamanı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/977",
+  "source_sha256": "8065bfbd3a9156e616e395f1607a40b2b30ac521bee82ce8641f867896ae3ce3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
