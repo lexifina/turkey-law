@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-issue",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "1970-10-26",
+  "issue": "13651",
+  "issue_basis": "official archive file name /arsiv/<issue>.pdf (the archive numbers its files by issue; e.g. 24091.pdf = 26.06.2000, the issue before HTML issue 24092)",
+  "edition": "regular",
+  "archive_mukerrer_flag": null,
+  "item": 0,
+  "section": null,
+  "heading": null,
+  "title": "26.10.1970 tarihli Resmi Gazete",
+  "official_link": "https://www.resmigazete.gov.tr/arsiv/13651.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/Home/Filter",
+  "index_request": {
+    "method": "POST",
+    "searchtype": 2,
+    "arsivaramayeri": "1",
+    "from": "1970-01-01",
+    "to": "1970-12-31"
+  },
+  "index_sha256": "a4c8f3a598df853722fa181978478d68ababa6f0921756d52d2a1ed9680bc0f2",
+  "index_header": "official archive listing date 26.10.1970",
+  "issue_pdf": "https://www.resmigazete.gov.tr/arsiv/13651.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; whole issue published as a scanned PDF (no OCR); items not listed"
+}
