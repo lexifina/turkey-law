@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-2055/20400",
+  "source_id": 23478,
+  "date": "2004-05-07",
+  "title": "Eğitim ücretinin, yemek bedeli dahil tespit edilmesi durumunda eğitim gideri  yemek bedelini de kapsayacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23478",
+  "source_sha256": "4d82a0fd1ea1e0709917d2d4f23a2ad6fce38d5d0a350e5b30bfeb459c713161",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
