@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516- 441/029452",
+  "source_id": 38280,
+  "date": "1999-07-12",
+  "title": "Servis otoları kullanmak veya alıcıların ayağına gitmek suretiyle emtia satışı veya hizmet ifasında bulunan mükellefler bu faaliyetleriyle fatura veya perakende satış vesikalarını düzenlemeleri şartıyla ödeme kaydedici cihaz kullanmak zorunda değildir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38280",
+  "source_sha256": "ece612fe10302c19e8a2617bc46da0ce11d9d87243085f0d9bdaf3576a1219a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
