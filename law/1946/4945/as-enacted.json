@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4945",
+  "year": 1946,
+  "title": "Millî Korunma Kanununun 51. maddesiyle bu kanunun 4648 sayılı kanunla değiştirilen 10, 31, 32, 57, 66, 67 ve 68. maddelerinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-06-20",
+  "gazette_issue": "6338",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6338.pdf",
+  "source_sha256": "e3d6b0aa7696dff3e3e4f77ea00e00eb22a29fb672cfa9b6da238200285f3a2d",
+  "text_sha256": "30c791b37bc56b3550f3d41fa4db1af4634f45cba4b1899937cbfdd31a46a5b0",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      361,
+      607
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804945.pdf",
+    "source_sha256": "437cb860440539fa482dd148b024f6aa7ad4b2d2dc1ae1498e99c47fe7d43367",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9402,
+    "bag": 0.8486,
+    "kd_coverage": 0.9976,
+    "kd_body_compared": 0.9952,
+    "rg_words": 2061,
+    "kd_words": 2076,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
