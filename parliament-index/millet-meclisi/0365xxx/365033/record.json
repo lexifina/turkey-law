@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 365033,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "OSMAN SAİM SARIGÖLLÜ (CUMHURİYET SENATOSU AYDIN ÜYESİ)",
+  "summary": "Ve 11 Arkadaşı Devlet Operası kuruluşu hakkında (2/199)",
+  "title": "Ve 11 Arkadaşı Devlet Operası kuruluşu hakkında (2/199)",
+  "first_sitting_date": "1967-03-31",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 15,
+      "sitting": 78,
+      "sitting_date": "1967-03-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015fih.pdf",
+      "pages": [
+        "400:401"
+      ]
+    },
+    {
+      "cilt": 16,
+      "sitting": 98,
+      "sitting_date": "1967-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016098.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016fih.pdf",
+      "pages": [
+        "576"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 121,
+      "sitting_date": "1967-06-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c019/mm__02019121.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c019/mm__02019fih.pdf",
+      "pages": [
+        "24:28"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 123,
+      "sitting_date": "1967-06-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c019/mm__02019123.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c019/mm__02019fih.pdf",
+      "pages": [
+        "160"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 124,
+      "sitting_date": "1967-06-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c019/mm__02019124.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c019/mm__02019fih.pdf",
+      "pages": [
+        "213"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=4001&v_kullanici_id=27484893",
+  "source_sha256": "55f85cfda1739f463fe3afdecc269930a56a532258f5d19d985cff9467c20bbf",
+  "in_force": "1967-03-31",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
