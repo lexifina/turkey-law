@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5301",
+  "year": 1949,
+  "title": "Subaylar Heyetine Mahsus 4273 sayılı Terfi Kanununun Birinci maddesinin (B) fıkrasiyle aynı Kanunun 4554 sayılı Kanunla değiştirilen 11. maddesinin son fıkrasının değiştirilmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-01-08",
+  "gazette_issue": "7100",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7100.pdf",
+  "source_sha256": "989e10f749eadae08fe8c51a55986f73d9b6199f6b7d6b737c858fe0200034b2",
+  "text_sha256": "1da5112057bf6d3abdc04bc9cefdee39c3803966e8dc68bc50dea5800e6bd498",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      10,
+      13
+    ],
+    [
+      14,
+      35
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105301.pdf",
+    "source_sha256": "a5579b82d5fedc576be192ae4835481d7f5b0fd4005e94889fceab091ab9f238",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9229,
+    "bag": 0.852,
+    "kd_coverage": 0.9789,
+    "kd_body_compared": 0.9655,
+    "rg_words": 137,
+    "kd_words": 145,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
