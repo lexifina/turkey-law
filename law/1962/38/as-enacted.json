@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "38",
+  "year": 1962,
+  "title": "Anayasa Nizamını Milli Güvenlik ve Huzuru Bozan Bazı Fiiller Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-03-07",
+  "gazette_issue": "11053",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11053.pdf",
+  "source_sha256": "99657c6e62801c631779ed8876701b88ea2aa1d0ae63b1a96bffbadc326ad6ac",
+  "text_sha256": "c95d0dbbfec69613f7a2d24c14387e6554f546b69621d18e0a4cef3e0f39b59a",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      100,
+      179
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500038.pdf",
+    "source_sha256": "46e1e608cfbd294e4dce5325a32196ca7d7498a2d5a3445b0f68eafba3bff77c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9716,
+    "bag": 0.9189,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9959,
+    "rg_words": 480,
+    "kd_words": 484,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
