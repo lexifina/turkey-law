@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-753 / 42203",
+  "source_id": 36789,
+  "date": "2004-09-08",
+  "title": "Banka ve sigorta şirketlerinin her ne şekilde olursa olsun yapmış oldukları bütün muameleler, dolayısıyla kendi lehlerine her ne nam ile olursa olsun nakden veya hesaben aldıkları paralar, banka ve sigorta muameleleri vergisine tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36789",
+  "source_sha256": "5e85ba2dc04c9c7063cd601fcd92cbe81c3f2ef6c46b652e16c81202e8d37f6c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
