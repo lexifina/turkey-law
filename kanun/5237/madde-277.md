@@ -1,0 +1,2 @@
+Yargı görevi yapanı etkileme
+MADDE 277. - (1) Bir davanın taraflarından birinin veya bir kaçının veya sanıkların veya davaya katılanların, mağdurların leh veya aleyhinde, yargı görevi yapanlara emir veren veya baskı yapan veya nüfuz icra eden veya her ne suretle olursa olsun adı geçenleri hukuka aykırı olarak etkilemeye teşebbüs eden kimseye iki yıldan dört yıla kadar hapis cezası verilir. Teşebbüs iltimas derecesini geçmediği takdirde verilecek ceza altı aydan iki yıla kadardır.

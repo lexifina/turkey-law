@@ -1,0 +1,3 @@
+Resmen teslim olunan mala elkonulması ve bozulması
+MADDE 290. - (1) Hükmen hak sahiplerine teslim edilen taşınmaz mallara tekrar elkoyan kimseye üç aydan bir yıla kadar hapis cezası verilir.
+(2) Muhafaza edilmek üzere başkasına resmen teslim olunan rehinli veya hacizli veya herhangi bir nedenle elkonulmuş olan taşınır malın bu kişinin elinden rızası dışında alınması hâlinde hırsızlık, cebren alınması hâlinde yağma, hileyle alınması hâlinde dolandırıcılık, tahrip edilmesi hâlinde mala zarar verme suçuna ilişkin hükümler uygulanır. Kişinin bu malın sahibi olması hâlinde, verilecek cezanın yarısından dörtte üçüne kadarı indirilir.

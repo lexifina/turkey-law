@@ -1,0 +1,3 @@
+Çocuğun kaçırılması ve alıkonulması
+MADDE 234. - (1) Velayet yetkisi elinden alınmış olan ana veya babanın ya da üçüncü derece dahil kan hısmının, onaltı yaşını bitirmemiş bir çocuğu veli, vasi veya bakım ve gözetimi altında bulunan kimsenin yanından cebir veya tehdit kullanmaksızın kaçırması veya alıkoyması hâlinde, üç aydan bir yıla kadar hapis cezasına hükmolunur.
+(2) Fiil cebir veya tehdit kullanılarak işlenmiş ya da çocuk henüz oniki yaşını bitirmemiş ise ceza bir katı oranında artırılır.

@@ -1,0 +1,4 @@
+Etkin pişmanlık
+MADDE 254. - (1) Rüşvet alan kişinin, soruşturma başlamadan önce, rüşvet konusu şeyi soruşturmaya yetkili makamlara aynen teslim etmesi hâlinde, hakkında rüşvet suçundan dolayı cezaya hükmolunmaz. Rüşvet alma konusunda başkasıyla anlaşan kamu görevlisinin soruşturma başlamadan önce durumu yetkili makamlara haber vermesi hâlinde de hakkında bu suçtan dolayı cezaya hükmolunmaz.
+(2) Rüşvet veren veya bu konuda kamu görevlisiyle anlaşmaya varan kişinin, soruşturma başlamadan önce, pişmanlık duyarak durumdan soruşturma makamlarını haberdar etmesi hâlinde, hakkında rüşvet suçundan dolayı cezaya hükmolunmaz; verdiği rüşvet de kamu görevlisinden alınarak kendisine iade edilir.
+(3) Rüşvet suçuna iştirak eden diğer kişilerin, soruşturma başlamadan önce, pişmanlık duyarak durumdan soruşturma makamlarını haberdar etmesi hâlinde, hakkında bu suçtan dolayı cezaya hükmolunmaz.

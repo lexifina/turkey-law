@@ -1,0 +1,5 @@
+İnfaz kurumuna veya tutukevine yasak eşya sokmak
+MADDE 297. - (1) İnfaz kurumuna veya tutukevine silâh, uyuşturucu veya uyarıcı madde veya elektronik haberleşme aracı sokan veya bulunduran kişi, iki yıldan beş yıla kadar hapis cezası ile cezalandırılır. Bu suçun konusunu oluşturan eşyanın, temin edilmesi veya bulundurulması ayrı bir suç oluşturduğu takdirde; fikrî içtima hükümlerine göre belirlenecek ceza yarı oranında artırılır.
+(2) Birinci fıkrada sayılanların dışında kalıp da yetkili makamlar tarafından infaz kurumuna veya tutukevine sokulması yasaklanmış bulunan eşyayı, bu yasağı bilerek, infaz kurumuna veya tutukevine sokan veya bulunduran ya da kullanan kişi, altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
+(3) Bir ve ikinci fıkralarda tanımlanan suçların hükümlü veya tutukluların muhafazasıyla görevli kişiler tarafından işlenmesi hâlinde, verilecek ceza bir kat artırılır.
+(4) Bir ve ikinci fıkralarda tanımlanan suçların konusunu oluşturan eşyayı yanında bulunduran veya kullanan hükümlü veya tutuklu, bunu kimden ve ne suretle elde ettiği hususunda bilgi verirse, verilecek ceza yarı oranında indirilir.

@@ -1,0 +1,7 @@
+Genel Hükümler
+BİRİNCİ KISIM
+Temel İlkeler, Tanımlar ve Uygulama Alanı
+BİRİNCİ BÖLÜM
+Temel İlkeler ve Tanımlar
+Ceza Kanununun amacı
+MADDE 1. - (1) Ceza Kanununun amacı; kişi hak ve özgürlüklerini, kamu düzen ve güvenliğini, hukuk devletini, kamu sağlığını ve çevreyi, toplum barışını korumak, suç işlenmesini önlemektir. Kanunda, bu amacın gerçekleştirilmesi için ceza sorumluluğunun temel esasları ile suçlar, ceza ve güvenlik tedbirlerinin türleri düzenlenmiştir.

@@ -1,0 +1,4 @@
+Devlete karşı savaşa tahrik
+MADDE 304. - (1) Türkiye Cumhuriyeti Devletine karşı savaş açması veya hasmane hareketlerde bulunması için yabancı devlet yetkililerini tahrik eden veya bu amaca yönelik olarak yabancı devlet yetkilileri ile işbirliği yapan kişi, on yıldan yirmi yıla kadar hapis cezası ile cezalandırılır. Tahrik fiilinin basın ve yayın yolu ile işlenmesi hâlinde, verilecek ceza üçte bir oranında artırılır.
+(2) Bu madde uygulamasında, Türkiye Cumhuriyeti Devletinin güvenliğine karşı suç işlemek üzere oluşturulmuş örgütlerin doğrudan veya dolaylı olarak desteklenmesi, hasmane hareket olarak kabul edilir.
+(3) Bu maddede tanımlanan suçun işlenmesi dolayısıyla tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine hükmolunur.

@@ -1,0 +1,14 @@
+Dava zamanaşımı
+MADDE 66. - (1) Kanunda başka türlü yazılmış olan hâller dışında kamu davası;
+a) Ağırlaştırılmış müebbet hapis cezasını gerektiren suçlarda otuz yıl,
+b) Müebbet hapis cezasını gerektiren suçlarda yirmibeş yıl,
+c) Yirmi yıldan aşağı olmamak üzere hapis cezasını gerektiren suçlarda yirmi yıl,
+d) Beş yıldan fazla ve yirmi yıldan az hapis cezasını gerektiren suçlarda onbeş yıl,
+e) Beş yıldan fazla olmamak üzere hapis veya adlî para cezasını gerektiren suçlarda sekiz yıl,
+Geçmesiyle düşer.
+(2) Fiili işlediği sırada oniki yaşını doldurmuş olup da onbeş yaşını doldurmamış olanlar hakkında, bu sürelerin yarısının; onbeş yaşını doldurmuş olup da onsekiz yaşını doldurmamış olan kişiler hakkında ise, üçte ikisinin geçmesiyle kamu davası düşer.
+(3) Dava zamanaşımı süresinin belirlenmesinde dosyadaki mevcut deliller itibarıyla suçun daha ağır cezayı gerektiren nitelikli hâlleri de göz önünde bulundurulur.
+(4) Yukarıdaki fıkralarda yer alan sürelerin belirlenmesinde suçun kanunda yer alan cezasının yukarı sınırı göz önünde bulundurulur; seçimlik cezaları gerektiren suçlarda zamanaşımı bakımından hapis cezası esas alınır.
+(5) Aynı fiilden dolayı her ne suretle olursa olsun tekrar yargılanması gereken hükümlünün, sonradan yargılanan suça ait üçüncü fıkrada yazılı esasa göre belirlenecek zamanaşımı göz önünde bulundurulur.
+(6) Zamanaşımı, tamamlanmış suçlarda suçun işlendiği günden, teşebbüs hâlinde kalan suçlarda son hareketin yapıldığı günden, kesintisiz suçlarda kesintinin gerçekleştiği ve zincirleme suçlarda son suçun işlendiği günden, çocuklara karşı üstsoy veya bunlar üzerinde hüküm ve nüfuzu olan kimseler tarafından işlenen suçlarda çocuğun onsekiz yaşını bitirdiği günden itibaren işlemeye başlar.
+(7) Bu Kanunun İkinci Kitabının Dördüncü Kısmında yazılı ağırlaştırılmış müebbet veya müebbet veya on yıldan fazla hapis cezalarını gerektiren suçların yurt dışında işlenmesi hâlinde dava zamanaşımı uygulanmaz.

@@ -1,0 +1,5 @@
+İnsan ticareti
+MADDE 80. - (1) Zorla çalıştırmak veya hizmet ettirmek, esarete veya benzerî uygulamalara tâbi kılmak, vücut organlarının verilmesini sağlamak maksadıyla tehdit, baskı, cebir veya şiddet uygulamak, nüfuzu kötüye kullanmak, kandırmak veya kişiler üzerindeki denetim olanaklarından veya çaresizliklerinden yararlanarak rızalarını elde etmek suretiyle kişileri tedarik eden, kaçıran, bir yerden başka bir yere götüren veya sevk eden, barındıran kimseye sekiz yıldan oniki yıla kadar hapis ve onbin güne kadar adlî para cezası verilir.
+(2) Birinci fıkrada belirtilen amaçlarla girişilen ve suçu oluşturan fiiller var olduğu takdirde, mağdurun rızası geçersizdir.
+(3) Onsekiz yaşını doldurmamış olanların birinci fıkrada belirtilen maksatlarla tedarik edilmeleri, kaçırılmaları, bir yerden diğer bir yere götürülmeleri veya sevk edilmeleri veya barındırılmaları hâllerinde suça ait araç fiillerden hiçbirine başvurulmuş olmasa da faile birinci fıkrada belirtilen cezalar verilir.
+(4) Bu suçlardan dolayı tüzel kişiler hakkında da güvenlik tedbirine hükmolunur.
