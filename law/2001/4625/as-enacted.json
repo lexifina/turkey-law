@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4625",
+  "year": 2001,
+  "title": "Güneydoğu Avrupa Çokuluslu Barış Gücü Anlaşmasının Üçüncü Ek Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-02-15",
+  "gazette_issue": "24319",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/02/20010215.htm",
+  "source_sha256": "89612b6a4c566eb030a90dfd8953f664f56a86d325dd6266642695a131e02032",
+  "text_sha256": "8043f62599a78bef9a80d24b3fb8a68dbd8449cda0f5309b090e93e5e9461f16",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/02/15/24319-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/02/20010215.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
