@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6389-01/54444",
+  "source_id": 38170,
+  "date": "1999-12-10",
+  "title": "Afet bölgelerinde taşınmaz malların alım-satım gibi tüm kadastro işlemlerinde uygulanacak harç ve damga vergisi  ve Özel İşlem Vergisi hk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38170",
+  "source_sha256": "46f509cf425afb6d3ecc0699f2d5fa2070d7d720e36ca7b563128fa5420aac59",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
