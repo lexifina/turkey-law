@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 3,
+  "term_label": "3. Dönem",
+  "legislative_year": 1,
+  "cilt": 1,
+  "sitting": 13,
+  "label": "13. Birleşim",
+  "sitting_date": "1927-12-03",
+  "date_as_published": "03 Aralık 1927",
+  "weekday": "Cumartesi",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/tbmm03001013.pdf",
+  "old_script_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/ehttbmm03001013.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/tbmm03001fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=1&v_cilt=",
+  "source_sha256": "c39dcae6488e81c98833e701bb56a1040245ddb02164e6bacd2d27a1a59fd5e8",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
