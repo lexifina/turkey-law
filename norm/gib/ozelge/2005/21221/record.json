@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.0.45/4535-5",
+  "source_id": 21221,
+  "date": "2005-03-14",
+  "title": "Yurtdışından ithal edilen yatırım mallarına ait harcamalara ilişkin yatırım indirimi kat'i ithalleri yapılıp gümrükten çekilerek işletmenin aktifindeki bir hesaba alındığı tarihte uygulanacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21221",
+  "source_sha256": "be9e01ac5a8537e1832250fed8c9d91afce934f60affa75ce58c9a9d1dc9b1e2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
