@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM Hemoglobinopati Kontrol Programı Birinci Basamak Faaliyetleri
+Genel Esaslar
+Madde 5-Bakanlık, Hemoglobinopati Kontrol Programının ülke düzeyinde tatbikine esas planlamayı yapar ve koordinasyon için gerekli tedbirleri alır. Hemoglobinopati Kontrol Programı, birinci, ikinci ve üçüncü basamak faaliyetlerinin birbirini tamamlaması ve işbirliği içinde gerçekleşmesini temin için, iller düzeyinde Müdürlüklerin koordinasyonunda yürütülür.
+Programın planlama, uygulama ve değerlendirilmesinden, İl Sağlık Müdürünün koordinasyonunda Ana Çocuk Sağlığı ve Aile Planlamasından ve Tedavi Hizmetlerinden sorumlu müdür yardımcıları ve İl Hemoglobinopati görevlisi sorumludur. İl Hemoglobinopati görevlisi AÇSAP şube müdürüdür.
+İl Hemoglobinopati görevlisi, İl genelinde eğitim, tarama, genetik rehberlik ve yönlendirme hizmetlerinin organizasyonunu yapar ve bu hizmetlerin kontrol programı doğrultusunda yürütülmesini sağlar. İlçe merkezlerinde Sağlık Grup Başkanları ve ilçe hemoglobinopati sorumlusu, sağlık ocağı düzeyinde ise sağlık ocağı sorumlu hekimi programın sorumlusudur.
+Hemoglobinopatiler ile ilgili bütün basamaklarda yürütülen çalışmalar aylık olarak Müdürlüğe bildirilir. Müdürlükler il düzeyinde yapılan bildirimleri ve elde edilen verileri düzenli olarak Bakanlığa intikal ettirirler.
+Bakanlık tarafından, birinci basamak faaliyetlerinde görevli Bakanlık personelinin hizmet içi eğitim yolu ile hemoglobinopati kontrol programı kapsamında eğitimleri sağlanır.

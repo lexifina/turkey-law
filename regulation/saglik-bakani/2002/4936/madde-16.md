@@ -1,0 +1,3 @@
+Yasaklar ve Yükümlükler
+Madde 16-Bakanlık tarafından verilen izin ve yetki belgesi bulunmadan Hemoglobinopatiler ile ilgili faaliyetlerde bulunulması ile izin veya yetki belgesinde öngörülen faaliyetlerin kapsamını aşacak şekilde faaliyet gösterilmesi yasaktır.
+Hemoglobinopatiler ile ilgili faaliyetlerde bulunacaklar, bu Yönetmelikte genel sağlığın korunması maksadıyla öngörülen, standartlara, kurallara ve faaliyet esaslarına uymakla mükelleftir. Hemoglobinopati ile alakalı bütün faaliyetlerin, veri tabanı oluşturulması ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 3 üncü maddesinin 16 numaralı bendinde açıklanan tıbbi istatistiklerin tanzimi görevinin ifası bakımından Bakanlığa bildirimi mecburidir.

@@ -1,0 +1,28 @@
+Birinci Basamak Kuruluşları ve Faaliyet Esasları
+Madde 6-Birinci basamak kuruluşları, Bakanlığa bağlı Sağlık Ocakları ile Ana Çocuk Sağlığı ve Aile Planlaması Merkezleri, Tarama Merkezleri ve yine Bakanlığa bağlı Hemoglobinopati Tanı Merkezlerinden oluşur.
+1) Hemoglobinopati Kontrol Programında Sağlık Ocakları, AÇSAP Merkezleri ve Tarama Merkezlerinin Sorumlulukları : Sağlık Ocakları ve AÇSAP Merkezleri ile Tarama Merkezleri toplum taranması, toplum eğitimi, riskli ailelerin taranması ve rehberlik hizmetlerini verir.
+İl merkezi ve ihtiyaç durumuna göre ilçe merkezlerinde sağlık kuruluşları veya Ana Çocuk Sağlığı ve Aile Planlaması merkezlerinde kurulan Hemoglobinopati tanı merkezleri evlilik öncesi testleri yapar.
+Her sağlık ocağında AÇSAP hizmetlerinden sorumlu hekim sağlık ocağı program sorumlusu olarak görev yapar.
+Sağlık ocağı program sorumlusu, bölgesinde yasal olarak nikah kıyma görevini üstlenmiş İl ve İlçe Nüfus Müdürlüğü, Belediye Evlendirme Memurluğu, Köy Muhtarlıkları gibi birimlerle işbirliği içinde evlenecek çiftlerin hemoglobinopati tanı ve tedavi merkezlerine sevk edilerek Hemoglobin Elektroforez ya da Varyant analiz yöntemiyle taşıyıcılık testi yaptırmalarını teşvik eder. Sağlık Ocakları ve AÇSAP Merkezleri, Sağlık Grup Başkanlığınca bildirilen hemoglobinopati hasta ve taşıyıcılarının kayıtlarını tutar. Ev halkı tespit fişi , kişisel sağlık fişi, gebe ve çocuk kartlarına işler, aylık çalışma raporlarını Sağlık Grup Başkanlığına bildirir.
+Sağlık Ocakları, AÇSAP Merkezleri ve Tarama Merkezleri hasta ve taşıyıcıların üçüncü derece dahil yakın akrabalarının Hemoglobinopati Tanı Merkezlerinde laboratuvar analizlerini yaptırarak taşıyıcıları tespit eder.
+Evlilik öncesi tarama testlerinin rutin uygulanmaya başlamasından önce evlenmiş, çocuk sahibi olmak isteyen 15-49 yaş grubu kadınları izlem sırasında eğiterek taşıyıcılık testi yaptırmalarını sağlar, bunlardan taşıyıcı tespit edilenlerin eşlerinin de test yaptırmalarını sağlar.
+Tüm bu çalışmalar, İlçe Sağlık Grup Başkanlığına (İlçe Hemoglobinopati Kontrol Programı Sorumlusu Hekime)bağlı olarak Grup Başkanlığının koordinasyonunda yürütülür.
+2) Hemoglobinopati Tanı Merkezleri ve Sorumlulukları: Birinci basamaktaki Tanı Merkezleri, Sağlık Müdürlüğü kanalı ile Bakanlığa bağlı olup, Hemoglobinopatiler konusunda eğitim, taşıyıcı ve toplum taraması, evlilik öncesi çiftlere tarama ve genetik rehberlik hizmeti veren, Hemoglobin Elektroforezi veya kolon analizi yöntemlerinin uygulanabildiği merkezlerdir.
+Merkezlerde, en az bir Çocuk Sağlığı ve Hastalıkları Uzmanı veya Dahiliye Uzmanı veya Biyokimya Uzmanı veya Tıp Eğitimli Fizyoloji Uzmanı veya hemoglobinopati ve genetik danışma konusunda deneyimli (Hemoglobinopati merkezinde 1 yıl çalışmış ) veya doktoralı bir pratisyen doktor bulunmalıdır. Bu merkezin sorumlusu birinci cümlede tanımlanan kişilerden biri olabilir. Merkezlerde en az bir hemşire, bir laboratuvar teknisyeni ile sekreter de bulunur.
+Müstakilen kurulan merkezlerin bir Hemoglobinopati Merkez Sorumlusu bulunur. Sağlık Müdürlüklerine /Üniversitelere bağlı kurulan merkezlerin de İl Sağlık Müdürüne, hastane başhekimine ve ilgili bilim dalı başkanına bağlı olarak çalışan bir Hemoglobinopati Merkez Sorumlusu bulunur.
+Birinci basamaktaki koruyucu sağlık hizmetleri kapsamında faaliyet gösterecek bu merkezlerin, sağlık ocakları ile ana çocuk sağlığı ve aile planlaması merkezlerinde faaliyet göstermeleri ve ülke genelinde yaygınlaştırılmaları esastır.
+Ayrıca, koruyucu sağlık hizmetleri kapsamında olmak üzere, bu merkezler, bu Yönetmelikte öngörülen gerekli koşullar tamamlanarak dernek, vakıf, belediyeler ve benzeri kuruluşlar tarafından Sağlık Bakanlığının izni ile açılabilir. Bu tür (dernek,vakıf ,belediyeler ve benzeri ) açılacak merkezler ,faaliyet gösteren yataklı veya yataksız herhangi bir sağlık kuruluşu içerisinde açılacak ise bu merkezlerin 9/3/2000 tarihli ve 23988 sayılı Resmi Gazete’de yayımlanan Ayakta Teşhis ve Tedavi Yapılan Özel Sağlık Kuruluşları Hakkındaki Yönetmelik ile 27/3/2002 tarihli ve 24708 sayılı Resmi Gazete’ de yayımlanan Özel Hastaneler Yönetmeliğine göre izin almaları gereklidir.
+Bu merkezler;
+a) Sağlık ocağı ve AÇSAP Merkezleri ile işbirliği yaparak toplum eğitimi, toplum taraması, riskli ailelerin taranması ile rehberlik hizmetlerini verir ve ikinci basamak ile işbirliği yapar.
+b) Evli çiftlerin taramasını yapar, taşıyıcı belgesi verir.
+c) Bulunduğu ilin hasta sayısı, taşıyıcı sıklığı ve benzeri yönlerden durum tespitini yapar.
+d) Hemoglobinopatiler yönünden risk faktörlerini ve sıklığını belirler.
+e) Sağlık personelinin genetik danışmanlık ( rehberlik ), toplum eğitimi ve tarama hizmetlerini sunabilmesi için hizmet içi eğitimler planlar ve gerçekleştirir.
+f) Eğitilmiş sağlık personelinin yardımıyla halk eğitimleri yaparak toplumu bilinçlendirir.
+g) Kitle iletişim araçlarını kullanarak toplumu Hemoglobinopatiler konusunda bilgilendirir.
+h) Toplum taramaları ile tespit edilen taşıyıcı ve hasta bireylere genetik rehberlik hizmeti sunar.
+i) Konuyla ilgili kurum ve kuruluşlarla işbirliği yaparak halk eğitimi, okul eğitimi, toplum taraması faaliyetlerini gerçekleştirir.
+Hemoglobinopati Tanı Merkezleri, bu faaliyetlerini, birinci basamak faaliyetleri ile işbirliği içinde yürütür.
+Tüm taşıyıcı ve hastaların yerleşim birimlerine göre sağlık ocaklarında kayıtlarının tutulması, ev halkı tespit fişi, kişisel sağlık fişi, çocuk izlem fişi ve gebe izlem fişlerine kaydedilmesi, bilgilerin Sağlık Müdürlüğünde oluşturulacak kayıt birimine ulaştırılması gereklidir.
+Sonuçlar aylık olarak Müdürlüğe bildirilir ve bu merkezler Müdürlük tarafından denetlenir.
+Tespit edilen vakalar 3 ayda bir Müdürlükler tarafından Ana Çocuk Sağlığı ve Aile Planlaması Genel Müdürlüğüne gönderilir.

@@ -1,0 +1,3 @@
+Kayıt Sistemi ve Bildirim
+Madde 10-Hemoglobinopatilerin takibi, kontrolü ve önlenebilmesine dair veri tabanı oluşturulmasına esas olmak üzere, her basamakta hasta ve taşıyıcıların tespitine ve yapılan faaliyetlere yönelik kayıt sistemi kurulması ve bildirim zorunludur.
+Tüm basamaklardaki kayıtlar Bilim Kurulu tarafından oluşturulan bir form ile aylık olarak Müdürlüklere ve Müdürlükler tarafından 3 aylık olarak Bakanlığa bildirilecektir. Bakanlık Bilgi İşlem Merkezinde, merkezi kayıt sistemi oluşturulur. Veri tabanı oluşturmak için tanı konulan tüm hastaların ve taşıyıcıların izlenmesi sağlanır. Veriler Bilim Kurulu tarafından değerlendirilir.

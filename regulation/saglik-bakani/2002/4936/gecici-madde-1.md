@@ -1,0 +1,3 @@
+Geçici Madde 1-Bu Yönetmeliğin yürürlüğe girmesinden önce kurulmuş bulunan merkezler ve Hemoglobinopatiler ile alakalı tanı ve tedavi faaliyetlerinde bulunan kamu ve özel bütün kuruluşlar, Yönetmeliğe uyum işlemlerine esas olmak üzere Yönetmeliğin yayım tarihinden itibaren iki ay içinde Bakanlığa müracaat ederler.
+Bakanlıkça vaki müracaatlar incelenerek, kurum ve kuruluşlara altı ayı geçmemek üzere makul bir süre verilerek, izin ve yetki belgesi işlemleri sonuçlandırılır.
+Bu süreler zarfında müracaat etmeyenler ile izin ve yetki belgesi sonuçlandırılmayan merkez ve kuruluşların faaliyeti geçici olarak durdurulur ve azami bir yıl içinde işlemleri tamamlanmayanların faaliyetine son verilir.
