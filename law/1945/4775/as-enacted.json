@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4775",
+  "year": 1945,
+  "title": "Maliye Bakanlığı kuruluş ve görevlerine dair olan 2996 sayılı kanunun bir fıkrasının değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-07-09",
+  "gazette_issue": "6052",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6052.pdf",
+  "source_sha256": "359107e6775a16c815d4c3979c07a4ae00d17a6596a56d5b7cd194b2fe21e3de",
+  "text_sha256": "102535473db8dce58a1e6e8fc5b7730ac68abd61b617534ff182015131d24319",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      153,
+      168
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704775.pdf",
+    "source_sha256": "f90cebfdf2e0a61cadee8b9131862900c2d6e30355042727decd787577831dbe",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9605,
+    "bag": 0.8737,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9792,
+    "rg_words": 96,
+    "kd_words": 96,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
