@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8800",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO:2004/13)",
+  "number": "8800",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Devlet Bakanı",
+  "path": "teblig/2004/8800",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8800&MevzuatTertip=5",
+  "source_sha256": "8e03f379f1e31c1886ed34ca566526017f8151c665837468f0ebfde7f8cef44e",
+  "source_bytes": 30443,
+  "published": "2004-06-07",
+  "gazette": "25485",
+  "in_force": "2004-06-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.06.2004); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1146,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
