@@ -1,0 +1,51 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 53164,
+  "assembly": "TBMM",
+  "term": 10,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Türkiye-Finlandiya ticaret Protokolünün tasdikine dair (1/110)",
+  "title": "Türkiye-Finlandiya ticaret Protokolünün tasdikine dair (1/110)",
+  "first_sitting_date": "1954-11-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 1,
+      "sitting_date": "1954-11-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c002/tbmm10002001.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c002/tbmm10002fih.pdf",
+      "pages": [
+        "5"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 29,
+      "sitting_date": "1955-01-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004fih.pdf",
+      "pages": [
+        "97",
+        "144",
+        "204:205",
+        "207:208",
+        "212",
+        "229:232"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "10ff2d5176eecb7e6b7b94a75a747c9095e75756f90f32d1b12aca09e061dfcb",
+  "in_force": "1954-11-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
