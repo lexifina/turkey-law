@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2329",
+  "year": 1933,
+  "title": "442 sayılı köy Kanununun 20. ve 30. maddelerinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-10-28",
+  "gazette_issue": "2540",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2540.pdf",
+  "source_sha256": "8604d11d18da18baeb34f8f7df8db700e02fc02f8f8dd7de0558e0dd8a565ca2",
+  "text_sha256": "c65aafc24a37c3d40c5abe251cce961e28fb8a9879820e462e04f9b75bab03dd",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      27,
+      63
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202329.pdf",
+    "source_sha256": "900e6291568e197b198fd1a172971fb0732c1d0f9ee279fffc10be83f4d975d2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9622,
+    "bag": 0.9185,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9892,
+    "rg_words": 184,
+    "kd_words": 186,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
