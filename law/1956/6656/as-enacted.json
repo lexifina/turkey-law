@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6656",
+  "year": 1956,
+  "title": "Yemden yapılacak su işleri için gelecek yıllara sâri taahhütlere girişilmesine mezuniyet verilmesi hakkındaki 3132, 4100, 4649, 5259 ve 6089 sayılı kanunlara ek 6425 sayılı Kanunun 1 nci maddesinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-02-08",
+  "gazette_issue": "9228",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9228.pdf",
+  "source_sha256": "47a70128f9f91ec9ddc708f3008e3fc2fe8ed6df99b87eda0a2673236a91af30",
+  "text_sha256": "f6cdd12d2244ef1ac6a66859de5cbe9e94e323bc796c2407a7b5454d107d3d2d",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      138,
+      164
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806656.pdf",
+    "source_sha256": "bec87ae319c6d8610463cf8b1cc31771089a08257d8d1cef3c063659b3cefb04",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9718,
+    "bag": 0.867,
+    "kd_coverage": 0.97,
+    "kd_body_compared": 0.9423,
+    "rg_words": 105,
+    "kd_words": 104,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
