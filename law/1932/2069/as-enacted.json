@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2069",
+  "year": 1932,
+  "title": "26.5.1927 tarih ve 1050 numaralı muhasebei umumiye Kanununun 83 ncü maddesine bir fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-07-17",
+  "gazette_issue": "2151",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2151.pdf",
+  "source_sha256": "3510daf4e78055edcfeaff63dcd19d8a39b906df8edef0a3a486e8d0e777603f",
+  "text_sha256": "11113969852d571bcb1b395bae0582103a43dd9d3e1b7e2c6c5d4be569e4ec24",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      245,
+      271
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01102069.pdf",
+    "source_sha256": "c941073069a2974a8b3771da8e4a001ce8ba89d8b3c55fbab669425bd8ba04d3",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9519,
+    "bag": 0.8439,
+    "kd_coverage": 0.977,
+    "kd_body_compared": 0.977,
+    "rg_words": 88,
+    "kd_words": 87,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
