@@ -1,0 +1,1 @@
+Madde 12 – Merkezin yeri Atatürk Üniversitesi Merkez Kampüsüdür. Merkezin kuruluşu ve işletilmesi için gerekli olan mekan, her türlü araç-gereç ve demirbaş malzeme gibi fiziki ihtiyaçları Atatürk Üniversitesi Rektörlüğünce karşılanır.

@@ -1,0 +1,1 @@
+Madde 14 – Atatürk Üniversitesi Tıbbi Deneysel Uygulama ve Araştırma Merkezi’nin döner sermaye kapsamındaki hizmetlerinde Genel Döner Sermaye Yönetmeliği hükümleri uygulanır. Gerek görüldüğünde müdürün önerisi ve merkez yönetim kurulunun kararı ile Döner Sermaye İşletmesi kurmak üzere Rektörlük Makamına’da başvuruda bulunabilinir.
