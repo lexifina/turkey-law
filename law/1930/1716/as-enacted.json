@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1716",
+  "year": 1930,
+  "title": "Umumî veya mülhak bütçelerden mübayaa olunacak otomobiller hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-06-17",
+  "gazette_issue": "1522",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1522.pdf",
+  "source_sha256": "d72e8b9bd6ce265e2ace89438ae97965eed0e2ea5a64744c4f85231e1f4d95c5",
+  "text_sha256": "ef86935439393a13cdbfea34dc42f2a75448f7316741413df6392c254eecdc0a",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      365,
+      403
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801716.pdf",
+    "source_sha256": "06af68eb5a8610a67a6d76e0972db0afb9b64ed9d7a59ccc1a8881bed6d602ad",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9453,
+    "bag": 0.9058,
+    "kd_coverage": 0.9817,
+    "kd_body_compared": 0.9469,
+    "rg_words": 116,
+    "kd_words": 113,
+    "own_anchor": false,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
