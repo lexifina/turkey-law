@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6624-84/042004",
+  "source_id": 37245,
+  "date": "2003-10-08",
+  "title": "Belediye sınırları dahilinde bulunan plajlardan 2464 sayılı Belediye Gelirleri Kanunun 17 inci maddesi gereğince eğlence vergisi alınması ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37245",
+  "source_sha256": "ac52169760c8e88db8853b36861cdfdfdcd9db4460c77e4d1fe3b568c4e7daa3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
