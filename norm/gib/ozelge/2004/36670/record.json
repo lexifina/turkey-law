@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2822",
+  "source_id": 36670,
+  "date": "2004-09-12",
+  "title": "Yeminli mali müşavirlerin yaptıkları tasdikin doğruluğundan sorumludurlar ve yaptıkları tasdikin doğru olmaması halinde ziyaa uğratılan vergilerden ve kesilecek cezalardan mükellefle birlikte müştereken ve müteselsilen sorumludurlar.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/36670",
+  "source_sha256": "cfba2ecc3fa0debdf79b554bbad167bc0e44f367f850a07c9f9e3dd565fd7958",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
