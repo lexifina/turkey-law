@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 343737,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "OSMAN SAİM SARIGÖLLÜ (CUMHURİYET SENATOSU AYDIN ÜYESİ)",
+  "summary": "27 Mayıs 1960 tarihinden sonra nezaret altına alınanların haklarının iadesine ait kanun teklifinin İçtüzüğün 36. maddesi gereğince gündeme alınmasına dair (2/34,4/187)",
+  "title": "27 Mayıs 1960 tarihinden sonra nezaret altına alınanların haklarının iadesine ait kanun teklifinin İçtüzüğün 36. maddesi gereğince gündeme alınmasına dair (2/34,4/187)",
+  "first_sitting_date": "1962-03-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 15,
+      "sitting": 63,
+      "sitting_date": "1962-03-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015fih.pdf",
+      "pages": [
+        "33"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=5101&v_kullanici_id=27484893",
+  "source_sha256": "023024d42685f7a1dd0ec15e716c36199e6150174b15e6df77fcb7378561d310",
+  "in_force": "1962-03-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
