@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6026-306/002908",
+  "source_id": 25060,
+  "date": "2005-01-24",
+  "title": "Muristen intikal eden mirasın tasfiyesine karar verildiği tarihte yürürlükte bulunan tarifeye göre değil, ölüm tarihinde yürürlükte bulunan tarifeye göre vergilendirilmesi gerektiği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/25060",
+  "source_sha256": "4d3d441c6ec3054de4ddcfaefa0620d971980ba6b13ea02d844bba9d401707b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
