@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6124",
+  "year": 1953,
+  "title": "Belediye Kanununun 19 ncu Maddesine Bir Fıkra ve Aynı Kanuna Muvakkat Bir Madde Eklenmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-15",
+  "gazette_issue": "8458",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8458.pdf",
+  "source_sha256": "dced2470f2a44aeb0edbd04312d459fb8542df7f1c33843c1eac02e744ef7f59",
+  "text_sha256": "df2482a70d1216b3e6ff5d91afe112324cde71883f78f9b8a801030e69a4b1c8",
+  "text_status": "ocr",
+  "pages": [
+    9,
+    10
+  ],
+  "line_span": [
+    [
+      2110,
+      2254
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506124.pdf",
+    "source_sha256": "a556ada560d3c824eb40f423f60bd5a8ab5eb3a40f8b931a5bbcf5cd8fd5e78d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9827,
+    "bag": 0.8545,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9959,
+    "rg_words": 484,
+    "kd_words": 487,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
