@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3330",
+  "year": 1938,
+  "title": "Oyun aletleri resmi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-01-27",
+  "gazette_issue": "3819",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3819.pdf",
+  "source_sha256": "a5f8575cad856b7d25cdedc71fc890594cd416133cb990758be8c2f9030ee902",
+  "text_sha256": "fc00ca4a50746e6530df7896243e5ed63142e3fc24449262fa31134659c990c5",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      644,
+      700
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803330.pdf",
+    "source_sha256": "88dd2279ca0705ec4c04efa04b06eb6566fe5b8c578f157d2c3d94c8e0e9073a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9638,
+    "bag": 0.9014,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9894,
+    "rg_words": 457,
+    "kd_words": 471,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
