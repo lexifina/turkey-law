@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 343695,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "ARİF ATALAY (ADIYAMAN)",
+  "summary": "Ve 31 Arkadaşı 6183 sayılı Âmme alacaklarının tahsil usulü hakkındaki Kanunun 10. maddesinin 5. bendinin değiştirilmesi hakkında (2/131)",
+  "title": "Ve 31 Arkadaşı 6183 sayılı Âmme alacaklarının tahsil usulü hakkındaki Kanunun 10. maddesinin 5. bendinin değiştirilmesi hakkında (2/131)",
+  "first_sitting_date": "1963-04-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 15,
+      "sitting": 65,
+      "sitting_date": "1963-04-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015fih.pdf",
+      "pages": [
+        "104:107",
+        "124:127"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 66,
+      "sitting_date": "1963-04-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015fih.pdf",
+      "pages": [
+        "136:137",
+        "186:189"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 95,
+      "sitting_date": "1963-06-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018095.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+      "pages": [
+        "122:123"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=5401&v_kullanici_id=27484893",
+  "source_sha256": "e58cbaa6a5a3eaf8ad4b2710ce202b2b58e05e9dcf5d662a1b55d268e796d15f",
+  "in_force": "1963-04-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
