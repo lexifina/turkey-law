@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5249-11/30946",
+  "source_id": 33531,
+  "date": "1999-07-20",
+  "title": "Yatırım Teşvik Belgeli ithal edilen insan ve yük taşımak amacıyla imal edilmemiş, mikser monteli kamyonun ithalinde KDV ertelemesi uygundur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33531",
+  "source_sha256": "60168bf635ef75ffcb870a41e8776203b11436fd970114f8a1798e630d79853f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
