@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5569",
+  "year": 1950,
+  "title": "Belediye Gelirleri Kanununun 5385 sayılı Kanunla değiştirilen 22. maddesinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-03-04",
+  "gazette_issue": "7448",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7448.pdf",
+  "source_sha256": "646583d018d2ae9fd10c49732dad5622116f95aa32046d791eaa448cc8e40512",
+  "text_sha256": "da80e8f935a7b3e8f9fa7392898e2c413ac183d1db24a19c287d9d0084137480",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      272,
+      296
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205569.pdf",
+    "source_sha256": "c29250a9fa9752fb91c5f2de785e4591778a00f6797633b9829f62af0c76a1dd",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9443,
+    "bag": 0.8851,
+    "kd_coverage": 0.9744,
+    "kd_body_compared": 0.9623,
+    "rg_words": 143,
+    "kd_words": 159,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
