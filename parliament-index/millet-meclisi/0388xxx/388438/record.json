@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 388438,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İzmir Milletvekili Burhanettin Asutay ve 12 arkadaşının, 4837 sayılı işve İşçi Bulma Kurumu Kuruluş ve Görevleri hakkındaki Kanunun 13. maddesine bir fıkra eklenmesine ilişkin 7332 sayılı Kanunun yürürlükten kaldırılmasına dair kanun teklifi hakkında (2/403)",
+  "title": "İzmir Milletvekili Burhanettin Asutay ve 12 arkadaşının, 4837 sayılı işve İşçi Bulma Kurumu Kuruluş ve Görevleri hakkındaki Kanunun 13. maddesine bir fıkra eklenmesine ilişkin 7332 sayılı Kanunun yürürlükten kaldırılmasına dair kanun teklifi hakkında (2/403)",
+  "first_sitting_date": "1972-02-23",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 22,
+      "sitting": 47,
+      "sitting_date": "1972-02-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c022/mm__03022047.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c022/mm__03022fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 116,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026116.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026fih.pdf",
+      "pages": [
+        "136"
+      ],
+      "date_out_of_range": "1932-06-29"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2501&v_kullanici_id=27484836",
+  "source_sha256": "cea96686c381a154359b5e6a1860df6517dc5a8cf1c5eb251d256919f85ea45f",
+  "in_force": "1972-02-23",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
