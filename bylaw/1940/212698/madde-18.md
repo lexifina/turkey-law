@@ -1,0 +1,1 @@
+Madde 18 – Kontroldan sonra buğdayların kısmen veya tamamen ihracından sarfınazar eden ihracatçı kontrol vesikasını derhal ihracat kontrolörüne iade ile mükelleftir. Ancak, ihracatçı buğdayını kısmen ihraçtan sarfınazar etmiş bulunduğu takdirde mütebaki mal için kendisine yeni bir kontrol vesikası verilir.

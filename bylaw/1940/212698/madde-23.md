@@ -1,0 +1,1 @@
+Madde 23 – İhracatçı veya mümessili tarafından, kontrol neticesine itiraz vuku bulduğu takdirde, ihtilafın mevzuu, kontrol memurunun müracaatı üzerine, 48 saat zarfında, 24 üncü maddede yazılı heyet tarafından, kontrol memuru ile alakadar ihracatçı veya mümessili hazır bulunduğu halde tetkik olunur.

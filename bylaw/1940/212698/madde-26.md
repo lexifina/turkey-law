@@ -1,0 +1,1 @@
+Madde 26 – Heyetin tetkik neticesinde vereceği karar, ihracatçı veya mümessili tarafından ileri sürülen itirazı haklı gösterdiği takdirde ihracatçısına karara göre taayyün eden dereceden bir kontrol vesikası verilir ve bu takdirde zabıt varakasının, heyetin kararını da ihtiva eden bir nüshası, malumat olmak üzere Ticaret Vekaletine gönderilir.

@@ -1,0 +1,1 @@
+Madde 8 – Buğdaya karışık bulunan, çavdardan başka, bilümum maddeler "Yabancı maddeler" sayılır. Bunların dört milimetre murabbalık delikleri havi elekten geçenlerine "İnce yabancı maddeler" ve bu eleğin üstünde kalanlarına "Kalın yabancı maddeler" denir.
