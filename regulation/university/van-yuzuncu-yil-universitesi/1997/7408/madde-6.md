@@ -1,0 +1,10 @@
+Madde 6 — Daire Başkanı’nın atanması, görev ve yetkileri;
+a) Tercihen kütüphanecilik eğitimi görmüş ve konusunda tecrübeli kişiler arasından 2547 sayılı Kanun'un ilgili maddeleri uyarınca atanır,
+b) Birim kütüphanelerinin yöneticileri, tercihen kütüphanecilik eğitimi görmüş deneyimli kişiler arasından atanır. Bu yöneticiler ve birim yöneticilerinin diğer teknik ve idari personeli birim yöneticilerine bağlıdır. Kütüphane ile ilgili tüm işlemler için Kütüphane ve Dokümantasyon Daire Başkanı birim kütüphane yöneticileri ile koordineli olarak çalışır,
+c) Kütüphane ve dokümantasyon hizmetlerinin aksamadan yürütülmesi için gerekli yönetmelik, yönerge, plan ve programı hazırlamak, Rektörün onayından sonra uygulanmasını sağlamak,
+d) Kütüphane hizmetlerinin aksamadan yürütülebilmesi için yeterli kadroyu oluşturup, iş bölümü ve personeli üzerinde genel eğitim ve denetim görevini yapmak,
+e) Kütüphanecilik alanındaki gelişmeleri izleyerek yeni teknolojinin kütüphaneye girmesi için çalışmalar yapmak, bu konuda yurtiçi-ve yurtdışındaki seminer ve konferansları izlemek,
+f) Teknik Ve okuyucu hizmetlerinin standardizasyonunu sağlamak, denetimini yapmak,
+g) Kütüphane hizmetlerinin gerektirdiği diğer çalışmaları yapmak,
+h) Kütüphane ve dokümantasyon hizmetleri hakkında yıllık faaliyet raporunu her yıl Ocak ayı içinde Rektörlüğe sunmak,
+ı) Kütüphanenin yıllık giderlerini göz önüne alarak düzenlenen bütçe taslağını Rektörlüğe sunmak,

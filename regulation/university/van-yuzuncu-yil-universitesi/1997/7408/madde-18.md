@@ -1,0 +1,5 @@
+Ödünç Alınan Kitap ve Materyalin Yıpratılması ve Kaybı
+Madde 18 — Ödünç Alınan Kitabın Yıpratılması, Kaybı ve Kütüphane Dışına İzinsiz Kitap veya Materyal Çıkarma;
+a) Yıpratılan ve kaybedilen kütüphane materyali öncelikle piyasadan aynen temin ettirilir.
+b) (Değişik: RG 13/11/2001-24582) Yıpratılan ve kaybedilen yayının temini mümkün olmadığının tespiti halinde materyalin Kütüphane Değer Takdir Komisyonunca belirlenen değeri (barkotlu etiketler, manyetik şerit ve cilt masrafı) ve varsa tahakkuk eden gecikme cezası Yüzüncü Yıl Üniversitesi bütçesine gelir olarak kaydedilir.
+c) kütüphane dışına izinsiz kitap veya herhangi bir materyal çıkaran, buna teşebbüs eden yahut kütüphanedeki kitaplara veya diğer materyale zarar veren öğrenciler olayın nitelik ve ağırlığına göre Yükseköğretim öğrenci Disiplin Yönetmeliği'nin 6/a, 7/a veya 8/a maddesine göre cezalandırılır. Fiillerin tekerrürü halinde aynı Yönetmeliğin 12nci maddesi uygulanır.Bununla ilgili soruşturma ve cezalandırma, anılan yönetmelik hükümleri çerçevesinde yapılır.

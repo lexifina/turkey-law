@@ -1,0 +1,3 @@
+Madde 14 — a) (Değişik: RG 13/11/2001-24582) Yüzüncü Yıl Üniversitesi öğretim elamanları, personel ve öğrencileri kütüphaneden ödünç materyal alabilmeleri için Daire Başkanlığınca verilen barkotlu kütüphane kartına sahip olmaları gerekir. Barkotlu üye kartı olmadan ödünç kitap ve diğer materyal ödünç verilmez.
+b)(Değişik: RG 13/11/2001-24582) Öğretim elemanları, yüksek lisans ve doktora öğrencileri, lisans ve ön lisans öğrencileri ile idari personele en çok kaç kitabın ödünç verileceği ve ne kadar süreyle ödünç verileceği Daire Başkanının önerisi ile Rektör tarafından belirlenir.
+c) Gerektiğinde Daire Başkanlığı, ödünç verme süresi dolmadan ödünç verilmiş materyali geri isteyebilir.

@@ -1,0 +1,2 @@
+Madde 4 — Üniversitedeki kütüphane hizmetlerinin (sınıflandırma sistemi, konu başlığı, satın alma) tek bir merkezi kütüphane çerçevesi içinde örgütlenmesi ve yürütülmesi esastır.
+Merkez kütüphaneye bağlı olmak ve teknik hizmetleri merkezi kütüphaneden yürütülmek şartıyla, merkez kampusun bulunduğu yerleşim alanı dışındaki diğer kampüsler ile gerektiğinde akademik birimler için birer birim kütüphanesi kurulabilir.
