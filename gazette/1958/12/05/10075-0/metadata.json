@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-issue",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "1958-12-05",
+  "issue": "10075",
+  "issue_basis": "official archive file name /arsiv/<issue>.pdf (the archive numbers its files by issue; e.g. 24091.pdf = 26.06.2000, the issue before HTML issue 24092)",
+  "edition": "regular",
+  "archive_mukerrer_flag": null,
+  "item": 0,
+  "section": null,
+  "heading": null,
+  "title": "05.12.1958 tarihli Resmi Gazete",
+  "official_link": "https://www.resmigazete.gov.tr/arsiv/10075.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/Home/Filter",
+  "index_request": {
+    "method": "POST",
+    "searchtype": 2,
+    "arsivaramayeri": "1",
+    "from": "1958-01-01",
+    "to": "1958-12-31"
+  },
+  "index_sha256": "cae50e40809707be8252c38c3141550c26a9593a74553d33a41d997b31c2f4c2",
+  "index_header": "official archive listing date 05.12.1958",
+  "issue_pdf": "https://www.resmigazete.gov.tr/arsiv/10075.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; whole issue published as a scanned PDF (no OCR); items not listed"
+}
