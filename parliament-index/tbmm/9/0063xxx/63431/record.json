@@ -1,0 +1,61 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 63431,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Radyoloji, Radyum ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri hakkındaki 3153 sayılı Kanunun 7. maddesinin değiştirilmesine ve bu kanuna bir madde eklenmesine dair (1/102)",
+  "title": "Radyoloji, Radyum ve Elektrikle Tedavi ve Diğer Fizyoterapi Müesseseleri hakkındaki 3153 sayılı Kanunun 7. maddesinin değiştirilmesine ve bu kanuna bir madde eklenmesine dair (1/102)",
+  "first_sitting_date": "1950-12-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 14,
+      "sitting_date": "1950-12-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c003/tbmm09003014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c003/tbmm09003fih.pdf",
+      "pages": [
+        "27"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 32,
+      "sitting_date": "1951-01-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004032.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004fih.pdf",
+      "pages": [
+        "278",
+        "325",
+        "342:344"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 38,
+      "sitting_date": "1951-02-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c005/tbmm09005038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c005/tbmm09005fih.pdf",
+      "pages": [
+        "25",
+        "101",
+        "114:121"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1486bc3e32fe50fe5da43da3788216d73372ce0372461c834c6300a6832ddcbe",
+  "in_force": "1950-12-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
