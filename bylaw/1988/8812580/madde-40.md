@@ -1,0 +1,2 @@
+Görüş ve tekliflerin intikali
+Madde 40 – Teftiş, denetleme, inceleme, araştırma ve soruşturmalar sonunda, müfettişlerin, uygulamada görülen aksaklıkların giderilmesine, idari tedbir alınmasına, kuruluşun ihtiyaçlarının karşılanmasına, kadronun azaltılmasına veya artırılmasına dair olan ve Kurul Başkanlığınca da uygun bulunan görüş ve teklifleri, ilgili genel müdürlük veya daire başkanlıklarına intikal ettirilir.
