@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5866",
+  "year": 1952,
+  "title": "Gümrük Tarifesi Kanununa Bağlı Giriş Genel Tarifesinin 647 nci Numarasının Değiştirilmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-02-05",
+  "gazette_issue": "8026",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8026.pdf",
+  "source_sha256": "c13d561c7b29093f1829a07942ae792d3c68355eb027c430b664f6c814a48f78",
+  "text_sha256": "04346ca6def19baf1ff014ac881113a0fee30ea79b631c81815c5083eac79d7b",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      69,
+      84
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1, 2] (no text layer)",
+    "tesseract_pages": [
+      1,
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405866.pdf",
+    "source_sha256": "235df231e5175c08fe1bc639cc3a9aed83e5bf56a976ce30790f5eda74ac26ad",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9319,
+    "bag": 0.8824,
+    "kd_coverage": 0.9535,
+    "kd_body_compared": 0.9535,
+    "rg_words": 88,
+    "kd_words": 86,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
