@@ -1,0 +1,32 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-29",
+  "issue": "25122",
+  "edition": "regular",
+  "item": 28,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "Trabzon Belediye Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030529-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (37 = 37)",
+  "ilan_codes": [
+    "16847/1-1",
+    "15925/1-1",
+    "16845/1-1",
+    "16844/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030529-3-4.htm",
+  "category_page_sha256": "fe69fb379203baf4449354f6551ee38d6ed52d7875390a26868ba1a1283342a2",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030529.htm",
+  "index_sha256": "b9a683c818eec321f8437e7d582dcf6ac2efb5d961530a19893e393ace254806",
+  "index_header": "29 Mayıs 2003 ... Sayı : 25122",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
