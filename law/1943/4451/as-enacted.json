@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4451",
+  "year": 1943,
+  "title": "Gümrük ve İnhisarlar Vekâleti teşkilât ve vazifeleri hakkındaki 2825 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-07-07",
+  "gazette_issue": "5449",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5449.pdf",
+  "source_sha256": "b8d7bce96eccb574d6369981c5b5318809a3ecf917e9db8d07f8a8580da643a9",
+  "text_sha256": "c76d73b5bb187551333b012c885b1f43b0734986e445609f5be6bbef8ad66712",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      10,
+      24
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504451.pdf",
+    "source_sha256": "82d19594fc2914b4247b97630be0a34bf2e18716dfc29d1a18e02f7ed1394565",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.948,
+    "bag": 0.9036,
+    "kd_coverage": 0.9759,
+    "kd_body_compared": 0.9535,
+    "rg_words": 84,
+    "kd_words": 86,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
