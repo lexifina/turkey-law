@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "2141",
+  "year": 1959,
+  "title": "Hatay Mebusu ihsan Ada'nın teşriî masuniyeti hakkında",
+  "adopted": "1959-03-30",
+  "adopted_as_published": "30/03/1959",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.04.1959 No: 10179",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/karartbmmc041/karartbmmc04102141.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 41",
+  "committee_reports": [
+    {
+      "label": "TBMM 114 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c008/tbmm11008054ss0114.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 11,
+      "kayit_no": 42661,
+      "title": "Hatay Mebusu ihsan Ada'nın teşriî masuniyeti hakkında",
+      "adopted_as_published": "30/03/1959",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/karartbmmc041/karartbmmc04102141.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 114 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c008/tbmm11008054ss0114.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 8,
+          "sitting": 49,
+          "sitting_date": "1959-03-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c008/tbmm11008049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c008/tbmm11008fih.pdf",
+          "pages": [
+            "4"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 54,
+          "sitting_date": "1959-03-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c008/tbmm11008054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c008/tbmm11008fih.pdf",
+          "pages": [
+            "203"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "4d2f3b099a1b37fe089d3d304ad51cd0ed398da0d8603cb04dd3fc3705077d60"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4d2f3b099a1b37fe089d3d304ad51cd0ed398da0d8603cb04dd3fc3705077d60",
+  "issuer": "TBMM",
+  "in_force": "1959-03-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 30/03/1959; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
