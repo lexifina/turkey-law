@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-703/040341",
+  "source_id": 24070,
+  "date": "2004-08-31",
+  "title": "Yurt dışında kurulu fonlara ilişkin katılma belgelerinden elde edilen gelirlerin vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24070",
+  "source_sha256": "19fd7d9d5dd04878769c71ee9bbf713bdbad31aba9050344c328141b78d4add8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
