@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/2416",
+  "list_number": "2416",
+  "decision_date": "1999-11-27",
+  "title": "YSK ilke kararı 1999/2416",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4409/1999-2416-karar.htm",
+  "source_sha256": "2e6642f52cce5c312f2f544c80ef2732501ee1b0a3461c892d58e9ca2d060495",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-11-27",
+  "law_text_complete": false
+}
