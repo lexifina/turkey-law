@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55 / 5501 - 2894 / 5889",
+  "source_id": 29945,
+  "date": "2005-02-08",
+  "title": "Katma değer vergisi istisnasından faydalanan bir firmadan alınan bilgisayar yazılım programının başka firmalara tesliminde katma değer vergisi hesaplanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29945",
+  "source_sha256": "0ba8710a88c74b639a6220d83198a8f18cdcf1030a7e350d28067218a35bd272",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
