@@ -1,0 +1,54 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 305289,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İş kanunu tasarısı hakkında (Millet Meclisi 1/232, Cumhuriyet Senatosu 1/742) (S. Sayısı:950)",
+  "title": "İş kanunu tasarısı hakkında (Millet Meclisi 1/232, Cumhuriyet Senatosu 1/742) (S. Sayısı:950)",
+  "first_sitting_date": "1967-06-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 41,
+      "sitting": 75,
+      "sitting_date": "1967-06-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c041/cs__06041075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c041/cs__06041fih.pdf",
+      "pages": [
+        "282"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 79,
+      "sitting_date": "1967-06-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042fih.pdf",
+      "pages": [
+        "107:112",
+        "163:198",
+        "214:232",
+        "239:277",
+        "282:293",
+        "299:343",
+        "345:386",
+        "390:490",
+        "495:507",
+        "562:585"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=2001&v_kullanici_id=27484903",
+  "source_sha256": "57a55688e108516b7dc023f22addf80df9a64a1025a876ef5989677de1d9ba06",
+  "in_force": "1967-06-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
