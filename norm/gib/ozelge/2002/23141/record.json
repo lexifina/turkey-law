@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-669/13513",
+  "source_id": 23141,
+  "date": "2002-03-27",
+  "title": "Hayat standardı uygulamasında  18 yaşını doldurmamış olanlar çocuk tabiri içinde yer alır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23141",
+  "source_sha256": "dfe5d2c46fe5e9dc03ff91b5b9b6ce85d763302cd141bf6f7380ed1f3aa13e22",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
