@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6026-161/45406",
+  "source_id": 36351,
+  "date": "2000-10-05",
+  "title": "Köylere Hizmet Götürme Birliğinin faaliyetleri nedeniyle Veraset ve İntikal.Vergisine tabi olup olmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36351",
+  "source_sha256": "5def563b2aec7f0559d48c34c173696b20410494732ffe7dffa886d8203efd57",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
