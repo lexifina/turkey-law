@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5301-2682/22382",
+  "source_id": 38091,
+  "date": "1997-05-30",
+  "title": "Taşınmaz malların doğrudan kamu yararına çalışan derneklere tesliminde K.D.V. Uygulanmayacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38091",
+  "source_sha256": "9abd63a1e6e5c137e5c60ac25c7c0faa1e70a3773d118b42706aa21d5e960b00",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
