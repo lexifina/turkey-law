@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5417- 2138-12948",
+  "source_id": 31934,
+  "date": "2005-03-19",
+  "title": "Kurumların en az iki tam yıl süreyle aktiflerinde yer alan iştirak hisseleri ile gayrimenkullerinin satışı suretiyle gerçekleşen devir ve teslimleri katma değer vergisinden istisna edilmiştir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31934",
+  "source_sha256": "45f4b8dd88061b35c4b403ceaa572b19085dd82fccb58f5f0438048c139a2760",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
