@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1978",
+  "year": 1932,
+  "title": "Devlet Demiryolları ve Limanları İşletme Umum Müdürlüğünün 1932 malî senesi Bütçe Kanunu",
+  "adopted": "1932-05-23",
+  "adopted_as_published": "23/05/1932",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.05.1932 No: 2109",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101978.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 11",
+  "committee_reports": [
+    {
+      "label": "TBMM 152 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c008/tbmm04008046ss0152.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112100,
+      "title": "Devlet Demiryolları ve Limanları İşletme Umum Müdürlüğünün 1932 malî senesi Bütçe Kanunu",
+      "adopted_as_published": "23/05/1932",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101978.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 152 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c008/tbmm04008046ss0152.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 8,
+          "sitting": 48,
+          "sitting_date": "1932-05-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c008/tbmm04008048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c008/tbmm04008fih.pdf",
+          "pages": [
+            "148"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 50,
+          "sitting_date": "1932-05-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c008/tbmm04008050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c008/tbmm04008fih.pdf",
+          "pages": [
+            "191:192"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 51,
+          "sitting_date": "1932-05-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c008/tbmm04008051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c008/tbmm04008fih.pdf",
+          "pages": [
+            "219:235",
+            "243:245"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "7b4d6db0fc5f88c11900340c120d4f418fcbcc9748c0123056e17bec7f9b3811"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7b4d6db0fc5f88c11900340c120d4f418fcbcc9748c0123056e17bec7f9b3811",
+  "issuer": "TBMM",
+  "in_force": "1932-05-23",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 23/05/1932; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
