@@ -1,0 +1,4 @@
+Üyelerle İlgili Disiplin İşleri
+Madde 31 – Üyelerin kurumun amacı ve ilkeleriyle bağdaşmayan veya bunlara aykırı olan tutum ve davranışları yahut görevlerini ihmal etmeleri dolayısıyla haklarında disiplin kararları almaya bağlı kuruluşun yürütme kurulu yetkilidir. Kurul, kol, komisyon ve çalışma gruplarının üst üste üç toplantısına veya birbirini izleyen beş toplantısından aralıklı da olsa üçüne izinsiz veya özürsüz olarak katılmamak, kendisine verilen veya kendisinden beklenen görevi yapmamak da görevi ihmal sayılır.
+Yürütme Kurulu kararları, ilgili üyeye, üyesi bulunduğu bağlı kuruluş başkanına ve Yüksek Kurum Başkanına yazılı olarak bildirilir.
+Yürütme kurulu kararlarına karşı, ilgili üye, Yüksek kurum veya bağlı kuruluş başkanınca, bildirimden itibaren yedi gün içinde, Yönetim Kurulunun itiraz olunabilir. Yönetim Kurulu kararları kesindir.
