@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6685-4245/15904",
+  "source_id": 37102,
+  "date": "2000-04-07",
+  "title": "Depremde hasar gören binalara ait emlak vergisi ve çevre temizlik vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37102",
+  "source_sha256": "a198523fe71eeb109c689b127b0a537de155f9c14e8a226f997c981f10adbeee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
