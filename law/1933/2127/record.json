@@ -1,0 +1,95 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2127",
+  "year": 1933,
+  "title": "1932 malî senesinin Muvazenei Umumiye Kanununa merbut bütçelerde bazı tadilât yapılmasına dair kanun",
+  "adopted": "1933-03-30",
+  "adopted_as_published": "30/03/1933",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "04.04.1933 No: 2370",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202127.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 12",
+  "committee_reports": [
+    {
+      "label": "TBMM 86 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013034ss0086.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112249,
+      "title": "1932 malî senesinin Muvazenei Umumiye Kanununa merbut bütçelerde bazı tadilât yapılmasına dair kanun",
+      "adopted_as_published": "30/03/1933",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202127.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 86 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013034ss0086.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 13,
+          "sitting": 29,
+          "sitting_date": "1933-03-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013029.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013fih.pdf",
+          "pages": [
+            "16"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 31,
+          "sitting_date": "1933-03-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013fih.pdf",
+          "pages": [
+            "38"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 32,
+          "sitting_date": "1933-03-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013fih.pdf",
+          "pages": [
+            "40"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 34,
+          "sitting_date": "1933-03-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013fih.pdf",
+          "pages": [
+            "58:61",
+            "67",
+            "70:72"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=201&v_kullanici_id=27483155",
+      "page_sha256": "c9eb752021cf61b219390db32610800e575c2d99cd5cbe73ab0084b0f72849ab"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "c9eb752021cf61b219390db32610800e575c2d99cd5cbe73ab0084b0f72849ab",
+  "issuer": "TBMM",
+  "in_force": "1933-03-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 30/03/1933; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
