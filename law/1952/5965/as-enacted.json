@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5965",
+  "year": 1952,
+  "title": "Devlet Memurları Aylıklarının Tevhit ve Teadülüne Dair Olan 3656 Sayılı Kanuna Ek 4644 Sayılı Kanunun 11. Maddesinin Kaldırılması ve 3656 Sayılı Kanuna Bağlı (1) Sayılı Cetvelin Millî Eğitim Bakanlığı Kısmında Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-06-23",
+  "gazette_issue": "8142",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8142.pdf",
+  "source_sha256": "ec7d0afab6f26dedec02179e13746eb3ea7251d207b0a9b7912f8c872f35b431",
+  "text_sha256": "030cf3f9b0a73b9028ccf1c823b9cbb9262f352c5056365dc822a64dcbbe1b80",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      937,
+      1000
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405965.pdf",
+    "source_sha256": "9a9be641b168056a2111dc991cc5ad8d283d960ea82e0714b3c7b2a8590a6449",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9433,
+    "bag": 0.8739,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9516,
+    "rg_words": 272,
+    "kd_words": 289,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
