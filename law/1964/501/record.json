@@ -1,0 +1,229 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "501",
+  "year": 1964,
+  "title": "765 sayılı Türk Ceza Kanununun 6123 sayılı Kanunla muaddel 455. maddesiyle 2275 ve 3038 sayılı kanunlarla muaddel 459. maddelerine birer.fıkra eklenmesine dair kanun",
+  "adopted": "1964-07-16",
+  "adopted_as_published": "16/07/1964",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "23.07.1964 No: 11761",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700501.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 47",
+  "committee_reports": [
+    {
+      "label": "MM 499 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024024ss0499.pdf"
+    },
+    {
+      "label": "MM 499ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032128ss0499ek01.pdf"
+    },
+    {
+      "label": "CS 410no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019054ss0410.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 347577,
+      "title": "765 sayılı Türk Ceza Kanununun 6123 sayılı Kanunla muaddel 455. maddesiyle 2275 ve 3038 sayılı kanunlarla muaddel 459. maddelerine birer.fıkra eklenmesine dair kanun",
+      "adopted_as_published": "16/07/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700501.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 499 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024024ss0499.pdf"
+        },
+        {
+          "label": "MM 499ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032128ss0499ek01.pdf"
+        },
+        {
+          "label": "CS 410no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019054ss0410.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 18,
+          "sitting": 93,
+          "sitting_date": "1963-06-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c018/mm__01018fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 153,
+          "sitting_date": "1963-10-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c022/mm__01022153.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c022/mm__01022fih.pdf",
+          "pages": [
+            "287"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 24,
+          "sitting_date": "1964-01-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024fih.pdf",
+          "pages": [
+            "178:180"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 29,
+          "sitting_date": "1964-01-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024029.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024fih.pdf",
+          "pages": [
+            "359:360"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 111,
+          "sitting_date": "1964-06-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c031/mm__01031111.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c031/mm__01031fih.pdf",
+          "pages": [
+            "157"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 127,
+          "sitting_date": "1964-07-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032127.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032fih.pdf",
+          "pages": [
+            "177"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 128,
+          "sitting_date": "1964-07-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032128.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032fih.pdf",
+          "pages": [
+            "219:225"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2101&v_kullanici_id=27483225",
+      "page_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 162606,
+      "title": "765 sayılı Türk Ceza Kanununun 6123 sayılı Kanunla muaddel 455 nci maddesiyle 2275 ve 3038 sayılı kanunlarla muaddel 459 ncu maddelerine birer fıkra eklenmesine dair Kanun",
+      "adopted_as_published": "16/07/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700501.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 499 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c024/mm__01024024ss0499.pdf"
+        },
+        {
+          "label": "MM 499ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032128ss0499ek01.pdf"
+        },
+        {
+          "label": "CS 410no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019054ss0410.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 17,
+          "sitting": 28,
+          "sitting_date": "1964-01-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c017/cs__03017028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c017/cs__03017fih.pdf",
+          "pages": [
+            "348"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 48,
+          "sitting_date": "1964-03-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019fih.pdf",
+          "pages": [
+            "123"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 53,
+          "sitting_date": "1964-03-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019fih.pdf",
+          "pages": [
+            "520:522"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 54,
+          "sitting_date": "1964-03-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019fih.pdf",
+          "pages": [
+            "562:567",
+            "776"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 61,
+          "sitting_date": "1964-04-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019061.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019fih.pdf",
+          "pages": [
+            "794:796",
+            "810:811",
+            "813",
+            "815",
+            "820:823"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=501&v_kullanici_id=27483235",
+      "page_sha256": "90e575b0d681a9aaaed8fe9da175069303e902e0ae9d6b5e4ea68e0ee49b37f8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1",
+  "issuer": "Millet Meclisi",
+  "in_force": "1964-07-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 16/07/1964; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
