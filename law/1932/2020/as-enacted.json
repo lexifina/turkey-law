@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2020",
+  "year": 1932,
+  "title": "Temyiz mahkemesi teşkilâtına dair 11.4.1928 tarih ve 1221 numaralı Kanunun bazı maddelerinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-07-02",
+  "gazette_issue": "2139",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2139.pdf",
+  "source_sha256": "10ffd1f5f7e115cbf93120e879139e2afd9738311c9e17c270e742786a7227ce",
+  "text_sha256": "b808caf8a0e25b06ff8fddd3c935514533f6995eabd08b8bbdd4738867487ad2",
+  "text_status": "ocr",
+  "pages": [
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      468,
+      583
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01102020.pdf",
+    "source_sha256": "a4d88b3b9903f53739334bd982c3fa5bcf2c8ec334fc35ae0662889cf8dd1c4e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9631,
+    "bag": 0.8914,
+    "kd_coverage": 0.9955,
+    "kd_body_compared": 0.9912,
+    "rg_words": 445,
+    "kd_words": 452,
+    "own_anchor": true,
+    "foreign_anchors": 7
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
