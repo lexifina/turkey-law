@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6225-2-2/10490",
+  "source_id": 38157,
+  "date": "2001-02-20",
+  "title": "Bankalarca teminata alınan ve üzerinde keşidecilerinin dısında cirantalarının damga vergisini ödeyip ödemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38157",
+  "source_sha256": "74a47a7def0d5338ae03af071811776de3f2144e98dcfe95615514983146a3dc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
