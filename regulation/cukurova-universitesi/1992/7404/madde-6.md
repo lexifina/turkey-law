@@ -1,0 +1,2 @@
+Merkez Kurulu
+Madde 6- Merkez Kurulu, Müdür , Müdür Yardımcıları Merkezin faaliyet alanları ile ilgili Fakülte , Enstitü ve Yüksekokulların ilgili kurullarınca 3 yıl için görevlendirilen tercihen öğretim üyelerinden oluşur. Merkez Kurulunun toplam kaç kişiden oluşacağı ve hangi fakülte ve yüksekokuldan kaçar kişi görevlendirileceği, kuruluş ve işleyiş yönergesinde ayrıca belirtilir. Merkez Kurulu, her eğitim-öğretim yarı yılında en az 1 kez toplanır.
