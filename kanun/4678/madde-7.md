@@ -1,0 +1,3 @@
+Muvazzaf subaylığa geçme
+MADDE 7 — Sözleşmeli subaylardan yönetmelikte belirtilen şartları taşıyanlar, talepleri halinde muvazzaf subaylığa geçirilebilirler. Muvazzaf subaylığa geçiş için, Türk Silâhlı Kuvvetlerindeki yedinci fiilî hizmet yılı başından itibaren onikinci fiilî hizmet yılının bitimine kadar başvuru yapılabilir. Bu şekilde muvazzaf subaylığa geçirilenler; subay nasbedildikleri tarihten başlamak üzere onbeş yıl hizmet etmedikçe istifa edemezler.
+Muvazzaf subaylığa geçirileceklerde, 27.7.1967 tarihli ve 926 sayılı Kanunun 14 üncü maddesindeki yaş ile ilgili hükümler uygulanmaz. Sözleşmeli subaylardan muvazzaf subaylığa geçirilenler hakkında muvazzaf subayların tâbi olduğu ilgili mevzuat hükümleri uygulanır.

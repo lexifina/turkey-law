@@ -1,0 +1,3 @@
+Muvazzaf astsubaylığa geçme
+MADDE 11 — Sözleşmeli astsubaylardan yönetmelikte belirtilen şartları taşıyanlar, talepleri halinde muvazzaf astsubaylığa geçirilebilirler. Muvazzaf astsubaylığa geçiş için, Türk Silâhlı Kuvvetlerindeki dördüncü fiilî hizmet yılı başından itibaren onikinci fiilî hizmet yılının bitimine kadar başvuru yapılabilir. Bu şekilde muvazzaf astsubaylığa geçirilenler; astsubay nasbedildikleri tarihten başlamak üzere onbeş yıl hizmet etmedikçe istifa edemezler.
+Muvazzaf astsubaylığa geçirileceklerde, 27.7.1967 tarihli ve 926 sayılı Kanunun 68 inci maddesindeki yaş ile ilgili hükümler uygulanmaz. Sözleşmeli astsubaylardan muvazzaf astsubaylığa geçirilenler hakkında muvazzaf astsubayların tâbi olduğu ilgili mevzuat hükümleri uygulanır.

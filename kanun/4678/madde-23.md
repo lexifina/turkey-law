@@ -1,0 +1,4 @@
+Askerlik yükümlülüğünün yerine getirilmiş sayılması
+MADDE 23 — Askerlik yükümlülüğünü daha önce yerine getirmemiş olan;
+a) Sözleşmeli subay adayları ile sözleşmeli subaylardan herhangi bir nedenle sözleşmesi sona erenlerden; askerlik eğitimi dahil, hizmet sürelerinin toplamı tâbi oldukları askerlik hizmeti süresini karşılayanlar, askerlik yükümlülüğünü yerine getirmiş sayılırlar. Eksik hizmeti olanların bu süreleri, 16.6.1927 tarihli ve 1076 sayılı Kanun hükümlerine göre tamamlattırılır.
+b) Sözleşmeli astsubay adaylarından veya sözleşmeli astsubaylardan, herhangi bir nedenle sözleşmesi sona erenlerden; askerlik eğitimi dahil, hizmet sürelerinin toplamı tâbi oldukları askerlik hizmeti süresini karşılayanlar, askerlik yükümlülüğünü yerine getirmiş sayılırlar. Eksik hizmeti olanların bu süreleri, 21.6.1927 tarihli ve 1111 sayılı Kanun ile 16.6.1927 tarihli ve 1076 sayılı Kanun hükümlerine göre tamamlattırılır.

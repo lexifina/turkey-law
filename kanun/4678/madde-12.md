@@ -1,0 +1,10 @@
+DÖRDÜNCÜ KISIM
+Rütbe Bekleme Süreleri, Sözleşmenin Yenilenmesi ve Feshi
+Rütbe bekleme süreleri ve sözleşmenin yenilenmesi
+MADDE 12 — Sözleşmeli subay ve astsubayların rütbe bekleme süreleri hakkında, 27.7.1967 tarihli ve 926 sayılı Kanunda muvazzaf subay ve astsubaylar için belirlenen süreler uygulanır. Sözleşmeli subaylardan üst rütbede kadro açığı bulunmadığı için terfi edemeyenler, terfi şartlarını haiz olmak kaydıyla sözleşme müddeti sonuna kadar derece ilerlemesi yaparlar.
+Her sözleşme süresinin sona erme tarihinden en az üç ay önce taraflar sözleşmeyi yenileyeceklerine dair yazılı bildirimde bulunmadıkları takdirde, sözleşme kendiliğinden sona erer.
+Sözleşmeli subay veya astsubaylar, sözleşme süreleri sona ermeden sözleşmelerini tek taraflı olarak fesh edemezler.
+Sözleşmeli astsubayların normal eğitim sürelerinden fazla okudukları süreler ile sözleşmeli astsubaylığa geçmeden önceki askerlik hizmet süreleri için rütbe bekleme sürelerinde düşme yapılmaz. Bu durumda olanlardan muvazzaf astsubaylığa geçirilenlerin normal eğitim sürelerinden fazla olarak okudukları süreler, rütbe bekleme sürelerinden düşülür. Hangi rütbelerde ne kadar eksik bekletilecekleri yönetmelikte belirtilir.
+Subay veya astsubay nasbedildikten sonra; yabancı memleketlere altı ay veya daha uzun süreli öğrenim, staj, kurs, ihtisas veya görgü ve bilgilerini artırmak maksadıyla gidenlerin sözleşme süreleri, gidiş ve dönüş tarihleri arasında geçen sürenin iki katı kadar; Türk Silâhlı Kuvvetleri hesabına yurt içindeki fakülte veya yüksekokullarda öğrenim yapanlarla, meslekleriyle ilgili ihtisas yapanların sözleşme süreleri ise, buralarda geçen süreler kadar uzatılır.
+Yurt dışına sürekli göreve atanan sözleşmeli subay veya astsubayların sözleşme süreleri, görevi devraldıkları ve devrettikleri tarihler arasındaki süre kadar uzatılır.
+Sözleşmeli subay ve astsubayların, yurt içi veya yurt dışı öğrenimler ile yurt dışı sürekli görevler nedeniyle uzatılan sözleşme süreleri, 8.6.1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununda rütbeleri itibarıyla belirtilen yaş haddini geçemez.

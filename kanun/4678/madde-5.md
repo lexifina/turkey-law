@@ -1,0 +1,2 @@
+Yetiştirme
+MADDE 5 — Sözleşmeli subay adayları, yapılacak ön sözleşmeyi müteakip sınıf okullarında veya eğitim merkezlerinde askerî eğitime alınırlar. Türk Silâhlı Kuvvetlerinde 16.6.1927 tarihli ve 1076 sayılı Kanun hükümlerine göre askerliğini yedek subay veya kısa dönem erbaş olarak yapanlardan, bu hizmetlerini bitirdikten sonra başvuranların tâbi olacakları askerî eğitimle ilgili esaslar yönetmelikte düzenlenir.
