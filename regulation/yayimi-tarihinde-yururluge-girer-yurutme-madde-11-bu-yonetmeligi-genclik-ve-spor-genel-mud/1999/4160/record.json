@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4160",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GENÇLİK VE SPOR GENEL MÜDÜRLÜĞÜNCE YURT İÇİNDE VE YURT DIŞINDA DÜZENLENECEK GENÇLİK VE SPOR FAALİYETLERİ KIYAFET YÖNETMELİĞİ",
+  "number": "4160",
+  "issuer": "yayımı tarihinde yürürlüğe girer Yürütme Madde 11 – Bu Yönetmeliği Gençlik ve Spor Genel Müdürü",
+  "issuer_slug": "yayimi-tarihinde-yururluge-girer-yurutme-madde-11-bu-yonetmeligi-genclik-ve-spor-genel-mud",
+  "path": "regulation/yayimi-tarihinde-yururluge-girer-yurutme-madde-11-bu-yonetmeligi-genclik-ve-spor-genel-mud/1999/4160",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4160&MevzuatTertip=5",
+  "source_sha256": "6c635dc2a89f8ae47a54fc31502f6bc29ead1640f08cc37a771ecd7d9456ce2d",
+  "source_bytes": 40764,
+  "published": "1999-07-18",
+  "gazette": "23759",
+  "in_force": "1999-07-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.07.1999); own commencement article: \"Bu yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 491,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

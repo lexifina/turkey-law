@@ -1,0 +1,2 @@
+Kıyafetlerin Genel Esasları
+Madde 6- Bu Yönetmelik kapsamındaki sporcu, genç ve diğer görevlilerin kılık ve kıyafetleri; Atatürk ilkelerine uygun çağdaş ve temiz olmak zorundadır. Kılık ve kıyafetler, Türkiye Cumhuriyeti Devletinin manevi şahsiyetini küçük düşürücü, genel ahlaka aykırı, herhangi bir ırk, zümre, din, mezhep ve siyasi görüşü ima edici amblem, rumuz, işaret, rozet, aksesuar ve benzeri unsurlar taşıyamaz.

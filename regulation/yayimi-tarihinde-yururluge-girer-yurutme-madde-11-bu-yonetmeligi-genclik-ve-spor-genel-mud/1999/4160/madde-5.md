@@ -1,0 +1,2 @@
+Diğer Görevlilerin Kıyafetleri
+Madde 5- Bu Yönetmelik kapsamındaki görevliler, faaliyet süresince ve organizasyon mahallinde, görevi gereği olan ve ilgili mevzuatla ve Gençlik ve Sor Genel Müdürlüğünce tespit edilen özel kıyafetleri giymekle yükümlü olup, özel kıyafet belirlenmeyenler görevleri süresince 16/7/1982 tarihli ve 8/5105 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Çalışan Personelin Kılıç ve Kıyafetine Dair Yönetmelik hükümlerine uygun giyinmekle yükümlüdürler.

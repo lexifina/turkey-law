@@ -1,0 +1,2 @@
+Dayanak
+Madde 3- Bu Yönetmelik; 2596 sayılı Bazı kisvelerin Giyilemeyeceğine Dair Kanunun 2 nci maddesi, 3/2/1935 tarihli ve 2/1958 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Bazı Kisvelerin Giyilemeyeceğine Dair Kanunun Tatbik Suretini Gösterir Nizamnamenin 5 inci maddesi ve 3289 sayılı Gençlik ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun 2 nci ve 10 uncu maddelerine dayanılarak hazırlanmıştır.
