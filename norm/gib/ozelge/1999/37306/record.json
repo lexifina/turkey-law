@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6601-504/13216",
+  "source_id": 37306,
+  "date": "1999-07-04",
+  "title": "Dernek, birlik, federasyon ve konfederasyonun kuruluş amaçlarına uygun olarak kullanılmak üzere iktisap ettiği gayrimenkuller için Çevre Temizlik Vergisi ödeneceği tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37306",
+  "source_sha256": "6e61412a449ac740ce55fc574fa7ddd0788cfd062bd09f144f4c392d46868baa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
