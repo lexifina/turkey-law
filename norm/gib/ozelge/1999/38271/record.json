@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6518-62/044267",
+  "source_id": 38271,
+  "date": "1999-10-18",
+  "title": "Ödeme kaydedici cihazın, yapılamayacak derecede arızalı olması, ekonomik ömrünü doldurması veya benzeri bir sebeple kullanamaması halinde, yetkili servis elemanından alınacak bir rapora dayanarak vergi dairesine gerekli tespitleri yaptırdıktan sonra mali ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38271",
+  "source_sha256": "dace6f064a1c99f316dafe361c6a4e17df9974470a201c6f70690f0e9a16a762",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
