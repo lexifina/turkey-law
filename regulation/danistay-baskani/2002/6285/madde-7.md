@@ -1,0 +1,2 @@
+Başka kümeye gönderilme olanaksızlığı
+Madde 7- Bir daire veya kurulda çalışma süresini doldurduğu halde, tetkik hakimi gereksinmelerinin karşılanmış olması nedeniyle başka kümelerdeki daire veya kurullarda görevlendirilme olanağı bulunmayan tetkik hakimleri, bu olanak bulununcaya kadar, aynı küme de yer alan başka daire veya kurullara verilirler. Aynı kümede yer alan başka daire veya kurullara verilmesi olanağı da yoksa, bu olanak bulununcaya kadar, bulundukları daire veya kurullarda görevlerini sürdürürler.
