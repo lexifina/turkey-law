@@ -1,0 +1,33 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2004/9",
+  "source_id": 704,
+  "date": "2004-09-14",
+  "title": "UYGULAMA İÇ GENELGESİ SERİ NO : 2004/9",
+  "source": "https://gib.gov.tr/mevzuat/kanun/509/icgenelge/704",
+  "source_sha256": "639ce1267dbb0270902dc41a83e6cb7d7b52aa4b577ace9bd7725177e25abb46",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/434/icgenelge/408",
+        "quote": "14.09.2004 tarih ve 2004/9; 14.09.2004 tarih ve 2004/10 ; 21.10.2004 tarih ve 2004/12 Seri No.lu Uygulama İç Genelgelerinde"
+      }
+    ]
+  },
+  "later_status": {
+    "status": "partially-superseded",
+    "effective_date": "2005-06-01",
+    "source": "https://gib.gov.tr/mevzuat/kanun/434/icgenelge/408",
+    "scope": "notification rules for administrative sanction decisions; as-issued text retained"
+  }
+}
