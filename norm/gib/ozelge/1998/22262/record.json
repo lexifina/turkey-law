@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5111-52/01626",
+  "source_id": 22262,
+  "date": "1998-01-20",
+  "title": "İhracaatta bir 1yıl önce açılan gümrük çıkış beyannamesine ilişkin satışın bir yıl sonra gerçekleşmemesi halinde gelirin hangi yıl geliri olarak kabul edileceği ve vergilendirileceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/22262",
+  "source_sha256": "e06b30876dd49b960ad8fc215a172daccbb0ef07c3b07ebaf507128839542980",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
