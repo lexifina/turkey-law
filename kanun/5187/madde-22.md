@@ -1,0 +1,4 @@
+Basılmış eserleri engelleme, tahrip ve bozma
+MADDE 22. — Kanuna uygun olarak basılmış eserleri, bunların yayımını veya dağıtımını veya satışını önlemek amacıyla tahrip eden veya bozan kimse, fiili daha ağır bir suç teşkil etmediği takdirde, bir yıla kadar hapis ve birmilyar liradan beşmilyar liraya kadar ağır para cezasıyla cezalandırılır.
+Kanunun aradığı şartlara uyulmasına rağmen süreli ve süresiz yayınların basılmasını, yayımını, dağıtımını veya satışını şiddet veya tehditle engelleyen kimse, fiili daha ağır bir suç teşkil etmediği takdirde, iki yıla kadar hapis ve ikimilyar liradan onmilyar liraya kadar ağır para cezasıyla cezalandırılır.
+Yukarıdaki fıkralarda öngörülen fiiller, umumi mahalde veya matbaanın veya umuma satış yapan veya dağıtım yapan yerlerde birden fazla kişi tarafından işlendiği takdirde verilecek ceza yarıya kadar artırılır.

@@ -1,0 +1,5 @@
+Beyannamenin incelenmesi
+MADDE 8. — Beyannamenin ve eklerinin gerekli veya gerçek bilgileri içermemesi veya yayın sahibinin veya temsilcisinin veya sorumlu müdürün 5 inci ve 6 ncı maddelerde yazılı şartlara sahip olmaması halinde, Cumhuriyet Başsavcılığı beyannamenin verilmesinden itibaren iki hafta içinde eksikliğin giderilmesini veya gerçeğe aykırı bilgilerin düzeltilmesini yayın sahibinden ister. Bu istemin tebliği tarihinden itibaren iki hafta içerisinde yerine getirilmemesi halinde, Cumhuriyet Başsavcılığı yayımın durdurulmasını asliye ceza mahkemesinden talep eder. Mahkeme en geç iki hafta içinde karar verir. Bu karara karşı acele itiraz yoluna başvurulabilir.
+Beyanname içeriğinde meydana gelen her değişiklik, iki hafta içinde, gerekli belgelerle birlikte yeni bir beyanname ile aynı makama bildirilir.
+Birinci fıkra hükmü, değişikliğe ilişkin beyannameler hakkında da uygulanır.
+Sorumlu müdürün bu görevden ayrılması halinde, yenisi tayin edilinceye kadar sorumluluk yayın sahibine veya temsilcisine aittir.

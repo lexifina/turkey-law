@@ -1,0 +1,3 @@
+Yargıyı etkileme
+MADDE 19. — Hazırlık soruşturmasının başlamasından takipsizlik kararı verilmesine veya kamu davasının açılmasına kadar geçen süre içerisinde, Cumhuriyet savcısı, hâkim veya mahkeme işlemlerinin ve soruşturma ile ilgili diğer belgelerin içeriğini yayımlayan kimse, ikimilyar liradan ellimilyar liraya kadar ağır para cezasıyla cezalandırılır. Bu ceza, bölgesel süreli yayınlarda onmilyar liradan, yaygın süreli yayınlarda yirmimilyar liradan az olamaz.
+Görülmekte olan bir dava kesin kararla sonuçlanıncaya kadar, bu dava ile ilgili hâkim veya mahkeme işlemleri hakkında mütalaa yayımlayan kişiler hakkında da birinci fıkrada yer alan cezalar uygulanır.
