@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2906",
+  "year": 1936,
+  "title": "Nebatları hastalık ve zararlı böceklerden koruma Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-02-05",
+  "gazette_issue": "3224",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3224.pdf",
+  "source_sha256": "bb9fc4727d2cbeb4e523423258c5cfa97855cd7bfa28086ff08f088bf2095aba",
+  "text_sha256": "9a02f28c19ee32670505f1a464837f98d8a3770abaa497a11b2e65c6322874a2",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      15,
+      433
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602906.pdf",
+    "source_sha256": "73c1fe837ff1f832d2cc80f5f2588748eb94c23ebb3b309ae938212eb0d714b9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9657,
+    "bag": 0.8669,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.999,
+    "rg_words": 1879,
+    "kd_words": 1916,
+    "own_anchor": true,
+    "foreign_anchors": 8
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
