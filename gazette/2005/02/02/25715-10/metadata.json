@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-02",
+  "issue": "25715",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "Özelleştirme Yüksek Kurulunun 2005/18 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050202-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050202.htm",
+  "index_sha256": "bd23580b0ffb1d88b7598b36648c87fdb908aed848da3f34959bb2c7f523e766",
+  "index_header": "2 Şubat 2005 ... Sayı : 25715",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
