@@ -1,0 +1,169 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1263",
+  "year": 1970,
+  "title": "26 Şubat 1959 tarihli ve 7245 sayılı Kanunun 1. maddesiyle 14 Ocak 1938 tarihli ve 3312 sayılı Hariciye Vekâleti Teşkilâtı Kanununa eklenen maddenin değiştirilmesine, mezkür 3312 sayılı Kanunun 4. maddesine bir fıkra eklenmesine, 30 Haziran 1939 tarihli ve 3656 sayılı Kanununa bağlı (1) sayılı cetvelin Dışişleri Bakanlığı kısmına bazı kadrolar eklenmesine ve 5 Mayıs 1969 tarihli ve 1173 sayılı Kanuna ek (3) sayılı cetvelin değiştirilmesine dair Kanun",
+  "adopted": "1970-05-23",
+  "adopted_as_published": "23/05/1970",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.05.1970 No: 13505",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301263.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 53",
+  "committee_reports": [
+    {
+      "label": "MM 79 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004061ss0079.pdf"
+    },
+    {
+      "label": "MM 79ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c005/mm__03005086ss0079ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 377204,
+      "title": "26 Şubat 1959 tarihli ve 7245 sayılı Kanunun 1. maddesiyle 14 Ocak 1938 tarihli ve 3312 sayılı Hariciye Vekâleti Teşkilâtı Kanununa eklenen maddenin değiştirilmesine, mezkür 3312 sayılı Kanunun 4. maddesine bir fıkra eklenmesine, 30 Haziran 1939 tarihli ve 3656 sayılı Kanununa bağlı (1) sayılı cetvelin Dışişleri Bakanlığı kısmına bazı kadrolar eklenmesine ve 5 Mayıs 1969 tarihli ve 1173 sayılı Kanuna ek (3) sayılı cetvelin değiştirilmesine dair Kanun",
+      "adopted_as_published": "23/05/1970",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301263.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 79 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004061ss0079.pdf"
+        },
+        {
+          "label": "MM 79ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c005/mm__03005086ss0079ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 14,
+          "sitting_date": "1969-12-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001014.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001fih.pdf",
+          "pages": [
+            "405"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 60,
+          "sitting_date": "1970-03-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003fih.pdf",
+          "pages": [
+            "677"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 61,
+          "sitting_date": "1970-03-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004061.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+          "pages": [
+            "15:17"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 79,
+          "sitting_date": "1970-05-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004079.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+          "pages": [
+            "667"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 86,
+          "sitting_date": "1970-05-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c005/mm__03005086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c005/mm__03005fih.pdf",
+          "pages": [
+            "300",
+            "378:381"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=501&v_kullanici_id=27483225",
+      "page_sha256": "0258843447909eb78d2e7ce9ef5c85b41c15a35cb2a8d3561ced4550e61b6ae4"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 313733,
+      "title": "28 Şubat 1959 tarihli ve 7245 sayılı Kanunun 1 nci maddesiyle 14 Ocak 1938 tarihli ve 3312 sayılı Hariciye Vekâleti Teşkilât Kanununa eklenen maddenin değiştirilmesine, mezkûr 3312 sayılı Kanunun 4 ncü maddesine bir fıkra eklenmesine, 30 Haziran 1939 tarihli ve 3656 sayılı Kanuna bağlı (1) sayılı cetvelin Dışişleri Bakanlığı kısmına bâzı kadrolar eklenmesine ve 5 Mayıs 1969 tarihli ve 1173 sayılı Kanuna ek (3) sayılı cetvelin değiştirilmesine dair Kanun",
+      "adopted_as_published": "23/05/1970",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301263.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 79 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004061ss0079.pdf"
+        },
+        {
+          "label": "MM 79ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c005/mm__03005086ss0079ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 57,
+          "sitting": 55,
+          "sitting_date": "1970-03-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057fih.pdf",
+          "pages": [
+            "502"
+          ]
+        },
+        {
+          "cilt": 57,
+          "sitting": 65,
+          "sitting_date": "1970-05-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057fih.pdf",
+          "pages": [
+            "853"
+          ]
+        },
+        {
+          "cilt": 57,
+          "sitting": 66,
+          "sitting_date": "1970-05-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057066.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057fih.pdf",
+          "pages": [
+            "908:910"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1201&v_kullanici_id=27483235",
+      "page_sha256": "96b91fa18a90b3a56fc00f348d3e0c985a091d6aaed647d757bd25ab8db894ee"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0258843447909eb78d2e7ce9ef5c85b41c15a35cb2a8d3561ced4550e61b6ae4",
+  "issuer": "Millet Meclisi",
+  "in_force": "1970-05-23",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 23/05/1970; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
