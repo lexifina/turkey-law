@@ -1,0 +1,60 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2005/12",
+  "date": "2005-03-18",
+  "title": "SPK Haftalık Bülteni 2005/12",
+  "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_12.pdf",
+  "source_sha256": "f04b32b58f0868a6ccfe5a4d7c6fbebd948297de53540f03450f0740e3798ddb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "G. YENİ FAALİYET İZNİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2005 – 18.03.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_12.pdf"
+    },
+    {
+      "heading": "B. 14.03.2005 –18.03.2005 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_12.pdf"
+    },
+    {
+      "heading": "C. 14.03.2005 – 18.03.2005 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_12.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_12.pdf"
+    },
+    {
+      "heading": "F. DUYURULAR",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Devlet İstatistik Enstitüsü",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_12.pdf"
+    },
+    {
+      "heading": "G. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4011b41c613a0d633bf/2005_12.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
