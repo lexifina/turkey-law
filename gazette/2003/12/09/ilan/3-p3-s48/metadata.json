@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-12-09",
+  "issue": "25311",
+  "edition": "regular",
+  "item": 48,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "Sincan Kaymakamlığı İlçe Milli Eğitim Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031209-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (52 = 52)",
+  "ilan_codes": [
+    "48831/1-1",
+    "48832/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031209-3-3.htm",
+  "category_page_sha256": "a087a4e0ec1d75e4d173a59feeb9467d8ae027e00d592ed005048ac83d54f59e",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031209.htm",
+  "index_sha256": "8793407c7e1fcd929788c2d1c2c05cb43f7b398970151ebf134b27e20376e709",
+  "index_header": "9 Aralık 2003 ... Sayı : 25311",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
