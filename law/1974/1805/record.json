@@ -1,0 +1,138 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1805",
+  "year": 1974,
+  "title": "Vakıflar Genel Müdürlüğü 1974 yılı Bütçe Kanunu",
+  "adopted": "1974-05-30",
+  "adopted_as_published": "30/05/1974",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09.06.1974 No: 14910",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/kanuntbmmc057/kanuntbmmc05701805.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 57",
+  "committee_reports": [
+    {
+      "label": "MM 32 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c004/mm__04004081ss0032.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 438807,
+      "title": "Vakıflar Genel Müdürlüğü 1974 yılı Bütçe Kanunu",
+      "adopted_as_published": "30/05/1974",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/kanuntbmmc057/kanuntbmmc05701805.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 32 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c004/mm__04004081ss0032.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 54,
+          "sitting_date": "1974-03-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c002/mm__04002054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c002/mm__04002fih.pdf",
+          "pages": [
+            "235"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 75,
+          "sitting_date": "1974-05-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c003/mm__04003075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c003/mm__04003fih.pdf",
+          "pages": [
+            "623"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 81,
+          "sitting_date": "1974-05-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c004/mm__04004081.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c004/mm__04004fih.pdf",
+          "pages": [
+            "455:477"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 90,
+          "sitting_date": "1974-05-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c005/mm__04005090.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c005/mm__04005fih.pdf",
+          "pages": [
+            "635",
+            "644",
+            "655:658"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=201&v_kullanici_id=27483225",
+      "page_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 323782,
+      "title": "Vakıflar Genel Müdürlüğü 1974 yılı Bütçe Kanunu.",
+      "adopted_as_published": "30/05/1974",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/kanuntbmmc057/kanuntbmmc05701805.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 32 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c004/mm__04004081ss0032.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 15,
+          "sitting": 52,
+          "sitting_date": "1974-05-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c015/cs__13015052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c015/cs__13015fih.pdf",
+          "pages": [
+            "2"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 54,
+          "sitting_date": "1974-05-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c015/cs__13015054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t13/c015/cs__13015fih.pdf",
+          "pages": [
+            "294:320",
+            "338",
+            "349:350"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1801&v_kullanici_id=27483235",
+      "page_sha256": "0a870416ae325ef7c2b7383ddb74f9ce53a00b028164dfb225bb98530ce1a326"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1974-05-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 30/05/1974; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
