@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4656",
+  "year": 1944,
+  "title": "Şehir, kasaba ve köylerin lüzumunda tahliye veya seyrekleştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-08-14",
+  "gazette_issue": "5782",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5782.pdf",
+  "source_sha256": "e3fe2e8d759f10d2b2ec457292893335446d4a42a78e7b6398f453af4259aca2",
+  "text_sha256": "814ea561b208b8346ae7202c65085ad88953fa658fa1a274b66b191433a22a6d",
+  "text_status": "ocr",
+  "pages": [
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      606,
+      727
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604656.pdf",
+    "source_sha256": "861bd9ff0e57a166e0ae9a0adb8309138ba9b31bd1e134d7a2a2bcd54d458272",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9647,
+    "bag": 0.9102,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9973,
+    "rg_words": 737,
+    "kd_words": 746,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
