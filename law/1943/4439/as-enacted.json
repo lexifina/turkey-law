@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4439",
+  "year": 1943,
+  "title": "Hâkimler Kanununun muvakkat maddesindeki 3 numaralı bentte yazılı müddetin üç yıl daha uzatılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-06-21",
+  "gazette_issue": "5435",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5435.pdf",
+  "source_sha256": "e518841444cadada5ae39ab717a4fec29133a117c6bdcbba97ec0b12129a4316",
+  "text_sha256": "0e72fa3d57dd1bfad83878c30631e1c0175d544ac693398352030e8196dd0b16",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      10,
+      22
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504439.pdf",
+    "source_sha256": "24a647c7f5d01807dd73762853ea44ac7d86b28d210613a262c211061c6d60f6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9795,
+    "bag": 0.9593,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9677,
+    "rg_words": 63,
+    "kd_words": 62,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
