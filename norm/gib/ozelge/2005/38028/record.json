@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5320-",
+  "source_id": 38028,
+  "date": "2005-01-26",
+  "title": "Bilet satış acentası olarak görev yaptığı, pos cihazını kendi adlarına kullandığı, bilet ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38028",
+  "source_sha256": "b52d661c7b37d78b11d39dfcad6951d82a64262dcc23da3b9d995e09a97fbe85",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
