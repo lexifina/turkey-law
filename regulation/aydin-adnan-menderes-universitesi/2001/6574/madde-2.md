@@ -1,0 +1,2 @@
+Amaç
+Madde 2- Merkezin amacı, Türkiye Cumhuriyetinin varlık sebebi, Tür ulusunun çağdaşlaşma ve ilerleme azminin kaynağı olan Atatürk Devrim ve İlkelerini çeşitli yönleriyle araştırmak, öğrencilere, öğretim elemanlarına ve toplumumuza bu araştırmaların sonuçlarını iletmek, Atatürk İlkeleri ve İnkılap Tarihi eğitim faaliyetlerine yardımcı olmak, oryantasyon planının gerçekleşmesine katkıda bulunmaktır.
