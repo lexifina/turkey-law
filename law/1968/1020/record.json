@@ -1,0 +1,133 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1020",
+  "year": 1968,
+  "title": "Tekel Genel Müdürlüğü 1967 yılı Bütçesine ek ödenek verilmesi hakkında Kanun",
+  "adopted": "1968-02-23",
+  "adopted_as_published": "23/02/1968",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.02.1968 No: 12836",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05101020.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 51",
+  "committee_reports": [
+    {
+      "label": "MM 658 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c026/mm__02026048ss0658.pdf"
+    },
+    {
+      "label": "CS 1097no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045035ss1097.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 367979,
+      "title": "Tekel Genel Müdürlüğü 1967 yılı Bütçesine ek ödenek verilmesi hakkında Kanun",
+      "adopted_as_published": "23/02/1968",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05101020.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 658 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c026/mm__02026048ss0658.pdf"
+        },
+        {
+          "label": "CS 1097no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045035ss1097.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 24,
+          "sitting": 38,
+          "sitting_date": "1968-02-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c024/mm__02024038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c024/mm__02024fih.pdf",
+          "pages": [
+            "331"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 48,
+          "sitting_date": "1968-02-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c026/mm__02026048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c026/mm__02026fih.pdf",
+          "pages": [
+            "3",
+            "136:138"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 49,
+          "sitting_date": "1968-02-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c026/mm__02026049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c026/mm__02026fih.pdf",
+          "pages": [
+            "166",
+            "202",
+            "203",
+            "266",
+            "275:278",
+            "303:306"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1401&v_kullanici_id=27483225",
+      "page_sha256": "cd42d09c6a7f2265b7adf2c54fcd3e4b997ddbf4325a82e9e798effbb57a88be"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 307930,
+      "title": "Tekel Genel Müdürlüğü 1967 yılı Bütçesine ek ödenek verilmesi hakkında Kanun",
+      "adopted_as_published": "23/02/1968",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05101020.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 658 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c026/mm__02026048ss0658.pdf"
+        },
+        {
+          "label": "CS 1097no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045035ss1097.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 45,
+          "sitting": 35,
+          "sitting_date": "1968-02-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c045/cs__07045fih.pdf",
+          "pages": [
+            "1359:1360",
+            "1382",
+            "1398",
+            "1419:1420"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1001&v_kullanici_id=27483235",
+      "page_sha256": "094cb387034ac00eea805b544e30971275b2ef020692510be97000c9900f57c8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cd42d09c6a7f2265b7adf2c54fcd3e4b997ddbf4325a82e9e798effbb57a88be",
+  "issuer": "Millet Meclisi",
+  "in_force": "1968-02-23",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 23/02/1968; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
