@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3011-341-364/31935",
+  "source_id": 24735,
+  "date": "1999-07-26",
+  "title": "Eğitime katkı payı, beyannamelerin verilmesi sırasında doğmaktadır ve kanuni süresinden sonra verilen beyannamelere ilişkin eğitime katkı payları için bu kanunda hükme bağlanan vergi cezalarının kesilmesine ve bu meblağ için gecikme faizi uygulanmasına im",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24735",
+  "source_sha256": "35fab2ad4a60cd3dc7166cc0697a30085e57b16f5c4d1aa50ec4eda6748f12f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
