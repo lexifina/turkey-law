@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5413-504",
+  "source_id": 29977,
+  "date": "2004-02-19",
+  "title": "Cebri icra yoluyla satılan makine teçhizatın Yatırım Teşvik Belgesi sahibi mükelleflerce belge kapsamında satın alınması işlemi katma değer vergisine tabi değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29977",
+  "source_sha256": "76edfd8fb04934c75703a7c5821a126c1767920a949a84c5ed5ded3761ad40ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
