@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6383-181/10103",
+  "source_id": 38171,
+  "date": "1999-03-15",
+  "title": "Hazinenin özel mülkiyetinde veya Devletin hüküm ve tasarrufu altındaki taşınmaz mallar hakkında genel ve katma bütçeli kuruluşlardan 1999 yılı için Eğitime Katkı Payı alınmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38171",
+  "source_sha256": "fa9976c4e13b844dea21b3a11033e818f0a59ce1ddf4298ca384ff6085121315",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
