@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.5310",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÜZEL SANATLARDA FEVKALADE İSTİDAT GÖSTEREN ÇOCUKLARIN DEVLET TARAFINDAN YETİŞTİRİLMESİ HAKKINDAKİ YÖNETMELİK",
+  "number": "5310",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1963/5310",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5310&MevzuatTertip=5",
+  "source_sha256": "97fdb25b504ebf07943318ee944f34ecd86b7a2d5dc332631e5b70b1546eac67",
+  "source_bytes": 18546,
+  "published": "1963-08-05",
+  "gazette": "11472",
+  "in_force": "1963-08-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.08.1963)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 801,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,1 @@
+Madde 4- 6660 sayılı kanunun 1 inci maddesindeki < Fevkalâde istidatlı çocuklar> sözü ile çok üstün bir kabiliyet gösteren ve ileride memleketimizi sanat alanında milletlerarası ölçüde temsil edebileceği umulan çocuklar kastedilmiştir.

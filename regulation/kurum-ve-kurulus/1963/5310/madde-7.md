@@ -1,0 +1,1 @@
+Madde 7- Müracaat eden çocuklar hakkında müspet veya menfi karar verilmesi yada daha önce verilmiş müspet bir karar gereğince öğrenimine devam etmekte olan bir çocuğun kanunun şümulünden çıkarılması hususu komisyondan 10 üyenin oyu ile gerçekleşir.

@@ -1,0 +1,1 @@
+Madde 13- Olağanüstü istidatlı çocuklarla refakatçilerine verilen aylıktan başkaları yararlandırılamaz. Yabancı memleketlerde bulunan refakatçiler bakmayı üzerlerine alarak yurttan herhangi bir kimseyi çağıramazlar.

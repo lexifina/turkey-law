@@ -1,0 +1,3 @@
+Çocukların ve refakatçilerin sağlık durumları:
+Madde 10- Çocukların ve refakatçilerin yılda iki defa sağlık kontrolleri yapılır. Üstün kabiliyetli bir çocuğun kanunun şümulüne girmesi komisyonca kabul edildikten sonra genel bir sağlık muayenesinden geçirilir. Öğrenim göreceği sanat dalına girmeye elverişli olup olmadığı hususu resmi bir hastanenin sağlık kurulu raporu ile tespit edilir. Sağlık durumu müsait olmayanlar, istidatları ne derece olursa olsun kanunun şümulü içine alınmazlar. Bu muayenede refakatçilerinde durumları ayrıca tespit ettirilir. Sağlık durumu elverişli olmayanlar refakatçi tayin edilemezler.
+Öğrencilerin öğrenim ve yetiştirilme süreleri ve geri çekilmeleri:

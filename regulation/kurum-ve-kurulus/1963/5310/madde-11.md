@@ -1,0 +1,1 @@
+Madde 11- Komisyonca tespit edilip kendisine verilecek programları zorlayıcı bir sebep bulunmaksızın belirli süreleri içinde tamamlayamayan çocuk geri çağırılır. Öğrenim süresi tespit edilecek programların bitmesi ile son bulur.

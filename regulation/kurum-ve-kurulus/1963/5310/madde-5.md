@@ -1,0 +1,1 @@
+Madde 5- 6660 sayılı kanundan faydalanmak üzere yapılacak müracaatlar için, çocukların müzik icracılığında 12, kompozisyon ve plâstik sanatlarda 14 yaşını geçmiş olmaları gerekir. Bu yaş sınırını aşmış çocuklar için yapılacak müracaatlar kabul edilmez.

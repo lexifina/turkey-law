@@ -1,0 +1,1 @@
+Madde 15- 6660 sayılı kanunun kapsamı içine alınmış çocukların öğretmen ve bütçenin ® formülünde tespit edilmiş ders gereçlerine ait masraflarından başka, kültürlerinin gelişmesi için gerekli olan konser, tiyatro, müze, sergi ve galerilere ait kendi ve bu öğrenciler 15 yaşını dolduruncaya kadar, yalnız bir refakatçinin bilet masrafları Milli Eğitim Bakanlığı’nca ödenir.
