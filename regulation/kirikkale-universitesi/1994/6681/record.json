@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 27- Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1994-07-22",
+      "22.07.1994",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 27- Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21998",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1994-07-22",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kırıkkale Üniversitesi",
+  "issuer_slug": "kirikkale-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kirikkale-universitesi/1994/6681",
+  "published": "1994-07-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6681&MevzuatTertip=5",
+  "source_bytes": 45151,
+  "source_id": "8.5.6681",
+  "source_sha256": "00e42200114a247e7ab15bf9acf555ef443aa1541755b8f0dcb1a361034df2f3",
+  "text_status": "as-enacted",
+  "title": "KIRIKKALE ÜNİVERSİTESİ ARŞİV YÖNETMELİĞİ",
+  "university_id": 208,
+  "word_count": 1980
+}

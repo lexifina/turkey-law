@@ -1,0 +1,2 @@
+Yararlanma Usul ve Esasları
+Madde 10- Devlet Arşiv Hizmetleri Hakkında Yönetmeliğin 10.maddesi gereğince Üniversite elindeki araştırmaya açık arşiv malzemesinden yerli ve yabancı hakiki ve hükmi şahısların yararlanması, yükümlülükleri arşiv malzemesi örneklerinin verilmesi usul ve esasları hakkında Bakanlar Kurulu'nca tespit edilen ve 18.9.1989 tarih ve 20286 sayılı Resmi Gazete'de yayımlanan 89/14269 sayılı kararı uygulanır.

@@ -1,0 +1,2 @@
+Ayıklama ve İmha
+Madde 21- Üniversite bünyesinde bulunmakla beraber, arşiv malzemesi hüviyetinde olmayan, hukuki ve ilmi bir değer taşımayan, dolayısıyla kişilere ve topluma bir hak ve araştırıcılara faydalanma yönünden bir katkı sağlamayacağı için kullanılmasına ve muhafazasına lüzum görülmeyen her türlü malzemenin ayıklanma ve imhası, Üniversite arşivlerinde, Üniversite ilgili ve yetkililerince büyük bir titizlikle yapılır. Bu konuda yukarıda sözü edilen Yönetmelikte öngörülen esaslara uygun işlem yapılırken eski yıllara ait malzemenin ayıklanmasına öncelik verilir.
