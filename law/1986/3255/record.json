@@ -1,0 +1,197 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3255",
+  "year": 1986,
+  "title": "Türk Ceza Kanununun 175, 176, 177 ve 178. Maddelerinin Değiştirilmesine Dair Kanun",
+  "adopted": "1986-01-09",
+  "adopted_as_published": "09/01/1986",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "15.01.1986 No: 18989",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903255.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 69",
+  "committee_reports": [
+    {
+      "label": "TBMM 82 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004085ss0082.pdf"
+    },
+    {
+      "label": "TBMM 82ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007011ss0082ek01.pdf"
+    },
+    {
+      "label": "TBMM 82ek02no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c024/tbmm17024058ss0082ek02.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 245827,
+      "title": "Türk Ceza Kanununun 175, 176, 177 ve 178. Maddelerinin Değiştirilmesine Dair Kanun",
+      "adopted_as_published": "09/01/1986",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903255.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 82 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004085ss0082.pdf"
+        },
+        {
+          "label": "TBMM 82ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007011ss0082ek01.pdf"
+        },
+        {
+          "label": "TBMM 82ek02no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c024/tbmm17024058ss0082ek02.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 73,
+          "sitting_date": "1984-05-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+          "pages": [
+            "140"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 83,
+          "sitting_date": "1984-06-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004083.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+          "pages": [
+            "494"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 85,
+          "sitting_date": "1984-06-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004085.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+          "pages": [
+            "611:621"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 11,
+          "sitting_date": "1984-10-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c007/tbmm17007fih.pdf",
+          "pages": [
+            "354:362"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 107,
+          "sitting_date": "1985-06-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c017/tbmm17017107.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c017/tbmm17017fih.pdf",
+          "pages": [
+            "291:292"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 111,
+          "sitting_date": "1985-06-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c018/tbmm17018111.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c018/tbmm17018fih.pdf",
+          "pages": [
+            "116"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 20,
+          "sitting_date": "1985-10-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c019/tbmm17019020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c019/tbmm17019fih.pdf",
+          "pages": [
+            "659"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 24,
+          "sitting_date": "1985-11-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020fih.pdf",
+          "pages": [
+            "156"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 25,
+          "sitting_date": "1985-11-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020fih.pdf",
+          "pages": [
+            "218"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 26,
+          "sitting_date": "1985-11-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020fih.pdf",
+          "pages": [
+            "292"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 38,
+          "sitting_date": "1985-12-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c021/tbmm17021038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c021/tbmm17021fih.pdf",
+          "pages": [
+            "394"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 58,
+          "sitting_date": "1986-01-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c024/tbmm17024058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c024/tbmm17024fih.pdf",
+          "pages": [
+            "300:327"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=201&v_kullanici_id=27483190",
+      "page_sha256": "a004580d4d1ccc63094c61508a9b07d742ad9b963b0cb5e4aa44d6643249876d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a004580d4d1ccc63094c61508a9b07d742ad9b963b0cb5e4aa44d6643249876d",
+  "issuer": "TBMM",
+  "in_force": "1986-01-09",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 09/01/1986; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
