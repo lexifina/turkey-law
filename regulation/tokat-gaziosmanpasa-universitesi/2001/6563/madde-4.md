@@ -1,0 +1,3 @@
+Başkan
+Madde 4- Araştırma ve Uygulama Merkezi Başkanı, Rektör tarafından 3 yıl için görevlendirilen bir öğretim üyesidir. Süresi biten başkan yeniden seçilebilir. Başkan kendisine Türk İnkılap Tarihi ve Atatürk İlkeleri konusunda ders veren tarihçi öğretim elemanları arasından üç yıl için bir yardımcı seçebilir. Başkanın görevi sona erince yardımcının görevide kendiliğinden sonar erer.
+Araştırma ve Uygulama Merkezi Başkanı yürütme amiridir.Başkan yönetim kuruluna başkanlık eder, çalışmaların düzenli bir şekilde yürütülmesini sağlar. Başkan geçici olarak görevden ayrıldığında yardımcısı ona vekalet eder, yardımcısı yoksa veya mazeretli ise yönetim kurulu üyelerinden birini vekil bırakır. Göreve vekalet 6 aydan fazla sürerse yeni bir başkan atanır.

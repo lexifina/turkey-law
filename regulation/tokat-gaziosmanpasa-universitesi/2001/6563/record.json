@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 8- Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2001-07-02",
+      "02.07.2001",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 8- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24450",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2001-07-02",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Tokat Gaziosmanpaşa Üniversitesi",
+  "issuer_slug": "tokat-gaziosmanpasa-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/tokat-gaziosmanpasa-universitesi/2001/6563",
+  "published": "2001-07-02",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6563&MevzuatTertip=5",
+  "source_bytes": 17222,
+  "source_id": "8.5.6563",
+  "source_sha256": "9e7d523780712a48e8ba181d52ec5796ce237a1e687a06180e09162c5b8308b8",
+  "text_status": "as-enacted",
+  "title": "GAZİOSMANPAŞA ÜNİVERSİTESİ ATATÜRK İLKELERİ VE İNKILAP\r\nTARİHİ ARAŞTIRMA VE UYGULAMA MERKEZİ\r\nYÖNETMELİĞİ",
+  "university_id": 197,
+  "word_count": 482
+}
