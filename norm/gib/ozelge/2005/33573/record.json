@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5517 - 1921 / 14515",
+  "source_id": 33573,
+  "date": "2005-03-30",
+  "title": "29.07.1998 tarihinden önce inşaat ruhsatı alınmış inşaatlara ilişkin olarak, yapı kooperatifleri tarafından kooperatif alanında inşa ettirtecekleri konutların kullanılmaya başlanılmasına kadar yapılacak inşaat taahhüt işleri katma değer vergisinden istisn",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33573",
+  "source_sha256": "bf8f5a435d91cf8a299af819407259aaf91169ec8e57860872d358ccd0d418ee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
