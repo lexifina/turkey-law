@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6523-43/34725",
+  "source_id": 38290,
+  "date": "1997-08-18",
+  "title": "Kullanılmış ödeme kaydedici cihazların satışının, cihazın sahibi olan mükellefl tarafından, bu cihazı kullanacak olan mükelleflere veya ilgili üretici ve ithalatçı kuruluşlara yapılabilmesi hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38290",
+  "source_sha256": "faac9d685463eacfbae385cd4620c0b15c83025ad0869896de7c54527c45fb40",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
