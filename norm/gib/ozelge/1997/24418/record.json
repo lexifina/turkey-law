@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4010-47/ 23321",
+  "source_id": 24418,
+  "date": "1997-06-05",
+  "title": "S.S.K.'ya ait sağlık tesislerine gelir ve kurumlar vergisi mükelleflerince yapılan bağış ve yardımların yıllık beyanname ile bildirilen gelirlerden bağış ve yardımların gelir vergisi mükelleflerince yıllık beyanname ile bildirilen gelirlerden indirilmesi ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24418",
+  "source_sha256": "702ecff4199b8f9734bf893b74794c64f3f0532d55a5b30c4f468d20dadc40a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
