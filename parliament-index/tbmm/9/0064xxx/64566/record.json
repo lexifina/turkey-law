@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 64566,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Turizm Endüstrisini Teşvik kanunu lâyihası ile Antalya Mebusu Burhanettin Onat ve 122 arkadaşının Turizm Endüstrisini Teşvik Kanunu teklifine dair (1/341, 2/342)",
+  "title": "Turizm Endüstrisini Teşvik kanunu lâyihası ile Antalya Mebusu Burhanettin Onat ve 122 arkadaşının Turizm Endüstrisini Teşvik Kanunu teklifine dair (1/341, 2/342)",
+  "first_sitting_date": "1953-01-23",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 19,
+      "sitting": 31,
+      "sitting_date": "1953-01-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c019/tbmm09019031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c019/tbmm09019fih.pdf",
+      "pages": [
+        "353"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 43,
+      "sitting_date": "1953-02-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c020/tbmm09020043.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c020/tbmm09020fih.pdf",
+      "pages": [
+        "279:298"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 58,
+      "sitting_date": "1953-03-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c021/tbmm09021058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c021/tbmm09021fih.pdf",
+      "pages": [
+        "50",
+        "452:469",
+        "524:543",
+        "545:548",
+        "579:601"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 77,
+      "sitting_date": "1953-05-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c022/tbmm09022077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c022/tbmm09022fih.pdf",
+      "pages": [
+        "45:68",
+        "121:132",
+        "170",
+        "205:206",
+        "213",
+        "219",
+        "223",
+        "232:235"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=1001&v_kullanici_id=27484171",
+  "source_sha256": "fb4c11a435a7806052bd870123a786f424de216c799122ef4490a178d7378d32",
+  "in_force": "1953-01-23",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
