@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7057",
+  "year": 1957,
+  "title": "Devlet Memurları aylıklarının tevhit ve teadülüne dair 3656 sayılı Kanuna bağlı (1) sayılı cetvelin 6330 sayılı Kanunla muaddel Başvekâlet kısmında değişiklik yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-12-30",
+  "gazette_issue": "9795",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9795.pdf",
+  "source_sha256": "1af831746e10d33384b84db379f71ca90dd7f649906f1ca947f1502a1d68aa67",
+  "text_sha256": "74b589499d6d65da005b3fa03b9cbd7b650fcf9cca19846289dcd468361a0ee0",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      37
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007057.pdf",
+    "source_sha256": "cb45095a7955074b90cc8c46f3b2eb48c1fbe4337d8ef1787f0a9cc84ea7c3ce",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9486,
+    "bag": 0.8732,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9487,
+    "rg_words": 102,
+    "kd_words": 117,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
