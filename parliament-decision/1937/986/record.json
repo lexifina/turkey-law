@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "986",
+  "year": 1937,
+  "title": "Muğla mebusu Yunus Nadinin teşriî masuniyeti hakkında",
+  "adopted": "1937-04-09",
+  "adopted_as_published": "09/04/1937",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.04.1937 No: 3582",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/karartbmmc017/karartbmmc01700986.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 17",
+  "committee_reports": [
+    {
+      "label": "TBMM 131 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c017/tbmm05017046ss0131.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104946,
+      "title": "Muğla mebusu Yunus Nadinin teşriî masuniyeti hakkında",
+      "adopted_as_published": "09/04/1937",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/karartbmmc017/karartbmmc01700986.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 131 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c017/tbmm05017046ss0131.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 17,
+          "sitting": 45,
+          "sitting_date": "1937-04-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c017/tbmm05017045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c017/tbmm05017fih.pdf",
+          "pages": [
+            "16"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 46,
+          "sitting_date": "1937-04-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c017/tbmm05017046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c017/tbmm05017fih.pdf",
+          "pages": [
+            "29"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "333fb39ef47394c0297b4b97f8ff5c1a83ff1031170a2f4239842e39fa7dcb8d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "333fb39ef47394c0297b4b97f8ff5c1a83ff1031170a2f4239842e39fa7dcb8d",
+  "issuer": "TBMM",
+  "in_force": "1937-04-09",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 09/04/1937; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
