@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5479",
+  "year": 1949,
+  "title": "Köy Entstitüsü mezunu öğretmenlerle köy sağlık memurlarının geçimlerini düzenlemek üzere 3803, 4274 ve 4459 sayılı kanunlara ek 5129 sayılı Kanunda değişiklik yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-01-02",
+  "gazette_issue": "7395",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7395.pdf",
+  "source_sha256": "0d850e4e87d5a50c99a0bf7d81328989eebb684143fd284922097f32826d0265",
+  "text_sha256": "1c85ce2a00800781252e9483d7addcf73cfb0c25ace3c5dd5d0981c7f0173be0",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      43,
+      82
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205479.pdf",
+    "source_sha256": "34746cb9a85d3647b286328ebabdba207553ba49c13870657b3a64fc3bce4a92",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.983,
+    "bag": 0.9114,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9917,
+    "rg_words": 236,
+    "kd_words": 240,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
