@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-30",
+  "issue": "25123",
+  "edition": "regular",
+  "item": 31,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "Türkiye Şeker Fabrikaları Anonim Şirketi Elektromekanik Aygıtlar Fabrikası Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030530-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (43 = 43)",
+  "ilan_codes": [
+    "16226/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030530-3-3.htm",
+  "category_page_sha256": "c9cf5704d65e943c0eb958d6c71b9811ce4a2d8f7e4a07caddfa95a8f3e62c0d",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030530.htm",
+  "index_sha256": "88bf58933b72f581b0690ed0001932ac0fa44b40c7be435b155b74127ee2d815",
+  "index_header": "30 Mayıs 2003 ... Sayı : 25123",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
