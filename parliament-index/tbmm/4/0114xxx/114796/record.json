@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 114796,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Diyanet işleri 1931 senesi bütçesinde 500 liralık münakale yapılması hakkında 1/271, Gümrükler Umum Müdürlüğü 1931 senesi bütçesinde 2 743 liralık münakale yapılması hakkında 1/272, İktisad Vekâleti 1931 senesi bütçesinde 27 000 liralık münakale yapılması hakkında 1/286, Hariciye Vekâleti 1931 senesi bütçesinde 18 400 liralık münakale yapılması hakkında 1/289, Hariciye Vekâleti umum jandarma kumandanlığı 1931 senesi yapılması hakkında 1/290 ve Sıhhat ve bütçesinde 25 000 liralık münakale içtimaî muavenet Vekâleti 1931 senesi bütçesinde 8 000 liralık münakale yapılması hakkında 1/299 nuumaralı kanun lâyihaleri ile İdare heyetinin Büyük Millet Meclis 1931 senesi bütçesinde 3 500 liralık münakale yapılması hakkında 2/31, Riyaseti Cumhur 1931 senesi bütçesinde 1 500 liralık münakale yapılması hakkında 2/33, ve Büyük Millet Meelisi 1931 senesi bütçesinde 500 liralık münakale yapılması hakkında 2/35 numaralı kanun tekliflerine dair",
+  "title": "Diyanet işleri 1931 senesi bütçesinde 500 liralık münakale yapılması hakkında 1/271, Gümrükler Umum Müdürlüğü 1931 senesi bütçesinde 2 743 liralık münakale yapılması hakkında 1/272, İktisad Vekâleti 1931 senesi bütçesinde 27 000 liralık münakale yapılması hakkında 1/286, Hariciye Vekâleti 1931 senesi bütçesinde 18 400 liralık münakale yapılması hakkında 1/289, Hariciye Vekâleti umum jandarma kumandanlığı 1931 senesi yapılması hakkında 1/290 ve Sıhhat ve bütçesinde 25 000 liralık münakale içtimaî muavenet Vekâleti 1931 senesi bütçesinde 8 000 liralık münakale yapılması hakkında 1/299 nuumaralı kanun lâyihaleri ile İdare heyetinin Büyük Millet Meclis 1931 senesi bütçesinde 3 500 liralık münakale yapılması hakkında 2/31, Riyaseti Cumhur 1931 senesi bütçesinde 1 500 liralık münakale yapılması hakkında 2/33, ve Büyük Millet Meelisi 1931 senesi bütçesinde 500 liralık münakale yapılması hakkında 2/35 numaralı kanun tekliflerine dair",
+  "first_sitting_date": "1932-04-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 38,
+      "sitting_date": "1932-04-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c007/tbmm04007038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c007/tbmm04007fih.pdf",
+      "pages": [
+        "28:29",
+        "31",
+        "34"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=101&v_kullanici_id=27483870",
+  "source_sha256": "3941da628b2c2d2a10b5ac11005ef531722964bd8ce5d1cdcc3edd824864a096",
+  "in_force": "1932-04-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
