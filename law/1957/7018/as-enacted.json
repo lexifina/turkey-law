@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7018",
+  "year": 1957,
+  "title": "Jandarma Kanununun 6459 sayılı Kanunla değiştirilen 12. maddesine bir fıkra eklenmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-24",
+  "gazette_issue": "9641",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9641.pdf",
+  "source_sha256": "e8c30baa08788912ae5708204f7b2fe3e9701f2cbfad32085425be86f46a729e",
+  "text_sha256": "166806cbbfc6e4679dc38b374082c3ed665493328f53c064122c4e386b1cc837",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      295,
+      318
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907018.pdf",
+    "source_sha256": "ef16f72887a5a69dd98181f4883cc9b50a2402187f6c16694fdaeaf7f455c81e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9107,
+    "bag": 0.6476,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.96,
+    "rg_words": 57,
+    "kd_words": 50,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
