@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/355",
+  "list_number": "355",
+  "decision_date": "1999-03-12",
+  "title": "YSK ilke kararı 1999/355",
+  "summary": "18 Nisan 1999 tarihinde birlikte yapılacak milletvekili ve mahalli idareler genel seçimleriyle ilgili seçim takviminde, il seçim kurullarının geçici aday listelerine yapılacak itirazlara karşı verdikleri kararlara karşı en geç 3 Mart 1999 tarihine kadar itiraz edileceğinin belirtilmesi karşısında, daha sonra 12.03.1999 tarihinde yapılan itirazın süre yönünden incelenmesi mümkün değildir.",
+  "concepts": "ADAY LİSTELERİNE SÜRESİNDE YAPILMAYAN İTİRAZ  İNCELENMEZ, İTİRAZIN SÜRESİNDEN SONRA YAPILMASI, İTİRAZ SÜRESİ",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4703/1999-355-karar.htm",
+  "source_sha256": "1dc1098ee825c08f31c346fdcf4f7e8a0e83a025c3952480a5d8eda4a3995343",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "1999-03-12",
+  "law_text_complete": true
+}
