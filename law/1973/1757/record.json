@@ -1,0 +1,230 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1757",
+  "year": 1973,
+  "title": "Toprak ve Tarım Reformu Kanunu",
+  "adopted": "1973-06-25",
+  "adopted_as_published": "25/06/1973",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "19.07.1973 No: 14599",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601757.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 56",
+  "committee_reports": [
+    {
+      "label": "MM 869 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037106ss0869.pdf"
+    },
+    {
+      "label": "CS 280no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c012/cs__12012076ss0280.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 393267,
+      "title": "Toprak ve Tarım Reformu Kanunu",
+      "adopted_as_published": "25/06/1973",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601757.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 869 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037106ss0869.pdf"
+        },
+        {
+          "label": "CS 280no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c012/cs__12012076ss0280.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 24,
+          "sitting": 75,
+          "sitting_date": "1972-04-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024fih.pdf",
+          "pages": [
+            "97"
+          ]
+        },
+        {
+          "cilt": 36,
+          "sitting": 97,
+          "sitting_date": "1973-04-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036097.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036fih.pdf",
+          "pages": [
+            "692"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 106,
+          "sitting_date": "1973-05-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037106.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+          "pages": [
+            "202:221"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 107,
+          "sitting_date": "1973-05-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037107.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+          "pages": [
+            "252:285"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 108,
+          "sitting_date": "1973-05-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037108.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+          "pages": [
+            "294:338"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 109,
+          "sitting_date": "1973-05-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037109.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+          "pages": [
+            "361:385"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 110,
+          "sitting_date": "1973-05-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037110.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+          "pages": [
+            "389:399"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 111,
+          "sitting_date": "1973-05-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037111.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+          "pages": [
+            "403:435"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 122,
+          "sitting_date": "1973-06-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038122.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038fih.pdf",
+          "pages": [
+            "353:407"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 123,
+          "sitting_date": "1973-06-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038123.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038fih.pdf",
+          "pages": [
+            "411:471"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 124,
+          "sitting_date": "1973-06-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038124.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038fih.pdf",
+          "pages": [
+            "476:542"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 125,
+          "sitting_date": "1973-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038125.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038fih.pdf",
+          "pages": [
+            "552:698"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1001&v_kullanici_id=27483225",
+      "page_sha256": "527fe61057172c75db7e994b7bc2d86caa3d426114acd67ad09f586a4f03c72e"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 321867,
+      "title": "Toprak ve Tarım Reformu Kanunu",
+      "adopted_as_published": "25/06/1973",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601757.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 869 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037106ss0869.pdf"
+        },
+        {
+          "label": "CS 280no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c012/cs__12012076ss0280.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 12,
+          "sitting": 73,
+          "sitting_date": "1973-06-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c012/cs__12012073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c012/cs__12012fih.pdf",
+          "pages": [
+            "61",
+            "165",
+            "398",
+            "422:475",
+            "478:544",
+            "558:559",
+            "581",
+            "720:722"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1701&v_kullanici_id=27483235",
+      "page_sha256": "b72c34be4a1905335c6e8be089c858335765608ea5d4dfd7757ae144141b09fa"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "527fe61057172c75db7e994b7bc2d86caa3d426114acd67ad09f586a4f03c72e",
+  "issuer": "Millet Meclisi",
+  "in_force": "1973-06-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 25/06/1973; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
