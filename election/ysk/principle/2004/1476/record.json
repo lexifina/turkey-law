@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/1476",
+  "list_number": "1476",
+  "decision_date": "2004-04-20",
+  "title": "YSK ilke kararı 2004/1476",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3891/2004-1476-karar.htm",
+  "source_sha256": "4594b66243a7b1f11d24841f72b3df17c4a47b54197c9edcce2941c55615c459",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-04-20",
+  "law_text_complete": false
+}
