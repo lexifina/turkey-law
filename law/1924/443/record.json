@@ -1,0 +1,66 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "443",
+  "year": 1924,
+  "title": "443 sayılı Kanun",
+  "adopted": "1924-03-19",
+  "adopted_as_published": "19/03/1340",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc002/kanuntbmmc002/kanuntbmmc00200443.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 2",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 126280,
+      "title": "443 sayılı Kanun",
+      "adopted_as_published": "19/03/1340",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc002/kanuntbmmc002/kanuntbmmc00200443.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 15,
+          "sitting_date": "1924-03-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/tbmm02007015.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/ehttbmm02007015.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/tbmm02007fih.pdf",
+          "pages": [
+            "648",
+            "649:651",
+            "658",
+            "668:669",
+            "680"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 16,
+          "sitting_date": "1924-03-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/tbmm02007016.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/ehttbmm02007016.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c007/tbmm02007fih.pdf",
+          "pages": [
+            "717",
+            "729",
+            "756"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=101&v_kullanici_id=27483145",
+      "page_sha256": "3abf3faea57ac8e927f5c2030e447d95c23cac1d1a10bcdcfa1d9ab0fff779d0"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "3abf3faea57ac8e927f5c2030e447d95c23cac1d1a10bcdcfa1d9ab0fff779d0",
+  "issuer": "TBMM",
+  "in_force": "1924-03-19",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 19/03/1340 (Rumi year, +584); record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
