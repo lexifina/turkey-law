@@ -1,0 +1,13 @@
+{
+  "number": "01-56/563-134",
+  "type": "Rekabet İhlali",
+  "decision_date": "2001-11-22",
+  "publication_date": "2003-03-20",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=779fddea-d7e4-4827-a0f3-b305f81b47bb",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1009",
+  "pdf_sha256": "59f7686f1ee8be35d1075b57a3d858765cd3e2482be6b5447232ff56c00207ff",
+  "pdf_bytes": "219826",
+  "pages": "2",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official title"
+}
