@@ -1,0 +1,2 @@
+Nizamnameye aykırı malların yediemine tevdii:
+Madde 23 – Yapılan muayene ve kontrol neticesinde Nizamname hükümlerine aykırı oldukları tesbit edilen malların, salahiyetli memur tarafından alınan nümunelerinden gayrısı neden ibaretse tesbit olunarak bunlar, bulunan yerlerde Ayakkabıcı Esnafı Derneğine, bu Derneğin bulunmadığı yerlerde varsa ticaret ve sanayi odasına, bu odaların da bulunmadıkları yerlerde mahalli belediyelere yediemin sıfatiyle tevdi ve keyfiyet bir zabıt varakasiyle de tevsik edilir.

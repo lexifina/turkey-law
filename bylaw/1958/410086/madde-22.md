@@ -1,0 +1,3 @@
+Zabtın imzalanması:
+Madde 22 – Amil, satıcı veya alakalı veyahut bunların temsilcileri tanzim edilen zabıt varakasını, salahiyetli memurla beraber imza ederler. Bu ilgililer zabıt varakası münderecatına itiraz ettikleri takdirde, itirazlarının neden ibaret bulunduğunu zabıt varakasının altına derhal yazıp imza etmeğe mecburdurlar.
+İmzadan imtina halinde, bir zabıta memuru çağırılarak keyfiyet onun huzuru ile zabta yazılır ve altı imza edilir. Tanzim edilen zabıt varakasının bir nüshası salahiyetli memur tarafından mühürlenmiş nümunelerin bir takımı ile beraber amil, satıcı veya alakalı veyahut bunların temsilcilerine verilir.

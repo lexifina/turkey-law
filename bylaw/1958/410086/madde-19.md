@@ -1,0 +1,6 @@
+Muayene ve kontrol neticeleri:
+Madde 19 – Yarı mamül ve mamül ayakkabıların yukarıdaki maddeye göre yapılan muayene ve kontrolları neticesinde:
+a) Ayakkabıların bu Nizamname hükümlerine herhangi bir aykırılığı yok ise, salahiyetli memurun ayırdığı ve üzerlerinde muayene ve kontrol yaptığı yarı mamul veya mamul ayakkabılar, sahiplerine bırakılarak haklarında herhangi bir muamele yapılmaz.
+b) Salahiyetli memurun muayene ve kontrol ettiği yarı mamul veya mamul ayakkabıların bu Nizamname hükümlerine herhangi bir suretle olursa olsun aykırılıkları bulunduğu takdirde, aynı cins malların geri kalan bütün mevcudu da memur tarafından tesbit ve muayeneden geçirilerek tefrik edilir ve mütaakiben aşağıdaki maddelerde zikredildiği veçhile nümuneler, alınır. Nümunelerden gayrı aykırı vasıflardaki mallar yediemine tevdi edilerek keyfiyet salahiyetli memur tarafından zabıt varakası ile tesbit olunur.
+c) El ve göz ile yapılan kontrollarda bu Nizamname hükümlerine aykırılıkları tesbit edilemiyen fakat salahiyetli memur tarafından laboratuvar muayenesine lüzum hissedilen yarı mamül ve mamüllerden de aynı miktarlarda nümune alınarak laboratuvara gönderilir.
+Ancak bu kabil malların bu Nizamname hükümlerine aykırılıkları laboratuvar raporu ile sabit olduktan sonra bakiye mevcutları yediemine tevdi olunur.

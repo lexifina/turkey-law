@@ -1,0 +1,2 @@
+Madde 3 – Taban veya ökçeleri veya her ikisi lastik, krepsol ve sentetik deri ayakkabılarda; lastik krepsol ve sentetik kısımların dayanıklı olması şarttır.
+Vardoların, sentetik olması caiz olup bunlarda da aynı sağlamlık aranır. Lastiklerin birinci nevilerinin terkiplerinde en az yüzde 30 ve ikinci nevilerinin terkiplerinde en az yüzde 25 nispetlerinde ham kauçuk bulunması şarttır. Bu nispetlerin yüzde beşine kadar tolerans kabul edilebilir.
