@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2955",
+  "year": 1936,
+  "title": "Donanma ihtiyacı için Millî Müdafaa vekilliği tarafından Sovyet memleketlerinden getirilen 5 000 ton mazottan alınacak gümrük resmi ve istihlâk vergisi mikdarı hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-04-29",
+  "gazette_issue": "3291",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3291.pdf",
+  "source_sha256": "c7b97cd315ae1925be304e813f035b404633db55d806e7eb3331b19f26b940a9",
+  "text_sha256": "9e0f99c9ea7392266f94e56a225ca501bd9b5f91864ea1f08202707f4d5fdaf3",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      77,
+      94
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602955.pdf",
+    "source_sha256": "4b063905aba997956f2d2b7cbb00e64f4b2a311341db1e7e24d877363263f027",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.956,
+    "bag": 0.8495,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9792,
+    "rg_words": 92,
+    "kd_words": 96,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
