@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3436",
+  "year": 1938,
+  "title": "Ordu subaylar heyetine mahsus terfi Kanununun değiştirilmesi hakkındaki 2162 sayılı Kanunun birinci maddesinin tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-06-25",
+  "gazette_issue": "3943",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3943.pdf",
+  "source_sha256": "8889feb1942ea9b6eac1f9d0eac7f23fccab0ed315aca4e05a816bf533910a53",
+  "text_sha256": "5c8cb1c9ffdb5d57e793576ffbd0b602853393f96b3b6598e5bc01d240e2d361",
+  "text_status": "ocr",
+  "pages": [
+    8
+  ],
+  "line_span": [
+    [
+      2169,
+      2247
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803436.pdf",
+    "source_sha256": "077c3a0f1f93ab4d3a73aac7eea724528e70c63dbfce63fa9febb2fc1d70f083",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9764,
+    "bag": 0.9199,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9932,
+    "rg_words": 295,
+    "kd_words": 294,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
