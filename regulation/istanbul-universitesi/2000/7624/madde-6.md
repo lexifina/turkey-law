@@ -1,0 +1,2 @@
+Kayıt-Kabul
+Madde 6 – İstanbul Üniversitesi Dil Merkezinin kurs programları en az 1 yıl önceden belirlenir. Öğrenciler, mektupla veya şahsen başvurarak istedikleri tarihteki bir kursa kayıtlarını yaptırabilirler. Yurt dışından kurs ücretini yatırarak başvuranlara “Kabul Belgesi” (akseptans) yollanır. Çeşitli nedenlerle kursa gelemeyen öğrencilerin yatırdıkları kurs ücretleri geri verilmez. Ancak parasını yatıran bu öğrenciler bir sonraki kursa kayıtlarını yaptırabilirler.

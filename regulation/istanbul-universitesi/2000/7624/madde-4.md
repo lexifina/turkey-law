@@ -1,0 +1,2 @@
+Öğretim Elemanlarının Seçimi ve Staj Durumu
+Madde 4- İstanbul Üniversitesi Dil Merkezinde öğretim elemanları Türkoloji, Dilbilim, İngilizce, Almanca, Fransızca v.b. gibi dil öğretimi ile doğrudan ilgili olan bölümlerin mezunları arasından seçilir. Adaylara en az 6ay, en çok 1 yıl, tecrübeli öğretim elemanlarının yanında staj yaptırılır. Stajlar ilgili eğitim-öğretim yöneticileri tarafından değerlendirilir. İstanbul Üniversitesi Dil Merkezi yönetim Kurulu, başarılı olan öğretim elemanlarını dil öğretimi ile görevlendirir.

@@ -1,0 +1,2 @@
+Temel Dil Bursu
+Madde 12 – Temel Türkçe I-II, Orta Türkçe I-II, İleri Türkçe I kurslarının en başarılı öğrencisine bir sonraki kursa ücretsiz devam hakkı verilir. Ayrıca, Türkiye ile kendi ülkesi arasında iyi ilişkilere yardımcı olacak veya Türk kültürüne hizmet edecek kimselere dil bursu verilir. Dil bursunun şartları ve verilecek kişiler İstanbul Üniversitesi Dil Merkezi Yönetim Kurulunca belirlenir.

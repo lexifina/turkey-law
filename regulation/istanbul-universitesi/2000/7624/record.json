@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 21- Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme Madde 22- Bu Yönetmelik hükümlerini İstanbul Üniversitesi Rektörü yürütür."
+  ],
+  "date_evidence": [
+    [
+      "2000-06-08",
+      "08.06.2000",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 21- Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme Madde 22- Bu Yönetmelik hükümlerini İstanbul Üniversitesi Rektörü yürütür.",
+  "first_law": null,
+  "gazette": "24073",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2000-06-08",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Üniversitesi",
+  "issuer_slug": "istanbul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-universitesi/2000/7624",
+  "published": "2000-06-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7624&MevzuatTertip=5",
+  "source_bytes": 26201,
+  "source_id": "8.5.7624",
+  "source_sha256": "1ade4a7966fb1449e5e5df9d5be525eb18c8f08fa82fa5a2a18b58c3fc6fde90",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL ÜNİVERSİTESİ DİL MERKEZİ EĞİTİM\r\nÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 202,
+  "word_count": 853
+}
