@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2968-298-107/25340",
+  "source_id": 26923,
+  "date": "2000-05-26",
+  "title": "Şirketin sermaye artırımı yapması halinde, değer artışlarını sermayeye ilave edip etmeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26923",
+  "source_sha256": "e30764679d2ece30d56433b3a5fc4a12e6169aeb44f7915d80c9042f6f01a8cf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
