@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1834",
+  "year": 1931,
+  "title": "Maarif Eminliklerinin ilgası hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-07-02",
+  "gazette_issue": "1838",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1838.pdf",
+  "source_sha256": "450d608102b06e9b231d707ab5668450933260f6e12cae00dd77cc2460f5862d",
+  "text_sha256": "28df5210e9e98b1fc52d43de9ce60654a3bd8928aced7235362f8525f7bd80a0",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      69
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001834.pdf",
+    "source_sha256": "d413a8c4353904ec21d479a787704173ec7f4be0bb762c42ce7d4f27249bb4ce",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9528,
+    "bag": 0.9116,
+    "kd_coverage": 0.9554,
+    "kd_body_compared": 0.9231,
+    "rg_words": 107,
+    "kd_words": 117,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
