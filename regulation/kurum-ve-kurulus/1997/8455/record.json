@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.8455",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "REKABET KURUMU ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "8455",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1997/8455",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8455&MevzuatTertip=5",
+  "source_sha256": "fee8673f28870f548e27f64cc7e3a27310d029f5cfb522f2adf2f4919c3080a7",
+  "source_bytes": 143879,
+  "published": "1997-06-21",
+  "gazette": "23026",
+  "in_force": "1997-06-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.06.1997); own commencement article: \"Bu Yönetmelik Resmi Gazetede yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazetede yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7937,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

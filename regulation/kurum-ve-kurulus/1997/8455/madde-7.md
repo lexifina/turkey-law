@@ -1,0 +1,2 @@
+Kurul Üyelerinin Seçimi
+Madde 7- Bakanlar Kurulu, dört üyeyi Rekabet Kurulu’nun, iki üyeyi Sanayi ve Ticaret Bakanlığı’nın, bir üyeyi Devlet Planlama Teşkilatı Müsteşarlığı’nın bağlı olduğu Devlet Bakanlığı’nın, birer üyeyi ise Yargıtay, Danıştay, Üniversitelerarası Kurul ile Türkiye Odalar ve Borsalar Birliği’nin her boş üyelik için kendi Kurumları içinden veya dışarıdan göstereceği ikişer aday arasından seçer ve atar.

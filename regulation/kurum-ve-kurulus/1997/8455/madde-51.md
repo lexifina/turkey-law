@@ -1,0 +1,3 @@
+İstanbul Bölge Temsilciliği
+Madde 51- İstanbul Bölge Temsilciliği, Kurum’un ilgili birimleri ile koordineli bir biçimde İstanbul ili ve çevresinde faaliyet gösteren ilgili Kurum ve Kuruluşlar ile ilişki kurmak, bilgilendirmek ve koordinasyon sağlamak; İstanbul ili ve çevresindeki mal ve hizmet piyasalarında faaliyet gösteren teşebbüslerin Kanun’un men ettiği rekabeti sınırlayıcı faaliyetlerini izlemek, değerlendirmek ve sonucunu Kurum’un ilgili birimlerine aktarmak; İstanbul Bölgesinde görevlendirilen meslek personeline destek görevi vermek, Başkanın vereceği görevleri yapmak, Başkanlığı, bulunduğu bölgede temsil etmek ile görevlidir.
+İstanbul Bölge Temsilciliği, Daire Başkanı seviyesinde Bölge Temsilcisine bağlı yeteri kadar personelden oluşur.

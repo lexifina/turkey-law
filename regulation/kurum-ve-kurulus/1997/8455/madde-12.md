@@ -1,0 +1,5 @@
+Yasaklar
+Madde 12- Kurul Başkan ve üyeleri, özel bir kanuna dayanmadıkça resmi veya özel hiçbir görev alamaz, ticaretle uğraşamaz, ortaklıklarda pay sahibi olamazlar.
+Kurul Başkan ve üyeleri, göreve başlamadan önce maliki oldukları Hazine tarafından çıkarılan borçlanmaya ilişkin menkul kıymetlerin dışındaki her türlü sermaye piyasası mevzuatı anlamındaki menkul kıymetlerini üçüncü dereceye kadar kan ve ikinci dereceye kadar sıhri hısımları dışındakilere satmak veya devretmek suretiyle elden çıkarmak zorundadır. 30 gün içinde bu hükme uygun hareket etmeyen üyeler üyelikten çekilmiş sayılır.
+Amacı sosyal yardım ve eğitim işlerine yönelmiş derneklerle vakıflardaki görevler ve kar amacı gütmeyen kooperatif ortaklığı bu hükmün dışındadır.
+Kurul üyeleri ve personeli Kurumla ilgili gizlilik taşıyan bilgileri ve Kanun’un uygulanması sırasında öğrendikleri teşebbüs ve teşebbüs birliklerinin ticari sırlarını görevlerinden ayrılmış olsalar bile ifşa edemezler, kendilerinin veya başkalarının menfaatine kullanamazlar.

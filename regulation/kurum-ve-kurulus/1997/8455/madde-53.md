@@ -1,0 +1,2 @@
+Daire Başkanlıkları, Grup Başkanlıkları ve Müdürlüklerin Kuruluşu
+Madde 53- Teşkilat şemasındaki Daire Başkanlıkları, Grup Başkanlıkları ve Müdürlüklerden birkaçı kuruluş aşamasında bir Daire Başkanı, bir Grup Başkanı veya bir Müdüre bağlanabileceği gibi; hizmetlerin gerektirmesi halinde Kurul Kararı ile mevcut birimler birleştirilebileceği gibi, iki veya daha fazla birime dönüştürülebilecek veya yeni Daire Başkanlıkları, Grup Başkanlıkları ve Müdürlükler kurulabilir.

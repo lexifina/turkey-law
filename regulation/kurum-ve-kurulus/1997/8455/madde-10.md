@@ -1,0 +1,3 @@
+Atanma Şartları
+Madde 10- Kurul Başkanı ve üyeleri hukuk, iktisat, mühendislik, işletme veya maliye dallarında yurt içi ya da yurt dışında en az dört yıllık yüksek öğrenim görmüş, mesleki açıdan yeterli bilgi ve deneyime sahip bulunan ve meslekleri ile ilgili olarak kamu veya özel sektörde en az on yıl çalışmış olanlar arasından atanır. Başkan ve Üyelerin ayrıca, 657 sayılı Devlet Memurları Kanunu’nun 48 inci Maddesinin (A) fıkrasının 1, 4, 5, 6 ve 7 nci bentlerinde belirtilen şartları taşımaları zorunludur.
+Kurulca gösterilecek adayların en az yarısının Kurumun uzmanlık sıfatını kazanmış meslek personeli arasından belirlenmesi zorunludur.
