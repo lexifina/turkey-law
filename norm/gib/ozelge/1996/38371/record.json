@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.O.64/6421-63/60231",
+  "source_id": 38371,
+  "date": "1996-12-17",
+  "title": "İşlemin yapılması sırasında 2982 sayılı Kanun hükümlerinden yararlanması talebinde bulunmayan mükelleflere şartların varolması halinde tahsil olunan harcın red ve iade edilip edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/469/ozelge/38371",
+  "source_sha256": "14dc9f039129049e5d3000296d203ac3d3a921a481c0cfa7de29cc73d5d4ca3f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
