@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.40/4042-88/45080",
+  "source_id": 37854,
+  "date": "2004-09-23",
+  "title": "Mükelleflerin çeşitli nedenlerle hurda belgesi alamamaları halinde yapılacak işlemler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37854",
+  "source_sha256": "a2456163710eaf1ebb2e4a6f05ef32b367de2ec70b385bb779cd837811348f9f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
