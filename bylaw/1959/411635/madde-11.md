@@ -1,0 +1,5 @@
+Madde 11 – Ziraat Vekaleti;
+a) Fevkalade halin devamı müddetince istihsalin sekteye uğramaması için; tohumluk, damızlık ve kereste depoları tesisini memlekette mevcut ziraat alet ve makinelerinin işler halde bulunmasını temine, lüzumlu madde, malzeme ve yedek parça stokları vucüde getirmeğe, teknik personel yetiştirmeğe tamir atelyeleri ve ikmal merkezleri açmağa mütaallik planları Dahiliye Vekaletinin mütalaası alınmak suretiyle hazırlar ve tatbik eder.
+b) Yurda şamil umumi ve hassas bölgelere ait hususi sivil müdafaa planlarında sivil müdafaa kuvvetleriyle halk ihtiyacı olarak tesbit edilen ziraat maddeleri istihsalini teşvik ve takip eder ve mümkün olanları kendi çiftliklerinde yetiştirir.
+c) İstihsalin azalmaması için fevkalade hallerde yapılacak ziraat usul ve şekilleri hakkında yetiştirici neşriyat ve propaganda yapar ve kendi vasıtalariyle muhitindeki ziraat işlerine yardım eder.
+d) Kendi vekaletine bağlı tesislerde; yangından, tabiat afetlerinden ve harbin muhtemel tesirlerinden mütevellit zirai hasar ve kayıpların önlenmesi için gerekli sivil müdafaa tedbirlerini alır ve aldırır.

@@ -1,0 +1,1 @@
+Madde 1 – 7126 sayılı Sivil Müdafaa Kanununun şümulüne giren bütün hizmet ve faaliyetlerin Dahiliye Vekaletince planlanması ve icrası sırasında alınacak karar ve tedbirlere mütaallik Vekaletlerarası işbirliği ve Karşılıklı Yardım hususlarında bu nizamname hükümleri tatbik olunur.

@@ -1,0 +1,1 @@
+Madde 17 – 7126 sayılı Sivil Müdafaa Kanununun 4 üncu maddesine istinaden hazırlanmış ve Devlet Şürasınca tetkik edilmiş olan bu nizamname hükümleri, Resmi Gazete ile neşri tarihinden itibaren yürürlüğe girer.
