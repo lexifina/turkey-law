@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-01-03",
+  "issue": "24982",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Türkiye Cumhuriyet Merkez Bankası İdare Merkezinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030103-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (3 = 3)",
+  "ilan_codes": [
+    "37857/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030103-4.htm",
+  "category_page_sha256": "9b2056fd25052f2758ca7c5e78975b31815241866c7df79c157741b8296670a4",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/01/20030103.htm",
+  "index_sha256": "f79a87f6c90dc9cb71094ebf4ce9a97b889b050c7a46e9f0e332505f92f73dca",
+  "index_header": "3 Ocak 2003 ... Sayı : 24982",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
