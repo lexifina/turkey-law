@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4892",
+  "year": 2003,
+  "title": "Uzman Jandarma Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-06-18",
+  "gazette_issue": "25142",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030618.htm",
+  "source_sha256": "84ec48157ac8ad8511e4fe9844b50ebbb22cc19944eb55898cada4a3b89f9f50",
+  "text_sha256": "85d2223008e621398fd503b457af9bd9eebd7db33f534c607ae3e0f455d94ade",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/06/18/25142-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030618.htm#5",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
