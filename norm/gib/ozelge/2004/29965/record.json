@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5429-704-26346",
+  "source_id": 29965,
+  "date": "2004-06-22",
+  "title": "İcra yoluyla yapılan satışlarda, verginin mükellefinin satışı gerçekleştiren icra dairesinin olması nedeniyle bu satış, sonucu hesaplanan ve icra dairesince tahsil edilerek vergi dairesine ödenen katma değer vergisinin adi gecen mükellefin katma değer ver",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29965",
+  "source_sha256": "d73c1c0d642fd56538b7760a6f6156259fe4d4ddb806d431584a27f7bcaf315a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
