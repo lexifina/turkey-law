@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4923",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile İran İslam Cumhuriyeti Hükümeti Arasında Gelir ve Servet Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-07-12",
+  "gazette_issue": "25166",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030712.htm",
+  "source_sha256": "521783afc877916caebc5e11399169462d42b0d631cb83cdfe1563509cb6ddd4",
+  "text_sha256": "5e927a5ff594e69b21effd1eea489a5bdde38d37bc4dd55719e6b476990f05cc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/07/12/25166-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/07/20030712.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
