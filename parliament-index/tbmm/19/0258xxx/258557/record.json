@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 258557,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Anadolu Üniversitesi 1992 Malî Yılı Bütçesi",
+  "title": "Anadolu Üniversitesi 1992 Malî Yılı Bütçesi",
+  "first_sitting_date": "1992-03-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 51,
+      "sitting_date": "1992-03-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c006/tbmm19006051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c006/tbmm19006fih.pdf",
+      "pages": [
+        "431:532",
+        "541:575",
+        "579:586"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "035f5fdac450fc18e4cd10074ff490af52cdf9c4a063cf558d8bf334b48c911e",
+  "in_force": "1992-03-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
