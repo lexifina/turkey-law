@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1318/25590",
+  "source_id": 23038,
+  "date": "2003-06-16",
+  "title": "Basit Usule Tabi Olmanın Özel Şartlarında Yıllık tutarlar, faaliyette bulunulan yılın hangi ayında faaliyete başlanmış olursa olsun elde edilen hasılatla karşılaştırılırken, faaliyette bulunulan döneme isabet eden kısım  değil, yıllık  tutarların tam olar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23038",
+  "source_sha256": "466f0db505a0f5cc276c4f4387511470d1b96acb11e3d257390e470e06bdcfb7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
