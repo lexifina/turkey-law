@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6601-415/33986",
+  "source_id": 37307,
+  "date": "1997-08-13",
+  "title": "S.S.K.'ya ait binalardan çevre temizlik vergisi alınmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37307",
+  "source_sha256": "884d3f7533036d5218f5fa3b0121a67c9dbfdcf09ef15b2143749b7a543833e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
