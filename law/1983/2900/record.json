@@ -1,0 +1,150 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2900",
+  "year": 1983,
+  "title": "Karayolları Genel Müdürlüğünün 1968, 1969, 1970, 1971, 1972, 1973 ve 1974 Bütçe Yılları Kesinhesap Kanunu",
+  "adopted": "1983-09-27",
+  "adopted_as_published": "27/09/1983",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.9.1983 No: 18176",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602900.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 66",
+  "committee_reports": [
+    {
+      "label": "MGK 628 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c010/mgk_01010166ss0628.pdf"
+    },
+    {
+      "label": "DM 410no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0410.pdf"
+    },
+    {
+      "label": "DM 404no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0404.pdf"
+    },
+    {
+      "label": "DM 405no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0405.pdf"
+    },
+    {
+      "label": "DM 406no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0406.pdf"
+    },
+    {
+      "label": "DM 407no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0407.pdf"
+    },
+    {
+      "label": "DM 408no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0408.pdf"
+    },
+    {
+      "label": "DM 409no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0409.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 151512,
+      "title": "Karayolları Genel Müdürlüğünün 1968, 1969, 1970, 1971, 1972, 1973 ve 1974 Bütçe Yılları Kesinhesap Kanunu",
+      "adopted_as_published": "27/09/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602900.pdf",
+      "committee_reports": [
+        {
+          "label": "MGK 628 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c010/mgk_01010166ss0628.pdf"
+        },
+        {
+          "label": "DM 410no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0410.pdf"
+        },
+        {
+          "label": "DM 404no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0404.pdf"
+        },
+        {
+          "label": "DM 405no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0405.pdf"
+        },
+        {
+          "label": "DM 406no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0406.pdf"
+        },
+        {
+          "label": "DM 407no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0407.pdf"
+        },
+        {
+          "label": "DM 408no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0408.pdf"
+        },
+        {
+          "label": "DM 409no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0409.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=601&v_kullanici_id=27483250",
+      "page_sha256": "cc012970ee5fa3446478febbceefc937daa16d2b31b4a127abb4d7268fe66fb0"
+    },
+    {
+      "assembly": "Danışma Meclisi",
+      "term": null,
+      "kayit_no": 143962,
+      "title": "Karayolları Genel Müdürlüğünün 1968, 1969, 1970, 1971, 1972, 1973 ve 1974 Bütçe Yılları Kesinhesap Kanunu",
+      "adopted_as_published": "27/09/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanundmc066/kanundmc06602900.pdf",
+      "committee_reports": [
+        {
+          "label": "DM 404 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0404.pdf"
+        },
+        {
+          "label": "DM 405no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0405.pdf"
+        },
+        {
+          "label": "DM 406no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0406.pdf"
+        },
+        {
+          "label": "DM 407no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0407.pdf"
+        },
+        {
+          "label": "DM 408no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0408.pdf"
+        },
+        {
+          "label": "DM 409no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0409.pdf"
+        },
+        {
+          "label": "DM 410no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c019/dm__02019126ss0410.pdf"
+        },
+        {
+          "label": "MGK 628no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c010/mgk_01010166ss0628.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=322&v_gelecek_sayfa=201&v_kullanici_id=27483253",
+      "page_sha256": "88254d78e22386c14d31d7173994eb5a26da0c8537b65ba95156e0b86646915a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cc012970ee5fa3446478febbceefc937daa16d2b31b4a127abb4d7268fe66fb0",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1983-09-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 27/09/1983; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
