@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7090",
+  "year": 1958,
+  "title": "Karayolları yapımı için girişilecek sâri taahhüt işlerinde kullanılmak üzere bono ihracına yetki verilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-02-28",
+  "gazette_issue": "9846",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9846.pdf",
+  "source_sha256": "da366329ff86921fc46c2acc3651dd997e8501cdaa38fbc8bcc6284358681b4b",
+  "text_sha256": "401d003626d1fe9ac6e60a090cc980a017bd86d5666336b9004fc117f7c5bea4",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      1923,
+      1925
+    ],
+    [
+      1957,
+      1976
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007090.pdf",
+    "source_sha256": "9780cc5f8d91b4d51a63ff29f465dfa179e1cc4968ad149a9904e55c3731053b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.977,
+    "bag": 0.9141,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9767,
+    "rg_words": 130,
+    "kd_words": 129,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
