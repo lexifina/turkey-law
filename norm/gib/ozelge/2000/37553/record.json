@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.49/4924-48/16743",
+  "source_id": 37553,
+  "date": "2000-04-12",
+  "title": "Tasfiyesiz infisah hükmi şahsiyeti sona eren A.Ş. adına 4481 Kanuna göre kurumlar vergisi beyannamesi verilip verilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37553",
+  "source_sha256": "4e540683301cff8ac41157256a2b5f2959c009d91d753f22a6f3adbda3f21e3e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
