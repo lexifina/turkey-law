@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "397",
+  "decision_date": "2004-12-14",
+  "title": "Dağıtım bölgelerindeki serbest tüketicilere doğal gaz satışı yapmakta olan tedarikçilere uygulanacak taşıma bedelinin belirlenmesinin açıklığa kavuşturulması ile ilgili",
+  "resmi_gazete_date": "2004-12-19",
+  "resmi_gazete_number": "25675",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Rztq/GA1TU8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Rztq/GA1TU8="
+  ],
+  "source_sha256": "135303df18532fd39e04a1b347a246b746b3d1b8d54e2b05e2a4e6cf4d50647a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-12-14",
+  "law_text_complete": false
+}
