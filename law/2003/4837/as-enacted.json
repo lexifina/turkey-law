@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4837",
+  "year": 2003,
+  "title": "Ekonomik İstikrarı Sağlamak İçin Ek Vergiler Alınması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-04-11",
+  "gazette_issue": "25076",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/04/20030411.htm",
+  "source_sha256": "408cdcdc67b876f98021607f26d25cdbf22e9a08dcf4d91891931f5fe3a19083",
+  "text_sha256": "8c001700a824f8da9ca077012df18ab25d67adccdf5eda746c89f1124c539bb0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/04/11/25076-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/04/20030411.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
