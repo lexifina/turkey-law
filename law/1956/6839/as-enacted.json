@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6839",
+  "year": 1956,
+  "title": "1956 malî yılı Muvazenei Umumiye Kanununa bağlı (A/2)işaretli cetvelde değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-09-10",
+  "gazette_issue": "9403",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9403.pdf",
+  "source_sha256": "b8e0c61de620d266c4170b14c0bf92fa7846ed9645a530b5683ebc46e0f7c8d3",
+  "text_sha256": "07a14fef9292b21a53e1bedb7f3a4ee0bda43336c1c85b034fd5031fe1e58f08",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      895,
+      905
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806839.pdf",
+    "source_sha256": "1d6056610861cb130ac43c7e1641ba5845e0837fd34082e118b4340b0fc9f6bb",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9449,
+    "bag": 0.8552,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.973,
+    "rg_words": 73,
+    "kd_words": 74,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
