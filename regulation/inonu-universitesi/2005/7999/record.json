@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 12 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2005-03-12",
+      "12.03.2005",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 12 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "25753",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2005-03-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İnönü Üniversitesi",
+  "issuer_slug": "inonu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/inonu-universitesi/2005/7999",
+  "published": "2005-03-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7999&MevzuatTertip=5",
+  "source_bytes": 34852,
+  "source_id": "8.5.7999",
+  "source_sha256": "6434d1ab7378a4ff0ec6bc0aab70545d146a7e741f67c3e5c6825c0aabfafd85",
+  "text_status": "as-enacted",
+  "title": "İNÖNÜ ÜNİVERSİTESİ BİLİMSEL VE TEKNOLOJİK ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 201,
+  "word_count": 830
+}
