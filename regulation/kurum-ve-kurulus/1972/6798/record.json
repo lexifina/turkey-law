@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.6798",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK UYRUKLU DIŞ KURULUŞ HİZMETLİLERİ ATANMA YÖNETMELİĞİ",
+  "number": "6798",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1972/6798",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6798&MevzuatTertip=5",
+  "source_sha256": "693d376e956543845ac5eca2cc8029f3afee8feb82ffdea0b308fec68d991cb8",
+  "source_bytes": 16422,
+  "published": "1972-10-03",
+  "gazette": "14325",
+  "in_force": "1972-10-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.10.1972); own commencement article: \"Bu Yönetmelik yayımlandığı tarihten itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihten itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 369,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
