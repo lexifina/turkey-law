@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Belediye Meclisi",
+  "number": "409",
+  "decision_date": "1954-02-26",
+  "title": "İMAR PLANLARININ TASDİKİ",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1954-409.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1954",
+  "listing_sha256": "d9014417b754b1837ca6f88fb02de16c9983e76b55638f39f6e1ee9010e2adef",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
