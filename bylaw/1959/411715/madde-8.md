@@ -1,0 +1,1 @@
+Madde 8 – Yeni inşa edilecek hastahane, okul, üniversite, öğrenci siteleri ve resmi daire gibi binaların hepsinin bir arada bulunmamaları ve bombardmanlara maruz kalabilecek büyük hedeflerden yeter derecede uzak yerlerde tesis edilmeleri, imkan nisbetinde temin edilir.

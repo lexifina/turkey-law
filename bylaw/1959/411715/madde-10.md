@@ -1,0 +1,3 @@
+Madde 10 – Muhabere, elektrik, havagazı, su gibi amme tesislerinin hayati ehemmiyeti haiz kısımları, iskan bölgesi dışında, tercihan yer altında ve mümkün mertebe mütenazır ve mütaaddit tesisler halinde inşa olunurlar. Havagazı, elektrik, su ve kanalizasyon borularının yer altı tesislerinden yeter mesafede bulunmalarına dikkat edilir.
+Şehirler arası elektrik cereyanını nakleden hatlar da iskan bölgeleri dışından geçirilir.
+Bu Nizamnamenin yürürlüğe girdiği tarihte iskan bölgeleri içinde bulunan bu gibi tesislerin yerleri değiştirilirse, bunlar hakkında da, imkan görüldüğü takdirde birinci fıkra hükümleri tatbik olunur.

@@ -1,0 +1,1 @@
+Madde 4 – İmar planları mevcut olan şehir ve kasabalarda, iskan bölgelerinin ihtiyacı karşılayamaması dolayısiyle tevsii halinde yeni iskan bölgelerinin ihdasında ikinci madde hükümleri tatbik olunur.

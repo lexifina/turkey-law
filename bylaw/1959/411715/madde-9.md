@@ -1,0 +1,2 @@
+Madde 9 – Silah ve mühimmat fabrikaları gibi, harb gücünüdoğrudan doğruya destekliyen sanayi müesseseleri ve büyük stok tesisleri, iskan bölgeleri dışında kurulur. Bu müessese ve tesisler yer altında yapılmadıkları takdirde iskan bölgeleri hudutlarının en az on beş kilometre ötesinde yer alırlar. Topoğrafik vaziyet veya mücbir sebepler dolayısiyle bu mesafe kısaltılabilir.
+Yer bakımından yukarıki şartlara uymıyan mevcut müessese ve tesisler, kapasiteleri artacak şekilde tevsi olunamazlar.
