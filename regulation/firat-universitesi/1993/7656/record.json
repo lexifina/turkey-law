@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1993-04-04",
+      "04.04.1993",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21542",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1993-04-04",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Fırat Üniversitesi",
+  "issuer_slug": "firat-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/firat-universitesi/1993/7656",
+  "published": "1993-04-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7656&MevzuatTertip=5",
+  "source_bytes": 24948,
+  "source_id": "8.5.7656",
+  "source_sha256": "904d0aeb97fe455ba1aada552f0b4c2b37f28ba8c246f164ae2d37c2d731a94b",
+  "text_status": "as-enacted",
+  "title": "FIRAT ÜNİVERSİTESİ\r\nBİLGİSAYAR BİLİMLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ \r\nYÖNETMELİĞİ",
+  "university_id": 193,
+  "word_count": 500
+}
