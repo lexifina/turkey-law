@@ -1,0 +1,1 @@
+Madde 12- Memurlara yapılacak giyecek Yardımı Yönetmeliğinin 1 ve 2 sayılı cetvel kapsamı dışında, V.I.P. uçuşları ve büro hizmetleri ite eğitim uçuşları ve diğer uçuş görevlerinde kullanılan uçuş teçhizatlarının cinsleri, miktarları, miatları ve bunlardan yararlanacaklar EK-1 çizelgede belirlenmiştir

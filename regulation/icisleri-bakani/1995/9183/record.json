@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.9183",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EMNİYET GENEL MÜDÜRLÜĞÜ HAVACILIK DAİRESİ BAŞKANLIĞI UÇUCU PERSONELİ KIYAFET VE TEÇHİZAT YÖNETMELİĞİ",
+  "number": "9183",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/1995/9183",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9183&MevzuatTertip=5",
+  "source_sha256": "d05610658493c2dfba8a41b8406164ccf6cb959fb3d5890c354aaafdfa1a6052",
+  "source_bytes": 41548,
+  "published": "1995-06-25",
+  "gazette": "22324",
+  "in_force": "1995-06-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.06.1995); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1610,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

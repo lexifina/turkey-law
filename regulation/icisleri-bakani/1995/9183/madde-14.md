@@ -1,0 +1,1 @@
+Madde 14- Bu Yönetmelikte konu edilen V.I.P., eğitim uçuş ve bakım görevlerinde kullanılacak giyecek teçhizatı ve uçuş melbusatı dikilmiş, bröve amblemleri, birim amblemleri, polis göğüs armaları, rütbe işaretleri, uçuş kıdemi ile ilgili işaretleri yaptırılmış olarak istihkak sahiplerine verilir.

@@ -1,0 +1,1 @@
+Madde 10- Emniyet Hizmetli Uçucuların tören üniformaları ile diğer üniforma ve V.I.P. uçuşlarında uçuş montu ile gömlek üzerine takacakları Bröve Amblemi (Şekil-14)’te, Uçuş ceket ve uçuş tulumlarının üzerine takılacak olan “İsimlik Amblemi” (Şekil-15)’de gösterilmiştir.
