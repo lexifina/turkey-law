@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-1288-3539",
+  "source_id": 23445,
+  "date": "2001-01-18",
+  "title": "Şahsın oğluna ücret ödediğini belirterek SSK'ya kaydettirmesi ve ödediği ücretlerden kestiği sigorta primlerini söz konusu kuruma yatırması halinde, vergileme yönünden de ücretin ödenmiş olduğunun kabul edilerek gelir vergisine tabi tutulması ve tevkif ed",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23445",
+  "source_sha256": "17167e8d6508941a480d79cafbf5180d6ff452312b40d47f9f8608550fe7bd5d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
