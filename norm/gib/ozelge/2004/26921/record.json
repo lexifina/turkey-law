@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2968-298-283",
+  "source_id": 26921,
+  "date": "2004-12-02",
+  "title": "Özel hesap döneminde enflasyon düzeltmesi için süre uzatımı talebi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26921",
+  "source_sha256": "da9e55cd9bedd0a6f855ce70849849dcaf5204b0ca220dbb16d7f41a956ebdb6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
