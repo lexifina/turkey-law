@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2582/17585",
+  "source_id": 38298,
+  "date": "2002-04-19",
+  "title": "2001 yılına ilişkin, yatırım teşvik belgesine bağlı ve proje tutarları toplamı 100 milyarı geçen yatırım harcamaları nedeniyle yıllık beyannamelerde yatırım indirimi istisnasından yararlanılması için YMM raporu ibraz edilmesi zorunluluğu bulunmaktadır",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38298",
+  "source_sha256": "e2b96faf73da6ca7470cf4e8c54e1dfb2d9b65828dcc3fc3229502d68925540a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
