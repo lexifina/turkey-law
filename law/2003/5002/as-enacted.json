@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5002",
+  "year": 2003,
+  "title": "İlköğretim ve Eğitim Kanunu ile Özel Öğretim Kurumlan Kanununda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-11-21",
+  "gazette_issue": "25296",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/11/20031121.htm",
+  "source_sha256": "57c0b9aced3ef9438b9999bb54bab345d2912fd915f13e791910c772725a57cd",
+  "text_sha256": "a6962ae5d7684f23ee358329a7f0dea7fec13e1ea2d5e929818db6d1f69d1367",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/11/21/25296-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/11/20031121.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
