@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2908-183-3441/31229",
+  "source_id": 25410,
+  "date": "2000-06-28",
+  "title": "Kanuni defterlerin belli bir vergilendirilme döneminde kullanılması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25410",
+  "source_sha256": "dc74a72d3faa059bb7cecc20a663c45a67ddd41c3d4ff503d8a5718fc98f5adb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
