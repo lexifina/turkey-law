@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-12-04",
+  "issue": "25306",
+  "edition": "regular",
+  "item": 30,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-2",
+  "title": "Afyon Valiliği Dinar Devlet Hastanesi Baştabipliğinden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031204-3-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (33 = 33)",
+  "ilan_codes": [
+    "48018/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031204-3-2.htm",
+  "category_page_sha256": "daa61812595400b49efb1ac3331b932b03f6bdba7a87d507609d8a7be23bff66",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031204.htm",
+  "index_sha256": "accb9fc686e34949a7c770bf6f16a8ab582a3a580e4aed76e5d4199603705950",
+  "index_header": "4 Aralık 2003 ... Sayı : 25306",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
