@@ -1,0 +1,2 @@
+Madde 60 – Alet yapan fabrika ve imalathaneler, örneği Ziraat Vekaletince tesbit edilecek ve sahifeleri Ziraat Vekaletince vazifelendirilecek merci tarafından numaralanıp mühürlenecek bir imalat kontrol defteri tutmağa mecburdurlar.
+İmal edilen her alete fabrika veya imalathanece kontrolünün yapıldığını bildiren müteselsil bir numara verilir. Bu numara kontrol defterine kayıt edilmekle beraber aletin münasip bir yerine de bozulmayacak şekilde konur.

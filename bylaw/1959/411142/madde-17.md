@@ -1,0 +1,1 @@
+Madde 17 – İlaç fabrika ve imalathanelerinin kapasiteleriyle mütenasip olmak üzere, idare, imalat daireleri, ham ve mamül madde depoları, kontrol laboratuvarı, ambalaj ve etiket yerlerini ihtiva etmesi şarttır.

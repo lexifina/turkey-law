@@ -1,0 +1,3 @@
+Madde 62 – Fabrika ve imalathaneler, ruhsatnameye esas teşkil eden vasıf ve şartlara uygun şekilde alet imal etmeye mecburdurlar.
+Fabrika veya imalathaneler, imal ettikleri her aletin aksamadan ve bozulmadan muayyen bir müddet çalışmasını garanti etmeğe mecburdurlar. Bu müddetin Ziraat Vekaletince tasvip edilmiş olması şarttır.
+Usulüne göre kullanılmasına rağmen, alet garanti müddeti içinde aksama yapar veya bozulursa imalathane veya fabrika o aleti bedelsiz olarak tamir etmeğe veya alakalısı muvafakat ettiği takdirde icabeden yedek parçayı bedelsiz olarak vermeye ve alet tamir kabul etmediği takdirde bedelsiz olarak yenisi ile değiştirmeğe mecburdur.

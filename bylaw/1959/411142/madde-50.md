@@ -1,0 +1,1 @@
+Madde 50 – Denemeler müsbet netice verdiği takdirde, o alet için Ziraat Vekaletince Türkiye'de kullanma ruhsatnamesi verilir. Bu ruhsatname, Ziraat Vekaletine o aletin ithaline behemehal müsaade verilmesi mecburiyetini tahmil etmez.

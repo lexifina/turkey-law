@@ -1,0 +1,1 @@
+Madde 6 – Ziraat Vekaleti Zirai Mücadele ve Zirai Karantina Umum Müdürlüğüne bağlı müesseselerin veya bu müesseselere ait arazinin dışında yapılacak tahlil ve denemelerin bütün masrafları doğrudan doğruya ilgililer tarafından hak sahiplerine ödenir.

@@ -1,0 +1,2 @@
+Madde 31 – Fabrika ve imalathaneler, ilaçları Ziraat Vekaletince ilan edilmiş normlarına ve normları ilan edilmemiş ise ruhsatnameye esas teşkil eden spesifikasyonlara uggun şekilde imal veya ihzar etmeğe mecburdurlar.
+İmal iznine müsteniden ilk defa imal veya ihzar edilen bir ilaç Ziraat Vekaleti salahiyetli teşkilatınca muayene ve tahlili yapılarak ruhsatnameye esas olan nümuneye uygunluğu tesbit edilmedikçe fabrika veya imalathane dışına çıkarılamaz ve satılamaz.

@@ -1,0 +1,1 @@
+Madde 43 – Yukarıki maddenin (k) bendi şümulüne giren ilaçlardan Ziraat Vekaletince lüzum görüleceklerin muhafaza, satış ve kullanma şekil ve şartları ve bu gibi ilaçların etiket ve tarifnamelerine yapılacak ilaveler ve bu ilaçlara mütaallik diğer yasak ve mecburiyetler Ziraat Vekaletince ayrıca tesbit ve Resmi Gazete ile ilan olunur.

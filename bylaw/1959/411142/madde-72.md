@@ -1,0 +1,1 @@
+Madde 72 – 6968 sayılı Zirai Mücadele ve Zirai Karantina Kanununun 40 ncı ve 64 ncü maddelerine göre tanzim ve Şürayı Devletçe tetkik edilmiş bulunan bu Nizamname hükümleri, Resmi Gazete ile neşri tarihinden itibaren mer'iyete girer.

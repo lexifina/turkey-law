@@ -1,0 +1,2 @@
+Madde 20 – Kurma izni verildikten sonra 16 ncı maddeye göre bildirilmiş hususlardan herhangi birinde değişiklik yapılması zarureti hasıl olduğu takdirde, alakalısının değişikliği zaruri kılan sebeplerle birlikte derhal Ziraat Vekaletine bildirerek tadilat için muvafakat alması icabeder.
+Vekalet, yukarıki madde esasları dahilinde yapacağı tetkikat neticesinde tadilatı uygun görmediği ve alakalı tadilatta israr ettiği takdirde kurma izni iptal edilir.

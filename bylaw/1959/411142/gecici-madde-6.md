@@ -1,0 +1,1 @@
+Muvakkat Madde 6 – Bu Nizamnamenin mer'iyete girdiği tarihte kurulmakta olan fabrika ve imalathanelerin alakalıları mer'iyet tarihinden itibaren bir ay zarfında Ziraat Vekaletine bu Nizamnamenin 16 ve 56 ncı maddeleri dairesinde müracaatta bulunmağa ve kurma izni almağa mecburdurlar.
