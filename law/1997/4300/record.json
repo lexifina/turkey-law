@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4300",
+  "year": 1997,
+  "title": "Genel Nüfus Tespiti Yapılması ve Seçmen Kütüklerinin Güncelleştirilmesi Hakkında Kanun",
+  "adopted": "1997-07-30",
+  "adopted_as_published": "30/07/1997",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.08.1997 No: 23067 2.Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc080/kanuntbmmc080/kanuntbmmc08004300.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 80",
+  "committee_reports": [
+    {
+      "label": "TBMM 40 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c032/tbmm20032128ss0040.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 20,
+      "kayit_no": 401122,
+      "title": "Genel Nüfus Tespiti Yapılması ve Seçmen Kütüklerinin Güncelleştirilmesi Hakkında Kanun",
+      "adopted_as_published": "30/07/1997",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc080/kanuntbmmc080/kanuntbmmc08004300.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 40 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c032/tbmm20032128ss0040.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 37,
+          "sitting_date": "1996-04-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c003/tbmm20003fih.pdf",
+          "pages": [
+            "226"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 73,
+          "sitting_date": "1996-07-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c008/tbmm20008073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c008/tbmm20008fih.pdf",
+          "pages": [
+            "118"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 128,
+          "sitting_date": "1997-07-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c032/tbmm20032128.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c032/tbmm20032fih.pdf",
+          "pages": [
+            "162:210",
+            "212:221",
+            "230:235"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=249&v_gelecek_sayfa=101&v_kullanici_id=27483195",
+      "page_sha256": "9d74b1e01dafe64c639249129b3e42d8f300df5d46255b494150186d22c7a61a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9d74b1e01dafe64c639249129b3e42d8f300df5d46255b494150186d22c7a61a",
+  "issuer": "TBMM",
+  "in_force": "1997-07-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 30/07/1997; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
