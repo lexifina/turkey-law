@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2307",
+  "year": 1933,
+  "title": "Gazi Mustafa Kemal Hazretlerinin Kanunu medeninin 452. maddesine göre olan tasarruflarının mahfuz hisseler hakkındaki hükümden müstesna olduğuna dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-06-19",
+  "gazette_issue": "2431",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2431.pdf",
+  "source_sha256": "4bb480dd98cbbc048432a6b87d4238fc171dade06b7d3a226e6dd39caf151201",
+  "text_sha256": "a57b05ad30e4d3712ebdc95310967f09006a990c80f639f06ea946650e1a1aed",
+  "text_status": "ocr",
+  "pages": [
+    21,
+    22
+  ],
+  "line_span": [
+    [
+      6854,
+      6873
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202307.pdf",
+    "source_sha256": "92ee64d172329a7f3dd753688d9c9864bfe5633102ef360ddcc566d77e766142",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9361,
+    "bag": 0.8906,
+    "kd_coverage": 0.9667,
+    "kd_body_compared": 0.9365,
+    "rg_words": 69,
+    "kd_words": 63,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
