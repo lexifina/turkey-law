@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 115513,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Anadolu ajansı ile on seneye kadar taahhüd icrası için Hariciye Vekâletine salâhiyet verilmesi hakkında kanun lâyihasına dair",
+  "title": "Anadolu ajansı ile on seneye kadar taahhüd icrası için Hariciye Vekâletine salâhiyet verilmesi hakkında kanun lâyihasına dair",
+  "first_sitting_date": "1934-11-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 25,
+      "sitting": 6,
+      "sitting_date": "1934-11-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025006.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025fih.pdf",
+      "pages": [
+        "28",
+        "33",
+        "63:64",
+        "67:70"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=1601&v_kullanici_id=27483870",
+  "source_sha256": "c94409056ffd8fb2000fb1daa9bd90c9659ac2aaf91f8c3a49bf60bac5a397bc",
+  "in_force": "1934-11-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
