@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4205-156/4367",
+  "source_id": 21545,
+  "date": "2004-01-29",
+  "title": "İş akti fesh edilenlerin bu işleme karşı açtıkları işe iade davalarını kazandıkları halde işe başlatılmamaları nedeniyle yargı kararları doğrultusunda yapılan ödemeler Gelir Vergisi Kanununun 25/1 inci maddesi kapsamında değerlendirilemeyeceğinden, söz ko",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21545",
+  "source_sha256": "fab0696a6b3be71333f06c646985d7e6b175464255a5cbb275317035e82d6766",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
