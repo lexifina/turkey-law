@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2581",
+  "year": 1934,
+  "title": "1934 mali senesi Muvazenei Umumiye Kanununun 18. maddesi ile Millî Müdafaa Vekâletine verilen tahsisatla 1935 senesinde verilecek tahsisatın 2425 numaralı kanunda gösterilen taahhüd salâhiyetile birleştirilerek istimaline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-07-15",
+  "gazette_issue": "2752",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2752.pdf",
+  "source_sha256": "cace06c44038bcb68634fce607f38e5db026ec7e1ef69ca552545520616e8ffc",
+  "text_sha256": "caae360b92546b6f89b5436782a0c50e04e006a382fe338577cd7ea237da2687",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      1538,
+      1568
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302581.pdf",
+    "source_sha256": "f81223d200008926c4ae4122affd4f224fbd4a82620e44a7fb1478a8ce01cc42",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9331,
+    "bag": 0.8186,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9832,
+    "rg_words": 98,
+    "kd_words": 119,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
