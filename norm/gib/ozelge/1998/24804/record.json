@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4033-52/038662",
+  "source_id": 24804,
+  "date": "1998-10-27",
+  "title": "Zirai ürün alım satımı ile uğraşan mükelleflerin,işletmelerinde mevcut olduğu halde kayıtlarında yer almayan emtiaları bir envanter listesi ile katma değer vergisi yönünden bağlı oldukları vergi dairesine bildirecek ve yasal kayıt süresi içerisinde kayıtl",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24804",
+  "source_sha256": "205ba3fe030fae4d9159c864e93af5ad98d3e88df62ece4cbde0341ca1b3657c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
