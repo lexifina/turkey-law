@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5865",
+  "year": 1952,
+  "title": "Kibritin Tekelden Çıkarılmasına ve İstihlâk Vergisine Tâbi Tutulmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-02-05",
+  "gazette_issue": "8026",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8026.pdf",
+  "source_sha256": "c13d561c7b29093f1829a07942ae792d3c68355eb027c430b664f6c814a48f78",
+  "text_sha256": "ffe7766d75c17a8031be524af6c4e602fe506acec32fd3dd7a853ab6a338065b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      47
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405865.pdf",
+    "source_sha256": "8582192e66ba9d4ebfb0991b9c10cb9f16909d2c1b87a28c945acf882c4c0ca1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9736,
+    "bag": 0.9259,
+    "kd_coverage": 0.9891,
+    "kd_body_compared": 0.9785,
+    "rg_words": 267,
+    "kd_words": 279,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
