@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 93100,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Yabancı memleketlerle muvakkat mahiyette ticaret anlaşmaları ve modüs vivendiler akdine ve bunların şümulüne giren maddelerin gümrük resimlerinde değişiklik yapılmasına ve Anlaşmaya yanaşmıyan Devletler muvaredatına karşı tedbirler alınmasına salâhiyet verilmesi hakkında (1/178)",
+  "title": "Yabancı memleketlerle muvakkat mahiyette ticaret anlaşmaları ve modüs vivendiler akdine ve bunların şümulüne giren maddelerin gümrük resimlerinde değişiklik yapılmasına ve Anlaşmaya yanaşmıyan Devletler muvaredatına karşı tedbirler alınmasına salâhiyet verilmesi hakkında (1/178)",
+  "first_sitting_date": "1943-12-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 15,
+      "sitting_date": "1943-12-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c006/tbmm07006015.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c006/tbmm07006fih.pdf",
+      "pages": [
+        "78"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 62,
+      "sitting_date": "1944-05-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010fih.pdf",
+      "pages": [
+        "298",
+        "490:491"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 68,
+      "sitting_date": "1944-06-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011fih.pdf",
+      "pages": [
+        "13:14"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5aed36bc18935b858c988b46324b7655995008e05d79c79994755c30df27f29c",
+  "in_force": "1943-12-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
