@@ -1,0 +1,56 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2701",
+  "year": 1982,
+  "title": "Uluslararası Bir Aile Cüzdanı İhdasına İlişkin Sözleşmenin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "1982-08-11",
+  "adopted_as_published": "11/08/1982",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "13.8.1982 No: 17781",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc065/kanunmgkc065/kanunmgkc06502701.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 65",
+  "committee_reports": [
+    {
+      "label": "MGK 316 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c007/mgk_01007112ss0316.pdf"
+    },
+    {
+      "label": "DM 37no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c001/dm__02001022ss0037.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 151238,
+      "title": "Uluslararası Bir Aile Cüzdanı İhdasına İlişkin Sözleşmenin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "11/08/1982",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc065/kanunmgkc065/kanunmgkc06502701.pdf",
+      "committee_reports": [
+        {
+          "label": "MGK 316 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c007/mgk_01007112ss0316.pdf"
+        },
+        {
+          "label": "DM 37no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c001/dm__02001022ss0037.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=401&v_kullanici_id=27483250",
+      "page_sha256": "4f51546c611149ff13cff28140d674ca4f2e25017752a080ee4650d493ac2ede"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4f51546c611149ff13cff28140d674ca4f2e25017752a080ee4650d493ac2ede",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1982-08-11",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 11/08/1982; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
