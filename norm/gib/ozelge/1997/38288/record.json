@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6518-46-42809",
+  "source_id": 38288,
+  "date": "1997-10-08",
+  "title": "Herhangi bir sebeple kullanılamayan Ö.K. Cihazların yerine yenisinin alınması halinde eski cihaz hakkında yapılacak işlemler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38288",
+  "source_sha256": "c017da74a842fefb17053fd1549d55925d6160010a5d467fd9c07e3f1aef8156",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
