@@ -1,0 +1,4 @@
+Ücretler
+MADDE 33. — Verilecek yetki belgeleri ve taşıt kartlarından ücret alınır. Ücreti alınmadan yetki belgeleri ve taşıt kartları verilmez. Yetki belgesinin yenilenmesinde ve zayiinde ücretin % 50'si alınır. Unvan değişikliği, adres değişikliği ve benzeri nedenlerle süresi bitmeden yenilenen belgelerden ücret alınmaz.
+Bu ücretler, her takvim yılı başından geçerli olmak üzere o yıl için 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükmü uyarınca tespit ve ilân edilen yeniden değerleme oranında artırılarak uygulanır.
+Bakanlık, görev alanına giren hizmetleri yerine getirmek için, merkezde Bakanın onayı ile döner sermaye işletmesi kurabilir. Döner sermaye miktarını belirlemeye Bakanlar Kurulu yetkilidir. İşletmenin görevleri, gelirleri, işleyişi, denetimi ve diğer hususlar yönetmelikle belirlenir.

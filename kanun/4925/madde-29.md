@@ -1,0 +1,4 @@
+Para cezalarının ödenme süresi
+MADDE 29. — Tahsilatlar derhal yapılmadığı takdirde para cezalarının tutanağın tebliği tarihinden itibaren otuz gün içinde ödenmesi gerekir. Otuz gün içerisinde ödenmeyen cezalar iki katına çıkar ve ödeme süresi on gün daha uzar, bu süre içinde ödenmeyen cezalar üç katına çıkar.
+Süresinde ödenmeyen para cezaları için 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uygulanır.
+Bu para cezaları, Maliye Bakanlığının sayman mutemetlerine, mal sandıklarına veya Bakanlıkça yetkili kılınmış personele ödenebileceği gibi banka, posta çeki veya kredi kartı ile de ödenebilir. Maliye Bakanlığı kredi kartı ile tahsilat yapılmasına izin vermeye, tahsilatın saymanlık hesaplarına aktarılmasına ilişkin süreleri ve diğer usul ve esasları belirlemeye yetkilidir.

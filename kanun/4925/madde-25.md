@@ -1,0 +1,2 @@
+Yetkili mahkeme ve icra daireleri
+MADDE 25. — Sigorta sözleşmesinden doğan anlaşmazlıklar, tazminat ve rücu talepleri nedeni ile açılacak davalarda ve icra takiplerinde yetkili mahkeme veya icra daireleri; sigorta şirketinin veya şubesinin, sigorta sözleşmesini yapan acentenin, sigortalının, hak sahibinin, rücu edilenin ikametgâhındaki veya zarara yol açan olayın meydana geldiği yerdeki mahkeme ve icra daireleridir.
