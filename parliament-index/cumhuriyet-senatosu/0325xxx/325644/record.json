@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 325644,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "27 Ağustos 1973 tarihinde Ankara'da imzalanan «Türkiye-Irak Hampetrol Boru Hattı Anlaşması» ve onay süresinin uzatılmasına dair işbu anlaşmaya ek olarak Türkiye ile Irak arasında teati edilen sırasıyle 26 Aralık 1973 ve 20 Nisan 1971 tarihli mektupların onaylanmasının uygun bulunduğuna dair kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Dışişleri, Turizm ve Tanıtma ve Bütçe ve Plan komisyonları raporları (Millet Meclisi: 1/53; Cumhuriyet Senatosu: 1/274) (S. Sayısı:426)",
+  "title": "27 Ağustos 1973 tarihinde Ankara'da imzalanan «Türkiye-Irak Hampetrol Boru Hattı Anlaşması» ve onay süresinin uzatılmasına dair işbu anlaşmaya ek olarak Türkiye ile Irak arasında teati edilen sırasıyle 26 Aralık 1973 ve 20 Nisan 1971 tarihli mektupların onaylanmasının uygun bulunduğuna dair kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Dışişleri, Turizm ve Tanıtma ve Bütçe ve Plan komisyonları raporları (Millet Meclisi: 1/53; Cumhuriyet Senatosu: 1/274) (S. Sayısı:426)",
+  "first_sitting_date": "1975-01-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 19,
+      "sitting_date": "1975-01-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018fih.pdf",
+      "pages": [
+        "454",
+        "556:564",
+        "568:570",
+        "596",
+        "610",
+        "611"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=3901&v_kullanici_id=27484903",
+  "source_sha256": "2545373b763fef109812c36aa13bb148238c507965a45c543ce43f598d7360f8",
+  "in_force": "1975-01-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
