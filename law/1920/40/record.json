@@ -1,0 +1,51 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "40",
+  "year": 1920,
+  "title": "Aksaray Kazasının Müstakil Liva Haline İfrağına Dair Kanun",
+  "adopted": "1920-10-14",
+  "adopted_as_published": "14/10/1336",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "21.03.1337 No: 7",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc001/kanuntbmmc001/kanuntbmmc00100040.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 1",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 1,
+      "kayit_no": 1486,
+      "title": "Aksaray Kazasının Müstakil Liva Haline İfrağına Dair Kanun",
+      "adopted_as_published": "14/10/1336",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc001/kanuntbmmc001/kanuntbmmc00100040.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 81,
+          "sitting_date": "1920-10-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c005/tbmm01005081.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c005/ehttbmm01005081.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c005/tbmm01005fih.pdf",
+          "pages": [
+            "24",
+            "53:55"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "3e033a92c7a8943f4335981533b631f49a8313684ba5b857662ded3c81594e37"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "3e033a92c7a8943f4335981533b631f49a8313684ba5b857662ded3c81594e37",
+  "issuer": "TBMM",
+  "in_force": "1920-10-14",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 14/10/1336 (Rumi year, +584); record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
