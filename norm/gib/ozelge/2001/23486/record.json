@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-11855",
+  "source_id": 23486,
+  "date": "2001-02-27",
+  "title": "Komisyonculardan alınan faturaların özel gider indiriminde kullanılıp kullanılmayacağı ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23486",
+  "source_sha256": "069e0cb8d9b9c1e32e504b76ae52f25e63712a1d77ef2e0ce62534ff141a20d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
