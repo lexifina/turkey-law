@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 46611,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "HÜSEYİN ORTAKÇIOĞLU (ÇORUM)",
+  "summary": "Ve 3 Arkadaşı Türkiye Büyük Millet Meclisi Dahili Nizamnamesinde yazılı Tahkikat encümenlerinin vazife ve salâhiyetleri hakkında (2/444)",
+  "title": "Ve 3 Arkadaşı Türkiye Büyük Millet Meclisi Dahili Nizamnamesinde yazılı Tahkikat encümenlerinin vazife ve salâhiyetleri hakkında (2/444)",
+  "first_sitting_date": "1960-04-25",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 60,
+      "sitting_date": "1960-04-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013fih.pdf",
+      "pages": [
+        "246",
+        "247"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 61,
+      "sitting_date": "1960-04-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013fih.pdf",
+      "pages": [
+        "270:271",
+        "274:309"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=475&v_gelecek_sayfa=401&v_kullanici_id=27484313",
+  "source_sha256": "af77dbe503d7e0bde7792bf4bfb7a24a638c42c7b8ebbb961db82ecfebdd6ed8",
+  "in_force": "1960-04-25",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
