@@ -1,0 +1,13 @@
+TUJJB Komisyonlarının Görevleri
+Madde 20 – 1) Kendi alanlarına giren konularda, bilimsel çalışmalar yapmak, geliştirmek, teşvik etmek ve tavsiye kararları almak ve bunların sonuçlarını değerlendirilmek üzere konseye sunmak,
+2) İlgili IUGG organları ile bilimsel ilişkiler kurmak,
+3) Kendi çalışma alanlarındaki yayınlardan, diğer ilgili TUJJB organlarına bilgi vermek,
+4) Gerektiğinde, olağan temasların dışında diğer TUJJB organları ile işbirliğinde bulunmak,
+5) Alınan kararlara uygun olarak, Temsilci Kurum ile idari ve bilimsel irtibatı sağlamak,
+6) TUJJB Konseyi toplantılarına götürülecek konular hakkında teklifler hazırlamak,
+7) Kamu kuruluşları tarafından, kendilerine intikal ettirilen konularda görüş bildirmek,
+8) Jeodezi - Jeofizik değerlerinden, ulusal güvenlik yönünden korunması gerekli görülenler için, teklif ve tavsiyelerde bulunmak,
+9) Komisyon içinde çalışmaların koordineli bir şekilde yürümesi için gerekli toplantıları yapmak,
+10) Komisyonun Çalışma usullerini belirleyen iç tüzüğü hazırlamak ve konseyin onayına sunmak,
+11) Uluslararası benzer kuruluşlara paralel olarak çalışma gurupları kurmak,
+12) Çalışma alanlarına giren diğer bütün konularda gereken tüm işlemleri yapmak,

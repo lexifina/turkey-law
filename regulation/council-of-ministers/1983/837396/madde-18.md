@@ -1,0 +1,2 @@
+Çalışma Grubu Başkanlarının Seçimi
+Madde 18 – Çalışma Grubu Başkanları, Yüksek Öğretim Kurumlarından veya TUJJB Komisyonu çalışma sahasında tercihen araştırmacı kariyeri olan ve ilgili Kamu Kuruluşlarında görevli TUJJB üyeleri arasından, görev almak istemeleri gözönünde bulundurularak Komisyon Başkanının teklifi ve Komisyonun kuruculuk ve yürütücülüğünü üstlenen Kamu Kuruluşunun Başkanının onayı ile seçilir. Bu şekilde seçilen Çalışma Grubu Başkanlarının isimleri, seçilen Başkanların "Kabul" yazısıyla, birlikte Komisyon Başkanlarınca Temsilci Kurum Başkanlığına bildirilir.

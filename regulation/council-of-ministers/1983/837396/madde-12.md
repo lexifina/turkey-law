@@ -1,0 +1,16 @@
+TUJJB Sekreterinin Görevleri
+Madde 12 – TUJJB Sekreterinin Görevleri Şunlardır:
+1) TUJJB ile ilgili faaliyetlerde Temsilci Kurum Başkanına yardım etmek,
+2) Temsilci Kurum Başkanı tarafından verilen görevleri yapmak,
+3) Büronun çalışmalarını düzenleyerek her türlü yazışmayı yürütmek,
+4) TUJJB toplantılarını organize etmek,
+5) Birliğe iştirak edecek kuruluşların bütçelerinde gerekli ödeneklerin yer almasına ilişkin öneri taslaklarını hazırlamak,
+6) Konseyce öngörülen ödeneklerin, her mali yılda kuruluşlar bütçelerine konulmasını sağlamak için gerekli yazışmaları yürütmek,
+7) TUJJB Komisyonları tarafından verilen, uluslararası kuruluşlara gönderilecek ulusal raporları birleştirerek Temsilci Kurum Başkanı onayı ile basılmasını sağlamak ve ilgili yerlere iletmek,
+8) TUJJB'nin periyodik yayınlarını düzenlemek, basım ve yayınını sağlamak,
+9) Tercüme işlerini sağlamak,
+10) Üye kayıtlarını tutmak,
+11) Harcamalarla ilgili kayıtları tutmak,
+12) Birliğin Uluslararası üyelik vecibesinden doğan üyelik aidatını ve benzeri yükümlülükleri takip etmek,
+13) TUJJB Komisyonlarına ait iç tüzük değişikliklerini hazırlatmak, inceletmek ve Temsilci Kurum Başkanına onaylatmak,
+14) Görevinin gerektirdiği diğer hizmetleri yerine getirmek,
