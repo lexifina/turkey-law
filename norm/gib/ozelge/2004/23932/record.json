@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102-433/40631",
+  "source_id": 23932,
+  "date": "2004-09-01",
+  "title": "Ticari ve zirai bir işletmeye dahil olan mal ve haklardan elde edilen iratların ticari veya zirai kazanç olarak vergilendirilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23932",
+  "source_sha256": "7e345424306878d453bf1220edf5ae0ca4d323ca128d945c3912c9babc26d352",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
