@@ -1,0 +1,1 @@
+[1] Bu fıkrada yer alan" Konut Yüksek Kurulunca tesbit edilerek Konut Müsteşarlığı tarafından“ ibaresi, 11/10/2004 tarihli ve 2004/8073 sayılı Bakanlar Kurulu Kararının eki Yönetmeliğin 1 inci maddesiyle “İdare tarafından” olarak değiştirilmiş ve metne işlenmiştir.

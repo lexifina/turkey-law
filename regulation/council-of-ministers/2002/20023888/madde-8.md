@@ -1,0 +1,2 @@
+Şehit ailelerine, malulleri ile dul ve yetimlerine açılan faizsiz konut kredisi
+Madde 8 — 4/7/1934 tarihli ve 2559 sayılı Polis Vazife ve Selahiyet Kanununun Ek 9 uncu maddesi, 2985 Sayılı Toplu Konut Kanununun 10/5/1990 tarihli ve 3645 Sayılı Kanun ile eklenen Ek 1inci maddesi ile 12/4/1991 tarihli ve 3713 Sayılı Terörle Mücadele Kanununun 21 inci maddesi ve Geçici 8 inci maddesi kapsamına giren şehitlerin veya hayatını kaybedenlerin aileleri ile malul olanlar yahut bunların ailelerine faizsiz konut kredisi açılabilir.
