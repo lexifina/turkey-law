@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 106224,
+  "assembly": "TBMM",
+  "term": 5,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Türk-Sovyet ticaret muahedesinin 15. maddesine mütedair Sovyet Hükümeti ile teati olunan notaların meriyete konulmasına dair İcra Vekilleri Heyetince ittihaz olunan kararın tasdiki hakkında (1/1021)",
+  "title": "Türk-Sovyet ticaret muahedesinin 15. maddesine mütedair Sovyet Hükümeti ile teati olunan notaların meriyete konulmasına dair İcra Vekilleri Heyetince ittihaz olunan kararın tasdiki hakkında (1/1021)",
+  "first_sitting_date": "1938-05-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 25,
+      "sitting": 57,
+      "sitting_date": "1938-05-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c025/tbmm05025057.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c025/tbmm05025fih.pdf",
+      "pages": [
+        "16"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 73,
+      "sitting_date": "1938-06-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026fih.pdf",
+      "pages": [
+        "36",
+        "76",
+        "198",
+        "201",
+        "208:210"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1318&v_gelecek_sayfa=801&v_kullanici_id=27483909",
+  "source_sha256": "1b2f80a16a2967b1f500a79b5a3c3212fffe380742eab68d57701bd8596ad54b",
+  "in_force": "1938-05-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
