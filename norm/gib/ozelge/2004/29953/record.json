@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5501-2882/58198",
+  "source_id": 29953,
+  "date": "2004-12-07",
+  "title": "Mal teslimleri ve hizmet ifalarına uygulanacak katma değer vergisi oranları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29953",
+  "source_sha256": "eb16d765f55146ab01ad94090f0a3cabd87a79006bb96b6ddb09008f1e0932e2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
