@@ -1,0 +1,10 @@
+LİMAN BAŞKAN, DENET ŞEF VE MEMURLARININ
+ALAMETLERİ
+Madde 2 –
+A – Liman başkanı ve yardımcıları:
+Birinci sınıf liman başkanları, lacivert ceketin kollarında yanlız ön kısımlarına dikişten dikişe gelmek üzere her biri dokuz milimetre genişliğinde düz ve ufki dört sıra sırma şerit ve en üst şeridin tam ortasının üstünde ve bir santim yukarsında iki buçuk santimetre boyunda bir sarı sırmadan simis çapası takacaklardır. ve bunun üzerine de şekilde görüldüğü üzere üç yıldız ilave edeceklerdir. (Şekil - 5)
+İkinci ve üçüncü sınıf liman başkanları ile liman başkan yardımcıları kollarında üç (Şekil- 6),dördüncü ve beşinci sınıf liman başkanları iki (Şekil-7), altıncı ve yedinci sınıf liman başkanları ise bir sarı sırma şerit takacaklar ve üzerlerine de aynı işaretleri koyacaklardır. (Şerit - 8) şeritlerin araları iki buçuk milimetre ve en alt şeridin kol yeninden mesafesi altı buçuk santimetre olacaktır.
+B – Denet şef ve memurları:
+Birinci sınıf denet şefleri, lacivert ceketin kollarının, yalnız ön kısımlarına her biri dokuz milimetre genişliğinde ve ufki vaziyette on santimetre uzunluğunda ceket kollarının her iki taraf dikişlerinde müsavi mesafe bırakılmak şartiyle üç sarı sırma şerit ve en üst şeridin tam ortasının üstüne ve bir santim yukarısına iki buçuk santimetre boyunda bir sarı sırmadan simis çapası takacaklardır. Şeritlerin bir birinden arası yine iki buçuk milimetre ve en alt şeridin kol yeninden mesafesi de altı buçuk santimetre olacaktır. (Şekil - 9) İkinci sınıf denet şefleri kollarında iki (Şekil - 10) ve denet memurları umumiyetle bir sarı sırma ve üzerlerinde birinci sınıf denetçi şefinde olduğu gibi sarı sırmadan birer simis çapası bulundurulacaktır. (Şekil - 11)
+C – Odacılar:
+Odacılar tek önlü beş aded düz siyah düğmeli şayak ceket ve aynı kumaştan pantolon giyeceklerdir. Şapkaları elbiselerinin kumaşından ve siperlikli olacak fakat siperliğin üstünde memurlarınki gibi defneli taç bulunmayacaktır. Bunun yerine kırmızı ipekten işlenmiş çapa bulunan bir arma takarlar. Yakalarının her iki tarafına da beyaz madeni harflerle çalıştığı kurumun adı belirtilir.
