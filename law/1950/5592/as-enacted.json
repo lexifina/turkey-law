@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5592",
+  "year": 1950,
+  "title": "Askeri Hastabakıcı Hemşireler hakkındaki Kanunun ikinci ve altıncı maddelerinin değiştirilmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-03-18",
+  "gazette_issue": "7460",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7460.pdf",
+  "source_sha256": "21610f568ee290ac01fc639e335d2b45722b996db4a2afd118a22f6eee610fe7",
+  "text_sha256": "4aed9260d19df961a29036c3c40a5a6d30ba494c9126a14884df97d0bddd24eb",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      16,
+      50
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205592.pdf",
+    "source_sha256": "27ad562b68d4774237a9a9ac71dbceef78e77223a5a568418be724acf58b2fe7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9398,
+    "bag": 0.7571,
+    "kd_coverage": 0.9524,
+    "kd_body_compared": 0.9524,
+    "rg_words": 140,
+    "kd_words": 147,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
