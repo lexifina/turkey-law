@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-2640/61683",
+  "source_id": 30039,
+  "date": "1996-12-24",
+  "title": "Cebri icra yoluyla yapılan buğday teslimlerine KDV uygulanacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30039",
+  "source_sha256": "3d5a9589c471e8a63e249289e94360ff09006afc4d4edbfc6d65372ab12c3b66",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
