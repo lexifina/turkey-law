@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.66/6685-4375/23998",
+  "source_id": 37036,
+  "date": "2001-05-02",
+  "title": "Yeni bina inşa edilmesi halinde, söz konusu binalar için verilen bina vergisi beyannamesine istinaden mükellefiyet, takip eden bütçe yılından itibaren başlar.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37036",
+  "source_sha256": "303ae78d700c5bd2050a3b76ee5a351a778d17fc9ed19d4d5c91c1349cda0dc8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
