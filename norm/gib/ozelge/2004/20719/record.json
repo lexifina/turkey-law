@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5427-58-35404",
+  "source_id": 20719,
+  "date": "2004-06-07",
+  "title": "Serbest meslek teşekküllerince tespit edilmiş bir tarifenin olması ve hizmet bedelinin de tarifedeki bedelden düşük olması halinde, katma değer vergisinin tarifedeki bedel üzerinden; hizmetin bedelinin tarifedeki bedelden fazla olması durumunda ise hizmet",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/20719",
+  "source_sha256": "a67dc2ad9516a3772389b385e619789860ecaae530b5a5fb2514c4035b962309",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
