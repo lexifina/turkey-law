@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3026-354-508/33403",
+  "source_id": 27201,
+  "date": "2000-07-11",
+  "title": "Kazançları basit usulde vergilendirilen mükelleflerin belge düzenine uymamaları halinde, özel usulsüzlük cezası kesilip kesilmeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27201",
+  "source_sha256": "ec0531641e27a452d1a5c9f7cedcc0044d80bfb2001aadac89be41fa12ac1978",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
