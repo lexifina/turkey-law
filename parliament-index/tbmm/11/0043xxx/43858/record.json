@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 43858,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Sinop Mebusu Mahmut Pınar'ın, Karayolları Genel Müdürlüğü kuruluş ve görevleri hakkındaki 5539 sayılı Kanuna 1 madde eklenmesine dair kanun teklifi hakkında (2/314)",
+  "title": "Sinop Mebusu Mahmut Pınar'ın, Karayolları Genel Müdürlüğü kuruluş ve görevleri hakkındaki 5539 sayılı Kanuna 1 madde eklenmesine dair kanun teklifi hakkında (2/314)",
+  "first_sitting_date": "1959-12-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 9,
+      "sitting_date": "1959-12-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c010/tbmm11010009.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c010/tbmm11010fih.pdf",
+      "pages": [
+        "249",
+        "347:348",
+        "419:420"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1113&v_gelecek_sayfa=801&v_kullanici_id=27484293",
+  "source_sha256": "81835304a786544e34a05ffe4cd3f779fe905eb9dbb3b15cf00a4849ee00f9cf",
+  "in_force": "1959-12-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
