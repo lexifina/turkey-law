@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "decision",
+  "number": "49/1628",
+  "title": "Kurulumuzun 16.12.2004 tarih ve 49/1628 sayılı Kararı",
+  "decision_date": "2004-12-16",
+  "date": "2005-01-01",
+  "date_kind": "commencement",
+  "in_force": "2005-01-01",
+  "in_force_basis": "Own commencement: 01.01.2005 tarihinden itibaren geçerli olmak üzere",
+  "publication_date": "2004-12-17",
+  "source_bulletin": "2004/52",
+  "source_section": "E. DUYURULAR",
+  "source_item": 1,
+  "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_52.pdf",
+  "source_sha256": "7b82e83408868ca8ee4bfc25c0d4982079f7a2771abd85608b1e2422d8190b67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}

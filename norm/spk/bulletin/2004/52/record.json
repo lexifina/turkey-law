@@ -3,7 +3,7 @@
   "issuer": "Sermaye Piyasası Kurulu",
   "document_type": "bulletin",
   "number": "2004/52",
-  "date": "2004-12-17",
+  "date": "2005-01-01",
   "title": "SPK Haftalık Bülteni 2004/52",
   "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_52.pdf",
   "source_sha256": "7b82e83408868ca8ee4bfc25c0d4982079f7a2771abd85608b1e2422d8190b67",
@@ -50,5 +50,31 @@
     "referenced": 0,
     "omitted": 0,
     "decorative_excluded": 1
+  },
+  "date_kind": "latest-retained-decision-in-force",
+  "in_force": "2005-01-01",
+  "in_force_basis": "Own commencement: 01.01.2005 tarihinden itibaren geçerli olmak üzere",
+  "publication_date": "2004-12-17",
+  "decision_records": [
+    {
+      "number": "49/1628",
+      "record_file": "decisions/49-1628/record.json",
+      "date": "2005-01-01",
+      "date_kind": "commencement",
+      "decision_date": "2004-12-16",
+      "publication_date": "2004-12-17"
+    },
+    {
+      "number": "49/1625",
+      "record_file": "decisions/49-1625/record.json",
+      "date": "2004-12-16",
+      "date_kind": "decision-date",
+      "decision_date": "2004-12-16",
+      "publication_date": "2004-12-17"
+    }
+  ],
+  "temporal_correction": {
+    "corrects": "0fb212701b3e94963f29e0c5514121363fa79ae0",
+    "reason": "The bundled publication date preceded the explicit commencement of decision 49/1628. Individual retained decisions now carry their own source-based dates; the bulletin date is publication metadata."
   }
 }
