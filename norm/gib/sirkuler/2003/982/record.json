@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK - 2 / 2003 - 2 / Yatırım Teşvik Belgesi",
+  "source_id": 982,
+  "date": "2003-09-26",
+  "title": "Yatırım Teşvik Belgesi sahibi mükelleflere yapılan makine-teçhizat teslimleri hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/982",
+  "source_sha256": "3d12bdaeb2ae4da833ec9eb9f541157ed622bfd87d85efd5bc058ad03a930eb9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
