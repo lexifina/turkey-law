@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4808",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Karadeniz Ekonomik İşbirliği (KEİ) Örgütü Arasında Karadeniz Ekonomik İşbirliği Parlamenter Asamblesi (KEİPA) Uluslararası Sekreteryası İçin Evsahibi Ülke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2003-02-05",
+  "adopted_as_published": "05/02/2003",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "10.02.2003 No: 25020 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc087/kanuntbmmc087/kanuntbmmc08704808.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 87",
+  "committee_reports": [
+    {
+      "label": "TBMM 39 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c004/tbmm22004031ss0039.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 165595,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Karadeniz Ekonomik İşbirliği (KEİ) Örgütü Arasında Karadeniz Ekonomik İşbirliği Parlamenter Asamblesi (KEİPA) Uluslararası Sekreteryası İçin Evsahibi Ülke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "05/02/2003",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc087/kanuntbmmc087/kanuntbmmc08704808.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 39 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c004/tbmm22004031ss0039.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 20,
+          "sitting_date": "2003-01-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c002/tbmm22002020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c002/tbmm22002fih.pdf",
+          "pages": [
+            "638"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 29,
+          "sitting_date": "2003-01-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c004/tbmm22004029.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c004/tbmm22004fih.pdf",
+          "pages": [
+            "5"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 31,
+          "sitting_date": "2003-02-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c004/tbmm22004031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c004/tbmm22004fih.pdf",
+          "pages": [
+            "378:385",
+            "549:572"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "1ead0530dd1eb40937f3d3a8a688b5abf6d67f0c773b4fcc26fef3bb634ca188"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1ead0530dd1eb40937f3d3a8a688b5abf6d67f0c773b4fcc26fef3bb634ca188",
+  "issuer": "TBMM",
+  "in_force": "2003-02-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 05/02/2003; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
