@@ -1,0 +1,87 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 341628,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İstanbul Milletvekili Coşkun Kırca, Aydın Milletvekili Orhan Apaydın, Sivas Milletvekilleri Cevad Odyakmaz ve Güner Sarısözen'in TBMM'nin dış münasebetlerinin düzenlenmesi hakkında kanun teklifine dair (2/270)",
+  "title": "İstanbul Milletvekili Coşkun Kırca, Aydın Milletvekili Orhan Apaydın, Sivas Milletvekilleri Cevad Odyakmaz ve Güner Sarısözen'in TBMM'nin dış münasebetlerinin düzenlenmesi hakkında kanun teklifine dair (2/270)",
+  "first_sitting_date": "1962-03-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 31,
+      "sitting_date": "1963-01-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c011/mm__01011fih.pdf",
+      "pages": [
+        "130:149",
+        "159:164",
+        "211",
+        "232",
+        "257",
+        "330",
+        "357",
+        "392",
+        "458"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 59,
+      "sitting_date": "1963-03-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014fih.pdf",
+      "pages": [
+        "307"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 63,
+      "sitting_date": "1962-03-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015fih.pdf",
+      "pages": [
+        "34:39"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 112,
+      "sitting_date": "1963-07-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019112.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+      "pages": [
+        "371"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 133,
+      "sitting_date": "1963-09-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021133.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021fih.pdf",
+      "pages": [
+        "85",
+        "348:355"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=5601&v_kullanici_id=27484836",
+  "source_sha256": "c53be49541aaa6e38605f2b84863ae5381f29576dd583c9c59ad2ebfbf7ed8d9",
+  "in_force": "1962-03-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
