@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 145865,
+  "assembly": "Danışma Meclisi",
+  "heading": "TEKLİFLER VE RAPORLAR",
+  "heading_as_published": "Teklifler Ve Raporlar",
+  "summary": "23 Haziran 1965 Tarih ve 634 Sayılı Kat Mülkiyeti Kanununun Bazı Maddelerinin Değiştirilmesine ve Bu Kanuna Bir Madde Eklenmesine Dair Kanun Tasarısı ile Danışma Meclisi Üyesi Tandoğan Tokgöz ve 10 Arkadaşının, 634 Sayılı Kat Mülkiyeti Kanununun 20. Maddesinin 1. Fıkrasının Değiştirilmesine İlişkin Kanun Teklifi ve Adalet Komisyonu Raporu (1/578, 2/58)(S. Sayısı:304)",
+  "title": "23 Haziran 1965 Tarih ve 634 Sayılı Kat Mülkiyeti Kanununun Bazı Maddelerinin Değiştirilmesine ve Bu Kanuna Bir Madde Eklenmesine Dair Kanun Tasarısı ile Danışma Meclisi Üyesi Tandoğan Tokgöz ve 10 Arkadaşının, 634 Sayılı Kat Mülkiyeti Kanununun 20. Maddesinin 1. Fıkrasının Değiştirilmesine İlişkin Kanun Teklifi ve Adalet Komisyonu Raporu (1/578, 2/58)(S. Sayısı:304)",
+  "first_sitting_date": "1983-01-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 47,
+      "sitting_date": "1983-01-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c014/dm__02014047.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c014/dm__02014fih.pdf",
+      "pages": [
+        "5:42"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 14,
+      "sitting": 48,
+      "sitting_date": "1983-01-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c014/dm__02014048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c014/dm__02014fih.pdf",
+      "pages": [
+        "45:88"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 14,
+      "sitting": 49,
+      "sitting_date": "1983-01-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c014/dm__02014049.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c014/dm__02014fih.pdf",
+      "pages": [
+        "93:97"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d250816c6fab6e968bc571a56162f3db305079b05c6fb1cf8cb562eb85e45291",
+  "in_force": "1983-01-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
