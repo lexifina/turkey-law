@@ -1,0 +1,2 @@
+Amaç
+Madde 2 - Harran Üniversitesi Spor Birliği’nin amacı Yükseköğretim Kurulunun plan ve programları çerçevesinde Harran Üniversitesi öğrencilerinin beden ve ruh sağlığının korunması ve boş zamanlarının değerlendirilmesi amacıyla tüm spor faaliyetlerini organize etmek, yönetmek, Üniversiteye ait spor salon ve alanlarını bu amaca uygun şekilde değerlendirmek, Üniversite Öğretim Elemanları ve Memurlarının imkanlar ölçüsünde tesislerden yararlanabilmesini sağlamak, spor salon ve alanlarının bakımı, yönetimi ve yenilerinin yapılması faaliyetlerini yürütmektir.
