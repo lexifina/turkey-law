@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/2023",
+  "list_number": "2023",
+  "decision_date": "2004-05-11",
+  "title": "YSK ilke kararı 2004/2023",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3847/2004-2023-karar.htm",
+  "source_sha256": "1fdfd97d62f5f85145953a95c11a64d340b85c8861ef52e17155e7270e5147cd",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-05-11",
+  "law_text_complete": false
+}
