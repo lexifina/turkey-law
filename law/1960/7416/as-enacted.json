@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7416",
+  "year": 1960,
+  "title": "Türkiye Büyük Millet Meclisi binası ek ve eklenti binaları ile tesislerinin yapımı yetkisinin Nafıa Vekâletine devri hakkındaki Kanuna ek Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-02-05",
+  "gazette_issue": "10424",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10424.pdf",
+  "source_sha256": "5d4daa7a8b71b0af4a0464f4c39d3fac3db8cc80652998007741dd41ccb4ef79",
+  "text_sha256": "960bb92c1b2b61264da706d42087a734fb3b383b8b1600e0c0edc710e709667d",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      173,
+      190
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/kanuntbmmc042/kanuntbmmc04207416.pdf",
+    "source_sha256": "3e9ff06c81fd50b094180a35e7a6a75a5087f9132b65491c6089cc91a2ec8a1e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9688,
+    "bag": 0.908,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.956,
+    "rg_words": 87,
+    "kd_words": 91,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
