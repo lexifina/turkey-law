@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7019",
+  "year": 1957,
+  "title": "Amerika Birleşik Devletleri ve Avrupa Ekonomik İş Birliğine dâhil memleketlerle borçlanma yardım ve ödeme Anlaşmaları akdi için Hükümete salâhiyet verilmesine dair 5436 sayılı Kanunun meriyet müddetinin uzatılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-24",
+  "gazette_issue": "9641",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9641.pdf",
+  "source_sha256": "e8c30baa08788912ae5708204f7b2fe3e9701f2cbfad32085425be86f46a729e",
+  "text_sha256": "4c2e0e3e9e66c6ab1dca0ca015df46d43c25775f05d37096c9830740f2d928b3",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      422,
+      438
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907019.pdf",
+    "source_sha256": "97c7dbed6bf3d895a9e987cdc5bf1f6e2039ca0f41b28632bb98c3f1f86eb4d6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9577,
+    "bag": 0.7895,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9733,
+    "rg_words": 79,
+    "kd_words": 75,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
