@@ -1,0 +1,5 @@
+Sorumluluk
+MADDE 6 — Ayıplı bir malın, bir kişinin ölümüne veya yaralanmasına veya bir malın zarar görmesine sebep olması halinde imalatçı/üretici doğan zararı, kusuru aranmaksızın tazmin etmekle yükümlüdür.
+İmalatçının/üreticinin, sorumlu tutulabilmesi için zarar görenin, malın ayıbını, uğradığı zararı ve ayıp ile zarar arasındaki nedensellik bağını ispat etmesi gerekir.
+Ayıplı malın neden olduğu zararlardan dolayı birden fazla kimse sorumlu olduğu taktirde, bunlar müteselsilen sorumludurlar. Ancak zararın, tüketicinin veya tüketicinin sorumlu olduğu üçüncü bir kişinin kusurundan kaynaklanması halinde tüm hal ve şartlar göz önüne alınarak, imalatçının/üreticinin sorumluluğu azaltılabilir veya kaldırılabilir.
+Bilim ve teknolojide ulaşılan düzeyin, malın piyasaya sürülmesinden sonraki 10 yıl içinde ayıplı olduğunun tespit edilmesine imkan tanıması halinde, imalatçı/üretici, bu ayıbın olası zararlı sonuçlarını, ortadan kaldırmak için azami çabayı sarf etmemesi durumunda 7 nci maddenin birinci fıkrasının (e) bendinde ve son fıkrasında yer alan sorumluluktan kurtulma sebeplerini ileri süremez.
