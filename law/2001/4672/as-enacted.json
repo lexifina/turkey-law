@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4672",
+  "year": 2001,
+  "title": "Bankalar Kanununda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-05-29",
+  "gazette_issue": "24416",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/05/20010529.htm",
+  "source_sha256": "57140df5941e273277278f388741bc7d310c849355205b82918ad51cdd618324",
+  "text_sha256": "e866c2b91a74d4ce4b0d5f30f4828f43b823c0c99353766a74681e2a22a9d82b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/05/29/24416-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/05/20010529.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
