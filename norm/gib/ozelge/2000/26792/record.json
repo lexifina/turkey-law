@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.53/5379-31-84/29609",
+  "source_id": 26792,
+  "date": "2000-06-20",
+  "title": "Binek otomobillerine ait indirilemeyen katma değer vergisinin doğrudan gider veya maliyet unsuru olarak değerlendirilmesinde kanunen bir sakınca bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/26792",
+  "source_sha256": "ab2464a99a4b0122d14f5d5fb899da1a1c1008cca8870e1e5dd01a816b7880f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
