@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5424-817-35971",
+  "source_id": 32074,
+  "date": "2004-07-30",
+  "title": "Su faturalarını zamanında ödemeyenler için uygulanan gecikme zammından ayrıca katma değer vergisi alınmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32074",
+  "source_sha256": "50b77f782180574da2671fa07eac58930562dc4af8583f158bcde21582fded36",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
