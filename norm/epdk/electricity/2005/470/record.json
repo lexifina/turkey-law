@@ -1,0 +1,28 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "470",
+  "decision_date": "2005-04-01",
+  "title": "Elektrik piyasasında Türkiye Elektrik İletim Anonim Şirketi (TEİAŞ) tarafından uygulanacak 2005 geçiş yılı iletim tarifeleri, gelir tavanı ve gelir tavanına ilişkin olarak lisansına derç edilecek parametreler hakkında",
+  "resmi_gazete_date": "2005-04-15",
+  "resmi_gazete_number": "25787",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nCp/NNPC2a4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nCp/NNPC2a4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OGhpcZvRsCM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=B00Y+BzAtwU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/g4ZeQUGzQ8="
+  ],
+  "source_sha256": "75d62d70c1d4f64fde5316a6f3f32793bcf3302790f17a191620353ac1a6b5a0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2005-04-01",
+  "law_text_complete": false
+}
