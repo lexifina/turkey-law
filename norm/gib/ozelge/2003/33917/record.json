@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5921-164 / 45350",
+  "source_id": 33917,
+  "date": "2003-10-21",
+  "title": "Özel Tüketim Vergisine tabi olan malların ihraç edilmesinin ihracat istisnası kapsamında değerlendirileceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33917",
+  "source_sha256": "4e5949b3fe43779d2a31a990ac26b213eee915b48ecba90a3353ed8812cfd568",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
