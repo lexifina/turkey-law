@@ -1,0 +1,48 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2995",
+  "year": 1936,
+  "title": "Tuz İnhisarı Umum Müdürlüğünün 1932 malî yılı hesabı katî Kanunu",
+  "adopted": "1936-05-29",
+  "adopted_as_published": "29/05/1936",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "05.06.1936 No: 3322",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602995.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 16",
+  "committee_reports": [
+    {
+      "label": "TBMM 205 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011071ss0205.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104209,
+      "title": "Tuz İnhisarı Umum Müdürlüğünün 1932 malî yılı hesabı katî Kanunu",
+      "adopted_as_published": "29/05/1936",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602995.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 205 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011071ss0205.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=920&v_gelecek_sayfa=901&v_kullanici_id=27483162",
+      "page_sha256": "9406c3f10f655387d457685f06b72fb4454ec7383b260a0a5e9732061c4398d2"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9406c3f10f655387d457685f06b72fb4454ec7383b260a0a5e9732061c4398d2",
+  "issuer": "TBMM",
+  "in_force": "1936-05-29",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 29/05/1936; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
