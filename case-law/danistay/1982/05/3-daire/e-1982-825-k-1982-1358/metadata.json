@@ -1,0 +1,17 @@
+{
+  "court": "Danıştay",
+  "chamber": "3. Daire",
+  "chamber_as_listed": "3. Daire",
+  "esas_no": "1982/825",
+  "karar_no": "1982/1358",
+  "decision_date": "1982-05-11",
+  "source_url": "https://karararama.danistay.gov.tr/getDokuman?id=17520100&arananKelime=",
+  "source_id": "17520100",
+  "listing": "https://karararama.danistay.gov.tr/aramadetaylist",
+  "source_sha256": "f4acb35dee2ea33f091f1a28b6ef41a2ad33d10c265f547a32518289c8b4bbe8",
+  "text_status": "as-published",
+  "anonymisation": "as published by the Danıştay (names replaced by \"...\")",
+  "source_images": 0,
+  "images_status": "none-detected",
+  "missing_components": []
+}
