@@ -1,0 +1,2 @@
+Amaç
+Madde 2 — Yüzüncü Yıl Üniversitesi Rektörlüğüne bağlı olarak kurulan merkezin amacı, üniversitenin ilgili bölüm ve anabilim dallarının işbirliğiyle toplumun her kesimine gereksinim duydukları alanlarda her türlü (örgün yada internet destekli) eğitim programları düzenlemek, üniversitenin kamu, özel sektör ve uluslar arası kuruluşlarla olan işbirliğinin gelişmesine katkıda bulunmak böylece bölgenin ve ülkenin eğitim ve kültür düzeyini yükseltmektir.
