@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-12-17",
+  "issue": "25673",
+  "edition": "regular",
+  "item": 19,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "T.C. Maliye Bakanlığı TASİŞ Genel Müdürlüğü Ankara Tasfiye İşletme Bölge Müdürlüğü Ergazi Tasfiye İşletme Şube Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/12/20041217-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (21 = 21)",
+  "ilan_codes": [
+    "15384/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/12/20041217-3.htm",
+  "category_page_sha256": "a9e196df865fec18cac0a3649144f4549e683d69f59d411435bc5ecd36777b2b",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/12/20041217.htm",
+  "index_sha256": "9eb73279e8b5c4443367a9e10875c2a4f8eea4acb844853b63bab52ed47cfea8",
+  "index_header": "17 Aralık 2004 ... Sayı : 25673",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
