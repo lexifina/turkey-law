@@ -1,0 +1,2 @@
+İşletme sahaları:
+Madde 2 – Yeraltı suyu işletme sahalarının sınırları ve karakteristikleri Devlet Su İşleri (DSİ) Genel Müdürlüğünce tayin ve tesbit edildikçe, gerekli Bakanlar Kurulu Kararı alınmak üzere keyfiyet Bayındırlık Bakanlığına intikal ettirilir. Çıkacak karara göre "Yeraltı Suyu İşletme Sahaları" DSİ tarafından Resmi Gazete ile ve ayrıca mahallerinde çıkan gazetelerde, gazete çıkmayan yerlerde de mütat vasıtalarla ilan olunur.

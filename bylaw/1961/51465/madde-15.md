@@ -1,0 +1,2 @@
+Faydalı ihtiyaç:
+Madde 15 – Yeraltı suyunu kullanacak arazi veya kuyu sahibinin veyahutta işletmecilerinin faydalı su ihtiyacı; sırasıyle içme, temizlik, belediye hizmetleri, hayvan sulaması, zirai sulama ve maden ve sanayi suyu, sportif ve benzeri tesislerin faydalı kullanış miktarı gözönünde bulundurularak, tahsis edilecek maksada göre ilgili bakanlıkların mütalaası alınmak suretiyle, DSİ. ce tesbit edilir. Faydalı ihtiyaç için ayrılacak su miktarı hiç bir zaman yeraltı suyu deposunun emniyetli veriminden daha yüksek olamaz.

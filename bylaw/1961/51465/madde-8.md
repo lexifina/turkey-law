@@ -1,0 +1,4 @@
+Belge, rapor ve proje işleri:
+Madde 8 – a) Yeraltı suyu arama, kullanma, ıslah ve tadil belgesi almak üzere 6 ncı maddeye göre yapılan müracaatlar, yetkili DSİ teşkilatınca tetkik edilerek belge verilmek veya gerekli hidrojeolojik etüd raporu ve tatbik projeleri tasdik veya red edilmek suretiyle, müracaat tarihinden itibaren bir ay içerisinde cevaplandırılır. Belge verilmediği veya rapor ve projeler kabul olunmadığı takdirde, sebepleri verilen cevapta açıkça belirtilir.
+b) Yeraltı suyu arama, kullanma, ıslah ve tadil belgeleri için özel formlar hazırlanır ve bunların ne suretle kullanılacağı teknik yönetmelikte belirtilir.
+c) Açılacak her kuyu için ayrı belge verilir. Belge, ait olduğu kuyuya mahsustur, başka bir kuyu için kullanılamaz. Belge, üzerinde adı ve soyadı yazılı kimseye aittir, başkalarına devredilemez.
