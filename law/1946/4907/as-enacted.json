@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4907",
+  "year": 1946,
+  "title": "Milletlerarası Çalışma Teşkilâtı Statüsünde yapılan değişikliklerin onanması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-06-01",
+  "gazette_issue": "6322",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6322.pdf",
+  "source_sha256": "2fe4d83bdc105b03d642c6f95fd5d19d9615d9401e2ae61f0055153a92888b03",
+  "text_sha256": "5d624140f5ab7855db1535e358dbd5db4f70f58f166fd2c6de2be72ed9e3fd5c",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      811,
+      937
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804907.pdf",
+    "source_sha256": "afc43772fc741d19f58379b6c3354eb83c6d597d3de5bb80f9c6639cec0f2680",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9327,
+    "bag": 0.8389,
+    "kd_coverage": 0.9652,
+    "kd_body_compared": 0.9652,
+    "rg_words": 831,
+    "kd_words": 863,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
