@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6408",
+  "year": 1954,
+  "title": "İstanbul Üniversitesi Fen ve Tıp Fakülteleri için (Cyelotron) İnşa ve Tesisi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-22",
+  "gazette_issue": "8664",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8664.pdf",
+  "source_sha256": "01b94d391e8470eab371587e0c9102cf41b7f03c3064b7ce16907a51b9998c6f",
+  "text_sha256": "1c023ee5ad0cc51211bfc4cf91d1d191d35fd92a0e621c59acb7171223b73e52",
+  "text_status": "ocr",
+  "pages": [
+    25
+  ],
+  "line_span": [
+    [
+      5492,
+      5506
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606408.pdf",
+    "source_sha256": "58f0cb5294f3b0a2840956f8aa68f77d92397e0b66dce6d0995ab8366c3977ec",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9685,
+    "bag": 0.9341,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9787,
+    "rg_words": 90,
+    "kd_words": 94,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
