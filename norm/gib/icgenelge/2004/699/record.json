@@ -1,0 +1,32 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2004/7",
+  "source_id": 699,
+  "date": "2004-06-24",
+  "title": "UYGULAMA İÇ GENELGESİ SERİ NO : 2004/7",
+  "source": "https://gib.gov.tr/mevzuat/kanun/508/icgenelge/699",
+  "source_sha256": "7e5c06dfa28eae6628cce0a4fd123c41003bf68b64a518ac9c576f01d56f4e06",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/508/icgenelge/698",
+        "quote": "24.06.2004 tarih ve 2004/7 Seri No'lu Uygulama İç Genelgesi"
+      }
+    ]
+  },
+  "later_status": {
+    "status": "repealed",
+    "source": "https://gib.gov.tr/mevzuat/kanun/508/icgenelge/698",
+    "quote": "24.06.2004 tarih ve 2004/7 Seri No'lu Uygulama İç Genelgesi yürürlükten kaldırılmıştır."
+  }
+}
