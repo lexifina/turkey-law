@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL..29/2925-233-637/21590",
+  "source_id": 26463,
+  "date": "1997-05-26",
+  "title": "Dip koçanlı yolcu taşıma biletlerinin dip koçanlarının 5 yıl süre ile saklanması ve istenildiğinde ibraz edilmesi mecburidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26463",
+  "source_sha256": "78eeb1b19823161b31e9331ae58089d030654106e27d5b435e8f37ddff3409bc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
