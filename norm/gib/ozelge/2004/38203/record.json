@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6369-653",
+  "source_id": 38203,
+  "date": "2004-03-08",
+  "title": "Toplu Konut Fonundan kullandırılacak krediye ilişkin ipotek işlemi için düzenlenen kağıtların damga vergisinden, kullandırılacak kredilerle ilgili ipotekler ile bu konutların hak sahipleri adına tapuya tescilinin harçtan istisna edilmesi hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38203",
+  "source_sha256": "e5e522fae4cf6d180a4a7d14f4cb16b6a726b49433139dbf78f2d7df01345b55",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
