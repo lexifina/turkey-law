@@ -1,0 +1,131 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1119",
+  "year": 1969,
+  "title": "Ege Üniversitesi 1968 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında Kanun",
+  "adopted": "1969-02-20",
+  "adopted_as_published": "20/02/1969",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.02.1969 No: 13135",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201119.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 52",
+  "committee_reports": [
+    {
+      "label": "MM 826 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c034/mm__02034057ss0826.pdf"
+    },
+    {
+      "label": "CS 1207no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051035ss1207.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 373304,
+      "title": "Ege Üniversitesi 1968 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında Kanun",
+      "adopted_as_published": "20/02/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201119.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 826 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c034/mm__02034057ss0826.pdf"
+        },
+        {
+          "label": "CS 1207no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051035ss1207.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 32,
+          "sitting": 46,
+          "sitting_date": "1969-02-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c032/mm__02032046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c032/mm__02032fih.pdf",
+          "pages": [
+            "312"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 57,
+          "sitting_date": "1969-02-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c034/mm__02034057.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c034/mm__02034fih.pdf",
+          "pages": [
+            "197",
+            "239:240",
+            "303",
+            "367:370"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1501&v_kullanici_id=27483225",
+      "page_sha256": "66251c4483ca186d733ac0d6ddf330376a3f317f3ebe9b3ad35f2b553c9b6259"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 312979,
+      "title": "Ege Üniversitesi 1968 yılı Bütçe Kanununa Bağlı Cetvellerde Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "20/02/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201119.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 826 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c034/mm__02034057ss0826.pdf"
+        },
+        {
+          "label": "CS 1207no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051035ss1207.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 51,
+          "sitting": 35,
+          "sitting_date": "1969-02-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051fih.pdf",
+          "pages": [
+            "912",
+            "947:949",
+            "966:967"
+          ]
+        },
+        {
+          "cilt": 51,
+          "sitting": 36,
+          "sitting_date": "1969-02-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051fih.pdf",
+          "pages": [
+            "983:984",
+            "996",
+            "1024:1025"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1101&v_kullanici_id=27483235",
+      "page_sha256": "1eaad7ada00aca89de2fafea1c48fe47bacb9ae26f5a743f31a7c677dcbb0e77"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "66251c4483ca186d733ac0d6ddf330376a3f317f3ebe9b3ad35f2b553c9b6259",
+  "issuer": "Millet Meclisi",
+  "in_force": "1969-02-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 20/02/1969; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
