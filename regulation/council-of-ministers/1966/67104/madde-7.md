@@ -1,0 +1,1 @@
+Madde 7 – Türk Parasını Koruma Mevzuatına göre, bloke edilmiş paralar ve varsa sair menkul kıymetler Hazine adına özel bir hesapta toplanarak, bu muamelenin yapıldığı ilgili bankalar tarafından derhal mahallin en büyük mal memuruna bildirilir.

@@ -1,0 +1,1 @@
+Madde 6 – Her köyün ihtiyar heyeti ile her kasaba ve şehrin mahalle muhtarları kendi bölgelerinde Suriye uyruklu özel ve tüzel kişilere ait malların bir cetvelini bir ay içerisinde mahallin en büyük malmemuruna vermeye mecburdur. Köy ve mahallelerde Suriye uyruklularına ait taşınmaz mallar olmasa dahi, bulunmadığının maldairelerine bildirilmesi gerekir.

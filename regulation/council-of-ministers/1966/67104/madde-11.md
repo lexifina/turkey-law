@@ -1,0 +1,2 @@
+Madde 11 – Maliye Bakanlığı Milli Emlak servisleri Hazinece el konulan Suriye uyruklu kimselere ait mallar için (Suriye uyruklu özel ve tüzel kişilerden Hazinece el konulan mallar) adıyla yardımcı bir defter tutar.
+Her il, ilçeler itibariyle tutulmuş olan yardımcı deftere intikal eden taşınır ve taşınmaz mallarla her çeşit hak ve menfaatleri, her ayın ilk haftası içinde Maliye Bakanlığına-Milli Emlak Genel Müdürlüğü-bildirir.

@@ -1,0 +1,1 @@
+Madde 3 – Özel idareler, tapuda kayıtlı olsun veya olmasın vergi tahrir ve yoklamalarında Suriye uyruklu kimseler adına kayıtlı bütün taşınmaz malların bir cetvelini çıkararak üç ay içinde mahallin en büyük malmemuruna verir.

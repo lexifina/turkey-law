@@ -1,0 +1,1 @@
+Madde 1 – Suriye uyruklu bütün özel ve tüzel kişilerin, Türkiye'de bulunan taşınmaz ve taşınır - zati ve ev eşyası hariç malları ile bütün hak ve menfaatlerine 28/5/1927 gün ve 1062 sayılı Kanun hükümleri gereğince Hazinece elkonulmuştur.

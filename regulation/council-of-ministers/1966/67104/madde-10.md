@@ -1,0 +1,1 @@
+Madde 10 – Belediyeler, trafik şubeleri, teknik ziraat müdürlükleri, ziraat odaları ve benzeri teşekküller, Suriye uyruklu Özel ve Tüzel kişiler adına kayıtlı her çeşit kara ve deniz taşıma araçları ile tarım alanında kullanılan her çeşit makinelerin ve makinesiz benzeri araçların bir listesini bir ay içinde tanzim ederek mahallin en büyük mal memuruna vermeğe mecburdur.

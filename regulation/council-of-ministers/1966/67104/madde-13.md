@@ -1,0 +1,4 @@
+Madde 13 – Türkiye'de taşınır ve taşınmaz malları ve her çeşit hak ve menfaatleri bulunan Suriye uyruklu özel ve tüzel kişiler Resmi Gazete'de yapılacak bir ilan ile mal beyanına davet edilirler. Bu ilan tarihinden itibaren en geç üç ay içinde bir makbuz Karşılığında, mahallin en buyük mülkiye amirine bir beyanname verdikleri ve bu beyannamede yazılı mal, hak ve menfaatlere Hazinece el konulduğu anlaşıldığı takdirde, kendilerine bu malların alındığını bildiren bir belge verilir.
+Bu belgeyi mallara el konduktan sonra mal dairesi hazırlar ve belge mahallin en büyük mal memuru tarafından imzalanır.
+Suriye uyruklu özel ve tüzel kişiler Türkiye'de ikamet etmemekte ve umumi vekilleri de bulunmamakta ise, bu müracaatların Türk elçiliğine veya konsolosluklarına da yapabilirler.
+Türk elçiliğine veya konsolosluklarına verilen beyannameler Dışişleri Bakanlığı kanalı ile ve bekletilmeksizin derhal Maliye Bakanlığına - Milli Emlak Genel Müdürlüğü - gönderilir.

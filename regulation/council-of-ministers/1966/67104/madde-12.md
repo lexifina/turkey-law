@@ -1,0 +1,1 @@
+Madde 12 – Suriye uyruklu özel ve tüzel kişilere ait olup ta kiraya verilmiş olan taşınmaz malların kiracılarından kira bedellerini peşin olarak ödememiş olanlarla, ödedikleri kiranın vadeleri bitmiş olanlar, mütaakip kira bedellerini o yerin mal dairesine yatırmaya mecburdurlar.

@@ -1,0 +1,1 @@
+Madde 14 – 3658 sayılı kanun gereğince, hiyar hakkını Suriye Hükümeti lehine kullanmış olan Suriye uyruklu özel tüzel kişilerin her türlü, hak ve menfaatleri hakkında da yukarıki maddelerde yazılı hükümler uygulanır.

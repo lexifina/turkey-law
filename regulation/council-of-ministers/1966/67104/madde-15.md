@@ -1,0 +1,1 @@
+Madde 15 – Bu Yönetmelik hükümleri gereğince el konulacak mal, hak ve menfaatlerin idare, tahsis, tasfiyesi ve Suriye'nin aldığı tedbirler dolayısiyle zarar gören Türk vatandaşlarının tesbiti ve bu zararlarının nasıl karşılanacağı ilgili Bakanlıklarca müştereken ayrıca tesbit olunur.

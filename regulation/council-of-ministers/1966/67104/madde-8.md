@@ -1,0 +1,2 @@
+Madde 8 – Türkiye'de bulunan bütün milli ve yabancı bankaların şubeleri, bloke paralar dışında, Suriye uyruklu özel ve tüzel kişiler tarafından kendilerine her ne nam ile olursa olsun yatırılmış paraların ve menkul kıymetlerin miktarını en çok bir ay içinde mahallin en büyük mal memuruna bildirmeğe ve bu paraları Hazine adına özel bir hesapta muhafazaya mecburdurlar.
+Kiralanmış olan kasalar için de aynı işlem yapılır.[1]

@@ -1,0 +1,1 @@
+Madde 5 – Gümrük idareleri ile pasavan vermeye yetkili merciler Suriye uyruklu özel ve tüzel kişiler tarafından kendilerine tevdi edilen beyannamelerin taşınır ve taşınmaz mallarla hak ve alacaklara ilişkin kısımlarının birer örneğini üç ay içinde mahallin en büyük malmemuruna bildirirler.
