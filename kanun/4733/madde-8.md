@@ -1,0 +1,4 @@
+Cezai hükümler
+MADDE 8 — Kuruluş ve faaliyet iznini almadan tütün ve tütün mamulleri ile alkollü içkiler üretmek üzere fabrika, tesis veya imalathane kuran ve işletenlere; işyerleri veya ikametgâhlarında söz konusu maddeleri üretenlere bir yıldan üç yıla kadar hapis ve ikiyüzyirmibeş milyon liradan az olmamak üzere üretilmiş tütün ve tütün mamulleri ile alkollü içkiler piyasa değerinin on katı tutarında ağır para cezası verilir. Bu hüküm 6 ncı maddenin ikinci ve üçüncü fıkrasına aykırı hareket edenler hakkında da uygulanır.
+Satış belgesi almadan satış yapanlar, ellerindeki mamulâta el konulmakla birlikte ruhsat harcının on katı tutarında ağır para cezası ile cezalandırılır.
+Belirtilen suçları işleyenlere yardım edenler hakkında asıl faillere verilecek cezaların yarısı hükmolunur. Bu fiillere katılan memur ve görevliler de asıl failler gibi ceza görürler.
