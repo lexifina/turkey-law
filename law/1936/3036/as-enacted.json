@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3036",
+  "year": 1936,
+  "title": "Vakıflar Umum Müdürlüğünce bazı inşaat için taahhüdat ve istikraz akti mezuniyesine dair 2037 numaralı kanuna müzeyyel 2398 numaralı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-06-22",
+  "gazette_issue": "3336",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3336.pdf",
+  "source_sha256": "0d8d736bb556ab2a161ef07940a90d1ac63b79f67d0a83f0d5fa651099e63588",
+  "text_sha256": "9e14e9fec17a90ba8445291835e31205686bca4c635b7b3f909afc348380719b",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      131,
+      153
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01603036.pdf",
+    "source_sha256": "b4b3847db43c48dbdb205b4107c23c0e47199546bb7914efad8313d60603bea4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.914,
+    "bag": 0.8497,
+    "kd_coverage": 0.9898,
+    "kd_body_compared": 0.9417,
+    "rg_words": 96,
+    "kd_words": 103,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
