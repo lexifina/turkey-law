@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1884",
+  "year": 1931,
+  "title": "Türk Ceza Kanununun 158. maddesine iki fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-08-03",
+  "gazette_issue": "1863",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1863.pdf",
+  "source_sha256": "39ca422c33d487cf3aa72730cf065a1b3435cf60bc90e3898ed5a4a3503a2a39",
+  "text_sha256": "1b3e41bc63ff3bd6f0b6d957abbd66a3a79983014a2a9d0cb4123f3171ef38f8",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      475,
+      508
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001884.pdf",
+    "source_sha256": "9ae25b4ed187f8032aa69ee076ab12f38301c3fa3deef8a6005276aa8bf47e5e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9135,
+    "bag": 0.7363,
+    "kd_coverage": 0.9556,
+    "kd_body_compared": 0.9355,
+    "rg_words": 95,
+    "kd_words": 93,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
