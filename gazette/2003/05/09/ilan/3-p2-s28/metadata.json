@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-09",
+  "issue": "25103",
+  "edition": "regular",
+  "item": 28,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-2",
+  "title": "EÜAŞ İzmir Ticaret Müdürlüğünden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030509-3-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (41 = 41)",
+  "ilan_codes": [
+    "13210/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030509-3-2.htm",
+  "category_page_sha256": "26467cc907dabfbf5d79bb498c21137859f9028d38f4c5553642cf68644612be",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030509.htm",
+  "index_sha256": "88c9a897fd46a3a7228a7fb6d2c5c6040456f50574192dd7e98cebb6cc8f8a01",
+  "index_header": "9 Mayıs 2003 ... Sayı : 25103",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
