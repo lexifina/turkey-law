@@ -1,0 +1,48 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2434",
+  "year": 1981,
+  "title": "197 Sayılı Motorlu Taşıtlar Vergisi Kanununda Değişiklik Yapan 26.11.1980 Gün ve 2348 Sayılı Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "1981-03-24",
+  "adopted_as_published": "24/03/1981",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.03.1981 No: 17291",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc064/kanunmgkc064/kanunmgkc06402434.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 64",
+  "committee_reports": [
+    {
+      "label": "MGK 158 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c003/mgk_01003046ss0158.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 150969,
+      "title": "197 Sayılı Motorlu Taşıtlar Vergisi Kanununda Değişiklik Yapan 26.11.1980 Gün ve 2348 Sayılı Kanunda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "24/03/1981",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc064/kanunmgkc064/kanunmgkc06402434.pdf",
+      "committee_reports": [
+        {
+          "label": "MGK 158 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c003/mgk_01003046ss0158.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=101&v_kullanici_id=27483250",
+      "page_sha256": "cf7e14a636d5976e8faf6bd4fdbca26b62b74d100016b9f9ffccc2e39f88188a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cf7e14a636d5976e8faf6bd4fdbca26b62b74d100016b9f9ffccc2e39f88188a",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1981-03-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 24/03/1981; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
