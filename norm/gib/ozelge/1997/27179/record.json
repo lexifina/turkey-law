@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6518-26/18647",
+  "source_id": 27179,
+  "date": "1997-05-07",
+  "title": "Üretici veya ithalatçı kuruluşlarca Ö.K.C.nin bakım ve onarımına ilişkin yetki belgesi verilen ve daha sonra iptal edilen servislerin Ö.K.C.lara müdahelesi halinde, uygulanacak ceza hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/27179",
+  "source_sha256": "65c38800957489b9be15e9439a036d1c3286a37321e2fa3cd786e529136c5da0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
