@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 13 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2003-04-24",
+      "24.04.2003",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 13 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "25088",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2003-04-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2003/6834",
+  "published": "2003-04-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6834&MevzuatTertip=5",
+  "source_bytes": 28962,
+  "source_id": "8.5.6834",
+  "source_sha256": "adfb390a9ab5d7b1083b6ae913b5239ae5d08421885ba69c60eb23ee3729dd6a",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nPİYASA EKONOMİSİNİ VE GİRİŞİMCİLİĞİ \r\nGELİŞTİRME MERKEZİ\r\nYÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 1346
+}
