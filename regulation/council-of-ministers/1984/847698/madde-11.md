@@ -1,0 +1,5 @@
+Temsilci Kurum Başkan Yardımcısının Görevleri
+Madde 11 – Temsilci Kurum Başkan Yardımcısının Görevleri Şunlardır :
+1) Temsilci Kurum görevlerinin yürütülmesinde Temsilci Kurum Başkanına yardımcı olmak,
+2) Temsilci Kurum Başkanı'nın danışmanlığını yapmak,
+3) Temsilci Kurum Başkanı'nın bulunmadığı hallerde veya Temsilci Kurum Başkanı'nın görevlendirdiği durumlarda Temsilci Kurum Başkanına ait tüm görev, yetki ve sorumlulukları üstlenmek,

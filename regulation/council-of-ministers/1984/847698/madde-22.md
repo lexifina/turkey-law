@@ -1,0 +1,2 @@
+Çalışma Grubu Başkanı ve Sekreterinin Görevleri
+Madde 22 – Çalışma Grubu Başkanları, bu yönetmeliğin amaç ve hedeflerine uygun olarak Çalışma Grublarının teknik çalışmalarını yürütür ve Çalışma Grubunun görevini yapması için gerekli işlemleri yerine getirirler. Çalışma Grubu sekreteri, Çalışma Grubu Başkanı tarafından, kendisine yardımcı olmak üzere kendi kuruluşlarına mensup TUFUAB Komisyonu üyeleri arasından seçilirler.

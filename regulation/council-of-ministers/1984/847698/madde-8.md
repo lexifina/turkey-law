@@ -1,0 +1,1 @@
+Madde 8 – Temsilci Kurum ve bu yönetmelikle yükümlendiği görevleri yerine getirebilmek için bir büro oluşturur ve bu büro TUFUAB Sekreteri başkanlığında görevini yürütecek şekilde Harita Genel Komutanlığınca teşkilatlandırılır.
