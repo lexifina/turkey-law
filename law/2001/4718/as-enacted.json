@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4718",
+  "year": 2001,
+  "title": "Türkiye Cumhuriyeti ile Tacikistan Cumhuriyeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-10-24",
+  "gazette_issue": "24563",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/10/20011024.htm",
+  "source_sha256": "605437c0920c01691caa72a44a1af05e6e6187b7664eef6c2e365365f7f1776d",
+  "text_sha256": "69a2ac119bbd2b8b42287b65794ac134751c3358c1711c4427ad50da4535ce9b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/10/24/24563-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/10/20011024.htm#6",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
