@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 79257,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar / Bütçe Komisyonu Raporu",
+  "summary": "Diyarbakır Milletvekili Cavit En ve Kastamonu Milletvekili Muzaffer Akalın'ın, Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü Memur ve Hizmetlilerinin Ücretlerine dair olan Kanunda değişiklik yapan 4620 ve 5000 sayılı kanunların bazı hükümlerinin değiştirilmesi hak kında kanun teklifine dair (2/51)",
+  "title": "Diyarbakır Milletvekili Cavit En ve Kastamonu Milletvekili Muzaffer Akalın'ın, Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü Memur ve Hizmetlilerinin Ücretlerine dair olan Kanunda değişiklik yapan 4620 ve 5000 sayılı kanunların bazı hükümlerinin değiştirilmesi hak kında kanun teklifine dair (2/51)",
+  "first_sitting_date": "1947-06-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 70,
+      "sitting_date": "1947-06-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006fih.pdf",
+      "pages": [
+        "87",
+        "124:125",
+        "239:240"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1724&v_gelecek_sayfa=201&v_kullanici_id=27484112",
+  "source_sha256": "5fe3e59afbc62991de3aa67d43d62fd391f79ee3f936aa1ac534c42a634e530b",
+  "in_force": "1947-06-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
