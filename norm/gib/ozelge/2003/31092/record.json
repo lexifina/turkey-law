@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2720",
+  "source_id": 31092,
+  "date": "2003-05-17",
+  "title": "Yeminli mali müşavirlerle süresinde düzenlenmiş tam tasdik sözleşmesi bulunmayan mükelleflerin yeminli mali müşavir tasdik raporuna istinaden alacakları tutar hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/31092",
+  "source_sha256": "b30ddac6b5b26c064ccdd81d9ee38bad143f74ee46219eca6cbdfe8efcdebee5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
