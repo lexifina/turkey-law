@@ -1,0 +1,2 @@
+Kapsam:
+Madde 2 – Bu yönetmelik nüfus planlaması eğitim, öğretim ve uygulama hizmetlerini yürütmekle yükümlü bulunan Sağlık ve Sosyal Yardım Bakanlığı ile, Milli Savunma, Milli Eğitim, Sosyal Güvenlik Bakanlıkları, Yüksek Öğretim Kurumları, Türkiye Radyo - Televizyon Kurumu, Sosyal Güvenlik Kurumları, tüm kamu kurum ve kuruluşları, kamu kurumu niteliğindeki ilgili meslek kuruluşları, özel ve gönüllü kuruluşları kapsar.

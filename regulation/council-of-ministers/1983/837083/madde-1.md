@@ -1,0 +1,1 @@
+Madde 1 – Bu yönetmeliğin amacı, kişilerin istedikleri sayıda, istedikleri zaman çocuk sahibi olmalarını sağlamak için nüfus planlaması eğitim, öğretim ve uygulama hizmetlerinin Sağlık ve Sosyal Yardım Bakanlığının koordinatorlüğünde ülke düzeyinde yürütülmesini sağlamaktır.
