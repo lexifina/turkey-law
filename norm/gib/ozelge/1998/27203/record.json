@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3026-354-480/49040",
+  "source_id": 27203,
+  "date": "1998-12-22",
+  "title": "Belge düzenine uyulmadığına ilişkin tespitlere dayanılarak, tespitlerin yapıldığı işyerinin kapatılması yerine mükelleflerin taleplerine bağlı olarak para cezasına çevrilmek suretiyle bu cezanın uygulamasından sonra verilen yargı kararına dayanılarak öden",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27203",
+  "source_sha256": "3db5482fd16a14cb003d11109f95ed5e3a288be1e0ab366480e5f72f78226e9f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
