@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK- 32/2005-4/Yatırım İndirimi 4",
+  "source_id": 625,
+  "date": "2005-03-15",
+  "title": "Yatırım İndirimi İstisnası Uygulamaları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/625",
+  "source_sha256": "c15973562073e30a9813fee6af5ed93a51e89a0dafa311ccb98c38632c3ac944",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
