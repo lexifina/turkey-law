@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6231-3-54/15408",
+  "source_id": 38163,
+  "date": "2000-04-06",
+  "title": "Bankalardan temin edilen veya ertelemeye tabi tutulan kredilerden, sadece Bakanlar Kurulu Kararları kapsamında açılacak veya ertelenecek krediler nedeniyle düzenlenen kağıtların damga vergisi istisnasından yararlanması mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38163",
+  "source_sha256": "92cea9cd2a84b3b07b02682fa66313ad2cd9c5d2e50bb74a252ef5fac9f69e35",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
