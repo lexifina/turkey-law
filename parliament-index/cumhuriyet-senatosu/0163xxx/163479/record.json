@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 163479,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Sağlık ve Sosyal Yardım Bakanlığı Teşkilâtında çalışmakta olup hususiyet arz eden yer ve hizmetlerde görevlendirilen Sağlık personeline dair kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Sosyal İşler ve Bütçe ve Plân komisyonları raporları (Millet Meclisi 1/531, 2/89; Cumhuriyet Senatosu 1/404) (S. Sayısı:451)",
+  "title": "Sağlık ve Sosyal Yardım Bakanlığı Teşkilâtında çalışmakta olup hususiyet arz eden yer ve hizmetlerde görevlendirilen Sağlık personeline dair kanun tasarısının Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Sosyal İşler ve Bütçe ve Plân komisyonları raporları (Millet Meclisi 1/531, 2/89; Cumhuriyet Senatosu 1/404) (S. Sayısı:451)",
+  "first_sitting_date": "1964-04-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 63,
+      "sitting_date": "1964-04-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020fih.pdf",
+      "pages": [
+        "3",
+        "608",
+        "710:717"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2010&v_gelecek_sayfa=501&v_kullanici_id=27484916",
+  "source_sha256": "73368e50ddf34fa0f93bf58d85a038ec61b95f50bb4de66fccf4ea8ca674a8c2",
+  "in_force": "1964-04-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
