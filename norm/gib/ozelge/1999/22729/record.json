@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4009-39/11978",
+  "source_id": 22729,
+  "date": "1999-03-24",
+  "title": "Çalınan emtia bedelinin vergi matrahının tespitinde zarar veya gider olarak indirilmesi de mümkün bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22729",
+  "source_sha256": "5b4d31465464bc889b03b518d5829f6623cf1bb628baf264beab982930bace4e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
