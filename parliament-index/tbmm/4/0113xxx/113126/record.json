@@ -1,0 +1,94 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 113126,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Barut ve mevaddı infilâkıye inhisarı idaresince verilecek ruhsat ve nakliye tezkereleri hakkında",
+  "title": "Barut ve mevaddı infilâkıye inhisarı idaresince verilecek ruhsat ve nakliye tezkereleri hakkında",
+  "first_sitting_date": "1934-03-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 24,
+      "sitting_date": "1934-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020fih.pdf",
+      "pages": [
+        "14"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 29,
+      "sitting_date": "1934-03-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020fih.pdf",
+      "pages": [
+        "74"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 33,
+      "sitting_date": "1934-03-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020fih.pdf",
+      "pages": [
+        "173"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 51,
+      "sitting_date": "1934-05-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022fih.pdf",
+      "pages": [
+        "114"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 54,
+      "sitting_date": "1934-05-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022054.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022fih.pdf",
+      "pages": [
+        "202:204",
+        "216"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 55,
+      "sitting_date": "1934-05-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c022/tbmm04022fih.pdf",
+      "pages": [
+        "222:222",
+        "225",
+        "227:228",
+        "230"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1296&v_gelecek_sayfa=801&v_kullanici_id=27483843",
+  "source_sha256": "a3813b2637d1c3f0b829341e80aafd7dafa845069c3698e1c08087b93a33b6ef",
+  "in_force": "1934-03-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
