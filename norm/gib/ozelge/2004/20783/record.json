@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4213-1831/24379",
+  "source_id": 20783,
+  "date": "2004-06-01",
+  "title": "Harcırah Kanununa tabi olmayan kurumların, çalıştırdıkları personele fiili yemek ve yatmak giderlerini belgelendirmeleri şartıyla bu giderlere karşılık olarak verdikleri gündelikler, Devlet memurlarına ödenen gündelikler ile karşılaştırılmaksızın tamamen ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20783",
+  "source_sha256": "c45551bc9f1f51d64c16d7d55ef47d741109a76cd054af50c35788b1d7c025b2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
