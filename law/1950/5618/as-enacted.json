@@ -1,0 +1,48 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5618",
+  "year": 1950,
+  "title": "Çiftçiyi Topraklandırma hakkında 4753 sayılı Kanunun bazı maddelerinin değiştirilmesine ve bu kanuna bazı maddeler ve geçici maddeler eklenmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-03-27",
+  "gazette_issue": "7467",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7467.pdf",
+  "source_sha256": "72f3eb7a184173c298ccc4b37269273784756a40fdd60e169e458b6e62e67228",
+  "text_sha256": "6c4daaaabddee264e3d15987a237b5c9243aacf0aa89d93e02b9246060c068eb",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      321,
+      1130
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205618.pdf",
+    "source_sha256": "0fa2a1bb35380b122b15f578689429738353e4cbd3e5d8da4cd3a98cec60fcf1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9819,
+    "bag": 0.8316,
+    "kd_coverage": 0.9983,
+    "kd_body_compared": 0.9974,
+    "rg_words": 3397,
+    "kd_words": 3526,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
