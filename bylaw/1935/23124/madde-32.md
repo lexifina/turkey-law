@@ -1,0 +1,1 @@
+Madde 32 – Sandıkla alakalı memurlar ve müstahdemler için bir hesabı cari defteri tutulur. Hesabı cari defterinde her memur ve müstahdem namına birer hesap açılarak başlangıcından itibaren verdiği bütün aidat oraya geçirilir.

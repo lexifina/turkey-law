@@ -1,0 +1,2 @@
+Madde 13 – Kendisine muvakkat olarak veya vekalet suretiyle kefalete bağlı vazife verilenler, vazifenin ehemmiyetine göre kefalet olarak bin liradan iki bin liraya kadar para veya Artırma, Eksiltme ve İhale Kanunundaki esaslara göre menkul kıymetler veya ipotekli gayri menkul gösterirler. Şu kadarki muvakkat veya vekalet suretiyle tayin olunanlar kefalete bağlı memurlardan iseler kendilerinden ayrıca kefalet aranmaz.
+Ancak aldıkları vekalet maaşından veya ücretinden yüzde iki aidat kesilir.

@@ -1,0 +1,1 @@
+Madde 15 – Sahiblerine red ve iade olununcaya kadar bu Sandıktaki mevduat muhtemel tazminata karşı teminattır. Üçüncü şahısların bu paralar üzerine koyacakları hacizler, paraların sahiplerine verileceği zaman tenfiz olunur.

@@ -1,0 +1,2 @@
+Madde 31 – (Değişik: 1.7.1954 - 4/3302 K.)
+Muhasipler, kefalete bağlı memur ve müstahdemlerden kesilerek muvakkaten mahalli bir bankaya verecekleri ve Umum Müdürlüğü göstereceği bankaya gönderecekleri kefalet aydatı miktarını bildiren nümunesine uygun müfredatlı hesabı cari cetvelinin tanzim ve tasdik ederek Nisan, Temmuz, Ekim, Ocak aylarının en geç ilk haftası nihayetine kadar üç ayda bir muntazaman Sandık Müdürlüğüne göndermeye mecburdurlar.

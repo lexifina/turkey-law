@@ -1,0 +1,1 @@
+Madde 27 – Teftiş ve murakabe vazifelerini ihmal ederek veya her hangi bir suretle teseyyüpte bulunarak zimmet ve ihtilas vukuuna sebebiyet veren muhasiplerin müşterek mesul sıfatile tazmin ile mahküm edildikleri takdirde bunlardan tahsili olunacak mebaliğ dahi Kefalet Sandığına aittir.

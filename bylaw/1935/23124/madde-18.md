@@ -1,0 +1,3 @@
+ALTINCI BÖLÜM
+Kefaletli vazifelerden ayrılanların alakalarının kesilmesi
+Madde 18 – Kefalete bağlı memur ve müstahdemlerden kefalete bağlı olmıyan bir memuriyete geçen veya ölenlerle her hangi bir sebeple kefaletli hizmetten ayrılmış olanların sandıktaki alakaları aşağıda yazılı surette kesilir. Bunların ayrıldıkları tarihe kadar kesilmiş olan aidatları yekünundan (17) nci maddeye göre mahsup edilecek miktarlar çıktıktan sonra kalanın birinci yarısı ölenlerin varislerile tekaüt edilenlere derhal verilir. Bunlardan gayrı sebeplerle kefaletli hizmetten ayrılmış olanlara mütaakip bilanço tarihinden üç ay sonra verilir.

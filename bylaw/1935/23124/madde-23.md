@@ -1,0 +1,1 @@
+Madde 23 – Muhasipler (22) nci maddedeki cezalardan başka ihmal ve teseyyüb-lerinin ve sebep oldukları zararların derecelerine göre Memurin Kanununun 28, 29, 30, 31, 32, 33 üncü maddelerine göre tayin olunacak inzibati cezalara da çarptırılırlar.

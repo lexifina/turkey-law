@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": null,
+  "date_quote": "1.7.1954 | 4/3302 | - | 3.8.1954",
+  "first_law": null,
+  "gazette": "3090",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1954-08-03",
+  "in_force_basis": "latest source-printed amendment commencement or Resmi Gazete date (current consolidated text)",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1935-08-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=23124&MevzuatTertip=3",
+  "source_bytes": 37945,
+  "source_id": "2.3.23124",
+  "source_sha256": "510e32fa7a7f15a6e2309675e90a8f28403ce975bab79741e86c16c0a2c9b9a7",
+  "source_type": "Tüzükler",
+  "title": "EVKAF KEFALET SANDIĞI NİZAMNAMESİ",
+  "word_count": 1912
+}

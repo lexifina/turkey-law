@@ -1,0 +1,1 @@
+Madde 33 – Evkaf idaresinin kefaletli memurlarının mezkür kanunla umumi Kefalet Sandığından ayrıldıktan sonra vukubulan ve fakat bu kanunun neşrinden sonra ıttıla hasıl olan zimmetleri hakkında da bu nizamname hükümleri tatbik olunur.

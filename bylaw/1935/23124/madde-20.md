@@ -1,0 +1,2 @@
+Madde 20 – Kefaletli hizmetten ayrılanlar (18) inci maddenin son fıkrasında yazılı müddet içinde yine kefaletli bir hizmete geçtiklerinde ilk yarıyı istemeğe hakları kalmaz.
+(18) inci maddeye göre Kefalet Sandığından birinci yarıyı aldıktan sonra üç sene içinde tekrar kefalete bağlı bir hizmete geçenlerin Sandıkta kalan son yarı hisseleri memuriyetleri müddetince sermaye olarak hesaplarına Sandıkta kalır.

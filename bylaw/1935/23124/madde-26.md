@@ -1,0 +1,1 @@
+Madde 26 – Kefaletli memur ve müstahdemlerden teftiş ve tahkik neticesinde veya her hangi bir suretle zimmet ve ihtilasları anlaşılanların mallarına mensup olduğu dairelerce derhal ihtiyati haciz koydurularak tebeyyün eden zararların tahsili temin edilir.
