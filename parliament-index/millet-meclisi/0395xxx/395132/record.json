@@ -1,0 +1,98 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 395132,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Madencilik Reformu kanun tasarısı (1/605)",
+  "title": "Madencilik Reformu kanun tasarısı (1/605)",
+  "first_sitting_date": "1972-12-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 30,
+      "sitting": 23,
+      "sitting_date": "1972-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c030/mm__03030023.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c030/mm__03030fih.pdf",
+      "pages": [
+        "436",
+        "451:474",
+        "604",
+        "687",
+        "690"
+      ]
+    },
+    {
+      "cilt": 31,
+      "sitting": 27,
+      "sitting_date": "1972-12-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c031/mm__03031027.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c031/mm__03031fih.pdf",
+      "pages": [
+        "10",
+        "339",
+        "340",
+        "354",
+        "355"
+      ]
+    },
+    {
+      "cilt": 32,
+      "sitting": 39,
+      "sitting_date": "1973-01-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032fih.pdf",
+      "pages": [
+        "154",
+        "650",
+        "689"
+      ]
+    },
+    {
+      "cilt": 33,
+      "sitting": 49,
+      "sitting_date": "1973-02-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c033/mm__03033049.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c033/mm__03033fih.pdf",
+      "pages": [
+        "6",
+        "48",
+        "59",
+        "106",
+        "111",
+        "139",
+        "142",
+        "147",
+        "255",
+        "258"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 112,
+      "sitting_date": "1973-05-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037112.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+      "pages": [
+        "451",
+        "528"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2701&v_kullanici_id=27484850",
+  "source_sha256": "1442e8a1cdd474cd8c1c3a22a950fda79ed5868b5b73694427e83c45b8799512",
+  "in_force": "1972-12-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
