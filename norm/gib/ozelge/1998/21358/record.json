@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.43/4301-149/49947",
+  "source_id": 21358,
+  "date": "1998-12-25",
+  "title": "Mükellefin elde ettiği kira gelirinin beyanı sırasında, çocukları için ödemiş olduğu kiraların indirim konusu yapılmayacağı tabiidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21358",
+  "source_sha256": "565c76171b9b85ebdee5d32eb55ac7ec69cc8dd32e8be7d45ebd462023893210",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
