@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6521-24/31577",
+  "source_id": 38263,
+  "date": "2001-06-08",
+  "title": "Devlete ait sosyal tesis işletmesinin perakende satışları için ödeme kaydedici cihaz kullanıp kullanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38263",
+  "source_sha256": "765d631b8281794fc49c43361ec7698b21b6da1e47824675bb8f2004ba499b2f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
