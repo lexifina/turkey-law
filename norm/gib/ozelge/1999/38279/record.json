@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-29453",
+  "source_id": 38279,
+  "date": "1999-07-12",
+  "title": "Ö. K. C. kullanan mükellef elinde bulunan mali hafızayı, taşıdığı sicil numarasından farklı bir sicil numarası ihtiva eden başka bir Ö.K.Cihazda kullanamaz.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38279",
+  "source_sha256": "9485497be2480760c8da68c636faaef9c4dd54301353922738057d7593baee37",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
