@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4699",
+  "year": 1945,
+  "title": "Arazi vergisi hakkındaki 1833 sayılı kanunun 2. maddesine bir fıkra eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-01-24",
+  "gazette_issue": "5913",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5913.pdf",
+  "source_sha256": "c5031765bdc3fc1272b609ee9dfce5097af58a65bd6e04030bc170d90f263153",
+  "text_sha256": "a20de224b752a2120174603304bd6d737f285a9bef38f7174190b28e41073a20",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      289,
+      308
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704699.pdf",
+    "source_sha256": "8d0b15bb9624f7470e92517ac936bad54a384770aced67e58a14f1758dc10029",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9344,
+    "bag": 0.8482,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9837,
+    "rg_words": 103,
+    "kd_words": 123,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
