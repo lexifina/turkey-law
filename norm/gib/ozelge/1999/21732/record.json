@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-30/30074/17158",
+  "source_id": 21732,
+  "date": "1999-04-30",
+  "title": "01.01.1995 tarihinden önce yatırım teşvik belgesine bağlanan yatırımların, bu tarihten sonra leasing yoluyla gerçekleşmek üzere leasing şirketince teşvik belgesine bağlanması durumunda gerçekleştirilen yatırımlar için yatırım indirimindeki endeksleme uygu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21732",
+  "source_sha256": "10bb34593011b12893a2d80441f496eb82b0f98845c84603491264afd1df43de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
