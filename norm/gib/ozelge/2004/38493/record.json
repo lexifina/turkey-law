@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223- 2774",
+  "source_id": 38493,
+  "date": "2004-04-07",
+  "title": "Süresinde düzenlenmiş tam tasdik sözleşmesi bulunan mükelleflerin gelir veya kurumlar vergisi beyannamelerine göre hesaplanan gelir veya kurumlar vergisinden beyannameye dahil kazançlar üzerinden daha önce tevkif yoluyla kesilen vergilerin mahsup edilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38493",
+  "source_sha256": "7026d833aac518c94c05599691d394950cb4106959fe8cbe13748a3b9b60cbb8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
