@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1936",
+  "year": 1932,
+  "title": "İhtiyat zabitleri ve ihtiyat askerî memurları hakkındaki 1076 numaralı Kanunun 23. maddesindeki H fıkrasının tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-03-30",
+  "gazette_issue": "2064",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2064.pdf",
+  "source_sha256": "724e86504299a719b5920ee89e47e497bafdecc6e6656696f79a47db7feefadc",
+  "text_sha256": "af3995a12251cd0de9a0c0e255288293d425145aa1a165ee1fca7f294e01c7ad",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      79,
+      102
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101936.pdf",
+    "source_sha256": "331452ee84d934b0976500efb558761bb2378e1582bf54f01502c39993b90786",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9255,
+    "bag": 0.8369,
+    "kd_coverage": 0.9577,
+    "kd_body_compared": 0.9324,
+    "rg_words": 72,
+    "kd_words": 74,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
