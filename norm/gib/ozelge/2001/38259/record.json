@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6521-22/46709",
+  "source_id": 38259,
+  "date": "2001-09-06",
+  "title": "Sayman mutemedi alındısı yerine ÖKC kullanılıp kullanılmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38259",
+  "source_sha256": "8f956e24109c3b81e7e942cf7b3c4342a3878ee37b684e57e8d484f43bacf945",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
