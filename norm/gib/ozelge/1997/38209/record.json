@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6382-02-45157",
+  "source_id": 38209,
+  "date": "1997-10-23",
+  "title": "Tapu işlemlerinde eğitime katkı payı alınması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38209",
+  "source_sha256": "0bc6dce37b44e454afe351858eb1d062e9419d4cb21a95ad896ea3869bd9b14d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
