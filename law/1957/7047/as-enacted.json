@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7047",
+  "year": 1957,
+  "title": "Limanların inşa, tevsi, ıslah ve teçhizine dair olan 5775, 6192 ve 6596 sayılı kanunlara ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-09-13",
+  "gazette_issue": "9705",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9705.pdf",
+  "source_sha256": "02b45ede23affb364afa80e7b04176f5b3a4f96a030c17197b2e4ebd7273bb1f",
+  "text_sha256": "dbdd4cb2b1df2c53b3f2c9bed38dbf2be6fe44bf2493cc3c8cda5b4f872d51a5",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      499,
+      523
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907047.pdf",
+    "source_sha256": "3686a99478da11a4c486697a62858dfe6595ac7ad236994ad99e6b85ca31c813",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9901,
+    "bag": 0.9355,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9785,
+    "rg_words": 95,
+    "kd_words": 93,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
