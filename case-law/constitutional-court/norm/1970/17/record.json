@@ -1,0 +1,172 @@
+{
+  "id": "f2aff7f3-a1fc-0dbd-56f4-c9c609003b22",
+  "decision_number": "1970/17",
+  "case_number": "1970/20",
+  "decision_date": "1970-04-07",
+  "published_date": null,
+  "source_publication_date": "1970-04-10",
+  "gazette_number": 0,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1970/17",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "ab19323df0fa95e19e712655c062077354437b735193972482804aba8b39bdff",
+  "version_label": "as-enacted",
+  "in_force": "1970-04-07",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": false,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1961-07-09",
+      "normNumaraAdParamId": "df531b2a-cfd2-3aae-576a-8add1bb15966",
+      "incelemeturuKarsonucuParamId": "98f8ce7e-05ef-48f3-187c-93b34a7266cc",
+      "sonucGerekcesiParamId": "49cbbb84-1753-a521-0c48-984e46220971",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "bazı hükümler",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/149"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    },
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1965-07-13",
+      "normNumaraAdParamId": "a4cabc81-a50b-d103-118f-9b873225ae9f",
+      "incelemeturuKarsonucuParamId": "98f8ce7e-05ef-48f3-187c-93b34a7266cc",
+      "sonucGerekcesiParamId": "49cbbb84-1753-a521-0c48-984e46220971",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "bazı hükümler",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/149"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    },
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1961-04-26",
+      "normNumaraAdParamId": "773b06b6-b55a-4e4e-60f9-a7242c207128",
+      "incelemeturuKarsonucuParamId": "98f8ce7e-05ef-48f3-187c-93b34a7266cc",
+      "sonucGerekcesiParamId": "49cbbb84-1753-a521-0c48-984e46220971",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "bazı hükümler",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "yok"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    },
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1961-05-24",
+      "normNumaraAdParamId": "d94ff3dc-bd55-b0f8-7371-e0045ad37085",
+      "incelemeturuKarsonucuParamId": "98f8ce7e-05ef-48f3-187c-93b34a7266cc",
+      "sonucGerekcesiParamId": "49cbbb84-1753-a521-0c48-984e46220971",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "bazı hükümler",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "yok"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    },
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1961-05-25",
+      "normNumaraAdParamId": "66f0efc1-f4a2-d68b-c274-7b1893f23f4c",
+      "incelemeturuKarsonucuParamId": "98f8ce7e-05ef-48f3-187c-93b34a7266cc",
+      "sonucGerekcesiParamId": "49cbbb84-1753-a521-0c48-984e46220971",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "bazı hükümler",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "yok"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 191
+}
