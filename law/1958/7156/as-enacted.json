@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7156",
+  "year": 1958,
+  "title": "6632 sayılı Kanunla tasdik edilmiş olan Milletlerarası Kalay Anlaşmasının IV. maddesinin Milletlerarası Kalay Konseyine ve personeline tanınan vergi muafiyetine mütaallik 22. fıkrasının kaldırılarak yerime iki fıkra ikamesi hakkındaki mezkûr Konsey kararının tasdikine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-07-04",
+  "gazette_issue": "9946",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9946.pdf",
+  "source_sha256": "369750a538e93f2a22332b5ca0eb7df48d6d7842637720a20623c4eb5e8e6b13",
+  "text_sha256": "766cb5155c9fae70e1b173a2cd9685374002bbeb648ddd1970f742213f953a7b",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      920,
+      1006
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007156.pdf",
+    "source_sha256": "9bd077757c7cfc87d9b3ffb12f1f0ef64951fc388e8b5cf6160193a3d203d4db",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9465,
+    "bag": 0.7587,
+    "kd_coverage": 0.9937,
+    "kd_body_compared": 0.9937,
+    "rg_words": 288,
+    "kd_words": 315,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
