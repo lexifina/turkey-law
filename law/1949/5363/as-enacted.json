@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5363",
+  "year": 1949,
+  "title": "Ankara su tesisatının Belediyeye devri ve işletilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-04-09",
+  "gazette_issue": "7178",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7178.pdf",
+  "source_sha256": "5e8fa5f602b4aaa778897d7700731b15282b5ff1c7c867290bea280f51e4e81e",
+  "text_sha256": "ac0ffcbdbb6e3bf7268d1e6e1b2eddc08a3f1f5fe719c32126f9b841d3df9bdf",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      37,
+      73
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105363.pdf",
+    "source_sha256": "7421d707fcd97bbdb353c38e6bcd4119edc6c41b126db466b0053d9024f58fe5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9652,
+    "bag": 0.8849,
+    "kd_coverage": 0.9882,
+    "kd_body_compared": 0.9805,
+    "rg_words": 252,
+    "kd_words": 257,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
