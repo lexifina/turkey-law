@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-03-13",
+  "issue": "25047",
+  "edition": "regular",
+  "item": 25,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Türkiye Gübre Sanayii Anonim Şirketi Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030313-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (48 = 48)",
+  "ilan_codes": [
+    "5051/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030313-3.htm",
+  "category_page_sha256": "359d6c08664f6401ed065a912e31981ebcee26128e4f124dde6e895d7112c407",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/03/20030313.htm",
+  "index_sha256": "963dfcc08f0ad89b8f00a66ace41d50188fd246ec2c751a9b9fc8cc2ba302763",
+  "index_header": "13 Mart 2003 ... Sayı : 25047",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
