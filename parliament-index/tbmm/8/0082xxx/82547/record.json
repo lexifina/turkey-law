@@ -1,0 +1,91 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82547,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "HIFZI OĞUZ BEKATA (ANKARA)",
+  "summary": "Köy Enstitüsü mezunu öğretmenlerle köy sağlık memurlarının geçimlerini düzenlemek üzere 3803, 4247 ve 4459 sayılı Kanunlara ek 5129 Sayılı Kanunun 1. maddesinin değiştirilmesine dair (2/175)",
+  "title": "Köy Enstitüsü mezunu öğretmenlerle köy sağlık memurlarının geçimlerini düzenlemek üzere 3803, 4247 ve 4459 sayılı Kanunlara ek 5129 Sayılı Kanunun 1. maddesinin değiştirilmesine dair (2/175)",
+  "first_sitting_date": "1949-11-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 1,
+      "sitting_date": "1949-11-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c021/tbmm08021001.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c021/tbmm08021fih.pdf",
+      "pages": [
+        "3"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 17,
+      "sitting_date": "1949-12-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022017.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022fih.pdf",
+      "pages": [
+        "211"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 19,
+      "sitting_date": "1949-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022fih.pdf",
+      "pages": [
+        "300:301"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 20,
+      "sitting_date": "1949-12-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022fih.pdf",
+      "pages": [
+        "349:367"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 21,
+      "sitting_date": "1949-12-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022021.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022fih.pdf",
+      "pages": [
+        "431"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 22,
+      "sitting_date": "1949-12-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c022/tbmm08022fih.pdf",
+      "pages": [
+        "470:486"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=265&v_gelecek_sayfa=101&v_kullanici_id=27484152",
+  "source_sha256": "212ed156472b974b03e9914d300965ddabdc488993ebc676ecc90f85dcbf28e6",
+  "in_force": "1949-11-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
