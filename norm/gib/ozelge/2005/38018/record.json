@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5313-5İ4",
+  "source_id": 38018,
+  "date": "2005-03-29",
+  "title": "Firmanızın havacılık alanında pilot yetiştiren Uçuş Okulu olarak faaliyet gösterdiği, yerde uçuş ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38018",
+  "source_sha256": "71ef7fa5b259e1a039bd144f3366cb51c54711f93a2fcd047e5302c3e6b575b4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
