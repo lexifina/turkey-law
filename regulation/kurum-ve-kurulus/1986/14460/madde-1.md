@@ -1,0 +1,1 @@
+Madde 1- Bu yönetmeliğin amacı; Milli Eğitim Bakanlığına bağlı, bir kısım derslerin öğretiminin yabancı dilde yapıldığı okullarda sözleşmeli olarak görevlendirilecek yabana uyruklu öğretmenlerin nitelikleri ve seçimleriyle ilgili hususları düzenlemektir.

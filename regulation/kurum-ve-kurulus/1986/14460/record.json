@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.14460",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ EĞİTİM BAKANLIĞINA BAĞLI BAZI OKULLARDA SÖZLEŞMELİ OLARAK GÖREVLENDİRİLECEK YABANCI UYRUKLU ÖĞRETMENLERİN NİTELİKLERİ VE SEÇİMLERİNE DAİR YÖNETMELİK",
+  "number": "14460",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1986/14460",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14460&MevzuatTertip=5",
+  "source_sha256": "180be465d72e9bee555d6eec449e54e330208f66fd057c5ba3b3a909fc242fde",
+  "source_bytes": 18869,
+  "published": "1986-02-07",
+  "gazette": "19012",
+  "in_force": "1986-02-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.02.1986); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 579,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

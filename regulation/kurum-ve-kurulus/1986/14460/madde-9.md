@@ -1,0 +1,2 @@
+Seçim Komisyonu :
+Madde 9- Sözleşmeli olarak görevlendirilecek yabancı uyruklu öğretmenlerin seçimi bir komisyonca yapılır. Mülakat ve gerektiğinde yazılı imtihan yaparak seçim işlemini gerçekleştirecek olan seçim komisyonu Dışişleri Bakanlığınca tespit edilecek bir Büyükelçi başkanlığında, ilgili ülkedeki Büyükelçiliğimizden bir yetkili, Milli Eğitim Bakanlığınca görevlendirilecek iki yetkili ve bir öğretim üyesinden meydana gelir. Komisyona aynca ilgili ülkeden de bir temsilci katılabilir.

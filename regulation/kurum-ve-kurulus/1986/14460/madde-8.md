@@ -1,0 +1,2 @@
+Yabancı Uyruklu Öğretmenlerin Seçimi:
+Madde 8- Türkiye'de sözleşmeli olarak görevlendirilecek yabancı uyruklu öğretmenler, bir ülke veya o ülkedeki yetkili kuruluşla işbirliği halinde, ilgili ülke veya kuruluş tarafından 3 ve 4 üncü maddelerdeki hususlar dikkate alınarak tespit edilecek nitelikte ve mesleğinde başarılı adaylar arasından, diğer durumlarda müracaat edenler arasından 3 ve 4 üncü maddelerdeki hususlar dikkate alınarak mülakatla seçilir. Gerek görüldüğü hallerde yazılı imtihan da yapılabilir.
