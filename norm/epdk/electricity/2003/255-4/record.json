@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "255/4",
+  "decision_date": "2003-12-19",
+  "title": "2005 yılı Kesme Bağlama bedelleri",
+  "resmi_gazete_date": "2003-12-30",
+  "resmi_gazete_number": "25332",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Tvy7UcHDqrY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Tvy7UcHDqrY="
+  ],
+  "source_sha256": "666c95f48752ca6706aec75a0ec168c65712e5142d0977722cc1531d9fb3a0dc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-12-19",
+  "law_text_complete": false
+}
