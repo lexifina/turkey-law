@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6094",
+  "year": 1953,
+  "title": "Vergi Usul Kanununun Bazı Maddeleri ile Bu Kanuna Bağlı Cetvelde Değişiklik Yapılmasına ve Bu Kanuna Bazı Maddeler ve Fıkralar Eklenmesine Dair 5815 Sayılı Kanunun Bazı Hükümlerinin Değiştirilmesine ve Vergi Usul Kanununun Mezkur Kanunla Kaldırılan 348 nci Maddesi Yerine Bir Madde Konulmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-08",
+  "gazette_issue": "8452",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8452.pdf",
+  "source_sha256": "e3f3d18f33d466984986af25c27f0b72b63e9644e24c1420ad2b14d64bc74e12",
+  "text_sha256": "4660186c1b4579d3f75802980038f78ce6eb9a554aecece8c1c6314eb3fa04ab",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      434,
+      569
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506094.pdf",
+    "source_sha256": "9c43e19f6660d11e869ae3057eaa94b44cbff0c9691844adf6258103ae9c6bc9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9552,
+    "bag": 0.9041,
+    "kd_coverage": 0.9963,
+    "kd_body_compared": 0.9938,
+    "rg_words": 838,
+    "kd_words": 804,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
