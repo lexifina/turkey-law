@@ -1,0 +1,71 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6604",
+  "year": 1955,
+  "title": "Ankara şehri İmar Müdürlüğünün Ankara Belediyesine bağlanması hakkındaki 3196 sayılı Kanunun 3. maddesinin değiştirilmesine dair kanun",
+  "adopted": "1955-05-20",
+  "adopted_as_published": "20/05/1955",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.05.1955 No: 9013",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706604.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 37",
+  "committee_reports": [
+    {
+      "label": "TBMM 322 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007078ss0322.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 10,
+      "kayit_no": 51733,
+      "title": "Ankara şehri İmar Müdürlüğünün Ankara Belediyesine bağlanması hakkındaki 3196 sayılı Kanunun 3. maddesinin değiştirilmesine dair kanun",
+      "adopted_as_published": "20/05/1955",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706604.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 322 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007078ss0322.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 77,
+          "sitting_date": "1955-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007fih.pdf",
+          "pages": [
+            "306"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 78,
+          "sitting_date": "1955-05-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007078.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007fih.pdf",
+          "pages": [
+            "452:453"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=643&v_gelecek_sayfa=101&v_kullanici_id=27483184",
+      "page_sha256": "ed476a87a8366241de8b17d9149e6ce74cdb6d7b799f12aa0ae7f14f7dcb3b9a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ed476a87a8366241de8b17d9149e6ce74cdb6d7b799f12aa0ae7f14f7dcb3b9a",
+  "issuer": "TBMM",
+  "in_force": "1955-05-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 20/05/1955; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
