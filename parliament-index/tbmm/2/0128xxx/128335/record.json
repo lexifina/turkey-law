@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 128335,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Türkİye Cumhuriyeti ile İspanya Kralığı arasında münakit Muhadenet Muahedenamesi hakkında.",
+  "title": "Türkİye Cumhuriyeti ile İspanya Kralığı arasında münakit Muhadenet Muahedenamesi hakkında.",
+  "first_sitting_date": "1925-04-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 17,
+      "sitting": 100,
+      "sitting_date": "1925-04-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c017/tbmm02017100.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c017/ehttbmm02017100.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c017/tbmm02017fih.pdf",
+      "pages": [
+        "283",
+        "295"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1019&v_gelecek_sayfa=401&v_kullanici_id=27483741",
+  "source_sha256": "d0f824a30d58e4f8a8011b23ff9268f7c5c39903451aafd044776d25409cdd9f",
+  "in_force": "1925-04-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
