@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5516-260/18391",
+  "source_id": 31524,
+  "date": "2000-04-21",
+  "title": "Katma Değer Vergisi Kanununun 17. maddesinde sayılan kurum ve kuruluşlarına hibe yoluyla gönderilen malların ithali katma değer vergisinden istisnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31524",
+  "source_sha256": "0a7be3202bd6a6e46003c2bf81413885eca95922f800d8cc786453d5785beba9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
