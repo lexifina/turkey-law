@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1596",
+  "year": 1930,
+  "title": "1223 numaralı Gazi Mustafa Kemal köprüsünün inşasına dair kanuna müzeyyel kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-05-03",
+  "gazette_issue": "1486",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1486.pdf",
+  "source_sha256": "81109ae689706749c73ce0251cce4578068352eb0988e1ff86ebb714e5aa2d09",
+  "text_sha256": "6a1557c0199e7091cc2ce81a39b0e3a29e610bc523a5c922f6317bf8cc48cc1b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      50,
+      84
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801596.pdf",
+    "source_sha256": "645f356fc00c42b1f33bd10532667d6e1b7909726bbfdb6a074079366dae02d0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9206,
+    "bag": 0.8816,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9754,
+    "rg_words": 126,
+    "kd_words": 122,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
