@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4803",
+  "year": 2003,
+  "title": "Sınıraşan Örgütlü Suçlara Karşı Birleşmiş Milletler Sözleşmesinin Ek Kara, Deniz ve Hava Yoluyla Göçmen Kaçakçılığına Karşı Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-02-04",
+  "gazette_issue": "25014",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/02/20030204.htm",
+  "source_sha256": "1862b17b3a6e4c256b58a6ee5f7f921dea903d1bbcd203d32f2cbb07807a29b1",
+  "text_sha256": "43a6e91c200f0409d6fa368e8a0c170b4ab5d6c408c79b908d86240bd6b19a89",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/02/04/25014-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/02/20030204.htm#11",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
