@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 68491,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MUHİT TÜMERKAN (SİNOP)",
+  "summary": "Gelir Vergisi Kanununun 24. maddesinde değişik Gelir Vergisi Kanununun 24. maddesinde değişiklik yapılması hakkında (2/532)",
+  "title": "Gelir Vergisi Kanununun 24. maddesinde değişik Gelir Vergisi Kanununun 24. maddesinde değişiklik yapılması hakkında (2/532)",
+  "first_sitting_date": "1954-01-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 27,
+      "sitting": 30,
+      "sitting_date": "1954-01-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c027/tbmm09027030.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c027/tbmm09027fih.pdf",
+      "pages": [
+        "210"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=676&v_gelecek_sayfa=601&v_kullanici_id=27484220",
+  "source_sha256": "6460e7f63a5b9464a65ae398ee2987a1ae118009a2afa20514553f1b38955337",
+  "in_force": "1954-01-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
