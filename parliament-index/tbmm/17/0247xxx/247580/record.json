@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 247580,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "FENNİ İSLİMYELİ (BALIKESİR)",
+  "summary": "Ve Mardin Milletvekili Süleyman Çelebi'nin, Ticarî Senet Protestolarının Kaldırılması Hakkında (2/228, 2/191)",
+  "title": "Ve Mardin Milletvekili Süleyman Çelebi'nin, Ticarî Senet Protestolarının Kaldırılması Hakkında (2/228, 2/191)",
+  "first_sitting_date": "1986-02-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 25,
+      "sitting": 69,
+      "sitting_date": "1986-02-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025fih.pdf",
+      "pages": [
+        "216:217"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 72,
+      "sitting_date": "1986-02-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025fih.pdf",
+      "pages": [
+        "352"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 73,
+      "sitting_date": "1986-02-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025fih.pdf",
+      "pages": [
+        "380:381"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=189&v_gelecek_sayfa=101&v_kullanici_id=27484352",
+  "source_sha256": "a8c01009c7d5d4f4d7484d8c8ff4c15536e2b74d4a9eae60402443ae2a58ce90",
+  "in_force": "1986-02-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
