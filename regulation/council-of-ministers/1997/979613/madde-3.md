@@ -1,0 +1,24 @@
+Tanımlar
+Madde 3 – Bu Yönetmeliğin uygulanmasında;
+Kurum : Rekabet Kurumu'nu
+Kurul : Rekabet Kurulu'nu,
+Kanun : 7.12.1994 tarihli ve 4054 Sayılı Rekabetin Korunması Hakkında Kanunu,
+Başkan : Rekabet Kurulu Başkanı'nı,
+Başkanlık : Rekabet Kurulu Başkanı, İkinci Başkan ve Kurul Başkan Yardımcılarından teşekkül eden Başkanlığı,
+Alım-Satım : Taşınır ve taşınmaz mallar ile her türlü ihtiyaç maddeleri, hizmet ve satımını,
+Hizmet : Kanun, Tüzük ve Yönetmeliklere göre çalıştırılan aylıklı, ücretli yevmiyeli ve sözleşmeli personel istihdamı hariç olmak üzere, gerçek ve tüzel kişilere ücret karşılığında yaptırılan araştırma, imalat, etüd, plan, proje, kontrollük, pazarlama, müşavirlik ve benzeri hertürlü hizmetleri,
+Yapım : Her türlü inşaat, ihzarat,i malat, sondaj, tesisat, onarım, yıkma, değiştirme, iyileştirme, yenileştirme ve montaj işlerini,
+Kira : Taşınır ve taşınmaz malların ve hakların kiralanmasını veya kiraya verilmesini,
+Trampa ve Mülkiyetin
+Gayri Ayni Hak Tesisi : Borçlar Kanunu ile Türk Medeni Kanunu'nun trampa ve mülkiyetin gayri ayni hak tesisi ile ilgili maddelerinde gösterilen işlemleri,
+Taşıma : Yükleme, taşıma, boşaltma, depolama ve bunlara ilişkin ambalaj işlerini,
+Tahmin edilen bedel : İhale konusu olan işlerin tahmin edilen bedelini ve yapım işlerinde keşif bedelini,
+Uygun bedel : Artırmalarda tahmin edilen bedelden aşağı olmamak üzere, teklif edilen bedellerin en yükseğini, eksiltmelerde tahmin edilen bedeli geçmemek üzere teklif edilen bedellerin tercihe layık görülenini, bedel tahmini yapılmayan ihalelerde teklif edilen bedellerin uygun görülenini,
+İta Amiri : Kurul Başkanı veya yetkisini devredeceği kimseyi,
+İstekli : İhaleye katılan gerçek veya tüzel kişileri,
+İhale : Bu Yönetmelikte yazılı usul ve şartlarla işin isteklileri arasından seçilecek birisi üzerinde bırakıldığını gösteren ve yetkili mercilerin onayı ile tamamlanan sözleşmeden önceki işlemleri,
+Müteahhit : Üzerine ihale yapılan istekli veya isteklileri,
+Müşteri : Artırma sonunda kendisine ihale yapılan istekli veya isteklileri,
+Şartname : Yapılacak işlerin genel, özel, teknik ve idari esas ve usullerini gösteren belge veya belgeleri,
+Sözleşme : İdare ile müteahhit veya müşteri arasında yapılan yazılı anlaşmayı,
+ifade eder.

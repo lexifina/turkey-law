@@ -1,0 +1,3 @@
+Yetki Sınırları
+Madde 6 – Taşınır ve taşınmaz mal ile demirbaş eşya alımı gibi, satınalma, kiralama, taşıtma ve benzeri konulardaki öneriler Kurulda görüşülüp karara bağlanır. Ancak, Kurul bu yetkilerinden bir kısımını Başkana devredebilir. Yetki sınırları her yıl Kurul bütçesinde belirlenir. Parasal limitler Kurul Kararı ile arttırılabilir.
+Satın alınmasının veya onarılmasının gecikmesinde Kurumun işlerinin aksaması sözkonusu olan, Kurumun zararına yol açabilecek ve özelliği bulunan, kaliteli işçiliğe gerek gösteren ve bütçede bu amaçla belirtilen sınırı aşmayan satınalma ve hizmetlerle, onarım işleri, durumun neden ve zorlukları ile beklenen sonuçları belirtilerek İdari ve Mali İşler Dairesi Başkanı'nın önerisi ve Başkanın onayı ile yaptırılabilir.
