@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6573",
+  "year": 1955,
+  "title": "3491 Sayılı Toprak Mahsulleri Ofisi Kanununun Bazı Maddelerinin Değiştirilmesine ve Bu Kanuna Bir Madde Eklenmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1955-05-27",
+  "gazette_issue": "9013",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9013.pdf",
+  "source_sha256": "d114978ebb6d1d673c896cd838423c71e6d24be9ea1d1fd255e36c09f1e9b9bc",
+  "text_sha256": "4862682516ee4e88b0069bddea303e26f07962ed7ca3bfed5a62fc42d1d36533",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      857,
+      909
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706573.pdf",
+    "source_sha256": "5f0be72bdefd2fb9fdb5e706f88ba697c42628e0211220ca5e818c6b9620e2ba",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9695,
+    "bag": 0.9477,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9946,
+    "rg_words": 374,
+    "kd_words": 373,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
