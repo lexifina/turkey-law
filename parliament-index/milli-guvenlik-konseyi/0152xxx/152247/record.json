@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 152247,
+  "assembly": "Milli Güvenlik Konseyi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Karayolları Genel Müdürlüğünün 1968 1969, 1970, 1971, 1972, 1973 ve 1974 Bütçe Yılları Kesinhesap Kanunu Tasarılarına Dair (1/543, 1/544, 1/545, 1/546, 1/547, 1/548, 1/549)",
+  "title": "Karayolları Genel Müdürlüğünün 1968 1969, 1970, 1971, 1972, 1973 ve 1974 Bütçe Yılları Kesinhesap Kanunu Tasarılarına Dair (1/543, 1/544, 1/545, 1/546, 1/547, 1/548, 1/549)",
+  "first_sitting_date": "1983-09-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 166,
+      "sitting_date": "1983-09-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c010/mgk_01010166.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c010/mgk_01010fih.pdf",
+      "pages": [
+        "172:173"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=MGK&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=964&v_gelecek_sayfa=501&v_kullanici_id=27484962",
+  "source_sha256": "da69891acd41b428a6fd697daa47eb48561ed427b835238b7605d16144f46e9c",
+  "in_force": "1983-09-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
