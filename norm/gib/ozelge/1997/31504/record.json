@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5315-304-45933",
+  "source_id": 31504,
+  "date": "1997-10-31",
+  "title": "Yabancı elçiliklerin Türkiye'de okul inşa etmek üzere arsa alımı sırasında tapu harcından müstesna tutulması icap eder.Büyükelçiliğin gayrimenkul alımlarında da katma değer vergisi istisnası uygulanması şartıyla arsa satın alımının yukarıdaki madde gereği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31504",
+  "source_sha256": "452a89fcf6cb2e0e8f264d432fb97f8694fdf25cf58e75f9f01914d826fb08e3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
