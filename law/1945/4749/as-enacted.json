@@ -1,0 +1,64 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4749",
+  "year": 1945,
+  "title": "Şikago'da 7 Aralık 1944 tarihinde akit ve imza edilmiş olan milletlerarası Sivil Havacılık Anlaşması ile Sivil Havacılık Geçici Sözleşmesi ve bunların eklerinin onanması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-06-12",
+  "gazette_issue": "6029",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6029.pdf",
+  "source_sha256": "70dbd1667f63c387a4fb093e295576bd971cf042d53d9f6fece36cb62fa6efdb",
+  "text_sha256": "eba2a40fd67c7c522c560f356e61b35f55ba7c73909ca7703f001556ba1d1692",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "line_span": [
+    [
+      10,
+      2984
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704749.pdf",
+    "source_sha256": "bbe6b377da877b11faf1b7e6490221e8e6678b43be91f7d9b863cc5bdeb20341",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.958,
+    "bag": 0.8997,
+    "kd_coverage": 0.9991,
+    "kd_body_compared": 0.9991,
+    "rg_words": 17416,
+    "kd_words": 17674,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
