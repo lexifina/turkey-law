@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6516-851/031622",
+  "source_id": 38239,
+  "date": "2004-07-05",
+  "title": "Torba İçerisine Konularak Vergi Dairesince Mühürlenen Ödeme Kaydedici Cihazların Tekrar Kullanılmak İstenilmesi Halinde Mühür vergi dairesi tarafından kaldırılmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38239",
+  "source_sha256": "8ce2995634fda91f76405785dadbe06c1a1b89f592fceda934e40a7cdd6bc6d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
