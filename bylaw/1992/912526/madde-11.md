@@ -1,0 +1,2 @@
+Laboratuvar Kurma ve İşletme
+Madde 11 – Ziraat mühendisleri, lisans veya uzmanlık alanlarına göre, bitki, tohumluk, gübre, toprak, sulama suyu, tarım ilacı, yem, gıda, tarım alet ve makinaları, su ürünleri, bitki hastalık ve zararlıları, tarım ürünleriyle ilgili sıvı ve katı atıklar, tarım ürünleri üzerindeki ilaç kalıntıları konularında araştırma, kalite kontrolu, standart ve yönetmeliklere uygunluk gibi amaçlarla fiziksel, kimyasal ve mikrobiyolojik kontrol ve analizler yapmak üzere laboratuvar kurmaya ve işletmeye yetkilidirler.

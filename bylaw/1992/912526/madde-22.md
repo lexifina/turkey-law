@@ -1,0 +1,2 @@
+Su Ürünleri
+Madde 22 – Su ürünleri alanında öğrenim görmüş ziraat mühendisleri, denizlerde ve iç sularda bulunan bitkilerle hayvanların ve bunların yumurta, yavru ve yetişkinlerinin, üretimi, avlanması, pazarlanması, dağıtım, ithal ve ihracı, tescil ve denetimiyle ilgili konularda, deniz ve iç sulardaki üretim alanlarının belirlenmesi, üretim tesislerinin planlanması, projelendirilmesi ve yönetimi konularında faaliyette bulunmaya yetkilidirler.

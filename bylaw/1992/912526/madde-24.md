@@ -1,0 +1,2 @@
+Gıda Bilimi ve Teknolojisi
+Madde 24 – Gıda bilimi ve teknolojisi alanında öğrenim görmüş ziraat mühendisleri, insanlar tarafından tüketilen gıda maddelerinin üretimi, işlenmesi, muhafazası, depolanması, ambalajlanması ve pazarlanması konularında ki fabrika, imalathane, mandıra ve benzeri tesislerle gıda kontrol laboratuvar ve hizmetlerinde teknik eleman ve sorumlu yönetici olarak çalışmaya, proje ve rapor düzenlemeye ve onaylamaya yetkilidirler.
