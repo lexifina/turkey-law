@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5549-70/20135",
+  "source_id": 33533,
+  "date": "1997-05-15",
+  "title": "Yatırım Teşvik belgesine sahip bulunmayan malın erteleme uygulamasından yararlandırılamayacağı ve Gümrük Kanunu gereğince Gümrük Vergisi teminata bağlanarak gerçekleştirelen bir ithalat olması halinde ise gümrük vergisi yönünden ne işlem yapılıyorsa K.D.V",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33533",
+  "source_sha256": "111e1ef2a96709648304f2560784f0265335fbfabc5a79f27c08c913ce27c839",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
