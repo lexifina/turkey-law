@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5517-1698/043381",
+  "source_id": 33576,
+  "date": "1999-10-24",
+  "title": "Bahçe ve çim armatürleri teslim ve montaj işlemlerinde uygulanacak KDV hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33576",
+  "source_sha256": "6de12ae2163bf31dcb07c3747969819657780649b1ab448c8d012cc30e3a10aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
