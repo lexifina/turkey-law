@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "29",
+  "year": 1960,
+  "title": "Kıbrıs'a gönderilecek Türk Askeri Birliği mensuplarının aylık ve ücretleri ile çeşitli istihkakları ve Birliğin sair masrafları hakkında geçici Kanun (BASILI GENEL KURUL TUTANAGI BULUNMAMAKTADIR)",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-07-23",
+  "gazette_issue": "10559",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10559.pdf",
+  "source_sha256": "d02e9dcea88c0509ae683f6e8c3971134381718dac4f9304c60962bdab3aeb30",
+  "text_sha256": "7aade6bf8793ed8a3638ae745688ba0a861a56d74a921ddd7958fa1946e97426",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      148,
+      164
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300029.pdf",
+    "source_sha256": "26df8fad3afc551d51592fd6bab94a7adef2ed47a61644efc8aef38a911beec5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9858,
+    "bag": 0.9652,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.95,
+    "rg_words": 116,
+    "kd_words": 120,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
