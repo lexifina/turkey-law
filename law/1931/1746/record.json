@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1746",
+  "year": 1931,
+  "title": "Askerî ve mülki tekaüt kanununun 47. maddesine bir fıkra tezyiline dair kanun",
+  "adopted": "1931-02-06",
+  "adopted_as_published": "06/02/1931",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.02.1931 No: 1724",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901746.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 9",
+  "committee_reports": [
+    {
+      "label": "TBMM 38 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c024/tbmm03024023ss0038.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120591,
+      "title": "Askerî ve mülki tekaüt kanununun 47. maddesine bir fıkra tezyiline dair kanun",
+      "adopted_as_published": "06/02/1931",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901746.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 38 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c024/tbmm03024023ss0038.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 14,
+          "sitting_date": "1930-12-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c023/tbmm03023014.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c023/tbmm03023fih.pdf",
+          "pages": [
+            "30"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 23,
+          "sitting_date": "1931-01-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c024/tbmm03024023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c024/tbmm03024fih.pdf",
+          "pages": [
+            "47:48"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 25,
+          "sitting_date": "1931-02-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c025/tbmm03025025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c025/tbmm03025fih.pdf",
+          "pages": [
+            "11"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=663&v_gelecek_sayfa=601&v_kullanici_id=27483152",
+      "page_sha256": "b5745d6d27d03c60b2a3fd1fab7308462dd19001a09a8f56c96fe4bd43f69236"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b5745d6d27d03c60b2a3fd1fab7308462dd19001a09a8f56c96fe4bd43f69236",
+  "issuer": "TBMM",
+  "in_force": "1931-02-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 06/02/1931; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
