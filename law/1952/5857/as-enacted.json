@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5857",
+  "year": 1952,
+  "title": "Başbakan ve Bakan Makam Ödenekleri Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-01-17",
+  "gazette_issue": "8010",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8010.pdf",
+  "source_sha256": "f26e6bdbda020594fb353e2394ecb26136d5207885dc3ccb37bc1f263ddb5636",
+  "text_sha256": "662ce2d00b886141b543d8c130c63b32b6ebee23defa9ebee5529fe4fac7d7ed",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      10,
+      27
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405857.pdf",
+    "source_sha256": "79dab0a022b930ba80c9e24ccdd793ec9717f28ffd73485af11d4609426e961d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9337,
+    "bag": 0.8306,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9789,
+    "rg_words": 90,
+    "kd_words": 95,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
