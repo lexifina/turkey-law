@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 15 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2000-08-22",
+      "22.08.2000",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 15 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24148",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2000-08-22",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Galatasaray Üniversitesi",
+  "issuer_slug": "galatasaray-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/galatasaray-universitesi/2000/7067",
+  "published": "2000-08-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7067&MevzuatTertip=5",
+  "source_bytes": 27279,
+  "source_id": "8.5.7067",
+  "source_sha256": "ae711dcb0ac0958a26c022ca0eb21c616d2b617e94b73e660ae93de929a95926",
+  "text_status": "as-enacted",
+  "title": "GALATASARAY ÜNİVERSİTESİ İŞLETME YÖNETİMİ ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 194,
+  "word_count": 794
+}
