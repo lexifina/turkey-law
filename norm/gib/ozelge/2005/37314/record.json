@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6603-21/11905",
+  "source_id": 37314,
+  "date": "2005-03-11",
+  "title": "...İş Merkezinde bulunan ve ...... Dönercisi adı altında faaliyette bulunan işyeri  için belediyece tatil günlerinde çalışma ruhsatı harcı talep edildiği hususu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37314",
+  "source_sha256": "44da461cb15ca41cf20bf36cd840b40536612776fb8049fa99d588d14842eb84",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
