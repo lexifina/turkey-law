@@ -1,0 +1,146 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1252",
+  "year": 1970,
+  "title": "296 sayılı Köy Kanununda değişiklik yapılmasına dair Kanunun 25. maddesinin değiştirilmesine, 287 sayılı Şehir ve kasabalarda mahalle muhtar ve İhtiyar heyetleri teşkiline dair 4541 sayılı Kanunda değişiklik yapılması ve bazı kanunları kaldırılması hakkında kanunun 8. maddesinin değiştirilmesine, 306 sayılı idarei Umumiyei Vilâyet Kanununda değişiklikler yapılmasına ve ilgili bazı kanunların kaldırılmasına dair Kanunun 105. maddesinin değiştirilmesine ve 307 sayılı Belediye Kanununda değişiklik yapılmasına dair Kanunun 24. maddesinin değiştirilmesi hakkında Kanun",
+  "adopted": "1970-04-14",
+  "adopted_as_published": "14/04/1970",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "22.04.1970 No: 13478",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301252.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 53",
+  "committee_reports": [
+    {
+      "label": "MM 23 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003058ss0023.pdf"
+    },
+    {
+      "label": "CS 1381no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057059ss1381.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 377192,
+      "title": "296 sayılı Köy Kanununda değişiklik yapılmasına dair Kanunun 25. maddesinin değiştirilmesine, 287 sayılı Şehir ve kasabalarda mahalle muhtar ve İhtiyar heyetleri teşkiline dair 4541 sayılı Kanunda değişiklik yapılması ve bazı kanunları kaldırılması hakkında kanunun 8. maddesinin değiştirilmesine, 306 sayılı idarei Umumiyei Vilâyet Kanununda değişiklikler yapılmasına ve ilgili bazı kanunların kaldırılmasına dair Kanunun 105. maddesinin değiştirilmesine ve 307 sayılı Belediye Kanununda değişiklik yapılmasına dair Kanunun 24. maddesinin değiştirilmesi hakkında Kanun",
+      "adopted_as_published": "14/04/1970",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301252.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 23 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003058ss0023.pdf"
+        },
+        {
+          "label": "CS 1381no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057059ss1381.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 7,
+          "sitting_date": "1969-11-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001007.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001fih.pdf",
+          "pages": [
+            "179"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 39,
+          "sitting_date": "1970-02-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c002/mm__03002039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c002/mm__03002fih.pdf",
+          "pages": [
+            "656"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 52,
+          "sitting_date": "1970-03-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003fih.pdf",
+          "pages": [
+            "340:341"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 58,
+          "sitting_date": "1970-03-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003fih.pdf",
+          "pages": [
+            "634:638"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=501&v_kullanici_id=27483225",
+      "page_sha256": "0258843447909eb78d2e7ce9ef5c85b41c15a35cb2a8d3561ced4550e61b6ae4"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 313722,
+      "title": "286 sayılı Köy Kanununda değişiklik yapılmasına dair Kanunun 25 nci maddesinin değiştirilmesine, 287 sayılı şehir ve kasabalarda mahalle muhtar ve ihtiyar heyetleri teşkiline dair 4541 sayılı Kanunda değişiklik yapılması ve bâzı kanunların kaldırılması hakkında Kanunun 8 nci maddesinin değiştirilmesine, 306 sayılı İdarei Umumiyei Vilâyat Kanununda değişiklikler yapılmasına ve ilgili bâzı kanunların kaldırılmasına dair Kanunun 105 nci maddesinin değiştirilmesine ve 307 sayılı Belediye Kanunda değişiklik yapılmasına dair Kanunun 24 ncü maddesinin değiştirilmesi hakkında Kanun",
+      "adopted_as_published": "14/04/1970",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301252.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 23 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003058ss0023.pdf"
+        },
+        {
+          "label": "CS 1381no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057059ss1381.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 57,
+          "sitting": 53,
+          "sitting_date": "1970-03-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057fih.pdf",
+          "pages": [
+            "453"
+          ]
+        },
+        {
+          "cilt": 57,
+          "sitting": 58,
+          "sitting_date": "1970-04-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c057/cs__09057fih.pdf",
+          "pages": [
+            "578:579"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1201&v_kullanici_id=27483235",
+      "page_sha256": "96b91fa18a90b3a56fc00f348d3e0c985a091d6aaed647d757bd25ab8db894ee"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0258843447909eb78d2e7ce9ef5c85b41c15a35cb2a8d3561ced4550e61b6ae4",
+  "issuer": "Millet Meclisi",
+  "in_force": "1970-04-14",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 14/04/1970; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
