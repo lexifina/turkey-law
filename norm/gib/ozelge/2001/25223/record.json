@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2219/25844",
+  "source_id": 25223,
+  "date": "2001-05-10",
+  "title": "Noterlerce vasiyet ve miras mukavelesi düzenlenmesi sırasında ilgililerden veraset ve intikal vergisi ilişik kesme belgesinin istenilmemesi gerekir.Bunun yanısıra Maliye Bakanlığı'nın veya vergi incelemesine yetkili olanların noterde yapılan işlemler hakk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/25223",
+  "source_sha256": "1d83eae062653b37f1914a5363748a858882c8337bd816d33e051c799a97ccef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
