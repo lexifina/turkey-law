@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 239298,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "KANUN HÜKMÜNDE KARARNAMELER",
+  "heading_as_published": "Kanun Hükmünde Kararnameler",
+  "summary": "1136 Sayılı Avukatlık Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Bazı Maddeler Eklenmesi Hakkında Kanun Hükmünde Kararname ile 1136 Sayılı Avukatlık Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Bazı Maddeler Eklenmesi Hakkında 20.1.1983 Tarihli ve 54 Sayılı Kanun Hükmünde Kararnamenin Bazı Hükümleri ile 1136 Sayılı Kanunun Bir Maddesinin Değiştirilmesine Dair Kanun Hükmünde Kararname (1/3,1/4)",
+  "title": "1136 Sayılı Avukatlık Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Bazı Maddeler Eklenmesi Hakkında Kanun Hükmünde Kararname ile 1136 Sayılı Avukatlık Kanununun Bazı Maddelerinin Değiştirilmesi ve Bu Kanuna Bazı Maddeler Eklenmesi Hakkında 20.1.1983 Tarihli ve 54 Sayılı Kanun Hükmünde Kararnamenin Bazı Hükümleri ile 1136 Sayılı Kanunun Bir Maddesinin Değiştirilmesine Dair Kanun Hükmünde Kararname (1/3,1/4)",
+  "first_sitting_date": "1984-03-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 45,
+      "sitting_date": "1984-03-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c003/tbmm17003045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c003/tbmm17003fih.pdf",
+      "pages": [
+        "136:152"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 62,
+      "sitting_date": "1984-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c003/tbmm17003062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c003/tbmm17003fih.pdf",
+      "pages": [
+        "509:521"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20H%DCKM%DCNDE%20KARARNAMELER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20H%DCKM%DCNDE%20KARARNAMELER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8cb5d06173e7cb36abc809e1e25c68655d81a437a29a2141d37f13ea85e7b309",
+  "in_force": "1984-03-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
