@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4607",
+  "year": 1944,
+  "title": "Devlet Memurları Aylıklarının Tevhit ve Teadülüne dair olan 3656 sayılı Kanuna bağlı (1) numaralı cetvelde değişiklik yapılması ve Gümrük ve İnhisarlar Vekilliği teşkilât ve vazifeleri hakkındaki 2825 sayılı Kanuna iki madde eklenmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-07-15",
+  "gazette_issue": "5757",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5757.pdf",
+  "source_sha256": "34fd8366c59140653fa5aac0fc6e2ac9f4c86a0b11668b5feab2ac6f1a9c5f59",
+  "text_sha256": "a184d68ef90f2e6c646043aff7f369b9ec89a165b64566da9091cb84b759669d",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      14,
+      93
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604607.pdf",
+    "source_sha256": "753fd8083e24b597e45fd3022ee590c01d5861129b3f85333d627038f9e4184f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9277,
+    "bag": 0.9144,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9866,
+    "rg_words": 289,
+    "kd_words": 299,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
