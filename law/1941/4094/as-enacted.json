@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4094",
+  "year": 1941,
+  "title": "Hatay Ziraat bankasının tasfiyesinde ipotekli ve müteselsil kefaletli zirai alacaklarının taksitlendirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-07-12",
+  "gazette_issue": "4858",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4858.pdf",
+  "source_sha256": "a3cede28973d005d3a623b1a0ba256586c75bc32af2c2f42f95bcf37c0ed04b1",
+  "text_sha256": "761ef269cb526905e1f1ad848f2d380411ac4b28a5a27f971c6e15b57d744a27",
+  "text_status": "ocr",
+  "pages": [
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      710,
+      781
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204094.pdf",
+    "source_sha256": "3c193e7d4b732d2a7eb64ef1a68440ed0700daa637c5db338700d4f039223f64",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9545,
+    "bag": 0.8896,
+    "kd_coverage": 0.989,
+    "kd_body_compared": 0.9825,
+    "rg_words": 465,
+    "kd_words": 458,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
