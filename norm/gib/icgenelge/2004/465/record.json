@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2004/2",
+  "source_id": 465,
+  "date": "2004-11-10",
+  "title": "ÖZEL TÜKETİM VERGİSİ KANUNU İÇ GENELGESİ SERİ NO 2004/2",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/icgenelge/465",
+  "source_sha256": "897197bb09d57f5360ebfa36991db835a23f00144203b9fa9532e11fc1e81d6d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/437/icgenelge/464",
+        "quote": "10.11.2004 tarih ve 53387sayılı 2004/2 Sıra No.lu Özel Tüketim Vergisi Kanunu İç Genelgesi ile 87.03 G.T.İ.P. numarasındaki Chrysler marka Grand Voyager tipi bazı araçlar için uygulanacak ÖTV oranları belirtilmiştir. Aynı konuda Gümrük Müst"
+      }
+    ]
+  }
+}
