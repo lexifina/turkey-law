@@ -1,0 +1,66 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 52775,
+  "assembly": "TBMM",
+  "term": 10,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Gayrimenkul kiraları hakkında (1/153)",
+  "title": "Gayrimenkul kiraları hakkında (1/153)",
+  "first_sitting_date": "1954-12-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 18,
+      "sitting_date": "1954-12-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c003/tbmm10003018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c003/tbmm10003fih.pdf",
+      "pages": [
+        "128",
+        "129",
+        "244:249"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 69,
+      "sitting_date": "1955-04-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c006/tbmm10006069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c006/tbmm10006fih.pdf",
+      "pages": [
+        "505"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 71,
+      "sitting_date": "1955-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c007/tbmm10007fih.pdf",
+      "pages": [
+        "65:88",
+        "95:117",
+        "128:148.172:182",
+        "231:237",
+        "270:299",
+        "310:361",
+        "366",
+        "372:376"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "10ff2d5176eecb7e6b7b94a75a747c9095e75756f90f32d1b12aca09e061dfcb",
+  "in_force": "1954-12-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
