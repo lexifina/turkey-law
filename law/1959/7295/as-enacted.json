@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7295",
+  "year": 1959,
+  "title": "Türkiye Cumhuriyeti ile Libya Birleşik Krallığı arasında İş Birliği ve Kültür Anlaşmasının tasdikine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-06-02",
+  "gazette_issue": "10220",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10220.pdf",
+  "source_sha256": "2bf5a725b94891ce046ac6cd5c1fa5e150b29baef70e299883f3609850ad9939",
+  "text_sha256": "0cb41f9d1fc2ad9ecea9a2afe3907e25519789c09cd91c0aef73ad6f239a69ad",
+  "text_status": "ocr",
+  "pages": [
+    13
+  ],
+  "line_span": [
+    [
+      2934,
+      3151
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107295.pdf",
+    "source_sha256": "112d4c43778566cc50f70c39a94361119306ea9bbde7e94a83f1a563126f75da",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9469,
+    "bag": 0.7949,
+    "kd_coverage": 0.9747,
+    "kd_body_compared": 0.9747,
+    "rg_words": 795,
+    "kd_words": 870,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
