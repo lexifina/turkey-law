@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4794",
+  "year": 1945,
+  "title": "Türk-İngiliz Ticaret ve Ödeme ve malî Anlaşmalarının birer ay daha uzatılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-07-17",
+  "gazette_issue": "6059",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6059.pdf",
+  "source_sha256": "0acfc7ad4611966df910081fd76282ebe38d7039e036d801b4e18c6f6056d794",
+  "text_sha256": "faa6870b7b2da19c5c0b9de4060387aab60a77def1079ec9a70fba8544f7ac09",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      178,
+      190
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704794.pdf",
+    "source_sha256": "71fa895cafe814bec0d1536b14ea024dcbc5952a1fa0b24c709f47a97c54c705",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9274,
+    "bag": 0.8707,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9718,
+    "rg_words": 78,
+    "kd_words": 71,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
