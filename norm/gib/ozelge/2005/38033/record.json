@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5328-1904-1567",
+  "source_id": 38033,
+  "date": "2005-01-11",
+  "title": "01.01.2005 tarihinden itibaren Okul Servis Araçları Hizmet Yönetmeliği kapsamında verilen öğrenci taşıma servis hizmeti, dışarıdan veya okul bünyesinde sağlanmasına bakılmaksızın %8 oranında katma değer vergisine tabi olacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38033",
+  "source_sha256": "f158f3332df1e2c9c4ad6c51824b646f02cad12aa78bcb95815d721f8967dc9a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
