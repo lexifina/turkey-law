@@ -1,0 +1,48 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5358",
+  "year": 1949,
+  "title": "Türkiye, Avusturya, Belçika, Danimarka, Fransa, Yunanistan, İrlanda, İzlanda, İtalya Lüksemburg, Norveç, Hollanda, Portekiz, Birleşik Krallık, İsveç, İsviçre ve Almanya'nın Fransa, Birleşik Krallık ve Amerika Birleşik Devletleri işgali altındaki bölgeler başkomutanları ve serbest Triyeste Ülkesi İngiliz ve Amerikan bölgesi komutanı arasında Paris'te 16 Ekim 1948 tarihinde imzalanan «Avrupa memleketleri arasında Ödeme ve Takas Anlaşması» ve Eklerinin ve bu Anlaşmanın geçici olarak uygulanmasına dair olan Protokolün ve mezkûr Anlaşmaya ek olarak Türkiye Cumhuriyeti Hükümetiyle Birleşik Krallık Hükümeti arasında 25 Ocak 1949 tarihinde Ankara'da imzalanan Anlaşma ve eki mektupların onanması hakkında Kanun",
+  "adopted": "1949-03-25",
+  "adopted_as_published": "25/03/1949",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.03.1949 No: 7169",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105358.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 31",
+  "committee_reports": [
+    {
+      "label": "TBMM 148 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c017/tbmm08017062ss0148.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 8,
+      "kayit_no": 78080,
+      "title": "Türkiye, Avusturya, Belçika, Danimarka, Fransa, Yunanistan, İrlanda, İzlanda, İtalya Lüksemburg, Norveç, Hollanda, Portekiz, Birleşik Krallık, İsveç, İsviçre ve Almanya'nın Fransa, Birleşik Krallık ve Amerika Birleşik Devletleri işgali altındaki bölgeler başkomutanları ve serbest Triyeste Ülkesi İngiliz ve Amerikan bölgesi komutanı arasında Paris'te 16 Ekim 1948 tarihinde imzalanan «Avrupa memleketleri arasında Ödeme ve Takas Anlaşması» ve Eklerinin ve bu Anlaşmanın geçici olarak uygulanmasına dair olan Protokolün ve mezkûr Anlaşmaya ek olarak Türkiye Cumhuriyeti Hükümetiyle Birleşik Krallık Hükümeti arasında 25 Ocak 1949 tarihinde Ankara'da imzalanan Anlaşma ve eki mektupların onanması hakkında Kanun",
+      "adopted_as_published": "25/03/1949",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105358.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 148 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c017/tbmm08017062ss0148.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=716&v_gelecek_sayfa=701&v_kullanici_id=27483172",
+      "page_sha256": "839a864204cfa72678ccf3575a43f25057a68036e5bfb422c982596bf4ba8856"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "839a864204cfa72678ccf3575a43f25057a68036e5bfb422c982596bf4ba8856",
+  "issuer": "TBMM",
+  "in_force": "1949-03-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 25/03/1949; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
