@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6522-116/43019",
+  "source_id": 38261,
+  "date": "2001-08-15",
+  "title": "Ödeme kaydedici cihazın arıza nedeniyle silinen mali hafızası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38261",
+  "source_sha256": "ce543c5ae0549430a1c374f1237395b45683bb69e6e58c478bb48c514a30febc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
