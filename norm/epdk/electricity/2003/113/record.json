@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "113",
+  "decision_date": "2003-03-21",
+  "title": "Trakya Elektrik Dağıtım Anonim Şirketi tarafından uygulanacak perakende satış tarifesi hakkında",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/Mp091nts/c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/Mp091nts/c=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7VXGE40XiCM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uVPb+zjgu5w="
+  ],
+  "source_sha256": "b328b54f5370b868161ce1d88023042c1236f0e2d970e20b16e244a4d04f0eb8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-03-21",
+  "law_text_complete": false
+}
