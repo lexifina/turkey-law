@@ -1,0 +1,2 @@
+MADDE 47 - 506 sayılı Sosyal Sigortalar Kanununun 121 inci maddesinin başlığı "Sigorta yardımlarının haczedilemeyeceği, yanlış ve yersiz ödemelerin tahsili" şeklinde değiştirilmiş ve maddeye aşağıdaki fıkra eklenmiştir.
+Ancak, yanlış ve yersiz ödendiği anlaşılan her türlü gelir, aylık ve sigorta yardımları 84 üncü maddenin son fıkrası saklı kalmak kaydıyla, ilgililerin sonraki her çeşit istihkaklarından kesilmek suretiyle geri alınır. Kurumun genel hükümlere göre takip hakkı saklıdır.

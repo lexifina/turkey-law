@@ -1,0 +1,2 @@
+MADDE 52- 506 sayılı Sosyal Sigortalar Kanununun ek 3 üncü maddesinin sonuna aşağıdaki fıkra eklenmiştir.
+Kurum sağlık tesislerinde mesai saatleri dışında acil sağlık hizmetleri hariç olmak üzere yürütülen sağlık hizmetlerinden, bu Kanunun 32, 35, 36, 40 ve 42 nci maddeleri uyarınca yararlananlardan sadece yapılacak muayene ve ameliyatları için her yıl Maliye Bakanlığınca yayınlanan tedavi yardımlarıyla ilgili Bütçe Uygulama Talimatı ile belirlenen fiyatların yarısı tutarında katkı payı alınır.

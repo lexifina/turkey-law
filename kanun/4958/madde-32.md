@@ -1,0 +1,3 @@
+MADDE 32 - 506 sayılı Sosyal Sigortalar Kanununun 49 uncu maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiş ve birinci fıkradan sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+Kendisi için doğumdan önceki bir yıl içinde en az 120 gün analık sigortası primi ödenmiş bulunan sigortalı kadının analığı halinde, doğumdan önceki ve sonraki sekizer haftalık sürede, çoğul gebelik halinde ise, doğumdan önceki sekiz haftaya iki haftalık süre ilave edilerek çalışmadığı her gün için geçici iş göremezlik ödeneği verilir.
+Kadın sigortalının isteği ve doktorun onayı ile doğuma üç hafta kalıncaya kadar çalışılması halinde, çalışılan süreler kadın sigortalının doğum sonrası sürelerine eklenir.

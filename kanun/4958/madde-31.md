@@ -1,0 +1,2 @@
+MADDE 31 - 506 sayılı Sosyal Sigortalar Kanununun 46 ncı maddesinin birinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+44 ve 45 inci maddelerde gösterilen sağlık yardımlarının Kurumca veya 123 üncü madde gereğince sözleşme ya da protokol yapılmış sağlık tesislerinde doğrudan doğruya yapılmasına imkân görülmeyen yer ve hallerde, gebelik ve doğum sağlık yardımı yerine, Çalışma ve Sosyal Güvenlik Bakanlığınca onanacak ve önceden bildirilecek tarifeye göre maktu para yardımı yapılır. Birden fazla çocuk doğarsa, maktu doğum yardımı her çocuk sayısına göre artırılır.

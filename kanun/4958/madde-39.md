@@ -1,0 +1,2 @@
+MADDE 39 - 506 sayılı Sosyal Sigortalar Kanununun değişik 85 inci maddesinin (E) bendi aşağıdaki şekilde değiştirilmiştir.
+E-Bu maddenin (A) bendinin (a) alt bendinde belirtilen koşullar sosyal güvenlik sözleşmesi imzalanmayan ülkelerde iş üstlenen işverenlerin yurt dışındaki iş yerlerinde çalışmak üzere giden Türk işçileri için aranmaz. Bu maddenin (D) bendinin (a), (b) ve (c) alt bentlerine göre isteğe bağlı sigortalılığı sona eren sigortalının, yeniden isteğe bağlı sigortaya devam edebilmesi için tekrar yazılı müracaatta bulunması şarttır.

@@ -1,0 +1,2 @@
+Değişen gelir ve aylıkların başlangıcı
+Madde 95.- Bu Kanuna göre gelir veya aylık bağlanan sigortalı ile hak sahibi kimselerin durumlarında kendilerine veya başka hak sahiplerine bağlanmış bulunan gelir veya aylık miktarının değiştirilmesini gerektiren bir durum meydana gelirse, gelir veya aylık miktarları, değişikliğin meydana geldiği tarihten sonraki ödeme dönemi başından başlanarak yeni duruma göre değiştirilir. Bu Kanunun 25, 57 ve 101 inci maddeleri hükümleri saklıdır.

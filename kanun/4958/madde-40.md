@@ -1,0 +1,3 @@
+MADDE 40 - 506 sayılı Sosyal Sigortalar Kanununun 86 ncı maddesine aşağıdaki fıkralar eklenmiştir.
+Malûllük, yaşlılık ve ölüm sigortalarına tabi olanların malûllük, yaşlılık ve ölüm sigortası primi, bu Kanunun 78 inci maddesine göre belirlenen prime esas kazanç alt ve üst sınırı arasında olmak şartıyla kendilerinin belirleyeceği miktarın % 30' udur. Ait olduğu ayı takip eden ayın sonuna kadar ödenmeyen primler için bu tarihten başlanarak 80 inci madde hükmüne göre gecikme zammı uygulanır.
+Sosyal güvenlik sözleşmesi imzalanmayan ülkelerde iş üstlenen işverenlerin yurt dışındaki iş yerlerinde çalışmak üzere giden Türk işçilerine istekleri halinde 85 inci madde hükümleri uygulanır.

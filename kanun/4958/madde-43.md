@@ -1,0 +1,2 @@
+MADDE 43 - 506 sayılı Sosyal Sigortalar Kanununun 96 ncı maddesine dördüncü fıkrasından sonra gelmek üzere aşağıdaki fıkra eklenmiştir.
+Sigortalı veya hak sahibine bu Kanun hükümlerine göre bağlanan gelir veya aylıklardan, ilk hak edilen gelir veya aylık dışında sonradan bağlanacak gelir ve aylıklar için yukarıdaki fıkralardaki hükümler uygulanmaz. Aynı anda birden fazla gelir veya aylık hak edilirse, yüksek olanı ilk hak edilen gelir veya aylık olarak esas alınır.
