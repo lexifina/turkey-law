@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-292/37459",
+  "source_id": 24805,
+  "date": "1998-10-19",
+  "title": "İşlerini terk eden yükümlülerin, mükellefiyetlerinin sona erdiği tarihten sonra geriye yönelik olarak, 4369 sayılı Kanun ile Gelir Vergisi Kanununa eklenin geçici 48 inci madde hükmü ve Katma Değer Vergisi Kanununa eklenen geçici 13 üncü madde hükmünden f",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24805",
+  "source_sha256": "f8de9b0d99962a0a216a7ea72726fba4d7c98c08e1e2a30e3bf5796ff20c3960",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
