@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4782",
+  "year": 1945,
+  "title": "Noter Kanununun 71 ve 83. maddesinin değiştirilmesine ve Olağanüstü hallerin devamı süresince noter ücretlerinin artırılmasıhakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-07-10",
+  "gazette_issue": "6053",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6053.pdf",
+  "source_sha256": "2683b8b176a20adb32c6d693f9b0855f96af2ab5f34a499cc734116fdbd81700",
+  "text_sha256": "6df9711ddbed1a9f8a58e1c56eaae62e881ce8f8ed640a4f4a181305dcfee0d4",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      380,
+      445
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704782.pdf",
+    "source_sha256": "933b60bbaac59e7a798421fa6020cf212d02b5c56b2c8e1d0a98e60bc9457ad5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9784,
+    "bag": 0.9058,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9958,
+    "rg_words": 458,
+    "kd_words": 478,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
