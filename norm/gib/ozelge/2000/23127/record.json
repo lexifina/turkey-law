@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102-211/1536",
+  "source_id": 23127,
+  "date": "2000-01-05",
+  "title": "Biçerdöver sahibi çiftçiler ile kamyon gibi biçerdöver mahiyetindeki motorlu araçlara sahip olan çiftçilerin zirai kazançlarının gerçek usulde tespit edilmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23127",
+  "source_sha256": "c0f6d3d0f218bc885445f173e5f4ebd0e6aac088395c1b152369a9620c3caf06",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
