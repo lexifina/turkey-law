@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6089",
+  "year": 1953,
+  "title": "Yeniden Yapılacak Su İşleri İçin Gelecek Yıllara Sâri Taahhütlere Girişilmesine Mezuniyet Verilmesi Hakkındaki 3132, 4100, 4649 ve 5259 Sayılı Kanunlara Ek Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-06-17",
+  "gazette_issue": "8434",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8434.pdf",
+  "source_sha256": "d4ea385aaed4dd4142aac6976890aa20af347350c00f08eea904ff3e421a41d9",
+  "text_sha256": "61eadf4a1686bbcdf9abe2097eee886a2935ef6e4487637f2d7e06880ef93f5d",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      38
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506089.pdf",
+    "source_sha256": "68cf642346e556d61a52211c8d54dbd64defc0e64a837adac1a9742d94f13c18",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9894,
+    "bag": 0.9451,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9878,
+    "rg_words": 166,
+    "kd_words": 164,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
