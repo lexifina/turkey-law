@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4688",
+  "year": 1944,
+  "title": "Askerî fabrikalarla askerî atelye ve tamir müesseselerinde çalışan mütehassıs subaylara verilecek ihtisas yevmiyesi hakkında kanun",
+  "adopted": "1944-12-20",
+  "adopted_as_published": "20/12/1944",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.12.1944 No: 5890",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704688.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 27",
+  "committee_reports": [
+    {
+      "label": "TBMM 19 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014013ss0019.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 7,
+      "kayit_no": 90315,
+      "title": "Askerî fabrikalarla askerî atelye ve tamir müesseselerinde çalışan mütehassıs subaylara verilecek ihtisas yevmiyesi hakkında kanun",
+      "adopted_as_published": "20/12/1944",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704688.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 19 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014013ss0019.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 12,
+          "sitting_date": "1944-12-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014fih.pdf",
+          "pages": [
+            "84"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 13,
+          "sitting_date": "1944-12-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014fih.pdf",
+          "pages": [
+            "91:95"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 14,
+          "sitting_date": "1944-12-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014014.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014fih.pdf",
+          "pages": [
+            "113"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=562&v_gelecek_sayfa=101&v_kullanici_id=27483169",
+      "page_sha256": "fb61ce0f52116b94572f3aca0bcd30780ae7da6219aa0f50312c9d7f936e85b1"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "fb61ce0f52116b94572f3aca0bcd30780ae7da6219aa0f50312c9d7f936e85b1",
+  "issuer": "TBMM",
+  "in_force": "1944-12-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 20/12/1944; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
