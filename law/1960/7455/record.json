@@ -1,0 +1,64 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7455",
+  "year": 1960,
+  "title": "Devlet Üretme Çiftlikleri Umum Müdürlüğü 1960 yılı Bütçe Kanunu",
+  "adopted": "1960-02-27",
+  "adopted_as_published": "27/02/1960",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "04.03.1960 No: 10448",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/kanuntbmmc042/kanuntbmmc04207455.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 42",
+  "committee_reports": [
+    {
+      "label": "TBMM 54 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c012/tbmm11012049ss0054.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 11,
+      "kayit_no": 42579,
+      "title": "Devlet Üretme Çiftlikleri Umum Müdürlüğü 1960 yılı Bütçe Kanunu",
+      "adopted_as_published": "27/02/1960",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/kanuntbmmc042/kanuntbmmc04207455.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 54 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c012/tbmm11012049ss0054.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 12,
+          "sitting": 49,
+          "sitting_date": "1960-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c012/tbmm11012049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c012/tbmm11012fih.pdf",
+          "pages": [
+            "829:837",
+            "857:859",
+            "864",
+            "871",
+            "953:957"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=429&v_gelecek_sayfa=401&v_kullanici_id=27483188",
+      "page_sha256": "e72153aba8198b11336760b80976c387304fb076f2edce9d4ec9d9852faecb1f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e72153aba8198b11336760b80976c387304fb076f2edce9d4ec9d9852faecb1f",
+  "issuer": "TBMM",
+  "in_force": "1960-02-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/02/1960; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
