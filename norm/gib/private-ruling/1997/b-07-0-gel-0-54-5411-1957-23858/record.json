@@ -1,0 +1,18 @@
+{
+  "checked_on": "2026-11-14",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "kind": "private-ruling",
+  "official_date": "1997-06-10",
+  "official_number": "B.07.0.GEL.0.54/5411-1957/23858",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38089",
+  "source_id": "ozelge:38089",
+  "source_row_sha256": "b79b269701b41cfd5d75b1769adcf4b21b27a7ef84cf522e5b09cdbbe3d368bf",
+  "title": "Sanayi Sicil Belgesine sahip olmayan şirketin ihraç kaydıyla yapılan teslimleri için tecil-terkin talebinde bulunduğu, ancak söz konusu belgenin iade talep edilen dönemlerden sonra alınması sebebiyle bu dönemlere ilişkin talebi yerindedir.",
+  "version_label": "as-enacted",
+  "word_count": 225
+}
