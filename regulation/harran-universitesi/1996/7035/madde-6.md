@@ -1,0 +1,4 @@
+Başvuru Şekli
+Madde 6- Öğrencilerin sağlık ve psikolojik sorunları ile ilgili olarak başvuracakları ilk yer Sağlık ve Spor Daire Başkanlığı’na bağlı “Mediko Sosyal Merkezi”dir. Bu merkeze başvuran öğrencilerin muayene ve tedavileri yapılır. Gerekli görüldüğünde ileri tetkik için Harran Üniversitesi Tıp Fakültesi Araştırma ve Uygulama Hastanesi’ne sevki yapılır.
+Üniversite’nin Şanlıurfa merkez ilçesi dışında bulunan Fakülte ve Yüksekokulları’nda öğrenim gören öğrencilerin muayene ve tedavileri Mediko Sosyal Birimi kuruluncaya kadar bulundukları yerin resmi sağlık kurumlarında yapılabilir.
+Öğrenciler, Mediko Sosyal Merkezi’ne başvururken herhangi bir sosyal güvenlik kuruluşundan yararlanma imkanı olmayan öğrenciler kimlikleri ile birlikte kendilerine Sağlık, Kültür ve Spor Daire Başkanlığı’nca verilen Sağlık Karnelerini, diğerleri öğrenci kimlik kartlarını ibraz etmek zorundadırlar.

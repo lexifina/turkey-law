@@ -1,0 +1,28 @@
+{
+  "source_id": "8.5.7035",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "HARRAN ÜNİVERSİTESİ ÖĞRENCİ SAĞLIK İŞLERİ VE SAĞLIK RAPORLARI YÖNETMELİĞİ",
+  "number": "7035",
+  "issuer": "HARRAN ÜNİVERSİTESİ",
+  "issuer_slug": "harran-universitesi",
+  "path": "regulation/harran-universitesi/1996/7035",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7035&MevzuatTertip=5",
+  "source_sha256": "35dbee588f7dfc04de419898a6ce4a20bcc666844760eda8cbe75274d692d181",
+  "source_bytes": 18939,
+  "published": "1996-11-24",
+  "gazette": "22827",
+  "in_force": "1996-11-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.11.1996)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 722,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
