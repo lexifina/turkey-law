@@ -1,0 +1,104 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "950",
+  "year": 1967,
+  "title": "Orman Genel Müdürlüğü 1961 yılı Kesinhesap Kanunu",
+  "adopted": "1967-12-12",
+  "adopted_as_published": "12/12/1967",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "25.12.1967 No: 12785",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05100950.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 51",
+  "committee_reports": [
+    {
+      "label": "MM 321 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c021/mm__02021139ss0321.pdf"
+    },
+    {
+      "label": "CS 1007no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044010ss1007.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 367902,
+      "title": "Orman Genel Müdürlüğü 1961 yılı Kesinhesap Kanunu",
+      "adopted_as_published": "12/12/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05100950.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 321 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c021/mm__02021139ss0321.pdf"
+        },
+        {
+          "label": "CS 1007no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c044/cs__07044010ss1007.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 19,
+          "sitting_date": "1965-12-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001fih.pdf",
+          "pages": [
+            "458"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 129,
+          "sitting_date": "1967-06-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c020/mm__02020129.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c020/mm__02020fih.pdf",
+          "pages": [
+            "2"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 139,
+          "sitting_date": "1967-07-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c021/mm__02021139.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c021/mm__02021fih.pdf",
+          "pages": [
+            "21:22",
+            "44",
+            "66:68"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 140,
+          "sitting_date": "1967-07-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c021/mm__02021140.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c021/mm__02021fih.pdf",
+          "pages": [
+            "91:92",
+            "154:157"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1301&v_kullanici_id=27483225",
+      "page_sha256": "a0c56a410c6b9bd2d01af94b425ff2bc60047b4006abf95695e054a0443e1b05"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a0c56a410c6b9bd2d01af94b425ff2bc60047b4006abf95695e054a0443e1b05",
+  "issuer": "Millet Meclisi",
+  "in_force": "1967-12-12",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 12/12/1967; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
