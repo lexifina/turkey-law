@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5226",
+  "year": 2004,
+  "title": "Kültür ve Tabiat Varlıklarını Koruma Kanunu ile Çeşitli Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-07-27",
+  "gazette_issue": "25535",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/07/20040727.htm",
+  "source_sha256": "119081d7ea9f767b4779ab7105b368360da1dee0b75cd23cdc949b658d35cd32",
+  "text_sha256": "75326eba8ab7badbd3fa40aa462781f9afdd7250b9ae69bba34226f5c002ccd7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/07/27/25535-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/07/20040727.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
