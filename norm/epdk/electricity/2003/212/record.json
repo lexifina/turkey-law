@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "212",
+  "decision_date": "2003-09-18",
+  "title": "36kV ve altındaki gerilim seviyesinden iletim sistemine bağlantı hakkında",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qQYEevkxXfk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qQYEevkxXfk="
+  ],
+  "source_sha256": "d88f1bd105098b2f4cbaa8dd9e6e49bb1b35d7d95ffd382c77f883883d022c6c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-09-18",
+  "law_text_complete": false
+}
