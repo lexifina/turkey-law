@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1867",
+  "year": 1931,
+  "title": "Sanat ve yatı mekteplerinin idaresi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-08-01",
+  "gazette_issue": "1861",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1861.pdf",
+  "source_sha256": "b73c80062a4452fb1a76367d267f0ba3f18bfc72b334ed913f2077954a5c1826",
+  "text_sha256": "ce1b50622ff82a69b3dfcea739d540456df951d700694d39d5e87caf49d06bed",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      111
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001867.pdf",
+    "source_sha256": "f6c837d67f4fdc231383acdbe06bd3934915477d0fe13978615ac0f2981371f2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9485,
+    "bag": 0.8746,
+    "kd_coverage": 0.9968,
+    "kd_body_compared": 0.9904,
+    "rg_words": 295,
+    "kd_words": 314,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
