@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 128723,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Sıtma mücadelesine dair (1/515), sıtma mücadelesi tahsisatı hakkında (1/522) devlet kinini tedarik ve furuhtu hakkında (1/523), meccanen kinin tevziatı hakkında (1/524), etibbanın sıtma enstitülerinde staj mecburiyetleri hakkında (1/525), sıtma küçük sıhhiye memurları hakkında (1/526), şehir ve köylere su tedariki hakkında (1/527) kanun lâyihaları ile Kırklareli Mebusu Doktor Fuat Beyin sıtma mücadelesine dair teklifi kanunisi hakkında.",
+  "title": "Sıtma mücadelesine dair (1/515), sıtma mücadelesi tahsisatı hakkında (1/522) devlet kinini tedarik ve furuhtu hakkında (1/523), meccanen kinin tevziatı hakkında (1/524), etibbanın sıtma enstitülerinde staj mecburiyetleri hakkında (1/525), sıtma küçük sıhhiye memurları hakkında (1/526), şehir ve köylere su tedariki hakkında (1/527) kanun lâyihaları ile Kırklareli Mebusu Doktor Fuat Beyin sıtma mücadelesine dair teklifi kanunisi hakkında.",
+  "first_sitting_date": "1926-04-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 24,
+      "sitting": 90,
+      "sitting_date": "1926-04-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c024/tbmm02024090.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c024/ehttbmm02024090.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c024/tbmm02024fih.pdf",
+      "pages": [
+        "203",
+        "217:230",
+        "240:248"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 98,
+      "sitting_date": "1926-05-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025098.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/ehttbmm02025098.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025fih.pdf",
+      "pages": [
+        "95:96",
+        "273:276"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2766&v_gelecek_sayfa=1801&v_kullanici_id=27483743",
+  "source_sha256": "1058e1399697f48d0be698e94dea067fee111c2aebb0bc9579a6025517614285",
+  "in_force": "1926-04-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
