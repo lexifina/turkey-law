@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7009",
+  "year": 1957,
+  "title": "Demiryolları ve limanları inşaatı için gelecek yıllara sâri taahhütlere girişilmesi hakkındaki 6845 sayılı Kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-20",
+  "gazette_issue": "9638",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9638.pdf",
+  "source_sha256": "549b564db2ffa24ecd61ab081b07c6d03ccd8d9d91cca8098c8e80fa47142561",
+  "text_sha256": "3a4a554a1ca63b045471314ddde4e1f4e0ff56ca2d113470d7e0f334e0277975",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      1205,
+      1227
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907009.pdf",
+    "source_sha256": "1a424c217443ce4a609b56b1a38fc5a1dfdd24bbcfe0950737187417720e5f12",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9831,
+    "bag": 0.8039,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.981,
+    "rg_words": 101,
+    "kd_words": 105,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
