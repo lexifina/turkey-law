@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4063-15/49979",
+  "source_id": 37882,
+  "date": "2001-09-21",
+  "title": "Ltd. Şti.'nin hisselerinin bir kısmının başka bir tüzel kişiye devredilmesi halinde Kanun karşısındaki durumları hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37882",
+  "source_sha256": "13e3907b2f401a8176cb04b7f2c0ec0ffc358fc706a1094274125f9494910667",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
