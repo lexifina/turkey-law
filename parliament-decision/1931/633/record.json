@@ -1,0 +1,82 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "633",
+  "year": 1931,
+  "title": "Bir zatın mebusluğunun kabul veya reddi sırf Meclisi Âliye ait hukuk cümlesinden olduğu hakkında",
+  "adopted": "1931-05-31",
+  "adopted_as_published": "31/05/1931",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.06.1931 No: 1871",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/karartbmmc010/karartbmmc01000633.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 10",
+  "committee_reports": [
+    {
+      "label": "TBMM 2 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001006ss0002.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112798,
+      "title": "Bir zatın mebusluğunun kabul veya reddi sırf Meclisi Âliye ait hukuk cümlesinden olduğu hakkında",
+      "adopted_as_published": "31/05/1931",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/karartbmmc010/karartbmmc01000633.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 2 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001006ss0002.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 2,
+          "sitting_date": "1931-05-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001002.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001fih.pdf",
+          "pages": [
+            "14"
+          ]
+        },
+        {
+          "cilt": 1,
+          "sitting": 4,
+          "sitting_date": "1931-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001004.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001fih.pdf",
+          "pages": [
+            "47"
+          ]
+        },
+        {
+          "cilt": 1,
+          "sitting": 6,
+          "sitting_date": "1931-05-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001fih.pdf",
+          "pages": [
+            "65:75"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=217&v_gelecek_sayfa=101&v_kullanici_id=27483261",
+      "page_sha256": "6e403c67326bf8d538b4ec20f80ba46428329ba815be8d6d6507eb8c1dfb0d7d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "6e403c67326bf8d538b4ec20f80ba46428329ba815be8d6d6507eb8c1dfb0d7d",
+  "issuer": "TBMM",
+  "in_force": "1931-05-31",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 31/05/1931; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
