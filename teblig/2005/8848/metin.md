@@ -1,0 +1,6 @@
+Bakanlık Adı | : | Dış Ticaret Müsteşarlığından:
+Tebliğin Adı | : | İthalatta Korunma Önlemlerine İlişkin Tebliğ (Tebliğ No: 2005/1)
+Tebliğ No | : | 2005/1
+R. Gazete Tarihi | : | 5/2/2005
+R. Gazete Sayısı | : | 25718
+İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2005/1) Madde 1 — 70.13 gümrük tarife pozisyonlu "sofra, mutfak, tuvalet, yazıhane, ev tezyinatı ve benzeri işler için cam eşya"nın ithalatına yönelik olarak 17/7/2004 tarihli ve 25525 sayılı Resmi Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin 2004/3 sayılı Tebliğ ile açılmış olan korunma önlemi soruşturması, İthalatta Korunma Önlemlerini Değerlendirme Kurulu’nun 18/1/2005 tarihli kararına istinaden kapatılmıştır. Madde 2 — Bu Tebliğ yayımı tarihinde yürürlüğe girer. Madde 3 — Bu Tebliğ hükümlerini Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan yürütür.
