@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4084-1012/008361",
+  "source_id": 27219,
+  "date": "2004-02-26",
+  "title": "4811 sayılı Kanuna uygun olarak yapılan matrah artırımı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/27219",
+  "source_sha256": "99352e9134123b024a0a6f732f43140332d95aee0af58d1077f78fcac9c02510",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
