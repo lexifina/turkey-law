@@ -1,0 +1,1 @@
+Madde 22 – Kontrola arzedilen preselenmiş pamukların, kontroldan önce balyaları üzerine, tip damgası hariç, resmi marka ve işaretleri vurulmuş ve kontrolu kolaylaştıracak şekilde istif edilmiş olmaları lazımdır.

@@ -1,0 +1,1 @@
+Madde 35 – Kontrol neticesinde dışticarette standardizasyon denetmenin kararına itiraz vakı olduğu takdirde, dışticarette standardizasyon denetmeni 36 ncı maddede yazılı Hakem Kurulunu 24 saat içinde toplantıya davet eder.
