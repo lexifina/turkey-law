@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2607",
+  "year": 1934,
+  "title": "Askerlik mükellefiyeti Kanununun 36. maddesine bir fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-12-22",
+  "gazette_issue": "2886",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2886.pdf",
+  "source_sha256": "170e4c97ed4847735862a0812186db63b3584516c8ba8dd0d06afea390d98fbb",
+  "text_sha256": "9dfa86d695308bd1ec45c4cb5729f20e80942dd8e617b0496e5fde6801d1f488",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      371,
+      397
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402607.pdf",
+    "source_sha256": "8755a64d7fd757fe0a20a4d1d78d6838c810638391831552db320c4d6b00de1c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9084,
+    "bag": 0.8503,
+    "kd_coverage": 0.9506,
+    "kd_body_compared": 0.9286,
+    "rg_words": 89,
+    "kd_words": 84,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
