@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5217-23/12184",
+  "source_id": 31957,
+  "date": "1999-03-25",
+  "title": "Konut yapı kooperatiflerinin KDV yönünden mükellefiyetlerinin silineceği, vergiye tabi işlem yapmadığı sürece de Katma Değer Vergisi Beyannamesi vermeyeceği tabiidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31957",
+  "source_sha256": "2841a899c357c69da860d9918b041eee1c1d075c8db878ccbe09fe2e57436576",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
