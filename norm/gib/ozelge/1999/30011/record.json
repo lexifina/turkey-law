@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5144-499/44494",
+  "source_id": 30011,
+  "date": "1999-10-19",
+  "title": "Sosyal Yardımlaşma ve Dayanışma Vakfınaait bir iktisadi işletme oluşmaması ve deri ve bağırsak teslimlerinin herhangi bir iktisadi işletme bünyesindegerçekleşmemiş olması nedeniyle K.V'. ve K.D.V'ne tabi olmayacağı, bu teslimler için Vergi Usul Kanunu hük",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/30011",
+  "source_sha256": "c5bb2df7fae7960c3b9c2c0ce1fd4475b6d0cc886c6096e68207cf8f5b14f23b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
