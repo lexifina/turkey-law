@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.43/4301-255/16821",
+  "source_id": 23987,
+  "date": "2000-04-13",
+  "title": "Mükellefin elde etmiş olduğu gayrimenkul sermaye iradını beyan ederken, ödemiş olduğu Bağ-Kur primlerini gider olarak indirmesi mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23987",
+  "source_sha256": "2822295539744656d65d2433145defb3b8b8ba0763f2c4f2dcb6b5c2ae5acdb3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
