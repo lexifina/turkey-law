@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.7268",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "AKDENİZ ÜNİVERSİTESİ ÖĞRETİM ÜYELERİNİN AKADEMİK KIYAFETLERİ HAKKINDAKİ YÖNETMELİK",
+  "number": "7268",
+  "issuer": "AKDENİZ ÜNİVERSİTESİ",
+  "issuer_slug": "akdeniz-universitesi",
+  "path": "regulation/akdeniz-universitesi/1983/7268",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7268&MevzuatTertip=5",
+  "source_sha256": "7664de279fbde4221e2178dc14e3468c93f9e1c4dd45c8a58a3899a4524b7896",
+  "source_bytes": 19652,
+  "published": "1983-02-11",
+  "gazette": "17956",
+  "in_force": "1983-02-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.02.1983); own commencement article: \"Bu Yönetmelik Resmi Gazete de yayımlandığı tarihten itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete de yayımlandığı tarihten itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 298,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
