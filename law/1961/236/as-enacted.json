@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "236",
+  "year": 1961,
+  "title": "1861 sayılı Jandarma efradı Kanununa bazı maddeler eklenmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1961-01-12",
+  "gazette_issue": "10705",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10705.pdf",
+  "source_sha256": "668e7645f39ea8e40baa525b06c006763ee444d05f378157222ba47c427a29c1",
+  "text_sha256": "9d73e72d05f6033e024c5dd374ef2702d7b2e23faa944ba055570a42dcd2370f",
+  "text_status": "ocr",
+  "pages": [
+    33
+  ],
+  "line_span": [
+    [
+      6842,
+      6875
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300236.pdf",
+    "source_sha256": "9f6d4e96507066d280c409eda31f564cc209699d3005a3442d5088dfef3a8019",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9547,
+    "bag": 0.879,
+    "kd_coverage": 0.9868,
+    "kd_body_compared": 0.9497,
+    "rg_words": 163,
+    "kd_words": 159,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
