@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6508-63/41591",
+  "source_id": 38272,
+  "date": "1999-10-01",
+  "title": "ÖKC'da fiş verme limitinin günün koşullarına göre yükseltilmesinin mümkün olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38272",
+  "source_sha256": "113b9bc7fd5a8d7cf661b18aaf17a172c2429f2dc1eeb3a0445f76b09c30d3a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
