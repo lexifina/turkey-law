@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5711-494",
+  "source_id": 30827,
+  "date": "2004-11-05",
+  "title": "İcra yoluyla yapılan satışlara Kurumlar Vergisi Kanunu'nun geçici 29/6 maddesindeki istisnanın uygulanmayacağı hallerde tahsil edilen KDV'nin iade edilemiyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30827",
+  "source_sha256": "4ff40c26ce9e9b58fa1a4a25e9a94939731224b07690ea0b252940d26996a97d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
