@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Belediye Meclisi",
+  "number": "2148",
+  "decision_date": "1976-06-22",
+  "title": "TOPTANCI FİRMALARA YER TAHSİSİ",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1976-2148.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1976",
+  "listing_sha256": "5c713b3bd4c74bd51e8eb3feef012846e1a0f98c4d89d6c92d91792407d22962",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
