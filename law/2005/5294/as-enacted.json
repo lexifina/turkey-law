@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5294",
+  "year": 2005,
+  "title": "Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Moğolistan Gıda ve Tarım Bakanlığı Arasında Tarım Alanında, Teknik, Bilimsel ve Ekonomik İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-02-08",
+  "gazette_issue": "2572",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208-5.htm",
+  "source_sha256": "34f72a666d2bf690c93d8b8c0424d956f503ecbee590df44add99e694390abac",
+  "text_sha256": "664f1cc51f0c347591b3e53362634b2ed62b3324135ca9bd764524e1579b91bf",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/02/08/2572-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050208-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
