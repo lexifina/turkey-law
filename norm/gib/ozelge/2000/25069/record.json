@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2822-30-145/18043",
+  "source_id": 25069,
+  "date": "2000-04-19",
+  "title": "Gelir veya kurumlar vergisi beyannamelerini kanuni süresinde verdikleri halde, ek gelir veya kurumlar vergisi beyannamesini kanuni süresinde vermeyen mükellefler için ne gibi işlem yapılacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25069",
+  "source_sha256": "f75ee9537ecdf2c2260c0772bfcc82f9bb87a9a7890c167e9223128995f1bd90",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
