@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 156680,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Devlet memurları aylıklarının tevhit ve teadülüne daîr olan 3656 sayılı Kanuna bağlı (1) numaralı cetvelde değişiklik yapılması ve Gümrük ve Tekel Bakanlığı Teşkilât ve ödevleri hakkındaki 2825 sayılı Kanuna iki madde eklenmesi hakkındaki 4607 sayılı Kanuna ek 1. maddesinin değiştirilmesi hakkındaki kanun teklifine dair (Millet Meclisi 2/215, Cumhuriyet Senatosu 2/30)",
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne daîr olan 3656 sayılı Kanuna bağlı (1) numaralı cetvelde değişiklik yapılması ve Gümrük ve Tekel Bakanlığı Teşkilât ve ödevleri hakkındaki 2825 sayılı Kanuna iki madde eklenmesi hakkındaki 4607 sayılı Kanuna ek 1. maddesinin değiştirilmesi hakkındaki kanun teklifine dair (Millet Meclisi 2/215, Cumhuriyet Senatosu 2/30)",
+  "first_sitting_date": "1962-10-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 89,
+      "sitting_date": "1962-10-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c005/cs__01005089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t01/c005/cs__01005fih.pdf",
+      "pages": [
+        "358",
+        "536",
+        "569:570"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=101&v_kullanici_id=27484903",
+  "source_sha256": "738407abf7ebe7cbb4e4b9ca0b75543892caee085972fb879dc9c916fb2249e5",
+  "in_force": "1962-10-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
