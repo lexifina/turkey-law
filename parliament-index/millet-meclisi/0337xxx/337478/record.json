@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 337478,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "1960 mali yılı Bütçe Kanununa bağlı (A/1) ve (A/2) işaretli cetvellerde değişiklik yapılması hakkında kanun tasarıları (1/27,1/28)",
+  "title": "1960 mali yılı Bütçe Kanununa bağlı (A/1) ve (A/2) işaretli cetvellerde değişiklik yapılması hakkında kanun tasarıları (1/27,1/28)",
+  "first_sitting_date": "1962-01-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 29,
+      "sitting_date": "1962-01-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c001/mm__01001029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c001/mm__01001fih.pdf",
+      "pages": [
+        "491",
+        "650"
+      ]
+    },
+    {
+      "cilt": 2,
+      "sitting": 37,
+      "sitting_date": "1962-01-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c002/mm__01002037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c002/mm__01002fih.pdf",
+      "pages": [
+        "129.130:139",
+        "146",
+        "151:154"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=4001&v_kullanici_id=27484850",
+  "source_sha256": "9f9b6a3b47e3301fe990bccf2e01bdb84e77d3259d9b94eab973b17793fe9259",
+  "in_force": "1962-01-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
