@@ -1,0 +1,74 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 53013,
+  "assembly": "TBMM",
+  "term": 10,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Orman kanunu lâyihası (1/181)",
+  "title": "Orman kanunu lâyihası (1/181)",
+  "first_sitting_date": "1955-01-07",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 24,
+      "sitting_date": "1955-01-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c004/tbmm10004fih.pdf",
+      "pages": [
+        "26",
+        "192"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 81,
+      "sitting_date": "1956-06-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c012/tbmm10012081.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c012/tbmm10012fih.pdf",
+      "pages": [
+        "474"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 91,
+      "sitting_date": "1956-08-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c013/tbmm10013091.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c013/tbmm10013fih.pdf",
+      "pages": [
+        "369",
+        "421:454",
+        "460:488",
+        "493:519",
+        "529:557",
+        "560:589",
+        "592:622",
+        "625:674",
+        "677:704",
+        "709:750",
+        "792:811",
+        "921:947",
+        "948:959",
+        "962",
+        "965",
+        "971",
+        "977:980"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=832&v_gelecek_sayfa=201&v_kullanici_id=27484234",
+  "source_sha256": "132d70baf1058c0597c85ae37a1ae0869e18e80fdfd8304a228f83ac8dab1ebf",
+  "in_force": "1955-01-07",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
