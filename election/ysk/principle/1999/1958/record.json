@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/1958",
+  "list_number": "1958",
+  "decision_date": "1999-07-03",
+  "title": "YSK ilke kararı 1999/1958",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4549/1999-1958-karar.htm",
+  "source_sha256": "40a1f04be8c342b0e8d6a90b4275fd7facbe55d2be23ebf622ed47ece72d0c5f",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-07-03",
+  "law_text_complete": false
+}
