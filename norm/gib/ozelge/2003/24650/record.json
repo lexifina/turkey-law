@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4106-476",
+  "source_id": 24650,
+  "date": "2003-12-31",
+  "title": "Zirai faaliyetler açısından zarar ziyan bedeli ödemelerinden gelir vergisi tevkifatı yapılması gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24650",
+  "source_sha256": "5cf90213c72eaab587b36e25bf9106b31e0a98767ac93ca6dd02aad9a17a4eaf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
