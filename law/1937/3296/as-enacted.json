@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3296",
+  "year": 1937,
+  "title": "Memurin Kanununa ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-01-04",
+  "gazette_issue": "3799",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3799.pdf",
+  "source_sha256": "a8f232e262ea7828a00b9deb6b29e36129fa7b4f3e63cbdde203910484a19665",
+  "text_sha256": "d86804965f28fd4f8b09669673b18e5b96aa5e4b0cc473f354d857457d17fcd9",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      191,
+      204
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [2] (no text layer)",
+    "tesseract_pages": [
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803296.pdf",
+    "source_sha256": "9aeed982ff87cd2a1d7180301b14a02c32aa1ed22aac96a457042f442db68a0a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9613,
+    "bag": 0.8889,
+    "kd_coverage": 0.9556,
+    "kd_body_compared": 0.9355,
+    "rg_words": 93,
+    "kd_words": 93,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
