@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "Cumhuriyet Senatosu",
+  "assembly": "CUMHURİYET SENATOSU",
+  "term_label": "12. Toplantı Yılı",
+  "cilt": 12,
+  "sitting": 72,
+  "label": "72. Birleşim",
+  "sitting_date": "1973-06-12",
+  "date_as_published": "12 Haziran 1973",
+  "weekday": "Salı",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c012/cs__12012072.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c012/cs__12012072gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c012/cs__12012fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=7&meclis_kisa_adi=CS&diger_donem_adi=t12",
+  "source_sha256": "704188a597e582d309b4f6caf0ab5f3ddb092c643261f6386f891219f463a283",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
