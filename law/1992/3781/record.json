@@ -1,0 +1,71 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3781",
+  "year": 1992,
+  "title": "190 Sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin (1) Sayılı Cetvelinde Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "1992-02-27",
+  "adopted_as_published": "27/02/1992",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.03.1992 No: 21163",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc075/kanuntbmmc075/kanuntbmmc07503781.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 75",
+  "committee_reports": [
+    {
+      "label": "TBMM 43 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c004/tbmm19004042ss0043.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 256516,
+      "title": "190 Sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin (1) Sayılı Cetvelinde Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "27/02/1992",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc075/kanuntbmmc075/kanuntbmmc07503781.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 43 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c004/tbmm19004042ss0043.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 41,
+          "sitting_date": "1992-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c004/tbmm19004041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c004/tbmm19004fih.pdf",
+          "pages": [
+            "390"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 42,
+          "sitting_date": "1992-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c004/tbmm19004042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c004/tbmm19004fih.pdf",
+          "pages": [
+            "493:495"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5",
+  "issuer": "TBMM",
+  "in_force": "1992-02-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/02/1992; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
