@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 165147,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "CUMHURBAŞKANINCA GERİ GÖNDERİLEN KANUNLAR",
+  "heading_as_published": "Cumhurbaşkanınca Geri Gönderilen Kanunlar",
+  "name": "KANUN NO:4774",
+  "summary": "Basın ve Yayın Yoluyla İşlenen Suçlara İlişkin Dava ve Cezaların Ertelenmesine Dair Kanunda Değişiklik Yapılmasına İlişkin 2.1.2003 tarihli ve 4779 sayılı Kanun",
+  "title": "Basın ve Yayın Yoluyla İşlenen Suçlara İlişkin Dava ve Cezaların Ertelenmesine Dair Kanunda Değişiklik Yapılmasına İlişkin 2.1.2003 tarihli ve 4779 sayılı Kanun",
+  "first_sitting_date": "2003-01-29",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 28,
+      "sitting_date": "2003-01-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003fih.pdf",
+      "pages": [
+        "733:741"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 32,
+      "sitting_date": "2003-02-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c004/tbmm22004032.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c004/tbmm22004fih.pdf",
+      "pages": [
+        "583:596",
+        "601:697"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b4404a9052b56377908318eb5b853a5c45453b4310c34161a90f7d8ac4ac88fa",
+  "in_force": "2003-01-29",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
