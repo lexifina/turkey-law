@@ -1,0 +1,72 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82681,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "KEMAL TURAN (ISPARTA)",
+  "summary": "Ve Dört Arkadaşı İsparta Gül Yağı Fabrikasının Tekel İdaresince İsparta Belediyesine devri hakkında (2/222)",
+  "title": "Ve Dört Arkadaşı İsparta Gül Yağı Fabrikasının Tekel İdaresince İsparta Belediyesine devri hakkında (2/222)",
+  "first_sitting_date": "1950-02-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 24,
+      "sitting": 39,
+      "sitting_date": "1950-02-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024fih.pdf",
+      "pages": [
+        "91"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 61,
+      "sitting_date": "1950-03-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025fih.pdf",
+      "pages": [
+        "221"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 62,
+      "sitting_date": "1950-03-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025062.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025fih.pdf",
+      "pages": [
+        "279:281"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 65,
+      "sitting_date": "1950-03-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025fih.pdf",
+      "pages": [
+        "419",
+        "424",
+        "437",
+        "464:467"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=265&v_gelecek_sayfa=201&v_kullanici_id=27484152",
+  "source_sha256": "f682dbc2fb9001fab9745d8da258b32c0598bebeff7949f0d8f143c3c27ce60f",
+  "in_force": "1950-02-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
