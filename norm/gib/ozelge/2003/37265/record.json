@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-78/049033",
+  "source_id": 37265,
+  "date": "2003-11-13",
+  "title": "Gayrisafi satış hasılatı içinde gösterilen belediye tüketim vergisinin faaliyet dışı gelir gider hesaplarında takip edilmesinin muhasebe standartlarına uygun olup olmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37265",
+  "source_sha256": "099e37dba4540f026e169e7ba6f512b9731bad46a6542230ed61008842102edd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
