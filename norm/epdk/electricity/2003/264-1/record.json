@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "264/1",
+  "decision_date": "2003-12-31",
+  "title": "24/7/2003 tarihli ve 171 sayılı Kurul Kararı ile değişik 19/3/2003 tarihli ve 103 sayılı Kurul Kararı ve ekleri ile belirlenen İletim Tarifesinin Türkiye Elektrik İletim Anonim Şirketi tarafından 2004 yılı için de uygulanmasına karar vermiştir",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=v/951S9D0rw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=v/951S9D0rw="
+  ],
+  "source_sha256": "11bd66039e5067628e501b2d63f6bbda01af4dc5ea59b94164404e3ef28a7724",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-12-31",
+  "law_text_complete": false
+}
