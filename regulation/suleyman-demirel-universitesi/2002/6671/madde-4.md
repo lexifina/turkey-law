@@ -1,0 +1,2 @@
+MÜDÜR :
+Madde 4- Müdür,Merkezin faaliyet alanı ile ilgili çalışmalarda bulunan öğretim üyeleri arasından Üniversite Senatosunun önerisi üzerine üç yıl süreyle Rektör tarafından görevlendirilir. Müdür merkezi temsil eder, Rektöre karşı sorumludur. Müdür görevi başında bulunmadığı zaman işlerinde kendisine yardımcı olmak üzere Yönetim kurulu üyeleri arasından bir yardımcı seçer. Müdür yardımcısı Müdürün yokluğunda yerine vekalet eder. Vekaletin altı aydan fazla sürmesi halinde yerine yeni Müdür görevlendirilir.
