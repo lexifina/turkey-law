@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 426351,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Askerlik Kanunu ile Türk Silâhlı Kuvvetleri İç Hizmet Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısı ile Ankara Milletvekili Yücel Seçkiner'in Aynı Mahiyetteki Kanun Teklifi, Askerlik Kanununa Bir Geçici Madde Eklenmesine Dair Kanun Tasarısı, Türk Silâhlı Kuvvetleri İç Hizmet Kanununun Bir Maddesinin Değiştirilmesi ne Dair Kanun Tasarısına İlişkin",
+  "title": "Askerlik Kanunu ile Türk Silâhlı Kuvvetleri İç Hizmet Kanununda Değişiklik Yapılmasına Dair Kanun Tasarısı ile Ankara Milletvekili Yücel Seçkiner'in Aynı Mahiyetteki Kanun Teklifi, Askerlik Kanununa Bir Geçici Madde Eklenmesine Dair Kanun Tasarısı, Türk Silâhlı Kuvvetleri İç Hizmet Kanununun Bir Maddesinin Değiştirilmesi ne Dair Kanun Tasarısına İlişkin",
+  "first_sitting_date": "1999-07-23",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 38,
+      "sitting_date": "1999-07-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c007/tbmm21007038.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c007/tbmm21007fih.pdf",
+      "pages": [
+        "213:227"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4bcc12901bcdb505a11b7caf050b165a7466d5a697e0272ec094566285943990",
+  "in_force": "1999-07-23",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
