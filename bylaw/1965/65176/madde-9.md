@@ -1,0 +1,1 @@
+Madde 9 – Nümune gönderilmeden sadece satış anlaşmasına dayanılarak ihracat yapılacağı hallerde, ihracatçı ihraçtan en az 24 saat önce bir beyanname ile kontrol teşkilatına başvurur. Beyannameye, satış anlaşmasının onaylı bir örneği, anlaşma yabancı dilde yapılmış ise onaylı bir tercümesi eklenir.

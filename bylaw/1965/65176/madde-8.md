@@ -1,0 +1,1 @@
+Madde 8 – Nümunesinin vasıfları tesbit edilen malı ihraç edecek olan ihracatçı, ihraçtan en az 24 saat önce malının kontrolunu bir beyanname ile kontrol teşkilatından ister. Beyannameye, nümuneye dayanan satış anlaşmasının onaylı bir örneği, anlaşma yabancı dilde yapılmış ise onaylı bir tercümesi eklenir.

@@ -1,0 +1,1 @@
+Madde 5 – Denetleme, Ticaret Bakanlığı Kontrol Teşkilatı tarafından yapılır. Kontrol teşkilatı bulunmayan yerlerden yapılacak ihracatta bu görev, ihracatçının isteği üzerine, en yakın kontrol merkezinden Bakanlıkça gönderilecek yetkililer tarafından yerine getirilir.

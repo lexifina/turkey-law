@@ -1,0 +1,1 @@
+Madde 4 – Satış anlaşmasında, maddenin vasıflarından başka ambalaj, markalama, nakil ve muhafaza hakkında kayıtlar bulunduğu hallerde, denetleme bunların satış anlaşmasına uygunluğunu tesbit bakımından da yapılır.
