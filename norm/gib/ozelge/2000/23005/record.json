@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4428-92/9645",
+  "source_id": 23005,
+  "date": "2000-03-01",
+  "title": "Basit usulde vergilendirilen mükelleflerden isteyenler defterdarlık veya birliklerin iznine gerek kalmadan kayıtlarını kendileri tutabilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23005",
+  "source_sha256": "1526acb6d8f6e3e9ea0463d263da8bff0fb1fb416090c505a918f57e2455fdd9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
