@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-2077/23473",
+  "source_id": 23477,
+  "date": "2004-05-26",
+  "title": "Ücretin safi tutarının tespitinde uygulanan indirimler dolayısıyla harcamanın yapıldığı yılda ücretlinin vergi matrahının çıkmaması durumunda, özel gider indiriminden yararlanılması söz konusu olamayacaktır. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23477",
+  "source_sha256": "1e0e595a984cf521b6a28112dc21c8f2ec086d25582d72b51acd69225a6906f3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
