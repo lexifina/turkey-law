@@ -1,0 +1,145 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3285",
+  "year": 1986,
+  "title": "Hayvan Sağlığı ve Zabıtası Kanunu",
+  "adopted": "1986-05-08",
+  "adopted_as_published": "08/05/1986",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.05.1986 No: 19109",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903285.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 69",
+  "committee_reports": [
+    {
+      "label": "TBMM 114 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028103ss0114.pdf"
+    },
+    {
+      "label": "TBMM 114ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028103ss0114ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 245858,
+      "title": "Hayvan Sağlığı ve Zabıtası Kanunu",
+      "adopted_as_published": "08/05/1986",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903285.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 114 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028103ss0114.pdf"
+        },
+        {
+          "label": "TBMM 114ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028103ss0114ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 68,
+          "sitting_date": "1986-02-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025fih.pdf",
+          "pages": [
+            "179"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 92,
+          "sitting_date": "1986-04-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027092.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027fih.pdf",
+          "pages": [
+            "464"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 98,
+          "sitting_date": "1986-04-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028098.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028fih.pdf",
+          "pages": [
+            "198"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 99,
+          "sitting_date": "1986-04-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028099.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028fih.pdf",
+          "pages": [
+            "244"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 100,
+          "sitting_date": "1986-05-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028100.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028fih.pdf",
+          "pages": [
+            "300"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 101,
+          "sitting_date": "1986-05-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028101.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028fih.pdf",
+          "pages": [
+            "358:359"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 102,
+          "sitting_date": "1986-05-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028102.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028fih.pdf",
+          "pages": [
+            "427"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 103,
+          "sitting_date": "1986-05-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028103.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c028/tbmm17028fih.pdf",
+          "pages": [
+            "476:506"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=301&v_kullanici_id=27483190",
+      "page_sha256": "a89a8099205e99f3a3db082e7b9daccd4c0c77c77adee9bd7d62596a8857dc62"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a89a8099205e99f3a3db082e7b9daccd4c0c77c77adee9bd7d62596a8857dc62",
+  "issuer": "TBMM",
+  "in_force": "1986-05-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 08/05/1986; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
