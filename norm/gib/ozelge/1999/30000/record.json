@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5317-1721/047884",
+  "source_id": 30000,
+  "date": "1999-11-05",
+  "title": "Okul kooperatifi ve kantinlerinin sadece öğrenci ve öğretmenlerin normal ihtiyaçlarını karşılayacak biçimde yapacakları satışlar, kar amacı güdülmemesi ve dolayısıyla ticari faaliyet kapsamında mütalaa edilmemeleri nedeniyle katma değer vergisinin konusun",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30000",
+  "source_sha256": "aada618cba6148b8c440c7a1af28ed602fd297ea6201490c7c4d6dc4d2d77b07",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
