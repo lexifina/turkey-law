@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3947",
+  "year": 1940,
+  "title": "Telgraf ve telefon kanununun 7. maddesini tadil eden 1899 numaralı kanunun birinci maddesine bir fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-12-27",
+  "gazette_issue": "4697",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4697.pdf",
+  "source_sha256": "121b9e0bd2cf192cb94ec48003326cdeb348c49a6fd55ea474fffe159b7ac821",
+  "text_sha256": "fb8b72ca8d810662b437da28b6f499126a34597f054f273efaa7baa12ff2742f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      61,
+      74
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203947.pdf",
+    "source_sha256": "818af4e579acd23d183d694f69b01983ca025a366682a0fefb79c34ac489694c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9368,
+    "bag": 0.8857,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9726,
+    "rg_words": 69,
+    "kd_words": 73,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
