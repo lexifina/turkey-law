@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/ 5601-1118/4158",
+  "source_id": 25104,
+  "date": "2001-01-22",
+  "title": "Banka ve sigorta muameleleri vergisinde farklı oran uygulaması nedeniyle yapılacak iadelere faiz ödenip ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/25104",
+  "source_sha256": "a641b8f9f3070a153c2e667491538925420da206d94e24242bc660cda8553c70",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
