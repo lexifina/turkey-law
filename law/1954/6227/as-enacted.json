@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6227",
+  "year": 1954,
+  "title": "6227 sayılı Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-01-27",
+  "gazette_issue": "8618",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8618.pdf",
+  "source_sha256": "52a2a482a57623ed622e8981572b537efdef62182a078195ff21a845f510e0de",
+  "text_sha256": "94fbe6f557a66c42728d2061bc26afcb05685a54a75ebe64fd75d0f3170e571b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      14,
+      27
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606227.pdf",
+    "source_sha256": "2b45e0e1e8c808da52b28f8858c77fd0ca70ce9e0dc1f761671c2af2acef229c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9649,
+    "bag": 0.9149,
+    "kd_coverage": 0.9574,
+    "kd_body_compared": 0.92,
+    "rg_words": 48,
+    "kd_words": 50,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
