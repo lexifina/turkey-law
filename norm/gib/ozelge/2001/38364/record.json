@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6624-69/23198",
+  "source_id": 38364,
+  "date": "2001-04-30",
+  "title": "İlan ve reklam asma, tahsis ve bakım ücretlerinin ilan ve reklam vergisine tabi olup olmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/38364",
+  "source_sha256": "7f696a6bdf756db23d4b494e2dd3cf38b6ed43f21c742b6e64ef5d0f897bf93e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
