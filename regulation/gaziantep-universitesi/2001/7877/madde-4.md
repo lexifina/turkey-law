@@ -1,0 +1,1 @@
+Madde 4 - Genel Kurul, müdürün başkanlığında, Gaziantep Üniversitesine bağlı çeşitli fakülte,enstitü, ve yüksekokullarda Atatürk İlkeleri ve İnkılap Tarihi derslerini okutan öğretim elemanlarından ve fakülte kurullarınca seçilecek birer üyeden oluşur.
