@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 162775,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "1938-1939 yıllarında İngiltere ve Fransa hükümetlerinden temin edilen teslihat kredilerinin mahsup şekli hakkındaki kanun tasarısına dair (Millet Meclisi 1/214; Cumhuriyet Senatosu 1/363)",
+  "title": "1938-1939 yıllarında İngiltere ve Fransa hükümetlerinden temin edilen teslihat kredilerinin mahsup şekli hakkındaki kanun tasarısına dair (Millet Meclisi 1/214; Cumhuriyet Senatosu 1/363)",
+  "first_sitting_date": "1964-03-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 19,
+      "sitting": 53,
+      "sitting_date": "1964-03-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019053.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019fih.pdf",
+      "pages": [
+        "484",
+        "648"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 66,
+      "sitting_date": "1964-04-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020fih.pdf",
+      "pages": [
+        "140",
+        "159",
+        "171:172",
+        "186",
+        "247:248"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=1001&v_kullanici_id=27484903",
+  "source_sha256": "50c083115f6891c99f06f81d0449e934eaf72febcec303cc0a085db989c60d66",
+  "in_force": "1964-03-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
