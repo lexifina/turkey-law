@@ -1,0 +1,74 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2916",
+  "year": 1936,
+  "title": "Yüksek mühendis mektebi 1935 malî yılı bütçesinde 7 500 liralık münakale yapılmasına dair kanun",
+  "adopted": "1936-02-06",
+  "adopted_as_published": "06/02/1936",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.02.1936 No: 3232",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602916.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 16",
+  "committee_reports": [
+    {
+      "label": "TBMM 112 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c008/tbmm05008037ss0112.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104130,
+      "title": "Yüksek mühendis mektebi 1935 malî yılı bütçesinde 7 500 liralık münakale yapılmasına dair kanun",
+      "adopted_as_published": "06/02/1936",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602916.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 112 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c008/tbmm05008037ss0112.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 8,
+          "sitting": 36,
+          "sitting_date": "1936-02-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c008/tbmm05008036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c008/tbmm05008fih.pdf",
+          "pages": [
+            "228"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 37,
+          "sitting_date": "1936-02-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c008/tbmm05008037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c008/tbmm05008fih.pdf",
+          "pages": [
+            "242",
+            "246",
+            "257",
+            "258:260"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "d75220fb874bbb1971a0036578fac6f1c290781ecdbc06c2ab371618d88ac55a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d75220fb874bbb1971a0036578fac6f1c290781ecdbc06c2ab371618d88ac55a",
+  "issuer": "TBMM",
+  "in_force": "1936-02-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 06/02/1936; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
