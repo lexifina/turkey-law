@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6685-3699/02719",
+  "source_id": 36550,
+  "date": "1997-01-24",
+  "title": "Kısıtlamaya konu emlakin satılması, istimlaki veya hibe edilmesi halinde muaccel olan emlak vergisinin ödeme süresinin tespiti zorunlu bulunduğundan, bu alacaklara 1 aylık ödeme süresi verilmesi, bu süre içerisinde ödeme yapılmaması halinde hesaplanacak g",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36550",
+  "source_sha256": "c718b14cfc3c39070449b49e65b0b2bf17e0a396d28bed18d88fffec760f59af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
