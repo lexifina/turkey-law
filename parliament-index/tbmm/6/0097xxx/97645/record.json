@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 97645,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "title": "TBMM fihrist kaydı 97645 (Layihalar)",
+  "first_sitting_date": "1939-05-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 14,
+      "sitting_date": "1939-05-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c002/tbmm06002014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c002/tbmm06002fih.pdf",
+      "pages": [
+        "118"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 35,
+      "sitting_date": "1939-07-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c004/tbmm06004035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c004/tbmm06004fih.pdf",
+      "pages": [
+        "15",
+        "139:140",
+        "142",
+        "144",
+        "162:165"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1070&v_gelecek_sayfa=901&v_kullanici_id=27483993",
+  "source_sha256": "91680021c3f5e2aee1083be44bda1e56d5f380804cb2a62acafcdbfa0198c775",
+  "in_force": "1939-05-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
