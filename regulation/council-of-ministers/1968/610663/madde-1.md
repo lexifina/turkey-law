@@ -1,0 +1,2 @@
+Madde 1 – Bu Yönetmelik 18 Mayıs 1959 tarih ve 7279 sayılı Kanunla Milli Savunma Bakanlığına bağlı olarak kurulan İlmi İstişare ve Araştırma Kurulu'nun faaliyetini, daimi ve geçici olarak teşkil edilecek komitelerle bunlara bağlı grupların çalışma tarzlarını ve Kurul Genel Sekreterinin görevleri ile ilgili esasları tespit etmek maksadıyla sözü geçen Kanunun 9 uncu maddesi gereğince hazırlanmıştır.
+Aşağıdaki maddelerde geçen (İLAR) kısaltılması, Milli Savunma Bakanlığı İlmi İstişare ve Araştırma Kurulu'nu ifade eder.

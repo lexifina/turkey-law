@@ -1,0 +1,1 @@
+Madde 20 – Toplantı davetiyeleri bir gündem teklifini ihtiva eder. Bu gündem teklifi Başkan veya Başkan vekili ile Genel Sekreter tarafından beraberce hazırlanır. Toplantı açılınca bir evvelki toplantının tutanağı ve kararları okunup imza edildikten sonra gündem teklifi aynen veya değiştilerek kabul edilir.

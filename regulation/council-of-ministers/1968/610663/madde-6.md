@@ -1,0 +1,1 @@
+Madde 6 – Milli Savunma Bakanlığına İLAR'ca teklif edilecek adaylar birbirini takip eden iki toplantıda tespit edilir. Birinci toplantıda adaylar belirtilir, ikinci toplantıda da bu adaylar arasından tercih yapılır. Bu iki toplantının tarihleri arasında en az bir ay süre bulunur.

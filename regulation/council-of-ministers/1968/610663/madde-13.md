@@ -1,0 +1,1 @@
+Madde 13 – İLAR'ca seçilen adaylar, İLAR Başkanlığınca Milli Savunma Bakanlığına teklif edilirler. Milli Savunma Bakanı teklif edilen adayları uygun gördüğü takdirde Bakanlar Kurulu'na inha eder. Teklif edilen adaylar Bakanlar Kurulu kararı ile İLAR'a üye seçilirler.

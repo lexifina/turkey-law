@@ -1,0 +1,1 @@
+Madde 10 – Adayların belirtileceği toplantıda İLAR; üyelerin üniversitelerin ve diğer teşekküllerin gösterdikleri kişilerin adaylıklarının kabul edilmesine karar verir. Adaylığı İLAR'ca kabul edilen kişiler hakkında bir rapor hazırlamak üzere İLAR üyelerinden gereği kadar raportör seçilir. Raportörden kurulacak komisyon ilk toplantısında başkanını seçer.

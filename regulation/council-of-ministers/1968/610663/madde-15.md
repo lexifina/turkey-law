@@ -1,0 +1,1 @@
+Madde 15 – Üyelerden görevleri ile bağdaşmayan hareketleri görülenler sürelerinin sona ermesi beklenmeksizin Milli Savunma Bakanının teklifi ve Bakanlar Kurulu'nun kararı ile üyelikten af olunurlar. Bu gibilere fahri üyelik ünvanı verilemez.

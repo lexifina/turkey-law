@@ -1,0 +1,6 @@
+Madde 21 – İLAR belirli konularda mütalaa vermek, teklif ve tavsiyelerde bulunmak üzere komiteler teşkil eder. Teşkil edilen komitelerde İLAR üyelerinden en az biri bulunur ve başkanlık eder. Komiteler gerektiği hallerde Çalışma Grupları teşkil eder. Komite ve çalışma grubu toplantılarında lüzumu halinde İLAR Genel Sekreteri müşahit olarak katılabilir.
+Komite ve çalışma gruplarının teklifi üzerine Kurulca istişare için Kurul dışından uzmanlar celpedilebilir.
+Komite ve Çalışma Gruplarına bir üst kademe tarafından birer çalışma programı verilir. Çalışma komite veya grupları bu programlarda üst kademeye bildirmek şartıyla değişiklik yapabilirler. Programdaki işlerin gerçekleştirilmesi için programla birlikte münasip bir süre tayin olunur.
+Çalışma Grubu Başkanlıklarını üyelerini komite seçer. Komite ve Çalışma Grupları da Milli Savunma Bakanlığından gelen üyeler arasından raportörünü seçerler.
+Komite Başkanının görevi, Komite ile İLAR arasında bağlantı kurmak, komitelerin çalışmalarını düzenlemek, çalışma sonuçlarını birer raporla İLAR'a sunulmak üzere İLAR Genel Sekreterine göndermek ve kendine bağlı grup veya grupların çalışması için gereken tedbirleri almaktır.
+Grup Başkanının görevi, komite ile grup arasında bağlantı kurmak, grubun toplanması ve çalışması için gereken tedbirleri alma ve çalışma sonunda hazırlanacak raporu komite başkanına sunmaktır.
