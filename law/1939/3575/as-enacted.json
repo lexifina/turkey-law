@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3575",
+  "year": 1939,
+  "title": "Askerî fabrikalar tekaüd ve muavenet sandığı hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-02-07",
+  "gazette_issue": "4126",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4126.pdf",
+  "source_sha256": "8125f93f4988ec4a2096147d2a37833cfecfcdb88131b2671ab73a5f4384bc39",
+  "text_sha256": "39bd056e15082c4bfce68a60139a2205347c5201fe29b8c0d06717c503559b78",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      361,
+      929
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc019/kanuntbmmc019/kanuntbmmc01903575.pdf",
+    "source_sha256": "50b92ce59f93b70d3ab5863265506528cca78cfeb7c8895c7c4dc0bb28dbc10c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9735,
+    "bag": 0.9435,
+    "kd_coverage": 0.9992,
+    "kd_body_compared": 0.9986,
+    "rg_words": 3633,
+    "kd_words": 3683,
+    "own_anchor": true,
+    "foreign_anchors": 12
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
