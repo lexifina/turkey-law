@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6523-22/38714",
+  "source_id": 25272,
+  "date": "1997-09-10",
+  "title": " Ö.K. Cihazın murisin işyerinde varisler tarafından herhangi bir değişiklik Yapılmadan (muris adına fiş düzenleyerek) kullanılması halinde özel usulsüzlük cezası uygulanır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/25272",
+  "source_sha256": "434ad4b28b7ef21dd2ff695004740376c8cc74c2d2970bb06f50130119f0953f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
