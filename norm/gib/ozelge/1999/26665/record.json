@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4428-23/12786",
+  "source_id": 26665,
+  "date": "1999-04-05",
+  "title": "Vergi dairesine işini terk dilekçesini veren mükellefler kullanılmamış olarak ellerinde bulunan belgeleri teslim aldıkları odalara veya birliğe ibraz edeceklerdir. Belgeler oda ve birliklerce iptal edilecektir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/26665",
+  "source_sha256": "dac9e8ae8e7a4bbdbc86f9e02e178bf86edaf67a19e36fd102ed52d54d02465a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
