@@ -1,0 +1,1 @@
+Madde 12- Danışma Kurullarının üyeleri sürekli ve süreksiz olarak, her Danışma Kurulunun ilgili bulunduğu alanın yetkili kişi, kuruluş, organ ve örgütleri arasında Merkez Yönetim Kurulunun onayıyla seçilir.

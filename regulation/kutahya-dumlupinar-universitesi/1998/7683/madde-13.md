@@ -1,0 +1,1 @@
+Madde 13- Danışma Kurulunun toplantı gündemleri, Merkez Yönetimince yapılan hazırlıklar sonucu müdür tarafından düzenlenir. Üyelere gereken çağrı yapılır. Toplantılar Merkez Müdürü tarafından açılır ve yönetilir.
