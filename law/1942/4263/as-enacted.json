@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4263",
+  "year": 1942,
+  "title": "Hatay vilâyeti hududu dahilinde Hatay'ın ilhakından evvel altın üzerine yapılan borçların ifası tarzına dair 3713 numaralı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-06-23",
+  "gazette_issue": "5139",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5139.pdf",
+  "source_sha256": "6bf5dbd3a9a7e2ae89e1c2f3e39ce7f65ce0f93cb5d26da3b3f69197d014e7d4",
+  "text_sha256": "9bef1ed678cb6f0f1c4424f10a6f28a12cc9ecd269cef97d8a5b892d18ec2711",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      168,
+      184
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304263.pdf",
+    "source_sha256": "79b5ef4d60e35b6f34a7c0db7177d7ebf44f49f1d8c39039918621375871edbe",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.958,
+    "bag": 0.9379,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9778,
+    "rg_words": 89,
+    "kd_words": 90,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
