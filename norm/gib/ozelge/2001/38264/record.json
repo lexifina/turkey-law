@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6522-98/17539",
+  "source_id": 38264,
+  "date": "2001-04-17",
+  "title": "İşini terk eden mükellefin ekonomik veya teknolojik ömrünü dolduran Ö.K.C.'nı gerekli tespitleri yaptırması halinde kullanım dışı bırakabilmesi mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38264",
+  "source_sha256": "41f4f51c525c805b5b26dd2876feef426edb6696cb9322c82aae19e12f2e7d26",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
