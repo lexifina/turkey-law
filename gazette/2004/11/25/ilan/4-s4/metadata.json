@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-11-25",
+  "issue": "25651",
+  "edition": "regular",
+  "item": 4,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Muğla Üniversitesi Rektörlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041125-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (14 = 14)",
+  "ilan_codes": [
+    "14602/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041125-4.htm",
+  "category_page_sha256": "d5e916da1ce4b6744e9b40afbc38fc108d3004a842492d5f742eda5327d1cf28",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041125.htm",
+  "index_sha256": "44e01233d16d5f2f88caed0837c8f29348694ed7291527aa6a4f664c33fd00a4",
+  "index_header": "25 Kasım 2004 ... Sayı : 25651",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
