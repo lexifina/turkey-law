@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "Motorlu Taşıtlar Vergisi Kanunu-2/2005-1.",
+  "source_id": 1052,
+  "date": "2005-01-04",
+  "title": "Panel van tipi taşıtların tanımlanması ve vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/sirkuler/1052",
+  "source_sha256": "6c53ef29d10a82e9525b449dad6a921e224a30430b2246709c91b8c389e7276e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
