@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Birleşik Toplantısı",
+  "assembly": "TBMM BİRLEŞİK TOPLANTI",
+  "term_label": "19. Toplantı Yılı",
+  "cilt": 19,
+  "sitting": 74,
+  "label": "74. Birleşim",
+  "sitting_date": "1980-06-27",
+  "date_as_published": "27 Haziran 1980",
+  "weekday": "Cuma",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t19/c019/tbmm19019074.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t19/c019/tbmm19019074gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t19/c019/tbmm19019fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=8&meclis_kisa_adi=TBMM(MM-CS)&diger_donem_adi=t19",
+  "source_sha256": "9fa6af170bdd799e083fb79919adce446934f9ba5988d2ded19b492680285d20",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
