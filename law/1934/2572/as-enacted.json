@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2572",
+  "year": 1934,
+  "title": "Denizyolları ve Akay işletmeleri ile fabrika ve havuzlar teşkilâtı hakkındaki 2248 numaralı kanuna müzeyyel kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-07-15",
+  "gazette_issue": "2752",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2752.pdf",
+  "source_sha256": "cace06c44038bcb68634fce607f38e5db026ec7e1ef69ca552545520616e8ffc",
+  "text_sha256": "bd5ed04a904070bcbf657e64a8625d6fccb113d712f9ea05bac4cb459b95abeb",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      227,
+      373
+    ],
+    [
+      397,
+      405
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302572.pdf",
+    "source_sha256": "ad0f1da321c6aa8caf473c3db5dfeba2f7265fc2efbf11dfddc7fe8d0a3c2859",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9815,
+    "bag": 0.9208,
+    "kd_coverage": 0.9956,
+    "kd_body_compared": 0.9912,
+    "rg_words": 448,
+    "kd_words": 453,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
