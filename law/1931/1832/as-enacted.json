@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1832",
+  "year": 1931,
+  "title": "Üsküdar-Kadıköy ve havalisi halk tramvayları Türk anonim şirketine aid 250 000 liralık hisse senedinin Evkaf Umum Müdürlüğünce satın alınmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-06-25",
+  "gazette_issue": "1832",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1832.pdf",
+  "source_sha256": "b7e0ef72411056ac0075d735d8651fca2a123e0fcf002da5399faf9ada949368",
+  "text_sha256": "dfcba5b56dc347ba3852a4de4af8eba3d82d8e07a249eea62969032ee8545ba7",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      9,
+      59
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001832.pdf",
+    "source_sha256": "df8c9c245f3bdf4330f0b5d0d5aa215d4e9ae1d13b618a1f02f7f75a8f5ff104",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9597,
+    "bag": 0.9098,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.976,
+    "rg_words": 122,
+    "kd_words": 125,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
