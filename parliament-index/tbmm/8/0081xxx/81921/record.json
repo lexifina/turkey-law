@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 81921,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Devlet Denizyolları ve Limanları İşletme Genel Müdürlüğü hesabına Amerika'dan satınalınan altı yolcu gemisi işinde ve kredi temin inde hizmeti görülen Mc. Cann'e ve ortağına verilecek ikramiye hakkında (1/557)",
+  "title": "Devlet Denizyolları ve Limanları İşletme Genel Müdürlüğü hesabına Amerika'dan satınalınan altı yolcu gemisi işinde ve kredi temin inde hizmeti görülen Mc. Cann'e ve ortağına verilecek ikramiye hakkında (1/557)",
+  "first_sitting_date": "1949-05-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 19,
+      "sitting": 89,
+      "sitting_date": "1949-05-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019fih.pdf",
+      "pages": [
+        "542"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 99,
+      "sitting_date": "1949-06-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c020/tbmm08020099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c020/tbmm08020fih.pdf",
+      "pages": [
+        "74",
+        "320:327",
+        "329",
+        "394:397"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=941&v_gelecek_sayfa=601&v_kullanici_id=27484132",
+  "source_sha256": "cb688a10cb038d9be4ece930cc992f3e39e3079e070be63d8c7c90191a8091ab",
+  "in_force": "1949-05-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
