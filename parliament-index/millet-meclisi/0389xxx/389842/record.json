@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 389842,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Hudut ve sahiller Sağlık Genel Müdürlüğü 1971 yılı Bütçe Kanununda değişiklik yapılması hakkında kanun tasarısı (1/597)",
+  "title": "Hudut ve sahiller Sağlık Genel Müdürlüğü 1971 yılı Bütçe Kanununda değişiklik yapılması hakkında kanun tasarısı (1/597)",
+  "first_sitting_date": "1972-01-31",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 33,
+      "sitting_date": "1972-01-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020fih.pdf",
+      "pages": [
+        "458"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 48,
+      "sitting_date": "1972-02-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c022/mm__03022048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c022/mm__03022fih.pdf",
+      "pages": [
+        "110",
+        "234",
+        "273",
+        "375",
+        "652"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2401&v_kullanici_id=27484850",
+  "source_sha256": "246910b0e960659140840f2fb92afe3e1a569beef64becf7bc47ed29b1610b05",
+  "in_force": "1972-01-31",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
