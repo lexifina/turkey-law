@@ -1,0 +1,1 @@
+Geçici Madde 1- İzmir Yüksek Teknoloji Enstitüsü Döner Sermaye İşletmesinin bütün mal varlığı ve personeli bu Yönetmelik esaslarına uygun olarak kurulacak olan döner sermaye işletmesine başka bir işleme gerek kalmaksızın devredilir.

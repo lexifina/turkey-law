@@ -1,0 +1,3 @@
+Yönetim Organları
+Madde 3- Döner Sermaye İşletmesinin Yönetim Kurulu, İzmir Yüksek Teknoloji Enstitüsü' nün Yönetim Kuruludur. Döner Sermaye İşletmesinin ita amiri Rektördür. Rektör, bu yetkisini uygun gördüğü ölçüde yardımcılarına, dekanlara veya enstitü, yüksekokul ve araştırma ve uygulama merkezi müdürlerine devredebilir.
+Enstitü Yönetim Kurulu, Yetkilerini uygun gördüğü ölçüde kuracakları Yürütme Kuruluna devredebilir. Yürütme Kurulu,İzmir İleri teknoloji Enstitüsü Yönetim kurulunca seçilecek bir rektör yardımcısı , üç öğretim elemanı (dekan ve yüksekokul müdürü de olabilir) ve bir sayman olmak üzere beş kişiden oluşur.
