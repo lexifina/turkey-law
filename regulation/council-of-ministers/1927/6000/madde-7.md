@@ -1,0 +1,1 @@
+Madde 7 – Fosfor ve fosfor ile imal edilmiş mevaddı semmiye zehir odasında, ayrıca ve behemehal ateşten masun olarak ihzar edilen hususi bir mahalde hıfzolunur. Beyaz fosfor su içinde saklanmalıdır Sut ve potasrutubet ve ateşten masun bir halde ve kapalı olarak muhafaza edilmeli ve mayi Parafin ve saire gibi hava nüfuzuna mani bir madde içinde mağtus olmalıdır.

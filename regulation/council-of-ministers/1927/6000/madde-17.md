@@ -1,0 +1,1 @@
+Madde 17 – Talimatnameye merbut (A), (B), (C) cetvellerinde münderiç olmayıp tababet ve sanayi ve ziratta kullanılan diğer semli ve müessir maddeler derecei tesir itibariyle muadilleri bulunan maddeler gibi hıfzedilir ve satılırlar.

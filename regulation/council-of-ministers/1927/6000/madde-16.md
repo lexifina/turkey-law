@@ -1,0 +1,1 @@
+Madde 16 – Sanat ve ziraatta kullanılan zehirli ve müessir maddeler satmak için müsaade alanlar hangi maddelerin satışı için müsaade almış iseler yalnız dükkanlarında o maddeleri bulundurmağa salahiyettardırlar. Başka nevi maddeleri bulundurmaları ve alıcıya vermeleri memnudur.

@@ -1,0 +1,1 @@
+Madde 18 – Bu talimatname ahkamına muhalif hareket edenler hakkında kavanini mahsusasında münderiç ahkam tatbik edilir ve evamiri Hükümete muhalif hareketlerinden dolayı takibatı kanuniye icra edilir.

@@ -1,0 +1,1 @@
+Madde 13 – Zeyildeki (A) ve (B) cetvellerinde yazılı zehirlerin alınmasını mütaakıp zehiri alan kimse tarafından imzalı veya mühürlü bir makbuz verilir. Bu makbuzlar üzerine satıcı tarafından zehir defterindeki numara tahrir olunduktan sonra on sene müddetle muhafaza olunur.
