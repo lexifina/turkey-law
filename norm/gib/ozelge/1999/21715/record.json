@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-30053/14714",
+  "source_id": 21715,
+  "date": "1999-04-16",
+  "title": "Yatırım indirimi uygulaması, 01.01.1999 tarihinden itibaren düzenlenen yatırım teşvik belgesi kapsamında yapılacak yatırım harcamaları için geçerli olduğundan, bu tarihten önce düzenlenen yatırım teşvik belgeleri kapsamındaki yatırım harcamalarının bu uyg",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21715",
+  "source_sha256": "762c0b7d36d5cf8bbd74d5407d3c5320ed78a53c25b77c1b304fac2d9d03fd25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
