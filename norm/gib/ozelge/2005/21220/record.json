@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4535-5",
+  "source_id": 21220,
+  "date": "2005-03-26",
+  "title": "Genel müdürlük ve operasyon binası olarak kullanılacak binaların inşası yatırım indirimi istisnasından yararlanmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21220",
+  "source_sha256": "2216311ea9b4cd2cf162f8a8c7a73b0cf9510990439b5b90c81da2b23a32eb47",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
