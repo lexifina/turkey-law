@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "DV-4/2004-3/ Krediler",
+  "source_id": 1025,
+  "date": "2004-01-12",
+  "title": "Yurt dışı kredi kuruluşları ve uluslararası kurumlarca kullandırılacak kredilerle ilgili olarak düzenlenen kağıtlara uygulanacak damga vergisi istisnasına ilişkin açıklamalar ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/sirkuler/1025",
+  "source_sha256": "d59b4fc1224bc22c9e363ae23c4ad8f45a9013dfd286e170bb3dbf8acfd9dd8b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
