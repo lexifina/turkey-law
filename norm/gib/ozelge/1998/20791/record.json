@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4025-23/49690",
+  "source_id": 20791,
+  "date": "1998-12-25",
+  "title": "Çalışanlardan kesilen vergilerin ertelenmesi uygulamasında son dört aylık sigorta prim bordrosunun kapsadığı dönemin son ayına ilişkin işçi sayısı olarak dikkate alınması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20791",
+  "source_sha256": "8431fa24f10fff10098e34d145166ac869012121339b3395f90a1fef81597eb6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
