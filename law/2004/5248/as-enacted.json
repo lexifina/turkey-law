@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5248",
+  "year": 2004,
+  "title": "Türkiye Cumhuriyeti ile Fas Krallığı Arasındaki Serbest Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-10-27",
+  "gazette_issue": "25626",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/10/20041027.htm",
+  "source_sha256": "d07460aaade0b5e1b79046234a03352e72be05b621590d98ca2c074ce751a791",
+  "text_sha256": "8fd899a0f52c551e9cbbc052e27f49426c3e971b4481ca0bb1a3b8529ed355ad",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/10/27/25626-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/10/20041027.htm#11",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
