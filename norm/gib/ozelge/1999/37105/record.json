@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6650-150/8831",
+  "source_id": 37105,
+  "date": "1999-03-09",
+  "title": "Parsellenmemiş arazi veya arazi parçalarının zirai faaliyette kullanılmaları halinde arazi sayılarak araziye ait oran üzerinden vergilendirilmesi, zirai faaliyette kullanılmamaları halinde ise, arsa sayılması ve arsaya ait oran üzerinden vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37105",
+  "source_sha256": "a2cfdaf2e068b66572f5b45a8d3be368263c675107e67694c46e1e0cfaa0c2f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
