@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3111",
+  "year": 1937,
+  "title": "Sümerbank Kanununun 15. maddesine fıkralar eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-02-11",
+  "gazette_issue": "3531",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3531.pdf",
+  "source_sha256": "810de999be6da62df2b7e77b001609d9cbac8f98641f512bd18f79d942ff875d",
+  "text_sha256": "12282bcf567892a183c45d7c3819613e9fd5d0150bcd2e7b1a94a1fcecf7d87a",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      56
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703111.pdf",
+    "source_sha256": "24bd8e90312352553317c0cbc1b5e5c03a1d44812ae74eee661c1ad9e92da826",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9512,
+    "bag": 0.8824,
+    "kd_coverage": 0.9739,
+    "kd_body_compared": 0.9615,
+    "rg_words": 156,
+    "kd_words": 156,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
