@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1478/50961",
+  "source_id": 22993,
+  "date": "2004-10-28",
+  "title": "Basit usulde vergilendirilmekte iken şehirlerarası yük taşımacılığı yapmak amacıyla bir kamyon satın alması sebebiyle gerçek usulde mükellefiyetinin tesis edildiği ancak, söz konusu araç arızalı çıkmasından dolayı beş gün sonra iade edildiğinden şehirlera",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22993",
+  "source_sha256": "764e4f2c3d8814905a93b7f29a71610e2dcab63ac05b5503a38faa46c2c7c03e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
