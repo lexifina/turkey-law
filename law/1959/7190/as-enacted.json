@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7190",
+  "year": 1959,
+  "title": "Atom Enerjisi Komisyonu kurulması hakkındaki 6821 sayılı Kanunun 2. maddesinin (a) bendine bir fıkra ilâvesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-01-22",
+  "gazette_issue": "10115",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10115.pdf",
+  "source_sha256": "5d30224b152429e526dd960fa27249938cf26ea507bb44cdcf0ca7ca601dd740",
+  "text_sha256": "021f1a7c44ebe114005a74bcf7faa160cfb764012819dae0485947e862c0c11c",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      297,
+      317
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107190.pdf",
+    "source_sha256": "21acd1d79f61d20be046b37792e6c5478d171880414fb1e7d1f1098353527849",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9846,
+    "bag": 0.8571,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9778,
+    "rg_words": 87,
+    "kd_words": 90,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
