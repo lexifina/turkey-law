@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8446",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "25.000 LİRALIK MADENİ PARALARIN TEDAVÜLDEN KALDIRILMASI İLE İLGİLİ TEBLİĞ (SIRA NO: 2004/3)",
+  "number": "8446",
+  "issuer": "Hazine Müsteşarlığı’nın bağlı bulunduğu Devlet Bakanı",
+  "path": "teblig/2004/8446",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8446&MevzuatTertip=5",
+  "source_sha256": "26344125b35cdff0eddbac01e193298e298cf333ed3a5a32291c421ffe04e913",
+  "source_bytes": 18906,
+  "published": "2004-02-21",
+  "gazette": "25380",
+  "in_force": "2004-02-23",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 23/2/2004 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 23/2/2004 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 159,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
