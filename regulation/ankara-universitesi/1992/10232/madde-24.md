@@ -1,0 +1,1 @@
+Madde 24- Yabancı uyrukluların; kadroya bakılmaksızın fahri araştırma görevliliği için Anabilim veya Bilim Dalında ilgili Birimin teklifi, Yönetim Kurulu’nun kabülü ve yeterli Türk Dili, bilim sınavı ve yabancı dil sınavını (İngilizce, Fransızca, Almanca, İtalyanca) kazanmak şartı ile kabulleri yapılır. Her bir Anabilim Dalında kontenjan (I) bir sayısı ile sınırlandırılmıştır.

@@ -1,0 +1,3 @@
+Tez Değerlendirilmesi
+Madde 20- Tıpta uzmanlık sınavı için, jüri üyelerinin her biri adayın uzmanlık tezi hakkında ayrıntılı birer rapor hazırlar. Jüri toplandığında raporlar okunur ve jüri başkanına sunulur. Gerekirse aday sözlü olarak tez savunmasına alınır. Bu aşamadan sonra jüri tezi değerlendirerek kesin karara varır.
+Uzmanlık jürisinin tezi tümden reddettiği hallerde yeniden tez hazırlanabilir. Tezi kabul edilmeyen araştırma görevlileri jürinin gerekçesindeki esaslara göre sonucun kendilerine tebliğinden itibaren en geç 6 ay içinde gereken düzeltmeleri yaparak veya yeni tez hazırlayarak tezi jüriye verirler. Bu defa tezi reddedilen araştırma görevliliği ile ilişkisi kesilir.

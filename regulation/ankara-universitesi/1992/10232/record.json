@@ -1,0 +1,42 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [],
+  "date_evidence": [
+    [
+      "1992-02-17",
+      "17.02.1992",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "1999-05-23",
+      "RG-23/05/1999-23703",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-23/05/1999-23703",
+  "first_law": null,
+  "gazette": "21145",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1999-05-23",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/1992/10232",
+  "published": "1992-02-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10232&MevzuatTertip=5",
+  "source_bytes": 38649,
+  "source_id": "8.5.10232",
+  "source_sha256": "443180822df40027d2f52350e8ae8a704b7ad6e582936716fd009bdd7c018657",
+  "text_status": "current-consolidated",
+  "title": "ANKARA ÜNİVERSİTESİ TIP FAKÜLTESİ TIPTA UZMANLIK ÖĞRENCİLERİ ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 2360
+}

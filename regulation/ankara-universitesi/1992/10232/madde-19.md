@@ -1,0 +1,2 @@
+Sınav Jürileri
+Madde 19- Tıpta uzmanlık öğrenciliği için, uzmanlık sınav jürileri adayın kendi bilim dalı ve yakın dallarından profesör, yoksa doçentlerden, yoksa yardımcı doçentlerden olmak üzere beş (5) asil ve iki (2) yedek üyeden Fakülte Yönetim Kurulunca seçilir. İhtisas sınavının yapıldığı Anabilim Dalı veya Bilim Dalı Başkanları jürinin tabii üyesi ve başkanıdır. Tez danışmanı bu jürinin asil üyeleri arasında yer alır. Yan dal ihtisas giriş sınavlarında da aynı kural uygulanır.

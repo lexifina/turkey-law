@@ -1,0 +1,5 @@
+Atama Şartları
+Madde 3- Ankara Üniversitesi Tıp Fakültesinde uzmanlık öğrencisi olmak ve araştırma görevlisi kadrosuna atanabilmek için:
+a) Tıp Fakültesi mezunu olmak veya belirli uzmanlık dalları için tababet uzmanlık tüzüğünün öngördüğü şartları haiz olmak ve yürürlükte olan yasa, tüzük ve yönetmeliklerin gerektirdiği sınavları kazanmış bulunmak,
+b) Yan dal uzmanlığı için ilgili Bilim Dalının boş kadrosunun ilan edilmiş bulunması veya Fakülte dışı diğer sağlık kuruluşlarından özlük hakları ilgili kuruluşlarda kalmak şartı ile ihtisas yapacağı yan dalda Bilim Dalı Akademik Kurulu’nun olumlu kararının bulunması gerekir. İlgili Bilim Dallarında kontenjan en çok 2 olarak belirlenir. Yardımcı Doçent, Doçent veya Profesör akademik unvan sahibi olanlar yan dal ihtisası yapmak istedikleri takdirde unvanlarına bakılmaksızın giriş sınavı dahil tıpta uzmanlık öğrencisi statüsüne kesin olarak uymak zorundadırlar. Yan dal ihtisası yaparken ana dalda öğretim üyeliğine yükseltilenler yan dal ihtisasına devam edemezler.
+c) Muvazzaf askerlik hizmetlerini sınav gününden üç ay sonra bitirecek olanlar asistanlık sınavına girebilirler.

@@ -1,0 +1,2 @@
+Madde 10- Mezuniyet Sonrası Eğitim Koordinasyon Kurulu Fakülte Yönetim Kurulunca oluşturulur. Fakülte Dekanı Başkanlığındaki kurulda Bölüm Başkanları tabii üyedirler. Temel Tıptan 1, Klinik Bölümlerinden 2 ve gerektiğinde Sağlık Bilimleri Enstitüsünden gelecek 1 üyeden teşekkül eder. Kurula bu üyeler arasından Dekan tarafından bir başkan yardımcısı seçilir. Kurulun seçimi Dekan ve Fakülte Yönetim Kurulu seçimi hemen izler.
+Görev süresi 3 yıldır.
