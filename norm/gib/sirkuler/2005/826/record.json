@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-15/2005-2/e-Beyanname-1",
+  "source_id": 826,
+  "date": "2005-02-14",
+  "title": "Beyannamelerin elektronik ortamda verilmesi uygulamasının yaygınlaştırılması ve basit usulde vergilendirilen mükelleflere ait beyannamelerin de elektronik ortamda verilebilmesi hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/826",
+  "source_sha256": "7d6b6845c51ec502981b1a7fe3c6b0f6d5ad8a298518bdea89a9a8e8b40bcbb1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
