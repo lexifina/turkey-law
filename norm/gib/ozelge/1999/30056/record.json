@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5313-3226/321",
+  "source_id": 30056,
+  "date": "1999-01-06",
+  "title": "Finansal kiralamaya konu olan malın mülkiyet hakkı devredilmediği için KDV Kanununun 13/d maddesinde düzenlenen istisna hükmünden yararlanmasının mümkün bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30056",
+  "source_sha256": "ac2c9ade51890dc9258562d69c08e6e3170547eac4a9a6ec7e48cf6502ce674d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
