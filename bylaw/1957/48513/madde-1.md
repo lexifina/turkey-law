@@ -1,0 +1,1 @@
+Madde 1 – 6762 sayılı Türk Ticaret Kanunu hükümlerine göre ilan edilmesi gereken bütün Türkiyeye ait ticaret sicili kayıtlarının yayınlanmasına mahsus "Türkiye Ticaret Sicili Gazetesi" İktisat ve Ticaret Vekaleti tarafından Ankara'da çıkarılır.
