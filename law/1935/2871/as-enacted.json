@@ -1,0 +1,51 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2871",
+  "year": 1935,
+  "title": "Arazi ve bina vergilerile bunlardan alınacak iktisadî buhran vergisinin vilâyet hususî idarelerine devri hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-12-30",
+  "gazette_issue": "3193",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3193.pdf",
+  "source_sha256": "68c9c2b90affd4054f9192b8d3b5b23337226cbeda95f9a9a51d6b2e00adcbba",
+  "text_sha256": "9ffaf37fd34e05a7f87f1281c8cdefd594d2d2caaf57f125e158f433631f48b8",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      323,
+      323
+    ],
+    [
+      101,
+      299
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602871.pdf",
+    "source_sha256": "1961b62695be12994edd7a72920a116432c8cc4e8c7b64ce16326c833a79b529",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9232,
+    "bag": 0.8599,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9978,
+    "rg_words": 1015,
+    "kd_words": 922,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
