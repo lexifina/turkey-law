@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5201-101/12449",
+  "source_id": 29988,
+  "date": "2001-03-01",
+  "title": "Kurumun personeli tarafından kurulan ve işletilen kantin işletmesinin teslim ve hizmetleri katma değer vergisine tabi bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29988",
+  "source_sha256": "764f5ab8561a51b36f0ba00b5bdcbe80e07d8e5ee33ffd7e267db4541c585da8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
