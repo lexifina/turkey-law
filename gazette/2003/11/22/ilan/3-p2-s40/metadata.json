@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-11-22",
+  "issue": "25297",
+  "edition": "regular",
+  "item": 40,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-2",
+  "title": "Ankara Valiliği Bayındırlık ve İskan Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031122-3-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (44 = 44)",
+  "ilan_codes": [
+    "46795/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031122-3-2.htm",
+  "category_page_sha256": "d7b9258f27f1d641b670715ab5a31e0eca6332ce9287c53352e5790234c395ad",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031122.htm",
+  "index_sha256": "52076bb1a28ae4c2273bfd30aca90042ede5bc5612d1e48f33fa4e892d8b9554",
+  "index_header": "22 Kasım 2003 ... Sayı : 25297",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
