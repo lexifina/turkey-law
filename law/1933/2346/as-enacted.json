@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2346",
+  "year": 1933,
+  "title": "13 mart 1329 tarihli idarei Umumiyei Vilâyat Kanununun 86. ve 133. maddelerile 144. maddesinin 4. fıkrasının 2. bendini tadil eden 27-2-1930 tarih ve 1561 sayılı Kanunun birinci maddesinin tadiline ve ikinci maddesine bir fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-12-18",
+  "gazette_issue": "2581",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2581.pdf",
+  "source_sha256": "92165da2a094db24b40f2ea6e71d97dea0ec5d9804c484e5635d541208986c18",
+  "text_sha256": "04cc6b9c5f592b3a51980db577aefe0f4369d371f45e861deeab389910174566",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      67,
+      104
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302346.pdf",
+    "source_sha256": "44447d572a87a92d95376c196e8a72e1bb9edbfc62a2ffbb36cb5d3306c81506",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9639,
+    "bag": 0.9121,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9871,
+    "rg_words": 154,
+    "kd_words": 155,
+    "own_anchor": true,
+    "foreign_anchors": 8
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
