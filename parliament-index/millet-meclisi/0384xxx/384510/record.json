@@ -1,0 +1,56 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 384510,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Rize Milletvekili Erol Yılmaz Akçal ve 9 arkadaşının, 5434 sayılı Kanunun 12. maddesinin (e) bendinin tadiline ve bir madde eklenmesine dair kanun teklifi (2/145)",
+  "title": "Rize Milletvekili Erol Yılmaz Akçal ve 9 arkadaşının, 5434 sayılı Kanunun 12. maddesinin (e) bendinin tadiline ve bir madde eklenmesine dair kanun teklifi (2/145)",
+  "first_sitting_date": "1971-01-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 40,
+      "sitting_date": "1971-01-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010fih.pdf",
+      "pages": [
+        "196"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 51,
+      "sitting_date": "1971-02-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c011/mm__03011fih.pdf",
+      "pages": [
+        "365"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 63,
+      "sitting_date": "1971-03-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c012/mm__03012fih.pdf",
+      "pages": [
+        "15:17"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=2601&v_kullanici_id=27484893",
+  "source_sha256": "b3ce17f485b5f35e55b58e113e22d9c37e9e1f55db315f64179f4894a2bbb399",
+  "in_force": "1971-01-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
