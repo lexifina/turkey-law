@@ -1,0 +1,2 @@
+Kambiyo Müdürünün Sorumlulukları
+Madde 8- Kambiyo müdürleri, 14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanununda belirtilen ödevler ve sorumluluklar ile kendilerine verilen görevlerin Müsteşarlık emirleri doğrultusunda, mevzuata, hükümetin genel siyasetine, milli güvenlik siyasetine, kalkınma planlarına ve yıllık programlara uygun olarak yapılmamasından ve yetkilerini yerinde ya da hiç kullanmamaktan Müsteşarlık ve valiye karşı sorumludurlar.
