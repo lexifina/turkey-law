@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6601-668/10385",
+  "source_id": 37283,
+  "date": "2004-03-12",
+  "title": "Konutlara ait çevre temizlik vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37283",
+  "source_sha256": "28505c7ea8de64f109ed3be83ef229cbf02b7a5d8e1a8e89909d22bcbf4eff3f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
