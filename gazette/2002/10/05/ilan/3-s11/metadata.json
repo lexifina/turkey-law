@@ -1,0 +1,31 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-10-05",
+  "issue": "24897",
+  "edition": "regular",
+  "item": 11,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "İçişleri Bakanlığı Emniyet Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/10/20021005-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (80 = 80)",
+  "ilan_codes": [
+    "27992/1-1",
+    "27990/1-1",
+    "27991/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/10/20021005-3.htm",
+  "category_page_sha256": "d36c13ddda629a0302484af19aef92b63398282417b4c89a280db00aacc779f1",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/10/20021005.htm",
+  "index_sha256": "0bf1e03e7311192d72cfdf742798f824fe0fac105e27300a2954afcbc913591c",
+  "index_header": "5 Ekim 2002 ... Sayı : 24897",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
