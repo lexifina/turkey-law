@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 443246,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Kars Milletvekili İsmet Âtalay İle Hasan Yıldırım'ın, 492 sayılı Harçlar Kanununun 34;ncü maddesinin değiştirilmesine ilişkin kanun teklifi (2/113)",
+  "title": "Kars Milletvekili İsmet Âtalay İle Hasan Yıldırım'ın, 492 sayılı Harçlar Kanununun 34;ncü maddesinin değiştirilmesine ilişkin kanun teklifi (2/113)",
+  "first_sitting_date": "1977-12-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 79,
+      "sitting_date": "1977-12-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c001/mm__05001079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c001/mm__05001fih.pdf",
+      "pages": [
+        "489"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "40fc8ddc6bc34f76e5b7622ca0043339d9c6dfd14bdcf594c3dac41613a14510",
+  "in_force": "1977-12-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
