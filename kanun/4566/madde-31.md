@@ -1,0 +1,2 @@
+Kamu kuruluşlarında görevlendirme
+MADDE 31 — İlgili kurumların isteği, harp okulu komutanlığının olumlu görüşü, ilgili kuvvet komutanlığının izni ve Genelkurmay Başkanlığının onayı ile ihtiyaç duyulan konularda, öğretim elemanları, diğer yükseköğretim kurumlarıyla kamu kurum ve kuruluşlarında geçici olarak görevlendirilebilirler. Bu konuda 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun 124 üncü maddesi hükümleri saklıdır.

@@ -1,0 +1,7 @@
+YEDİNCİ BÖLÜM
+Çeşitli Hükümler
+Özlük hakları
+MADDE 40 — Harp okullarında görevli asker öğretim elemanlarının özlük haklarına ilişkin ödemelerde 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanunu hükümleri uygulanır.
+Ancak asker öğretim elemanlarına, 2914 sayılı Yüksek Öğretim Personel Kanununun 12 nci maddesine göre hesaplanacak üniversite ödeneği ile 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanunu Ek-17 nci maddesine göre ödenen Türk Silâhlı Kuvvetleri hizmet tazminatından hangisi fazla ise o ödenir. Öğretim elemanlarından 28.2.1982 tarihli ve 2629 sayılı Kanundan istifade edenlerin, bu Kanuna göre ödenen tazminatlarının, Türk Silahlı Kuvvetleri hizmet tazminatı ile üniversite ödeneğinden fazla olması halinde, tazminat ödemeleri 2629 sayılı Kanun hükümlerine göre ödenir. Ayrıca, Harp Okulu Komutanı, dekan, enstitü müdürü, dekan yardımcıları ve bölüm başkanlarına 2914 sayılı Yüksek Öğretim Personel Kanununun 13 üncü maddesine göre idarî görev ödeneği verilir. Harp Okulu Komutanına verilecek idarî görev ödeneği, rektörlere ödenecek miktar kadardır.
+Harp okullarında görevlendirilen sivil öğretim elemanlarının özlük hakları, 2547 sayılı Yüksek Öğretim Kanunu ile 2914 sayılı Yüksek Öğretim Personel Kanunu hükümlerine göre verilir.
+Haftalık okutulması mecburi ders yükü dışında, harp okullarında görevli öğretim elemanlarına, ilgili kuvvet komutanlıklarınca belirlenecek esaslar çerçevesinde, haftada en çok yirmi saate kadar verilecek dersler için 2914 sayılı Yüksek Öğretim Personel Kanununun 11 inci maddesine uygun olarak ek ders ücreti ödenir.
