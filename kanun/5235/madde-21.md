@@ -1,0 +1,6 @@
+Cumhuriyet savcılarının yetkisi
+MADDE 21 -Cumhuriyet savcıları, bulundukları il merkezi veya ilçenin idarî sınırları ile bunlara adlî yönden bağlanan ilçelerin idarî sınırları içerisinde yetkilidirler.
+Ağır ceza mahkemesi ile özel kanunlarla kurulan diğer ceza mahkemelerinin yargı çevresinde yer alan Cumhuriyet başsavcılıkları, yetki alanları içerisinde yürüttükleri bu mahkemelerin görevine giren suçlarla ilgili soruşturmaları yapar ve ivedi, zorunlu işlerin tamamlanmasından sonra düşünce yazısına soruşturma evrakını ekleyip ağır ceza mahkemesi veya özel kanunlarla kurulan diğer ceza mahkemelerinin Cumhuriyet başsavcılığına gönderirler.
+Büyükşehir belediye sınırları içerisinde bulunan Cumhuriyet başsavcıları, bu yer ceza mahkemelerinin yargı çevresinde yetkilidir. Ancak, büyükşehir belediye sınırları içerisinde yer alan ağır ceza mahkemeleri ile özel kanunlarla kurulan diğer ceza mahkemelerinin görevine giren işlerde yukarıdaki fıkra hükmü uygulanır.
+Cumhuriyet savcıları gecikmesinde sakınca bulunan veya olayın özelliğinin gerektirdiği hâllerde, yer aldıkları veya görevli oldukları Cumhuriyet başsavcılıklarının yetki sınırları ile bağlı olmaksızın keşif ve diğer soruşturma işlemlerini yapmaya yetkilidirler.
+Diğer kanunların Cumhuriyet savcılarının yetkisine ilişkin hükümleri saklıdır.
