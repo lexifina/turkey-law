@@ -1,0 +1,1 @@
+Madde 30 – Konsey'in kararları, oylamada hazır bulunan ve oy veren üyelerin basit çoğunluğu ile alınır; bütçeyle ilgili ve mali konulardaki tavsiyeler ise, oylamada hazır bulunan ve oy veren üyelerin üçte iki çoğunluğuyla kabul edilir.

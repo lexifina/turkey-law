@@ -1,0 +1,1 @@
+Madde 10 – Kurul, her iki yılda bir, olağan toplantısını yapar. Ayrıca, şartlar gerektirdiği zaman, olağanüstü olarak da toplanabilir. Olağanüstü toplantılar, Konseyin veya Örgüt Asli üyelerinin çoğunluğunun isteği üzerine yapılabilir.

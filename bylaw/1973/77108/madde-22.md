@@ -1,0 +1,1 @@
+Madde 22 – Genel Sekreter, Konsey'in tavsiyesi üzerine, Kurul'un oylamada hazır bulunan ve oy veren Asli Üyelerinin üçte iki çoğunluğuyla, dört yıllık bir süre için atanır. Görev süresi yenilenebilir.

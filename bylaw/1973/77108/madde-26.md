@@ -1,0 +1,2 @@
+Madde 26 – 1 – Örgüt'ün hesapları, Konsey'in tavsiyesi üzerine iki yıllık bir dönem için Kurul tarafından seçilen iki hesap denetleyicisi tarafından incelenir. Hesap denetleyicileri yeniden seçilebilirler.
+2 – Hesap denetleyicileri, hesap tetkik görevlerine ilaveten, mali usullerin etkenliliği, yönetim, muhasebe sistemi, iç mali kontrol ve genel olarak idari uygulamaların mali sonuçları hakkında gerekli gördükleri mütalaaları verebilirler.

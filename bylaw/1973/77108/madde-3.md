@@ -1,0 +1,4 @@
+Amaçlar
+Madde 3 – 1 – Örgüt'ün ana amacı, iktisadi gelişmeye, uluslararası anlayışa, barış, refah, insan temel hak ve hürriyetlerine ırk, cinsiyet, dil ve din ayırımı yapılmaksızın evrensel saygı duyulmasına ve gözetilmesine katkıda bulunmak amacıyla, turizmin teşvik ve geliştirilmesini sağlamaktır. Örgüt, bu amaca ulaşmak için gerekli bütün tedbirleri alacaktır.
+2 - Örgüt, bu amaca ulaşmada, kalkınma yolundaki ülkelerin turizm alanındaki çıkarlarına özel bir dikkat gösterecektir.
+3 - Turizm alanında oynamakla görevlendirildiği ana rölün gereğini yerine getirmek amacıyla, Örgüt, Birleşmiş Milletler'in yetkili organlarıyla ve ihtisas kuruluşlarıyla etkili bir işbirliği kuracak ve sürdürecektir. Örgüt, bu amaçla, Birleşmiş Milletler Kalkınma Programı ile, Programın yürütülmesiyle yükümlü iştirakçi ve uygulayıcı bir kuruluş olarak, işbirliği ilişkileri kurmaya ve anılan Program faaliyetlerine katkıda bulunmaya gayret gösterecektir.
