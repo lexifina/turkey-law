@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3987",
+  "year": 1941,
+  "title": "Umumî hıfzıssıhha kanununun 181. maddesini tashih eden kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-03-31",
+  "gazette_issue": "4772",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4772.pdf",
+  "source_sha256": "e4776bbe1d7c72e21211c94ca2adff030168d0559b05eb415b5f1798b961e519",
+  "text_sha256": "4d212aba41a57e1ae2446f637628ac1ac854861d153a4ea89aa5ae7e737031a9",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      22
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203987.pdf",
+    "source_sha256": "b6c5211c79f364e5d880d5edb522a205e2ca500a9e9175c16950b5229ba95acc",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9482,
+    "bag": 0.8352,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9574,
+    "rg_words": 46,
+    "kd_words": 47,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
