@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0. GEL.0.40/4076-49/13088",
+  "source_id": 24084,
+  "date": "2000-03-24",
+  "title": "Devlet Tahvili ve Hazine Bonolarından elde edilen faiz gelirine Maliye Bakanlığınca belirlenen indirim oranı uygulandıktan sonra kalan tutarın istisna haddini aşması halinde beyan edilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24084",
+  "source_sha256": "5ade153fc9a38503d1e6f006268ed107a51edecab932f7ce839abe3c11e5a300",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
