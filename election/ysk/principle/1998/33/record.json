@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1998/33",
+  "list_number": "33",
+  "decision_date": "1998-02-21",
+  "title": "YSK ilke kararı 1998/33",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4787/1998-33-karar.htm",
+  "source_sha256": "6f4d5e769e49c796b7d7ca97b754b7933b7bbec618d601dd46fac25b70333cc5",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1998-02-21",
+  "law_text_complete": false
+}
