@@ -1,0 +1,7 @@
+Madde 7 – Nafıa Vekaleti;
+a) Hassas bölgeler dahilindeki şehirlerden yapılacak intikallerde ve umumi tahliyede takip olunacak kara yollarının her an trafiğe açık bulundurulmasını temine ve icabında yeni yollar ve köprüler ve amme idarelerine lüzumlu bina ve tesisler vücude getirmeğe matuf planları; Dahiliye Vekaletinin mütalaası alınmak suretiyle hazırlar ve tatbik eder.
+b) Yurda şamil umumi ve hassas bölgelere ait mahalli sivil müdafaa planlarında derpiş olunan nafıa hizmetlerinin ifasına mütaallik tertip ve tedbirleri alır ve aldırır.
+c) Fevkalade halin devamı müddetince işletilmesi zaruri ve hayati ehemmiyeti haiz amme tesislerinin teknik onarımlarında ilgili idarelere gerekli yardımlarda bulunur.
+d) Sivil müdafaa merkez ve mahalli hizmet teşkilatı personeli ile resmi veya hususi daire, müessese ve teşekküllerle fabrikalar vazifeli personelinin teknik eğitimi için kurslar ve konferanslar tertip ve idare eder; Sivil Müdafaa İdaresi tarafından açılacak okul, kolej, enstitü, kurs ve konferanslara öğretmen verir ve sivil müdafaa mevzularında Dahiliye Vekaletinden yapılacak yardım ve işbirliği isteklerini yerine getirir.
+e) Kendisine ait tesislerle hususi idare ve belediyelere ve hususi şirket ve şahıslara ait tesislerde; harbin muhtemel tesirlerinden mütevellit hasarların izalesi için ilgililerle müştereken gerekli tedbir ve tertipleri alır ve aldırır.
+f) Kendi vekaletine ait nafıa tesislerinin yangından, tabii afetlerden, sabotajlardan ve her türlü hava taarruzlarından korunmasına mütaallik hususi sivil müdafaa tedbirlerini alır ve aldırır.

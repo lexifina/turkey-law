@@ -1,0 +1,1 @@
+Madde 3 – Vekaletlerin hava korunmasına ait işleri, 5593 sayılı kanunun 3 üncü maddesine tevfikan "Yüksek Hava Korunma Komisyonu" tarafından yurdun topyekün müdafaası prensiplerine uygun olarak verilecek esaslara göre tanzim olunur.

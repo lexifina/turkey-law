@@ -1,0 +1,3 @@
+Madde 16 – Bu nizamnamede zikredilmiyen vekaletlerin sivil müdafaa hizmet ve faaliyetlerine mütaallik vazifeleri; alakalı vekaletle Dahiliye Vekaleti arasında müştereken tertip ve tanzim olunur.
+Vekaletler, yukarıki maddelerde tasrih olunmamakla beraber kanunun şumulüne dahil ve kendi ihtisas şubeleriyle alakalı her mevzuda Dahiliye Vekaletince vakı yardım ve işbirliği taleplerini yerine getirmekle mükelleftirler. Acil hallerde şifahen yapılan talepler, yazı ile de teyit edilir.
+Vekaletlere bağlı veya murakabelerine tabi mülhak bütçeli idarelerle iktisadi devlet teşekkülleri ve müstakil umum müdürlükler, işbirliği ve karşılıklı yardım mevzularında alakalı vekaletlerle birlikte mütalaa olunur.
