@@ -1,0 +1,6 @@
+Müdür
+Madde 5- Araştırma ve Uygulama Merkezi Müdürü, Rektör tarafından 3 yıl için görevlendirilen bir öğretim üyesidir. Süresi biten müdür yeniden görevlendirebilir. Müdür kendisine 3 yıl için 2 yardımcı görevlendirebilir. Müdürün görevi sona erdiğinde yardımlarının görevi de kendiliğinden sona erer. Araştırma ve Uygulama Merkezi müdürü yürütme amiridir. Müdür Yönetim Kuruluna başkanlık eder, çalışmaların düzenli biçimde yürütülmesini sağlar. Müdür geçici olarak görevi başında bulunmadığında vekalet vereceği yardımcısı ona vekalet eder. Yardımcısı yoksa veya mazeretli ise Yönetim Kurulu üyelerinden birini vekil bırakır. Göreve vekalet 6 aydan fazla sürdüğü taktirde yeni müdür görevlendirilir.
+Genel Kurul
+Madde –6 Genel Kurul, Niğde Üniversitesinde görev yapan Atatürk İlkeleri ve İnkılap Tarihi, Yakınçağ Tarihi, Türkiye Cumhuriyeti Tarihi ile ilgili lisans, yüksek lisans ve doktora sahibi öğretim elemanları ile Atatürk İlkeleri ve İnkılap Tarihi derslerini okutan tüm öğretim elemanlarından meydana gelir. Müdür kurulun tabii üyesidir.
+Müdür genel kurula başkanlık eder.
+Genel Kurul, müdürün çağrısı ile yılda en az bir defa toplanır. Bir yıl önceki faaliyetler hakkında bilgi alır, yıllık çalışma planını görüşür, yönetim kuruluna üç üye seçer.
