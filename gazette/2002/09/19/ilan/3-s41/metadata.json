@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-09-19",
+  "issue": "24881",
+  "edition": "regular",
+  "item": 41,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "TEDAŞ Genel Müdürlüğünden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020919-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (85 = 85)",
+  "ilan_codes": [
+    "26368/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020919-3.htm",
+  "category_page_sha256": "58db685133c88e509ccfd8e66ce0d8ff344ce2625c3ea5df989c5a41cfe4b173",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/09/20020919.htm",
+  "index_sha256": "fa050926693e9ccb1fa400331ca3b170254e2ab4b09eb99d950225f951d9f755",
+  "index_header": "19 Eylül 2002 ... Sayı : 24881",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
