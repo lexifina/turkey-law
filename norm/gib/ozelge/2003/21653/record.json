@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1319/26089",
+  "source_id": 21653,
+  "date": "2003-06-18",
+  "title": "İş kazası sonucu emekli olan özürlülerin yeni bir işyeri açmaları halinde, söz konusu kişi emekli olduğu için, Gelir Vergisi Kanununun 31 inci maddesine göre gelir vergisine ilişkin vergi indiriminden faydalanması kanunen mümkün değildir ancak, mükellefi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21653",
+  "source_sha256": "8bc6d5b044cc52ec6fbd8711868ae17ee4b7895cdf98679510a5cbd29a01be95",
+  "text_status": "metadata-only",
+  "text_omitted_reason": "Personal data in source text; metadata and official source link only.",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
