@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2869",
+  "year": 1935,
+  "title": "Türkiye ile Sovyet Sosyalist Cumhuriyetleri İttihadı arasındaki dostluk ve bitaraflık muahedenamesile buna müteallik protokoller ahkâmının on sene müddetle uzatılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-12-25",
+  "gazette_issue": "3191",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3191.pdf",
+  "source_sha256": "ac5877a5b0b08205cd71b41593ab9c11e150950a81173c0cf93b54499e14a6e4",
+  "text_sha256": "bcb53a6b0be1faa41829345ba483d02a4b35134eb0fee230ae36965889e1a7e8",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      273,
+      273
+    ],
+    [
+      162,
+      226
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602869.pdf",
+    "source_sha256": "616f69fa107d0f1bb3bead0bd137ba99da861dc085c87eca2a7f7094b49b460b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9051,
+    "bag": 0.8159,
+    "kd_coverage": 0.9625,
+    "kd_body_compared": 0.9625,
+    "rg_words": 295,
+    "kd_words": 320,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
