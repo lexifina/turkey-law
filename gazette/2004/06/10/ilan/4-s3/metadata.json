@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-06-10",
+  "issue": "25488",
+  "edition": "regular",
+  "item": 3,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "İstanbul Menkul Kıymetler Borsası Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040610-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (4 = 4)",
+  "ilan_codes": [
+    "7341/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040610-4.htm",
+  "category_page_sha256": "90514f5b642c7bd27f15ef5ab17ba85237a02a0a99157afdd11f2fd53345e044",
+  "issue_on_category_page": "25472",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040610.htm",
+  "index_sha256": "f2271c247e030a9ae14da696868f96bf132867db4e08a9a10f0ffdc4c7141e45",
+  "index_header": "10 Haziran 2004 ... Sayı : 25488",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
