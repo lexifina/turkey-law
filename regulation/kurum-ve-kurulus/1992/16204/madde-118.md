@@ -1,0 +1,3 @@
+Disiplin Cezalarının Sicile İşlenmesi
+Madde 118- Kesinleşen disiplin cezaları personelin siciline işlenir. Sözleşmenin Feshi cezasından başka disiplin cezası verilmiş olan personel, Uyarma ve Kınama cezalarının kesinleşmesinden en az 5 yıl, Aylıktan Kesme Cezasının kesinleşme tarihinden itibaren en az 10 yıl sonra atamaya yetkili mercie bir dilekçe ile başvurarak hakkında verilmiş olan disiplin cezalarının sicilinden silinmesini isteyebilir.
+Personelin yukarıda yazılı süreler içinde davranışları bu isteği haklı kılacak nitelikte görülürse, cezaların sicilinden silinmesine karar verilir ve sicil dosyasındaki disiplin bölümü yeniden düzenlenir.

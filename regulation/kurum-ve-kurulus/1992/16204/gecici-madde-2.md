@@ -1,0 +1,1 @@
+Geçici Madde 2- Bu Yönetmeliğin yayımı tarihinde görevde olup, “Sümerbank Holding A.Ş. Yabancı Dil Tazminatı Esasları”na göre tazminat ödemesinden yararlanan personele ilişkin uygulamaya bu Yönetmeliğin yayımını takiben yapılacak ilk “Yabancı Dil Bilgisi Seviye Tesbit Sınavı”nın yapıldığı tarihi izleyen aybaşına kadar devam olunur.

@@ -1,0 +1,3 @@
+Kişisel Sorumluluk ve Zarar
+Madde 15- Personel, görevlerini dikkat ve itina ile yerine getirmek ve kendilerine teslim edilen her türlü malı korumak ve her an hizmete hazır halde bulundurmak için gerekli tedbirleri almak zorundadır. Personelin kasıt, kusur, ihmal veya tedbirsizliği sonucu Holding zarara uğratılmışsa, bu zararın ilgili tarafından rayiç bedeli üzerinden ödenmesi esastır.
+Personel görevi ile ilgili olarak Holdinge verdiği zararlardan dolayı Borçlar Kanununun İşçinin İhtimamına İlişkin hükümlerine tabidir. Kişilerin uğradıkları zararlardan ötürü, Holding aleyhine açtığı davalarda, Holding yukarıda belirtilen hükümlere göre sorumlu personele rücu hakkına sahiptir.

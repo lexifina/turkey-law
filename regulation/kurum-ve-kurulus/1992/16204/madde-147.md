@@ -1,0 +1,4 @@
+Tedavi Yardımı
+Madde 147- Sosyal Sigortalar Kurumu iştirakçisi personel ile eşi ve bakmakla yükümlü olduğu ana, bana ve çocukları, sağlık ve ölüm yardımı ile ilgili konularda 506 sayılı S.S.Kurumu Kanunu hükümlerine tabidir.
+5434 sayılı Kanun uyarınca Emekli Sandığı iştirakçiliklerini sürdüren personel ile bakmakla yükümlü olduğu kişiler hakkında halen uygulanmakta olan mevzuat hükümlerine göre işlem yapılır.
+Sözleşmeli Personel Ücret Skalasındaki sıralamanın ilk yarısında unvanları belirtilen personel resmi sağlık kurumlarında 1 inci sınıf yataklarda, diğer personel ise 2 nci sınıf yataklarda yatırılır. İlk 5 sırada yeralan unvanlı personel özel odada yatabilir. Ancak, personelin Holding Yönetim Kurulunca belirtilen esaslar dahilinde özel sağlık kurumu veya kuruluşlarında da muayene ve tedavileri sağlanabilir.

@@ -1,0 +1,2 @@
+Yabancı Dil Tazminatı
+Madde 139- İngilizce, Fransızca, Almanca ve Arapça yabancı dilleri ile ilgili olarak “Kamu Personeli Yabancı Dil Bilgisi Seviyesinin Tesbitine Dair Esaslar” ile diğer ilgili mevzuatta öngörülen hükümler dahilinde yabancı dil bilgisi seviyesi A olanlara brüt sözleşme ücretinin % 10’u, B olanlara % 5’i ve C olanlara % 2’si oranında bildiği her yabancı dil için ödemede bulunulur.

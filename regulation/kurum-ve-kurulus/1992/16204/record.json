@@ -1,0 +1,33 @@
+{
+  "source_id": "7.5.16204",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SÜMERBANK HOLDİNG A.Ş. SÖZLEŞMELİ PERSONEL YÖNETMELİĞİ",
+  "number": "16204",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1992/16204",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16204&MevzuatTertip=5",
+  "source_sha256": "1564eab1690ca85a669f4893f9b78deedcf1819da4a55ec8ab28a62e3499dc66",
+  "source_bytes": 212539,
+  "published": "1992-06-20",
+  "gazette": "21260",
+  "in_force": "1992-06-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.06.1992); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10240,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16204%20ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,2 @@
+Yıllık İzin Süresi
+Madde 70- Personelden hizmeti 10 yıl kadar olanlara (10 yıl dahil) yılda 20 gün, 10 yıldan fazla olanlara 10 uncu yılın tamamlandığı günden itibaren, o yıl yıllık izin kullanıp kullanmadığına bakılmaksızın yılda 30 gün ücretli izin verilir. Yıllık izin verilmesine esas hizmetin tesbitinde kamu kurum ve kuruluşlarında geçen fiili hizmet süreleri ile askerlik hizmeti gözönüne alınır.
