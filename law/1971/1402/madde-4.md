@@ -1,0 +1,3 @@
+Madde 4 – (13/5/1971 tarih ve 1402 sayılı Kanunun hükmüdür.)
+Sıkıyönetim Komutanlığı emrinde görevli asker ile polis ve jandarma, kendilerine verilen görevlerin yerine getirilmesi sırasında, Türk Silahlı Kuvvetleri İç Hizmet Kanun ve Yönetmeliği, Polis Vazife ve Salahiyet Kanunu, Jandarma Teşkilat ve Vazife Nizamnamesinde silah kullanmayı icabettiren hal ve şartlardan herhangi birinin tahakkuku halinde silah kullanma yetkisini haizdirler.
+Silah kullanmayı gerektiren hallerde münferit hizmet görenler kendi başlarına, topluca hizmet görenler olay yerinde başlarında bulunan amirin emriyle silahlarını kullanırlar.

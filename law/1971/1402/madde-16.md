@@ -1,0 +1,5 @@
+Madde 16 – (13/5/1971 tarih ve 1402 sayılı Kanunun hükmüdür.)
+Sıkıyönetim altına alınan yerlerde Sıkıyönetim Komutanlığı tarafından alınan tedbirlere aykırı hareket edenler veya emirleri dinlemiyenler veya kimliklerine dair kasden gerçeğe uymayan bilgi verenler veya bilgi vermekten çekinenler bir aydan altı aya kadar hapis cezası ile cezalandırılırlar.
+Sıkıyönetim Bölgesinde maksadı mahsusa müstenit kamunun telaş ve heyecanını doğuracak şekilde asılsız, mübalağalı havadis ve haber yayan veya nakledenler altı aydan iki yıla kadar hapis ve beşyüz liradan beş bin liraya kadar ağır para cezası ile cezalandırılırlar. Eğer fiil, fail tarafından bir yabancı ile anlaşma sonucu işlenmiş ise hapis cezası bir yıldan ve ağır para cezası da bin liradan aşağı olamaz. Bu suçlar basın ve yayın organları tarafından işlenirse fail vemesulleri hakkında verilecek cezalar iki misli artırılır.
+Sıkıyönetim bölgesinden çıkarılanlardan veya bölge içinde belirli bir yerde yerleşmesi yasaklananlardan sıkıyönetim bölgesine veya yerleşmesi yasaklanan mahalle izinsiz girenler bir aydan üç aya kadar, tekerrüründe iki aydan altı aya kadar hapis cezası ile cezalandırılırlar.
+1099

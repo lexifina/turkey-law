@@ -1,0 +1,2 @@
+Madde 18 – (15/5/1973 tarih ve 1728 sayılı Kanunun hükmüdür.)
+Sıkıyönetim komutanlığı nezdinde kurulan askeri mahkemelerde, Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanunu ile ayrıca bu kanunu savaş hali hükümleri uygulanır. Sıkıyönetim, savaş hali sebebiyle ilan edilmemiş ise Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununun savaş halinde kanun yollarına baş– vurmaya, yerine getirmeye ve mahkeme kuruluşuna ilişkin hükümleri uygulanmaz.

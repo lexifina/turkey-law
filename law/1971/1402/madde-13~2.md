@@ -1,0 +1,11 @@
+Madde 13 – (15/5/1973 tarih ve 1728 sayılı Kanunun hükmüdür.)
+Sıkıyönetim ilanına sebeb olan suçları, sıkıyönetim ilanınından evvel işlemiş olanlarla, Sıkıyönetim Askeri mahkemelerinin elkoyduğu herhangibir suçla umumi ve müşterek gaye içerisinde irtibatı bulunan suçları işleyenlerin davalarına, suç, sıkıyönetim bölgesi dışında işlenmiş olsa dahi Sıkıyönetim Askeri Mahkemesinde bakılır.
+Madde 14 fıkra üç – (15/5/1973 tarih ve 1728 sayılı Kanunun hükmüdür.)
+Sıkıyönetim emrindeki asker kişilerin askeri yargıya tabi suçlarına da Sıkıyönetim Askeri Mahkemesinde bakılır.
+Sıkıyönetim Komutanı; emrindeki personele özel kanunlarında yazılı disiplinve idari cezaları, usulüne göre verebilir. Ancak, 657 sayılı Devlet Memurları Kanununa tabi personele, uyarma kınama ve kısa süreli durdurma dışındaki cezaların uygulanması için yetkili makam ve kurullarına teklifte bulunur.
+Madde 15 fıkra bir, iki, üç ve bent (f) – (15/5/1973 tarih ve 1728 sayılıKanunun hükmüdür.)
+Sıkıyönetim altına alınan yerlerde aşağıdaki suçlardan sıkıyönetim ilanınave faaliyetlerine ilişkin olanları işleyenler ve bunların suçlarına iştirak edenler bu kanunun 21 inci madde hükümleri saklı kalmak şartiyle sıfat, meslek ve memuriyetleri ne olursa olsun sıkıyönetim komutanı nezdindeki askeri mahkemelerde yargılanır.
+Yukarıda yazılı suçlara elkoyan yetkili merciler bu suçlara ait hazırlık soruşturması evrakını vakit geçirmeden sıkıyönetim komutanına göndermekle yükümlüdürler. Sıkıyönetim komutanı kendisine gönderilen evrakı sıkıyönetim komutanlığı nezdindeki askeri savcılığa, işlem yapılmak üzere gönderir.
+Sıkıyönetim komutanı bu kanunda yazılı suçlardan sanık kişileri, sıkıyönetim komutanlığı nezdindeki askeri mahkemeye sevk ve tutuklamaları gerekip gerekmediği hakkında bir karar alınıncaya kadar gözetim altında tutabilir. Bu süre onbeşgünden fazla olamaz ve aynı kişi için, aynı suç isnadı sebebiyle ve yeni deliller çıkması gibi haklı bir sebep yok iken bir defadan fazla kullanılamaz.
+f) Türk Ceza Kanununun 179,180,188,191,192,201,234,235,236,241,242,248,249,254,
+255,256,257,258,260,264,266,268,271,296, ve 537 nci maddelerinde yazılı suç– lar ile 6136 sayılı Ateşli Silahlar ve Bıçaklar hakkındaki Kanunda yazılı suçlar;

@@ -1,0 +1,6 @@
+Madde 4 – (15/5/1973 tarih ve 1728 sayılı Kanunun hükmüdür.)
+Sıkıyönetim komutanlığı emrinde görevli asker ile polis ve jandarma kendilerine verilen görevlerin yerine getirilmesi sırasında tabi oldukları Türk Silahlı Kuvvetleri İç Hizmet Kanun ve Yönetmeliği, Polis Vazife ve Salahiyet Kanunu, Jandarma Teşkilat ve Vazife Nizamnamesinde silah kullanmayı icabettiren hal veşartlardan herhangi birinin tahakkuku halinde silah kullanma yetkisini haizdirler.
+Sıkıyönetim komutanlığında görev alan ve silah kullanan bütün personel hakkında 1481 sayılı Asayişe Müessir Bazı Fiillerin Önlenmesi Hakkındaki Kanunun3 üncü maddesi ile 211 sayılı Türk Silahlı Kuvvetleri İç Hizmet Kanununun 87 nci maddesinin V ve VI ncı fıkraları hükümleri uygulanır.
+Yukarıda belirtilen görevlilerin; Devlet otoritesini, can ve mal güvenliğini korumak için silah kullanmalarını, sıkıyönetim komutanlarının önceden düzenleyen emirleri uygun araçlarla ilan edilir.
+Madde 11 fıkra iki – (13/5/1971 tarih ve 1402 sayılı Kanunun hükmüdür.)
+Bu mahkemelere, Genelkurmay Başkanlığı Adli Müşaviri, Milli Savunma Bakanlığı Askeri Adalet İşleri Başkanı ve Milli Savunma Bakanlığı Askeri Adalet Teftiş Kurulu Başkanından müteşekkil kurulca seçilen yeteri kadar adli müşavir, askeri hakim ve askeri savcı ile bunların yardımcıları usulüne göre atanır.

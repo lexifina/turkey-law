@@ -1,0 +1,13 @@
+Madde 23 – (13/5/1971 tarih ve 1402 sayılı Kanunun hükmüdür.)
+Sıkıyönetimin sona ermesiyle Sıkıyönetim Komutanlığı nezdinde kurulan askeri mahkemelerin ve mahkemeler nezdindeki askeri savcıların yetkileri sona ermez. Askeri mahkemeler ve askeri savcılar Sıkıyönetim bölgesindeki bir kıt'a komutanının veya askeri kurum amirinin nezdinde, eldeki işlere munhasır olmak üzerefaaliyetlerine devam ederler. Bu hallerde, Sıkıyönetim Komutanlığı nezdinde ku–rulan Sıkıyönetim askeri mahkemeleri birden fazla ise bu mahkemeler ile mahkemelerde görevli askeri hakim ve savcıların sayıları ihtiyaca göre azaltılabilir.
+2 – 19/9/1980 tarih ve 2301 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 3,4,11,12,13,14,15,16,17,18,23,26, Cetvel)
+Madde 3 fıkra bir; bent (c,f,g,h,i,m) – (15/5/1978 tarih ve 1728 sayılı Kanunun hükmüdür.)
+Sıkıyönetim komutanı, sıkıyönetim bölgesinde genel güvenlik ve kamu düzenini korumak ve sağlamakla görevlidir ve gerektiği hallerde aşağıda yazılı tedbirleri almaya yetkilidir.
+1097
+c) Söz, yazı, resim, film ve sesle yapılan her türlü yayım, haberleşme, mektup, telgraf, ve sair mersuleleri kontrol etmek; gazete, dergi, kitap ve diğer yayınların basım ve yayımını kayıtlamak ve bunlar üzerine sansür koymak veya sıkıyönetim bölgesine sokulmasını yasaklamak; sıkıyönetim komutanlığınca basılması veya neşri yasaklanan kitap, dergi, gazete, broşür, afiş gibi bilcümle matbu ev– rakı basan matbaaları kapatmak;
+f) Grev, lokavt yetkilerinin kullanılmasını sürekli olarak durdurmak veya izne bağlamak; İşgal, fiili durum, boykot ve iş yavaşlatılması gibi hareketleri yasaklamak, önlemek veya önleyici tedbirleri almak;
+g) Kapalı veya açık yerlerde her türlü toplantıları veya gösteri yürüyüşlerini yasaklamak, her türlü dernek ve teşekküllerin çalışmalarını durdurmak veyabunları izne bağlamak; yeni dernek kuruluşlarını izne bağlamak;
+h) Zaruri ihtiyaç maddelerini yapan, üreten, depolayan, nakleden ve satan ticari ve sınai müesseseleri lüzumu halinde kontrol etmek ve ihtiyaçların gerektirdiği tedbirleri almak;
+i) Gazino, kahvehane, birahane, meyhane, tiyatro, sinema, bar, diskotek, taverna, dansink ve emsali gibi eğlence yerleri ile kulüp ve sair oyun salonlarını otel, motel, kamping ve bunlara benzer yerleri kontrol etmek, kapatmak veya bunların açılma ve kapanma zamanlarını tayin etmek ve sınırlamak;
+m) Sıkıyönetim bölgesindeki devlet kurum ve organlarına Hazine, özel idare, mahalli idare, iktisadi veya sair kamu kuruluşlarına gerekli tedbirleri aldırmak;
+Lüzumu halinde sıkıyönetim bölgesindeki Hazine, özel idare ve belediyelere ait bina, araç ve personelden yararlanmak;

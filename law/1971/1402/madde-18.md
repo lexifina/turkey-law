@@ -1,0 +1,2 @@
+Madde 18 – (13/5/1971 tarih ve 1402 sayılı Kanunun hükmüdür.)
+Sıkıyönetim Komutanlığı nezdinde kurulan askeri mahkemelerde, Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanununun savaş hali hükümleri uygulanır. Sıkıyönetim, savaş hali sebebiyle ilan edilmemiş ise Askeri Mahkemeler Kuruluşu veYargılama Usulü Kanununun savaş halinde kanun yollarına başvurmaya ve yerine getirmeye ilişkin hükümleri uygulanmaz.
