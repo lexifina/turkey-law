@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4402-169/28996",
+  "source_id": 21034,
+  "date": "2001-05-28",
+  "title": "GVK'nın 9. maddesindeki şartları topluca taşıyanların esnaf muaflığından yararlanıp yaralanamıyacakları hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21034",
+  "source_sha256": "bf5672ab8bd1edd05a832a0281921075377dc11973f11043fe75637b379fb1e3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
