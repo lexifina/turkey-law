@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5624",
+  "year": 1950,
+  "title": "Sürekli görevle yabancı memleketlerde bulunan memurların aylıkları hakkında Kanunun Birinci maddesine bazı hükümler eklenmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-03-29",
+  "gazette_issue": "7469",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7469.pdf",
+  "source_sha256": "3efdc1b35b55df973ff40d0e2b10dfeb30e95af0bcc99864ffdac0866ef83c11",
+  "text_sha256": "d2e8a445f9a35e9997bb2ece8effb5054ed64c4916d892c0e5f455808cc30e55",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      697,
+      719
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205624.pdf",
+    "source_sha256": "8e41e98bd79c36a4797326bc3743eb172733b910a297e1fa28a13d66f2a3fabb",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9144,
+    "bag": 0.7866,
+    "kd_coverage": 0.9915,
+    "kd_body_compared": 0.9593,
+    "rg_words": 121,
+    "kd_words": 123,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
