@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6953",
+  "year": 1957,
+  "title": "Ege Üniversitesi adiyle İzmir'de bir üniversite kurulması hakkındaki 6595 sayılı Kanuna ek kanun",
+  "adopted": "1957-04-26",
+  "adopted_as_published": "26/04/1957",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.05.1957 No: 9599",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906953.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 39",
+  "committee_reports": [
+    {
+      "label": "TBMM 155 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c018/tbmm10018061ss0155.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 10,
+      "kayit_no": 52082,
+      "title": "Ege Üniversitesi adiyle İzmir'de bir üniversite kurulması hakkındaki 6595 sayılı Kanuna ek kanun",
+      "adopted_as_published": "26/04/1957",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906953.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 155 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c018/tbmm10018061ss0155.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 18,
+          "sitting": 60,
+          "sitting_date": "1957-04-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c018/tbmm10018060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c018/tbmm10018fih.pdf",
+          "pages": [
+            "201"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 61,
+          "sitting_date": "1957-04-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c018/tbmm10018061.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c018/tbmm10018fih.pdf",
+          "pages": [
+            "228:229"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 63,
+          "sitting_date": "1957-04-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c018/tbmm10018063.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c018/tbmm10018fih.pdf",
+          "pages": [
+            "254",
+            "256"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=643&v_gelecek_sayfa=501&v_kullanici_id=27483184",
+      "page_sha256": "6bf537c9deef89e928fb84fdfa6eb5b400ebc013d0023d82f742f8bf22926998"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "6bf537c9deef89e928fb84fdfa6eb5b400ebc013d0023d82f742f8bf22926998",
+  "issuer": "TBMM",
+  "in_force": "1957-04-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 26/04/1957; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
