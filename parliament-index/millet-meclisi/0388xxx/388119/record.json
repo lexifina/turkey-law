@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 388119,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Cumhuriyet Senatosu Tabii Üyesi Vehbi Ersü ve 3 arkadaşının, Dilekçe Karma Komisyonu Genel Kurulunun, 22.5.1961 tarihli Haftalık Karar Cetvelindeki 2538 sayılı Kararın Genel Kurulda görüşülmesine dair (5/6)",
+  "title": "Cumhuriyet Senatosu Tabii Üyesi Vehbi Ersü ve 3 arkadaşının, Dilekçe Karma Komisyonu Genel Kurulunun, 22.5.1961 tarihli Haftalık Karar Cetvelindeki 2538 sayılı Kararın Genel Kurulda görüşülmesine dair (5/6)",
+  "first_sitting_date": "1972-10-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 27,
+      "sitting": 146,
+      "sitting_date": "1972-10-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027146.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027fih.pdf",
+      "pages": [
+        "363"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2901&v_kullanici_id=27484836",
+  "source_sha256": "cc373d591ab1ecd3643cf24d276b2af6d81d879a831b36822a35174e6b1571de",
+  "in_force": "1972-10-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
