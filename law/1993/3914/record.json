@@ -1,0 +1,106 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3914",
+  "year": 1993,
+  "title": "Belediye Gelirleri Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "1993-07-15",
+  "adopted_as_published": "15/07/1993",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.07.1993 No: 21647",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc076/kanuntbmmc076/kanuntbmmc07603914.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 76",
+  "committee_reports": [
+    {
+      "label": "TBMM 354 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c038/tbmm19038124ss0354.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 259947,
+      "title": "Belediye Gelirleri Kanununda Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "15/07/1993",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc076/kanuntbmmc076/kanuntbmmc07603914.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 354 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c038/tbmm19038124ss0354.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 36,
+          "sitting": 113,
+          "sitting_date": "1993-06-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c036/tbmm19036113.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c036/tbmm19036fih.pdf",
+          "pages": [
+            "455"
+          ]
+        },
+        {
+          "cilt": 37,
+          "sitting": 121,
+          "sitting_date": "1993-07-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c037/tbmm19037121.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c037/tbmm19037fih.pdf",
+          "pages": [
+            "432"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 124,
+          "sitting_date": "1993-07-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c038/tbmm19038124.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c038/tbmm19038fih.pdf",
+          "pages": [
+            "127:175"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 127,
+          "sitting_date": "1993-07-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c038/tbmm19038127.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c038/tbmm19038fih.pdf",
+          "pages": [
+            "373:374"
+          ]
+        },
+        {
+          "cilt": 38,
+          "sitting": 128,
+          "sitting_date": "1993-07-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c038/tbmm19038128.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c038/tbmm19038fih.pdf",
+          "pages": [
+            "399:409",
+            "425",
+            "439:444"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=101&v_kullanici_id=27483194",
+      "page_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1",
+  "issuer": "TBMM",
+  "in_force": "1993-07-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 15/07/1993; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
