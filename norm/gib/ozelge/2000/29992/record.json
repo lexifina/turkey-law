@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5501-2701/31234",
+  "source_id": 29992,
+  "date": "2000-06-28",
+  "title": "Ticaret Borsasının borsa kotasyonu dışındaki ürünlerin tartımı ile üye olmayanlara hizmet verilmesi faaliyetlerini odaya bağlı bir iktisadi işletme oluşturacağından kurumlar ve katma değer vergisi mükellefiyetinin tesisi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29992",
+  "source_sha256": "4ebd147546bc629329cf0f801d29b15c0e45c9c2aba104ce54157fddac0f82b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
