@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2862",
+  "year": 1935,
+  "title": "27 Mayıs 1930 tarih ve 1632 sayılı Askerî Ceza Kanununun bazı maddelerinin değiştirilmesine ve bazı maddelerine ekler konulmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-12-18",
+  "gazette_issue": "3185",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3185.pdf",
+  "source_sha256": "b317410004fd9ad8e579fd15604d5781383b879758372902e21d334eaa669723",
+  "text_sha256": "4a7a41bc7b26b248df46982bfffd787fee0ed5e9cba3d2297961ad1f20b88476",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      175,
+      447
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602862.pdf",
+    "source_sha256": "ef6f0b337d2e76aee1bf87e19ba1a1bfd50487c03a193d828b19977b5f570714",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9578,
+    "bag": 0.8893,
+    "kd_coverage": 0.9977,
+    "kd_body_compared": 0.9961,
+    "rg_words": 1278,
+    "kd_words": 1293,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
