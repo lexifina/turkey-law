@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-291-48969",
+  "source_id": 38342,
+  "date": "2000-10-26",
+  "title": "Türkiye'deki bankaların yurtdışındaki bankalara yatırdıkları mevduatlar üzerinden sağladıkları gelirlerin % 5 oranında banka ve sigorta muameleleri vergisine tabi tutulmaması gerektiği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38342",
+  "source_sha256": "e6f4163373ccf8839f5c129c9ba3e3bebbde32ce95fc5158bc51bcae03a9f70d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
