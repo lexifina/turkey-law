@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/ 4213-1718/28622",
+  "source_id": 23438,
+  "date": "2003-07-04",
+  "title": "Şirket ortaklarına yapılan ücret ödemelerinin şirketin kurum kazancının tespitinde gider olarak dikkate alınıp alınmayacağı hususu hakkında...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23438",
+  "source_sha256": "55d6fede4e5f12ea150e3405703c9fbbd00be520053ad6cba6eed7f76d4da8b4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
