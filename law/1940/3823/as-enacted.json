@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3823",
+  "year": 1940,
+  "title": "Askeri ceza kanununun 47. ve 148. maddelerinin değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-05-18",
+  "gazette_issue": "4512",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4512.pdf",
+  "source_sha256": "aebbb98f53c80d99ae94da08e5616f02a9835255367dc0269ccf70c5d976d5e2",
+  "text_sha256": "bddf0e3b9bffca243320c36fdb0dde867f1c47b0731517c92e805c82f66e2d7a",
+  "text_status": "ocr",
+  "pages": [
+    9,
+    10
+  ],
+  "line_span": [
+    [
+      3306,
+      3367
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103823.pdf",
+    "source_sha256": "0c82470cd9c6d9c97ae994a07d0fd6fa2ff4c8490ede8325746747ba015201a7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.8956,
+    "bag": 0.9295,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.995,
+    "rg_words": 407,
+    "kd_words": 404,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
