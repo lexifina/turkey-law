@@ -1,0 +1,131 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1065",
+  "year": 1968,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sovyet Sosyalist Cumhuriyetleri Birliği Hükümeti arasında 28 Şubat 1967 tarihinde Ankara'da imzalanan Türk-Sovyet hududunun yeniden işaretlenmesi (Rödemarkasyonu) hakkında protokol ile bu protokole ek teknik protokol ve yeniden işaretleme (Rödemarkasyon) hududundan geçiş ve diğer taraf arazisinde muvakkat kalış esaslarının, onaylanmasının uygun bulunduğuna dair Kanun",
+  "adopted": "1968-07-05",
+  "adopted_as_published": "05/07/1968",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "19.07.1968 No: 12954",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05101065.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 51",
+  "committee_reports": [
+    {
+      "label": "MM 702 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028074ss0702.pdf"
+    },
+    {
+      "label": "CS 1150no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047059ss1150.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 368031,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Sovyet Sosyalist Cumhuriyetleri Birliği Hükümeti arasında 28 Şubat 1967 tarihinde Ankara'da imzalanan Türk-Sovyet hududunun yeniden işaretlenmesi (Rödemarkasyonu) hakkında protokol ile bu protokole ek teknik protokol ve yeniden işaretleme (Rödemarkasyon) hududundan geçiş ve diğer taraf arazisinde muvakkat kalış esaslarının, onaylanmasının uygun bulunduğuna dair Kanun",
+      "adopted_as_published": "05/07/1968",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05101065.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 702 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028074ss0702.pdf"
+        },
+        {
+          "label": "CS 1150no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047059ss1150.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 28,
+          "sitting": 74,
+          "sitting_date": "1968-06-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028074.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028fih.pdf",
+          "pages": [
+            "9",
+            "44:45",
+            "93:96",
+            ""
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 75,
+          "sitting_date": "1968-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028fih.pdf",
+          "pages": [
+            "103:104",
+            "122",
+            "142:145"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1401&v_kullanici_id=27483225",
+      "page_sha256": "cd42d09c6a7f2265b7adf2c54fcd3e4b997ddbf4325a82e9e798effbb57a88be"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 307981,
+      "title": "TC Hükümeti ile Sovyet Sosyalist Cumhuriyetleri Birliği Hükümeti arasında 28 Şubat 1967 tarihinde Ankara'da imzalanan Türk Sovyet hududunun yeniden işaretlenmesi (Rödemarkasyonu) hakkında protokol ile bu protokole ek teknik protokol ve yeniden İşaretleme (Rödemarkasyon) hududundan geçiş ve diğer taraf arazisinde muvakkat kalış esaslarının, onaylanmasının uygun bulunduğuna dair Kanun",
+      "adopted_as_published": "05/07/1968",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc051/kanuntbmmc051/kanuntbmmc05101065.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 702 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028074ss0702.pdf"
+        },
+        {
+          "label": "CS 1150no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047059ss1150.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 47,
+          "sitting": 52,
+          "sitting_date": "1968-06-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047fih.pdf",
+          "pages": [
+            "84"
+          ]
+        },
+        {
+          "cilt": 47,
+          "sitting": 60,
+          "sitting_date": "1968-07-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047fih.pdf",
+          "pages": [
+            "387",
+            "402:407",
+            "415:416"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1001&v_kullanici_id=27483235",
+      "page_sha256": "094cb387034ac00eea805b544e30971275b2ef020692510be97000c9900f57c8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cd42d09c6a7f2265b7adf2c54fcd3e4b997ddbf4325a82e9e798effbb57a88be",
+  "issuer": "Millet Meclisi",
+  "in_force": "1968-07-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 05/07/1968; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
