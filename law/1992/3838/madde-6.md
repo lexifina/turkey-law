@@ -1,0 +1,3 @@
+Madde 6 – Afete maruz bölgede çalışan 657 sayılı Devlet Memurları Kanununa tabi personele, bütçe kanunlarında yer alan fazla çalışma ücretinin iki katını geçmemek üzere fazla çalışma ücreti ödenir.
+Ayrıca, bu bölgede çalışan her statüdeki personele, en yüksek Devlet Memuru aylığının bürüt tutarının % 50'sini geçmemek kaydıyla tazminat, aylık veya ücretleriyle birlikte ödenir. Bu tazminat damga vergisi hariç hiç bir vergiye tabi tutulmaz.
+Fazla çalışmanın ve tazminatın uygulama sürelerini, tazminatın hangi yöredeki, hangi görev ve derecedekilere ne kadar ödeneceği hususuna yönelik her türlü düzenlemeyi yapmaya Bakanlar Kurulu yetkilidir.

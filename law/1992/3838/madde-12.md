@@ -1,0 +1,1 @@
+Madde 12 – Deprem öncesinde ticaretle iştigal eden kiracı konumundaki işletmecilere, Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonundan Sosyal Yardımlaşma ve Dayanışması Teşvik Vakıfları aracılığıyla proje üzerinden işyeri edindirme yardımı yapılır.

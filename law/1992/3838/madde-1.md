@@ -1,0 +1,1 @@
+Madde 1 – Bu Kanunun amacı, Erzincan, Gümüşhane ve Tunceli Merkez ve ilçelerinde 1992 Mart ayında meydana gelen deprem nedeniyle afete maruz bölge ilan edilen yörelerde normal hayatın devamını saylayacak hizmetlerin yürütülmesi ve Şırnak ile Çukurca'da meydana gelen hasar ve tahribatın giderilmesi ve toplu göçün önlenmesine ilişkin usul ve esasları düzenlemektir.

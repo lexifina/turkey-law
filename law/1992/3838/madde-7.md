@@ -1,0 +1,1 @@
+Madde 7 – Afete maruz bölgede yapılacak işlerle ilgili olarak tomruk, kereste, demir ve çimento gibi yapı malzemesi tahsisleri, ilgili Bakanlığın talebi üzerine kurumlarca öncelik ve ivedilikle sağlanır.

@@ -1,0 +1,1 @@
+Madde 13 – Bu Kanunun kapsamına giren yörelerde gelir ve kurumlar vergisi mükelleflerinin 1992 ve 1993 yıllarında tahakkuk edecek gelir ve kurumlar vergilerinin terkini veya kısmen tahsili hususunda Bakanlar Kurulu yetkilidir.

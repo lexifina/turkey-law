@@ -1,0 +1,2 @@
+Madde 18 – Bu Kanun kapsamına giren yörelerde faaliyette bulunan esnaf ve sanatkarlar, serbest meslek mensupları ile sanayici ve ticaret erbabına Türkiye Halk Bankasınca iki yıl ödemesiz ve cari faiz oranının yüzde ellisinden fazla olmamak koşuluyla kredi verilmesine ve bununla ilgili esas ve usullerin tesbitine Bakanlar Kurulu yetkilidir.
+Bu kredilerin kullandırılmasından doğacak banka kaybı, banka karının hazine hissesine düşen kısmından mahsub edilir.

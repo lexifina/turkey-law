@@ -1,0 +1,1 @@
+Madde 5 – 7269 sayılı Kanun ile 2985 sayılı Toplu Konut Kanununa dayanılarak kredi verilen, afete maruz bölge ilan edilen yörelerde inşaatı tamamlanmış veya devam etmekte olan konutlardan hasar görenlerin Toplu Konut İdaresine veya bankalara olan borçlarının ertelenmesi veya silinmesine Bakanlar Kurulu yetkilidir.
