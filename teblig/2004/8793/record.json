@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.8793",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2004/1)",
+  "number": "8793",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2004/8793",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8793&MevzuatTertip=5",
+  "source_sha256": "e6d4e1f49bbb7b3a501e7ab34288550b5985b086e7284e086e664f02cabd97bd",
+  "source_bytes": 29144,
+  "published": "2004-07-17",
+  "gazette": "25525",
+  "in_force": "2004-07-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.07.2004); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 616,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.dtm.gov.tr/ITHALAT/gozkor/ithalat.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
