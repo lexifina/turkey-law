@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6909",
+  "year": 1957,
+  "title": "6023 sayılı Türk Tabipleri Birliği Kanununun bazı maddelerinin değiştirilmesi ve bu kanuna iki madde eklenmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-02-16",
+  "gazette_issue": "9537",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9537.pdf",
+  "source_sha256": "4e9af1638bdcdaec1e1291e4be3becdddcac35509a155b069ea042634b4c8987",
+  "text_sha256": "836dbb88de0185e11f4b5eef43af29bd26fc857f78f736c7076ee2c33576761e",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      8,
+      127
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906909.pdf",
+    "source_sha256": "adca2a6a89e98a44d5f596907db09aa6e254962fc8c41c54edd2735ca00fa4cc",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9802,
+    "bag": 0.943,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9978,
+    "rg_words": 898,
+    "kd_words": 911,
+    "own_anchor": true,
+    "foreign_anchors": 5
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
