@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 236791,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "2828 Sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununun 3289 Sayılı Beden Terbiyesi ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun ile 179 ve 181 Sayılı kanun hükmünde kararnamelerde Değişiklik Yapılmasına Dair 356 Sayılı Kanun Hükmünde Kararnameye ilişkin",
+  "title": "2828 Sayılı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Kanununun 3289 Sayılı Beden Terbiyesi ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun ile 179 ve 181 Sayılı kanun hükmünde kararnamelerde Değişiklik Yapılmasına Dair 356 Sayılı Kanun Hükmünde Kararnameye ilişkin",
+  "first_sitting_date": "1991-02-07",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 56,
+      "sitting": 79,
+      "sitting_date": "1991-02-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c056/tbmm18056079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c056/tbmm18056fih.pdf",
+      "pages": [
+        "262"
+      ]
+    },
+    {
+      "cilt": 57,
+      "sitting": 90,
+      "sitting_date": "1991-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c057/tbmm18057090.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c057/tbmm18057fih.pdf",
+      "pages": [
+        "233:234"
+      ]
+    },
+    {
+      "cilt": 57,
+      "sitting": 91,
+      "sitting_date": "1991-03-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c057/tbmm18057091.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c057/tbmm18057fih.pdf",
+      "pages": [
+        "269:270"
+      ]
+    },
+    {
+      "cilt": 57,
+      "sitting": 93,
+      "sitting_date": "1991-03-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c057/tbmm18057093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c057/tbmm18057fih.pdf",
+      "pages": [
+        "367:372"
+      ]
+    },
+    {
+      "cilt": 58,
+      "sitting": 94,
+      "sitting_date": "1991-03-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c058/tbmm18058094.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c058/tbmm18058fih.pdf",
+      "pages": [
+        "18:37"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=993&v_gelecek_sayfa=901&v_kullanici_id=27484371",
+  "source_sha256": "d5de62ba2318dbacb8496f9d78416c6c86ddc5051045757bc7dfe00fef450529",
+  "in_force": "1991-02-07",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
