@@ -1,0 +1,48 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2595",
+  "year": 1982,
+  "title": "657 Sayılı Devlet Memurları Kanunu, 1765 Sayılı Üniversite Personel Kanunu ile 5434 Sayılı T.C. Emekli Sandığı Kanununun Bazı Maddelerinin Değiştirilmesi, Bazı Maddelerinin Kaldırılması Hakkında Kanun",
+  "adopted": "1982-02-12",
+  "adopted_as_published": "12/02/1982",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "15.2.1982 No: 17606",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc065/kanunmgkc065/kanunmgkc06502595.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 65",
+  "committee_reports": [
+    {
+      "label": "MGK 315 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c006/mgk_01006095ss0315.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 151130,
+      "title": "657 Sayılı Devlet Memurları Kanunu, 1765 Sayılı Üniversite Personel Kanunu ile 5434 Sayılı T.C. Emekli Sandığı Kanununun Bazı Maddelerinin Değiştirilmesi, Bazı Maddelerinin Kaldırılması Hakkında Kanun",
+      "adopted_as_published": "12/02/1982",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc065/kanunmgkc065/kanunmgkc06502595.pdf",
+      "committee_reports": [
+        {
+          "label": "MGK 315 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c006/mgk_01006095ss0315.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=201&v_kullanici_id=27483250",
+      "page_sha256": "8c4160e902e2e8dd7025af511a18c3614cfec2e5965e76d4246028272c318aae"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8c4160e902e2e8dd7025af511a18c3614cfec2e5965e76d4246028272c318aae",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1982-02-12",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 12/02/1982; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
