@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4895",
+  "year": 2003,
+  "title": "Disiplin Mahkemeleri Kuruluşu, Yargılama Usulü ve Disiplin Suç ve Cezaları Hakkında Kanunun Bazı Maddelerinde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-06-18",
+  "gazette_issue": "25142",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030618.htm",
+  "source_sha256": "84ec48157ac8ad8511e4fe9844b50ebbb22cc19944eb55898cada4a3b89f9f50",
+  "text_sha256": "6545842b448e53f0b024ce9dab6defe556120b2b2e7a6770df15e0ce926f8e93",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/06/18/25142-20",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030618.htm#20",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
