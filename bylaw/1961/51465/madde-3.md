@@ -1,0 +1,4 @@
+El ile açılan kuyular:
+Madde 3 – a) Satıh alüvyonları içinde kazma, kürek, varyoz ve baramin gibi el kazısı aletleri ile kazılan her derinlikteki kuyularla, ilk su tabakası içinde en çok 10 metre derinliğe kadar, en çok 100 milimetre çapında boru çakılarak açılan kuyular, el ile açılan kuyu sayılır.
+b) El ile açılan kuyulardan en çok faydalı ihtiyaca yetecek kadar su çekilebilir. Yeraltı suyu deposu bu ihtiyacı karşılayamıyacak durumda ise, deponun normal verimi kadar su alınması gereklidir.
+c) Artezyen sahalarda el ile açılan kuyular teknik yönetmelikte belirtildiği şekilde tercih ve teçhiz edilir. Artezyen yapan kuyulardan faydalı ihtiyaçtan fazla su alınmasını önliyecek tarzda ilgilinin gerekli bütün tedbirleri alması ve bu hususta DSİ. ce yapılacak tavsiyeleri yerine getirmesi mecburidir.
