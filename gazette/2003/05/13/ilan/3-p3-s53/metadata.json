@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-13",
+  "issue": "25107",
+  "edition": "regular",
+  "item": 53,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "Personel Okulu ve Eğitim Merkezi Komutanlığı Satın Alma Komisyon Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030513-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (62 = 62)",
+  "ilan_codes": [
+    "13729/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030513-3-3.htm",
+  "category_page_sha256": "ca9c9f9ece3f60e029268442a1d9d84a3cabbca812691a9c8dd04de7da88955f",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030513.htm",
+  "index_sha256": "e4765f70c0547538708481cf8f69b388fcede9a1fe748844e65f119acd8436bd",
+  "index_header": "13 Mayıs 2003 ... Sayı : 25107",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
