@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2875-148-114/ 56609",
+  "source_id": 25221,
+  "date": "2004-11-30",
+  "title": "Off-shore hesaplarından menkul sermaye iradı elde eden mükellefler ile ilgili bilgi vermekten imtina eden mükellef adına kesilen özel usulsüzlük cezaları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25221",
+  "source_sha256": "be4b220989899962d866886fca050fadaf559aac67028ad979fc91cbf956fcf7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
