@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6026-85/56410",
+  "source_id": 36374,
+  "date": "1997-12-24",
+  "title": "Geçici iş göremezlik ödeneği altında varislere yapılan ödeme veraset ve intikal vergisine tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36374",
+  "source_sha256": "12ebb261607d710ba5b5f6587373e3caa20a037b1aae71e79e6026ec95408319",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
