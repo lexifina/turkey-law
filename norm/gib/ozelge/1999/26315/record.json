@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6508-59/41593",
+  "source_id": 26315,
+  "date": "1999-10-01",
+  "title": "Ö.K.C. satış fişlerinde bulunması gereken bilgilerin neler olduğu Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26315",
+  "source_sha256": "91cfa1a8dadc181624bf9a9a2aec1743f9fd532d29955e54a59b18be747d915c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
