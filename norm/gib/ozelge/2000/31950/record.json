@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53-5317-1747/27016",
+  "source_id": 31950,
+  "date": "2000-06-05",
+  "title": "Başkaca bir faaliyeti nedeniyle vergi mükellefiyeti olmayan Yapı Kooperatifinin, katma değer vergisi mükellefiyetinin terkin edilmesi gerekmektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31950",
+  "source_sha256": "7a6a31ecf053b0e2c74b3fe37885dd8228b23eee9ccbd30b699992f7a0dd591b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
