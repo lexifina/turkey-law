@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-30072/16630",
+  "source_id": 37897,
+  "date": "1999-04-29",
+  "title": "Yurt dışında bulunan ve mükellefin maliki olduğu fakat kat'i ithali yapılmayan kalıplar için yatırım indirimi uygulaması mümkün olmayıp ancak, söz konusu kalıpların kat'i ithalleri yapılıp işletmenin aktifindeki bir hesaba alınması halinde, bunlara ait ha",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37897",
+  "source_sha256": "2dfcff7ea5eb83e972d5c18f56a2f92197c2dcbf1f0b7f90eccfd7dd7c41adc5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
