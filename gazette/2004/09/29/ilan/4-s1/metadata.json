@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-09-29",
+  "issue": "25598",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Enerji Piyasası Düzenleme Kurumundan:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/09/20040929-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (4 = 4)",
+  "ilan_codes": [
+    "12154/1-1",
+    "12153/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/09/20040929-4.htm",
+  "category_page_sha256": "3640cb333323620b004d227ce1c3f81ad60c95fde1b597e1b753631e1d4501fa",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/09/20040929.htm",
+  "index_sha256": "d0f997fc342936df7a91a3315958c8cbe27a99852e23540e0905772838c5989e",
+  "index_header": "29 Eylül 2004 ... Sayı : 25598",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
