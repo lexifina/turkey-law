@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 22,
+  "legislative_year": 2,
+  "sitting": 93,
+  "sitting_date": "2004-05-26",
+  "listed_date": "26 Mayıs 2004 Çarşamba",
+  "status": "Tam",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/22/2/93/Tam/fb0bf751-a122-4103-a1b8-e13df421250d.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=63d3c185-cf34-402c-9e6e-0185ceac78f4",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=22&YasamaYili=2",
+  "source_sha256": "8a5e0ddcc45910b85f3bdf92037e8b3a1800e3bc1af0de1cb9380ead7686bb0e",
+  "source_bytes": 805589,
+  "source_encoding": "windows-1254",
+  "text_status": "as-published"
+}
