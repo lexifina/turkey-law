@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223",
+  "source_id": 38496,
+  "date": "2003-11-18",
+  "title": "Belirtilen büyüklükleri aştığı halde beyannamelerini 3 568 sayılı Kanuna göre yetki almış meslek...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38496",
+  "source_sha256": "9e98173ab64277a8b26b71a331fc8f5e1fd6c34d1478f164c7804c78b677341d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
