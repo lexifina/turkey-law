@@ -1,0 +1,28 @@
+{
+  "source_id": "8.5.7235",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "İNÖNÜ ÜNİVERSİTESİ GÖK BİLİMLERİ ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "number": "7235",
+  "issuer": "İNÖNÜ ÜNİVERSİTESİ",
+  "issuer_slug": "inonu-universitesi",
+  "path": "regulation/inonu-universitesi/1989/7235",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7235&MevzuatTertip=5",
+  "source_sha256": "bc4d0a3c61dcb2a1c9a43ef61cb8f7e53bd9b6de3cace40c32398a16d5c7541e",
+  "source_bytes": 23376,
+  "published": "1989-07-28",
+  "gazette": "20235",
+  "in_force": "1989-07-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.07.1989)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 423,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
