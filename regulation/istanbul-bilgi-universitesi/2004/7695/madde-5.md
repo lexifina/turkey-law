@@ -1,0 +1,2 @@
+Merkez Müdürü
+Madde 5 - Merkez Müdürü, İstanbul Bilgi Üniversitesi, öğretim üyeleri arasından, iki yıl için Rektörün önerisi ile Mütevelli Heyeti tarafından görevlendirilir. Müdürün önerisi üzerine, Rektör tarafından bir müdür yardımcısı görevlendirilir. Süresi sona eren müdür ve yardımcısı yeniden görevlendirilebilir. Müdür yardımcısının görev süresi müdürün görev süresi ile kaimdir. Müdürlük görevinin boşalması halinde, Rektör uygun göreceği bir öğretim üyesini Merkezi yönetmek üzere geçici olarak görevlendirebilir.
