@@ -1,0 +1,2 @@
+Olay öncesi yapılacak hazırlıklar
+Madde 21 – Her polis çevik kuvvet biriminde şube müdürü veya grup amirinin başkanlığında,olayda görev alacak amirlerden bir değerlendirme grubu oluşturur. Değerlendirme grubu, kuvvetlerin olay yerine sevki, toplanması, alınacak önleyici tedbirler, olayın izlenmesi, kontrolü ve yapılacak müdahale, zor kullanma ve yakalama biçimi ve olay yerindeki delillerin korunması konularında durum mahkemesi yaparak hareket tarzlarına ilişkin esasları tespit eder, planlar ve sorumlu amire önerir.

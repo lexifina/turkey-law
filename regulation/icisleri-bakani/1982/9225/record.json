@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.9225",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "POLİS ÇEVİK KUVVET YÖNETMELİĞİ",
+  "number": "9225",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/1982/9225",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9225&MevzuatTertip=5",
+  "source_sha256": "a0edaa52d516a517427ea17ae303578a687b486ca7bfea10069ace8995fad61f",
+  "source_bytes": 99074,
+  "published": "1982-12-30",
+  "gazette": "17914",
+  "in_force": "1982-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.1982); own commencement article: \"Bu yönetmelik 1 OCAK 1983 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu yönetmelik 1 OCAK 1983 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4625,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

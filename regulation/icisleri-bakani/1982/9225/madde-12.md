@@ -1,0 +1,3 @@
+Kuvvetin göreve sevki
+Madde 12 – Olay yerine gönderilecek çevik kuvvet miktarını ve gönderiliş şeklini tayin etmek il emniyet müdürüne veya ilçe emniyet amirine, olay yerinde gerekli tertip ve tedbirleri toplu hareketin niteliğine göre zor kullanmanın gereğini taktir ve derecesini tespit etmek yetkisi ve bundan doğacak sorumluluk olay mahallinde görevlendirilmiş daha büyük rütbede bir amir mevcutsa ona, bulunmadığı taktirde kuruluşa göre çevik kuvvet şube müdürüne veya grup amirine aittir.
+Çevik kuvvet birimlerinde bütünlüğün bozulmaması amacı ile bu kuvvet personelinin ihtiyaca göre ekip, grup veya birlik halinde görevlendirilmesi esastır.

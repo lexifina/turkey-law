@@ -1,0 +1,2 @@
+Hazır Kuvvet Bulundurulması
+Madde 32 – Durumun gerektirdiği hallerde derhal kullanılmak üzere her çevik kuvvet biriminde bir hazır kuvvet bulundurulur. Bu kuvvetin miktarı ve çıkarılacağı zamanlar il emniyet müdürü veya ilçe emniyet amiri tarafından belirlenir. Hazır kuvvet gerektiğinde gece dahi tam teçhizatlı , silahlı ve giyimli olarak harekete hazır bulunur. Bu hazır kuvvetin nöbette uyku uyuyup uyuyamayacağı hususu birim amirince düzenlenir. Fevkalade hallerde bütün kuvvet, hazır kuvvet halinde bulundurulur.

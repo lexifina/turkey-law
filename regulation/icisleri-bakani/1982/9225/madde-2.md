@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 – Bu yönetmelik; polis çevik kuvvet birimleri ile kadrolarında yer alan “Özel Tim”lerin, kuruluş şeklini, bu birimlerde görevlendirilecek olan personelin niteliklerini, seçilmelerini, niteliklerinin değişmesi veya sağlık nedenleriyle başka hizmetlere geçirilme veya bu birimlerden alınma şartlarını, görevlerin yerine getirilme esas ve usullerini, emir ve komuta düzenini, yapılacak eğitimlerde göz önünde bulundurulacak esaslar ile kanunun uygulanmasına ilişkin diğer hususları kapsar.
