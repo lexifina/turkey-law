@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2924-232-1957/59116",
+  "source_id": 25435,
+  "date": "1996-12-11",
+  "title": "Taşıma irsaliyesi ile faturanın birarada \"Taşıma irsaliyeli fatura\" adı altında tek bir belge olarak kullanılıp kullanılmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25435",
+  "source_sha256": "c7e003f0dd36d06d45c2b0f0df8b2edd01a205e3ffd27e87445929e62a9dc51c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
