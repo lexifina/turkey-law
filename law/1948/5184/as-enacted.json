@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5184",
+  "year": 1948,
+  "title": "Türkiye ile Yugoslavya arasında 18 Eylül 1947 tarihinde Belgrad'da imzalanan Ticaret ve Ödeme Anlaşmalarıyla Modüs Vivendi, Tasfiye Protokolü ve bağlantılarının onanması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1948-02-23",
+  "gazette_issue": "6839",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6839.pdf",
+  "source_sha256": "10cbbf6a66683f5c41a358568f1d14f8c591a94778095fd62f26cb8882dcc4f9",
+  "text_sha256": "f8e8c294ba51a06dd2cbae7835ad85ed2809eaccd23c168c0b750cad97378299",
+  "text_status": "ocr",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "line_span": [
+    [
+      1299,
+      1583
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/kanuntbmmc030/kanuntbmmc03005184.pdf",
+    "source_sha256": "e720888d75274a4d2eb886fb1bf034edfccaa46e44a8b6e743776bce6c4f10e9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9502,
+    "bag": 0.8785,
+    "kd_coverage": 0.9904,
+    "kd_body_compared": 0.9904,
+    "rg_words": 1473,
+    "kd_words": 1570,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
