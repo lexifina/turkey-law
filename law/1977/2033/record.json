@@ -1,0 +1,159 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2033",
+  "year": 1977,
+  "title": "1977 yılı Haziran ayında yapılacak olan Mahalli İdare Seçimlerinin 11 Aralık 1977 Tarihinde Yapılması Hakkında Kanun",
+  "adopted": "1977-02-01",
+  "adopted_as_published": "01/02/1977",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "10.02.1977 No: 15846",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/kanuntbmmc060/kanuntbmmc06002033.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 60",
+  "committee_reports": [
+    {
+      "label": "MM 415 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c022/mm__04022027ss0415.pdf"
+    },
+    {
+      "label": "CS 661no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029027ss0661.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 457158,
+      "title": "1977 yılı Haziran ayında yapılacak olan Mahalli İdare Seçimlerinin 11 Aralık 1977 Tarihinde Yapılması Hakkında Kanun",
+      "adopted_as_published": "01/02/1977",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/kanuntbmmc060/kanuntbmmc06002033.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 415 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c022/mm__04022027ss0415.pdf"
+        },
+        {
+          "label": "CS 661no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029027ss0661.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 21,
+          "sitting": 2,
+          "sitting_date": "1976-11-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c021/mm__04021002.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c021/mm__04021fih.pdf",
+          "pages": [
+            "57"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 18,
+          "sitting_date": "1976-12-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c022/mm__04022018.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c022/mm__04022fih.pdf",
+          "pages": [
+            "115"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 26,
+          "sitting_date": "1976-12-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c022/mm__04022026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c022/mm__04022fih.pdf",
+          "pages": [
+            "431"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 27,
+          "sitting_date": "1977-01-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c022/mm__04022027.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c022/mm__04022fih.pdf",
+          "pages": [
+            "488:499"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 30,
+          "sitting_date": "1977-01-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c022/mm__04022030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c022/mm__04022fih.pdf",
+          "pages": [
+            "619:623",
+            "625:628"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=401&v_kullanici_id=27483225",
+      "page_sha256": "a1ea50d72be6fe3570ffdc776298387215c0ebc936785e40f90fb4075e9eeeb9"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 328923,
+      "title": "1977 yılı Haziran ayında yapılacak olan mahalli idare seçimlerinin 11 Aralık 1977 tarihinde yapılması hakkında Kanun",
+      "adopted_as_published": "01/02/1977",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc060/kanuntbmmc060/kanuntbmmc06002033.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 415 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c022/mm__04022027ss0415.pdf"
+        },
+        {
+          "label": "CS 661no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029027ss0661.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 29,
+          "sitting": 23,
+          "sitting_date": "1977-01-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029023.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029fih.pdf",
+          "pages": [
+            "518"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 27,
+          "sitting_date": "1977-02-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029027.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c029/cs__16029fih.pdf",
+          "pages": [
+            "667",
+            "684:687"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2001&v_kullanici_id=27483235",
+      "page_sha256": "5b492ecceb3fd27972446dc39f2c79577d6e4ad977e62fa45dc3f9e7cfc6c880"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a1ea50d72be6fe3570ffdc776298387215c0ebc936785e40f90fb4075e9eeeb9",
+  "issuer": "Millet Meclisi",
+  "in_force": "1977-02-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 01/02/1977; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
