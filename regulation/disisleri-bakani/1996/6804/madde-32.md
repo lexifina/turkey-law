@@ -1,0 +1,4 @@
+Vezne İşlemleri
+Madde 32 — Kasadan yapılacak ödemelerle ilgili Maliye Bakanlığınca her yıl yayımlanan tebliğde belirtilen limite kadar olan ödemeler kasadan, bu limiti aşan ödenmeler çeklerle bankadan yapılır. Ertesi gün yapılacak ödemeler için ise Maliye Bakanlığınca çıkartılan tebliğde belirtilen miktarların yansı kadar nakit bulundurulabilir. Kasa fazlası T.C. Merkez Bankası, bulunmadığı yerlerde bu bankanın muhabiri bankaya Saymanlık adına açılan hesaba yatırılır. Ancak çeşitli nedenlerle, kasa fazlasının bankaya yatırılmasının mümkün olmadığı hallerde, ertesi gün bankaya yatırılmak üzere, Sayman ve Veznedar tarafından müşterek muhafaza altına alınır.
+Bankadan yapılacak ödemeler için düzenlenen çekler İşletme Müdürü ve Sayman tarafından imzalanır.
+Kasa mevcudunun kasa defterine uygunluğu her gün Sayman tarafından kontrol edilerek kasa defteri veznedar ile birlikte imzalanarak kasa kapatılır.

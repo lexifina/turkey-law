@@ -1,0 +1,2 @@
+Devir ve Teslim
+Madde 36 — Sayman, veznedar, ambar memuru, ayniyat memuru, satınalma memuru gibi para ve mal işleri ile görevli memurlar arasındaki devir-teslim işlemlerinde, Maliye Bakanlığınca çıkarılacak yönetmelik ve tebliğ hükümleri, devir-teslim süreleri yönünden de 12.11.1974 tarih ve 7/9044 sayılı Bakanlar Kurulu Kararıyla yürürlüğe giren "Devlet Memurlarının Çekilmelerinde Devir ve Teslim Süreleri Hakkında Yönetmelik" hükümleri uygulanır.

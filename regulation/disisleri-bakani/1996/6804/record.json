@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.6804",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET KONUK EVLERİ DÖNER SERMAYE İŞLETMELERİ YÖNETMELİĞİ",
+  "number": "6804",
+  "issuer": "Dışişleri Bakanı",
+  "issuer_slug": "disisleri-bakani",
+  "path": "regulation/disisleri-bakani/1996/6804",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6804&MevzuatTertip=5",
+  "source_sha256": "a0e1000bc78cf92f1be7b5c8e53ea3cb6d22314b0f50417cbcedd9901e23529a",
+  "source_bytes": 133055,
+  "published": "1996-08-21",
+  "gazette": "22734",
+  "in_force": "1996-08-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.08.1996); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3401,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

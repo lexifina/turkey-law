@@ -1,0 +1,2 @@
+Misafir Edilecek Kimseler
+Madde 4 — Devlet Konuk Evlerinde sadece Devlet ve Hükümet Başkanları, Parlamento Başkanları ve heyetleri, Genelkurmay Başkanları, Yüksek Yargı Organları Başkanları ve heyetleri. Bakanlar ve Müsteşarlar, Kuvvet Komutanları ve sayılan başkanların yardımcı-ları, uluslararası kuruluşların başkanları ve yardımcıları, yabancı vali ve belediye başkanları ile heyet halinde gelinmesi durumunda yukarıdaki zevata refakat edecek üyeler konaklamak için misafir edilebilir ve ağırlanabilir; Ayrıca, Bakanlıkça gerekli görülen hallerde diğer zevat da ağırlanabilir.

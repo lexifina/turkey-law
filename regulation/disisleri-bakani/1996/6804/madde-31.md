@@ -1,0 +1,2 @@
+İş Programı ve Bütçe
+Madde 31 — İşletme Müdürünün veya yetkili kılınacak İşletme Müdür Yardımcısının görüşü alınarak Sayman tarafından hazırlanan bütçe tasarısı en geç Temmuz ayı başında onaylanmak üzere Dışişleri Bakanlığı İdari ve Mali İşler Dairesi Başkanlığına gönderilir. Daire Başkanlığının uygun görüşü ve Dışişleri Bakanının onayı ile gerçekleşen ve uygulanmak üzere işletmeye gönderilen bütçe, bilgi için Eylül ayı içinde Maliye Bakanlığına gönderilir.
