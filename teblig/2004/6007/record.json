@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.6007",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ABD’NE AİT DESTEK HAMULESİNİN İTHAL/İHRAÇ VE ÜLKE İÇİ NAKİL VE TEVZİİNE DAİR TEBLİĞ",
+  "number": "6007",
+  "path": "teblig/2004/6007",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6007&MevzuatTertip=5",
+  "source_sha256": "46e30060f280fa9505e45c2ff04179d8a0235125f0ef461a6dcc516a9f0c78e3",
+  "source_bytes": 44715,
+  "published": "2004-09-01",
+  "gazette": "25570",
+  "in_force": "2004-09-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.09.2004); own commencement article: \"bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1533,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
