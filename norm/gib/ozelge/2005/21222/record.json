@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4535-5",
+  "source_id": 21222,
+  "date": "2005-02-22",
+  "title": "İşletmenin faaliyetlerinde kullanmak üzere aldıkları binek otomobilleri ve benzeri kara taşıtları yatırım indiriminden yararlanır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21222",
+  "source_sha256": "611de183ea8441118d1e900e2584d18d1ea6dcdf83b0a7990a336376bbef5c38",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
