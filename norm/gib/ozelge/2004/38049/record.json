@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": " B.07.0.GEL.0.53/5309- 169-39184",
+  "source_id": 38049,
+  "date": "2004-08-25",
+  "title": "İşletmeler ait demirbaş olan bilgisayarların işletim sistemleri bilgisayardan ayrı olarak değerlendirilemeyeceğinden, işletim sistemlerine yönelik yapılan tadil, onarım, bakım ve onarım hizmetleri için yapılan ödemelere ait kdv üzerinden tevkifat yapılaca",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38049",
+  "source_sha256": "82020d38f25d79e308b25ce3a8111c47fbc0137416d6a7e39d2f9487766c0896",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
