@@ -1,0 +1,7 @@
+İlanların Bildirilmesi ve Yayımı
+Madde 13 — Gazetede yayımlanacak ilanlar, Müdürlüğün adresine iadeli taahhütlü olarak posta veya kargo yoluyla gönderilebileceği gibi, ilgililerce elden de verilebilir.
+İlanlar, yazılı bir metnin bir yerden diğer bir yere ulaşmasına imkan veren faks, telgraf, e-mail ve benzeri iletişim araçlarıyla da Müdürlüğe bildirilebilir. Bu şekilde bildirilen ilanlardan doğan yanlışlıklardan Müdürlük sorumlu tutulamaz ve bu ilanlardan okunaksız olanlar yayımlanmaz.
+Ticaret sicili memurlukları aracılığıyla ilanların gönderilmesi durumunda, sicil memurluklarının ilanın alındığına dair ilgiliye vereceği makbuza ilanın alındığı tarihi yazması ve ilanı en geç 5 işgünü sonunda Müdürlüğe göndermesi zorunludur. Aksi takdirde doğan bütün zararlardan ilgililere rücu hakkı saklı kalmak üzere ilgili oda sorumludur.
+İlgililerce elden verilen ilanların, ticaret sicili memurluğundan alındığı tarihten itibaren en geç 15 gün içerisinde Müdürlüğe teslim edilmesi zorunludur. Bu süre geçtikten sonra teslim edilen ilanlar yayımlanmaz. Bu ilanların yayımlanmamasından doğacak zararlardan ilgililer sorumludur. Ticaret Sicili Tüzüğünün 102 nci maddesi hükmü saklıdır.
+İlan bedelleri, elden veya posta veyahut banka havalesi yoluyla Müdürlüğe ödenir. İlan bedelinin Müdürlük veznesine yatırılması halinde ilgililere ilanın verildiği tarihi ve ödenen parayı gösterir bir makbuz verilir.
+Bedeli tam olarak ödenmeyen ilanlar yayımlanmaz ve ilgililere iade edilir.
