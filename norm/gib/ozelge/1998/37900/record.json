@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.O7.0.GEL.0.43./4304-24/50821",
+  "source_id": 37900,
+  "date": "1998-12-31",
+  "title": "Mükellefin kira gelirinden elde edilen kazanca uygulanacak istisna ile gayrimenkul sermaye iradından dolayı gelir vergisinin nasıl ödeneceği hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37900",
+  "source_sha256": "50f51a5196a010d7dbffba48ceea7a4616177e8c45ff7f5d3e531fb78de5fb94",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
