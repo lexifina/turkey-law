@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5921-281",
+  "source_id": 33874,
+  "date": "2004-08-23",
+  "title": "Asıl şeyin temel unsuru olan bütünleyici parçalardan özel tüketim vergisi alınması mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33874",
+  "source_sha256": "925f98584a5e4f7d7a37e16f44e2f17ff77aed6a50efc3259d78f4ad796fba4e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
