@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4165",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "FAAL SPORCULUĞU BIRAKMA TÖRENLERİ HAKKINDA YÖNETMELİK",
+  "number": "4165",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1980/4165",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4165&MevzuatTertip=5",
+  "source_sha256": "e648ad3eedc29361263ac4250924ce33eb12c51490217013cf5b8491767eb5a7",
+  "source_bytes": 53091,
+  "published": "1980-05-04",
+  "gazette": "16951",
+  "in_force": "1980-05-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.05.1980); own commencement article: \"bu yönetmelik resmi Gazete’de yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu yönetmelik resmi Gazete’de yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 595,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
