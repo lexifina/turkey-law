@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 415951,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "BÜLENT ECEVİT (MUSTAFA BÜLENT ECEVİT) (İSTANBUL) (DSP GENEL BAŞKANI)",
+  "summary": "Ve 292 Milletvekilinin Türkiye Cumhuriyeti Anayasasının 83. Maddesinin Değiştirilmesine Dair (2/676)",
+  "title": "Ve 292 Milletvekilinin Türkiye Cumhuriyeti Anayasasının 83. Maddesinin Değiştirilmesine Dair (2/676)",
+  "first_sitting_date": "1997-11-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 35,
+      "sitting": 11,
+      "sitting_date": "1997-11-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c035/tbmm20035011.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c035/tbmm20035fih.pdf",
+      "pages": [
+        "140:148"
+      ]
+    },
+    {
+      "cilt": 36,
+      "sitting": 16,
+      "sitting_date": "1997-11-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c036/tbmm20036016.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c036/tbmm20036fih.pdf",
+      "pages": [
+        "430:435"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "66e31df510dc8cdc05eea8327a495feb009ab5810f1fc3d501614e373a2948d1",
+  "in_force": "1997-11-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
