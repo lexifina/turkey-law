@@ -1,0 +1,5 @@
+Yürütme:
+Madde 14 – Bu Kanunu Bakanlar Kurulu yürütür.
+5099
+1738 SAYILI KANUNDA EK VE DEĞİŞİKLİK YAPAN MEVZUATIN
+YÜRÜRLÜKTEN KALDlRDIĞI KANUN VE HÜKÜMLERİ

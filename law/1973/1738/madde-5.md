@@ -1,0 +1,1 @@
+Madde 5 – İlgililerce bildirilen can ve mal emniyetine ait her türlü tehlikeler, Türkiye Radyo - Televizyon Kurumu araçlarından ve Posta - Telgraf ve Telefon İdaresi Genel Müdürlüğüne ait sahil telsiz istasyonları ile her türlü diğer yayın organlarından yararlanılarak ve Hükümet bildirilerine uygulanan esaslara göre ücretsiz olarak ilgililere duyurulur.

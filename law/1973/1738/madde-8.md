@@ -1,0 +1,3 @@
+Madde 8 – Bu kanunda belirtilen seyir ve hidrografi işleri, resmi ve özel kurum ve şahısların yapacakları istemler, kurumun kendi hizmetleri de gözönüne alınarak, Deniz Kuvvetleri Komutanlığının yapacağı davet ve belirteceği subayın başkanlığında yılda bir defa olmak üzere ilgili resmi ve özel kurum yetkili temsilcilerinden kurulu bir kurulda tespit olunur.
+Bu kurulun kararı Bakanlar Kurulunun onayı ile kesinleşir. Kurul bu hizmet için bütçenin T.B.M.Meclisine sevkinden önce toplanır.
+Kurum, Bakanlar Kurulu onayından geçen yıllık programı aksatmayacak program dışı ve ivedi ihtiyaçları karşılamaya ve lüzum göreceği işleri yapmaya yetkilidir.

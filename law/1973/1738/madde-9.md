@@ -1,0 +1,3 @@
+Madde 9 – Bakanlar Kurulunca onaylanan yıllık iş programlarının gerçekleşmesi için iş talebinde bulunan bakanlıklar, resmi kurumlar talepleri ile ilgili masrafları aşağıdaki şekilde sağlanır:
+Genel bütçeli kurumların, programına dahil iş taleplerinin gerektirdiği ödenek bütçe hazırlığı sırasında aidiyetine göre Milli Savunma Bakanlığı, Deniz Kuvvetleri Komutanlığı bütçesinin ilgili tertiplerine aktarılır.
+Katma bütçeli kurum ve müesseselerin yaptıracakları işlere ait meblağ, bir taraftan genel bütçenin çeşitli gelir faslına irat; karşılığına da işi alan kurumun bağlı olduğu bütçenin sonunda açılacak özel tertiplere ödenek kaydetmeye ve yıl sonunda artakalan miktarları gelecek yıl bütçesinde açılacak özel tertiplere aktarmaya Maliye Bakanlığı yetkilidir.
