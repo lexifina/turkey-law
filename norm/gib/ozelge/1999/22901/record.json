@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4401-208/16851",
+  "source_id": 22901,
+  "date": "1999-04-30",
+  "title": "Servis taşımacılığı türü faaliyetlerin (diğer şartlar sağlanmış olmak kaydıyla) basit usulde vergilendirilmesi mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22901",
+  "source_sha256": "90787aaa911926d0faaf8be79be9446a33aeb77ea86a9025106edbe963ef7919",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
