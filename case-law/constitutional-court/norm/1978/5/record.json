@@ -8,8 +8,9 @@
   "omitted_images": 0,
   "published": "1978-03-12",
   "referenced_images": 0,
-  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/merge-html/e8118646-334f-f973-b80e-905f5f3ade58",
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1978/5",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
   "source_images": 0,
-  "source_sha256": "afe2ea5aa9af1ee65f891e220c73129fde72545e3366eb8c74112449aca968f6",
+  "source_sha256": "39237329426a704b146e6942f2931eaf9f0a0afaf0c695be81aebd266b0abd87",
   "version_label": "as-enacted"
 }
