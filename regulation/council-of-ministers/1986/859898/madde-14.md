@@ -1,0 +1,1 @@
+Madde 14 – Yurtdışında yabancıların katılmasıyla yapılan bir toplantıda merkezden gelmiş Elçi ünvanını taşıyan görevlilerle diğer Bakanlıkların Genel Müdür Yardımcıları, kendi aralarındaki kıdem sırasına göre Misyon Şeflerinden ve Geçici Maslahatgüzarlardan sonra, 1 inci meslek memurundan önde gelirler.

@@ -1,0 +1,1 @@
+Madde 1 – Bu Yönetmelik, Türkiye Cumhuriyeti'nin diplomatik temsilciliklerinde diplomatik statüyü, konsolosluklarında konsolosluk memuru statüsünü haiz personelin uymaları gereken protokol esaslarını tesbit etmek amacıyla düzenlenmiştir.

@@ -1,0 +1,1 @@
+Madde 12 – Bir temsilcilikte en kıdemli meslek memuru veya en kıdemli Daimi Temsilci Yardımcısı, o temsilcilik protokol sırasında Misyon Şefi'nden hemen sonra yer alır. Bir temsilcilikte yapılan toplantıya diğer misyonlardan Büyükelçiler ve Elçiler katılıyorsa, bu memurun yeri kendisinden kıdem bakımından en yakın üst olandan hemen sonradır.

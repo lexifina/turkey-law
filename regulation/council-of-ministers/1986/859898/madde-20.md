@@ -1,0 +1,2 @@
+Madde 20 – Misyon Şefinin vazife gördüğü memlekette başkent dışındaki bir şehirde yapılan toplantılarda, o şehirde görevli olan ve Birinci Sınıf Başkonsolos ünvanı taşıyan Konsolosluk Şefi, kadroyu alış esasına göre meslek kıdemi bakımından Büyükelçilikteki 1 inci Meslek Memuruna kıyasen önceliği olmasa bile, Büyükelçi'den hemen sonra; Başkonsolos veya Konsolos ünvanını taşıyan Konsolosluk Şefi ise 1 inci Meslek Memuru Elçi - Müsteşar ise ondan sonra, 1 inci Meslek Memuru bu ünvandan küçük bir ünvan taşıyorsa kıdeme bakılmaksızın ondan önde yer
+alır.

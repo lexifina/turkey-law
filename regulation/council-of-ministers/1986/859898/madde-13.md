@@ -1,0 +1,1 @@
+Madde 13 – Misyon Şefi'nin yokluğunda ona protokol sırasında kendinden hemen sonra gelen memur Geçici Maslahatgüzar ünvanı ile vekalet eder. Geçici Maslahatgüzar, kendi ünvanını taşıyan diğer misyon mensuplarından kıdemsiz de olsa onlardan önde gelir.

@@ -1,0 +1,1 @@
+Madde 18 – Başkonsolos Yardımcısı bulunmayan Başkonsolosluklar ile Konsolosluklarda kıdem itibariyle 1 inci meslek memuru Başkonsolosun yokluğunda ona vekalet eder ve protokol sırasında ünvanına bakılmaksızın hemen ondan sonra yer alır.

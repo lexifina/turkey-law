@@ -1,0 +1,1 @@
+Madde 8 – Bir yabancı ülke Devlet Başkanı nezdinde akredite Misyon Şefi Büyükelçi Türkiye Cumhuriyetini temsil eder ve bu sıfatla o ülkede diğer Misyon Şefleri de dahil, bütün memurlardan önde gelir. Ancak, protokol sırasının tayinini gerektiren toplantı ve törenler esas itibariyle diğer bir Misyon Şefi Büyükelçinin görev alanı içinde ise, o Misyon Şefine öncelik verilir.
