@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4520",
+  "year": 1944,
+  "title": "Belediye Kanununun 27. maddesinin değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-02-02",
+  "gazette_issue": "5619",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5619.pdf",
+  "source_sha256": "d6d65bdb09969db4e555848591fa4cd2fb175ae88486f00d107b1b3d0ada05e9",
+  "text_sha256": "a5ba8816ac4b713bc3d7ba4c602e496c290625a211f853d5f6da7aca0df2fac4",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      204,
+      235
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604520.pdf",
+    "source_sha256": "b10c8e26e8788587d831b276b0de04bf07b691652846136eba45a5333d740143",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9181,
+    "bag": 0.8522,
+    "kd_coverage": 0.9906,
+    "kd_body_compared": 0.9633,
+    "rg_words": 125,
+    "kd_words": 109,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
