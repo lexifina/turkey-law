@@ -1,0 +1,1 @@
+Madde 7 – Ecnebi memleketlerden getirtilen tamamı öğretici ve teknik filimlerin kontrolu gümrük muayenesinden evvel yapılır. Filimler gümrükçe mühürlü olarak memur vedaatiyle tetkik edilecek mahalle getirilir ve komisyonca tetkik edildikten sonra aynı suretle gümrüğe iade olunur.

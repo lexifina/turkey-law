@@ -1,0 +1,2 @@
+Madde 8 – Kontrol neticesinde tamamı öğretici ve teknik mahiyette bulunduğuna karar verilen filimlerin evvelce verilen istidaya göre bu iş için tutulacak deftere sıra numarası ile kaydı yapılarak kararı yazılır ve ziri aza tarafından imza edilir.
+Bu suretle muamele tekemmül ettikten sonra Ankara'da Emniyet Umum Müdürlüğü ve İstanbul'da Emniyet Müdürlüğü tarafından sahibine mühürlü ve imzalı müsaade vesikası verilir ve keyfiyet derhal gümrük idaresine vesair alakalı makam var ise oralara bildirilir.
