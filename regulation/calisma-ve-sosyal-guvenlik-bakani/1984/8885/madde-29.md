@@ -1,0 +1,2 @@
+Kurum hekim veya sağlık tesislerine başvurmama
+Madde 29- Kurum hekimlerine veya sağlık tesislerine müracaat etmeden muayene ve tedavilerini başka hekim veya sağlık tesislerinde yaptıran sigartalı ile eşi geçindirmekle yükümlü olduğu çocuklarının, 2925 sayılı Tarım işçileri Sosyal Sigartalar Kanununa göre sürekli işgöremezlik geliri, malüllük veya yaşlılık aylığı almakta olanlarla bunların eşleri ve geçindirmekle yükümlü oldukları çocuklarının ve anılan Kanuna göre gelir veya aylık almakta olan eş ve çocukların, bu tedavileri dolayısıyla yaptıkları masraflar ödenmez.

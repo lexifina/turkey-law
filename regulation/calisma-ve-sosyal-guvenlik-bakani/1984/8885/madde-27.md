@@ -1,0 +1,3 @@
+Gelir ve aylık alanlar ile aile fertlerinin muayene ve tedavileri
+Madde 27- Kurum sağlık yardımlarından yararlanabilmek için, bu konudaki başvurularında gösterilmek üzere, Kurumca 2925 sayılı Tarım İşçileri Sosyal Sigortalar Kanununa göre sürekli iş göremezlik geliri, malüllük veya yaşlılık aylığı alanlara bir “sağlık karnesi”, bunların geçindirmekle yükümlü oldukları eş ve çocukları ile anılan Kanuna göre haksahibi olarak gelir veya aylık alan eş ve çocuklara birer “sağlık kartı” verilir.
+Sağlık karnesi veya sağlık kartının kaybolması halinde, durumun ilgili tarafından bildirilmesi üzerine Kurumca yeniden bir sağlık karnesi veya kartı düzenlenir.

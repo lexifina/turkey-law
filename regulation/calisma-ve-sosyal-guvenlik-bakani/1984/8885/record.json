@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.8885",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "2925 SAYILI TARIM İŞCİLERİ SOSYAL SİGORTALAR KANUNUNUN UYGULANMASINA DAİR YÖNETMELİK",
+  "number": "8885",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/1984/8885",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8885&MevzuatTertip=5",
+  "source_sha256": "be3008a346dd2be04f3662a5d3e94ddbcecea84a91ee7658a950663b8fb8a0bb",
+  "source_bytes": 67768,
+  "published": "1984-05-18",
+  "gazette": "18405",
+  "in_force": "1984-05-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.05.1984)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3419,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,7 @@
+Kurum dışı sağlık tesislerinde yapılan tedaviler
+Madde 32- Sigortalı ile eşi ve geçindirmekle yükümlü olduğu çocuklarının, 2925 sayılı Tarım İşçileri Sosyal Sigortalar Kanununa göre sürekli işgöremezlik geliri, malullük veya yaşlılık aylığı almakta olanlarla bunların eşleri ve geçindirmekle yükümlü oldukları çocuklarının ve anılan Kanuna göre gelir veya aylık almakta olan eş ve çocukların;
+a) Kendini bilmeyecek derecede ağır ve ani hastalığı dolayısı ile başkaları tarafından Kurum sağlık tesisleri dışında bir sağlık müessesesine yatırılması,
+b) Vak'anın Kurum sağlık tesislerine başvurmaya imkan vermeyecek derecede acil ve hayatı tehdit edici mahiyette olması,
+hallerinde, bu hususlar raporla teşvik edilmek ve Kurum tarafından kabul olunmak şartıyle, resmi sağlık müesseselerinde yapılan tedavi masrafları aynen, tedavi özel sağlık tesislerinde yapılmış ise, Kurum sağlık kuruluşlarında ayakta veya yatırılarak yapılacak muayene ve tedavilerden alınacak ücret tarifesi üzerinden hesaplanmak suretiyle ödenir.
+Şu kadar ki, resmi sağlık müesseselerinde özel surette tedavi görmüş olanların masrafları o sağlık tesisinin normal ücret tarifesi üzerinden, yatak ücretleri ise, ikinci sınıf yatak ücreti üzerinden ödenir .
+Ancak, yukarıda yazılı hallerde, Kurum sağlık tesisleri dışında yapılan tedavi masraflarının ödenebilmesi için, durumun, ilgililer tarafından mümkün olan en kısa zamanda Kuruma bildirilmesi şarttır.
