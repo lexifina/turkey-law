@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/1928",
+  "list_number": "1928",
+  "decision_date": "2004-05-06",
+  "title": "YSK ilke kararı 2004/1928",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3853/2004-1928-karar.htm",
+  "source_sha256": "234a875d4e25f7a048b27dac7e727973bf07b9cf2fafc6294ccd4be3837b76dd",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-05-06",
+  "law_text_complete": false
+}
