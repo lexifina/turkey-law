@@ -1,0 +1,97 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 2386,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Düşman istilâsından kurtulan mahallerde ashabının firarına mebni sahipsiz kalan emvali menkule ve mezruat hakkında",
+  "title": "Düşman istilâsından kurtulan mahallerde ashabının firarına mebni sahipsiz kalan emvali menkule ve mezruat hakkında",
+  "first_sitting_date": "1920-09-08",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 61,
+      "sitting_date": "1920-09-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004061.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/ehttbmm01004061.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004fih.pdf",
+      "pages": [
+        "33:34"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 7,
+      "sitting_date": "1921-03-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c009/tbmm01009007.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c009/ehttbmm01009007.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c009/tbmm01009fih.pdf",
+      "pages": [
+        "121:126"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 76,
+      "sitting_date": "1921-09-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/tbmm01012076.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/ehttbmm01012076.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c012/tbmm01012fih.pdf",
+      "pages": [
+        "220:231"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 97,
+      "sitting_date": "1921-10-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c013/tbmm01013097.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c013/ehttbmm01013097.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c013/tbmm01013fih.pdf",
+      "pages": [
+        "188",
+        "266:274"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 102,
+      "sitting_date": "1921-10-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c014/tbmm01014102.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c014/ehttbmm01014102.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c014/tbmm01014fih.pdf",
+      "pages": [
+        "2:5",
+        "7",
+        "16",
+        "17",
+        "28"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 28,
+      "sitting_date": "1922-04-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c019/tbmm01019028.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c019/ehttbmm01019028.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c019/tbmm01019fih.pdf",
+      "pages": [
+        "215:227",
+        "303:321",
+        "335:336"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=703&v_gelecek_sayfa=301&v_kullanici_id=27483709",
+  "source_sha256": "a5c50ef59e3876833422c39bd2c0932e78a52ad925e6ab77631336af92a6a288",
+  "in_force": "1920-09-08",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
