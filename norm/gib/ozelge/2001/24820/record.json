@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4052-26-18997",
+  "source_id": 24820,
+  "date": "2001-04-09",
+  "title": "4325 sayılı Kanunla getirilen istisnadan yararlanan mükellefler hakkında hayat standardı esası uygulanabilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24820",
+  "source_sha256": "24eb90cefd74addd8699def2c78796769eb07e286d214dcb9aaff0fd5028f7be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
