@@ -1,0 +1,3 @@
+Kamulaştırma, şirket ve vakıf kurma
+MADDE 80 - Odalar, borsalar ve Birlik amaçlarını gerçekleştirmek ve faaliyet konuları ile sınırlı olmak şartı ile yetkili organlarının kararı ve Bakanlığın izni ile kamulaştırma yapabilirler. Kamu yararı kararı Bakanlıkça verilir.
+Odalar, borsalar ve Birlik, bu Kanunda öngörülen ekonomik nitelikli görevlerini yapmak, meslek mensuplarının müşterek ihtiyaçlarını karşılamak, meslekî faaliyetlerini kolaylaştırmak ve mesleğin genel menfaatlere uygun olarak gelişmesini sağlamak amaçlarıyla sınırlı olarak ve Bakanlığın izni ile kurulmuş veya kurulacak şirketlere iştirak edebilirler. Odalar, borsalar ve Birlik, amaçlarına uygun olarak eğitim ve öğretim kurumları kurmak üzere vakıf kurabilirler.
