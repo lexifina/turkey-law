@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 144807,
+  "assembly": "Danışma Meclisi",
+  "heading": "TASARI VE RAPORLAR",
+  "heading_as_published": "Tasarı Ve Raporlar",
+  "summary": "9.12.1982 Tarihli ve 2761 Sayılı 1983 Malî Yılı Bütçe Kanununun 28. Madde sinin (8) Fıkrasına Bir Bent Eklenmesine İlişkin Kanun Tasarısı ve Bütçe-Plan Komisyonu Raporu (1/626) (S. Sayısı:337)",
+  "title": "9.12.1982 Tarihli ve 2761 Sayılı 1983 Malî Yılı Bütçe Kanununun 28. Madde sinin (8) Fıkrasına Bir Bent Eklenmesine İlişkin Kanun Tasarısı ve Bütçe-Plan Komisyonu Raporu (1/626) (S. Sayısı:337)",
+  "first_sitting_date": "1983-05-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 109,
+      "sitting_date": "1983-05-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c018/dm__02018109.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c018/dm__02018fih.pdf",
+      "pages": [
+        "256:263"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARI%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARI%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1312&v_gelecek_sayfa=401&v_kullanici_id=27484982",
+  "source_sha256": "7f8d6200992fd7dfd9c57a2ddbb79723018ff65db008ab31b9f141ef28caf5e1",
+  "in_force": "1983-05-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
