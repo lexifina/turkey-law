@@ -1,0 +1,13 @@
+{
+  "number": "03-42/465-204",
+  "type": "Rekabet İhlali",
+  "decision_date": "2003-06-12",
+  "publication_date": "2004-09-22",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=eef625bc-cde5-464b-b291-ab5339ccd220",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=956",
+  "pdf_sha256": "18cf972366f251d5772a173b36ae8dfc04e198610c662a25de158c78f356ef8e",
+  "pdf_bytes": "314743",
+  "pages": "11",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "complainant/applicant/party entry without a company or institution marker"
+}
