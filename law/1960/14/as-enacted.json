@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "14",
+  "year": 1960,
+  "title": "28.12.1946 tarihli ve 4991 sayılı kanuna geçici bir madde eklenmesine dair geçici Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-07-11",
+  "gazette_issue": "10548",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10548.pdf",
+  "source_sha256": "9c59613b70316e6af919ac6caf1891b74661ca3f4fbea5005505a9a84f7b846a",
+  "text_sha256": "145996f6257e83202f6793fbdf1a7a20e963c9c3c059506982824441081b125e",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      381,
+      397
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300014.pdf",
+    "source_sha256": "7b9dee52922105c2027b72da721d9bcb702cb2a59d51516555e3b41db9a40fd1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9285,
+    "bag": 0.8607,
+    "kd_coverage": 0.9845,
+    "kd_body_compared": 0.9412,
+    "rg_words": 116,
+    "kd_words": 136,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
