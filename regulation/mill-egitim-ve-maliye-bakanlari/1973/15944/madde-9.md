@@ -1,0 +1,3 @@
+Sorumlu Sayman
+Madde 9- Malî işler ve muhasebe işlemleri, Maliye Bakanlığının muvafakatı ile Millî Eğitim Bakanlığınca görevlendirilecek sorumlu saymanlarca yürütülür.
+Sorumlu saymanlar, muhasebe işlemlerinin düzenli yürütülmesinden, alacakların izlenilmesinden, ödenek dışı harcama veya yanlış ödeme yapılmasından, vezne işlerindeki aksaklık ve yolsuzluklardan, gelir ve giderlere ilişkin belge ve alındıların iyi saklanmasından tek başlarına; tespit edilen kadro üstünde personel çalıştırılmasından, gider gerçekleştirme belgelerine ilişkin eksikliklerden, malî işlemlerin kanun ve yönetmelik hükümlerine aykırı yapılmamasından ita amirleri ile birlikte sorumludurlar.

@@ -1,0 +1,3 @@
+Bilançolar Gelir ve Gider Belgeleri
+Madde 21- Sorumlu Saymanlarca yıl sonunda düzenlenecek bilançolar, sayım tutanakları, ayrıntılı borç ve alacak listeleri, banka uygunluk mektubu gibi belgeler ile esas ve yardımcı defterleri, gelir ve gider belgeleri 4 aylık süre içinde Sayıştay Başkanlığına bilançolarla eklerinin onaylanmış birer örnekleri de aynı süre içinde (en geç Haziran ayı sonuna kadar) Millî Eğitim ve Maliye Bakanlıklarına gönderilir.
+Millî Eğitim Bakanlığına gönderilen bilanço örnekleri, bu Bakanlıkça birleştirilerek, malî yılın bitiminden itibaren 5 aylık bir süre içinde Sayıştay Başkanlığına ve Maliye Bakanlığına verilir.
