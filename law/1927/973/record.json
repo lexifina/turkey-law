@@ -1,0 +1,73 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "973",
+  "year": 1927,
+  "title": "Müsakkafat vergisi hakkındaki 14 Haziran 1326 tarihli kanunun dördüncü maddesinin sekizinci fıkrasının ilgasına dair Kanun",
+  "adopted": "1927-02-07",
+  "adopted_as_published": "07/02/1927",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.02.1927 No: 563",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc005/kanuntbmmc005/kanuntbmmc00500973.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 5",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 126853,
+      "title": "Müsakkafat vergisi hakkındaki 14 Haziran 1326 tarihli kanunun dördüncü maddesinin sekizinci fıkrasının ilgasına dair Kanun",
+      "adopted_as_published": "07/02/1927",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc005/kanuntbmmc005/kanuntbmmc00500973.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 28,
+          "sitting": 12,
+          "sitting_date": "1926-12-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c028/tbmm02028012.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c028/ehttbmm02028012.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c028/tbmm02028fih.pdf",
+          "pages": [
+            "21"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 30,
+          "sitting_date": "1927-01-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c028/tbmm02028030.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c028/ehttbmm02028030.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c028/tbmm02028fih.pdf",
+          "pages": [
+            "492:497"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 33,
+          "sitting_date": "1927-02-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c029/tbmm02029033.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c029/ehttbmm02029033.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c029/tbmm02029fih.pdf",
+          "pages": [
+            "17:18",
+            "29:31"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=601&v_kullanici_id=27483145",
+      "page_sha256": "86eb2450254737548b5f3ceef2f7c375be8fe29bf13dce23ef94747fdeb2d028"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "86eb2450254737548b5f3ceef2f7c375be8fe29bf13dce23ef94747fdeb2d028",
+  "issuer": "TBMM",
+  "in_force": "1927-02-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 07/02/1927; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
