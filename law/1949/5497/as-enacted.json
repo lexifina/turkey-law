@@ -1,0 +1,55 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5497",
+  "year": 1949,
+  "title": "Posta Telgraf ve Telefon işletme Genel Müdürlüğü 1949 yılı Bütçe Kanununa bağlı (A) işaretli cetvelde değişiklik yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-12-31",
+  "gazette_issue": "7394",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7394.pdf",
+  "source_sha256": "9d7c038cce4cca18802533e6e67c5096fe11738e4850e57be2734d3ffd4f821e",
+  "text_sha256": "367a86f39d47cd7095a16344a4bbf340a3e00a0ce0e0bc6a37b7f18a57438360",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    10,
+    11
+  ],
+  "line_span": [
+    [
+      4366,
+      4370
+    ],
+    [
+      3934,
+      3961
+    ],
+    [
+      1934,
+      1939
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205497.pdf",
+    "source_sha256": "75e12c5acc14a6489029e222dd7cecab4ab85bf15d05f0e3133283c03e45d8ad",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9032,
+    "bag": 0.8603,
+    "kd_coverage": 0.9756,
+    "kd_body_compared": 0.182,
+    "rg_words": 149,
+    "kd_words": 676,
+    "own_anchor": false,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
