@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5234-1/6747",
+  "source_id": 33425,
+  "date": "1998-02-25",
+  "title": "Mal ve hizmetlere ait KDV alış faturası veya benzeri vesikalar üzerinde ayrıca gösterilmesi ve bu vesikaların kanuni defterlere kaydedilerek",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33425",
+  "source_sha256": "16090ab9a562918aca3a5a1b983fd91d20825d635a182e707b8e1a51f657797e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
