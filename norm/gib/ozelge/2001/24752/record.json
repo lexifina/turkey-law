@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-635/60427",
+  "source_id": 24752,
+  "date": "2001-11-08",
+  "title": "Geçici verginin mahsuben veya nakten iadesinde inceleme raporu ve teminat aranılıp aranılmadığı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24752",
+  "source_sha256": "a93c52200ece1fb83a30e0ef8d6c8f259991abf1570b94269fe503d939af774c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
