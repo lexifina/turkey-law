@@ -1,0 +1,2 @@
+Damgalama
+Madde 19 – Ayıklama ve imha işlemini müteakip, Üniversite arşivine devredilen malzeme, siyah ıstampa mürekkebi ve lastik damga kullanılmak kaydıyla "Yeditepe Üniversitesi Üniversite Arşivi” damgası ile damgalanır. Damga, evrakların, ön yüz sol üst köşesine, defterlerin ise, iç kapağının ön yüz sol üst köşesine ve defterlerdeki belgelerin aynı şekilde sol üst köşesine basılır. Bunlar dışında kalan diğer tür arşiv malzemesine ise, yapıştırıcı etiket üzerine basılmış damga tatbik edilir.

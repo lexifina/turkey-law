@@ -1,0 +1,2 @@
+Arşivlerden Yararlanma
+Madde 7 – Arşiv malzemesinin aslı hiçbir sebep ve suretle, arşivlerden veya bulundukları yerlerden dışarıya verilemez. Ancak, Devlete, gerçek ve tüzel kişilere ait bir hizmetin görülmesi, bir hakkın korunması ve ispatı gerektiğinde birim amirinin izni ile usulüne göre örnekler verilebilir. Yahut malkemelerce tayin edilecek bilir kişiler veya ilgili dairelerince görevlendirilecek yetkililerce yerinde incelenebilir.
