@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4693",
+  "year": 1945,
+  "title": "Jandarma Kanununun 10. maddesini değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-01-15",
+  "gazette_issue": "5905",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5905.pdf",
+  "source_sha256": "839cb325c73faf4d5fc5402ad04b10ece9abcdc6d10fe60dabadab1732877471",
+  "text_sha256": "153fe7d8f4cd745c0698aef44ca7acb1e2c53330c9109ac209c07896e8894810",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      22
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704693.pdf",
+    "source_sha256": "2750cbbf84436740e6ec5f0131d25b4907c547cf3a66562a907883ba4f35454d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9626,
+    "bag": 0.8621,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9667,
+    "rg_words": 58,
+    "kd_words": 60,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
