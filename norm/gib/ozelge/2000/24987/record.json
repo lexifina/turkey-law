@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2803-5-794/8551",
+  "source_id": 24987,
+  "date": "2000-02-23",
+  "title": "Serbest Muhasebeci, Serbest Muhasebeci Mali Müşavir, Yeminli Mali Müşavirlerin, kendilerinin ve işe yeni başlayanların vergi levhalarını tasdik edebileceklerdir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24987",
+  "source_sha256": "6a56ab96cda56b5058fc9780ba3a67b47c36209a78ba055653715349e157cb2c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
