@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4402-153/34476",
+  "source_id": 21035,
+  "date": "2000-07-20",
+  "title": "Dernekler, ikinci el tabir edilen kullanılmış mal ile hizmet alması halinde satıcının vergiden muaf esnaf olup olmamasına göre gelir vergisi tevkifatı yapacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21035",
+  "source_sha256": "c0cf00302acac1cdce4ffda488654ecf401ae2ea6ee4566bedc19e18415c504a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
