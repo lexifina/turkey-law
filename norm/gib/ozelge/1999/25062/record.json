@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1025/036492",
+  "source_id": 25062,
+  "date": "1999-08-31",
+  "title": "İhracatı teşvik belgesi kapsamı dışında olan işlemler için  vergi, resim, harç istisnası uygulanıp uygulanmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/25062",
+  "source_sha256": "c2aec604e670a9cb7529cdc4bfeb84345943ead1c3d13107a96e5346f0467c64",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
