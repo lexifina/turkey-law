@@ -1,0 +1,2 @@
+Danışma Kurulu ve Görevleri
+Madde 10- Danışma Kurulu, Merkez Yönetim Kurulu tarafından önerilen ve Rektörlükçe uygun görülen, İYTE içinden ve dışından konu ile ilgili bilim adamları, sanayiciler, kamu ve özel kuruluşların temsilcilerinden en fazla 12 üyeden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üye yeniden görevlendirilebilir. Danışma Kurulu yılda en az bir kere toplanarak, merkezin çalışmaları konusunda görüşlerini bildirir ve yeni çalışma alanları üzerinde Yönetim Kuruluna önerilerde bulunur.

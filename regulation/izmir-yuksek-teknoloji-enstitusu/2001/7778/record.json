@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 13- Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2001-12-26",
+      "26.12.2001",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 13- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24622",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2001-12-26",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İzmir Yüksek Teknoloji Enstitüsü",
+  "issuer_slug": "izmir-yuksek-teknoloji-enstitusu",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/izmir-yuksek-teknoloji-enstitusu/2001/7778",
+  "published": "2001-12-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7778&MevzuatTertip=5",
+  "source_bytes": 21893,
+  "source_id": "8.5.7778",
+  "source_sha256": "15ef7473afa936b34c8e37546e3c7c7a51a675d9306dc92d01a0e501c6c0998f",
+  "text_status": "as-enacted",
+  "title": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ \r\nMALZEME ARAŞTIRMA MERKEZİ (İYTE-MAM) YÖNETMELİĞİ",
+  "university_id": 204,
+  "word_count": 769
+}
