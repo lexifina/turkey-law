@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1744",
+  "year": 1931,
+  "title": "Memnu mıntakalarda yapılan istimlâk bedelinin tesviyesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-02-05",
+  "gazette_issue": "1718",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1718.pdf",
+  "source_sha256": "74da1bdc9b1a0e5e04dc45a0b589d897a83718ee88839e164b2dd7198c502f1a",
+  "text_sha256": "62ca224a238c1edf6c38b74a4c043a399b5bbe95b29e319f7aa938917598c380",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      481,
+      517
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901744.pdf",
+    "source_sha256": "555ac51e1ad81786d52b9f79d9c985c1a9f7b3157b29f1cfa29850b15f7d79d9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9627,
+    "bag": 0.9537,
+    "kd_coverage": 0.9815,
+    "kd_body_compared": 0.955,
+    "rg_words": 110,
+    "kd_words": 111,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
