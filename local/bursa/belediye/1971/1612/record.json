@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Belediye Meclisi",
+  "number": "1612",
+  "decision_date": "1971-06-23",
+  "title": "SULAR İŞLETMESİNİN 1970 MALİ YILI KESİN HESABI HK.",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1971-1612.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1971",
+  "listing_sha256": "090f2b556cc3ffc795567b080ef00f64344cebbec3760f179a938729673cc563",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
