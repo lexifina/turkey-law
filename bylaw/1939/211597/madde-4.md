@@ -1,0 +1,1 @@
+Madde 4 – Filimlerin tetkiki Ankara'da Dahiliye Vekilliğince ve İstanbul'da Valilikçe gösterilecek muayyen bir mahalde yapılır ve tetkik sırasında komisyon azalariyle zabıta mensuplarından başka kimse bulunmaz.
