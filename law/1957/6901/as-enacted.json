@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6901",
+  "year": 1957,
+  "title": "5502 sayılı Hastalık ve analık sigortası Kanununun bazı maddelerinin değiştirilmesine, bir maddesinin kaldırılmasına ve bu kanuna bir muvakkat madde eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-02-13",
+  "gazette_issue": "9534",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9534.pdf",
+  "source_sha256": "d7e6b594875b1d2fb886465740e9d29dff5229a1f17cade39caf147c3ce83d8f",
+  "text_sha256": "35bb39d10e542112d6747b644b9ea56b3a1825724564b1c5cbd4efbe91c72cfe",
+  "text_status": "ocr",
+  "pages": [
+    6,
+    7,
+    8
+  ],
+  "line_span": [
+    [
+      846,
+      1160
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906901.pdf",
+    "source_sha256": "056d5da8fa2457c3e9a7b19383a33894109f38d4a2e0063106f7a595b891d84f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9649,
+    "bag": 0.9331,
+    "kd_coverage": 0.9995,
+    "kd_body_compared": 0.9986,
+    "rg_words": 2096,
+    "kd_words": 2108,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
