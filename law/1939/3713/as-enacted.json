@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3713",
+  "year": 1939,
+  "title": "Hatay vilâyetinde adli kanunların tatbik şekline ve ilâmların infazı tarzına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-07-11",
+  "gazette_issue": "4255",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4255.pdf",
+  "source_sha256": "96e1d0531224f9b39cf3d9f483a10778c8b3d6654c1e6b45ea3bc3ddb8768c2a",
+  "text_sha256": "9b783e8359fdee10f0eccb4085292660da1c01459e1b0d0721fac4f3945e72e9",
+  "text_status": "ocr",
+  "pages": [
+    17,
+    18
+  ],
+  "line_span": [
+    [
+      4708,
+      4790
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003713.pdf",
+    "source_sha256": "9582c13c82c5ab0d8eed9d49cc08c1450e233bc75007ec355eefeffcb16b3d53",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9788,
+    "bag": 0.9094,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9961,
+    "rg_words": 534,
+    "kd_words": 517,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
