@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5111",
+  "year": 2004,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Suriye Arap Cumhuriyeti Hükümeti Arasında Gümrük Konularında işbirliği ve Karşılıklı Yardım Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-04-14",
+  "gazette_issue": "25433",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/04/20040414.htm",
+  "source_sha256": "f8e802eb6a278bcf5d00325b1143125bac6d61231a87a4be5b9221db354854f9",
+  "text_sha256": "9d6f7d9ad2a97cfd3b5c5f9af345f163ad8310118f33b9530ad60ff796332cc7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/04/14/25433-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/04/20040414.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
