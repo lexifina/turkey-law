@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1468/42614",
+  "source_id": 23022,
+  "date": "2004-09-13",
+  "title": "Fiilen sigortacılık faaliyetinde bulunmadıkları belirtilen mükelleflerin ticari taksi faaliyeti dolayısıyla basit usule tabi olmanın genel ve özel şartlarını topluca  taşımaları halinde basit usulde vergilendirilmeleri gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23022",
+  "source_sha256": "b032d700bd49ede4ee92134997a0bdab771e06faa62a4efa085ba04ca9461924",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
