@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-03-22",
+  "issue": "25410",
+  "edition": "regular",
+  "item": 19,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "T.C. Ziraat Bankası Anonim Şirketi Genel Müdürlüğü Satın Alma ve İnşaat Daire Başkanlığı İstanbul Biriminden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/03/20040322-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (22 = 22)",
+  "ilan_codes": [
+    "3510/2-2"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/03/20040322-3.htm",
+  "category_page_sha256": "badeaab132028e7258f75ddd71cda12f2afb1b1a1551846bd821dbd392e0eb4a",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/03/20040322.htm",
+  "index_sha256": "6989afedb25d09e859f9b8284d536be1e3b068a597070eb4e64bebd140f24edd",
+  "index_header": "22 Mart 2004 ... Sayı : 25410",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
