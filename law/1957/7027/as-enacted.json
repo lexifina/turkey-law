@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7027",
+  "year": 1957,
+  "title": "6165 sayılı İstanbul Opera binası inşaatının Hazinece ikmali ve sureti idaresi hakkındaki Kanunun 2. maddesinin tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-25",
+  "gazette_issue": "9642",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9642.pdf",
+  "source_sha256": "cd35b28c5185c6a30eab727b477bfccb4af701b0679b6a1100a07df895d4ee2d",
+  "text_sha256": "14f94892b25b310a9579ca1a507b306be42233cb5baf88bdff43757d4408c23d",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      2126,
+      2139
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [9] (no text layer)",
+    "tesseract_pages": [
+      9
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907027.pdf",
+    "source_sha256": "9e93455f70186b99da36e21d726c1b3e736d7b212bcb1589d41267b7a4fdc34e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9339,
+    "bag": 0.9045,
+    "kd_coverage": 0.987,
+    "kd_body_compared": 0.95,
+    "rg_words": 81,
+    "kd_words": 80,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
