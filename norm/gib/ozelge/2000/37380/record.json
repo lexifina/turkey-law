@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6610-58/15906",
+  "source_id": 37380,
+  "date": "2000-04-07",
+  "title": "Belediyeler ruhsat vermekle görevli olmadığı işyerleri için, ruhsat harcı veya ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37380",
+  "source_sha256": "79e2932dc6ea8d1c079fb358719bff7bbc9fbefaf0c08f6e786ddb17ebcbfd66",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
