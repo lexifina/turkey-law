@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 322598,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Siyasî Partiler Kanunu ile seçimlerle ilgili kanunların bazı hükümlerinin değiştirilmesi, bazı hükümlerin kaldırılması ve bu kanunlara bazı hükümler eklenmesi hakkında kanun teklifi: (2/60; 3/331)",
+  "title": "Siyasî Partiler Kanunu ile seçimlerle ilgili kanunların bazı hükümlerinin değiştirilmesi, bazı hükümlerin kaldırılması ve bu kanunlara bazı hükümler eklenmesi hakkında kanun teklifi: (2/60; 3/331)",
+  "first_sitting_date": "1973-06-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 12,
+      "sitting": 76,
+      "sitting_date": "1973-06-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c012/cs__12012076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c012/cs__12012fih.pdf",
+      "pages": [
+        "544",
+        "555",
+        "741",
+        "767:819",
+        "831:832"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=501&v_kullanici_id=27484924",
+  "source_sha256": "98417bc92fad03215cc7807f45d971b907d3ec9c3947c59efb5f4b18a66ed5e4",
+  "in_force": "1973-06-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
