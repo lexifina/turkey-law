@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6323-49/15807",
+  "source_id": 38161,
+  "date": "2000-04-07",
+  "title": " Öğrenci Sosyal Hizmetler biriminin üniversiteden ayrı bir tüzel kişiliğinin bulunmaması halinde, bankadan alınacak çeklerden değerli kağıt bedelinin alınmaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38161",
+  "source_sha256": "da589613f1870744d43e4c285e971997641bc10be434be852399aae56c722596",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
