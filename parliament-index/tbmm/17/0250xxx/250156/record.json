@@ -1,0 +1,90 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 250156,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "17.7.1964 Tarih ve 506 Sayılı Sosyal Sigortalar Kanununun 45. Maddesinin Birinci Fıkrasının Değiştirilmesine Dair Kanun Teklifine ilişkin",
+  "title": "17.7.1964 Tarih ve 506 Sayılı Sosyal Sigortalar Kanununun 45. Maddesinin Birinci Fıkrasının Değiştirilmesine Dair Kanun Teklifine ilişkin",
+  "first_sitting_date": "1986-09-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 31,
+      "sitting": 1,
+      "sitting_date": "1986-09-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031001.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031fih.pdf",
+      "pages": [
+        "38:39"
+      ]
+    },
+    {
+      "cilt": 31,
+      "sitting": 8,
+      "sitting_date": "1986-10-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031008.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031fih.pdf",
+      "pages": [
+        "360"
+      ]
+    },
+    {
+      "cilt": 31,
+      "sitting": 9,
+      "sitting_date": "1986-10-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031009.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031fih.pdf",
+      "pages": [
+        "403"
+      ]
+    },
+    {
+      "cilt": 31,
+      "sitting": 10,
+      "sitting_date": "1986-10-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031fih.pdf",
+      "pages": [
+        "453"
+      ]
+    },
+    {
+      "cilt": 31,
+      "sitting": 11,
+      "sitting_date": "1986-10-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031011.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031fih.pdf",
+      "pages": [
+        "519:520"
+      ]
+    },
+    {
+      "cilt": 31,
+      "sitting": 12,
+      "sitting_date": "1986-10-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c031/tbmm17031fih.pdf",
+      "pages": [
+        "554:556"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1074&v_gelecek_sayfa=701&v_kullanici_id=27484336",
+  "source_sha256": "da6e98844c684bdd271c78b79938d6b357d8c23735564250098c2fe337de5b0d",
+  "in_force": "1986-09-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
