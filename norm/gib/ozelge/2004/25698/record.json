@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.032/3204-1024-",
+  "source_id": 25698,
+  "date": "2004-07-13",
+  "title": "Mükelleflerin yatırım indiriminden yararlanabilmeleri için, belirli miktarları aşan yatırım indirimi uygulamalarını yeminli mali müşavirlere tasdik ettirmeleri gerekmektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/25698",
+  "source_sha256": "44aa2690bec7606c579fa58c10db7645fc2caee1e2596b1c26d1559829c9d73b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
