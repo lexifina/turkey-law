@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-03-01",
+  "issue": "25742",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelik",
+  "title": "Bahçeşehir Üniversitesi Avrupa Birliği Araştırma ve Dokümantasyon Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050301-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050301.htm",
+  "index_sha256": "1296fab330c286b40a042db1ac79b6f477f1fddaea37919c16f5ebd167f41a2c",
+  "index_header": "1 Mart 2005 ... Sayı : 25742",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
