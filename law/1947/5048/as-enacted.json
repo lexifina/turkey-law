@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5048",
+  "year": 1947,
+  "title": "İdarei Umumiyei Vilayat Kanununun değişik 116 ve 140. maddelerinin değiştirilmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-05-27",
+  "gazette_issue": "6616",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6616.pdf",
+  "source_sha256": "d02a2f0e5e94f5e666bf7f1138607896509253f6e59d0cee94c2dec7dc1806e6",
+  "text_sha256": "166a5d87a6f024e72d78ad13e7b66e5c6e96efed6cb1292b529b4d60a9193c10",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      15,
+      38
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905048.pdf",
+    "source_sha256": "051eaaebff715a2614ae69f131c437a6e6380012a17efac8e40349c2d4a3d696",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.93,
+    "bag": 0.8168,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9857,
+    "rg_words": 124,
+    "kd_words": 140,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
