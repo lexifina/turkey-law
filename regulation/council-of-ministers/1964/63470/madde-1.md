@@ -1,0 +1,6 @@
+Madde 1 – Sağlık hizmetlerinin ana ilkesi ve temel prensipleri:
+a. Sağlık hizmetlerinin ana ilkesi halkın sağlık seviyesini yükseltmektir. Bu amaçla halk sağlığı (Koruyucu hekimlik) hizmetlerine öncelik verilecek, sağlık teşkilatı toplum kalkınması ve diğer sosyal çalışmalarda da faal rol alacaktır.
+Tedavi hekimliği ise, halk sağlığı çalışmalarını tamamlayan bir unsur olarak, evde ve ayakta tedaviye öncelik verilecektir.
+b. Yukarıda belirtilen temel ilkeye ulaşmada birinci derecede sorumlu kurum sağlık ocaklarıdır. Sağlık ocaklarında sağlık personeli, bölgelerinde hasta tedavi ederek, kazandıkları güvene dayanarak sağlığın korunması ile ilgili hizmetleri halkın işbirliği ile yürütecek, toplum kalkınması ve diğer sosyal ve ekonomik hareketlere önderlik edecek veya katılacaklardır.
+c. Sağlık kuruluşunda üst kademelerdeki personelin ilk görevi, kendilerinin nezaret ve murakabesine verilen diğer personelin çalışmalarını desteklemek olanlara verimli çalışma imkanlarını temin etmek, hizmet içinde eğiterek yeterli hale getirmektir.
+d. Sağlık hizmetlerinin gelişmesi için yeter sayıda ve iyi yetişmiş sağlık personeline ihtiyaç vardır. Bu sebeple sağlık kuruluşunda görev alanlar kendilerine okullarda veya kurslarda verilen eğitim görevine en büyük önemi vereceklerdir.

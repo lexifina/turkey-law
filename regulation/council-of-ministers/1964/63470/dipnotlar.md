@@ -1,0 +1,1 @@
+[1] Hernekadar hukuki normlar hiyarşisine göre Bakanlar Kurulu Kararı ile kabul edilmiş bir yönetmeliğin değiştirilmesi yine aynı düzeyde bir mevzuat hükmü ile mümkün olabilir ise de Sağlık ve Sosyal Yardım Bakanlığı tarafından çıkarılmış olup 27.8.1973 tarih ve 14638 sayılı Resmi Gazete'de yayımlanan yönetmeliğin 2 nci maddesi ile bu bend hükmü yürürlükten kaldırılmıştır.
