@@ -1,0 +1,2 @@
+Kapsam
+Madde 2- İlköğretim Sınıf Öğretmenliği Sertifika Programı, Eğitim Fakültelerinin Sınıf Öğretmenliği lisans programı hariç, tüm lisans programları ile Fen ve Edebiyat Fakülteleri ve diğer fakültelerin Milli Eğitim Bakanlığı’nca İlköğretim Sınıf Öğretmenliği için kabul edilecek lisans programlarının öğrenci ve mezunlarını kapsar. Lisans programlarındaki öğrenciler en erken 5 inci yarıyılda bu programa katılabilirler.

@@ -1,0 +1,3 @@
+İlköğretim Sınıf Öğretmenliği Sertifikası
+Madde 11- Lisans mezunlarından İlköğretim Sınıf Öğretmenliği Sertifika Programına kayıt yaptıran öğrenciler ile lisans öğrenimine devam eden İlköğretim Sınıf Öğretmenliği Sertifika Programı öğrencilerinden kayıtlı bulundukları lisans programından mezun olanlara, İlköğretim Sınıf Öğretmenliği Programındaki dersleri ve uygulamaları başarı ile tamamlamaları halinde “Sakarya Üniversitesi Eğitim Fakültesi İlköğretim Sınıf Öğretmenliği Sertifikası” verilir.
+Bu sertifikanın hazırlanmasına ilişkin ilkeler Fakülte Kurulu’nun önerisi üzerine Üniversite Senatosu’nca belirlenir.

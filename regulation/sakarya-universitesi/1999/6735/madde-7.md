@@ -1,0 +1,1 @@
+Madde 7- İlköğretim Sınıf Öğretmenliği Sertifika Programı, Eğitim Fakültesi Dekanının Başkanlığında oluşturulacak bir kurulca yürütülür. İlköğretim Bölüm Başkanı Kurulun tabii üyesidir. Sınıf Öğretmenliği Ana Bilim Dalı Başkanı Kurulun koordinatörüdür.
