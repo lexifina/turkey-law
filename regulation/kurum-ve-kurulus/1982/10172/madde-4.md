@@ -1,0 +1,1 @@
+Madde 4- Üniversitelerde herhangi bir öğretim programında açıköğretim yapılmasına ilgili üniversitenin önerisi üzerine Yükseköğretim Kurulu tarafından karar verilir. Açıköğretim öğrenci kapasitesi, sürdürülme esasları, kullanılacak sistem ve gereç ilgili üniversitenin yetkili organı tarafından tespit edilir.

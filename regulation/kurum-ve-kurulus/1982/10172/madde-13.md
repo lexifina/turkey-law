@@ -1,0 +1,1 @@
+Madde 13- Açıköğretim öğrencileri ile aynı öğretim programına göre örgün öğretim öğrencileri arasında öğrenci hakları bakımından fark bulunmadığı gibi her iki yoldan mezun olanlar eşit hak ve yetkilere sahip olurlar.

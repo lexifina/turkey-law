@@ -1,0 +1,1 @@
+Madde 10- Merkezi açıköğretim dışındaki açıköğretimi yıliçi, yılsonu veya yarıyıl içi ve yarıyıl sonu sınavları aynı öğretim programına tabi örgün öğretim öğrencileri ile aynı zamanda ve mümkün olduğu takdirde aynı yerde yapılır.

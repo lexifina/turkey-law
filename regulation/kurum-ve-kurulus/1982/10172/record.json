@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.10172",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AÇIK YÜKSEKÖĞRETİM YÖNETMELİĞİ",
+  "number": "10172",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1982/10172",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10172&MevzuatTertip=5",
+  "source_sha256": "48228cb5dabdf4becdb468d8de57feaa2a416e437afd90a4057054afa051bf2f",
+  "source_bytes": 14398,
+  "published": "1982-11-06",
+  "gazette": "17860",
+  "in_force": "1982-11-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.11.1982); own commencement article: \"Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 450,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

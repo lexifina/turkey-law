@@ -1,0 +1,1 @@
+Madde 3- Merkezi açık yükseköğretim 41 sayılı Kanun Hükmünde Kararname ile Anadolu Üniversitesinde kurulan Açıköğretim Fakültesinde ülke çapında sürdürülür. Bu tür açıköğretimin hangi alanlarda sürdürüleceği üniversitenin önerisi üzerine Yükseköğretim Kurulu tarafından kararlaştırılır.

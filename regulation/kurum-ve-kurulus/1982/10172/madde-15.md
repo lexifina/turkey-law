@@ -1,0 +1,2 @@
+Madde 15- Açıköğretim yapılan her birimde açıköğretim öğrenci işleri ile görevli bir büro kurulur. Merkezi açıköğretim hizmetleri ile yükümlü Anadolu Üniversitesi yurt düzeyinde gereken bölgelerde özel büro ve rehberlik merkezleri açabilir.
+Geçici Madde- Merkezi açıköğretim hariç, 1982-1983 öğretim yılında açıköğretim yapan kurumlarda ilk yarıyılın sonuna kadar mevcut ve yeni kayıt olan öğrenciler açık ve örgün öğretim yollarından birini tercih edebilirler.

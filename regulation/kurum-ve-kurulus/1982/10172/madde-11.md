@@ -1,0 +1,1 @@
+Madde 11- Merkezi açıköğretim dışında, bir yükseköğretim kurumunda örgün öğretim ile açıköğretim arasında aynı öğretim programında her iki yönde geçişler, Yükseköğretim Kurumunun yetkili organı tarafından karara bağlanır.
