@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5107",
+  "year": 2004,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Moğolistan Hükümeti Arasında Uluslararası Karayolu Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-04-07",
+  "gazette_issue": "25426",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/04/20040407.htm",
+  "source_sha256": "460436e28b57cda55d7d0a52dfc5bb31bf860ae478cfaa4c4fbeb6a83859f7c4",
+  "text_sha256": "117005e3e0efa6bd77e4232f8987346161e46c1b4fa32caa4fcdcb173cabf168",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/04/07/25426-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/04/20040407.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
