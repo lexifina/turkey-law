@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 106423,
+  "assembly": "TBMM",
+  "term": 5,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "title": "TBMM fihrist kaydı 106423 (Mazbatalar)",
+  "first_sitting_date": "1938-01-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 22,
+      "sitting": 29,
+      "sitting_date": "1938-01-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c022/tbmm05022029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c022/tbmm05022fih.pdf",
+      "pages": [
+        "140"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 31,
+      "sitting_date": "1938-03-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c023/tbmm05023031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c023/tbmm05023fih.pdf",
+      "pages": [
+        "16"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2177&v_gelecek_sayfa=1101&v_kullanici_id=27483922",
+  "source_sha256": "e11642e1bcb4be54ccca6c70cfbdf1be23505a14f9ab3f61b69b7dcf5d26fd16",
+  "in_force": "1938-01-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
