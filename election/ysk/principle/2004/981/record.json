@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/981",
+  "list_number": "981",
+  "decision_date": "2004-04-06",
+  "title": "YSK ilke kararı 2004/981",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3927/2004-981-karar.htm",
+  "source_sha256": "c9dec59fc762c74539d1432e2edecea0ec4a9e193cc39093d7bdc2c821764152",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-04-06",
+  "law_text_complete": false
+}
