@@ -1,0 +1,2 @@
+Haberleşme Kolaylığı
+Madde 9 — KEİ ve KEİPA Sekretaryaları Türkiye'de resmi haberleşmeleri için Öncelik hakları, posta tarife ve resimleri, telgraf, telefon, telsiz telgraf, telefoto, kablogramlar ve diğer haberleşme ile basın ve radyo haberleri, basın tarifesi ile ilgili hususlarda Türkiye'de ak-redite Diplomatik Misyonlara gösterilen kolaylıklardan yararlanırlar. Sekretaryaların resmi yazışmaları ve diğer resmi haberleşmeleri sansür edilemez.

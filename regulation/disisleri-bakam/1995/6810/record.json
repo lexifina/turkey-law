@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.6810",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARADENİZ EKONOMİK İŞBİRLİĞİ ULUSLARARASI SEKRETARYASI İLE KARADENİZ EKONOMİK İŞBİRLİĞİ PARLAMENTER ASAMBLESİ ULUSLARARASI SEKRETARYASININ TÜRKİYEDE YARARLANACAĞI AYRICALIKLAR, BAĞIŞIKLIKLAR VE KOLAYLIKLARA İLİŞKİN YÖNETMELİK",
+  "number": "6810",
+  "issuer": "Dışişleri Bakam",
+  "issuer_slug": "disisleri-bakam",
+  "path": "regulation/disisleri-bakam/1995/6810",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6810&MevzuatTertip=5",
+  "source_sha256": "c76d261a0f27ebd74607c5b8e9cd15afc18890122b9f76a88d3d286c89be5208",
+  "source_bytes": 92552,
+  "published": "1995-05-20",
+  "gazette": "22288",
+  "in_force": "1995-05-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.05.1995); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2403,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

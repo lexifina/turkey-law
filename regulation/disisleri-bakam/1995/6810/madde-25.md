@@ -1,0 +1,2 @@
+Doğal ve Kültürel Miras Eserleri
+Madde 25 — Doğal ve kültürel mirasa ilişkin eserlerin Sekretaryalar ve Sekretarya görevlilerince ithal ve ihracı, 21.7.1983 tarihli ve 2863 sayılı "Kültür ve Tabiat Varlıklarını Koruma Kanunu’nun Üçüncü Bölüm ve 3.5.1988 tarihli ve 19803 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren "Etnoğrafik Nitelikteki Taşınır Kültür Varlıkları Hakkında Yö-netmelik"in 3 üncü ve 4 üncü maddeleri hükümlerine uygun olmalıdır.

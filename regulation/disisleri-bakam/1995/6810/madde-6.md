@@ -1,0 +1,2 @@
+Yargı Bağışıklığı
+Madde 6 — KEİ ve KEİPA Sekretaryalarının malları ve alacakları bulundukları yer neresi ve elinde tutan kim olursa olsun, Sekretaryaların açıkça vazgeçtikleri özel durumlar dışında yargı bağışıklığından yararlanırlar. Yargı bağışıklığından feragat mahkeme kararının icrası bakımından da bağışıklığın kaldırılmış olduğu anlamına gelmez, icra önlemlerinin alınabilmesi için ayrıca bu bağışıklığın kaldırılması gerekir.

@@ -1,0 +1,6 @@
+Sekretarya Görevlilerinin Kişisel Eşyaları
+Madde 16 — KEÎ ve KEÎPA Sekretarya görevlileri kişisel ve ev eşyalarını Türkiye'ye ilk gelişlerinden iki ay önce veya altı ay sonra Sekretaryalar tarafından düzenlenen (Ek 4'deki) örneğe uygun bir garanti mektubuna istinaden T.C. Gümrükleri geçici kabul giriş beyannamesi doldurmak suretiyle ithal edebilirler. Bu belgeler doğrudan yerel gümrük yetkililerine verilir.
+a) Sözkonusu personel Türkiye'ye gelişlerinden itibaren ilk altı ay içinde kişisel ve ev eşyalarını Türkiye'deki gümrük hattı dışı satış mağazalarından satın alabilirler. Bu alımlar da Sekretaryalarca düzenlenmiş ve Dışişleri Bakanlığınca onaylanmış (Ek. l)'deki örneğe uygun A Formu takrirler yoluyla olur. Takrirlerde ilgili kişinin kimlik kartı numarası ve Türkiye'ye geliş tarihi belirtilmeli ve aşağıdaki cümle yer almalıdır.
+"İlk 6 aylık yerleşim süresinde KEÎ/KEÎPA Sekretaryası görevlilerinin dayanıklı tüketim mallan ithaline mahsustur."
+b) Görevliler çamaşır makinası, TV, video gibi elektrikli ve elektronik mallardan sa- dece birer adet ithal edebilirler.
+Sekretarya görevlileri tarafından geçici olarak ithal edilen dayanıklı tüketim mallan satılamaz veya devir edilemezler-Bu-eşyalar görev bitiminde ihraç edilmeli veya gümrüklere terk edilmelidir.

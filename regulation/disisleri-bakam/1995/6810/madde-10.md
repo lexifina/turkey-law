@@ -1,0 +1,3 @@
+Vergi Bağışıklığı
+Madde 10 — KEİ ve KEİPA Sekretaryalarının alacak, gelir ve sair malları bütün vasıtasız vergilerden bağışıktır. Bununla beraber, KEİ ve KEİPA Sekretaryaları sadece kamu yararına özgü hizmetlerin bedellerinden fazla olmayan vergilerden bağışıklık isteyemezler.
+KEİ ve KEİPA Sekretaryaları taşınır ve taşınmaz malların fiyatları içine giren satış resimleri, akaryakıt tüketim vergisi, katma değer vergisi gibi dolaylı vergilerden bağışıklık isteyemez. Ancak, resmi kullanımları için yapacakları ve fiyatında bu tür dolaylı vergilerin yeraldığı önemli alımlarında mümkün oldukça sözkonusu vergilerin indirilmesi veya geri verilmesi için Dışişleri Bakanlığı'nın önerisi ve Maliye Bakanlığı'nın onayı ile uygun idari önlemler alınabilir.
