@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5213-10/48988",
+  "source_id": 31419,
+  "date": "1998-12-21",
+  "title": "Teşvik belgeli makine ve teçhizat teslimlerinde katma değer vergisi uygulanmak suretiyle işlem yapılması halinde, teşvik belgeli yatırım mallarını katma değer vergisi ödeyerek satın alan mükelleflerin yüklendiği bu vergiyi, genel hükümler kapsamında indir",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31419",
+  "source_sha256": "5c29592b11038332f4774d512c1e147e93a07f7e0e8b06cd67fa4a23f9f04c49",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
