@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-554/10662",
+  "source_id": 38265,
+  "date": "2001-02-21",
+  "title": "Mükelleflerin, işyerlerindeki ihtiyaçlarına göre birden fazla ödeme kaydedici cihaz almaları mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38265",
+  "source_sha256": "d8cb840aad64a945cfd2cf04c7c3855a88d53190aff7b11a1ad00cd7896d1adb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
