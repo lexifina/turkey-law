@@ -1,0 +1,54 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2485",
+  "year": 1934,
+  "title": "Havayolları Devlet işletme idaresi 1934 malî senesi bütçesi kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-06-06",
+  "gazette_issue": "2720",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2720.pdf",
+  "source_sha256": "b59fd75dbee7d9ddac5f645144f3c0e8a658881bb7af57753f62345609b65e71",
+  "text_sha256": "096eda387e6babb2351c0dd5a3d07a964abb03b245c7c2d131f66e3345c08fad",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    7
+  ],
+  "line_span": [
+    [
+      983,
+      983
+    ],
+    [
+      13,
+      91
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field); tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1, 2] (no text layer)",
+    "tesseract_pages": [
+      1,
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302485.pdf",
+    "source_sha256": "7cd9508a4100b1435d76f6ca5d2b5b18e0369c0274860317a7af4b68aa07a845",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9106,
+    "bag": 0.8333,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9801,
+    "rg_words": 409,
+    "kd_words": 403,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
