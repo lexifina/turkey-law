@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3486",
+  "year": 1938,
+  "title": "Denizaltı sınıfı mensublarına verilecek zamlar ve tazminler hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-07-09",
+  "gazette_issue": "3955",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3955.pdf",
+  "source_sha256": "17219eefccb5bc196216104ae93cb26852fd117d20c94114bdfe508596e45b1b",
+  "text_sha256": "095123c6befbce96735e411bd4f178532c19108ed141b3a3f981feda8fe17528",
+  "text_status": "ocr",
+  "pages": [
+    37
+  ],
+  "line_span": [
+    [
+      12179,
+      12444
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803486.pdf",
+    "source_sha256": "15f929cecf75cd60fd7775499fe45c635cbb39f6ef99f00155b4b3cc1fca8ecf",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9805,
+    "bag": 0.8773,
+    "kd_coverage": 0.9965,
+    "kd_body_compared": 0.9189,
+    "rg_words": 847,
+    "kd_words": 949,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
