@@ -1,0 +1,1 @@
+Madde 14 – Mükerrer iki kayıttan birisinin terkini hakkında mahakimden sadır olup müruruzaman sebebiyle icra dairesince tenfizi mümkün bulunmıyan bir ilam zilyet lehine tescili natık bulunsa dahi diğer kayıt sahibinin ademi muvafakati halinde bu bapta 1515 numaralı kanunun ikinci maddesi mucibince muamele olunur.

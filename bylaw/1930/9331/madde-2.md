@@ -1,0 +1,2 @@
+Madde 2 – (Değişik: 30.6.1932 - 13041 K.)
+Bu tahkikat ve tetkikat neticesinde 1515 numaralı kanunun birinci maddesi mucibince (Malik sıfatiyle nizasız ve hüsnü niyetle müsakkaf ve emsalinde 15 ve diğer arazide 10 sene tasarruf) şartı tahakkuk etmez veya mübrez vesaikın diğer vesaik ile hilafı veya hükümsüzlüğü sabit olursa başkaca bir muameleye hacet kalmaksızın talebi vakı reddolunur. İşbu ret keyfiyeti alakadarlar tarafından vukubulacak müracaat üzerine 6 ncı maddede yazılı komisyonlar tarafından tetkik olunur.

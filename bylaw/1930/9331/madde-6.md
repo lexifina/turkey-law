@@ -1,0 +1,2 @@
+Madde 6 – (Değişik: 30.6.1932 -13041 K.)
+Tapu komisyonları vilayet defterdarı, tapu müdürü ve başkatibinden ve vilayet idare heyetinin tayin edeceği bir zattan ve merkez tapu memurundan teşekkül eder. Komisyonun içtimaında defterdar bulunmadığı zamanlarda tapu müdürü riyaset eder ve defterdarın göndereceği maliye memurlarından bir zatta komisyonda aza sıfatıyla bulunur. Komisyonda kararlar ekseriyetle verilir. Tesavii ara vukuunda reisin bulunduğu tarafın reyi terciholunur. Kaza tapu komisyonları kaymakamın riyaseti altında malmüdürü ile tapu memurundan teşekkül eder.
