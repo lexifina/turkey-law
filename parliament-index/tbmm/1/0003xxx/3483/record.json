@@ -1,0 +1,70 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 3483,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Hukuku esasiye ve tahsisat hakkında Hukuku Esasiye Encümeninin teklifi kanunisi ve mazbatası",
+  "title": "Hukuku esasiye ve tahsisat hakkında Hukuku Esasiye Encümeninin teklifi kanunisi ve mazbatası",
+  "first_sitting_date": "1920-08-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 51,
+      "sitting_date": "1920-08-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003051.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/ehttbmm01003051.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003fih.pdf",
+      "pages": [
+        "279:290"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 52,
+      "sitting_date": "1920-08-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003052.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/ehttbmm01003052.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003fih.pdf",
+      "pages": [
+        "295",
+        "300:323"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 53,
+      "sitting_date": "1920-08-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003053.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/ehttbmm01003053.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003fih.pdf",
+      "pages": [
+        "333:343",
+        "348"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 54,
+      "sitting_date": "1920-08-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003054.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/ehttbmm01003054.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003fih.pdf",
+      "pages": [
+        "378:387"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8a785f093ca99ad6ff05dbaf8ad1a5c849dadf092a4fa8ce03f0d5729a183893",
+  "in_force": "1920-08-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
