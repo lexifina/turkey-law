@@ -1,0 +1,115 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4229",
+  "year": 1997,
+  "title": "Ceza Muhakemeleri Usulü Kanunu, Devlet Güvenlik Mahkemelerinin Kuruluş ve Yargılama Usulleri Hakkında Kanun ve Bu Kanunlarda Değişiklik Yapan 18.11.1992 Tarih ve 3842 Sayılı Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "1997-03-06",
+  "adopted_as_published": "06/03/1997",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.03.1997 No: 22931",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc080/kanuntbmmc080/kanuntbmmc08004229.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 80",
+  "committee_reports": [
+    {
+      "label": "TBMM 175 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c019/tbmm20019049ss0175.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 20,
+      "kayit_no": 401050,
+      "title": "Ceza Muhakemeleri Usulü Kanunu, Devlet Güvenlik Mahkemelerinin Kuruluş ve Yargılama Usulleri Hakkında Kanun ve Bu Kanunlarda Değişiklik Yapan 18.11.1992 Tarih ve 3842 Sayılı Kanunda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "06/03/1997",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc080/kanuntbmmc080/kanuntbmmc08004229.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 175 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c019/tbmm20019049ss0175.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 25,
+          "sitting_date": "1996-12-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c014/tbmm20014025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c014/tbmm20014fih.pdf",
+          "pages": [
+            "482"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 38,
+          "sitting_date": "1996-12-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c018/tbmm20018038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c018/tbmm20018fih.pdf",
+          "pages": [
+            "4"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 49,
+          "sitting_date": "1997-01-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c019/tbmm20019049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c019/tbmm20019fih.pdf",
+          "pages": [
+            "409:411"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 50,
+          "sitting_date": "1997-01-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c019/tbmm20019050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c019/tbmm20019fih.pdf",
+          "pages": [
+            "462:486"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 64,
+          "sitting_date": "1997-03-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c022/tbmm20022064.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c022/tbmm20022fih.pdf",
+          "pages": [
+            "180:199"
+          ]
+        },
+        {
+          "cilt": 22,
+          "sitting": 65,
+          "sitting_date": "1997-03-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c022/tbmm20022065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c022/tbmm20022fih.pdf",
+          "pages": [
+            "228:250"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "97144160f3b38fb5ac548b2b46c93c414740c1e5c3b959fb89b36e2435d67aac"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "97144160f3b38fb5ac548b2b46c93c414740c1e5c3b959fb89b36e2435d67aac",
+  "issuer": "TBMM",
+  "in_force": "1997-03-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 06/03/1997; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
