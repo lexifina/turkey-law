@@ -1,0 +1,195 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6507",
+  "year": 1955,
+  "title": "1955 malî yılı Muvazenei Umumiye Kanunu",
+  "adopted": "1955-02-28",
+  "adopted_as_published": "28/02/1955",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.03.1955 No: 8943",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706507.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 37",
+  "committee_reports": [
+    {
+      "label": "TBMM 183 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005042ss0183.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 10,
+      "kayit_no": 51636,
+      "title": "1955 malî yılı Muvazenei Umumiye Kanunu",
+      "adopted_as_published": "28/02/1955",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706507.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 183 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005042ss0183.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 39,
+          "sitting_date": "1955-02-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005fih.pdf",
+          "pages": [
+            "80"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 42,
+          "sitting_date": "1955-02-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005fih.pdf",
+          "pages": [
+            "196:245"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 43,
+          "sitting_date": "1955-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005fih.pdf",
+          "pages": [
+            "251:317"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 44,
+          "sitting_date": "1955-02-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005fih.pdf",
+          "pages": [
+            "320:381"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 45,
+          "sitting_date": "1955-02-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005fih.pdf",
+          "pages": [
+            "390:463"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 46,
+          "sitting_date": "1955-02-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005fih.pdf",
+          "pages": [
+            "466:539"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 47,
+          "sitting_date": "1955-02-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005fih.pdf",
+          "pages": [
+            "543:617"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 48,
+          "sitting_date": "1955-02-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005fih.pdf",
+          "pages": [
+            "625:642",
+            "657:681",
+            "691:702"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 49,
+          "sitting_date": "1955-02-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005fih.pdf",
+          "pages": [
+            "717:731",
+            "743:750",
+            "751:761",
+            "763:780"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 50,
+          "sitting_date": "1955-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005fih.pdf",
+          "pages": [
+            "796:807",
+            "823:832",
+            "836:847",
+            "851:864"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 51,
+          "sitting_date": "1955-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005fih.pdf",
+          "pages": [
+            "906:921",
+            "932:954",
+            "958:964"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 52,
+          "sitting_date": "1955-02-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c005/tbmm10005fih.pdf",
+          "pages": [
+            "973:994",
+            "1002:1009",
+            "1009",
+            "1009:1011",
+            "1045:1048"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "81ba0373f5de58db5985dfe303a55b7fb28358fca50619cf672b9c6bea3a9d0e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "81ba0373f5de58db5985dfe303a55b7fb28358fca50619cf672b9c6bea3a9d0e",
+  "issuer": "TBMM",
+  "in_force": "1955-02-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 28/02/1955; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
