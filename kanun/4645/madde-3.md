@@ -1,0 +1,5 @@
+Komisyonlar
+MADDE 3 — a) Bu Kanun kapsamında yer alan silah, mühimmat, makine ve teçhizat ile taşıtların standart dışı durumları ile miadı ve ihtiyaç fazlalığının belirlenmesi için konusunda uzman beşer kişiden müteşekkil teknik komisyonlar oluşturulur. Bu komisyonlara gerektiğinde diğer kurum ve kuruluşlardan da temsilci alınır.
+b) Bu Kanuna göre verilecek hizmet ile elden çıkarılacak mal ve malzemenin değer tespitini yapmak üzere, Emniyet Genel Müdürlüğü personelinden en az üç kişi ile Maliye Bakanlığı temsilcisinden oluşan değer tespit komisyonları oluşturulur. Bu komisyonlara, meslekî bilgilerinden istifade etmek üzere diğer kurum ve kuruluşlardan temsilci dahil edilebilir.
+c) Satılmasına karar verilen hizmetler ile silah, mühimmat, makine, teçhizat ve taşıtların satış işlemi, Emniyet Genel Müdürlüğü personelinden en az üç kişi ile Maliye Bakanlığı temsilcisinden oluşan ihale komisyonlarınca açık teklif usulü ile yapılır. Tarifeye dayalı olarak verilecek hizmetler bu kapsamın dışında olup yönetmelikle düzenlenir.
+Bu komisyonların teşkili ve kararları İçişleri Bakanının onayı ile yürürlüğe girer.
