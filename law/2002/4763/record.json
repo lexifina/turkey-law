@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4763",
+  "year": 2002,
+  "title": "Türkiye Cumhuriyeti İle Avrupa Topluluğu Arasında Türkiye Cumhuriyetinin Topluluk Programlarına Katılmasının Genel İlkeleri Hakkında Çerçeve Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2002-06-20",
+  "adopted_as_published": "20/06/2002",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.06.2002 No: 24799",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc086/kanuntbmmc086/kanuntbmmc08604763.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 86",
+  "committee_reports": [
+    {
+      "label": "TBMM 856 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c099/tbmm21099116ss0856.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 298751,
+      "title": "Türkiye Cumhuriyeti İle Avrupa Topluluğu Arasında Türkiye Cumhuriyetinin Topluluk Programlarına Katılmasının Genel İlkeleri Hakkında Çerçeve Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "20/06/2002",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc086/kanuntbmmc086/kanuntbmmc08604763.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 856 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c099/tbmm21099116ss0856.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 92,
+          "sitting": 87,
+          "sitting_date": "2002-04-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c092/tbmm21092087.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c092/tbmm21092fih.pdf",
+          "pages": [
+            "12"
+          ]
+        },
+        {
+          "cilt": 94,
+          "sitting": 96,
+          "sitting_date": "2002-05-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c094/tbmm21094096.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c094/tbmm21094fih.pdf",
+          "pages": [
+            "273"
+          ]
+        },
+        {
+          "cilt": 99,
+          "sitting": 116,
+          "sitting_date": "2002-06-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c099/tbmm21099116.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c099/tbmm21099fih.pdf",
+          "pages": [
+            "41:49",
+            "77:100"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=301&v_kullanici_id=27483196",
+      "page_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8",
+  "issuer": "TBMM",
+  "in_force": "2002-06-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 20/06/2002; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
