@@ -1,0 +1,124 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "358",
+  "year": 1963,
+  "title": "Türkiye Halk Bankası ve halk sandıkları hakkındaki 2284 sayılı kanunun bazı maddelerinin değiştirilmesine ve bu kanuna bazı maddelerin eklenmesine dair olan 5652, 6854 sayılı kanunlara ek kanun",
+  "adopted": "1963-12-24",
+  "adopted_as_published": "24/12/1963",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "02.01.1964 No: 11596",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700358.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 47",
+  "committee_reports": [
+    {
+      "label": "CS 359 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c016/cs__03016019ss0359.pdf"
+    },
+    {
+      "label": "MM 331no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021140ss0331.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 347424,
+      "title": "Türkiye Halk Bankası ve halk sandıkları hakkındaki 2284 sayılı kanunun bazı maddelerinin değiştirilmesine ve bu kanuna bazı maddelerin eklenmesine dair olan 5652, 6854 sayılı kanunlara ek kanun",
+      "adopted_as_published": "24/12/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700358.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 359 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c016/cs__03016019ss0359.pdf"
+        },
+        {
+          "label": "MM 331no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021140ss0331.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 88,
+          "sitting_date": "1962-05-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005088.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+          "pages": [
+            "286"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 111,
+          "sitting_date": "1963-07-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019111.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+          "pages": [
+            "323"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 140,
+          "sitting_date": "1963-09-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021140.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021fih.pdf",
+          "pages": [
+            "465:467"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1901&v_kullanici_id=27483225",
+      "page_sha256": "1ff88ba6c18c5fce579792a711d144220daa306b6608e6584791338bfe529590"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 162457,
+      "title": "Türkiye Halk Bankası ve Halk Sandıkları hakkındaki 2284 sayılı Kanunun bâzı maddelerinin değiştirilmesine ve bu kanuna bâzı maddelerin eklenmesine dair olan 5652, 6354 sayılı kanunlara ek Kanun",
+      "adopted_as_published": "24/12/1963",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700358.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 359 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c016/cs__03016019ss0359.pdf"
+        },
+        {
+          "label": "MM 331no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c021/mm__01021140ss0331.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 16,
+          "sitting": 19,
+          "sitting_date": "1963-12-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c016/cs__03016019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c016/cs__03016fih.pdf",
+          "pages": [
+            "486:487"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=301&v_kullanici_id=27483235",
+      "page_sha256": "b6d86621a6791bf4c812f0781c371318581fd46c9513d2ca63de607571ea6267"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1ff88ba6c18c5fce579792a711d144220daa306b6608e6584791338bfe529590",
+  "issuer": "Millet Meclisi",
+  "in_force": "1963-12-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 24/12/1963; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
