@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4035-291/5132",
+  "source_id": 24813,
+  "date": "2002-01-31",
+  "title": "Yıllık beyannameye dahil edilmeyen ve tevkif yoluyla vergilendirilen zirai kazancın tamamı hayat standardı esasının uygulanmasında izah nedeni gelir olarak kabul edilir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24813",
+  "source_sha256": "bee61460e68ea28afd119d9a4bfe2bda1301a78fc8c106e74a8e3b241e4a7b42",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
