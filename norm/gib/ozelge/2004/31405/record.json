@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5413- 525",
+  "source_id": 31405,
+  "date": "2004-09-16",
+  "title": "Gemi inşası ile ilgili olarak ithali yapılan malzemelere ordino, Gümrükçü komisyonu, yükleme, dahili nakliye ve boşaltma gibi tedarikçi firmalardan aldığı hizmetlerin söz konusu taşıma araç ve gereçlerinin imalatı ile ilgili olup maliyeti içinde yer alaca",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31405",
+  "source_sha256": "dfc4bd1ac4496ec385ef57932a6703327919a980a3f2d02242961d983a331962",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
