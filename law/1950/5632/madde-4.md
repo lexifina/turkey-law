@@ -1,0 +1,1 @@
+Madde 4 – Kültür ve Turizm Bakanlığı Milli Kütüphaneye şahıslar ve kurumlar tarafından, bağış suretiyle yapılacak kitap ve eşya yardımlarını kabul eder. Bunların ne şekilde kullanılacağı tüzükle tesbit olunur. Para bağışları hakkında 1050 sayılı Muhasebei Umumiye Kanununun hükümleri uygulanır.(1)

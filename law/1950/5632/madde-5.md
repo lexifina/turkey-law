@@ -1,0 +1,1 @@
+Madde 5 – 10/6/1946 tarihli ve 4926 sayılı kanuna bağlı (1) sayılı cetvelden ilişik (1) sayılı cetvelde derece, görev ve aylıkları yazılı kadrolar çıkarılmış ve yerine, ilişik (2) sayılı cetvelde derece, görev ve aylıkları yazılı kadrolar konulmuştur. (2)

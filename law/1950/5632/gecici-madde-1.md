@@ -1,0 +1,1 @@
+Geçici Madde 1 – 1950 yılı Bütçe Kanununa bağlı (D) işaretli cetvelin Milli Eğitim Bakanlığı kısmından bağlı (3) sayılı cetvelde yazılı kadrolar çıkarılmış ve yerine, ilişik (4) sayılı cetvelde yazılı kadrolar konulmuştur.
