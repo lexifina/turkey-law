@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/28l0-l3-7l0/09254",
+  "source_id": 25028,
+  "date": "1997-03-07",
+  "title": "Mücbir sebep uygulamasının, ilanihaye (sonsuza kadar) devamlılık gösteren hallerde değil, geçici bir süre için ortaya çıkan hallerde uygulanması söz konusu olmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25028",
+  "source_sha256": "3cd62a5bdec9b3cee5cf79ffaa60b3d60e82fad93356fca4a7545937a9db789d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
