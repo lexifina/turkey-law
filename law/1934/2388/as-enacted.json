@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2388",
+  "year": 1934,
+  "title": "Polis mensublarına yaş hadlerine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-03-13",
+  "gazette_issue": "2652",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2652.pdf",
+  "source_sha256": "63b4e8710f25b53380e028ac26d809dd1e354254d121821563ea1e357541886e",
+  "text_sha256": "615d49e51d989e296918e9f3bfbb23c853b30803051f4c2898aeaa3e8c11d755",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      1024,
+      1064
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302388.pdf",
+    "source_sha256": "3fa12e08b1481392fc0e37d0a329dc2d1b374509696fa97c4d1d315b60557b87",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9865,
+    "bag": 0.9412,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9889,
+    "rg_words": 179,
+    "kd_words": 180,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
