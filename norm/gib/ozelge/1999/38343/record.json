@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1041/24187",
+  "source_id": 38343,
+  "date": "1999-06-15",
+  "title": "Banka tarafından KDV iadesi ile ilgili olarak düzenlenen teminat mektuplarının B.S.M.V. Karşısındaki durumu hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38343",
+  "source_sha256": "918cf8844861017247bdf6336f9a4083a983807d8a3d170d77e1500c1c0b2c95",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
