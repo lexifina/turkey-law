@@ -1,0 +1,2 @@
+PLASTİK SANATLAR RESTORASYON VE KONSERVASYON BİRİMİ
+MADDE 15 : Araştırma, Konservasyon ve “Uygulama–Restorasyon” çalışmaları ile; bütün bu konular ile bağlantılı alanlardaki “Yaygın ve Örgün Eğitim, Öğretim” konularında faaliyetlerde bulunan Plastik Sanatlar Restorasyon ve Konservasyon Birimi, Müze Müdürünün önerisi üzerine Mimar Sinan Üniversitesi Rektörü tarafından atanan restrorasyon ve konservasyon konusunda uzman bir Başkan tarafından yönetilir.

@@ -1,0 +1,13 @@
+GÖREVLERİ
+MADDE 16 : Plastik Sanatlar Restorasyon ve Konservasyon Biriminin görevleri:
+a) Müze ve bağlı kurumların koleksiyonlarında yeralan eserlerin bakımını sağlamak; restorasyonu gerekli görülenlerin restorasyonunu yaparak, çağdaş müzecilik koşulları altında sergilenmeye hazır hale getirmek,
+b) Müze Müdürünün Başkanlığında, Şef, Müze Daimi Kurulunun kendi üyeleri arasından seçeceği iki üye ve Müze kadrosunda görevli restoratörler arasından seçeceği bir restoratörden oluşan beş kişilik bir komisyon oluşturarak; alınacak kararlar doğrultusunda restore edilecek yapıtları belirlemek, bir program dahilinde restorasyon işlemlerini gerçekleştirmek ve işbu yönetmeliğin restorasyon, konservasyon konularında Müzeye yüklediği tüm görevleri yerine getirmek,
+c) Restorasyon ve Konservasyon konularındaki tüm yenilikleri izlemek ve uygulamak; gerektiğinde, bünyesinde görev yapan elemanların yurtiçinde ve yurtdışındaki aynı amaçlı kurumlara “görgü” ve “ihtisaslarını” geliştirmek üzere gönderilmeleri için Müze Müdürlüğüne öneride bulunmak,
+d) Plastik sanatlar restorasyonu alanında bilirkişilik, danışmanlık ve ekspertiz görevleri için gerekli donanım ve eğitimi sağlamak; ilgili konulara göre uzman ekipleri oluşturmak ve bu görevleri yerine getirmek,
+e) Genel olarak plastik sanat eserleri restorasyonu ve özel olarak Müze ve Müzeye bağlı kurumların koleksiyonlarının restorasyonu üzerine bilimsel araştırmalar yapmak ve bu araştırmaları Mimar Sinan Üniversitesi Resim ve Heykel Müzesi adına yayınlamak,
+f) Restorasyon ve Konservasyon konularında bilimsel araştırmalar, çeviriler yaptırmak ve bunları Müze adına yayınlamak,
+g) Müze adına yapacağı araştırmalara ve plastik sanatlar restorasyonu alanında bilimsel araştırma yapmak isteyen araştırmacılara kaynak teşkil edecek belge, kitap, katalog, broşür, film, fotoğraf, ses bandı gibi dokümanları toplamak ve bunlardan oluşacak bir kitaplık ve arşiv kurmak,
+h) Müze ve bağlı kurumların koleksiyonlarında yer alan eserlerin bakım ve restorasyonlarını yapmak üzere uzman yetiştirmek,
+i) Müze Danışma Kurulunun alacağı ilke kararları doğrultusunda ve belirleyeceği rayiç bedellere uygun olarak; Müze ve Müzeye bağlı kurumlar dışındaki diğer koleksiyonlardan gelecek eserlerin bakım ve restorasyonlarını yapmak,
+j) Yurtiçi ve yurtdışındaki restorasyon-konservasyon merkezleri ile ortak araştırma ve çalışmalar yapmak,
+k) Öğretim destek faaliyetlerine tüm olanakları ile katkıda bulunmak; Mimar Sinan Üniversitesi ve benzeri Yüksek Öğretim Kurumlarının, diğer Resim ve Heykel Müzelerinin eğitim ve öğretim plan ve programlarına destek vermek, bu amaçla kurslar açmak.

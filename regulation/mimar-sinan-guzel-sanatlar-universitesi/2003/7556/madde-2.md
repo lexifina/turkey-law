@@ -1,0 +1,2 @@
+AMAÇ VE KAPSAM
+MADDE 2 : Bu yönetmelik, Mimar Sinan Üniversitesi Resim ve Heykel Müzesi yönetimi ve gelişimi ile ilgili esasları kapsamaktadır. Bu yönetmeliğin amacı, yönetmelik kapsamındaki tarihi sanat kurumunun yeniden yapılandırılması, yönetilmesi, işletilmesi ve tarihi misyonuna uygun olarak geliştirilmesini sağlamak; işbu amaç doğrultusunda faaliyette bulunacak gerçek ve tüzel kişilerin görev, yetki ve sorumluluklarını, Müzenin faaliyetlerine ilişkin tüm esasları belirlemektir.
