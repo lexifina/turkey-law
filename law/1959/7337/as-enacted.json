@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7337",
+  "year": 1959,
+  "title": "Millî Müdafaa Vekâleti iskân ihtiyaçları için sarfiyat icrası ve bu vekâletçe kullanılan gayrimenkullerden lüzumu kalmıyanların satılmasına salâhiyet verilmesi hakkında 6771 sayılı Kanunun 3. maddesine iki fıkra ilâvesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-06-15",
+  "gazette_issue": "10231",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10231.pdf",
+  "source_sha256": "030e6bf182b5cafb8a308d9fbf8f3676403b12cdd34ccd1335f805e246a63308",
+  "text_sha256": "12e346cf69a8f0a3a01ac93181bf31db7c864851e34d2566ca890bb0b416b04e",
+  "text_status": "ocr",
+  "pages": [
+    7
+  ],
+  "line_span": [
+    [
+      1868,
+      1887
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [7] (no text layer)",
+    "tesseract_pages": [
+      7
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107337.pdf",
+    "source_sha256": "28c152797f8bb44b01e0f54ff8bfd2ee36392b311b7785819aeae53eb9ffabaa",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9611,
+    "bag": 0.8403,
+    "kd_coverage": 0.9835,
+    "kd_body_compared": 0.9677,
+    "rg_words": 118,
+    "kd_words": 124,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
