@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5711-511",
+  "source_id": 31080,
+  "date": "2005-01-18",
+  "title": "Sanayi sicil belgesine sahip olmamakla beraber bu belgeyi almak için Sanayi ve Ticaret Bakanlığına başvuran ve kendilerine sanayi sicil belgesi verileceğine ilişkin olumlu görüş verilen mükelleflerin bu olumlu görüş yazısının verildiği tarihten önceki dön",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31080",
+  "source_sha256": "d0408270a1d8d3fcaa3c3431bf3d03866fdcb1b5b37e81f679eeb84188aa2c97",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
