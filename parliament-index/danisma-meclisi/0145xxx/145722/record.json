@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 145722,
+  "assembly": "Danışma Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "ERTUĞRUL ZEKAİ ÖKTE (DANIŞMA MECLİSİ MİLLİ GÜVENLİK KONSEYİNCE SEÇİLEN ÜYESİ)",
+  "summary": "Ve Arkadaşlarının, 6245 Sayılı Harcırah Kanununun 33. Maddesinin (b) Bendinde Değişiklik Yapılması Hakkında Kanun Teklifi ve Bayındırlık, Ulaştırma ve İmar ve İskân, Turizm ve Tanıtma ve Bütçe-Plan Komisyonları Raporları (2/23) (Raporun Başkanlığa geliş tarihi:12.5.1982) (S. Sayısı:125) (Dağıtma tarihi:14.5.1982)",
+  "title": "Ve Arkadaşlarının, 6245 Sayılı Harcırah Kanununun 33. Maddesinin (b) Bendinde Değişiklik Yapılması Hakkında Kanun Teklifi ve Bayındırlık, Ulaştırma ve İmar ve İskân, Turizm ve Tanıtma ve Bütçe-Plan Komisyonları Raporları (2/23) (Raporun Başkanlığa geliş tarihi:12.5.1982) (S. Sayısı:125) (Dağıtma tarihi:14.5.1982)",
+  "first_sitting_date": "1982-05-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 95,
+      "sitting_date": "1982-05-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c005/dm__02005095.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c005/dm__02005fih.pdf",
+      "pages": [
+        "448"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d5690152aebc50658fb2eeade43cc8741d930fe44ee3f6a733eacfffa6a44ec9",
+  "in_force": "1982-05-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
