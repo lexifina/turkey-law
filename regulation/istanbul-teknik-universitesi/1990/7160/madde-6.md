@@ -1,0 +1,2 @@
+Genel Kurul
+MADDE 6 - Genel Kurul asli ve şeref üyelerinden oluşur. Genel Kurul, zorunlu sebep olmadıkça her yıl Haziran ayında ve Başkan'ın çağırışı üzerine, uygun bir yerde çoğunluk koşulu aranmaksızın, toplanır. Ancak; Yönetim Kurulunun gerekli gördüğü hallerde, başka zamanlarda da ve aynı usûlle toplantılar düzenlenebilir. Toplantı çağrıları, mümkün olan bütün hallerde en az iki ay evvel yapılır. Genel Kurul her toplantıda kendine bir oturum başkanı seçer.

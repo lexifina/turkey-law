@@ -1,0 +1,7 @@
+Süre ve Fesih
+MADDE 11 –
+a) Milli Komite süresiz olarak kurulmuştur.
+b) Milli Komite, üye tam sayısının dörtte üçünün Genel Kurul'da alacağı bir kararla kendini feshedebilir. Ancak bu kararın geçerli olabilmesi için, fesih teklifinin gündemde geçerli olarak bulunması ve bu gündemle gerekçenin toplantı tarihinden en az iki ay evvel üyelerine gönderilmiş olması gereklidir.
+c) Yükseköğretim Kurulu, amaçlarından saptığı veya görevlerini yerine getiremez hale geldiği
+takdirde Milli Komiteyi feshedebilir.
+d) Fesih halinde Milli Komite'nin taşınır ve taşınmaz malları ile parasının nereye devredileceğini Yükseköğretim Kurulu kararlaştırır.
