@@ -1,0 +1,60 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 144399,
+  "assembly": "Danışma Meclisi",
+  "heading": "TASARI VE RAPORLAR",
+  "heading_as_published": "Tasarı Ve Raporlar",
+  "summary": "Anadolu Üniversitesi 1983 Malî Yılı Bütçe Kanunu Tasarısı ve Bütçe-Plan Komisyonu Raporu. (1/515) (S. Sayısı:201)",
+  "title": "Anadolu Üniversitesi 1983 Malî Yılı Bütçe Kanunu Tasarısı ve Bütçe-Plan Komisyonu Raporu. (1/515) (S. Sayısı:201)",
+  "first_sitting_date": "1982-10-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 1,
+      "sitting_date": "1982-10-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c011/dm__02011001.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c011/dm__02011fih.pdf",
+      "pages": [
+        "2"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 11,
+      "sitting": 13,
+      "sitting_date": "1982-11-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c011/dm__02011013.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c011/dm__02011fih.pdf",
+      "pages": [
+        "379"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 12,
+      "sitting": 20,
+      "sitting_date": "1982-11-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c012/dm__02012020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c012/dm__02012fih.pdf",
+      "pages": [
+        "128:130",
+        "181:182"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=DM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARI%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARI%20VE%20RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e33b30d3f5f74705d75d1fc0abea0fcaa73f5539d2af330c54832342633b182a",
+  "in_force": "1982-10-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
