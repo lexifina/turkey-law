@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.49/4903-26-032362",
+  "source_id": 37647,
+  "date": "1998-09-16",
+  "title": "Bilimsel çalışma ve araştırma faaliyetleri sonucunda hasat edilen tarım ürünlerinin satışından elde edilecek gelirin, geliri elde edilen işletme açısından kurum kazancı olarak vergilendirilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37647",
+  "source_sha256": "433d05574f4edb83e1d80677d121c2a4b5124b139a93127e9fac37db1f738545",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
