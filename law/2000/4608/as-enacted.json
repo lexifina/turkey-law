@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4608",
+  "year": 2000,
+  "title": "3414 Sayılı Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2000-12-02",
+  "gazette_issue": "24248",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2000/12/20001202.htm",
+  "source_sha256": "2d012713e7406c01dd450dc7c439b3cc43526b6f9371ac1c1d859f7b7b66dcd5",
+  "text_sha256": "499772c5f7d3262ca377cc3e5c0041269d2c57ae677ba7dfd0de91fee6825abb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2000/12/02/24248-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2000/12/20001202.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
