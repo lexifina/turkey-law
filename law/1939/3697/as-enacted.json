@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3697",
+  "year": 1939,
+  "title": "Ankara orman çiftliğindeki bira fabrikasiyle tesisat ve müştemilâtının ve arpa silosunun İnhisarlar Umum Müdürlüğüne devri hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-07-13",
+  "gazette_issue": "4257",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4257.pdf",
+  "source_sha256": "4b85fd6d7abb4b3494fdaec9fef2c45b3303a7bf091b279529a37709b041c63e",
+  "text_sha256": "c51accd2613afe53c90bc913ca5258a6ee60539811b8c7d053adf7c4915979d8",
+  "text_status": "ocr",
+  "pages": [
+    20
+  ],
+  "line_span": [
+    [
+      3935,
+      4043
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003697.pdf",
+    "source_sha256": "4d9a6b4a710eec1c40064d580e47019c9ec57a8bc28c332020d5ff51de636cd6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9803,
+    "bag": 0.9254,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9975,
+    "rg_words": 775,
+    "kd_words": 796,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
