@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1009/23530",
+  "source_id": 36805,
+  "date": "1999-06-10",
+  "title": "..... Bankası kuruluş anlaşmasının 14. maddesinde yer alan düzenlemenin vergi kanunları karşısındaki durumu hakkında..",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36805",
+  "source_sha256": "2d827eba15419b79d34c1bd10c396790a5c7d9f89e61f4b4a6381680be2456f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
