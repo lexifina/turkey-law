@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4237",
+  "year": 1997,
+  "title": "İşkencenin ve Gayriinsani ya da Küçültücü Ceza veya Muamelenin Önlenmesine Dair Avrupa Sözleşmesine Ek 1 ve 2 Nolu Protokollerin Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "adopted": "1997-04-04",
+  "adopted_as_published": "04/04/1997",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "10.04.1997 No: 22960",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc080/kanuntbmmc080/kanuntbmmc08004237.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 80",
+  "committee_reports": [
+    {
+      "label": "TBMM 109 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024078ss0109.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 20,
+      "kayit_no": 401059,
+      "title": "İşkencenin ve Gayriinsani ya da Küçültücü Ceza veya Muamelenin Önlenmesine Dair Avrupa Sözleşmesine Ek 1 ve 2 Nolu Protokollerin Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+      "adopted_as_published": "04/04/1997",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc080/kanuntbmmc080/kanuntbmmc08004237.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 109 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024078ss0109.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 47,
+          "sitting_date": "1996-05-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c004/tbmm20004fih.pdf",
+          "pages": [
+            "735"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 13,
+          "sitting_date": "1996-11-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c013/tbmm20013013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c013/tbmm20013fih.pdf",
+          "pages": [
+            "93"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 78,
+          "sitting_date": "1997-04-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024078.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024fih.pdf",
+          "pages": [
+            "370:376",
+            "394",
+            "411:416"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "97144160f3b38fb5ac548b2b46c93c414740c1e5c3b959fb89b36e2435d67aac"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "97144160f3b38fb5ac548b2b46c93c414740c1e5c3b959fb89b36e2435d67aac",
+  "issuer": "TBMM",
+  "in_force": "1997-04-04",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 04/04/1997; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
