@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2820",
+  "source_id": 38490,
+  "date": "2004-07-27",
+  "title": "Yeminli mali müşavirlerin tasdik işlemlerinden doğan  sorumluluğu kusursuz ve sınırsız bir sorumluluk olmayıp, tasdik edilen fınansal tablo ve beyannamelerin ilgili mevzuat hükümlerine, muhasebe prensiplerine ve muhasebe standartlarına uygun olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38490",
+  "source_sha256": "ceabcf7389fc1a934ee9013d46b4831aebbd38704ce8b881a172ec80a1962ac2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
