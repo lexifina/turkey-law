@@ -1,0 +1,113 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 67999,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "TALAT VASFİ ÖZ (ANKARA)",
+  "summary": "Difteri aşısının mecburi olarak tatbik edilmesine dair (2/46)",
+  "title": "Difteri aşısının mecburi olarak tatbik edilmesine dair (2/46)",
+  "first_sitting_date": "1950-11-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 9,
+      "sitting_date": "1950-11-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c002/tbmm09002009.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c002/tbmm09002fih.pdf",
+      "pages": [
+        "183"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 63,
+      "sitting_date": "1951-04-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c006/tbmm09006063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c006/tbmm09006fih.pdf",
+      "pages": [
+        "159"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 64,
+      "sitting_date": "1951-04-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c006/tbmm09006064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c006/tbmm09006fih.pdf",
+      "pages": [
+        "178:192"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 111,
+      "sitting_date": "1951-08-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009111.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009fih.pdf",
+      "pages": [
+        "693"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 8,
+      "sitting_date": "1951-11-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c010/tbmm09010008.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c010/tbmm09010fih.pdf",
+      "pages": [
+        "169:170"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 24,
+      "sitting_date": "1952-01-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012fih.pdf",
+      "pages": [
+        "35"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 28,
+      "sitting_date": "1952-01-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012fih.pdf",
+      "pages": [
+        "196:211"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 29,
+      "sitting_date": "1952-01-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012fih.pdf",
+      "pages": [
+        "220:234"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=676&v_gelecek_sayfa=201&v_kullanici_id=27484220",
+  "source_sha256": "49df7f9e199b69481dd6f5e0f297dddf7250316a5c7489e34b5ec44963eb6212",
+  "in_force": "1950-11-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
