@@ -1,0 +1,63 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "533",
+  "year": 1924,
+  "title": "İspirto resminin tenzili hakkında kanun",
+  "adopted": "1924-12-13",
+  "adopted_as_published": "13/12/1340",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.01.1341 No: 81",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc003/kanuntbmmc003/kanuntbmmc00300533.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 3",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 126381,
+      "title": "İspirto resminin tenzili hakkında kanun",
+      "adopted_as_published": "13/12/1340",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc003/kanuntbmmc003/kanuntbmmc00300533.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 20,
+          "sitting_date": "1924-12-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c011/tbmm02011020.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c011/ehttbmm02011020.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c011/tbmm02011fih.pdf",
+          "pages": [
+            "90:95",
+            "103:104"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 21,
+          "sitting_date": "1924-12-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c011/tbmm02011021.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c011/ehttbmm02011021.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c011/tbmm02011fih.pdf",
+          "pages": [
+            "108",
+            "131:132"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=201&v_kullanici_id=27483145",
+      "page_sha256": "6c88dcabcf397f8cc9de7612ee39c43a76d60d984daf526a5fa16f54f62fd34e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "6c88dcabcf397f8cc9de7612ee39c43a76d60d984daf526a5fa16f54f62fd34e",
+  "issuer": "TBMM",
+  "in_force": "1924-12-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 13/12/1340 (Rumi year, +584); record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
