@@ -1,0 +1,252 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1497",
+  "year": 1971,
+  "title": "Çay Kurumu Kanunu",
+  "adopted": "1971-12-06",
+  "adopted_as_published": "06/12/1971",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18.12.1971 No: 14046",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501497.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 55",
+  "committee_reports": [
+    {
+      "label": "MM 203 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014117ss0203.pdf"
+    },
+    {
+      "label": "MM 203ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014117ss0203ek01.pdf"
+    },
+    {
+      "label": "MM 203ek02no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019011ss0203ek02.pdf"
+    },
+    {
+      "label": "CS 1652no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066103ss1652.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 387423,
+      "title": "Çay Kurumu Kanunu",
+      "adopted_as_published": "06/12/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501497.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 203 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014117ss0203.pdf"
+        },
+        {
+          "label": "MM 203ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014117ss0203ek01.pdf"
+        },
+        {
+          "label": "MM 203ek02no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019011ss0203ek02.pdf"
+        },
+        {
+          "label": "CS 1652no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066103ss1652.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 7,
+          "sitting_date": "1969-11-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001007.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001fih.pdf",
+          "pages": [
+            "180"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 113,
+          "sitting_date": "1970-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c007/mm__03007113.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c007/mm__03007fih.pdf",
+          "pages": [
+            "164"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 117,
+          "sitting_date": "1971-06-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014117.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014fih.pdf",
+          "pages": [
+            "517:528"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 121,
+          "sitting_date": "1971-06-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015121.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015fih.pdf",
+          "pages": [
+            "5:43",
+            "56:59 65:69"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 122,
+          "sitting_date": "1971-06-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015122.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015fih.pdf",
+          "pages": [
+            "76",
+            "107:109"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 123,
+          "sitting_date": "1971-07-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015123.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015fih.pdf",
+          "pages": [
+            "114",
+            "146",
+            "148:151"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 153,
+          "sitting_date": "1971-08-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017153.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c017/mm__03017fih.pdf",
+          "pages": [
+            "113"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 181,
+          "sitting_date": "1971-10-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c018/mm__03018181.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c018/mm__03018fih.pdf",
+          "pages": [
+            "509"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 11,
+          "sitting_date": "1971-12-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019fih.pdf",
+          "pages": [
+            "263:279"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=801&v_kullanici_id=27483225",
+      "page_sha256": "a5c6fd2bb5c9b73d64ad49838a3a54a257c189cf96cdf2bd05acb20e57852516"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 319747,
+      "title": "Çay Kurumu Kanunu",
+      "adopted_as_published": "06/12/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501497.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 203 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014117ss0203.pdf"
+        },
+        {
+          "label": "MM 203ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014117ss0203ek01.pdf"
+        },
+        {
+          "label": "MM 203ek02no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019011ss0203ek02.pdf"
+        },
+        {
+          "label": "CS 1652no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c066/cs__10066103ss1652.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 65,
+          "sitting": 84,
+          "sitting_date": "1971-07-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c065/cs__11065084.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c065/cs__11065fih.pdf",
+          "pages": [
+            "739"
+          ]
+        },
+        {
+          "cilt": 66,
+          "sitting": 102,
+          "sitting_date": "1971-08-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c066/cs__11066102.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c066/cs__11066fih.pdf",
+          "pages": [
+            "625"
+          ]
+        },
+        {
+          "cilt": 66,
+          "sitting": 103,
+          "sitting_date": "1971-08-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c066/cs__11066103.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c066/cs__11066fih.pdf",
+          "pages": [
+            "688:712"
+          ]
+        },
+        {
+          "cilt": 66,
+          "sitting": 104,
+          "sitting_date": "1971-08-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c066/cs__11066104.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c066/cs__11066fih.pdf",
+          "pages": [
+            "716:730",
+            "758:760"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1501&v_kullanici_id=27483235",
+      "page_sha256": "90862d0a2d3ca4f6b8e6290e83307dc4f5ad5af6e60426a878c750f3d8f66877"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a5c6fd2bb5c9b73d64ad49838a3a54a257c189cf96cdf2bd05acb20e57852516",
+  "issuer": "Millet Meclisi",
+  "in_force": "1971-12-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 06/12/1971; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
