@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "1991/1",
+  "source_id": 509,
+  "date": "1991-06-20",
+  "title": "VERASET VE İNTİKAL VERGİSİ KANUNU İÇ GENELGESİ SERİ NO: 1991/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/icgenelge/509",
+  "source_sha256": "b5cac49116860741b5d1f35d5ffd17a98748f0c6a4033c2b1b07d262626d2189",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/440/icgenelge/498",
+        "quote": "20/06/1991 tarihli ve 44671 sayılı 1991/1 Seri No.lu Veraset ve İntikal Vergisi Kanunu İç Genelgesinde de açıklandığı üzere ikinci derece usulsüzlük cezası kesilecektir. 3- Beyannamenin, idare tarafından tebligat yapılarak ikinci 15 günlük "
+      }
+    ]
+  }
+}
