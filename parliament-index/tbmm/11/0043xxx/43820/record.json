@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 43820,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Maarif Vekâleti merkez teşkilâtı ve vazifeleri hakkındaki 2287 sayılı Kanunun 4113 sayılı Kanunla değiştirilen 1. maddesinde tadadedilen merkez dairelerine (Öğretmen Okulları Umum Müdürlüğü) İlâve edilmesi ve 4926, 6234, 6331 ve 6728 sayılı kanunlara bağlı cetvellerde değişiklik yapdması hakkındaki kanun lâyihasına dair (1/416)",
+  "title": "Maarif Vekâleti merkez teşkilâtı ve vazifeleri hakkındaki 2287 sayılı Kanunun 4113 sayılı Kanunla değiştirilen 1. maddesinde tadadedilen merkez dairelerine (Öğretmen Okulları Umum Müdürlüğü) İlâve edilmesi ve 4926, 6234, 6331 ve 6728 sayılı kanunlara bağlı cetvellerde değişiklik yapdması hakkındaki kanun lâyihasına dair (1/416)",
+  "first_sitting_date": "1960-02-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 12,
+      "sitting": 48,
+      "sitting_date": "1960-02-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c012/tbmm11012048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c012/tbmm11012fih.pdf",
+      "pages": [
+        "610",
+        "673:675"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1113&v_gelecek_sayfa=1001&v_kullanici_id=27484293",
+  "source_sha256": "28e707838f69b88b8b112c61cbe4c67a57ae8d258df82ce5403e3ccaa6475611",
+  "in_force": "1960-02-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
