@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5096",
+  "year": 1947,
+  "title": "Türkiye Cumhuriyeti Ziraat Bankası Kanununun 50. maddesinde değişiklik yapılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-06-24",
+  "gazette_issue": "6640",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6640.pdf",
+  "source_sha256": "6837dc2c0e788c17d2c587916ad5f736066d8b8ada661aeb376d07b55257e750",
+  "text_sha256": "ce3b3a9ad58d7652e2c1b0a13e0d1a383fb4517554102fc441cba35bd2acb9dc",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      81,
+      98
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1, 2] (no text layer)",
+    "tesseract_pages": [
+      1,
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905096.pdf",
+    "source_sha256": "0824601b11e309a0e8718ca6e3b069a22f83d4793898b5ac1792b03d8a8005a0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9592,
+    "bag": 0.8854,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9758,
+    "rg_words": 132,
+    "kd_words": 124,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
