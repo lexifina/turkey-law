@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5528-1642/57014",
+  "source_id": 38065,
+  "date": "1999-12-24",
+  "title": "Belirli miktarda tuz ihtiva eden ve başkaca herhangi bir katkı maddesi eklenmeyen hazır köftelik kıymanın, tavuk etinden farklı mütalaa edilmesi mümkün olmayacağından, tesliminde % 8 oranında katma değer vergisi uygulanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38065",
+  "source_sha256": "77b8b88092615b1457cb9f8d44dad92639e0f406f86d4a60dc9e461f36ab7efd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
