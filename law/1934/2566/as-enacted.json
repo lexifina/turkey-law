@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2566",
+  "year": 1934,
+  "title": "Vergi bakayasının tasfiyesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-07-12",
+  "gazette_issue": "2750",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2750.pdf",
+  "source_sha256": "f06f01a605b074d7a6b95c36a284be214d67b6c019ed1dbae63c3eaf27ec77d8",
+  "text_sha256": "4ec81463f596af9c90c8ef40d743a1ea5321fa677aac644dac3ce4e108593d1a",
+  "text_status": "ocr",
+  "pages": [
+    4,
+    5,
+    6
+  ],
+  "line_span": [
+    [
+      676,
+      1014
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302566.pdf",
+    "source_sha256": "ae8c91e815e6ef19cc26203cded4b4b2a3a3427443aa6aa51f1c852489684918",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9719,
+    "bag": 0.9212,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9632,
+    "rg_words": 1591,
+    "kd_words": 1657,
+    "own_anchor": true,
+    "foreign_anchors": 5
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
