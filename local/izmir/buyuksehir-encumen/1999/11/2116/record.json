@@ -1,0 +1,22 @@
+{
+  "number": "2116",
+  "number_as_published": "2116",
+  "year": 1999,
+  "title": "Encümen kararı 1999/2116",
+  "decision_date": "1999-11-16",
+  "source": "https://www.izmir.bel.tr/tr/Encumen/TariheGoreKararGetir?draw=1&start=0&length=500&yil=1999&ay=&gun=&txtSozcuk=",
+  "official_document": null,
+  "source_sha256": "c79807b9e728c8c99c05d51709579641ed767d6679e2e54aeda256c41cdc8a89",
+  "issuer": "İzmir Büyükşehir Belediye Encümeni",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "1999-11-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16/11/1999; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.izmir.bel.tr/tr/EncumenKararlari/50"
+}
