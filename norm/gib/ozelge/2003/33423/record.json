@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2763",
+  "source_id": 33423,
+  "date": "2003-11-26",
+  "title": "Düzenlenen karşıt inceleme tutanaklarında aynı mükelleften de olsa en yüksek 10 alıma ilişkin bilgilere yer verilmesi yeterli bulunmakta olup, her bir faturanın ayrı ayrı  tutanağa yazılması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/33423",
+  "source_sha256": "f83b3be91de57bc6de16b13df4dc9eb5b0d228cb7bf6c10331c7832ed49c1a42",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
