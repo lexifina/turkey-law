@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5411-2385-27114",
+  "source_id": 38053,
+  "date": "2004-06-14",
+  "title": "İhraç kaydıyla yapılan satışlarda Gümrük çıkış Beyannamelerinde imalatçı firma sayısının fazla olmasından dolayı Gümrük çıkış beyannamesine firma isimlerinin hepsinin isminin sığmadığından dolayı beyannameye eklenen imalatçı listesinin Gümrük Müdürlüğünce",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38053",
+  "source_sha256": "5be937500694e5179582a0d658115e7f6558886efca3f9d9b61c44f1ef58987a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
