@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 379050,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Milli Eğitimi Bakânlığı kuruluş kadroları ile merkez kuruluşu ve görevleri hakkındaki 3287 sayılı Kanunda değişiklik yapılmasına dair olan 4926 sayılı Kanuna bağlı kadro cetvellerinde değişiklik yapılmasına dair 2.7.1962 tarihli ve 58 sayılı Kanuna ek kanun tasarısı (1/203)",
+  "title": "Milli Eğitimi Bakânlığı kuruluş kadroları ile merkez kuruluşu ve görevleri hakkındaki 3287 sayılı Kanunda değişiklik yapılmasına dair olan 4926 sayılı Kanuna bağlı kadro cetvellerinde değişiklik yapılmasına dair 2.7.1962 tarihli ve 58 sayılı Kanuna ek kanun tasarısı (1/203)",
+  "first_sitting_date": "1970-02-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 46,
+      "sitting_date": "1970-02-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003046.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c003/mm__03003fih.pdf",
+      "pages": [
+        "154"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 66,
+      "sitting_date": "1970-04-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+      "pages": [
+        "153",
+        "212:214"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=1901&v_kullanici_id=27484850",
+  "source_sha256": "2eb6867415a177d36464d29ad3b8bfe201f5727f560e8fec03dfc9f712073c3d",
+  "in_force": "1970-02-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
