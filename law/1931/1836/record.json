@@ -1,0 +1,105 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1836",
+  "year": 1931,
+  "title": "Veraset ve İntikal Vergisi hakkındaki Kanunun bazı maddelerinin tadiline ve bazılarının ilgasına dair kanun",
+  "adopted": "1931-07-04",
+  "adopted_as_published": "04/07/1931",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.7-12.08.1931 No: 1831-1871",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001836.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 10",
+  "committee_reports": [
+    {
+      "label": "TBMM 38 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002017ss0038.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 111954,
+      "title": "Veraset ve İntikal Vergisi hakkındaki Kanunun bazı maddelerinin tadiline ve bazılarının ilgasına dair kanun",
+      "adopted_as_published": "04/07/1931",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001836.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 38 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002017ss0038.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 4,
+          "sitting_date": "1931-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001004.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c001/tbmm04001fih.pdf",
+          "pages": [
+            "46"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 15,
+          "sitting_date": "1931-06-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002015.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002fih.pdf",
+          "pages": [
+            "78"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 17,
+          "sitting_date": "1931-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002fih.pdf",
+          "pages": [
+            "143:153"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 19,
+          "sitting_date": "1931-06-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002fih.pdf",
+          "pages": [
+            "184:185"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 21,
+          "sitting_date": "1931-07-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c002/tbmm04002fih.pdf",
+          "pages": [
+            "214:219",
+            "227:230"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=801&v_kullanici_id=27483155",
+      "page_sha256": "ae50e0221a42c74aeb7ef13b5d192243e1ff8b95265b2b6c2cd663dd59d15a6f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ae50e0221a42c74aeb7ef13b5d192243e1ff8b95265b2b6c2cd663dd59d15a6f",
+  "issuer": "TBMM",
+  "in_force": "1931-07-04",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 04/07/1931; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
