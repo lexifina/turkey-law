@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-6 /2003-6 /Basit Usulde Vergilendirme-1",
+  "source_id": 651,
+  "date": "2003-12-08",
+  "title": "Gelir Vergisi Kanununun 47 ve 48 inci maddelerinde yer alan maktu had ve tutarlar ile basit usule tabi mükelleflerin belge düzenine ilişkin yapılan açıklamalar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/651",
+  "source_sha256": "6390b36f5a6b691acf436b6da16fbab995e40bd979991d8aebe92b65d29dc87c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
