@@ -1,0 +1,74 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 259443,
+  "assembly": "TBMM",
+  "term": 19,
+  "heading": "CUMHURBAŞKANINCA GERİ GÖNDERİLEN KANUNLAR",
+  "heading_as_published": "Cumhurbaşkanınca Geri Gönderilen Kanunlar",
+  "name": "KANUN NO:3867",
+  "summary": "Bakanlıklar ve Bağlı Kuruluşlarda Atama Usulüne İlişkin Kanunda Değişiklik Yapılması ve 2477 sayılı Kanunun Yürürlükten Kaldırılmasına Dair Kanun",
+  "title": "Bakanlıklar ve Bağlı Kuruluşlarda Atama Usulüne İlişkin Kanunda Değişiklik Yapılması ve 2477 sayılı Kanunun Yürürlükten Kaldırılmasına Dair Kanun",
+  "first_sitting_date": "1992-11-19",
+  "documents": [
+    {
+      "label": "TBMM 222 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c030/tbmm19030073ss0222.pdf"
+    }
+  ],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 29,
+      "sitting_date": "1992-11-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c021/tbmm19021029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c021/tbmm19021fih.pdf",
+      "pages": [
+        "117"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 36,
+      "sitting_date": "1992-12-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c022/tbmm19022036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c022/tbmm19022fih.pdf",
+      "pages": [
+        "208"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 73,
+      "sitting_date": "1993-02-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c030/tbmm19030073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c030/tbmm19030fih.pdf",
+      "pages": [
+        "297:322"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 74,
+      "sitting_date": "1993-02-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c030/tbmm19030074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c030/tbmm19030fih.pdf",
+      "pages": [
+        "352:445"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "51fe61902166d00f6e5135be1406d16664dfbcc732bf834a1ebac19f27f67c19",
+  "in_force": "1992-11-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
