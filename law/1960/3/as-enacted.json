@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3",
+  "year": 1960,
+  "title": "Yüksek Adalet Divanının Muhakeme Usulüne ait geçici Kanun. (BASILI GENEL KURUL TUTANAGI BULUNMAMAKTADIR)",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-06-18",
+  "gazette_issue": "10529",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10529.pdf",
+  "source_sha256": "c5d1d25fa60fe52ee050e665bb55d723817fb032b4e43e15dba6f79d6f8d84de",
+  "text_sha256": "09f28e583258ad120d7eb86a4d03a8e87ee789e1d0e79bab4cf8df37236c42d5",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      13,
+      218
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300003.pdf",
+    "source_sha256": "446da154209b9fd0fda76918a01b0ef7f920fb7b6b09c8f5d4718940e1c0e442",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9877,
+    "bag": 0.9429,
+    "kd_coverage": 0.999,
+    "kd_body_compared": 0.993,
+    "rg_words": 1001,
+    "kd_words": 1002,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
