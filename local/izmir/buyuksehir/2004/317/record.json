@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "317",
+  "decision_date": "2004-12-17",
+  "official_id": "1413",
+  "version_label": "official-summary",
+  "text_status": "official decision summary and outcome as published in the register's KararOzet field; full text not supplied",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2004&ay=&gun=&txtSozcuk=&draw=1&start=0&length=100&txtKararNo=",
+  "source_listing_sha256": "8e902fcaf865da1a0ec1a29fed41c6b06ff42526066b6630b115fe45863a61b1",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": false
+}
