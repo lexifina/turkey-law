@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4035-222/14857",
+  "source_id": 37886,
+  "date": "2001-03-20",
+  "title": "Götürü/basit usulde gelir vergisi mükellefi iken 01.07.1999 tarihinden itibaren gerçek usulde mükellefiyet tesis ettirilmesinin ilk defa işe başlama olarak değerlendirilmesi mümkün olmadığından, 2000 yılı kazancınıza hayat standardı esasının uygulanacağı ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37886",
+  "source_sha256": "06acece31e15248a5c88ce3baf6d7a6cce1c4d9c5a4e7cfb5738e732beb21376",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
