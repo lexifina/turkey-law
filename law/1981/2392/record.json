@@ -1,0 +1,38 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2392",
+  "year": 1981,
+  "title": "İstanbul Teknik Üniversitesi 1981 Malî Yılı Bütçe Kanunu.",
+  "adopted": "1981-02-23",
+  "adopted_as_published": "23/02/1981",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "05.03.1981 No: 17270",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc064/kanunmgkc064/kanunmgkc06402392.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 64",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 150927,
+      "title": "İstanbul Teknik Üniversitesi 1981 Malî Yılı Bütçe Kanunu.",
+      "adopted_as_published": "23/02/1981",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc064/kanunmgkc064/kanunmgkc06402392.pdf",
+      "committee_reports": [],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "2f3890ed3c96aad1fce2f114dda385453506188d7e47cb9a4f3f663ebcbcc392"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2f3890ed3c96aad1fce2f114dda385453506188d7e47cb9a4f3f663ebcbcc392",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1981-02-23",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 23/02/1981; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
