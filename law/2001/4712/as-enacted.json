@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4712",
+  "year": 2001,
+  "title": "Azerbeycan Cumhuriyeti, Gürcistan, Türkiye Cumhuriyeti ve Türkmenistan Arasında Hazar Geçişli Boru Hattı Projesinin Uygulanmasına İlişkin Hazar Geçişli Boru Hattının Uygulanma İlkeleri Hakkındaki Hükümetlerarası Deklerasyonunun Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-10-18",
+  "gazette_issue": "24557",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/10/20011018.htm",
+  "source_sha256": "2e4fb7ae6cc8475d3932b5db9c1734b807577f2a9dac7cb1795746d5622937ac",
+  "text_sha256": "d17d7a829e858b86d6c752351e94b2c2af619f4ca3d879651aa9b3fef4afdbe4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/10/18/24557-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/10/20011018.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
