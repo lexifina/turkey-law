@@ -1,0 +1,32 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-09",
+  "issue": "25722",
+  "edition": "regular",
+  "item": 3,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Türk Standardları Enstitüsünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050209-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (21 = 21)",
+  "ilan_codes": [
+    "1146/1-1",
+    "1145/1-1",
+    "1144/1-1",
+    "1143/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050209-4.htm",
+  "category_page_sha256": "db430648792c736acbf358d6606a3e056fc8488c1c6206669db11ed7af5b2514",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050209.htm",
+  "index_sha256": "d9f8abcd8d2d86d222f0c63d041b76515fed79ea73d2cfdbb0798a2307c24528",
+  "index_header": "9 Şubat 2005 ... Sayı : 25722",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
