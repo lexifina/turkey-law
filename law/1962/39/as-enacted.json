@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "39",
+  "year": 1962,
+  "title": "1962 Yılında Gelir Vergisinin 3, Kurumlar Vergisinin 2 Taksitte Ödenmesi ve 193 Sayılı Gelir Vergisi Kanununa Geçici Bir Madde Eklenmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-03-12",
+  "gazette_issue": "11054",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11054.pdf",
+  "source_sha256": "cfac819d5fb2d58ca5645795b7876fb84047dadacc18020b41eafb106ba1519b",
+  "text_sha256": "62c747be05c7959e1552b9cda48d54ee9814fe9952721f985957088200e4d641",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      18,
+      77
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500039.pdf",
+    "source_sha256": "f1de9015dd2f77842da6f2d6668c22b80654d04d188449c91a225ec78a596a3b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9625,
+    "bag": 0.9191,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9809,
+    "rg_words": 310,
+    "kd_words": 314,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
