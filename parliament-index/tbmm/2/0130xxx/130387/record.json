@@ -1,0 +1,40 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 130387,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "İzmit Mebusu Mustafa Beyin, teşkilâtı hazariye dolayısiyle açığa çıkarılacak erkân, ümera ve zâbitan ve mensübîni askeriyeye 1339 senesi nihayetine kadar mezun addolunarak tam tahsisat verilmesine dair kanun teklifi (2/173) ve İstanbul Mebusu Ali Rıza Beyin lağvı ve teşkilâtı hazariye dolayısiyle açıkta kalan erkân, ümera, zabitan ve mensubini askeriyeye tam maaş ve tahsisat itası hakkında kanun teklifi (2/180) ile Eskişehir Mebusu Arif Beyin, hazarı teşkilât dolayısiyle açıkta kalan ümera ve zâbitana, bir mahalle tayinlerine ve tekaütlüklerine kadar tam maaş ve tahsisat itasına dair kanun teklifi hakkında.",
+  "title": "İzmit Mebusu Mustafa Beyin, teşkilâtı hazariye dolayısiyle açığa çıkarılacak erkân, ümera ve zâbitan ve mensübîni askeriyeye 1339 senesi nihayetine kadar mezun addolunarak tam tahsisat verilmesine dair kanun teklifi (2/173) ve İstanbul Mebusu Ali Rıza Beyin lağvı ve teşkilâtı hazariye dolayısiyle açıkta kalan erkân, ümera, zabitan ve mensubini askeriyeye tam maaş ve tahsisat itası hakkında kanun teklifi (2/180) ile Eskişehir Mebusu Arif Beyin, hazarı teşkilât dolayısiyle açıkta kalan ümera ve zâbitana, bir mahalle tayinlerine ve tekaütlüklerine kadar tam maaş ve tahsisat itasına dair kanun teklifi hakkında.",
+  "first_sitting_date": "1923-09-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 27,
+      "sitting_date": "1923-09-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/tbmm02002027.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/ehttbmm02002027.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/tbmm02002fih.pdf",
+      "pages": [
+        "340:343",
+        "345:346",
+        "428",
+        "456:459",
+        "500:511",
+        "518:529"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2766&v_gelecek_sayfa=101&v_kullanici_id=27483743",
+  "source_sha256": "bc8b6443cf00b286f95f01bc966d68f747c9f02f7da202a11153a5d17b18ea72",
+  "in_force": "1923-09-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
