@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5418-2-3330",
+  "source_id": 31946,
+  "date": "2004-01-23",
+  "title": "Katma Değer Vergisi için istisnadan vazgeçme talebi fıkra ve bentler belirtilmek suretiyle yapılacak, birden fazla fıkra ve bende giren işlemler yapılıyorsa ve sadece bir bentte yazılı işlemler nedeniyle istisnadan vazgeçilmek isteniyorsa dilekçede bu ben",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31946",
+  "source_sha256": "f1ef5383459c27bcc46eb9c73d3e968c46a2ad5b28a7048096de698fa2ddde72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
