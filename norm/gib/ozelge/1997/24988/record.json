@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2803-5-749/24212",
+  "source_id": 24988,
+  "date": "1997-06-11",
+  "title": "Mükelleflerin imalathanelerinde mallarını teşhir ederek, tanıtarak veya müşteriler tarafından ücret karşılığı alış veriş yapılarak faaliyette bulunulması halinde imalathanelerde vergi levhası asılması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24988",
+  "source_sha256": "c8b9a2a6ace48169711ca95fd1744422ee3865b2ce387ede04750ac85717564f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
