@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4535-5",
+  "source_id": 21229,
+  "date": "2004-07-26",
+  "title": "Yatırım indirimi istisnasının sadece mal ve hizmet üretim yeri olarak kullanılmak üzere inşa edilen binalara uygulanacağı fakat binanın güçlendirilmesi amacıyla yapılan harcamalara uygulanamayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21229",
+  "source_sha256": "05df4b6b0f3cccc6c1d0235974b3a7b293a3b2728caa6d9fefb7d9c16a0473f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
