@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-3/2004-1/ Enflasyon Düzeltmesi Uygulaması-2",
+  "source_id": 838,
+  "date": "2004-03-12",
+  "title": "2003 yılına ilişkin olarak verilecek yıllık gelir veya kurumlar vergisi beyannamelerinin ekinde yer alması gereken bilançonun tarihi maliyete göre düzenlenen bilanço mu enflasyon düzeltmesine tabi tutulmuş bilanço mu olacağı ile 31.12.2003 tarihi itibarıy",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/838",
+  "source_sha256": "93a516a8e54b894a8b3feb947f7520edf5addb67355e586b0b4f66ef8155a0b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
