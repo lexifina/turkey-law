@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4305-379/12080",
+  "source_id": 37844,
+  "date": "2005-03-12",
+  "title": "Şirket ana sözleşmesinde yapılan değişiklik sonucu eldeki ilmühaberlerin yenisi ile değiştirilmesi halinde söz konusu ilmühaberlerin satışı halinde elde edilen kazancın tespitinde, iktisap tarihi olarak eski ilmühaberlerin iktisap tarihinin dikkate alınma",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37844",
+  "source_sha256": "ed3609f5411c65ce8ed7670aaf0ddddcccf93119958cb3693d425421a3dca39b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
