@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 365161,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MAZHAR ARIKAN (İÇEL)",
+  "summary": "Ve 2 Arkadaşı Bâzı suç ve cezaların affı hakkında 3.8.1966 tarihli ve 780 sayılı Kanunun 9. maddesinin ilk fıkrası ve (A) bendinde değişiklik yapılması hakkında (2/497)",
+  "title": "Ve 2 Arkadaşı Bâzı suç ve cezaların affı hakkında 3.8.1966 tarihli ve 780 sayılı Kanunun 9. maddesinin ilk fıkrası ve (A) bendinde değişiklik yapılması hakkında (2/497)",
+  "first_sitting_date": "1967-04-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 16,
+      "sitting": 94,
+      "sitting_date": "1967-04-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016094.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016fih.pdf",
+      "pages": [
+        "468:469"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 102,
+      "sitting_date": "1967-05-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017102.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c017/mm__02017fih.pdf",
+      "pages": [
+        "146"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 135,
+      "sitting_date": "1967-07-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c020/mm__02020135.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c020/mm__02020fih.pdf",
+      "pages": [
+        "512:513"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=4001&v_kullanici_id=27484893",
+  "source_sha256": "55f85cfda1739f463fe3afdecc269930a56a532258f5d19d985cff9467c20bbf",
+  "in_force": "1967-04-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
