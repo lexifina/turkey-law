@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5386",
+  "year": 1949,
+  "title": "1949 yılı Bütçe Kanununa bağlı (A) işaretli cetvelin Büyük Millet Meclisi kısmında değişiklik yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-05-24",
+  "gazette_issue": "7214",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7214.pdf",
+  "source_sha256": "7463100ba0f1c72e7abc5ad55fa8326df23ec9104a2f17da276d6abb814ff29a",
+  "text_sha256": "7e876eb71adcc7850786f8cff63ab6aaf286784a1f3ff54e29f533ff48a4b3cc",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      24
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105386.pdf",
+    "source_sha256": "e6afba404e258f1564284652f12dd74c1a03a663821ea0844b7da30289d32c97",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9414,
+    "bag": 0.9204,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9649,
+    "rg_words": 58,
+    "kd_words": 57,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
