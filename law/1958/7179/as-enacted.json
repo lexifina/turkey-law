@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7179",
+  "year": 1958,
+  "title": "Bir kısım ithal eşyalarından alınmakta olan Hazine hissesinin kaldırılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-12-27",
+  "gazette_issue": "10094",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10094.pdf",
+  "source_sha256": "bee1087da03162be6a2296a1142a08fe8c601112b4f70a881aa205ff6a1214b5",
+  "text_sha256": "52f75e7e44b2961907e98d8ce5cfb8e06ba69b810920f6657dd1c2d75aa74ef9",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      24,
+      67
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107179.pdf",
+    "source_sha256": "9b9038352553aa51a4555526b08194c968e2fb1c9bdb1bd4cac5833a8a8359e1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9677,
+    "bag": 0.8279,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9829,
+    "rg_words": 129,
+    "kd_words": 117,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
