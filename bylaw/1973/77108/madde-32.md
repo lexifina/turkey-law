@@ -1,0 +1,1 @@
+Madde 32 – Örgüt, Üye Devletlerin toprakları üzerinde, görevlerinin ifası için gerekli ayrıcalık ve dokunulmazlıklardan yararlanır. Bu ayrıcalık ve dokunulmazlıklar, Örgüt tarafından yapılan anlaşmalarla tayin edilebilir.
