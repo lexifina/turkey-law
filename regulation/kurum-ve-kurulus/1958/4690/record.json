@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.4690",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BELEDİYE TAHSİLAT YÖNETMELİĞİ",
+  "number": "4690",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1958/4690",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4690&MevzuatTertip=5",
+  "source_sha256": "7ee09f984f2b8384030d4c8d0538bff981c1b2cd01d82bb22bab31013c3a79bf",
+  "source_bytes": 56645,
+  "published": "1958-03-21",
+  "gazette": "9864",
+  "in_force": "1993-01-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G.13.1.1993\") for the current consolidated text",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3000,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete",
+  "date_evidence": [
+    [
+      "1993-01-13",
+      "R.G.13.1.1993",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ]
+}
