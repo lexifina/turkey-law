@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3945",
+  "year": 1993,
+  "title": "Siyasi Partiler Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "1993-12-25",
+  "adopted_as_published": "25/12/1993",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.12.1993 No: 21802",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703945.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 77",
+  "committee_reports": [
+    {
+      "label": "TBMM 410 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c050/tbmm19050055ss0410.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 268569,
+      "title": "Siyasi Partiler Kanununda Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "25/12/1993",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc077/kanuntbmmc077/kanuntbmmc07703945.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 410 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c050/tbmm19050055ss0410.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 48,
+          "sitting": 50,
+          "sitting_date": "1993-12-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c048/tbmm19048050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c048/tbmm19048fih.pdf",
+          "pages": [
+            "659"
+          ]
+        },
+        {
+          "cilt": 49,
+          "sitting": 54,
+          "sitting_date": "1993-12-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c049/tbmm19049054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c049/tbmm19049fih.pdf",
+          "pages": [
+            "535"
+          ]
+        },
+        {
+          "cilt": 50,
+          "sitting": 55,
+          "sitting_date": "1993-12-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c050/tbmm19050055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c050/tbmm19050fih.pdf",
+          "pages": [
+            "12:17"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=101&v_kullanici_id=27483194",
+      "page_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1",
+  "issuer": "TBMM",
+  "in_force": "1993-12-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 25/12/1993; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
