@@ -1,0 +1,56 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 4691,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "7 Mayıs 1337 tarihli Gümrük Tarifesine zeylolarak tanzim olunan kanun lâyihası, Akaarat Vergisinin tezyidi hakkında kanun lâyihası, Âşar Hissei İanesi ve Küsuratı Munzamma hakkında kanun lâyihası, Zonguldak kömürlerinden İhracat Resmi alınmamasına dair kanun lâyihası, ve Karahisarı Şarki Mebusu Mustafa Beyin, Âşar mültezimlerimden edayı deynedenlerin emlâki merhuneleri hakkındaki 29 Eyilül 1336 tarihli Kanun hükmünün temdidine dair kanun teklifi (2/485) , Karesi Mebusu Abdülgafur Efendiyle arkadaşlarının, Varidatı hususiyei vilâyatın muhasebei hususiyelerce tahsil ve kabzı hakkında kanun teklifi (2/406) ve Kütahya Mebusu Cemil Beyin, Ziynet eşyası Kanununun mevkii meriyetten ref'i hakkında kanun teklifi (2/541) , Aydın Mebusu Tahsin Beyin, Yunanistan'dan ithal edilen zeytinlerden alınan Gümrük Resminin zeytin yağlarından alınan Gümrük Resmi derecesine iblâğına dair kanun teklifi (2/538) , Gümrük Kanununun 84. maddesini muaddil kanun lâyihasına dair",
+  "title": "7 Mayıs 1337 tarihli Gümrük Tarifesine zeylolarak tanzim olunan kanun lâyihası, Akaarat Vergisinin tezyidi hakkında kanun lâyihası, Âşar Hissei İanesi ve Küsuratı Munzamma hakkında kanun lâyihası, Zonguldak kömürlerinden İhracat Resmi alınmamasına dair kanun lâyihası, ve Karahisarı Şarki Mebusu Mustafa Beyin, Âşar mültezimlerimden edayı deynedenlerin emlâki merhuneleri hakkındaki 29 Eyilül 1336 tarihli Kanun hükmünün temdidine dair kanun teklifi (2/485) , Karesi Mebusu Abdülgafur Efendiyle arkadaşlarının, Varidatı hususiyei vilâyatın muhasebei hususiyelerce tahsil ve kabzı hakkında kanun teklifi (2/406) ve Kütahya Mebusu Cemil Beyin, Ziynet eşyası Kanununun mevkii meriyetten ref'i hakkında kanun teklifi (2/541) , Aydın Mebusu Tahsin Beyin, Yunanistan'dan ithal edilen zeytinlerden alınan Gümrük Resminin zeytin yağlarından alınan Gümrük Resmi derecesine iblâğına dair kanun teklifi (2/538) , Gümrük Kanununun 84. maddesini muaddil kanun lâyihasına dair",
+  "first_sitting_date": "1922-12-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 25,
+      "sitting": 157,
+      "sitting_date": "1922-12-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c025/tbmm01025157.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c025/ehttbmm01025157.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c025/tbmm01025fih.pdf",
+      "pages": [
+        "424:431",
+        "476:496"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 161,
+      "sitting_date": "1922-12-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c026/tbmm01026161.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c026/ehttbmm01026161.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c026/tbmm01026fih.pdf",
+      "pages": [
+        "27:35",
+        "60:80",
+        "120:130",
+        "182:184",
+        "191",
+        "195:196",
+        "238:246",
+        "284:285",
+        "292",
+        "307"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1993&v_gelecek_sayfa=1701&v_kullanici_id=27483712",
+  "source_sha256": "a645bc3186780f43b3f55c71890ce8d05c09eda1cc09439856766a2ff30bee27",
+  "in_force": "1922-12-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
