@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/482",
+  "list_number": "482",
+  "decision_date": "1999-04-17",
+  "title": "YSK ilke kararı 1999/482",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4674/1999-482-karar.htm",
+  "source_sha256": "eee4590cf0a0c46853cbe1764becd2821e8767e8ae9e7ad123d2e40f97be1515",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-04-17",
+  "law_text_complete": false
+}
