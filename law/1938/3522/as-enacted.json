@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3522",
+  "year": 1938,
+  "title": "Devlet tarafından kurulacak demir ve çelik fabrikalarının haiz olacakları muafiyet hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-07-15",
+  "gazette_issue": "3960",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3960.pdf",
+  "source_sha256": "93a9606225ced3b9bb749a1395e933128d0b17b5c9e9072157cae9c3ea9db366",
+  "text_sha256": "f177c80b06da637fa1d22e3f480f55499e7b5b60d86915b89a88b4cc6536e8b9",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      2543,
+      2581
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803522.pdf",
+    "source_sha256": "7590e7164dd6cfb9b388acf6bd6a58b964a60ba8ebdc7aa27b8d7e5a8e373ca6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9749,
+    "bag": 0.9373,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9926,
+    "rg_words": 272,
+    "kd_words": 272,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
