@@ -1,0 +1,145 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2232",
+  "year": 1979,
+  "title": "2232 sayılı Kanun",
+  "adopted": "1979-05-15",
+  "adopted_as_published": "15/05/1979",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202232.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 62",
+  "committee_reports": [
+    {
+      "label": "MM 333 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012080ss0333.pdf"
+    },
+    {
+      "label": "CS 921no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043064ss0921.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 453698,
+      "title": "2232 sayılı Kanun",
+      "adopted_as_published": "15/05/1979",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202232.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 333 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012080ss0333.pdf"
+        },
+        {
+          "label": "CS 921no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043064ss0921.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 12,
+          "sitting": 69,
+          "sitting_date": "1979-03-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012069.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012fih.pdf",
+          "pages": [
+            "71"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 76,
+          "sitting_date": "1979-04-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012076.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012fih.pdf",
+          "pages": [
+            "155"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 80,
+          "sitting_date": "1979-04-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012fih.pdf",
+          "pages": [
+            "312"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=101&v_kullanici_id=27483225",
+      "page_sha256": "4a6dd473ee82376e4b9ef55568d9ed70f059194dfce0b327d385c91415064a57"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 332691,
+      "title": "2232 sayılı Kanun",
+      "adopted_as_published": "15/05/1979",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc062/kanuntbmmc062/kanuntbmmc06202232.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 333 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c012/mm__05012080ss0333.pdf"
+        },
+        {
+          "label": "CS 921no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043064ss0921.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 43,
+          "sitting": 59,
+          "sitting_date": "1979-04-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043fih.pdf",
+          "pages": [
+            "61"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 62,
+          "sitting_date": "1979-05-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043062.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043fih.pdf",
+          "pages": [
+            "570"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 64,
+          "sitting_date": "1979-05-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043064.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t18/c043/cs__18043fih.pdf",
+          "pages": [
+            "649:650"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2201&v_kullanici_id=27483235",
+      "page_sha256": "0799c7d26ace75dbc81a41d8398841fbf4d8af100f546707cbe58b5a0be8c0b4"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4a6dd473ee82376e4b9ef55568d9ed70f059194dfce0b327d385c91415064a57",
+  "issuer": "Millet Meclisi",
+  "in_force": "1979-05-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 15/05/1979; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
