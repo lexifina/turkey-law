@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5318-17",
+  "source_id": 38041,
+  "date": "2004-11-20",
+  "title": "Promosyon ürünlerinin müşterilere teslimi sırasında katma değer vergisi hesaplanmasına gerek yoktur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38041",
+  "source_sha256": "126e266235625b95f2b158cca3c7f679385063766bac70aa91ae6f821a833abb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
