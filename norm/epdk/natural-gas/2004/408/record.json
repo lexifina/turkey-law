@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "408",
+  "decision_date": "2004-12-27",
+  "title": "Doğal Gaz Piyasasındaki serbest tüketicilere ve 2005 yılında uygulanacak serbest tüketici olma sınırına ilişkin",
+  "resmi_gazete_date": "2004-12-31",
+  "resmi_gazete_number": "25687",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=M2TixZ/NfgE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=M2TixZ/NfgE="
+  ],
+  "source_sha256": "3e53415453c2d538cf393ce5b90c5d22d434c4d82d0d7250b1c0bac2a816cdca",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-12-27",
+  "law_text_complete": false
+}
