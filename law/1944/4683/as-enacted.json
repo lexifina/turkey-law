@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4683",
+  "year": 1944,
+  "title": "Türk Ceza Kanununun 480 ve 482 nci maddelerinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-12-18",
+  "gazette_issue": "5882",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5882.pdf",
+  "source_sha256": "964ae5999879158630757df8204ae7181548508d093d40a76e70a7e8e9874539",
+  "text_sha256": "2e75d7b05d29d1614163f37874824f62bc78450885b673ef4952439fdca24ffb",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      10,
+      47
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704683.pdf",
+    "source_sha256": "a3464dbebfabc2890bfd4ffd820439fb47b94aa76ce499d65333f213cdb8d80f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9615,
+    "bag": 0.9367,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9928,
+    "rg_words": 278,
+    "kd_words": 277,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
