@@ -1,0 +1,3 @@
+Resmi kurum ve kuruluşlarla işbirliği
+Madde 10 – Kurumun anaokulundaki yönetici ve öğretmenleri, eğitim faaliyetlerinin verimli ve sağlıklı olarak gerçekleştirilmesi amacıyla Milli Eğitim Bakanlığına bağlı en yakın okul öncesi eğitim kurumlarıyla işbirliği yaparlar.
+Geçici madde 1 – "Gebe veya Emzikli Kadınların Çalıştırılma Şartlarıyla Emzirme Odaları ve Çocuk Bakım Yurtlarına Dair Tüzük" hükümleri uyarınca açılmış olan emzirme odaları ve bakım yurtları (kreş), bu Tüzüğün yürürlüğe girdiği tarihten itibaren en geç 6 ay içinde yönetim ve eğitim hizmetleri yönünden bu Tüzük hükümlerine uygun hale getirilir.
