@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 395141,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Muhtaç çiftçilere ödünç tohumluk verilmesi hakkındaki 5254 sayılı Kanunun 3. maddesinin değiştirilmesine dair kanun tasarısı (1/849)",
+  "title": "Muhtaç çiftçilere ödünç tohumluk verilmesi hakkındaki 5254 sayılı Kanunun 3. maddesinin değiştirilmesine dair kanun tasarısı (1/849)",
+  "first_sitting_date": "1973-06-07",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 38,
+      "sitting": 123,
+      "sitting_date": "1973-06-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038123.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038fih.pdf",
+      "pages": [
+        "410:411"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 130,
+      "sitting_date": "1973-06-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c039/mm__03039130.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c039/mm__03039fih.pdf",
+      "pages": [
+        "257",
+        "400",
+        "408"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2801&v_kullanici_id=27484850",
+  "source_sha256": "77b168f26eca04ba12cc89712b192bf2a50cbc3866d300d697c625a27b0e5fd9",
+  "in_force": "1973-06-07",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
