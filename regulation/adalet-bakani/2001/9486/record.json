@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.9486",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLETLERARASI TAHKİM ÜCRET TARİFESİ YÖNETMELİĞİ",
+  "number": "9486",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2001/9486",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9486&MevzuatTertip=5",
+  "source_sha256": "dace12bcca60d47756b6050527ffceb2569f38553861c7eceedb7375f599bc51",
+  "source_bytes": 32361,
+  "published": "2001-12-28",
+  "gazette": "24624",
+  "in_force": "2003-03-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/03/2003\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2003-03-14",
+      "RG-14/03/2003",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazetede yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 215,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
