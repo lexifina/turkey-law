@@ -1,0 +1,2 @@
+Müdür
+Madde 4 – Müdür Fırat Üniversitesinin konu ile ilgili öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir.Süresi biten müdür yeniden görevlendirilebilir. Müdür Yönetim Kurulu Üyeleri arasından bir öğretim üyesini müdür yardımcısı seçer. Müdür görevi başında bulunmadığı zaman yardımcısı vekalet eder. Göreve vekalet eden dört aydan fazla sürerse yeni bir müdür görevlendirilir.

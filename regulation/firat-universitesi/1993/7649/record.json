@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete'de yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1993-08-19",
+      "19.08.1993",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik Resmi Gazete'de yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21673",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1993-08-19",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Fırat Üniversitesi",
+  "issuer_slug": "firat-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/firat-universitesi/1993/7649",
+  "published": "1993-08-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7649&MevzuatTertip=5",
+  "source_bytes": 22711,
+  "source_id": "8.5.7649",
+  "source_sha256": "ff3a77c3004fde3542a499c8fda93d0b3d78ced59df1b78476e0077cc9b7ae36",
+  "text_status": "as-enacted",
+  "title": "FIRAT ÜNİVERSİTESİ FIRAT HAVZASI ARAŞTIRMA VE\r\nUYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 193,
+  "word_count": 712
+}

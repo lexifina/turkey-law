@@ -1,0 +1,2 @@
+Yönetim Kurulu
+Madde 6 - Yönetim Kurulu tüm fakültelerin ve yüksekokulların öğretim üyeleri arasından Fakülte ve Yüksekokul Yönetim Kurullarınca belirlenecek birer üyeden oluşur ve Rektörce görevlendirilen Müdür tarafından yönetilir. Yönetim Kurulunun görev süresi üç yıldır. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan Yönetim Kurulu Üyesinin yerine kalan süreyi tamamlamak üzere aynı birimden bir üye görevlendirilir.
