@@ -1,0 +1,7 @@
+Merkez Müdürü
+Madde 7- (Değişik: RG 3/3/2005-25744) Merkez Müdürü, Üniversitenin aylıklı ve devamlı statüdeki öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi sona eren Merkez Müdürü tekrar görevlendirilir. Merkez Müdürü, görevlendirildiği usul ile görevden alınabilir. Merkez Müdürü kendisine yardımcı olmak üzere, merkezin çalışma alanı ile ilgili öğretim elemanları arasından bir tane müdür yardımcısı seçebilir ve Rektörün bilgisine sunar. Merkez Müdürünün görevi başında bulunmadığı zamanlarda, görevlendireceği yardımcısı ya da Merkez Yönetim Kurulu üyelerinden birisi vekalet eder. Vekalet altı aydan fazla sürerse yeni Merkez Müdürü görevlendirilir.
+Merkez Müdürü;
+a) Merkezi temsil ve Yönetim Kuruluna başkanlık etmek,
+b) Merkezin idari ve mali işlerini yürütmek, bütçe önerilerini ve yıllık faaliyet raporunu hazırlayarak Yönetim Kurulu görüşünü aldıktan sonra Rektörlüğe sunmak,
+c) Danışma Kurulu ile Yönetim Kurulunun aldığı kararlar ve belirlediği hedefler doğrultusunda hazırlanan çalışma programlarının birimler tarafından eyleme geçirilmesi ve birimler arasındaki koordinasyonun ve işbirliğinin sağlanmasını, kaynakların etkin ve verimli kullanılmasını temin etmek,
+d) SAYMER’in faaliyet konuları hakkında ilgili kişi ve kuruluşları bilgilendirmek, ayrıca sanayi ile Üniversitenin işbirliğini sağlamak amacıyla iş alemi ile sürekli ve tutarlı bir diyalog kurmak ve yürütmekle yetkili ve görevlidir.
