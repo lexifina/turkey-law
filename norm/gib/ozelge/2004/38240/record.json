@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6523-97/26341",
+  "source_id": 38240,
+  "date": "2004-06-09",
+  "title": "Yanlızca hurdaya ayrılacak ÖKC'ler için geçerli olmak üzere bu cihazlarla ilgili olarak yapılacak işlemlerin üretici veya ithalatçı kurulrşun servisince yapılmasının şart olmaması, herhangi bir ödeme kaydedici cihaz servisince yapılabileceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38240",
+  "source_sha256": "fa1779cf3129912412c9e7f87b639e34c9dd75ecab58525dd9f35a6e98cb2b58",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
