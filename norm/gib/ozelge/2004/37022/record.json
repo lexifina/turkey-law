@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6652-354/30528",
+  "source_id": 37022,
+  "date": "2004-06-29",
+  "title": "............Esnaf Odasının maliki olduğu gayrimenkuller nedeniyle emlak vergisine tabi olması ve  iktisap ettiği gayrimenkullerden hizmetlerinde kullandığı binaların çevre temizlik vergisine tabi olmaması gerektiği hususu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37022",
+  "source_sha256": "b10f490fb549177f15c74108de7fcbf4151b5367e7db8bb5ffa0c00de1e10a22",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
