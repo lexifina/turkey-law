@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5511- 2329 / 4043",
+  "source_id": 29946,
+  "date": "2005-01-28",
+  "title": "Tecil terkin uygulaması kapsamında satın alınan mallara ait bedelin dövize endeksli olarak belirlenmesi durumunda, ortaya çıkan aleyhte kur farkları ihracatçı tarafından düzenlenecek fatura ile belgelendirilecek ve kur farkı üzerinden katma değer vergisi ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29946",
+  "source_sha256": "f3ab8e7bd2fffe2eb712e8c3340f5368e2fecb597072b18fe430831a1afe58b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
