@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 54674,
+  "assembly": "TBMM",
+  "term": 10,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Yabancı memleketlerle muvakkat mahiyette modüs vivendiler ve ticaret anlaşmaları akdi ve bunların şümulüne giren maddelerin Gümrük Resimlerinde değişiklikler yapılması ve muvaredatına karşı tedbirler alınması hususunda Hükümete salâhiyet verilmesi hakkındaki kanun lâyihasına dair (1/332)",
+  "title": "Yabancı memleketlerle muvakkat mahiyette modüs vivendiler ve ticaret anlaşmaları akdi ve bunların şümulüne giren maddelerin Gümrük Resimlerinde değişiklikler yapılması ve muvaredatına karşı tedbirler alınması hususunda Hükümete salâhiyet verilmesi hakkındaki kanun lâyihasına dair (1/332)",
+  "first_sitting_date": "1955-12-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 19,
+      "sitting_date": "1955-12-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c008/tbmm10008019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c008/tbmm10008fih.pdf",
+      "pages": [
+        "432"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 25,
+      "sitting_date": "1956-01-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c009/tbmm10009025.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c009/tbmm10009fih.pdf",
+      "pages": [
+        "184",
+        "262:263"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 31,
+      "sitting_date": "1956-02-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c010/tbmm10010031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c010/tbmm10010fih.pdf",
+      "pages": [
+        "16:17",
+        "23:27"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1644&v_gelecek_sayfa=501&v_kullanici_id=27484243",
+  "source_sha256": "2d6648b4858b33caec218806c05cc9c7315b429927579aa525805a96b9c644a9",
+  "in_force": "1955-12-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
