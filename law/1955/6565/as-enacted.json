@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6565",
+  "year": 1955,
+  "title": "Türkiye Büyük Millet Meclisi Emniyet Kadrosunda Çalışan Memurlara Fazla Mesai Ücreti Verilmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1955-05-21",
+  "gazette_issue": "9011",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9011.pdf",
+  "source_sha256": "ccad1f1c302fb6c13f8c573a9882fed7248fef56fa60afa4b17608fa2a76cca3",
+  "text_sha256": "3bf6c3d3a8fe21720e14316e2ca510ce6e6e24dcaee9331e8beba9ca50a7ab2b",
+  "text_status": "ocr",
+  "pages": [
+    10
+  ],
+  "line_span": [
+    [
+      1477,
+      1494
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706565.pdf",
+    "source_sha256": "1591e38f9611cd8b942eecbb5c397b1f79f9305b51aa8921b38d182da64a9cc3",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9905,
+    "bag": 0.9633,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.982,
+    "rg_words": 109,
+    "kd_words": 111,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
