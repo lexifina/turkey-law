@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7178",
+  "year": 1958,
+  "title": "Türk Ticaret Kanununun meriyet ve talbik şeklî hakkındaki 6763 sayılı Kanunun 23. maddesinin tadiline ve mezkûr kanuna muvakkat bir madde ilâvesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-12-19",
+  "gazette_issue": "10087",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10087.pdf",
+  "source_sha256": "6a8360669c5b3d383105acfaff511a41ad6bc47fef0334f4df8dfe34e54dfdf8",
+  "text_sha256": "e1fef6389770b03449443586c74b41ea6e907daf854f47e4f24d8ad60a0e11dd",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      68,
+      92
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1, 2] (no text layer)",
+    "tesseract_pages": [
+      1,
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107178.pdf",
+    "source_sha256": "79e9a6adb6b73eb9fa157ae460f90bb9047046093b7f438b43cf8ad4b1e754d5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9335,
+    "bag": 0.8133,
+    "kd_coverage": 0.9752,
+    "kd_body_compared": 0.9634,
+    "rg_words": 174,
+    "kd_words": 164,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
