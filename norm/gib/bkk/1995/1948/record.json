@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "95/7200",
+  "source_id": 1948,
+  "date": "1995-09-07",
+  "title": "3238 SAYILI KANUNUN 12 İNCİ MADDESİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/490/bkk/1948",
+  "related_law": "3238 sayılı SAVUNMA SANAYİİ İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN[1][2][3]",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "fb5a78c2c308b09d6cf15c5081aceb586329ec708ac57d386e4a56ffe3bce225",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
