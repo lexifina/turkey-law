@@ -1,0 +1,1 @@
+Madde 5 – Vali veya görevlendirdiği Vali Yardımcısı gerektiğinde bu Yönetmelikte belirtilen hizmetlerin yürütülmesine ve uygulamasına ilişkin yönergeler hazırlar. Tüm Kuruluş ve kişiler yönerge hükümlerine uymakla yükümlüdürler.

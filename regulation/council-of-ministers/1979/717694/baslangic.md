@@ -1,0 +1,7 @@
+KARAYOLU SINIR KAPILARI İLE ULUSLAR ARASI TRAFİĞE AÇIK HAVA
+LİMANLARINDA GÜVENLİĞİN VE BU YERLERE HİZMET VEREN
+KURULUŞLAR ARASINDA İŞBİRLİĞİ VE EŞGÜDÜM
+SAĞLANMASI HAKKINDA YÖNETMELİK
+Bakanlar Kurulu Kararının Tarihi : 28.5.1979 No : 7/17694
+Yayımlandığı Resmî Gazetenin Tarihi : 14.7.1979 No : 16696
+Yayımlandığı Düsturun Tertibi : 5 Cildi : 18 Sayfa : 1312

@@ -1,0 +1,1 @@
+Madde 7 – Bakanlıklar ve Kuruluşlar bu Yönetmelikte belirtilen hususlarla ilgili olarak bu yerlerdeki birim veya personeli ile yapacakları yazışmaları (teknik hususlar hariç) Vali veya görevlendirdiği Vali Yardımcısı aracılığı ile yaparlar. Bu yerlerdeki birim ve personelin üst makamlar ile yapacakları yazışmalarda da aynı yöntem uygulanır.

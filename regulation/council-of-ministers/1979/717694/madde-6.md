@@ -1,0 +1,3 @@
+Madde 6 – Vali:
+A. Karayolu sınır kapıları ile uluslararası trafiğe açık hava limanlarında görevli Kamu Kuruluşlarının personeli hakkında her türlü soruşturma açmağa, soruşturmaları yapmağa veya yaptırmağa; müfettiş istemeğe, Memurin Muhakematı Hakkında Kanuna tabi olmayan personelin evrakını ilgili yargı organlarına göndermeğe; ayrıca personelden görevi başında kalmasından sakınca gördüklerini görevden almağa yetkilidir. Bu durumlarda Vali derhal ilgili Bakanlık ve Kuruluşa bilgi verir.
+B. Bu Kuruluşların personelinden gerekli gördükleri hakkında çalışma, ahlak ve yeteneklerine ilişkin görüş bildirir. Bu görüş personelin sicilinin düzenlenmesinde dikkate alınır.

@@ -1,0 +1,1 @@
+Madde 3 – Vali veya görevlendirdiği Vali Yardımcısına bağlı olarak tüm hizmetleri görmek üzere bir büro kurulur. Büronun personel ve diğer gereksinmeleri İçişleri Bakanlığınca sağlanır. İlgili Kuruluşlar bu konuda olanakları oranında yardımda bulunur.
