@@ -1,0 +1,3 @@
+İdarenin Görev ve sorumluluğu
+Madde 50- İdare, 49 uncu maddede yazılı süre içinde, sözleşme yapılması hususunda kendisine düşen görevleri yapmakla yükümlüdür. Bu yükümlülüğün yerine getirilmemesi halinde, müteahhit veya müşteri, sürenin bitmesinden itibaren en çok 15 (Onbeş) takvim günü için 10 (on) takvim günü müddetli bir noter ihbarnamesi ile bildirmek şartıyla, taahhüdünden vazgeçebilir. Bu takdirde, teminat geri verilir. Müteahhit veya müşteri ihaleye girmek ve teminat vermek için yaptığı masrafları istemeye hak kazanır.
+Tebligatın süresinde yapılmamasından dolayı İdarenin zararına sebep olanlar hakkında da kanuni işlem yapılır.

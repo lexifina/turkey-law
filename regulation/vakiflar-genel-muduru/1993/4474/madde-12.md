@@ -1,0 +1,3 @@
+Tahmin Edilen Bedelin Tesbiti
+Madde 12 - Tahmin edilen bedel, idarece tespit edilir veya ettirilir, işin özelliğine göre gerektiğinde bu bedel veya bedelin hesabında kullanılacak fiyatlar, Belediye, Ticaret Odası, Sanayi Odası, Borsa gibi kuruluşlardan veya bilirkişilerden soruşturulur. Tahmin edilen bedel, bunun dayanaklarının da eklendiği, bir hesap tutanağında gösterilir. Ve asıl evrak arasında saklanır. Bu bedel gerektiğinde ihale komisyonlarınca tahkik ettirilir.
+Ancak, yapım işlerinde, bu işler için, Kanunların verdiği yetkiye dayanılarak ilgili dairelerce tespit edilmiş birim fiyatları varsa bunlar yoksa İdarenin hazırlayacağı fiyatlar uygulanır. Etüd, proje ve kontrolluk hizmetlerinde, Bayındırlık ve İskan Bakanlığının uyguladığı yönetmelik hükümlerine uyulur.

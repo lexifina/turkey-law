@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4474",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VAKIFLAR GENEL MÜDÜRLÜĞÜ FON YÖNETMELİĞİ",
+  "number": "4474",
+  "issuer": "Vakıflar Genel Müdürü",
+  "issuer_slug": "vakiflar-genel-muduru",
+  "path": "regulation/vakiflar-genel-muduru/1993/4474",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4474&MevzuatTertip=5",
+  "source_sha256": "e961aa58413dcb4b5a1fc7c498b9f7c1e2e7cfa8eb084a1675aa3bc2b3861008",
+  "source_bytes": 184317,
+  "published": "1993-09-22",
+  "gazette": "21706",
+  "in_force": "1993-09-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.09.1993); own commencement article: \"bu Yönetmelik Resmi Gazetefde yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik Resmi Gazetefde yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4651,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

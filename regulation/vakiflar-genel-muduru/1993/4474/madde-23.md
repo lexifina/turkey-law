@@ -1,0 +1,2 @@
+Tekliflerin Açılma Zamanı
+Madde 23 – Tekliflerin açılma zamanı, idarenin çalışma saati içinde olmak üzere tespit edilir. Açılma zamanı için, Posta, Telgraf, Telefon (PTT) veya Türkiye Radyo ve Televizyon (TRT) idarelerinin saat ayarı esas alınır. Teklifler açılmaya başlandıktan sonra, çalışma saatine bağlı kalmaksızın işleme devam olunur.

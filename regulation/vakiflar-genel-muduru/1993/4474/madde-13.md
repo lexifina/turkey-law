@@ -1,0 +1,4 @@
+Onay Belgesi
+Madde 13 - İhalesi yapılacak her iş için bir onay belgesi hazırlanır. Onay Belgesinde, ihale konusu olan işin nevfi, niteliği, miktarı, varsa proje numarası, tahmin edilen bedeli, kullanılabilir ödenek tutarı, avans ve fiyat farkı verilecekse şartları, ihalede uygulanacak usul, yapılacaksa ilanın şekli ve adedi, alınacaksa geçici teminat miktarı, belli istekliler arasında kapalı teklif usulüyle ihale yapılacaksa, tespit edilecek kişi veya firmaların adı, soyadı veya ünvanları ile açık adresleri belirtilir.
+Onay belgesinde ayrıca şartname ve eklerinin bir bedel karşılığında verilip verilmeyeceği, bedel karşılığı verilecekse bedeli belirlenir.
+Onay Belgesi, belli istekliler arasında Kapalı Teklif Usulü ile yapılacak ihalelerde İta Amiri, diğer ihale usullerinde ise İta Amiri veya ihale yetkilisi tarafından imzalanır.

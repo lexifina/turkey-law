@@ -1,0 +1,4 @@
+Kesin Teminatın Geri Verilmesi
+Madde 48- Taahhüdün sözleşme ve şartname hükümlerine uygun olarak yerine getirildiği anlaşıldıktan sonra, müteahhidin bu işten dolayı İdareye ve Sosyal Sigortalar Kurumuna borcu olmadığı tespit edildikten sonra, Sosyal Sigortalar Kurumunda ilişiksiz belgesinin getirilmesi halinde kesin teminatın tümü,
+Yapım ve onarım işlerinde birinci fıkradaki şartlardan ayrı olarak, geçici kabul tutanağının onaylanması ve geçici kabulde görülen kusurların giderilme bedelinin kesin teminatın yarısından fazla olmaması şartıyla, yarısı, kesin kabul işlemleri tamamlandıktan sonra ise, kalanı, müteahhide geri verilir.
+Müteahhidin bu iş nedeniyle İdareye, Sosyal Sigortalar Kurumuna, ücret ve ücret sayılan ödemelerden yapılan kanuni vergi kesintilerinin kesin kabul tarihine kadar ödenmemesi halinde, teminat paraya çevrilerek borçlarına karşılık tutulur. Varsa kalanı müteahhide geri verilir.

@@ -1,0 +1,3 @@
+Müteahhit veya Müşterinin Sözleşmenin Bozulmasına Neden Olması
+Madde 51- Sözleşme yapıldıktan sonra, müteahhit veya müşterinin taahhüdünden vazgeçmesi veya taahhüdünü, şartname ve sözleşme hükümlerine uygun olarak yerine getirmemesi üzerine, İdarenin en az (10) On takvim günü süreli ve nedenleri açıkça belirtilen ihtarına rağmen, aynı durumun devam etmesi halinde, ayrıca, protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin teminatı gelir kaydedilir ve sözleşme fesh edilerek hesabı genel hükümlere göre tasfiye edilir.
+Gelir kaydedilen kesin teminat müteahhit veya müşterinin borcuna mahsup edilemez.

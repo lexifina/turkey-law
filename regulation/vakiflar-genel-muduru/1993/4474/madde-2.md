@@ -1,0 +1,2 @@
+Hukuki Dayanak
+Madde 2 – Bu yönetmelik 6760 Sayılı Kanuna 21/5/1970 tarih ve 1262 sayılı Kanunla eklenen ve 3651 sayılı Kanunla değiştirilen ek 2 nci madde 6760 sayılı Kanununa 21/5/1970 tarih ve 1262 sayılı Kanunla eklenen Ek 6 ncı madde 8/6/1984 tarih ve 227 Vakıflar Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 27 nci maddesi hükümlerine istinaden hazırlanmıştır.

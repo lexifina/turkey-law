@@ -1,0 +1,3 @@
+İhale işlem Dosyasının Düzenlenmesi
+Madde 16 – İhale sureti ile yapılacak bu işler için bir işlem dosyası düzenlenir. Bu dosyada onay belgesi, varsa tahmin edilen bedele ilişkin hesap tutanağı, şartname ve ekleri, projeler, yapılacaksa, ilana ilişkin belge ve gazete nüshaları, sözleşme tasarısı ile saklanmasında yarar görülen diğer belgeler bulunur.
+Şartnamelerde, tekniğe uygun olmayan veya gerçekleşmesi mümkün bulunmayan kayıt ve şartların bulunduğu anlaşıldığı takdirde, komisyonlar, idare, şartnameleri düzelttirmek üzere ihaleyi erteler. Bu durumda ihale yeniden düzenlenecek şartnameye, yapılacaksa ilana göre yürütülür.

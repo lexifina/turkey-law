@@ -1,0 +1,22 @@
+Tanımlar
+Madde 3 – Bu Yönetmelikte geçen;
+a) Genel Müdür; Vakıflar Genel Müdürünü,
+b) Vakıflar Meclisi; Vakıfların en üst seviyede danışma ve karar organını,
+c) Genel Müdürlük veya idare; Vakıflar Genel Müdürlüğünü, Bölge Müdürlükleri ile Gureba Hastanesi Baştabipliğini,
+d) Yapım; Her türlü inşaat, ihzarat, imalat, sondaj, tesisat, onarım, yıkma, değiştirme, iyileştirme, yenileştirme, montaj, proje ve hizmet işlerini,
+e)Kira; taşınır ve taşınmaz malların ve hakların kiralanması veya kiraya verilmesini,
+f) Taşıma-alım-satım; Taşıma, yükleme, boşaltma, depolama ve bunlara ilişkin işlemler ile taşınır her türlü ihtiyaç maddeleri alım ve satımını,
+g) Tahmin edilen bedel; ihale konusu işlerin tahmin edilen bedelini, yapım işlerinde işin keşif bedelini,
+h) Uygun Bedel; arttırmalarda, tahmin edilen bedelden aşağı olmamak üzere teklif edilen bedellerin en yükseğini, eksiltmelerde tahmin edilen bedeli geçmemek şartı ile teklif edilen bedellerin tercihe layık görülenini bedel tahmini yapılamayan işlerde, teklif edilen bedellerin uygun bulunanını,
+I) İstekli; ihaleye katılan gerçek veya tüzel kişi veya kişileri,
+i) İhale; Bu yönetmelikte belirlenen ihale yöntemlerinin uygulanması neticesi, işin isteklilerden birisi üzerine bırakıldığını gösteren ve yetkili mercilerin onayı ile tamamlanan sözleşme yapılmadan önceki işlemleri,
+j) Müteahhit; üzerine ihale yapılan istekli veya isteklileri,
+k) Müşteri; artırma sonunda kendisine ihale yapılan istekli veya isteklileri,
+l) Şartname; Yapılacak işlerin genel, özel, teknik ve idari esas ve usullerini gösterir belge veya belgeleri,
+m) Sözleşme; İdare ile Müteahhit veya müşteri arasında yapılan yazılı anlaşmayı,
+n) Birim Fiyat; Bayındırlık ve İskan Bakanlığınca tespit edilerek yayınlanan fiyatları veya idarenin hazırlayacağı birim fiyatları,
+o) Keşif Bedeli; işin birim fiyatlarla veya analiz yolu ile tespit edilen yeni birim fiyatlarla hesaplanan tutarını, bedel tahmini yapılamayan işlerde, teklif edilen bedelin uygun olanını,
+p) Özel Fon Hesabı: Mazbut Akar ve Toprak Satış Bedeli, Mazbut Taviz Bedeli ile Vakıflar Genel Müdürlüğünün en son Kesin Hesap Kanunu sonucu doğan gelir fazlasından ve işletme, şirket ve iştirak gelirlerinden, Vakıflar Meclisince kararlaştırılan miktardaki paraların toplandığı hesabı,
+Şartlı Bağışlar Fon Hesabı; Vakıflar Genel Müdürlüğüne yapılan şartlı bağışlar ile bağışların gelirlerin izlendiği hesabı,
+r) Fon Hesabı; 6760 sayılı Kanuna 21/5/1970 tarihli ve 1262 sayılı Kanunla Eklenen ve 3651 sayılı Kanunla değiştirilen Ek 2 nci maddede öngörülen Özel Fon Hesabı ile 6760 sayılı Kanuna 1262 sayılı Kanunla Eklenen ek 6 ncı maddede öngörülen Şartlı Bağışlar Fon Hesabını,
+İfade eder.
