@@ -1,0 +1,13 @@
+{
+  "number": "05-05/42-17",
+  "type": "Rekabet İhlali",
+  "decision_date": "2005-01-13",
+  "publication_date": "2005-06-09",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=3e2151f0-2a9b-42cf-8f45-c6ab63e42e54",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=930",
+  "pdf_sha256": "f1715879103ffbf3bed285fc0783ed33423bf65d83b4645faa3c85210352c5c1",
+  "pdf_bytes": "411732",
+  "pages": "52",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
