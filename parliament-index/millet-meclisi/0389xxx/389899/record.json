@@ -1,0 +1,61 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 389899,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "13.7.1967 gün ve 904, 905, 906 sayılı kanunlarda değişiklik yapılması ve 4 Haziran 1972 Pazar günü yapılacak belediye meclis üyeleri, belediye başkanları il genel meclis üyeleri, köy muhtar ve ihtiyar meclis üyeleri ile mahalle muhtar ve ihtiyar heyetleri seçimlerinin ertelenmesi hakkında kanun tasarısı (1/601)",
+  "title": "13.7.1967 gün ve 904, 905, 906 sayılı kanunlarda değişiklik yapılması ve 4 Haziran 1972 Pazar günü yapılacak belediye meclis üyeleri, belediye başkanları il genel meclis üyeleri, köy muhtar ve ihtiyar meclis üyeleri ile mahalle muhtar ve ihtiyar heyetleri seçimlerinin ertelenmesi hakkında kanun tasarısı (1/601)",
+  "first_sitting_date": "1972-02-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 34,
+      "sitting_date": "1972-02-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020034.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c020/mm__03020fih.pdf",
+      "pages": [
+        "463",
+        "655"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 52,
+      "sitting_date": "1972-02-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c022/mm__03022052.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c022/mm__03022fih.pdf",
+      "pages": [
+        "608",
+        "689",
+        "840"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 54,
+      "sitting_date": "1972-03-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c023/mm__03023054.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c023/mm__03023fih.pdf",
+      "pages": [
+        "2",
+        "30",
+        "34"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2501&v_kullanici_id=27484850",
+  "source_sha256": "592968d76d23b1c1f59fa2ea43a92ad79697c53390fd19c8a43c12266fe9b8ae",
+  "in_force": "1972-02-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
