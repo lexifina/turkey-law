@@ -1,0 +1,2 @@
+Yıllık ücretli izin hükümlerine aykırılık
+MADDE 103 - Yıllık ücretli izni bu Kanunun 56 ncı maddesine aykırı olarak bölen veya izin ücretini 57 nci maddenin üç ve dördüncü fıkralarında belirtilen usule aykırı olarak ödeyen veya eksik ödeyen veya 59 uncu maddedeki hak edilmiş izni kullanmadan iş sözleşmesinin sona ermesi halinde bu izne ait ücreti ödemeyen veya 60 ıncı maddede belirtilen yönetmeliğin esas ve usullerine aykırı olarak izin kullandırmayan veya eksik kullandıran işveren veya işveren vekiline bu durumda olan her işçi için yüz milyon lira para cezası verilir.

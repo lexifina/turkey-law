@@ -1,0 +1,3 @@
+İşyerini bildirme
+MADDE 3 - Bu Kanunun kapsamına giren nitelikte bir işyerini kuran, her ne suretle olursa olsun devralan, çalışma konusunu kısmen veya tamamen değiştiren veya herhangi bir sebeple faaliyetine son veren ve işyerini kapatan işveren, işyerinin unvan ve adresini, çalıştırılan işçi sayısını, çalışma konusunu, işin başlama veya bitme gününü, kendi adını ve soyadını yahut unvanını, adresini, varsa işveren vekili veya vekillerinin adı, soyadı ve adreslerini bir ay içinde bölge müdürlüğüne bildirmek zorundadır.
+Alt işveren, bu sıfatla mal veya hizmet üretimi için meydana getirdiği kendi işyeri için birinci fıkra hükmüne göre bildirim yapmakla yükümlüdür.
