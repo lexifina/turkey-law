@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.40/4017-43/012894",
+  "source_id": 24887,
+  "date": "2005-03-18",
+  "title": "2007 yılında elde edilecek menkul sermaye iradının vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24887",
+  "source_sha256": "e5a95cce26c0d5975e5d73f54cae6d3c3f551b20fc788e113c9e339632360506",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
