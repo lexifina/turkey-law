@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6527-123-45808",
+  "source_id": 38287,
+  "date": "1997-10-30",
+  "title": "Mükellefçe sadece sayısal loto kuponu toplamak üzere açılan irtibat bürosunda Ö.K.C. Kulanma zorunluluğu yoktur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38287",
+  "source_sha256": "f0711ba664610bd95b9914321860b19d0eb20987011244c7a5efeb6b82e694c1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
