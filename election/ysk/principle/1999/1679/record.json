@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/1679",
+  "list_number": "1679",
+  "decision_date": "1999-05-29",
+  "title": "YSK ilke kararı 1999/1679",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4600/1999-1679-karar.htm",
+  "source_sha256": "c4c4c8311e26be04fd39ffd9b014661af6207cab9eb7cb503002b23c0ed94199",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-05-29",
+  "law_text_complete": false
+}
