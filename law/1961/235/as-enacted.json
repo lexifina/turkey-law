@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "235",
+  "year": 1961,
+  "title": "Türk Ceza Kanununun bazı hükümlerinin kaldırılması ve bazı maddelerinin değiştirilmesi hakkında Kanunn",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1961-01-12",
+  "gazette_issue": "10705",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10705.pdf",
+  "source_sha256": "668e7645f39ea8e40baa525b06c006763ee444d05f378157222ba47c427a29c1",
+  "text_sha256": "b208a030f59d3be3b5bc0c255410044d250cb638dcfa91c72426cb38a741baeb",
+  "text_status": "ocr",
+  "pages": [
+    32
+  ],
+  "line_span": [
+    [
+      6733,
+      6815
+    ],
+    [
+      6817,
+      6819
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300235.pdf",
+    "source_sha256": "637ad75b9ccbe2701500cb12667206b35a648da6952d7d01256b14813570fa1d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9729,
+    "bag": 0.909,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9898,
+    "rg_words": 682,
+    "kd_words": 687,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
