@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-528/22449",
+  "source_id": 26312,
+  "date": "2001-04-25",
+  "title": "Elektrik şebekesi olmayan yerlerde, ödeme kaydedici cihaz kullanılıp kullanılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26312",
+  "source_sha256": "e0ab343503a50df04cd6f5d1bdb490994f09ee0bc3cd78d854d291cc4c98e644",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
