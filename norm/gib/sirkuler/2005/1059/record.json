@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "ÖKC-5/2005-2",
+  "source_id": 1059,
+  "date": "2005-03-15",
+  "title": "Akaryakıt Pompalarına (LPG dahil) Bağlanacak Ödeme Kaydedici Cihazlar, İşlemleri Süresinde Tamamlayamayanlar ve Kullanılacak Belgeler",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/sirkuler/1059",
+  "source_sha256": "4bdd8905091c9f7b61c83f13d0bd3c06c5a29ddc0b653a808f17e2d1d8f76870",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
