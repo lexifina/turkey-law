@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 129112,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Kayseri Mebusu Âlim Efendinin; Van'da medresetüzzehra namiyle bir medrese küşadı hakkında. (2/119), Trabzon Mebusu Celâl Beyin; Evkaf bütçesine dahil mürtezika maaşatı hakkında (2/34) ve Aydın Mebusu Emin Efendinin; Evkaf Nizamnamesinin tadili hakkında (2/36) ve Siirt Mebusu Halil Hulki Efendinin; Şeriye Vekâletinden musaddak icazetnameye malik olmayanları ilmî kisveyi lâbis olmamaları hakkında (2/282) numaralı birinci devreden müdevver dört kıta teklifi kanuninin tayini muameleye mahal olmadığından reddine dair.",
+  "title": "Kayseri Mebusu Âlim Efendinin; Van'da medresetüzzehra namiyle bir medrese küşadı hakkında. (2/119), Trabzon Mebusu Celâl Beyin; Evkaf bütçesine dahil mürtezika maaşatı hakkında (2/34) ve Aydın Mebusu Emin Efendinin; Evkaf Nizamnamesinin tadili hakkında (2/36) ve Siirt Mebusu Halil Hulki Efendinin; Şeriye Vekâletinden musaddak icazetnameye malik olmayanları ilmî kisveyi lâbis olmamaları hakkında (2/282) numaralı birinci devreden müdevver dört kıta teklifi kanuninin tayini muameleye mahal olmadığından reddine dair.",
+  "first_sitting_date": "1925-12-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 18,
+      "sitting_date": "1925-12-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c020/tbmm02020018.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c020/ehttbmm02020018.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c020/tbmm02020fih.pdf",
+      "pages": [
+        "4"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2766&v_gelecek_sayfa=1301&v_kullanici_id=27483743",
+  "source_sha256": "f174b46ccab9e0824b24da066567313efda31bc2b4831928c6f51b70ea14299a",
+  "in_force": "1925-12-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
