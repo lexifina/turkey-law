@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2152",
+  "year": 1933,
+  "title": "Demiryollarla yük nakliyatı için 2.6.1930 tarih ve 1673 numaralı kanunla Hükümetimizin de iştirak ettiği 23 teşrinievvel 1924 tarihli beynelmilel mukavelenamenin imza protokolünde derpiş edilen dört senelik muvakkat tedbirler müddetinin uzatılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-04-27",
+  "gazette_issue": "2386",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2386.pdf",
+  "source_sha256": "bc0762b4fdf6a261c6a7924e37ac60715e9f4f6e22ead04e3e67508fbd8ab92b",
+  "text_sha256": "d7fc5b08019881d53d57dc31a006524bc08a626ada15d6ef28282440b267ac89",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      44,
+      80
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202152.pdf",
+    "source_sha256": "5bdc3cbf2ec32b35003a33a2ef086c01278c1e464d03cf6fc2eeda7aaf9d68c6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9158,
+    "bag": 0.7273,
+    "kd_coverage": 0.9645,
+    "kd_body_compared": 0.9645,
+    "rg_words": 117,
+    "kd_words": 141,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
