@@ -1,0 +1,94 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3263",
+  "year": 1986,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Haşimi Ürdün Krallığı Arasında Gelir ve Servet Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Diğer Bazı Hususları Düzenleme Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "1986-02-20",
+  "adopted_as_published": "20/02/1986",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "26.02.1986 No: 19031",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903263.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 69",
+  "committee_reports": [
+    {
+      "label": "TBMM 401 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025070ss0401.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 245835,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Haşimi Ürdün Krallığı Arasında Gelir ve Servet Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Diğer Bazı Hususları Düzenleme Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "20/02/1986",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903263.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 401 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025070ss0401.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 20,
+          "sitting": 30,
+          "sitting_date": "1985-11-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c020/tbmm17020fih.pdf",
+          "pages": [
+            "450"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 68,
+          "sitting_date": "1986-02-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025fih.pdf",
+          "pages": [
+            "179:180"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 69,
+          "sitting_date": "1986-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025069.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025fih.pdf",
+          "pages": [
+            "224"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 70,
+          "sitting_date": "1986-02-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025fih.pdf",
+          "pages": [
+            "259:260",
+            "263:266"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=201&v_kullanici_id=27483190",
+      "page_sha256": "a004580d4d1ccc63094c61508a9b07d742ad9b963b0cb5e4aa44d6643249876d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a004580d4d1ccc63094c61508a9b07d742ad9b963b0cb5e4aa44d6643249876d",
+  "issuer": "TBMM",
+  "in_force": "1986-02-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 20/02/1986; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
