@@ -1,0 +1,39 @@
+{
+  "source_id": "7.5.6060",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BAŞKAN VE ÜYELER DIŞINDAKİ SAYIŞTAY MESLEK MENSUPLARI HAKKINDA DİSİPLİN KOVUŞTURMASINI GEREKTİREN HALLERLE BUNLARA VERİLECEK DİSİPLİN CEZALARINA DAİR İÇYÖNETMELİK",
+  "number": "6060",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1968/6060",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6060&MevzuatTertip=5",
+  "source_sha256": "7ac1127ec7b8445d2ea3c8931478cd03b369d84142a8c5ba311676bd31c33597",
+  "source_bytes": 42642,
+  "published": "1968-07-26",
+  "gazette": "12960",
+  "in_force": "1972-10-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"R.G.28.10.1972\") for the current consolidated text",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1783,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete",
+  "date_evidence": [
+    [
+      "1972-10-28",
+      "R.G.28.10.1972",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1968-10-12",
+      "R.G.12.10.1968",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ]
+}
