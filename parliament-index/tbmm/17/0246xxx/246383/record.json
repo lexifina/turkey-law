@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 246383,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İstanbul Teknik Üniversitesinin 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981 ve 1982 Malî Yılları Kesinhesap Kanunu Tasarıları ile Bu Yıllara Ait Genel Uygunluk Bildirimlerinin Sunulduğuna İlişkin(1/385, 3/166; 1/386, 3/167; 1/387, 3/168; 1/388, 3/169; 1/389, 3/170; 1/390, 3/171, 1/391, 3/172; 1/392, 3/173; 1/393, 3/356; 1/394, 3/357; 1/395, 3/358; 1/396, 3/359; 1/397, 3/360;1/398,3/361;1/399,3/174)",
+  "title": "İstanbul Teknik Üniversitesinin 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981 ve 1982 Malî Yılları Kesinhesap Kanunu Tasarıları ile Bu Yıllara Ait Genel Uygunluk Bildirimlerinin Sunulduğuna İlişkin(1/385, 3/166; 1/386, 3/167; 1/387, 3/168; 1/388, 3/169; 1/389, 3/170; 1/390, 3/171, 1/391, 3/172; 1/392, 3/173; 1/393, 3/356; 1/394, 3/357; 1/395, 3/358; 1/396, 3/359; 1/397, 3/360;1/398,3/361;1/399,3/174)",
+  "first_sitting_date": "1986-02-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 25,
+      "sitting": 67,
+      "sitting_date": "1986-02-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025fih.pdf",
+      "pages": [
+        "144"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 68,
+      "sitting_date": "1986-02-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c025/tbmm17025fih.pdf",
+      "pages": [
+        "196:205"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1074&v_gelecek_sayfa=601&v_kullanici_id=27484336",
+  "source_sha256": "127b82bcef223c25cbcf53553a994d42de5959aae79ebcbf169fd9e76454e44b",
+  "in_force": "1986-02-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
