@@ -1,0 +1,107 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4128",
+  "year": 1995,
+  "title": "12.09.1960 Tarihli ve 80 Sayılı 29.06.1956 Tarihli ve 6762 Sayılı ve 10.06.1930 Tarihli ve 1705 Sayılı Kanun ile 24.06.1995 Tarihli ve 551, 552, 554, 555, 556 Sayılı Kanun Hükmünde Kararnameler ile 28.06.1995 Tarihli ve 560 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "1995-11-03",
+  "adopted_as_published": "03/11/1995",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.11.1995 No: 22456",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc078/kanuntbmmc078/kanuntbmmc07804128.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 78",
+  "committee_reports": [
+    {
+      "label": "TBMM 889 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c095/tbmm19095018ss0889.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 281951,
+      "title": "12.09.1960 Tarihli ve 80 Sayılı 29.06.1956 Tarihli ve 6762 Sayılı ve 10.06.1930 Tarihli ve 1705 Sayılı Kanun ile 24.06.1995 Tarihli ve 551, 552, 554, 555, 556 Sayılı Kanun Hükmünde Kararnameler ile 28.06.1995 Tarihli ve 560 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "03/11/1995",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc078/kanuntbmmc078/kanuntbmmc07804128.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 889 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c095/tbmm19095018ss0889.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 94,
+          "sitting": 13,
+          "sitting_date": "1995-10-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c094/tbmm19094013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c094/tbmm19094fih.pdf",
+          "pages": [
+            "607"
+          ]
+        },
+        {
+          "cilt": 95,
+          "sitting": 18,
+          "sitting_date": "1995-10-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c095/tbmm19095018.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c095/tbmm19095fih.pdf",
+          "pages": [
+            "345",
+            "380:417"
+          ]
+        },
+        {
+          "cilt": 95,
+          "sitting": 19,
+          "sitting_date": "1995-10-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c095/tbmm19095019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c095/tbmm19095fih.pdf",
+          "pages": [
+            "440:445"
+          ]
+        },
+        {
+          "cilt": 96,
+          "sitting": 20,
+          "sitting_date": "1995-11-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c096/tbmm19096020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c096/tbmm19096fih.pdf",
+          "pages": [
+            "21:95"
+          ]
+        },
+        {
+          "cilt": 96,
+          "sitting": 21,
+          "sitting_date": "1995-11-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c096/tbmm19096021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c096/tbmm19096fih.pdf",
+          "pages": [
+            "124:177",
+            "179:188",
+            "211:216"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=301&v_kullanici_id=27483194",
+      "page_sha256": "ee38aa25cdf2e92e09a604cd11038c74e41a0c5641c3632f22d17a1215389160"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "ee38aa25cdf2e92e09a604cd11038c74e41a0c5641c3632f22d17a1215389160",
+  "issuer": "TBMM",
+  "in_force": "1995-11-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 03/11/1995; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
