@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Harita ve Harita veya Deniz Bilgilerinin ve Hava Fotoğraflarının Yıllık Sayımı ve Kontrolü
+Madde 11 - Emniyet Genel Müdürlüğünde bulunan "GİZLİLİK" dereceli harita ve harita veya deniz bilgileri ve hava fotoğraflarının, İkmal ve Bakım Dairesi Başkanlığı Harita Mutemedi tarafından her yıl Şubat ayı içinde genel sayımı yapılır. Bu sayım sonunda, Harita Yönetmeliğinin 22/e maddesine göre düzenlenen HARİTA SAYIM GRAFİĞİ EK-7 ve FOTOĞRAF SAYIM ÇİZELGESİ EK-8 o yılın Mart ayında "Harita Genel Komutanlığına" ve "DENİZ BİLGİLERİ LİSTESİ" ise "Seyir, Hidrografi ve Oşinografi Daire Başkanlığına" gereği için ve "Genel Kurmay Başkanlığına" bilgi için gönderilir.
+Harita sayım grafiğinin düzenlenmesinde "TESELLÜM BELGELERİ" ndeki harita ölçekleri esas alınır. Bunların harita sayım grafiğine aktarılmasında usul bakımından ortaya çıkabilecek sorunlar Harita Genel Komutanlığı mal saymanlığı ile koordine edilerek çözümlenir.
+Yıllık sayım esnasında "GİZLİLİK" dereceli harita ve ilgili dokümanlar birim amirleri tarafından bizzat kontrol edilerek emniyet ve yıpranma bakımından görülen aksaklıklar rapor edilir ve düzeltici önlemler alınır.

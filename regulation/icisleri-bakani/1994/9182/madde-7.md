@@ -1,0 +1,4 @@
+Temini
+Madde 7 - İkmal ve Bakım Dairesi Başkanlığı ilgili Şube Müdürlüğü EK-3'te üst yazıya, gelen yazıdaki İSTEK FİŞİ (ler)'inin fotokopisini iliştirerek Güvenlik Belgesi ve Harita Genel Komutanlığından verilmiş yetki kimlik kartı bulunan birimde görevli harita mutemedi ile Harita Genel komutanlığına gönderir. Harita Mutemedi Ek-4'deki "TESELLÜM BELGESİ" ile, Harita ve Harita Bilgileri ve Hava Fotoğraflarını teslim alır.
+Gizlilik dereceli deniz bilgileri aynı şartlarla Seyir, Hidrografi ve Oşinografi Daire Başkanlığından temin edilir.
+Harita mutemedince temin edilen harita, harita bilgileri ve Hava Fotoğraflarının tesellüm belgeleri Emniyet Genel Müdürlüğü adına İkmal ve Bakım Dairesi Başkanlığınca tasdik edilir ve bir sureti Harita Genel Komutanlığına, Deniz Bilgileri ile ilgili olanlar Seyir, Hidrografi ve Oşinografi Daire Başkanlığına iade edilir.

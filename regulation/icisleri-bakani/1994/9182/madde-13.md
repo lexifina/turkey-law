@@ -1,0 +1,5 @@
+Harita ve Harita veya Deniz Bilgileri ve Hava Fotoğraflarının İadesi
+Madde 13 - Esas olarak gizlilik dereceli harita ve harita veya deniz bilgileri ve hava fotoğrafları hizmet gereği olarak temin edilir ve kullanılır. Gerekli faydalanma sağlanıp ihtiyaç bittiğinde teslim alındığı makama EK-9'daki üst yazıyla en kısa zamanda iade edilerek, zimmetten düşülür.
+Bununla birlikte, Emniyet Genel Müdürlüğü Harita Mutemedi, zimmetinde bu tür doküman bulunan birimleri, her yıl 1 Ocak-31 Ocak tarihleri arasında dokümanların teslim alınan birime iadesini sağlamak üzere bir yazı ile ikaz eder. Bu suretle dokümanların gereksiz yere tutulması önlenir ve henüz işi bitmeyen dokümanların da neler olduğu belirlenerek senet yenilemesi yapılır.
+Zimmetlerinde bulunan gizli dokümanları bu tarihler arasında gerekçesiz olarak teslim etmeyen sorumlular hakkında yazılı takibata geçilir.
+Ayrıca bu tespitler sırasında kullanılmayacak kadar yıpranmış olduğu görülen gizlilik dereceli haritalar Harita Genel Komutanlığına iade edilerek zimmetten düşürtülür veya gerekiyorsa yerine yenileri alınır.
