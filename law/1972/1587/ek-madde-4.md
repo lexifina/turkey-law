@@ -1,0 +1,2 @@
+EK MADDE 4- (Ek: 15/11/1984-3080/5 md.)
+İçişleri Bakanlığı Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü, Merkezi Nüfus İdaresi Sisteminin uygulanmasına geçilen yerlerden başlamak üzere. Türk vatandaşları ile Türkiye’de nüfus kaydı tutulan yabancılara nüfus kütüklerinde bilgi alışverişini kolaylaştırmaya ve kamu kuruluşlarında tutulan kayıtlar arasında bağ oluşturmaya esas olacak bir numara sistemi geliştirir. Bu numara bütün kamu kurum ve kuruluşlarının kayıtlarında esas alınır.

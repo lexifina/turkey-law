@@ -1,0 +1,1 @@
+MADDE 27- Medenî Kanunun yürürlüğe girdiği tarihten önce eski hükümlere göre yapılıp da halen nüfus kütüklerine işlenmemiş olan evlenmeler ilgililerin mahkemeden karar almaları suretiyle aile kütüğüne işlenebilir.

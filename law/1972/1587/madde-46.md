@@ -1,0 +1,6 @@
+BÖLÜM: 9
+Kayıt düzeltmeleri
+MADDE 46- Yaş, ad, soyadı ve diğer kayıt düzeltme davaları ilgilinin oturduğu yer asliye hukuk mahkemesinde Cumhuriyet savcısı ve nüfus başmemuru veya nüfus memuru huzuriyle görülür ve karara bağlanır.
+Bu davalar düzeltmeyi istiyenlerle, ilgili resmî dairenin göstereceği lüzum üzerine Cumhuriyet Savcıları tarafından açılabilir ve dinlenecek tanıklar, resmî kayıt örnekleri ve belgelerle ispat olunur. Şu kadar ki; ilgilinin görünüşü davayı yalanlayıcı olmaması şarttır. Ceza Muhakemeleri Usulü Kanunu hükümlerine göre ceza mahkemelerinde yapılacak yaş düzeltmesi işlerinde de nüfus başmemuru veya nüfus memuru taraf olarak bulunurlar.
+Mahkeme kararına karşı taraflar Yargıtay'a başvurabilirler, yaş, ad, soyadı ve kayıt düzeltmesi hakkındaki mahkemeden verilen kararlar kesinleştikten sonra ilgilinin aile kütüğüne geçirilir. Ad ve soyadının değiştirilmesi, din değiştirme suretiyle de olsa mahkeme karariyle yapılır. Adlarını değiştirenlerin aile kütüğünde yazılı çocuklarının baba veya ana adları, soyadlarını değiştirenlerin yalnız eşiyle reşidolmayan çocuklarının soyadları birlikte değiştirilir. Yaş düzeltme davası ancak bir defa açılabilir.
+Yaş, ad, soyadı değiştirenler askerlik ödevliliği içinde iseler yapılan düzeltmeler nüfus idarelerince onbeş gün içinde askerlik şubelerine de bildirilir.

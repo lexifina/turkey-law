@@ -1,0 +1,2 @@
+MADDE 18- Doğum evlerinde, hastanelerde ceza ve tevkif evlerinde, vapur, tren, uçak gibi genel yolcu taşıtlarında olan doğumların yazdırılması ödevliliği de 16 ncı maddede belirtilen kişilere aittir.
+Genel taşıtlar yurt dışına gidiyorsa vapur süvarisi veya taşıt amirinin iki tanıkla beraber imza edecekleri örneğine uygun iki nüsha tutanak yapılır Baba, ana, veli veya vasiye verilir Bunlarda ilk uğrayacakları yer Türkiye Cumhuriyeti elçilik veya konsolosluklarına göndermek suretiyle bir ay içinde babanın yoksa ananın kayıtlı olduğu nüfus dairesine tescil ettirirler.

@@ -1,0 +1,1 @@
+MADDE 60- Nüfus memurları her yıl 20 yaşına basan bölgesindeki bütün erkeklerin bir defterini çıkarıp Aralık ayı başında askerlik şubesine vermek ve bildirmesi gereken malûmatı vaktinde göndermekle ödevlidirler.

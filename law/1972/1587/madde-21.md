@@ -1,0 +1,2 @@
+MADDE 21- Yeni doğmuş çocuk bulanlar köylerde muhtarlara kasaba ve şehirlerde karakollara bildirmekle ödevlidirler.
+Bu haberi alan muhtar ve karakol amiri çocuğun cinsiyetini ve üzerinde bulunan eşyayı gösterir etraflı üç nüsha tutanak düzenleyip bir nüshası ile birlikte çocuğu belediyeye diğer iki nüshasını da nüfus memuruna yollarlar. Bu tutanakları alan nüfus memuru ana ve baba ismi ve soyadı takarak ve çocuğu da adlandırmak suretiyle çocuğun bulunduğu yer aile kütüğünün son sayfasına tescil eder.

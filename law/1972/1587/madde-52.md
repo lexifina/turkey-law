@@ -1,0 +1,9 @@
+BÖLÜM: 3
+Ceza hükümleri
+MADDE 52- (Değişik:03/10/1990-3669/1 md.)
+Bu Kanuna göre;
+a) Nüfus ve kişisel hal olaylarını bildirmekle görevli olup, bu görevlerini Kanunda belirtilen süreler içinde yerine getirmeyen kamu görevlisine, fiil başka bir suç oluştursa bile, o yer nüfus müdürlüğünün teklifi üzerine mahalli mülkî idare amirinin kararıyla yedimilyonbeşyüzbin lira para cezası verilir.[1]
+b) Nüfus ve kişisel hal olaylarım bildirme yükümlülüğünü Kanunda belirtilen süre içinde yerine getirmeyen, 28 inci maddeye aykırı davranan, nüfus ve aile cüzdanlarını kaybedenler ile nüfus cüzdanının geçerlilik süresinin son bulmasından itibaren 2 ay içinde bu cüzdanlarını değiştirmeyen kişilere veya bu durumdaki küçüklerin veli veya vasilerine, yurt içinde nüfus müdürlerinin teklifiyle mülkî idare amirlerince, yurt dışında Türkiye başkonsoloslarınca veya büyükelçilik ile elçilik bünyesinde konsolosluk şubesini tedvire memurlarca onbeşmilyon lira para cezası verilir.[2]
+İlgililer, mülkî idare amirlerince verilen para cezalarına yetkili idare mahkemesine, yurt dışında verilen para cezalarına karşı ise, dış temsilcilikler aracılığı ile nüfusta kayıtlı olan yer idare mahkemesine, tebliğ tarihinden itibaren yedi gün içinde itiraz edebilirler. İtiraz, idarece tesis edilen işlemin yerine getirilmesini durdurmaz. İtiraz halinde mahkemece evrak üzerinde inceleme yapılarak, itirazın mahkeme kayıtlarına intikal tarihinden itibaren en geç bir ay içinde bir karar verilir. İtiraz üzerine mahkemece verilen kararlar kesin olup, bu kararlara karşı herhangi bir kanun yoluna başvurulamaz.
+Yukarıdaki fıkralarda belirtilen para cezaları 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil edilir.
+Yurt dışında verilen para cezaları, işlem sırasında mahalli para karşılığı üzerinden tahsil edilir.

@@ -1,0 +1,1 @@
+MADDE 54- Şahsi hal belgeleri ve aile kütüklerinin iyi tutulmamasından, saklanmamasından ve memurun başka yere kaldırması veya memuriyetten ayrılması halinde devir ve teslimin usulüne göre yapılmamasından nüfus memurlariyle bu işleri yaptırmakla ödevli il nüfus müdürleri ve nüfus başmemurları şahsen sorumludurlar.

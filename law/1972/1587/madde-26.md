@@ -1,0 +1,1 @@
+MADDE 26- Evlenme memuru tarafından evlenmeleri yapılan ve mutlak butlanı haiz olmıyan evlenmelerle, kanunî şekillere riayet edilmeksizin yapılan ve feshi gerektirmeyen evlenmeler aile kütüklerine tescil edilmekle beraber olay Cumhuriyet Savcılığına bildirilir.

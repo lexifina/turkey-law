@@ -1,0 +1,6 @@
+MADDE 3- Her il merkez ve bağlı ilçelerinde bir nüfus başmemuru ile aşağıdaki nüfus sayısı hesabına göre memur ve birer kâtip bulunur.
+Yirmibine kadar bir, kırkbine kadar iki, altmışbine kadar üç, seksenbine kadar dört, yüzbine kadar 5 memur bulunur. Daha fazla nüfuslu ilçeler için aynı hesap yürütülerek memur adedi artırılır.
+Nüfus başmemur, memur ve kâtiplerini kadro, yer ve unvanlarına bakılmaksızın lüzum görülen yerlerde görevlendirmeye, gerekli görülen bölgelerde gezici nüfus memurları çalıştırmaya İçişleri Bakanlığı yetkilidir.
+Nüfus başmemurları ilçede nüfus işlerinin genel idaresinden ve denetlenmesinden, haberleşme işlerinden sorumlu olup, ilçe ve gezici nüfus memurlarını teftişe ve resmi kurullarda, mahkemelerde bulunmaya yetkilidir.
+Her nüfus memuru; doğum, ölüm, evlenme, boşanma, yer değiştirme, evlât edinme, tanıma, kayıt ve nesep tashihi gibi nüfus olaylarını yazmak ve kütüklere işlemek ve yeni doğanlara nüfus cüzdanı vermek, cüzdan değiştirmek, istatistikleri tutmak ve başmemur tarafından verilen işleri yapmakla görevli ve bu işlerden sorumludur.
+Nüfus memurlarının her hangi bir sebeple vazife yapmadıkları hallerde bunlara ait işler başmemur ve kâtipler tarafından yürütülür.

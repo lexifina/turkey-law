@@ -1,0 +1,1 @@
+MADDE 59- Doğum tarihlerinde doğum yılı yazılıp doğum ay ve günü yazılmamış olanların yaşlarının hesaplanmasında doğduğu yılın temmuz ayının birinci günü, ayı yazılıp da günü belli olmayanlarda o ayın birinci günü başlangıç tutulur. Eski kayıtlar için 13 günlük takvim farkı saklıdır.

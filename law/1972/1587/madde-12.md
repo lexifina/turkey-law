@@ -1,0 +1,1 @@
+MADDE 12- Yabancı devlet vatandaşlarının doğum, ölüm olayları başvurmaları üzerine olayın olduğu yer nüfus memurluğunca iki nüsha tutanakla tespit edilir. İstemeleri üzerine bir nüshası kendilerine verilir. Bunlar aile kütüklerine işlenmez, özel bir dosyada saklanır.

@@ -1,0 +1,2 @@
+MADDE 39- Savaş, ayaklanma alanlariyle, eşkiya çarpışmasında ölen subay, askerî memur, astsubay, erbaş ve erlerle diğer askerî şahısların kimlikleri ve ölümleri orduca uygulanan usul dairesinde üçer nüsha örneğine uygun ölüm tutanakları ile tespit olunur.
+Erlere ait tutanaklar askerlik şubeleri; subay, askerî memur, astsubay ve diğer askerî şahıslara ait tutanaklar da Millî Savunma Bakanlığı yolu ile aile kütüklerinin bulunduğu nüfus memurluğuna ve ailesine yollanır.

@@ -1,0 +1,1 @@
+MADDE 45- Her aile kütüğü soyadına göre düzenlenip kapağının iç tarafına kütükte yazılı ailelerin soyadları üzerine alfabe sırasına göre fihristini yaparak yapıştırmak mecburidir. Ayrıca her nüfus dairesinde bölgesi aile kütüklerinin soyadlarına ait alfabetik bir fihrist tutulur.

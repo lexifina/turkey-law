@@ -1,0 +1,2 @@
+MADDE 56- İşinden her hangi bir sebeple ayrılan nüfus memuru yerine gelen memura henüz gelmemişse geldiğinde devredilmek üzere en büyük idare amiri tarafından gösterilen kimseye düzgün devir vermeye ve dört nüsha devir tutanağı yapmaya mecburdur.
+Nüfus memurunun ölümü veya devir yapmasına imkân vermiyecek surette işten ayrılması, izinli ve raporlu bulunması halinde idare amirince tayin edilecek bir kurul tarafından bu devir aynı şekilde yapılır. Devir ve teslim işlerinin ne yolda yapılacağı ve nelerin devredileceği yönetmelikte gösterilir.

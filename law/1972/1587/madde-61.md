@@ -1,0 +1,1 @@
+MADDE 61- Her nüfus dairesi diğer nüfus dairelerinden askerlik şubesi ve adalet mercilerinden istenilen bilgiler ve kopyaları onaylı olarak verir. Bunların dışında mahallin en büyük idare amirinin yazılı emri olmadıkça hiçbir daireye kopya, özet ve bilgi veremezler.

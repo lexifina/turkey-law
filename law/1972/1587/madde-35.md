@@ -1,0 +1,2 @@
+MADDE 35- Ölüm olaylarını köylerde muhtar; şehir ve kasabalarla sağlık teşkilâtı bulunan diğer yerlerde gömme izni verenler nüfumemurlarına bildirmekle ödevlidirler.
+Ölüm haberini alan köy muhtarı ile diğer ödevliler, örneğine uygun üç nüsha ölüm tutanağı doldurup bunları bildirenle iki tanığa imzalatır, kendisi de imza ettikten sonra iki nüshasını on gün içinde nüfus memurluğuna gönderir. Gezici memur bulunan bölgelerde memur köye geldiğinde verilir.
