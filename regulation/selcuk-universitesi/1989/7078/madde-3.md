@@ -1,0 +1,23 @@
+Çalışmalar:
+Madde3-Amacın doğrultusunda:
+a)Yenen mantarların kültür şartlarını tespit edip, kültüre almak,
+b) Yemeklik mantarları ve miselinin üretimini devamlı yapmak, bu konuda iç ve dış pazar isteklerini karşılamak,
+c)Üretici kursu düzenlemek, öğrenenlere belge vermek,
+d)Kültür mantarcılığı konusunda araştırma yapmak, araştırma yapanlara imkân sağlamak,
+e) Üniversitenin ilgili ve istekli öğrencilerine, yaz kursları düzenlemek, ilgili bölümlere uygulama imkanı sağlamak,
+f) Mantar yetiştiricilerinin her türlü problemlerini çözmek üzere bilimsel yönden yardımcı olmak, gerektiğinde danışmanlık hizmeti vermek,
+g) Kültür mantarcılığını geliştirmek için, gerekli olan şart ve imkânları yaratmak,
+h) Mantarların "değerlendirilmesi" konularında araştırma yapmak,
+ı) Ülkemizde zehirli mantarların türlerini ev yayılış alanlarını tespit etmek,
+i) Tespit edilen zehirli türlerin toksik maddelerinin araştırılması için çeşitli bilim dallarında çalışanlara yardımcı olmak,
+j) Mantar zehirlenmesi olan yerlere giderek, türlerini tespit etmek ve hekimlere zehirli mantar türü hakkında bilgi vermek,
+k) Toplan zehirli mantarlarla ilgili, halka yayın araçlarıyla doğru bilgi vermek,
+l) Türkiye'de yetişen yenen ve zehirli mantarların araştırmalarına devam ederek, numunelerini toplamak, renkli resimlerini ve slaytlarını çekmek, gerektiğinde filme almak,
+m) Türkiye mantarlarını (yenen-yenmez-zehirli mantarları) kapsayan sistematik kurala göre yapılmış "Mantar Herbaryumu"nu oluşturmak,
+n) Yenen ve zehirli mantarlarla, kültür mantarcılığı konularında ulusal ve uluslar arası; Seminer, Panel, Sempozyum ve Kongreler düzenlemek,
+o) Dünya'da bugüne kadar yayınlanmış olan; yenen mantarlar, zehirli mantarlar ve kültür mantarcılığı ile ilgili kitap ve literatürleri temin etmek, bundan sonra yayınlananları da getirterek, "Mantarcılık Uygulama ve Araştırma Merkezi Kitaplığı"nı kurmak,
+ö) Mantarcılık Uygulama ve Araştırma Merkezini simgeleyen, mantarcılık araştırmalarını kapsayan "Mantarcılık Uygulama ve Araştırma Dergisi"ni periyodik olarak çıkarmak,
+p) İstenildiğinde yenen ve zehirli mantarlarla, kültür mantarcılığı konularında rapor verebilmek,
+r) Usulüne göre gönderilen, numunelerin ve türlerin teşhisini yapmak,
+s) Türkiye'de bu konulardaki çalışmaları koordine etmek,
+ş) yeterince çalışma yapıldığında Türkiye Mantarlarını "Kitap" seklinde yayınlamak.

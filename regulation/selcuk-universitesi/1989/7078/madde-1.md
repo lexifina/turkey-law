@@ -1,0 +1,1 @@
+Madde 1- Selçuk Üniversitesi Rektörlüğü'ne bağlı bir birim olmak üzere 2547 sayılı Kanunun 2880 sayılı Kanunla değişik 7/d-2 uyarınca ve Yükseköğretim Kurulu'nun 10/5/1989 tarih ve EÖ/07.04.004/1563 sayılı kararı gereğince "Mantarcılık Uygulama ve Araştırma Merkezi" kurulmuştur.
