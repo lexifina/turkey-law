@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-16/2004-8/Gelirin toplanması ve beyanı-1",
+  "source_id": 641,
+  "date": "2004-02-11",
+  "title": "Gelir Vergisi Kanununda toplama yapılmayan haller ve 2003 yılı gelirlerinin toplanması ve beyanına ilişkin açıklamalar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/641",
+  "source_sha256": "d01474419214cbbdba56107ad5e67e4b8a8c04face36b87cc5d9ed6161d28f08",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
