@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3657",
+  "year": 1939,
+  "title": "İskân kanununun bazı maddelerini değiştiren 2848 numaralı kanunun 3. ve 2510 numaralı kanunun 31. maddelerini tadil eden kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-07-05",
+  "gazette_issue": "4250",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4250.pdf",
+  "source_sha256": "5cec44a5d0fc96c62c0767bd35a1a357cb587d5fae8d9ba9eabcfd7d33e7134d",
+  "text_sha256": "9732e399e0b78cc2c24fd68d1589caaacd55ab8d78b45d6374bd65bcea93eb23",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      56,
+      129
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003657.pdf",
+    "source_sha256": "26bc6124a62d67d1e851203d615662bff3b8d36eff7be2aa6601ba90df4459a6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9748,
+    "bag": 0.937,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9958,
+    "rg_words": 478,
+    "kd_words": 476,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
