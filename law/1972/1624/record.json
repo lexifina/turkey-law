@@ -1,0 +1,136 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1624",
+  "year": 1972,
+  "title": "1472 sayılı Özel Yüksek Okul öğrencilerinin öğrenimlerine devam edebilmeleri için açılacak resmi yüksek okullar hakkındaki Kanunun 24. maddesinin değiştirilmesine vs 3. maddeye bir fıkra eklenmesine dair Kanun",
+  "adopted": "1972-09-26",
+  "adopted_as_published": "26/09/1972",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "04.10.1972 No: 14326",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501624.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 55",
+  "committee_reports": [
+    {
+      "label": "MM 737 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026134ss0737.pdf"
+    },
+    {
+      "label": "CS 140no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c006/cs__11006086ss0140.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 387553,
+      "title": "1472 sayılı Özel Yüksek Okul öğrencilerinin öğrenimlerine devam edebilmeleri için açılacak resmi yüksek okullar hakkındaki Kanunun 24. maddesinin değiştirilmesine vs 3. maddeye bir fıkra eklenmesine dair Kanun",
+      "adopted_as_published": "26/09/1972",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501624.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 737 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026134ss0737.pdf"
+        },
+        {
+          "label": "CS 140no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c006/cs__11006086ss0140.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 26,
+          "sitting": 123,
+          "sitting_date": "1972-07-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026123.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026fih.pdf",
+          "pages": [
+            "421"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 133,
+          "sitting_date": "1972-09-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026133.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026fih.pdf",
+          "pages": [
+            "870"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 134,
+          "sitting_date": "1972-09-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026134.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026fih.pdf",
+          "pages": [
+            "917:921"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=901&v_kullanici_id=27483225",
+      "page_sha256": "73570ac7e4b721378f174dbeceb43694614658149f4ee213db0ea84494175c07"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 319882,
+      "title": "1472 sayılı Özel Yüksek Okul öğrencilerinin öğrenimlerine devam edebilmeleri için açılacak resmi yüksek okullar hakkındaki kanunun 24 ncü maddesinin değiştirilmesine ve 3 ncü maddeye bir fıkra eklenmesine dair Kanun",
+      "adopted_as_published": "26/09/1972",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501624.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 737 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c026/mm__03026134ss0737.pdf"
+        },
+        {
+          "label": "CS 140no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c006/cs__11006086ss0140.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 85,
+          "sitting_date": "1972-09-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c006/cs__11006085.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c006/cs__11006fih.pdf",
+          "pages": [
+            "109"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 86,
+          "sitting_date": "1972-09-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c006/cs__11006086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c006/cs__11006fih.pdf",
+          "pages": [
+            "130",
+            "142:143"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1601&v_kullanici_id=27483235",
+      "page_sha256": "d8af68d8dd0cd7bf3b6bd7cffb9ae8907f171fdba41142c0508421068a399a80"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "73570ac7e4b721378f174dbeceb43694614658149f4ee213db0ea84494175c07",
+  "issuer": "Millet Meclisi",
+  "in_force": "1972-09-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 26/09/1972; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
