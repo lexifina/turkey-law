@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "195",
+  "decision_date": "2003-08-28",
+  "title": "1 Eylül 2003 tarihinden geçerli olmak üzere TEDAŞ tarafından uygulanacak olan Perakende Satış Tarifeleri hakkında",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0ykY+xVqu4s=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0ykY+xVqu4s="
+  ],
+  "source_sha256": "5b179f420c27d1d6fc862db03f5e1357dc3e7851aab4c39b536cf05de6a35be9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-08-28",
+  "law_text_complete": false
+}
