@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "107",
+  "decision_date": "2003-03-21",
+  "title": "Başkent Elektrik Dağıtım Anonim Şirketi tarafından uygulanacak dağıtım sistem kullanım fiyatları ve bağlantı bedellerinin uygulanma esasları hakkında",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U21CAbKKlSM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U21CAbKKlSM="
+  ],
+  "source_sha256": "e836c33158f9a4e89ed7df9150c9f900185f359c30b7f4e16e64bf24596b8b23",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-03-21",
+  "law_text_complete": false
+}
