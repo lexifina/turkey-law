@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.6058",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAYIŞTAYIN İDARİ İŞLEM VE YAZIŞMALARIYLA İLGİLİ BELGELERİN YOK EDİLMESİ HAKKINDA YÖNETMELİK",
+  "number": "6058",
+  "issuer": "Sayıştay Başkanı",
+  "issuer_slug": "sayistay-baskani",
+  "path": "regulation/sayistay-baskani/1982/6058",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6058&MevzuatTertip=5",
+  "source_sha256": "9b2af958ab9deb7fa558a77fa245fe874da57f65df9a0ae24024a3cd99bd177c",
+  "source_bytes": 10964,
+  "published": "1982-05-26",
+  "gazette": "17705",
+  "in_force": "1982-05-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.05.1982); own commencement article: \"bu Yönetmelik hükümleri, Resmi Gazete ile yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik hükümleri, Resmi Gazete ile yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 255,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
