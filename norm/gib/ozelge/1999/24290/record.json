@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102-137/12766",
+  "source_id": 24290,
+  "date": "1999-03-26",
+  "title": "Hayat standardı esasına göre tespit edilen kazanç düşüklüğünün tamamını zirai kazançla izah ettiğinden geçici vergi uygulanmaması gerekmektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24290",
+  "source_sha256": "804c1875e59cfdede585d0173d06708a412fb2d7e7adf7ab239ad10fab56bd56",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
