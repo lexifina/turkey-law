@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6652-",
+  "source_id": 37020,
+  "date": "2003-12-02",
+  "title": "Emlak vergisine ait daimi muaflıklar hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37020",
+  "source_sha256": "d76b56d5bc01b8486bb50ac55ad8247d9684c51dbb28656fee86fa03a035e488",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
