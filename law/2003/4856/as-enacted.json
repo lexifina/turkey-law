@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4856",
+  "year": 2003,
+  "title": "Çevre ve Orman Bakanlığı Teşkilat ve Görevleri Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-05-08",
+  "gazette_issue": "25102",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/05/20030508.htm",
+  "source_sha256": "4d465e8fcc6ab176bb9a7274b57ceabae0bb802d6e4bfbf74cff9ecb00522f15",
+  "text_sha256": "8c2a93d78ac7652e62afbaed4143bef637dcec86e2f4a10fde584a96cdb56428",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/05/08/25102-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/05/20030508.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
