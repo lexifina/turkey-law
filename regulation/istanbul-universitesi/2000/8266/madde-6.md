@@ -1,0 +1,1 @@
+Madde 6 — İşletme İktisadı Enstitüsü sertifika programları ve tezsiz yüksek lisans programları, Enstitü Kurulunda görüşülür ve bu kurul tarafından onaylanır. Sertifika Programlarında ve Tezsiz Yüksek Lisans Programlarında hangi derslerin yer alacağı ve bu derslerin hangi öğretim üyeleri tarafından verileceği Enstitü Kurulu tarafından belirlenir.

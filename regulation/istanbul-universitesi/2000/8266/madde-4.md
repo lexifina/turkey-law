@@ -1,0 +1,3 @@
+Madde 4 — İşletme İktisadı Enstitüsü'nün anabilim dalları; Genel İşletmecilik Anabilim Dalı ve İstanbul Üniversitesi İşletme Fakültesinde mevcut olan anabilim dallarıdır. Bu anabilim dallarına bağlı olarak, Enstitü'nün amaçları açısından gereksinim duyulan değişik işletmecilik eğitim ve öğretim alanlarında bilim dalları oluşturulabilir.
+Genel İşletmecilik Anabilim Dalı Başkanı İşletme İktisadı Enstitüsü Müdürü tarafından atanır. İşletme Fakültesi Anabilim Dalı Başkanları aynı zamanda İşletme İktisadı Enstitüsü Anabilim Dalı Başkanları olarak görev yaparlar.
+Enstitü Anabilim Dalı Başkanları, Fakültede Anabilim Dalı Başkanlarına verilen görevleri Enstitü bakımından yerine getirirler.
