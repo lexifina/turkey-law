@@ -1,0 +1,2 @@
+Katkı maddeleri
+Madde 6 — Bu Tebliğ kapsamında yer alan ürünler "Türk Gıda Kodeksi Yönetmeliği"nin Gıda Katkı Maddeleri bölümünde yer alan hükümlere uygun olmalıdır.
