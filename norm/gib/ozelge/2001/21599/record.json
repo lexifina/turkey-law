@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/ 4213-1532/13142",
+  "source_id": 21599,
+  "date": "2001-03-02",
+  "title": "Kurumun personeline ödediği teşvik tazminatının gelir vergisinden istisna edilip edilmeyeceği hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21599",
+  "source_sha256": "af3264c552441486f93a2d842d76b9497fba8b5542371bfee87e7089328b6447",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
