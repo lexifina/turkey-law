@@ -1,0 +1,6 @@
+Askerlik Şubesi Başkanlıklarınca Yapılacak İşler
+Madde 6 – Askerlik Şubesi Başkanlıklarının ilk yoklamaya ilişkin görevleri şunlardır:
+a)Her yıl Aralık ayının ilk haftasında, müteakip yıl askerlik çağına girecek yükümlüler hakkında 5 inci madde esaslarına göre tanzim edilmesi gereken EK-A ve EK-B çizelgelerinin engeç Ocak ayının 15 inde askerlik şubelerinde bulundurulması, yeteri kadar çizelge de gönderilerek, nüfus idarelerinden istenir.
+b)Nüfus idarelerinden gelen kimlik çizelgeleri kütük ve bilgisayar kayıtlarına işlenir ve tanzim edilen ilk Yoklama Kimlik Çizelgeleri (EK-C) 1 Mart tarihine kadar mülki makama gönderilerek, bu çizelgelerin mahalle ve köy muhtarlıklarınca, 1 Nisan tarihinden 30 Nisan’a kadar uygun yerlerde asılmak suretiyle ilan edilmesinin sağlanması ve 15 Mayıs’a kadar askerlik şubesine iadesi bir yazı ile istenir.
+c) İlk Yoklama Kimlik Çizelgelerinin (EK-C) bir örneği de 1 Nisan-30 Nisan tarihleri arasında askerlik şubelerinin ilan panosunda asılarak ilan edilir.
+d) Askerlik şubelerine iade edilen kimlik çizelgeleri ve tutanaklar ile kütük defterlerindeki bilgilar karşılaştırılır, tespit edilen noksanlık veya değişiklikler nüfus idarelerine bildirilir ve alınacak cevaplara göre kütük defterleri ve bilgisayar kayıtlarında gerekli düzeltmeler yapılır.

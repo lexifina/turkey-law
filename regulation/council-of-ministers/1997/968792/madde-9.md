@@ -1,0 +1,3 @@
+Yükümlülerin Yapacağı İşler
+Madde 9 – 1 Nisan ile 30 Nisan tarihleri arasında askıya çıkarılan kimlik çizelgeleri yükümlülere tebliğ mahiyetindedir. O yıl askerlik çağına giren yükümlüler, askerlik şubelerinde ve kayıtlı bulundukları mahalle veya köy muhtarlıklarınca askıya çıkarılan kimlik çizelgelerini incelemekle sorumludurlar.
+O yıl askerlik çağına girdikleri halde askıya çıkarılan kimlik çizelgelerinde, kimlikleri yazılı olmayanlar ile kayıtlarına ilişkin bilgilerde eksiklik veya yanlışlık bulunan yükümlüler, kimliklerinin çizelgeye yazılması ya da eksiklik veya yanlışlıkların düzeltilmesi için 15 Mayıs tarihine kadar nüfus idarelerine müracaat ederek gerekli işlemi yaptırtmaya mecburdurlar.
