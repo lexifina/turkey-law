@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5014",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti ile Yunanistan Cumhuriyeti Arasında Doğal Afetlere Karşı Türk-Yunan Ortak Görev Gücü Kurulmasına İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-12-09",
+  "gazette_issue": "25311",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031209.htm",
+  "source_sha256": "581a0d8fb70afd343166de36e2af22cbc90029a5896d89eda374e55e433d14b0",
+  "text_sha256": "0f9527b8f0e654479f2ef35f1a7eed9ad3d5bddf9eb79e023c49454a169fd6c4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/12/09/25311-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031209.htm#9",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
