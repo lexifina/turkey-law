@@ -1,0 +1,5 @@
+Akademik Kurulların oluşması
+MADDE 4. Akademik kurullardan;
+a) Akademik Genel Kurul, ilgili fakülte, yüksekokul, konservatuvar ve meslek yüksekokulunda o dönemde her ne suretle olursa olsun fiilen eğitim-öğretimle görevlendirilmiş bulunan öğretim üyeleri ve okutmanlardan oluşur. Kurulun başkanı, ilgili yükseköğretim kurumunun yöneticisidir. Yöneticinin bulunmadığı hallerde, kurula vekili başkanlık eder.
+b) Akademik Bölüm Kurulu ilgili bölümde fiilen eğitim-öğretim görevi yapmakta olan öğretim üyeleri, öğretim görevlileri ve okutmanlardan oluşur. Kurulun başkanı, ilgili bölüm başkanıdır. Bölüm başkanının bulunmadığı hallerde kurula yardımcısı başkanlık eder.
+c) Akademik Anabilim (Anasanat) Kurulu, ilgili anabilim (anasanat) dalında fiilen eğitim–öğretim görevi yapmakta olan öğretim üyeleri ve öğretim görevlilerinden oluşur. Kurulun başkanı ilgili anabilim (anasanat) dalı başkanıdır. Anabilim (Anasanat) dalı başkanının bulunmadığı hallerde, kurula en kıdemli öğretim üyesi başkanlık eder.
