@@ -1,0 +1,1 @@
+Geçici Madde 1- 14.11.1963 tarih ve 11555 sayılı Resmi Gazete'de yayımlanan mülga Sigorta Prodüktörleri Yönetmeliği hükümlerine göre süresiz olarak verilen prodüktörlük belgeleri Birlikçe yenileriyle değiştirilir. Prodüktörlük belgesini bu Yönetmeliğin yürürlüğe giriş tarihinden itibaren bir yıl içinde değiştirmeyenlerin belgeleri geçersiz sayılır.
