@@ -1,0 +1,181 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1902",
+  "year": 1975,
+  "title": "Belediyelerin, belediyelere bağlı müessese ve işletmelerin, Köy Tüzel kişiliklerinin Kamu İktisadî Teşebbüslerinin ve Tekel Genel Müdürlüğünün bir kısım borçlarının tahkimi hakkında Kanun",
+  "adopted": "1975-05-22",
+  "adopted_as_published": "22/05/1975",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "31.05.1975 No: 15251",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801902.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 58",
+  "committee_reports": [
+    {
+      "label": "MM 98 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008033ss0098.pdf"
+    },
+    {
+      "label": "MM 98ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012080ss0098ek01.pdf"
+    },
+    {
+      "label": "CS 440no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021051ss0440.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 448256,
+      "title": "Belediyelerin, belediyelere bağlı müessese ve işletmelerin, Köy Tüzel kişiliklerinin Kamu İktisadî Teşebbüslerinin ve Tekel Genel Müdürlüğünün bir kısım borçlarının tahkimi hakkında Kanun",
+      "adopted_as_published": "22/05/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801902.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 98 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008033ss0098.pdf"
+        },
+        {
+          "label": "MM 98ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012080ss0098ek01.pdf"
+        },
+        {
+          "label": "CS 440no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021051ss0440.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 100,
+          "sitting_date": "1974-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006100.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006fih.pdf",
+          "pages": [
+            "269"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 107,
+          "sitting_date": "1974-07-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006107.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c006/mm__04006fih.pdf",
+          "pages": [
+            "510"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 33,
+          "sitting_date": "1975-01-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008fih.pdf",
+          "pages": [
+            "333:342"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 80,
+          "sitting_date": "1975-05-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012fih.pdf",
+          "pages": [
+            "259",
+            "292:294"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=301&v_kullanici_id=27483225",
+      "page_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 325113,
+      "title": "Belediyelerin, Belediyelere bağlı müessese ve işletmelerin, Köy Tüzel Kişiliklerinin kamu iktisadi teşebbüslerinin ve Tekel Genel Müdürlüğünün bir kısım borçlarının tahkimi hakkında kanun.",
+      "adopted_as_published": "22/05/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801902.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 98 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008033ss0098.pdf"
+        },
+        {
+          "label": "MM 98ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012080ss0098ek01.pdf"
+        },
+        {
+          "label": "CS 440no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021051ss0440.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 18,
+          "sitting": 25,
+          "sitting_date": "1975-02-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c018/cs__14018fih.pdf",
+          "pages": [
+            "644"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 43,
+          "sitting_date": "1975-03-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021fih.pdf",
+          "pages": [
+            "266"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 48,
+          "sitting_date": "1975-04-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021fih.pdf",
+          "pages": [
+            "406"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 51,
+          "sitting_date": "1975-04-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021fih.pdf",
+          "pages": [
+            "616:621"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1901&v_kullanici_id=27483235",
+      "page_sha256": "b03516e6e4516fd0e8518e72928e38bf7e13c854ce0bd904282a9e657cec2cef"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb",
+  "issuer": "Millet Meclisi",
+  "in_force": "1975-05-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 22/05/1975; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
