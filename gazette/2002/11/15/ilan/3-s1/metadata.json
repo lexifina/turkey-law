@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-11-15",
+  "issue": "24937",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Türk Standardları Enstitüsünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021115-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (56 = 56)",
+  "ilan_codes": [
+    "32224/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021115-3.htm",
+  "category_page_sha256": "ce3a93586c7ff63fa5300e28bd4b9985e00fac3604795eeae913517e93a5c8c3",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/11/20021115.htm",
+  "index_sha256": "df494e18994368e70eb9bc53766b321a4068aa7de8ae05e4bd55268db7ff120f",
+  "index_header": "15 Kasım 2002 ... Sayı : 24937",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
