@@ -1,0 +1,2 @@
+[1] Herne kadar, bu Tüzüğün dayanağını teşkil eden 5613 sayılı Kanun yürürlükten kalkmış ise de, 9/5/1985 tarih ve 3202 sayılı Kanunun geçici 6 ncı maddesi gereğince bu konuda yeni tüzük çıkıncaya kadar bu Tüzüğün sözkonusu kanuna aykırı olmayan hükümleri uygulanacaktır.
+[2] Bu Tüzükte geçen "işten elçektirme" deyimi, 15/5/1975 tarih ve 7/10000 sayılı Kararname ile yürürlüğe konulan Tüzüğün 2 nci maddesiyle "görevden uzaklaştırma" olarak değiştirilmiştir.

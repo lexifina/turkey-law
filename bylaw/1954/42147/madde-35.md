@@ -1,0 +1,1 @@
+Madde 35 – Müfettişler, numaralı resmi mühürlerini ve şifre anahtarlarını herhangi bir suretle başkasının eline geçmiyecek şekilde saklamağa ve kendilerine verilen demirbaş eşyanın iyi bir halde muhafazasını temine mecburdurlar.

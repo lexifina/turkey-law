@@ -1,0 +1,1 @@
+Madde 11 – Müfettişler, vazifelerine müteallik hususlar için gerek bulundukları mahallerdeki ve gerekse o yerlerdeki resmi ve hususi bütün makam ve şahıslarla muhabere edebilirler. Vekaletler ve merkez daireleriyle yapılacak muhabereleri Teftiş Heyeti Reisliği yoliyle yaparlar.

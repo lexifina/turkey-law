@@ -1,0 +1,1 @@
+Madde 20 – Cevaplı rapora dercolunan herhangi bir hususun derhal kanuni mecraya sokulmasında acil zaruret mütalaa olunduğu hallerde, keyfiyet ayrıca memurun amirine ve Genel Müdürlüğe bir tezkere ile bildirilir.

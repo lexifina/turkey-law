@@ -1,0 +1,1 @@
+Madde 30 – Müfettişler tahkikat esnasında memurların inzibati cezayı müstelzim fiil ve hareketlerinin vukuunu tesbit ettikleri takdirde, bu hususta ayrı bir rapor hazırlıyarak Genel Müdürlüğe gönderirler.

@@ -1,0 +1,1 @@
+Madde 14 – Müfettişler, başladıkları teftiş, tetkik ve tahkik işlerini ara vermeden bizzat ifa ve yerinde ikmal etmeğe ve tehir zarureti hasıl olduğu veya tahkikatın intaci başka yerlerde de tetkikat ve tahkikat icrasına mütevakkıf bulunduğu takdirde, keyfiyeti hemen Genel Müdürlüğe bildirerek alacakları emre göre hareket etmeğe mecburdurlar.

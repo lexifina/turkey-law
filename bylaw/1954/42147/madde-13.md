@@ -1,0 +1,2 @@
+Madde 13 – Müfettişler, bir yerde teftişe başlamış olmak şartiyle o yerde esasen meşgul olacakları tahkikat işleri arasına dahil veya yapmakta oldukları teftiş ve tahkikatlerle alakalı evrakı, bu işler Genel Müdürlüğe mensup memurlar tarafından yapılmakta olsa bile işi, bunlardan devralırlar ve keyfiyeti derhal Genel Müdürlüğe bildirirler.
+Bunlardan başka hallerde müfettişlere tahkikat evrakı devredilmesi ve müfettişlerce devralınması Genel Müdürlüğün müsaadesine bağlıdır.
