@@ -1,0 +1,870 @@
+Enerji
+ve Tabii Kaynaklar Bakanlığından:
+Elektrik
+İç Tesisleri Proje Hazırlama Yönetmeliği
+BİRİNCİ
+BÖLÜM
+Amaç,
+Kapsam, Uygulama, Dayanak ve Tanımlar
+Amaç
+Madde
+1 — Bu Yönetmeliğin amacı,
+Elektrik İç Tesisleri Yönetmeliği kapsamında yapılması gereken elektrik
+tesisat projelerinin hazırlanmasına dair usul ve esasları düzenlemektir.
+Kapsam
+Madde
+2 — Bu Yönetmelik, Elektrik
+İç Tesisleri Yönetmeliği kapsamındaki kuvvet, aydınlatma, reaktif güç
+kompanzasyonu tesisleri, koruma, haberleşme, yangın haber verme, güvenlik ve
+benzeri sistemlerinin teknik gereksinimlere uygun yapılabilmesi için hazırlanması
+gereken elektrik tesisatı proje hizmetlerini kapsar.
+Kararnameler,
+tüzükler, yönetmelikler ve ilgili Türk Standartları bu Yönetmelikte
+dikkate alınır. Yönetmelikte bulunmayan standartlar ve hükümler için; EN,
+HD, IEC, VDE ve DIN standartları geçerlidir. Çelişme durumunda yukarıda
+belirtilen öncelik sırası göz önüne alınır.
+Uygulama
+Madde
+3 — Bu Yönetmelik, Elektrik
+İç Tesisleri Yönetmeliği kapsamında yer alan tesisler için hazırlanacak
+olan projelerin düzenlenmesine ilişkindir. Bu Yönetmelik kapsamında yer alan
+konularda öncelikle bu Yönetmelik hükümleri uygulanır.
+Bu
+Yönetmelik, yeni kurulacak tesislere veya kurulu tesislerde değişikliğe uğrayacak
+ya da genişletilecek kısımlara uygulanır. Bu Yönetmeliğin herhangi bir
+maddesinin uygulanmasıyla, yerel koşullar nedeniyle zorluklar ya da teknik
+gelişmeyi önleyecek durumlar ortaya çıkarsa, Enerji ve Tabii Kaynaklar
+Bakanlığına gerekçeli başvuru yapılması durumunda, Bakanlık yalnızca o
+başvuru için, uygun görülmesi halinde söz konusu maddenin uygulanmamasına
+izin verir.
+Bu
+Yönetmelikte yer alan kesin proje ve son durum projesi, Enerji ve Tabii
+Kaynaklar Bakanlığı veya Enerji ve Tabii Kaynaklar Bakanlığının ya da
+yasaların yetkili kıldığı kuruluşların onayından sonra geçerlidir.
+Projenin onayına yetkili kılınmış kuruluş dilerse bunların dışındaki
+projeleri de ister. Diğer proje aşamaları işveren ile proje müellifi arasındaki
+sözleşme ile geçerlilik kazanır.
+Dayanak
+Madde
+4 — Bu Yönetmelik, 3154 sayılı
+Enerji ve Tabii Kaynaklar Bakanlığının Teşkilat ve Görevleri Hakkında
+Kanunun 28 inci maddesi uyarınca hazırlanmıştır.
+Tanımlar
+Madde
+5 — Bu Yönetmelikte geçen;
+1
+- İşveren: Projelendirilecek tesisin projesinin yapımına ait hizmet
+ihalesini yapan, idare (kamu, kurum ve kuruluşları) veya tesis sahibi (sahipleri)
+ya da sahibinin (sahiplerinin) hukuki temsilcisini,
+2
+- Elektrik işleri yüklenicisi: Elektrik iç tesisini verilen projesine göre işverene
+karşı sorumlu olarak, imal ve inşa eden gerçek veya tüzel kişiyi ya da
+birden fazla gerçek veya tüzel kişinin aralarında yaptıkları anlaşma ile
+oluşturulan grubu,
+3
+- Proje müellifi: İlgili yasalar ve yönetmeliklere göre elektrik iç tesis
+projesini hazırlama yetkisine sahip gerçek kişiyi,
+4
+- Onay yetkilisi: Enerji ve Tabii Kaynaklar Bakanlığı ya da Enerji ve Tabii
+Kaynaklar Bakanlığının veya yasaların yetkili kıldığı kuruluşların,
+projeleri incelemek ve onaylamakla görevlendirdiği elektrik mühendisi veya
+elektrik-elektronik mühendisini,
+5
+- Elektrik tesisleri projeleri: Elektrik tesislerinin yapılış şeklini gösteren
+ve her türlü ana ve yardımcı donanımın miktarının belirlenebildiği çizim,
+hesap ve şartnameleri,
+6
+- Etüt-öneri raporu: Genel olarak, hazırlanacak projenin esaslarına ilişkin
+açıklamaları, bu esasların kabulü için zorunlu nedenlerle, teknik ve
+ekonomik hesapları gösteren raporu,
+7
+- Ön proje: Tesisin hangi gereçlerle ve nasıl yapılacağını gösteren açıklama,
+şema, plan ve resimlerle, bunların düzenlenmesine dayanak olan hesap ve
+raporlardan oluşan projeyi,
+8
+- Kesin proje: Ön projede belirtilen
+tesis gereçleri ve kabul edilmiş ilkelere uygun nitelikteki ayrıntılı açıklama,
+şema, plan ve resimlerle bunların düzenlenmesine dayanak olan teknik özellikler,
+hesap, keşif (metraj listesi) ve şartnamelerden oluşan projeyi,
+9
+- Uygulama projesi (Yapım çizimleri ve hesapları): Tesisin yapımına başlanmadan
+önce, onaylanmış kesin projesine göre, imalatçı firmaların seçilen
+cihazlarının tip ve ölçüleri kullanılarak elektrik işleri yüklenicisi
+tarafından hazırlanacak projeyi,
+10
+- Son durum projesi (Yapıldı projesi): Uygulama aşamasında, varsa yapılan
+değişikliklerin işlendiği elektrik işleri yüklenicisi tarafından hazırlanacak,
+tesisin geçici kabule esas son (gerçek) durumunu gösteren projeyi,
+11
+- Metraj listesi: Proje kapsamında yapılacak her iş kaleminin miktarını gösteren
+listeyi,
+12
+- Prensip şeması: Yardımcı devre ve bölümler belirtilmeksizin elektrik ana
+tesis bağlantılarını gösteren çizimleri,
+13
+- Akım yolu şeması: Bir bağlantı düzeninin çalışma prensibini, kontrol
+ve kumanda devrelerini belirtmek amacıyla hazırlanan çizimleri,
+14
+- Montaj resimleri: Cihazların bulundukları yerlere bağlantısını gösteren
+çizimleri,
+15
+- Detay resimleri: Yapılacak özel imalatı veya tesis elemanlarının
+birbirleri ile ilgisini etraflı bir şekilde anlatmak için plan, kesit, görünüş
+şeklinde hazırlanmış büyük ölçekli çizimleri,
+16
+- Güç dağıtım tesisatı: Bina içinde veya bina grupları arasında, alçak
+gerilimli enerjinin tüketicilere ulaştırılması için yapılan tesis bölümünü,
+17
+- Yedek güç kaynağı: Özel veya tüzel bir kişinin mülkiyet sınırları içindeki
+tesislerini, elektrik enerjisinin kesilmesi halinde, can ve mal kaybına yol açmamak,
+güvenliği aksatmamak maksadı ile, beslemek üzere tesis ettiği elektrik
+enerjisi üretim teçhizatını,
+18
+- Yedek güç sistemi: Yedek güç
+kaynağı ve bunun beslediği iç tesislerin tümünü,
+19
+- Kurulu güç: Bir tesiste bulunan elektrik enerjisi tüketicilerinin anma
+(etiket) güçlerinin toplamını,
+20
+- Talep edilen maksimum güç: Tüketici tarafından talep edilen gücün
+maksimum değerini,
+21
+- Eşzamanlılık katsayısı (g):
+Belirli bir zaman aralığında tüketicilerin veya elektrikli cihazların bir
+grubunun eş zamanlı (aynı andaki) maksimum talep gücünün, onların aynı
+zaman aralığı içerisindeki maksimum bireysel talep güçlerinin toplamına
+oranını (Değeri
+1 veya 1’den küçüktür.),
+22
+- Farklı zamanlılık katsayısı (diversite faktörü) (d): Eş zamanlılık
+faktörünün tersini (d=1/g),
+23
+- Talep katsayısı: Belirli bir zaman aralığında bir tesisin veya tesisler
+grubunun maksimum talep gücünün, bu tesis(ler)in toplam kurulu gücüne oranını,
+24
+- Ana dağıtım tablosu: Girişi enerji kaynağına bağlı olan, yapı veya
+yapı grubu içindeki dağıtım tablolarını beslemek üzere yeterli sayıda
+çıkışı bulunan, giriş ve çıkışlarında koruma ve kumanda için gerekli
+cihazları bulunan tabloyu,
+25
+- Ölçme tablosu: Elektrik enerjisinin ölçülmesi için gerekli cihazları taşıyan;
+üzerindeki bağlantılara ve cihazlara izinsiz müdahaleyi imkansız kılacak
+şekilde korunmuş, mühürlenebilir tabloyu,
+26
+- Dağıtım tablosu: Elektrik enerjisinin, yapı veya yapı grubunun belli bir
+bölgesinde dağıtılmasını sağlamak maksadı ile tesis edilmiş; yerine göre
+tüketicilerin kontrol, koruma ve kumanda cihazlarını da taşıyan tabloyu,
+27
+- Aydınlık düzeyi (Lux): Bir yüzeye düşen ışık akısının o yüzeyin
+alanına bölümünü,
+28
+- Aydınlatma kontrol sistemi: Aydınlatma düzeyinin istenen şartlara göre
+azaltılmasını veya çoğaltılmasını, otomatik olarak temin etmek üzere
+yapılacak tesisatı,
+29
+- Acil durum aydınlatması: Elektrik enerjisinin kesilmesi halinde, insanların
+yapı veya yapı gruplarından çıkış yollarını aydınlatmak üzere,
+enerjisini kendi özel kaynağından sağlayan aydınlatma sistemini,
+30
+- Yıldırımdan koruma sistemi (YKS): Bir yapının yıldırım etkilerinden
+korunması için kullanılan, dış ve iç koruma
+sistemlerinin her ikisini de ihtiva eden komple sistemi,
+31
+- Dış YKS: Yakalama uçları sistemi, iniş iletkenleri sistemi ve toprak bağlantı
+sisteminden oluşan bölümü,
+32
+- Yakalama ucu sistemi: Dış YKS’nin atmosferik kaynaklı elektrik deşarjlarını
+tutması amaçlanan bölümünü,
+33
+- İndirme iletkenleri sistemi: Yıldırım akımını, yakalama uçları
+sisteminden topraklama sistemine geçirmesi amaçlanan bölümünü,
+34
+- Toprak bağlantı sistemi: Dış YKS’nin, yıldırım akımını toprağa
+topraklayıcı ile ileten ve dağıtan bölümünü,
+35
+- İç YKS: Korunacak hacim içinde yıldırım akımının elektrik ve manyetik
+etkilerini azaltan bütün tamamlayıcı tertibatı,
+36
+- Aşırı gerilim: Genellikle kısa süreli olarak faz iletkenleri veya faz
+iletkenleri ile toprak arasında oluşan, işletme geriliminin izin verilen en büyük
+sürekli değerini aşan, fakat işletme frekansında olmayan gerilimi,
+37
+- Aşırı gerilim koruma cihazı: İşletme gerilimi altındaki iletkenlerde
+oluşacak aşırı gerilimleri toprağa iletmek üzere imal edilmiş cihazları,
+38
+- Aşırı akım koruma cihazı: Elektrik akımını, öngörülen bir sınır
+değeri aşması durumunda kendiliğinden kesen cihazları,
+39
+- İletişim sistemi: Haber ve bilgilerin (örneğin ses, görüntü ve işaretlerle
+ölçü değerleri, ihbarlar ve komutlar gibi kontrol ve kumanda bilgileri) taşınması
+ve işlenmesi için gerekli düzenleri,
+40
+- Yangın algılama ve alarm sistemi: Yapı ve tesislerde oluşabilecek bir yangını
+erken aşamalarında algılayarak, bina ya da tesiste bulunanların güvenli bir
+şekilde tahliye edilebilmesi için sesli ve ışıklı uyarıların yapılması,
+yangın mücadele ekiplerine ve/veya itfaiyeye alarm durumunun iletilmesi, yangın
+başlangıç yerinin belirlenmesi, varsa basınçlandırma, duman tahliye ve
+yangın söndürme sistemlerini aktive edilmesi işlevlerini yerine
+getiren komple sistemi,
+41
+- Güvenlik sistemi: Yapı ve tesislerin kötü maksatlı davranışlara karşı
+korunması için düzenlenen ya da bina içinde oluşacak tehlikeli durumları
+algılayıp ihbar veren sistemleri,
+42-
+Harmonikli yük: Şebeke frekansının katı frekanslarda akım ve gerilim üreten
+tüketicileri,
+ifade
+eder.
+Diğer
+tanımlar için, Kamu İhale Kanunu ve bu kanuna bağlı ikincil mevzuat ile
+Enerji ve Tabii Kaynaklar Bakanlığı tarafından yürürlüğe konulan yönetmelikler
+ve tebliğlerdeki ifadeler esas alınır.
+İKİNCİ
+BÖLÜM
+Projelerin
+Onaylanması ve Sorumluluklar
+Projelerin
+Onaylanması
+Madde
+6 — Bu Yönetmeliğin kapsamına
+giren elektrik iç tesislerine ait rapor ve projeleri elektrik mühendisleri, ya
+da elektrik-elektronik mühendisleri inceler ve onaylar.
+Bir
+elektrik iç tesisine ilişkin ve elektrik mühendisliği konusu dışındaki öteki
+proje bölümlerini uzmanlık konularına göre ilgili mühendisler, elektrik mühendisleri
+veya elektrik-elektronik mühendisleri ile birlikte inceler ve onaylar.
+Proje
+üzerinde, projeyi onaylayanların
+adları soyadları, imzaları, meslek ünvanları, diploma numaraları, tarih ve
+sayı, proje onay geçerlilik süresi ile Türk Mühendis ve Mimar Odaları
+Birliği Kanunu gereğince kamu kurum ve kuruluşları ve iktisadi devlet teşekkülleri
+ve kamu
+iktisadi kuruluşlarında asli ve sürekli olarak çalışan mühendisler dışındaki
+mühendisler için ilgili oda kayıt sicil numaraları bulunur.
+Proje
+Onay Geçerlilik Süresi
+Madde
+7 — Tesise başlama müddeti
+onay tarihinden itibaren 3 yıldır. Bu müddet zarfında tesise başlanmadığı
+takdirde onaylanan proje hükümsüz sayılır. Ayrıca proje onay tarihinden
+itibaren tesise başlanıp da herhangi bir sebeple başlama müddeti ile
+birlikte 5 yıl içinde bitirilmediği takdirde yine onaylanan proje hükümsüz
+sayılır ve yeniden
+proje çizdirilir. Ancak, mevcut projeye göre yapılan tesiste ve enerji alınacak
+noktada hiçbir değişiklik olmaması durumunda onay yetkilisi tarafından
+kontrol edilerek yeni proje gibi tekrar onaylanır.
+Sorumluluklar
+Madde
+8 — Elektrik iç tesislerine
+ilişkin etüt-öneri raporu, ön proje, kesin proje, uygulama projesi ile
+varsa, son durum projeleri elektrik mühendisi veya elektrik-elektronik mühendisleri
+ya da yetkileri dahilinde elektrikle ilgili fen adamları tarafından hazırlanır
+ve tüm proje nüshalarındaki
+açıklama yazıları, metraj listeleri, raporlar, şemalar, resimler, planlar
+ve hesaplar imzalanır.
+Projelendirilen
+tesiste %20’lik alan veya güç değişimi olması durumunda tadilat projesi,
+kesin projeyi hazırlayanlar tarafından yapılır. Proje müellifinin yazılı
+oluru olmadan tadilat yapılmaz.
+Yönetmelik
+kapsamındaki rapor ve projeleri hazırlayan mühendisler veya elektrikle ilgili
+fen adamları tarafından, imzaları bulunan yerlere adları, meslek unvanları,
+bağlı bulundukları meslek odalarının kayıt numaraları ve diploma
+numaraları yazılır. Kamu kurum ve kuruluşlarında asli ve sürekli çalışan
+mühendisler hakkında Türk Mühendis ve Mimar Odaları Birliği Kanunu hükümleri
+uygulanır. Ayrıca özel olarak çalışan mühendisler veya üçüncü şahıslara
+ait rapor ve proje
+hazırlamak üzere kurulmuş tüzel kuruluşlarda ortak veya ücretli çalışan
+mühendisler, söz konusu Kanun gereğince bağlı bulundukları mühendis
+odalarından alacakları serbest mühendis olduklarını belirten belgeyi, kendi
+şirketlerine ait tesisler için rapor
+ve proje üreten mühendisler ilgili meslek odasına üye olduklarını belirten
+belgeyi, kamu kurum ve kuruluşlarında çalışan mühendisler ise ilgili kurum
+ve kuruluşta çalıştıklarına dair belgeyi projeye ekleyeceklerdir.
+Elektrikle ilgili fen adamları ise, benzer
+şekilde ilgili meslek odasına üye olduklarını gösteren belge ile serbest
+çalıştıklarına dair ilgili meslek odasından alacakları belgeyi projeye
+ekleyeceklerdir.
+Rapor
+ve projeleri hazırlayanlar, bunların amaca, ilgili yönetmeliklere,
+standartlara, tebliğlere ve tekniğe uygun olup olmamasından, rapor ve
+projelere esas alınan bilgilerin doğruluğundan sorumludurlar. Projenin onay
+yetkilisi tarafından onaylanması proje müellifini sorumluluktan kurtarmaz.
+Onay
+yetkilisi tarafından istenen değişikliklerin, proje müellifi tarafından
+uygun görülmemesi halinde, onay yetkilisinin yazılı talimatı alınarak
+istenen değişiklikler yapılır ve projeye bu talimatın tarih ve numarası işlenir.
+Bundan doğacak sorumluluklar onay yetkilisine aittir.
+ÜÇÜNCÜ
+BÖLÜM
+Projelerin
+Hazırlanmasında Göz Önünde Tutulacak Hususlar
+Tesisat
+Çeşitleri
+Madde
+9 — Aşağıda belirtilen
+sistemlere ve tesislere ait çizimler ve hesaplar proje hizmetlerinin içeriğini
+oluşturur. Bu sistemlerin hepsi veya bir kısmı yapı cinsine, kullanım amacına
+göre geçerli yasa ve yönetmelikler çerçevesinde, işverenin istekleri de
+dikkate alınarak projelendirilir.
+a)
+Güç dağıtım tesisatı;
+1)
+Alçak gerilim güç dağıtımı,
+2)
+Priz tesisatı,
+3)
+Mekanik tesisat için güç dağıtımı – motor beslemeleri.
+b)
+Yedek güç sistemleri;
+1)
+Dizel – jeneratör grubu,
+2)
+Kesintisiz güç kaynağı,
+3)
+Merkezi akümülatör grubu.
+c)
+Aydınlatma;
+1)
+Genel aydınlatma,
+2)
+Çıkış/bilgi/yönlendirme aydınlatması,
+3)
+Acil durum aydınlatması,
+4)
+Dış aydınlatma (çevre aydınlatması),
+5)
+Özel aydınlatma,
+6)
+Aydınlatma kontrolü - karartma,
+ç)
+Reaktif güç kompanzasyonu
+d)
+Koruma sistemleri;
+1)
+Topraklama tesisi,
+2)
+Yıldırımdan koruma sistemi,
+3)
+Aşırı gerilimden koruma,
+4)
+Aşırı akımdan koruma,
+5)
+Artık akım koruması,
+6)
+Dolaylı dokunmaya karşı koruma,
+e)
+İletişim sistemleri;
+1)
+Telefon,
+2)
+Bilgi iletişim ağı,
+3)
+TV sistemleri,
+4)
+Müzik yayın – anons sistemi,
+5)
+Çağrı sistemi,
+6)
+Merkezi saat sistemi,
+7)
+Intercom,
+Bu
+sistemler, yapı veya yapı grubunun kullanım şekline göre
+belirlenir. Sistemlere ilaveler gelebilir.
+f)
+Yangın algılama ve alarm sistemleri
+g)
+Güvenlik sistemleri;
+1)
+Kapalı devre TV sistemi,
+2)
+Hırsız alarm sistemleri,
+3)
+Geçiş kontrol sistemi,
+4)
+Elektronik bekçi tur ve kontrol sistemi,
+5)
+Gaz algılama sistemi,
+6)
+Su basması algılama ve alarm sistemi,
+Bu
+sistemler, yapı veya yapı grubunun kullanım şekline göre belirlenir.
+Sistemlere ilaveler gelebilir.
+ğ)
+Özel sistemler;
+1)
+Kongre – konferans sistemleri,
+2)
+Simültane tercüme sistemi,
+3)
+Ses ve görüntü sistemleri,
+4)
+Tıbbi çağrı sistemleri,
+5)
+Elektronik sıra çağrı sistemleri,
+6)
+Bilgi (informasyon) sistemleri,
+7)
+Bina otomasyon sistemleri,
+8)
+Yapısal kablolama.
+Proje
+Aşamaları
+Madde
+10 — Elektrik tesisleri proje
+hizmetleri aşağıda belirtilen içerikte hazırlanacaktır.
+a)
+Etüt-öneri raporu: Projelendirilecek yapının veya tesisin işletme
+fonksiyonlarını sağlayacak sistemler seçilerek ayrıntılı bir şekilde
+anlatılacaktır. Projelendirilecek sistemlerle ilgili alternatif çözümler,
+enerjinin nereden ne şekilde sağlanacağı belirtilerek yapılabilirlik ve
+ekonomiklik açısından etüt edilecektir. Bu raporda seçilecek sistemlerle
+ilgili, en az aşağıdaki bilgilerin bulunması gereklidir:
+1)
+Güç dağıtım tesisleri;
+i)
+Tüketici gruplarının analizi,
+ii)
+Dağıtım şeklinin seçimi ve karşılaştırılması,
+iii)
+Yaklaşık güç hesabı,
+2)
+Yedek güç sistemleri;
+i)
+Yedek güç temini ve dağıtım şeklinin belirlenmesi,
+ii)
+Yaklaşık güç hesabı,
+3)
+Aydınlatma;
+i)
+Değişik alanlar için aydınlık düzeylerinin ve lamba
+tiplerinin belirlenmesi,
+ii)
+Özel aydınlatma konularının belirlenmesi,
+4)
+Reaktif güç kompanzasyonu;
+i)
+Güç faktörü düzeltme şeklinin belirlenmesi.
+5)
+Koruma sistemleri;
+i)
+Sistem seçimi ve öneriler,
+6)
+İletişim sistemleri;
+i)
+Sistem seçimi ve öneriler,
+ii)
+Yaklaşık kapasite hesapları.
+7)
+Yangın algılama ve alarm sistemleri;
+i)
+Sistem seçimi ve öneriler,
+ii)
+Yaklaşık kapasite hesapları,
+iii)
+Yangın algılama ve alarm bölgelerinin listesi,
+8)
+Güvenlik sistemleri;
+i)
+Sistemlerin seçimi ve öneriler,
+ii)
+Yaklaşık kapasite hesapları,
+9)
+Özel sistemler;
+i)
+Sistemlerin seçimi ve öneriler,
+ii)
+Yaklaşık kapasite hesapları,
+b)
+Ön proje: Seçilecek sistemlerle ilgili olarak ön projede en az aşağıdaki
+bilgilerin bulunması gereklidir:
+1)
+Güç dağıtım tesisleri;
+i)
+Talep gücünün belirlenmesi,
+ii)
+Alçak gerilim dağıtım şeklinin kesinleştirilmesi ve mimari planlar üzerinde
+gösterilmesi,
+iii)
+Ana tablo ve dağıtım tablolarının konumlarının mimari planlar üzerinde gösterilmesi,
+iv)
+Priz ve motorların konumlarının mimari planlar üzerinde gösterilmesi,
+2)
+Yedek güç sistemleri;
+i)
+Yedek güç kaynakları yaklaşık güç hesabı,
+ii)
+Sistem tek hat şeması (ön çalışma),
+iii)
+Ana tablo ve dağıtım tablolarının konumlarının mimari planlar üzerinde gösterilmesi,
+iv)
+Yedek güç kaynakları genel konum planları,
+3)
+Aydınlatma tesisleri;
+i)
+Değişik mahaller için aydınlık düzeyinin belirlenmesi,
+ii)
+Aydınlatma hesaplarının (konutlar için isteğe bağlı) yapılması,
+iii)
+Aydınlatma armatürlerinin tiplerinin ve konumlarının belirlenmesi,
+iv)
+Aydınlatma kontrol sisteminin seçimi,
+v)
+Acil durum aydınlatması ve çıkış/bilgi/yönlendirme armatürlerinin yerleşim
+yerlerinin belirlenmesi,
+4)
+Reaktif güç kompanzasyonu;
+i)
+Reaktif güç kompanzasyonu sistemi tek hat şeması,
+ii)
+Kullanılacak aygıtların belirlenmesi - genel konum planları,
+5)
+Koruma sistemleri;
+i)
+Topraklama tesisi,
+i.1)
+Temel topraklaması planı,
+i.2)
+Sistem şeması,
+ii)
+Yıldırımdan koruma sistemi, yakalama ucu sistemi yerleşim planları.
+6-
+İletişim sistemleri;
+i)
+Mimari planlar üzerine kullanılacak sistemlerle ilgili aygıtların yerleştirilmesi,
+ii)
+Sistem şemalarının çizilmesi (ön çalışma),
+7)
+Yangın algılama ve alarm sistemleri;
+i)
+Mimari planlar üzerine kullanılacak sistemlerle ilgili aygıtların yerleştirilmesi,
+tanımlarının yapılması,
+ii)
+Sistemlerin şemalarının çizilmesi,
+8)
+Güvenlik sistemleri;
+i)
+Mimari planlar üzerine kullanılacak sistemlerle ilgili aygıtların yerleştirilmesi,
+tanımlarının yapılması,
+ii)
+Sistemlerin şemalarının çizilmesi.
+9)
+Özel sistemler;
+i)
+Mimari planlar üzerine kullanılacak sistemlerle ilgili aygıtların yerleştirilmesi,
+tanımlarının yapılması,
+ii)
+Sistemlerin şemalarının çizilmesi,
+c)
+Kesin proje: Elektrik tesislerinin ön projede belirlenen sistemlere uygun
+nitelikte nasıl yapılacağını
+detaylı olarak tarif eden açıklama, çizimler, teknik özellikler, hesaplar
+ve şartnameler ile tamamlayıcı dokümanlardan oluşur,
+Kesin
+projeler belirli bir markaya göre yapılmayacak, en yaygın kullanılan
+sistemler göz önünde tutulmalıdır. Kesin projede en az aşağıdaki
+bilgilerin bulunması gereklidir:
+1)
+Güç dağıtım tesisleri;
+i)
+Elektrik güç ihtiyacı hesabı (kurulu güç - talep gücü),
+ii)
+Alçak gerilim tek hat şeması,
+iii)
+Alçak gerilim dağıtım sistemi planları,
+iv)
+Kablo yolları planları (kablo
+tavaları - kanal sistemleri vb.),
+v)
+Dağıtım elemanları (ölçme tabloları, ana tablo, dağıtım tabloları)
+yerleşim planları, kesit ve görünüşleri,
+vi)
+Tesisat şekli, ortam sıcaklığı, gruplandırma ve harmonik akımları göz
+önüne alınarak yapılacak olan iletken, kablo ve busbar akım taşıma
+hesapları,
+vii)
+Kısa devre hesapları,
+viii)
+İşletme cihazlarının tek fazlı kısa devreye göre seçimi,
+Dolaylı
+temasa karşı korumada akım taşıyıcılarının koruma cihazının açma koşullarını
+sağlaması için;
+viii.1)
+TN sistemlerde, I"k1min (en küçük kısa devre akımı) hesabı, Lmax (en
+uzun kablo boyu) hesabı ve Zs (çevrim empedansı değeri) hesabı yapılacak,
+tek hat şemasında belirtilecektir.
+viii.2)
+TT sistemlerde; Ra (toprak direnci) hesabı ; I’’k1 (tek fazlı arıza akımı)
+hesabı yapılacaktır.
+viii.3)
+IT sistemlerde; Ra (toprak direnci); Zs (hat empedansı), If (hata akımı)
+hesabı yapılacaktır. Bu sistemde 2. hata için de gerekli hesaplar yapılmalıdır.
+ix)
+Akım taşıyıcılarının aşırı yüke ve kısa devreye karşı koruma
+kontrolu,
+x)
+Gerilim düşümü hesapları,
+xi)
+Dağıtım tablolarına ait yükleme cetveller,
+xii)
+Gerektiğinde tipik akım yolu şemalarının verilmesi,
+xiii)
+Selektivite sağlanması ve gerektiğinde hesapları,
+xiv)
+Kablo güzergahlarında elektromanyetik uyumluluk açısından kritik devrelerin
+ve güzergahların belirlenmesi, bu noktalara dair uyarıların yapılması ve
+gerekirse detaylandırılması,
+2)
+Yedek güç sistemleri;
+i)
+Yedek güç kaynağı güç hesabı,
+ii)
+Yedek güç dağıtım sistemi planları,
+iii)
+Sistem tek hat şeması,
+iv)
+Yerleşim planı, kesit ve görünüşler,
+v)
+Kablo güzergahlarında elektromanyetik uyumluluk açısından kritik devrelerin
+ve güzergahların belirlenmesi, bu noktalara dair uyarıların yapılması ve
+gerekirse detaylandırılması,
+3)
+Aydınlatma;
+i)
+Aydınlatma armatürleri yerleşimleri ve tesisat planları,
+ii)
+Acil durum aydınlatması, çıkış / bilgi / yönlendirme armatürleri yerleşimleri
+ve tesisat planları,
+iii)
+Aydınlatma kontrol sistemleri kullanıldığında sistem modülleri ve kumanda
+tabloları açınımları,
+iv)
+Aydınlatma armatürlerinin tiplerinin belirlenmesi,
+v)
+Aydınlatma hesapları (konutlar hariç),
+vi)
+Kablo güzergahlarında elektromanyetik uyumluluk açısından kritik devrelerin
+ve güzergahların belirlenmesi, bu noktalara dair uyarıların yapılması ve
+gerekirse detaylandırılması,
+4)
+Reaktif güç kompanzasyon tesisi;
+i)
+Kompanzasyon hesabı,
+ii)
+Harmonikli yükler için toplam yük akımı hesabı,
+iii)
+Rezonans frekans hesabı ve reaktör / kapasitör oranının belirlenmesi,
+iv)
+Kompanzasyon panosu tek hat şeması,
+v)
+Kompanzasyon üniteleri (kondansatör, pano vb.) yerleşim planı, kesit ve görünüşleri,
+vi)
+Kablo güzergahlarında elektromanyetik uyumluluk açısından kritik devrelerin
+ve güzergahların belirlenmesi, bu noktalara dair uyarıların yapılması ve
+gerekirse detaylandırılması.
+5)
+Koruma sistemleri;
+i)
+Topraklama tesisi;
+i.1)
+Toprak özdirenci (projeye başlamadan önce belirlenmelidir.),
+i.2)
+Temel topraklaması planları,
+i.3)
+Koruma topraklaması ve potansiyel dengeleme planları,
+i.4)
+Topraklama tesisi şeması,
+i.5)
+Toprak direncinin hesaplanması,
+i.6)
+Topraklama ve koruma iletkenleri kesitlerinin belirlenmesi.
+ii)
+Yıldırımdan koruma sistemi;
+ii.1)
+Yakalama ucu sistemi yerleşim planları,
+ii.2)
+İndirme iletkenleri, topraklama bağlantısı planları,
+ii.3)
+Kesit - detay ve görünüşler.
+iii)
+Aşırı gerilimden koruma sistemi;
+iii.1)
+Parafudrlar, darbe koruma düzenleri ve diğer aşırı gerilim sönümleyici
+cihazların seçimi,
+iii.2)
+Seçilen cihazların tek hat şemasında belirtilmesi.
+iv)
+Artık akım koruma sistemi;
+iv.1)
+Artık akım koruma cihazlarının seçimi,
+iv.2)
+Seçilen cihazların yükleme cetvelleri ve tek hat şemasında belirtilmesi,
+6)
+İletişim sistemleri;
+i)
+Tesisat planları,
+ii)
+Sistem tek hat şemaları,
+iii)
+Kablo güzergahlarında elektromanyetik uyumluluk açısından kritik devrelerin
+ve güzergahların belirlenmesi, bu noktalara dair uyarıların yapılması ve
+gerekirse detaylandırılması,
+7)
+Yangın algılama ve alarm tesisleri;
+i)
+Tesisat planları,
+ii)
+Sistem şemaları,
+iii)
+Kablo güzergahlarında elektromanyetik uyumluluk açısından kritik devrelerin
+ve güzergahların belirlenmesi, bu noktalara dair uyarıların yapılması ve
+gerekirse detaylandırılması,
+8)
+Güvenlik sistemleri;
+i)
+Tesisat planları,
+ii)
+Sistem şemaları,
+iii)
+Kablo güzergahlarında elektromanyetik uyumluluk açısından kritik devrelerin
+ve güzergahların belirlenmesi, bu noktalara dair uyarıların yapılması ve
+gerekirse detaylandırılması,
+9)
+Özel sistemler;
+i)
+Tesisat planları,
+ii)
+Sistem şemaları,
+iii)
+Kablo güzergahlarında elektromanyetik uyumluluk açısından kritik devrelerin
+ve güzergahların belirlenmesi, bu noktalara dair uyarıların yapılması ve
+gerekirse detaylandırılması,
+10)
+Detay resimleri: Kesin projede
+belirlenmiş tesisatlara ait özel imalatlarla ilgili prensip resimlerini içermektedir.
+Detay resimleri yapım projelerine yardımcı nitelikte olacaktır. Bu aşamada
+hiçbir imalatçı belirtilmediği veya birden fazla imalatçı belirtildiği için
+detay resimleri
+ancak yol gösterme anlamındadır.
+11)
+Enerji odası, kablo bacası (kablo şaftı) ve sayaç pano detayı: Enerji odası
+ve kablo bacası (Bu yönetmeliğin yürürlüğe girdiği tarihten sonra inşaat
+ruhsatı alacak olan yapılarda) gerekli projelerde gösterilecektir. Enerji
+odası ile kablo bacasının ölçü ve detayları ve uygulama alanlarına ilişkin
+esaslar, enerji veren yetkili kuruluş tarafından belirlenir.
+Sayaç
+panosu detayları da projede gösterilecektir.
+Not:
+Elektrik tesislerinin nasıl yapılacağını açıklamak, kullanılacak
+malzemeleri tanımlamak ve miktarlarını belirtmek için hazırlanacak olan ve
+içeriğinde, teklif alma şartnamesi, özel idari şartname, özel teknik şartname,
+özel birim fiyat tarifleri ve metraj listesi de bulunan ihale dosyasının hazırlanması,
+işveren ile yapılacak anlaşmaya bağlıdır.
+ç)
+Uygulama Projesi (Yapım çizimleri ve hesapları): Tesisin yapımına başlanmadan
+önce, imalatçı firmaların seçilen cihazlarının tip ve ölçüleri kullanılarak
+elektrik işleri yüklenicisi tarafından hazırlanacak projelerdir.
+Elektrik
+iç tesislerinde kullanılacak seçilmiş cihazların son yerleşimi ve kesin
+boyutlandırılması ancak bu hesaplar ve çizimlerle mümkün olur.
+Aşağıda
+belirtilen işler bu aşamada elektrik işleri yüklenicisi tarafından yapılacaktır;
+1)
+Kesin proje aşamasında, seçimine
+karar verilen cihaz ve malzemelerin boyut, tip ve teknik değerlerinde işin
+gereği sonucu (işverenden veya diğer bağlı disiplinlerden kaynaklanan)
+ortaya çıkan değişiklikler,
+2)
+Tipi, boyutu, teknik değerleri kesinleşmiş olan cihazlara göre kesin projede
+verilemeyen hesap, yerleşim, detay ve benzeri,
+3)
+Elektrik cihazlarının deprem kuvvetlerine göre tahkiki için gereken tüm
+verilerin statik projelendirmeyi yapan inşaat mühendislerine verilmesi, (Seçilen
+cihazların deprem kuvvetlerine göre tahkiki inşaat mühendislerince yapılacaktır.),
+4)
+Tablo imalat resimleri,
+5)
+Tablo görünüşleri,
+6)
+Tablo üç faz şemaları,
+7)
+Tablo tek hat şemaları,
+8)
+Bağlantı ucu (klemens) ve kablo bağlantı şemaları,
+9)
+Akım yolu şemaları,
+10)
+Tablo ısınma hesapları,
+11)
+Seçilen cihazların yatay ve düşey deprem kuvvetlerine göre tahkiki.
+Elektrik
+işleri yüklenicisi tarafından hazırlanan uygulama projesi, (yapım çizimleri
+ve hesapları), kesin projeyi hazırlayan elektrik proje müellifi ile
+mutabakata varıldıktan sonra uygulamaya geçirilecektir.
+d)
+Son durum (yapıldı) projesi: İmalat ve montajı tamamlanarak işletmeye alınma
+aşamasına gelmiş olan ve elektrik tesislerinin tamamlanmış durumunu gösteren
+projedir. Bu proje uygulama projesi (yapım çizimleri ve hesapları) esas alınarak
+hazırlanacaktır. Projelendirilen tesislerle ilgili işletme ve bakım kitapçıkları
+bu projelerin ekidir. Bu proje elektrik işleri yüklenicisi tarafından hazırlanacaktır.
+Plan,
+Şema ve Resimlerin Düzenlenmesi
+Madde
+11 — Projelerin düzenlenmesinde,
+her aşamada, o aşama için belirtilen hususlar ile birlikte aşağıdaki genel
+hükümlere de uyulacaktır.
+Her
+paftaya ait başlıkta, en azından proje ismi, pafta ismi, proje aşaması,
+projeyi yapan, çizen ve kontrol edenin isimleri, tarih, ölçek (vaziyet
+planları için en az: 1/1000 - 1/500, kat planları için en az: 1/200 –
+1/100 - 1/50 ve detay resimleri için en az: 1/50 - 1/20 – 1/10) ve pafta
+numarası bulunacaktır. Paftaların numaralandırılmasında ilgili sistemin adı
+belirtilecektir.
+Semboller
+Madde
+12 — Projelerde yürürlükteki
+Elektrik İç Tesisleri Yönetmeliğindeki "Kuvvetli Akım İşaret
+Listesi" ve "Zayıf Akım İşaret Listesi" veya EN 60617 serisi
+standartlarda yer alan semboller kullanılacaktır. Çelişkiler durumunda
+EN 60617 serisi standartlara öncelik verilecektir.
+Projelerin
+Dosyalanması
+Madde
+13 — Kesin proje, tesise başlanmadan
+önce, uygun şekilde dosyalanmış olarak, 1 takımı elektronik ortamda olmak
+üzere 4 takım halinde onaylanmak üzere enerji veren yetkili kuruluşa teslim
+edilecektir. Onaylama işleminden sonra, elektronik ortamdaki takım da dahil
+toplam 2 nüsha enerji veren yetkili kuruluşta kalacak, 2 takımı ise (1 takımı
+denetim kuruluşu için olmak üzere) iade edilecektir.
+Tesisin
+bitirilmesini takiben, (geçici)
+kabul yapılmadan önce, varsa değişiklikleri içeren son durum projesi de söz
+konusu kuruluşa, kesin projede olduğu gibi, 4 takım halinde teslim
+edilecektir. Benzer şekilde, onaylama işleminden sonra, elektronik ortamdaki
+takım da dahil toplam 2 nüsha
+enerji veren yetkili kuruluşta kalacak, 2 takımı ise (1 takımı denetim
+kuruluşu için olmak üzere) iade edilecektir.
+Yetkili
+Kuruluş, yapının sınıfı, kullanım amacı, projelerin özellikleri, yerleşim
+yerlerindeki yerel şartları vb. kriterleri dikkate alarak bazı projeleri
+elektronik ortamda istemeyebilir.
+Diğer
+hususlar
+Madde
+14 — Bu Yönetmelikte yer
+almayan hususlar için Kamu İhale Kanunu ve bu Kanuna bağlı mevzuat ile
+Elektrik İç Tesisleri Yönetmeliği, Elektrik Tesislerinde Topraklamalar Yönetmeliği
+ve konu ile ilgili diğer mevzuat hükümleri uygulanır.
+DÖRDÜNCÜ
+BÖLÜM
+Son
+Hükümler
+Yürürlük
+Madde
+15 — Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+Madde
+16 — Bu Yönetmelik hükümlerini
+Enerji ve Tabii Kaynaklar Bakanı yürütür.
