@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6527-148/6232",
+  "source_id": 38269,
+  "date": "2000-02-11",
+  "title": "Odanın üyelerine yaptığı tohum satışlarının üretim girdisi niteliğinde olması halinde, Vergi Usul Kanununda geçen belgelerin kullanılması şartıyla ödeme kaydedici cihaz kullanma mecburiyeti bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38269",
+  "source_sha256": "c5571d006403188d6437cd21f9cdd838352f91244e283eac4dd3e5262bbe9d11",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
