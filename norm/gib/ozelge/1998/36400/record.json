@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6004-331/047541",
+  "source_id": 36400,
+  "date": "1998-12-16",
+  "title": "İntikale konu gayrimenkul için emlak vergisi beyanname örneklerinin ibraz edilmemesi halinde yapılacak işlem hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36400",
+  "source_sha256": "b2f90fb59c097151f3e449635136553c2bac36227d5061cab186e4bf234f363a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
