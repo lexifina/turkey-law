@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4118",
+  "year": 1941,
+  "title": "Vakıflar Umum Müdürlüğünün Üsküdar-Kadıköy Halk tramvayları şirketindeki hissesinin İstanbul belediyesine devri hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-09-25",
+  "gazette_issue": "4921",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4921.pdf",
+  "source_sha256": "4e50e68d4baea70b4b46e0d9b4ad4b415eb8d1443c532f6e955623c83fcfd724",
+  "text_sha256": "6005df1dbe332525937113b286f7512d0b9741787c680e4abd48b794119e666b",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      1136,
+      1156
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204118.pdf",
+    "source_sha256": "5c1b8dc829bd49578b864b51666b214a358a028319c453d22f736be86a1aa50f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9544,
+    "bag": 0.8269,
+    "kd_coverage": 0.9808,
+    "kd_body_compared": 0.9533,
+    "rg_words": 106,
+    "kd_words": 107,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
