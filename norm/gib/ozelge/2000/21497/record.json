@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-485/13104",
+  "source_id": 21497,
+  "date": "2000-03-24",
+  "title": "Gerek emekli olmuş gerekse halen çalışmakta olan üyelere yatırmış oldukları primlerin değerlendirilmesi sonucu yapılan nema ödemelerinin menkul sermaye iradı (alacak faizi) olarak vergilendirilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21497",
+  "source_sha256": "c3eae6561788575ac68728b3a23f2ae154e80db6119778afaf4093a3abb670b2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
