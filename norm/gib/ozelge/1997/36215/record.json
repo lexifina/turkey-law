@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.64/6432-83-40882",
+  "source_id": 36215,
+  "date": "1997-09-24",
+  "title": "49 Yıllığına tesis edilen irtifak hakkı işleminde tapu harcına esas alınacak bedel hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36215",
+  "source_sha256": "24c616592a05c3e96c49d71ff2e4ec5312ed6f08aee42c7e66cfed70ffc03e1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
