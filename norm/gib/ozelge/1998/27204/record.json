@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3050-377-10270-13738",
+  "source_id": 27204,
+  "date": "1998-04-17",
+  "title": "Birden fazla işyeri bulunan mükelleflerin (merkez, şube, v.s.) farklı işyerlerinde yapılan tespitlerin birlikte değerlendirilmesine ve bu tespitlere dayanılarak tüm işyerleri veya işyerlerinden birisi kapatılmak suretiyle işyeri kapatma cezasının uygulanm",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27204",
+  "source_sha256": "89a038253957d6e9e1d9b8cc21659a62eefb13e02132f59c5931b1f05b68feef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
