@@ -1,2 +1,3 @@
 C. Basın araçlarının korunması
-Madde 30- Kanuna uygun şekilde basın işletmesi olarak kurulan basımevi ve eklentileri, Devletin ülkesi ve milletiyle bölünmez bütünlüğü, Cumhuriyetin temel ilkeleri ve millî güvenlik aleyhinde işlenmiş bir suçtan mahkûm olma hali hariç, suç aleti olduğu gerekçesiyle zapt ve müsadere edilemez ve işletilmekten alıkonulamaz.
+Madde 30- (Değişik: 7/5/2004-5170/4 md.)
+Kanuna uygun şekilde basın işletmesi olarak kurulan basımevi ve eklentileri ile basın araçları, suç aleti olduğu gerekçesiyle zapt ve müsadere edilemez veya işletilmekten alıkonulamaz.
