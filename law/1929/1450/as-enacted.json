@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1450",
+  "year": 1929,
+  "title": "Kibrit fabrikası inşası için taahhüt icrasına mezuniyeti mutazammın kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-05-19",
+  "gazette_issue": "1196",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1196.pdf",
+  "source_sha256": "4adf66248973c78cc357cb2b24648e775cfd46dfffb6b2382cdb36e0319da2ee",
+  "text_sha256": "3fd93270ffe7a0434e7d619320c5d5346e3746794a6e7a6494ab942070fd7cfb",
+  "text_status": "ocr",
+  "pages": [
+    15
+  ],
+  "line_span": [
+    [
+      976,
+      986
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701450.pdf",
+    "source_sha256": "1e3d7a29fb62e143bf3065c5bd52d3a340aab9a061c11eb68687bdcc3fe66197",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9647,
+    "bag": 0.88,
+    "kd_coverage": 0.9844,
+    "kd_body_compared": 0.9552,
+    "rg_words": 61,
+    "kd_words": 67,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
