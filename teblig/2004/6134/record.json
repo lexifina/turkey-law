@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.6134",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 278)",
+  "number": "6134",
+  "path": "teblig/2004/6134",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6134&MevzuatTertip=5",
+  "source_sha256": "a7a91dd5aa0e99a5cb3fdfcae7ecf6446231c736b43c9ed216b958b7df898e31",
+  "source_bytes": 17920,
+  "published": "2004-06-28",
+  "gazette": "25506",
+  "in_force": "2004-06-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.06.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 485,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
