@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7358",
+  "year": 1959,
+  "title": "Demiryolları inşaatı için gelecek yıllara sâri taahhütlere girişilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-06-22",
+  "gazette_issue": "10233",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10233.pdf",
+  "source_sha256": "702ed4b5fcb782812b9fa74ff875fd18178d5b4707707b276fc214e43ed75313",
+  "text_sha256": "43d160a90a63a309fa7627f88bf6b2ff270cfc60a88ad535716c89c7e63fafbc",
+  "text_status": "ocr",
+  "pages": [
+    8
+  ],
+  "line_span": [
+    [
+      2078,
+      2121
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107358.pdf",
+    "source_sha256": "3508f49d8f0274ae94e6e8415ae7f816fdac2be9d83abbd694ffa2665c215238",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9693,
+    "bag": 0.7614,
+    "kd_coverage": 0.9815,
+    "kd_body_compared": 0.9726,
+    "rg_words": 202,
+    "kd_words": 219,
+    "own_anchor": true,
+    "foreign_anchors": 5
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
