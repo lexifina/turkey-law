@@ -1,0 +1,1 @@
+Madde 5 – Sicil amirleri tarafından verilen tezkiye kağıtlarını saklamakla ödevli olan makamlar tarafından her personel için bir yeterlik fişi düzenlenir ve aynı makamlar tarafından fişlerin özel haneleri, tezkiye kağıtlarına, varsa denetleme raporlarına göre kısaca doldurulup imzalandıktan sonra sicil dosyalarında saklanır.

@@ -1,0 +1,1 @@
+Madde 4 – Sivil savunma personelinin sicil amirlerinin kimler olacağı, personelin yeterliklerine ait fişin şekli ve sicil bakımından yapılacak sair işlemler, İçişleri Bakanlığınca çıkarılacak yönetmelikte gösterilir.

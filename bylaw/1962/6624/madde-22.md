@@ -1,0 +1,1 @@
+Madde 22 – Görevi ile ilgili veya görevi dolayısiyle öğrendiği gizli hususları ifşa eylemek, resmi evrakı kaybetmek veya yok etmek, eğitim ve tatbikatlarda halkı telaş ve heyecana düşürecek şekilde asılsız veya mübalağalı haberler yaymak veya yayılmasına sebebiyet vermek hallerinde, fiilin ağırlık derecesine göre 14 üncü maddede yazılı cezalardan herhangi biri uygulanır.

@@ -1,0 +1,1 @@
+Madde 8 – Disiplin cezasına veya bir mahkümiyete uğrayan personelin, bu cezaları almasına sebep olan hareketlerinin mahiyetine ve gizli tezkiye ile aldığı kanaatlerin gösterdiği genel duruma göre yeterliği olup olmadığı, yetkili amir ve makamlarca takdir olunur.
