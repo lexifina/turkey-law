@@ -1,0 +1,40 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 317960,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Cumhuriyet Senatosu Adana Üyesi Mehmet Ünaldı'nın, İçtüzüğün 87 ve 88. maddelerinin tadili hakkında (2/263) (S. Sayısı:1441)",
+  "title": "Cumhuriyet Senatosu Adana Üyesi Mehmet Ünaldı'nın, İçtüzüğün 87 ve 88. maddelerinin tadili hakkında (2/263) (S. Sayısı:1441)",
+  "first_sitting_date": "1971-05-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 65,
+      "sitting": 67,
+      "sitting_date": "1971-05-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065fih.pdf",
+      "pages": [
+        "76:82",
+        "86:87",
+        "286",
+        "591",
+        "617",
+        "653",
+        "757"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=401&v_kullanici_id=27484924",
+  "source_sha256": "43e569bad21ed2adc7f6a66158069b7ff55af015f13de3a87c2dfe94e8b0727f",
+  "in_force": "1971-05-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
