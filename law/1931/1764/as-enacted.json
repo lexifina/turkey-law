@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1764",
+  "year": 1931,
+  "title": "Askeri memnu mıntıkalar kanununun birinci maddesinin (A) fıkrasıyle ondördüncü maddesinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-03-17",
+  "gazette_issue": "1750",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1750.pdf",
+  "source_sha256": "640960717faa1abc9fd35eb319befbe7f5457eee490e313c04595179f1d8b975",
+  "text_sha256": "191499d9a3ceeec0b24d8bbd4e1ce64a4f2454be04ff132ba97d51ce9ea3a436",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      73,
+      129
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901764.pdf",
+    "source_sha256": "fd83dbf40b18bcd20a38036494d34bd17ca3370daed523dc7f068eed23875d26",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9766,
+    "bag": 0.9126,
+    "kd_coverage": 0.9744,
+    "kd_body_compared": 0.956,
+    "rg_words": 157,
+    "kd_words": 159,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
