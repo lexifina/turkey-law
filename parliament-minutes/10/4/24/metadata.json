@@ -1,0 +1,19 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 10,
+  "term_label": "10. Dönem",
+  "legislative_year": 4,
+  "cilt": 16,
+  "sitting": 24,
+  "label": "24. Birleşim",
+  "sitting_date": "1957-01-11",
+  "date_as_published": "11 Ocak 1957",
+  "weekday": "Cuma",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c016/tbmm10016024.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c016/tbmm10016fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d10&v_yasama_yili=4&v_cilt=",
+  "source_sha256": "b9dc1c0225b434b1b6485b96e9e29ce055d337f91a1932bd3c8b3c8e9df20cef",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
