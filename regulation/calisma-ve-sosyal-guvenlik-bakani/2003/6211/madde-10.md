@@ -1,0 +1,2 @@
+Toplantının Açılışı ve Başkanlık Divanı
+Madde 10 — Başkan, toplantıyı açmadan önce yoklama yaptırır. Aranan çoğunluk sağlanmışsa toplantıyı açar. Daha sonra bir başkan, bir başkan vekili ve iki katip üyeden oluşacak Başkanlık Divanı üyelerinin seçimine geçilir. Bu üyeler, Genel Kurul üyeleri arasından Genel Kurulca açık oyla seçilir. Başkanlık Divanı üyelerinin en az yarısı sosyal taraflardan seçilir.

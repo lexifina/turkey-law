@@ -1,0 +1,4 @@
+Çalışma Grupları ve Komisyonlar
+Madde 12 — Genel Kurul çalışmalarının sağlıklı ve verimli geçmesi için, gerek görülmesi halinde, Genel Kurulda temsil edilen Bakanlık, kurum ve kuruluşların uzmanlarından, aralarından birisi başkan olarak belirlenmek üzere Genel Kurul tarihinden önce çalışma grupları kurulur. Bu gruplar yaptıkları çalışmaları raporlaştırarak ilgili komisyonlara ve/veya Genel Kurula sunarlar.
+Genel Kurul tarafından gerek görülmesi halinde ihtisas gerektiren konuların incelenmesi için komisyonlar kurulur. Komisyonlar, Genel Kurula katılan temsilciler arasından, aralarından birisi başkan olarak belirlenmek üzere en az üç, en fazla yedi üyeden oluşur. Komisyonlar yaptıkları çalışmaların sonuçlarını bir rapor halinde Genel Kurula sunar.
+Oluşturulacak çalışma grupları ve komisyonlarda; kamu, işçi ve işveren sendikaları konfederasyonları ile meslek kuruluşlarının eşit sayıda temsilci ile temsil edilmeleri göz önünde bulundurulur.
