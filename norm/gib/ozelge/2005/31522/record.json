@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.O7.O.GEL.O.53/5316-281-6207",
+  "source_id": 31522,
+  "date": "2005-02-09",
+  "title": "İstisna kapsamından çıkartılan gümrük hizmetlerinin verildiği gümrüklü sahalarda gerçekleştirilen mal teslimleri ve hizmet ifaları (KDVK 17/4-o md belirtilen işlemler ile özel antrepolarda yapılan mal teslimleri ve hizmet ifaları hariç) kdv ye tabi olacak",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31522",
+  "source_sha256": "415fe6c7c5ef861413fe84241f389f158c8bfd71b45928668c02dc6f9237bf39",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
