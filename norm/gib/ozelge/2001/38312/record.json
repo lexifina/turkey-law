@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3224-2177/2562",
+  "source_id": 38312,
+  "date": "2001-01-16",
+  "title": "Beyannamelerin tasdik ettirilmesi hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38312",
+  "source_sha256": "ff4489715db0041160f6b14836ffa093e2d0864ecf0f4f1489646df71b233151",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
