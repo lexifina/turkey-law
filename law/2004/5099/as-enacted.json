@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5099",
+  "year": 2004,
+  "title": "Eşyanın Sınırlardaki Kontrollerinin Uyumlaştırılmasına İlişkin Uluslararası Sözleşmenin Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-02-17",
+  "gazette_issue": "25376",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/02/20040217.htm",
+  "source_sha256": "ce7a732bf0f5a2541d0f765a1f32261fe54506f8295ac6f52a7d3d0f9dd1b839",
+  "text_sha256": "f0e23df9eeac0a38ca4ed3a9164519f438cd0fc70da5ec5fe37b706ec8f4ffcb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/02/17/25376-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/02/20040217.htm#10",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
