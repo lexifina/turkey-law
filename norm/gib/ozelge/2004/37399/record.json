@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3050-377-10948/15",
+  "source_id": 37399,
+  "date": "2004-01-02",
+  "title": "Vergi mahkemesi kararlarına karşı itiraz ya da temyiz yoluna başvurulsa bile bu kararların ilgili idareye tebliğinden başlayarak otuz günlük süre içerisinde bu kararlar uyarınca işlem tesis edilmesi zorunludur. Ancak, itiraz veya temyize ilişkin olarak yü",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37399",
+  "source_sha256": "39ded9e5dd0af05c2c84cb98c64faa10e6b6dd27367b9bbe39286d6c08326d70",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
