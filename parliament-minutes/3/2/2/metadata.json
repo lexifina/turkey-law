@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 3,
+  "term_label": "3. Dönem",
+  "legislative_year": 2,
+  "cilt": 5,
+  "sitting": 2,
+  "label": "2. Birleşim",
+  "sitting_date": "1928-11-05",
+  "date_as_published": "05 Kasım 1928",
+  "weekday": "Pazartesi",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c005/tbmm03005002.pdf",
+  "old_script_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c005/ehttbmm03005002.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c005/tbmm03005fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=2&v_cilt=",
+  "source_sha256": "9c096daf10860ffffba3af5b8fdf88ba8db7143f5ae0c34629588386de99befa",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
