@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/36",
+  "list_number": "36",
+  "decision_date": "1999-01-14",
+  "title": "YSK ilke kararı 1999/36",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4739/1999-36-karar.htm",
+  "source_sha256": "24bafe14ba5c0af7ca7e28a1ae21643667981efa891aeb608ba88a7f88fc071e",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-01-14",
+  "law_text_complete": false
+}
