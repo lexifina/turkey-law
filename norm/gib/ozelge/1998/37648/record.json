@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5144-478/24744",
+  "source_id": 37648,
+  "date": "1998-07-03",
+  "title": "Vakıfların vergiden muaf tutulup tutulmayacağı hk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37648",
+  "source_sha256": "8f0cfc9f8f5723fb25a703b87e4f18bb5c2f4a9bae2d6224421342acde67662b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
