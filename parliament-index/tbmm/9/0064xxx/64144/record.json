@@ -1,0 +1,60 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 64144,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Deniz tuzlalarından yabancı memleketlere ihraç edilmek şartiyle tuz istihsali için hakiki veya hükmi şahıslara izin verilebileceği hakkında kanun tasarısı ile Çanakkale Milletvekili Kenan Akmanlar'ın Tuz Kanununun 1. maddesinin değiştirilmesi hakkındaki kanun teklifine dair (1/210, 2/49)",
+  "title": "Deniz tuzlalarından yabancı memleketlere ihraç edilmek şartiyle tuz istihsali için hakiki veya hükmi şahıslara izin verilebileceği hakkında kanun tasarısı ile Çanakkale Milletvekili Kenan Akmanlar'ın Tuz Kanununun 1. maddesinin değiştirilmesi hakkındaki kanun teklifine dair (1/210, 2/49)",
+  "first_sitting_date": "1951-12-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 13,
+      "sitting_date": "1951-12-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c011/tbmm09011013.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c011/tbmm09011fih.pdf",
+      "pages": [
+        "59",
+        "78:84"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 28,
+      "sitting_date": "1952-01-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c012/tbmm09012fih.pdf",
+      "pages": [
+        "189",
+        "413"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 37,
+      "sitting_date": "1952-02-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013fih.pdf",
+      "pages": [
+        "120:121",
+        "271"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=501&v_kullanici_id=27484171",
+  "source_sha256": "8c2de000e6c4b2a71bfbb353fdc7e337a23cb4351a28ab05bb8fa6fce93210c7",
+  "in_force": "1951-12-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
