@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4255",
+  "year": 1942,
+  "title": "Umumî hıfzıssıhha kanununun bazı maddelerinin değiştirilmesi ve bir maddesinin kaldırılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-06-20",
+  "gazette_issue": "5137",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5137.pdf",
+  "source_sha256": "7cb4d5ac3520c840e985699f33d348e856db5819b14706f96a8aecc5b5471cc2",
+  "text_sha256": "ee4731247154c4352f4dd60ca93de7205960522a4b11541d3d581a9fea80de27",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      4,
+      170
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304255.pdf",
+    "source_sha256": "ebd06940682237e3290139329db79f42d6f266e0d4a4886578ce8775685d69ff",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9671,
+    "bag": 0.899,
+    "kd_coverage": 0.998,
+    "kd_body_compared": 0.996,
+    "rg_words": 1012,
+    "kd_words": 992,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
