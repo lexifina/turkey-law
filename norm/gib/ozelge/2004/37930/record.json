@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.68./6802-7/035945",
+  "source_id": 37930,
+  "date": "2004-07-29",
+  "title": "Türk lirası kredilerde fon kesintisi faiz tahakkukunda doğduğundan, bu kredilerle ilgili olarak 29/07/2004 tarihinden sonra tahakkuk edilecek faizler için fon kesintisi oranının %0 olarak uygulanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37930",
+  "source_sha256": "b4d839c56e4f92151675c39bd03b3e7ffa7f86dfcf97f5b99b2ce869aa3b128d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
