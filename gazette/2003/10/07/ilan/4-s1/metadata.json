@@ -1,0 +1,32 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-10-07",
+  "issue": "25252",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Yenimahalle Belediyesi İmar Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/10/20031007-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (4 = 4)",
+  "ilan_codes": [
+    "37773/1-1",
+    "37774/1-1",
+    "37775/1-1",
+    "37776/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/10/20031007-4.htm",
+  "category_page_sha256": "f8626fefb54d1a2ff3b7293d1e4bfd9e3ca25becd7f4e8eb588d57173c708af4",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/10/20031007.htm",
+  "index_sha256": "5e79ea938cd2bacc06ea008e671455c36a6e8751db008a06e71a56d98303a8bd",
+  "index_header": "7 Ekim 2003 ... Sayı : 25252",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
