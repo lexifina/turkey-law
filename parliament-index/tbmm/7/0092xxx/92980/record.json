@@ -1,0 +1,115 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 92980,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Şehir ve kasabalarda mahalle muhtar ve ihtiyar heyetleri teşkili hakkında (1/25)",
+  "title": "Şehir ve kasabalarda mahalle muhtar ve ihtiyar heyetleri teşkili hakkında (1/25)",
+  "first_sitting_date": "1943-03-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 5,
+      "sitting_date": "1943-03-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c001/tbmm07001005.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c001/tbmm07001fih.pdf",
+      "pages": [
+        "38"
+      ]
+    },
+    {
+      "cilt": 2,
+      "sitting": 24,
+      "sitting_date": "1943-05-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c002/tbmm07002024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c002/tbmm07002fih.pdf",
+      "pages": [
+        "94",
+        "140"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 40,
+      "sitting_date": "1943-06-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c003/tbmm07003040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c003/tbmm07003fih.pdf",
+      "pages": [
+        "116",
+        "129:130"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 47,
+      "sitting_date": "1943-07-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c004/tbmm07004047.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c004/tbmm07004fih.pdf",
+      "pages": [
+        "86",
+        "106"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 19,
+      "sitting_date": "1944-01-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c007/tbmm07007019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c007/tbmm07007fih.pdf",
+      "pages": [
+        "38",
+        "53:63",
+        "66",
+        "69",
+        "74",
+        "80",
+        "89",
+        "91",
+        "102",
+        "142"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 36,
+      "sitting_date": "1944-03-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c008/tbmm07008036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c008/tbmm07008fih.pdf",
+      "pages": [
+        "98",
+        ""
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 37,
+      "sitting_date": "1944-04-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009fih.pdf",
+      "pages": [
+        "5:17",
+        "29:35"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5aed36bc18935b858c988b46324b7655995008e05d79c79994755c30df27f29c",
+  "in_force": "1943-03-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
