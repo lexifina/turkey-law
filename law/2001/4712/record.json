@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4712",
+  "year": 2001,
+  "title": "Azerbeycan Cumhuriyeti, Gürcistan, Türkiye Cumhuriyeti ve Türkmenistan Arasında Hazar Geçişli Boru Hattı Projesinin Uygulanmasına İlişkin Hazar Geçişli Boru Hattının Uygulanma İlkeleri Hakkındaki Hükümetlerarası Deklerasyonunun Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2001-10-11",
+  "adopted_as_published": "11/10/2001",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18.10.2001 No: 24557",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc086/kanuntbmmc086/kanuntbmmc08604712.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 86",
+  "committee_reports": [
+    {
+      "label": "TBMM 558 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c071/tbmm21071006ss0558.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 298696,
+      "title": "Azerbeycan Cumhuriyeti, Gürcistan, Türkiye Cumhuriyeti ve Türkmenistan Arasında Hazar Geçişli Boru Hattı Projesinin Uygulanmasına İlişkin Hazar Geçişli Boru Hattının Uygulanma İlkeleri Hakkındaki Hükümetlerarası Deklerasyonunun Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "11/10/2001",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc086/kanuntbmmc086/kanuntbmmc08604712.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 558 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c071/tbmm21071006ss0558.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 41,
+          "sitting": 2,
+          "sitting_date": "2000-10-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c041/tbmm21041002.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c041/tbmm21041fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 47,
+          "sitting": 24,
+          "sitting_date": "2000-12-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c047/tbmm21047024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c047/tbmm21047fih.pdf",
+          "pages": [
+            "8"
+          ]
+        },
+        {
+          "cilt": 71,
+          "sitting": 6,
+          "sitting_date": "2001-10-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c071/tbmm21071006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c071/tbmm21071fih.pdf",
+          "pages": [
+            "413:418",
+            "493:516"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=301&v_kullanici_id=27483196",
+      "page_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8",
+  "issuer": "TBMM",
+  "in_force": "2001-10-11",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 11/10/2001; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
