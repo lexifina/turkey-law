@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6655",
+  "year": 1956,
+  "title": "Karayolları yapımı için girişilecek sâri taahhüt işlerinde kullanılmak üzere bono ihracına yetki verilmesi hakkındaki 6344 sayılı Kanunun 1 nci maddesini değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-02-08",
+  "gazette_issue": "9228",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9228.pdf",
+  "source_sha256": "47a70128f9f91ec9ddc708f3008e3fc2fe8ed6df99b87eda0a2673236a91af30",
+  "text_sha256": "6322d5d3cc99ed979d339f03dbdfac50836ed4d71390d1891ecddf14a7a58403",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      31,
+      55
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806655.pdf",
+    "source_sha256": "324a73d359e0cedb137fd1f6f0a313c2250fb06902839a5380a2d74453300a26",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.975,
+    "bag": 0.9164,
+    "kd_coverage": 0.958,
+    "kd_body_compared": 0.958,
+    "rg_words": 138,
+    "kd_words": 143,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
