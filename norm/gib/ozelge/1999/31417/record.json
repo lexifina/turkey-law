@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5413-329/1810",
+  "source_id": 31417,
+  "date": "1999-01-15",
+  "title": "İthalatçıdan tahsil edilecek KDV'ne ceza ve gecikme zammının uygun olacağı düşünülmekte ise de bu konunun Gümrük Müşteşarlığınca kararlaştırılması gerekmektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31417",
+  "source_sha256": "5c065a047f40168f82df5ecacfde73f1362b34f5d209437df178ca49047c76d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
