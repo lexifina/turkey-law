@@ -1,0 +1,74 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2193",
+  "year": 1933,
+  "title": "Barut, mevaddı infilâkıye, fişek, av mühimmatı ve av saçması inhisarları isletme muvakkat idaresinin 1933 malî senesi bütçesi hakkında kanun",
+  "adopted": "1933-05-20",
+  "adopted_as_published": "20/05/1933",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.05.1933 No: 2411",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202193.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 12",
+  "committee_reports": [
+    {
+      "label": "TBMM 184 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015054ss0184.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112315,
+      "title": "Barut, mevaddı infilâkıye, fişek, av mühimmatı ve av saçması inhisarları isletme muvakkat idaresinin 1933 malî senesi bütçesi hakkında kanun",
+      "adopted_as_published": "20/05/1933",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202193.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 184 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015054ss0184.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 15,
+          "sitting": 53,
+          "sitting_date": "1933-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015fih.pdf",
+          "pages": [
+            "154"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 54,
+          "sitting_date": "1933-05-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015fih.pdf",
+          "pages": [
+            "185:189",
+            "191",
+            "219",
+            "225:227"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=301&v_kullanici_id=27483155",
+      "page_sha256": "861e628edaf8e291d6a916fb5282ed4dcc0f2ab8a55a990aff1226c45cd760f2"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "861e628edaf8e291d6a916fb5282ed4dcc0f2ab8a55a990aff1226c45cd760f2",
+  "issuer": "TBMM",
+  "in_force": "1933-05-20",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 20/05/1933; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
