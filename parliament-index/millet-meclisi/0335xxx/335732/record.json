@@ -1,0 +1,104 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 335732,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Anayasa Mahkemesi kanunu tasarısı ile İstanbul Milletvekili Saadet Evren ve 3 arkadaşının, Anayasa Mahkemesi kanunu teklifi hakkında (1/99,2/125)",
+  "title": "Anayasa Mahkemesi kanunu tasarısı ile İstanbul Milletvekili Saadet Evren ve 3 arkadaşının, Anayasa Mahkemesi kanunu teklifi hakkında (1/99,2/125)",
+  "first_sitting_date": "1962-04-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 70,
+      "sitting_date": "1962-04-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+      "pages": [
+        "268",
+        "273:275"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 71,
+      "sitting_date": "1962-04-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+      "pages": [
+        "309:346"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 72,
+      "sitting_date": "1962-04-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+      "pages": [
+        "364:313"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 73,
+      "sitting_date": "1962-04-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+      "pages": [
+        "422:436"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 77,
+      "sitting_date": "1962-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+      "pages": [
+        "563:564"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 78,
+      "sitting_date": "1962-04-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+      "pages": [
+        "596",
+        "597:613"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 79,
+      "sitting_date": "1962-04-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c004/mm__01004fih.pdf",
+      "pages": [
+        "637",
+        "643",
+        "647:650"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=5201&v_kullanici_id=27484836",
+  "source_sha256": "ccb328fdf928b08a956d1841a55e4e2c77ce98d78b4e6f16e64cc66022e77c98",
+  "in_force": "1962-04-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
