@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2757",
+  "year": 1935,
+  "title": "Türkiye ile Bulgaristan arasında akid ve imza edilib 12 Haziran 1934 tarih ve 2499 sayılı kanunla tasdik olunan ticarî itilâfname ve merbutları meriyet müddetinin iki ay uzatılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-06-08",
+  "gazette_issue": "3023",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3023.pdf",
+  "source_sha256": "57a8ad43ef3c77dee5782d479beccd4bb199f65a2165b800c30d8d44ef6066c9",
+  "text_sha256": "caecca438b4ee1d32bfe746d30e14e2d4485d3aa6b5d62b561fb480bdb69ba3f",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      610,
+      629
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502757.pdf",
+    "source_sha256": "2e628dcdaf98a88a6b313cbdac31dd9254be8efe5dadcede492c16ae7e250aaf",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.921,
+    "bag": 0.8505,
+    "kd_coverage": 0.9911,
+    "kd_body_compared": 0.9739,
+    "rg_words": 102,
+    "kd_words": 115,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
