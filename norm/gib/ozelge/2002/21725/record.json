@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4503-85/16841",
+  "source_id": 21725,
+  "date": "2002-04-12",
+  "title": "Teşvik belgesinin veriliş tarihine bağlı olarak farklı oranlar uygulanması mümkün değildir. Bu konuda düzenleme yapılabilmesi için, Bakanlar Kuruluna veya Maliye Bakanlığına verilmiş bir yetki bulunmamaktadır",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21725",
+  "source_sha256": "9809b96c1d0299664ab31a29722a070f0b1a4aeb39c941c2ddffd07eb3e130db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
