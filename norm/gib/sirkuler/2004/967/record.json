@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-17 /2004-17",
+  "source_id": 967,
+  "date": "2004-06-04",
+  "title": "Bedelsiz ihracata konu malların imalatçıları tarafından ihraç kaydıyla teslim edilmiş olması ve malların teslim tarihini takip eden aybaşından itibaren üç ay içinde bedelsiz olarak ihracının gerçekleştiğine dair ihracatçının gümrük beyannamesinin vergi da",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/967",
+  "source_sha256": "925ce2fcdda4fa79fce2e65f610d40421561cf011eb7ff0b9af4367b28af5cbc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
