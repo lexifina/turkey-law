@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5411-2442",
+  "source_id": 38044,
+  "date": "2004-10-28",
+  "title": "İhracat teslimleri ve bu teslimlere ilişkin hizmetler ile yurt dışındaki ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38044",
+  "source_sha256": "9a963496b669007c5a9879cc8750c8e5395e53aa2e152f31d2efa90bc9b93351",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
