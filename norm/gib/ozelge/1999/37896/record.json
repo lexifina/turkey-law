@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4106-345/24779",
+  "source_id": 37896,
+  "date": "1999-06-18",
+  "title": "Kamu kuruluşlarının satın aldığı zirai ürünler için kimden satın almış olursa olsun (destekleme alımı yapan kamu kurum ve kuruluşları ile zirai ürün alımında bulunan kamu kuruluşlarından ve borsadan satın alınanlar hariç) gelir vergisi tevkifatı yapmak zo",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37896",
+  "source_sha256": "e36a95dd86a8cfea16f4db4de0b9d111d1bf4033a43291cd8731e7a2511cb802",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
