@@ -1,0 +1,250 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1896",
+  "year": 1975,
+  "title": "13.2.1974 tarihli 11 sayılı Kanun Hükmünde Kararname ile 31.5.1974 tarihli 12 sayılı Kanun Hükmünde Kararnamenin «Ek geçici 10. madde» (g) bendinin, 11 sayılı Kanun Hükmünde Kararname ile ilgili Hükmünün yürürlükten kaldırılmasına Dair Kanun",
+  "adopted": "1975-05-15",
+  "adopted_as_published": "15/05/1975",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "22.05.1975 No: 15243",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801896.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 58",
+  "committee_reports": [
+    {
+      "label": "MM 113 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008036ss0113.pdf"
+    },
+    {
+      "label": "MM 113ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012075ss0113ek01.pdf"
+    },
+    {
+      "label": "CS 441no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021036ss0441.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 448250,
+      "title": "13.2.1974 tarihli 11 sayılı Kanun Hükmünde Kararname ile 31.5.1974 tarihli 12 sayılı Kanun Hükmünde Kararnamenin «Ek geçici 10. madde» (g) bendinin, 11 sayılı Kanun Hükmünde Kararname ile ilgili Hükmünün yürürlükten kaldırılmasına Dair Kanun",
+      "adopted_as_published": "15/05/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801896.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 113 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008036ss0113.pdf"
+        },
+        {
+          "label": "MM 113ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012075ss0113ek01.pdf"
+        },
+        {
+          "label": "CS 441no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021036ss0441.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 42,
+          "sitting_date": "1974-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c001/mm__04001042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c001/mm__04001fih.pdf",
+          "pages": [
+            "613"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 35,
+          "sitting_date": "1975-02-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008fih.pdf",
+          "pages": [
+            "365"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 36,
+          "sitting_date": "1975-02-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008fih.pdf",
+          "pages": [
+            "432:436",
+            "439:498"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 53,
+          "sitting_date": "1975-03-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011fih.pdf",
+          "pages": [
+            "140"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 58,
+          "sitting_date": "1975-04-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c011/mm__04011fih.pdf",
+          "pages": [
+            "251"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 75,
+          "sitting_date": "1975-05-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012fih.pdf",
+          "pages": [
+            "90:97"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 77,
+          "sitting_date": "1975-05-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012fih.pdf",
+          "pages": [
+            "140:175"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=301&v_kullanici_id=27483225",
+      "page_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 325107,
+      "title": "13.2.1974 tarihli 11 sayılı Kanun Hükmünde Kararname ile 31.5.1974 tarihli 12 sayılı Kanun Hükmünde Kararnamenin «Ek geçici 10 ncu madde» (g) bendinin, 11 sayılı Kanun Hükmünde Kararname ile ilgili hükmünün yürürlükten kaldırılmasına dair Kanun.",
+      "adopted_as_published": "15/05/1975",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc058/kanuntbmmc058/kanuntbmmc05801896.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 113 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008036ss0113.pdf"
+        },
+        {
+          "label": "MM 113ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012075ss0113ek01.pdf"
+        },
+        {
+          "label": "CS 441no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021036ss0441.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 19,
+          "sitting": 28,
+          "sitting_date": "1975-02-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c019/cs__14019028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c019/cs__14019fih.pdf",
+          "pages": [
+            "224"
+          ]
+        },
+        {
+          "cilt": 20,
+          "sitting": 32,
+          "sitting_date": "1975-02-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c020/cs__14020032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c020/cs__14020fih.pdf",
+          "pages": [
+            "170"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 36,
+          "sitting_date": "1975-02-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021fih.pdf",
+          "pages": [
+            "3:40"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 37,
+          "sitting_date": "1975-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021fih.pdf",
+          "pages": [
+            "57:85",
+            "86:89"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 39,
+          "sitting_date": "1975-03-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021fih.pdf",
+          "pages": [
+            "107:141"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 40,
+          "sitting_date": "1975-03-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021040.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021fih.pdf",
+          "pages": [
+            "147:177",
+            "182:187"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 42,
+          "sitting_date": "1975-03-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c021/cs__14021fih.pdf",
+          "pages": [
+            "202:259",
+            "262:264"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1901&v_kullanici_id=27483235",
+      "page_sha256": "b03516e6e4516fd0e8518e72928e38bf7e13c854ce0bd904282a9e657cec2cef"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb",
+  "issuer": "Millet Meclisi",
+  "in_force": "1975-05-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 15/05/1975; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
