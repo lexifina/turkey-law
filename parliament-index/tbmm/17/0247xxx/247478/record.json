@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 247478,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "title": "TBMM fihrist kaydı 247478 (Tasarılar)",
+  "first_sitting_date": "1986-04-08",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 27,
+      "sitting": 89,
+      "sitting_date": "1986-04-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027fih.pdf",
+      "pages": [
+        "318"
+      ]
+    },
+    {
+      "cilt": 27,
+      "sitting": 93,
+      "sitting_date": "1986-04-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c027/tbmm17027fih.pdf",
+      "pages": [
+        "569"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=756&v_gelecek_sayfa=501&v_kullanici_id=27484344",
+  "source_sha256": "62fd86e0ba5e5d6266f4deff2f3e05188d7730a9ef08fb608ce48a47440ee2bf",
+  "in_force": "1986-04-08",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
