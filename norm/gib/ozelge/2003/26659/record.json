@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5529-655/1707",
+  "source_id": 26659,
+  "date": "2003-01-14",
+  "title": "Bankaların yaptıkları hizmet ve satış işlemlerine ilişkin olarak  düzenlemek zorunda oldukları dekontların fatura yerine geçen belge olarak kullanılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/26659",
+  "source_sha256": "3594cdf74926a3a5ca6240b1ee8d985b7c912fcf40c12e369ffdd6844615e253",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
