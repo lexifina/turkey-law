@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3346",
+  "year": 1938,
+  "title": "İsveç grupundan alınacak paranın 1936 malî yılı Nafıa vekâleti bütçesine tahsisat kayid ve sarfına dair olan kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-04-07",
+  "gazette_issue": "3876",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3876.pdf",
+  "source_sha256": "cda308d27730488fd8aa16a9a74528e1560273dca1e32ec5e035c29ed7953adf",
+  "text_sha256": "4162253c05e907ad2d42a62998bd6cd59af12c67133e6bdbdf62f1946686db9a",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      4,
+      18
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803346.pdf",
+    "source_sha256": "42883c827a6e98facd08bc8ede9be468a702db51f8ff73d1d106c52e818c0111",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9768,
+    "bag": 0.9208,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9528,
+    "rg_words": 101,
+    "kd_words": 106,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
