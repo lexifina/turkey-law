@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2002-12-20",
+  "issue": "24969",
+  "edition": "regular",
+  "item": 15,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "MSB Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/12/20021220-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (80 = 80)",
+  "ilan_codes": [
+    "36123/2-2",
+    "36123/2-2"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/12/20021220-3.htm",
+  "category_page_sha256": "a0c12bf57d6c813cc12cbe7146bfb953e4629e0f692feeee963d90361eb343d0",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2002/12/20021220.htm",
+  "index_sha256": "5d7da907e232bdfafebfb2b918d31f8aacdcb2edb446df44b51639e6e5542a9e",
+  "index_header": "20 Aralık 2002 ... Sayı : 24969",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
