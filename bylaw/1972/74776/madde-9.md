@@ -1,0 +1,2 @@
+Sicildeki hataların düzeltilmesi:
+Madde 9 – Sicile kayıt düşürülürken, kayda esas teşkil eden belgelerden açıkca anlaşılan yazı veya hesap hatası yapılmışsa sicil memuru, bu maddi hatayı re'sen veya tarafların isteği üzerine düzeltir. Düzeltme sırasında, yanlış kelime veya rakam, yatay bir çizgi ile okunabilir şekilde çizilerek üstüne doğrusu yazılır. Sicil defterlerinin düşünceler hanesinde, düzeltmenin sebebi ve tarihi gösterilir.
