@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8850",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2005/2)",
+  "number": "8850",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2005/8850",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8850&MevzuatTertip=5",
+  "source_sha256": "cfb373f9b80fc894bec20f35105a69383ce602af90b3d74faa85232246e590cc",
+  "source_bytes": 20437,
+  "published": "2005-02-08",
+  "gazette": "25721",
+  "in_force": "2005-02-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.02.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 517,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
