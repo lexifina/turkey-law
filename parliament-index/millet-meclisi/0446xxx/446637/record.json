@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 446637,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Cumhuriyet Senatosu İstanbul Üyesi Solmaz Betül'ün, 5434 sayılı TC Emekli Sandığı Kanununun 6. maddesiyle bu Kanuna ek 1425 sayılı Kanunla eklenen ek 6. maddenin değiştirilmesine ve ayrıca 2 ek ve 1 geçici madde eklenmesine dair 2013 sayılı Yasanın 5 inci maddesinin değiştirilmesine dair Yasa önerisi (2/561)",
+  "title": "Cumhuriyet Senatosu İstanbul Üyesi Solmaz Betül'ün, 5434 sayılı TC Emekli Sandığı Kanununun 6. maddesiyle bu Kanuna ek 1425 sayılı Kanunla eklenen ek 6. maddenin değiştirilmesine ve ayrıca 2 ek ve 1 geçici madde eklenmesine dair 2013 sayılı Yasanın 5 inci maddesinin değiştirilmesine dair Yasa önerisi (2/561)",
+  "first_sitting_date": "1980-02-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 45,
+      "sitting_date": "1980-02-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014fih.pdf",
+      "pages": [
+        "182"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=1001&v_kullanici_id=27484893",
+  "source_sha256": "4b214aaf3146dba20ccdcbf6139e5eabcbdc152da9c2ba590a226e98a5d4302f",
+  "in_force": "1980-02-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
