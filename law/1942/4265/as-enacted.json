@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4265",
+  "year": 1942,
+  "title": "Bankalar ve Devlet müesseseleri memurları aylıklarının tevhit ve teadülüne dair olan 3659 sayılı kanunun 14. maddesinin son fıkrasının tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-06-23",
+  "gazette_issue": "5139",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5139.pdf",
+  "source_sha256": "6bf5dbd3a9a7e2ae89e1c2f3e39ce7f65ce0f93cb5d26da3b3f69197d014e7d4",
+  "text_sha256": "4de174c2aae80ecf1a3741849e1afb50d244504da2dc2a4b1c2ca7786877eea0",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      303,
+      325
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304265.pdf",
+    "source_sha256": "8af7e0d6a73934ce5a71ada6dcb8803d525d7ec8a4a8602a12fe2e8297991d9a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9829,
+    "bag": 0.9386,
+    "kd_coverage": 0.9737,
+    "kd_body_compared": 0.9573,
+    "rg_words": 116,
+    "kd_words": 117,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
