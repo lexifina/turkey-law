@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2135/37858",
+  "source_id": 38218,
+  "date": "1998-10-22",
+  "title": "Terekenin mirasçılar arasında paylaşımında noterde düzenlenen rızai taksim sözleşmesine itibar edilmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/38218",
+  "source_sha256": "ef2efcc7a2edc739a37749727390548ac098d32e250f91dec00915d822914358",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
