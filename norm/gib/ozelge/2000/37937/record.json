@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2832-74-40/43399",
+  "source_id": 37937,
+  "date": "2000-09-21",
+  "title": "Beyannamelerin süresinde verilmemesi sebebiyle, mükelleflerin takdir komisyonuna sevk edilip edilmeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37937",
+  "source_sha256": "1ecc126f834dafa1f1d52a049f140450c1751bd9e8f0c983afb9ec0a55029eb6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
