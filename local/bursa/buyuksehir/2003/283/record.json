@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "283",
+  "decision_date": "2003-02-05",
+  "title": "TAHTALI VE HAMAMLIKIZIK KÖY YERLEŞİK ALAN SINIRI",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/3471_MEC2002-15-OL.UST_283%20O.%C3%9CST%C3%9C.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=2003",
+  "listing_sha256": "8f6a72fc0cd38b6fe1344a9bfa97b1534a1713f3ea833a5b5761b9040125f076",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
