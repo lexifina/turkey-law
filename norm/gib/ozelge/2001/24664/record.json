@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4405-1106/24792",
+  "source_id": 24664,
+  "date": "2001-05-07",
+  "title": "Mükellefin işin gerektirdiği işlemlerle kısmen veya tamamen kendisinin uğraşması, bu şekilde işinde bilfiil çalışmasa bile işin sevk ve idaresi ile meşgul olması şarttır. Dolayısıyla bir ticaret erbabının, işinde bilfiil çalışması veya işin sevk ve idares",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24664",
+  "source_sha256": "49a17b2a85447a8fc824717ff1ac476bf0ef7fbd7b947d7e19e4b02b842e0eb3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
