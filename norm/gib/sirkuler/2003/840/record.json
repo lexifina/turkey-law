@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-1/2003-1/ Tahsilat ve ödemelerde tevsik uygulaması 1",
+  "source_id": 840,
+  "date": "2003-08-12",
+  "title": "Tahsilat ve ödemelerin tevsik zorunluluğu uygulaması, ciro ve beyaz cirolu çeklerin kullanımı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/840",
+  "source_sha256": "b82650c97138ad7b30d7d47c1116009df884966fdccef3894f8ca7d421c391cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
