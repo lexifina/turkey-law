@@ -1,0 +1,80 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1187",
+  "year": 1969,
+  "title": "4936 sayılı Üniversiteler Kanununun 27.10.1960 tarih ve 115 sayılı Kanunla değiştirilen 32 ve 38 nci maddelerinde değişiklik yapılmasına, bir ek ve iki geçici madde ilâvesine ve 7163 sayılı Kanunun 19 ncu maddesinin değiştirilmesine dair Kanun",
+  "adopted": "1969-10-27",
+  "adopted_as_published": "27/10/1969",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "05.11.1969 No: 13343",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301187.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 53",
+  "committee_reports": [
+    {
+      "label": "CS 1278 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053071ss1278.pdf"
+    },
+    {
+      "label": "MM 915no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036098ss0915.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 313048,
+      "title": "4936 sayılı Üniversiteler Kanununun 27.10.1960 tarih ve 115 sayılı Kanunla değiştirilen 32 ve 38 nci maddelerinde değişiklik yapılmasına, bir ek ve iki geçici madde ilâvesine ve 7163 sayılı Kanunun 19 ncu maddesinin değiştirilmesine dair Kanun",
+      "adopted_as_published": "27/10/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301187.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 1278 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053071ss1278.pdf"
+        },
+        {
+          "label": "MM 915no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036098ss0915.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 53,
+          "sitting": 68,
+          "sitting_date": "1969-06-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053fih.pdf",
+          "pages": [
+            "579"
+          ]
+        },
+        {
+          "cilt": 53,
+          "sitting": 71,
+          "sitting_date": "1969-10-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053fih.pdf",
+          "pages": [
+            "670",
+            "672:748"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1101&v_kullanici_id=27483235",
+      "page_sha256": "1eaad7ada00aca89de2fafea1c48fe47bacb9ae26f5a743f31a7c677dcbb0e77"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1eaad7ada00aca89de2fafea1c48fe47bacb9ae26f5a743f31a7c677dcbb0e77",
+  "issuer": "Cumhuriyet Senatosu",
+  "in_force": "1969-10-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Cumhuriyet Senatosu) as printed in the official TBMM kanunlar index: 27/10/1969; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
