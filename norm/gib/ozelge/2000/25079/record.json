@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.49/4900-1387/13995",
+  "source_id": 25079,
+  "date": "2000-03-29",
+  "title": "Satılan enerji bedelinden, kesilecek TRT payının nasıl hesaplanacağı hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/25079",
+  "source_sha256": "6a38d0d8238ee3713807e7138fd2d66801f7ff4b204d164206ad663c11e05c1f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
