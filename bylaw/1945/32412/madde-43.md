@@ -1,0 +1,1 @@
+Madde 43 – Muhtarlık resmi mühriyle muhtar ve ihtiyar kurulu üyelerini nimzaları ve adresleri, en büyük mülkiye memuru tarafından onanarak il ve ilçe yazı kalemleriyle bucak müdürlüklerine ve mahkeme kalemlerine, maliye, özel idare, nüfus, tapu ve polis dairelerine ve askerlik şubelerine en büyük mülkiye memuru eliyle verilir.

@@ -1,0 +1,1 @@
+Madde 15 – Seçime, belediye seçimi için Belediye Kanununun (34) üncü maddesine göre yapılmış olan son defterler esas tutulur. Bunun için yerin en büyük mülkiye memurunun emriyle belediyelerce bu defterlerin ikişer örnekleri çıkartılarak seçim komisyonuna verilir.

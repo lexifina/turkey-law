@@ -1,0 +1,1 @@
+Madde 11 – Milletvekilleri, İl Umumi Meclisi üyeleri, subaylar, erat, askeri memurlar, yargıçlar, genel, özel ve katma bütçelerle idare edilen daire ve kurumlardan aylık alan memurlar, mahalle muhtar ve ihtiyar kurulu üyeliğine seçilemezler.

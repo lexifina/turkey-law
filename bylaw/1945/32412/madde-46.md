@@ -1,0 +1,1 @@
+Madde 46 – Muhtarlar, her hangi zaruri bir sebeple geçici bir zaman için görevlerinden ayrılmak istediklerinde yerlerine ihtiyar kurulu üyelerinden birini vekil bırakmak suretiyle işi, yerin en büyük mülkiye memuruna bildirirler.

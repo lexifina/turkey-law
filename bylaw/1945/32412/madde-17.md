@@ -1,0 +1,1 @@
+Madde 17 – Seçimin nerede, ne gün ve saat kaçtan kaça kadar yapılacağı, oylar bir günde sandığa atılamayacaksa kaç gün mühlet verileceği ve son günde hangi saate kadar oyların kabul olunacağı seçime başlanmadan en az üç gün önce yerin en büyük mülkiye memuru tarafından seçmenlere duyurulacak şekilde uygun araçlarla ilan olunur.

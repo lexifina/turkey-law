@@ -1,0 +1,1 @@
+Madde 2 – Şehir ve kasabalarda kurulu bulunan ve Belediye Kanununun (8)inci maddesine göre belediye meclisinin ve o yer idare kurulunun kararı ve valinin onaması ile yeniden kurulacak olan mahallelerde bir muhtar ve muhtarın başkanlığında bir ihtiyar kurulu bulunur.

@@ -1,0 +1,3 @@
+Madde 42 – Muhtarlar, örneği, Dahiliye Bakanlığınca belirtilecek şekilde resmi mühür kullanırlar. İki veya daha fazla mahallelerin bir muhtar ve ihtiyar kuruluna bağlanmasında, mühürün örneği bozulmamak şartiyle bağlanan mahallelerin adları mühürde yazılır. Bir mahallenin birden fazla muhtar ve ihtiyar kuruluna ayrılmasında da muhtarlığın mahallede aldığı numara yazılır.
+Muhtarlar, her türlü kağıtlara basdıkları mühürün kenarına, imzalarını koymakve ayrıca kağıtların uygun bir yerine adreslerini, başlıklarını, ad ve soyadlarını yazmak ödevindedirler.
+Muhtarlık mühürü, yalnız muhtarlarda veya vekillerinde bulunur ve yalnız bunlar tarafından kullanılır ve saklanır.

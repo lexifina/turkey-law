@@ -1,0 +1,2 @@
+Madde 29 – Mahalle muhtar ve ihtiyar kurulları görevlerini yapmakta savsadıkları halde vali veya kaymakamlar kendilerine yazılı uyartıda bulunurlar. Bu uyartıya aldırmayarak direnenlerin işten eli çektirilerek yerlerine- varsa - gerikalan üyelerden vekil tayin olunur.
+İşten el çektirilenler hakkındaki kağıtlar en kısa bir zamanda idare kurulunca incelenerek verilecek karara göre ya görevlerine yeniden başlattırılır veya görevlerine son verilir.
