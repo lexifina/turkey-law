@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3119",
+  "year": 1937,
+  "title": "Ceza Kanununun mevkii meriyete vazına müteallik Kanunun 27. maddesini değiştiren 952 sayılı Kanunun ilgasına ve o madde yerine bir madde konmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-02-18",
+  "gazette_issue": "3537",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3537.pdf",
+  "source_sha256": "adc96dd51329885922837b08a8c3ddb6378bc8d2cf5a0b0022254b17f3914e24",
+  "text_sha256": "3c7f8b637474799773678c73beab3a3ef08fa0b153ca243edbff36eb9912f497",
+  "text_status": "ocr",
+  "pages": [
+    11
+  ],
+  "line_span": [
+    [
+      2760,
+      2817
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703119.pdf",
+    "source_sha256": "35d8e00d0843355d07fd0c9a674f17383e8f7ec75551dedb814d2ac9c81382ad",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9002,
+    "bag": 0.8026,
+    "kd_coverage": 0.9924,
+    "kd_body_compared": 0.9778,
+    "rg_words": 172,
+    "kd_words": 135,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
