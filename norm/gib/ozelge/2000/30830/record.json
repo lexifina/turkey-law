@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5210-6/689",
+  "source_id": 30830,
+  "date": "2000-01-06",
+  "title": "Kısım kısım yapılan taahhüt işlerinde, yapımı gerçekleşen ve hakediş raporuna bağlanan kısma ait bedel için farklı tarihlerde fatura düzenlenmek suretiyle matrahın bölünerek katma değer vergisi uygulanması mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30830",
+  "source_sha256": "e5e47e4e996efa8d2c20215e5f4763e41dd77c4543d3e77511361be2647e3ea5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
