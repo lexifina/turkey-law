@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": null,
+  "date_quote": "12/11/1978 13/3/1981 31/5/1985 12/5/1991 | 7/16989 8/2532 85/9529 91/1767 | - - - - | 23/3/1979 8/4/1981 3/7/1985 26/5/1991",
+  "first_law": null,
+  "gazette": "14223",
+  "history": "current-text",
+  "images": {
+    "deferred": 83,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 83
+  },
+  "in_force": "1991-05-26",
+  "in_force_basis": "latest source-printed amendment commencement or Resmi Gazete date (current consolidated text)",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1972-06-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=74496&MevzuatTertip=5",
+  "source_bytes": 1259828,
+  "source_id": "2.5.74496",
+  "source_sha256": "3382e04663db289c125dbbec52dcd7cad035301b70354b5322de6ecc72fce151",
+  "source_type": "Tüzükler",
+  "title": "SOSYAL SİGORTA SAĞLIK İŞLEMLERİ TÜZÜĞÜ",
+  "word_count": 15573
+}

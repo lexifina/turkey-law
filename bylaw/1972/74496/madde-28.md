@@ -1,0 +1,1 @@
+Madde 28 – İşe alıştırılmaya tabi tutulmak yahut bu amaçla muayene edilmek üzere başka yerlere gönderilenlerin ve gerektiğinde bunlara eşlik edecek kimselerin gidip gelme yol paraları ile zaruri giderleri yürürlükte olan mevzuata göre Kurumca ödenir.

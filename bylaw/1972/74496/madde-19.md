@@ -1,0 +1,2 @@
+Madde 19 – Bölge rehabilitasyon sağlık kurullarınca, rehabilitasyon merkezlerine gönderilen sigortalılar, rehabilitasyon merkezi sağlık kurulu tarafından muayene edilerek rehabilitasyona tabi tutulması uygun görülenlerin nerede, nesuretle ve ne süre rehabilitasyona tabi tutulacaklarına karar verilir.
+Bu kurullar, karardan önce, sigortalı hakkında bu hususta verilmiş raporlara bağlı kalmaksızın, sigortalıyı yeniden inceleyebilecekleri gibi, herhangi birsağlık tesisinde de incelettirebilirler.

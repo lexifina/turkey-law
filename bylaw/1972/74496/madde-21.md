@@ -1,0 +1,1 @@
+Madde 21 – İşe alıştırma (Rehabilitasyon) safhalarında, rehabilitasyon merkezi sağlık kurulu tarafından sağlık durumları, çalışmaları veya genel halleri uygun görülmeyen sigortalıların işe alıştırılmalarından vazgeçilmesine Kurumca karar verilir.
