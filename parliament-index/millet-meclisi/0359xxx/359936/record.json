@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 359936,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Islahı Hayvanat Kanununun 5883 sayılı Kanunla değişik 35. maddesine bâzı hükümler eklenmesine dair 7454 sayılı Kanunun 1. maddesinin son fıkrasının kaldırılması hakkında (1/4)",
+  "title": "Islahı Hayvanat Kanununun 5883 sayılı Kanunla değişik 35. maddesine bâzı hükümler eklenmesine dair 7454 sayılı Kanunun 1. maddesinin son fıkrasının kaldırılması hakkında (1/4)",
+  "first_sitting_date": "1965-11-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 15,
+      "sitting_date": "1965-11-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001015.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001fih.pdf",
+      "pages": [
+        "403"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2901&v_kullanici_id=27484850",
+  "source_sha256": "65933683e242eb52d16638c46a77a06d40b39c03a3565bef1f5a758a3192544a",
+  "in_force": "1965-11-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
