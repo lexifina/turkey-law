@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1528",
+  "year": 1929,
+  "title": "Yabani ağaçların aşılanması hakkında kanun",
+  "adopted": "1929-06-10",
+  "adopted_as_published": "10/06/1929",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.06.1929 No: 1217",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701528.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 7",
+  "committee_reports": [
+    {
+      "label": "TBMM 263 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c012/tbmm03012076ss0263.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120365,
+      "title": "Yabani ağaçların aşılanması hakkında kanun",
+      "adopted_as_published": "10/06/1929",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701528.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 263 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c012/tbmm03012076ss0263.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 9,
+          "sitting": 41,
+          "sitting_date": "1929-03-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c009/tbmm03009041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c009/tbmm03009fih.pdf",
+          "pages": [
+            "22"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 74,
+          "sitting_date": "1929-06-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c012/tbmm03012074.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c012/tbmm03012fih.pdf",
+          "pages": [
+            "206"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 76,
+          "sitting_date": "1929-06-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c012/tbmm03012076.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c012/tbmm03012fih.pdf",
+          "pages": [
+            "309:313"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=663&v_gelecek_sayfa=301&v_kullanici_id=27483152",
+      "page_sha256": "192693a91446d2a2279d96db5e58b330a511423630cd4e1237a7bae925e54e9d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "192693a91446d2a2279d96db5e58b330a511423630cd4e1237a7bae925e54e9d",
+  "issuer": "TBMM",
+  "in_force": "1929-06-10",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 10/06/1929; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
