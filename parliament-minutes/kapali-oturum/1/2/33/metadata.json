@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Kapalı Oturumu (Gizli Celse)",
+  "assembly": "KAPALI OTURUM ( GİZLİ CELSE )",
+  "term_label": "1. Dönem",
+  "cilt": 2,
+  "sitting": 33,
+  "label": "33. Birleşim",
+  "sitting_date": "1921-05-14",
+  "date_as_published": "14 Mayıs 1921",
+  "weekday": "Cumartesi",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/GZC/d01/CILT02/gcz01002033.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/GZC/d01/CILT02/gczfih02.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_gc?v_meclis=11&v_donem=1",
+  "source_sha256": "5e47efc5272b18979e79d89e47c580990408fe371410e7716cc7a923ebd642f9",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
