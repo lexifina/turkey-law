@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/540",
+  "list_number": "540",
+  "decision_date": "2004-03-08",
+  "title": "YSK ilke kararı 2004/540",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4002/2004-540-karar.htm",
+  "source_sha256": "f4159893c9c378152c28eb40ca04db8ef9f124ba150b1d87f7c048caf3effc64",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-03-08",
+  "law_text_complete": false
+}
