@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1045/4451",
+  "source_id": 36798,
+  "date": "2001-01-23",
+  "title": "Bankaların afet konutlarıihalelerine katılmak isteyen firmalara vereceği teminat mektupları üzerinden alacağı komisyonlar BSMV ' ye tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36798",
+  "source_sha256": "2afb439e9c92873b9efa74eb7c8e46e88fdc3f3acc69345c17c670141214cb6b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
