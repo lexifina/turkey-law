@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1760",
+  "year": 1931,
+  "title": "İntihabı mebusan kanunu muvakkatinin 10. maddesine bir fıkra ilâvesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-03-11",
+  "gazette_issue": "1745",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1745.pdf",
+  "source_sha256": "a4b6450cd0b0c3d2b82032b054c664c0f2270a96bde4a9dd9f6b652cfdf4a8b1",
+  "text_sha256": "f1d9b5ee073b89ffba7038971af06db1dfdcafbadb4403aba8abd30e867ed25d",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      106,
+      124
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901760.pdf",
+    "source_sha256": "fd58b2a152301faf8b117e5fbb8dbb1118835f241f057c272f3ed72f8279824a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9641,
+    "bag": 0.9384,
+    "kd_coverage": 0.9813,
+    "kd_body_compared": 0.9545,
+    "rg_words": 106,
+    "kd_words": 110,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
