@@ -1,0 +1,1 @@
+<TABLE WIDTH="750"><TR><TD><B><U><span SIZE=2>Karar Sayısı: 95/6616</span></U></B><br/><P><B><span SIZE=2>(Karar metni tarih ve sayılar 1995 yılına ait olmak üzere 8.1.1996 gün ve 96/7774 sayılı B.K.K. ile aynıdır. Kararname eki bildirim ve form örnekleri 96/7774 sayılı B.K.K.nın örneklerinin aynı olup 1995 yılı içinde kullanılabilir.)</span></B></TD></TR><br/></TABLE><br/>
