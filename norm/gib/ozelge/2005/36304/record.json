@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2332/000528",
+  "source_id": 36304,
+  "date": "2005-01-06",
+  "title": "Mirasçının ölümü ile tüm mirasçıları tarafından miras reddedildiğinde mirasçıdan  intikal eden malların paraya çevrilmesi ve tereke alacaklılarına ödeme yapılması işlemleri veraset ve intikal vergisinin mevzuuna girmediğinden, bu işlemler nedeniyle tasdik",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36304",
+  "source_sha256": "b5bca55e86443d3c1a31abeeb70e1e7fcf3e3ccc6071f221a7da0e35b00213eb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
