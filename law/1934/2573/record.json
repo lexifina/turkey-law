@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2573",
+  "year": 1934,
+  "title": "Devlet davalarını takibe memur avukatlar hakkında kanun",
+  "adopted": "1934-07-05",
+  "adopted_as_published": "05/07/1934",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "15.07.1934 No: 2752",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302573.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 13",
+  "committee_reports": [
+    {
+      "label": "TBMM 299 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023078ss0299.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112695,
+      "title": "Devlet davalarını takibe memur avukatlar hakkında kanun",
+      "adopted_as_published": "05/07/1934",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302573.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 299 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023078ss0299.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 68,
+          "sitting_date": "1934-06-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023fih.pdf",
+          "pages": [
+            "136"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 76,
+          "sitting_date": "1934-07-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023076.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023fih.pdf",
+          "pages": [
+            "385"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 78,
+          "sitting_date": "1934-07-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023078.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023fih.pdf",
+          "pages": [
+            "444",
+            "446:447",
+            "489"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=601&v_kullanici_id=27483155",
+      "page_sha256": "5f041f49ba2ca557390fd11af81fa00834bdb0331a9d785daae3de9cfbe2dd9c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5f041f49ba2ca557390fd11af81fa00834bdb0331a9d785daae3de9cfbe2dd9c",
+  "issuer": "TBMM",
+  "in_force": "1934-07-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 05/07/1934; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
