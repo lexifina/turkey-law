@@ -1,0 +1,78 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 354824,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Milli İstihbarat Teşkilâtı Kanunu tasarısı (3/451)",
+  "title": "Milli İstihbarat Teşkilâtı Kanunu tasarısı (3/451)",
+  "first_sitting_date": "1964-12-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 34,
+      "sitting": 22,
+      "sitting_date": "1964-12-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+      "pages": [
+        "90"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 72,
+      "sitting_date": "1965-03-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037fih.pdf",
+      "pages": [
+        "265",
+        "536",
+        "539:553",
+        "572",
+        "604",
+        "615:628",
+        "634:635",
+        "645",
+        "678",
+        "681"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 132,
+      "sitting_date": "1965-06-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042132.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042fih.pdf",
+      "pages": [
+        "301",
+        "578:586"
+      ]
+    },
+    {
+      "cilt": 43,
+      "sitting": 139,
+      "sitting_date": "1965-07-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043139.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043fih.pdf",
+      "pages": [
+        "4",
+        "78"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=5201&v_kullanici_id=27484850",
+  "source_sha256": "03368f1501843fc470fac80cd62e98570fe94f9bfa840e255ff84f7bc0dd1add",
+  "in_force": "1964-12-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
