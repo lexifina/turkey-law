@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "414",
+  "decision_date": "2004-12-30",
+  "title": "Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinin 9 uncu maddesi uyarınca uygulanacak olan kayıp katsayıları",
+  "resmi_gazete_date": "2005-01-02",
+  "resmi_gazete_number": "25688",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1uKCdFb2tOU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1uKCdFb2tOU="
+  ],
+  "source_sha256": "279b64ecf1c5bc2815af0f91e47c6755c0cbfad6febbd0d43947991db6f91363",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-12-30",
+  "law_text_complete": false
+}
