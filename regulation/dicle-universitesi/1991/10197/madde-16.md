@@ -1,0 +1,1 @@
+Madde 16- DÜKAM’ın Döner Sermaye İşletmesinin kurulması, DÜKAM Yönetim Kurulu tarafından kararlaştırılabilir. Rektör makamınca uygun görülmesi ile gerekli işlemler yapılarak, Döner Sermaye İşletmesi kurulur. Kurulacak Döner Sermaye İletmesinin İşletme Müdürün DÜKAM Müdürü ve Yönetim Kurulu ise DÜKAM Yönetim Kuruludur.

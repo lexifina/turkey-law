@@ -1,0 +1,2 @@
+MERKEZ MÜDÜRÜ
+Madde 10- DÜKAM’ı temsil etmek, faaliyetlerini koordine etmek ve yürütmek üzere bir müdür bulundurur. Müdür, ilgili araştırma, eğitim-öğretim ve yayım faaliyetlerinde bulunan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl süre ile Rektörün teklifi ve senatonun onayı ile atanır. Süresi büten müdür yeniden atanabileceği gibi, süresi tamamlanmadan aynı usulle alınabilir. Müdür olarak atanan öğretim üyesi, Üniversitedeki diğer akademik görevlerine de yürütür.

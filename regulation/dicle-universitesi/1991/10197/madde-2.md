@@ -1,0 +1,2 @@
+II. AMAÇ
+Madde 2- Bölgemizde sık görülen akut ve kronik tıbbi-cerrahi çeşitleri karaciğer hastalıklarının GAP ile beraber artış göstereceği ve önem kazanacağını düşünerek bu hastalıkların çeşitli yönleri ile araştırması bu konuda etyoloji, koruyucu hekimlik ve tedaviye yönelik araştırmalar yapılması, bilimsel faaliyetler gösterilmesi, araştırma, takip ve tedavi laboratuar ve merkezlerinin kurulmasıdır.
