@@ -1,0 +1,150 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "888",
+  "year": 1967,
+  "title": "Yabancı memleketlerde yapılan evlenme merasiminin kolaylaştırılması hakkındaki Sözleşmenin onaylanmasının uygun bulunduğuna dair Kanun",
+  "adopted": "1967-06-28",
+  "adopted_as_published": "28/06/1967",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "08.07.1967 No: 12642",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000888.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 50",
+  "committee_reports": [
+    {
+      "label": "MM 222 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015079ss0222.pdf"
+    },
+    {
+      "label": "CS 960no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042078ss0960.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 362669,
+      "title": "Yabancı memleketlerde yapılan evlenme merasiminin kolaylaştırılması hakkındaki Sözleşmenin onaylanmasının uygun bulunduğuna dair Kanun",
+      "adopted_as_published": "28/06/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000888.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 222 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015079ss0222.pdf"
+        },
+        {
+          "label": "CS 960no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042078ss0960.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 75,
+          "sitting_date": "1966-04-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c005/mm__02005075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c005/mm__02005fih.pdf",
+          "pages": [
+            "654"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 67,
+          "sitting_date": "1967-02-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c014/mm__02014067.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c014/mm__02014fih.pdf",
+          "pages": [
+            "804"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 79,
+          "sitting_date": "1967-04-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015079.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015fih.pdf",
+          "pages": [
+            "454",
+            "486",
+            "504:507"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1201&v_kullanici_id=27483225",
+      "page_sha256": "2a5e87afe32fdcc520e9a23a080355d8d2bbd886ef1825be8899987216e9bee9"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 304963,
+      "title": "Yabancı memleketlerde yapılan evlenme merasiminin kolaylaştırılması hakkındaki sözleşmenin onaylanmasının uygun bulunduğuna dair Kanun",
+      "adopted_as_published": "28/06/1967",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc050/kanuntbmmc050/kanuntbmmc05000888.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 222 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c015/mm__02015079ss0222.pdf"
+        },
+        {
+          "label": "CS 960no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042078ss0960.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 39,
+          "sitting": 49,
+          "sitting_date": "1967-04-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c039/cs__06039049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c039/cs__06039fih.pdf",
+          "pages": [
+            "575"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 77,
+          "sitting_date": "1967-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 78,
+          "sitting_date": "1967-06-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042078.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042fih.pdf",
+          "pages": [
+            "44",
+            "72:73",
+            "76:77"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=801&v_kullanici_id=27483235",
+      "page_sha256": "4f72905639da7d625721d8c8ff2722359dda2b185911b18822f5590e408f44b9"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2a5e87afe32fdcc520e9a23a080355d8d2bbd886ef1825be8899987216e9bee9",
+  "issuer": "Millet Meclisi",
+  "in_force": "1967-06-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 28/06/1967; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
