@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0. GEL.0.40/4025-22/49195",
+  "source_id": 22735,
+  "date": "1998-12-23",
+  "title": "Teminatın nakte çevrilerek irat kaydedilmesi nedeniyle sonradan şartnamenin feshi üzerine,teminat bedelinin, safi ticari kazancın tespitinde gider olarak indirilmesi mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22735",
+  "source_sha256": "e68498badeb38462577a1e42c9a2301877d5ff39fe8b891fbac9001417df63fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
