@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "7/3995",
+  "source_id": 1899,
+  "date": "1972-03-15",
+  "title": "EMLAK VERGİSİNE MATRAH OLACAK VERGİ DEĞERLERİNİN TAKDİRİNE İLİŞKİN TÜZÜK",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/bkk/1899",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "1c6d8c690df8361db213dac1006a74a184eaa75c1c0b2184a7ef8a5bdc59cb72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
