@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2928-236-88/43385",
+  "source_id": 23683,
+  "date": "2000-09-21",
+  "title": "Hastalarından aldığı kan örneklerini kargo ile gönderen mükellefin sevk irsaliyesi düzenleyip düzenlemeyeceği hakkında. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/23683",
+  "source_sha256": "0a7e75e1d4995a0b6cb3cfcbb2f3adecd354842baad897ba4bdd47f46f5b5a35",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
