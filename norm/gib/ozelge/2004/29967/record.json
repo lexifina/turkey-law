@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-2883-23865",
+  "source_id": 29967,
+  "date": "2004-05-28",
+  "title": "Arsa karşılığında hizmet binası teslimi arızi faaliyet kapsamında değerlendirildiği takdirde KDV'ye tabi tutulmayacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29967",
+  "source_sha256": "7a211d757337655a0d42211a1d847fc6a9a916316dd50366c4c99c86d0ea1dbe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
