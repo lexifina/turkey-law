@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.O.65/6527-108/4199",
+  "source_id": 38294,
+  "date": "1997-02-05",
+  "title": "Kahvehane işleten mükelleflerin bu faaliyetleriyle ilgili olarak ÖKC kullanma mecburiyetlerinin olmaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38294",
+  "source_sha256": "9c117d9c73da465dfc33911c4930d07a01abd6e3e2befc1cdb7011f3d7591995",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
