@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.9017",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DİŞ HEKİMLERİNİN YAPACAKLARI MUAYENE VE TEDAVİLERE UYGULANACAK ÜCRETLERİN ASGARİ HADLERİ HAKKINDA TEBLİĞ",
+  "number": "9017",
+  "issuer": "Türk Diş Hekimleri Birliği Genel Başkanı",
+  "path": "teblig/2004/9017",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9017&MevzuatTertip=5",
+  "source_sha256": "36a296c0dea4d9d699ffacd9df424af00759478adffac55d4ddb6636dd64b773",
+  "source_bytes": 17326,
+  "published": "2004-12-27",
+  "gazette": "25683",
+  "in_force": "2004-12-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.12.2004); own commencement article: \"Bu Tebliğ hükümleri 1/1/2005 tarihinden geçerli olmak üzere, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ hükümleri 1/1/2005 tarihinden geçerli olmak üzere, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 220,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://rega.basbakanlik.gov.tr/Eskiler/2004/12/2005%20Yılına%20Ait%20Birim%20Listesi.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
