@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3204-989",
+  "source_id": 30782,
+  "date": "2005-02-25",
+  "title": "Tekstil ve konfeksiyon sektöründe faaliyet gösteren mükelleflerin vergiye tabi işlemleri üzerinden hesaplanan katma değer vergisinin mal veya hizmet alışları dolayısıyla hesaplanan katma değer vergisinden indirilip indirilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/30782",
+  "source_sha256": "c86a17089dc47c093701a911d0bc641840ce9e5d028a24673d9a03a2bcdb26c7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
