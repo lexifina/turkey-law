@@ -1,0 +1,153 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1533",
+  "year": 1972,
+  "title": "Orman Genel Müdürlüğü 1967 yılı Kesinhesap Kanunu",
+  "adopted": "1972-02-22",
+  "adopted_as_published": "22/02/1972",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "03.03.1972 No: 14117",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501533.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 55",
+  "committee_reports": [
+    {
+      "label": "MM 401 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019021ss0401.pdf"
+    },
+    {
+      "label": "MM 401ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019021ss0401ek01.pdf"
+    },
+    {
+      "label": "CS 45no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c003/cs__11003035ss0045.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 387459,
+      "title": "Orman Genel Müdürlüğü 1967 yılı Kesinhesap Kanunu",
+      "adopted_as_published": "22/02/1972",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501533.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 401 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019021ss0401.pdf"
+        },
+        {
+          "label": "MM 401ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019021ss0401ek01.pdf"
+        },
+        {
+          "label": "CS 45no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c003/cs__11003035ss0045.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 13,
+          "sitting_date": "1969-12-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001fih.pdf",
+          "pages": [
+            "399"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 21,
+          "sitting_date": "1971-12-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019fih.pdf",
+          "pages": [
+            "650:651",
+            "686",
+            "726:727"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 22,
+          "sitting_date": "1971-12-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019022.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019fih.pdf",
+          "pages": [
+            "745",
+            "769",
+            "783:786"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=801&v_kullanici_id=27483225",
+      "page_sha256": "a5c6fd2bb5c9b73d64ad49838a3a54a257c189cf96cdf2bd05acb20e57852516"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 319785,
+      "title": "Orman Genel Müdürlüğü 1967 yılı Kesinhesap Kanunu",
+      "adopted_as_published": "22/02/1972",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501533.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 401 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019021ss0401.pdf"
+        },
+        {
+          "label": "MM 401ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c019/mm__03019021ss0401ek01.pdf"
+        },
+        {
+          "label": "CS 45no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c003/cs__11003035ss0045.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 29,
+          "sitting_date": "1972-02-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c002/cs__11002029.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c002/cs__11002fih.pdf",
+          "pages": [
+            "477"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 35,
+          "sitting_date": "1972-02-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c003/cs__11003035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c003/cs__11003fih.pdf",
+          "pages": [
+            "438:439",
+            "462",
+            "514:515"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1501&v_kullanici_id=27483235",
+      "page_sha256": "90862d0a2d3ca4f6b8e6290e83307dc4f5ad5af6e60426a878c750f3d8f66877"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a5c6fd2bb5c9b73d64ad49838a3a54a257c189cf96cdf2bd05acb20e57852516",
+  "issuer": "Millet Meclisi",
+  "in_force": "1972-02-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 22/02/1972; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
