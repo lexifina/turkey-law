@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 343686,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MEHMET ÜNALDI (CUMHURİYET SENATOSU ADANA ÜYESİ)",
+  "summary": "5434 sayılı TC Emekli Sandığı Kanununun geçici 84. maddesinin değiştirilmesine ve bu kanuna geçici bir madde eklenmesine dair kanun teklifi ve Maliye ve Plân komisyonları raporları (2/243)",
+  "title": "5434 sayılı TC Emekli Sandığı Kanununun geçici 84. maddesinin değiştirilmesine ve bu kanuna geçici bir madde eklenmesine dair kanun teklifi ve Maliye ve Plân komisyonları raporları (2/243)",
+  "first_sitting_date": "1963-03-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 61,
+      "sitting_date": "1963-03-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c014/mm__01014fih.pdf",
+      "pages": [
+        "456"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 65,
+      "sitting_date": "1963-04-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c015/mm__01015fih.pdf",
+      "pages": [
+        "100:101"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 108,
+      "sitting_date": "1963-07-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019108.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+      "pages": [
+        "175"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 111,
+      "sitting_date": "1963-07-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019111.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+      "pages": [
+        "335:336"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 116,
+      "sitting_date": "1963-07-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019116.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c019/mm__01019fih.pdf",
+      "pages": [
+        "587:631"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=5401&v_kullanici_id=27484893",
+  "source_sha256": "e58cbaa6a5a3eaf8ad4b2710ce202b2b58e05e9dcf5d662a1b55d268e796d15f",
+  "in_force": "1963-03-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
