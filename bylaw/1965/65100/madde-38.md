@@ -1,0 +1,3 @@
+4 – Mirascılık belgesi
+Madde 38 – Medeni Kanunun 538 inci maddesi gereğince ilgili, sulh mahkemesine, vasiyetnameye itiraz edeceğini açıkça bildirirse veya tenkis yahut iptal davası açarsa, sulh mahkemesi, mirascılık sıfatı hakkında resmi belge veremez.
+Sulh hakimine vasiyetnameye itiraz edeceğini bildiren mirascı, bir yıl içinde tenkis veya iptal davasını açmazsa, Medeni Kanunun 538 inci maddesinin sonfıkrası hükmü yazılmak suretiyle bir mirascılık belgesi verilir. Açılan tenkis veya iptal davası red olunursa, bu hükmün kesinleştiğini sulh mahkemesine bildiren mansup mirascıya, sulh mahkemesince, mirascılık belgesi verilir.

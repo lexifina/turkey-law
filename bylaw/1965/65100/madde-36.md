@@ -1,0 +1,7 @@
+2 – Vasiyetnamenin açılmasında usul
+Madde 36 – Sulh hakimine verildiği günden itibaren en geç bir ay içinde vasiyetnamenin sulh mahkemesince açılması gerekir. Ancak, vasiyetçinin öldüğüne dair kesin delil mevcut olmadan vasiyetname verilmişse, bu delilin sağlanmasına kadar, vasiyetnamenin açılması geri bırakılabilir.
+Vasiyetnamenin açılma gününü sulh hakimi tesbit eder. Adresi bilinen veya bilinmesi mümkün olan mirascılar, mahkemece uygun görülecek usul ile vasiyetnamenin açılacağı gün ve saat belirtilerek davet olunur. Bu davet, mirascıların mahkemede hazır bulunmasını mümkün kılacak süreye riayet edilerek yapılır.
+Sulh hakimi, davet edilen günde gelen mirascılar huzurunda, vasiyetnameyi açar. Davete rağmen hiç bir mirascı gelmemiş olsa dahi vasiyetname açılır.
+Açılan vasiyetname okunur ve bu durumu tesbit eden bir tutanak düzenlenir ve hakim, zabıt katibi ve hazır bulunan ilgililerce imzalanır.
+Vasiyetname resmi şekilde düzenlenmemişse, metnine, imzasına ve tarihine dokunmayacak bir yerine, okunduğu tarih yazılmak ve hakim, zabıt katibi ve hazır bulunan ilgililerce imza edilip okunaklı şekilde mahkeme mührü basılmak suretiyle durum tesbit edilir. Vasiyetnamenin kağıdında elverişli yer yoksa altına bir kağıt yapıştırılır ve bu işlem yapıştırılan kağıtta yapılır. Kağıtların yapıştırılma yeri, yeteri kadar, okunaklı mahkeme mührü ve hakimin imzası ile tesbit edilir.
+Açılan vasiyetname, hakim tarafından emin bir yerde saklanır.

@@ -1,0 +1,2 @@
+IV – Aile için yapılan fedakarlığa karşı tazminat isteği
+Madde 67 – Mirasın paylaştırılması sırasında Medeni Kanunun 610 uncu maddesindeki şekilde bir iddia ileri sürülür ve mirasçılar bunu kabul etmezse, hak iddia edene, Hukuk Usulü Muhakemeleri Kanununun 567 nci maddesindeki halde on gün içinde dava açması için hakim tarafından mühlet verilir. Bu süre içinde dava açılmazsa paylaştırmaya devam olunur.

@@ -1,0 +1,4 @@
+IV – Velayetin sona ermesi halinde yapılacak işlem
+Madde 5 – Ana ve babanın velayeti, çocuğun reşit olmasından dolayı son bulmuşsa, reşit olan çocuğun talebi halinde ana ve baba tarafından bir hesap cetveli de verilmek suretiyle malları kendisine teslim edilir.
+Velayet, vasi tayini sebebiyle sona ermiş ise, ana ve baba, velayeti haiz oldukları zamana ait hesap cetveli ile birlikte çocuğun mallarını vasiye teslim ederler.
+Evliliğin sona ermesi sebebiyle ana ve babadan birinin velayeti altında kalan çocuk reşit olduğunda veya kendisine vasi tayin edilmesinden dolayı velayet sona erdiğinde, çocuğa ait mallar, 4 üncü madde gereğince verilen deftere göre, veli tarafından reşit olan kimseye veya vasiye teslim ve eksiklikler tespit olunur. Hakim tarafından lüzum gösterilen hallerde vasi, veli aleyhine dava açar.

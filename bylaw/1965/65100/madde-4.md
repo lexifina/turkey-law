@@ -1,0 +1,4 @@
+III – Evliliği sona eren ana ve babanın çocuğun mallarını hakime bildirme yükümlülüğü
+Madde 4 – Evliliğin sona ermesi halinde, velayet hakkını kullanma yetkisine sahip bulunan ana veya baba, sona erme tarihinden itibaren dört ay içinde, Medeni Kanunun 279 uncu maddesi gereğince küçüğün mevcudu ile alacak ve borçlarını bir deftere ayrı ayrı yazarak sulh hakimine bildirmeğe mecburdur.
+Ana ve babadan birinin ölümü halinde nüfus memuru ve evliliğin mahkeme hükmü ile sona ermesi halinde hükmü veren asliye mahkemesi, hüküm kesinleştiğinde, keyfiyeti, hayatta kalan veya velayet hakkını kullanma yetkisi kendisine tevdi olunan ana veya babanın ikametgahı sulh hakimine derhal haber verir.
+Keyfiyeti bu suretle haber alan sulh hakimi, birinci fıkrada gösterilen yükümlülüğün süresi içinde yerine getirilmemesi halinde, Medeni Kanunun 285 inci maddesine göre gerekli işlemi yapar.

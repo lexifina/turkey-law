@@ -1,0 +1,2 @@
+III - Diğer kanunlardaki tedbirler
+Madde 14 – Vesayet altında bulunan çocuk, şirretliği hasebiyle emirlere karşı gelir ve hakkında tedbir alınması icabederse, 6972 ve 225 sayılı kanunların öngördüğü müesseselerin mevcut olmaması halinde, sulh hakimi, diğer imkanlardan faydalanır ve özellikle 1593 sayılı Umumi Hıfzıssıhha Kanununun 161 inci maddesiyle 1580 sayılı Belediye Kanununun 15 inci maddesinin ilgili hükümlerine istinaden çocuk hakkında gerekli tedbirleri alır.
