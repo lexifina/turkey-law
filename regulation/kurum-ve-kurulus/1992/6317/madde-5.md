@@ -1,0 +1,2 @@
+Öğretim Elemanlarının Seçimi
+Madde 5 - Her türlü çevre koruma yaygın eğitimi programlarının uygulanmasında öncelikle Kurum Başkanlığı bünyesindeki konu ile ilgili personelden yararlanılır. Ancak, konunun Kurum Başkanlığı dışındaki uzman personel tarafından yerine getirilmesine ihtiyaç duyulması halinde Daire Başkanlığının teklifi ve Kurum Başkanının onayı ile Kurum Başkanlığı dışından da eğitim ve öğretim elemanları görevlendirilebilir. Ayrıca, Milli Eğitim Bakanlığı ve üniversitelerin konu ile ilgili bölümleri ile müşterek yaygın eğitim faaliyetleri gerçekleştirilebilir.

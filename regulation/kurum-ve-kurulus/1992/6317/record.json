@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.6317",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL ÇEVRE KORUMA KURUMU BAŞKANLIĞI ÇEVRE KORUMA EĞİTİM YÖNETMELİĞİ",
+  "number": "6317",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1992/6317",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6317&MevzuatTertip=5",
+  "source_sha256": "3e67531b36acbfa3e884a2c3d94fb0d7f7d91e0e1c7bd9c6467bf45df048231e",
+  "source_bytes": 24760,
+  "published": "1992-04-20",
+  "gazette": "21205",
+  "in_force": "1992-04-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.04.1992); own commencement article: \"bu Yönetmelik yayımı tarihinden itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1120,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
