@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 317300,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "İstanbul Teknik Üniversitesine bağlı bir teknik okul açılmasına dair 10.3.1954 tarihli ve 6374 sayılı Kanunun kaldırılmasına ve İstanbul Teknik Üniversitesi kuruluş kadroları hakkındaki 7.7.1948 tarihli ve 5246 sayılı Kanuna bağlı cetvellere Mühendislik Mimarlık Fakültesi başlığı altında yeni kadrolar eklenmesine dair kanun tasarısı hakkında (Millet Meclisi 1/409; Cumhuriyet Senatosu 1/1237) (S. Sayısı:1614)",
+  "title": "İstanbul Teknik Üniversitesine bağlı bir teknik okul açılmasına dair 10.3.1954 tarihli ve 6374 sayılı Kanunun kaldırılmasına ve İstanbul Teknik Üniversitesi kuruluş kadroları hakkındaki 7.7.1948 tarihli ve 5246 sayılı Kanuna bağlı cetvellere Mühendislik Mimarlık Fakültesi başlığı altında yeni kadrolar eklenmesine dair kanun tasarısı hakkında (Millet Meclisi 1/409; Cumhuriyet Senatosu 1/1237) (S. Sayısı:1614)",
+  "first_sitting_date": "1971-06-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 65,
+      "sitting": 77,
+      "sitting_date": "1971-06-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065fih.pdf",
+      "pages": [
+        "412",
+        "825",
+        "845",
+        "848:849"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=3201&v_kullanici_id=27484903",
+  "source_sha256": "c66b0a82b4647ba8ab07fc84df7c060b266739f615140d81cdefb75740dada96",
+  "in_force": "1971-06-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
