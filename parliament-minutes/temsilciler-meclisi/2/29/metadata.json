@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "Temsilciler Meclisi",
+  "assembly": "KURUCU MECLİS ( MİLLİ BİRLİK KOM.- TEMSİLCİLER MEC. )",
+  "term_label": "Temsilciler Meclisi",
+  "cilt": 2,
+  "sitting": 29,
+  "label": "29. Birleşim",
+  "sitting_date": "1961-03-24",
+  "date_as_published": "24 Mart 1961",
+  "weekday": "Cuma",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c002/tm__00002029.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c002/tm__00002fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00",
+  "source_sha256": "ed5736fccbd78c65d4fa1587e93f42ce829af94c11b3ae5cfc5dccb67ac38b45",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
