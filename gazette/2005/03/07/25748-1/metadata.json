@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-03-07",
+  "issue": "25748",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Bakanlar Kurulu Kararı",
+  "title": "2005/8517 Ankara Anadolu Serbest Bölgesinin Yer ve Sınırlarının Belirlenmesine Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050307-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050307.htm",
+  "index_sha256": "392efa205d2e9d8c403d3c55d841bab7b06a2f4caa96f2bf3d6b73da6f19704b",
+  "index_header": "7 Mart 2005 ... Sayı : 25748",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
