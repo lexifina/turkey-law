@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4698",
+  "year": 1945,
+  "title": "Muhasebei Umumiye Kanununun 5 ve 34. maddelerinin değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-01-24",
+  "gazette_issue": "5913",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5913.pdf",
+  "source_sha256": "c5031765bdc3fc1272b609ee9dfce5097af58a65bd6e04030bc170d90f263153",
+  "text_sha256": "8518d4125b416ca68c609105cc3927ed9cb8a3b65cf836720ce77541b208f54b",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      254,
+      286
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704698.pdf",
+    "source_sha256": "6bf150b1c679b3c5f2bc500cc4a2a9841f14879d2baa6571f2a5cb866baa5f92",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9526,
+    "bag": 0.8937,
+    "kd_coverage": 0.9944,
+    "kd_body_compared": 0.9836,
+    "rg_words": 187,
+    "kd_words": 183,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
