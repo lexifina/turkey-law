@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 358512,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Milletlerarası Para Fonu ile Milletlerarası İmar ve Kalkınma Bankasına katılmak için Hükümete yetki verilmesine dair Kanunun 7335 sayılı Kanunla değişik 2. maddesinin değiştirilmesi hakkında kanun tasarısına dair (1/146)",
+  "title": "Milletlerarası Para Fonu ile Milletlerarası İmar ve Kalkınma Bankasına katılmak için Hükümete yetki verilmesine dair Kanunun 7335 sayılı Kanunla değişik 2. maddesinin değiştirilmesi hakkında kanun tasarısına dair (1/146)",
+  "first_sitting_date": "1966-07-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 104,
+      "sitting_date": "1966-07-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c007/mm__02007104.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c007/mm__02007fih.pdf",
+      "pages": [
+        "359"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 122,
+      "sitting_date": "1966-08-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008122.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c008/mm__02008fih.pdf",
+      "pages": [
+        "788:792",
+        "839:842"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=3501&v_kullanici_id=27484836",
+  "source_sha256": "14b34c863f21d37135d31cbe55714cc16cc27edae4b36000f46b306ce3d3cefe",
+  "in_force": "1966-07-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
