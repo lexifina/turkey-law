@@ -1,0 +1,5 @@
+Danışma Kurulu
+Madde 7- Başkent Üniversitesi'nde Atatürk İlkeleri ve İnkılap Tarihi dersini okutan öğretim elemanları ile ayrıca müdürün ve yardımcısının uygun bulacağı diğer üniversitelere ve bilim kuruluşlarına mensup akademik personel, Danışma Kurulu'nu oluşturur. Kurula Başkent Üniversitesi dışından üye olarak davet edilecek akademik personel sayısı, Başkent Üniversitesi'nde bu dersi okutan öğretim elemanı sayısının en çok yarısı kadar olabilir.
+Danışma Kurulu müdürün ve müdürün yokluğunda müdür yardımcısının başkanlığında yılda en az iki kez toplanır. İlk toplantı öğretim yılı başlamadan iki hafta önce, son toplantı ise öğretim yılının bitiminden en geç iki hafta sonra yapılır. Öğretim yılı içinde müdür veya müdür yardımcısı gerek gördüğü takdirde Danışma Kurulu'nu toplantıya çağırabilir.
+Danışma Kurulu, Merkez'in amaçlarını gerçekleştirmek üzere yapılacak çalışmaları planlar ve bu konudaki çeşitli önerileri görüşür. Danışma Kurulu'nun önerileri Yönetim Kurulu'nda görüşülerek karara
+bağlanır.
