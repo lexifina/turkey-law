@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4106-393/55893",
+  "source_id": 23103,
+  "date": "2000-11-28",
+  "title": "Arazilerin kiralanmasından dolayı bu araziler üzerinde bulunan tarım ürünlerinin (buğday, patates, pancar) kaybından dolayı ödenecek ürün bedellerinden gelir vergisi tevkifatı yapılması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23103",
+  "source_sha256": "54447e877872e468ac94a5af4d1b4af8f63bbee1966fc549424cdfad44e9ca14",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
