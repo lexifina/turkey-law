@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4003-117/63013",
+  "source_id": 36534,
+  "date": "2004-12-28",
+  "title": "Nakliyecilik faaliyetinde kullanılan araçların kaza yapması, hurdaya ayrılması ve benzer nedenlerle kullanılamaz duruma gelmesi sebebiyle yapılacak işlemler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/36534",
+  "source_sha256": "fe69931edca3659d1b953f81de91598d56304604a44b15e70d281c2d6fa0d5e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
