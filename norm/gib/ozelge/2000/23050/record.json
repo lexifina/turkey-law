@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.44/4405-1095/44340",
+  "source_id": 23050,
+  "date": "2000-09-28",
+  "title": "Elektrikli aletlerin alım-satımı ve üretimi ile uğraşan mükelleflerin gerçek usulde vergilendirilmeleri gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23050",
+  "source_sha256": "54bd8cf7690e185c2e0a88c8726fe4e0a3838fd0e95855c4f87cb742a3decf94",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
