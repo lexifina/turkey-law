@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-11-01",
+  "issue": "25630",
+  "edition": "regular",
+  "item": 8,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Elektrik Üretim Anonim Şirketi Keban HES İşletme Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041101-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (15 = 15)",
+  "ilan_codes": [
+    "13435/1-1",
+    "13460/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041101-3.htm",
+  "category_page_sha256": "d75f9b674186bcec085af801f57fbe0b0a692f88858890ced9d66196c57e5665",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/11/20041101.htm",
+  "index_sha256": "06041d8b7b3075a59f034c6dd14d260de5539ddb0334766632b41bbbb78be12a",
+  "index_header": "1 Kasım 2004 ... Sayı : 25630",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
