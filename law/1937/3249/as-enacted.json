@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3249",
+  "year": 1937,
+  "title": "Sümerbank sermayesine daha 15 000 000 lira ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-06-24",
+  "gazette_issue": "3639",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3639.pdf",
+  "source_sha256": "e54dd301697b2a99780c83aa80f9af8fbddd1f251bfc45377ddde428baf86713",
+  "text_sha256": "28643cf5c688ff747600e40d57c27249d4b37bd748e961024c1d66175d6fe50e",
+  "text_status": "ocr",
+  "pages": [
+    10
+  ],
+  "line_span": [
+    [
+      1754,
+      1772
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703249.pdf",
+    "source_sha256": "bb4dff0e985355bb963e90b4399eb161c9ce7ba19891f291ea6882a7c8b35596",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9635,
+    "bag": 0.914,
+    "kd_coverage": 0.9783,
+    "kd_body_compared": 0.9579,
+    "rg_words": 95,
+    "kd_words": 95,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
