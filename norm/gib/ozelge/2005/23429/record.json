@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-1273-13504",
+  "source_id": 23429,
+  "date": "2005-03-23",
+  "title": "Kuruluşlar tarafından bir ay içinde yapılan ücret ödemeleri ile döner sermeye işletmeleri tarafından yapılan ücret ödemelerinin toplanarak, bu toplam tutar üzerinden Gelir Vergisi Kanununun 103 ve 104 üncü maddelerine göre vergilendirilmesi hakkında...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23429",
+  "source_sha256": "f5c330ba7f6bcc9b2616c3281559d6693c722f129e4cc67afb8cc7a0181f6697",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
