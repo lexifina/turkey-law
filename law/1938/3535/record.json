@@ -1,0 +1,86 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3535",
+  "year": 1938,
+  "title": "Muamele vergisi Kanununun bazı hükümlerini tadil eden ve bu kanuna yeniden bazı hükümler ekleyen kanun",
+  "adopted": "1938-06-29",
+  "adopted_as_published": "29/06/1938",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.07.1938 No: 3961",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803535.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 18",
+  "committee_reports": [
+    {
+      "label": "TBMM 326 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026083ss0326.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104749,
+      "title": "Muamele vergisi Kanununun bazı hükümlerini tadil eden ve bu kanuna yeniden bazı hükümler ekleyen kanun",
+      "adopted_as_published": "29/06/1938",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803535.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 326 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026083ss0326.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 26,
+          "sitting": 80,
+          "sitting_date": "1938-06-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026fih.pdf",
+          "pages": [
+            "290",
+            "302"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 82,
+          "sitting_date": "1938-06-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026fih.pdf",
+          "pages": [
+            "399"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 83,
+          "sitting_date": "1938-06-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026083.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026fih.pdf",
+          "pages": [
+            "492:493",
+            "497",
+            "509",
+            "517:519"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=920&v_gelecek_sayfa=601&v_kullanici_id=27483162",
+      "page_sha256": "71aa011538446ba16759fcc8e685f2303b871d97c31de06473803287578bd338"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "71aa011538446ba16759fcc8e685f2303b871d97c31de06473803287578bd338",
+  "issuer": "TBMM",
+  "in_force": "1938-06-29",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 29/06/1938; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
