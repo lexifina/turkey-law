@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 105976,
+  "assembly": "TBMM",
+  "term": 5,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Ordu zabitan heyetine mahsus terfi Kanununun 14. maddesi ile bu Kanunun 1494 numaralı kanunla tadil edilen 10. maddelerinin değiştirilmesine dair olan 2162 sayılı Kanunun 1. maddesinin tadili hakkında (1/1069)",
+  "title": "Ordu zabitan heyetine mahsus terfi Kanununun 14. maddesi ile bu Kanunun 1494 numaralı kanunla tadil edilen 10. maddelerinin değiştirilmesine dair olan 2162 sayılı Kanunun 1. maddesinin tadili hakkında (1/1069)",
+  "first_sitting_date": "1938-06-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 26,
+      "sitting": 70,
+      "sitting_date": "1938-06-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c026/tbmm05026fih.pdf",
+      "pages": [
+        "2",
+        "16",
+        "33",
+        "36",
+        "92:93"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1318&v_gelecek_sayfa=901&v_kullanici_id=27483909",
+  "source_sha256": "b1b996c1cfed504f8433e54ff31caa064802e76041c87e39abff136175c0dc97",
+  "in_force": "1938-06-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
