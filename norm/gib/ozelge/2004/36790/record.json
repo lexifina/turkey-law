@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1357 / 24198",
+  "source_id": 36790,
+  "date": "2004-05-31",
+  "title": "Bankalar tarafından kullandırılan yurt dışı kaynaklı ve risk garantili krediler  nedeniyle, bankanın gelir hesaplarına alınan komisyon ve faizlerin banka ve sigorta muameleleri vergisine tabi tutulması  gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36790",
+  "source_sha256": "440b78b02e75047fe4bb37154a39555be37dc1fbb5ae2281d7769a334c38472c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
