@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.6111",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 251)",
+  "number": "6111",
+  "path": "teblig/2004/6111",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6111&MevzuatTertip=5",
+  "source_sha256": "e4ea7a9b3bc36dabf6a4d5b368ad4d61b51920c3b57c88d0f3d0c2ba1bd7b1dd",
+  "source_bytes": 19045,
+  "published": "2004-03-21",
+  "gazette": "25409",
+  "in_force": "2004-03-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.03.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 632,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
