@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4007-97/33684",
+  "source_id": 24082,
+  "date": "2001-06-20",
+  "title": "Yargı kararıyla tahsil edilen asıl alacağın beyan edilip edilmeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24082",
+  "source_sha256": "08da6ab18f6e9eb407f6cb16b1039bd45e9fc554d0f8c14870a746f309d2de67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
