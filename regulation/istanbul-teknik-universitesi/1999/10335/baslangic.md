@@ -1,0 +1,3 @@
+İSTANBUL TEKNİK ÜNİVERSİTESİ BİLİŞİM ENSTİTÜSÜ YÖNETMELİĞİ
+I. GENEL HÜKÜMLER
+Enstitünün Tanımı:

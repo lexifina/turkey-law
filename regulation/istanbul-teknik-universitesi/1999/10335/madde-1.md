@@ -1,0 +1,1 @@
+Madde 1 — İstanbul Teknik Üniversitesi'ne bağlı olarak kurulan Bilişim Enstitüsü; bilişim bilimleri ve teknolojileri alanlarında lisansüstü eğitim, öğretim, bilimsel araştırma ve uygulama yapan bir birimdir.

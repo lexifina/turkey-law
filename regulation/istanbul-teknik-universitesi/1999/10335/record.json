@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 13 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1999-07-13",
+      "13.07.1999",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 13 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "23754",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1999-07-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/1999/10335",
+  "published": "1999-07-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10335&MevzuatTertip=5",
+  "source_bytes": 25054,
+  "source_id": "8.5.10335",
+  "source_sha256": "8cfa11d5165e39852700bbb5f449f8f396384ea01da359bf11fd35ec8c633627",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ BİLİŞİM ENSTİTÜSÜ YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 873
+}
