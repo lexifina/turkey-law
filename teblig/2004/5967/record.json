@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.5967",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4857 SAYILI İŞ KANUNUNUN 65 İNCİ MADDESİNE GÖRE UYGULANACAK KISA ÇALIŞMA VE KISA ÇALIŞMA ÖDENEĞİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 1)",
+  "number": "5967",
+  "path": "teblig/2004/5967",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=5967&MevzuatTertip=5",
+  "source_sha256": "a2eb506da0a80afb3578d0ffba4b8788109c7c8fc605f62a586117c80168c106",
+  "source_bytes": 12891,
+  "published": "2004-08-26",
+  "gazette": "25565",
+  "in_force": "2004-08-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.08.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 249,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
