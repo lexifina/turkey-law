@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-03-22",
+  "issue": "25763",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Ana Statü",
+  "title": "DÜZELTME (5277 sayılı “2005 Malî Yılı Bütçe Kanunu” ve 5279 sayılı “2005 Malî Yılı Katma Bütçeli İdareler Bütçe Kanunu” eki cetveller ile ilgili)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050322-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050322.htm",
+  "index_sha256": "9d5def04a4540b1d5916596c4e60165e468d0093ab1b0dd3333cbd8f882ec1d7",
+  "index_header": "22 Mart 2005 ... Sayı : 25763",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
