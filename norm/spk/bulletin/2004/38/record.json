@@ -1,0 +1,48 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2004/38",
+  "date": "2004-09-10",
+  "title": "SPK Haftalık Bülteni 2004/38",
+  "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_38.pdf",
+  "source_sha256": "58a7098f5fe186e809e3612720466ad32a01decac9523909e92eb23f36d1ca5e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "D. ÖZEL DURUMLAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2004 – 10.09.2004 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_38.pdf"
+    },
+    {
+      "heading": "B. 06.09.2004 – 10.09.2004 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Tavan Yükseltmek Amacıyla",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_38.pdf"
+    },
+    {
+      "heading": "C. 06.09.2004 – 10.09.2004 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_38.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_38.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
