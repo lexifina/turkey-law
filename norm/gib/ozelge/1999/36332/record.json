@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6038-09/036475",
+  "source_id": 36332,
+  "date": "1999-08-31",
+  "title": "Depremde gayrimenkullerde meydana gelen zararlara ilişkin sigorta şirketlerince yapılan ödemelerin ivazsız intikal sayılamayacağı, bu tür ödeme yapılanlardan V.İ.V. ilişiği olmadığına dair belge aranılmadan ödeme yapılması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36332",
+  "source_sha256": "b2410bd408e033890bf2182e10f230b870a1431c1597384ffacbe1a8c916f06d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
