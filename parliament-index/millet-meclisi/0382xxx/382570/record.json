@@ -1,0 +1,56 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 382570,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Bursa Milletvekili Mustafa Tayyar'ın, 670 sayılı Kanunla değişik 5434 sayılı TC Emekli Sandığı Kanununun 12. maddesine bir fıkra eklenmesine dair kanun teklifi hakkında (2/190)",
+  "title": "Bursa Milletvekili Mustafa Tayyar'ın, 670 sayılı Kanunla değişik 5434 sayılı TC Emekli Sandığı Kanununun 12. maddesine bir fıkra eklenmesine dair kanun teklifi hakkında (2/190)",
+  "first_sitting_date": "1970-12-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 26,
+      "sitting_date": "1970-12-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c009/mm__03009026.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c009/mm__03009fih.pdf",
+      "pages": [
+        "443"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 36,
+      "sitting_date": "1971-01-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010fih.pdf",
+      "pages": [
+        "58"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 89,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c010/mm__03010fih.pdf",
+      "pages": [
+        "569:570"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2201&v_kullanici_id=27484836",
+  "source_sha256": "b78a336419c758bf01b0e096994ebfbb557260a5c49d92aef4c655ad2796fe14",
+  "in_force": "1970-12-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
