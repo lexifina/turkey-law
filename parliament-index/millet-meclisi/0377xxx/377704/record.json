@@ -1,0 +1,60 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 377704,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "19.12.1947 tarih ve 5016 sayılı Kanunun verdiği yetkiye dayanılarak katılmış olduğumuz Milletlerarası Para Fonu Anasözleşmesinde değişiklik yapılmasına dair Anlaşmanın uygun bulunduğu hakkındaki kanun tasarısına dair (1/1)",
+  "title": "19.12.1947 tarih ve 5016 sayılı Kanunun verdiği yetkiye dayanılarak katılmış olduğumuz Milletlerarası Para Fonu Anasözleşmesinde değişiklik yapılmasına dair Anlaşmanın uygun bulunduğu hakkındaki kanun tasarısına dair (1/1)",
+  "first_sitting_date": "1970-04-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 64,
+      "sitting_date": "1970-04-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+      "pages": [
+        "90"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 65,
+      "sitting_date": "1970-04-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+      "pages": [
+        "137:139",
+        "150"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 66,
+      "sitting_date": "1970-04-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+      "pages": [
+        "159",
+        "180:181",
+        "186",
+        "223:226"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2001&v_kullanici_id=27484836",
+  "source_sha256": "4a02f972bcfc29177bc17bdaa7b95e96bb6501f3f2a4568d948a5b2869e0edd9",
+  "in_force": "1970-04-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
