@@ -1,0 +1,4 @@
+Müdür
+Madde 11- Müdür üniversitenin öğretim üyeleri arasından Rektör tarafından 3 yıl için atanır. Süresi biten Müdür tekrar atanabileceği gibi, gerekli görüldüğü hallerde bu sürenin tamamlanması beklenmeden görevinden alınabilir. Müdür, Merkezin tüm faaliyetlerinden Rektöre karşı sorumludur.
+Müdür kendisine yardımcı olmak üzere üniversitenin öğretim üyeleri arasından ilgili Dekan ve Yüksekokul Müdürlerinin görüşlerini alarak en çok iki yardımcı seçer ve Rektörün bilgisine sunar. Müdür yardımcılarına belirli yetki ve görevler verilebilir.
+Görevi başında bulunmadığı zamanlar Müdüre görevlendireceği yardımcılardan birisi vekalet eder. Vekalet altı aydan fazla sürerse yeni müdür atanır. Müdür, müdür yardımcılarının bulunmadığı durularda Yönetim Kurulu üyelerinden birini Rektöre sunarak vekil bırakır.

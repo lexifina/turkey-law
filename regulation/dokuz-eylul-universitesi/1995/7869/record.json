@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1995-07-05",
+      "05.07.1995",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "22334",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1995-07-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dokuz Eylül Üniversitesi",
+  "issuer_slug": "dokuz-eylul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dokuz-eylul-universitesi/1995/7869",
+  "published": "1995-07-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7869&MevzuatTertip=5",
+  "source_bytes": 48670,
+  "source_id": "8.5.7869",
+  "source_sha256": "b0f40b86d07bd106d5f5d33afe0816f3d2bbd46bcce0f267b3cf782f2cfc1391",
+  "text_status": "as-enacted",
+  "title": "DOKUZ EYLÜL ÜNİVERSİTESİ TEKSTİL, HAZIR GİYİM VE BOYA ARAŞTIRMA-UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 189,
+  "word_count": 1571
+}

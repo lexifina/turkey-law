@@ -1,0 +1,1 @@
+Madde 9- Rektör, Danışma Kurulu’nun doğal başkanıdır. Danışma kurulu üyeleri atanmaları tarihinden itibaren en geç iki ay içinde Rektörün başkanlığında toplanır ve aralarında bir başkan yardımcısı ve bir Raportör seçerler.
