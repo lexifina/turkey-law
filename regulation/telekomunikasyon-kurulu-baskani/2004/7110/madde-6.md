@@ -1,0 +1,2 @@
+Sertifika Mali Sorumluluk Sigortasının Kapsamı
+Madde 6 — Sertifika mali sorumluluk sigortası, elektronik sertifika hizmet sağlayıcısının güvenli ürün ve sistemleri kullanma, hizmeti güvenilir bir biçimde yürütme ve sertifikaların taklit ve tahrif edilmesini önlemekle ilgili yükümlülüklerini yerine getirmemesi dolayısıyla zarar görecek olanlara karşı doğacak hukuki sorumlulukların teminat altına alınmasını kapsar.
