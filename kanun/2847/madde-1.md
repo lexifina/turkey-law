@@ -1,0 +1,2 @@
+Amaç ve kapsam
+Madde 1 – Bu Kanun, Türk Silahlı Kuvvetlerinden ayrılanların askerlik mesleğine ilişkin ortak anılarını yaşatmak dayanışmalarını devam ettirmek, sosyal ve kültürel ihtiyaçlarını karşılamak gayesiyle kuracakları Türkiye Emekli Subaylar, Türkiye Emekli Astsubaylar, Türkiye Harp Malulü Gaziler, Şehit Dul ve Yetimleri ile Türkiye Muharip Gaziler derneklerinin tabi olacakları esas ve usulleri düzenler.
