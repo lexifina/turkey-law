@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.55/5517- 1895 / 61330",
+  "source_id": 31938,
+  "date": "2004-12-21",
+  "title": "Hurdadan elde edilen kütük demir teslimleri katma değer vergisine tabiidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31938",
+  "source_sha256": "74c3189fc59593cbad0bd7cbe3bbb5188ae8c3072148e5148a3ac57803ae4749",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
