@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3951",
+  "year": 1940,
+  "title": "İsveç'e sipariş edilmiş olan şimendifer muharrik ve müteharrik levazımının Türkiye'ye ithalleri müddetinin temdidi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-12-28",
+  "gazette_issue": "4698",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4698.pdf",
+  "source_sha256": "93ad42ff4f3fc710da2c22407e3bd95b6ca73473e10ef65e604f86564f641488",
+  "text_sha256": "74f8f124af8dce8aa27413c26ddc7f92b11a6a49e1d7f784668ed4b37309425b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      92,
+      107
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203951.pdf",
+    "source_sha256": "535935d510c6cc1f886b20b89a6f4c6d672cbf17d731441297e80bdcaf91bb76",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9755,
+    "bag": 0.8848,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9762,
+    "rg_words": 83,
+    "kd_words": 84,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
