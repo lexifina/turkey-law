@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 99252,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Hatay için Fransa'dan ithali zaruri bulunan 10 500 kutu sarı ipekböceği tohumunun 100 kilosundan alınması icabeden 3 000 lira gümrük resmi 2294 sayılı kanunun verdiği salâhiyete istinaden 300 liraya indirildiğinden keyfiyetin tasdikı hakkında 3/235, bağcılıkta kullanılmakta olan kükürdün, Etibank tarafından itahal edilecek 5150 tona munhasır kalmak üzere, 100 kilosundan alınmakta olan gümrük resmi 2294 sayılı kanunun verdiği salâhiyete istinaden 0,25 kuruşa indirildiğinden keyfiyetin tasdikı hakkında 3/240 sayılı Başvekâlet tezkereleriyle Gümrük tarife kanununa ait ithalât umumî tarifesinin 469 A ve B pozisyonlarına giren çimentodan alınan gümrük resminin indirilmesine dair 1/52 ve Gümrük tarife kanununa bağlı ithalât umumî tarifesinin 469 A ve B pozisyonlarına dahil çimentoların gümrük resminin tezyidi hakkında 1/158 sayılı kanun lâyihaları hakkında",
+  "title": "Hatay için Fransa'dan ithali zaruri bulunan 10 500 kutu sarı ipekböceği tohumunun 100 kilosundan alınması icabeden 3 000 lira gümrük resmi 2294 sayılı kanunun verdiği salâhiyete istinaden 300 liraya indirildiğinden keyfiyetin tasdikı hakkında 3/235, bağcılıkta kullanılmakta olan kükürdün, Etibank tarafından itahal edilecek 5150 tona munhasır kalmak üzere, 100 kilosundan alınmakta olan gümrük resmi 2294 sayılı kanunun verdiği salâhiyete istinaden 0,25 kuruşa indirildiğinden keyfiyetin tasdikı hakkında 3/240 sayılı Başvekâlet tezkereleriyle Gümrük tarife kanununa ait ithalât umumî tarifesinin 469 A ve B pozisyonlarına giren çimentodan alınan gümrük resminin indirilmesine dair 1/52 ve Gümrük tarife kanununa bağlı ithalât umumî tarifesinin 469 A ve B pozisyonlarına dahil çimentoların gümrük resminin tezyidi hakkında 1/158 sayılı kanun lâyihaları hakkında",
+  "first_sitting_date": "1942-05-08",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 25,
+      "sitting": 55,
+      "sitting_date": "1942-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c025/tbmm06025055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c025/tbmm06025fih.pdf",
+      "pages": [
+        "68",
+        "219:220"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 67,
+      "sitting_date": "1942-06-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c026/tbmm06026067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c026/tbmm06026fih.pdf",
+      "pages": [
+        "4:5",
+        "18",
+        "25:28"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1922&v_gelecek_sayfa=1101&v_kullanici_id=27484000",
+  "source_sha256": "a2dfbde41aece5a644d3b027a86097152a538d21d54e38636ee81c7a64b442a4",
+  "in_force": "1942-05-08",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
