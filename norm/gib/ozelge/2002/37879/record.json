@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-31949/5499",
+  "source_id": 37879,
+  "date": "2002-02-04",
+  "title": "Satılan veya ihraç edilen yatırım mallarına ilişkin olarak satış/ihraç tarihinde bakiye yatırım indirimi tutarının bulunması halinde bu tutarları indirim konusu yapılamaz. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37879",
+  "source_sha256": "84dd47ac5a2482d477a1ecbfaab62c411458e14d59016cca05235da216ef7213",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
