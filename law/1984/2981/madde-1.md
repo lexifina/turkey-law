@@ -1,0 +1,1 @@
+Madde 1 – Bu Kanunun amacı; imar ve gecekondu mevzuatına aykırı olarak inşa edilmiş ve inşa halindeki bütün yapılar hakkında uygulanacak işlemleri düzenlemek ve bu işlemlere dair müracaat, tespit, değerlendirme, uygulama ve duyuru esaslarını ve ilgili diğer hususları belirlemektir,
