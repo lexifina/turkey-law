@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4681",
+  "year": 1944,
+  "title": "Posta, Telgraf ve Telefon Umum Müdürlüğünün 1940 malî yılı Hesabı Kati Kanunu",
+  "adopted": "1944-12-08",
+  "adopted_as_published": "08/12/1944",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "15.12.1944 No: 5880",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704681.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 27",
+  "committee_reports": [
+    {
+      "label": "TBMM 10 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014010ss0010.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 7,
+      "kayit_no": 90308,
+      "title": "Posta, Telgraf ve Telefon Umum Müdürlüğünün 1940 malî yılı Hesabı Kati Kanunu",
+      "adopted_as_published": "08/12/1944",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704681.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 10 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014010ss0010.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 1,
+          "sitting_date": "1944-11-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014001.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014fih.pdf",
+          "pages": [
+            "2"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 9,
+          "sitting_date": "1944-12-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014009.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014fih.pdf",
+          "pages": [
+            "60"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 10,
+          "sitting_date": "1944-12-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014010.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c014/tbmm07014fih.pdf",
+          "pages": [
+            "68:74"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=562&v_gelecek_sayfa=101&v_kullanici_id=27483169",
+      "page_sha256": "fb61ce0f52116b94572f3aca0bcd30780ae7da6219aa0f50312c9d7f936e85b1"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "fb61ce0f52116b94572f3aca0bcd30780ae7da6219aa0f50312c9d7f936e85b1",
+  "issuer": "TBMM",
+  "in_force": "1944-12-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 08/12/1944; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
