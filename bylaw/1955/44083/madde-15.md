@@ -1,0 +1,2 @@
+Giriş aidati ve tahsil şekli:
+Madde 15 – Giriş aidatı kefalete bağlı vazifeye başlandığında verilen tam aylıktan başlamak üzere aylık veya ücret tutarının yarısı beş ayda ve beş müsavi taksitte kesilir. Beş aylık müddet içinde aylık veya ücretin çoğalmış veya azalmış olması giriş aidatı miktarını değiştirmez. Kefalete bağlı vazife alan kimse, yevmiyeli bulunduğu takdirde ilk yevmiyesinin 26 misli, aylık ücret olarak kabul olunur ve tevkifat bu esasa göre yapılır.

@@ -1,0 +1,1 @@
+Madde 1 – Petrol Ofisinin bütün teşkilatında, her türlü para, menkul kıymetler ve ayniyatı, vazifeleri icabı alıp veren. ellerinde bulunduran veya muhafaza ile mükellef olan memur, müstahdem ve yevmiyeliler için 2489 sayılı kanun hükümleri dairesinde müteselsil kefalet esasına müstenit (Petrol Ofisi Kefalet Sandığı) adlı hükmi şahşiyeti haiz bir sandık kurulmuştur.

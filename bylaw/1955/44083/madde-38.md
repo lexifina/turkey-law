@@ -1,0 +1,1 @@
+Madde 38 – 2489 sayılı Kefalet Kanununun 13 üncü maddesine dayanılarak tanzim olunmuş ve Devlet Şürasınca tetkik edilmiş olan bu Nizamname hükümleri, Resmi Gazete ile neşri tarihinden itibaren mer'iyete girer.
