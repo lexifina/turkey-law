@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-03-29",
+  "issue": "25770",
+  "edition": "regular",
+  "item": 2,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Gediz Elektrik Dağıtım Anonim Şirketi İzmir Müessesesinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/03/20050329-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (16 = 16)",
+  "ilan_codes": [
+    "3107/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/03/20050329-3.htm",
+  "category_page_sha256": "49d06cddba5c0746c21b4b9e7eb6fdbe4518144391ca6d990ad267918ce6a345",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/03/20050329.htm",
+  "index_sha256": "64f13be78f8ab561b5de02224e6452c57160d2e843276237667d59f738ed1c9e",
+  "index_header": "29 Mart 2005 ... Sayı : 25770",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
