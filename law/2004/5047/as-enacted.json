@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5047",
+  "year": 2004,
+  "title": "Merkezi ve Doğu Avrupa İçin Bölgesel Çevre Merkezi Şartının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-01-20",
+  "gazette_issue": "25352",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/01/20040120.htm",
+  "source_sha256": "4a276d505cf65c3626b309a9859d9240fd344e78af874554f1a3f4835411dd14",
+  "text_sha256": "2e68d11860006729d5a118e41d48f82adff13ed787b74b55cb9f5520f8c99da5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/01/20/25352-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/01/20040120.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
