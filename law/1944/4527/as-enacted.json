@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4527",
+  "year": 1944,
+  "title": "Gedikli subaylar hakkındaki 4140 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-03-11",
+  "gazette_issue": "5652",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5652.pdf",
+  "source_sha256": "fa8b684aad69d7d2f94187b4a77741b3c0293f389cafdbf1ca345251abad9aeb",
+  "text_sha256": "4dd92b558417cba33564e188cd5b2b2bd2b797237425a77e264e562caa37010a",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      76,
+      87
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604527.pdf",
+    "source_sha256": "45f598e8d25d9aba05eaa3da88f683beeab967528aea8386ad5240be025fd12b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9467,
+    "bag": 0.8857,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9429,
+    "rg_words": 74,
+    "kd_words": 70,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
