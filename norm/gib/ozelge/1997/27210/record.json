@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3026-354-438/27160",
+  "source_id": 27210,
+  "date": "1997-06-30",
+  "title": "Aynı işyerinde birden fazla mükellefin faaliyette bulunması halinde işyeri kapatma cezasının nasıl uygulanacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27210",
+  "source_sha256": "4784d6de9dc0f487c89d905f04ac8eff7ea828a541fe8da924b313d8414bc41e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
