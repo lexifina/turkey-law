@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 395273,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Aydın Milletvekili Nahit Menteşe ve 13 arkadaşının, Siyasi Partiler Kanunu ile seçimlerle ilgili kanunların bâzı hükümlerinin değiştirilmesi ve bu kanunlara bazı hükümler eklenmesi hakkında kanun teklifi (2/904)",
+  "title": "Aydın Milletvekili Nahit Menteşe ve 13 arkadaşının, Siyasi Partiler Kanunu ile seçimlerle ilgili kanunların bâzı hükümlerinin değiştirilmesi ve bu kanunlara bazı hükümler eklenmesi hakkında kanun teklifi (2/904)",
+  "first_sitting_date": "1973-06-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 38,
+      "sitting": 126,
+      "sitting_date": "1973-06-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038126.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c038/mm__03038fih.pdf",
+      "pages": [
+        "700:701"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 130,
+      "sitting_date": "1973-06-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c039/mm__03039130.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c039/mm__03039fih.pdf",
+      "pages": [
+        "257",
+        "280:349",
+        "400",
+        "515:518"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=3401&v_kullanici_id=27484893",
+  "source_sha256": "34087f64c9fba6bb65858595400d4147cf36acfa6fadfb4a3aa0e9eecb967a16",
+  "in_force": "1973-06-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
