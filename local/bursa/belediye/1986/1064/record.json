@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Belediye Meclisi",
+  "number": "1064",
+  "decision_date": "1986-05-26",
+  "title": "15/2 PAFTA 1268 ADA 35,36 PARSELLERR",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1986-1064.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1986",
+  "listing_sha256": "2b65c44858243809b641b472cc844c0c838f2ab17d1f96900adeb214bb5b1f51",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
