@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4213-1285/5165",
+  "source_id": 21595,
+  "date": "2005-02-04",
+  "title": "At yarışlarında Tarım ve Köyişleri Bakanlığı tarafından teknik kadrolarda görevlendirilen komiser, komiser yardımcıları, hakem ve yardımcı hakemlere yapılan ödemelerden gelir vergisi tevkifatı yapılıp yapılmayacağı ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21595",
+  "source_sha256": "3a99322e980d2b3535dfce7c45fdd0e7aa4ba05fe7652fb183eeadd6d9ff5553",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
