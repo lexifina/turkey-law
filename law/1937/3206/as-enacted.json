@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3206",
+  "year": 1937,
+  "title": "Hâkimler Kanununun muvakkat maddesinin B fıkrasının 3 ve 4 numaralı bendlerinde yazılı müddetlerin üç sene daha uzatılmasına ve muvakkat maddeye ayrıca iki fıkra ilâvesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-06-21",
+  "gazette_issue": "3636",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3636.pdf",
+  "source_sha256": "a91144876c875e24acd17cb3621243e6e77dfd4e830be6e90c34ff206695da1d",
+  "text_sha256": "050f8f11c31edc4317690ca891798b95c8741feb4de479b4bb878d6c9b364a42",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      28,
+      54
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703206.pdf",
+    "source_sha256": "80a2c2b5697e45daad0da20da3500f8dccd9be3740ac5c7326fef206a62e1a56",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9248,
+    "bag": 0.877,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9874,
+    "rg_words": 160,
+    "kd_words": 159,
+    "own_anchor": false,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
