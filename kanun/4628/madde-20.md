@@ -1,7 +1,8 @@
 Yürütme
 MADDE 20- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 –––––––––––––
-(1) Bu fıkrayla ilgili iptal Kararı 18/4/2002 tarihli ve 24730 sayılı Resmi Gazete’de yayımlanmıştır.
+(1) 30/6/2001 tarihli ve 24448 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/6/2001 tarihli ve E.: 2001/293, K.: 2001/7 (Yürürlüğü Durdurma) Kararı ile bu fıkranın yürürlüğü durdurulmuş olup, söz konusu fıkrayla ilgili iptal Kararı 18/4/2002 tarihli ve 24730 sayılı Resmi Gazete’de yayımlanmıştır.
+(2) Bu fıkrayla ilgili iptal Kararı 18/4/2002 tarihli ve 24730 sayılı Resmi Gazete’de yayımlanmıştır.
 4628 sayılı Kanunun 11 inci Maddesindeki Cezalarla İlgili Çizelge
 Türk Ceza Kanununun ek 2 nci maddesi hükmü uyarınca, her yıl artan para cezalarının, 4628 sayılı Kanun hükümlerinin uygulanması ile ilgili 31/12/2004 tarih ve 25687 (Mükerrer) sayılı Resmi Gazete'de yayımlanan Enerji Piyasası Düzenleme Kurumu'nun Tebliği ile açıklanan para cezası miktarları ile uygulanacağı yılı gösteren çizelge
 İLGİLİ KANUN MADDESİ | KANUNDA ÖNGÖRÜLEN PARA CEZALARI (TL) | 1/1/2005-31/3/2005 TARİHLERİ ARASINDA UYGULANACAK PARA CEZALARI (YTL) | 1/4/2005 TARİHİNDEN İTİBAREN UYGULANACAK PARA CEZALARI (YTL)
