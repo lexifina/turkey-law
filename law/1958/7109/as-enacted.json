@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7109",
+  "year": 1958,
+  "title": "Pasaportların bedel mukabilinde itası hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-04-10",
+  "gazette_issue": "9881",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9881.pdf",
+  "source_sha256": "482ae2e02fd31b1f28bd23d0edbec05f067581e1d190ba982044c889773c4ce6",
+  "text_sha256": "40dacfb0632f4ef1bb56b786c9d064828e77d7f60bed43d50a4f9f21d000f34b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      34
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007109.pdf",
+    "source_sha256": "1b2c861738721783915c0519c987fa278e72f5f2e5e3883941bd5f3d71ff8009",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9801,
+    "bag": 0.8995,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9811,
+    "rg_words": 105,
+    "kd_words": 106,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
