@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4702",
+  "year": 2001,
+  "title": "Yükseköğretim Kanunu, Çıraklık ve Meslek Eğitimi Kanunu, İlköğretim ve Eğitim Kanunu, Milli Eğitim Temel Kanunu, Çıraklık ve Meslek Eğitimi Kanunu, Milli Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanun ile 24.3.1988 Tarihli ve 3418 Sayılı Kanunda Değişiklik Yapılması ve Bazı Kağıt ve İşlemlerden Eğitime Katkı Payı Alınması Hakkında Kanun ile Milli Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-07-10",
+  "gazette_issue": "24458",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/07/20010710.htm",
+  "source_sha256": "4bd10d486bdbbd914daa8043fc9b33ec2c8b13fea7162eb19228baf2f2d4abc1",
+  "text_sha256": "20fa9c1e30fced1c80ee224a378244a0cd568d00d2c939fbf59775968de598a2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/07/10/24458-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/07/20010710.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
