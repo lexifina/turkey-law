@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.7356",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "TRAKYA ÜNİVERSİTESİ ULUSLARARASI FİZİK UYGULAMALI MATEMATİK ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "number": "7356",
+  "issuer": "TRAKYA ÜNİVERSİTESİ",
+  "issuer_slug": "trakya-universitesi",
+  "path": "regulation/trakya-universitesi/1994/7356",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7356&MevzuatTertip=5",
+  "source_sha256": "f45ba2af242bca0cc44a81bb8fdbd2d84739228a60b3eaa43eb43d705e6b5838",
+  "source_bytes": 37879,
+  "published": "1994-09-12",
+  "gazette": "22049",
+  "in_force": "1994-09-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.09.1994); own commencement article: \"Bu yönetmelik yayımı tarihi yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu yönetmelik yayımı tarihi yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 845,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
