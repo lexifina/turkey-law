@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-983-31582",
+  "source_id": 36811,
+  "date": "1998-09-03",
+  "title": "Finans kuruluşuna ödenen kredi faizinin, krediyi veren ve faiz geliri elde eden finans kuruluşunun Türkiye hudutları dışında bulunması nedeniyle Banka ve Sigorta Vergisine tabi olmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36811",
+  "source_sha256": "3ec81923940a61358ef6e8ee20b798f71a34d05848f9a03467e2a0ab1fafae5c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
