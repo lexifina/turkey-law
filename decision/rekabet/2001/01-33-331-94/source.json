@@ -1,0 +1,13 @@
+{
+  "number": "01-33/331-94",
+  "type": "Rekabet İhlali",
+  "decision_date": "2001-07-17",
+  "publication_date": "2002-09-01",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=fc54cb71-d8c5-4618-b846-971c4ffc3ee2",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1019",
+  "pdf_sha256": "c97e28e0476302905a745838ba6b174c0199e6b7d16888371cdc5be38012d1ef",
+  "pdf_bytes": "267082",
+  "pages": "3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
