@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "65",
+  "year": 1960,
+  "title": "Kambiyo alış ve satış pirimlerinin ilgasına ve yeni döviz fiyatları ile ilgili muamelelerin tasfiyesine dair Kanun (BASILI GENEL KURUL TUTANAGI BULUNMAMAKTADIR)",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-08-22",
+  "gazette_issue": "10584",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10584.pdf",
+  "source_sha256": "0f46b01ccfb349d4c1e30fcdd7540aac40ed170c08a18acfdc7b736077777466",
+  "text_sha256": "20a4af30fe27a4e28b28299a2afcde4ad53e6d544365cfadf409ffe49cf04f6d",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      154,
+      327
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300065.pdf",
+    "source_sha256": "f16d75fcd4e7ab77c0ac48b59060c72fababfd94b8a1976c949bff0a7ac0a126",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9762,
+    "bag": 0.9258,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9923,
+    "rg_words": 786,
+    "kd_words": 784,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
