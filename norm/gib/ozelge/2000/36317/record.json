@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6038-11/54399",
+  "source_id": 36317,
+  "date": "2000-11-20",
+  "title": "Sigorta şirketleri tarafından hak sahibinin mirasçılarına yapılan ödemelerin ne şekilde vergileneceği hakkında. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36317",
+  "source_sha256": "5941234f236fad12be26d751223165ec86337993ae66fb99d8288aaae951c14c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
