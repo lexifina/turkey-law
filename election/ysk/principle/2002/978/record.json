@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2002/978",
+  "list_number": "978",
+  "decision_date": "2002-12-02",
+  "title": "YSK ilke kararı 2002/978",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4157/2002-978-karar.htm",
+  "source_sha256": "c78218e15b523c9526aa7e302cfe36d931c00948cbbc1c586f5c11ea77ed9389",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2002-12-02",
+  "law_text_complete": false
+}
