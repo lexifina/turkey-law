@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6323",
+  "year": 1954,
+  "title": "Van Vilâyetine Bağlı Gürpınar Kaza Merkezinin Aynı Kazanın Havsor Nahiye Merkezine Kaldırılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-10",
+  "gazette_issue": "8654",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8654.pdf",
+  "source_sha256": "c32fc5c1f4dd8f57fcb67570e673486242d2cf6613dd5fc05767c58bdc6dd2ae",
+  "text_sha256": "1a78851d97f7e385696d86a0c7c659fce9b3c715e7e8033e67202bed4dfdeb5d",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      655,
+      666
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606323.pdf",
+    "source_sha256": "2d6ffae1bc0bf8a4eabb4c7a995d2b842ea4ec4e4fd7aef766ee64595fdec1e5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9649,
+    "bag": 0.9346,
+    "kd_coverage": 0.9811,
+    "kd_body_compared": 0.9811,
+    "rg_words": 55,
+    "kd_words": 53,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
