@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-06-21",
+  "issue": "25145",
+  "edition": "regular",
+  "item": 9,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "TÜPRAŞ Türkiye Petrol Rafinerileri Anonim Şirketi İzmir Rafineri Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030621-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (47 = 47)",
+  "ilan_codes": [
+    "19941/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030621-3.htm",
+  "category_page_sha256": "ff1ca632c78d78d195a66f6eb43b77ccfb199c04ee95417c4ba77e62fb2609e1",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030621.htm",
+  "index_sha256": "6128d34567d1ede69cac4465e631f4dafeafd47b480b2d4e560a42ebf3117913",
+  "index_header": "21 Haziran 2003 ... Sayı : 25145",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
