@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2922-230-834/1867",
+  "source_id": 26205,
+  "date": "1997-01-16",
+  "title": "Sevk irsaliyesi hakkında fiyat ve bedel ile ilgili bilgiler hariç olmak üzere, Vergi Usul Kanununun 230 ve 231 nci madde hükümleri uygulanmakta olup, irsaliyelerde malın nereye ve kime gönderildiği ayrıca belirtilir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26205",
+  "source_sha256": "3134eb2a6d06fa6fc6089f8ef642c3190e3f9edcb8df0613de15d35e57a6e0da",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
