@@ -1,0 +1,28 @@
+ANAYASA MAHKEMESİ KARARI
+Esas No.:1963/ 91
+Karar No.:1963/162
+Karar tarihi:24/6/1963
+Resmi Gazete tarih/sayı:1.8.1963/11469
+Davacı : Adalet Partisi Türkiye Büyük Millet Meclisi grupu.
+Dâva konusu : 2556 sayılı Hâkimler Kanununun Adalet Bakanına hâkimler hakkında tahkikat yapılması için izin vermek ve Adalet Müfettişlerine tahkikat yaptırmak yetkilerini tanıyan 102, 104. ve 105 inci maddelerinin, Anayasa'nın ruhuna aykırı olduğu ileri sürülerek, iptallerine karar verilmesi istenilmiştir.
+İNCELEME:
+Anayasa Mahkemesi içtüzüğünün 15 inci maddesi uyarınca 4/3/1963 gününde yapılan ilk incelemede Adalet Partisi Türkiye Büyük Millet Meclisi Grupu adına imzaları bulunan Cahit Okurer'in Cumhuriyet Senatosu Gurupu Başkanı ve Ali Naili Erdem'in Millet Meclisi Gurup Başkan vekili olduklarına dair yetkilerini belirten belgelerin, Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri hakkındaki 22/4/1962 günlü ve 44 sayılı Kanunun 26 ncı maddesinin üçüncü fıkrası gereğince verilmediği görüldüğünden bu belgelerin onbeş gün içinde gönderilmesi lüzumuna ilişkin kararın tebliği üzerine istenen belgelerin süresinde mahkemeye verildiği anlaşılmakla işin esasının incelenmesine karar verilerek düzenlenen rapor, dâva dilekçesi ve ekli kâğıtlar, 2556 sayılı Hâkimler Kanununun 102, 104 ve 105 inci ve 45 sayılı Yüksek Hâkimler Kurulu Kanunun ilgili maddeleri okunduktan sonra gereği görüşülüp düşünüldü :
+GEREKÇE :
+Hâkimler Kanununun, 102 nci maddesinde "Hâkim muavinleri ile üçüncü ve ikinci sınıf hâkimlerin vazifeden doğan veya vazife sırasında işlenen suçlarından ve sıfat ve vazifeleri icaplarına uymayan hal ve hareketlerinden dolayı haklarında tahkikat icrası, Adliye Vekilliğince memur edilecek yüksek dereceli hâkime veya Adliye Müfettişine ve birinci sınıf hâkimlerin vazifeden doğan veya vazife sırasında işlenen suçlarından dolayı haklarında tahkikat icrası Adliye Vekili tarafından tensip olunacak Temyiz Reislerinden birine aittir."
+104 üncü maddesinde "Üçüncü ve ikinci sınıflara mensup hâkimler, müddeiumumiler hakkında birlikte tahkikat yapılması icap eden hallerde tahkikat, Vekillikçe tensip olunacak müfettiş yahut yüksek dereceli hâkim tarafından yapılır.";
+105 inci maddesinde de "Yukarıdaki maddelerde yazılı tahkikatın yapılması, Adliye Vekilinin iznine bağlıdır. Ancak birinci sınıfa mensup hâkimlerle Başmüddeiumumiden mâdası hakkında Müfettişlerin teftiş veya tahkik sırasında öğrenecekleri haller müstesnadır. Bu takdirde keyfiyet hemen Adliye Vekilliğine bildirilir" denilmektedir.
+Sonradan Anayasa'nın yargı yetkisine ve hâkimlere ilişkin maddeleri gözönünde tutularak düzenlenmiş ve Yüksek Hâkimler Kurulunun fiilen işe başlamasiyle tamamı yürürlüğe girmiş bulunan 45 sayılı Yüksek Hâkimler Kurulu Kanunu ile bu hükümler değiştirilmiş ve Adalet Bakanına ve Adalet Müfettişlerine verilmiş bulunan yetkiler kaldırılarak bu hususta yeni esaslar konulmuştur. Bu kanunun 2 nci maddesinin l numaralı bendiyle hâkimlerin bütün özlük işleri hakkında karar vermek yetkisi, Yüksek Hâkimler Kuruluna verilmiş ve 30 uncu maddesinde;
+"l- Hâkimler hakkındaki şikâyet ve ihbarları incelemek;
+2- Hâkimlerin görevlerinden dolayı veya görevleri sırasında isledikleri suçları ve sıfat ve görevleri icaplarına uymayan hal ve eylemleri hakkında soruşturma yapılmasına karar vermek;
+3- Belli konularda inceleme veya soruşturma yapmak üzere üst derecedeki hâkimleri görevlendirmek" yetkileri, Yüksek Hâkimler Kurulunun ikinci bölümünün görevleri arasında; 31 inci maddesinde de :
+"l- İşten el çektirmek;
+2- Hâkimler hakkında kovuşturma izni vermek;
+3- Disiplin cezası vermek; "Yetkileri üçüncü bölümünün görevleri arasında gösterilmiştir. Ayrıca 33 üncü maddesinde, hâkimler hakkında kovuşturma izni vermek konusunda bölümün verdiği kararları dayanakları ve gerekçeleri ile birlikte inceleyerek onamak yahut kısmen veya tamamen değiştirerek yani bir karar vermek yahut da belli yönlerden işlemin tamamlanması veya incelemenin genişletilmesi için ilgili bölüme geri çevirmek yetkisinin, Genel Kurulun Özel görevleri arasında bulunduğu kaydedilmiş ve 43 üncü maddesinde de "Hâkimlerle, hakim yardımcılarının görevlerinden dolayı veya görevleri sırasında işledikleri suçları veya sıfat ve görevleri icaplarına uymayan hal veya eylemleri şikâyet veya ihbar edilir yahut da Yüksek Hâkimler Kurulu cereyan eden işlemlerden bunları öğrenirse; ilgili hâkim veya hâkim yardımcısı hakkında soruşturma yapılmasına lüzum olup olmadığını takdir eder" ve "Soruşturma,, hâkim veya hâkim yardımcıları hakkında görevlendirilecek üst dereceli bir hâkim tarafından yapılır.
+Ağır cezayı gerektiren suçüstü hallerinde hazırlık soruşturması ve ilk soruşturma genel hükümlere göre yapılır. Bu halde durum, yetkili merci tarafından hemen ve doğrudan doğruya Yüksek Hâkimler Kuruluna bildirilir" hükmü yer almıştır.
+Bu yeni hükümler karşısında Hâkimler Kanununun iptali istenilen 102., 104. ve 105 inci maddelerinin artık uygulama imkânı kalmamış ve bu maddeler, 45 sayılı Yüksek Hâkimler Kurulu Kanununun 103 üncü maddesinin "Hâkimler Kanununun ve diğer kanunların bu kanuna uymayan hükümleri kaldırılmıştır." yolundaki açık hükmü ile yürürlükten kalkmış bulunmaktadır. Bu bakımdan Hâkimler Kanununun sözü geçen 102., 104. ve 105 inci maddelerinin iptali hakkındaki dâvanın konusu bulunmamış olduğundan reddi gerekmiştir.
+NETİCE :
+Yukarıda yazılı sebepten ötürü konusu bulunmayan iptal dâvasının reddine 24/6/1963 gününde oybirliği ile karar verildi.
+Başkan Sünuhi Arsan | Başkanvekili Tevfik Gerçeker | Üye Rifat Göksu | Üye İ. Hakkı Ülkmen
+Üye Lütfi Akadlı | Üye Şemsettin Akçoğlu | Üye İbrahim Senil | Üye Salim Başol
+Üye Celâlettin Kuralmen | Üye Hakkı Ketenoğlu | Üye Ekrem Korkut | Üye Ahmet Akar
+Üye Muhittin Gürün | Üye Lütfi Ömerbaş | Üye EKrem Tüzemen
