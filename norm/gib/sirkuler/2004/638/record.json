@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-19/2004-11/Performans Derecelendirme Bildirimi",
+  "source_id": 638,
+  "date": "2004-03-04",
+  "title": "FAVÖK Oranının Hesaplanması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/638",
+  "source_sha256": "a32335f05047ea1bc9d7e70e5e71fa33345216a1654d63fa4fbb264d47274a2f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
