@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": null,
+  "date_quote": "14.7.1937 | 2/7102 | - | 2.8.1937",
+  "first_law": null,
+  "gazette": "3349",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1937-08-02",
+  "in_force_basis": "latest source-printed amendment commencement or Resmi Gazete date (current consolidated text)",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1936-07-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=24903&MevzuatTertip=3",
+  "source_bytes": 166115,
+  "source_id": "2.3.24903",
+  "source_sha256": "e4d4b115f682a7b7829522fa327273641894305ffdf1ea8a17b2b77aeb2c417c",
+  "source_type": "Tüzükler",
+  "title": "MALİYE VEKALETİ TEŞKİLAT VE VAZİFELERİ HAKKINDA NİZAMNAME",
+  "word_count": 8625
+}

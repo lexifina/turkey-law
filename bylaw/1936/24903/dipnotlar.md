@@ -1,0 +1,1 @@
+[1] Bu Tüzüğün dayanağını oluşturan 29/5/1936 tarih ve 2996 sayılı Kanun, 20/8/1993 tarih ve 516 sayılı KHK'nin 20/a maddesiyle yürürlükten kaldırılmış, ancak Geçici 5 üncü maddesi ile bu konuda yeni tüzük çıkıncaya kadar bu Tüzüğün sözkonusu KHK'ye aykırı olmayan hükümlerinin uygulanacağı hükme bağlanmıştır.

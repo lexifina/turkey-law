@@ -1,0 +1,1 @@
+Madde 53 – Daimi avukat kadrosu verilmiyen yerlerde daire amirlerinin iştigalleri davaları bizzat takip etmeğe müsait olmadığı takdirde ücretleri muhakeme masarifi tertibinden verilmek üzere mukavele ile avukat ve dava vekili istihdamı caizdir. Bu suretle istihdam edilen avukat ve vekiller Hazine avukatlarının vazifeleriyle mükellef ve salahiyet ve mesuliyetlerini haizdirler.

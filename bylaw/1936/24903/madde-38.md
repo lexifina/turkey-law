@@ -1,0 +1,2 @@
+Darphane ve Damga Matbaası Müdürlüğü
+Madde 38 – Darphane ye Damga Matbaası Müdürlüğü: Bir müdürün idaresi altında iki müesseseyi havidir. Darphane madeni para, ziynet altınları, madalya basmakla meşgul olup Damga Matbaası ve alelümum harç ve damga pullarını umumi bütçeye dahil veya umumi bütçe ile ilişikli olan daire ve müesseselerle hususi kanunlarla teşkil edilmiş olan ve amme hizmeti gören teşekküllerin pullarını ve kıymetli evrakını ve Maliye Vekaletinin matbu evrakını tabı etmek vazifeler ile mükelleftir.

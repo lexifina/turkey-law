@@ -1,0 +1,2 @@
+Mali Tetkik Heyeti
+Madde 5 – Mali Tetkik Heyeti, bir reis ile dört azadan müteşekkildir. Heyete mevdu işler, azaya reis tarafından dağıtılır. Tetkikı yapan aza neticeleri detesbit eder. Varılan netice hakkında, reis, diğer azanın da reylerini alır vefaideli görülen noktaları ilave eder. Kararlaştırılan şekil, reisin imzası altın- da Vekalet makamına arzolunur. Esaslı noktalarda ekseriyetten ayrılan azanın noktai nazarı da Vekalete bildirilir.

@@ -1,0 +1,3 @@
+Madde 63 – İrat ve servet vergileriyle muamele ve istihlak vergileri varidat müdürleri 47 nci maddede varidat müdürleri için sayılan vazifelerin ifası ve varidat kontrol memurlarının programını defterdarla müştereken tesbit ederek müessir bir kontrol tesisi ile mükelleftir. İstanbul varidat müdürleri varidat kanunlarının tatbikatında verdiği emirlerden Hazine için doğan zararlardan mesuldürler.
+Mükelleflerin uğrıyacakları zararlar hakkında umumi hükümlere göre muamele yapılır.
+Muhasebei Umumiye Kanununun 13 üncü maddesi mucibince varidat tahakkuk memurlarının mesuliyeti, İstanbul'da, tahakkuk ile uğraşan şube memur ve katipleriyle tahakkuk şubesi şefine racidir.

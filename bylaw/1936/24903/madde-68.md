@@ -1,0 +1,3 @@
+Madde 68 – İstanbul Vilayeti Muhasebe Müdürü 50 nci maddede Vilayet Muhasebe müdürleri için sayılan vazifenin aynını görür.
+Bakırköy, Beykoz, Adalar, Sarıyer hariç olmak üzere İstanbul Belediyesi hududu içindeki kazalar, malmüdürleri varidat ve tahsilat işleriyle iştigal etmiyerek munhasıran maaş ve masraf tediyesini yapmak ve Muhasebei Umumiye Kanunu ile diğer kanunların masraf muhasiplerine tevdi ettiği vazifeleri ifa etmek ve Divana idare hesabı vermekle mükelleftirler.
+İstanbul'da da diğer vilayetlerde olduğu gibi damga ve harç pulu satışları Vilayet Muhasebe Müdürü ile kaza malmüdürleri tarafından yapılır.

@@ -1,0 +1,3 @@
+Madde 18 – Dava ve Muhakeme işleri, Baş Hukuk Müşavirinin teklifi ve Vekaletin tasvibi ile Mütehassıs Müşavirin veya Müşavir Avukatlardan birinin idare ve nezaretine tevdi olunur. Bu suretle dava işlerini şef sıfat ile tedvir edecek olan Müşavir veya Avukat Başmüşavirden alacağı emir ve talimat dairesinde hareketle mükellef ve vazifesine mütaallik hususlarda doğrudan doğruya imza salahiyetini haizdir.
+Dava sicillerinin tutulması ve muntazam surette yürütülmesi hususlarından ve dava ve icra takiplerinden birinci derecede dava şefi mes'uldür.
+İdari davaların takip ve müdafaası Başmüşavirin tensip edeceği Müşavir Avukat veya Avukata tevdi olunur.

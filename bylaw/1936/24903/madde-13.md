@@ -1,0 +1,2 @@
+Madde 13 – Teftiş ve tahkik sırasında, suç delilleri henüz elde edilmemiş olmakla beraber iş başında kalması tahkikatı güçleştireceğine kanaat hasıl edilen memurlar maliye memuru iseler, Maliye Vekaletinin müsaadesile müfettiş tarafından ve diğer vekaletlere mensup iseler o vekaletler tarafından işten men olunabilir.
+Teftiş ve tahkik neticesinde suçun vukuu anlaşılamadığı veya kafi delil bulunamadığı takdirde işten el çektirilmiş olan memur, müfettişin vereceği rapor üzerine vekaletlerce derhal vazifesine iade olunur.

@@ -1,0 +1,1 @@
+Madde 19 – İkame veya takibinde veya kanun yollarına devam edilmesinde faide görülmiyen davalar için Muhasebei Umumiye Kanununun (137) nci maddesi ile 2573 numaralı kanun hükümleri dairesinde tatbik edilecek muameleye ait evrak, Baş müşavirden geçirilir.

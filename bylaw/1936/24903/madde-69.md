@@ -1,0 +1,1 @@
+Madde 69 – Muhakemat ve Milli Emlak müdürleri, diğer vilayetlerdeki müdürlere mevdu vazifenin aynını görürler. İstanbul Muhakemat Müdürlüğüne bağlı Hazine avukatları en az haftada bir muhakemat müdürünün reisliği altında toplanarak, Hazineye ait mühim davalar için takip edilmesi lazım gelen yollar hakkında görüşler ve alınacak tedbirleri düşünürler.
