@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.O.65/6508-39/4198",
+  "source_id": 36650,
+  "date": "1997-02-05",
+  "title": "ÖKC fişlerinde mükellefin adı, soyadı ile ünvanının birarada bulunma mecburiyeti yoktur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36650",
+  "source_sha256": "334949bdef8f2c80c3e15122ce25b13c7288a9a8f4c6636b15d42c310bd01d14",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
