@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-12/ 2004-10/ Finansman Gider Kısıtlaması _4",
+  "source_id": 1106,
+  "date": "2004-10-21",
+  "title": "2004 yılı Temmuz-Eylül dönemi için gider indirimi kısıtlaması uygulamasına esas alınacak indirim oranı % 30, 6 olarak tespit edilmiştir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1106",
+  "source_sha256": "f9ff034e5d93dfe25806a7109acdec82437eacca5c7447d9a63624a0ed24a274",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
