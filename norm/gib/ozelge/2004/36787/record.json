@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1105-2 / 47232",
+  "source_id": 36787,
+  "date": "2004-10-11",
+  "title": "Bankalar tarafından kredi faizlerine ilişkin olarak vadelerinde tahakkuk ettirilerek vergi dairesine yatırılan, daha sonra erteleme kapsamına alınan ve Hazine tarafından gelir kaybı olarak kabul edilmeyen banka ve sigorta muameleleri vergisinin iade edilm",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36787",
+  "source_sha256": "71ca4865492f4d359cfc43c8548fcce26338ea545ee39aec03473beb43ab7c46",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
