@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.53/5301- 3054-40613",
+  "source_id": 38047,
+  "date": "2004-09-01",
+  "title": " Fuar alanını gezecek olan kişilerden alınacak olan fuar giriş ücreti tahsil edilmesi, bir defaya...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38047",
+  "source_sha256": "7e97654f07d592a6fd31a1ca7b1754fa8dd43ac0af686179608f50bd7590d712",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
