@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2712",
+  "source_id": 33424,
+  "date": "2003-06-14",
+  "title": "Katma değer vergisi iadesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/33424",
+  "source_sha256": "1007bd65334d723931cfd62cac59edc7679c1e85ba80f6d9066d72347422d452",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
