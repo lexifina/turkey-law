@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-issue",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "1962-12-04",
+  "issue": "11273",
+  "issue_basis": "official archive file name /arsiv/<issue>.pdf (the archive numbers its files by issue; e.g. 24091.pdf = 26.06.2000, the issue before HTML issue 24092)",
+  "edition": "regular",
+  "archive_mukerrer_flag": null,
+  "item": 0,
+  "section": null,
+  "heading": null,
+  "title": "04.12.1962 tarihli Resmi Gazete",
+  "official_link": "https://www.resmigazete.gov.tr/arsiv/11273.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/Home/Filter",
+  "index_request": {
+    "method": "POST",
+    "searchtype": 2,
+    "arsivaramayeri": "1",
+    "from": "1962-01-01",
+    "to": "1962-12-31"
+  },
+  "index_sha256": "fa0453a77fa3b973f79d0d729358a506e6896fa2f64b03fccbe2a44fc7df1f13",
+  "index_header": "official archive listing date 04.12.1962",
+  "issue_pdf": "https://www.resmigazete.gov.tr/arsiv/11273.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; whole issue published as a scanned PDF (no OCR); items not listed"
+}
