@@ -1,0 +1,12 @@
+ÜÇÜNCÜ BÖLÜM
+Borçlanma ve İktisadî Girişimler
+Borçlanma
+MADDE 51. — İl özel idaresi, görev ve hizmetlerinin gerektirdiği giderleri karşılamak amacıyla aşağıda belirtilen usul ve esaslara göre borçlanma yapabilir ve tahvil ihraç edebilir:
+a) Dış borçlanma, 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun hükümleri çerçevesinde ve sadece il özel idaresinin yatırım programında yer alan projelerin finansmanı amacıyla yapılabilir.
+b) İller Bankasından yatırım kredisi ve nakit kredi kullanan il özel idaresi, ödeme plânını bu bankaya sunmak zorundadır. İller Bankası hazırlanan geri ödeme plânını yeterli görmediği il özel idaresinin kredi isteklerini reddeder.
+c) Tahvil ihracı, yatırım programında yer alan projelerin finansmanı için ve ilgili mevzuat hükümleri uyarınca yapılır.
+d) İl özel idaresi ve bağlı kuruluşları ile bunların sermayesinin %50’sinden fazlasına sahip oldukları şirketlerin faiz dahil iç ve dış borç stok tutarı, en son kesinleşmiş bütçe gelirleri toplamının 213 sayılı Vergi Usul Kanununda belirlenen yeniden değerleme oranıyla artırılan miktarını aşamaz. Bu miktar büyükşehir belediyesi bulunan illerin özel idareleri için bir buçuk kat olarak uygulanır.
+e) İl özel idaresi ve bağlı kuruluşları ile bunların sermayesinin %50’sinden fazlasına sahip oldukları şirketlerin, en son kesinleşen bütçe gelirlerinin, 213 sayılı Vergi Usul Kanununda belirlenen yeniden değerleme oranıyla artırılan miktarının yılı içinde toplam %10’unu geçmeyen iç borçlanmayı il genel meclisinin kararı; %10’u geçen miktarlar için meclis üye tam sayısının salt çoğunluğunun kararı ve İçişleri Bakanlığının onayı ile yapabilir.
+f) İl özel idarelerinin ileri teknoloji ve büyük tutarda maddi kaynak gerektiren alt yapı yatırımlarında Devlet Plânlama Teşkilatı Müsteşarlığının teklifi üzerine Bakanlar Kurulunca kabul edilen projeleri için yapılacak borçlanmalar (d) bendindeki miktarın hesaplanmasında dikkate alınmaz. Dış kaynak gerektiren projelerde Hazine Müsteşarlığının görüşü alınır.
+Yukarıda belirtilen usul ve esaslara aykırı olarak borçlanan il özel idaresi sorumluları hakkında, fiilleri daha ağır bir cezayı gerektirmeyen durumlarda Türk Ceza Kanununun 240 ıncı maddesi hükümleri uygulanır.
+İl özel idaresi, varlık ve yükümlülüklerinin ayrıntılı bir şekilde yer aldığı malî tablolarını üçer aylık dönemler halinde İçişleri ve Maliye bakanlıkları ile Devlet Plânlama Teşkilatı ve Hazine müsteşarlıklarına gönderir.
