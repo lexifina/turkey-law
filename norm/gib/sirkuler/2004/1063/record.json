@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "OKC-1/2004-1",
+  "source_id": 1063,
+  "date": "2004-06-04",
+  "title": "Üretici veya İthalatçı Firmaların, Akaryakıt Pompalarına Bağlanacak Ödeme Kaydedici Cihazlarının Onayı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/sirkuler/1063",
+  "source_sha256": "f389e78921636fc7f19031f161918ab4587b0a96455b8d50b3d1f46d4d6575aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
