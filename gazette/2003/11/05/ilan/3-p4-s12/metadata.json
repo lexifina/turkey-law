@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-11-05",
+  "issue": "25280",
+  "edition": "regular",
+  "item": 12,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "İstanbul İç Tedarik Bölge Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031105-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (58 = 58)",
+  "ilan_codes": [
+    "43124/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031105-3-4.htm",
+  "category_page_sha256": "2a239830b3d6f07e2ceadcaeab53f6f33d049a94a428aef9a8be30d39b7559bb",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/11/20031105.htm",
+  "index_sha256": "277acad0d96a8bc7cf1a98e0d55877672e329c5fec28e78fbc1cc510ce26346d",
+  "index_header": "5 Kasım 2003 ... Sayı : 25280",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
