@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 44 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2002-10-13",
+      "13.10.2002",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 44 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24905",
+  "history": "current-text",
+  "images": {
+    "deferred": 5,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 5
+  },
+  "in_force": "2002-10-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Bolu Abant İzzet Baysal Üniversitesi",
+  "issuer_slug": "bolu-abant-izzet-baysal-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bolu-abant-izzet-baysal-universitesi/2002/12909",
+  "published": "2002-10-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=12909&MevzuatTertip=5",
+  "source_bytes": 82302,
+  "source_id": "8.5.12909",
+  "source_sha256": "6be634d368cf3215f9a83d2183e7cdc515a412a32312d512ab4aeb2a6f8a38f3",
+  "text_status": "as-enacted",
+  "title": "Abant İzzet Baysal Üniversitesi Arşiv\r\nHizmetleri Yönetmeliği",
+  "university_id": 175,
+  "word_count": 4102
+}

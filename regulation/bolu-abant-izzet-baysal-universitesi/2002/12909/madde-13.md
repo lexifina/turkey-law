@@ -1,0 +1,3 @@
+Malzemenin Birim Arşivinde Tasnifi ve Yerleştirilmesi
+Madde 13 — Arşiv malzemesi ve arşivlik malzeme birim arşivlerinde işlem gördüğü tarihlerdeki asli düzenleri bozulmadan saklanır. Merkez teşkilatı birim arşivlerinde bekleme süresini tamamlayan arşiv malzemesi ve arşivlik malzeme aynı düzende Üniversite arşivine teslim edilir.
+Taşra teşkilatı birim arşivlerinde bulunan arşiv malzemesi ve arşivlik malzeme Üniversite arşivine devredilmez. Bu tür arşivlerdeki malzemenin, 19 uncu madde hükümlerine göre ayıklama ve imha işlemleri yapıldıktan sonra tasnif ve yerleştirmesi 21 inci madde hükümlerine göre yapılır.
