@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2809-12-44/60823",
+  "source_id": 25018,
+  "date": "1996-12-19",
+  "title": "Mirasın reddedilmesi halinde ölen kişi ile ilgili olarak yapılan tarhiyata ait ihbarnamenin kime tebliğ edileceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25018",
+  "source_sha256": "7faada14aaf641fd78b7bdbcd1c4fe5501af2e6c00363fda6e699062488ec5c1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
