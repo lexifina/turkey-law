@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 389717,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "648 sayılı Siyasi Partiler Kanununun 5, 8, 14 ve 76. maddelerinin değiştirilmesine ve bu kanuna iki ek ve bir geçici madde ile 44 sayılı Anayasa Mahkemesinin kuruluşu ve yargılama usulleri hakkında Kanunun 18. maddesinin (B) fıkrası ve 58. maddesinin değiştirilmesine dair kanun tasarısı (1/611)",
+  "title": "648 sayılı Siyasi Partiler Kanununun 5, 8, 14 ve 76. maddelerinin değiştirilmesine ve bu kanuna iki ek ve bir geçici madde ile 44 sayılı Anayasa Mahkemesinin kuruluşu ve yargılama usulleri hakkında Kanunun 18. maddesinin (B) fıkrası ve 58. maddesinin değiştirilmesine dair kanun tasarısı (1/611)",
+  "first_sitting_date": "1972-02-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 41,
+      "sitting_date": "1972-02-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c021/mm__03021041.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c021/mm__03021fih.pdf",
+      "pages": [
+        "117",
+        "605"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=2501&v_kullanici_id=27484850",
+  "source_sha256": "592968d76d23b1c1f59fa2ea43a92ad79697c53390fd19c8a43c12266fe9b8ae",
+  "in_force": "1972-02-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
