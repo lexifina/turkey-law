@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 446591,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Adıyaman Milletvekili Kemal Tabak ve 2 arkadaşının, 1.3.1926 tarih ve 765 sayılı Türk Ceza Kanunu ile 1.4.1965 tarih ve 557 sayılı Nüfus Planlaması Hakkındaki Kanunun bazı maddelerinin değiştirilmesine ve 24.4.1930 tarih ve 1593 sayılı Umumî Hrfzıssıhha Kanununun 152. maddesinin yürürlükten kaldırılmasına dair Kanun Teklifi (2/868)",
+  "title": "Adıyaman Milletvekili Kemal Tabak ve 2 arkadaşının, 1.3.1926 tarih ve 765 sayılı Türk Ceza Kanunu ile 1.4.1965 tarih ve 557 sayılı Nüfus Planlaması Hakkındaki Kanunun bazı maddelerinin değiştirilmesine ve 24.4.1930 tarih ve 1593 sayılı Umumî Hrfzıssıhha Kanununun 152. maddesinin yürürlükten kaldırılmasına dair Kanun Teklifi (2/868)",
+  "first_sitting_date": "1980-02-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 47,
+      "sitting_date": "1980-02-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014047.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014fih.pdf",
+      "pages": [
+        "356"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=1001&v_kullanici_id=27484893",
+  "source_sha256": "4b214aaf3146dba20ccdcbf6139e5eabcbdc152da9c2ba590a226e98a5d4302f",
+  "in_force": "1980-02-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
