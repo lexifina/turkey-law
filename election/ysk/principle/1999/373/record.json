@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/373",
+  "list_number": "373",
+  "decision_date": "1999-03-21",
+  "title": "YSK ilke kararı 1999/373",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4695/1999-373-karar.htm",
+  "source_sha256": "9a249741668c30a5a4d9665c5b09bcf1db80481a5f68f173f306dad0e79da851",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-03-21",
+  "law_text_complete": false
+}
