@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "177",
+  "decision_date": "2003-07-31",
+  "title": "TEDAŞ ve 7 bağlı ortaklığı tarafından uygulanacak perakende tarifeleri hakkında",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bg6zEPokY4s=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bg6zEPokY4s="
+  ],
+  "source_sha256": "6169ac2367dc284044d9831052c5c5072737eae4513503f7e489c82d48fe969b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-07-31",
+  "law_text_complete": false
+}
