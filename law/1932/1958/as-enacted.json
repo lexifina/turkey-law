@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1958",
+  "year": 1932,
+  "title": "1111 numaralı askerlik mükellefiyeti Kanununun 105 ve 106. maddelerini muaddil kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-05-18",
+  "gazette_issue": "2101",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2101.pdf",
+  "source_sha256": "002514c2cdb14d645805be02e06244f4c61b93f1db119f452502558cdba7f66a",
+  "text_sha256": "93dac59dba6b45add0c15448259c1a8d99238213d375d5067241d0cacc74954e",
+  "text_status": "ocr",
+  "pages": [
+    9,
+    10
+  ],
+  "line_span": [
+    [
+      2591,
+      2682
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101958.pdf",
+    "source_sha256": "45c2203df66bdad39ccc50dc718a10cf7ab0365d525df3d4153c404ad95033c5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9557,
+    "bag": 0.8684,
+    "kd_coverage": 0.994,
+    "kd_body_compared": 0.9648,
+    "rg_words": 332,
+    "kd_words": 341,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
