@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "108",
+  "decision_date": "2003-03-21",
+  "title": "Dağıtım sistemi sistem kullanım fiyatları",
+  "categories": [
+    "2006 Öncesi Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gT2WIew1ChU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gT2WIew1ChU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yCtKRgV9Ud4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ArzstF9O5pY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=n1euUFjKTBo="
+  ],
+  "source_sha256": "a5c6b20c3b2818954b644ab8b4c892471643f7575b9bc07942db9d22e929c735",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1523,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-03-21",
+  "law_text_complete": false
+}
