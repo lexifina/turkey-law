@@ -1,0 +1,3 @@
+Gelir Ortaklığı Senedi Satış Esasları
+Madde 8 – Gelir ortaklığı senetlerinin satış işlemi, İdare tarafından bir duyuru ile başlatılır. Bu duyuruda; ilgili altyapı tesisinin ismi ve senetlerin nominal değeri, satış fiyatı, satış süresi, satış yerleri ile İdarece gerekli görülen diğer hususlar belirtilir.
+Satışlar, duyuruda belirtilen süreler içinde bankalar, 2499 sayılı Kanuna göre aracılık yapmaya yetkili olan kurumlar ve İdarece belirlenecek kamu kurumları aracılığı ile yaptırılabilir. Senet bedelleri nakit ve peşin olarak tahsil edilir. Satış hasılatı, ilgili kuruluşlar tarafından İdarece belirlenecek esaslar dahilinde Fon hesabına yatırılır.
