@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-32151/22289",
+  "source_id": 21717,
+  "date": "2002-05-16",
+  "title": "Devralınan kurumun mahsup edilememiş geçmiş yıl zararlarının devralan kurumca indirim konusu yapılıp yapılamayacağı hakkında... ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21717",
+  "source_sha256": "1d2532e4ffb580820f4f793db971d93950cd63d459be4e3ca2720bda543bf64f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
