@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2814-17-4475/16149",
+  "source_id": 25024,
+  "date": "2001-03-23",
+  "title": "Yangın nedeniyle yükümlülüklerini yerine getiremeyen mükellefler için  mücbir sebeb varlığı söz konusudur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25024",
+  "source_sha256": "64659d48e2625494a6392c9efab330335ec230c93b706dcb558bcec05874989b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
