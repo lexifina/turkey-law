@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1667",
+  "year": 1930,
+  "title": "Devlet Demiryolları ve limanları idarei umumiyesinin teşkilât ve vezaifine dair kanuna müzeyyel kanun.",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-06-02",
+  "gazette_issue": "1509",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1509.pdf",
+  "source_sha256": "43b9e33a2eb345ec5ebf88a783c90bb5d6502933037e9569d42b110688f8d163",
+  "text_sha256": "2b58097de54f21b41642b0e744ac3ccf7bee015bb198a9a75c3b9be149c5a0db",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      512,
+      533
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801667.pdf",
+    "source_sha256": "6b6395fb84352039f30357833bdb3405ede04ad60f0dd6a3cd6c7017c4c6acfe",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9408,
+    "bag": 0.8846,
+    "kd_coverage": 0.9625,
+    "kd_body_compared": 0.9277,
+    "rg_words": 79,
+    "kd_words": 83,
+    "own_anchor": false,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
