@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5990",
+  "year": 1952,
+  "title": "Umumi Müfettişlik Teşkiline Dair Kanun ile Ek ve Tadillerinin Yürürlükten Kaldırılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-11-29",
+  "gazette_issue": "8270",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8270.pdf",
+  "source_sha256": "d954ac529c72296ea5bda4a14894e3af38d4b211125cae119d1d0d5a8ca6a934",
+  "text_sha256": "f21c32ea7aace7fcd56e6b6b45a1e49e27e1163002c94afa8c59c250d8ac7b24",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      9,
+      20
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03505990.pdf",
+    "source_sha256": "561cc02b6e77efca42d3eb475f2924b105c797dc895263472a5b8fe2c07b3b08",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9697,
+    "bag": 0.9636,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9643,
+    "rg_words": 56,
+    "kd_words": 56,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
