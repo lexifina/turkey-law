@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5424-202-2191",
+  "source_id": 32008,
+  "date": "2003-01-16",
+  "title": "Bedelin döviz cinsinden ifade edildiği islerde, ödemenin vergiyi doğuran olayın meydana geldiği tarihten sonra yapılması durumunda geç ödeme nedeniyle ortaya çıkacak kur farkı,  esas itibariyle vade farkı mahiyetinde bir unsur olduğundan vergi matrahına d",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32008",
+  "source_sha256": "ef94ffac7956cdf1ce03cf4ddc544b1db88b93449583245cfdb7b6184232fef2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
