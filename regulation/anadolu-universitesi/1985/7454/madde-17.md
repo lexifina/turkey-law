@@ -1,0 +1,1 @@
+Madde 17- Üniversite gerekli gördüğünde, Yaygıneğitim Araştırma ve Uygulama Merkezi için hazırlanan basılı görsel ve işitsel eserleri, ücreti maliyet değerinden aşağı olmamak koşulu ile Yaygıneğitim Araştırma ve Uygulama Merkezi öğrencileri dışında olup da bunlardan yararlanmak isteyenlere satabilir.

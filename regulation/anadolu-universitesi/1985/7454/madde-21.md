@@ -1,0 +1,1 @@
+Madde 21- Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer.

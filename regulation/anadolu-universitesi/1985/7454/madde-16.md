@@ -1,0 +1,1 @@
+Madde 16- Yaygıneğitim Araştırma ve Uygulama Merkezi özellikle basılı öğretim malzemelerini olanaklar ölçüsünde Anadolu Üniversitesi’nin kendi tesislerinde bastırır. Teknik kapasite ve iş hacmi bakımından basılma olanağı bulunmaması ya da ivedi yayınlanması gereken eserler Yayın Komisyonu kararı ile başka matbaalarda dizdirilip bastırılabilir.

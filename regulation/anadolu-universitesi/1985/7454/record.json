@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1985-09-18",
+      "18.09.1985",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "18872",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1985-09-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Anadolu Üniversitesi",
+  "issuer_slug": "anadolu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/anadolu-universitesi/1985/7454",
+  "published": "1985-09-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7454&MevzuatTertip=5",
+  "source_bytes": 33031,
+  "source_id": "8.5.7454",
+  "source_sha256": "7caa6e21dec2cff99b6af4df47ffab19c284f52cad0b9a80e42cab67f5e58a88",
+  "text_status": "as-enacted",
+  "title": "ANADOLU ÜNİVERSİTESİ YAYGIN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YAYIN VE UYGULAMA YÖNETMELİĞİ",
+  "university_id": 179,
+  "word_count": 1476
+}

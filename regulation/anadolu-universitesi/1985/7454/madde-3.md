@@ -1,0 +1,1 @@
+Madde 3- Yaygıneğitim Araştırma ve Uygulama Merkezi Yayın Komisyonu 5 öğretim elemanından oluşur. Bu öğretim elemanları içinden birisi başkan diğeri başkan vekili olarak belirlenmek üzere Rektör tarafından seçilirler. Yayın komisyonu kararlarını oy çokluğu ile verir.

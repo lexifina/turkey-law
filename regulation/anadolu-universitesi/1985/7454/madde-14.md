@@ -1,0 +1,1 @@
+Madde 14- Ders üniteleri, sınav ünite soruları, basılı yardımcı malzeme kitap, dergi, gazete için kabul edilecek eserlerin hazırlanış, sunuş şekli ve esasları ile yine şekle dayanan baskı esaslarını Yayın Komisyonu belirler.
