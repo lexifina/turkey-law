@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4876",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İMAR KANUNUNUN 38 İNCİ MADDESİNDE SAYILAN MÜHENDİSLER, MİMARLAR VE ŞEHİR PLANCILARI DIŞINDA KALAN FEN ADAMLARININ YETKÎ, GÖREV VE SORUMLULUKLARI HAKKINDA YÖNETMELİK",
+  "number": "4876",
+  "issuer": "Milli Eğitim Gençlik ve Spor Bakanı ile Bayındırlık ve İskân Bakanı",
+  "issuer_slug": "milli-egitim-genclik-ve-spor-bakani-ile-bayindirlik-ve-iskan-bakani",
+  "path": "regulation/milli-egitim-genclik-ve-spor-bakani-ile-bayindirlik-ve-iskan-bakani/1985/4876",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4876&MevzuatTertip=5",
+  "source_sha256": "049c9d23d54403c0b5f29ba79320d33bf73a7a9a708cca05ba5b1e4bfcddd844",
+  "source_bytes": 48876,
+  "published": "1985-11-02",
+  "gazette": "18916",
+  "in_force": "1985-11-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.11.1985); own commencement article: \"Bu Yönetmelik 3194 sayılı İmar Kanunu ile birlikte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 3194 sayılı İmar Kanunu ile birlikte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2387,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
