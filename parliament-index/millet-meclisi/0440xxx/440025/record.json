@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 440025,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Isparta Milletvekili Süleyman Demirel ve 213 arkadaşının, TC Anayasasının 68. maddesinin değiştirilmesine ve referandumla kabul edilen geçici 11. maddesinin kaldırılmasına dair Anayasa değişikliği teklifi (2/67)",
+  "title": "Isparta Milletvekili Süleyman Demirel ve 213 arkadaşının, TC Anayasasının 68. maddesinin değiştirilmesine ve referandumla kabul edilen geçici 11. maddesinin kaldırılmasına dair Anayasa değişikliği teklifi (2/67)",
+  "first_sitting_date": "1973-12-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 24,
+      "sitting_date": "1973-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c001/mm__04001024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c001/mm__04001fih.pdf",
+      "pages": [
+        "171"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=1201&v_kullanici_id=27484893",
+  "source_sha256": "8bd681a0ed35b6879d59153664eaf441475a5002d6daa3cd499301e95f1af491",
+  "in_force": "1973-12-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
