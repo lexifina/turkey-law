@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-15/2005-3/Dernek ve Vakıflar-3",
+  "source_id": 1103,
+  "date": "2005-02-22",
+  "title": "Kamuya Yararlı Dernek Statüsünün Alınma Süreci",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1103",
+  "source_sha256": "4b532e5a04e3525c9d3bac745bee583e9960a2525dc979ecf72f9bf3d8d1d2e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
