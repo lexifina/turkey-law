@@ -1,0 +1,2 @@
+Madde 8 – Su taksimi ve sıra işlerinde çeltik ekicileri arasında çıkacak anlaşamamazlık ve dirliksizlikler mutemed heyetleri tarafından düzeltilir. Mutemed heyetleri düzeltmezlerse komisyonlar düzeltir. İhtilaf aynı kanal ve sulardan istifade eden iki veya daha ziyade köylerin mutemed heyetleri arasında çıkarsa bu dirliksizlikler o kaza komisyonu tarafından düzeltilir. İhtilaf başka başka kazalar mutemed heyetleri arasında olursa kanunun üçüncü maddesinde yazılı hükümlere göre hallolunur.
+BÖLÜM 3.

@@ -1,0 +1,2 @@
+Madde 7 – Mutemed heyetleri sularını muayyen zamanlarda kesmiyenleri bir mazbata ile azami 24 saatte çeltik komisyonu başkanlığına bildirirler. Komisyon masrafı çeltik sahibinden alınmak üzere mahallinde tetkikat yaptırır ve kanuni icabları tatbik eder.
+Tayin olunacak su korucuları Memurin Kanununun müstahdem olanlar hakkındaki ahkam ve şartları haiz olmalıdır. Bunların hizmet müddetleri mensub oldukları komisyonlarca tayin edilir.

@@ -1,0 +1,1 @@
+Madde 24 – Çeltikliklerde kullanılan işçilerin sıhhatlerinin korunması için konulan hükümlere aykırı gidenlerden 50 - 100 lira para cezası, birrıza vermiyenlerden hükmen alınır. Tekrarlıyanlardan bu ceza alınmakla beraber bunlara çeltik ekimi yasak edilir. Bu yasak, o sene ve o mevki için muteber olup çeltiğin hangi devirde olursa olsun yok edilmesi demektir.

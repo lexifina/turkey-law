@@ -1,0 +1,1 @@
+Madde 19 – Kanunun 20 nci maddesinde yazılı şartları haiz bataklıklar civarında yapılacak çeltik ekiminden evvel komisyonlar bölgeleri içindeki bu bataklıkların en kurak zamanlardaki köylere olan mesafelerini tesbit ve tayin edeceklerdir.
