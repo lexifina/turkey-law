@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6527-210/7229",
+  "source_id": 26304,
+  "date": "2005-02-15",
+  "title": "Ödeme kaydedici cihaza kullanması zorunlu olan mükelleflerden işyerlerine kendi imkanlarıyla elektrik alabilmelerinin fiilen veya kanunuen mümkün bulunmaması, bu durumun ilgili kurumlardan alınacak yazılarla belgelenmesi ve vergi dairesince yapılacak yokl",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26304",
+  "source_sha256": "b5833236c889cb1155a810c512765bb48204d629964f5a9709b8f97f4d3ed18d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
