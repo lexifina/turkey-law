@@ -1,0 +1,74 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4422",
+  "year": 1943,
+  "title": "1942 malî yılı Muvazenei Umumiye Kanununa bağlı (A) işaretli cetvelde değişiklik yapılmasına dair kanun",
+  "adopted": "1943-05-28",
+  "adopted_as_published": "28/05/1943",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "31.05.1943 No: 5417",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504422.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 25",
+  "committee_reports": [
+    {
+      "label": "TBMM 58 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c002/tbmm07002030ss0058.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 7,
+      "kayit_no": 90049,
+      "title": "1942 malî yılı Muvazenei Umumiye Kanununa bağlı (A) işaretli cetvelde değişiklik yapılmasına dair kanun",
+      "adopted_as_published": "28/05/1943",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504422.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 58 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c002/tbmm07002030ss0058.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 27,
+          "sitting_date": "1943-05-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c002/tbmm07002027.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c002/tbmm07002fih.pdf",
+          "pages": [
+            "190"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 28,
+          "sitting_date": "1943-05-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c002/tbmm07002028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c002/tbmm07002fih.pdf",
+          "pages": [
+            "316:318",
+            "321",
+            "326",
+            "330:333"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=562&v_gelecek_sayfa=401&v_kullanici_id=27483169",
+      "page_sha256": "9ed32dd0e675a8e2490572b4b8d49f43a26d2f69ce5e0832df7992e95e9426a0"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9ed32dd0e675a8e2490572b4b8d49f43a26d2f69ce5e0832df7992e95e9426a0",
+  "issuer": "TBMM",
+  "in_force": "1943-05-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 28/05/1943; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
