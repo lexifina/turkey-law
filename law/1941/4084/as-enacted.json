@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4084",
+  "year": 1941,
+  "title": "Hariçten satın alınan buharlı ve motorlu gemilerle memlekette yapılan mümasilleri için getirtilecek eşyanın gümrük resminden istisnasına dair olan 3339 sayılı kanun hükümlerinin uzatılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-07-10",
+  "gazette_issue": "4856",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4856.pdf",
+  "source_sha256": "33cdb739f441a5c7eb78084835ac0a7233da86e4e6e469e8c0bc9a9c6e46fd34",
+  "text_sha256": "81eebe9679d072dc8cb2065d283f945387d1fa6d9b6f55b5f0feabd0039e7ba0",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      499,
+      511
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204084.pdf",
+    "source_sha256": "80ef694253ee0bdc16aedad8213ce4952499f077d8076d6c65337cfad78ce5aa",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9516,
+    "bag": 0.8661,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9688,
+    "rg_words": 65,
+    "kd_words": 64,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
