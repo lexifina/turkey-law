@@ -1,0 +1,2 @@
+İşaretlerin korunması:
+Madde 6 – İşareterin bulunduğu yerde özel veya kamuya ait bina, yol onarımı, kanalizasyon, su, elektrik, havagazı PTT vs. çalışmaları için gerektiğinde işaret belediye yahut harita ve plan işlerini yapan veya yaptıran kuruluşlarca başka bir yere taşınır ve röperlenir. Sonra bu kuruluşlarca çalışmalara izin verilir. Bu çalışmalar tamamlandıktan sonra, işaret, aynı kuruluşca mümkünse eski yerine, aksi takdirde uygun bir yere taşınır. (Değişik yere taşınan işaretin kot ve koordine hesapları eski sıhatında yapılır.)
