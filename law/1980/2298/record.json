@@ -1,0 +1,352 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2298",
+  "year": 1980,
+  "title": "1980 Yılı Bütçe Kanunu",
+  "adopted": "1980-02-29",
+  "adopted_as_published": "29/02/1980",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.03.1980 No: 16916",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc063/kanuntbmmc063/kanuntbmmc06302298.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 63",
+  "committee_reports": [
+    {
+      "label": "CS 949 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045028ss0949.pdf"
+    },
+    {
+      "label": "MM 400no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014044ss0400.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 445399,
+      "title": "1980 Yılı Bütçe Kanunu",
+      "adopted_as_published": "29/02/1980",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc063/kanuntbmmc063/kanuntbmmc06302298.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 949 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045028ss0949.pdf"
+        },
+        {
+          "label": "MM 400no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014044ss0400.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 13,
+          "sitting": 16,
+          "sitting_date": "1979-12-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c013/mm__05013016.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c013/mm__05013fih.pdf",
+          "pages": [
+            "361"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 44,
+          "sitting_date": "1980-02-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014fih.pdf",
+          "pages": [
+            "2",
+            "5:104"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 45,
+          "sitting_date": "1980-02-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014fih.pdf",
+          "pages": [
+            "112:119"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 46,
+          "sitting_date": "1980-02-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014fih.pdf",
+          "pages": [
+            "183",
+            "259"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 47,
+          "sitting_date": "1980-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014fih.pdf",
+          "pages": [
+            "280:354"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 48,
+          "sitting_date": "1980-02-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014fih.pdf",
+          "pages": [
+            "357:405"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 49,
+          "sitting_date": "1980-02-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014fih.pdf",
+          "pages": [
+            "438:551"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 50,
+          "sitting_date": "1980-02-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014fih.pdf",
+          "pages": [
+            "555:663"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 51,
+          "sitting_date": "1980-02-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015fih.pdf",
+          "pages": [
+            "3:103"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 53,
+          "sitting_date": "1980-02-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015fih.pdf",
+          "pages": [
+            "116:119"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 54,
+          "sitting_date": "1980-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015fih.pdf",
+          "pages": [
+            "213:308"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 55,
+          "sitting_date": "1980-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015fih.pdf",
+          "pages": [
+            "3:598"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 56,
+          "sitting_date": "1980-02-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015fih.pdf",
+          "pages": [
+            "601:639"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 57,
+          "sitting_date": "1980-02-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015057.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c015/mm__05015fih.pdf",
+          "pages": [
+            "664:720",
+            "722:725"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=201&v_kullanici_id=27483225",
+      "page_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 334319,
+      "title": "1980 Yılı Bütçe Kanunu",
+      "adopted_as_published": "29/02/1980",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc063/kanuntbmmc063/kanuntbmmc06302298.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 949 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045028ss0949.pdf"
+        },
+        {
+          "label": "MM 400no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c014/mm__05014044ss0400.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 45,
+          "sitting": 28,
+          "sitting_date": "1980-02-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045fih.pdf",
+          "pages": [
+            "2",
+            "4:31",
+            "51:83",
+            "84:107"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 29,
+          "sitting_date": "1980-02-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045029.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045fih.pdf",
+          "pages": [
+            "110",
+            "185:190"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 30,
+          "sitting_date": "1980-02-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045fih.pdf",
+          "pages": [
+            "203:214",
+            "226:252"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 31,
+          "sitting_date": "1980-02-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045fih.pdf",
+          "pages": [
+            "258:360"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 32,
+          "sitting_date": "1980-02-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045fih.pdf",
+          "pages": [
+            "366:480"
+          ]
+        },
+        {
+          "cilt": 45,
+          "sitting": 33,
+          "sitting_date": "1980-02-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045033.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c045/cs__19045fih.pdf",
+          "pages": [
+            "484:607"
+          ]
+        },
+        {
+          "cilt": 46,
+          "sitting": 34,
+          "sitting_date": "1980-02-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046fih.pdf",
+          "pages": [
+            "3:196"
+          ]
+        },
+        {
+          "cilt": 46,
+          "sitting": 35,
+          "sitting_date": "1980-02-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046fih.pdf",
+          "pages": [
+            "198:304"
+          ]
+        },
+        {
+          "cilt": 46,
+          "sitting": 36,
+          "sitting_date": "1980-02-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046036.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046fih.pdf",
+          "pages": [
+            "306:441"
+          ]
+        },
+        {
+          "cilt": 46,
+          "sitting": 37,
+          "sitting_date": "1980-02-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t19/c046/cs__19046fih.pdf",
+          "pages": [
+            "444:517"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2301&v_kullanici_id=27483235",
+      "page_sha256": "5c956aae333412b6cc932c4b4cee49d823cedecaefdc9e3e0d257694aee83f2d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a063b1055f1aa11faae7ba3527753bed750614ba1dbd9e15da6b7c57e99c063f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1980-02-29",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 29/02/1980; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
