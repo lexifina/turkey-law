@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6001-677/38981",
+  "source_id": 36331,
+  "date": "1999-09-15",
+  "title": "Bankaların kredi kartlarından alış veriş puanına göre verdikleri hediyelerin veraset ve intikal vergisine tabi olup olmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36331",
+  "source_sha256": "e655918204e43e9abde74baf8c2f209b9c4e5a0aeccb10817269eeb25e783640",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
