@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDV-28 /2005-7",
+  "source_id": 956,
+  "date": "2005-02-18",
+  "title": "Siyah zeytin, yeşil zeytin ve herhangi bir katkı maddesi ihtiva etmeyen salamura çizik yeşil zeytinin toptan teslimlerinde %1, perakende teslimlerinde %8, içi biberle, bademle, sarımsakla veya herhangi bir katkı maddesi ile doldurulmuş yeşil zeytin, soslu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/956",
+  "source_sha256": "ab92b8b3d232b802259da1c578c7822ed2efe1e1a6a796abebfa342c93ceb34b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
