@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2923-231-262/10369",
+  "source_id": 26238,
+  "date": "1998-03-18",
+  "title": "Fatura, mal teslimi veya hizmet ifası hallerinde, malın teslimi veya hizmetin yapıldığı andan itibaren Vergi Usul Kanununun 231. maddesinde belirtilen sürede düzenlenmesi gerekmektedir, bu sürede düzenlenmeyen faturalar hiç düzenlenmemiş sayılır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26238",
+  "source_sha256": "0978fd723ab8ba134731286bf45e7a783c830cf000505170f979d3d82e58c566",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
