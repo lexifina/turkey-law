@@ -1,0 +1,80 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 68434,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "HALİL NURİ YURDAKUL (NİĞDE)",
+  "summary": "İskân Kanununun bazı maddelerinin kaldırılmasına, değiştirilmesine ve bu kanuna yeniden bazı madde ve fıkralar ilâvesine dair olan 5098 sayılı Kanunun 12. maddesinin Kaldırılması ve bu kanuna bazı hükümler eklenmesi hakkında (2/22)",
+  "title": "İskân Kanununun bazı maddelerinin kaldırılmasına, değiştirilmesine ve bu kanuna yeniden bazı madde ve fıkralar ilâvesine dair olan 5098 sayılı Kanunun 12. maddesinin Kaldırılması ve bu kanuna bazı hükümler eklenmesi hakkında (2/22)",
+  "first_sitting_date": "1950-07-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 16,
+      "sitting_date": "1950-07-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c001/tbmm09001016.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c001/tbmm09001fih.pdf",
+      "pages": [
+        "331:332"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 97,
+      "sitting_date": "1951-07-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009097.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009fih.pdf",
+      "pages": [
+        "5"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 106,
+      "sitting_date": "1951-07-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009106.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009fih.pdf",
+      "pages": [
+        "408"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 107,
+      "sitting_date": "1951-08-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009107.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009fih.pdf",
+      "pages": [
+        "458:468"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 108,
+      "sitting_date": "1951-08-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009108.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c009/tbmm09009fih.pdf",
+      "pages": [
+        "518:519"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "555604dda282c42205f06264f4a6787a058363142410d2715c57d15886de06de",
+  "in_force": "1950-07-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
