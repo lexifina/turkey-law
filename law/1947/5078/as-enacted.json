@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5078",
+  "year": 1947,
+  "title": "Subaylar Heyetine Mahsus Terfi Kanununun 4460 sayılı Kanunla değişen 10. maddesinde değişiklik yapılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-06-20",
+  "gazette_issue": "6637",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6637.pdf",
+  "source_sha256": "8192942561eb787ae68bea7ea5221b63bc844332071e85387a46249aef329e47",
+  "text_sha256": "cd3a7e2ca935b87cc6419055b8141e9b65407453f3e42d2448b853540c6da020",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      91,
+      152
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1, 2] (no text layer)",
+    "tesseract_pages": [
+      1,
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905078.pdf",
+    "source_sha256": "24d65da404ea7d87354253486ee1ec0fd886917231240e81c710cf1e8df40466",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9542,
+    "bag": 0.8461,
+    "kd_coverage": 0.9904,
+    "kd_body_compared": 0.9856,
+    "rg_words": 413,
+    "kd_words": 418,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
