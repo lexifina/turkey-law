@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2002/4506",
+  "source_id": 1847,
+  "date": "2002-07-30",
+  "title": "GİDER VERGİLERİ KANUNUNUN DEĞİŞİK 33 ÜNCÜ MADDESİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/bkk/1847",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "01c3519b192283e0100d5fb80666ff3b113d1ada38b8d585ee756961eb4b500b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
