@@ -1,0 +1,1 @@
+<TABLE WIDTH="750"><TR><TD><B><U><span SIZE=2>Karar Sayısı: 94/5380</span></U></B><br/><P><B><span SIZE=2>(Karar metni tarih ve sayılar hariç 2.3.1995 gün ve 95/6616 sayılı Bakanlar Kurulu Kararı ile aynıdır. Kararname eki bildirim ve form örnekleri 95/6616 sayılı B.K.K.nın örneklerinin aynı olup 1994 yılı içinde kullanılabilir.)</span></B></TD></TR><br/></TABLE><br/>
