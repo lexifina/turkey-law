@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "B.07.0.GEL.0.71/7100-79",
+  "source_id": 720,
+  "date": "2002-02-14",
+  "title": "2002/4 Seri No.lu Uygulama İç Genelgesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/icgenelge/720",
+  "source_sha256": "ec5c52edde8937adee064cb25ad6a128deafb457e40fabbe0313ed11491cad12",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
