@@ -1,0 +1,5 @@
+İthalat ve İhracat İşlemlerinde Aranacak Diğer Belgeler
+MADDE 9- Yukarıda belirtilen ithalat ve ihracat belgelerinin onaylanabilmesi ve/veya düzenlenebilmesi için gerekli olan diğer bilgi ve belgeler, kılavuzda gösterilir.
+Başvuru sahibinin ilk başvurusu ise, Bakanlıkça yapılacak/yaptırılacak, yerinde denetim de dahil olmak üzere, inceleme, araştırma ve değerlendirme neticesinde, başvuru sahibinin söz konusu kontrole tabi kimyasal maddeyi beyan ettiği ithalat amacı dışında kullanmayacağına kanaat getirilir ve bildirilen faaliyetlerini yürütmeye yeterli personel, ekipman ve donanımına sahip olduğu tespit olunur ise, Bakanlıkça, ithalat için gerekli belgeler düzenlenir/onaylanır.
+Kaçakçılık ve/veya yasadışı uyuşturucu trafiğine ilişkin herhangi bir suçtan sabıkası bulunan gerçek kişiler ile bunların kurucusu, yöneticisi ya da ortağı bulunduğu tüzel kişilere ithalat ve/veya ihracat izni verilmez.
+Belirtilen suçlarla ilgili olarak haklarında açılmış adli kovuşturma ya da dava bulunan kişilere de, haklarında takipsizlik ya da beraat kararı verilinceye kadar ithalat ve/veya ihracat onayı verilmez.

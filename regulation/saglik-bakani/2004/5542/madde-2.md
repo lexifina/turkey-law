@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- Bu Yönetmelik, yukarıda belirtilen amaç çerçevesinde , kontrole tabi kimyasal madde/prekürsörler ile, bunların, yüzde oranları herhangi bir limitle sınırlandırılmaksızın kolaylıkla izole edilerek çıkartılıp kullanımlarına imkan veren her türlü karışımlarının üçüncü bir ülkeye gidişleri esnasında, Türkiye’den transit sevkıyatları ile serbest bölgelere giriş ve çıkışları da dahil olmak üzere ithalat ve ihracatları ile Türkiye’deki ticari ve ticari olmayan tüm hareketlerinin denetimini kapsar.

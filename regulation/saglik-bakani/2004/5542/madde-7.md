@@ -1,0 +1,2 @@
+Son Kullanıcı Beyannamesi
+MADDE 7- Kontrole tabi kimyasal madde/prekürsörlerin bedelli/bedelsiz hareketlerinin konu olduğu her işlemde, formatı Bakanlık tarafından belirlenen Son Kullanıcı Beyannamesi, bir sonraki operatörden temin edilerek bir önceki operatör tarafından, denetimi kolaylaştırıcı gerekli tedbirler alınmış sistematik bir düzen içerisinde Bakanlıkça talep edildiği zaman ibraz etmek ve/veya yerinde görülmek üzere beş yıllık bir süre saklanması zorunludur.

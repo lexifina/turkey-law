@@ -1,0 +1,3 @@
+Kontrole Tabi Kimyasal Maddelerin Transiti
+MADDE 12- İlgili gümrük idarelerince, transit rejiminde bulunan maddeler için çıkış ve varış ülkeleri tarafından düzenlenmiş belgeler aranır.
+Türkiye gümrük sahalarına operatör tarafından getirilmiş olup, ithalatı gerçekleştirilmemiş olan ancak daha sonra transit rejimine konu olan kontrole tabi kimyasal madde/prekürsörlerin, Bakanlık adına açılmış transit beyannameleri örnekleri ve varış ülkesi yetkili makamınca düzenlenmiş izin belgeleri örneklerinin gönderilmesi suretiyle bu Yönetmelik kapsamı çerçevesinde uygun görülmesi halinde, üçüncü bir ülkeye gidişi mümkündür.

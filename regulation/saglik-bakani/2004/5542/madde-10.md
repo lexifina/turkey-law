@@ -1,0 +1,2 @@
+Yurt İçi Permi
+MADDE 10- Bir distribütör adına düzenlenmiş Kontrole Tabi Maddelerin İthaline Mahsus Ruhsatname-Uluslararası İthalat Permisine istinaden getirilmiş bulunan kimyasal madde/prekürsörü, gümrükte devir almak suretiyle bedelli/bedelsiz alacak operatör, bu Yönetmeliğin 9 uncu maddesinde belirtilen şekilde Bakanlığa başvuruda bulunur. Bakanlıkça gerekli incelemeler yapılarak uygun görülmesi halinde gerekli belgeler düzenlenir/onaylanır.

@@ -1,0 +1,5 @@
+İhracat İşlemleri
+MADDE 8 - Kontrole tabi kimyasal maddeler/prekürsörlerin ihracatı, Bakanlık tarafından düzenlenecek Kontrole Tabi Maddelerin İhracına Mahsus Ruhsatname- İhraç Permisi’nin ilgili gümrük idaresine ibraz edilmek suretiyle operatör tarafından gerçekleştirilir.
+İhracatı gerçekleştirilen kontrole tabi kimyasal madde/prekürsörün ihracına ilişkin gümrük çıkış beyannameleri örnekleri ile birlikte Kontrole Tabi Maddelerin İhracına Mahsus Ruhsatname-İhraç Permisinin D Nüshasının ihracatın gerçekleşmesini takiben 15 gün içerisinde, adına belge tanzim edilmiş sorumlu gerçek ve/veya tüzel kişi tarafından Bakanlığa ulaştırılması zorunludur.
+İhracatı gerçekleştirilen kontrole tabi kimyasal madde/prekürsörün sarfiyat ve stoklarına ilişkin bilgi ve belgeler, Bakanlığa gönderilir.
+İhracatçı kontrole tabi kimyasal madde/prekürsörlerle ilgili olarak saklanması zorunlu olan belgelerin tümünü, denetimi kolaylaştırıcı sistematik bir düzen içerisinde Bakanlıkça talep edildiği zaman ibraz etmek ve/veya yerinde görülmek üzere 5 yıl süreyle muhafaza eder.

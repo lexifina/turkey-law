@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Pazara Sunumun İzlenmesi
+Belgelendirme ve Etiketleme
+MADDE 5- Kontrole tabi kimyasal madde/prekürsörlerin bulunduğu ambalajlar, üreticisi tarafından, ticari adının yanı sıra kontrole tabi kimyasal madde/prekürsörlerin tam kimyasal adı, ağırlığı/hacmi, karışım olduğu takdirde karışımda yer alan kontrole tabi kimyasal madde/prekürsörlerin yüzde oranı ve ambalaj içerisinde bu orana karşılık gelen ağırlığı/hacmi, üreticiye ait bilgiler, üretim tarih ve serisini gösterir bilgiler, işaretler ,uyarıcı bilgiler ve üretici firmanın uygun bulacağı diğer ifadelerin de bulunduğu etiketlerle tanımlanır.
+Etiketler ambalajlar üzerinden herhangi bir şekilde kolayca çıkarılabilir nitelikte olmamalıdır.
+Kontrole tabi kimyasal madde/prekürsörlerin yurtiçinde herhangi bir şekilde üretiminin vaki olması halinde, bu maddelerin piyasaya sürülmesine ve/veya üreticisi tarafından faaliyetlerinde kullanılmasına ilişkin tüm işlemler belgelendirilmiş olacaktır.
+Özellikle fatura, kargo manifestosu, idari belgeler, nakliye, depolama, söz konusu maddelere ve bu maddelerin kullanıldığı ürüne ait üretim raporları ve diğer ticari belgeler, operatör tarafından denetimi kolaylaştırıcı gerekli tedbirler alınmış sistematik bir düzen içerisinde Bakanlıkça talep edildiği zaman ibraz etmek ve/veya yerinde görülmek üzere işlemin yapıldığı takvim yılının bitiminden itibaren beş yıllık bir süre için muhafaza edilmek zorundadır.
+Yurtdışından ithal edilmiş olan kontrole tabi kimyasal madde/prekürsörlerin, yurtiçinde yeniden ambalajlanarak satışa sunulması ayrıca izne tabidir ve yukarıda belirtilen etiketleme bilgilerinde yapılan işlemlere ilişkin kayıtlar da yer almalıdır.

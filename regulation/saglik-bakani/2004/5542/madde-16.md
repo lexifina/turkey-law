@@ -1,0 +1,2 @@
+Uyumlaştırılan Avrupa Birliği Mevzuatı:
+MADDE 16- Bu Yönetmelik, Avrupa Birliğinin Narkotik ve Psikotrop Maddelerin Yasa Dışı Üretiminde Kullanılan Belli Maddelerin Üretilmesi ve Piyasaya Sürülmesi İle İlgili 92/109/EEC Sayılı Konsey Direktifi ve Narkotik ve Psikotrop Maddelerin Yasadışı Üretiminde Kullanılan Belli Maddelerin Özel Kullanımına İlişkin Müşteri Bildirimleri Hakkında ve 92/109/EEC Sayılı Konsey Direktifinin Uygulanması Amacıyla Ayrıntılı Kurallar Belirleyen 1485/96/EC Sayılı Komisyon Tüzüğüne paralel olarak hazırlanmıştır.
