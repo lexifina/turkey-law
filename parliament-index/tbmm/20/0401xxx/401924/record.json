@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 401924,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Türk Otomobil Fabrikaları A.Ş. (TOFAŞ) ile TOFAŞ Oto Ticaret A.Ş.'ndeki devlete ait hissenin satış yolu ile özel leştirilmesi sırasında nüfuzunu kullanmak ve ihaleye fesat karıştırmak suretiyle devleti zarara uğratarak görevini kötüye kullandığı ve bu eyleminin Türk Ceza Kanununun 240 ve 366. maddelerine uyduğu iddiasıyla eski Başbakan Tansu Çiller hakkında Meclis soruşturması açılmasına ilişkin önergesi ve (9'3) esas numaralı Meclis Soruşturması Komisyonu Raporu",
+  "title": "Türk Otomobil Fabrikaları A.Ş. (TOFAŞ) ile TOFAŞ Oto Ticaret A.Ş.'ndeki devlete ait hissenin satış yolu ile özel leştirilmesi sırasında nüfuzunu kullanmak ve ihaleye fesat karıştırmak suretiyle devleti zarara uğratarak görevini kötüye kullandığı ve bu eyleminin Türk Ceza Kanununun 240 ve 366. maddelerine uyduğu iddiasıyla eski Başbakan Tansu Çiller hakkında Meclis soruşturması açılmasına ilişkin önergesi ve (9'3) esas numaralı Meclis Soruşturması Komisyonu Raporu",
+  "first_sitting_date": "1997-02-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 57,
+      "sitting_date": "1997-02-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c020/tbmm20020057.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c020/tbmm20020fih.pdf",
+      "pages": [
+        "406:423",
+        "426:430"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=481&v_gelecek_sayfa=101&v_kullanici_id=27484473",
+  "source_sha256": "bf5c2a6b2b891156d83e1d6af32a79bd887fc9288e1ab91ca4a00c76cb685de7",
+  "in_force": "1997-02-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
