@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-27",
+  "issue": "25740",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Tebliğler",
+  "title": "2005 Yılı Ocak Ayında Verilen Belgeler ve Yararlandırılan Teşvik Unsurları Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050227-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050227.htm",
+  "index_sha256": "9bcbad7e9f286a0d4dd092069d29f71da5d2df84c7c10b9253b3a2c895b63b5a",
+  "index_header": "27 Şubat 2005 ... Sayı : 25740",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
