@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.6135",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2004 MALİ YILI BÜTÇE UYGULAMA TALİMATI (SIRA NO: 10) (TEDAVİ YARDIMI)",
+  "number": "6135",
+  "path": "teblig/2004/6135",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6135&MevzuatTertip=5",
+  "source_sha256": "1d1d7949e619190c2c522186d7fc5f1dbc1157830e5eb1a5887ca1f931f53df7",
+  "source_bytes": 29760,
+  "published": "2004-07-04",
+  "gazette": "25512",
+  "in_force": "2004-07-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.07.2004); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 691,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
