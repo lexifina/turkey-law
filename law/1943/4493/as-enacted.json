@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4493",
+  "year": 1943,
+  "title": "Devlet Memurları Aylıklarının Tevhit ve Teadülüne dair 3656 sayılı Kanunla bu kanuna ek 3888 sayılı kanuna bağlı cetvellerin Nafıa Vekâleti kısmında değişiklik yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-09-22",
+  "gazette_issue": "5514",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5514.pdf",
+  "source_sha256": "9de1784db2e9eb30ffeaa39d2ddcbf8a1b86685c1f2d4a88a6f5493b2558f955",
+  "text_sha256": "b9aa2fb997898394b36c3bc3d04b55c2184f67f785988d218ed0cb215d122e72",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      257,
+      318
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504493.pdf",
+    "source_sha256": "5066f781d354ac5315c5299266123a4e3585627e5fd8d6af0ca9d33b8a252792",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9256,
+    "bag": 0.8791,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 178,
+    "kd_words": 186,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
