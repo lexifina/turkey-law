@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 128376,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Tütün alım ve satım muamelesinin Kantariye Resminden istisnası hakkında.",
+  "title": "Tütün alım ve satım muamelesinin Kantariye Resminden istisnası hakkında.",
+  "first_sitting_date": "1927-04-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 31,
+      "sitting": 48,
+      "sitting_date": "1927-04-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/tbmm02031048.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/ehttbmm02031048.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/tbmm02031fih.pdf",
+      "pages": [
+        "4"
+      ]
+    },
+    {
+      "cilt": 32,
+      "sitting": 66,
+      "sitting_date": "1927-05-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/tbmm02032066.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/ehttbmm02032066.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c032/tbmm02032fih.pdf",
+      "pages": [
+        "102",
+        "161:167",
+        "385",
+        "457:459"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1019&v_gelecek_sayfa=801&v_kullanici_id=27483741",
+  "source_sha256": "1f03ee5c84d93a38704ca598438539febbeb54961d2693d78c7c4a71fa310f51",
+  "in_force": "1927-04-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
