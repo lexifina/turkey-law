@@ -1,0 +1,13 @@
+Çalışma Alanı
+Madde 2- a) Dünya ve Yurdumuz bitkilerinin canlı olarak yetiştirildiği ve teşhir edildiği Botanik Bahçesi ile dünyadaki ve yurdumuzdaki doğal bitkilerin kurutulmuş örneklerinin saklandığı herbaryum birimlerine hizmet vermek,
+b) Türkiye bitkileri ve bitki örtüsü ile ilgili çeşitli alanlarda bilimsel araştırma yapmak, materyal toplamak, bunlardan teşhir ve değişim koleksiyonları meydana getirmek, yurt içi ve dışı benzer koşullarla materyal ve personel değişimi yaparak, karşılıklı bilimsel işbirliğinde bulunmak,
+c) Süleyman Demirel Üniversitesi Orman, Ziraat, Fen-Edebiyat Fakülteleri’nin ilgili bölümlerindeki lisans ve lisansüstü öğretim programlarında yer alan ders ve uygulamalara materyal ve çalışma alanı sağlamak,
+d) Merkezin çalışma alanında araştırma ve uygulamalar yapacak öğretim elemanı ve öğrenci yetiştirilmesini teşvik etmek,
+e) Araştırma ve uygulamaları teşvik etmek ve yapılan çalışmaları duyurmak amacı ile seminer, kurs ve konferanslar düzenlemek, gerektiğinde bu çalışmalarla ilgili sertifikalar vermek,
+f) Merkezin ilgili alanına giren konularda görgü ve bilgiyi artırmak için kısa veya uzun süreli yurt içine ve yurt dışına eleman göndermek veya davet etmek,
+g) Çiçekli ve çiçeksiz bitkiler üzerinde yapılan araştırmalara yardımcı olmak amacı ile uluslar arası kurallara uygun herbaryumların hazırlanmasını sağlamak,
+h) Doğada yayılış gösteren faydalı, zararlı veya ekonomik değeri olan bitkilerle ilgili bilimsel çalışmalar yapmak ve bunların ekonomiye aktarılmasına çaba sarf etmek,
+i) Tohum katalogları hazırlayarak, dünya botanik bahçeleri ve herbaryum merkezleri ile bilimsel ilişkileri sürdürmek,
+j) Resmi ve özel kuruluşlarla protokoller çerçevesinde işbirliği yaparak (Isparta Valiliği Özel İdaresi ve Isparta Belediyesi vb.); merkeze bağlı olarak doğal bitki yetiştirme alanları geliştirilerek ve doğal bitki örtüsü zenginliğini koruyarak, yurdumuzun zengin bitki çeşitliliğinin ve nesli kaybolmakta olan bitkilerin korunması hususunda çalışmalar yapmak ve ülkemize gelen ziyaretçilere tanıtım faaliyetlerine bulunarak ülkemiz turizmine katkı sağlamak,
+k) Danışmanlık hizmetleri vermek, bitki temininde çeşitli kurumlarla işbirliği yapmak,
+l) Merkezin kuruluş amacına ve Yükseköğretim Kanunu’nun amaç ve ilkelerine uygun diğer çalışmaları yapmak,
