@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "803",
+  "year": 1926,
+  "title": "Tütün tohumu ihracının meni hakkında Kanun",
+  "adopted": "1926-04-07",
+  "adopted_as_published": "07/04/1926",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "22.04.1926 No: 353",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc004/kanuntbmmc004/kanuntbmmc00400803.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 4",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 126681,
+      "title": "Tütün tohumu ihracının meni hakkında Kanun",
+      "adopted_as_published": "07/04/1926",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc004/kanuntbmmc004/kanuntbmmc00400803.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 20,
+          "sitting": 24,
+          "sitting_date": "1925-12-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c020/tbmm02020024.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c020/ehttbmm02020024.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c020/tbmm02020fih.pdf",
+          "pages": [
+            "125"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 77,
+          "sitting_date": "1926-03-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c023/tbmm02023077.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c023/ehttbmm02023077.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c023/tbmm02023fih.pdf",
+          "pages": [
+            "340"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 81,
+          "sitting_date": "1926-04-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c024/tbmm02024081.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c024/ehttbmm02024081.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c024/tbmm02024fih.pdf",
+          "pages": [
+            "8"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 84,
+          "sitting_date": "1926-04-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c024/tbmm02024084.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c024/ehttbmm02024084.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c024/tbmm02024fih.pdf",
+          "pages": [
+            "72"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=501&v_kullanici_id=27483145",
+      "page_sha256": "c919e85439b80296e5287ae04644ae3fd7332fc8d54dc1f2597a7a22034472c5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "c919e85439b80296e5287ae04644ae3fd7332fc8d54dc1f2597a7a22034472c5",
+  "issuer": "TBMM",
+  "in_force": "1926-04-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 07/04/1926; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
