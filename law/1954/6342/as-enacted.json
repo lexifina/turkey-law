@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6342",
+  "year": 1954,
+  "title": "2/3 Ağustos 1944 Tarihinden Evvel Alman Kliring Hesabına Yatırılmış Olan Avansların İadesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-17",
+  "gazette_issue": "8660",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8660.pdf",
+  "source_sha256": "a1f0ad46a1e8a44dd0700328a6f9b4ac9f7369905f12338296af6a30384b4c01",
+  "text_sha256": "5274737f684a4c2d0497244b67407f1201e2e0b283dcf48d99bf42664863ce1c",
+  "text_status": "ocr",
+  "pages": [
+    6,
+    7
+  ],
+  "line_span": [
+    [
+      2227,
+      2257
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606342.pdf",
+    "source_sha256": "7df76fbe8cfe47ca6c0e00f8bc3a1b979fdbffa88b8b0eb72f7bdacaef5add23",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.951,
+    "bag": 0.8971,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8978,
+    "rg_words": 183,
+    "kd_words": 186,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
