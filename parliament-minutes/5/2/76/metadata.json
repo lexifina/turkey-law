@@ -1,0 +1,19 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 5,
+  "term_label": "5. Dönem",
+  "legislative_year": 2,
+  "cilt": 12,
+  "sitting": 76,
+  "label": "76. Birleşim",
+  "sitting_date": "1936-06-09",
+  "date_as_published": "09 Haziran 1936",
+  "weekday": "Salı",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c012/tbmm05012076.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c012/tbmm05012fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d05&v_yasama_yili=2&v_cilt=",
+  "source_sha256": "ab81d0188c88df27d546d359981104992504a9f4e2b83cdb002a95574cd25e11",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
