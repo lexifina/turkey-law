@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4623",
+  "year": 2001,
+  "title": "Kötü Şartlardaki Çocuk İşçiliğinin Yasaklanması ve Ortadan Kaldırılmasına İlişkin Acil Önlemler Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-02-03",
+  "gazette_issue": "24307",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/02/20010203.htm",
+  "source_sha256": "3ac792012f3aeb3327d5cbfdbf2bd0f3f2f3c5a90bedc22aeb12978abbe8f062",
+  "text_sha256": "73544751b2bef6f18b4da8a405379d2eca351f47645f8a603a23ba7cd4130529",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/02/03/24307-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/02/20010203.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
