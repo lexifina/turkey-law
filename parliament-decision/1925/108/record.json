@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "108",
+  "year": 1925,
+  "title": "108 sayılı Karar",
+  "adopted": "1925-02-02",
+  "adopted_as_published": "02/02/1341",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc003/karartbmmc003/karartbmmc00300108.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 3",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 127168,
+      "title": "108 sayılı Karar",
+      "adopted_as_published": "02/02/1341",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc003/karartbmmc003/karartbmmc00300108.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 13,
+          "sitting": 45,
+          "sitting_date": "1925-02-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c013/tbmm02013045.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c013/ehttbmm02013045.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c013/tbmm02013fih.pdf",
+          "pages": [
+            "59",
+            "61"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=372&v_gelecek_sayfa=101&v_kullanici_id=27483257",
+      "page_sha256": "e228901ad6f11a656cd8327e2a875df29e22fcf072a936eb1281e63ea2dfb591"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e228901ad6f11a656cd8327e2a875df29e22fcf072a936eb1281e63ea2dfb591",
+  "issuer": "TBMM",
+  "in_force": "1925-02-02",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 02/02/1341 (Rumi year, +584); record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
