@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7424",
+  "year": 1960,
+  "title": "İnhisarlar Umum Müdürlüğü Mütedavil Sermayesinin (750) milyon liraya çıkarılması hakkında Kanını",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-02-13",
+  "gazette_issue": "10431",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10431.pdf",
+  "source_sha256": "36b9427730e510a725bd601847e8a482ed45b776b8bc842023ae97caca6c1a6a",
+  "text_sha256": "d53b5e3468bf6294d373efccadac6e89489b0075c2de656dee9300dc8fe983a9",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      35
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/kanuntbmmc042/kanuntbmmc04207424.pdf",
+    "source_sha256": "72060b58b1f25f9a329cc380940a49b695a1d4449fb9a711c6273da93b2408c7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9871,
+    "bag": 0.895,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9783,
+    "rg_words": 91,
+    "kd_words": 92,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
