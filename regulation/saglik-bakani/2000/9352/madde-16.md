@@ -1,0 +1,4 @@
+Yıllık eğitim plan ve programları
+Madde 16- Bakanlık halkın sağlık eğitim plan ve programları; koordinasyon birimi olan Sağlık Eğitimi Genel Müdürlüğü’nce, 5 yıllık kalkınma planı ve yıllık programlar doğrultusunda, merkez birimlerinin merkez ve taşra teşkilatlarından sağlayacağı bilgiler, raporlar, teklifler dikkate alınarak yıllık olarak hazırlanır, teknik ve yönlendirme kurulunda görüşüldükten sonra " Bakanlık Makam Onayı" ile uygulamaya konulur.
+Yıllık halkın sağlık eğitim planında ; tarih,süre,yer,konu, amaç,katılacak kişi ve sayıları, eğitim görevlileri,eğitim yöntemleri,eğitim materyali, işbirliği yapılacak kişi ve kurumlar belirlenir.
+Eğitim programının içeriğinin belirlenmesi durumunda, ihtiyaç halinde çalışma grupları oluşturulabilir. Yıllık eğitim planı onaylandıktan sonra eğitim programlarının başlayacağı tarihten en az 1 ay önce ilgili birimlere bildirilir.
