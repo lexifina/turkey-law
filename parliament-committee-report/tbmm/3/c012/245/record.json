@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "245",
+  "label": "TBMM 245 no'lu Komisyon Raporu",
+  "title": "Amenajman ve teşçir işlerinde müstahdem memurini fenniyeye verilecek yevmiyeler hakkında kanun",
+  "document_date": "1929-06-02",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 12, birleşim 75)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c012/tbmm03012075ss0245.pdf",
+  "pdf_sha256": "0f37f9166526bb2669d14a005068f08a37fac1aa129821a011f9ea5bfddce6d7",
+  "pdf_bytes": 148845,
+  "pdf_pages": 2,
+  "index_entries": [
+    120344
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=2&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1929-06-02",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
