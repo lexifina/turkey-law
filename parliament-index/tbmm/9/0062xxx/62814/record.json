@@ -1,0 +1,72 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 62814,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Beden Terbiyesi Genel Müdürlüğü 1952 yılı Bütçe kanunu tasarısı (1/271)",
+  "title": "Beden Terbiyesi Genel Müdürlüğü 1952 yılı Bütçe kanunu tasarısı (1/271)",
+  "first_sitting_date": "1951-12-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 12,
+      "sitting_date": "1951-12-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c011/tbmm09011012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c011/tbmm09011fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 41,
+      "sitting_date": "1952-02-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013041.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013fih.pdf",
+      "pages": [
+        "312"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 52,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013052.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013fih.pdf",
+      "pages": [
+        "933:944",
+        "949:952",
+        "998:1000",
+        "1005",
+        "1012"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 53,
+      "sitting_date": null,
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013053.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c013/tbmm09013fih.pdf",
+      "pages": [
+        "1090:1093"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=966&v_gelecek_sayfa=201&v_kullanici_id=27484167",
+  "source_sha256": "fba4362beb41dc6ad9461a125c536fdc39da598612ad34836281bb1ff427b419",
+  "in_force": "1951-12-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
