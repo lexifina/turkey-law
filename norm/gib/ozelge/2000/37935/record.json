@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2922-230-1062/55150",
+  "source_id": 37935,
+  "date": "2000-11-23",
+  "title": "Satılan mallara ilişkin faturanın bilgisayar aracılığı ile düzenlenip düzenlenemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37935",
+  "source_sha256": "1635f15650636f9ead183dbf77ca012e69396432b5fb5a56eebc208730da7b37",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
