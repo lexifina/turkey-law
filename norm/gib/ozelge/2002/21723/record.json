@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-32372/36212",
+  "source_id": 21723,
+  "date": "2002-08-28",
+  "title": "Teşvik Belgesine uygulanacak yatırım indirimi oranı hakkında...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21723",
+  "source_sha256": "e2e61711525a66e9081ffcc85824f3ced98668484b9d701992753a71fc30af92",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
