@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4846",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Polonya Cumhuriyeti Hükümeti Arasında Uluslararası Karayolu Taşımacılığı Anlaşmasının Tadiline İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-04-15",
+  "gazette_issue": "25080",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/04/20030415.htm",
+  "source_sha256": "4ef151b7aa4a49cce2a5de78312642b65c5c9cfcac39be3dc7b6fd83c1d8659c",
+  "text_sha256": "32ac15b00537f9bf36b7df6bc7acd9f40206e8e26682f278b2b307a709b4ea1e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/04/15/25080-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/04/20030415.htm#9",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
