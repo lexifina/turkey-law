@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4402-151/22394",
+  "source_id": 21038,
+  "date": "2000-05-11",
+  "title": "Gerçek ve tüzel kişilerin mallarını iş akdi ile bağlı olmaksızın bunlar adına kapı kapı dolaşmak suretiyle tüketiciye satanlar diğer şartlarla sınırlı olmaksızın gelir vergisinden muaftır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21038",
+  "source_sha256": "b698c2c8eb64ee65f1b332850e8384b1a6641581cf12a372c71ce3b0646bdc8e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
