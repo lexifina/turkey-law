@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5711-526 /013127",
+  "source_id": 38019,
+  "date": "2005-03-22",
+  "title": "Döviz alım belgesinin aranıldığı işlemlere ilişkin katma değer vergisi iadelerinde, 4389 sayılı Bankalar Kanunu hükümlerine göre faaliyette bulunan bankalar veya özel finans kurumlarınca düzenlenmiş döviz alım belgesi aslı veya ilgili banka ya da özel fin",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38019",
+  "source_sha256": "802a04c5023d31e432e3db0a91e1fe9bd67cf010bc213df36cd106c9d1ef0215",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
