@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-25/2004-17/Gayrimenkul Sermaye İradı 1",
+  "source_id": 632,
+  "date": "2004-07-09",
+  "title": "Yargı kararlarına göre tahsil edilen kira ve faiz gelirlerinin vergilendirilmesi ile yapılan incelemeler sonucu tarh edilecek geçici vergi tutarının hesaplanması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/632",
+  "source_sha256": "a9b91bf08156a9644ccad6d5c3e41cd162b26f0ed3fd95667727a8f9672b4a9f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
