@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7152",
+  "year": 1958,
+  "title": "6290 numaralı Kanuna ekli Gümrük giriş tarife cetvelinin 49. faslının 49.11 pozisyonunda tâli pozisyon açılmasına mütedair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-07-04",
+  "gazette_issue": "9946",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9946.pdf",
+  "source_sha256": "369750a538e93f2a22332b5ca0eb7df48d6d7842637720a20623c4eb5e8e6b13",
+  "text_sha256": "6514c3d23e3d3db499bf87cbf97af1f81323a07b570c150fc36390dd4f552242",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      247,
+      268
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007152.pdf",
+    "source_sha256": "ecf0c54ca1b635bab6ee82bd72b406ac8ed57f8239953a4a7fd7741f59af7dde",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9806,
+    "bag": 0.7974,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.7,
+    "rg_words": 76,
+    "kd_words": 110,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
