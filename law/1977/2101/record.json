@@ -1,0 +1,100 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2101",
+  "year": 1977,
+  "title": "1543 sayılı Genel Nüfus Sayımı Kanununun 1. ve 1587 sayılı Nüfus Kanununun da 62. maddesinin değiştirilmesi hakkında Kanun",
+  "adopted": "1977-08-15",
+  "adopted_as_published": "15/08/1977",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "24.08.1977 No: 16037",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc061/kanuntbmmc061/kanuntbmmc06102101.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 61",
+  "committee_reports": [
+    {
+      "label": "MM 332 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c026/mm__04026066ss0332.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 441500,
+      "title": "1543 sayılı Genel Nüfus Sayımı Kanununun 1. ve 1587 sayılı Nüfus Kanununun da 62. maddesinin değiştirilmesi hakkında Kanun",
+      "adopted_as_published": "15/08/1977",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc061/kanuntbmmc061/kanuntbmmc06102101.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 332 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c026/mm__04026066ss0332.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "7a740f64a552447b8129a88f3d2f4df24e0d020a643e9dcd5d7789377fc9d296"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 328993,
+      "title": "1543 sayılı Genel Nüfus Yazımı Kanununun 1 nci ve 1587 sayılı Nüfus Kanununda 62 nci maddesinin değiştirilmesi hakkında Kanun (Cumhuriyet Senatosunda görüşülmeden kanunlaştı)",
+      "adopted_as_published": "15/08/1977",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc061/kanuntbmmc061/kanuntbmmc06102101.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 332 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c026/mm__04026066ss0332.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 32,
+          "sitting": 46,
+          "sitting_date": "1977-03-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032fih.pdf",
+          "pages": [
+            "338"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 47,
+          "sitting_date": "1977-03-31",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c032/cs__16032fih.pdf",
+          "pages": [
+            "378"
+          ]
+        },
+        {
+          "cilt": 33,
+          "sitting": 73,
+          "sitting_date": "1977-08-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c033/cs__16033073.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t16/c033/cs__16033fih.pdf",
+          "pages": [
+            "188"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2101&v_kullanici_id=27483235",
+      "page_sha256": "5968d4b2c253a1860b028e1dc7851eac90ae7fee6ea9ef01b19c36bdc0393519"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "7a740f64a552447b8129a88f3d2f4df24e0d020a643e9dcd5d7789377fc9d296",
+  "issuer": "Millet Meclisi",
+  "in_force": "1977-08-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 15/08/1977; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
