@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5317-1704-/36632",
+  "source_id": 31959,
+  "date": "1998-10-13",
+  "title": "Organize Sanayi Bölgesi ile Küçük Sanayi Sitelerince oluşturulan işletmelerin kanalizasyon, yol, su ve haberleşme gibi faaliyetlerin K.D.V.ne tabi olacaktır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31959",
+  "source_sha256": "b458e432eafa05e41c46d08bf5d0d6f157a13ca04666c96e67b49b8b76fe16c5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
