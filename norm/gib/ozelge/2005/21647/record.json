@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.46/4600-/003362",
+  "source_id": 21647,
+  "date": "2005-01-25",
+  "title": "Vergi indiriminden faydalanabilmek için vergi kanunlarına göre öngörülen talep üzerine işlem tesis edilmektedir. Sağlık kurulu raporuna göre çalışma gücü kayıp oranı belirlenmesinin kanuni olmayacağı düşünülmektedir. Ödevlinin vergi indirim talebi olmadığ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21647",
+  "source_sha256": "adc780d6149e46ce9762a5f7a92ce0d4a077f22b59053aa779548ac38fe91922",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
