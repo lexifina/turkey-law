@@ -1,0 +1,2 @@
+Fazla Çalışma
+Madde 6- Personel kendisine tevdi edilen işi günlük çalışma süresi içinde yapmakla yükümlüdür. Üniversite personeli, kanuni hükümler çerçevesinde normal çalışma süresi dışında geçici veya sürekli çalıştırılabilir. Bu çalışma süresiyle ilgili ücretlerin tespiti yürürlükteki iş mevzuatı çerçevesinde tespit edilir. Fazla çalışma süreleriyle ilgili olarak personele yetkili amir tarafından imzalanmış yazılı bir belge verilir veya bordroda gösterilir. Bunun dışında yapılan fazla çalışmalar yönetimce geçerli sayılmaz ve ücret ödenmez.

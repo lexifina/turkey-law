@@ -1,0 +1,4 @@
+Yıllık Ücretli İzinler
+Madde 8- Bir yıl yani işe başlama tarihinden itibaren 12 ay çalışan personelin ücretli izin hakkı 12 işgünüdür. Her ilave yıl için bu izne bir iş günü eklenir. Yıllık ücretli izinler hiçbir şekilde 24 işgününü geçemez. Cumartesi iş günüdür. İzinler ait olduğu yıl içinde en fazla üçe bölünerek kullanılabilir. İş Kanunu Madde 52/1’e göre izin süreleri bölünemez.
+12 günlük izin mutlaka tam olarak verilir. İş Kanunu 49. madde b-c bentleri gereği 18 ve 24 günlük izinler bir bölümü 12 günden az olmamak üzere ve tarafların rızaları ile ikiye bölünebilir.
+Yıllık ücretli izin süreleri kural olarak eğitim-öğretimin olmadığı tarihlerde kullanılır. Yıllık ücretli izine hak kazanan personele, izin dönemine ilişkin ücreti izne başlamasından önce peşin veya avans olarak ödenir. Personel ücretli izin süresinde başka bir ücretli işte çalışamaz.

@@ -1,0 +1,2 @@
+İhtiyat Askerlik
+Madde 14- Muvazzaf askerlik görevi dışında manevra veya herhangi bir sebeple silah altına alınan veya herhangi bir kanundan doğan çalışma ödevi yüzünden işinden ayrılmak mecburiyetinde kalan personele ilk iki aylık ücreti tam olarak ödenir. İlk iki ayı izleyen ay süresince üçte ikisi, bunu takip eden dördüncü ayda ise ücretinin dörtte biri tutarında aylık ücret ödenir. Bu sürenin bitiminde personelin hizmet sözleşmesi fesh edilmiş sayılır.
