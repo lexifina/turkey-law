@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7078",
+  "year": 1958,
+  "title": "1580 sayılı Belediye Kanununun 7. maddesinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1958-02-24",
+  "gazette_issue": "9842",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9842.pdf",
+  "source_sha256": "7b15e90598a8cb0fcbada42d1a7a15eb693a8d70dfbc893bc24094e051b65b59",
+  "text_sha256": "99dee249892af10f1d1d12b83f07ed779f5add684fa14cdc4859ed1961ae861e",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      8,
+      65
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007078.pdf",
+    "source_sha256": "907b6801453245d01442555bc5f5ee9ef039d00775435c0dfab571a6963b13ad",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9712,
+    "bag": 0.9317,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9893,
+    "rg_words": 361,
+    "kd_words": 375,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
