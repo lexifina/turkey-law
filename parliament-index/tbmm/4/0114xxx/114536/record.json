@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 114536,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Askerî Fabrikalar Umum Müdürlüğü 1933 senesi bütçesinde 9 500 liralık münakale yapılması hakkında 1/186, İstatistik Umum Müdürlüğü 1933 senesi bütçesinde 1 200 liralık münakale yapılması hakkında 1/848, İstatistik Umum Müdürlüğü 1933 senesi bütçesinde 1 000 liralık münakale yapılması hakkında 1/849, Millî Müdafaa Vekâleti 1933 senesi hava bütçesinde 3 592 liralık münakale yapılması hakkında 1/852, Millî Müdafaa Vekâleti 1933 senesi kara bütçesinde 627 lira 40 kuruşluk münakale yapılması hakkında 1/853, Millî Müdafaa Vekâleti 1933 senesi kara bütçesinde 998 lira 20 kuruşluk münakale yapılması hakkında 1/854, Millî Müdafaa Vekâleti 1933 senesi kara bütçesinde 4 510 liralık münakale yapılması hakkında 1/855, Ziraat Vekâleti 1933 senesi bütçesinde 25 850 liralık münakale yapılması hakkında 1/865 ve bazı dairelerin 1933 senesi bütçesinde 376 500 liralık münakale yapılması hakkında 1/867 numaralı kanun lâyihalarına dair",
+  "title": "Askerî Fabrikalar Umum Müdürlüğü 1933 senesi bütçesinde 9 500 liralık münakale yapılması hakkında 1/186, İstatistik Umum Müdürlüğü 1933 senesi bütçesinde 1 200 liralık münakale yapılması hakkında 1/848, İstatistik Umum Müdürlüğü 1933 senesi bütçesinde 1 000 liralık münakale yapılması hakkında 1/849, Millî Müdafaa Vekâleti 1933 senesi hava bütçesinde 3 592 liralık münakale yapılması hakkında 1/852, Millî Müdafaa Vekâleti 1933 senesi kara bütçesinde 627 lira 40 kuruşluk münakale yapılması hakkında 1/853, Millî Müdafaa Vekâleti 1933 senesi kara bütçesinde 998 lira 20 kuruşluk münakale yapılması hakkında 1/854, Millî Müdafaa Vekâleti 1933 senesi kara bütçesinde 4 510 liralık münakale yapılması hakkında 1/855, Ziraat Vekâleti 1933 senesi bütçesinde 25 850 liralık münakale yapılması hakkında 1/865 ve bazı dairelerin 1933 senesi bütçesinde 376 500 liralık münakale yapılması hakkında 1/867 numaralı kanun lâyihalarına dair",
+  "first_sitting_date": "1934-03-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 20,
+      "sitting": 26,
+      "sitting_date": "1934-03-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020026.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020fih.pdf",
+      "pages": [
+        "42:48"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=1101&v_kullanici_id=27483870",
+  "source_sha256": "bbbb3325ae3edbdcee12e4b8a89d269ab6164ab3cdabe66bdfc7f8deeaba89a5",
+  "in_force": "1934-03-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
