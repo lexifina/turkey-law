@@ -1,0 +1,1 @@
+Madde 6 – İltica etmek suretile Türkiye'ye gelen, ecnebi ordu mensupları, gerek münferiden ve gerek kıta halinde gelmiş olsunlar, her iki takdirde de kendilerine tahsis edilecek garnizon hududları dahilinde günlük üniformaları ile dolaşmalarına müsaade edilir.

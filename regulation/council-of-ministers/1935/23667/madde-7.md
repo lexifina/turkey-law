@@ -1,0 +1,1 @@
+Madde 7 – Türkiye ordusunda, gerek staj gerek tahsile gelecek ecnebi subayların vazife başında kendi üniformalarını giymelerine müsaade edilebilir. Bu müsaade yapılırken icabında mütekabiliyet esası da gözetilir.

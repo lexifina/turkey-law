@@ -1,0 +1,1 @@
+Madde 4 – Zaruri sebeblerle Türkiye hududları dahile iniş yapmak mecburiyetinde kalan veya sukut eden tayyareler içindeki ecnebi ordu mensublarının, zaruretin zevaline kadar, bulundukları mıntaka dahilinde üniformalarını giymelerine müsaade edilir. Memleketlerine karadan avdet etmeleri halinde Türkiye hududlarını terkedinciye kadar bu müsaade temdid edilir.
