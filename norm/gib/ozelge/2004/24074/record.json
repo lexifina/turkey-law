@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-679/1406",
+  "source_id": 24074,
+  "date": "2004-01-12",
+  "title": "Dövize endeksli devlet iç borçlanma senetlerinde döviz kurundaki düşüşlerden dolayı sermayede azalma meydana gelmesi halinde elde edilen faiz gelirinin vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24074",
+  "source_sha256": "8e8d3b7b4566c96bc9a4624a50a545666fbda2ab0f1a658592ff34b45770e8ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
