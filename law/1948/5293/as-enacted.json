@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5293",
+  "year": 1948,
+  "title": "Hudut ve Sahiller Sağlık Genel Müdürlüğünün 1949 sayılı Ocak ayına ait geçici Bütçe Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1948-12-31",
+  "gazette_issue": "7094",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7094.pdf",
+  "source_sha256": "6d2e64c83e9cb1a3fb4a361ecbb52f51d9e5e5db2e060e3e6dbcd114b1e566c0",
+  "text_sha256": "25bdfe4f9631d7c65992d98a68ba97a571cc0de527a8647192c0752e208867a9",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      305,
+      333
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105293.pdf",
+    "source_sha256": "9fa091c0c1c7dfb05df399bfc6585e7e53e7749978e8e8cdafab7eb78c8575bf",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.932,
+    "bag": 0.8473,
+    "kd_coverage": 0.9767,
+    "kd_body_compared": 0.8514,
+    "rg_words": 136,
+    "kd_words": 148,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
