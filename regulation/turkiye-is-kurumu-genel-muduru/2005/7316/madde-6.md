@@ -1,0 +1,2 @@
+Masraf Karşılığını Tahakkuk ve Tahsil Edecek Birimler
+Madde 6 — Masraf karşılıkları, Kurumun İl Müdürlükleri ile İlçe Şube Müdürlükleri tarafından doğrudan makbuz karşılılığı veya banka aracılığı ile tahsil edilir. Kurumca tahsil edilen masraf karşılıkları, Bütçe Kanunu veya diğer kanunlarda, kamu kurum ve kuruluşlarının tasarrufları altında bulunan kaynakları belirlenmiş bankalar nezdinde toplamalarına yönelik hükümler yer alması durumunda, sözkonusu masraf karşılıkları öncelikle bu düzenlemeler kapsamında değerlendirilir.

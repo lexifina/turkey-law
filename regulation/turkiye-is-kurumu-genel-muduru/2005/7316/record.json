@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.7316",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE İŞ KURUMU GENEL MÜDÜRLÜĞÜ MASRAF KARŞILIKLARININ TESPİTİ VE UYGULAMASINA İLİŞKİN YÖNETMELİK",
+  "number": "7316",
+  "issuer": "Türkiye İş Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-is-kurumu-genel-muduru",
+  "path": "regulation/turkiye-is-kurumu-genel-muduru/2005/7316",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=7316&MevzuatTertip=5",
+  "source_sha256": "b4d0ae613efc49177f681f6d5f8a2de48a7d6f4e2e3316869d700dc731880914",
+  "source_bytes": 19950,
+  "published": "2005-01-24",
+  "gazette": "25706",
+  "in_force": "2005-01-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.01.2005); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 517,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
