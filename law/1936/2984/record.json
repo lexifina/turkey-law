@@ -1,0 +1,90 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2984",
+  "year": 1936,
+  "title": "Konya ovası sulama idaresile Yüksek mühendis mektebi ve Ankara Yüksek Ziraat Enstitüsünün Muvazenei Umumiyeye alınmasına dair kanun",
+  "adopted": "1936-05-26",
+  "adopted_as_published": "26/05/1936",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.06.1936 No: 3318",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602984.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 16",
+  "committee_reports": [
+    {
+      "label": "TBMM 197 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011066ss0197.pdf"
+    },
+    {
+      "label": "TBMM 197ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011068ss0197ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104198,
+      "title": "Konya ovası sulama idaresile Yüksek mühendis mektebi ve Ankara Yüksek Ziraat Enstitüsünün Muvazenei Umumiyeye alınmasına dair kanun",
+      "adopted_as_published": "26/05/1936",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602984.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 197 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011066ss0197.pdf"
+        },
+        {
+          "label": "TBMM 197ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011068ss0197ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 65,
+          "sitting_date": "1936-05-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011fih.pdf",
+          "pages": [
+            "146"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 66,
+          "sitting_date": "1936-05-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011066.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011fih.pdf",
+          "pages": [
+            "172"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 68,
+          "sitting_date": "1936-05-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c011/tbmm05011fih.pdf",
+          "pages": [
+            "218:220"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=920&v_gelecek_sayfa=101&v_kullanici_id=27483162",
+      "page_sha256": "a274169445dbc921a74425ccb535ecc268148b569d8b8351a65db77bbccd044d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a274169445dbc921a74425ccb535ecc268148b569d8b8351a65db77bbccd044d",
+  "issuer": "TBMM",
+  "in_force": "1936-05-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 26/05/1936; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
