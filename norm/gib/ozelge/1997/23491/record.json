@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-314/26041",
+  "source_id": 23491,
+  "date": "1997-06-20",
+  "title": "kurumlar vergisine tabi olan kooperatifçe düzenlenen harcama belgelerinin özel gider indirimine konu olacağı ancak, kurumlar vergisi mükellefiyeti bulunmayan kooperatifçe verilen harcama belgelerinin özel gider indirimine konu edilemiyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/23491",
+  "source_sha256": "3fb2f095be96b3a638cbc1c9774ae8e57d45ef24c896c0b483b83d6cd66a5d1d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
