@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2840-94-31948",
+  "source_id": 25097,
+  "date": "2004-07-07",
+  "title": "Hatalı tebligatın tespiti halinde zamanaşımı süresi dikkate alınarak tebliğn Vergi Usul Kanunu tebliğ hükümlerine göre tekrar düzeltilmesi gerekir.  ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25097",
+  "source_sha256": "4ac1b647c7f8964ce0d6cd11f8acc3274e6c8d9bc2539166ff49b1399b93ff08",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
