@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1803",
+  "year": 1931,
+  "title": "Devlet Demiryolları ve Limanları Umumî İdaresinin teşkilât ve vezaifine dair olan 1042 numaralı Kanunun 37. maddesine bir fıkra ilâvesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-05-31",
+  "gazette_issue": "1810",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1810.pdf",
+  "source_sha256": "36f2a826a8eed7534b92d87f74f5f7e529f1d7c3061606f205b321f6caafdbb1",
+  "text_sha256": "8400f16a1f7473a56add1bce6155e9039a6950db22f26ac3bf0e7592f3f99b80",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      39
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001803.pdf",
+    "source_sha256": "7d9b9d4e658974896f982233b272d57d03b5325e801580fbc17740fc77a23de3",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9407,
+    "bag": 0.8743,
+    "kd_coverage": 0.9535,
+    "kd_body_compared": 0.9535,
+    "rg_words": 85,
+    "kd_words": 86,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
