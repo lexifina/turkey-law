@@ -1,0 +1,1 @@
+Madde 1 – Bu Yönetmeliğin amacı, kadro ihdasını öngören Kanun veya kararname taslaklarına eklenecek kadro cetvellerinin hazırlanması, tutulan kadroların serbest bırakılma işlemleri ve kadro değişikliği ile kadroların dağılımı, onay mercileri ve kullanılacak cetvellere ait esasları düzenlemektir.

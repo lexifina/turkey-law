@@ -1,0 +1,2 @@
+Tutulan ve Boş Kadroların Değişikliği:
+Madde 15 – Bu yönetmeliğin 6 ncı maddesinde sayılan haller dolayısıyla veya önceden tahmini mümkün olmayan hizmetlerin ifası için ihtiyaç duyulan kadroların karşılanması amacıyla bu Yönetmelikte öngörülen usul ve esaslara uygun olarak, tutulan kadrolarda veya serbest kadrolardan boş olanlarda Bakanlar Kurulu Kararı ile sınıf, unvan ve derece değişikliği yapılabilir.
