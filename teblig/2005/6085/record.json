@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.6085",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DAMGA VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 43)",
+  "number": "6085",
+  "path": "teblig/2005/6085",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6085&MevzuatTertip=5",
+  "source_sha256": "487423695731ed5e145ebd257c814f405b98e07bf1de6daac694988034624f2c",
+  "source_bytes": 49163,
+  "published": "2005-02-04",
+  "gazette": "25717",
+  "in_force": "2005-02-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.02.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2808,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
