@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-12-05",
+  "issue": "25307",
+  "edition": "regular",
+  "item": 16,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "İstanbul Beton Elemanları ve Hazır Beton Fabrikaları Sanayi ve Ticaret Anonim Şirketinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031205-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (33 = 33)",
+  "ilan_codes": [
+    "48107/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031205-3-3.htm",
+  "category_page_sha256": "fb2d9f498fdb2bd61a71acbe4e378021de0d8d9b8b45b357ec44f17abc75c474",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031205.htm",
+  "index_sha256": "93ff26c87fa0d55ee172bdfe03d36145f263726465a56afbf7376af28ecc6dbc",
+  "index_header": "5 Aralık 2003 ... Sayı : 25307",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
