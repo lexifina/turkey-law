@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1962",
+  "year": 1956,
+  "title": "Eski Devlet Vekili Mükerrem Sarol hakkında tahkikat yapmak üzere kurulan Muhtelit Encümenin vazife müddetinin uzatılmasına dair",
+  "adopted": "1956-04-16",
+  "adopted_as_published": "16/04/1956",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.04.1956 No: 9290",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/karartbmmc038/karartbmmc03801962.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 38",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 10,
+      "kayit_no": 52303,
+      "title": "Eski Devlet Vekili Mükerrem Sarol hakkında tahkikat yapmak üzere kurulan Muhtelit Encümenin vazife müddetinin uzatılmasına dair",
+      "adopted_as_published": "16/04/1956",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/karartbmmc038/karartbmmc03801962.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 54,
+          "sitting_date": "1956-04-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c011/tbmm10011054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c011/tbmm10011fih.pdf",
+          "pages": [
+            "96:97"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=243&v_gelecek_sayfa=101&v_kullanici_id=27483275",
+      "page_sha256": "d88d58f19bf7c6e2f13d6b58ce859794492b4e2b2fb0d86a1d689d7e3e5a8deb"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d88d58f19bf7c6e2f13d6b58ce859794492b4e2b2fb0d86a1d689d7e3e5a8deb",
+  "issuer": "TBMM",
+  "in_force": "1956-04-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 16/04/1956; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
