@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "383",
+  "year": 1927,
+  "title": "383 sayılı Karar",
+  "adopted": "1927-12-08",
+  "adopted_as_published": "08/12/1927",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.12.1927 No: 761",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc006/karartbmmc006/karartbmmc00600383.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 6",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120656,
+      "title": "383 sayılı Karar",
+      "adopted_as_published": "08/12/1927",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc006/karartbmmc006/karartbmmc00600383.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 15,
+          "sitting_date": "1927-12-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/tbmm03001015.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/ehttbmm03001015.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/tbmm03001fih.pdf",
+          "pages": [
+            "94"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "f0cfd175e70f784fb190e13effce4a066afdf957e56add9f3c8108aabc346245"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "f0cfd175e70f784fb190e13effce4a066afdf957e56add9f3c8108aabc346245",
+  "issuer": "TBMM",
+  "in_force": "1927-12-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 08/12/1927; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
