@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6685-",
+  "source_id": 37086,
+  "date": "2004-12-07",
+  "title": "23.07.2004 tarihinden itibaren büyükşehir belediye sınırı içine alınan bina ve araziye ait emlak vergisinin hesabında, emlak(bina ve arazi) vergisi oranının 2005 bütçe yılından itibaren %100 artırımlı uygulanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37086",
+  "source_sha256": "0707c43de636c0a316a6d5710e6031c82a24a4ac3baa60b15ffe1ab72245b6e2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
