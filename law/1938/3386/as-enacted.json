@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3386",
+  "year": 1938,
+  "title": "Abidatın tamiri ve İzmir fuarında vakıflar paviyonunun tesis ve idare masrafları hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-05-19",
+  "gazette_issue": "3911",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3911.pdf",
+  "source_sha256": "daf02491df3310202d24e5d854b98eeeef646102bc7ea3159c1f5f6346f82e50",
+  "text_sha256": "ca1df257b1d269d9f8fef3fde1934d82b796fe056737b315929903a0bc547b7e",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      464,
+      480
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803386.pdf",
+    "source_sha256": "0ec314a89a6196c7750b9e22aa4b6975fd364e8ee0b3c829c71b639e13460546",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9538,
+    "bag": 0.9091,
+    "kd_coverage": 0.9619,
+    "kd_body_compared": 0.9444,
+    "rg_words": 107,
+    "kd_words": 108,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
