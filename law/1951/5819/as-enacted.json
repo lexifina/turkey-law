@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5819",
+  "year": 1951,
+  "title": "Yüksek Denizcilik Okulu ve Denizcilik Meslek Okulu ve Kursları Hakkındaki 3.5.1946 Tarihli ve 4915 Sayılı Kanuna Ek Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-08-02",
+  "gazette_issue": "7874",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7874.pdf",
+  "source_sha256": "85542d7d6343fc31d2bb9a501d0023a71442b7842a3ef4efe46c4f3453837587",
+  "text_sha256": "076a04e0d5e9da75bbd49b261ce5178b7740c6c74b16fc09f9daad836a5b6af0",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      177,
+      273
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305819.pdf",
+    "source_sha256": "08f8e848296035eb0b2c04642a8eab23037b6a81b827883f7ccd4c7887cefbf3",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9726,
+    "bag": 0.8825,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.938,
+    "rg_words": 331,
+    "kd_words": 355,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
