@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3689",
+  "year": 1990,
+  "title": "213 Sayılı Vergi Usul Kanunu, 193 Sayılı Gelir Vergisi Kanunu,5422 Sayılı Kurumlar Vergisi Kanunu, 488 Sayılı Damga Vergisi Kanunu ile 492 Sayılı araçlar Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "1990-12-15",
+  "adopted_as_published": "15/12/1990",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.12.1990 No: 20731",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc074/kanuntbmmc074/kanuntbmmc07403689.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 74",
+  "committee_reports": [
+    {
+      "label": "TBMM 496 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c053/tbmm18053049ss0496.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 236169,
+      "title": "213 Sayılı Vergi Usul Kanunu, 193 Sayılı Gelir Vergisi Kanunu,5422 Sayılı Kurumlar Vergisi Kanunu, 488 Sayılı Damga Vergisi Kanunu ile 492 Sayılı araçlar Kanununda Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "15/12/1990",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc074/kanuntbmmc074/kanuntbmmc07403689.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 496 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c053/tbmm18053049ss0496.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 51,
+          "sitting": 38,
+          "sitting_date": "1990-11-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c051/tbmm18051038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c051/tbmm18051fih.pdf",
+          "pages": [
+            "295"
+          ]
+        },
+        {
+          "cilt": 53,
+          "sitting": 47,
+          "sitting_date": "1990-12-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c053/tbmm18053047.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c053/tbmm18053fih.pdf",
+          "pages": [
+            "4"
+          ]
+        },
+        {
+          "cilt": 53,
+          "sitting": 49,
+          "sitting_date": "1990-12-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c053/tbmm18053049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c053/tbmm18053fih.pdf",
+          "pages": [
+            "390:445"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=363&v_gelecek_sayfa=201&v_kullanici_id=27483192",
+      "page_sha256": "2235809fd1d59614cac4f724acc2b3c7f1c00b74606425a4080ae2f3d70a6e0c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2235809fd1d59614cac4f724acc2b3c7f1c00b74606425a4080ae2f3d70a6e0c",
+  "issuer": "TBMM",
+  "in_force": "1990-12-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 15/12/1990; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
