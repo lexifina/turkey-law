@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5379-06-752/8869",
+  "source_id": 30018,
+  "date": "1998-03-10",
+  "title": "Özürlü çocukların ihtiyaçlarını karşılamak üzere rehabilitasyon merkezi bünyesinde oluşturulan kuruluşun kooperatif olması nedeniyle teslim ve hizmetlerinin katma değer vergisine tabi olması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30018",
+  "source_sha256": "8136111fffd8d7f433af238cc59632e44eb1d6a630bfebf64f628477af3b9a70",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
