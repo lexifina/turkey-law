@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-279-38675",
+  "source_id": 25029,
+  "date": "1997-09-10",
+  "title": "İşyeri yanan mükellefe yeni Ö.K.C. Alması için yeni süre verilebilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/25029",
+  "source_sha256": "19e1acf0372473d9f93c3c19af99b6aad3873f11d2cf6e7097fa26bdddf5fe8f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
