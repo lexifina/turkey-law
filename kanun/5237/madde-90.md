@@ -9,7 +9,11 @@ e) Deney sırasında kişiye insan onuruyla bağdaşmayacak ölçüde acı veric
 f) Deneyle varılmak istenen amacın, bunun kişiye yüklediği külfete ve kişinin sağlığı üzerindeki tehlikeye göre daha ağır basması,
 g) Deneyin mahiyet ve sonuçları hakkında yeterli bilgilendirmeye dayalı olarak açıklanan rızanın yazılı olması ve herhangi bir menfaat teminine bağlı bulunmaması,
 Gerekir.
-(3) Çocuklar üzerinde bilimsel deney hiçbir surette yapılmaz.
+(3) (Değişik: 31/3/2005 – 5328/7 md.) Çocuklar üzerinde bilimsel deneyin ceza sorumluluğunu gerektirmemesi için ikinci fıkrada aranan koşulların yanı sıra;
+a) Yapılan deneyler sonucunda ulaşılan bilimsel verilerin, varılmak istenen hedefe ulaşmak açısından bunların çocuklar üzerinde de yapılmasını gerekli kılması,
+b) Rıza açıklama yeteneğine sahip çocuğun kendi rızasının yanı sıra ana ve babasının veya vasisinin yazılı muvafakatinin de alınması,
+c) Deneyle ilgili izin verecek yetkili kurullarda çocuk sağlığı ve hastalıkları uzmanının bulunması,
+Gerekir.
 (4) Hasta olan insan üzerinde rıza olmaksızın tedavi amaçlı denemede bulunan kişi, bir yıla kadar hapis cezası ile cezalandırılır. Ancak, bilinen tıbbî müdahale yöntemlerinin uygulanmasının sonuç vermeyeceğinin anlaşılması üzerine, kişi üzerinde yapılan rızaya dayalı bilimsel yöntemlere uygun tedavi amaçlı deneme, ceza sorumluluğunu gerektirmez. Açıklanan rızanın, denemenin mahiyet ve sonuçları hakkında yeterli bilgilendirmeye dayalı olarak yazılı olması ve tedavinin uzman hekim tarafından bir hastane ortamında yapılması gerekir.
 (5) Birinci fıkrada tanımlanan suçun işlenmesi sonucunda mağdurun yaralanması veya ölmesi hâlinde, kasten yaralama veya kasten öldürme suçuna ilişkin hükümler uygulanır.
 (6) Bu maddede tanımlanan suçların bir tüzel kişinin faaliyeti çerçevesinde işlenmesi hâlinde, tüzel kişi hakkında bunlara özgü güvenlik tedbirlerine hükmolunur.

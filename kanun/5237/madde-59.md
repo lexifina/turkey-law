@@ -1,2 +1,3 @@
 Sınır dışı edilme
-MADDE 59. - (1) İşlediği suç nedeniyle iki yıl veya daha fazla süreyle hapis cezasına mahkûm edilen yabancının, cezasının infazından sonra derhâl sınır dışı edilmesine de hükmolunur.
+Madde 59- (Değişik: 31/3/2005 – 5328/1 md.)
+(1) İşlediği suç nedeniyle hapis cezasına mahkûm edilen yabancı, koşullu salıverilmeden yararlandıktan ve her halde cezasının infazı tamamlandıktan sonra, durumu, sınır dışı işlemleriyle ilgili olarak değerlendirilmek üzere derhal İçişleri Bakanlığına bildirilir.
