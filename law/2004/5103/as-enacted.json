@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5103",
+  "year": 2004,
+  "title": "2004 Malî Yılı Bütçe Kanunu ile Bağlı Cetvellerinde ve 2004 Malî Yılı Katma Bütçeli İdareler Bütçe Kanununa Bağlı Cetvellerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-03-11",
+  "gazette_issue": "25399",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/03/20040311.htm",
+  "source_sha256": "e80c7a3f33e1564f1e8185f6644ca037984686713b69ab504a0e2e911e3227b0",
+  "text_sha256": "0ae37fc33e4b6ba2fc5b6b17a99413d58d0c6aa43dbb5bd0f9e488c14a19f1b3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/03/11/25399-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/03/20040311.htm#11",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
