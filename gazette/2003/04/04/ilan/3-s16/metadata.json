@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-04-04",
+  "issue": "25069",
+  "edition": "regular",
+  "item": 16,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Çalışma ve Sosyal Güvenlik Bakanlığı Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Aydın Huzurevi Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030404-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (27 = 27)",
+  "ilan_codes": [
+    "8236/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030404-3.htm",
+  "category_page_sha256": "40b5329d62ed85e3fd06bd427b9a984354ba8ddce315775f776ee33cbbfa2178",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030404.htm",
+  "index_sha256": "d1f578dbf9c58008e44bb56649e161fef7923d44da29bfc638c1e1cfffbd3099",
+  "index_header": "4 Nisan 2003 ... Sayı : 25069",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
