@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 68097,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "AHMET AGAH EROZAN (BURSA)",
+  "summary": "Bucak Müdürlerinin Devir Masrafları hakkındaki 5005 sayılı Kanunun 1. maddesinin değiştirilmesine dair (2/68)",
+  "title": "Bucak Müdürlerinin Devir Masrafları hakkındaki 5005 sayılı Kanunun 1. maddesinin değiştirilmesine dair (2/68)",
+  "first_sitting_date": "1950-12-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 14,
+      "sitting_date": "1950-12-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c003/tbmm09003014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c003/tbmm09003fih.pdf",
+      "pages": [
+        "28"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 70,
+      "sitting_date": "1951-04-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c006/tbmm09006070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c006/tbmm09006fih.pdf",
+      "pages": [
+        "340"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 75,
+      "sitting_date": "1951-05-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007fih.pdf",
+      "pages": [
+        "205:207"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "555604dda282c42205f06264f4a6787a058363142410d2715c57d15886de06de",
+  "in_force": "1950-12-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
