@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5262-37526",
+  "source_id": 38072,
+  "date": "1998-10-20",
+  "title": "İhraç kaydıyla yapılan teslimlerden doğan KDV'si iadelerinin, vergi borçlarına mahsubunun yapılması mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38072",
+  "source_sha256": "8182304ca8d17a7b1c7b6f73d3afba05bdf8e5116587592641fef3fbff548fa1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
