@@ -1,0 +1,102 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4530",
+  "year": 2000,
+  "title": "Türkiye Cumhuriyeti Hükümeti ıie Polonya Cumhuriyeti Hükümeti Arasında Teknik ve Savunma Sanayii İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "adopted": "2000-02-16",
+  "date_basis": "last-sitting",
+  "official_gazette_as_published": "18.2.2000 No: 23968",
+  "committee_reports": [
+    {
+      "label": "TBMM 96 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c025/tbmm21025055ss0096.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 419544,
+      "title": "Türkiye Cumhuriyeti Hükümeti ıie Polonya Cumhuriyeti Hükümeti Arasında Teknik ve Savunma Sanayii İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [
+        {
+          "label": "TBMM 96 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c025/tbmm21025055ss0096.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 17,
+          "sitting_date": "1999-06-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c002/tbmm21002017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c002/tbmm21002fih.pdf",
+          "pages": [
+            "23"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 42,
+          "sitting_date": "1999-07-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c008/tbmm21008042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c008/tbmm21008fih.pdf",
+          "pages": [
+            "7"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 55,
+          "sitting_date": "2000-02-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c025/tbmm21025055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c025/tbmm21025fih.pdf",
+          "pages": [
+            "570:571"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 56,
+          "sitting_date": "2000-02-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c026/tbmm21026056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c026/tbmm21026fih.pdf",
+          "pages": [
+            "66:67"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 58,
+          "sitting_date": "2000-02-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c026/tbmm21026058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c026/tbmm21026fih.pdf",
+          "pages": [
+            "345",
+            "501:524"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=101&v_kullanici_id=27483196",
+      "page_sha256": "c2cfe2238783fc9740f96b415d225749684ec3a57b63b112c834c661930cccae"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "c2cfe2238783fc9740f96b415d225749684ec3a57b63b112c834c661930cccae",
+  "issuer": "TBMM",
+  "in_force": "2000-02-16",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2000-02-16); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
