@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-01-06",
+  "issue": "25692",
+  "edition": "regular",
+  "item": 15,
+  "section": null,
+  "heading": "Yönetmelikler",
+  "title": "Elektronik İmza Kanununun Uygulanmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050106-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050106.htm",
+  "index_sha256": "891e3954b6a5a4cb232d922d1fdd80f90a24a5518a7be4ace7218c6f4649697a",
+  "index_header": "6 Ocak 2005 ... Sayı : 25692",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
