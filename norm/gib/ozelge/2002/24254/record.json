@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6522-131/29966",
+  "source_id": 24254,
+  "date": "2002-07-03",
+  "title": "Ferdi işletmelerin şirkete dönüştürülmesinde, semaye şirketlerinin birleşme ve devir hallerinde veya Türk Ticaret Kanunu hükümlerine göre yapılacak değişikliklerde devre konu varlıklar arasında yeralan ödeme kaydedici cihazların mali hafızalarının değişti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/24254",
+  "source_sha256": "59a5cac5012bf0b741571b58ac6330dff274839332c3eb369284d51a22ef330b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
