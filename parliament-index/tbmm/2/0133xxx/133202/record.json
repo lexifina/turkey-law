@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 133202,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "OPERATÖR EMİN BEY (MEHMET EMİN ERKUL) (BURSA SABIK MEBUSU)",
+  "summary": "Nisabı Müzakere Kanununun tadili hakkında.",
+  "title": "Nisabı Müzakere Kanununun tadili hakkında.",
+  "first_sitting_date": "1927-04-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 31,
+      "sitting": 51,
+      "sitting_date": "1927-04-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/tbmm02031051.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/ehttbmm02031051.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/tbmm02031fih.pdf",
+      "pages": [
+        "78"
+      ]
+    },
+    {
+      "cilt": 31,
+      "sitting": 52,
+      "sitting_date": "1927-04-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/tbmm02031052.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/ehttbmm02031052.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/tbmm02031fih.pdf",
+      "pages": [
+        "99",
+        "101:102"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=592&v_gelecek_sayfa=501&v_kullanici_id=27483772",
+  "source_sha256": "7bd4adba6a66a2384f803774919fb1f87e0701def5236c0e6817a797d2ae34a7",
+  "in_force": "1927-04-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
