@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6151",
+  "year": 1953,
+  "title": "Teknik Ziraat ve Teknik Bahçıvanlık Okulları Kanununun 1, 2, 3 ve 4. Maddelerinin Değiştirilmesine ve 15 ve 16 ncı Maddelerinin Yürürlükten Kaldırılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-21",
+  "gazette_issue": "8463",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8463.pdf",
+  "source_sha256": "1e7514d7f52ca4c0749241e7f1afd98cfaddba4c77d17b616ca214bdcc46e5a2",
+  "text_sha256": "bda95a3ac2793de7a318d3b5b6d2552c90d06f31edd04452924a9f27a5da3cf4",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      172,
+      226
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506151.pdf",
+    "source_sha256": "166e2317096e95fc23659440ed5ddc3c668e6a26cbdb90718c5c0ac1c3d3adb7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9663,
+    "bag": 0.8796,
+    "kd_coverage": 0.9761,
+    "kd_body_compared": 0.9662,
+    "rg_words": 287,
+    "kd_words": 296,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
