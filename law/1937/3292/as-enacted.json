@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3292",
+  "year": 1937,
+  "title": "Türk hava kurumu tarafından Millî Müdafaa Vekâletine teberru edilen mebaliğin sureti sarfı hakkındaki 1831 numaralı Kanunu değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-12-30",
+  "gazette_issue": "3796",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3796.pdf",
+  "source_sha256": "215fdbbdf5a5b0cfe4ba1e98d222a9d548dbdf7b2ea05191ee1c1d83aa2cdcdb",
+  "text_sha256": "8e4cf6c07a4416175e5382a1f9e408dc64a8178f2a15fda4e0feafb96c56a105",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      57,
+      76
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1, 2] (no text layer)",
+    "tesseract_pages": [
+      1,
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803292.pdf",
+    "source_sha256": "3eb13cb2927026d70eca5baf95e536d040d9cdac984db89649464a9e83bc2a41",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9189,
+    "bag": 0.8282,
+    "kd_coverage": 0.9905,
+    "kd_body_compared": 0.9722,
+    "rg_words": 122,
+    "kd_words": 108,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
