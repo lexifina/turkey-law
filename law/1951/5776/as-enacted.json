@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5776",
+  "year": 1951,
+  "title": "Atatürk Anıt-Kabri İnşası Hakkındaki 4677 ve 5581 Sayılı Kanunlara Ek Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-06-01",
+  "gazette_issue": "7823",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7823.pdf",
+  "source_sha256": "a11ee36fcf581694dcc13e20287f224c46b19c2937dd4f8395beea4544dc3b32",
+  "text_sha256": "dd2ba0ec6a48638ed9de8ff7320e63c9e8f0d655eb3a64e6908d506777357dbd",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      359,
+      377
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305776.pdf",
+    "source_sha256": "02d05f66764aa130f6deb8083ad01e870a690cc59897d5e9b24015581297fd3f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9637,
+    "bag": 0.7921,
+    "kd_coverage": 0.98,
+    "kd_body_compared": 0.9612,
+    "rg_words": 103,
+    "kd_words": 103,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
