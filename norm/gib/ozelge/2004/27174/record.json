@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6676-",
+  "source_id": 27174,
+  "date": "2004-04-18",
+  "title": "Emlak vergisi bildiriminin kanuni süresinden sonra, idarece tarh işlemi yapılmadan önce verilmiş olması nedeniyle vergi ziyaı cezasının yüzde elli oranında uygulanması gerekmektedir.Ayrıca emlak vergisi bildirimlerinin süresinde yapılmaması ikinci derece ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/27174",
+  "source_sha256": "dffbd0384f503461ac4f1f7e5fc78d9efb70154a8c3e4ec54d35bfa0f50c28d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
