@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6685-4412/35670",
+  "source_id": 37021,
+  "date": "2001-07-03",
+  "title": "Emlak vergisinden muaf olan köyün belediyelik olması halinde, emlak vergisi ve çevre temizlik vergisine tabi olup olmayacağı hususu...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37021",
+  "source_sha256": "8bc0eb13188202dae32a8a5ba0caa9742e2f2a88ed19f9b502ec02f89c5723a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
