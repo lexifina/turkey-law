@@ -1,0 +1,2 @@
+Madde 8 – Eczacı, sanat ve mesleğinin icrası sırasında veya dışında, meslek ahlak ve adabı ile bağdaşamıyan hareketlerden kaçınır.
+Eczacı, mesleğin şeref ve haysiyetine aykırı olarak, açık veya gizli, herhangi bir şekilde hileli veya muvazaalı anlaşmalarla veya hediye vermek yoluyla satış yapamaz; hekim veya herhangi bir şahsı aracı olarak kullanamaz; hastanın dilediği eczaneyi serbestçe seçmesine engel olamaz.

@@ -1,0 +1,1 @@
+Madde 19 – 6643 sayılı Türk Eczacıları Birliği Kanununun 39 uncu maddesinin (g) bendine dayanılarak hazırlanan ve Danıştay'ca incelenen bu Tüzük hükümleri Resmi Gazete ile yayımı tarihinde yürürlüğe girer.
