@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-426/045852",
+  "source_id": 24677,
+  "date": "1999-10-25",
+  "title": "Yapım işleri ile ilgili hakediş tutarları üzerinden hesaplanması gereken KDV tutarları, istihkak bedeli olarak kabul edilemeyeceğinden gelir vergisi tevkifat matrahına ve damga vergisi matrahına dahil edilmeyecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24677",
+  "source_sha256": "18582722bfc8c31df00cb5d60d87bec74b435a3421e5ae15189e79c18619fdaa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
