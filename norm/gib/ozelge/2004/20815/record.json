@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-843/60582",
+  "source_id": 20815,
+  "date": "2004-12-16",
+  "title": "Türkiye'de faaliyet gösterecek yabancı gerçek ve tüzel kişilerle ilgili  vergi mevzuatına ilişkin açıklamalar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20815",
+  "source_sha256": "aadcf18d3a33ce64e350ae84ff3de313fae66f8c2fe2434d574fca8805663f0e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
