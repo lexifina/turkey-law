@@ -10,7 +10,7 @@ a) Lisansların tabi olacağı usul ve esaslar:
 7. Lisans sahibi tüzel kişiler; tesislerini, yasal defter ve kayıtlarını Kurul denetimine hazır bulundurmak, Kurul tarafından talep edildiğinde denetime açmak ve Kurumun faaliyetlerini yerine getirebilmesi için ihtiyaç duyacağı her türlü bilgi ve belgeyi zamanında Kurula vermek zorundadır.
 8. Tüzel kişiler lisans almanın yanı sıra, faaliyet alanlarına göre yürürlükteki mevzuatın gereklerini yerine getirmekle yükümlüdür.
 ––––––––––––––––––
-(1) 27/6/2001 tarihli ve 4694 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “30 Haziran 2001” ibaresi “31 Ekim 2001” şeklinde değiştirilmiş olup daha sonra bu ibarenin yürürlüğü 15/2/2002 tarihli ve 24672 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 13/2/2002 tarihli ve E.: 2001/389, K.: 2002/6 (Yürürlüğü Durdurma) Kararı ile durdurulmuştur.
+(1) 27/6/2001 tarihli ve 4694 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “30 Haziran 2001” ibaresi “31 Ekim 2001” şeklinde değiştirilmiş olup daha sonra bu ibarenin yürürlüğü 15/2/2002 tarihli ve 24672 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 13/2/2002 tarihli ve E.: 2001/389, K.: 2002/6 (Yürürlüğü Durdurma) Kararı ile durdurulmuş, söz konusu ibare 18/4/2002 tarihli ve 24730 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 13/2/2002 tarihli ve E.: 2001/389, K.: 2002/29 sayılı Kararı ile 4694 sayılı Kanunun yaptığı değişiklik iptal edildiğinden madde metninden çıkarılmıştır.
 b) Lisanslarda asgari olarak yer alacak hükümler:
 1. Lisans kapsamında hizmet verilecek gerçek ve tüzel kişilere dair gruplar veya kategoriler ile yürütülecek faaliyet türlerini belirleyen hükümler.
 2. Bir dağıtım ya da iletim lisansı sahibinin, gerçek ve tüzel kişilere, eşitler arasında
