@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5228",
+  "year": 1948,
+  "title": "Bina Yapımı Teşvik Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1948-07-06",
+  "gazette_issue": "6950",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6950.pdf",
+  "source_sha256": "2a70f0fb9ed34f9bf1909156437fca84d5a0bc50f3c0e5aa877674d16b0f1e48",
+  "text_sha256": "f942dd15f7df1308793b6fdd8b62882f4f184988aecb080b96fd717f9d96d962",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      70,
+      310
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/kanuntbmmc030/kanuntbmmc03005228.pdf",
+    "source_sha256": "07c5133fdb653fb64c9c31c8fdf8bbcf41060d5f54dddd73d83b46d4bf573bf6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9753,
+    "bag": 0.7811,
+    "kd_coverage": 0.9905,
+    "kd_body_compared": 0.9905,
+    "rg_words": 1050,
+    "kd_words": 1163,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
