@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5513- 452-31009",
+  "source_id": 38052,
+  "date": "2004-07-01",
+  "title": "Belediye tarafından şehir şebekesi içme suyu bakım ve onarım işlerinde kullanılmak üzere satın...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38052",
+  "source_sha256": "d2e92249ccc5d1bf4d6198580ca400fd56ffd78ca23ccc304f0f6497f13c8b61",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
