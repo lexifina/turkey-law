@@ -1,0 +1,1 @@
+Madde 9- Enstitü ita amiri Rektör veya görevlendireceği Rektör Yardımcısı veya Enstitü Müdürüdür. Tahakkuk amirini Rektör tayin eder. Sarf evrakında Genel Sekreterin veya yetkili vekilinin de imzası bulunur.

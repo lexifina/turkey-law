@@ -1,0 +1,42 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [],
+  "date_evidence": [
+    [
+      "1971-07-17",
+      "17.07.1971",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "1982-10-05",
+      "RG-05/10/1982- 17829",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-05/10/1982- 17829",
+  "first_law": null,
+  "gazette": "13898",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1982-10-05",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/1971/10202",
+  "published": "1971-07-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10202&MevzuatTertip=5",
+  "source_bytes": 23902,
+  "source_id": "8.5.10202",
+  "source_sha256": "fc0b1a02943e033debbd5698be2ec2db729eaf4b15ae50b997eabf0ca1a9ae8d",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ NÜFUS ETÜTLERİ ENSTİTÜSÜ YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 678
+}
