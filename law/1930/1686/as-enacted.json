@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1686",
+  "year": 1930,
+  "title": "Tababet ve şuabatı sanatlarının tarzı icrasına dair olan kanuna bazı maddeler tezyili halkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-06-12",
+  "gazette_issue": "1518",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1518.pdf",
+  "source_sha256": "7774f4884e6cf0e4f2b6df8d55308aa72cb2a930ccf8170bb0ed1f9286e73d02",
+  "text_sha256": "3e8a10af05a95422847ed0e2dc40762b359a7760954b794717933e20fb553043",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      99,
+      161
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801686.pdf",
+    "source_sha256": "436726d7ff7b3b432d05c8504d65d3b2ff1cf18c963a99b2b9294da53c09cc05",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9793,
+    "bag": 0.9364,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9849,
+    "rg_words": 197,
+    "kd_words": 199,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
