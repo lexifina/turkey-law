@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1991-10-30",
+      "30.10.1991",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21036",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1991-10-30",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ege Üniversitesi",
+  "issuer_slug": "ege-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ege-universitesi/1991/10324",
+  "published": "1991-10-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10324&MevzuatTertip=5",
+  "source_bytes": 16137,
+  "source_id": "8.5.10324",
+  "source_sha256": "129aaceaabaaaba27e927a18c515e2e7bc7ecdd9bc4fa4b0cca13d155a89be79",
+  "text_status": "as-enacted",
+  "title": "KOZMOLOJİ  TÜRK  MİLLİ  KOMİTESİ  YÖNETMELİĞİ",
+  "university_id": 191,
+  "word_count": 743
+}

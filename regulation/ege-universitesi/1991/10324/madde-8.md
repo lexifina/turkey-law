@@ -1,0 +1,1 @@
+Madde 8- Mili Komitenin amaçlarını gerçekleştirebilmesi için yapacağı faaliyetlerle ilgili gelir ve giderler Ege Üniversitesi Bütçesi içinde yer alır.Bu amaçla “ Kozmoloji Türk Milli Komitesi” için her yıl Ege Üniversitesi Bütçesine ödenek konur.
