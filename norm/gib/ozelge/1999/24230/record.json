@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.43/4305-84/6586",
+  "source_id": 24230,
+  "date": "1999-02-24",
+  "title": "Rızai taksim işlemi sonucunda, aynı arsa üzerindeki farklı parsellerin hisse oranı değişmeden birleştirilmesiyle oluşan tek parsel için yeni bir iktisaptan söz etmek mümkün bulunmadığından, değer artış kazancı olarak değerlendirilmez.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24230",
+  "source_sha256": "b52f4792354087a0633986ab3f46104c240ba6e37d3ec9bc954e09aeefcffdfb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
