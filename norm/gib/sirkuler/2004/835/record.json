@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-6/2004-4/Enflasyon Düzeltmesi Uygulaması-4",
+  "source_id": 835,
+  "date": "2004-07-06",
+  "title": "2004 yılının ikinci geçici vergi döneminin sonu itibarıyla enflasyon düzeltmesi yapmak için gerekli şartların oluşup oluşmadığı hususu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/835",
+  "source_sha256": "da0fe8b973b590c675132a49006638235d2e686ab6b6b8c5f42b7d1000eba22a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
