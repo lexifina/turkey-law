@@ -1,0 +1,5 @@
+5307 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
+MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
+GÖSTERİR LİSTE
+Değiştiren Kanunun/ Tebliğin/İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5307 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+5335 | GEÇİCİ MADDE 7 | 13/3/2005
