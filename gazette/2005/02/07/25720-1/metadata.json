@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-07",
+  "issue": "25720",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelik",
+  "title": "Dumlupınar Üniversitesi Öğrenci Sağlık İşleri ve Sağlık Raporları Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050207-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050207.htm",
+  "index_sha256": "351f4c154225e520a337a72a2ce586583c0760a48e430a1e0b4427cb597a0877",
+  "index_header": "7 Şubat 2005 ... Sayı : 25720",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
