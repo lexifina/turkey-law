@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7470",
+  "year": 1960,
+  "title": "Türkiye Cumhuriyeti Turizm Bankası Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-05-10",
+  "gazette_issue": "10501",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10501.pdf",
+  "source_sha256": "f9396f1be7459061dbd3ac63c94fc4fa91f60fd0b390ffdf685e2cb23b431d18",
+  "text_sha256": "e312e1899086ee406a38a981f11240baa71fa5bd501a12e9b82f07ad14e26f31",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      94,
+      346
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc042/kanuntbmmc042/kanuntbmmc04207470.pdf",
+    "source_sha256": "fe52820c9abddc677ad4a2ca0a5c1215f484b8fcc13c2bde651c7b1acbb6a9a8",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9612,
+    "bag": 0.9066,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9986,
+    "rg_words": 1448,
+    "kd_words": 1402,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
