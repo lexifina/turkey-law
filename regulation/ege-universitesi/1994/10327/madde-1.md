@@ -1,0 +1,3 @@
+EGE ÜNİVERSİTESİ TIP FAKÜLTESİ ARAŞTIRMA GÖREVLİSİ KADROLARINA GEÇİCİ OLARAK ATANAN UZMANLIK ÖĞRENCİLERİ EĞİTİM VE SINAV YÖNETMELİĞİ
+Amaç
+Madde 1- Bu Yönetmelik, 2547 sayıl Yüksek Öğrenim Kurumları Yasası’nın 50 nci ve 65 inci maddeleri doğrultusunda çerçeve yönetmelik niteliğinde hazırlanmış olan 13/10/1984 gün 18544 sayılı Resmi Gazete’de yayınlanmış Lisans Üstü Öğrenim Yönetmeliği ile 3/2/1987 gün ve 19361 sayılı Resmi Gazete’de yayınlanmış Tıpta Uzmanlık Sınavı Yönetmeliği’nde ele alınmamış ve ayrıca tıpta uzmanlık öğrencilerinin görev, sorumluluk, hak ve yeterliliklerinin değerlendirilmesine ilişkin konulara açıklık kazandırma amacıyla düzenlenmiştir.

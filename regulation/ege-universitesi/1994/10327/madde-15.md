@@ -1,0 +1,2 @@
+Uzmanlık Eğitim Komisyonları
+Madde 15 – Kuruluş amacı tüm anabilim/bilim dallarında düzenlenecek eğitim programlarının incelenmesi, değerlendirilmesi, izlenmesi, yoğun bir akademik işlem oluşturacaktır. Karar organı durumunda çalışan kurullara (fakülte kurulu, yönetim kurulu), ön çalışmayı yapacak komisyonların kurulması gereği vardır. Fakültenin her bir bölümü için en az bir komisyon kurulur. Komisyonlar başkanın koordinatörlüğünde çalışırlar.

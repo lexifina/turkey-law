@@ -1,0 +1,2 @@
+Uzmanlık Sınavı
+Madde 24 – Sınav Hakkı Kazanma Sağlık Bakanlığı’nın tababet uzmanlık tüzüğünde belirlediği uzmanlık süresi içinde ve gerekli gördüğü rotasyonlarla, anabilim/bilim dalının saptadığı eğitim programını da başarı ile tamamlayan uzmanlık öğrencileri uzmanlık sınavına katılma hakkı kazanır. Anabilim/bilim dalı uzmanlık süresini uzatan bir onayı almış ise ve T.U.S da kadro bu süre ile ilan edilmiş ise, ilanda belirtilen süreye uyulur.
