@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4428-221/23893",
+  "source_id": 26478,
+  "date": "2004-05-28",
+  "title": "Şehiriçi yolcu taşımacılığı yapan ve basit usulde vergilendirilen mükelleflerin gün sonunda hasılatları için tek bir fatura düzenlemeleri mümkündür.Müşterilerin istemesi halinde fatura veya perakende satış vesikası vermek zorundadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/26478",
+  "source_sha256": "85266741f75d24ce9837519e268a37a32cf45c38a62ffaedc87e0e5ac4acf545",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
