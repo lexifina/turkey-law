@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4305-358/48632",
+  "source_id": 24065,
+  "date": "2004-10-18",
+  "title": "Yabancı para cinsinden ihraç edilmiş olan tahvil ve bonoların elden çıkarılmasından doğan kazancın, elden çıkarma karşılığında elde edilen yabancı para tutarının Türk Lirası karşılığından, bunların alımında ödenen yabancı para tutarının Türk Lirası karşıl",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24065",
+  "source_sha256": "230af785e6abef92069eec406699627aaf8aa4bab2f31616bb0fb39c0ab709a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
