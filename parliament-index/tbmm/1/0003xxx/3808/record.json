@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 3808,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Ayıntap Mebusu Abdurrahman Lâmi Efendinin, mebusandan bir Şûrayı evkaf teşkili hakkındaki teklifi kanunisine dair (2/42)",
+  "title": "Ayıntap Mebusu Abdurrahman Lâmi Efendinin, mebusandan bir Şûrayı evkaf teşkili hakkındaki teklifi kanunisine dair (2/42)",
+  "first_sitting_date": "1920-08-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 50,
+      "sitting_date": "1920-08-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003050.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/ehttbmm01003050.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c003/tbmm01003fih.pdf",
+      "pages": [
+        "264"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 71,
+      "sitting_date": "1920-09-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004071.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/ehttbmm01004071.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c004/tbmm01004fih.pdf",
+      "pages": [
+        "315:316"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8a785f093ca99ad6ff05dbaf8ad1a5c849dadf092a4fa8ce03f0d5729a183893",
+  "in_force": "1920-08-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
