@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5279-6718/037111",
+  "source_id": 33577,
+  "date": "1999-09-03",
+  "title": "İnşaat taahhüt işi kapsamına giren işlerde, bu iş için kullanılan malzeme bedeli de istisna kapsamında olup, malzeme bedelinin ayrılarak katma değer vergisine tabi tutulması söz konusu değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33577",
+  "source_sha256": "732dbbc89c59bdae5e2415f52ec44e5bbeb6cab7da20b04d5b4b1f323248d945",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
