@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "341/31",
+  "decision_date": "2004-07-13",
+  "title": "Lisans başvurusunda sunulması gereken bilgi ve belgeler listesi",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Uh4RXu0VJv4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Uh4RXu0VJv4="
+  ],
+  "source_sha256": "c96f5f715cf9e90a7f4923d31a900e7fb3630defbb4497cc8679d64d2f5c9279",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-07-13",
+  "law_text_complete": false
+}
