@@ -1,0 +1,60 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "320",
+  "year": 1927,
+  "title": "Bilumum Askeri Malullerin Terfihine Dair 8 Şubat 1341 Tarih ve 551 Numaralı Kanunun Birinci Maddesi Metninde Münderiç «Muvazzaf» Kaydının Sureti Tetkiki Hakkında.",
+  "adopted": "1927-04-13",
+  "adopted_as_published": "13/04/1927",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc005/karartbmmc005/karartbmmc00500320.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 5",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 127379,
+      "title": "Bilumum Askeri Malullerin Terfihine Dair 8 Şubat 1341 Tarih ve 551 Numaralı Kanunun Birinci Maddesi Metninde Münderiç «Muvazzaf» Kaydının Sureti Tetkiki Hakkında.",
+      "adopted_as_published": "13/04/1927",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc005/karartbmmc005/karartbmmc00500320.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 98,
+          "sitting_date": "1926-05-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025098.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/ehttbmm02025098.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025fih.pdf",
+          "pages": [
+            "99"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 52,
+          "sitting_date": "1927-04-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/tbmm02031052.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/ehttbmm02031052.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/tbmm02031fih.pdf",
+          "pages": [
+            "118"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=372&v_gelecek_sayfa=301&v_kullanici_id=27483257",
+      "page_sha256": "736c72fc7c6db32551fed7598015439129beeb8f3b729c0483270fa834bbd00a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "736c72fc7c6db32551fed7598015439129beeb8f3b729c0483270fa834bbd00a",
+  "issuer": "TBMM",
+  "in_force": "1927-04-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 13/04/1927; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
