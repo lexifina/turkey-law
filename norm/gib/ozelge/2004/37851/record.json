@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4204-2155/55741",
+  "source_id": 37851,
+  "date": "2004-11-26",
+  "title": "4046 sayılı Kanun gereğince ödenen ve gelir vergisine tabi tutulmayan fark tazminatının vergi indirimi uygulamasında dikkate alınması mümkün bulunmadığından, tazminat olarak alınan ve ücret olarak gelir vergisine tabi tutulmayan gelir kısmı için vergi ind",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37851",
+  "source_sha256": "3484a2cd5b97dfe15ebfb09b2be53fa3e4b142e88a776d4ca5ddf5f099727c1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
