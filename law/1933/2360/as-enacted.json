@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2360",
+  "year": 1933,
+  "title": "Hizmetleri görülen bazı zevata gayrimenkul mal verilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-01-01",
+  "gazette_issue": "2593",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2593.pdf",
+  "source_sha256": "02debdf3fd351c12678989381cb05d12a000ea08b4417c9d7857341bcbf54d8d",
+  "text_sha256": "a13feded65c4e01bc65769bd48f005eb8d544861ad1a2258cfb5d273f45e47f6",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      71,
+      112
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302360.pdf",
+    "source_sha256": "e379855f38fe68872ba6a31447ff2f09eb3fc9fef427fc5dc90a85f063840732",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9812,
+    "bag": 0.9439,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9868,
+    "rg_words": 153,
+    "kd_words": 152,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
