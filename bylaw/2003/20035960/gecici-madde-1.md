@@ -1,0 +1,1 @@
+Geçici Madde 1- Bu Tüzüğün yürürlüğe girmesinden önce ölmüş olan miras bırakanlar hakkında 24/7/1965 tarihli ve 6/5100 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Türk Medeni Kanununun Velayet, Vesayet ve Miras Hükümlerinin Uygulanmasına Dair Tüzüğün mirasla ilgili hükümlerinin uygulanmasına devam olunur.

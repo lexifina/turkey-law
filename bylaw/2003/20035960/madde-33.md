@@ -1,0 +1,6 @@
+Defter tutma ve mühürleme
+Madde 33- Türk Medeni Kanununun 590 ıncı maddesinde belirtilen sebeplerden birinin gerçekleşmesi halinde, sulh hakimi, tereke mal ve haklarının yazımı için terekenin defterinin tutulmasına karar verir.
+Yazımı yapılan tereke mallarından gerekenler Türk Medeni Kanununun 591 inci maddesine göre mühürlenerek koruma altına alınır. Mühür altına alma yazımdan önce de yapılabilir. Mühürlenmeyen mallar için de uygun koruma önlemi alınır. Miras bırakanla birlikte oturanların ikametleri için zorunlu olan taşınmaz bölümleri ile ihtiyaçları için gerekli eşya mühürlemenin dışında tutulur.
+Kütüphane veya pul koleksiyonu gibi tespiti uzun zamana ihtiyaç gösteren taşınırlardan oluşan mallar, mühürlenmek veya kasa gibi güvenilir bir yere konulmak suretiyle muhafaza altına alınır.
+Defterin hemen tutulmasının mümkün olmadığı hallerde, deftere geçirilecek tereke mallarının korunmasını sağlamak için tamamının veya bir kısmının, ölümün hemen sonrasında ve en geç on gün içinde mühürlenmesine karar verilebilir. Bu şekilde mühürlenen malların da defteri tutulur.
+Alacaklıların istemi üzerine yapılan mühürleme, alacak miktarıyla sınırlıdır. Alacaklıya güvence gösterildiği takdirde mühürleme yapılmaz, yapılmışsa kaldırılır.

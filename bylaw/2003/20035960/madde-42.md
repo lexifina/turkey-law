@@ -1,0 +1,8 @@
+Resmi defter tutulması
+Madde 42- Terekenin resmi defteri hakimin gözetimi altında bu işle görevlendirilecek katibe tutturulur.
+Tutulacak resmi defterde miras bırakanın taşınır ve taşınmazları ile alacak ve borçları gösterilir. Resmi kayıtlardan veya miras bırakanın belgelerinden varlığı anlaşılan alacaklar, borçlar ve mevcutlar aynen yazılır. Resmi deftere geçirilenler alacaklılara ve borçlulara bildirilir.
+Taşınırlar sıra numarası altında cinsi, türü, adedi ve takdir edilen değeri gösterilmek ve her malın nerede bulunduğu belirtilmek suretiyle resmi deftere kaydedilir. Koleksiyon halindeki eşya bir kalemde ve aynı numara altında gösterilir. Aynı türden veya birbirine benzer eşya mümkün olduğu takdirde birlikte tasnif olunur.
+Taşınmazlar ile varsa bu taşınmazları kısıtlayan ayni haklar tapu kayıtlarıyla beraber yazılır. Taşınmazlar, adi veya hasılat kirası suretiyle kiraya veya işletmeye verilmiş ise kiracıların kimlikleri ve yerleşim yerleri ile sözleşmenin süresi ve kira bedeli gösterilir.
+Bir mal üçüncü kişinin elinde bulunup da istihkak iddiası ileri sürülmüşse, bunların isimleri ve iddianın ilişkin bulunduğu malın sıra numarası ve belge ibraz edilmişse mahiyeti, tarihi ve numarası gösterilir.
+İlan üzerine başvuran alacaklı ve borçluların alacak ve borçları bu deftere kayıt edilir. İbraz edilen belgeler, hakimin belirleyeceği güvenilir bir yerde saklanır. İlgilisinin isteği üzerine, belgelerin onaylı birer örneği masrafları kendilerinden alınmak suretiyle verilir.
+Resmi defter tutma giderleri terekeden ödenir. Giderler terekeden karşılanamazsa defter tutulmasını istemiş olan mirasçılardan alınır.

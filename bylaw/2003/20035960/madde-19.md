@@ -1,0 +1,5 @@
+Malvarlığının ihtiyaca yetmemesi durumunda yapılacak işlemler
+Madde 19- Vesayet altındaki kişinin malının bulunmaması veya düzenlenecek deftere göre mevcut malları ile gelirinin ihtiyaçlarına yetmeyeceğine vesayet makamı tarafından karar
+verilmesi hallerinde, vasinin defter tutma ve hesap verme yükümlülüğü yoktur. Bu halde, vesayet altındaki kişinin malları paraya çevrilirse, durum Tüzüğün 16 ncı maddesinde sözü edilen deftere vesayet makamı tarafından şerh olunur.
+Malı bulunmayan veya malları ve geliri ihtiyaçlarına yetmeyen vesayet altındaki kişinin bağışlama ve benzeri yollarla elde ettiği kazanımlar, kazanıldığı tarihten itibaren bir ay içinde deftere işlenmek üzere vasi tarafından vesayet makamına bildirilir. Vasi bildirimdeki gecikmesinden sorumludur.
+Vesayet altındaki kişinin sonradan meydana gelen kazanımlarıyla mal ve gelir sahibi olması nedeniyle mallarının ve gelirinin ihtiyaçlarına yeter dereceye ulaşması halinde, vesayet makamı bir kararla defter tutmayan vasiye defter tutma ve gerekiyorsa hesap verme yükümlülüğünü, defter tutmakta olup hesap vermeyen vasiye de hesap verme yükümlülüğünü yükler.
