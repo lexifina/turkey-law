@@ -1,0 +1,74 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 177642,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Siyasi Partiler Kanunu tasarısı hakkında (Millet Meclisi 1/560; Cumhuriyet Senatosu:1/551) (S. Sayısı:649)",
+  "title": "Siyasi Partiler Kanunu tasarısı hakkında (Millet Meclisi 1/560; Cumhuriyet Senatosu:1/551) (S. Sayısı:649)",
+  "first_sitting_date": "1965-06-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 28,
+      "sitting": 99,
+      "sitting_date": "1965-06-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028fih.pdf",
+      "pages": [
+        "694"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 100,
+      "sitting_date": "1965-06-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029100.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029fih.pdf",
+      "pages": [
+        "28:63",
+        "99:140",
+        "158:191",
+        "194:195",
+        "224:260",
+        "269:289",
+        "312:349",
+        "350:354",
+        "364:390",
+        "393:408",
+        "412:423",
+        "425:456:464",
+        "468:492",
+        "500:507",
+        "537",
+        "592:565",
+        "566:584",
+        "603:640"
+      ]
+    },
+    {
+      "cilt": 30,
+      "sitting": 109,
+      "sitting_date": "1965-07-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030109.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c030/cs__04030fih.pdf",
+      "pages": [
+        "3",
+        "48:59"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=1401&v_kullanici_id=27484903",
+  "source_sha256": "e1f68442f4d8273aa003fabf96c1c5e061a7d6980bf2b16b342bcc7ddf1e9d72",
+  "in_force": "1965-06-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
