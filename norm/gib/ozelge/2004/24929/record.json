@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2880-5876/58920",
+  "source_id": 24929,
+  "date": "2004-12-10",
+  "title": "Cezada indirim ve uzlaşma talebinde bulunulmasının şartları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24929",
+  "source_sha256": "9fcada7f482e20bf83357724008c10cf0173cabd3f226cd70d32cd2de1582f1c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
