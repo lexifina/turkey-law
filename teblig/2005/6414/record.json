@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.6414",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2005 MALİ YILI BÜTÇE UYGULAMA TALİMATI ( SIRA NO : 5 ) (TEDAVİ YARDIMI)",
+  "number": "6414",
+  "path": "teblig/2005/6414",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6414&MevzuatTertip=5",
+  "source_sha256": "0115990d3a5296439fa3677815a5f4485db91007e2fad225e2fc8bcfae782516",
+  "source_bytes": 16035,
+  "published": "2005-02-14",
+  "gazette": "25727",
+  "in_force": "2005-02-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.02.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 352,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.6414-EKLER.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
