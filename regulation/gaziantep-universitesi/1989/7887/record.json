@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 15 - Bu yönetmelik yayımı tarihinde yürürlüğe girer,"
+  ],
+  "date_evidence": [
+    [
+      "1989-04-14",
+      "14.04.1989",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "1999-10-26",
+      "RG-26/10/1999-23858",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-26/10/1999-23858",
+  "first_law": null,
+  "gazette": "20139",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1999-10-26",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/1989/7887",
+  "published": "1989-04-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7887&MevzuatTertip=5",
+  "source_bytes": 28894,
+  "source_id": "8.5.7887",
+  "source_sha256": "755ffee2817de225ac76eaa4d17f737af142ce352134e4a2eb28525120990dc1",
+  "text_status": "current-consolidated",
+  "title": "GAZİANTEP ÜNİVERSİTESİ \r\nYABANCI DİLLER ÖĞRETİM ARAŞTIRMA VE UYGULAMA \r\nMERKEZİ (YADİMER) YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 655
+}
