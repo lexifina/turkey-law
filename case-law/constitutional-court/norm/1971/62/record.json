@@ -1,0 +1,85 @@
+{
+  "id": "0925ff65-862a-0862-83b0-5b1dfb8192bf",
+  "decision_number": "1971/62",
+  "case_number": "1971/16",
+  "decision_date": "1971-07-06",
+  "published_date": null,
+  "source_publication_date": "1971-07-09",
+  "gazette_number": 0,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1971/62",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "774bec5a499a25641324593c3561cfd687c4a534a158321f99acde597f7d000c",
+  "version_label": "as-enacted",
+  "in_force": "1971-07-06",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": true,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1971-02-28",
+      "normNumaraAdParamId": "d3994e38-e89d-8e7c-e58f-95d1b943c54f",
+      "incelemeturuKarsonucuParamId": "b70853bc-8190-61fb-36c6-4565bb3e5124",
+      "sonucGerekcesiParamId": "2945019e-60a1-5378-fa93-b621014b48a2",
+      "kararYururlulukDurumu": "1971-09-09 00:00:00",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "27",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": false,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/2"
+        },
+        {
+          "hukum": "1961/7"
+        },
+        {
+          "hukum": "1961/12"
+        },
+        {
+          "hukum": "1961/13"
+        },
+        {
+          "hukum": "1961/14"
+        },
+        {
+          "hukum": "1961/15"
+        },
+        {
+          "hukum": "1961/16"
+        },
+        {
+          "hukum": "1961/17"
+        },
+        {
+          "hukum": "1961/18"
+        },
+        {
+          "hukum": "1961/132"
+        },
+        {
+          "hukum": "1961/133"
+        },
+        {
+          "hukum": "1961/134"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 2477
+}
