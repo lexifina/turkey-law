@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1525",
+  "year": 1929,
+  "title": "Şose ve köprüler kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-12",
+  "gazette_issue": "1214",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1214.pdf",
+  "source_sha256": "98fd6f6feb646cb8c1a1b9f2275586ea35d535236534a0de6178bf9c2e9fbb71",
+  "text_sha256": "1a0c99abb8a4f518254e7ec99c593789ddd8edd4e87ccaaf58bec9153d6e2d87",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      11,
+      477
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701525.pdf",
+    "source_sha256": "7e1ed5935e2ea7a1c921ccbe06697baa69a86b2286a06b37f1f16b9c8f021899",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9757,
+    "bag": 0.9222,
+    "kd_coverage": 0.9988,
+    "kd_body_compared": 0.9988,
+    "rg_words": 1727,
+    "kd_words": 1706,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
