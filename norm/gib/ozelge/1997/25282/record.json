@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5024-23-43508",
+  "source_id": 25282,
+  "date": "1997-10-13",
+  "title": "Temsilcilik vasıtasıyla Türkiye'de faaliyette bulunan yabancı firmanın yabancı bir firmayla birleşmesi neticesinde verilecek kurumlar vergisi beyannamesi hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/25282",
+  "source_sha256": "5446256453932e5016dee01d842a02a7c6570c2a69dc667ade998e67a795e3a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
