@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5137",
+  "year": 2004,
+  "title": "Tekstil Ürünleri Ticaretine Dair 2003/1 Sayılı Türkiye-Litvanya Ortak Komite Kararının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-04-28",
+  "gazette_issue": "25446",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/04/20040428.htm",
+  "source_sha256": "23920d1733b340a3ad9225cd702735443d176a315cd1a419723899e2052a6805",
+  "text_sha256": "2bbb319634d67e1c4c3d417a41c9cd349da16ffde4c822f451563182044ba615",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/04/28/25446-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/04/20040428.htm#9",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
