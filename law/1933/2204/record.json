@@ -1,0 +1,71 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2204",
+  "year": 1933,
+  "title": "Askerî mühendislerle fen memurlarına verilecek ihtisas ücreti hakkında kanun",
+  "adopted": "1933-05-22",
+  "adopted_as_published": "22/05/1933",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.05.1933 No: 2412",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202204.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 12",
+  "committee_reports": [
+    {
+      "label": "TBMM 195 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015056ss0195.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112326,
+      "title": "Askerî mühendislerle fen memurlarına verilecek ihtisas ücreti hakkında kanun",
+      "adopted_as_published": "22/05/1933",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202204.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 195 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015056ss0195.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 15,
+          "sitting": 53,
+          "sitting_date": "1933-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015fih.pdf",
+          "pages": [
+            "154"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 56,
+          "sitting_date": "1933-05-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015fih.pdf",
+          "pages": [
+            "284"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=301&v_kullanici_id=27483155",
+      "page_sha256": "861e628edaf8e291d6a916fb5282ed4dcc0f2ab8a55a990aff1226c45cd760f2"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "861e628edaf8e291d6a916fb5282ed4dcc0f2ab8a55a990aff1226c45cd760f2",
+  "issuer": "TBMM",
+  "in_force": "1933-05-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 22/05/1933; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
