@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5414-456-29324",
+  "source_id": 31943,
+  "date": "2004-06-24",
+  "title": "Türkiye'nin herhangi bir yerinden serbest bölgeye, serbest bölgeden Türkiye'nin herhangi bir yerine yapacağı taşıma hizmetine ait bedel üzerinden katma değer vergisi hesaplanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31943",
+  "source_sha256": "9ae9484005eb59d1dc56b8a80aa943aa03354fd57239d178c54238bc9fd10011",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
