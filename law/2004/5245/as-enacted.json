@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5245",
+  "year": 2004,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Karadeniz Liman Devleti Kontrolü Sekretaryası Arasında Yönetim Merkezi Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-10-27",
+  "gazette_issue": "25626",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/10/20041027.htm",
+  "source_sha256": "d07460aaade0b5e1b79046234a03352e72be05b621590d98ca2c074ce751a791",
+  "text_sha256": "fe1cf6770a8f6729babde0bb29dc54e5ae037b89db9b1ffbdd753aa601612412",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/10/27/25626-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/10/20041027.htm#8",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
