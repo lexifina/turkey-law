@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-02-08",
+  "issue": "25018",
+  "edition": "regular",
+  "item": 21,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Hereke Belediyesinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/02/20030208-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (64 = 64)",
+  "ilan_codes": [
+    "2161/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/02/20030208-3.htm",
+  "category_page_sha256": "0224569e0f3c4905e8427965216a165f4a212049c2a8dfec44f137840cd1ec5f",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/02/20030208.htm",
+  "index_sha256": "dbce5f1f6dd59e8c4f4215730d1a89ae63f355c7583bc9927562e8f20e7b1cb7",
+  "index_header": "8 Şubat 2003 ... Sayı : 25018",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
