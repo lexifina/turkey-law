@@ -1,0 +1,112 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3619",
+  "year": 1990,
+  "title": "Danıştay Kanununun Bazı Maddelerinin Değiştirilmesine ve Bu Kanuna Bazı Maddeler Eklenmesine Dair Kanun",
+  "adopted": "1990-03-22",
+  "adopted_as_published": "22/03/1990",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "10.04.1990 No: 20488",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc073/kanuntbmmc073/kanuntbmmc07303619.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 73",
+  "committee_reports": [
+    {
+      "label": "TBMM 119 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c042/tbmm18042092ss0119.pdf"
+    },
+    {
+      "label": "TBMM 119ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c042/tbmm18042092ss0119ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 232401,
+      "title": "Danıştay Kanununun Bazı Maddelerinin Değiştirilmesine ve Bu Kanuna Bazı Maddeler Eklenmesine Dair Kanun",
+      "adopted_as_published": "22/03/1990",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc073/kanuntbmmc073/kanuntbmmc07303619.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 119 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c042/tbmm18042092ss0119.pdf"
+        },
+        {
+          "label": "TBMM 119ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c042/tbmm18042092ss0119ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 15,
+          "sitting": 14,
+          "sitting_date": "1988-10-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015014.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c015/tbmm18015fih.pdf",
+          "pages": [
+            "238"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 22,
+          "sitting_date": "1988-11-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c016/tbmm18016022.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c016/tbmm18016fih.pdf",
+          "pages": [
+            "371"
+          ]
+        },
+        {
+          "cilt": 40,
+          "sitting": 70,
+          "sitting_date": "1990-01-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c040/tbmm18040070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c040/tbmm18040fih.pdf",
+          "pages": [
+            "126"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 92,
+          "sitting_date": "1990-03-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c042/tbmm18042092.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c042/tbmm18042fih.pdf",
+          "pages": [
+            "327:339"
+          ]
+        },
+        {
+          "cilt": 42,
+          "sitting": 93,
+          "sitting_date": "1990-03-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c042/tbmm18042093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c042/tbmm18042fih.pdf",
+          "pages": [
+            "351:373"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=363&v_gelecek_sayfa=201&v_kullanici_id=27483192",
+      "page_sha256": "2235809fd1d59614cac4f724acc2b3c7f1c00b74606425a4080ae2f3d70a6e0c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2235809fd1d59614cac4f724acc2b3c7f1c00b74606425a4080ae2f3d70a6e0c",
+  "issuer": "TBMM",
+  "in_force": "1990-03-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 22/03/1990; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
