@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5516-243/03862",
+  "source_id": 31525,
+  "date": "1997-02-03",
+  "title": "Gümrük sahasında bulunan ve kira borcu nedeniyle haczedilen malların yine gümrük sahasında müzayede suretiyle satışının K.D.V.'den istisnadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31525",
+  "source_sha256": "5fede8dfbad3aabe1bc057ce30022c25972580cdd1de9e010a2bffcb5e0baec3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
