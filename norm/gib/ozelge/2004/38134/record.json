@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5921-19",
+  "source_id": 38134,
+  "date": "2004-03-20",
+  "title": "6 Seri No.lu ÖTV genel tebliğinde belirtilen dağıtıcılar tarafından ithal veya imal edilen ya da rafinericiden ÖTV ödenerek satın alınan yakıtlar için ÖTV'nin sıfır olarak uygulanmasının mümkün olması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38134",
+  "source_sha256": "b031fcbd5104c6f8013926eb3621d3aaf7818c3cbea73e132e88c3ce7f8aff36",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
