@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1998-08-09",
+      "09.08.1998",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "23428",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1998-08-09",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Balıkesir Üniversitesi",
+  "issuer_slug": "balikesir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/balikesir-universitesi/1998/7011",
+  "published": "1998-08-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7011&MevzuatTertip=5",
+  "source_bytes": 17936,
+  "source_id": "8.5.7011",
+  "source_sha256": "de9e651c81c13ad4ab09bd7748a8d7665f74f9b9820af2ec2a9633294aa5c740",
+  "text_status": "as-enacted",
+  "title": "BALIKESİR ÜNİVERSİTESİ BALIKESİR YÖRESİ KÜLTÜRÜNÜ\r\nARAŞTIRMA VE UYGULAMA MERKEZİ  YÖNETMELİĞİ",
+  "university_id": 182,
+  "word_count": 489
+}

@@ -1,0 +1,2 @@
+Danışma Kurulu
+Madde 8- Balıkesir Üniversitesi bünyesindeki Türk Dili ve Edebiyatı, Tarih ve Sanat Tarihi alanlarında görev yapan öğretim elemanları Danışma Kurulunun doğal üyesidir. Ayrıca Merkezin amacına uygun çalışmalar yapan ve Yönetim Kurulu tarafından uygun görülenlerden müdürün önereceği kişiler de Rektör tarafından Danışma Kurulu üyeliğine seçilebilir. Bu şekilde seçilen üyelerin sayısı doğal üyelerin sayısının üçte birinden fazla olamaz. Danışma Kurulu müdürün çağrısı üzerine toplanır.

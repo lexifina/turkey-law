@@ -1,0 +1,2 @@
+Yönetim Kurulu
+Madde 6- Yönetim Kurulu; müdür, atanmış ise müdür yardımcısı, müdürün önerdiği on aday arasından Rektör tarafından seçilen beş öğretim elemanından oluşur. Yönetim Kurulu üç yıl için seçilir. Üyeliği sona erenler tekrar seçilebilir. Yönetim Kurulu, Merkezin karar organıdır. Müdürün daveti üzerine yılda en az iki kez toplanır. Toplantı en az dört üye ile yapılabilir ve kararlar toplantıya katılanların salt çoğunluğu ile alınır. Eşitlik halinde müdürün oyu iki sayılır.
