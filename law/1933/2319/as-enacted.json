@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2319",
+  "year": 1933,
+  "title": "Cumhuriyet ilânının onuncu yıl dönümünü kutlulama hakkındaki 2305 numaralı kanuna müzeyyel kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-10-23",
+  "gazette_issue": "2536",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2536.pdf",
+  "source_sha256": "6eb4579686c7e9e7f72df915675b257add6ce736906e4b3f9bd0704b3a5264bd",
+  "text_sha256": "d13164d0c4b1b6a7b380a2cb33deda513f5df96b42cac12e161b2d4f37fd323c",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      10,
+      42
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202319.pdf",
+    "source_sha256": "6293442d411acf684a9dbaec6d24c5645c0363791df36d993475bc11f32a12fa",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9727,
+    "bag": 0.9016,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9796,
+    "rg_words": 97,
+    "kd_words": 98,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
