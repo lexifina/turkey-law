@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-30559/1409",
+  "source_id": 21736,
+  "date": "2002-02-11",
+  "title": "Şirketin yatırım teşvik belgesi kapsamında temin edilen araçlarının satışının gelir vergisi yönünden bir işlemi gerektirip gerektirmediği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21736",
+  "source_sha256": "42c48f717b10f2c089b804c4418c9b81f52543d163247713e62bc232996a6487",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
