@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5411- 2442-51038",
+  "source_id": 31083,
+  "date": "2004-10-28",
+  "title": "Mal ihracı kapsamında yurt dışına satışı gerçekleştirilen otomobillere ilişkin olarak oluşan vade farkının, malın bedeline ait katma değer vergisi matrahına dahil olacağından katma değer vergisinden istisna bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31083",
+  "source_sha256": "6b0189f72d1bc87ab29d8801ee4fb271fa719766ff7ffd3a1fe50b9544936dc3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
