@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2968-298-208-37555",
+  "source_id": 25324,
+  "date": "2004-09-30",
+  "title": "Özel hesap dönemleri tayin edilen mükelleflerin ticari ve zirai kazançları hesap dönemlerinin kapandığı takvim yılının kazancı sayılır ve enflasyon düzeltmesi uygulamasında ise bu hesap döneminin sona erdiği tarih esas alınır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25324",
+  "source_sha256": "38059581917a2a1301fcb7cdd70bb35993b4ab98eb4f16be3a1467f31cd7112b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
