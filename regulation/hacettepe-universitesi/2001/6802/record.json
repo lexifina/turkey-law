@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 11 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2001-12-14",
+      "14.12.2001",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 11 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24613",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2001-12-14",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2001/6802",
+  "published": "2001-12-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6802&MevzuatTertip=5",
+  "source_bytes": 21763,
+  "source_id": "8.5.6802",
+  "source_sha256": "2f56a5c40791ffbeb13fb19f611c7ed5cc748c41bea57e13ae398948a8a2448e",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nAVRUPA BİRLİĞİ İLİŞKİLERİ ARAŞTIRMA VE UYGULAMA MERKEZİ\r\nYÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 701
+}

@@ -1,0 +1,2 @@
+Amaç
+Madde 2 – Hacettepe Üniversitesine bağlı bir birim olan Merkezin amacı; Üniversitenin ilgili bölüm ve anabilim dallarının işbirliği ile Avrupa ekonomik ve politik bütünleşmesi süreci ve AB – Türkiye ilişkileriyle ilgili olarak ulusal ve uluslararası düzeylerde araştırmalar yapmak, AB – Türkiye ilişkileri konusundaki eğitimi güçlendirmek ve yaygınlaştırmak amacıyla lisans, yüksek lisans ve doktora programlarının ve tez çalışmalarının alt yapısını oluşturmaktır.
