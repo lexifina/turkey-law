@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 449554,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Dört üniversite kurulması hakkında kanun tasarısı (1/132)",
+  "title": "Dört üniversite kurulması hakkında kanun tasarısı (1/132)",
+  "first_sitting_date": "1974-12-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 13,
+      "sitting_date": "1974-12-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007013.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007fih.pdf",
+      "pages": [
+        "546"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 29,
+      "sitting_date": "1975-01-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c008/mm__04008fih.pdf",
+      "pages": [
+        "225:233",
+        "234:238",
+        "322",
+        "348:351",
+        "366",
+        "398:401"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=1001&v_kullanici_id=27484850",
+  "source_sha256": "f5d9ba71892d6746c27cd14edf51d3e15f06e15855d2eb040db656616bc81853",
+  "in_force": "1974-12-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
