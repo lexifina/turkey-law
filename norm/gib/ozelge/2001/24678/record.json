@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL/0.51/5109-142/11154",
+  "source_id": 24678,
+  "date": "2001-02-23",
+  "title": "Vakıflara bağış yoluyla intikal eden gayrımenkullerin kiraya verilmesinden elde edilen kira gelirlerinden dolayı kurumlar vergisi , emlak vergisi ve çevre temizlik vergisi yönünden mükellef olup olmamaları hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/24678",
+  "source_sha256": "a10bb8ffa8e7de2326d0c57a522e15db538fd0f654189b130a643b3e97b99802",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
