@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-14/2004-6/ Yıllık Beyanname",
+  "source_id": 643,
+  "date": "2004-02-06",
+  "title": "2003 dönemine ait yıllık gelir vergisi beyannameleri ile kurumlar vergisi beyannamesinin verilme süresi için ek süre verilmesi ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/643",
+  "source_sha256": "5384e76ccacda946f442347b1ba60aa43929b1df99a3a402405600788ab2bcf6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
