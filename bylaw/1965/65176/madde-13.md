@@ -1,0 +1,4 @@
+Madde 13 – Kontro, parti içinden rast gele ve beş ambalajdan aşağı olmamak üzere % 5 oranına kadar ayrılacak ambalajların her birinden alınacak parça nümunelerin bir araya getirilip karıştırılmasından meydana gelen "temsili nümune" üzerinde yapılır.
+Dökme mallarda parça nümune, yığının en az on yerinden alınır. Parça nümune yarım kilodan, temsili nümune iki kilodan az olamaz. Sonda salınmak suretiyle alınması halinde parça ve temsili nümuneler bu miktarlardan az olabilir.
+Parça ve temsili nümunenin yukarıda bildirilen miktarlardan daha az veya daha çok olması gereken veya nümune alma usulleri yukarıki fıkralarda gösterilenlere uymayan maddelerde, nümune alınma usulleri ve miktarı ticari teamüllere göre tesbit olunur.
+Ticari teamüller Ticaret Bakanlığının isteği üzerine Türkiye Ticaret Odaları, Sanayi Odaları ve Ticaret Borsaları Birliği tarafından tesbit edilip Ticaret Bakanlığınca Resmi Gazete'de ilan olunur.

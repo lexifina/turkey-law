@@ -1,0 +1,2 @@
+Madde 10 – Beyannameyi alan kontrol teşkilatı, 8 inci maddedeki hallerde ihraç edilecek malın nümune belgesine ve satış anlaşmasına; 9 uncu maddedeki hallerde, satış anlaşmasına uygun olup olmadığını 6 ncı maddedeki esaslara göre kontrol eder.
+Nümune belgesi ile satış anlaşması arasında fark bulunduğu takdirde kontrollarda, ihraç edilecek malın daha sonraki tarihi taşıyan anlaşmaya uygunluğu aranır.

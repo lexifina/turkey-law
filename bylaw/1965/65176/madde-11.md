@@ -1,0 +1,3 @@
+Madde 11 – Kontrol sonunda, 3 üncü madde hükümlerinde belirtilen vasıflara uygun olan partiler için ihracatçıya gümrüğe ibraz edilmek üzere, kontrol belgesi verilir; kontrol belgesinin geçerlik süresi 1 inci madde gereğince ilan edilecek kararnamelerinde gösterilir.
+Kontrol teşkilatınca, kontrol edilen partiye verilmiş olan parti numarası, bu parti ile ona ait kontrol belgesi arasında irtibatı sağlamak amaciyle; partinin ambalajları, kontrol belgesi ve diğer vesaik üzerine, ambalaj bulunmadığı hallerde partiye ait olup gümrüğe ibraz edilecek olan vesaik üzerine yazılır.
+Bir nümune veya satış anlaşmasına ait olarak, bir defada kontrola arzedilen mallar, bir parti sayılır.

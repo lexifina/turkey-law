@@ -1,0 +1,1 @@
+Madde 16 – Nümunesine veya satış anlaşmasına uygunluk bakımından kontrola tabi tutulacağı Bakanlar Kurulunca tesbit edilmiş olan malların ihracında, gümrüklerce kontrol belgesi aranır; kontrol belgesi bulunmayan veya kontrol belgesinin süresi geçmiş olan malın ihracına müsaade edilmez.
