@@ -1,0 +1,94 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1756",
+  "year": 1931,
+  "title": "Ziraatte kullanılan bazı maddelerin gümrük resminden muafiyeti hakkında kanun",
+  "adopted": "1931-03-04",
+  "adopted_as_published": "04/03/1931",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "08.03.1931 No: 1742",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901756.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 9",
+  "committee_reports": [
+    {
+      "label": "TBMM 67 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c025/tbmm03025028ss0067.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120601,
+      "title": "Ziraatte kullanılan bazı maddelerin gümrük resminden muafiyeti hakkında kanun",
+      "adopted_as_published": "04/03/1931",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc009/kanuntbmmc009/kanuntbmmc00901756.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 67 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c025/tbmm03025028ss0067.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 22,
+          "sitting": 6,
+          "sitting_date": "1930-11-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c022/tbmm03022006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c022/tbmm03022fih.pdf",
+          "pages": [
+            "78"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 27,
+          "sitting_date": "1931-02-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c025/tbmm03025027.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c025/tbmm03025fih.pdf",
+          "pages": [
+            "20"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 28,
+          "sitting_date": "1931-02-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c025/tbmm03025028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c025/tbmm03025fih.pdf",
+          "pages": [
+            "38"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 30,
+          "sitting_date": "1931-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c025/tbmm03025030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c025/tbmm03025fih.pdf",
+          "pages": [
+            "58:59",
+            "62:64"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=663&v_gelecek_sayfa=601&v_kullanici_id=27483152",
+      "page_sha256": "b5745d6d27d03c60b2a3fd1fab7308462dd19001a09a8f56c96fe4bd43f69236"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b5745d6d27d03c60b2a3fd1fab7308462dd19001a09a8f56c96fe4bd43f69236",
+  "issuer": "TBMM",
+  "in_force": "1931-03-04",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 04/03/1931; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
