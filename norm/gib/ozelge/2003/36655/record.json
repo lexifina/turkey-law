@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6527-181/016693",
+  "source_id": 36655,
+  "date": "2003-04-17",
+  "title": "Ödeme kaydedici cihazın işe başlama tarihinden itibaren 30 gün içinde kullanılmaya başlanması gerektiği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36655",
+  "source_sha256": "79c6136378d4077400985bc075335f97f02ddecbc73d830cb23f108e7c7c8ddc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
