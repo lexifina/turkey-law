@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.6167",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLIĞI (SERI NO: 44)",
+  "number": "6167",
+  "path": "teblig/2004/6167",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6167&MevzuatTertip=5",
+  "source_sha256": "3e4b6cb0b59e800b45ae2c54f28f38936688a5c44a5b97a9a941490b6495fb80",
+  "source_bytes": 18682,
+  "published": "2004-12-18",
+  "gazette": "25674",
+  "in_force": "2004-12-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.12.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 609,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
