@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "36",
+  "label": "TBMM 36 no'lu Komisyon Raporu",
+  "title": "Seyrisefain idaresinin 1928 senesi bütçe kanunu",
+  "document_date": "1927-12-29",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 1, birleşim 24)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/tbmm03001024ss0036.pdf",
+  "pdf_sha256": "adb0f147ae9283feeeb29e490d12d216012c2684877bddc28ac086ff5751234b",
+  "pdf_bytes": 1343366,
+  "pdf_pages": 17,
+  "index_entries": [
+    119991
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=1&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1927-12-29",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
