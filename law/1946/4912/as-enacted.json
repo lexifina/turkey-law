@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4912",
+  "year": 1946,
+  "title": "Hudut ve Sahiller Sağlık Genel Müdürlüğü 1946 yılı bütçesinde değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-06-08",
+  "gazette_issue": "6328",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6328.pdf",
+  "source_sha256": "c6b7ba3fee769f26246c7538d119043ba0af0189abb95f565feb9a0693de4c95",
+  "text_sha256": "85fdd1af260f9b36e3a354609a9c9434731c8032fafcd57052e813d887e149d1",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      25
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc028/kanuntbmmc028/kanuntbmmc02804912.pdf",
+    "source_sha256": "a141a93f1475ce5c6ac1c1b87091889e9ea9b521d6bcb864816a6bf6b58cb404",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.937,
+    "bag": 0.8153,
+    "kd_coverage": 0.9747,
+    "kd_body_compared": 0.939,
+    "rg_words": 80,
+    "kd_words": 82,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
