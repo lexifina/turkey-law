@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-353/038853",
+  "source_id": 36804,
+  "date": "1999-09-15",
+  "title": "İhracat ve döviz kazandırıcı faaliyetlerde Banka ve sigorta muameleleri vergisi istisnası hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36804",
+  "source_sha256": "b6eae1b3c3b70dcecef78c94b61fba0b4b33dfad3b4dcf2c5b8f9f6e41af032e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
