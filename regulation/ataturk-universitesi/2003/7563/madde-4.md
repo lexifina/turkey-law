@@ -1,0 +1,2 @@
+Müdür
+Madde 4- Merkezi idare işlemleri ve bilimsel araştırmaları müdür tarafından yürütülür. Müdür, konu ile ilgili araştırma, eğitim ve yayın faaliyetlerinde bulunmakta olan öğretim üyeleri arasından üç yıllık süre için Rektör tarafından atanır. Süresini tamamlayan müdür tekrar atanabilir. Müdür, her türlü etkinliklerde kendisine yardımcı olmak üzere bir yardımcı atayabilir. Müdür yardımcısının görevleri, müdürün bulunmadığı zamanlarda ona vekalet etmek ve müdür tarafından verilen işleri yerine getirmektir.

@@ -1,0 +1,2 @@
+Amaç
+Madde 2- Bu yönetmelikle kurulan Merkezin amacı; Türk-Ermeni münasebetleri ile ilgili tarihi, siyasi, iktisadi ve kültürel alanlarda bilimsel araştırma, eğitim ve yayın faaliyetlerinde bulunmak, Ermenilerin suni olarak uluslar arası platformda gündemde tutmaya çalıştıkları sözde soykırım iddialarına tarihi belgelerle cevap vermek, Ermenilerin Doğu Anadolu bölgesinde Türklere yönelik yaptığı katliamları kazı çalışmalarıyla belgelemek, bu konuda yapılan bilimsel çalışmaları ulusal ve uluslararası kamuoyunun bilgisine sunmaktır.
