@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1557",
+  "year": 1930,
+  "title": "İspençiyari ve tıbbî müstahzarlar hakkındaki 21.5.1928 tarih ve 1262 numaralı kanuna zeyledilecek madde hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-02-12",
+  "gazette_issue": "1422",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1422.pdf",
+  "source_sha256": "ca2942813e98dcdbe6156129768c0c45307bdcfc76649325f78e3f2ce07f0d6f",
+  "text_sha256": "e79bd32cbc46fdae8141e54d3b347ae3bdfd267bdfb0c77ab4ec9cc5f37f2b33",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      60
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801557.pdf",
+    "source_sha256": "f0430f4fb48ae05f441a15b432cae86e06bb1bc31f18c3d910373dd177e85dea",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9535,
+    "bag": 0.8844,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9864,
+    "rg_words": 149,
+    "kd_words": 147,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
