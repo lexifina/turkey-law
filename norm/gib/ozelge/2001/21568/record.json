@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.60/6019-1884/13372",
+  "source_id": 21568,
+  "date": "2001-03-12",
+  "title": "Üstün yetenekli öğrencilere yapılan ödemeler dolayısıyla vergi aranılıp aranılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/21568",
+  "source_sha256": "541cc8c8ef9fb3f9f2171701535d5ab7d45c19df930ff6e7b4fc7717a735ef8e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
