@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "55",
+  "year": 1962,
+  "title": "Bakanlıklar Kuruluşu Hakkında Kanunun Değiştirilmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-06-28",
+  "gazette_issue": "11140",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11140.pdf",
+  "source_sha256": "d2a490ee7a8eaec974c139a03d86ae0fb6f77fde7707fda15ee8d81caa7e5129",
+  "text_sha256": "2692c13251ca0f35dad0fad53afb2020d6fb6f60d8bb619260016d97dcd0807b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      68,
+      81
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500055.pdf",
+    "source_sha256": "00f50f79930dfc1229d6f0314e5e91ea5e83c311ec4c2ae5bf4a8ad143d6ff89",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9726,
+    "bag": 0.8148,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8983,
+    "rg_words": 55,
+    "kd_words": 59,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
