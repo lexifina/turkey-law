@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5329",
+  "year": 2005,
+  "title": "Askeri Ceza Kanunu ile Disiplin Mahkemeleri Kuruluşu, Yargılama Usulü ve Disiplin Suç ve Cezaları Hakkındaki Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-04-06",
+  "gazette_issue": "25778",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050406-2.htm",
+  "source_sha256": "3e448bdd9b46106e99c2d2132984733119f5f057ca1f7808188f9c298c7793be",
+  "text_sha256": "45a8c9af75e7ba8c58cd9869ed5dd66e37d292aaff358243920f53f4daa72737",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/04/06/25778-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/04/20050406-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
