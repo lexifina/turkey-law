@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1875",
+  "year": 1931,
+  "title": "Şehir ve köy yatı mektepleri maaş ve ücretleri ile sanat mekteplerine yardım hakkındaki 1816 numaralı kanuna müzeyyel kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-08-01",
+  "gazette_issue": "1861",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1861.pdf",
+  "source_sha256": "b73c80062a4452fb1a76367d267f0ba3f18bfc72b334ed913f2077954a5c1826",
+  "text_sha256": "2aa2247f51bcd8567b7cb0daf0d1684822bf2a9248063afac1aac7708d263e95",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      356,
+      396
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001875.pdf",
+    "source_sha256": "27c7a2c721c33bed6ea35c61c95a4acfb3aaf4eb94ce16ed118da79de8a8aa8e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9102,
+    "bag": 0.8602,
+    "kd_coverage": 0.9785,
+    "kd_body_compared": 0.9785,
+    "rg_words": 95,
+    "kd_words": 93,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
