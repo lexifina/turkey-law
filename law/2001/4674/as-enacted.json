@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4674",
+  "year": 2001,
+  "title": "Adalet Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun ile Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin Eki Cetvellerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-05-22",
+  "gazette_issue": "24409",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/05/20010522.htm",
+  "source_sha256": "aedd6c3e2ce91518b401fbc30a4fc72bc70c2847ebc87b799d899faefe44f2ba",
+  "text_sha256": "881b67ae8c66afd9b25a61673f21a09f702f172179f984b9bc832531fb2f03ed",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/05/22/24409-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/05/20010522.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
