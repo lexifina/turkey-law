@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "239",
+  "decision_date": "2003-10-31",
+  "title": "1 Kasım2003 tarihinden geçerli olmak üzere Karaelmas Elektrik Dağıtım Anonim Şirketi tarafından uygulanacak olan Perakende Satış Tarifeleri hakkında",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MJVNsUfuNdE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MJVNsUfuNdE="
+  ],
+  "source_sha256": "50f62e28badef47460d307036294d611767adf3ec6f838d7e2830f807869269f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-10-31",
+  "law_text_complete": false
+}
