@@ -1,0 +1,65 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3961",
+  "year": 1940,
+  "title": "Türkiye ile Romanya arasında mevcut 9 sonteşrin 1939 tarihli Ticaret Anlaşmasına zeylen 15 Haziran 1940 tarihinde imzalanan protokolün tasdikına dair kanun",
+  "adopted": "1940-12-30",
+  "adopted_as_published": "30/12/1940",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "04.01.1941 No: 4703",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203961.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 22",
+  "committee_reports": [
+    {
+      "label": "TBMM 46 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c015/tbmm06015020ss0046.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96423,
+      "title": "Türkiye ile Romanya arasında mevcut 9 sonteşrin 1939 tarihli Ticaret Anlaşmasına zeylen 15 Haziran 1940 tarihinde imzalanan protokolün tasdikına dair kanun",
+      "adopted_as_published": "30/12/1940",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02203961.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 46 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c015/tbmm06015020ss0046.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 15,
+          "sitting": 19,
+          "sitting_date": "1940-12-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c015/tbmm06015019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c015/tbmm06015fih.pdf",
+          "pages": [
+            "102",
+            "144:145",
+            "215",
+            "218",
+            "246",
+            "246:249"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=794&v_gelecek_sayfa=201&v_kullanici_id=27483166",
+      "page_sha256": "d4b38c4b2a390cd5c3a1a81e2cf275b1d0b98b8778bef1f9bf1742e37f0877a3"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d4b38c4b2a390cd5c3a1a81e2cf275b1d0b98b8778bef1f9bf1742e37f0877a3",
+  "issuer": "TBMM",
+  "in_force": "1940-12-30",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 30/12/1940; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
