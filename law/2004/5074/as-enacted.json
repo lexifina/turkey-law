@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5074",
+  "year": 2004,
+  "title": "Hayvan Sağlığı ve Zabıtası Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-01-29",
+  "gazette_issue": "25361",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/01/20040129.htm",
+  "source_sha256": "85429814022ef0e0017bf219fc1beb2596ae67a4871b47127af1a1ec62f28c8f",
+  "text_sha256": "5d44781bace1b7c2eaaaf59773df49d9e242b553d261e033885dd257f3e2f06c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/01/29/25361-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/01/20040129.htm#3",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
