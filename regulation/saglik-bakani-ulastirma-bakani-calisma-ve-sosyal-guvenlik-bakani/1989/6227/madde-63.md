@@ -1,0 +1,3 @@
+Çamaşır Yerleri
+Madde 63- Her gemide, gemi adamlarının sayısına uygun miktarda çamaşır yıkama yerleri ile seferin normal süresine göre kafi miktarda malzeme bulunur. Ayrı bir çamaşır yeri tahsis edilemeyen gemilerde, çamaşır tekneleri, diğer temizlik yerlerine yerleştirilebilir.
+Çamaşır makinası bulunmayan gemilerde, çamaşır yerlerinde yeterli sayıda teknelerle sıcak, soğuk ve kirli su tesisatı bulunmalıdır. Ayrı bir çamaşır yeri tahsis edilemeyen gemilerde, çamaşır tekneleri diğer temizlik yerlerine yerleştirilebilir. Bu taktirde su ısıtılmasında tehlikesiz araçların bulundurulması mecburidir.

@@ -1,0 +1,1 @@
+Geçici Madde 1- İaşe servisi kurulması mecburî olmayan gemilerde çalışan gemi adamlarına bu Yönetmeliğin 7 nci maddesine göre verilecek olan iaşe bedellerinin ilk tespiti, Yönetmeliğin yayımından itibaren bir ay içinde yapılır.

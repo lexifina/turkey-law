@@ -1,0 +1,2 @@
+İaşe Bedeli Tespiti Şekli
+Madde 8- İaşe Servisi kurulması mecburi olmayan veya iaşenin zaruri sebeplerle uygulanamadığı gemilerde çalışan gemi adamlarına işverenler tarafından iaşe karşılığı olarak verilecek günlük iaşe bedeli, Çalışma ve Sosyal Güvenlik Bakanlığının çağrısı üzerine toplanacak ve bu Yönetmeliğin 9 uncu maddesine göre oluşturulacak Kurul tarafından, sahil mıntıkalarının özelliklerine göre veya yurt çapında en geç bir yılda bir tespit edilir.

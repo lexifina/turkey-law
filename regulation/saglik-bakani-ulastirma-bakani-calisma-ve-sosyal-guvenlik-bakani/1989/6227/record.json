@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.6227",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GEMİ ADAMLARININ İKAMET YERLERİ, SAĞLIK VE İAŞELERİNE DAİR YÖNETMELİK",
+  "number": "6227",
+  "issuer": "Sağlık Bakanı, Ulaştırma Bakanı, Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "saglik-bakani-ulastirma-bakani-calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/saglik-bakani-ulastirma-bakani-calisma-ve-sosyal-guvenlik-bakani/1989/6227",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6227&MevzuatTertip=5",
+  "source_sha256": "2885997f3dc2932349d48d7b4172d66c58b4fd3711603ebdf61005de231cabda",
+  "source_bytes": 145983,
+  "published": "1989-12-20",
+  "gazette": "20378",
+  "in_force": "1989-12-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.12.1989); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4944,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.6227%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,2 @@
+Yeniden İnşa Edilecek veya Satın Alınacak Gemiler
+Madde 70- Bu Yönetmeliğin yayımından sonra inşa edilecek veya satın alınacak gemilerin işverenleri sefer izni için Ulaştırma Bakanlığının yetkili dairesine müracaatlarında gemi adamlarına ayrılacak yatma, dinlenme, yemek ve temizlik yerleri ile sıhhî tesisatın alışma ve Sosyal Güvenlik Bakanlığının yetkili dairesince incelenip onaylanmış inşaat plânlarını teknik resimlerini vermek mecburiyetindedir.

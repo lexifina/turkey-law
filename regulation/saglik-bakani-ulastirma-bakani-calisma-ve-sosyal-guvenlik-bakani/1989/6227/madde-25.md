@@ -1,0 +1,2 @@
+Kendi Kendine Servis
+Madde 25- Düzensizliği önlemek şartıyla servis için elverişli bir büfesi bulunan her yemek salonunda, gemi adamları için kendi kendine servis sistemi uygulanabilir. Bu takdirde, yemek salonlarında her gemi adamına yemeğini rahatça yiyebileceği bir yer ve servis tepsisi ayrılması gerekir. Servis tepsileri aynı zamanda tabak görevi gördüğü takdirde, yemeklerin niteliğini ve nefasetini bozmayacak bir maddeden yapılmış olmalıdır.

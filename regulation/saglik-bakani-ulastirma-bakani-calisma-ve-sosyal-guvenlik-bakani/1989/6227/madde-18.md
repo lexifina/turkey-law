@@ -1,0 +1,3 @@
+İaşe Servisinde Çalışanların Sağlık Kontrolü
+Madde 18- İaşe Servisinde çalışacak gemi adamlarının işe girişlerinde veya işin devamı süresince hastalık portörü olup olmadıkları, (portörlük muayenesi) ile 1475 sayılı İş Kanununun 79 uncu maddesinde belirtilen kurum veya kuruluş veyahut doktorlar tarafından verilmiş muayene raporları olmadıkça işe alınmaları veya işte çalıştırılmaları yasaktır.
+Bu gibi personelin yurtdışında sağlık muayenesi yapılma imkânı varsa üç ayda bir, şayet bu imkânı yoksa geminin bağlama limanına döndüğü tarihte sağlık kontrolünden geçirilmesi mecburidir. Sağlık kontrolleri gemi doktorlarınca yoksa geminin bağlı olduğu limandaki sağlık kuruluşlarınca yapılır.

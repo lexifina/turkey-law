@@ -1,0 +1,2 @@
+İaşe Servisinin Kontrolü
+Madde 27- İaşe servisinin yaptığı çalışmaların ve stok edilmiş gıda maddeleri ile içme suyunun miktarının yola elverişlilik şartları yönünden kontrolüne, kaptan adına İaşe Kurulu yetkilidir. Gemi adamları, iaşe servisi hakkındaki, şikâyetlerini İaşe Kurulu Başkanına veya tayfa temsilcilerine bildirirler. İaşe Kurulu, görevine dair tekliflerini gemi kaptanına yapar. İaşe işleriyle ilgili olup da çözümlenemeyen şikâyetlerini Gemi İaşe İzleme Defterine yazılması mecburidir.

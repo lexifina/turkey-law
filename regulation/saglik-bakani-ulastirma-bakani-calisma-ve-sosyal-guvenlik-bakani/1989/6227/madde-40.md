@@ -1,0 +1,3 @@
+Isıtma ve Soğutma
+Madde 40- Oturma yerlerinin ısıtılması için lüzumlu cihazlar, ihtiyaç halinde ve zamanında işlemeye hazır bulundurulur. Isıtma için; istim, sıcak su, sıcak hava veya elektrikli herhangi bir sistem kullanılabilir. Hangi sistem kullanılırsa kullanılsın bir tehlike ve rahatsızlık vermeyecek şekilde yerleştirilmelidir. Yeterli bir sıcaklık derecesinin sağlanması için sistemde ayar edilebilir cihazın bulunması şarttır. 5000 grostonilatodan büyük gemilerde ise sıcak ve soğuk hava cihazı (klima) bulunması mecburidir.
+Yapılan işin niteliğine göre, sürekli çok sıcak veya çok soğuk bir derecede çalışılması ve bu durumun değiştirilemediği durumlarda gemi adamlarına, kendilerini fazla sıcak veya soğuktan koruyacak özellikte elbise vesair malzeme verilir.
