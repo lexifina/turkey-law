@@ -1,0 +1,84 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3296",
+  "year": 1986,
+  "title": "2977 Sayılı İdarî Usul ve İşlemlerin Yeniden Düzenlenmesi ile İlgili Yetki Kanununun Süresinin Uzatılması Hakkında Kanun",
+  "adopted": "1986-06-03",
+  "adopted_as_published": "03/06/1986",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "07.06.1986 No: 19130",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903296.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 69",
+  "committee_reports": [
+    {
+      "label": "TBMM 461 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c030/tbmm17030113ss0461.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 17,
+      "kayit_no": 245869,
+      "title": "2977 Sayılı İdarî Usul ve İşlemlerin Yeniden Düzenlenmesi ile İlgili Yetki Kanununun Süresinin Uzatılması Hakkında Kanun",
+      "adopted_as_published": "03/06/1986",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc069/kanuntbmmc069/kanuntbmmc06903296.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 461 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c030/tbmm17030113ss0461.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 29,
+          "sitting": 107,
+          "sitting_date": "1986-05-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c029/tbmm17029107.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c029/tbmm17029fih.pdf",
+          "pages": [
+            "111"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 111,
+          "sitting_date": "1986-05-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c029/tbmm17029111.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c029/tbmm17029fih.pdf",
+          "pages": [
+            "453:454"
+          ]
+        },
+        {
+          "cilt": 30,
+          "sitting": 113,
+          "sitting_date": "1986-06-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c030/tbmm17030113.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c030/tbmm17030fih.pdf",
+          "pages": [
+            "96:110",
+            "112",
+            "146:149"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=439&v_gelecek_sayfa=301&v_kullanici_id=27483190",
+      "page_sha256": "a89a8099205e99f3a3db082e7b9daccd4c0c77c77adee9bd7d62596a8857dc62"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a89a8099205e99f3a3db082e7b9daccd4c0c77c77adee9bd7d62596a8857dc62",
+  "issuer": "TBMM",
+  "in_force": "1986-06-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 03/06/1986; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
