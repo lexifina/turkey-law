@@ -1,0 +1,1 @@
+Madde 6- Merkez Kurulu, başkan, başkan yardımcıları, Merkez Genel Kurulunca seçilen Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü Jeodezi, Jeofizik ve Deprem Mühendisliği Anabilim Dallarından birer öğretim elemanı ve üç Laboratuar şefinden oluşur.
