@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "35",
+  "year": 1962,
+  "title": "193 Sayılı Gelir Vergisi Kanununun Zirai Gelirlerle İlgili Hükümlerinin Tatbikinin Tehirine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-03-01",
+  "gazette_issue": "11048",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11048.pdf",
+  "source_sha256": "39f68ea8b79ab93912aed496513d83490a06131c52689ac52ba5d9484f5f0f17",
+  "text_sha256": "83b946b6313e96cfa2f9b59ba141c1ff96b379c7879c8393b931b7303f69bef7",
+  "text_status": "ocr",
+  "pages": [
+    92
+  ],
+  "line_span": [
+    [
+      31054,
+      31071
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500035.pdf",
+    "source_sha256": "22b66981b85f3f40cb6af9f4b2717749cfa49ccd96c2a4c603ed75dab47828e1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9821,
+    "bag": 0.9412,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9222,
+    "rg_words": 87,
+    "kd_words": 90,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
