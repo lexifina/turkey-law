@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6173",
+  "year": 1953,
+  "title": "Devlet Demiryolları ve Limanları İşletme Umum Müdürlüğü İşçilerine Mesken Yaptırmaları için Borç Para Verilmesine dair Olan 5954 sayılı Kanunun birinci Maddesinin son fıkrasının tadili hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-24",
+  "gazette_issue": "8466",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8466.pdf",
+  "source_sha256": "b0172979bf69b5f900bf3a6fe66c575f0cf1ecb22d0ad4827961ac0ff03119ee",
+  "text_sha256": "674d075770251cea3845f72b13d88a4554e3e82f0cba1f3c6e76415525b57c89",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      253,
+      269
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506173.pdf",
+    "source_sha256": "1024784a58a91e6507f315e330301673cf8286497374f940b7f70d6a9edf122b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.935,
+    "bag": 0.8848,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9831,
+    "rg_words": 101,
+    "kd_words": 118,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
