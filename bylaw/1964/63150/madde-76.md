@@ -1,0 +1,1 @@
+Madde 76 – Resmi ve özel müesseselerin sivil savunma teşkilleri personeli dışındaki memur ve işçilerinin sivil savunma öğretimi için, İçişleri Bakanlığınca bildirilecek esaslar dairesinde, kendi bünyeleri içinde ders ve konferanslar tertiplenebilir.

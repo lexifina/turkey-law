@@ -1,0 +1,1 @@
+Madde 63 – Personel sayısına bakılmaksızın, aynı çatı altında bulunan aynı veya başka başka idare veya şahıslara ait müesseselerle aynı müessese sınırı içinde bulunan bir idareye bağlı ayrı ayrı tesisler, birer ünite itibar olunur ve müşterek planlamaya tabi tutulur. Aynı sınır içindeki müessese personeline ait konutlar da o müessese ile birlikte mütalaa edilir.

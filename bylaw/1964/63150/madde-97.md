@@ -1,0 +1,1 @@
+Madde 97 – Tehlike haberlerinin olduğu gibi, tehlike zamanlarında yetkili makamlar tarafından sivil savunma konularında halka verilecek direktif ve yapılacak tavsiyelerin yayınlanmasında da, mevcut bütün radyo istasyonlarından ve diğer verici tesislerden faydalanılabilir. Radyo istasyonları tarafından bu yayınlar, diğer yayınlar kesilerek hemen yapılır.

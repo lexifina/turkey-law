@@ -1,0 +1,2 @@
+Madde 8 – Yoklama ve muayene sırasında sağlık durumlarının Sivil Savunma Teşkilatında görev yapmağa elverişli olup olmadığından şüphe edilenler veya elverişli olmadığını iddia edenler, 23 üncü maddenin (a) bendi gereğince muayene ettirilerek alacakları raporlara göre haklarında işlem yapılır.
+Gözle görülür derecede hizmete mani sakatlığı olanlar, yoklama ve muayene kurulunca durumları tesbit ve kaydedilerek mükellefiyet dışı bırakılırlar.

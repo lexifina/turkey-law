@@ -1,0 +1,1 @@
+Madde 21 – 2 nci maddenin ikinci fıkrasına göre bir mülki idare amirliği sınırları dışından alınacak mükelleflerin tesbit, yoklama, muayene, görevlendirme, yenileme ve göreve çağırma gibi iş ve işlemleri; ilgili mülki idare amirliklerinin isteği üzerine, mükelleflerin bulundukları yerlerin mülki idare amirlikleri tarafından yapılır.

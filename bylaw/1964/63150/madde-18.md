@@ -1,0 +1,2 @@
+Madde 18 – Sivil savunma teşkilleri, olağanüstü hallerde kendilerine yapılacak tebligat üzerine tayin edilen toplanma veya görev yerlerine gelerek vazifeye hazır bulunurlar. Bu husus hassasiyet derecesi az olan veya hassas bölgeler dışındaki yerlerde ikaz veya alarm haberlerinden sonra görev başı yapılmak üzere de tertiplenebilir.
+Kılavuzluk personeline de yerlerinden ayrılmamaları ve göreve hazır bulunmaları tebliğ olunur.

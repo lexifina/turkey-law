@@ -1,0 +1,3 @@
+Madde 51 – Tahliye edilen kimselerin mahallerinde bıraktıkları mallar ile, tahliye edilmeyenlerin kendilerinin ve mallarının korunmasından, kargaşalık ve paniklerin önlenmesinden mahalli idare amirleri sorumludur.
+Askeri harekata sahne olabilecek tehlikeli bölgelerdeki idare amirleri ile memurlar son ana kadar görevleri başından ayrılamazlar. Çekilme sırasında bunlardan hangilerinin kalacakları, 29 uncu maddeye göre tesbit ve Milli Güvenlik Kurulunca tasvip olunacak esaslar dairesinde tayin olunur.
+Düşman eline geçmesi mahzurlu görülen ve taşınamayan resmi evrak ile diğer tesis eşya ve mallar hakkında özel mevzuatına ve usulüne göre gereken işlem yapılır.

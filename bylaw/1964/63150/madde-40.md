@@ -1,0 +1,1 @@
+Madde 40 – Seyrekleştirmede; o yerdeki memur ve diğer görevliler ile kamu hizmetleri, ekonomik, endüstriyel ve sosyal hayat için lüzumlu diğer personel yerinde kalırlar. Çocuklar, çocuklu kadınlar, hastalar ve ihtiyarlar gibi kimseler öncelikle çıkarılırlar.

@@ -1,0 +1,1 @@
+Madde 75 – Halk öğretimi süresi, yılda en az 10 saattir. Bu öğretimin programı, uygulama şekli, süresi ve yürütülmesine ilişkin esaslar, 86 ncı maddede yazılı hususlar da gözönünde bulundurulmak suretiyle İçişleri Bakanlığınca tesbit edilerek gerekenlere bildirilir.

@@ -1,0 +1,1 @@
+Madde 103 – Hassas bölgeler içindeki resmi ve hususi müesseseler ikaz ve alarm haberlerini, o bölgeye ait genel ikazalarm sistemi vasıtasiyle alırlar. Bu sistemden faydalanamayacak durumdaki önemli müesseselere, bu haberlerin ulaştırılması için Sivil Savunma İdaresince gerekli irtibat sağlanır.

@@ -1,0 +1,1 @@
+Madde 106 – İkaz ve alarm ile ilgili haber ve işaretlerin nevi ve şekilleriile bu haber ve işaretler üzerine yapılacak hareketler ve alınacak tedbirler, İçişleri Bakanlığınca önceden halka yayınlanır.

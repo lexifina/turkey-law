@@ -1,0 +1,2 @@
+Madde 108 – Sivil savunma hizmet ve faaliyetleri için gerekli vasıta, malzeme ve teçhizatın cins ve miktarları, 111inci madde ile bu Tüzüğe ekli listelerde gösterilmiştir. Bunların teferruatı ile yeni ihtiyaçlar ve teknik gelişmeler sebebiyle sivil savunma hizmet ve faaliyetleri için lüzum görülecek vasıta, malzeme ve teçhizat, İçişleri Bakanlığınca tesbit ve ilgililere de tebliğ olunur.
+Resmi ve özel müesseselerde; bu tüzükte gösterilenlerden ayrı olarak, kendi hizmet ve özelliklerine göre lüzumlu görülecek malzeme ve teçhizat da ilave olunabilir.

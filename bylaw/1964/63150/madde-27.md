@@ -1,0 +1,2 @@
+Madde 27 – Tahliye işlerinin, ilgili bakanlıklarla işbirliği yapılmak suretiyle maksada uygun şekilde planlanmasında ve uygulanmasından İçişleri Bakanı sorumludur.
+Bu konudaki bakanlıklararası işbirliği ve koordinasyonu sağlamak, Milli Güvenlik Kuruluna sunulacak esasları hazırlamak üzere, İçişleri Bakanlığında, ilgili bakanlıklardan yetkili temsilcilerinden mürekkep bir komite kurulur. Bu komite İçişleri Bakanının göstereceği lüzum üzerine ve tensip edeceği bir kimsenin başkanlığı altında toplanır.

@@ -1,0 +1,1 @@
+Madde 100 – Yetkili diğer kaynaklardan alınacak bilgiler ile tehlike halinin fiilen belirmesi veya ikaz alarm ve toplama merkezleri ile irtibatın kesilmesi gibi istisnai hallerde, tehlike haberleri; mahalli sivil savunma idare merkezi başkanı veya mülki idare amirlerinin emri ile de yayılabilir.

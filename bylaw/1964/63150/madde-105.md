@@ -1,0 +1,1 @@
+Madde 105 – Resmi ve hususi müesseseler; kendi kontrol merkezleri ile ünite, teşkilat ve kısımları ve bölgelerinde bulundukları koruma klavuzlukları veya idare merkezleri arasındaki sivil savunma hizmet ve faaliyetleriyle ilgili haberleşmeler için de telli ve telsiz muhabere, motosikletli ve bisikletli haberciler gibi gerekli tertibatı alırlar.

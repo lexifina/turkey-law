@@ -1,0 +1,1 @@
+Madde 83 – Tatbikat dolayısiyle İçişleri Bakanlığı ile mahalli en büyük mülki idare amirliklerince verilecek talimat ve emirlerin, yabancılar da dahil, resmi ve özel bütün müessese ve teşekküller ve halk tarafından yerine getirilmesi mecburidir.

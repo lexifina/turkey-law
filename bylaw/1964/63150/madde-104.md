@@ -1,0 +1,1 @@
+Madde 104 – Resmi ve hususi müesseselerde, alınacak ikaz ve alarm haberlerinin kendi içlerinde ve müştemilatındaki bütün personele anında duyurulması için, bünyesine göre özel "Alarm ve İrtibat Sistemi" kurulur. Bu maksatla siren, oparlör, çan, zil ve benzerleri sesli araçlar ve gereken yerlerde ışık tertibatı kullanılır.

@@ -1,0 +1,1 @@
+Madde 38 – Kesinleşen tahliye planları, lüzumu halinde Bakanlar Kurulunca verilecek karar üzerine uygulanır. Bakanlıklar ve bunlara bağlı veya denetlemelerine tabi daire ve müesseselerle mülki idare amirleri, kesinleşen tahliye planlarını aynen uygulamakla mükelleftirler.

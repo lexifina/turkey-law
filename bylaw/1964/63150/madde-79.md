@@ -1,0 +1,3 @@
+Madde 79 – Bakanlıklar, daire ve kurumlar, İçişleri Bakanlığınca belirtilecek esaslara uygun olarak kendi görev ve hizmet alanlarına giren sivil savunma ile ilgili konularda gereken öğretici yayın ve faaliyetlerde bulunurlar.
+Ayrıca, resmi ve özel daire, müessese ve teşekküller, sivil savunma ile ilgili öğretici yayınları çoğaltarak kendi teşkilat ve personeline dağıtabilirler.
+Gerçek ve tüzel kişiler tarafından sivil savunma konulariyle ilgili olarak yapılacak yayınlar, sivil savunma mevzuaat ve esaslarına aykırı olmak ve faydalı görünmek şartiyle İçişleri Bakanlığınca ilgililere ve halka tavsiye olunabilir.

@@ -1,0 +1,1 @@
+Madde 22 – Daire, müessese, fabrika ve teşekküllerde kurulacak sivil savunma teşkilleri personelinin tesbit, yoklama, muayene, görevlendirme, yenileme ve göreve çağırma gibi iş ve işlemleri, bu bölümdeki esaslara uygun olarak ilgili müesseselerce yapılır.

@@ -1,0 +1,1 @@
+Madde 11 – Sivil savunma teşkillerine ve kılavuzluklara ayrılan % 15 yedeği dahil mükelleflere mahalli mülki idare amirliklerince fotoğraflı ve tasdikli birer belge verilir. Bu belgeler, senelik yoklama ve eğitimler de işlenecek şekilde düzenlenir ve ayrıca sivil savunma ile ilgili mükellefiyet ve müeyyidelere ait hükümlerin özeti bu belgelere yazılır.

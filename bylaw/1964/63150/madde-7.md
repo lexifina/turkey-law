@@ -1,0 +1,1 @@
+Madde 7 – Yoklama ve muayene sırasında mükelleflerin künye ve adresleri, meslek veya işleri, çalışıp çalışmadıkları, okuma yazma dereceleri, ekli kabiliyet cetveline göre hangi hizmetlere daha elverişli oldukları, "Mükellefler Yoklama ve Muayene Defteri" ne geçirilir.

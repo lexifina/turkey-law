@@ -1,0 +1,2 @@
+Madde 101 – Halka bildirilecek ikaz ve alarm haberlerinin duyurulması için, hassas bölgelerde özel siren tertibatı yapılır. Hassas bölgeler dışındaki şehir, kasaba, mevki veya köylerde varsa sirenler, siren bulunmayan yerlerde bu maksatla tertiplenecek diğer sesli veya işaretli araçlar kullanılır. Resmi ve hususi müesseselere ait sirenlerle diğer yayın araçlarından da faydalanılabilir.
+İkaz ve alarm haberlerinin duyurulmasına ait araç ve işaretler önceden halka bildirilir.
