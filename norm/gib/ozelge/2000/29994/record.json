@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5501-2693/14084",
+  "source_id": 29994,
+  "date": "2000-03-30",
+  "title": "Firmanın, reklamasyon hizmetleri karşılığında yurt dışındaki firmalara ödediği bedeller üzerinden katma değer vergisi hesaplanarak sorumlu sıfatıyla beyan edilmesi söz konusu değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29994",
+  "source_sha256": "9c56fa2ec05ee514537d03847d3854f0d5ee7109e55293ade682f9d431e4556f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
