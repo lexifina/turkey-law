@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3001",
+  "year": 1936,
+  "title": "Vilâyet idaresi Kanununun 2. ve 71. maddesini değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-06-16",
+  "gazette_issue": "3331",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3331.pdf",
+  "source_sha256": "1c866816b4083dbd6bf1126147fea1ec4ff819f1bf36b765907e0b4c67de73a8",
+  "text_sha256": "1303dc2f851d58b83c1aabd6cdbc3815aa24929cc196c93e1dbfc1115bdd85ea",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      15,
+      52
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01603001.pdf",
+    "source_sha256": "87a8950badbba81bf64082e730d7b42ea783c0db039f950aa73273074425c8e2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9576,
+    "bag": 0.9301,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9731,
+    "rg_words": 191,
+    "kd_words": 186,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
