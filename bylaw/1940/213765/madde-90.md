@@ -1,0 +1,1 @@
+Madde 90 – Kendilerine şahsi mükellefiyet tatbik olunan kimse hizmet mevkiini terk ederse Milli Müdafaa Mükellefiyeti Kanununun 66 ncı maddesine göre takibat yapılmak için bu hali tesbit eden subay hemen keyfiyeti ve suç sahibinin hüviyetini, ikametgahını alakalı askeri makama verir.

@@ -1,0 +1,1 @@
+Madde 50 – M.M. Mükellefiyeti Komisyonu bu cetvelleri alınca hemen içtima ederek istenilen nakil vasıtalarını şubeden verilen nispet dahilinde köy ve mahallelere taksim eder. Bu suretle her köy ve mahalleden aynı yüzde nispeti dahilinde nakil vasıtası almak suretiyle her hangi bir mıntıkanın daha ağır bir mükellefiyete tabi tutulmamasını temin eder.

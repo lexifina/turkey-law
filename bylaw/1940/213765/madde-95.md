@@ -1,0 +1,1 @@
+Madde 95 – Bir mahalde iskan olunan veya konaklayan kıtalara komuta eden subaylar tarafından her ayın son günü ve keza o mahallin terk olunduğu gün işgal olunan yerlerin bedelinin tediyesine esas olmak üzere iki nüshalı bir beyanname tanzim olunur. Vusul ve azimet günleri de yazılarak o mahallin tabi olduğu Milli Müdafaa Mükellefiyeti Komisyonuna verilir.

@@ -1,0 +1,1 @@
+Madde 2 – Milli Müdafaa Mükellefiyeti, mükelleflerin kudret ve kabiliyeti ve mevcut menbaları gözönüne alınarak adil bir nispet dairesinde tevzi edilir. Her teklif yazılı ve imzalı kağıtlarla yapılır. Bunlarda mükellefiyetin mahiyeti, miktarı ve mümkün oldukça devam müddeti gösterilir. Yapılan mükellefiyete karşı bir makbuz verilir.

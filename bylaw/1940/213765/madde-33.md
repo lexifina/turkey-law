@@ -1,0 +1,1 @@
+Madde 33 – Nakil vasıtaları tahrir yerlerine her türlü teçhizatları, koşumları ve yedek parçalariyle birlikte getirilir. Ve tahrir cetvellerine vasıtalarla birlikte bunlar da yazılır. Noksanları işaret edilir.

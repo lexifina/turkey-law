@@ -1,0 +1,1 @@
+Madde 63 – Mükellefiyet yoliyle tedarik olunan nakil vasıtaları bir askeri müfrezeyi veya eşyayı beş günden fazla taşıyacaksa hareketten evvel mükellefiyet komisyonu ile müfreze komutanı tarafından bu vesaitin evsafı ve bulundukları haller müştereken tesbit edilir.

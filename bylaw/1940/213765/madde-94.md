@@ -1,0 +1,1 @@
+Madde 94 – Milli Müdafaa Mükellefiyeti Komisyonları Milli Müdafaa Mükellefiyeti Kanununun 16 ncı maddesinin ikinci fıkrası mucibince bedeli gaip şahsaait olmak üzere sükna tedarikine mecbur oldukları zaman mucip sebeplere müstenit ve tediye olunacak paranın miktarını mübeyyin bir zabıt varakası tanzim ve mümkün olduğu kadar süratle alakalılara tebliğ ederler.

@@ -1,0 +1,1 @@
+Madde 18 – 6 ncı maddenin c fıkrasında yazılı makam sahipleri icraatı mütaakip ellerinde kalan mükellefiyet karnelerini ve diğer matbu evrakı derhal kendilerine salahiyet vermiş olan makama iade ederler.

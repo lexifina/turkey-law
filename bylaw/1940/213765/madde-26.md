@@ -1,0 +1,1 @@
+Madde 26 – Tahrir ve tesbitte mevcut olan mevat ve malzeme yurt kaynaklarını bilmek bakımından esastır. Ayrıca matbu cetvellerin mahsus hanesindeki "her zaman bulunan miktar" ise tahavvülata uğramıyacak tarzda hesap edilerek doldurulur.

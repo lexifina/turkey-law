@@ -1,0 +1,1 @@
+Madde 13 – Müstesna hallerde müfrez bir kıta komutanı mükellefiyet karnesini hamil olmadığı halde emrinde bulunan insan ve vasıtaların yevmi istihkaklarını icabında şahsi mesuliyeti altında ve şahsi senediyle mükellefiyet yoliyle alır ve keyfiyeti derhal üstüne bildirir.

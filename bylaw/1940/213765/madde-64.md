@@ -1,0 +1,1 @@
+Madde 64 – Muvakkat bir zaman için mükellefiyete tabi tutulan nakil vasıtalarından teşkil olunacak kafilelere, şahsi mükellefler arasından münasip biri, Milli Müdafaa Mükellefiyeti Komisyonu tarafından kafile başı tayin olunur.

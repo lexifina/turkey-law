@@ -1,0 +1,1 @@
+Madde 49 – Askerlik şubeleri seferi nakil vasıtaları ihtiyaç cetvellerini nümunesine göre doldurarak M.M. Mükellefiyeti Komisyonlarına hazar vaktinde verirler ve aynı zamanda M.M. Mükellefiyeti Komisyonu mıntakasından alınacak bütün nakil vasıtalarının yüzde nispetini de bildirirler.

@@ -1,0 +1,1 @@
+Madde 97 – Yukarıki maddede bahsi geçen umum müdürler, azami istifade temini için, gerek, mevcut vasıtalarının ve gerek şirketlere veya şahıslara ait olup da emrine geçen bütün nakil vasıtalarının iyi bir halde muhafazası ve arızalılarının tamir edilerek emre hazır bulundurulması hususunda baş komutanlığa ve bunun teşekkülüne kadar Genelkurmay Başkanlığına karşı mesuldürler.

@@ -1,0 +1,1 @@
+Madde 121 – Mükellefiyet yoliyle alınan herşeye makbuz verildiği gibi şahsan yapılan mükellefiyette de hizmetin cinsi ve nevi ve mahiyeti ve devam müddeti tasrih edilmek şartiyle mükellefe bir vesika verilir. Mevcut olmayanlar için verilecek tesellüm makbuzu Milli Müdafaa mükellefiyeti komisyonunda muhafaza edilir.

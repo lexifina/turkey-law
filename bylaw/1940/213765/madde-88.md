@@ -1,0 +1,1 @@
+Madde 88 – Mükellefiyete tabi tutulan kılavuzlar, sailer, sürücüler ve iş- çiler hizmetin hitamında vazife yaptıklarına dair birer vesika alırlar. Bu vesikalar kılavuzlara müfreze komutanı tarafından, sailere mürsenülileyh tarafından, sürücülere müfreze komutanı ile müştereken kafile başı tarafından ve işçilere salahiyetli müfreze komutaniyle birlikte işbaşı tarafından verilir.

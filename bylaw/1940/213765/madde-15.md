@@ -1,0 +1,1 @@
+Madde 15 – Umumi seferberlikte bir deniz kuvveti komutanı zaruret halinde her zaman ve her yerde tüccar gemilerine vesair deniz ve hava vasıtalarına bütün malzeme, teçhizat, hamule ve eşhas ve mürettebatiyle birlikte mükellefiyet koyabilir.

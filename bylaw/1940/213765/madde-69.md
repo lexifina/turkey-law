@@ -1,0 +1,1 @@
+Madde 69 – Tek tırnaklı ve çift tırnaklı hayvanlar için tatbiki gereken ve ordu hayvanlarının bulaşık hastalıklara karşı korunmasına matuf olan aşı ve serumlar hayvan depolarında veya kıtalarda veterinerler tarafından tatbik olunur.

@@ -1,0 +1,1 @@
+Madde 84 – Şahsi mükelleflerin muhtelif hizmetlere tayin ve sevklerinde sıhhi ve ailevi durumları gözden uzak tutulmaz; alışkanlık ve tahammül derecelerine riayet olunur. İcabında mübadele ve münavebeleri de yapılır.

@@ -1,0 +1,1 @@
+Madde 103 – Başkomutanlık veya Genelkurmay Başkanlığı demiryolları veya deniz ve hava yollarından bir kısmını veya tamamını doğrudan doğruya ve askeri idare altında çalıştırmak isterse bu hususta kanunun 47 nci maddesi mucibince muamele olunur ve işletme tarzı Başkomutanlık veya Genelkurmay Başkanlığı ile Milli Müdafaa ve Münakalat Vekaletleri arasında tesbit olunur.

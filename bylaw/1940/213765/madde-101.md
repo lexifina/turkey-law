@@ -1,0 +1,1 @@
+Madde 101 – Mükellefiyetin kaldırılması halinde işbu vesaitin bulunduğu son durumları 96 ncı maddede adı geçen umum müdürlükler tarafından ve bu maddedeki tafsilata göre zabıt varakalariyle tesbit olunur.

@@ -1,0 +1,1 @@
+Madde 34 – Kanunun 24 üncü maddesi mucibince yapılacak tahrirlerde bir toplanma yerinde bulunan yabancı köylülerin ve bunlara ait nakil vasıtalarının yerleştirilmemesinden ve bu esnada toplanma yeri civarındaki mezruat ve sairenin muhafaza edilmemesinden idare memurları mesuldür.

@@ -1,0 +1,1 @@
+Madde 117 – Askeri makam tarafından vakı olacak talep üzerine 116 ncı maddede yazılı mahalleri idare edenler buralardaki malların hepsini ciheti askeriyeye bildirmeğe mecburdurlar. Mükellefiyet emri mükellefiyet tatbik olunan emtianın mahiyet ve miktarını muhtevi olur.

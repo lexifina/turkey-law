@@ -1,0 +1,3 @@
+Madde 29 – Her üç ayda bir M. M. Mükellefiyeti Komisyonları ellerinde bulunan tahrir ve tesbit cetvellerinde yazılı maddelerin ne miktar artıp eksildiğini aynı menbalardan teftiş ve tetkik ederler.
+Bir yangın veya ticaret terki, ihracat ve ithalat gibi sebeplerle vuku bulan artıp eksilişin mucip sebepleri cetvelin mahsus sütunlarına yazılarak ve bu hale dair komisyonca meşruhat verilerek mezkür cetvelin bir sureti nihayet 15 Nisana kadar Milli Müdafaa Vekaletine gönderilmiş bulunur.
+Yukarıda yazılı olanlardan başka Milli Müdafaa Vekaleti lüzum gördüğü zamanlarda da tahrir ve tesbit işini yaptırır.

@@ -1,0 +1,1 @@
+Madde 28 – Komisyonlar tahrir ve tesbit muamelesine her sene 1 inci Teşrin ayı başında başlarlar ve bu muameleyi nihayet bir buçuk ay içinde bitirirler. Valiler vilayetlerine ait tahrir ve tesbit cetvellerini İkinci teşrinin 15 inde postaya vererek M. M. Vekaletine gönderir. Hasat zamanları erken olan vilayetlerde hasadı mütaakip tahrir ve tesbit muamelesi yapılır.
