@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6302",
+  "year": 1954,
+  "title": "Askerî Fabrikalar Tekaüt ve Muavenet Sandığına Bağlı İşçilere Mesken Yaptırmaları İçin Borç Para Verilmesine Dair Olan Kanunun 1. Maddesinin Son Fıkrasının Tadili Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-08",
+  "gazette_issue": "8652",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8652.pdf",
+  "source_sha256": "9fb8a085bcc1365d5b0d61d884be5f728bd3ed6a2b2a4b6c6d2ed267a2c9ef67",
+  "text_sha256": "0da67e8df1773c4ea63a475e7cc6e931225ac286d3e7668ad4e1a8692fc5edd3",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      355,
+      370
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606302.pdf",
+    "source_sha256": "2d4e06b3e7c710cf19c2c2683302907f3cbf98e6537d1686506447c59fc7fe13",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9765,
+    "bag": 0.9171,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9808,
+    "rg_words": 103,
+    "kd_words": 104,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
