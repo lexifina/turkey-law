@@ -1,0 +1,5 @@
+Düzenlenecek raporlar üzerine yapılacak işlemler:
+Madde 8 – Defterdarlık Gelir Müdürlükleri, Vergi Dairesi Müdürlükleri veya Malmüdürlükleri yetkili sağlık kuruluşları tarafından düzenlenerek resmi yazıyla gönderilen raporları (şüphe uyandıran raporlar için ilgili hastaneyle temasa geçerek raporların doğruluk derecesini saptadıktan sonra) Maliye Bakanlığı Gelirler Genel Müdürlüğüne doğrudan doğruya ve geciktirmeden göndereceklerdir.
+Defterdarlık Gelir Müdürlükleri, Vergi Dairesi Müdürlükleri ve Malmüdürlükleri sakatlık indiriminden yararlandırılan hizmet erbabının ad ve soyadını doğum yerini, doğum tarihini, baba adını, çalıştıkları kuruluşu, raporu veren hastane ile rapor tarih ve numarasını tutacakları bir alfabetik fihrist defterine yazacaklardır.
+Defterdarlık Gelir Müdürlükleri, Vergi Dairesi Müdürlükleri ve Malmüdürlükleri sorumluluk bölgelerinde kendilerince sakatlık indiriminden yararlanabilecekleri bildirilmediği halde özel ve kamu kuruluşlarında bu indirimden yararlandırılanların olup olmadığını tutacakları alfabetik fihrsit defterinden yararlanarak sürekli olarak araştıracaklardır.
+Dış kuruluşlarımızda görevli hizmet erbabına ilişkin hükümler:

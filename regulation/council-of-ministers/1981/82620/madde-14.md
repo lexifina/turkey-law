@@ -1,0 +1,6 @@
+Yönetmeliğin dayanağı:
+Madde 14 – (Değişik: 15/6/1981 - 8/3179 K.)
+Bu Yönetmelik 193 sayılı Gelir Vergisi Kanununun değişik 31 nci maddesinin 3 üncü bendi gereğince hazırlanmıştır.
+Geçici Madde – Bu Yönetmeliğin yürürlüğe girdiği tarihe kadar 193 sayılı Gelir Vergisi Kanununun 23/1 inci maddesindeki sakatlık istisnasından yararlanmakta olan hizmet erbabı, 193 sayılı Gelir Vergisi Kanununun değişik 31/3 üncü maddesindeki sakatlık indiriminden yararlanmaya devam edebilmek için bu Yönetmeliğin Resmi Gazete'de yayımlandığı tarihten itibaren azami altı ay içinde ve Yönetmelikte belirtilen esas ve şekillere göre yeniden rapor almak zorundadır.
+Altı aylık süre içinde rapor almayan hizmet erbabı bu sürenin bitim tarihinden itibaren sakatlık indiriminden faydalanamaz.
+193 sayılı Gelir Vergisi Kanunun 23/1. maddesindeki istisnadan faydalandırılan tüm sakat hizmet erbabı bu Yönetmelik yürürlüğe girinceye kadar birinci derece sakat sayılır. Şu kadar ki bu Yönetmeliğe göre alınacak Sağlık Kurulu raporları, Merkez Sağlık Kurulunca kesin karara bağlanıp ilgililere tebliğ edilinceye kadar, söz konusu sakat hizmet erbabı, daha sonra genel hükümler çerçevesinde gerekli düzeltme yapılmak kaydiyle birinci derece sakatlar için öngörülen indirimden faydalanmaya devam eder.
