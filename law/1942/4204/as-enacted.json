@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4204",
+  "year": 1942,
+  "title": "Ankara Dil ve Tarih-Coğrafya Fakültesine bağlı bir «Türk İnkılâp Tarihi Enstitüsü» kurulması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-04-22",
+  "gazette_issue": "5090",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5090.pdf",
+  "source_sha256": "9a077bb226d8104c74933c2a43e35ec751d9278bc2411b2bfe7c9dcbe27dd8ae",
+  "text_sha256": "275856e4f59b460a9d2eba46c7a7090859c3bdd436888334fdea1ec95821bb78",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      15,
+      112
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304204.pdf",
+    "source_sha256": "7b432513c381a1faa8246936164de8e30ab7e3b08ab0e2c450f35b9e0ef079f0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.923,
+    "bag": 0.8988,
+    "kd_coverage": 0.9845,
+    "kd_body_compared": 0.9845,
+    "rg_words": 501,
+    "kd_words": 515,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
