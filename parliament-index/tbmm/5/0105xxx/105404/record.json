@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 105404,
+  "assembly": "TBMM",
+  "term": 5,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Cumhurbaşkanlığı filarmonik orkestrası teşkilâtı ve orkestra mensublarının terfi ve tecziyeleri hakkında (1/595)",
+  "title": "Cumhurbaşkanlığı filarmonik orkestrası teşkilâtı ve orkestra mensublarının terfi ve tecziyeleri hakkında (1/595)",
+  "first_sitting_date": "1936-06-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 12,
+      "sitting": 76,
+      "sitting_date": "1936-06-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c012/tbmm05012076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c012/tbmm05012fih.pdf",
+      "pages": [
+        "120",
+        "188",
+        "256:260",
+        "266",
+        "277:280"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1318&v_gelecek_sayfa=301&v_kullanici_id=27483909",
+  "source_sha256": "54cd553bcd0742bfdc12a6f7513fbc80dbb7895311b6fb57d712aa27752d2329",
+  "in_force": "1936-06-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
