@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.GEL.0.41/4102-201/050679",
+  "source_id": 24674,
+  "date": "1999-11-19",
+  "title": "Gerçek usulde vergiye tabi olmayan çiftçilerden, küspe, yem gibi zirai faaliyet sonucu elde edilen ürünlerin alımları sırasında müstahsil makbuzu, toz şeker alımlarında ise gider pusulası düzenlenmesi gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24674",
+  "source_sha256": "9c0917107f6a6b83eecf186fbf7e1a78142e833f0536f5700f2adaf6db693a59",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
