@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-08-07",
+  "issue": "25546",
+  "edition": "regular",
+  "item": 7,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Çevre ve Orman Bakanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040807-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (7 = 7)",
+  "ilan_codes": [
+    "10080/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040807-4.htm",
+  "category_page_sha256": "df47e125f058a0fe2d3dcc0001df9da1eb7653355f66c11e52c07b8e2beb0759",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040807.htm",
+  "index_sha256": "46803a216a57a77f43229018a42520c7cf433cc86a04321e94b4214c1066ed8d",
+  "index_header": "7 Ağustos 2004 ... Sayı : 25546",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
