@@ -1,0 +1,2 @@
+Gözetim uygulaması (Değişik:RG-31/12/2004-25687)
+Madde 2- Gözetim uygulaması 3802.90.00.90.13 gümrük tarife istatistik pozisyonlu “Ağartma toprağı-Asit aktivasyonlu killer”in ithalatında ülke ayrımı gözetilmeksizin yapılacaktır. Sözkonusu madde ancak Dış Ticaret Müsteşarlığınca (Müsteşarlık) düzenlenecek gözetim belgesi ile ithal edilir. Gözetim belgesi gümrük beyannamesinin tescilinde ilgili gümrük idaresince aranır. Gözetim belgesinin bir örneği gümrük beyannamesine eklenir.”
