@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5274-146/37110",
+  "source_id": 33530,
+  "date": "1999-09-03",
+  "title": "Yatırım teşvik belgesi kapsamındaki ertelemeler için verilmiş teminatın, ayrı mükellefiyeti bulunan adi ortaklığı tarafından beyan edilen katma değer vergisi gözönüne alınarak çözülmesi mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33530",
+  "source_sha256": "7171be1f85b549914e9097b9b8993e7fbf34b899702f4b1088171d3948901682",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
