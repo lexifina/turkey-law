@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.46/4606-8961",
+  "source_id": 23433,
+  "date": "2004-09-09",
+  "title": "Sakat hizmet erbabına yapılan aylık ücret ödemelerinin vergilendirilmesi sırasında aylık tutarları üzerinden uygulanan sakatlık indirimi toplamı sakat hizmet erbabının asıl ücretlerini aşarsa; aşan kısmın o ayda yapılan fazla mesai, yan ödeme, döner serma",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23433",
+  "source_sha256": "765908e8161333d9d09035d6ac4118a249994bcc185adbc7af01659b6f6dee04",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
