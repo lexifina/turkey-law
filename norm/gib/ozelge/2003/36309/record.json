@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2291/037108",
+  "source_id": 36309,
+  "date": "2003-09-09",
+  "title": "T.C uyruğunda bulunan kimsenin Türkiye'de ve Türkiye hudutları dışındaki mallarının veraset yoluyla veya ivazsız bir şekilde çifte vatandaşlık hükümlerine tabi çocuklarına intikali ile sözü edilen kimsenin Türkiye'deki mallarının, ikametgahı Türkiye'de ol",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36309",
+  "source_sha256": "23b43d9e319203211c8f5a138c17ec9819d997486d2dd2d184669e092cd4c015",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
