@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 460737,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Türkiye Büyük Millet Meclisi eski üyeleri hakkındaki 30 Mayıs 1974 tarih ve 1824 sayılı Kanun ve Cumhurbaşkanınca bir daha görüşülmek üzere geri gönderme tezkeresi hakkında. (1/158)",
+  "title": "Türkiye Büyük Millet Meclisi eski üyeleri hakkındaki 30 Mayıs 1974 tarih ve 1824 sayılı Kanun ve Cumhurbaşkanınca bir daha görüşülmek üzere geri gönderme tezkeresi hakkında. (1/158)",
+  "first_sitting_date": "1976-05-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 19,
+      "sitting": 98,
+      "sitting_date": "1976-05-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c019/mm__04019098.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c019/mm__04019fih.pdf",
+      "pages": [
+        "289",
+        "379",
+        "613",
+        "662"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 105,
+      "sitting_date": "1976-06-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c020/mm__04020105.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c020/mm__04020fih.pdf",
+      "pages": [
+        "11:12",
+        "227:231",
+        "289"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=1301&v_kullanici_id=27484836",
+  "source_sha256": "3d89b6b369b888645f927a93108b76b450ea1d069ec9e8ef684dfa6f61d4f748",
+  "in_force": "1976-05-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
