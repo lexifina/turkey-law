@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 43780,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "İstanbul Üniversitesi 1958 yılı Bütçe Kanununa bağlı (A/1) işaretli cetvelde değişiklik yapılması hakamdaki kanun lâyihasına dair (1/305)",
+  "title": "İstanbul Üniversitesi 1958 yılı Bütçe Kanununa bağlı (A/1) işaretli cetvelde değişiklik yapılması hakamdaki kanun lâyihasına dair (1/305)",
+  "first_sitting_date": "1959-02-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 32,
+      "sitting_date": "1959-02-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c007/tbmm11007032.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c007/tbmm11007fih.pdf",
+      "pages": [
+        "3",
+        "453",
+        "458",
+        "476",
+        "439:543"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1113&v_gelecek_sayfa=301&v_kullanici_id=27484293",
+  "source_sha256": "dd0be261d15f0ccfde5c90f25b80da877fd640d7ed32680f0477e443dd83b563",
+  "in_force": "1959-02-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
