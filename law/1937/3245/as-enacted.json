@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3245",
+  "year": 1937,
+  "title": "Vilâyetler evinin inşaat, tesisat ve mefruşatının ikmali için 10 0000 liraya kadar gelecek senelere geçici taahhüd icrasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-06-24",
+  "gazette_issue": "3639",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3639.pdf",
+  "source_sha256": "e54dd301697b2a99780c83aa80f9af8fbddd1f251bfc45377ddde428baf86713",
+  "text_sha256": "06a8cc40c59774604d41a36b60cef852fbcbdb1bdcfc0ab21917bf823d348488",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      361,
+      377
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703245.pdf",
+    "source_sha256": "0f027607c3f11e3cab23f2f4ac71fee4da69ddd511881070786d4891257e56cd",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9526,
+    "bag": 0.9143,
+    "kd_coverage": 0.9659,
+    "kd_body_compared": 0.9451,
+    "rg_words": 89,
+    "kd_words": 91,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
