@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 237502,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "1991 Malî Yılı Bütçe Kanununa Bağlı (A) ve (B) işaretli Cetvellerde Değişiklik Yapılmasına Dair (1/830)",
+  "title": "1991 Malî Yılı Bütçe Kanununa Bağlı (A) ve (B) işaretli Cetvellerde Değişiklik Yapılmasına Dair (1/830)",
+  "first_sitting_date": "1991-08-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 62,
+      "sitting": 134,
+      "sitting_date": "1991-08-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c062/tbmm18062134.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c062/tbmm18062fih.pdf",
+      "pages": [
+        "179:202",
+        "262:267"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=919&v_gelecek_sayfa=901&v_kullanici_id=27484387",
+  "source_sha256": "ffa62613724789b084859a476e3f65514860fc3159f5858843553190b18423be",
+  "in_force": "1991-08-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
