@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-issue",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "1956-08-06",
+  "issue": "9374",
+  "issue_basis": "official archive file name /arsiv/<issue>.pdf (the archive numbers its files by issue; e.g. 24091.pdf = 26.06.2000, the issue before HTML issue 24092)",
+  "edition": "regular",
+  "archive_mukerrer_flag": null,
+  "item": 0,
+  "section": null,
+  "heading": null,
+  "title": "06.08.1956 tarihli Resmi Gazete",
+  "official_link": "https://www.resmigazete.gov.tr/arsiv/9374.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/Home/Filter",
+  "index_request": {
+    "method": "POST",
+    "searchtype": 2,
+    "arsivaramayeri": "1",
+    "from": "1956-01-01",
+    "to": "1956-12-31"
+  },
+  "index_sha256": "281e19d0d774170e98f4f4996623c3a645ea5f08c2f80fc20c369bcfdbe06976",
+  "index_header": "official archive listing date 06.08.1956",
+  "issue_pdf": "https://www.resmigazete.gov.tr/arsiv/9374.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; whole issue published as a scanned PDF (no OCR); items not listed"
+}
