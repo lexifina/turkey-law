@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-08-12",
+  "issue": "25551",
+  "edition": "regular",
+  "item": 14,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Kırklareli Devlet Orman İşletmesi Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040812-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (18 = 18)",
+  "ilan_codes": [
+    "10117/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040812-3.htm",
+  "category_page_sha256": "73a3212518d79c74c297cee77a2d8b04d6ec8cea2daff608f2d7d0b5197ca91a",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/08/20040812.htm",
+  "index_sha256": "a81134b0ef7e3e2669ab0fb87dc55a40eb5e7fd8273b316d39a9f51ff94da986",
+  "index_header": "12 Ağustos 2004 ... Sayı : 25551",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
