@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5112-191/029979",
+  "source_id": 38066,
+  "date": "1999-09-14",
+  "title": "Konut Yapı Kooperatifinin plan kote alınması, kotlu çevre tanzim planı, arazi kazı ve dolgu planı hazırlanması işlerinin yüklenici firma tarafından ifası tarafından katma değer vergisi uygulanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38066",
+  "source_sha256": "8c4baf5a63a4eda4fbd41e48344a7baa7cb2671e54d6e5ea336a83c71b844ac0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
