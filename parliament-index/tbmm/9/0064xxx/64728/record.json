@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 64728,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü 1947 Bütçe yılı Kesinhesabına ait Uygunluk Bildiriminin sunulduğuna dair Sayıştay Başkanlığı tezkeresi ile Devlet Demir yolları ve Limanları İşletme Genel Müdürlüğü 1947 yılı Kesinhesap kanunu tasarısına dair (3/343, 1/328)",
+  "title": "Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü 1947 Bütçe yılı Kesinhesabına ait Uygunluk Bildiriminin sunulduğuna dair Sayıştay Başkanlığı tezkeresi ile Devlet Demir yolları ve Limanları İşletme Genel Müdürlüğü 1947 yılı Kesinhesap kanunu tasarısına dair (3/343, 1/328)",
+  "first_sitting_date": "1952-12-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 18,
+      "sitting": 22,
+      "sitting_date": "1952-12-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c018/tbmm09018022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c018/tbmm09018fih.pdf",
+      "pages": [
+        "431"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 23,
+      "sitting_date": "1953-01-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c019/tbmm09019023.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c019/tbmm09019fih.pdf",
+      "pages": [
+        "7:8",
+        "10",
+        "22",
+        "33:34",
+        "43:46"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=1001&v_kullanici_id=27484171",
+  "source_sha256": "fb4c11a435a7806052bd870123a786f424de216c799122ef4490a178d7378d32",
+  "in_force": "1952-12-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
