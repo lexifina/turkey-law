@@ -1,0 +1,71 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6728",
+  "year": 1956,
+  "title": "Maarif Vekâleti kuruluş kadrolariyle merkez kuruluş ve görevleri hakkındaki 2287 sayılı Kanunda değişiklik yapılmasına dair 4926 sayılı Kanuna bağlı kadro cetvellerinde değişiklik yapılması hakkında kanun",
+  "adopted": "1956-05-02",
+  "adopted_as_published": "02/05/1956",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "08.05.1956 No: 9303",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806728.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 38",
+  "committee_reports": [
+    {
+      "label": "TBMM 134 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c011/tbmm10011060ss0134.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 10,
+      "kayit_no": 51857,
+      "title": "Maarif Vekâleti kuruluş kadrolariyle merkez kuruluş ve görevleri hakkındaki 2287 sayılı Kanunda değişiklik yapılmasına dair 4926 sayılı Kanuna bağlı kadro cetvellerinde değişiklik yapılması hakkında kanun",
+      "adopted_as_published": "02/05/1956",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806728.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 134 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c011/tbmm10011060ss0134.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 11,
+          "sitting": 59,
+          "sitting_date": "1956-04-30",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c011/tbmm10011059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c011/tbmm10011fih.pdf",
+          "pages": [
+            "210"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 60,
+          "sitting_date": "1956-05-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c011/tbmm10011060.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d10/c011/tbmm10011fih.pdf",
+          "pages": [
+            "246"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=643&v_gelecek_sayfa=301&v_kullanici_id=27483184",
+      "page_sha256": "e5b57511159d69208d5de16d16fbaa17df559a0c40f55fecd3655745ade0231f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=10&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e5b57511159d69208d5de16d16fbaa17df559a0c40f55fecd3655745ade0231f",
+  "issuer": "TBMM",
+  "in_force": "1956-05-02",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 02/05/1956; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
