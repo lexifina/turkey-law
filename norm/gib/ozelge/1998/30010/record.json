@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5279-20-2/45984",
+  "source_id": 30010,
+  "date": "1998-12-09",
+  "title": "Belediye encümeni kararı ile yapılan satışın cephe yönünden mağdur duruma düşen kooperatife yapılacak satış müzayede mahallinde yapılan bir satış sayılamayacağından, belediye encümeni kararı ile yapılan bu satışta katma değer vergisi uygulanmaması gerekme",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30010",
+  "source_sha256": "b35f8a511a75fca9a8dcbc5cb36547a43ab53c8fbaac21c924e7d12667269b22",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
