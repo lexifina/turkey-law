@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6887",
+  "year": 1957,
+  "title": "Orta Doğu Teknik Üniversitesinin kuruluş ve hazırlıkları hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-01-29",
+  "gazette_issue": "9521",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9521.pdf",
+  "source_sha256": "e03e3b414e0847cc1eae8b500aa0a83cbe862c941f176357f6e193ff1b6507b4",
+  "text_sha256": "3757d9bbbad7fd431a911805be48ebe1fbe6fcf4dd771535b782b5cf20ad576b",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      192,
+      221
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906887.pdf",
+    "source_sha256": "32763c1f4e8ad44a1a45cec756cbf59b266e6c92365dda3326d79ed62109b546",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.966,
+    "bag": 0.9139,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9809,
+    "rg_words": 148,
+    "kd_words": 157,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
