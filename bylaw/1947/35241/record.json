@@ -1,7 +1,8 @@
 {
   "checked_on": "2026-11-13",
+  "corrects_commit": "0b6d6d76232b0b306238bdb28f620c0e939839dd",
   "date_gazette": "6517",
-  "date_quote": "28.01.1947",
+  "date_quote": "7 – Bu tüzük hükümlerini İçişler",
   "first_law": null,
   "gazette": "6517",
   "history": "current-text",
@@ -11,8 +12,8 @@
     "referenced": 0,
     "source": 0
   },
-  "in_force": "1947-01-28",
-  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "in_force": "1947-01-29",
+  "in_force_basis": "act commencement clause: 1 days after official Gazette publication",
   "kind": "bylaw",
   "label": "oldest version available",
   "published": "1947-01-28",
