@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 1997-10-08T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "1997-10-08",
+  "official_number": "B.07.0.GEL.0.53/5301-2702-42972",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30021",
+  "source_id": "ozelge:30021",
+  "source_row_sha256": "2ed9e840b6ef62eec16261ba331a7c67b10c5587a58c8fd32d604d9c0fe2a510",
+  "title": "D.S.İ. Genel Müdürlüğünün bedel karşılığı yapacağı hizmetlerin K.D.V.'ne tabidir.",
+  "version_label": "as-enacted",
+  "word_count": 175
+}
