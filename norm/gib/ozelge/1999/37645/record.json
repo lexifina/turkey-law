@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51-501/57718",
+  "source_id": 37645,
+  "date": "1999-11-29",
+  "title": "Üniversitenin Derneğine ait kantininin kamu mensubu kişilere hizmet vermesi durumunda da kurumlar vergisinden muaf tutulmaması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37645",
+  "source_sha256": "053424f0b99762907ad9062703e2a29f880e19b497dcf14ad3ac874041a70740",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
