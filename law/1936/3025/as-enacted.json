@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3025",
+  "year": 1936,
+  "title": "Van gölü işletmesi Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-06-17",
+  "gazette_issue": "3332",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3332.pdf",
+  "source_sha256": "8cbbee1b42367d2a09e1e5341abe016ed12691a6db03976b1214b041652a28fb",
+  "text_sha256": "abd2c65fdf0c305591b8e720e538fc1dd1b338d58441ce08c9914fb76d81c4e6",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      59,
+      239
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01603025.pdf",
+    "source_sha256": "b0dd4e7f7de7459e7b3337ba21940d002f4904721c7653a07d36f2b1f0cf5bd7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9644,
+    "bag": 0.8986,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9955,
+    "rg_words": 875,
+    "kd_words": 885,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
