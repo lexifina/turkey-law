@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-2935",
+  "source_id": 29961,
+  "date": "2004-08-30",
+  "title": "İcra Memurluğunca satışı yapılacak olan taşınmazın, taşınmaza belirli bir oranda hissedar olan kişi tarafından  satın alınması halinde, söz konusu satış işlemine ilişkin olarak katma değer vergisi matrah o oranındaki hissenin indiriminden sonra kalan tuta",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29961",
+  "source_sha256": "8cf267a1900efb0b69a86a02690d0b26190de2ef3c1a257fabba4cf83854fe8e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
