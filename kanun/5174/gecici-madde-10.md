@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 10 - Bu Kanunun yürürlüğe girdiği tarihten sonra yapılacak ilk seçimlerden itibaren üst üste iki dönem süresince meclis başkanlığı, yönetim kurulu başkanlığı, konsey başkanlığı ve Birlik Başkanlığı görevlerinde bulunanlar aradan iki seçim dönemi geçmedikçe aynı görevlere yeniden seçilemezler.
