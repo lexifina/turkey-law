@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4602",
+  "year": 2000,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ukrayna Bakanlar Kabinesi Arasında Savunma Sanayii İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2000-11-22",
+  "gazette_issue": "24238",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2000/11/20001122.htm",
+  "source_sha256": "05d5d34032398c1182c013ee31c0ddbcf5939d229bb162009800a45f91602371",
+  "text_sha256": "4ab8532cf142d332deb4bf61cd951a2cd8d107d39da4825e6880312f8906f3a5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2000/11/22/24238-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2000/11/20001122.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
