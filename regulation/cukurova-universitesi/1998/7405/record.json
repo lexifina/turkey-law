@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.7405",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "ÇUKUROVA ÜNİVERSİTESİ DEVLET KONSERVATUVARI MÜZİK VE SAHNE SANATLARI İLKÖĞRETİM OKULU ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "7405",
+  "issuer": "ÇUKUROVA ÜNİVERSİTESİ",
+  "issuer_slug": "cukurova-universitesi",
+  "path": "regulation/cukurova-universitesi/1998/7405",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7405&MevzuatTertip=5",
+  "source_sha256": "9f3769a5ad3d0d0075c236829526af878943455206556f91acdf71146aa8fa27",
+  "source_bytes": 82188,
+  "published": "1998-09-14",
+  "gazette": "23463",
+  "in_force": "1998-09-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.09.1998); own commencement article: \"Bu Yönetmelik 1998-1999 eğitim-öğretim yılından geçerli olmak üzere ve yayın tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1998-1999 eğitim-öğretim yılından geçerli olmak üzere ve yayın tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2516,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
