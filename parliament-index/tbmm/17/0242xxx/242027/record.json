@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 242027,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "2.9.1971 Tarihli ve 1479 Sayılı Esnaf ve Sanatkârlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanununun Bazı Maddelerinin Değiştirilmesine Bir Fıkrasının Kaldırılmasına ve Bu Kanuna Bazı Maddeler Eklenmesine Dair Kanun Tasarısı ve Ordu Milletvekili Bahriye Üçok ve 10 Arkadaşının, Tokat Milletvekili Talat Sargın'ın ve Çanakkale Milletvekili Nadir Pazarbaşı ve 3 Arkadaşının Aynı Kanunun Bazı Maddelerinin Değiştirilmesine Dair Kanun Teklifleriyle 1479 Sayılı Bağ-Kur Kanununun 58. Maddesinin Değiştirilmesine ve Bu Kanuna 1 Ek Madde Eklenmesine Dair Kanun Tasarısı hakkında (1/542, 2/4, 2/47, 2/198, 1/650)",
+  "title": "2.9.1971 Tarihli ve 1479 Sayılı Esnaf ve Sanatkârlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanununun Bazı Maddelerinin Değiştirilmesine Bir Fıkrasının Kaldırılmasına ve Bu Kanuna Bazı Maddeler Eklenmesine Dair Kanun Tasarısı ve Ordu Milletvekili Bahriye Üçok ve 10 Arkadaşının, Tokat Milletvekili Talat Sargın'ın ve Çanakkale Milletvekili Nadir Pazarbaşı ve 3 Arkadaşının Aynı Kanunun Bazı Maddelerinin Değiştirilmesine Dair Kanun Teklifleriyle 1479 Sayılı Bağ-Kur Kanununun 58. Maddesinin Değiştirilmesine ve Bu Kanuna 1 Ek Madde Eklenmesine Dair Kanun Tasarısı hakkında (1/542, 2/4, 2/47, 2/198, 1/650)",
+  "first_sitting_date": "1985-03-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 72,
+      "sitting_date": "1985-03-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c014/tbmm17014072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c014/tbmm17014fih.pdf",
+      "pages": [
+        "75:85"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 73,
+      "sitting_date": "1985-03-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c014/tbmm17014073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c014/tbmm17014fih.pdf",
+      "pages": [
+        "112:124",
+        "137:140"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1074&v_gelecek_sayfa=401&v_kullanici_id=27484336",
+  "source_sha256": "b24f75a7f6d9493f6ce1708217d35b6b5964b336dfea6075a27b4b417a2f2312",
+  "in_force": "1985-03-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
