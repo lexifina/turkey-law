@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4033-55/5115",
+  "source_id": 24687,
+  "date": "1999-02-15",
+  "title": "Repo kazançları tevkifat kapsamında olup, tevkifat oranının (0) olması durumu değiştirmemektedir.İndirim oranı uygulananan gelirlerden olan repo kazancının indirim oranı uygulanmadan önceki tutarının izah nedeni olarak dikkate alınması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24687",
+  "source_sha256": "4ebe6a9959ee8ce6e3e3bc19c05e42225c2f4c6f9281ab05f878bc993fc00e75",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
