@@ -1,0 +1,83 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1568",
+  "year": 1947,
+  "title": "Milli Korunma Kanununun 4648 sayılı Kanunla değiştirilen 32. maddesinin (A) ve (B) bentlerinin yorumlanmasına mahal olmadığına dair",
+  "adopted": "1947-11-28",
+  "adopted_as_published": "28/11/1947",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.12.1947 No: 6768",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/karartbmmc030/karartbmmc03001568.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 30",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 8,
+      "kayit_no": 78452,
+      "title": "Milli Korunma Kanununun 4648 sayılı Kanunla değiştirilen 32. maddesinin (A) ve (B) bentlerinin yorumlanmasına mahal olmadığına dair",
+      "adopted_as_published": "28/11/1947",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc030/karartbmmc030/karartbmmc03001568.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 72,
+          "sitting_date": "1947-06-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c006/tbmm08006fih.pdf",
+          "pages": [
+            "161"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 5,
+          "sitting_date": "1947-11-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c007/tbmm08007005.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c007/tbmm08007fih.pdf",
+          "pages": [
+            "72:73"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 9,
+          "sitting_date": "1947-11-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c007/tbmm08007009.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c007/tbmm08007fih.pdf",
+          "pages": [
+            "108"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 12,
+          "sitting_date": "1947-11-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c007/tbmm08007012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c007/tbmm08007fih.pdf",
+          "pages": [
+            "229"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "9fc7a908492f11447d671fb1f18178ed31018559fb1974401107463345d50af5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9fc7a908492f11447d671fb1f18178ed31018559fb1974401107463345d50af5",
+  "issuer": "TBMM",
+  "in_force": "1947-11-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 28/11/1947; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
