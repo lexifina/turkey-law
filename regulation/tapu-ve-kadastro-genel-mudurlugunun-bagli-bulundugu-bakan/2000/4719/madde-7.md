@@ -1,0 +1,1 @@
+Madde 7- Deprem sonucu oluşan sinir : Depremin taşınmazların geometrik sekil ve konumlarında meydana getirdiği değişiklik sebebiyle zeminde oluşan ve taşınmazların deprem öncesi ilgilileri tarafından çekişmesiz kullanılan, bilirkişi beyanları ve teknik belgeleri yardımı ile belirlenen sinirdir.
