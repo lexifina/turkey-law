@@ -1,0 +1,19 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 6,
+  "term_label": "6. Dönem",
+  "legislative_year": 5,
+  "cilt": 28,
+  "sitting": 10,
+  "label": "10. Birleşim",
+  "sitting_date": "1942-11-27",
+  "date_as_published": "27 Kasım 1942",
+  "weekday": "Cuma",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c028/tbmm06028010.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c028/tbmm06028fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d06&v_yasama_yili=5&v_cilt=",
+  "source_sha256": "14b8f430ee9162816115c3e7b9308651ceb0c4b7983770fca139b27eeed2f3cb",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
