@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5501-2830-41301",
+  "source_id": 29981,
+  "date": "2003-10-03",
+  "title": "Yurtdışından ithal edilen malların belli bir miktarı geçmesi halinde yurt dışındaki satıcı firmanın ödeyeceği ciro primi için düzenlenecek faturalarda katma değer vergisinin hesaplanarak beyan edilmesi gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29981",
+  "source_sha256": "1b57b217eae780f32e52a0763615a37d744b4d753d0c65cb8bf48b9cbc2d42f2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
