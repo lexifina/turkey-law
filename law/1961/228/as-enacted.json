@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "228",
+  "year": 1961,
+  "title": "Emekli sandıkları ile malüliyet, ihtiyarlık ve ölüm sigortaları kanunlarına tabi hizmetlerin birleştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1961-01-12",
+  "gazette_issue": "10705",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10705.pdf",
+  "source_sha256": "668e7645f39ea8e40baa525b06c006763ee444d05f378157222ba47c427a29c1",
+  "text_sha256": "c95337bfc24cca8fefc6f47623d82e60738b42c1ae7f3814c6e218ba673692ea",
+  "text_status": "ocr",
+  "pages": [
+    24,
+    25
+  ],
+  "line_span": [
+    [
+      4832,
+      4991
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300228.pdf",
+    "source_sha256": "69583ac93a13b162f9358e9b8e74f3d8434f1eb7cc4f8d584ade1f2ddd5dde52",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9499,
+    "bag": 0.7915,
+    "kd_coverage": 0.9969,
+    "kd_body_compared": 0.9897,
+    "rg_words": 1055,
+    "kd_words": 974,
+    "own_anchor": true,
+    "foreign_anchors": 5
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
