@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4143",
+  "year": 1941,
+  "title": "Avukatlık kanununun muvakkat sekizinci maddesinde yazılı müddetin temdidi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-12-13",
+  "gazette_issue": "4983",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4983.pdf",
+  "source_sha256": "17483d399e6c6e2abc3de7ef9d96280df87758be1b25b5965782c6be0e5bd14b",
+  "text_sha256": "5f5ca1324587778b0e274fe2465469e1165c9084f2a18cd9156e25fece30a12f",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      205,
+      216
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304143.pdf",
+    "source_sha256": "9510f7adfb9e0c63a8114d02e1ef6b8e1909af08e6796f9b748716457c02996c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9616,
+    "bag": 0.8444,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9556,
+    "rg_words": 47,
+    "kd_words": 45,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
