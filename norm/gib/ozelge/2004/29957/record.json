@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401- 2905-46201",
+  "source_id": 29957,
+  "date": "2004-10-01",
+  "title": "Mal teslimi ve hizmet ifası hallerinde KDV'nin mükellefi bu isleri yapanlar olup, derneklere bedel karşılığında yapılan mal teslimler ve hizmet ifaları ile ilgili olarak KDV Kanununda herhangi bir istisna bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29957",
+  "source_sha256": "bcc2d5b67e33dca5cb5fe2e6a6c84007e6dea101a97fef3c6d64b197250197ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
