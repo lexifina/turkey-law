@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 468192,
+  "assembly": "Milli Birlik Komitesi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar / Bayındırlık İmar Ve İskan Komisyonu Raporu",
+  "summary": "Vehbi Ersü ve Emanullah Çelebi'nin, 6085 sayılı Karayolları Trafik Kanununun bazı maddelerinin değiştirilmesi, bazı maddelerinin kaldırılması ve bu kanuna geçici dört madde eklenmesi hakkında kanun teklifi ve Bayındırlık ve İmar Komisyonu raporu (2/179)",
+  "title": "Vehbi Ersü ve Emanullah Çelebi'nin, 6085 sayılı Karayolları Trafik Kanununun bazı maddelerinin değiştirilmesi, bazı maddelerinin kaldırılması ve bu kanuna geçici dört madde eklenmesi hakkında kanun teklifi ve Bayındırlık ve İmar Komisyonu raporu (2/179)",
+  "first_sitting_date": "1961-01-05",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 71,
+      "sitting_date": "1961-01-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MBK_/d00/c005/mbk_00005071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MBK_/d00/c005/mbk_00005fih.pdf",
+      "pages": [
+        "70:80"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=MBK&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=21&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=21&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "fc66fe0ef8fcdfc9629df5b574825e99a890925df5168bdcd8cd2a25619721d7",
+  "in_force": "1961-01-05",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
