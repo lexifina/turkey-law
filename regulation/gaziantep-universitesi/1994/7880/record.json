@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 15 – Bu Yönetmelik 1994-1995 eğitim-öğretim yılı I. Yarıyıl başından itibaren yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1994-08-27",
+      "27.08.1994",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "1995-07-18",
+      "RG-18/07/1995-22347",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-18/07/1995-22347",
+  "first_law": null,
+  "gazette": "22034",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1995-07-18",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/1994/7880",
+  "published": "1994-08-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7880&MevzuatTertip=5",
+  "source_bytes": 25321,
+  "source_id": "8.5.7880",
+  "source_sha256": "f836e5056f6b001c2565ee3fea31fdc5a114b8cce83fe772c9e4a14b05c94e60",
+  "text_status": "current-consolidated",
+  "title": "GAZİANTEP ÜNİVERSİTESİ EĞİTİM-ÖĞRETİM, SINAV VE DEĞERLENDİRME ESASLARINA İLİŞKİN ÇERÇEVE YÖNETMELİK",
+  "university_id": 196,
+  "word_count": 795
+}

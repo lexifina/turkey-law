@@ -1,0 +1,3 @@
+Ders Muafiyeti
+Madde 8 – Üniversitenin herhangi bir önlisans veya lisans programına kayıtlı iken, Öğrenci Seçme ve Yerleştirme Merkezi sınavına girerek tekrar Üniversiteye kayıt yaptıran öğrenciler ile herhangi bir Üniversitenin lisans programındaki ilk iki yıllık dersleri başarı ile tamamlayarak önlisans diploması alan ve ÖSYM sınavı ile tekrar lisans programına başlayan öğrenciler, daha önce aldıkları ve denkliği kayıt oldukları Fakülte/Yüksekokul Yönetim Kurulunca kabul edilen derslerden Fakülte/Yüksekokul yönetmeliklerinde belirtilen kriterlere göre muaf sayılırlar.
+Öğrencilerin muaf sayıldığı derslerin, tekabül ettiği sürenin, öğrencinin azami eğitim-öğretim süresinden ne şekilde düşüleceği ilgili Fakülte/Yüksekokul yönetmeliklerinde belirtilir

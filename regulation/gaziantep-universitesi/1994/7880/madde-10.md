@@ -1,0 +1,3 @@
+SINAV VE DEĞERLENDİRME İLE İLGİLİ HÜKÜMLER
+Sınavlar
+Madde 10 – Öğrenciler her ders için, ara sınav ve yarıyıl/ yıl içi çalışmalardan başka bir de yarıyıl/yıl sonu sınavlarına tabi tutulurlar. Bütünleme sınavı yapılıp yapılmayacağı ilgili Fakülte/Yüksekokul yönetmeliklerinde belirtilir. Her yarıyıl/yılda her ders için ara sınav yapılır. Yarıyıl/yıl sonu sınavları Üniversite Senatosu tarafından saptanan ve duyurulan zamanlarda yapılır. Fakülte/Yüksekokul Yönetim Kurulunun kabul edeceği haklı ve geçerli nedenler veya Sağlık Yönetmeliğinde sözü edilen geçerli raporu olan öğrencilere, bu sınavlardan mazeret sınavı verilir.

@@ -1,0 +1,2 @@
+Stajlar
+Madde 7 – Eğitim Programlarına göre staj yapma mecburiyeti olan Fakülte/Yüksekokullarda stajlar, Fakülte/Yüksekokul Kurulunca belirlenecek staj programı ve esaslarına göre yapılır. Stajların, kanunla belirtilen azami eğitim ve öğretim süresi içinde bitirilmesi zorunludur Tüm ders ve uygulama yükümlülüklerini tamamladığı halde, stajı eksik veya yaptığı stajda başarısız görülen öğrenciler stajlarını tamamlayana kadar mezun olamazlar ve her kayıt döneminde kayıtlarını yenilemek zorundadırlar.
