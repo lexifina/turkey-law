@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8545",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM VE KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2004/9)",
+  "number": "8545",
+  "issuer": "Dış Ticaret Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2004/8545",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8545&MevzuatTertip=5",
+  "source_sha256": "6bee42582987f5595d0b47ac2036c7602484190881771717e8653a38201a4f89",
+  "source_bytes": 21852,
+  "published": "2004-04-18",
+  "gazette": "25437",
+  "in_force": "2004-04-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.04.2004); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 558,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
