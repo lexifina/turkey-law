@@ -1,0 +1,72 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4766",
+  "year": 2002,
+  "title": "Gülhane Askeri Tıp Akademisi Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "2002-06-25",
+  "adopted_as_published": "25/06/2002",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "03.07.2002 No: 24804",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc086/kanuntbmmc086/kanuntbmmc08604766.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 86",
+  "committee_reports": [
+    {
+      "label": "TBMM 880 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c099/tbmm21099118ss0880.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 21,
+      "kayit_no": 298754,
+      "title": "Gülhane Askeri Tıp Akademisi Kanununda Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "25/06/2002",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc086/kanuntbmmc086/kanuntbmmc08604766.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 880 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c099/tbmm21099118ss0880.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 98,
+          "sitting": 114,
+          "sitting_date": "2002-06-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c098/tbmm21098114.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c098/tbmm21098fih.pdf",
+          "pages": [
+            "453"
+          ]
+        },
+        {
+          "cilt": 99,
+          "sitting": 117,
+          "sitting_date": "2002-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c099/tbmm21099117.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c099/tbmm21099fih.pdf",
+          "pages": [
+            "111",
+            "228:232"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=387&v_gelecek_sayfa=301&v_kullanici_id=27483196",
+      "page_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e8a6ec7a7ead39dd91a5afb3c5294ce770d7c75d3c4067699e7ced527bb566a8",
+  "issuer": "TBMM",
+  "in_force": "2002-06-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 25/06/2002; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
