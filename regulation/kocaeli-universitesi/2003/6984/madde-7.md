@@ -1,0 +1,2 @@
+Müdür
+Madde 7 — Kocaeli Üniversitesi Mühendislik Fakültesinin konu ile ilgili öğretim üyeleri arasından Rektör tarafından iki yıl süre ile görevlendirilir. Müdür, kendisine çalışmalarında yardımcı olmak üzere bir veya iki Müdür Yardımcısı seçebilir. Müdür Yardımcısı veya Yardımcıları Merkez ile ilgili konularda Müdürün vereceği görevleri yerine getirir. Müdür, kısa ve uzun süreli ayrılmalarında Müdür Yardımcılarından veya Yönetim Kurulu Üyelerinden birisini yerine vekil tayin eder.

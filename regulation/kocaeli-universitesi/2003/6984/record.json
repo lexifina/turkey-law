@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 14 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2003-01-03",
+      "03.01.2003",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 14 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "24982",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2003-01-03",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kocaeli Üniversitesi",
+  "issuer_slug": "kocaeli-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kocaeli-universitesi/2003/6984",
+  "published": "2003-01-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6984&MevzuatTertip=5",
+  "source_bytes": 23063,
+  "source_id": "8.5.6984",
+  "source_sha256": "12d4301c1c1c30bfc9b9162bf67366727aeb58f235ba77acdd42cad08893358c",
+  "text_status": "as-enacted",
+  "title": "KOCAELİ ÜNİVERSİTESİ YER VE UZAY BİLİMLERİ ARAŞTIRMA VE\r\nUYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 209,
+  "word_count": 834
+}
