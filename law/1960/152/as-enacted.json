@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "152",
+  "year": 1960,
+  "title": "Kaçakçıliğın men ve takibine dair 1918 sayılı Kanunun 21 ve 24 ncü maddelerinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-12-12",
+  "gazette_issue": "10678",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10678.pdf",
+  "source_sha256": "219b5790c44a3fc4f4a0fc972b776ae3763d673c8dcab64d4a2d54c43cc0f1e3",
+  "text_sha256": "9e5c4c022554a0f233f94d4aed66b2d0e4a8fd4513a12d85c907eb21e3f094fb",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      109,
+      156
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300152.pdf",
+    "source_sha256": "a35a00ffc932d9feedd59fc249776510a5b3faf1c9804e23c50ecac8f85d4f34",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9637,
+    "bag": 0.9337,
+    "kd_coverage": 0.9969,
+    "kd_body_compared": 0.9341,
+    "rg_words": 323,
+    "kd_words": 349,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
