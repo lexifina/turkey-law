@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6229-908/61095",
+  "source_id": 38173,
+  "date": "1997-12-20",
+  "title": "Türkiye Kalkınma Bankasınca kamu ortaklığı fonundan kullan dırılan kofon kredisine ilişkin ek ipotek ve işletme rehni işlemlerinde damga vergisi ve harç istisnası uygulanıp uygulanmayacağı hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38173",
+  "source_sha256": "e96707362d41f4e8bd9c1c25573aa895bd712852107cf7b42d81e303c828a82c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
