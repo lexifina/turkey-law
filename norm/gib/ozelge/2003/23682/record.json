@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5320-252-38427",
+  "source_id": 23682,
+  "date": "2003-09-19",
+  "title": "Avukatlık ücretlerinin katma değer vergisi karşısında durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/23682",
+  "source_sha256": "c8afac46cb9863fc796539af1b37cf162a3f18e3193b17d61c7b9de1e443ced0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
