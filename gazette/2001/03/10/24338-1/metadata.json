@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2001-03-10",
+  "issue": "24338",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "Kanun",
+  "title": "4631 Hayvan Islahı Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2001/03/20010310.htm#1",
+  "link_format": "inline-anchor",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2001/03/20010310.htm",
+  "index_sha256": "183d9f577c6a4d6b38ce613a39bd93fd497b95b0a54bf1f03d02e5f977f46a40",
+  "index_header": "10 Mart 2001 ... Sayı : 24338",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; item printed inside the single-page issue; text not split out"
+}
