@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5416-162/60394",
+  "source_id": 38096,
+  "date": "1996-12-18",
+  "title": "Fason hizmet işi serbest bölgede bulunan firmaya yapıldığından fason hizmet bedeli üzerinden hesaplanan katma değer vergisinin tevkifata tabi tutulmadan, fason hizmeti veren adı geçen mükellef tarafından beyan edilip ödenmesi gerekmektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38096",
+  "source_sha256": "9846b915c1fda887d1f4157ac01edd615f2ae6cf31bca61a44b4b6939ae63982",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
