@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK _ 23 / 2005 -2",
+  "source_id": 961,
+  "date": "2005-01-06",
+  "title": "2004/8301 sayılı Bakanlar Kurulu Kararı ile 01/01/2005 tarihinden itibaren eğitim-öğretim hizmetlerinde KDV oranının % 18'den % 8'e indirilmesi nedeniyle, hizmetin bu tarihten sonra ifa edilen kısmına ait KDV farkının iadesi hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/961",
+  "source_sha256": "d8c54605dd9c34b56fef2f7781a4856055fe2e3f5b2d609e49b87a2cd30b8bb9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
