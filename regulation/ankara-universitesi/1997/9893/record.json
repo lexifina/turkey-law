@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 11 – Bu Yönetmelik 1997‑1998 öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1997-11-05",
+      "05.11.1997",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 11 – Bu Yönetmelik 1997‑1998 öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "23161",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1997-11-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/1997/9893",
+  "published": "1997-11-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=9893&MevzuatTertip=5",
+  "source_bytes": 15348,
+  "source_id": "8.5.9893",
+  "source_sha256": "ae3a6c7c28192a33cb5b888d384cf9742964e25796c319e7714902ec0e18b730",
+  "text_status": "as-enacted",
+  "title": "ANKARA ÜNİVERSİTESİ SAĞLIK EĞİTİM FAKÜLTESİ LİSANS TAMAMLAMA YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 243
+}
