@@ -1,0 +1,48 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4355",
+  "year": 1943,
+  "title": "Ticaret ve Sanayi odaları ve Ticaret borsaları kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-01-18",
+  "gazette_issue": "5307",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5307.pdf",
+  "source_sha256": "334af7d5f35d4009ec45e8dfd1929319a6f1816d849da94b60ae1a5a1075f1a3",
+  "text_sha256": "5f7e1940a8e9ef384e6784d006397b87a0cd2327d8aae2975c2c8cffa013ff8a",
+  "text_status": "ocr",
+  "pages": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "line_span": [
+    [
+      850,
+      1278
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc024/kanuntbmmc024/kanuntbmmc02404355.pdf",
+    "source_sha256": "a62694830f7a13d447edfde1461589ca50afbb8defdd53939635f58ab8d8df23",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9427,
+    "bag": 0.94,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9993,
+    "rg_words": 2714,
+    "kd_words": 2737,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
