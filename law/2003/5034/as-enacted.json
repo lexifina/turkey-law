@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5034",
+  "year": 2003,
+  "title": "Başbakanlık Basımevi Döner Sermaye İşletmesi Kuruluşu Hakkında Kanunda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-12-30",
+  "gazette_issue": "25332",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031230.htm",
+  "source_sha256": "023e27bddd0af20d2d09264a302666509917dfb56832089653581d47ab752214",
+  "text_sha256": "a012776ec73cff3b0b0f8654d39c1ce38b108ff8580fb866ac19e5c51d6cfdc2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/12/30/25332-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031230.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
