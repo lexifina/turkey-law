@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6601-",
+  "source_id": 37304,
+  "date": "2004-08-09",
+  "title": "Bahçe suyu aboneliklerinin konut abonelikleri gibi değerlendirilip su faturaları üzerinden çevre temizlik vergisi alınması mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37304",
+  "source_sha256": "e4ea6834d021e1126132ce6cd60e03e7930e6ab6a8aeaeb42e434d963fdc3c89",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
