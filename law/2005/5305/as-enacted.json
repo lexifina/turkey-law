@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5305",
+  "year": 2005,
+  "title": "Türk Silahlı Kuvvetleri İç Hizmet Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-02-26",
+  "gazette_issue": "25739",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050226-2.htm",
+  "source_sha256": "df82e39b796f290eb1e72ce648d958ad3895fb0b68eb15ae7dcdedc412474843",
+  "text_sha256": "404d83c7971ca446304640a01e2dfa8617bea7bfbac9ec722051e17cfe61ae7b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/02/26/25739-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050226-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
