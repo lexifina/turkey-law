@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "83",
+  "decision_date": "1993-07-06",
+  "title": "HUZUREVİ YÖNETMELİĞİ",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1894_MEC1993-7_83.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1993",
+  "listing_sha256": "c0e49ff31865e01bbd5f2c72f130877d5c4caa7c1a9eed180d540aabf75d2dc1",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
