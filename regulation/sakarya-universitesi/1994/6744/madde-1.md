@@ -1,0 +1,5 @@
+SAKARYA ÜNİVERSİTESİ SPOR, KÜLTÜR VE SANAT BİRLİĞİ
+BİRİM YÖNETMELİĞİ
+Amaç ve Kuruluş
+Madde 1- 2547 Sayılı Yükseköğretim Kanununun 47 nci maddesi uyarınca ve Yükseköğretim Kurulunun plan ve programları çerçevesinde SAÜ Öğrencilerinin Beden ve Ruh sağlığının korunması ve boş zamanlarının değerlendirilmesi amacıyla her türlü Spor, Kültür ve Sanat Faaliyetlerini organize etmek, yönetmek, Üniversiteye ait tesis ve alanları bu amaca uygun şekilde değerlendirmek. Üniversite Öğretim Elemanları ve memurlarının da imkanlar ölçüsünde bu tesislerden yararlanabilmesini sağlamaktır. Bu tesis ve alanların bakımı, yönetimi ve yenilerinin yapılması faaliyetlerini yürütmek üzere "Sakarya Üniversitesi Spor, Kültür ve Sanat Birliği" kurulmuştur.
+Birime bağlı olarak çeşitli Spor, Kültür ve Sanat alanları için faaliyetleri fiilen yürütecek Spor, Kültür ve Sanat "Kulüpleri oluşturulur. Bu kulüplerin çalışmaları ve gösterileri Rektörlükte tesbit edilen yerlerde, belirlenecek kurallara uyulmak sureti ile yürütülür.

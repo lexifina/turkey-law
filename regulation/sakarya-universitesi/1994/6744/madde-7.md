@@ -1,0 +1,2 @@
+Spor Kültür ve Sanat Kulüpleri
+Madde 7 - Sakarya Üniversitesi öğrencileri tarafından bilim, kültür, spor ve sanat alanlarında faaliyet göstermek üzere kulüpler kurulabilir. Kulüplerin kurulması, ilgili kulübün çalışma esasları ile birlikte bir öğretim elemanı ve iki öğrencinin Fakülte ve Yüksekokul Spor Kültür ve Sanat kuruluna yaptığı başvurunun Birlik Yönetim Kurulunca kabulü ile gerçekleşir. Spor, Kültür ve Sanat Kulüplerinin organları şunlardır.
