@@ -1,0 +1,1 @@
+MADDE 1 - 2547 Sayılı Yükseköğretim Yasası’nın 3/j ve 7/d-2’nci maddeleri uyarınca ve Hacettepe Üniversitesi Senatosu’nun 21/05/1999 tarih ve 99/65 sayılı kararı ile önerilen “Hacettepe Üniversitesi Geriatrik Bilimler Uygulama ve Araştırma Merkezi (HÜ-GEBAM)” kurulması Yükseköğretim Kurulu’nun 25/01/2000 tarih ve 2000/5.137 sayılı kararı ile uygun görülmüştür.
