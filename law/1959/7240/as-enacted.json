@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7240",
+  "year": 1959,
+  "title": "150 milyon liralık madenî ufaklık para bastırılması hakkındaki 6797 sayılı Kanunun 7. maddesinin son fıkrasının tadiline dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-03-05",
+  "gazette_issue": "10151",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10151.pdf",
+  "source_sha256": "62bf5e69d68452d5df6a9a53f1554cd0b90453ef8ed42a6826d9b2310b72353f",
+  "text_sha256": "f601fb528e8d36300e333845c7e63131d6ec894e5387fd6f2131956c63448819",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      60,
+      78
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107240.pdf",
+    "source_sha256": "13a9ed1a33981c0440341bb8ef244065538c8af9f2de338ea91e31746f78448c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9679,
+    "bag": 0.8235,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.975,
+    "rg_words": 75,
+    "kd_words": 80,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
