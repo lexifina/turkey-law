@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.49/4922-9/1144",
+  "source_id": 37654,
+  "date": "1997-01-13",
+  "title": "Dar mükelleflerin satın aldıklarımenkul kıymetleri elden çıkarmaları halinde, kur farkından doğan kazancınvergilendirilip vergilendirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37654",
+  "source_sha256": "2d9bac922f1fe5e49dd8cc46f52e594f30fa1e9f6a19d1944e131450092e5f96",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
