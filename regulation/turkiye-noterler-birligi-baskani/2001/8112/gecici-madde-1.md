@@ -1,0 +1,1 @@
+Geçici Madde 1 — Yönetmeliğin yürürlüğe girdiği tarihten önceki dönemde görevlendirilen noterler de (görevlendirme ile ilgili değerlendirme ve engeller dışında) bu Yönetmeliğin hükümlerine tabidirler.

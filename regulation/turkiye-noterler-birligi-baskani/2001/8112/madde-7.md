@@ -1,0 +1,4 @@
+Değerlendirme
+Madde 7 — Başvurular Türkiye Noterler Birliği Yönetim Kurulu’nca, noterin kıdemi, hizmet süresi, sicili ile ilgili bilgiler ve özellikle dil bilgisi itibariyle değerlendirilerek, mesleğe katkıda bulunacağı sonucuna varılanlar arasından yapılacak sıralama dairesinde Birlik ve Adalet Bakanlığı’nca her yıl tespit edilen sayıda noter, asıl ve yedek olmak üzere liste halinde belirlenir.
+Listede yer alan noterlere görev yeri ve çalışma planı ile örneği ekli tâahhütname ve istenen diğer belgeleri sunması için kesin süre verilir. (Ek-1). Bu süre içinde gerekli belgeleri ibraz etmeyen noter, içinde bulunulan yıl için hakkını kaybeder.
+Görev ve izin verildikten sonra üç ay içinde yurt dışına çıkmayan noter, hakkını kaybeder ve yerine yedek listenin ilk sırasında bulunan notere görev ve izin verilir.
