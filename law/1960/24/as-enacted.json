@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "24",
+  "year": 1960,
+  "title": "Ceza Muhakemeleri Usulü Kanununun 423 ncü maddesine geçici bir fıkra eklenmesi hakkında geçici Kanun (BASILI GENEL KURUL TUTANAGI BULUNMAMAKTADIR)",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-07-20",
+  "gazette_issue": "10556",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10556.pdf",
+  "source_sha256": "2c808484d2dd5528804f3cb13d928d9a2da69e900db1e6bb7128da0dca1f5221",
+  "text_sha256": "a9339d71d28ce38344cfbd73ca1cf1b2eef1ddd182f5f29cbc3212de71e6d64b",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      121,
+      137
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300024.pdf",
+    "source_sha256": "ae6c5d4d0c377113456741d1eb6034bcec22e663aafef7075619243c252e144a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9267,
+    "bag": 0.875,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9348,
+    "rg_words": 90,
+    "kd_words": 92,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
