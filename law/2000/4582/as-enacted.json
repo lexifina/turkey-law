@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4582",
+  "year": 2000,
+  "title": "190 Sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin Eki Cetvellerin Emniyet Genel Müdürlüğüne Ait Bölümünde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2000-06-27",
+  "gazette_issue": "24092",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2000/06/20000627.htm",
+  "source_sha256": "53b5b8df41ab4263b33f7f61c245075b9c91b7295e9300f5b11dde5aaeb528ec",
+  "text_sha256": "1cccfeb22ebf2ffacc6ac9cdac975a02efaeb24525df8d8bd947291fcb7d5465",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2000/06/27/24092-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2000/06/20000627.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
