@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4640",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SÎVİL SAVUNMA İDARESİ TAŞRA TEŞKİLATI İLE DAİRE, MÜESSESE VE TEŞEKKÜLLER SİVİL SAVUNMA PERSONELİNİN GÖREV VE İŞBÖLÜMÜ HAKKINDA YÖNETMELİK",
+  "number": "4640",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1962/4640",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4640&MevzuatTertip=5",
+  "source_sha256": "6f374434c36066a457b021d4497bc23e6c0fa830141b5da165ddd89f47c12c94",
+  "source_bytes": 43200,
+  "published": "1962-05-07",
+  "gazette": "11100",
+  "in_force": "1962-05-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.05.1962); own commencement article: \"bu Yönetmelik Resmî Gazete ile yayımı tarihinden itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik Resmî Gazete ile yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1415,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
