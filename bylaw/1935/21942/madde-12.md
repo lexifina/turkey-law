@@ -1,0 +1,1 @@
+Madde 12 – Bu Nizamnameye tabi daire ve müesseselerde para ve menkul kıymetlere ve ayınlara fiilen el sürmiyen muhasiplerle Muhasebei Umumiye Kanununun 83 üncü maddesinde yazılı mutemetler kefalet usulüne tabi tutulmazlar.

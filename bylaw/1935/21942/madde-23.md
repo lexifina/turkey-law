@@ -1,0 +1,2 @@
+Madde 23 – Kalan diğer yarısı, üç sene içinde tahakkuk edecek şahsına ait zimmetlerle Sandıktan ayrılmadan evvelki zamanlara ait ve 21 inci madde hükmiyle kendine düşecek zararlar karşılığı olarak mevkuf tutulur.
+Üç sene sonunda yukarda yazılı zimmetler mahsup edildikten sonra kalan miktar, üç senelik faiz ilavesiyle beraber alacaklı memura geri verilir. Sandıkça verilecek faiz haddi, Sandığın son üç sene içinde sermayesine aldığı faizlerin nispetini geçemez.

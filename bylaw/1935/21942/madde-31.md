@@ -1,0 +1,1 @@
+Madde 31 – Teftiş ve murakabe vazifelerini ihmal ederek veya her hangi bir suretle teseyyübde bulunarak zimmet ve ihtilas vukuunu sebep veren muhasiplerin müşterek mesul sıfatiyle tazmin ile mahküm edildikleri takdirde bunlardan tahsil olunacak mebaliğ dahi kefalet sandığına aittir.

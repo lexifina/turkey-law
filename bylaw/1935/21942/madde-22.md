@@ -1,0 +1,3 @@
+ALTINCI BÖLÜM
+Kefaletli vazifeden ayrılanların alakalarının kesilmesi
+Madde 22 – Kefalete bağlı memurlar ve müstahdemlerden kefalete bağlı olmayan bir memuriyete geçen veya ölenlerle herhangi bir sebeple kefaleti hizmetten ayrılmış olanların Sandıktan alakaları, aşağıda yazılı surette kesilir: Bunların ayrıldıkları tarihe kadar kesilmiş olan aidatları yekünundan 21 inci maddeye göre mahsup edilecek miktarlar çıktıktan sonra kalanının birinci yarısı ölenlerin vereseleriyle tekaüt edilenlere derhal verilir. Bunlardan gayrı sebeplerle kefaletli hizmetten ayrılmış olanlara mütaakip bilanço tarihinden üç ay sonra geri verilir.

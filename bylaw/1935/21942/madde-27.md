@@ -1,0 +1,1 @@
+Madde 27 – Muhasipler, 26 ncı maddedeki cezalardan başka ihmal ve teseyyüplerinin ve sebep oldukları zararların derecelerine göre Memurin Kanununun 28, 29, 30, 31, 32, 33 üncü maddelerine ve Belediye Memur ve Müstahdemleri Nizamnamesinin 21 inci maddesinde yazılı fiillerle mukayyet olmaksızın takdir ve tayin olunacak inzibati cezalara da çarptırılır.

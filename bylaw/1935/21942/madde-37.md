@@ -1,0 +1,1 @@
+Madde 37 – Sandıkla alakalı memurlar ve müstahdemler için bir hesabı cari defteri tutulur. Hesabı cari defterinde, her memur ve müstahdem namına birer hesap açılarak başlangıçtan itibaren verdiği bütün aidat oraya geçirilir.

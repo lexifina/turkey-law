@@ -1,0 +1,1 @@
+Madde 19 – Sahiplerine ret ve iade olununcıya kadar bu Sandıktaki mevduat muhtemel tazminata karşı teminattır. Üçüncü şahısların bu paralar üzerine koyacakları hacizler, paraların sahiplerine verileceği zaman tenfiz olunur.
