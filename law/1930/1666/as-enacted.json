@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1666",
+  "year": 1930,
+  "title": "Memurin Kanununun birinci muvakkat maddesiyle tasfiye için tayin olunan müddetin 1932 senesi Haziranının 15 ine kadar temdidi hakkında kanun.",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-06-02",
+  "gazette_issue": "1509",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1509.pdf",
+  "source_sha256": "43b9e33a2eb345ec5ebf88a783c90bb5d6502933037e9569d42b110688f8d163",
+  "text_sha256": "2d460f661ddc9ba82163917e0eace4f32f0c08bffbe9a4bfd1036c64ddb95eb7",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      473,
+      493
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801666.pdf",
+    "source_sha256": "5a85ac9ec7f6dc0d9dd6c6a8a873d4326617b835d1aae54f03f62538789e60b8",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.943,
+    "bag": 0.9173,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9571,
+    "rg_words": 66,
+    "kd_words": 70,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
