@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5251",
+  "year": 2004,
+  "title": "Kadının Statüsü Genel Müdürlüğü Teşkilat ve Görevleri Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-11-06",
+  "gazette_issue": "25635",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/11/20041106.htm",
+  "source_sha256": "ab1eab7ced018409848656ff88d08dd80746796e19bb643bb5c6cfaab8feee50",
+  "text_sha256": "ce3f9a0ea41dd6f7949a92e1424d941f21f107b16e75e6a0699ca5e9e59d83d7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/11/06/25635-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/11/20041106.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
