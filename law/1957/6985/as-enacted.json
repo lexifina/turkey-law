@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6985",
+  "year": 1957,
+  "title": "Bir Avrupa Tediye Birliği kurulması hakkındaki Anlaşmayı tadil eden 29 Haziran 1956 tarihli ve 8 numaralı Ek Protokolün tasdikine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-06",
+  "gazette_issue": "9626",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9626.pdf",
+  "source_sha256": "732b40e8bd3de5672756e92492ca879dab2237f1d4a5b1b1c5e139a89e2109ae",
+  "text_sha256": "849def645cb40a47cd6e31efa2e67f0bef682c7008f59d72cb1136c5236b9e38",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    6,
+    7
+  ],
+  "line_span": [
+    [
+      1188,
+      1530
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906985.pdf",
+    "source_sha256": "a8f20b6e9d7d9357fb1cdb901123632bb50f75083ff71bc0a4ff597bc6505367",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.936,
+    "bag": 0.8468,
+    "kd_coverage": 0.9598,
+    "kd_body_compared": 0.9598,
+    "rg_words": 1171,
+    "kd_words": 1194,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
