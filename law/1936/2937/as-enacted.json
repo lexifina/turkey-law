@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2937",
+  "year": 1936,
+  "title": "Millî Müdafaa Vekâleti bütçelerine bir milyon lira munzam tahsisat eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-04-10",
+  "gazette_issue": "3276",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3276.pdf",
+  "source_sha256": "c3421c4afd645672708b530629993cdb455621c4838f0360363f5b57cead3501",
+  "text_sha256": "75a05d1b59025abfd9f6d03621f920ceb61f74d649c348eabcea2d3f60947a89",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      74,
+      94
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602937.pdf",
+    "source_sha256": "8da9a2322c2f167d2a0fe767381f1bdf21904382f41595790b3634f1c5f82d03",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9471,
+    "bag": 0.9172,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.975,
+    "rg_words": 79,
+    "kd_words": 80,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
