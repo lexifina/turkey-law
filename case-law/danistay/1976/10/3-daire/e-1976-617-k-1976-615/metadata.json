@@ -1,0 +1,17 @@
+{
+  "court": "Danıştay",
+  "chamber": "3. Daire",
+  "chamber_as_listed": "3. Daire",
+  "esas_no": "1976/617",
+  "karar_no": "1976/615",
+  "decision_date": "1976-10-01",
+  "source_url": "https://karararama.danistay.gov.tr/getDokuman?id=18102200&arananKelime=",
+  "source_id": "18102200",
+  "listing": "https://karararama.danistay.gov.tr/aramadetaylist",
+  "source_sha256": "75b7778f5d0d801dbc0aeadac49a2036e784f22fa84e19ff74648b91fbf05191",
+  "text_status": "as-published",
+  "anonymisation": "as published by the Danıştay (names replaced by \"...\")",
+  "source_images": 0,
+  "images_status": "none-detected",
+  "missing_components": []
+}
