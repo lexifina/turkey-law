@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.40/4019-16-/16391",
+  "source_id": 25271,
+  "date": "1998-05-04",
+  "title": "İlgili Vergi Dairesine otobüsün hurdaya çıkarıldığına dair herhangi bir belge ibraz etmediği gibi, işi bıraktığına dair bir bildirimde bulunmayan ve",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/25271",
+  "source_sha256": "148396cec50db097d94861d8c8f1fbe9313450772f7f7bc3e76978d09d1a18e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
