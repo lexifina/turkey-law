@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "34",
+  "label": "TBMM 34 no'lu Komisyon Raporu",
+  "title": "İskân kanununun onuncu maddesinin tefsirine mahal olmadığı hakkında",
+  "document_date": "1928-12-10",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 6, birleşim 13)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c006/tbmm03006013ss0034.pdf",
+  "pdf_sha256": "cd2eedd07aa5592e3bf48e6b3cca505261ec7708ba71becb7db556d8ff0802b5",
+  "pdf_bytes": 136857,
+  "pdf_pages": 2,
+  "index_entries": [
+    120732
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=2&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1928-12-10",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
