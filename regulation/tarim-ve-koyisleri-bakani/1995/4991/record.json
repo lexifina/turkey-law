@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4991",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SERBEST VETERİNER HEKİMLERİN SALGIN HASTALIKLAR MÜCADELESİNDE İSTİHDAMI HAKKINDA YÖNETMELİK",
+  "number": "4991",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "issuer_slug": "tarim-ve-koyisleri-bakani",
+  "path": "regulation/tarim-ve-koyisleri-bakani/1995/4991",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4991&MevzuatTertip=5",
+  "source_sha256": "31423476bbd4b1eb397f8d4e7fd86370c5bc859e5b5ea56bf33f131660a088e2",
+  "source_bytes": 19300,
+  "published": "1995-08-24",
+  "gazette": "22384",
+  "in_force": "1995-08-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.08.1995); own commencement article: \"Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 531,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
