@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3188-3/26496",
+  "source_id": 38309,
+  "date": "2001-05-15",
+  "title": "Kurumun bünyesindeki yemekhanenin muhabesesinin kurum dışından S.M.M.M.'in  tarafından yapılıp yapılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38309",
+  "source_sha256": "2e51ffd159f8b193d6ee9ea0e87262d162bbba2ed537486cb1b5d420770b1cab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
