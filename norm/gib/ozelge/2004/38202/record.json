@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6371-42",
+  "source_id": 38202,
+  "date": "2004-05-08",
+  "title": "Cebri icra ve şuyuun izalesi hallerinde alınması gereken harç miktarı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38202",
+  "source_sha256": "852294be41b214fd8ed8a8a785a3de89081400dc8e10e2cd6dd5a17ea73cc257",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
