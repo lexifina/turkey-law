@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2003/1185",
+  "list_number": "1185",
+  "decision_date": "2003-12-11",
+  "title": "YSK ilke kararı 2003/1185",
+  "summary": "Güncelleştirilmek üzere askıya çıkarılan seçmen listelerinde isimleri olmayanların başvurularının muhtarlar tarafından alınmadığı, ikametgah belgesi vermediği ve bu nedenle seçmen formlarının alınıp alınmayacağı hususunda tereddüt hasıl olmuş ise de; güncelleştirmek için askıya çıkarılan seçmen listelerinde isimleri yazılı olmayan fakat o yerde oturdukları belirlenen seçmenlerin bizzat başvurmaları halinde listelere yazılmaları gerekir. Bu itibarla, muhtarlıkça başvurularının alınmadığını öne sürerek bizzat başvuran seçmenlerin zabıta marifetiyle yapılacak araştırmada o yerde ikamet ettiklerinin saptanması halinde formlarının onaylanarak seçmen listelerine dahil edilmeleri icabeder.",
+  "concepts": "GÜNCELLEŞTİRİLEN SEÇMEN LİSTESİNE YENİ YAZIM,  MUHTARLARCA ONAYLANMAYAN SEÇMEN FORMLARI, SEÇMEN FORMLARININ MUHTARLARCA ONAYLANMAMASI",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4117/2003-1185-karar.htm",
+  "source_sha256": "9d0a9a59a2a00962a238a55fc598cabc5948f1e36b0525c040e8cdbab20064f0",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "2003-12-11",
+  "law_text_complete": true
+}
