@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4306-28/1316",
+  "source_id": 24809,
+  "date": "2004-01-12",
+  "title": "İnşaat işini terkettikten sonra kooperatiften, 2002 yılında İcra ve İflas Müdürlüğü vasıtasıyla tahsil edilen paranın tamamının, arızi kazanç hükümlerine göre vergilendirilmesi gerekir. Ayrıca mahkeme kararı uyarınca alınacak bedel üzerinden katma değer v",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24809",
+  "source_sha256": "0bc30bcf0ea57207bea46078fb78182f8381755b0cf6e2c3fe6626d4952b5709",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
