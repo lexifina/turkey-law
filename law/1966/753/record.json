@@ -1,0 +1,136 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "753",
+  "year": 1966,
+  "title": "Türk parasının kıymetini koruma hakkındaki 1567 sayılı Kanuna 6258 sayılı Kanunla ilâve edilen (Ek madde 2) nin değiştirilmesi hakkında Kanun",
+  "adopted": "1966-03-08",
+  "adopted_as_published": "08/03/1966",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "15.03.1966 No: 12251",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900753.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 49",
+  "committee_reports": [
+    {
+      "label": "MM 78 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004058ss0078.pdf"
+    },
+    {
+      "label": "CS 775no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c035/cs__05035056ss0775.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 358241,
+      "title": "Türk parasının kıymetini koruma hakkındaki 1567 sayılı Kanuna 6258 sayılı Kanunla ilâve edilen (Ek madde 2) nin değiştirilmesi hakkında Kanun",
+      "adopted_as_published": "08/03/1966",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900753.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 78 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004058ss0078.pdf"
+        },
+        {
+          "label": "CS 775no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c035/cs__05035056ss0775.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 26,
+          "sitting_date": "1965-12-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001fih.pdf",
+          "pages": [
+            "629"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 57,
+          "sitting_date": "1966-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004057.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004fih.pdf",
+          "pages": [
+            "676"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 58,
+          "sitting_date": "1966-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004fih.pdf",
+          "pages": [
+            "721:722"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1101&v_kullanici_id=27483225",
+      "page_sha256": "80251869e03af7558ae631349888e850be9b61a18fdf958704c8ec81c5f86c7f"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 302488,
+      "title": "Türk parasının kıymetini koruma hakkındaki 1567 sayılı Kanuna 6258 sayılı Kanunla ilâve edilen (Ek madde 2) nin değiştirilmesi hakkında Kanun",
+      "adopted_as_published": "08/03/1966",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc049/kanuntbmmc049/kanuntbmmc04900753.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 78 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c004/mm__02004058ss0078.pdf"
+        },
+        {
+          "label": "CS 775no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c035/cs__05035056ss0775.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 34,
+          "sitting": 52,
+          "sitting_date": "1966-03-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c034/cs__05034052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c034/cs__05034fih.pdf",
+          "pages": [
+            "454"
+          ]
+        },
+        {
+          "cilt": 35,
+          "sitting": 56,
+          "sitting_date": "1966-03-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c035/cs__05035056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t05/c035/cs__05035fih.pdf",
+          "pages": [
+            "2",
+            "8:15"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=701&v_kullanici_id=27483235",
+      "page_sha256": "28c4c071a296cef811d1914cc4a93e05eb005f54447af6f75911f51122fe206f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "80251869e03af7558ae631349888e850be9b61a18fdf958704c8ec81c5f86c7f",
+  "issuer": "Millet Meclisi",
+  "in_force": "1966-03-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 08/03/1966; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
