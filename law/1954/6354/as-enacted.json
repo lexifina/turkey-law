@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6354",
+  "year": 1954,
+  "title": "Türkiye-İsveç Ticaret ve Ödeme Anlaşmaları ile Ek Protokol ve Buna Melfuf Mektupların Meriyet Müddetlerinin Uzatılmasına Dair Mektup Teatisi Suretiyle Yapılan Anlaşmanın Tasdiki Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-18",
+  "gazette_issue": "8661",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8661.pdf",
+  "source_sha256": "08b96f1014baa5b1cb0c50921dda0c3788c54fa75ac532bb00753614147b1cba",
+  "text_sha256": "04d7e6947e9b6040368243accbd6d93d62033089d9c06835877febc5813ba084",
+  "text_status": "ocr",
+  "pages": [
+    9,
+    10
+  ],
+  "line_span": [
+    [
+      1392,
+      1450
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606354.pdf",
+    "source_sha256": "6d4f53a44e5690a6c870519f93bf4eadaa2be2910d58988038e9b4d45bb86133",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9697,
+    "bag": 0.9067,
+    "kd_coverage": 0.9971,
+    "kd_body_compared": 0.9971,
+    "rg_words": 336,
+    "kd_words": 340,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
