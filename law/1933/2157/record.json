@@ -1,0 +1,73 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2157",
+  "year": 1933,
+  "title": "Van Gölü Sefain İşletme İdaresi 1933 malî senesi bütçesi hakkında kanun",
+  "adopted": "1933-04-29",
+  "adopted_as_published": "29/04/1930",
+  "date_basis": "adopted-repaired",
+  "official_gazette_as_published": "08.05.1933 No: 2395",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202157.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 12",
+  "committee_reports": [
+    {
+      "label": "TBMM 128 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c014/tbmm04014043ss0128.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112279,
+      "title": "Van Gölü Sefain İşletme İdaresi 1933 malî senesi bütçesi hakkında kanun",
+      "adopted_as_published": "29/04/1930",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202157.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 128 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c014/tbmm04014043ss0128.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 39,
+          "sitting_date": "1933-04-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c014/tbmm04014039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c014/tbmm04014fih.pdf",
+          "pages": [
+            "68"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 43,
+          "sitting_date": "1933-04-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c014/tbmm04014043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c014/tbmm04014fih.pdf",
+          "pages": [
+            "118:119",
+            "141",
+            "147:149"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=201&v_kullanici_id=27484442",
+      "page_sha256": "88763fdc59d54ebb8fce1f5ef1a1f166e5e5b68d5089fbe40e47181ce2473904"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "88763fdc59d54ebb8fce1f5ef1a1f166e5e5b68d5089fbe40e47181ce2473904",
+  "issuer": "TBMM",
+  "in_force": "1933-04-29",
+  "in_force_basis": "Kabul tarihi as printed in the official TBMM kanunlar index is 29/04/1930, whose year is a misprint: the one cited sitting with the same day and month is 1933-04-29; date of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
