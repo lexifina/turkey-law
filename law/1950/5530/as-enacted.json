@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5530",
+  "year": 1950,
+  "title": "4353 sayılı Kanunun geçici Birinci maddesiyle tanınan ve 5163 sayılı Kanunla iki yıl uzatılan Yetkinin uzatılması ve 3499 sayılı Kanunun 5. maddesinin uygulanmasının geri bırakılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-02-16",
+  "gazette_issue": "7434",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7434.pdf",
+  "source_sha256": "59538c16a5083d927aac19346d84770cb07735e9af248a718782ee1109d55054",
+  "text_sha256": "fcb6c98072a7ee3a82b46b958d4a03b72143dca8e1a2740396d42160b0803b49",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      712,
+      731
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205530.pdf",
+    "source_sha256": "1ad9f41ef1649bd4192dc6be520b66da7baffe8e509e385db6cc892a6e811f1c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9315,
+    "bag": 0.7598,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9775,
+    "rg_words": 92,
+    "kd_words": 89,
+    "own_anchor": true,
+    "foreign_anchors": 5
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
