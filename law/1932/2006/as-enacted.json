@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2006",
+  "year": 1932,
+  "title": "Devlet memurları maaşatının tevhid ve teadülü hakkındaki kanuna merbut cetvelde bazı tadilât yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-06-16",
+  "gazette_issue": "2126",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2126.pdf",
+  "source_sha256": "7ca9fb22b8c38fc9754b0933b05bb407c0c0e0815efed1e918ff2102c37c5a42",
+  "text_sha256": "69eccec596bcdb84b6d0362fde8ee14f09611df949fe6ea03490e944b7f6dba5",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      252,
+      1298
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01102006.pdf",
+    "source_sha256": "fb998f03633dc83dea563fb258c191021c9b86a8721bd406da26a7577a0913d5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9237,
+    "bag": 0.936,
+    "kd_coverage": 0.983,
+    "kd_body_compared": 0.9376,
+    "rg_words": 1286,
+    "kd_words": 1363,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
