@@ -2,11 +2,11 @@
   "record_type": "law-metadata",
   "document_type": "kanun",
   "number": "2551",
-  "year": 1980,
+  "year": 1981,
   "title": "5434 Sayılı T.C. Emekli Sandığı Kanununa 6 Ek Geçici Madde Eklenmesi Hakkında Kanun",
-  "adopted": "1980-11-06",
+  "adopted": "1981-11-06",
   "adopted_as_published": "06/11/1980",
-  "date_basis": "adopted",
+  "date_basis": "adopted-repaired",
   "official_gazette_as_published": "10.11.1981 No: 17510",
   "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc064/kanunmgkc064/kanunmgkc06402551.pdf",
   "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 64",
@@ -30,17 +30,30 @@
           "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c005/mgk_01005081ss0286.pdf"
         }
       ],
-      "sittings": [],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 81,
+          "sitting_date": "1981-11-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c005/mgk_01005081.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c005/mgk_01005fih.pdf",
+          "pages": [
+            "175:181"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=MGK&diger_donem_adi=d00"
+        }
+      ],
       "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
-      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=201&v_kullanici_id=27483250",
-      "page_sha256": "8c4160e902e2e8dd7025af511a18c3614cfec2e5965e76d4246028272c318aae"
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=201&v_kullanici_id=27484914",
+      "page_sha256": "8e2bf23c7a6e74353718bfc41b4f2037d173b8433decb4b8468fdfdff2d24859"
     }
   ],
   "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
-  "source_sha256": "8c4160e902e2e8dd7025af511a18c3614cfec2e5965e76d4246028272c318aae",
+  "source_sha256": "8e2bf23c7a6e74353718bfc41b4f2037d173b8433decb4b8468fdfdff2d24859",
   "issuer": "Milli Güvenlik Konseyi",
-  "in_force": "1980-11-06",
-  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 06/11/1980; record of adoption, commencement not asserted",
+  "in_force": "1981-11-06",
+  "in_force_basis": "Kabul tarihi as printed in the official TBMM kanunlar index is 06/11/1980, whose year is a misprint: the one cited sitting with the same day and month is 1981-11-06; date of adoption, commencement not asserted",
   "history_type": "metadata",
   "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
   "law_text_complete": false,
