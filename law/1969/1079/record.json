@@ -1,0 +1,230 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1079",
+  "year": 1969,
+  "title": "6234 Sayılı Köy Enstitüleri İle İlköğretmen Okullarının Birleştirilmesi Hakkındaki Kanunun 2 nci Maddesinin Değiştirilmesine Dair Kanun",
+  "adopted": "1969-01-10",
+  "adopted_as_published": "10/01/1969",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "18.01.1969 No: 13104",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201079.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 52",
+  "committee_reports": [
+    {
+      "label": "MM 127 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016091ss0127.pdf"
+    },
+    {
+      "label": "MM 127ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030026ss0127ek01.pdf"
+    },
+    {
+      "label": "MM 127ek02no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030026ss0127ek02.pdf"
+    },
+    {
+      "label": "CS 980no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043091ss0980.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 373261,
+      "title": "6234 Sayılı Köy Enstitüleri İle İlköğretmen Okullarının Birleştirilmesi Hakkındaki Kanunun 2 nci Maddesinin Değiştirilmesine Dair Kanun",
+      "adopted_as_published": "10/01/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201079.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 127 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016091ss0127.pdf"
+        },
+        {
+          "label": "MM 127ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030026ss0127ek01.pdf"
+        },
+        {
+          "label": "MM 127ek02no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030026ss0127ek02.pdf"
+        },
+        {
+          "label": "CS 980no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043091ss0980.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 31,
+          "sitting_date": "1966-01-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002fih.pdf",
+          "pages": [
+            "216"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 107,
+          "sitting_date": "1966-07-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c007/mm__02007107.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c007/mm__02007fih.pdf",
+          "pages": [
+            "504"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 89,
+          "sitting_date": "1967-04-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016089.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016fih.pdf",
+          "pages": [
+            "318",
+            "379",
+            "382",
+            "482:494"
+          ]
+        },
+        {
+          "cilt": 21,
+          "sitting": 146,
+          "sitting_date": "1967-07-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c021/mm__02021146.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c021/mm__02021fih.pdf",
+          "pages": [
+            "543"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 66,
+          "sitting_date": "1968-04-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027066.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c027/mm__02027fih.pdf",
+          "pages": [
+            "467"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 17,
+          "sitting_date": "1968-12-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c029/mm__02029017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c029/mm__02029fih.pdf",
+          "pages": [
+            "553:554"
+          ]
+        },
+        {
+          "cilt": 30,
+          "sitting": 26,
+          "sitting_date": "1969-01-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030fih.pdf",
+          "pages": [
+            "468:479"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1401&v_kullanici_id=27483225",
+      "page_sha256": "cd42d09c6a7f2265b7adf2c54fcd3e4b997ddbf4325a82e9e798effbb57a88be"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 312938,
+      "title": "6234 Sayılı Köy Enstitüleri İle İlköğretmen Okullarının Birleştirilmesi Hakkındaki Kanunun 2 nci Maddesinin Değiştirilmesine Dair Kanun",
+      "adopted_as_published": "10/01/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201079.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 127 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c016/mm__02016091ss0127.pdf"
+        },
+        {
+          "label": "MM 127ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030026ss0127ek01.pdf"
+        },
+        {
+          "label": "MM 127ek02no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030026ss0127ek02.pdf"
+        },
+        {
+          "label": "CS 980no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043091ss0980.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 40,
+          "sitting": 58,
+          "sitting_date": "1967-05-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c040/cs__06040fih.pdf",
+          "pages": [
+            "187"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 88,
+          "sitting_date": "1967-07-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043088.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043fih.pdf",
+          "pages": [
+            "71"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 91,
+          "sitting_date": "1967-07-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043091.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043fih.pdf",
+          "pages": [
+            "280:288:289",
+            "317"
+          ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 92,
+          "sitting_date": "1967-07-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043092.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c043/cs__06043fih.pdf",
+          "pages": [
+            "334:335",
+            "401:402"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=901&v_kullanici_id=27483235",
+      "page_sha256": "aee0a9dfc4179784061aa1d3efe77b3cab6f9c80a2c368824856f74134eaad87"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cd42d09c6a7f2265b7adf2c54fcd3e4b997ddbf4325a82e9e798effbb57a88be",
+  "issuer": "Millet Meclisi",
+  "in_force": "1969-01-10",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 10/01/1969; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
