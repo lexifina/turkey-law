@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 420566,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Türkiye Akreditasyon Konseyi Kuruluş ve Görevleri Hakkında Kanun Teklifine ilişkin",
+  "title": "Türkiye Akreditasyon Konseyi Kuruluş ve Görevleri Hakkında Kanun Teklifine ilişkin",
+  "first_sitting_date": "1999-10-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 7,
+      "sitting_date": "1999-10-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c014/tbmm21014007.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c014/tbmm21014fih.pdf",
+      "pages": [
+        "31:51"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 9,
+      "sitting_date": "1999-10-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c014/tbmm21014009.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c014/tbmm21014fih.pdf",
+      "pages": [
+        "190:253"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 10,
+      "sitting_date": "1999-10-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c014/tbmm21014010.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c014/tbmm21014fih.pdf",
+      "pages": [
+        "235:275"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 12,
+      "sitting_date": "1999-10-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c014/tbmm21014012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c014/tbmm21014fih.pdf",
+      "pages": [
+        "401:419"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=606&v_gelecek_sayfa=101&v_kullanici_id=27484520",
+  "source_sha256": "e61e9510bbd33948bdb1ab5e0c1644043a65db1539d5c889da19f86b41988e77",
+  "in_force": "1999-10-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
