@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "1995/1",
+  "source_id": 508,
+  "date": "1995-12-11",
+  "title": "VERASET VE İNTİKAL VERGİSİ KANUNU İÇ GENELGESİ SERİ NO: 1995/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/icgenelge/508",
+  "source_sha256": "7bb3a617c365ccbbd9c6406fbf24155f8590fadbeae6f1cf5bcebda439c3ed71",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36317",
+        "quote": "11/12/1995 gün ve 68201 sayıılı 1995/1 seri no.lu Veraset ve İntikal Vergisi İç Genelgesinde"
+      }
+    ]
+  }
+}
