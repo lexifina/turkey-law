@@ -1,0 +1,2 @@
+Beyanat Verme Yasağı :
+MADDE 5. — Kurul Başkan ve üyeleri, sözleşmeli uzman personel İle geçici olarak görevlendirilecek müfettiş, araştırmacı ve uzmanlar yaptıkları veya yapacakları inceleme, araştırma ve denetlemeler hakkında hiç kimseye sözlü veya yazılı beyanat veremez ve Devlet Başkanı, Devlet Başkanlığı Genel Sekreteri ile Kurul ve Kurul veya Komisyon Başkanı dışında hiç kimseye açıklamalarda bulunamazlar.

@@ -1,0 +1,2 @@
+Belge ve Yazılı Bilgileri Saklama Yükümlülüğü :
+MADDE 6. — Kurul Başkan ve üyeleri, sözleşmeli uzman personel ile geçici olarak görevlendirilecek müfettiş, araştırmacı ve uzmanlar, yaptıkları inceleme, araştırma ve denetlemeler nedeniyle aldıkları belge, suret, fotokopi ve dosyanın ekini oluşturacak diğer şeyler ile yazılı bilgileri saklamak ve başkalarının eline geçmemesini sağlayacak önlemleri almak yükümlülüğündedirler.
