@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6670",
+  "year": 1956,
+  "title": "Beden Terbiyesi Umum Müdürlüğü 1955 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-02-25",
+  "gazette_issue": "9243",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9243.pdf",
+  "source_sha256": "0a04f4383f80d369000d306a3e8ddc2a694d0a824f2cb7ed4362a156eec08e36",
+  "text_sha256": "613b167af435b42ef16ce5c377b814fdd7b6411dcec47268ff335c1a9e35edb2",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      485,
+      522
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806670.pdf",
+    "source_sha256": "94afebc7981a8cd6bc9b948c7af548d3358611aee0603008a2b86ebfab9db3e1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9751,
+    "bag": 0.8636,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9778,
+    "rg_words": 88,
+    "kd_words": 90,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
