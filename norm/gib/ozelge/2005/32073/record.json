@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5324-233-15148",
+  "source_id": 32073,
+  "date": "2005-04-05",
+  "title": "Bayiler tarafından hazır kart satışlarının kredi kartı ile gerçekleştirilmesi durumunda alınan komisyon bedeli, özel matrah  şekline ilişkin olarak değerlendirilemeyeciğinden, bayilerin bu bedele isabet eden kdvleri hesaplayıp beyan etmeleri gerekmektedir",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32073",
+  "source_sha256": "c205e9cc1a900b0d619f03a63a9cc1d3d6fe264bb30d8abb4bf5f8ff6a856467",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
