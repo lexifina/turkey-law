@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 44216,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "1706 sayılı Jandarma Kanununun 3148 sayılı Kanunla muaddel 18. maddesinin değiştirilmesi hakkında kanun lâyihası ile Tunceli Mebusu Arslan Bora'nın, Jandarma Kanununun 3148 sayılı Kanunla değiştirilen 18. maddesinin son fıkrasının tadiline dair kanun teklifi hakkında (1/215, 2/90)",
+  "title": "1706 sayılı Jandarma Kanununun 3148 sayılı Kanunla muaddel 18. maddesinin değiştirilmesi hakkında kanun lâyihası ile Tunceli Mebusu Arslan Bora'nın, Jandarma Kanununun 3148 sayılı Kanunla değiştirilen 18. maddesinin son fıkrasının tadiline dair kanun teklifi hakkında (1/215, 2/90)",
+  "first_sitting_date": "1959-02-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 33,
+      "sitting_date": "1959-02-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c007/tbmm11007033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c007/tbmm11007fih.pdf",
+      "pages": [
+        "27"
+      ]
+    },
+    {
+      "cilt": 9,
+      "sitting": 69,
+      "sitting_date": "1959-05-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c009/tbmm11009069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c009/tbmm11009fih.pdf",
+      "pages": [
+        "181",
+        "203:204",
+        "349:350"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1113&v_gelecek_sayfa=301&v_kullanici_id=27484293",
+  "source_sha256": "dd0be261d15f0ccfde5c90f25b80da877fd640d7ed32680f0477e443dd83b563",
+  "in_force": "1959-02-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
