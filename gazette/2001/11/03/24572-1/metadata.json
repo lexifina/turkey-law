@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2001-11-03",
+  "issue": "24572",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelik",
+  "title": "İzmir Ekonomi Üniversitesi Ana Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2001/11/20011103.htm#1",
+  "link_format": "inline-anchor",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2001/11/20011103.htm",
+  "index_sha256": "ced30e6d1161955f5ccdd3a1dff1cb63872dd0ab3e0dfa084cfddaf309bef8c1",
+  "index_header": "3 Kasım 2001 ... Sayı : 24572",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; item printed inside the single-page issue; text not split out"
+}
