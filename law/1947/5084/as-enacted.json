@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5084",
+  "year": 1947,
+  "title": "Tekel Genel Müdürlüğü 1947 yılı Bütçe Kanununa bağlı (A) işaretli cetvelde değişiklik yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1947-06-21",
+  "gazette_issue": "6638",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6638.pdf",
+  "source_sha256": "14bc0bd664163447badd74ee674ffc9c101b5629a5e27f01276927b3e9b90e65",
+  "text_sha256": "4cfa9d324a465e5dc98662df3503aa5b4e298840cf5971860be7b7f1a37f6d26",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      376,
+      399
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02905084.pdf",
+    "source_sha256": "cc38cc3fc84c1597642670974c2c827d1092a1dfd757699111c1d5543f4387ae",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9788,
+    "bag": 0.8155,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9817,
+    "rg_words": 99,
+    "kd_words": 109,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
