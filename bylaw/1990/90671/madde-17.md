@@ -1,0 +1,8 @@
+Teftişe Tabi Olanların Yükümlülükleri
+Madde 17 – Bakanlık teşkilatıyla bağlı ve ilgili kurum ve kuruluşlarında ve Bakanlık denetimi altındaki kurum ve kuruluşlarda görevli bulunanlar, istendiğinde bütün belge, defter ve dosyaları, para ve para hükmündeki evrak ve senetleri, her türlü mal ve eşyayı, müfettişe hemen göstermek, inceleme ve saymasını kolaylaştırmakla yükümlüdürler.
+Müfettişler, görevlerini yaparlarken gerekli gördükleri yardımları, gizli de olsa kayıt ve belgelerin örneklerini, herhangi bir yolsuzluğun kanıtı ise asıllarını, resmi daire ve kurumlarla Devletin denetimi altındaki bütün kuruluş, kurum ve ortaklıklardan, kamu yararına çalışan derneklerden, vakıflardan, diğer gerçek ya da tüzel kişilerden istemeye ve bu konularda yazılı ve sözlü bilgi almaya yetkilidir. Yasal engel yoksa talebin yerine getirilmesi zorunludur. Asılları alınan belgelerin, müfettişlerin mühür ve imzasıyla onaylı örnekleri, dosyasında saklanmak üzere, belgenin alındığı yere verilir.
+Teftişe tabi olanlar, müfettişce sorulan sözlü ve yazılı soruları da geciktirmeden cevaplandırmakla yükümlüdürler.
+Teftiş, inceleme ve soruşturmaya tabi tutulan daire ve kuruluşların yöneticileri, hizmetin gereği gibi yürütülebilmesi için gereken önlemleri almak, müfettişlere görevleri süresince uygun bir yer sağlamak zorundadırlar.
+Teftiş, inceleme ve soruşturmaya başlanan kuruluş görevlilerinin izinleri, hastalık gibi zorunlu sebepler dışında, müfettişin isteği üzerine teftiş ve soruşturma sonuna kadar ertelenebilir.
+İznini kullanmaya başlamış olanlar, zorunluluk bulunmadıkça geri çağrılmaz.
+Kurulun teftişine tabi daire ve kuruluşlarda teftiş defter ve dosyası tutulur. Bunların şekli, tutulması ve saklanmasına ilişkin esas ve usuller yönetmelikte gösterilir.
