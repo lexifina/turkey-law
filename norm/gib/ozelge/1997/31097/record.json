@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5311-2110/47403",
+  "source_id": 31097,
+  "date": "1997-09-06",
+  "title": "Türkiye'de ikamet etmeyen yolculara yapılan teslimlerde iade miktarla sınırlı olduğundan, bu hesaplamaya amortismana tabi iktisadi kıymet dolayısıyla yüklenilen katma değer vergisinin dahil edilmesi mümkün bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31097",
+  "source_sha256": "1637e4209a9049eda75f1e8410e8f991d34cac8b44772dd669d4c787b20130a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
