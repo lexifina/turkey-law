@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5861",
+  "year": 1952,
+  "title": "Türkiye Büyük Millet Meclisi Başkanı Makam Ödeneği Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-01-29",
+  "gazette_issue": "8020",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8020.pdf",
+  "source_sha256": "4de3a11f2f6577e8df570f229b57d99191b5a63ff85bcb901db85bd8e902ed71",
+  "text_sha256": "56a1241e85923be97d7f739661099877bb813576627cf3611377f2f16973b54c",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      8,
+      21
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405861.pdf",
+    "source_sha256": "6031670289219c96c7b9b4069a9612fd917c33de27071f27db994e711dff4427",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9651,
+    "bag": 0.9351,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9744,
+    "rg_words": 78,
+    "kd_words": 78,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
