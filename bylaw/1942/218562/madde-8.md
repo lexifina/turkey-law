@@ -1,0 +1,1 @@
+Madde 8 – 31/12/1935 tarih ve 2/3811 sayılı kararname ile yürürlüğe girmiş olan Nizamname hükümleri ve bu Nizamnamenin 22/12/1936 tarih ve 2/5704 sayılı ve 14/5/1941 tarih ve 2/15774 sayılı kararnameler ile yapılmış bulunan tadilleri mülgadır.

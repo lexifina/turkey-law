@@ -1,0 +1,1 @@
+Madde 2 – Sağlık teşkilatının senelik iş ve çalışma programı ve kadrosu ile bütçeleri, işletmenin iş programı ve kadro ve bütçelerinde ayrı bir kısım olarak, 3460 sayılı kanun hükümleri dairesinde tanzim ve tasdik edilir. Kati hesapları da aynı usule tabidir.
