@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-01-25",
+  "issue": "25707",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Sınır Tespit Kararı",
+  "title": "Sınır Tespitine Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050125-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050125.htm",
+  "index_sha256": "40ae7c1c8f0883e3d147a6e37aebc1a7435bd43c43140cb898cf870dc784cead",
+  "index_header": "25 Ocak 2005 ... Sayı : 25707",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
