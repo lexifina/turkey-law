@@ -1,0 +1,43 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 457653,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "11 Temmuz 1963 tarih ve 269 sayılı Tahsis edildikleri gayelerde kullanılmalarına imkân veya lüzumu kalmayan harp sefinelerinin satılmasına yetki verilmesi hakkında Kanunun 1. maddesinin değiştirilmesine ilişkin kanun tasarısı hakkında (1/152)",
+  "title": "11 Temmuz 1963 tarih ve 269 sayılı Tahsis edildikleri gayelerde kullanılmalarına imkân veya lüzumu kalmayan harp sefinelerinin satılmasına yetki verilmesi hakkında Kanunun 1. maddesinin değiştirilmesine ilişkin kanun tasarısı hakkında (1/152)",
+  "first_sitting_date": "1977-03-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 26,
+      "sitting": 61,
+      "sitting_date": "1977-03-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c026/mm__04026061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c026/mm__04026fih.pdf",
+      "pages": [
+        "64",
+        "65",
+        "91",
+        "130:133",
+        "174",
+        "179",
+        "188:191",
+        "282:283",
+        "313",
+        "322:325"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=1601&v_kullanici_id=27484836",
+  "source_sha256": "591b42b24430f9626d0070c1a67bc56108127e174274779f7b837d05f68c4c22",
+  "in_force": "1977-03-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
