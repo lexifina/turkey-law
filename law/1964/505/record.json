@@ -1,0 +1,143 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "505",
+  "year": 1964,
+  "title": "1964 Yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılmasına dair kanun",
+  "adopted": "1964-07-17",
+  "adopted_as_published": "17/07/1964",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.07.1964 No: 11764",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700505.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 47",
+  "committee_reports": [
+    {
+      "label": "MM 744 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032128ss0744.pdf"
+    },
+    {
+      "label": "CS 475no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021086ss0475.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 347581,
+      "title": "1964 Yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılmasına dair kanun",
+      "adopted_as_published": "17/07/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700505.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 744 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032128ss0744.pdf"
+        },
+        {
+          "label": "CS 475no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021086ss0475.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 31,
+          "sitting": 120,
+          "sitting_date": "1964-07-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c031/mm__01031120.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c031/mm__01031fih.pdf",
+          "pages": [
+            "550"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 127,
+          "sitting_date": "1964-07-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032127.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032fih.pdf",
+          "pages": [
+            "176:177"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 128,
+          "sitting_date": "1964-07-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032128.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032fih.pdf",
+          "pages": [
+            "218:219",
+            "242:247"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 129,
+          "sitting_date": "1964-07-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032129.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032fih.pdf",
+          "pages": [
+            "251",
+            "258",
+            "259",
+            "262:265"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2101&v_kullanici_id=27483225",
+      "page_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 162610,
+      "title": "1964 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılmasına dair Kanun",
+      "adopted_as_published": "17/07/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700505.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 744 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c032/mm__01032128ss0744.pdf"
+        },
+        {
+          "label": "CS 475no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021086ss0475.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 21,
+          "sitting": 86,
+          "sitting_date": "1964-07-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c021/cs__03021fih.pdf",
+          "pages": [
+            "433",
+            "437:438",
+            "447",
+            "461",
+            "465:466"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=501&v_kullanici_id=27483235",
+      "page_sha256": "90e575b0d681a9aaaed8fe9da175069303e902e0ae9d6b5e4ea68e0ee49b37f8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1",
+  "issuer": "Millet Meclisi",
+  "in_force": "1964-07-17",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 17/07/1964; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
