@@ -1,0 +1,195 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "443",
+  "year": 1964,
+  "title": "İlkokul Öğretmenleri Ödeneği Kanunu",
+  "adopted": "1964-03-28",
+  "adopted_as_published": "28/03/1964",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.04.1964 No: 11675",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700443.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 47",
+  "committee_reports": [
+    {
+      "label": "MM 563 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c026/mm__01026052ss0563.pdf"
+    },
+    {
+      "label": "MM 563ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029077ss0563ek01.pdf"
+    },
+    {
+      "label": "CS 413no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019048ss0413.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 347513,
+      "title": "İlkokul Öğretmenleri Ödeneği Kanunu",
+      "adopted_as_published": "28/03/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700443.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 563 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c026/mm__01026052ss0563.pdf"
+        },
+        {
+          "label": "MM 563ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029077ss0563ek01.pdf"
+        },
+        {
+          "label": "CS 413no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019048ss0413.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 11,
+          "sitting_date": "1963-12-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023fih.pdf",
+          "pages": [
+            "233"
+          ]
+        },
+        {
+          "cilt": 23,
+          "sitting": 13,
+          "sitting_date": "1963-12-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023013.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c023/mm__01023fih.pdf",
+          "pages": [
+            "325"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 38,
+          "sitting_date": "1964-01-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c025/mm__01025fih.pdf",
+          "pages": [
+            "431"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 52,
+          "sitting_date": "1964-02-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c026/mm__01026052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c026/mm__01026fih.pdf",
+          "pages": [
+            "503:504",
+            "529:546"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 69,
+          "sitting_date": "1964-03-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028069.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c028/mm__01028fih.pdf",
+          "pages": [
+            "581"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 77,
+          "sitting_date": "1964-03-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029fih.pdf",
+          "pages": [
+            "73",
+            "78"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2001&v_kullanici_id=27483225",
+      "page_sha256": "0190b5d3e712a47a9416ed66ca93fb48a7dc71af149d929697c5f08cf9e0b36c"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 162547,
+      "title": "İlkokul Öğretmenleri Ödeneği Kanunu",
+      "adopted_as_published": "28/03/1964",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc047/kanuntbmmc047/kanuntbmmc04700443.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 563 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c026/mm__01026052ss0563.pdf"
+        },
+        {
+          "label": "MM 563ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029077ss0563ek01.pdf"
+        },
+        {
+          "label": "CS 413no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019048ss0413.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 19,
+          "sitting": 44,
+          "sitting_date": "1964-02-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 48,
+          "sitting_date": "1964-03-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019048.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019fih.pdf",
+          "pages": [
+            "123",
+            "155:156"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 49,
+          "sitting_date": "1964-03-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019fih.pdf",
+          "pages": [
+            "161:188",
+            "218:219"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=401&v_kullanici_id=27483235",
+      "page_sha256": "b27864a2411d79e2f3620f821cf17fe5c23dbd74ad2aa8fabc8d647341892a48"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0190b5d3e712a47a9416ed66ca93fb48a7dc71af149d929697c5f08cf9e0b36c",
+  "issuer": "Millet Meclisi",
+  "in_force": "1964-03-28",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 28/03/1964; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
