@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7003",
+  "year": 1957,
+  "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanununun 6311 sayılı Kanunla muaddel 22. maddesinin (b) fıkrasının değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-19",
+  "gazette_issue": "9637",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9637.pdf",
+  "source_sha256": "0e403b43290b2a85a7bc64ef7fb207cd91ebc767d54e37113c01cdd3fbeb5360",
+  "text_sha256": "0c89041204cb5747501f7a2db6505ff63ebe3b85aaa1f18b1ec11ae701f1608c",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      649,
+      684
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907003.pdf",
+    "source_sha256": "688c8880b14380d72198778954053fe9d8fa9196e5b3306f297cd15b9b1b5009",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9857,
+    "bag": 0.8816,
+    "kd_coverage": 0.9918,
+    "kd_body_compared": 0.976,
+    "rg_words": 123,
+    "kd_words": 125,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
