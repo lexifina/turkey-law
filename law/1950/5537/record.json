@@ -1,0 +1,63 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5537",
+  "year": 1950,
+  "title": "Devlet Havayolları Genel Müdürlüğü 1944 Bütçe yılı Kesinhesap Kanunu",
+  "adopted": "1950-02-11",
+  "adopted_as_published": "11/02/1950",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.02.1950 No: 7434",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205537.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 32",
+  "committee_reports": [
+    {
+      "label": "TBMM 172 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024044ss0172.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 8,
+      "kayit_no": 78259,
+      "title": "Devlet Havayolları Genel Müdürlüğü 1944 Bütçe yılı Kesinhesap Kanunu",
+      "adopted_as_published": "11/02/1950",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205537.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 172 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024044ss0172.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 24,
+          "sitting": 44,
+          "sitting_date": "1950-02-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024fih.pdf",
+          "pages": [
+            "418",
+            "",
+            "448",
+            "471:474"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=716&v_gelecek_sayfa=501&v_kullanici_id=27483172",
+      "page_sha256": "2fcea92a9bd32158a184da767a8e011dec71b13893933dae1cb5020a8b78c15b"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2fcea92a9bd32158a184da767a8e011dec71b13893933dae1cb5020a8b78c15b",
+  "issuer": "TBMM",
+  "in_force": "1950-02-11",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 11/02/1950; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
