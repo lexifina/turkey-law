@@ -1,0 +1,79 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3419",
+  "year": 1988,
+  "title": "Bazı Suç Failleri Hakkında Uygulanacak Hükümlere Dair Kanun",
+  "adopted": "1988-03-24",
+  "date_basis": "last-sitting",
+  "official_gazette_as_published": "30.3.1988 No: 19770",
+  "committee_reports": [
+    {
+      "label": "TBMM 33 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c005/tbmm18005041ss0033.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 18,
+      "kayit_no": 225355,
+      "title": "Bazı Suç Failleri Hakkında Uygulanacak Hükümlere Dair Kanun",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [
+        {
+          "label": "TBMM 33 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c005/tbmm18005041ss0033.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 31,
+          "sitting_date": "1988-03-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c003/tbmm18003031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c003/tbmm18003fih.pdf",
+          "pages": [
+            "388"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 37,
+          "sitting_date": "1988-03-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c004/tbmm18004037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c004/tbmm18004fih.pdf",
+          "pages": [
+            "333"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 41,
+          "sitting_date": "1988-03-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c005/tbmm18005041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c005/tbmm18005fih.pdf",
+          "pages": [
+            "336:358"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "a4afc1ea96cb3fdb44158af5480d817298e90d8f87ef55ba3064444103967b6f"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a4afc1ea96cb3fdb44158af5480d817298e90d8f87ef55ba3064444103967b6f",
+  "issuer": "TBMM",
+  "in_force": "1988-03-24",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (1988-03-24); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
