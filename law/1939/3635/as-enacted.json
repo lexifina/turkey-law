@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3635",
+  "year": 1939,
+  "title": "Nahiye müdürlerinin devir masrafları hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1939-06-19",
+  "gazette_issue": "4236",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4236.pdf",
+  "source_sha256": "2a0e763604e26d8001d9e1ae7f652f94569d6f8576951c24b7f8c765aa1a6ca8",
+  "text_sha256": "fcd59b04b9d785de4234d4e4e9ee3c8640922b7bd2ea84ee66af6f43f2f4ca9f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      18,
+      29
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc020/kanuntbmmc020/kanuntbmmc02003635.pdf",
+    "source_sha256": "2d5f4edf8659cdfcb3d4f2af05314710291c79af5f4809ae9c9ddc0b722c450a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9187,
+    "bag": 0.8387,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9583,
+    "rg_words": 47,
+    "kd_words": 48,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
