@@ -1,0 +1,51 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "43",
+  "year": 1962,
+  "title": "Üniversite öğretim üyelerinden bazılarının vazifelerinden affına ve bazılarının diğer fakülte ve yüksekokullara nakline dair 27.10.1960 tarih ve 114 sayılı Kanunun bazı maddelerinin kaldırılması ve yeni hükümler eklenmesi hakkında kanun.",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-04-18",
+  "gazette_issue": "11086",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11086.pdf",
+  "source_sha256": "1a695023bbd8d125fa3c4b35ea9bb963ab213ee948b3756c259638cc3b412963",
+  "text_sha256": "93b10ea70b799c597ee70ea1d05ab823fe03d756c16a1cd39b39533a6d1f7a32",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      40,
+      41
+    ],
+    [
+      42,
+      80
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500043.pdf",
+    "source_sha256": "8a0b285d8b25074f0083c1944f3da621c6135aca4c9fbc78cba67312372a0370",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9694,
+    "bag": 0.9042,
+    "kd_coverage": 0.9904,
+    "kd_body_compared": 0.4122,
+    "rg_words": 316,
+    "kd_words": 752,
+    "own_anchor": false,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
