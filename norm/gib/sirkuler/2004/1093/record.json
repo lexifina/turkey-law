@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VİK-1/2004-1/Emeklilere Vergi İadesi",
+  "source_id": 1093,
+  "date": "2004-10-28",
+  "title": "Yeni Türk Lirası uygulamasına geçiş sürecinde vergi iadesinden yararlanan emekliler ve ödemeleri gerçekleştirecek banka şubelerince yapılacak işlemlere yönelik açıklamalar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/589/sirkuler/1093",
+  "source_sha256": "ffaff60fe7a4395c098c2da19fb82ec1517a22bef17d92e4362dd0ec998e6617",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
