@@ -1,0 +1,34 @@
+{
+  "source_id": "9.5.8275",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YENİ TÜRK LİRASINA (YTL) GEÇİŞ NEDENİYLE MADENİ UFAKLIK PARALARIN TEDAVÜLDEN KALDIRILMASINA DAİR TEBLİĞ",
+  "number": "8275",
+  "issuer": "Hazine Müsteşarlığının bağlı bulunduğu Devlet Bakanı",
+  "path": "teblig/2004/8275",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8275&MevzuatTertip=5",
+  "source_sha256": "ba91b9de61f7f0a322c325bc7958b0b0eb64f11c886c01278f001ff19938e853",
+  "source_bytes": 21376,
+  "published": "2004-09-24",
+  "gazette": "25593",
+  "in_force": "2004-11-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/11/2004\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2004-11-24",
+      "RG-24/11/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 169,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
