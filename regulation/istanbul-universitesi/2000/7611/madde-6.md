@@ -1,0 +1,2 @@
+Madde 6 – Yandal bilim sınavı Jürisi Fakülte Yönetim Kurulunca biri ilgili bilim dalı başkanı olmak şartı ile ilgili bilim dalı veya anabilim dalından üç, ilgili bilim dalına yakın dallardan iki öğretim üyesi olmak üzere beş asil ve iki yedek üyeden oluşturulur. Tez danışmanı bu jürinin asil üyeleri arasında yer alır. Tez değerlendirmesi ve sınav bu jüri tarafından yapılır.
+İlgili bilim dalında yeter sayıda öğretim üyesinin bulunmadığı durumlarda jüri,o bilim dalına en yakın dallardan alınan öğretim üyeleri ile tamamlanır.

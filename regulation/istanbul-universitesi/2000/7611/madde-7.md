@@ -1,0 +1,1 @@
+Madde 7 – Yandal uzmanlık öğrencileri özlük işleri ve disiplin uygulamaları bakımından kamu görevlisi sayılırlar ve bu Yönetmelikte hüküm bulunmayan hallerde, Yüksek Öğretim Kanunu ile bu Kanun uyarınca çıkarılmış Yönetmeliklere ve Tababet Uzmanlık Tüzüğü hükümlerine tabidirler.

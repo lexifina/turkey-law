@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 8 – Bu Yönetmelik yayımı tarihinde yürürlüğü girer"
+  ],
+  "date_evidence": [
+    [
+      "2000-04-16",
+      "16.04.2000",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2001-10-17",
+      "RG-17/10/2001-24556",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2001-10-17",
+      "RG-17/10/2001-24556",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-17/10/2001-24556",
+  "first_law": null,
+  "gazette": "24022",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2001-10-17",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Üniversitesi",
+  "issuer_slug": "istanbul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-universitesi/2000/7611",
+  "published": "2000-04-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7611&MevzuatTertip=5",
+  "source_bytes": 17055,
+  "source_id": "8.5.7611",
+  "source_sha256": "b845c79decef6067e79aa208025e827956b0392232e3f0fe64d6798d1c4bff24",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL ÜNİVERSİTESİ İSTANBUL TIP FAKÜLTESİ VE CERRAHPAŞA TIP \r\nFAKÜLTESİ YANDAL UZMANLIĞI EĞİTİM \r\nVE SINAV YÖNETMELİĞİ",
+  "university_id": 202,
+  "word_count": 708
+}

@@ -1,0 +1,4 @@
+Yandal Uzmanlığı Bilim Sınavı
+Madde 5 – Yandal uzmanlığı eğitim süresi tamamlandıktan sonra Bilim Dalı Başkanı durumu Anabilim Dalı ve Bölüm Başkanlığına bildirir.Adayın tezi (Yedi nüsha) ve çalışmaları ile ilgili belgeler, Anabilim Dalı ve Bölüm aracılığı ve sınav istemi ile yazılı olarak Dekanlığın sunulur.
+Yandal uzmanlığı eğitiminin tamamını yurt dışında yaparak Fakültemize müracaat edenler, tez ile birlikte Tababet Uzmanlık Tüzüğü’nün belirtilen sürelerini tamamladıklarını belgelemek ve sınava gireceği bilim dalında en az üç ay süreyle çalışmak koşulu ile sınava girebilirler.
+Yandal uzmanlığı eğitimini kısmen başka kurumlarda yapanlar noksan kalan sürelerini tamamlamak üzere 3 üncü maddede belirtilen usullere göre atandıktan ve eğitim dönemlerini tamamladıktan sonra tezleri ile başvurarak sınava girebilir.
