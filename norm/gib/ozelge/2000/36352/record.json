@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6001-683/9394",
+  "source_id": 36352,
+  "date": "2000-02-29",
+  "title": "Vakfın, kendisine bağışlanan gayrimenkuller dolayısıyla V.İ.V.' den muaf olup olmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36352",
+  "source_sha256": "8b6fbffb1361bafb4dd44aafea46510108d9069492a88ee22018fdc9938b54ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
