@@ -1,0 +1,2 @@
+Yönetmelikte Hüküm Bulunmayan Haller
+Madde 5 — Bu Yönetmelikte hüküm bulunmayan hallerde 13/9/1990 tarihli ve 90/915 sayılı Bakanlar Kurulu kararıyla yürürlüğe konulan Kamu İktisadi Teşebbüsleri Sözleşmeli Personel Sicil ve Başarı Değerlemesi Hakkında Yönetmelik ve 399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesine Dair Kanun Hükmündeki Kararname ve Personel Yönetmeliği hükümleri uygulanır.
