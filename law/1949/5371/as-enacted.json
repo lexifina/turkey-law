@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5371",
+  "year": 1949,
+  "title": "Vatandaşlık Kanununa bazı maddeler eklenmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-04-25",
+  "gazette_issue": "7190",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7190.pdf",
+  "source_sha256": "5d80845d2fe52151faad9717319bdb4b7a621c8e28ee4216991ed07f3a9bd184",
+  "text_sha256": "0a0703f43790b016de240f942c8e6e57ad733da3eddd5304707bdf48e83d3627",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      76,
+      92
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105371.pdf",
+    "source_sha256": "3a0a483e840e8b138153d6731456627863683393730179d5fdc43489ff6abe1c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9588,
+    "bag": 0.8554,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9762,
+    "rg_words": 84,
+    "kd_words": 84,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
