@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4192",
+  "year": 1942,
+  "title": "Alelûmum seyyar küçük sıhhat memurlarına hayvan yem bedeli verilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-03-25",
+  "gazette_issue": "5066",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5066.pdf",
+  "source_sha256": "10fabe027e2423bb1c073524101c597d0406691348bf54056600f4df20c7395b",
+  "text_sha256": "e024b6cacc861126b1cdf8de2972fdce3efe329c6be31c85868f879f82c39383",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      17,
+      77
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304192.pdf",
+    "source_sha256": "fcdf4ee8d84101e33b32fde2009da5895d9e6516adaf93bcf0c8be3349a5c4b1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9331,
+    "bag": 0.8795,
+    "kd_coverage": 0.993,
+    "kd_body_compared": 0.993,
+    "rg_words": 404,
+    "kd_words": 429,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
