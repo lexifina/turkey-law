@@ -1,0 +1,4 @@
+Madde 7. — 1 inci maddede belirtilen diploma veya ruhsatnamelerden birini haiz olmayanlar Türkiye’de mühendis veya mimar unvanı ile istihdam olunamazlar, imzalarla sanat icra edemezler, bu unvanları kullanarak rey veremezler ve imza da koyamazlar.
+GEÇİCİMADDE 1 — Bu Kanunun yürürlüğe girdiği tarihten önce Bakanlıkça yapı denetim kuruluşlarına verilmiş olan yapı denetimi izin belgeleri, bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay süreyle geçerlidir. Bu süre içerisinde bu Kanun hükümlerine uygun olarak yenilenmeyen yapı denetim izin belgeleri geçersiz sayılır.
+GEÇİCİMADDE 2 — Bu Kanunun yürürlüğe girdiği tarihten önce 3194 sayılı İmar Kanunu ile 595 sayılı Yapı Denetimi Hakkında Kanun Hükmünde Kararname hükümlerine göre alınan yapı ruhsatları geçerlidir.
+GEÇİCİMADDE 3 — 595 sayılı Yapı Denetimi Hakkında Kanun Hükmünde Kararname uyarınca yapı denetim kuruluşlarınca tahsil edilmiş olan malî sorumluluk sigorta primleri yapı sahiplerine iade edilir.
