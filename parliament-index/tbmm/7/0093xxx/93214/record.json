@@ -1,0 +1,111 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 93214,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "title": "TBMM fihrist kaydı 93214 (Teklifler)",
+  "first_sitting_date": "1944-04-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 42,
+      "sitting_date": "1944-04-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c009/tbmm07009fih.pdf",
+      "pages": [
+        "52"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 55,
+      "sitting_date": "1944-05-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010055.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010fih.pdf",
+      "pages": [
+        "66"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 57,
+      "sitting_date": "1944-05-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010057.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010fih.pdf",
+      "pages": [
+        "92"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 77,
+      "sitting_date": "1944-06-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011fih.pdf",
+      "pages": [
+        "142"
+      ]
+    },
+    {
+      "cilt": 11,
+      "sitting": 78,
+      "sitting_date": "1944-06-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c011/tbmm07011fih.pdf",
+      "pages": [
+        "150:152"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 83,
+      "sitting_date": "1944-07-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c012/tbmm07012083.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c012/tbmm07012fih.pdf",
+      "pages": [
+        "66"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 84,
+      "sitting_date": "1944-07-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c012/tbmm07012084.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c012/tbmm07012fih.pdf",
+      "pages": [
+        "76"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 87,
+      "sitting_date": "1944-08-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c013/tbmm07013087.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c013/tbmm07013fih.pdf",
+      "pages": [
+        "22:23"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b727f632c9ca114eefa7efe32894167d2f81ba6a2466dd157f901b16b86ca151",
+  "in_force": "1944-04-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
