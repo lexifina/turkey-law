@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3157",
+  "year": 1937,
+  "title": "Orman koruma teşkilât Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1937-05-05",
+  "gazette_issue": "3596",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3596.pdf",
+  "source_sha256": "50754b92d581e1f66a44f207bc5e33fb2066b2c76e51e0f4e24f8b4ec076b9c5",
+  "text_sha256": "c5b9ae79c64fbfa20c18229fdb0bcd2dd8ff6d11b779d96c13e1d6252192f7d4",
+  "text_status": "ocr",
+  "pages": [
+    12,
+    13
+  ],
+  "line_span": [
+    [
+      3114,
+      3369
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703157.pdf",
+    "source_sha256": "2d967370d684256c781e2c805e43c6ef7e45606dd8aac0bd8ed158204f3341ce",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9789,
+    "bag": 0.9105,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9979,
+    "rg_words": 964,
+    "kd_words": 949,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
