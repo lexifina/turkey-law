@@ -1,0 +1,1 @@
+Madde 1 – Maliye heyeti teftişiyesi memaliki Osmaniye dahilinde bulunan bilcümle hidematı umumiyeyi ciheti maliyeleri itibarile tetkik ve teftiş etmek salâhiyetini haizdir. Müfettişler doğrudan Maliye Vekiline merbut olup Nazırın vekili sıfatile teftişiyle müdürü umumisi maiyetinde olarak icrayı vazife edeceklerdir.
