@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5509-76/32184",
+  "source_id": 38075,
+  "date": "1998-09-15",
+  "title": "Akaryakıt teslimlerinde tevkifat uygulanması gerektiği açıktır. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38075",
+  "source_sha256": "10e7cba792236597da62c5f88d5242f906ec27a4b2412c931a1068f46fc087f0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
