@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4653",
+  "year": 2001,
+  "title": "Türkiye Cumhuriyeti ile Yunanistan Cumhuriyeti Arasında Deniz Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-05-09",
+  "gazette_issue": "24397",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/05/20010509.htm",
+  "source_sha256": "ed5d4564913dbdb9d16172cc9756510bd5e76f1843216a0e17c641039600a45d",
+  "text_sha256": "988fb12d6598e802c9794032c24028216f6d2e75f8b0d77ff946076c820c9caa",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/05/09/24397-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/05/20010509.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
