@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4725",
+  "year": 2001,
+  "title": "Ticaret ve Sanayi Odaları, Ticaret Odaları, Sanayi Odaları, Deniz Ticaret Odaları, Ticaret Borsaları ve Türkiye Ticaret, Sanayi , Deniz Ticaret Odaları ve Ticaret Borsaları Birliği Kanununa Bir Geçici Madde Eklenmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-12-15",
+  "gazette_issue": "24614",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/12/20011215.htm",
+  "source_sha256": "0b07c205e636607343bc1262d58ad751e18e144731478fa66e23d99d2896aa29",
+  "text_sha256": "16dff92bb14cd439c15ddf9c94d9429750a6f23a4bc86070ad1ec5b7dc80cfd0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/12/15/24614-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/12/20011215.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
