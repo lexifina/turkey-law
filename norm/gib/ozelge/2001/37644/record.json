@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.GEL/0.51/5104-84/12192",
+  "source_id": 37644,
+  "date": "2001-02-28",
+  "title": "Derneklerin yıl içerisinde düzenledikleri etkinlikler nedeniyle kurumlar vergisi mükellefiyetinin tesis edilip edilemeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37644",
+  "source_sha256": "0a5312b3980cd2fd52e095ee4d104faa8bba27c2b2766a1a284261c4fdef4661",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
