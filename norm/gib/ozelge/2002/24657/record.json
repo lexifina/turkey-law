@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4217-14/3629",
+  "source_id": 24657,
+  "date": "2002-01-24",
+  "title": "Serbest bölgede faaliyet gösteren gerçek veya tüzel kişilere sunulan hukuk danışmanlığı ve avukatlık hizmeti karşılığında elde edilen gelirin yıllık gelir vergisi beyannamesiyle beyan edilmesi gerekmektedir. avukatlık hizmetleri karşılığında şirketçe öden",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24657",
+  "source_sha256": "328b86ac871b382870862300420bf10897c4fc7f46fbcd2a5ffe565f28eaa9de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
