@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2828",
+  "year": 1935,
+  "title": "Damga resmi hakkındaki 1924 sayılı Kanunun 32. maddesine bir fıkra eklenmesine dair kanun",
+  "adopted": "1935-10-16",
+  "adopted_as_published": "16/10/1935",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "22.10.1935 No: 3138",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502828.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 15",
+  "committee_reports": [
+    {
+      "label": "TBMM 235 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005043ss0235.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 104042,
+      "title": "Damga resmi hakkındaki 1924 sayılı Kanunun 32. maddesine bir fıkra eklenmesine dair kanun",
+      "adopted_as_published": "16/10/1935",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502828.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 235 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005043ss0235.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 42,
+          "sitting_date": "1935-10-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005fih.pdf",
+          "pages": [
+            "44"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 43,
+          "sitting_date": "1935-10-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005fih.pdf",
+          "pages": [
+            "71:72"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 45,
+          "sitting_date": "1935-10-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c005/tbmm05005fih.pdf",
+          "pages": [
+            "88:92"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=920&v_gelecek_sayfa=901&v_kullanici_id=27483162",
+      "page_sha256": "9406c3f10f655387d457685f06b72fb4454ec7383b260a0a5e9732061c4398d2"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "9406c3f10f655387d457685f06b72fb4454ec7383b260a0a5e9732061c4398d2",
+  "issuer": "TBMM",
+  "in_force": "1935-10-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 16/10/1935; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
