@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-32183/29890",
+  "source_id": 21724,
+  "date": "2002-07-03",
+  "title": "Yatırım indirimi istisnasından yararlanmada aktif kıymetlerin maddi kıymet olması esastır. Bu nedenle, Boji Üretim Lisansı için yapılacak harcamaların yatırım indiriminden yararlanması mümkün değildir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21724",
+  "source_sha256": "4a65cdda026b4e489d9c8f6ff18d5937f79b8d5d243c951da5ca64dcad4f5ba9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
