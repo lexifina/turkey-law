@@ -1,0 +1,83 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 163404,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Danıştay Kanunu hakkında (Millet Meclisi 1/474; Cumhuriyet Senatosu 1/375)",
+  "title": "Danıştay Kanunu hakkında (Millet Meclisi 1/474; Cumhuriyet Senatosu 1/375)",
+  "first_sitting_date": "1964-01-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 17,
+      "sitting": 32,
+      "sitting_date": "1964-01-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c017/cs__03017032.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c017/cs__03017fih.pdf",
+      "pages": [
+        "528",
+        "532"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 58,
+      "sitting_date": "1964-04-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019fih.pdf",
+      "pages": [
+        "717:719"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 61,
+      "sitting_date": "1964-04-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c019/cs__03019fih.pdf",
+      "pages": [
+        "796:809",
+        "811:820",
+        "824:827",
+        "840:875",
+        "879:884"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 65,
+      "sitting_date": "1964-04-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t03/c020/cs__03020fih.pdf",
+      "pages": [
+        "89:120",
+        "126:131",
+        "137",
+        "159",
+        "163:168",
+        "188:244",
+        "257:275",
+        "277:306",
+        "308:359",
+        "364",
+        "392:416",
+        "419:454"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2010&v_gelecek_sayfa=401&v_kullanici_id=27484916",
+  "source_sha256": "a97aab0ecaf8bca3f050ccd57a703d82365bfc18a67ad9df1a848edfcd52c1e4",
+  "in_force": "1964-01-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
