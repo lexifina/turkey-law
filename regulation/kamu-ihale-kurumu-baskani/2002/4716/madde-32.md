@@ -1,0 +1,6 @@
+Eser sahiplerinin tesbiti
+Madde 32 — Ödül alacak eserlerle, jürice satın alınması tavsiye edilenler tespit edilip sıra numaralarına göre tutanağa geçtikten ve jüri raporu tanzim edilerek imza edildikten sonra bu eserlerin kimlik zarfları açılır ve eser sahiplerinin adları tutanağa geçirilir. Jüri başkanı tarafından kimlik belgesine kazanılan ödül yazılarak imzalanır.
+Zarfların açılmasından sonra, ödül alan yarışmacılardan herhangi birinin yarışmaya girmeye hakkı olmadığı anlaşılırsa kazandığı derece sayılmaz ve o ödül sıralamaya göre ondan sonra gelene verilmek suretiyle diğerleri bir üst sıraya çıkartılır.
+Yarışmada, bir kişi bir kere ödül alır, başkasıyla birlikte olsa dahi ikinci bir ödül almışsa bu ödül hükümsüz sayılır.
+"İş deneyim belgesi" gerekli olan hallerde; Jüri yarışmacılardan "İş deneyim belgesi" istemiş ise; birinci seçilen yarışmacı ile ilgili "İş deneyim belgeleri" yarışma sonuçlarının ilanından önce jürice tetkik edilir. Bu belgeler yetersiz bulunursa, birinci seçilen proje müellifinin danışman ya da danışmanlarla çalışması istenir. Birinci seçilen müellifçe teklif edilen danışman ya da danışmanlar jürice onaylanır. Bu konudaki danışman ile müellif arasındaki ilişkiler ilgili ihtisas odalarınca düzenlenir.
+Jüri tarafından verilen kararlar kesindir.

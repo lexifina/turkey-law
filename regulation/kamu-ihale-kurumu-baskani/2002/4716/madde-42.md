@@ -1,0 +1,13 @@
+DOKUZUNCU BÖLÜM
+Tarafların Hak ve Sorumlulukları
+Hak ve sorumluluklar
+Madde 42 — Derece, mansiyon ve satın alma kazanan tasarım ve projelere ait her türlü fikri haklar, 5846 sayılı Fikir ve Sanat Eserleri Kanunu hükümleri uyarınca, aksi idare tarafından yarışma şartnamesinde belirtilmedikçe idareye ait olur. Şartname alan yarışmacılar bu hükmü kabul etmiş sayılır.
+İdare, yukarıda belirtilen hüküm uyarınca, sözkonusu tasarım ve projelere ilişkin fikri haklardan hangilerine sahip olmak istediğini yarışma şartnamesinde belirtir.
+İdare, yarışma sonucu elde edilen tasarımın uygulama projelerinin yapılmasını, birinciliği kazanan veya seçilen tasarım sahibine teknik şartlar ve fiyat üzerinde görüşme yapılmak suretiyle doğrudan temin yolu ile yaptırabilir. Yapılan görüşme sonucunda, anlaşma sağlanamaması halinde, idare uygun gördüğü takdirde ikinciliği kazanan tasarım sahibi ile görüşme yapmak suretiyle ikinci seçilen tasarımın uygulama projelerini aynı usulle yaptırabilir.
+Jürice "İş deneyim belgeleri" istenmiş ve birinci seçilen tasarım veya proje sahibinin belgeleri yetersiz bulunmuşsa, müellif, kendi tarafından teklif edilen ve jürice onaylanan danışman ya da danışmanlarla çalışmak zorundadır.
+Uygulanması kararlaştırılan tasarımın sahibi/sahipleri, uygulama ve detay projelerini yapmak istemezse hakkından vazgeçmiş sayılır ve bu durumda idare uygulamayı ikinciliği kazanan tasarım sahibi/sahiplerine yaptırabilir. Eğer ikinciliği kazanan tasarım sahibi de işi yapmaktan vazgeçerse, idare işi yaptırıp yaptırmamakta serbest kalır.
+Ortakçıl yarışmalarda, yarışmayı kazanan ekipteki farklı meslek disiplinlerine ait taraflardan biri veya birkaçı kendi disiplinine ait uygulama projesini yapmaktan vazgeçtiği takdirde, sözkonusu disipline ait hizmetler "Danışmanlık Hizmetleri Uygulama Yönetmeliği"ne göre ihale edilerek alınabilir.
+Yarışmalara ekip olarak katılım halinde, tarafların her biri idareye karşı müşterek ve müteselsilen sorumludur.
+Uygulama projesinin ikinci derecede ilgili meslek hizmetleri projelerinin düzenlenmesinde, öncelik hakkı yarışmayı kazanan veya seçilen projenin kimlik zarflarında isimleri bildirilen ikinci derecede ilgili meslek uzmanlarına tanınır. Anılan meslek mensuplarından birinin ölümü, işi bırakması veya bu işi yapmaktan vazgeçmesi durumlarında proje sahibi, idarenin uygun göreceği başka bir meslek mensubu ile çalışabilir.
+Uygulanacak projenin mesleki kontrollük hizmetleri "Danışmanlık Hizmet Alımı İhaleleri Uygulama Yönetmeliği" ne göre ihale edilerek alınabilir.
+Eser sahibi yarışmaya katılmakla eserinin sergide sergilenmesini ve yarışma dolayısıyla yapılacak yayında eserinin yer almasını önceden kabul etmiş sayılır.
