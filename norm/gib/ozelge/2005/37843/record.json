@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4204-409/12525",
+  "source_id": 37843,
+  "date": "2005-03-15",
+  "title": "Mesleğin ifası için alınan eğitim hizmeti (diksiyon kursu) için yapılan ödemelerin, serbest meslek kazancının tespitinde gider olarak indirilmesi mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37843",
+  "source_sha256": "936b752968408323b43876f644c0018a1cea4309d833966ad190bfa7b7b0be51",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
