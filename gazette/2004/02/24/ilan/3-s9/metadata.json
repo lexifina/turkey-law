@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-02-24",
+  "issue": "25383",
+  "edition": "regular",
+  "item": 9,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Tarım İşletmeleri Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/02/20040224-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (9 = 9)",
+  "ilan_codes": [
+    "2006/2-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/02/20040224-3.htm",
+  "category_page_sha256": "86915c05a4114c98e1d63193cf99243f698fbe032caab0d8d23a1bd5c56c10dc",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/02/20040224.htm",
+  "index_sha256": "34163a15dd3a3363e6ab136914cdf4684ac727f579aed7c7446eb56ee1c99530",
+  "index_header": "24 Şubat 2004 ... Sayı : 25383",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
