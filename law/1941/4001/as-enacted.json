@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4001",
+  "year": 1941,
+  "title": "Devlet Demiryolları ve Limanları işletme umumî idaresi memurları tekaüt sandığı hakkındaki 2454 ve 2904 sayılı kanunlara bazı hükümler eklenmesine ve bu kanunların bazı maddelerinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-04-26",
+  "gazette_issue": "4794",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4794.pdf",
+  "source_sha256": "1b01d835d1b85673ec46579955868b0dd61994c0b9befb275d9504890f4b5169",
+  "text_sha256": "56f6cb84be2e46269aca00fc07de7bba79a777bd465f1b8ebb8274606aa34d71",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      12,
+      274
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204001.pdf",
+    "source_sha256": "74a4d555abcf0964f2cb3c58fc0512be45b302eaeb27fd7c055d7e2b0bd33b75",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9576,
+    "bag": 0.8857,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9788,
+    "rg_words": 1714,
+    "kd_words": 1698,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
