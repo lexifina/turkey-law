@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5687",
+  "year": 1950,
+  "title": "Devlet Demiryolları ve Limanları İdarei Umumiyesinin Teşkilât ve Vazaifine Dair Olan Kanun ile Bu Kanunun Ek ve Tadillerinde Değişiklik Yapılması ve Bu Kanuna Yeni Bazı Hükümler Eklenmesi Hakkındaki Kanunun 4ncü Maddesinin Değiştirilmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-12-16",
+  "gazette_issue": "7684",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7684.pdf",
+  "source_sha256": "b7cd240c52d383c10db4987c64d0053ed9af10e67a3bf5280a8c93d39520fd78",
+  "text_sha256": "5bb42930033162fe98b84794879c59e846423e60de3432dae44e8645ad64109b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      40
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305687.pdf",
+    "source_sha256": "0ba490966c02426b1f98dc21bd243d40061871f7642e0c7a8edbcf3a543751c9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9836,
+    "bag": 0.8959,
+    "kd_coverage": 0.9955,
+    "kd_body_compared": 0.9866,
+    "rg_words": 221,
+    "kd_words": 224,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
