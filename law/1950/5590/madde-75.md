@@ -1,0 +1,3 @@
+Birlik kararlarına riayet etmiyenler:
+Madde 75 – Birliğin mevzuata uygun olarak aldığı kararlara riayet etmemekte ısrar eden oda ve borsaların lağvı, birlik yönetim kurulu tarafından, Sanayi ve Ticaret Bakanlığına teklif edilebilir.
+(Ek: 25/1/1954 - 6233/4 md.) Kanunun muaddel 28 inci maddesinde ve bu kanuna eklenen maddede yazılı paraları haklı bir sebep olmaksızın yatırmamakta ısrar eden Yönetim Kurullarına ve bu işte taksirleri görülen genel sekreterlere Birliğin talebi üzerine Sanayi ve Ticaret Vekaleti tarafından işten el çektirilir. Bu suretle işten el çektirilenler üç sene müddetle yönetim kurullarına seçilemezler ve genel Sekreterliğe tayin edilemezler. (1) (2)

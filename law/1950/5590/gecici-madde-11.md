@@ -1,0 +1,2 @@
+Geçici Madde 11 – (Ek: 17/4/1986 - 3277 sayılı Kanun ile gelen Geçici 3 üncü md. hükmü olup madde numarası teselsül ettirilmiştir.)
+Bu Kanun yürürlüğe girdiği tarihte halen yönetim kurulu seçimlerini yapmamış olan odalar ve borsalar 1 ay içinde bu seçimlerini tamamlarlar.Seçimler hangi tarihte yapılmış olursa olsun Kasım 1985 ayında yapılmış sayılarak organların kanuni süreleri buna göre hesap edilir.

@@ -1,0 +1,40 @@
+Ek Madde 7 – (17/4/1986 - 3277/22 md. ile gelen Ek 5 inci madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Odalar, borsalar ve Türkiye Odalar ve Borsalar Birliği organlarının seçimleri, bu Kanunda yazılı esas ve usullere göre gizli oyla ve yargı gözetiminde yapılır.
+A) Oda ve borsaların organ seçimleri:
+Oda ve borsa organlarının seçimleri Ekim ayı başında başlar Kasım ayı içinde biter
+a) Gruplandırma işlemleri ve meslek komiteleri seçimi:
+Meslek komiteleri seçiminden en az 15 gün önce oda ve borsaların yönetim kurulları, seçme ve seçilme hakkına haiz olanlarla, yalnız seçme hakkına haiz olanların meslek gruplarına göre listelerini hazırlayarak bir yazı ekinde 3 nüsha olarak kuruluşun bulunduğu yerdeki ilçe seçim kurulu başkanı olan hakime tevdi ederler.
+Bir yerde birden fazla ilçe seçim kurulu bulunduğu takdirde, görevli hakim Yüksek Seçim Kurulunca belirlenir.
+Hakim, gerektiğinde ilgili kayıt ve belgeleri de getirtip listeleri seçim sandık kurullarına incelettirir ve varsa noksanlarını tamamlattırdıktan sonra onaylar. Onaylanan listeler ve seçimin yapılacağı tarih ve yer ile diğer hususlar, oda veya borsanın girişindeki ilan yerlerinde asılmak suretiyle 3 tam iş günü ilan edilir. İlçe seçim kurulu başkanınca gerekli görülen hususlar mahalli gazetelerle veya radyo aracılığı ile ilgililere duyurulur.
+İlan süresi içinde oda veya borsa üyeleri tarafından listelere yapılacak itirazlar, ilçe seçim kurulu başkanı tarafından incelenir ve en geç 2 gün içinde kesin olarak karara bağlanır.
+Bu suretle kesinleşen listelerle seçime ilişkin diğer hususlar onaylanarak ilgili oda veya borsaya gönderilir.
+Hakim, listeleri incelemek ve seçimleri yapmak üzere Kamu görevlileri veya aday olmayan üyeler arasından bir başkan ile 2 üyeden oluşan bir seçim sandık kurulu atar ve aynı şekilde 3 yedek üyeyi de belirler. Seçim sandık kurulu başkanının yokluğunda kurula yaşlı üye başkanlık eder. Seçim sandık kurulu seçimlerin Kanunun öngördüğü esaslara göre yürütülmesi, yönetimi ve oyların tasnifi ile görevli olup, bu görevleri seçim ve tasnif işleri bitinceye kadar aralıksız olarak devam eder.
+İlçe seçim kurulu başkanı, oda ve borsanın üye ve meslek grubu sayısına göre seçim sandık kurulu ile seçim sandıklarının mahal ve adedini belirler. Seçimlerde kullanılacak araç ve gereçler, ilçe seçim kurulundan sağlanır.
+Oy verme işlemi saat 9'dan 17'ye kadar gizli oy, açık tasnif esaslarına göre yapılır. Seçim süresi sona erdiği halde sandık başında oylarını vermek üzere bekleyen üyeler de oylarını kullanırlar. Listede adı yazılı olmayan üye oy kullanamaz. Oylar, oy verenin kimliğinin oda veya borsa veya resmi kuruluşca verilen belge ile ispat edilmesinden ve listedeki isminin karşısındaki yerin imzalanmasından sonra kullanılır. Tüzelkişi temsilcisi gerçek kişilerin, temsil ettikleri tüzelkişinin müseccel mukaveleleri gereğince temsil ve ilzam yetkisine sahip olduklarına dair en çok 1 ay önce düzenlenmiş ve ilgili ticaret sicili memurluğunca tasdik edilmiş bir belgeyi oy kullanma sırasında ibraz etmeleri gerekir.
+Oylar, her türlü şekilde düzenlenen oy pusulalarının üzerinde ilçe seçim kurulu mühürü bulunan ve oy verme sırasında seçim sandık kurulu başkanı tarafından her meslek grubu için ayrı ayrı verilecek zarflara konulması suretiyle kullanılır. Bunların dışındaki zarflara konulan oylar geçersizdir.
+Seçim süresinin sonunda, seçim sonuçları tutanakla tespit edilir, seçim sandık kurulu başkan ve üyeleri tarafından imzalanır. Tutanakların birer örneği seçim yerinde asılmak suretiyle geçici seçim sonuçları 2 tam iş günü ilan edilir. Kullanılan oylar ve diğer belgeler, tutanağın bir örneği ile birlikte 3 ay süre ile saklanmak üzere ilçe seçim kurulu başkanlığına tevdi edilir.
+Seçimin devamı sırasında yapılan işlemler ile ilan süresi içinde seçim sonuçlarına yapılacak itirazlar, görevli hakim tarafından aynı gün incelenir ve karara bağlanır. İtiraz süresinin geçmesi ve itirazların karara bağlanmasından hemen sonra hakim yukarıdaki hükümlere göre kesin sonuçları ilan eder ve ilgili oda veya borsa ile Türkiye Odalar ve Borsalar Birliğine ve Sanayi ve Ticaret Bakanlığına bildirir.
+Hakim herhangi bir sebeple seçimi durdurduğu veya seçim sonuçlarını etkileyecek ölçüde bir usulsüzlük veya Kanuna aykırı uygulama sebebiyle seçimlerin
+348-37
+iptaline karar verdiği takdirde, süresi 1 aydan az ve 2 aydan fazla olmamak üzere seçimin yenileneceği günü tespit ederek ilgili oda veya borsa ile Türkiye Odalar ve Borsalar Birliğine ve Sanayi ve Ticaret Bakanlığına bildirir.
+Belirlenen günde yalnız seçim yapılır ve seçim işlemleri bu madde ile Kanunun öngördüğü diğer hükümlere uygun olarak yürütülür.
+Seçimlerin tamamının iptali halinde,seçimler yenileninceye kadar geçen sürede, oda ve borsanın meclis ve yönetim kurulu görevini yapmak üzere Sanayi ve Ticaret Bakanlığınca 3 ila 5 kişilik bir kurul atanır.
+İlçe seçim kurulu başkanı hakime ve seçim sandık kurulu başkan ve üyelerine Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunda belirtilen esaslara göre ücret ödenir. Bu ücretlerle, diğer seçim giderleri oda ve borsalarca karşılanır.
+Seçimler sırasında sandık kurul başkan ve üyelerine karşı işlenen suçlar, Devlet Memurlarına karşı işlenmiş gibi cezalandırılır.
+Seçimlerin düzen içerisinde ve sağlıklı biçimde yürütülmesi amacıyla, hakimin ve seçim sandık kurulunun aldığı tedbirlere uymayanlara, eylemin ağırlığına göre Kanunda yazılı disiplin cezaları verilir. Yeni kurulacak oda ve borsalarda meslek gruplarına ait listeler gruplandırma yönetmeliklerinde gösterildiği şekilde ve mahallin en büyük mülkiye amiri veya onun görevlendireceği yetkili memur tarafından seçilecek 5 - 10 üyeden oluşacak bir gruplandırma kurulunca yapılarak, listeler meslek komitesi seçimleri için görevli hakime verilir.
+b) Oda ve borsaların meclis seçimleri:
+Meslek komiteleri, seçimlerin kesinleşmesini takip eden en geç 5 gün içinde toplanarak gizli oyla, oda veya borsa meclisleri için asıl ve yedek üyeleri seçer. Seçimler bu maddenin (a) bendindeki usul ve esaslara göre seçim sandık kurulu tarafından yürütulür ve seçim tutanakları ilçe seçim kurulu başkanına tevdi edilir.
+c) Oda ve borsaların yönetim kurulu ve birlik delegesi seçimleri:
+Meclis, seçimlerin kesinleşmesini takip edan en geç 7 gün içinde toplanarak gizli oyla yönetim kurulu ile birlik genel kurul delegelerinin asıl ve yedeklerini seçer. Seçimler bu maddenin (a) bendindeki usul ve esaslara göre seçim sandık kurulu tarafından yürütülür ve seçim tutanakları ilçe seçim kurulu başkanına tevdi edilir.
+Bu tutanakların hakimce onaylanmış birer nüshası Türkiye Odalar ve Borsalar Birliğine ve Sanayi ve Ticaret Bakanlığına gönderilir.
+B) Türkiye Odalar ve Borsalar Birliğinin Oda ve Borsa Konseyleri ile Yönetim Kurulu seçimi
+a) Birlik oda ve borsa konseyleri seçimi:
+İlçe seçim kurulu başkanlığınca onaylanan listelerde yazılı delegelerden oluşan Birlik Genel Kurulunda, ilgili delegelerce kendi aralarından gizli oyla oda ve borsa konseylerinin asıl ve yedek üyeleri seçilir.
+b) Birlik yönetim kurulu seçimi:
+(Değişik birinci paragraf: 24/6/1995 - KHK - 557/19 md.; İptal: Ana. Mah'nin 20/9/1995 tarih ve E. 1995/43, K. 1995/46 sayılı Kararı ile).
+Seçimler, bu maddenin (A/a) bendindeki usul ve esaslara göre merkez ilçe seçim kurulu başkanı tarafından kamu görevlileri veya aday olmayan delegeler arasından bir başkan ile dört üyeden oluşturulan bir seçim sandık kurulunca yürütülür.
+Seçim sandık kurulu için aynı şekilde 5 yedek üye belirlenir.
+Seçim sandık kurulu başkanının yokluğunda, kurula en yaşlı üye başkanlık eder.
+Seçim tutanakları merkez ilçe seçim kurulu başkanınca onaylanır ve bir nüshası Sanayi ve Ticaret Bakanlığına gönderilir.
+İlçe seçim kurulu bakanı ile seçim sandık kurulu başkan ve üyelerine ödenecek ücretler ve seçim giderleri, Türkiye Odalar ve Borsalar Birliği bütçesinden karşılanır.
+Odalar, borsalar, Türkiye Odalar ve Borsalar Birliği organlarının seçimlerinde siyasi partiler, sendikalar ve sendika üst kuruluşları aday gösteremezler ve belirli adayların leh ve aleyhlerinde faaliyette bulunamazlar ve propaganda yapamazlar.

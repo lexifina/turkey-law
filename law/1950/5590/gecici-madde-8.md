@@ -1,0 +1,2 @@
+Geçici Madde 8 – (Ek: 24/12/1981 - 2567/39 md.)
+Bu Kanunun yayımlandığı tarihte ticaret odalarına, ticaret ve sanayi odalarına kayıtlı bulunan deniz ticaret erbabının bu odalardan kayıtları deniz ticaret odaları kurulup fiilen göreve başlayınca silinir ve deniz ticarat odasına girişlerinde giriş aidatı tahsil edilir. Evvelce kayıtlı bulundukları odalara yıllık ve munzam aidatlarını ödememiş bulunanlardan bu aidatları, bulundukları odaların tespit edilmiş veya tespit edilecek miktarlar üzerinden deniz ticaret odası tarafından tahsil edilir.

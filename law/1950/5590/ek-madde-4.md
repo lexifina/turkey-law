@@ -1,0 +1,3 @@
+Ek Madde 4 – (24/12/1981 tarih ve 2567 sayılı Kanunun 38 nci maddesi ile gelen Ek madde 2 hükmü olup, ilgili mevzuatın tek metin halinde derlenmesi sırasında numarası teselsül ettirilmiştir.)
+8/3/1950 tarihli ve 5590 sayılı Kanunun 17, 19, 54, 65, 67, 68 ve 85 inci maddeleri ile bu Kanunun 9,13,17,22,25 ve 31 inci maddelerinde öngörülen yönetmelikler, Ticaret Bakanlığının onayı ile yürürlüğe girer. Yukarıda belirtilen yönetmeliklerle, bu Kanunun 21, 25, 32, 34 ncü maddelerinde öngörülen yönetmelikler bu bu Kanunun yürürlüğe giriş tarihinden itibaren en geç altı ay içinde çıkarılır.
+4 – 27/5/1988 tarih ve 3452 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 25, 26, 27, 28, 56, 57, 71, Ek-1).

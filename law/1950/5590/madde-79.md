@@ -1,0 +1,2 @@
+Madde 79 – (8/3/1950 tarih ve 5590 Sayılı Kanunun hükmüdür.)
+Türkiye ile aralarında ikamet ve adli salahiyet sözleşmeleri akdedilmiş bulunan yabancı bir devletin uyruğunda olup TÜrkiye'de yerleşmiş bulunan ticaret ve sanayi erbabının, gerek kendi aralarında ve gerek Türk uyruğundaki ticaret ve Sanayi erbabiyle karışık olarak, kuracakları ticaret ve sanayi dernekleri 3512 sayılı Cemiyetler Kanununun 10 uncu maddesinde zikrolunan esaslar dairesinde teşekkül eder ve o kanunun hükümleri dahilinde faaliyette bulunur.

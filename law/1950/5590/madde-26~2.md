@@ -1,0 +1,15 @@
+Madde 26 – (24/12/1981 tarihli ve 2567 sayılı Kanunun hükmüdür.)
+Munzam aidat :
+Munzam aidat, odaya kayıtlı tacir ve sanayicilerin bir yıl önceki Gelir Vergisine matrah teşkil eden ticari ve sınai faaliyetlerinden elde ettikleri kazanç toplamının binde beşidir.
+Birden fazla odaya kayıtlı bulunanların munzam aidatı, odaların ayrı bulundukları yerlerde Birlikçe teklif edilen, Sanayi ve Ticaret Bakanlığınca belirlenen odalar tarafından tahsil olunur. Ancak, kayıtlı bulundukları odalar arasında her odaya ödedikleri aidatla mütenasip olarak müteakip takvim yılının azami ilk 3 ayı içinde paylaşılır.
+Zarar eden sanayici ve tacirler o yıl için munzam aidat ödemezler.
+——————————
+(1) Bu maddede yer alan üyelerin, odaya kayıtları sırasında ödemek mecburiye-tinde oldukları kayıt ücreti ve yıllık aidat tavan sınırı 8/11/1984 tarih ve 84/8758 sayılı Bakanlar Kurulu Kararı ile 50.000 liradan 100.000 liraya; 2/4/1987 tarih ve 87/11657 sayılı Bakanlar Kurulu Kararıyla da 150.000 TL.ye yükseltilmiştir.
+4 üncü maddede belirtilen çalışma alanlarında birden fazla şubesi bulunanüyelerin munzam aidatı bütün şubelerden elde ettikleri Gelir Vergisine matrahteşkil eden ticari ve sınai faaliyetlerden elde ettikleri kazancın binde beşidir.
+Kurumlar Vergisine tabi kuruluşların munzam aidatı, ödedikleri Kurumlar Vergisinin binde beşidir.
+Müstakil bilançosu yapılan kurum ve müessese şubelerinin munzam aidatı, o şubelerden elde edilen kazançların binde biridir. Ve şubenin bulunduğu mahallin odalarına ödenir.
+Bilançoları bir merkezden yapılan ve birden fazla odaya kayıtlı bulunan kurum ve müesseselerin munzam aidatı, odaların ayrı olması halinde Birlikçe teklif edilen, Sanayi ve Ticaret Bakanlığınca belirlenen odalar tarafından tahsil olunur. Ancak bu munzam aidat şubelerin bulunduğu yerlerdeki odalar arasında herodaya ödedikleri aidatla mütenasip olarak müteakip takvim yılının azami ilk 3 ayı içinde paylaşılır.
+Bütün bu hallerde bir müessesenin şubeleri ile birlikte ödeyeceği munzam aidat tutarı 20 000 lirayı geçemez.
+Ancak bu miktar Bakanlar Kurulu kararı ile üç katına kadar artırılabilir.
+Munzam aidat her yılın Mayıs ve Aralık aylarında iki eşit taksitle ödenir. Önceki yıldan itibaren geçerli olarak kaydedilmesi gerekenlerin munzam aidatı ise kendilerine tebliğ edildiği yılın sonuna kadar ödenir. Zamanında ödenmeyen munzam aidat ilk ay için % 10 müteakip her ay için % 2 zamlı olarak tahsil olunur. Ancak gecikme zammı munzam aidatın bir mislini geçemez.
+(Ek: 17/4/1986 – 3277/7 md.) Türkiye limanlarında faaliyet gösteren ve Türkiye'de herhangi bir odaya kayıtlı bulunmayan yabancı bayraklı gemilerin, Türk limanlarında sağladıkları navlun hasılatından, uluslararası uygulama gözö-nüne alınmak suretiyle, oda meclisince tespit ve Sanayi ve Ticaret Bakanlığıncatasdik olunan orana göre hesap edilecek meblağ, Bakanlıkça tayin edilecek ödemesüresi içinde, gemi kazançlarına ilişkin vergi beyannamesi vermek zorunda olan-lar tarafından ilgili liman bölgesindeki deniz ticaret odasına veya bu oda teş-kilatının henüz kurulmadığı yerlerde ise ticaret veya ticaret ve sanayi odaları- na ödenir. (1)

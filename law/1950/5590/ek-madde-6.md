@@ -1,0 +1,11 @@
+Ek Madde 6 – (17/4/1986 - 3277/22 md. ile gelen Ek 4 üncü madde hükmü olup madde numarası teselsül ettirilmiştir.)
+(Değişik birinci fıkra: 18/6/1997 - 4276/19 md.) Odalar, borsalar ve Birlik, kuruluş amaçları dışında faaliyette bulunamazlar.
+(Değişik: 18/6/1997 - 4276/19 md.) Amaçları dışında faaliyet gösteren odalar, borsalar ve Birliğin sorumlu organlarının görevlerine son verilmesine ve yerlerine yenilerinin seçilmesine, Sanayi ve Ticaret Bakanlığının veya bulundukları yer Cumhuriyet Başsavcılığının istemi üzerine, o yerdeki asliye hukuk mahkemesince basit usule göre yargılama yapılarak karar verilir ve dava en geç üç ay içinde sonuçlandırılır.
+Görevlerine son verilen organların yerine en geç 1 ay içinde yenileri seçilir. Yeni seçilenler, eskilerin süresini tamamlar.
+İlgili Bakanlığın bu Kanun uyarınca odalar, borsalar ve Birliğin karar ve işlemleri hakkındaki tasarruflarına, Birliğin, odalar ve borsaların görevli organları tarafından uyulması zorunludur. Bakanlık tasarruflarını yasal bir neden olmaksızın yerine getirmeyen ve eski kararda direnme niteliğinde yeni bir karar veren veya Kanunun zorunlu kıldığı işlemleri Bakanlığın uyarısına rağmen yerine getirmeyen Birlik, oda ve borsalar organları hakkında da yukarıdaki fıkralar hükümleri uygulanır.
+Görevlerine son verilen organ üyelerinin Kanunda yazılı cezai sorumlulukları saklıdır. Bu organların yukarıdaki fıkra gereğince görevlerine son verilmesine neden olan tasarrufları hükümsüzdür.
+(Değişik: 18/6/1997 - 4276/19 md.) Ancak, milli güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, odalar, borsalar ve Birlik, vali tarafından faaliyetten men edilebilir. Faaliyetten men kararı, yirmidört saat içinde görevli hakimin onayına sunulur. Hakim, kararını kırksekiz saat içinde açıklar, aksi halde, bu idari karar kendiliğinden yürürlükten kalkar. (1)
+——————————
+(1) Bu fıkra 18/6/1997 tarih ve 4276 sayılı Kanunun 19 uncu maddesiyle altıncı ve yedinci fıkraların birleştirilmesi suretiyle altıncı fıkra olarak düzenlenmiş ve metne işlenmiştir.
+348-36
+Görevlerine kesin veya geçici olarak son verilen organların yerine yenileri seçilinceye kadar bu organların görevleri Sanayi ve Ticaret Bakanlığınca atanacak 3 ila 5 kişilik bir kurulca yürütülür.

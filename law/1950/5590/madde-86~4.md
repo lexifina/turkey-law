@@ -1,0 +1,2 @@
+Madde 86 – (24/6/1995 tarih ve 557 sayılı KHK'nin hükmüdür.)
+Odalarda, Borsalarda, Birlikte ve bunların kurduğu teşekküllerde istihdam edilenlerin işe alınması, çalıştırılması, sicil, atama, yükselme, nakil, işten ayrılma ve çıkarma, disiplin işlemleri, aylık ücret, ödenek, ikramiye ile çalıştığı esnada ödenecek sosyal ve benzeri yardımlar, ayrılma tazminatı vediğer tüm özlük hakları, Birlikçe hazırlanacak ve Sanayi ve Ticaret Bakanlığınca onaylanacak bir yönetmelikte düzenlenir.

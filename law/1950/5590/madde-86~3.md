@@ -1,0 +1,7 @@
+Madde 86 – (24/12/1981 tarihli ve 2567 sayılı Kanunun hükmüdür.)
+Oda, borsa ve Birlik memur, sözleşmeli ve geçici personeli ve hizmetlilerini çalıştırma, atama, terfi, nakil, işten çıkarma ve cezalandırma işlemleri, aylıkücret ve ödenekleri, emeklilik işlemlerinin şekli, işten ayrılma halleri ve bu hallerde verilmesi gereken ayrılma tazminatı, çalışanlara yapılacak yakacak, aile ve doğum, ölüm ve Devlet Memurları Kanununda yer alan bu gibi diğer sosyalyardımların miktar ve şekilleri Birlikçe hazırlanacak ve Bakanlar Kurulunca onaylanacak yönetmelikte gösterilir.
+(Ek Madde 5 – (24/12/1981 tarihli ve 2567 sayılı Kanunun hükmüdür.)
+Odalar, borsalar ve Birlik,bizzat eğitim yaptırmak veya eğitim faaliyetlerine katkıda bulunmak, sergi ve fuarlar açmak, organize sanayi bölgeleri kurmakgibi Sanayi ve Ticaret Bakanlığınca belirlenecek faaliyetler için bütçelerinin en az %5'i oranında bir pay ayırırlar ve bu faaliyetleri Sanayi ve Ticaret Bakanlığınca belirlenecek esaslar içinde planlar ve uygularlar.
+Ek Madde 7 bent (B) alt bent (b) – (17/4/1986 tarihli ve 3277 sayılı Kanunun hükmüdür.)
+İlçe seçim kurulu başkanlığınca onaylanan listelerde yazılı oda ve borsa konsey üyeleri en geç 5 gün içerisinde müştereken toplanarak gizli oyla birlik yönetim kurulu asıl ve yedek üyelerini seçerler.
+6 – 20/9/1995 tarih ve E.1995/43, K.1995/46 sayılı Anayasa Mahkemesininiptal Kararıyla yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 2, 3, 9, 25, 26, 27, 33, 50, 52, 56, 57, 62, 66, 69, 71, 79, 86, Ek Madde 5, 7, 8, 9,10)

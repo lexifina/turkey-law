@@ -1,0 +1,2 @@
+Mevcut oda ve borsaların intibakı:
+Geçici Madde 1 – Ankara, İstanbul ve İzmir Ticaret ve Sanayi Odalariyle Ticaret Borsaları 91 inci maddede zikredilen bu kanuna ait tüzüğün yürürlüğe girdiği tarihten başlıyarak en geç üç ay, diğer oda ve borsalar tüzüğün yürürlüğe girdiği tarihten itibaren en geç altı ay içinde bu kanuna uymak mecburiyetindedirler. Bu süre içinde durumlarını uydurmıyan oda ve borsalar Sanayi ve Ticaret Bakanlığıca fesih ve tasfiye olunurlar.

@@ -1,0 +1,4 @@
+Ek Madde 5 – (24/6/1995 tarih ve 557 sayılı KHK'nin hükmüdür.)
+Kullanma esasları ve uygulaması Sanayi ve Ticaret Bakanlığınca çıkarılacak bir yönetmelikte tesbit edilmek üzere, odalar, borsalar ve Birlik; eğitim faaliyetlerine katkıda bulunmak için en az % 1, yeni kurulan veya mali yönden yetersiz bulunan oda ve borsaların teşvik ve desteklenmesi ile Sanayi ve Ticaret Bakanlığı iç ticaret hizmetlerinin geliştirilmesi için en az % 1, sergive fuarlar açılması, organize sanayi bölgeleri kurulması, milli ve uluslararası toplantı ve kongreler düzenlenmesi gibi faaliyetler için de yine en az % 1 oranında olmak üzere gelir bütçelerinden her yıl pay ayırırlar.
+Ek Madde 7 bend (B), alt bend (b) birinci paragraf – 24/6/1995 tarih ve 557sayılı KHK'nin hükmüdür.)
+İlçe seçim kurulu başkanlığınca onaylanan listelerde yazılı delegelerden oluşan Birlik Genel Kurulunda gizli oyla Birlik Yönetim Kurulu asıl ve yedek üyeleri seçilir.
