@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5511-2297",
+  "source_id": 31085,
+  "date": "2004-09-16",
+  "title": "İhraç kaydıyla teslim edilen malların, ihracatçıya teslim tarihini takip eden ay başından itibaren 3 ay içinde ihraç edilmesinin gerektiği edilememe durumunda bu sürenin uzatılıp uzatılamayacağı hakkında... ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31085",
+  "source_sha256": "2293c7d7f7e0e21cc132d0379ade22e3f3be9fe9ba90bae5a4219a70f928cbe5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
