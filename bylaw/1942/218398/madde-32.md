@@ -1,0 +1,2 @@
+Tevdiatın istimal hadleri ve plasmanların şekil ve şartları
+Madde 32 – Tasarruf sandıkları kendilerine vakı tevdiatın onda birini Ticaret Vekaletinin teklifi üzerine Hükümetçe tayin edilecek milli bir bankaya yatırmaya mecburdurlar. Geri kalanın yarısını Hazine bonosu ve tahvilatiyle Devletin kefaleti altında bulunan tahvilat veya meskük veya resmi ayarlı külçe altın mukabilinde muma, diğer yarısını da sağlam ve nakde tahvili kolay menkul teminat göstermek ve nafi teşebbüslerde kullanmak şartiyle hususi idarelere ve belediyelere ikraz edebilirler.

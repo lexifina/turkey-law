@@ -1,0 +1,2 @@
+Madde 16 – Umumi heyet, her hesap yılının bitmesinden itibaren ilk üç ay içinde adiyen ve Ticaret Vekaletinin veya murakıpların re'sen gösterecekleri lüzum üzerine Ticaret ve Dahiliye Vekaletlerinin müşterek talepleriyle her zaman fevkalade olarak toplanır.
+Umumi heyet adi toplantılarında tasarruf sandıklarının geçmiş yıla ait kati hesaplariyle bilanço kar ve zarar hesaplarını tetkik ve tasdik eder.

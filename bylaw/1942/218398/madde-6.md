@@ -1,0 +1,2 @@
+Tasarruf sandıklarının salahiyetleri
+Madde 6 – Tasarruf sandıklarına merhun tahvilat ve altınlar, rehnedildikleri zamandaki kıymetlerinin %10 unu kaybederler veya borç vadesinde ödenmezse, borçluya veya ikametgahına bir hafta içinde eksilen kıymetin ikmali veya borcun tediyesi hakkında bir ihbarname tebliğ edilir. Bu tebliğin hükmü borçlu tarafından ifa edilmediği takdirde merhunat tasarruf sandıklarınca doğrudan doğruya borsa rayici üzerinden satılarak sandığın alacağı masrafı ile beraber istifa edildikten sonra bakıye kalırsa sahibine reddolunur.

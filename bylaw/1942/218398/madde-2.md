@@ -1,0 +1,1 @@
+Madde 2 – Tasarruf sandıklarına ait bütün para ve mallar Devlet malları hükmündedir. Bunları çalanlar, ihtilas edenler, zimmetine geçirenler veya her ne suretle olursa olsun suiistimal edenler hakkında, Devlet mallarına ika olunan bu gibi suçlara terettüp eden cezalar tatbik edilmek üzere, kanuni takibat yapılır.

@@ -1,0 +1,1 @@
+Madde 40 – Tasarruf sandıkları, kuruldukları tarihten itibaren beşinci sene sonunda temettüleri, idare masraflariyle tevdiata verdikleri faizleri karşılayamadığı takdirde, 1711 sayılı kanunun ikinci maddesi gözönünde tutulmak suretiyle yukarıdaki hükümler dahilinde tasfiyeye tabi tutulur.

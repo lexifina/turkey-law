@@ -1,0 +1,1 @@
+Madde 41 – Tasarruf sandıkları hakkındaki (1711) numaralı kanunun (12)nci maddesine dayanılarak hazırlanmış ve Devlet Şürasınca tetkik edilmiş olan bu Nizamname hükümleri Resmi Gazete ile basıldığı günün ertesinden itibaren yürümeğe başlar.
