@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2002/275",
+  "list_number": "275",
+  "decision_date": "2002-05-11",
+  "title": "YSK ilke kararı 2002/275",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4266/2002-275-karar.htm",
+  "source_sha256": "329fcc8bd1569af19464ba639b12add2e26767a380ca517ff7fb4d5cfdfb88bd",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2002-05-11",
+  "law_text_complete": false
+}
