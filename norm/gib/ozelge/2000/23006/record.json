@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4418-8-3623",
+  "source_id": 23006,
+  "date": "2000-01-27",
+  "title": "Kazançları basit usulde tespit edilen ticaret erbabı yanında çalışanların ücretleri diğer ücret kapsamında vergilendirilmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23006",
+  "source_sha256": "cedf3f4d559ebb968b833166f9656963732982ad18ef60cee4c1d921b8bc4446",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
