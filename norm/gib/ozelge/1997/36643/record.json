@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6527-115/35934",
+  "source_id": 36643,
+  "date": "1997-08-25",
+  "title": "Su altı eğitim ve sportif dalış hizmetleri eğìtim ve öğretim faaliyeti olarak değerlendirilmediğinden, bu faaliyetlerle ile ilgili olarak ödeme kaydedici cihaz kullanma mecburiyeti bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36643",
+  "source_sha256": "274ae7d317975e8d7f2db829fffb8ec66f296f1477d438e7b5c93779a63841cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
