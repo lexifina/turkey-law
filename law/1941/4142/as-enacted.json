@@ -1,0 +1,52 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4142",
+  "year": 1941,
+  "title": "İstanbul Üniversitesinin umumî muvazeneye alınmasına dair olan 3694 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-12-13",
+  "gazette_issue": "4983",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4983.pdf",
+  "source_sha256": "17483d399e6c6e2abc3de7ef9d96280df87758be1b25b5965782c6be0e5bd14b",
+  "text_sha256": "48410706e8cf3389a19a9024a6d659548db1e8f84310a386c55e1c09cad89387",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    5
+  ],
+  "line_span": [
+    [
+      549,
+      550
+    ],
+    [
+      50,
+      62
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field); tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304142.pdf",
+    "source_sha256": "524b2c7ad078da4d9cd69892a592a5c4560364fa1ffc92700aa200f074d834aa",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.931,
+    "bag": 0.8986,
+    "kd_coverage": 0.9796,
+    "kd_body_compared": 0.9714,
+    "rg_words": 70,
+    "kd_words": 70,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
