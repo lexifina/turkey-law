@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3003",
+  "year": 1936,
+  "title": "Endüstriyel muamelâtın maliyet ve satış fiyatlarının kontrolü ve tesbiti hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-06-13",
+  "gazette_issue": "3329",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3329.pdf",
+  "source_sha256": "3dbda1fd65f5eb7e8f8f645c9dc20a0581ab35d6ffa3dd7eddc4168239ddd9a0",
+  "text_sha256": "e71092aa623748dd5e83fd5bbdce226f592f854b8d7bfd84f0afb80f344cead3",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      66,
+      97
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1, 2] (no text layer)",
+    "tesseract_pages": [
+      1,
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01603003.pdf",
+    "source_sha256": "eba6f82ee918093382931d11044de89ba54015ae6876090f880c396b80bbb031",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9039,
+    "bag": 0.7568,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9895,
+    "rg_words": 182,
+    "kd_words": 190,
+    "own_anchor": false,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
