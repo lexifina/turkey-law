@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4621",
+  "year": 1944,
+  "title": "Bankalar ve Devlet müesseseleri memurları aylıklarının tevhit ve teadülü hakkındaki 3659 sayılı kanunun bazı maddelerinin değiştirilmesine ve bu kanuna bazı maddeler eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-07-21",
+  "gazette_issue": "5762",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5762.pdf",
+  "source_sha256": "314c6671334d9bbb44681a355e364c5e9e9a5b99e8fd3700973d20cf1c74d392",
+  "text_sha256": "ed0fc11c3bd203c6b187408ae84f2a3a18c9b172cf2b221fafb56d2646c313bb",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      426,
+      655
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604621.pdf",
+    "source_sha256": "9823d505e6b47563f84806edd4a34c3a927e2660c96bf2357dc6eb884b3f1938",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9743,
+    "bag": 0.9351,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9988,
+    "rg_words": 1611,
+    "kd_words": 1627,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
