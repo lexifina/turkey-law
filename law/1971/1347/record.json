@@ -1,0 +1,60 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1347",
+  "year": 1971,
+  "title": "Ege Üniversitesi 1971 yılı Bütçe Kanunu",
+  "adopted": "1971-01-29",
+  "date_basis": "last-sitting",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 316870,
+      "title": "Ege Üniversitesi 1971 yılı Bütçe Kanunu",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 62,
+          "sitting": 28,
+          "sitting_date": "1971-01-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c062/cs__10062028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c062/cs__10062fih.pdf",
+          "pages": [
+            "706"
+          ]
+        },
+        {
+          "cilt": 63,
+          "sitting": 31,
+          "sitting_date": "1971-01-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c063/cs__10063fih.pdf",
+          "pages": [
+            "316:326",
+            "326",
+            "367",
+            "427:428"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1301&v_kullanici_id=27483235",
+      "page_sha256": "d5176558de59b9dcf211fea14e78f3108f5ed774b83c8bb3de13ebec8b61a347"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d5176558de59b9dcf211fea14e78f3108f5ed774b83c8bb3de13ebec8b61a347",
+  "issuer": "Cumhuriyet Senatosu",
+  "in_force": "1971-01-29",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (1971-01-29); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
