@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6518",
+  "year": 1955,
+  "title": "Askerlik Kanununun 35. maddesine bir fıkra ilâvesi hakkındaki 5010 sayılı Kanunun tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1955-04-01",
+  "gazette_issue": "8970",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8970.pdf",
+  "source_sha256": "c2a601e43495079713716803c44741f81f6b2fe6da41aaea0ffcf1c802735cf9",
+  "text_sha256": "eac727d35d44300a4cf3bbca6658688d92e455f31f4ecde47120062adeb8b7af",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      59,
+      82
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706518.pdf",
+    "source_sha256": "55a2bc3c60fd3da99a92f25f99c56262cc59957ce70d9d09999410bdd229af8b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9002,
+    "bag": 0.798,
+    "kd_coverage": 0.963,
+    "kd_body_compared": 0.9459,
+    "rg_words": 98,
+    "kd_words": 111,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
