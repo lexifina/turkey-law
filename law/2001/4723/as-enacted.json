@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4723",
+  "year": 2001,
+  "title": "Devlet Güvenlik Mahkemelerinin Kuruluş ve Yargılama Usulleri Hakkında Kanun, 18.11.1992 Tarihli ve 3842 Sayılı Kanun ile Çıkar Amaçlı Suç Örgütleriyle Mücadele Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-12-13",
+  "gazette_issue": "24612",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/12/20011213.htm",
+  "source_sha256": "e7d08ab753d117a0b9da072edce6690dd90365df779833ce2b5ebd228ef55aa3",
+  "text_sha256": "4a83353cfb2c4b4b8d9a47f18119e770781b521e648dd22f1f7dfc3df757477d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/12/13/24612-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/12/20011213.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
