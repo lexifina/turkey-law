@@ -1,0 +1,54 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2004/52",
+  "date": "2004-12-17",
+  "title": "SPK Haftalık Bülteni 2004/52",
+  "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_52.pdf",
+  "source_sha256": "7b82e83408868ca8ee4bfc25c0d4982079f7a2771abd85608b1e2422d8190b67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "E. DUYURULAR"
+  ],
+  "coverage": "partial bulletin: complete retained regulatory sections; every other source section indexed and held as indicated",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2004 – 17.12.2004 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "held",
+      "reason": "section held pending regulatory classification",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_52.pdf"
+    },
+    {
+      "heading": "B. 13.12.2004 –17.12.2004 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "held",
+      "reason": "section held pending regulatory classification",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_52.pdf"
+    },
+    {
+      "heading": "C. 13.12.2004 – 17.12.2004 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Edilecek Nom",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_52.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_52.pdf"
+    },
+    {
+      "heading": "E. DUYURULAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_52.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
