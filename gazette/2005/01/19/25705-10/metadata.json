@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-01-19",
+  "issue": "25705",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "İnsan Taşımak Üzere Tasarımlanan Kablolu Taşıma Tesisatı Yönetmeliği (2000/9/AT)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050119-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050119.htm",
+  "index_sha256": "305db508581ee2c010d6f4c2a877fb2fb00292d2bfd385e5ed294d6db2323464",
+  "index_header": "19 Ocak 2005 ... Sayı : 25705",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
