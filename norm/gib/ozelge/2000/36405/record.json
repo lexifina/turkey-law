@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6004-18084",
+  "source_id": 36405,
+  "date": "2000-04-19",
+  "title": "Sözleşme çerçevesinde gerçekleşen mirastan ivazlı feragat olayının V.İ.V. karşısındaki durumu hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36405",
+  "source_sha256": "98547c3368719047cfdd580a2a9ba8fbda3f8e0eefa9eeae091f1413a35eb4cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
