@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4147",
+  "year": 1941,
+  "title": "4147 sayılı Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-12-22",
+  "gazette_issue": "4990",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4990.pdf",
+  "source_sha256": "7c9b097ef272788ba6c111a071ff6d727a9251936d4cfa43ac972d4277ea62ff",
+  "text_sha256": "bc2bbe596e80ef938681ff2cf22654127e72eb2bb72f826ceb58113d212789db",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      28,
+      41
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304147.pdf",
+    "source_sha256": "2a0c9699acca8d0d0e1e4d4208bb59237c89a7ade9ce2f6eca8071481aaf0742",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9224,
+    "bag": 0.8023,
+    "kd_coverage": 0.9625,
+    "kd_body_compared": 0.9398,
+    "rg_words": 94,
+    "kd_words": 83,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
