@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6082",
+  "year": 1953,
+  "title": "Temyiz Mahkemesi Teşkilâtına Dair 1221 Sayılı Kanunun 8. Maddesinin Değiştirilmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-04-21",
+  "gazette_issue": "8391",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8391.pdf",
+  "source_sha256": "7f76f4fef978d30831ffa516eba98a3e240769787f669e24cb35c22ea8c5e15f",
+  "text_sha256": "57028d221d8f05e57a1916bb63539b8a86915a101fc828ce4144ab9f733d9f55",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      68
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506082.pdf",
+    "source_sha256": "f3b7fe8226e88d8f4a85c3f9c3cc2d9bebb03b8485b55240fea3518e707b35e2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9799,
+    "bag": 0.9539,
+    "kd_coverage": 0.9975,
+    "kd_body_compared": 0.9831,
+    "rg_words": 396,
+    "kd_words": 414,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
