@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1407",
+  "year": 1929,
+  "title": "Mübadil, gayri mübadil, muhacir vesaire kanunlarına tevfikan tahsis olunan gayrimenkul emvalin tapuya raptına dair 28 Mayıs 1928 tarih ve 1331 numaralı Kanuna müzeyyel Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-03-30",
+  "gazette_issue": "1154",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1154.pdf",
+  "source_sha256": "35315e3e2ac923232b8034e4df960f5c86f3635e446a23fa03e1cb588b5c6b52",
+  "text_sha256": "ce2925d51e014d561b14ed2686c644ba3828b441dd683473e86a22864ac1def8",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      28
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701407.pdf",
+    "source_sha256": "a4ac78b954d74251b37172848262e7d53591d405b81d24dfa7fe109da384e61b",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = word-sequence ratio (exact or OCR-noise-equal words, difflib) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9054,
+    "bag": 0.8815,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9524,
+    "rg_words": 111,
+    "kd_words": 105,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
