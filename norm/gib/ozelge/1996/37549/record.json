@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6342-111/59156",
+  "source_id": 37549,
+  "date": "1996-12-11",
+  "title": "Firmalarca gerçekleştirilecek sermaye artırımlarının hangi hallerde damga vergisi ve harç istisnasından yararlandırılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/37549",
+  "source_sha256": "cd5c77f3ee8d27d355bdfbb67f8e2e3532e3f8d5207625f5852adf0f7d3abe87",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
