@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2832",
+  "year": 1935,
+  "title": "Millî Müdafaa Vekâleti ile bu vekâlete bağlı teşekküllerde kullanılacak yabancı Devlet tebaasından mütehassıs ve ustalarla yapılacak mukaveleler hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-10-31",
+  "gazette_issue": "3144",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3144.pdf",
+  "source_sha256": "ceb50f433ccd98ba6df025695bb7d65f37f864ec2ad02e711ed065b194a9a9d8",
+  "text_sha256": "20f57450b63331a9c623fa40295bfe41f05602a28a92aeadc0b865ac723cee0c",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      34,
+      54
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502832.pdf",
+    "source_sha256": "19e65fa5e3bbab7598534bda9f7b72271b615047db4068b1210d2708c8d7ba83",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9322,
+    "bag": 0.8974,
+    "kd_coverage": 0.9747,
+    "kd_body_compared": 0.8556,
+    "rg_words": 79,
+    "kd_words": 90,
+    "own_anchor": true,
+    "foreign_anchors": 5
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
