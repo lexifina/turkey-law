@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Belediye Meclisi",
+  "number": "1875",
+  "decision_date": "1970-10-27",
+  "title": "ÇEKİRGE LAMİİ ÇELEBİ CAMİİ CİVARI İMAR PLAN TADİLİ",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1970-1875.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1970",
+  "listing_sha256": "bcdb708a6248e0cbc8f4cec50d8ac50231e1ffa20c6a366ab7d393a748a63b06",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
