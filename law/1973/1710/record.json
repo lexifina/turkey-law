@@ -1,0 +1,232 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1710",
+  "year": 1973,
+  "title": "Eski Eserler Kanunu",
+  "adopted": "1973-04-25",
+  "adopted_as_published": "25/04/1973",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.05.1973 No: 14527",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601710.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 56",
+  "committee_reports": [
+    {
+      "label": "MM 672 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027143ss0672.pdf"
+    },
+    {
+      "label": "MM 672no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032041ss0672.pdf"
+    },
+    {
+      "label": "CS 238no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010056ss0238.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 393217,
+      "title": "Eski Eserler Kanunu",
+      "adopted_as_published": "25/04/1973",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601710.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 672 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027143ss0672.pdf"
+        },
+        {
+          "label": "MM 672no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032041ss0672.pdf"
+        },
+        {
+          "label": "CS 238no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010056ss0238.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 14,
+          "sitting_date": "1969-12-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001014.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c001/mm__03001fih.pdf",
+          "pages": [
+            "403"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 90,
+          "sitting_date": "1972-05-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024090.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c024/mm__03024fih.pdf",
+          "pages": [
+            "722"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 140,
+          "sitting_date": "1972-10-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027140.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027fih.pdf",
+          "pages": [
+            "152",
+            ","
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 143,
+          "sitting_date": "1972-10-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027143.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027fih.pdf",
+          "pages": [
+            "193:217"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 145,
+          "sitting_date": "1972-10-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027145.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027fih.pdf",
+          "pages": [
+            "347:352"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 10,
+          "sitting_date": "1972-11-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029010.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029fih.pdf",
+          "pages": [
+            "169:196"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 41,
+          "sitting_date": "1973-01-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032fih.pdf",
+          "pages": [
+            "253:268"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 42,
+          "sitting_date": "1973-01-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032fih.pdf",
+          "pages": [
+            "301",
+            "333",
+            "408:411"
+          ]
+        },
+        {
+          "cilt": 32,
+          "sitting": 45,
+          "sitting_date": "1973-01-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032045.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032fih.pdf",
+          "pages": [
+            "475",
+            "528",
+            "533:536"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1001&v_kullanici_id=27483225",
+      "page_sha256": "527fe61057172c75db7e994b7bc2d86caa3d426114acd67ad09f586a4f03c72e"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 321818,
+      "title": "Eski Eserler Kanunu.",
+      "adopted_as_published": "25/04/1973",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601710.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 672 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027143ss0672.pdf"
+        },
+        {
+          "label": "MM 672no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c032/mm__03032041ss0672.pdf"
+        },
+        {
+          "label": "CS 238no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010056ss0238.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 8,
+          "sitting": 24,
+          "sitting_date": "1973-02-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c008/cs__12008024.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c008/cs__12008fih.pdf",
+          "pages": [
+            "372"
+          ]
+        },
+        {
+          "cilt": 10,
+          "sitting": 55,
+          "sitting_date": "1973-04-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010fih.pdf",
+          "pages": [
+            "672",
+            "722:752"
+          ]
+        },
+        {
+          "cilt": 11,
+          "sitting": 58,
+          "sitting_date": "1973-04-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c011/cs__12011058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c011/cs__12011fih.pdf",
+          "pages": [
+            "13",
+            "34",
+            "63:64"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1701&v_kullanici_id=27483235",
+      "page_sha256": "b72c34be4a1905335c6e8be089c858335765608ea5d4dfd7757ae144141b09fa"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "527fe61057172c75db7e994b7bc2d86caa3d426114acd67ad09f586a4f03c72e",
+  "issuer": "Millet Meclisi",
+  "in_force": "1973-04-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 25/04/1973; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
