@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4535-5",
+  "source_id": 21224,
+  "date": "2004-11-10",
+  "title": "Faaliyet konusu yapı-denetim olan bir şirketin faaliyetinde kullanmak üzere almış olduğu komyonet için yatırım indirimi istisnası uygulanması mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21224",
+  "source_sha256": "9943653b472515413e305ca54b1fb0e0a1def686477ece86252fbed40cd5b806",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
