@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5864",
+  "year": 1952,
+  "title": "60 Milyon Liralık İç İstikraz Akdi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-01-29",
+  "gazette_issue": "8020",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8020.pdf",
+  "source_sha256": "4de3a11f2f6577e8df570f229b57d99191b5a63ff85bcb901db85bd8e902ed71",
+  "text_sha256": "0b9ce752ca0d62105ac3b21d12eaa259f1a607cd525fb92a07b2f4220b3ed4c7",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      245,
+      293
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405864.pdf",
+    "source_sha256": "3d0fd8cde2c78703c2b31e10a3506a3558f594abde94011898ddbd9b28d87a65",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9875,
+    "bag": 0.9635,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9926,
+    "rg_words": 394,
+    "kd_words": 404,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
