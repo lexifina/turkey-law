@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2541",
+  "year": 1934,
+  "title": "Millî musiki ve temsil akademisinin teşkilât Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-07-04",
+  "gazette_issue": "2743",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2743.pdf",
+  "source_sha256": "ae66b904bef2d4a846f3c87cb73b78740634f2208dd2af20c57f7bfcb7e4ad4b",
+  "text_sha256": "4ed63b52d74e61f71fc2f61670d97e8b3328929fcc9738e53b8eaff34a97bb58",
+  "text_status": "ocr",
+  "pages": [
+    6,
+    7
+  ],
+  "line_span": [
+    [
+      1224,
+      1537
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302541.pdf",
+    "source_sha256": "514537961aec025ed3fa05fbde7bd1c44b62991a44ebe3886d7016d227dfb0f7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9695,
+    "bag": 0.9261,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9982,
+    "rg_words": 1022,
+    "kd_words": 1092,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
