@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2646",
+  "year": 1934,
+  "title": "Gümrük Kanunumun 49. maddesini değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-12-27",
+  "gazette_issue": "2891",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2891.pdf",
+  "source_sha256": "11f075d62a683af6ae87a56c374683eacb51366cefd617a4b67c311091c066f0",
+  "text_sha256": "5847b452e98e30dce8bc609ece9f9b3a9a581201664f8906583dd7a7ac132b9f",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      1082,
+      1138
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402646.pdf",
+    "source_sha256": "419016a23a773b22527464f07c986f86d819ff2e15539bf2da569b97da2a8851",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9739,
+    "bag": 0.9065,
+    "kd_coverage": 0.9917,
+    "kd_body_compared": 0.9917,
+    "rg_words": 252,
+    "kd_words": 242,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
