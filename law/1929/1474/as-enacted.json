@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1474",
+  "year": 1929,
+  "title": "1474 sayılı Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-03",
+  "gazette_issue": "1206",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1206.pdf",
+  "source_sha256": "3071dd5b553d09eef793b6b21d9c23e28f05efa13f23b8dc26a168c7027b5f83",
+  "text_sha256": "c93f8d4f1df872875a862c0d221c70d586c2b84fefcc878013253a2623b84324",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      249,
+      266
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701474.pdf",
+    "source_sha256": "f351575aa6c968bd3d8432b60cfed2f56e79821cf5ecf511121ce698a88c8e63",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9352,
+    "bag": 0.8224,
+    "kd_coverage": 0.9623,
+    "kd_body_compared": 0.9286,
+    "rg_words": 55,
+    "kd_words": 56,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
