@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 249155,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "CUMHURBAŞKANINCA GERİ GÖNDERİLEN KANUNLAR",
+  "heading_as_published": "Cumhurbaşkanınca Geri Gönderilen Kanunlar",
+  "summary": "26.4.1961 Günlü ve 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun 11, 12, 52, 64, 65 ve 66. Maddelerinde Değişiklik Yapılması ve Bu Kanuna Bir Ek, Bir Geçici Madde Eklenmesi Hakkında 25.12.1986 Tarih ve 3328 sayılı Kanun",
+  "title": "26.4.1961 Günlü ve 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun 11, 12, 52, 64, 65 ve 66. Maddelerinde Değişiklik Yapılması ve Bu Kanuna Bir Ek, Bir Geçici Madde Eklenmesi Hakkında 25.12.1986 Tarih ve 3328 sayılı Kanun",
+  "first_sitting_date": "1987-02-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 36,
+      "sitting": 64,
+      "sitting_date": "1987-02-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c036/tbmm17036064.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c036/tbmm17036fih.pdf",
+      "pages": [
+        "453:459"
+      ]
+    },
+    {
+      "cilt": 36,
+      "sitting": 67,
+      "sitting_date": "1987-02-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c036/tbmm17036067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c036/tbmm17036fih.pdf",
+      "pages": [
+        "577:600"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=CUMHURBA%DEKANINCA%20GER%DD%20G%D6NDER%DDLEN%20KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4b5eabaa3411d16154673c5a66ec28d3e39a2e5f814ee242e19bc068519a5793",
+  "in_force": "1987-02-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
