@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 465673,
+  "assembly": "TBMM Birleşik Toplantı",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "27 Mayıs 1960 İnkılâbı ile düşürülen Bakanlardan gayrı bazı eski Bakanların görevleriyle ilgili suçlarından dolayı soruşturma istemine dair Başbakanlık tezkereleri ve TBMM (2) Numaralı 5 Kişilik Komisyon raporu (Ulaştırma eski Bakanı Arif Demirer ile ilgili olup Başbakanlık tezkerelerine ilişik umumi dizi pusulasında 40 sıra numarasını taşıyan dosya hakkındadır) (3/1)",
+  "title": "27 Mayıs 1960 İnkılâbı ile düşürülen Bakanlardan gayrı bazı eski Bakanların görevleriyle ilgili suçlarından dolayı soruşturma istemine dair Başbakanlık tezkereleri ve TBMM (2) Numaralı 5 Kişilik Komisyon raporu (Ulaştırma eski Bakanı Arif Demirer ile ilgili olup Başbakanlık tezkerelerine ilişik umumi dizi pusulasında 40 sıra numarasını taşıyan dosya hakkındadır) (3/1)",
+  "first_sitting_date": "1988-01-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 14,
+      "sitting_date": "1988-01-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t18/c001/tbmm18001014.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t18/c001/tbmm18001fih.pdf",
+      "pages": [
+        "134"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d18&v_yasama_yili=1&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=8&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=8&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=324&v_gelecek_sayfa=301&v_kullanici_id=27484928",
+  "source_sha256": "93ca732bf5f67bedef5bda79d0338f7ef9ee02fbc2c2ad1ad21956bf9dcaca34",
+  "in_force": "1988-01-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
