@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-31/2005-3 Yıllık Gelir Vergisi Beyannamesi",
+  "source_id": 626,
+  "date": "2005-03-09",
+  "title": "Yıllık Gelir Vergisi Beyannamesi Verilme Süresinin Uzatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/626",
+  "source_sha256": "25695fecda1049afc2763bf3dbabf4171b7b79e8ea37b9dc893aeb010c8a4953",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
