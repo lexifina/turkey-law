@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.O.56/5601-849/60507",
+  "source_id": 35343,
+  "date": "1996-12-16",
+  "title": "Doğrudan doğruya veya Türkiye'de faaliyet gösteren bankalar vasıtasıyla temin edilen dış kredilere ilişkin damga vergisi ve B.S.M. Vergisi Uygulaması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/35343",
+  "source_sha256": "bd00fe0a5a1f9cb021204efe417b35c4b6c2530251cdf08ca2fe5367f20420fd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
