@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 377531,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Diyarbakır Milletvekili Behzat Egilli ile 4 arkadaşının, 19 Mart 1969 gün ve 1136 sayılı Avukatlık Kanununun bâzı maddelerinin değiştirilmesi bu kanunun 186. maddesine bir fıkra ve başına bir geçici madde eklenmesi ve bu kanunla, 22 Nisan 1962 gün ve 44 sayılı, 14 Temmuz 1965 gün ve 657 sayılı ve 23 Ekim 1969 gün ve 1186 sayılı kanunların bâzı maddelerinin kaldırılması hakkında kanun teklifi ve Cumhuriyet Senatosu Eskişehir üyesi Ömer Ucuzal'ın, Kastamonu Milletvekili Muzaffer Akdoğanlı ile Çankırı Milletvekilli Hazım Dağlı'nın, Erzincan Milletvekili Sadık Perinçek ve 21 arkadaşının, Kırklareli Milletvekili Mehmet Atagün'ün, Cumhuriyet Senatosu Artvin Üyesi Fehmi Alpaslan'ın, Elâzığ Milletvekili Mehmet Aytuğ'un, ve Cumhuriyet Senatosu Sivas üyesi Âdil Altay'ın, 1136 sayılı Avukatlık Kanununun bâzı maddelerinin değiştirilmesi hakkında kanun tekliflerine dair (2/237, 2/62, 2/127, 2/172, 2/177, 2/208, 2/218, 2/227)",
+  "title": "Diyarbakır Milletvekili Behzat Egilli ile 4 arkadaşının, 19 Mart 1969 gün ve 1136 sayılı Avukatlık Kanununun bâzı maddelerinin değiştirilmesi bu kanunun 186. maddesine bir fıkra ve başına bir geçici madde eklenmesi ve bu kanunla, 22 Nisan 1962 gün ve 44 sayılı, 14 Temmuz 1965 gün ve 657 sayılı ve 23 Ekim 1969 gün ve 1186 sayılı kanunların bâzı maddelerinin kaldırılması hakkında kanun teklifi ve Cumhuriyet Senatosu Eskişehir üyesi Ömer Ucuzal'ın, Kastamonu Milletvekili Muzaffer Akdoğanlı ile Çankırı Milletvekilli Hazım Dağlı'nın, Erzincan Milletvekili Sadık Perinçek ve 21 arkadaşının, Kırklareli Milletvekili Mehmet Atagün'ün, Cumhuriyet Senatosu Artvin Üyesi Fehmi Alpaslan'ın, Elâzığ Milletvekili Mehmet Aytuğ'un, ve Cumhuriyet Senatosu Sivas üyesi Âdil Altay'ın, 1136 sayılı Avukatlık Kanununun bâzı maddelerinin değiştirilmesi hakkında kanun tekliflerine dair (2/237, 2/62, 2/127, 2/172, 2/177, 2/208, 2/218, 2/227)",
+  "first_sitting_date": "1970-02-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 42,
+      "sitting_date": "1970-02-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c002/mm__03002042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c002/mm__03002fih.pdf",
+      "pages": [
+        "929"
+      ]
+    },
+    {
+      "cilt": 2,
+      "sitting": 43,
+      "sitting_date": "1970-02-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c002/mm__03002043.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c002/mm__03002fih.pdf",
+      "pages": [
+        "980:986"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=1901&v_kullanici_id=27484836",
+  "source_sha256": "e81aba40441027ac7ebff599f654f454ee5ac0c25841227b42fce13c5cf70df2",
+  "in_force": "1970-02-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
