@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.60/6004-550/45123",
+  "source_id": 38216,
+  "date": "2001-08-24",
+  "title": "Veraset ve intikal vergisi beyannamesinin birinci ek sürede veya birinci ek süreden sonra fakat ikinci ek süreye ilişkin herhangi bir tebligat yapılmadan önce verilmesi halinde II. derecede, ikinci ek süre içinde verilmesi halinde de I. derecede usulsüzlü",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/38216",
+  "source_sha256": "13d666f262440b1e861c39513338f92e62f5f02a2f465ac2002062742c751a0d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
