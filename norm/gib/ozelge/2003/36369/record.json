@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6003-155/043890",
+  "source_id": 36369,
+  "date": "2003-10-14",
+  "title": "Bir mesleki birliğe mensup kişinin ölümü sonucu mirasçılarına, birlik tarafından ödenen kıdem tazminatı veraset ve intikal vergisine tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36369",
+  "source_sha256": "624616eef8e686cf45f2d015c90e4bf24578d178b871f75e3ba3795bb43acf22",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
