@@ -1,0 +1,64 @@
+{
+  "id": "ecfdde13-2eff-4f18-ae93-aa4ee4099383",
+  "decision_number": "1977/46",
+  "case_number": "1976/42",
+  "decision_date": "1977-04-19",
+  "published_date": "1977-07-01",
+  "source_publication_date": "1977-04-22",
+  "gazette_number": 15983,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/1977/46",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_sha256": "c2e522d3487038f1fdbd1d2bc4ab881abac93e1c6c66fcd27acd95f9d5fb139c",
+  "version_label": "as-enacted",
+  "in_force": "1977-04-19",
+  "in_force_basis": "Official decision date (Karar Günü); date of this as-enacted decision record, not the effective date of any annulled provision",
+  "annulment_effect_deferred": false,
+  "review_results": [
+    {
+      "durumParamId": "5a1d555f-e4b6-499b-9b79-b2d28b3dc6c5",
+      "normTuruParamId": "53ab265d-7e56-47e0-9e63-f8ee6a4a4611",
+      "normTarihi": "1975-07-04",
+      "normNumaraAdParamId": "a52f1206-bc10-74e8-2a92-35662b21b334",
+      "incelemeturuKarsonucuParamId": "b70853bc-8190-61fb-36c6-4565bb3e5124",
+      "sonucGerekcesiParamId": "e593c292-8963-c0be-721c-41882e63ae9b",
+      "kararYururlulukDurumu": "yok",
+      "ertelemeSuresi": null,
+      "maddeNumarasi": null,
+      "maddeNumarasiList": null,
+      "maddeNumaralari": [
+        {
+          "maddeNumarasi": "8",
+          "fikra": null,
+          "bent": null,
+          "altBent": null,
+          "diger": null
+        }
+      ],
+      "karsiOy": true,
+      "farkliGerekce": false,
+      "dayanakAnayasaHukumList": [
+        {
+          "hukum": "1961/7"
+        },
+        {
+          "hukum": "1961/32"
+        },
+        {
+          "hukum": "1961/132"
+        },
+        {
+          "hukum": "1961/134"
+        },
+        {
+          "hukum": "1961/136"
+        }
+      ],
+      "normDenetimiKarsiOyRelList": null,
+      "normDenetimiFarkliGerekceRelList": null
+    }
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "deferred_images": 0,
+  "word_count": 5141
+}
