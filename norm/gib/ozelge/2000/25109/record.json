@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6383-205/3299",
+  "source_id": 25109,
+  "date": "2000-01-26",
+  "title": "Kanuni süresi içerisinde verilmeyen beyannamelerden alınacak eğitime katkı payı hk. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/25109",
+  "source_sha256": "f8821e8bb3dfa2ff90932505f7b2e75cfa36d76246a252289ba80c861af86ec2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
