@@ -1,0 +1,2 @@
+Yönetmelik:
+Madde 6 – Kamu kurum ve kuruluşları ile şahıslar elinde bulunan arşiv malzemesi ve ileride arşiv malzemesi haline gelecek arşivlik malzemenin tespit edilmesine, herhangi bir sebepten dolayı bunların kayba uğramamasına, gerekli şartlar altında korunmalarına ve milli menfaatlere uygun olarak Devletin, gerçek ve tüzelkişilerin ve ilmin hizmetinde değerlendirilmelerine, muhafazasına lüzum görülmeyen malzemenin ayıklama ve imhası ile 4 üncü maddeye göre kurulacak komisyonlara dair usul ve esaslar Cumhurbaşkanınca çıkarılacak yönetmelikte gösterilir. (1)

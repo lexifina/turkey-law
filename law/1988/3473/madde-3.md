@@ -1,0 +1,3 @@
+Mükellefiyet:
+Madde 3 – Bu Kanun kapsamına giren ve elinde arşiv malzemesi ve arşivlik malzeme bulunduran kurum ve kuruluşlar, ellerinde bulundurdukları arşiv malzemesi ile arşivlik malzemeyi her türlü zararlı tesir ve unsurlardan korumak, asli düzenlerine göre tasnif edip saklamak, yönetmelikte belirtilecek bekletme ve saklama süreleri sonunda Devlet Arşivleri Genel Müdürlüğüne teslim etmek ve muhafazasına lüzum kalmayan evrak ve malzemeyi yok etmekle mükelleftirler.
+Arşiv malzemesi ve arşivlik malzeme temliki tasarruflar amacıyla kullanılamaz, tahrip ve tahrif edilemez ve yurt dışına çıkartılamazlar.
