@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4222",
+  "year": 1942,
+  "title": "İktisadi Devlet teşekkülleri memurları tekaüt sandığı hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-05-25",
+  "gazette_issue": "5114",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5114.pdf",
+  "source_sha256": "c6cce824f5fb80f1c5e3b912e5e9d5cb77555750271ed1dc852767f4ae040d8d",
+  "text_sha256": "409d989741429f579c42adceb01b93774870b2844ac4d66d193eb2e71cf7e916",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      134,
+      562
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304222.pdf",
+    "source_sha256": "61cc4275e68c633ee1c6436952cc2d50598ac9613aa4ff35abf56ff1caf29fc7",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9806,
+    "bag": 0.9374,
+    "kd_coverage": 0.9992,
+    "kd_body_compared": 0.9992,
+    "rg_words": 2411,
+    "kd_words": 2447,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
