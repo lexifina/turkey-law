@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6838",
+  "year": 1956,
+  "title": "5423 sayılı Esnaf Vergisi Kanununun kaldırılması ve 5421 sayılı Kanunun bazı maddelerinin tadili ve bazı maddelerine fıkralar ilâvesi hakkındaki 6582 sayılı Kanunun bazı maddelerinin tadili ve bu kanuna bazı hükümler ilâvesine mütedair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-09-10",
+  "gazette_issue": "9403",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9403.pdf",
+  "source_sha256": "b8e0c61de620d266c4170b14c0bf92fa7846ed9645a530b5683ebc46e0f7c8d3",
+  "text_sha256": "f90d94289c5dedef7afaa2dd2777d13270cfd7d0a01e0daefb2036ae2ef68c8c",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      823,
+      894
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806838.pdf",
+    "source_sha256": "df4cc3b849c8212f54b2f2a6be3fa830184a0681c0b035d45803610f2a0b4556",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9786,
+    "bag": 0.9368,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9651,
+    "rg_words": 518,
+    "kd_words": 545,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
