@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6150",
+  "year": 1953,
+  "title": "Artırma Eksiltme ve İhale Kanununa bir madde eklenmesine ve 5127 sayılı Kanunun Kaldırılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-21",
+  "gazette_issue": "8463",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8463.pdf",
+  "source_sha256": "1e7514d7f52ca4c0749241e7f1afd98cfaddba4c77d17b616ca214bdcc46e5a2",
+  "text_sha256": "32110cb69f32aab0fc710306961c8ea38c79363bfd03c1572ca6079ff17d8f5f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      14,
+      48
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506150.pdf",
+    "source_sha256": "fcdb3b637c07fe8d925d95c0a3a7ab2d01a0964a220a6edbf1eac5a1f6e2ee3d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9838,
+    "bag": 0.9252,
+    "kd_coverage": 0.9667,
+    "kd_body_compared": 0.9667,
+    "rg_words": 149,
+    "kd_words": 150,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
