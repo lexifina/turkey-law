@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6148",
+  "year": 1953,
+  "title": "İstanbul Adalet Binası İnşası İçin Gelecek Yıllara Geçici Taahhütlere Girişilmesi hakkındaki Kanunda Değişiklik Yapılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-17",
+  "gazette_issue": "8460",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8460.pdf",
+  "source_sha256": "aed080799b61262f14ab6b4c8a554f1f2984fb3b2341382225dcf714687dba94",
+  "text_sha256": "5dd9b8fb02553dc0a1c7d075d8a60c44c0bd59e0055cbf21d0626fac9b3fe9d9",
+  "text_status": "ocr",
+  "pages": [
+    7
+  ],
+  "line_span": [
+    [
+      1362,
+      1380
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506148.pdf",
+    "source_sha256": "2927278602b00acf317bc9e0b5ac88cfe54fd157f07dbd9aa5bcb10757b1d2a2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9205,
+    "bag": 0.8791,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9804,
+    "rg_words": 82,
+    "kd_words": 102,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
