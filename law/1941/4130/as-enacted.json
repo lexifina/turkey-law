@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4130",
+  "year": 1941,
+  "title": "Millî Müdafaa mükellefiyeti kanununun 68. maddesinin tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-12-03",
+  "gazette_issue": "4974",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4974.pdf",
+  "source_sha256": "10c88dca4936637da4c799cead20b0a6ed96b733c354dcd43ee38ad9d5b49fc5",
+  "text_sha256": "93be3859e08d310cddf3ce226e48bac48a95675255f8584cf301d5be4425cdf6",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      20,
+      51
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304130.pdf",
+    "source_sha256": "aa6c95d72f7c76114870e1bdb3927d1bfc8b808812b155c61ac64a10ed0b517d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9475,
+    "bag": 0.8816,
+    "kd_coverage": 0.9636,
+    "kd_body_compared": 0.9524,
+    "rg_words": 144,
+    "kd_words": 168,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
