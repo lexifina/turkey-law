@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-832/23498",
+  "source_id": 36815,
+  "date": "1997-06-05",
+  "title": "İİlgili banka şubesi tarafından ...nin kredi hesabına tahakkuk ettirilen faiz ve komisyonlar üzerinden hesaplanan banka ve sigorta muameleleri vergisinin iadesinin mümkün olmadığı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36815",
+  "source_sha256": "1bc890e7b727efae545bdcf80428712c9e10aed2e854a1b1977bcef9068d0476",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
