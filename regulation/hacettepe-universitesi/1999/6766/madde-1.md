@@ -1,0 +1,1 @@
+MADDE 1 - 2547 Sayılı Yükseköğretim Kanunu’nun 3/j ve 7/d-2’nci maddeleri uyarınca ve Hacettepe Üniversitesi Senatosu’nun 5/5/1999 tarih ve 99/49 sayılı kararı ile önerilen “Hacettepe Üniversitesi Gençlik Araştırmaları ve Uygulama Merkezi” kurulması Yükseköğretim Kurulu Başkanlığı’nın 7/10/1999 tarih ve 1754-24410 sayılı yazıları ile uygun görülmüştür.

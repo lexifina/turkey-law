@@ -1,0 +1,8 @@
+AMAÇ:
+MADDE 3 - Hacettepe Üniversitesi’nin ilgili bölüm, anabilim dalları ve ünitelerinin işbirliği ile gençlik çağına özgü gelişimsel özellikleri, psikolojik ve toplumsal sorunları belirlemeye, açıklamaya ve çözümlemeye yönelik çalışma ve araştırmalarda bulunmak amacıyla kurulan Merkezin başlıca faaliyet alanları aşağıda gösterilmiştir.
+a) İlgi alanına giren konularda bilimsel araştırma, inceleme ve yayın yapmak, bu nitelikteki çalışmaları desteklemek,
+b) Konunun sosyoloji, psikoloji, psikiyatri, eğitim ve sosyal hizmet gibi değişik disiplinlerden araştırmacılar tarafından ortaklaşa ele alınmasını sağlayacak bir ortam oluşturarak disiplinlerarası etkileşimi ve bilgi alışverişini sağlamak üzere gerektiğinde Sağlık, Kültür ve Spor Dairesi Başkanlığı ile işbirliği de yaparak bu yöndeki çalışmaları desteklemek,
+c) Bu konuda ulusal ve uluslararası düzeyde seminer, konferans, kongre, sempozyum gibi çeşitli bilimsel toplantılar yada eğitim programları düzenlemek ve bu gibi faaliyetlere katılmak, bu amaçla yurt içi ve yurt dışındaki benzer amaçlı kuruluşlarla işbirliğinde bulunmak, ortak programlar düzenlemek,
+d) Başta Üniversitenin öğrencileri olmak üzere, gençlerin gelişim özelliklerinin, yaşadıkları gelişimsel psikolojik ve toplumsal sorunların anlaşılması ve çözümüne yönelik uygulamalarda bulunmak, bu amaçla uygulamalarında kamu ve özel kurum ve kuruluşlarla, gerçek ve tüzel kişilerle işbirliği yapmak,
+e) Ulusal yada uluslararası kamu ve özel sektör kurum ve kuruluşlarının gereksinim duydukları inceleme ve araştırmaları yapmak, bu konuda eğitim ve danışmanlık hizmetleri vermek,
+f) Merkez Yönetim Kurulu’nun kararlaştıracağı diğer etkinliklerde bulunmaktır.

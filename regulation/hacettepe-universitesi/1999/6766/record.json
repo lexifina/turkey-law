@@ -1,0 +1,62 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [],
+  "date_evidence": [
+    [
+      "1999-10-19",
+      "19.10.1999",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2000-08-21",
+      "RG-21/08/2000-24147",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2000-08-21",
+      "RG-21/08/2000-24147",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2000-08-21",
+      "RG-21/08/2000-24147",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2000-08-21",
+      "RG-21/08/2000-24147",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2000-04-26",
+      "RG-26/04/2000-24031",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-21/08/2000-24147",
+  "first_law": null,
+  "gazette": "23851",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2000-08-21",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/1999/6766",
+  "published": "1999-10-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6766&MevzuatTertip=5",
+  "source_bytes": 24866,
+  "source_id": "8.5.6766",
+  "source_sha256": "124bc385da13a2e3c4a3511a2823a90d7f4f062e95e5cd8d83d7a984fa28ab93",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nGENÇLİK ARAŞTIRMALARI VE UYGULAMA MERKEZİ\r\nYÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 719
+}
