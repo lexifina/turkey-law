@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6369-207/6574",
+  "source_id": 37552,
+  "date": "2000-02-14",
+  "title": "Gayrimenkullerin devir ve iktisabında alınacak harç değeri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/37552",
+  "source_sha256": "edd0ba5b9551ba8081a24c76c6b3f7c5d5bd5a01e2b1c10964785f11075b9f15",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
