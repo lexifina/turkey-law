@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 141491,
+  "assembly": "Temsilciler Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "262 sayılı Kanunim 3. maddesine bir fıkra ve bu kanuna geçicn bir madde eklenmesine dair kanun tasarısı hakkında. (1/98)",
+  "title": "262 sayılı Kanunim 3. maddesine bir fıkra ve bu kanuna geçicn bir madde eklenmesine dair kanun tasarısı hakkında. (1/98)",
+  "first_sitting_date": "1961-03-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 31,
+      "sitting_date": "1961-03-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c002/tm__00002031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c002/tm__00002fih.pdf",
+      "pages": [
+        "238"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 2,
+      "sitting": 32,
+      "sitting_date": "1961-03-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c002/tm__00002032.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c002/tm__00002fih.pdf",
+      "pages": [
+        "322:323"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+    },
+    {
+      "cilt": 2,
+      "sitting": 33,
+      "sitting_date": "1961-03-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c002/tm__00002033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TM__/d00/c002/tm__00002fih.pdf",
+      "pages": [
+        "332:338"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=2&meclis_kisa_adi=TM&diger_donem_adi=d00"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=22&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=145&v_gelecek_sayfa=101&v_kullanici_id=27484945",
+  "source_sha256": "8db42b99f906c5539380c6ed2811372e83a3699c730d02e6c5a7ef40cc038d37",
+  "in_force": "1961-03-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
