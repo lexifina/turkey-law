@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5711-397 / 686",
+  "source_id": 33491,
+  "date": "2004-01-07",
+  "title": "Bir şirketin tasfiye halinde olmasının KDV  iadesi işlemine engel teşkil etmeyeceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33491",
+  "source_sha256": "ef9c2676659393e41d037dc0e6055a2ab760eaaa2e909375fd8d15e197699623",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
