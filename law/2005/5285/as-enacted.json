@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5285",
+  "year": 2005,
+  "title": "Afyon İlinin Adının Afyonkarahisar Olarak Değiştirilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2005-01-11",
+  "gazette_issue": "25697",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050111-2.htm",
+  "source_sha256": "8ae3090b7d3c39f359f26277135e9e6c44fca8a9b918c8d79df9632146f84a44",
+  "text_sha256": "d8f458d40d350f2d33d7f126f467546414d0e81d32907ec53604389255bb0ca0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2005/01/11/25697-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2005/01/20050111-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
