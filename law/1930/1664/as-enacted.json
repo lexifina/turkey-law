@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1664",
+  "year": 1930,
+  "title": "995 numaralı kanuna müzeyyel kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-06-02",
+  "gazette_issue": "1509",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1509.pdf",
+  "source_sha256": "43b9e33a2eb345ec5ebf88a783c90bb5d6502933037e9569d42b110688f8d163",
+  "text_sha256": "89d1ad9253462946facf05435b16ecc949afacae8248923103174fe5a8ccf6f7",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      431,
+      443
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801664.pdf",
+    "source_sha256": "e421abeb9073cc212fe620b10a8b7718c5602768f207090807b4be7f124a4a34",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9087,
+    "bag": 0.8936,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.94,
+    "rg_words": 47,
+    "kd_words": 50,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
