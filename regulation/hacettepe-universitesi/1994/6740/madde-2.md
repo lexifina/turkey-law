@@ -1,0 +1,15 @@
+MADDE 2 - Milli Komitenin amaçları aşağıda belirtilmiştir:
+Ülkemiz Doğal Canlı Kaynaklarının envanterinin çıkarılması çalışmalarını geliştirmek, koordine etmek ve desteklemek,
+Bunların tehdit altında bulunanlarını saptayıp Uluslararası kriterlere göre sınıflandırma, yaşama ortamlarının belirlenme ve haritalarıma çalışmalarının başlatılmasına ve etkin bir şekilde sürdürülmesine katkıda bulunmak,
+Doğadan yararlanma yollarının doğaya zarar vermeyecek şekilde yapılması için üniversiteler, Araştırma, Kamu ve Gönüllü Kuruluşlar arasındaki işbirliğini güçlendirmek ve bu konuda çalışmalar yapmak,
+Nesli tehlikeye düşmüş, nadir veya bilimsel, ekonomik bakımdan önem taşıyan türlerin durumlar ve korunma gereği hakkında ilgili Kamu Kuruluşlarına görüş bildirmek,
+Türkiye'nin Doğal Canlı Kaynaklarının korunması ve sürdürülebilir kullanımına ilişkin "Milli Strateji" lerin belirlenmesine yardımcı olmak ve bunları ilgili Kamu Kuruluşlarına iletmek,
+Bunların, tanıtılması ve sürdürülebilir şekilde kullanılmalarına katkı sağlayacak envanter, bilgi ve diğer verilerin toplanacağı bir merkez oluşturulmasına katkıda bulunmak,
+Halkın Doğal Canlı Kaynakların önemi, korunma sebepleri ve sürdürülebilir kullanımı konularındaki eğitimini geliştirmeye yönelik eğitim stratejilerinin hazırlanmasına katkıda bulunmak ve bu amaçla yürütülen çalışmaları desteklemek,
+h) Doğal Canlı Kaynakların tespit, korunma ve dengeli bir şekilde yararlanılması konularındaki bilimsel araştırma projelerinin hazırlanmasına katkıda bulunmak, bu araştırmaları desteklemek, katılmak ve bu konularda bilimsel toplantılar düzenlemek,
+ı) Ülkemizin taraf olduğu ve olması gerektiği uluslararası sözleşme, karar ve programların ülke uygulamalarına ilişkin milli görüş ve önerilerde bulunmak ve uluslararası benzer amaçlı kuruluşlarla işbirliği yapmak,
+j) Doğal Canlı Kaynakların mevcut durumu ve sorunlarını tanımlamak, incelemek, izlemek ve sorunların çözümüne ilişkin çalışmaları desteklemek ve bu konularda görüşler oluşturmak,
+k) ülkemiz Doğal Canlı Kaynaklarının yönetimi için ilke ve kurallar önermek, yasaların ve yönetim birimlerinin oluşturulmasına katkıda bulunmak,
+1) Doğal Canlı Kaynakların korunması, geliştirilmesi ve tanıtımı ile ilgili yayınlarda bulunmak, özellikle tehdit altındaki türlerin yayın ve tanıtımına önem vererek, kamuoyu bilinçlendirilmesine katkıda bulunmak,
+m) Ulusal Müze, Botanik Bahçesi ve Arboretum gibi koruma ve eğitime yönelik yapıların kurulması için çalışmalar yapmak,
+n) Türkiye Vejetasyon Haritası yapılması konusunda çalışmaların başlatılması.
