@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59-5910-117/54119",
+  "source_id": 37640,
+  "date": "1999-12-08",
+  "title": "İthal edilen petrol ürünlerinde ödenecek A.T.V. hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/591/ozelge/37640",
+  "source_sha256": "cdd8869f003f2750509adba0388acf5e99f342961e66f2aef7ab5d28cddaa63b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
