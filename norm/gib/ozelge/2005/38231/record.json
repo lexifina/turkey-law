@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6516-8317",
+  "source_id": 38231,
+  "date": "2005-02-22",
+  "title": "Fatura veya perakende satış fişlerini kullanmaları şartıyla ödeme kaydedici cihazları kullanma...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38231",
+  "source_sha256": "d0238c3e8e6a27ce54f159212ed7149891d05facd87043fc97b997c5ad7ded4c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
