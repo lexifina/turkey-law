@@ -1,0 +1,6 @@
+Talimatname:
+Madde 31 – Ayakkabıların imalatına ilişkin hususlarla damga, malzeme nevileri ve muayene metodları ve bu Nizamnamenin tatbik şekli Sanayi Vekaletince tanzim olunacak bir talimatnamede gösterilir.
+Stoklar:
+Geçici madde – Bu Nizamnamenin mer'iyete girdiği tarihte ellerinde bu Nizamname hükümlerine uymayan deri ve lastikten mamul ayakkabılarla taban ve ökçe lastikleri bulunan fabrika ve emsali yerlerle mağaza, dükkan sahipleri, amiller ve satıcılar, bu malların cins, miktar, isim ve vasıflarını Nizamnamenin mer'iyete girdiği tarihten itibaren en çok onbeş gün içinde mahalli ayakkabıcılar derneğine, bu derneğin bulunmadığı yerlerde ticaret ve sanayi odasına, bu odaların da bulunmadığı yerlerde mahalli belediyelere iki nüsha beyanname ile bildirmeğe mecburdurlar. Bu beyannameleri alan dernek, oda veya belediyeler birer nüshasını alıkoyarak diğer nüshasını Sanayi Vekaletine yollarlar.
+Dernek, oda veya belediyeler kendilerinde alıkoydukları beyanname nüshalarında yazılı malların vasıf ve miktarının uygunluğunu en kısa zamanda kontrol ederek mamul ayakkabıların birer köşesine zarar vermeyecek şekilde kontrol damgası veya etiketi koyarlar.
+Bu mallar, üzerlerinde ancak kontrol damga veya etiketi bulunmak kaydiyle satılabilir.

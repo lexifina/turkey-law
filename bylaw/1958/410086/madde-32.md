@@ -1,0 +1,1 @@
+Madde 32 – Ticarette Tağşişin Men'i ve İhracatın Murakabe ve Korunması Hakkındaki 1705 sayılı Kanuna dayanılarak hazırlanmış ve Devlet Şürasınca tetkik edilmiş olan bu Nizamname hükümleri, Resmi Gazete ile neşri tarihinden (90) gün sonra mer'iyete girer.
