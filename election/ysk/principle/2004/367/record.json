@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/367",
+  "list_number": "367",
+  "decision_date": "2004-02-24",
+  "title": "YSK ilke kararı 2004/367",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4044/2004-367-karar.htm",
+  "source_sha256": "5c79a3cd34d0c5f1bea5a9584cdbe8f87540f81159b432d49561f42e0ae910de",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2004-02-24",
+  "law_text_complete": false
+}
