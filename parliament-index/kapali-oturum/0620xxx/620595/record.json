@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 620595,
+  "assembly": "TBMM Kapalı Oturumlar",
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Vazife-i Mahsusa ile Ukrayna'ya gidecek heyetin masarifi zaruriyesine karşılık olmak üzere 1338 senesi Hariciye Vekâleti bütçesine mevzu tahsisat kanununa müzeyyel kanun layihası.",
+  "title": "Vazife-i Mahsusa ile Ukrayna'ya gidecek heyetin masarifi zaruriyesine karşılık olmak üzere 1338 senesi Hariciye Vekâleti bütçesine mevzu tahsisat kanununa müzeyyel kanun layihası.",
+  "first_sitting_date": "1922-04-25",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": null,
+      "sitting": 34,
+      "sitting_date": "1922-04-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/GZC/d01/CILT03/gcz01003034.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": null,
+      "pages": [
+        "294:303"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=11&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=11&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0113d095cc7089fe452e7607fb7eb596d7366e63d3494d3b0de2e1231d222f36",
+  "in_force": "1922-04-25",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
