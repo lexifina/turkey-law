@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7029",
+  "year": 1957,
+  "title": "Sınır, kıyı ve karasuların muhafaza ve emniyetiyle kaçakçılığın meni ve takibinde kullanılacak deniz vasıtalarının satınalınması için gelecek senelere sâri taahhütlere girişilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-25",
+  "gazette_issue": "9642",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9642.pdf",
+  "source_sha256": "cd35b28c5185c6a30eab727b477bfccb4af701b0679b6a1100a07df895d4ee2d",
+  "text_sha256": "7fb0a1b17b1f792a8f4dfd5e5448ad41301ea40dd6f6d2d088be7d9592843b4a",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      2261,
+      2294
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03907029.pdf",
+    "source_sha256": "6ec0e8a3d94bdf20dd7ed66d9988e87afdb8c388b2f65cf7733edb60dd80fef5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9086,
+    "bag": 0.7373,
+    "kd_coverage": 0.9929,
+    "kd_body_compared": 0.979,
+    "rg_words": 115,
+    "kd_words": 143,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
