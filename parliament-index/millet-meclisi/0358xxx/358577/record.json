@@ -1,0 +1,56 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 358577,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Türkiye Büyük Millet Meclisi Kamu İktisadi Teşebbüsleri Karma Komisyonunun 12. 5.1964 tarih ve 468 sayılı Kanunun 3. maddesi gereğince hazırladığı (1959 1963 yıllarına ait) Kamu İktisadi Teşebbüslerinin denetimi sonuçları hakkında (3/165) (Devre l No. 3/89, 94, 100, 114, 115, 136, 137, 145, 512, 672, 761, 963, 964, 965, 986, 967, 968, 969, 970, 971, 972, 973, 974, 975, 976, 977,978, 979, 980, 981, 982, 986, 987, 988, 990, 992, 993, 994, 997, 1000, 1009, 1010, 1011, 1017, 1019, 1024, 1025, 1040, 1041, 1043, 1050, 1051, 1052, 1053, 1066, 1077, 1078, 1079, 1080, 1081, 1082, 1083, 1084, 1085, 1088, 1097, 1098, 1110, 1123, 1151, 1181, 1187)",
+  "title": "Türkiye Büyük Millet Meclisi Kamu İktisadi Teşebbüsleri Karma Komisyonunun 12. 5.1964 tarih ve 468 sayılı Kanunun 3. maddesi gereğince hazırladığı (1959 1963 yıllarına ait) Kamu İktisadi Teşebbüslerinin denetimi sonuçları hakkında (3/165) (Devre l No. 3/89, 94, 100, 114, 115, 136, 137, 145, 512, 672, 761, 963, 964, 965, 986, 967, 968, 969, 970, 971, 972, 973, 974, 975, 976, 977,978, 979, 980, 981, 982, 986, 987, 988, 990, 992, 993, 994, 997, 1000, 1009, 1010, 1011, 1017, 1019, 1024, 1025, 1040, 1041, 1043, 1050, 1051, 1052, 1053, 1066, 1077, 1078, 1079, 1080, 1081, 1082, 1083, 1084, 1085, 1088, 1097, 1098, 1110, 1123, 1151, 1181, 1187)",
+  "first_sitting_date": "1965-12-08",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 20,
+      "sitting_date": "1965-12-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c001/mm__02001fih.pdf",
+      "pages": [
+        "506"
+      ]
+    },
+    {
+      "cilt": 2,
+      "sitting": 36,
+      "sitting_date": "1966-01-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c002/mm__02002fih.pdf",
+      "pages": [
+        "414"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 49,
+      "sitting_date": "1966-02-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c003/mm__02003049.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c003/mm__02003fih.pdf",
+      "pages": [
+        "414"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=3301&v_kullanici_id=27484836",
+  "source_sha256": "c78dd8d6a21707a1f47b7e98567363247763b1fb7ea00e36370e86ebd24c3df5",
+  "in_force": "1965-12-08",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
