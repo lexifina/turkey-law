@@ -1,0 +1,2 @@
+Kaynakların Tahsili
+Madde 10 - İl Müdürlükleri il'leri dahilindeki kooperatiflerin yıl sonu bilançolarındaki müsbet farkın % 1'ini hangi bankaya yatıracaklarını her yıl Ocak ayında kooperatiflere bir yazı ile bildirir. İl Müdürlükleri, çeşitli sebeplerle tasfiye durumuna düşen kooperatiflerden anasözleşmelerine göre Fon'a ayrılacak tasfiye farkları ve yedek akçeler için tasfiye memurları ve mahkemeler ile ilişki kurarak kooperatife yazılı talimat vermek suretiyle Fon hesaplarına yatırılmasını temin eder.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4981",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇİFTÇİ VE KOOPERATİFÇİLİK TANITMA, EĞİTİM VE ÖDÜLLENDİRME FONU YÖNETMELİĞİ",
+  "number": "4981",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "issuer_slug": "tarim-ve-koyisleri-bakani",
+  "path": "regulation/tarim-ve-koyisleri-bakani/1991/4981",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4981&MevzuatTertip=5",
+  "source_sha256": "2ee9a73322be24f6c402091965485570db4ac1e72cca65ea4b85cf2d54bf2072",
+  "source_bytes": 42789,
+  "published": "1991-10-08",
+  "gazette": "21015",
+  "in_force": "1991-10-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.10.1991); own commencement article: \"bu Yönetmelik Resmi Gazetede yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik Resmi Gazetede yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1802,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

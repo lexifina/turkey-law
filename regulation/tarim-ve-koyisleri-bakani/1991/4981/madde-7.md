@@ -1,0 +1,10 @@
+Temel İlkeler
+Madde 7 - Fon'a yatırılacak paraların tahsil ve harcanmasındaki temel ilkeler şunlardır:
+a) 5 inci maddenin (a), (f), (g) ve (h) bentlerinde yer alan gelirler; Çiftçinin muhtelif yayım metodları yoluyla her türlü tanıtma ve eğitim ihtiyaçları ile icabettiği takdirde eğitim neticesinde çiftçilere ödül, ikramiye ödemeleri yapmak amacıyla kullanılır,
+b) 5 inci maddenin (b), (c), (d), (e), (f), (g) ve (h) bentlerinde yer alan gelirler; kooperatifçiliğin tanıtılması, eğitimi ve organizasyonlarında yol göstermek, öğütleriyle yönetim ve faaliyetlerine yardımda bulunmak gibi faaliyetler için Genel Müdürlükçe yapılacak harcamalarda kullanılır,
+c) Fon'dan Çiftçilere ve Kooperatiflere yapılacak ayni ve nakdi yardımlarda "Kalkınmada Öncelikli Yöreler"le dağ ve orman köylerindekilere öncelik verilir,
+d) Hizmetlerin yürütülebilmesi için Bakanlık veya Genel Müdürlük ile diğer kamu kurum ve kuruluşları arasında protokol yapılarak buna göre harcama yapılabilir, gerektiğinde ita amirinin onayı ile "Fonlar İhale Yönetmeliği" ve diğer ilgili genel hükümler çerçevesinde avans verilebilir,
+e) Merkezde yapılacak harcamalarda gerekli olan belgeler alındıktan sonra hak sahibi adına çek tanzim edilir. Ayrıca Taşra Teşkilatında açılacak çiftçi ve kooperatifçilik eğitimi kurs, seminer masrafları için Genel Müdürlükçe görevlendirilecek şahıslara sonradan mahsubu yapılmak üzere avans verileceği gibi, taşra teşkilatımız adına banka havalesi ile Genel Müdürlüğün tesbit edeceği miktar üzerinden avans gönderilir,
+f) Genel Müdür lüzum gördüğü takdirde mutemedin zimmetindeki avansın hesabını ve mahsubunu belirtilen zamandan önce kapatılmasını isteyebilir. Sarf evrakının usulüne uygun olmaması ve avansın zamanında kapatılmaması halinde mutemet hakkında kanuni işlem yapılır,
+g) Fon'dan yapılacak harcamalar Fon'lar İhale Yönetmeliğine tabidir,
+h) Fon'da toplanan paralar Şubelerin bulunduğu yerde T.C. Merkez Bankasında, olmadığı yerde muhabir bankalarda muhafaza edilir. Para, Bankadan Genel Müdür veya yetkili kılacağı kişi ile Fon Saymanının müşterek imzaları ile çekilir. Paranın sarfından imza sahipleri müştereken sorumludurlar.
