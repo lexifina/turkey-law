@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6199",
+  "year": 1953,
+  "title": "Sağlık ve Sosyal Yardım Vekâleti Kuruluş ve Memurları hakkındaki Kanunun 19 ncu maddesinin Tadiline ve Bu Kanuna Ek 4862 sayılı Kanuna Bağlı Kadro Cetvelinde Değişiklik Yapılmasına dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-12-24",
+  "gazette_issue": "8591",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8591.pdf",
+  "source_sha256": "8cb0f52f72916f75d79b7e84c82a1aac7398dd10a8f2a20487d27558685c71bb",
+  "text_sha256": "7929088ae3ae8df8b5c778960a55ff3a8abc49e8c1509961e276c0328ebd85bb",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      541,
+      634
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606199.pdf",
+    "source_sha256": "7cf9c05836dc7ad133083b9d8eee039ca60f2e96def7268431bee89141b0fe82",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9133,
+    "bag": 0.8904,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9934,
+    "rg_words": 290,
+    "kd_words": 305,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
