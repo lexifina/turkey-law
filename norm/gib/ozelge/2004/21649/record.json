@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.46/4600-035221",
+  "source_id": 21649,
+  "date": "2004-07-22",
+  "title": "Vergi indiriminden,Hizmet erbabı ve bakmakla yükümlü olduğu özürlü kişi bulunan hizmet erbabı,Özürlü serbest meslek erbabı ile bakmakla yükümlü olduğu özürlü kişi  bulunan serbest meslek erbabı,Basit usulde vergilendirilenlerden imalat, tamirat, küçük san",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21649",
+  "source_sha256": "b6ca9e4dff75b73faba97c05883b19700c80c3b34a7219fce0103e32eab50004",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
