@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.51/5144-493/8781",
+  "source_id": 38515,
+  "date": "1999-03-09",
+  "title": "Vakıf adına 29/07/1998 tarihinden önce bankalarda açılmış olan vadeli hesaplara yürütülen faizlerden tevkifat yapılmayacağı, bu tarihten sonra açılan veya vadesi yenilenen hesaplara yürütülecek faizlerden % 12 oranında gelir vergisi tevkifatı yapılacağı h",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38515",
+  "source_sha256": "045cdf98c6b368331c9c24aee5ded21cbee31efb7d4c8a35d27f7c9992815455",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
