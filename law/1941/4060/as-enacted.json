@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4060",
+  "year": 1941,
+  "title": "Yüzde beş faizli Hazine tahvilleri ihracına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-06-06",
+  "gazette_issue": "4827",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4827.pdf",
+  "source_sha256": "39945c8380d7ff19083cbd6ae8e067ef5a553a767ae8d6f4e22137d52e8beb5e",
+  "text_sha256": "43f783bc9c7be3e5621316f88f316d7ffae999e9ce72ede5771a1e1611b64c12",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      477,
+      548
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204060.pdf",
+    "source_sha256": "77053b5d0485bef8924515f1396e8f9492f7c9113aa9337a4f2269e95e8305f6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.977,
+    "bag": 0.9183,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9962,
+    "rg_words": 525,
+    "kd_words": 529,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
