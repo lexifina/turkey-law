@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "5316",
+  "date_quote": "28.01.1943",
+  "first_law": null,
+  "gazette": "5316",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1943-01-28",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1943-01-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=219331&MevzuatTertip=3",
+  "source_bytes": 265107,
+  "source_id": "2.3.219331",
+  "source_sha256": "c918e98b72fe85f5ddb41932cee19ae2a3dd4ec4cbed4026121f87722acf5c95",
+  "source_type": "Tüzükler",
+  "title": "GEMİLERDE YOLCULARIN SIHHİ EMNİYETİ HAKKINDA NİZAMNAME",
+  "word_count": 2596
+}

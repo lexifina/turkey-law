@@ -1,0 +1,1 @@
+Madde 11 – Ahvali fevkaladeye maksur olmak üzere bir evvelki seferde hayvan konulan bir mahallin, mütaakıp seferde yolcuya tahsisine zaruret görülmesi halinde, bu mahallin, yolcu konmadan evvel, fenni usuller ile dezenfekte edilmesi mecburidir.

@@ -1,0 +1,1 @@
+Madde 21 – Gemilerde ateşli hasta zuhurunda veya şüpheli bulaşık bir hastalık vukuunda, hastanın derhal tecrit edilmesi ve ilk iskelede sahil sıhhiye memurları ve bunlar bulunmadığı takdirde, o vazifeyi gören memurlar vasıtasiyle, mahallin Hükümet veya belediye tabibine bildirilmesi mecburidir.

@@ -1,0 +1,1 @@
+Madde 25 – Nizamname hükümlerine riayetsizliğinden dolayı seferden alıkonulmasına rağmen hareket eden gemiler, ilk muvasalat veya avdet ettikleri limanda, kaptanları hakkında takibat yapılmak üzere, keyfiyet, Müddeiumumiliğe haber verilir.

@@ -1,0 +1,1 @@
+Madde 23 – Gemilerin, sefer esnasında uğrayacakları limanlarda da murakabeleri caiz ise de, bu husus, ancak sahil sıhhiye merkezleri bulunan yerlerde mıntaka liman reisleriyle sahil sıhhiye tabipleri tarafından müştereken yapılabilir.
