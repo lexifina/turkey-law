@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5400-3058/10440",
+  "source_id": 30037,
+  "date": "1997-03-13",
+  "title": "Factoring hizmeti veren şirketin sabit kıymet satışı  banka muameleleri sayılmadığı için banka ve sigorta muamelelerine tabi olmayan sabit kıymet satışına katma değer vergisi uygulanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30037",
+  "source_sha256": "cf89febea52699a82d0871f502d03aa75daa1f81d492b608da9cfde7d80060a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
