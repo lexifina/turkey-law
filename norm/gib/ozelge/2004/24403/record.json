@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-2080/23898",
+  "source_id": 24403,
+  "date": "2004-05-28",
+  "title": "Mükellefin bakmakla yükümlü olduğu ve üniversitede okuyan 18 yaşını doldurmamış çocuğu için özel öğrenci yurduna yapılan ödemeler, gelir veya kurumlar vergisi mükellefiyeti bulunan gerçek veya tüzel kişilerden alınacak belgelerle tevsik edilmesi şartıyla ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24403",
+  "source_sha256": "8962d6ab66b6f0f7c7c53f41b22c90bb1fd461e4b516ec24a5df2212cbee36b0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
