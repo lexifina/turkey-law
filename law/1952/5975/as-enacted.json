@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5975",
+  "year": 1952,
+  "title": "Ankara Üniversitesi 1952 yılı Bütçe Kanununa Bağlı Cetvellerde Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-06-28",
+  "gazette_issue": "8144",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8144.pdf",
+  "source_sha256": "cf20138bb45b044b1b23c2e02de8968ed081b89f487cd30bba762e92effad671",
+  "text_sha256": "665ffbe34492b2e10bbafbba469d8cd911437872c0e0b6150e378271c72df4ec",
+  "text_status": "ocr",
+  "pages": [
+    11,
+    12
+  ],
+  "line_span": [
+    [
+      2244,
+      2315
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [11, 12] (no text layer)",
+    "tesseract_pages": [
+      11,
+      12
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405975.pdf",
+    "source_sha256": "c7b4bfe6d2e2cd6c6e51ee9ab43baa07818c129fc86a7c73ef49b9d60e3dff29",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9533,
+    "bag": 0.8709,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 429,
+    "kd_words": 446,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
