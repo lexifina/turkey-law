@@ -1,0 +1,4 @@
+Madde 5 – Gazeteye verilecek ilanlar ilgililer tarafından iadeli taahhütlü olarak posta ile Gazete İdaresine gönderilir. İlgililer Ankara'da iseler Gazete İdaresine verilip karşılığında ilanın verildiği tarihi ve ödenen parayı bildiren bir makbuz verilir.
+Gazete İdaresince, Ankara haricinde ilan kabul etmeğe salahiyetli temsilci bulundurulduğu takdirde bu temsilcinin ilanın alındığına dair ilgiliye vereceği makbuza ilanın alındığı tarihi yazması ve ilanı en geç ertesi iş günü posta ile Gazete İdaresine göndermesi mecburidir.
+Temsilcinin vereceği makbuzlarda tarihi yazılmamış veya okunaklı olarak gösterilmemiş veya hutta yukarda yazılı müddeti içinde postaya verilmemiş olmasından doğan bütün zararlardan ilgililere rücu hakkı mahfuz kalmak üzere Gazete İdaresi mesuldür.
+(Değişik: 30/6/1993 - 93/4603 K.) İlan, yazılı bir metnin bir yerden diğer bir yere ulaşmasına olanak veren faks ve benzeri iletişim araçlarıyla da Gazete İdaresine bildirilebilir.

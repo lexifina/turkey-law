@@ -1,0 +1,1 @@
+Madde 10 – 6763 sayılı Türk Ticaret Kanununun mer'iyet ve tatbik şekli hakkındaki kanunun on ikincl maddesine dayanılarak hazırlanmış ve Şürayı Devletçe tetkik edilmiş olan bu Nizamname hükümleri 1/1/1957 tarihinden itibaren mer'iyete girer.
