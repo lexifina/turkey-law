@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 65389,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Milletlerarası Telekomünikasyon Sözleşmesiyle Buna Bağlı Protokollerin Onanması hakkındaki 5450 sayılı Kanuna ek kanun tasarısına dair (1/63)",
+  "title": "Milletlerarası Telekomünikasyon Sözleşmesiyle Buna Bağlı Protokollerin Onanması hakkındaki 5450 sayılı Kanuna ek kanun tasarısına dair (1/63)",
+  "first_sitting_date": "1950-12-08",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 16,
+      "sitting_date": "1950-12-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c003/tbmm09003016.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c003/tbmm09003fih.pdf",
+      "pages": [
+        "114:115",
+        "118",
+        "120",
+        "125:128"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 58,
+      "sitting_date": "1953-03-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c021/tbmm09021058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c021/tbmm09021fih.pdf",
+      "pages": [
+        "65",
+        "184:185"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=901&v_kullanici_id=27484171",
+  "source_sha256": "159c73409425957efd9e1d8ef26d80a0c20c4e88548d8462dece3e8a37a83f69",
+  "in_force": "1950-12-08",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
