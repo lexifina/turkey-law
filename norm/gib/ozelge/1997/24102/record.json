@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.49/4906-47/867",
+  "source_id": 24102,
+  "date": "1997-01-09",
+  "title": "Tasfiye halindeki işyeri kooperatifine ait tasfiye karının ne şekilde belirleneceği hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/24102",
+  "source_sha256": "b1689a5bd2c848aeca81d8789563fcfd33ddb3a65ffc79dff2e09e68e7521137",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
