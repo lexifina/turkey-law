@@ -1,0 +1,3 @@
+Merkez Müdürü
+Madde 4-Araştırma Uygulama Merkezi Müdürü,Rektör tarafından 3 yıl içinde atanan bir öğretim üyesidir. Süresi biten müdür yeniden seçilebilir. Merkez Müdürü kendisine 3 yıl için bir yardımcı seçebilir. Merkez Müdürünün görevi sona erince yardımcının görevide kendiliğinden sona erer. Araştırma ve Uygulama Merkezi Müdürü yürütme amiridir. Merkez
+Müdürü Yönetim Kuruluna Başkanlık eder. Çalışmaların düzenli bir şekilde yürümesini sağlar. Merkez Müdürü geçici olarak görevden ayrıldığında yardımcısı ona vekalet eder. Yardımcısı yoksa veya mazeretli ise yönetim kurulu üyelerinden birini vekil bırakır.Göreve vekalet 6 aydan fazla sürerse yeni bir Merkez Müdürü atanır.
