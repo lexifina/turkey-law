@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.85/8512-9/8884",
+  "source_id": 38158,
+  "date": "2001-02-13",
+  "title": "Türkiye'de tam mükellefiyete tabi bir kurumun, Hollanda'da mukim bir şirketten elde ettiği temettülerin ne şekilde vergilendirileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38158",
+  "source_sha256": "f4410a62f551ca232a1780fadb59511c99b6ed5479fca664172756d4f027d797",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
