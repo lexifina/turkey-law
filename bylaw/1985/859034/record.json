@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "18697",
+  "date_quote": "17.03.1985",
+  "first_law": null,
+  "gazette": "18697",
+  "history": "current-text",
+  "images": {
+    "deferred": 7,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 7
+  },
+  "in_force": "1985-03-17",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1985-03-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=859034&MevzuatTertip=5",
+  "source_bytes": 115555,
+  "source_id": "2.5.859034",
+  "source_sha256": "e031cb8bc598e288d401418c1e39e18a72ff3836041bdf03b3f1ff76a16d998f",
+  "source_type": "Tüzükler",
+  "title": "TÜRK BAYRAĞI TÜZÜĞÜ",
+  "word_count": 4005
+}

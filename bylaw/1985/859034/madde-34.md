@@ -1,0 +1,6 @@
+Özel bayrakların kullanılmasına dair diğer esaslar
+Madde 34 – Sembolik bayraklar, özel işaretli bayraklar ve flamalar milli ve resmi bayramlarda, kurtuluş ve Atatürk'ü anma günlerinde, yabancı devlet büyüklerinin Ülkemize yapacakları ziyaretlerde kullanılır.
+Sembolik bayraklar, ayrıca, okulların süslenmesinde kullanılabileceği gibi, birinci fıkrada sayılan günlerde, temel atma ve açılış törenleri, Devlet büyüklerinin yapacakları Yurt gezileri vb. durumlarda, tabii renkte veya kırmızı beyaz renklere boyanmış yahut ucuna bayrak uzunluğunda kırmızı beyaz kurdele ve şeritler bağlanmış çubuklara takılarak elde taşınabilir; iplere tek tek veya dizi halinde takılarak veya doğrudan sarkıtılarak donanma amacıyla kullanılabilir.
+Sembolik bayrakların bu durumlar dışında kullanılması, mahalli mülki amirinin müsaadesine bağlıdır.
+Tanıtıcı bayraklar, sadece, ait oldukları kurum ve kuruluşların binaları önüne çekilebilir, bunların düzenledikleri tören ve toplantılarda kullanılabilir. Ayrıca, bunların üst görevlilerinin makam odalarında, çalışma masalarının sol gerisine konulabilir. Bu bayrakların çekildiği direklerin tepesine ay yıldız konulamaz.
+Türkiye Kızılay Derneğinin tanıtıcı bayrağı, sağlık kuruluşlarının direklerine çekilebilir.
