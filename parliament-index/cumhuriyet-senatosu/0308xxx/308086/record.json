@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 308086,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "931 sayılı İş Kanununun 110. maddesinde değişiklik yapılması hakkında kanun tasarısına dair (Millet Meclisi 1/471, Cumhuriyet Senatosu 1/897) (S. Sayısı: 141)",
+  "title": "931 sayılı İş Kanununun 110. maddesinde değişiklik yapılması hakkında kanun tasarısına dair (Millet Meclisi 1/471, Cumhuriyet Senatosu 1/897) (S. Sayısı: 141)",
+  "first_sitting_date": "1968-07-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 47,
+      "sitting": 58,
+      "sitting_date": "1968-07-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047058.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t07/c047/cs__07047fih.pdf",
+      "pages": [
+        "273",
+        "357:358",
+        "388:391"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=2301&v_kullanici_id=27484903",
+  "source_sha256": "62293f9427308b9a613697039eed36ce7ef8ec636590c037b752de3cbdf027c1",
+  "in_force": "1968-07-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
