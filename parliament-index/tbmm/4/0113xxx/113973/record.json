@@ -1,0 +1,80 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 113973,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "18.6.1927 tarih ve 1089 numaralı Kanunun tadili hakkında",
+  "title": "18.6.1927 tarih ve 1089 numaralı Kanunun tadili hakkında",
+  "first_sitting_date": "1932-03-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 29,
+      "sitting_date": "1932-03-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c006/tbmm04006029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c006/tbmm04006fih.pdf",
+      "pages": [
+        "36"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 32,
+      "sitting_date": "1933-03-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013032.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013fih.pdf",
+      "pages": [
+        "40"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 34,
+      "sitting_date": "1933-03-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013034.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013fih.pdf",
+      "pages": [
+        "63",
+        "66"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 36,
+      "sitting_date": "1933-04-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c014/tbmm04014036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c014/tbmm04014fih.pdf",
+      "pages": [
+        "29"
+      ]
+    },
+    {
+      "cilt": 15,
+      "sitting": 45,
+      "sitting_date": "1933-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c015/tbmm04015fih.pdf",
+      "pages": [
+        "13"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1296&v_gelecek_sayfa=201&v_kullanici_id=27483843",
+  "source_sha256": "5e65666e4638c9846f313f08f4ada6e4a60a48548b546af31d875fc560b83437",
+  "in_force": "1932-03-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
