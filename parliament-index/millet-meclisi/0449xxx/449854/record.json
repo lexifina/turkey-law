@@ -1,0 +1,45 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 449854,
+  "assembly": "Millet Meclisi",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "Konya Milletvekili Şener Battal ile Ordu Milletvekili M. Kemal Gönül'ün, 27.7.1967 tarih ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun geçici 22. maddesi ile aynı kanunu değiştiren 7.7.1971 tarih ve 1424 sayılı Kanunun 36. maddesi ile eklenen ek geçici 19. maddesinin değiştirilmesine dair kanun teklifi (2/336)",
+  "title": "Konya Milletvekili Şener Battal ile Ordu Milletvekili M. Kemal Gönül'ün, 27.7.1967 tarih ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun geçici 22. maddesi ile aynı kanunu değiştiren 7.7.1971 tarih ve 1424 sayılı Kanunun 36. maddesi ile eklenen ek geçici 19. maddesinin değiştirilmesine dair kanun teklifi (2/336)",
+  "first_sitting_date": "1974-12-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 12,
+      "sitting_date": "1974-12-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c007/mm__04007fih.pdf",
+      "pages": [
+        "488"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 82,
+      "sitting_date": "1975-05-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012082.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c012/mm__04012fih.pdf",
+      "pages": [
+        "360:361"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=6248&v_gelecek_sayfa=1401&v_kullanici_id=27484893",
+  "source_sha256": "e7bbd65eaed33f3d73ba0cf573c47d12beb00d17c4a65cac7e24c590f385cd4c",
+  "in_force": "1974-12-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
