@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1977",
+  "year": 1932,
+  "title": "1683 numaralı askerî ve mülkî tekaüd Kanununun dördüncü ve altıncı maddelerinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-05-28",
+  "gazette_issue": "2109",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2109.pdf",
+  "source_sha256": "d3e27a4224b8ad1000055c2af11668ffaefdb1ef34b6416c37fea74957256d48",
+  "text_sha256": "1206b0f0e5cf7ab41e81a0dcb020365d60f7c801b1f119cd8d8ae6054c373827",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      413,
+      434
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [3] (no text layer)",
+    "tesseract_pages": [
+      3
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101977.pdf",
+    "source_sha256": "c170295843c01d18d8bc0bedc31104df6fc919ad6fc456a9f650dcf1f80ccf2d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.949,
+    "bag": 0.8746,
+    "kd_coverage": 0.993,
+    "kd_body_compared": 0.9793,
+    "rg_words": 153,
+    "kd_words": 145,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
