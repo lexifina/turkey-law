@@ -1,0 +1,33 @@
+{
+  "source_id": "7.5.4728",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EMLAK VERGİSİ DEĞERİ BULUNMAYAN TAŞINMAZ MALLARIN KIYMETİNİN TAKDİRİ HAKKINDA YÖNETMELİK",
+  "number": "4728",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1987/4728",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4728&MevzuatTertip=5",
+  "source_sha256": "d7d14be8374711858546ca2c128626476197b8520b6419150f5cbe633869a0ef",
+  "source_bytes": 15539,
+  "published": "1987-10-28",
+  "gazette": "19618",
+  "in_force": "1987-10-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.10.1987); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 487,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "../../../../../yonetmelikler.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
