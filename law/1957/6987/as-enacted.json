@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6987",
+  "year": 1957,
+  "title": "6326 sayılı Petrol Kanunu ile bu kanunda değişiklik yapan 6558 sayılı Kanunun bazı maddelerinin tadili ve bazı maddelerine fıkralar ilâve edilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-06-06",
+  "gazette_issue": "9626",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9626.pdf",
+  "source_sha256": "732b40e8bd3de5672756e92492ca879dab2237f1d4a5b1b1c5e139a89e2109ae",
+  "text_sha256": "b234c96dc6e6ee985e8648e754bcd5227e6f216b613adc8351dde1ae9fc0d4b4",
+  "text_status": "ocr",
+  "pages": [
+    7,
+    8,
+    9
+  ],
+  "line_span": [
+    [
+      1606,
+      1899
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906987.pdf",
+    "source_sha256": "ab8dbd75582d87450f6486eab4ce37a21db5ea61c1608c0919c69c7bd9d38e32",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9824,
+    "bag": 0.9338,
+    "kd_coverage": 0.9994,
+    "kd_body_compared": 0.9977,
+    "rg_words": 1724,
+    "kd_words": 1739,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
