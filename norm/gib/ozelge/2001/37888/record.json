@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4508-172/8515",
+  "source_id": 37888,
+  "date": "2001-02-12",
+  "title": "Sera Tesisleri, Çiçek, Tohum Sebze ve Meyve yetiştiriciliği Tarım sektörünün bitkisel üretim alt sektörü içerisinde yeralmaktadır.Teşvik belgesiz olarak yapılan yatırımının tarım-hayvancılık alt sektörü olarak değerlendirilmesi ve yatırım indiriminden fay",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37888",
+  "source_sha256": "05a7bed2822cf918f3d738bcab7c21f9b5d0b01749b085173380252ab41a4112",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
