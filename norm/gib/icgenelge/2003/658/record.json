@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "",
+  "source_id": 658,
+  "date": "2003-03-08",
+  "title": "VERGİ BARIŞI KANUNU UYGULAMA İÇ GENELGESİ SERİ NO: 2003/2",
+  "source": "https://gib.gov.tr/mevzuat/kanun/458/icgenelge/658",
+  "source_sha256": "72a285f872abf695cf5958935694639280f6d0fde2170d52206db9b487648065",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
