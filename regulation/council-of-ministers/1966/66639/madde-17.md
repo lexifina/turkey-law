@@ -1,0 +1,1 @@
+Madde 17 – Bu Yönetmelik hükümlerine göre Türkiye Cumhuriyeti Hükümeti namına izin verilmesi ve tedbirler alınması hususunda Dışişleri Bakanlığı ile Milli Savunma Bakanlığı adına Genelkurmay Başkanlığı birlikte karar alırlar. Bu konuda, kanunlar ile Bakanlar Kuruluna verilmiş yetkiler saklıdır.

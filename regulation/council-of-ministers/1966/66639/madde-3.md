@@ -1,0 +1,1 @@
+Madde 3 – Yabancı bir devlete ait olupta, milletlerarası nezaket kurallarının gerektirdiği hallerde, Türk karasuları ve limanları ile hava üs ve hava alanlarına girmelerine izin verilecek olan deniz ve hava kuvvetlerinin durum ve sayısını tesbit, kalış sürelerini sınırlama hakkı Türkiye Cumhuriyeti Hükümetine aittir.

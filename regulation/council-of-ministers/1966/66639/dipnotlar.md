@@ -1,0 +1,1 @@
+[1] Bu yönetmeliğin; yabancı deniz kuvvetleri tarafından, Türkiye Cumhuriyeti limanlarının ziyaret edilmesi ve karasularında hareket yapılmasına ilişkin hükümleri 27.12.1978 tarih ve 7/17114 sayılı Bakanlar Kurulu Kararı ile yürürlükten kaldırılmıştır.

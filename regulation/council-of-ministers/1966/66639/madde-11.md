@@ -1,0 +1,1 @@
+Madde 11 – Bünyesinde uçak bulunduran yabancı devlet gemileri Türk karasularında bulundukları süre zarfında, uçak uçuramaz ve indiremezler. Ancak, zaruri haller vukuunda uçak uçurulması ve indirilmesi hususi bir izne tabidir.

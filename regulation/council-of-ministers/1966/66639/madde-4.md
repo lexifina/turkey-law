@@ -1,0 +1,1 @@
+Madde 4 – Yabancı Devlet Başkanlarını ve Hükümran Haneden mensuplarını taşıyan deniz ve hava vasıtaları ile, arıza, tehlike ve beklenmedik hallerde Türk limanlarına girmek ve hava üs ve alanlarına inmek zorunda kalan deniz ve hava vasıtaları, yönetmeliğin 1 inci ve 3 üncü maddesi hükümleri kapsamı dışında mütalaa edilirler.

@@ -1,0 +1,1 @@
+Madde 15 – Yabancı deniz ve hava kuvvetlerinin personelinin bu Yönetmelik hükümlerine riayet etmemeleri halinde mahalli garnizon komutanı ve mülki amirler bunların Türkiye karasuları, liman ve hava üslerini veya hava alanlarını terketmesini isteyebilirler.

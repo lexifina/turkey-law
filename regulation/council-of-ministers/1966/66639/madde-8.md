@@ -1,0 +1,1 @@
+Madde 8 – Özel bir izinle Türk liman ve karasulariyle hava üs ve hava alanlarında bulunan yabancı kuvvet personelinin yasak bölgelere girmelerine 1110 sayılı kanun hükümleri saklı kalmak şartiyle müsaade edilebilir.

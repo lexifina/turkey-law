@@ -1,0 +1,1 @@
+Madde 10 – Yabancı deniz ve hava kuvvetlerine mensup şahısların yasak bölgelerin fotoğraflarını çekmeleri, planlarını yapmaları, Hükümetin izni olmaksızın herhangi bir hidrografik ölçü yapmaları, çeşitli denizcilik işaretleri koymaları, sahil bölgelerinde keşif uçuşları yapmaları ve havadan fotoğraf çekmeleri yasaktır.

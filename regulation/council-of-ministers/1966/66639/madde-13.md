@@ -1,0 +1,1 @@
+Madde 13 – Ayrı yabancı ülkelere ait deniz ve hava kuvvetleri veya bu kuvvetlerden herhangi birileri Türkiye karasularında, limanlarında, hava üs ve alanlarında birbirlerine karşı hasmane tavır takınmazlar. Herhangi bir gemiyi durdurmak, aramak, tahrip etmek, ele geçirmek veya bir uçağı mecburi inişe zorlamak veya tahrip etmek gibi bir egemenlik tasarrufunda bulunamazlar.

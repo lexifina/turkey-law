@@ -1,0 +1,1 @@
+Madde 9 – Özel andlaşmalarla kabul edilmiş manevra, tatbikat ve eğitimler haricinde; yabancı devlet deniz ve hava kuvvetlerinin Türkiye Liman ve Karasuları ile hava üslerinde ve semalarında her türlü eğitim ve atış yapmaları yasaktır.

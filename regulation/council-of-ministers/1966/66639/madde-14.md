@@ -1,0 +1,1 @@
+Madde 14 – Türkiye Cumhuriyeti karasuları ve hudutları dahilinde, yabancı deniz ve hava kuvvetleri personeli, tamamen Türkiye Cumhuriyeti Hükümetinin yürürlükteki hukuki mevzuatına uymakla yükümlüdürler.

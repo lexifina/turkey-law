@@ -1,0 +1,1 @@
+Madde 5 – Yabancı deniz kuvvetleri gemileri, Türk karasularına girdiklerinde mevcut muhabere vasıtaları ile en müsait Türk askeri makamlarına bu durumu bildirmek ve kendi bayraklarını çekmek ile sorumludurlar.

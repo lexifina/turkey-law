@@ -1,0 +1,1 @@
+Madde 18 – 29 Temmuz 1925 tarih ve 2255 sayılı Türkiye Cumhuriyeti liman ve karasularını ziyaret edecek sefaini Harbiyei Ecnebiye ve bu Sefaine refakat eylecek olan muavin Sefain Kuvayı Havaiyenin tabi olacakları şeraite dair Yönetmelik hükümleri yürürlükten kaldırılmıştır.

@@ -1,0 +1,2 @@
+Madde 1 – Türkiye Cumhuriyeti limanlarını, hava üslerini ve hava alanlarını zıyaret edecek veya karasularında harekat yapacak olan yabancı deniz ve hava kuvvetleri diplomatik kanaldan Türkiye Cumhuriyeti Hükümetinden izin almak mecburiyetindedir.
+Böyle bir izin almak isteyen her devlet ziyaretten en az 15 gün evvel Türk Hükümetine gemi ve uçaklarının sayı ve özelliklerini, birlik ve gemi komutanlarının isimlerini, mürettebat adedini, ziyaretin süre ve gayesini bildirmek zorundadır.
