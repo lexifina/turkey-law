@@ -1,0 +1,52 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4162",
+  "year": 1941,
+  "title": "27 kânunuevvel 1939 tarihinde ve müteakip günlerde vukubulan zelzelede felâkete uğrayanların kurtarılmasında fevkalâde hizmetleri görülen bazı mahkûmların affı hakkında kanun",
+  "adopted": "1941-12-26",
+  "adopted_as_published": "26/12/1941",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "05.01.1942 No: 4998",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304162.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 23",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 6,
+      "kayit_no": 96624,
+      "title": "27 kânunuevvel 1939 tarihinde ve müteakip günlerde vukubulan zelzelede felâkete uğrayanların kurtarılmasında fevkalâde hizmetleri görülen bazı mahkûmların affı hakkında kanun",
+      "adopted_as_published": "26/12/1941",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304162.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 22,
+          "sitting": 17,
+          "sitting_date": "1941-12-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c022/tbmm06022017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c022/tbmm06022fih.pdf",
+          "pages": [
+            "92",
+            "106:107",
+            "149:150"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=794&v_gelecek_sayfa=401&v_kullanici_id=27483166",
+      "page_sha256": "e4dd672da18c737202618fabb6a0bb28c4b3f1588417be42fd7a3d2ebb8da51d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e4dd672da18c737202618fabb6a0bb28c4b3f1588417be42fd7a3d2ebb8da51d",
+  "issuer": "TBMM",
+  "in_force": "1941-12-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 26/12/1941; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
