@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7342",
+  "year": 1959,
+  "title": "2805 sayılı Etibank Kanununun 12. maddesinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-06-16",
+  "gazette_issue": "10232",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10232.pdf",
+  "source_sha256": "d3a3cb9c180637278c3ca6aa74c711c907e1106febbafaec359cd32f43a16670",
+  "text_sha256": "2852fa04b52bf1f4256c8a45fc13d799ea32b57b8b3deb0187de31ca3492f53f",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      785,
+      815
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107342.pdf",
+    "source_sha256": "b73423fee5edff7b199be9e4832396e139c3168f92ff3c1fbeb3500db43aaba9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.974,
+    "bag": 0.9479,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9891,
+    "rg_words": 183,
+    "kd_words": 184,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
