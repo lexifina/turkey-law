@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2599",
+  "year": 1934,
+  "title": "Teşkilâtı esasiye Kanununun 10 ncu ve 11 nci maddelerinin değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-12-11",
+  "gazette_issue": "2877",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2877.pdf",
+  "source_sha256": "087b55bad79ee1de6ad1d7dd4b964e3025c1a747c9a535d361d1ae7b826c6895",
+  "text_sha256": "12506779bf2afc3e34574dc1a272164bfcb7b83516d72d6cc11b4b7ffddd4fc1",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      81,
+      100
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402599.pdf",
+    "source_sha256": "51da3be6a7f67d0458386883a3abd4d1f592ee5bfa186489dbf3c2c7f31c052d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9145,
+    "bag": 0.8926,
+    "kd_coverage": 0.9677,
+    "kd_body_compared": 0.9677,
+    "rg_words": 61,
+    "kd_words": 62,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
