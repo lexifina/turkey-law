@@ -1,0 +1,3 @@
+TÜRK GIDA KODEKSİ
+İRMİK TEBLİĞİ
+(TEBLİĞ NO: 2002/21)
