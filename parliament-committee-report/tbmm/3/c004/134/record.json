@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "134",
+  "label": "TBMM 134 no'lu Komisyon Raporu",
+  "title": "TBMM 3. Dönem Sıra Sayısı 134",
+  "document_date": "1928-05-05",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 4, birleşim 71)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c004/tbmm03004071ss0134.pdf",
+  "pdf_sha256": "ed76eff269e1e3971995a4a1f0767f614ee9789354ff87097d62ceb1a8c78467",
+  "pdf_bytes": 924979,
+  "pdf_pages": 7,
+  "index_entries": [
+    120064
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=1&v_cilt=",
+  "text_status": "metadata-only: an index entry citing this document withholds its title (it may name a private person)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": true,
+  "in_force": "1928-05-05",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "metadata"
+}
