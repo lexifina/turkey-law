@@ -6,11 +6,14 @@ MADDE 24 - 4760 sayılı Kanuna ekli (I) sayılı listenin (A) cetvelinde yer al
 MADDE 25 - 4760 sayılı Kanuna ekli (II) sayılı listenin 87.03 G.T.İ.P. numarasında “27, 46, 50” olarak yer alan vergi oranları sırasıyla “30, 52, 75” olarak, 87.04 G.T.İ.P. numarasında yer alan mal ve vergi oranı ise ekli (2) sayılı cetvelde gösterilen şekilde değiştirilmiştir. (2)
 MADDE 26. -
 4760 sayılı Kanuna ekli (III) sayılı liste ekli (3) sayılı cetvelde gösterilen şekilde değiştirilmiştir. (2)
+3- 30/12/2004 tarihli ve 5281 sayılı Kanunun 38 inci maddesi:
+MADDE 38 -4760 sayılı Kanuna ekli (I) ve (III) sayılı listeler, bu Kanuna ekli (2) ve (3) sayılı cetvellerde gösterilen şekilde değiştirilmiştir. (3)
 ––––––––––––––––––
 (1) Bu maddede yer alan listelerle ilgili olarak 7/8/2003 tarihli ve 25192 sayılı Resmi Gazete’de yayımlanan 4962 sayılı Kanunun ekine bakınız.
 (2) Bu maddede yer alan listelerle ilgili olarak 31/7/2004 tarihli ve 25539 sayılı Resmi Gazete’de yayımlanan 5228 sayılı Kanunun ekine bakınız.
+(3) Bu maddede yer alan listelerle ilgili olarak 31/12/2004 tarihli ve 25687 (3. Mükerrer) sayılı Resmi Gazete’de yayımlanan 5281 sayılı Kanunun ekine bakınız.
 Mevzuatın | Yayımlandığı Resmi Gazete’nin
-Türü | No | Tarihi | Numarası
+Türü | Numarası | Tarihi | Numarası
 B.K.K | 2002/4481 | 30/7/2002 | 24831
 B.K.K | 2002/4482 | 30/7/2002 | 24831
 B.K.K | 2002/4675 | 14/9/2002 | 24876
