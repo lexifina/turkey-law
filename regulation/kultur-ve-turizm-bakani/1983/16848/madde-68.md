@@ -1,0 +1,3 @@
+Dış pazarlama çabaları
+Madde 68- Bakanlık yurtiçinde ve yurtdışında uygulamak üzere hazırlayacağı turizm pazarlama programları (tanıtıcı yayınlar, film video kasetleri hazırlamak, reklam program ve stratejisinin hazırlanması, yabancı acenta, taşıyıcı ve yazar daveti, kongre, fuar ve sergilere iştirak vb.) üzerinde turizm işletmelerinin mesleki örgütleri ile istişare edebilir.
+Turizm işletmeleri, Bakanlığın bahse konu pazarlama çalışmalarının verimlilik ve etkinliğinin arttırılmasına yardımcı olmak amacıyla, düzenlenecek müşterek pazarlama projelerinde yer alabilirler, katkıda bulunabilirler ve Bakanlığın pazarlama amaçlı (yabancı yazar, taşımacı, acenta gibi) misafir ağırlamalarında işletmenin sağlayacağı hizmetlerin fiyatlarında indirim yapabilirler.
