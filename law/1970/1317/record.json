@@ -1,0 +1,273 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1317",
+  "year": 1970,
+  "title": "274 sayılı Sendikalar Kanununun bazı maddelerinin değiştirilmesi ve 31. maddesine bir bend ile bu kanuna 3 geçici madde eklenmesi hakkında Kanun",
+  "adopted": "1970-07-29",
+  "adopted_as_published": "29/07/1970",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.08.1970 No: 13577",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301317.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 53",
+  "committee_reports": [
+    {
+      "label": "MM 133 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006101ss0133.pdf"
+    },
+    {
+      "label": "MM 133ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008133ss0133ek01.pdf"
+    },
+    {
+      "label": "CS 1453no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060086ss1453.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 377262,
+      "title": "274 sayılı Sendikalar Kanununun bazı maddelerinin değiştirilmesi ve 31. maddesine bir bend ile bu kanuna 3 geçici madde eklenmesi hakkında Kanun",
+      "adopted_as_published": "29/07/1970",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301317.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 133 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006101ss0133.pdf"
+        },
+        {
+          "label": "MM 133ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008133ss0133ek01.pdf"
+        },
+        {
+          "label": "CS 1453no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060086ss1453.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 40,
+          "sitting_date": "1970-02-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c002/mm__03002040.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c002/mm__03002fih.pdf",
+          "pages": [
+            "759"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 80,
+          "sitting_date": "1970-05-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c004/mm__03004fih.pdf",
+          "pages": [
+            "716"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 101,
+          "sitting_date": "1970-06-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006101.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006fih.pdf",
+          "pages": [
+            "260:309"
+          ]
+        },
+        {
+          "cilt": 6,
+          "sitting": 102,
+          "sitting_date": "1970-06-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006102.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006fih.pdf",
+          "pages": [
+            "318",
+            "358",
+            "367:390"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 129,
+          "sitting_date": "1970-07-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008129.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+          "pages": [
+            "450"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 133,
+          "sitting_date": "1970-07-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008133.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+          "pages": [
+            "623",
+            "643:645"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 134,
+          "sitting_date": "1970-07-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008134.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+          "pages": [
+            "684:686"
+          ]
+        },
+        {
+          "cilt": 8,
+          "sitting": 135,
+          "sitting_date": "1970-07-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008135.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+          "pages": [
+            "694:698"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=601&v_kullanici_id=27483225",
+      "page_sha256": "289a6a3fb6cf89fae2d8a05f66e7b654a3cc8aecdfd898b5db709f11f0b70d44"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 313789,
+      "title": "274 sayılı Sendikalar Kanununun bâzı maddelerinin değiştirilmesi ve 31 nci maddesine bir bent ile bu kanuna 3 geçici madde eklenmesi hakkında Kanun",
+      "adopted_as_published": "29/07/1970",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301317.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 133 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c006/mm__03006101ss0133.pdf"
+        },
+        {
+          "label": "MM 133ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008133ss0133ek01.pdf"
+        },
+        {
+          "label": "CS 1453no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060086ss1453.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 59,
+          "sitting": 80,
+          "sitting_date": "1970-06-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c059/cs__09059080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c059/cs__09059fih.pdf",
+          "pages": [
+            "312"
+          ]
+        },
+        {
+          "cilt": 59,
+          "sitting": 84,
+          "sitting_date": "1970-06-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c059/cs__09059084.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c059/cs__09059fih.pdf",
+          "pages": [
+            "400"
+          ]
+        },
+        {
+          "cilt": 60,
+          "sitting": 86,
+          "sitting_date": "1970-07-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060fih.pdf",
+          "pages": [
+            "7:25"
+          ]
+        },
+        {
+          "cilt": 60,
+          "sitting": 87,
+          "sitting_date": "1970-07-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060087.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060fih.pdf",
+          "pages": [
+            "91:111"
+          ]
+        },
+        {
+          "cilt": 60,
+          "sitting": 89,
+          "sitting_date": "1970-07-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060089.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060fih.pdf",
+          "pages": [
+            "56:75"
+          ]
+        },
+        {
+          "cilt": 60,
+          "sitting": 90,
+          "sitting_date": "1970-07-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060090.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060fih.pdf",
+          "pages": [
+            "115:184"
+          ]
+        },
+        {
+          "cilt": 60,
+          "sitting": 91,
+          "sitting_date": "1970-07-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060091.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060fih.pdf",
+          "pages": [
+            "163:233"
+          ]
+        },
+        {
+          "cilt": 60,
+          "sitting": 92,
+          "sitting_date": "1970-07-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060092.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c060/cs__09060fih.pdf",
+          "pages": [
+            "237:257",
+            "266:267",
+            "308:310"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1301&v_kullanici_id=27483235",
+      "page_sha256": "d5176558de59b9dcf211fea14e78f3108f5ed774b83c8bb3de13ebec8b61a347"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "289a6a3fb6cf89fae2d8a05f66e7b654a3cc8aecdfd898b5db709f11f0b70d44",
+  "issuer": "Millet Meclisi",
+  "in_force": "1970-07-29",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 29/07/1970; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
