@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.5844",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİ YÖNETMELİĞİ’NE (89/106/EEC) İLİŞKİN AÇIKLAYICI DOKÜMANLAR HAKKINDA TEBLİĞ1 (TEBLİĞ NO:TAU/2004-008)",
+  "number": "5844",
+  "path": "teblig/2004/5844",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=5844&MevzuatTertip=5",
+  "source_sha256": "5cfb2dd4b55a6bed38ba1a151a914055921e31f4d4aa231095bd1b56eb7f3f59",
+  "source_bytes": 41521,
+  "published": "2004-11-29",
+  "gazette": "25655",
+  "in_force": "2004-11-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.11.2004)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 935,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.5844%20ekler.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
