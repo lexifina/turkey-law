@@ -1,0 +1,60 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5616",
+  "year": 1950,
+  "title": "Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü Memur ve Hizmetlilerinin ücretlerine dair olan 2847, 3173, 4620 ve 5000 sayılı kanunlarda değişiklik yapılmasına ve 2847 sayılı Kanuna bazı maddeler eklenmesine dair Kanun",
+  "adopted": "1950-03-22",
+  "adopted_as_published": "22/03/1950",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.03.1950 No: 7468",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205616.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 32",
+  "committee_reports": [
+    {
+      "label": "TBMM 246 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025069ss0246.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 8,
+      "kayit_no": 78338,
+      "title": "Devlet Demiryolları ve Limanları İşletme Genel Müdürlüğü Memur ve Hizmetlilerinin ücretlerine dair olan 2847, 3173, 4620 ve 5000 sayılı kanunlarda değişiklik yapılmasına ve 2847 sayılı Kanuna bazı maddeler eklenmesine dair Kanun",
+      "adopted_as_published": "22/03/1950",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205616.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 246 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025069ss0246.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 69,
+          "sitting_date": "1950-03-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025069.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c025/tbmm08025fih.pdf",
+          "pages": [
+            "679:681"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=716&v_gelecek_sayfa=601&v_kullanici_id=27483172",
+      "page_sha256": "35b6583cf1269145bb30e33bab0f6578346fbb43084ce2281b975f462f6247b3"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "35b6583cf1269145bb30e33bab0f6578346fbb43084ce2281b975f462f6247b3",
+  "issuer": "TBMM",
+  "in_force": "1950-03-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 22/03/1950; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
