@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.7944",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 345)",
+  "number": "7944",
+  "path": "teblig/2005/7944",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=7944&MevzuatTertip=5",
+  "source_sha256": "a0c53f1c644379a08722d73ed6e2b77d600f3ffc8062444694925570b5902af2",
+  "source_bytes": 82519,
+  "published": "2005-02-28",
+  "gazette": "25741",
+  "in_force": "2005-02-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.02.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2453,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.7944-EK-1.xls",
+    "9.5.7944-EK-2.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
