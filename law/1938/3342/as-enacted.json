@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3342",
+  "year": 1938,
+  "title": "863 sayılı subaylar heyetine mahsus terfi Kanununun bazı maddelerini değiştiren 2900 sayılı Kanunun birinci maddesinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-03-30",
+  "gazette_issue": "3869",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3869.pdf",
+  "source_sha256": "7dd2fecc160a1241554f775249f7d38ca76f6bf4af4b9f4459e57a87b855ae3e",
+  "text_sha256": "5cc625244e240ebe47b2b8c38cffb94b38de63547a13f01799f384b5261d2b95",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      51
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803342.pdf",
+    "source_sha256": "70e43d0de63160a7463731828712837aad06da678102195abc4b1ea1e1d0b3ae",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.973,
+    "bag": 0.8835,
+    "kd_coverage": 0.9964,
+    "kd_body_compared": 0.9892,
+    "rg_words": 266,
+    "kd_words": 278,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
