@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4298",
+  "year": 1942,
+  "title": "Eşkıya müsademesinde mâlûl olanların 3656 ve 4222 sayılı kanunların 24 ve 21. maddelerinden istifade etmeleri hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-08-20",
+  "gazette_issue": "5189",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5189.pdf",
+  "source_sha256": "34192efa85366c52ee98c5744fe21af109570370d8705de60e4a3290e4ec2178",
+  "text_sha256": "323230c2df71d51494b30d91112514664686690c6ae2a2d564071e05e8f22713",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      325,
+      340
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304298.pdf",
+    "source_sha256": "1b1f208bcbb6eb2550d8d719aa4c7ca6e014baac13194bae751396e6a2cdd170",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9636,
+    "bag": 0.7812,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9692,
+    "rg_words": 65,
+    "kd_words": 65,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
