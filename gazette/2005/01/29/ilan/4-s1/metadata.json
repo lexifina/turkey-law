@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-01-29",
+  "issue": "25711",
+  "edition": "regular",
+  "item": 1,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Bayındırlık ve İskan Bakanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/01/20050129-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (19 = 19)",
+  "ilan_codes": [
+    "755/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/01/20050129-4.htm",
+  "category_page_sha256": "568ad8810b334bc17872f9c0698b82b4ef72bd563963ca460671cc3e7c06c47e",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/01/20050129.htm",
+  "index_sha256": "9bd8beba916663d86af7228a58ec1a0c416441081f30568938a66d792d04c4bb",
+  "index_header": "29 Ocak 2005 ... Sayı : 25711",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
