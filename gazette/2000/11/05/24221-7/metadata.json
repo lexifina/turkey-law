@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2000-11-05",
+  "issue": "24221",
+  "edition": "regular",
+  "item": 7,
+  "section": "YARGI BÖLÜMÜ",
+  "heading": "Yargıtay Kararları",
+  "title": "Yargıtay 14. Hukuk Dairesine Ait 8 Adet Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2000/11/20001105.htm#7",
+  "link_format": "inline-anchor",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2000/11/20001105.htm",
+  "index_sha256": "119c74a5c068bd4c303aecf2d2f9209ff43bad4589c99225d2ffd65625a9ec93",
+  "index_header": "5 Kasım 2000 ... Sayı : 24221",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
