@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6516-18645",
+  "source_id": 38293,
+  "date": "1997-05-07",
+  "title": "Birinci ve İkinci sınıf tacirlerin Ö.K.C. kullanma mecburiyeti ve süresi hk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38293",
+  "source_sha256": "224c6ba6644a3f439a50d6620d32155f1726b2c9797e535f61caa22a8d2a8055",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
