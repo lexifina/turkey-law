@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4371",
+  "year": 1943,
+  "title": "Orman koruma teşkilât kanununun 4283 sayılı kanunla değiştirilen 14. maddesinin (B) fıkrasının değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-01-21",
+  "gazette_issue": "5310",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5310.pdf",
+  "source_sha256": "4d4cda84c47062ea1684c4bdd26994e9cc34ba18e8c248216ad017050e617756",
+  "text_sha256": "e7100d9dcc7bb21546fabcf1c6a2712d60170575bde264bfba0d89cd3a6875b4",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      45,
+      65
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc024/kanuntbmmc024/kanuntbmmc02404371.pdf",
+    "source_sha256": "3e353ef162a8df30a54aba1b5e7ef29251c8c6d19378260c3701609ffee0a185",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9707,
+    "bag": 0.8502,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9795,
+    "rg_words": 144,
+    "kd_words": 146,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
