@@ -1,0 +1,14 @@
+ANAYASA MAHKEMESİ KARARI
+Esas Sayısı : 1962/181
+Karar Sayısı : 1962/38
+Karar Tarihi :18/9/1962
+İSTEMDE BULUNAN: Ahmet Ziya Kayaoğlu. Avukat, Türbe Köşehan Kat 2, No:6 İstanbul.
+İSTEMİN KONUSU: İstemde bulunan, dilekçesinde Anayasa’nın mülkün mahfuziyeti esasını benimsemiş olduğunu, bu itibarla mülk edinilmesi ve mülkün taarruzdan saklı bulunması gerektiğini, vatandaşın serbest mülk edinebilmesi için satın alırken emniyetsizlik içinde olmaması lâzım geleceğini, Harçlar Kanununun 72 ve 75 inci maddelerinin bu emniyeti sarstığını, maliye memurlarının gayrimenkul satışında satış parasını rayicin altında kabul etmeleri halinde vatandaşın harç kaçakçısı durumuna düştüğünü, hem harçla yükümlü tutulduğunu hemde cezaya çarptırıldığını, diğer taraftan iyi niyet halinde 73 üncü maddeye göre iki kat ceza alınırken kötü niyetlilerin 115 inci madde uyarınca bir kat ceza ödediklerini; Bu hükümlerin 5421 ve 192 Sayılı Gelir Vergisi Kanununun 66 ve 81 inci maddeleri ile de çeliştiğini, 50 bin liraya satın alınan gayrimenkul için takdir sonunda 70 bin lira üzerinden ceza alınarak harç veren kimsenin vergi beyannamesinde satın alma bedelini 70 bin lira göstermediğini, böylece 72-73 ve 115 nci maddelerin “Anayasa’nın vatandaşı iyi niyetle görme ve Devlete iyi bir vatandaş olarak vazifesini yapma” hakkındaki hükmüne aykırı olduğunu, Anayasa’nın teminatı altında olan mülk edinme emniyetinin ihlâl edildiğini, aynı zamanda vatandaşın adli muamele sebebiyle adliyenin emrine kendi namına yatırdığı paraların faizlerinin devlete ait olduğuna ilişkin 124 üncü maddesinin dahi Anayasa’nın kabul ettiği emvâlin mahfuziyeti prensibine ve hâkim kararı olmadan vatandaşın mülkünden bir kısmının devlete ait olamıyacağını kaidesine aykırı olduğunu ileri sürerek söz konusu maddelerin iptalini istemiştir.
+Anayasa Mahkemesinin, İçtüzüğün 15 inci maddesi uyarınca 18.9.1962 gününde ilk inceleme için yapılan toplantısında işin niteliği bakımından esasın tetkikine oybirliği ile karar verildikten sonra 7.9.1962 günlü dilekçe ve rapor okundu. Gereği görüşülüp düşünüldü.
+Anayasanın 149 uncu ve Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri hakkındaki 22.4.1962 gün ve 44 sayılı Kanunun 21 inci maddelerinde iptal dâvası açmağa yetkili kişi, kurul ve makamlar açıkça belirtilmiştir. İstek sahibi ise bu maddelerde sayılanlardan değildir. Bu sebeple istemin reddi gereklidir.
+SONUÇ : Gösterilen sebepten ötürü istemin reddine, işbu kararın dilekçe sahibine tebliğine, aynı Kanununu 51 inci maddesi uyarınca Resmi Gazetede yayınlanmasına 18.9.1962 gününde oybirliği ile karar verildi.
+Başkan Sünuhi ARSAN | Başkan Vekili Tevfik GERÇEKER | Üye Osman YETEN
+Üye Rifat GÖKSU | Üye Lütfi AKADLI | Üye İbrahim SENİL
+Üye Salim BAŞOL | Üye Celâlettin KURALMEN | Üye Yekta AYTAN
+Üye Hakkı KETENOĞLU | Üye Ekrem KORKUT | Üye Ahmet AKAR
+Üye Muhittin GÜRÜN | Üye Lütfi ÖMERBAŞ | Üye Ekrem TÜZEMEN
