@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.54/5401-",
+  "source_id": 38031,
+  "date": "2005-01-14",
+  "title": "Derneğinizce Güney Asya'da meydana gelen tsunami felaketinden zarar görenlere katkı sağlamak...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38031",
+  "source_sha256": "81c9508b84d178f9c8e59b7c51b49bab87119a0d05278cf2eb975b0654cd7cd1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
