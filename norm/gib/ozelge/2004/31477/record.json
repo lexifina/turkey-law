@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5514-399/24977",
+  "source_id": 31477,
+  "date": "2004-06-03",
+  "title": "Katma Değer Vergisi Kanununun 14. maddesi kapsamında gerçekleştirilen konteynır taşımacılığı faaliyeti sırasında, konteynırların gereğinden fazla meşgul edilmesi nedeniyle taşıtanın taşıyana ödemiş olduğu konteyner demurajı için söz konusu istisna hükmünü",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31477",
+  "source_sha256": "dea808b1a538afea5729d3c1172d93e8129f768e7e2560f5b61c907810d1579d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
