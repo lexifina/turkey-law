@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-16/60128",
+  "source_id": 22270,
+  "date": "1996-12-17",
+  "title": "Trafik kazası sonucu hurda haline gelen araçla ticari faaliyetine devam etme imkanı kalmayan mükellefiyetinin kaldırılması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22270",
+  "source_sha256": "72d7f233dc37215d80590055c2998fd597943f7d41900b7c4964cd69e094f858",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
