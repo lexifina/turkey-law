@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6384-02-43540",
+  "source_id": 38175,
+  "date": "1997-10-13",
+  "title": "Sınır ticareti kapsamında yapılacak ithalatlarda düzenlenen tahakkuk kağıtlarında eğitime katkı payı alınması gerekmemektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/38175",
+  "source_sha256": "44095658b9eafc7b3fc3ad142d6371bb710d435c3eea1bcf4d99c7a05d649f21",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
