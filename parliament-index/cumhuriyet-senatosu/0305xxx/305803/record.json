@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 305803,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "1967 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında (Millet Meclisi 1/377, Cumhuriyet Senatosu 1/800) (S. Sayısı:957)",
+  "title": "1967 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında (Millet Meclisi 1/377, Cumhuriyet Senatosu 1/800) (S. Sayısı:957)",
+  "first_sitting_date": "1967-06-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 42,
+      "sitting": 77,
+      "sitting_date": "1967-06-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t06/c042/cs__06042fih.pdf",
+      "pages": [
+        "3",
+        "47:48",
+        "80:81"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2010&v_gelecek_sayfa=901&v_kullanici_id=27484916",
+  "source_sha256": "0325fc7a3539c2b527b4e6259b521b5b6c63ed1a4556ca6df03bf94ec83bd9a4",
+  "in_force": "1967-06-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
