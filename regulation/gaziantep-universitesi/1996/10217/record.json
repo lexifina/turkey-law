@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 14 - Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1996-02-09",
+      "09.02.1996",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "1999-10-26",
+      "RG-26/10/1999-23858",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-26/10/1999-23858",
+  "first_law": null,
+  "gazette": "22549",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1999-10-26",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/1996/10217",
+  "published": "1996-02-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10217&MevzuatTertip=5",
+  "source_bytes": 23301,
+  "source_id": "8.5.10217",
+  "source_sha256": "7a28cdbe6c45235d03512003a8d9ca89aa2ceda9379eec6503a7583cd8ddfb0a",
+  "text_status": "current-consolidated",
+  "title": "GAZİANTEP ÜNİVERSİTESİ AVRUPA BİRLİĞİ ARAŞTIRMALARI MERKEZİ (GABAM) YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 630
+}

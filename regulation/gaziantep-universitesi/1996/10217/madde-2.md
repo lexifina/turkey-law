@@ -1,0 +1,10 @@
+Amaç
+Madde 2 - a) Resmi ve özel kuruluşlarla işbirliği yapılarak; Türkiye'nin Avrupa Birliği ile i1işkilerinin ekonomik, kültürel ve teknik boyutlarını içeren araştırma projeleri üretmek,
+b) Avrupa Birliği, Gümrük Birliği ve Dünya Ticaret Organizasyonları çerçevesinde Türkiye'nin ekonomi, ticaret ve teknoloji alanlarında karşılaşacağı teknik ve ekonomik sorunlarını, ulusal ve uluslar arası düzeylerde belirleyip bunlara çözüm önerileri üretecek projeler geliştirmek,
+c) Üniversitede Avrupa Birliği Dokümantasyon Merkezi kurmak,
+d) Kurulacak Avrupa Birliği Dokümantasyon Merkezinden de yararlanmak suretiyle, özellikle ve öncelikle, Küçük ve Orta Büyülükteki Sanayi kuruluşlarının teknoloji yenileme ve iyileştirme konularında, onlarla Avrupa Birliği üye ülkeleri arasında enformasyon akışını sağlayacak hizmetleri sunmak ve bu amaçla teşkilatlanmak,
+e) Avrupa Birliği ve Dünya Ticaret Organizasyonuna üye ülkelerle Türkiye arasında oluşacak dış ticaret faaliyetlerinin geliştirilmesine yardımcı olmak üzere "Internet" gibi enformasyon kanallarından sağlanacak bilgileri istek sahiplerinin hizmetine sunmak,
+f) Avrupa Birliği ve Gümrük Birliği gibi konularda sanayici ve işadamlarının bilinçlenmesini sağlamak ve onların katılımını artırmak amacıyla eğilim çalışmaları yapmak,
+g) Yurtiçi ve yurtdışı kuruluşlarla işbirliği yaparak, ortak projeler üretmek ve uluslar arası organizasyonlara kaynak sağlamak,
+h) Bu amaçların gerçekleşmesine yönelik eleman yetiştirmek üzere faaliyetlerde bulunmak,
+j) Merkezin kuruluş amacına, Yükseköğretim Kanununun amaç ve ilkelerine katkı sağlayıcı diğer kurs, seminer, toplantı v.b. tertiplemek,
