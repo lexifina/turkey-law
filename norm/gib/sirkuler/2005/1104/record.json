@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-14/ 2005-2/ Finansman Gider Kısıtlaması _5",
+  "source_id": 1104,
+  "date": "2005-02-07",
+  "title": "2004 yılına ilişkin son geçici vergi dönemi için gider indirimi kısıtlaması uygulamasına esas alınacak indirim oranı % 36,5 olarak tespit edilmiştir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1104",
+  "source_sha256": "570b5aba0cf93b6fc6d05d4dfcca990fe146234ad295a402d39f52731dcb509f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
