@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3783",
+  "year": 1940,
+  "title": "İnhisarlar Umum Müdürlüğü 1939 malî yılı bütçesinde değişiklik yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1940-01-26",
+  "gazette_issue": "4417",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4417.pdf",
+  "source_sha256": "a8c74294e18542e58dbb58854a5ddaaecd55820b7ad37a93af1b58380b51bed8",
+  "text_sha256": "75fc48f323c65912f037c2999e1f4f70ce3efee020e74dc02a84b83022838fc1",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      2259,
+      2280
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc021/kanuntbmmc021/kanuntbmmc02103783.pdf",
+    "source_sha256": "67e0913b2a8343397593f6e8b54a803b35537b52aea0ecdc022c26dffd8532de",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9706,
+    "bag": 0.9364,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.5478,
+    "rg_words": 87,
+    "kd_words": 157,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
