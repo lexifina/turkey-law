@@ -1,0 +1,34 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 620117,
+  "assembly": "TBMM Kapalı Oturumlar",
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Düyunu Umumiyeye muhassas varidat matrahlarına harp masrafları karşılığı olarak yapılan zammiyatın Düyunu Umumiye hesaplarından tefriki ile muvazenei umumiyeye intikaline dair Adliye Vekâleti Tezkeresi.",
+  "title": "Düyunu Umumiyeye muhassas varidat matrahlarına harp masrafları karşılığı olarak yapılan zammiyatın Düyunu Umumiye hesaplarından tefriki ile muvazenei umumiyeye intikaline dair Adliye Vekâleti Tezkeresi.",
+  "first_sitting_date": "1922-09-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": null,
+      "sitting": 105,
+      "sitting_date": "1922-09-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/GZC/d01/CILT03/gcz01003105.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": null,
+      "pages": [
+        "800:803"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=11&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=11&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4c3a5c9bbc9b325b674319a394d4cbdab47e35ecddd64ac5269b83dd9f3b5613",
+  "in_force": "1922-09-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
