@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4874",
+  "year": 2003,
+  "title": "Uluslararası Telekomünikasyon Birliği (İTU) Kuruluş Yasası ve Sözleşmesinde Değişiklik Yapan Kyoto ve Minneapolis Tam Yetkili Konferansları Sonuç Belgelerinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-06-07",
+  "gazette_issue": "25131",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030607.htm",
+  "source_sha256": "02db304bfb476dc7d36e4eb8909b9aadb84c6d11a12a18f203419c8f0419651b",
+  "text_sha256": "1a0497e0d02bd008f8addf96fe6cc103346459f5f3d13256dc292605868f71d4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/06/07/25131-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030607.htm#6",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
