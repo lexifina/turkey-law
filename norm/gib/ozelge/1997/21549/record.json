@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4042-20/34206",
+  "source_id": 21549,
+  "date": "1997-08-14",
+  "title": "Yardımlaşma sandıklarının  bankadaki mevduatlarına yürütülen faizlerden gelir vergisi kesintisi yapılmaması gerekmektedir.Yukarıdaki amaçlar dışında ödenmesi halinde, üyeler tarafından elde edilen bu gelir alacak faizi olduğundan menkul sermaye iradı olar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21549",
+  "source_sha256": "cc31960cdc0615336c8a833fca33fde102a9aeec9ad3a97af2ff512aaa223a82",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
