@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 114853,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Gümrük ve İnhisarlar Vekâleti 1932 senesi bütçesinin 246. faslı 1. maddesi unvanının değiştirilmesi hakkında 1/436, Gümrük ve İnhisarlar ve Millî Müdafaa vekâletleri 1932 senesi bütçelerinde 26 000 liralık münakale yapılması hakkında 1/442, Harita Umum Müdürlüğü 1932 senesi bütçesinde 9 932 liralık münakale yapılması hakkında 1/447, Millî Müdafaa Vekâleti 1932 senesi deniz bütçesinde 37 8000 liralık münakale yapılması hakkında 1/453, Nafıa Vekâleti 1932 senesi bütçesinde 27 000 liralık münakale yapılması hakkında 1/454, Tapu ve Kadastro Umum Müdürlüğü 1932 senesi bütçesinde 3 150 liralık münakale yapılması hakkında 1/457 ve muhtelif devairin 1932 senesi bütçelerinde münakale yapılması hakkında 1/463 numaralı kanun lâyihalari ile İdare heyetinin Büyük Millet Meclisi 1932 senesi bütçesinde 20 000 liralık münakale yapılmasına dair 2/56, Büyük Millet Meclisi 1932 senesi bütçesinde 13 900 liralık munzam tahsisat konulmasına dair 2/57 ve Divanı Muhasebat 1932 senesi bütçesinde 4 950 liralık münakale yapılması hakkında 2/59 numaralı kanun tekliflerine dair",
+  "title": "Gümrük ve İnhisarlar Vekâleti 1932 senesi bütçesinin 246. faslı 1. maddesi unvanının değiştirilmesi hakkında 1/436, Gümrük ve İnhisarlar ve Millî Müdafaa vekâletleri 1932 senesi bütçelerinde 26 000 liralık münakale yapılması hakkında 1/442, Harita Umum Müdürlüğü 1932 senesi bütçesinde 9 932 liralık münakale yapılması hakkında 1/447, Millî Müdafaa Vekâleti 1932 senesi deniz bütçesinde 37 8000 liralık münakale yapılması hakkında 1/453, Nafıa Vekâleti 1932 senesi bütçesinde 27 000 liralık münakale yapılması hakkında 1/454, Tapu ve Kadastro Umum Müdürlüğü 1932 senesi bütçesinde 3 150 liralık münakale yapılması hakkında 1/457 ve muhtelif devairin 1932 senesi bütçelerinde münakale yapılması hakkında 1/463 numaralı kanun lâyihalari ile İdare heyetinin Büyük Millet Meclisi 1932 senesi bütçesinde 20 000 liralık münakale yapılmasına dair 2/56, Büyük Millet Meclisi 1932 senesi bütçesinde 13 900 liralık munzam tahsisat konulmasına dair 2/57 ve Divanı Muhasebat 1932 senesi bütçesinde 4 950 liralık münakale yapılması hakkında 2/59 numaralı kanun tekliflerine dair",
+  "first_sitting_date": "1932-12-31",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 11,
+      "sitting": 18,
+      "sitting_date": "1932-12-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c011/tbmm04011018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c011/tbmm04011fih.pdf",
+      "pages": [
+        "72"
+      ]
+    },
+    {
+      "cilt": 12,
+      "sitting": 19,
+      "sitting_date": "1933-01-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c012/tbmm04012019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c012/tbmm04012fih.pdf",
+      "pages": [
+        "5",
+        "13:14"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=501&v_kullanici_id=27483870",
+  "source_sha256": "400da46beee2404076f751d8580de2e7708d340b2358e8b2929f1e8726c186c8",
+  "in_force": "1932-12-31",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
