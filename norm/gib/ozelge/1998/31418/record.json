@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5279-48/50344",
+  "source_id": 31418,
+  "date": "1998-12-29",
+  "title": "Vakıf tarafından KDV'ne tabi işlemlerde kullanılmak üzere inşa edilecek geminin vakfa tesliminde istisna hükmü uygulanabilecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31418",
+  "source_sha256": "158629da763b544b88d79b9f1780c2212ea89225ac19c95977e691aab1d0784a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
