@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4535-5",
+  "source_id": 21225,
+  "date": "2004-10-27",
+  "title": "Ülkemizde ruhsatsız binalar yapı kullanma izni alamazlar ve bu binalar mal ve hizmet yeri olarak kullanılamayacaklarından yatırım indirimi istisnasına konu edilemezler. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21225",
+  "source_sha256": "cdf106ee0c2720e5ec0a1e067a6dd1f0ee7bf5100e34ed48f7ca9bb556c5bbd1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
