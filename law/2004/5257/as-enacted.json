@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5257",
+  "year": 2004,
+  "title": "Milli Eğitim Temel Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-11-13",
+  "gazette_issue": "25642",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/11/20041113.htm",
+  "source_sha256": "cf69b1b9b7fba0199166b01475e2ef172344ceddff464c89455f5ab3275383cf",
+  "text_sha256": "0f1125d07a0bbabe13184b452c27e7ec442cb8a8cc6568b33023c6b398ac7ffe",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/11/13/25642-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/11/20041113.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
