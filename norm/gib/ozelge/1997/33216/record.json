@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5529-1529/18457",
+  "source_id": 33216,
+  "date": "1997-05-06",
+  "title": "Eğitim amaçlı periyodik olmayan kitap ve broşür gibi diğer yayınların satışında da katma değer vergisi oranının %8 olarak uygulanması gerekmektedir. ·",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33216",
+  "source_sha256": "68591aefb1edbc1a3b58a338d7d18e9fa2ebfde9c2ab012e13a58d10d38d8bae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
