@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4658",
+  "year": 1944,
+  "title": "İspirto ve ispirtolu içkiler hakkında 4250 sayılı kanunun 21. maddesinin değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-09-09",
+  "gazette_issue": "5804",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5804.pdf",
+  "source_sha256": "4fd097e425a3e42cca9bf235d48b2179eac0d325a5a63df42f298954ae93abf4",
+  "text_sha256": "ff01befec8fb89fbe0ef49b31adace7cc34eb927d42d701b3002f73fc0506c1c",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      61,
+      81
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604658.pdf",
+    "source_sha256": "475487d7d2344dc60db21259f1158403bc259ec40e373cbbb111e386ad9b6ae2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9701,
+    "bag": 0.8995,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9792,
+    "rg_words": 95,
+    "kd_words": 96,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
