@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55- 5520 - 257 / 54070",
+  "source_id": 29980,
+  "date": "2003-12-18",
+  "title": "Bandrol ücretine tabi cihazların katma değer vergisi matrahı bu cihazların teslimi karşılığında imalatçı veya ithalatçı firmalarca alınan ÖTV dahil toplam bedeldir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29980",
+  "source_sha256": "348d500a2b151afd252c308e01a2d10f116ba1b20999b72ad04519203b4704c3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
