@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3224-2459",
+  "source_id": 33421,
+  "date": "2004-07-12",
+  "title": "Alış ve satışları fiziki olarak gerçek olmayan veya işletmenin kapasite ve  dönem iş hacmi arasında açık bir nispetsizlik bulunan ve iade alacağına konu edilen alışlarına tekabül eden faturaların sahte ve muhteviyatı itibariyle yanıltıcı belge olduğu husu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/33421",
+  "source_sha256": "c81a5c28bc2355d057e92fac76dec28f9247d944f81dac180ebd4175668157f3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
