@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4815",
+  "year": 2003,
+  "title": "Türkiye Cumhuriyeti ile Bosna Hersek Arasındaki Serbest Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2003-02-26",
+  "adopted_as_published": "26/02/2003",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.03.2003 No: 25040",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc087/kanuntbmmc087/kanuntbmmc08704815.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 87",
+  "committee_reports": [
+    {
+      "label": "TBMM 34 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c005/tbmm22005037ss0034.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 22,
+      "kayit_no": 165603,
+      "title": "Türkiye Cumhuriyeti ile Bosna Hersek Arasındaki Serbest Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "26/02/2003",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc087/kanuntbmmc087/kanuntbmmc08704815.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 34 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c005/tbmm22005037ss0034.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 18,
+          "sitting_date": "2003-01-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c002/tbmm22002018.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c002/tbmm22002fih.pdf",
+          "pages": [
+            "306"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 25,
+          "sitting_date": "2003-01-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003025.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c003/tbmm22003fih.pdf",
+          "pages": [
+            "282"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 37,
+          "sitting_date": "2003-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c005/tbmm22005037.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c005/tbmm22005fih.pdf",
+          "pages": [
+            "676:682",
+            "830:853"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "1ead0530dd1eb40937f3d3a8a688b5abf6d67f0c773b4fcc26fef3bb634ca188"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1ead0530dd1eb40937f3d3a8a688b5abf6d67f0c773b4fcc26fef3bb634ca188",
+  "issuer": "TBMM",
+  "in_force": "2003-02-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 26/02/2003; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
