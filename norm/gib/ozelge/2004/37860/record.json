@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4417-131/23284",
+  "source_id": 37860,
+  "date": "2004-05-25",
+  "title": "Vergi Tevkifatı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37860",
+  "source_sha256": "68d7b289c5ee457f9f7a243113d995853c5e9331b357f14d7e69d252106ed9ac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
