@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-05-23",
+  "issue": "25470",
+  "edition": "regular",
+  "item": 3,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "PETKİM Petrokimya Holding Anonim Şirketi Genel Müdürlüğü Aliağa Petrokimya Kompleksinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/05/20040523-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (3 = 3)",
+  "ilan_codes": [
+    "6375/2-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/05/20040523-3.htm",
+  "category_page_sha256": "90d5679f8fee072c2a7e14b3bb19cd5e8da792b457bf409de1b22cc3afbedcd3",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/05/20040523.htm",
+  "index_sha256": "a5a97dacda2cc02e02e1bcd43cdacaae615e612aee862173f72d53db6beb5ee8",
+  "index_header": "23 Mayıs 2004 ... Sayı : 25470",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
