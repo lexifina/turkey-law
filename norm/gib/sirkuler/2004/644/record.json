@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-13/2004-5/Has Altın Maliyet Bedeli Güncellemesi-1",
+  "source_id": 644,
+  "date": "2004-01-30",
+  "title": "Satılan mamulün has altın maliyet bedelinin, satış tarihinde İstanbul Altın Borsasında oluşan has altın değeri ile karşılaştırılması sonucu bulunacak pozitif farklar, bilançonun pasifindeki özel bir fon hesabına karşılık yazılmak suretiyle maliyet bedelin",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/644",
+  "source_sha256": "b3431ccf4c7afbcd4abf92f734e1c365b3aa142524c760603acb69c6636d9c39",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
