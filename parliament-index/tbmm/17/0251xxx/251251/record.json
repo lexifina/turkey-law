@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 251251,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "1580 Sayılı Belediye Kanunu, 3030 Sayılı Büyük Şehir Belediyelerinin Yönetimi Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun, 3194 Sayılı İmar Kanunu ve 2972 Sayılı Mahalli İdareler ile Mahalle Muhtarları ve İhtiyar Heyetleri Hakkında Kanunun Bazı Hükümetlerinin Değiştirilmesine Dair Kanun Tasarısı ile 1580 Sayılı Belediye Kanununun 93. Maddesinin Değiştirilmesi ve 27.6.1984 Tarihli, 3030 Sayılı Kanunun 9 uncu Maddesine Bir Fıkra Eklenmesi Hakkında (1/848, 1/863)",
+  "title": "1580 Sayılı Belediye Kanunu, 3030 Sayılı Büyük Şehir Belediyelerinin Yönetimi Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun, 3194 Sayılı İmar Kanunu ve 2972 Sayılı Mahalli İdareler ile Mahalle Muhtarları ve İhtiyar Heyetleri Hakkında Kanunun Bazı Hükümetlerinin Değiştirilmesine Dair Kanun Tasarısı ile 1580 Sayılı Belediye Kanununun 93. Maddesinin Değiştirilmesi ve 27.6.1984 Tarihli, 3030 Sayılı Kanunun 9 uncu Maddesine Bir Fıkra Eklenmesi Hakkında (1/848, 1/863)",
+  "first_sitting_date": "1987-06-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 43,
+      "sitting": 120,
+      "sitting_date": "1987-06-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c043/tbmm17043120.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c043/tbmm17043fih.pdf",
+      "pages": [
+        "161:165",
+        ""
+      ]
+    },
+    {
+      "cilt": 43,
+      "sitting": 121,
+      "sitting_date": "1987-06-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c043/tbmm17043121.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c043/tbmm17043fih.pdf",
+      "pages": [
+        "174:192"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=756&v_gelecek_sayfa=701&v_kullanici_id=27484344",
+  "source_sha256": "89f9c29297ee055d022a865f00f8cc5b6f1cb0e79086bdbec13475d75b12d176",
+  "in_force": "1987-06-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
