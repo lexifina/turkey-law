@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2002/620",
+  "list_number": "620",
+  "decision_date": "2002-09-20",
+  "title": "YSK ilke kararı 2002/620",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4208/2002-620-karar.htm",
+  "source_sha256": "9769ac3db316ddb646caea1929fa212f1ffa86e4c775e4c430b0a1d15a5738ef",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2002-09-20",
+  "law_text_complete": false
+}
