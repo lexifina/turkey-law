@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 11 -Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1992-12-30",
+      "30.12.1992",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 11 -Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21451",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1992-12-30",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dokuz Eylül Üniversitesi",
+  "issuer_slug": "dokuz-eylul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dokuz-eylul-universitesi/1992/7822",
+  "published": "1992-12-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7822&MevzuatTertip=5",
+  "source_bytes": 33763,
+  "source_id": "8.5.7822",
+  "source_sha256": "09de619c2bec75090992376ae6dd098abc792d4ae6a30b5acb62913c238563e9",
+  "text_status": "as-enacted",
+  "title": "HAVA KİRLENMESİ ARAŞTIRMALARI VE DENETİMİ  \r\nTÜRK MİLLİ KOMİTESİ YÖNETMELİĞİ",
+  "university_id": 189,
+  "word_count": 990
+}
