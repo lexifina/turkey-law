@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 114166,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Türkiye Cumhuriyeti ile Fransa Hükümeti arasında Türkiye-Suriye hududu üzerindeki demiryolların işletilmesi tarzına dair aktedilen mukavelenin tasdiki hakkında",
+  "title": "Türkiye Cumhuriyeti ile Fransa Hükümeti arasında Türkiye-Suriye hududu üzerindeki demiryolların işletilmesi tarzına dair aktedilen mukavelenin tasdiki hakkında",
+  "first_sitting_date": "1933-03-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 25,
+      "sitting_date": "1933-03-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013025.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c013/tbmm04013fih.pdf",
+      "pages": [
+        "3"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 26,
+      "sitting_date": "1934-03-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020026.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020fih.pdf",
+      "pages": [
+        "45"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 33,
+      "sitting_date": "1934-03-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c020/tbmm04020fih.pdf",
+      "pages": [
+        "173"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 34,
+      "sitting_date": "1934-04-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021034.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021fih.pdf",
+      "pages": [
+        "4"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 36,
+      "sitting_date": "1934-04-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c021/tbmm04021fih.pdf",
+      "pages": [
+        "21:22"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1296&v_gelecek_sayfa=601&v_kullanici_id=27483843",
+  "source_sha256": "2e270221d208923c05fa30b7c6d605ee03fcff354ae459a53d8a8a6c41819c66",
+  "in_force": "1933-03-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
