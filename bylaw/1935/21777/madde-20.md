@@ -1,0 +1,1 @@
+Madde 20 – İskan talebi vuku bulunca bu talebin vukuundan itibaren üç ay içinde iskan işinin bitirilmiş olması mecburidir. Bu iskana, imkan yoksa mümkün olmadığı on gün içinde talebi edene ve Vekalete bildirilecektir.

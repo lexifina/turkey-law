@@ -1,0 +1,2 @@
+Madde 44 – İmtiyazlı nakliye şirketleri aynı vesika ve defterlerle naklolunacak muhacirler ve mülteciler ve naklolunanlar ve eşya ve hayvanları hakkında asgari tarifelerini ve asgari tarifesi olmıyanlar asker nakliyatına mahsus tarifelerini tatbik etmeğe mecburdurlar.
+Aynı vesika ve defterlerle imtiyazlı tahmil ve tahliye şirketleri, muhacirleri ve mültecileri ve naklolunanları ve eşya ve hayvanlarını asgari tarifeleriyle tahmil ve tahliye ederler.

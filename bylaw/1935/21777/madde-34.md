@@ -1,0 +1,1 @@
+Madde 34 – Temiz olan memleketlerden gelen muhacir ve mültecilerin getirdiklerli hayvanların menşe, ve sağlık şehadetnamesi bulunmadığı takdirde bunlar hakkında 1234 numaralı Hayvan Sağlık Zabıtası Kanunun 6 ncı maddesi dairesinde muamele ifa olunur.

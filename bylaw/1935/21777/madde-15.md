@@ -1,0 +1,2 @@
+Madde 15 – Muhacirlerden ve mültecilerden alınacak imzalı tabiiyet beyannameleri, bir hafta içinde Dahiliye Vekaletine gönderilir. Vekalet bunların üzerine tabiiyete alınma muamelelerini takip ve ikmal ettirir ve ikmalinde muhacirleri bir emirname ile yerleştikleri yer nüfus kütüklerine yazdırır.
+Nüfus kütüklerine yazılan muhacirlerden muhacir kağıdı geri alınarak kendilerine pulsuz nüfus cüzdanı verilir.

@@ -1,0 +1,1 @@
+Madde 4 – Türk soyundan olmayıpta Türk kültürüne bağlı bulunanlar, Hükümetten yardım istememeyi taahhüt de etse ve vaktü halleri yerinde de olsa Dahiliye Vekaletinden muvafakat cevabı alınmadıkça ve yurt tutacağı yer gösterilmedikçe konsoloslukca kendilerine muhacir vesikası verilemez ve pasaportları vize edilemez.

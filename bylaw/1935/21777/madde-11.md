@@ -1,0 +1,1 @@
+Madde 11 – Muhacir kağıdı alan muhacirler, bir yıl içinde kendilerini nüfus kütüklerine yazdırmak için müracaata mecburdurlar. Bir yıl içinde kendini nüfusa yazdırmıyan muhacirlerden muhacir kağıtları geri alınır ve bunlar askerlik muafiyetinden istifade edemezler.

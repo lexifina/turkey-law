@@ -1,0 +1,1 @@
+Madde 19 – İskan talebi, tabiiyet beyannamesi verirken bu beyannameye yazmakla veya yerleşilen yerde vali veya kaymakama ağızla veya yazı ile müracaat edilerek muhacir defterine iskan talebini yazdırmakla yapılır. Bu müracaatı muhacir kağıdına veya hüviyet cüzdanına kaydedilir.

@@ -1,0 +1,1 @@
+Madde 14 – Muntazam pasaportla ve ecnebi sıfatiyle Türkiyeye gelmiş olupta Türkiye'de yerleşmek arzusunu gösteren Türk ırkından olan veya Türk kültürüne bağlı bulunan kimseler, 9 uncu maddede yazılı mani hallerden biri yoksa ve Dahiliye Vekaletince muvafık görülüyorsa tabiiyet beyannamesi imzalıyarak muhacir kağıdı alabilirler ve muhacir hak ve muafiyetlerinden istifade ederler.

@@ -1,0 +1,1 @@
+Madde 6 – Dahiliye Vekaletinden kabulleri hakkında muvafakat cevabı verilip iskan yerleri gösterilen muhacirlere ister tek, ister toplu olsunlar, konsoloslarca muhacir vesikası veya vizesi verilince hareketleri günü derhal Dahiliye Vekaletine ve muhacirlerin çıkacakları ilk iskele veya istasyonun bulunduğu mahal kaymakamlığına ve iskan yeri kaymakamlığına bildirilecektir.

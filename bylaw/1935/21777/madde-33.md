@@ -1,0 +1,1 @@
+Madde 33 – Gümrük daireleri İskan Kanunu hükümlerine göre muaf eşya geçiren muhacir ve mültecilere mahsus bir defter tutarlar. Kanuna aykırı mal geçirildiği kaymakam tarafından vukubulan işarları da bu deftere yazarlar ve bunu o mahallin malmüdürlüğü ile muhabere ederek gümrük resmi tamamen tahsil edilinceye kadar takip ederler.

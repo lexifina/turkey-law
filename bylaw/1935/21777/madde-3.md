@@ -1,0 +1,2 @@
+Madde 3 – Türkiye'de Hükümetten hiç bir iskan yardımı istememek şartiyle gelmek istiyen ve bu yolda yazılı senet veren ve vaktü hali de yardıma muhtaç olmadığını gösteren Türk ırkına mensup kimselere Dahiliye Vekaletinden muvafakat cevabı almadan da Türk konsolosları muhacir vesikası veya vizesi verebilirler.
+Bu suretle gelen muhacirler yalnız İskan Kanunu muafiyetlerinden istifade ederler. Hükümetten iskan yardımı istiyemezler.

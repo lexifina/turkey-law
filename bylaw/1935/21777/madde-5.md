@@ -1,0 +1,1 @@
+Madde 5 – Hükümetten tam iskan veya yalnız toprak ve ev yeri almak üzere iskan yardımı istiyen Türklere ve Türk kültürüne bağlı olanlara, Dahiliye Vekaletinin muvafakat cevabı olmadıkça ve iskan yerleri gösterilmedikçe muhacir vesikası ve vizesi ve eşya ve hayvan vesikası verilemez.

@@ -1,0 +1,1 @@
+Madde 17 – Hükümetten iskan veya iskan yardımı istiyen muhacirler, Hükümetin gösterdiği yere gitmeğe ve Hükümetin gösterdiği yerlerde oturmağa ve verdiği toprakları almağa mecburdur. Bu mecburiyeti yapmıyanlar iskan hakkından istifade edemezler.
