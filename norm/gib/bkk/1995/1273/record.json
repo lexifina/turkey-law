@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "95/7593",
+  "source_id": 1273,
+  "date": "1995-12-30",
+  "title": "GELİR VERGİSİ KANUNUNUN 13, 17, 21, 23, 31, EK 2, 53, 68, MÜKERRER 80, 86, 87, 103, MÜKERRER 111, 112 VE GEÇİCİ 35 İNCİ MADDELERİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/bkk/1273",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "be1714a20be3a52d5b7501bfc81e1b65a676762eac1fe07347651043833f0285",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
