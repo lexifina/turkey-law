@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4592",
+  "year": 2000,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Denizcilik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2000-10-30",
+  "gazette_issue": "24215",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2000/10/20001030.htm",
+  "source_sha256": "ba998f54225411af29a886e790b7eb7c954d57d0e7ae4029f1d15284b20f64a5",
+  "text_sha256": "fcac54180d33917e1f852318029d56f99b8543dc01093363e97bb744a8017929",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2000/10/30/24215-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2000/10/20001030.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
