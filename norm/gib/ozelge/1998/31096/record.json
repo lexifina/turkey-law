@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5216-8/26452",
+  "source_id": 31096,
+  "date": "1998-07-15",
+  "title": "Serbest Bölge İşleticisi'ne tahakkuk ettirilen elektrik bedelinin katma değer vergisinden müstesna tutulması mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31096",
+  "source_sha256": "51a3bc9086dc5da07e5be24c094d17efcdd045358c37f8d305a114073e23f491",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
