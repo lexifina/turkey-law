@@ -1,0 +1,63 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7065",
+  "year": 1958,
+  "title": "Hudut ve Sahiller Sıhhat Umum Müdürlüğünün 1954 Bütçe yılı Hesabı Katî Kanunu",
+  "adopted": "1958-01-22",
+  "adopted_as_published": "22/01/1958",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.01.1958 No: 9820",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007065.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 40",
+  "committee_reports": [
+    {
+      "label": "TBMM 25 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001028ss0025.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 11,
+      "kayit_no": 42188,
+      "title": "Hudut ve Sahiller Sıhhat Umum Müdürlüğünün 1954 Bütçe yılı Hesabı Katî Kanunu",
+      "adopted_as_published": "22/01/1958",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc040/kanuntbmmc040/kanuntbmmc04007065.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 25 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001028ss0025.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 10,
+          "sitting_date": "1957-12-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001010.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c001/tbmm11001fih.pdf",
+          "pages": [
+            "53",
+            "55",
+            "498",
+            "509:516"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "32cd446c14d82cbaa7fa5f87794d12d3c5d689251c1f5af93e447be97a7767d9"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "32cd446c14d82cbaa7fa5f87794d12d3c5d689251c1f5af93e447be97a7767d9",
+  "issuer": "TBMM",
+  "in_force": "1958-01-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 22/01/1958; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
