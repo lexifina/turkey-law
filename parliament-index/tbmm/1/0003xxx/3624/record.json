@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 3624,
+  "assembly": "TBMM",
+  "term": 1,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Düşman istilâsından kurtulan mahallerde ashabının firarına mebni sahipsiz kalan emvali menkule ve mezruat hakkında kanun lâyihası ve haneleri hedim ve tahribolunan vilâyatı müstahlasa ahalisine emvali metrukeden verilmiş olan haneler hakkında kanun lâyihaları ile Aydın Mebusu Doktor Mazhar Beyin, Tahtı işgalde bulunan memalikten hicret eden Müslümanların emvali metrukeden meccanen istifade ettirilmesi hakkında kanun teklifine dair (2/328)",
+  "title": "Düşman istilâsından kurtulan mahallerde ashabının firarına mebni sahipsiz kalan emvali menkule ve mezruat hakkında kanun lâyihası ve haneleri hedim ve tahribolunan vilâyatı müstahlasa ahalisine emvali metrukeden verilmiş olan haneler hakkında kanun lâyihaları ile Aydın Mebusu Doktor Mazhar Beyin, Tahtı işgalde bulunan memalikten hicret eden Müslümanların emvali metrukeden meccanen istifade ettirilmesi hakkında kanun teklifine dair (2/328)",
+  "first_sitting_date": "1922-04-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 19,
+      "sitting": 28,
+      "sitting_date": "1922-04-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c019/tbmm01019028.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c019/ehttbmm01019028.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c019/tbmm01019fih.pdf",
+      "pages": [
+        "215:227",
+        "303:321",
+        "335:336"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=1&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1993&v_gelecek_sayfa=1201&v_kullanici_id=27483712",
+  "source_sha256": "d569d4989b48b992bcae3d06146213ece2c733737914ecd930b203e2643a89c0",
+  "in_force": "1922-04-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
