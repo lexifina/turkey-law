@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-30879/30244",
+  "source_id": 21720,
+  "date": "2000-06-22",
+  "title": "Şirket ortağından inşaat halinde kiralanan bina için yapılan harcamalar yeni bir iktisadi kıymet edinimi için yapılan harcama niteliğinde olmadığından bu nevi harcamaların yatırım indirimine konu edilmesi mümkün bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21720",
+  "source_sha256": "ddecf486da6ae590b4b17d1622a0b47fba4caf92c9375318187e03e3513f777f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
