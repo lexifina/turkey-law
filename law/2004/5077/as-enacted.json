@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5077",
+  "year": 2004,
+  "title": "Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnameye Bir Geçici Madde Eklenmesine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-01-29",
+  "gazette_issue": "25361",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/01/20040129.htm",
+  "source_sha256": "85429814022ef0e0017bf219fc1beb2596ae67a4871b47127af1a1ec62f28c8f",
+  "text_sha256": "354961ed7481e7e903d0adefa78c5b2be6016df5d7cdc2ee6e8f3b328c634800",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/01/29/25361-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/01/20040129.htm#6",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
