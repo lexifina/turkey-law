@@ -1,0 +1,3 @@
+TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ MAKİNA MÜHENDİSLERİ ODASI ARAÇLARIN CNG YE DÖNÜŞÜMÜ İÇİN MÜHENDİS YETKİLENDİRME YÖNETMELİĞİ
+Amaç
+Madde 1 — Bu Yönetmelik ülke ve toplum yararları doğrultusunda, araçların CNG ye dönüşümünün standartlara uygun olarak projelendirilmeleri ve denetimlerinde görev alacak, ulusal ve uluslar arası bilimsel çalışmaları ve yeni gelişmeleri takip eden, mesleki etik kurallara uygun olarak çalışacak Makina Mühendisleri Odası üyesi makina ve uçak mühendislerine TMMOB Makina Mühendisleri Odası tarafından araçların CNG ye dönüşümü için mühendis yetki belgeleri verilmesi esaslarını ve koşullarını düzenlemektir.
