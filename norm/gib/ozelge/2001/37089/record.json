@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.66/6654-056/18716",
+  "source_id": 37089,
+  "date": "2001-04-06",
+  "title": "Mükellefin Türkiye sınırları içinde tek meskeni olması ve kanunla kurulan sosyal güvenlik kurumlarından aldığı emekli aylığı dışında geliri bulunmaması halinde, söz konusu mesken için indirimli(sıfır) bina vergisi oranının uygulanması gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37089",
+  "source_sha256": "66dbb57d3992febd48d5f9ec570ece0165edd840f2379a3fa8db182718a4e3ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
