@@ -1,0 +1,4 @@
+Yeterlik Sınavı
+Madde 3 — Yıldız Teknik Üniversitesine yeni kaydolan Zorunlu Yabancı Dil Hazırlık Öğretimine tabi tüm öğrenciler, öğretim yılı başında, üniversitece önceden ilan edilen tarihte Yabancı Diller Yüksek Okulu tarafından yapılan yeterlik sınavına zorunlu olarak katılırlar. Bu sınavda 100 üzerinden 60 ve üstünde not alan öğrenciler başarılı sayılarak doğrudan lisans öğrenimleri için kendi bölümlerine kaydolurlar.
+Yıldız Teknik Üniversitesi tarafından eşdeğerliği kabul edilen ulusal ve uluslararası sınavlarda, Üniversite Senatosunca belirlenen puanları almış olan öğrenciler de, başarılarını belgelemeleri durumunda, hazırlık öğretimi almaksızın doğrudan kendi bölümlerine kaydolurlar.
+Bu koşulları sağlayamayan öğrenciler Temel İngilizce Bölümünde Zorunlu Yabancı Dil Hazırlık Öğretimine alınırlar.
