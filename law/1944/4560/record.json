@@ -1,0 +1,61 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4560",
+  "year": 1944,
+  "title": "İnhisarlar Umum Müdürlüğü 1944 malî yılı Bütçe Kanunu",
+  "adopted": "1944-05-10",
+  "adopted_as_published": "10/05/1044",
+  "date_basis": "adopted-repaired",
+  "official_gazette_as_published": "17.05.1944 No: 5708",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604560.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 26",
+  "committee_reports": [
+    {
+      "label": "TBMM 108 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010054ss0108.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 7,
+      "kayit_no": 90187,
+      "title": "İnhisarlar Umum Müdürlüğü 1944 malî yılı Bütçe Kanunu",
+      "adopted_as_published": "10/05/1044",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604560.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 108 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010054ss0108.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 53,
+          "sitting_date": "1944-05-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010fih.pdf",
+          "pages": [
+            "30",
+            "50:64"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "b1ad9f3a45a5cac09ceea918304069a6162531464214062d627eefc3a9834fb0"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b1ad9f3a45a5cac09ceea918304069a6162531464214062d627eefc3a9834fb0",
+  "issuer": "TBMM",
+  "in_force": "1944-05-10",
+  "in_force_basis": "Kabul tarihi as printed in the official TBMM kanunlar index is 10/05/1044, whose year is a misprint: the only year in the assembly period (1943-1946, +-45 days) ending in 44 gives 1944-05-10; date of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
