@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5428-1910-2662",
+  "source_id": 33208,
+  "date": "2005-01-28",
+  "title": "Zararlı canlıların temizlenmesine yönelik olarak verilen hizmetler ile bu kapsamda alınıp kullanılan, aynı zamanda pazarlanan ilaç ve cihazların tesliminde %18 oranında katma değer vergisi uygulanması gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33208",
+  "source_sha256": "0be93c88dd6611a90a66883454f85bfaa5cc449f689365627039326aaa8303a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
