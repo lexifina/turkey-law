@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-09-25",
+  "issue": "25594",
+  "edition": "regular",
+  "item": 3,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Maliye Bakanlığı TASİŞ Genel Müdürlüğü Ankara İşletme Bölge Müdürlüğü Adana İşletme Şube Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/09/20040925-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (5 = 5)",
+  "ilan_codes": [
+    "11511/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/09/20040925-3.htm",
+  "category_page_sha256": "f805471ce9b43e9f6e2586d467964ddf4354f89123813ac492584b2e185bcf90",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/09/20040925.htm",
+  "index_sha256": "63647a00382fdee7eaac1c43fa0bc66b006d18f3a4ad86ad8c1a98c445e0a8b0",
+  "index_header": "25 Eylül 2004 ... Sayı : 25594",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
