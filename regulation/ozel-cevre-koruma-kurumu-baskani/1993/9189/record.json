@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.9189",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ARŞİV HİZMETLERİ HAKKINDA YÖNETMELİK",
+  "number": "9189",
+  "issuer": "Özel Çevre Koruma Kurumu Başkanı",
+  "issuer_slug": "ozel-cevre-koruma-kurumu-baskani",
+  "path": "regulation/ozel-cevre-koruma-kurumu-baskani/1993/9189",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9189&MevzuatTertip=5",
+  "source_sha256": "ddc9688c2794dfaa0413d510c54e2839be01d79ad411ccc7dc21900ca1425e09",
+  "source_bytes": 96274,
+  "published": "1993-07-07",
+  "gazette": "21630",
+  "in_force": "1993-07-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.07.1993); own commencement article: \"Bu yönetmelik yayımı tarihinden yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu yönetmelik yayımı tarihinden yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4202,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,4 @@
+Başbakanlık Devlet Arşivleri Genel Müdürlüğüne Devredilecek Malzemenin Ayrılması ve Teslimi
+Madde 27- Kurum Arşivinde saklanma süresini tamamlayan ve arşiv malzemesi vasfını kazanan arşivlik malzeme Başbakanlık Devlet Arşivleri Genel Müdürlüğünce devredilecek olanlar şeklinde ayrılır ve hazırlanacak devir listeleri (veya “Arşiv Malzemesi Devir-Teslim ve Envanter Formu” (Ek:5), varsa kayıt defterleri) ile devredilir.
+Arşiv malzemesinden hangilerinin Devlet Arşivleri Genel Müdürlüğünce teslim alınıp, hangilerinin geçici veya sürekli olarak Kurum elinde kalacağı, Kurumunun görüşü alındıktan sonra Devlet Arşivleri Genel Müdürlüğünce kararlaştırılır. Kurum arşivinde kalan arşiv malzemesi, bu Yönetmeliğin 5 inci maddesi hükümlerine tabidir.
+Bu yükümlülüklerin yerine getirilip getirilmediğini Devlet Arşivleri Genel Müdürlüğünce denetlenir.
