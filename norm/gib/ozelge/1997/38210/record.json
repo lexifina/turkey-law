@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6336-92/3858",
+  "source_id": 38210,
+  "date": "1997-02-03",
+  "title": "Kıymet yekünü üzerinden harcı ödenen ithalat taleplerine dayanarak yapılan fiili ithalat sırasında, ortaya çıkan kur farkı üzerinden ayrıca harç ödenip ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/38210",
+  "source_sha256": "359d51aae3120f78f8126b970233a53d8ed75a0598da9d24873e0e61f832308b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
