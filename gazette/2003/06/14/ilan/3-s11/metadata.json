@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-06-14",
+  "issue": "25138",
+  "edition": "regular",
+  "item": 11,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Sanayi ve Ticaret Bakanlığı KOSGEB Küçük ve Orta Ölçekli Sanayi Geliştirme ve Destekleme İdaresi Başkanlığı Gaziantep Küçük İşletmeler Geliştirme Merkez Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030614-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (20 = 20)",
+  "ilan_codes": [
+    "18781/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030614-3.htm",
+  "category_page_sha256": "a50a10bddcd31d2d86dcceab7685c02e362ae658ccf62b0440629bd4d4a450c2",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030614.htm",
+  "index_sha256": "f950eb1bd40f1743e516522e108a1a3a56334dffd619edd317f68a12aaa0060c",
+  "index_header": "14 Haziran 2003 ... Sayı : 25138",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
