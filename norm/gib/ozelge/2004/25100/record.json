@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2849-104-40/34887",
+  "source_id": 25100,
+  "date": "2004-07-22",
+  "title": "İlanen tebliğ yapılmasının şartları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25100",
+  "source_sha256": "ee688919dda93f8132dd41417c0a70c91ab6d9f6241b3d05fe10f9d8986925e2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
