@@ -1,0 +1,50 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6098",
+  "year": 1953,
+  "title": "Hudut ve Sahiller Sağlık Genel Müdürlüğünün 1949 Bütçe Yılı Hesabı Kati Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-09",
+  "gazette_issue": "8453",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8453.pdf",
+  "source_sha256": "7eb3452898ed2e621bdfde226310754ee43dab6344d821f13cbac66d152cd1b4",
+  "text_sha256": "d05f716416a15a6b6a7c507157cfa164eb9fc75dde1675262ff923f37b2b3554",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      297,
+      313
+    ],
+    [
+      551,
+      555
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506098.pdf",
+    "source_sha256": "c1e8fbe2f9378edfa550fd1247da1e71543efd761886313a439c6d67992b76dd",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9767,
+    "bag": 0.9129,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.2097,
+    "rg_words": 124,
+    "kd_words": 558,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
