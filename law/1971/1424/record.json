@@ -1,0 +1,175 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1424",
+  "year": 1971,
+  "title": "27.7.1967 tarih ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun bazı maddelerinin değiştirilmesi ve bu kanuna bazı maddeler eklenmesi hakkına Kanun",
+  "adopted": "1971-07-07",
+  "adopted_as_published": "07/07/1971",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.07.1971 No: 13895",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401424.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 54",
+  "committee_reports": [
+    {
+      "label": "MM 364 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014119ss0364.pdf"
+    },
+    {
+      "label": "CS 1611no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065084ss1611.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 381883,
+      "title": "27.7.1967 tarih ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun bazı maddelerinin değiştirilmesi ve bu kanuna bazı maddeler eklenmesi hakkına Kanun",
+      "adopted_as_published": "07/07/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401424.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 364 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014119ss0364.pdf"
+        },
+        {
+          "label": "CS 1611no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065084ss1611.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 13,
+          "sitting": 96,
+          "sitting_date": "1971-05-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013096.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c013/mm__03013fih.pdf",
+          "pages": [
+            "189"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 115,
+          "sitting_date": "1971-06-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014115.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014fih.pdf",
+          "pages": [
+            "358"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 119,
+          "sitting_date": "1971-06-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014119.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014fih.pdf",
+          "pages": [
+            "581:619"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 120,
+          "sitting_date": "1971-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014120.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014fih.pdf",
+          "pages": [
+            "632:661",
+            "668"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 121,
+          "sitting_date": "1971-06-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015121.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c015/mm__03015fih.pdf",
+          "pages": [
+            "5",
+            "42",
+            "52:55"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=701&v_kullanici_id=27483225",
+      "page_sha256": "b5cb39e132ebf96cf2125d32828c5507413fb68b2886bbae3c9e119b7dbba907"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 316950,
+      "title": "27.7.1967 tarih ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun bazı maddelerinin değiştirilmesi ve bu kanuna bâzı maddeler eklenmesi hakkında Kanun",
+      "adopted_as_published": "07/07/1971",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401424.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 364 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c014/mm__03014119ss0364.pdf"
+        },
+        {
+          "label": "CS 1611no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065084ss1611.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 65,
+          "sitting": 82,
+          "sitting_date": "1971-07-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065fih.pdf",
+          "pages": [
+            "608"
+          ]
+        },
+        {
+          "cilt": 65,
+          "sitting": 84,
+          "sitting_date": "1971-07-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065084.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065fih.pdf",
+          "pages": [
+            "739",
+            "757:781",
+            "798:799"
+          ]
+        },
+        {
+          "cilt": 65,
+          "sitting": 85,
+          "sitting_date": "1971-07-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065085.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t10/c065/cs__10065fih.pdf",
+          "pages": [
+            "803",
+            "814",
+            "821:822"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1401&v_kullanici_id=27483235",
+      "page_sha256": "2347afd48dbca4d148a2974c7621a56e15bf823e6e014e9ddf67d02756645108"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b5cb39e132ebf96cf2125d32828c5507413fb68b2886bbae3c9e119b7dbba907",
+  "issuer": "Millet Meclisi",
+  "in_force": "1971-07-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 07/07/1971; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
