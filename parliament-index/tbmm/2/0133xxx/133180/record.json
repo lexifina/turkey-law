@@ -1,0 +1,49 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 133180,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "OPERATÖR EMİN BEY (MEHMET EMİN ERKUL) (BURSA SABIK MEBUSU)",
+  "summary": "Büyük Millet Meclisi (İdare Heyeti) 1927 senesi Riyaseticumhur bütçesinde münakale icrasına dair.",
+  "title": "Büyük Millet Meclisi (İdare Heyeti) 1927 senesi Riyaseticumhur bütçesinde münakale icrasına dair.",
+  "first_sitting_date": "1927-06-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 33,
+      "sitting": 75,
+      "sitting_date": "1927-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/tbmm02033075.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/ehttbmm02033075.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/tbmm02033fih.pdf",
+      "pages": [
+        "5"
+      ]
+    },
+    {
+      "cilt": 33,
+      "sitting": 81,
+      "sitting_date": "1927-06-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/tbmm02033081.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/ehttbmm02033081.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/tbmm02033fih.pdf",
+      "pages": [
+        "582",
+        "635:637",
+        "669:671"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=592&v_gelecek_sayfa=501&v_kullanici_id=27483772",
+  "source_sha256": "7bd4adba6a66a2384f803774919fb1f87e0701def5236c0e6817a797d2ae34a7",
+  "in_force": "1927-06-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
