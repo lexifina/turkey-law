@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5428- 1971-13623",
+  "source_id": 33204,
+  "date": "2005-03-23",
+  "title": "Bazı gıda ürünlerinin KDV oranları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33204",
+  "source_sha256": "a9351b76852c707e0ab6109deb456da5912231238941a8cfa91df83ea0ea6afe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
