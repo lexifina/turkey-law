@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5930",
+  "year": 1952,
+  "title": "Posta, Telgraf ve Telefon İşletme Genel Müdürlüğü Teşkilât, Vazife ve Memurlarına Ait Kanunun 51. Maddesine Bir Fıkra İlâvesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1952-05-17",
+  "gazette_issue": "8112",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8112.pdf",
+  "source_sha256": "6fb7cfedf6be2c3a259589b1c5699d1249f3d469509294b77dbe2cd2a8eb1fcc",
+  "text_sha256": "ae93f98656f4d81f34beeacdb5232166d26c7e225ac96c363f5f83f8e8197a6b",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      27
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405930.pdf",
+    "source_sha256": "242b338cadcfa7fa40adc9f74544d24c8a6cc9f076a0091ce7a1b27114c1377d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9527,
+    "bag": 0.8571,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9623,
+    "rg_words": 101,
+    "kd_words": 106,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
