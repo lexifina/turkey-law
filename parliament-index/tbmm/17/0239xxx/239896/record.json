@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 239896,
+  "assembly": "TBMM",
+  "term": 17,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MAHMUD ALTUNAKAR (DİYARBAKIR)",
+  "summary": "8.6.1942 Tarih ve 4250 Sayılı İspirto ve İspirtolu İçkiler İnhisarı Kanununun 19 ve 31.Maddelerinin Değiştirilmesi Hakkında Kanun Teklifi ile Balıkesir Milletvekili İsmail Dayı ve Ankara Milletvekili Hazım Kutay'ın Biranın Alkollü İçkilerden Sayılması, Her Türlü Alkollü ve İspirtolu İçki Reklamlarının TRT Kurumunca Yasaklanması Hakkında (2/71, 2/88)",
+  "title": "8.6.1942 Tarih ve 4250 Sayılı İspirto ve İspirtolu İçkiler İnhisarı Kanununun 19 ve 31.Maddelerinin Değiştirilmesi Hakkında Kanun Teklifi ile Balıkesir Milletvekili İsmail Dayı ve Ankara Milletvekili Hazım Kutay'ın Biranın Alkollü İçkilerden Sayılması, Her Türlü Alkollü ve İspirtolu İçki Reklamlarının TRT Kurumunca Yasaklanması Hakkında (2/71, 2/88)",
+  "first_sitting_date": "1984-06-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 79,
+      "sitting_date": "1984-06-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d17/c004/tbmm17004fih.pdf",
+      "pages": [
+        "350:366",
+        "369:372"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=17&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "6310cd91be4dc11cad5e1f3c3f80d3f26cb7e2368723a70ab53034bec8360363",
+  "in_force": "1984-06-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
