@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-16 /2004-16",
+  "source_id": 968,
+  "date": "2004-05-27",
+  "title": "3093 sayılı TRT Gelirleri Kanununun 4. maddesinde sayılan cihazları imal ve ithal edenlerden fabrika çıkış fiyatı veya ithal maliyeti üzerinden bir defaya mahsus olarak alınan bandrol ücreti özel tüketim vergisi matrahına dahil edilerek özel tüketim vergi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/968",
+  "source_sha256": "af934e52adc46f17d3c75eade95229b7a279ae776dd5ddb064f9eb24f61ed40e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
