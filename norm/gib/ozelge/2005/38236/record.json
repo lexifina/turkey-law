@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6517-64/4377",
+  "source_id": 38236,
+  "date": "2005-01-31",
+  "title": "Ödeme kaydedici cihaz üretici veya ithalatçıları, Bakanlığımıza müracaat ederek gerekli izni...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38236",
+  "source_sha256": "e08c190d23cc11bf78cca913b54a08b9c6a27febac18e7089ea0ebd03e9445d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
