@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2004/11061",
+  "source_id": 36401,
+  "date": "1997-03-17",
+  "title": "Veraset ve İntikal Vergisi matrahının tespitinde,ticari varlığın (para, banka hesabı, alacak, demirbaş ve gayrimenkul v.s.) tümünün değerlemede dikkate alınacağından ayrıca kıst dönem karının ilave edilmesi gerekmemekte olup, ayrıca varislerden birinin mü",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36401",
+  "source_sha256": "710b9c91f24648374148f9a38a05b8c97c9f070df6f28acac22d2f4b84a1edf0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
