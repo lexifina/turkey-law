@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2258",
+  "year": 1933,
+  "title": "Katî ticaret muahedeleri akti için müzakereye başlanmış veya başlanacak Devletler ile ticarî itilâflar akti hakkındaki 1679 numaralı Kanunu muaddil 1997 numaralı kanuna müzeyyel kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-06-07",
+  "gazette_issue": "2421",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2421.pdf",
+  "source_sha256": "06b7b6836dae2a44675a53e7a82a37b469e6e844fc41d7b77d2960dca1257780",
+  "text_sha256": "1f6e8dc4b771c768709e2b5122c0430a1d4c0a1fadda6a6df9fe7c3de42146b5",
+  "text_status": "ocr",
+  "pages": [
+    6
+  ],
+  "line_span": [
+    [
+      908,
+      935
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202258.pdf",
+    "source_sha256": "153ce5756516ecc8712caae7fb06389cda0046096ef5deda3615607eb00c10a2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9633,
+    "bag": 0.9091,
+    "kd_coverage": 0.9703,
+    "kd_body_compared": 0.9703,
+    "rg_words": 100,
+    "kd_words": 101,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
