@@ -1,0 +1,14 @@
+ANAYASA MAHKEMESİ KARARI
+Esas Sayısı : 1962/207
+Karar Sayısı : 1962/63
+Karar Tarihi : 12/10/1962
+İSTEMDE BULUNAN : Necati Öztekin vekili Muammer Ermol, Kırmızıtoprak Mahallesi, Yüksel sokak, no:26, Eskişehir.
+İSTEMİN KONUSU : İstemde bulunan, müvekkilinin murisi evveli Sarızade Hacı Süleyman ve Hacı Ali Ağaların kadimden beri tasarruflarında olap Bahçecik Yayla ve Çiftliği namı ile maaruf yerin bu kerre Nato Hava Meydanı yapımı dolayısıyle İstimlâk edildiğini, diğer vârislerin bu yerleri kadastro tesbiti sırasında kendi namlarına tesbit ve tapuya tescil ettirerek istimlâk parası olan 951 bir bin lirayı aldıklarını, haklarını aramak için açmış oldukları davadan 959/741,742,743,744,746,747,750,751,769,770,772 ve 775 numaralı 12 adet dosyanın Temyiz Mahkemesince onanıp aynı yere ait ve aynı mahiyette bulunan 959/739,748 ve 767 sayılı dosyaların ise lehlerine bozulup iade edildiğini bu işlere bakan hakimlerin tarafsız hareket etmediklerini, kendi şahit ve bilirkişilerini dinlemeyip davalıların isteğini daima gözönünde bulundurduklarını, bu yüzden Hakim Salim Kalcıoğlu’nun Adalet Bakanlığına şikâyetle inzibati cezaya maruz bıraktıklarını, davalılarca dinletilen şahitlerin köyün kuruluşu tarihine ve miras bırakanların ölüm tarihlerine göre bu yerlerin eski vaziyetini bilmelerine imkân olmadığını, 1960 inkilâbına kadar parti ve Belediye başkanlığı yapan Abidin Potuoğlu ile ocak başkanı bulunan davalıların bu davalara müessir olduklarını ileri sürerek tesir altında verilen ve Yargıtayca tasdikle kesinleşmiş bulunan 12 adet dosyanın getirtilip tetkiki ile ayni şekilde olup bozulan diğer üç dava dosyası gibi muameleye tabi tutulmasını ve ekli vesikaların nazarı itibaren alınmasını istemiştir.
+Anayasa Mahkemesinin, İçtüzüğün 15 inci maddesi uyarınca 12.10.1962 gününde ilk inceleme için yapılan toplantısında; işin niteliği bakımından esasının tetkikine oybirliği ile karar verildikten sonra 2.10.1962 günlü dilekçe ve rapor okundu. Gereği görüşülüp düşünüldü:
+Anayasa Mahkemesinin kanunların denetimi ile ilgili görev ve yetkileri Anayasa’nın 147 nci ve Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri hakkındaki 22.4.1962 gün ve 44 sayılı Kanunun 20 nci maddelerinde gösterilmiştir. Dilekçe bu maddelerde belirtilen konulardan hiç birisini kapsamamaktadır. Bu bakımdan dilekçenin görev yönünden reddedilmesi sözü geçen 44 sayılı Kanunun 42 nci maddesi hükmü gereğidir.
+SONUÇ : Yukarıda gösterilen sebepten ötürü dilekçenin reddine, işbu kararın dilekçe sahibine tebliğine ve aynı kanunun 51 inci maddesi hükmü uyarınca Resmi Gazetede yayınlanmasına 12.10.1962 gününde oybirliği ile karar verildi.
+Başkan Vekili Tevfik GERÇEKER | Üye Osman YETEN | Üye Rifat GÖKSU
+Üye Lütfi AKADLI | Üye İbrahim SENİL | Üye İhsan KEÇECİOĞLU
+Üye Salim BAŞOL | Üye Celâlettin KURALMEN | Üye Yekta AYTAN
+Üye Hakkı KETENOĞLU | Üye Fazıl ULUOCAK | Üye Ahmet AKAR
+Üye Muhittin GÜRÜN | Üye Lütfi ÖMERBAŞ | Üye Ekrem TÜZEMEN
