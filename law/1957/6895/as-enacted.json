@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6895",
+  "year": 1957,
+  "title": "Hükümete teknik yardım teminine dair Türkiye Cumhuriyeti Hükümeti ile Birleşik Milletler Gıda ve Tarım Teşkilâtı arasında imzalanan (10 C)numaralı Ek Anlaşmanın tasdiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-02-07",
+  "gazette_issue": "9529",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9529.pdf",
+  "source_sha256": "6c40ebc1da11847b1279c23160b9539541a90cd8d81ec2eee8a436eeb0203c52",
+  "text_sha256": "50ff70da6342f64d42c7a7d596db54881a70f179bfd8f1382ec74c1968b85888",
+  "text_status": "ocr",
+  "pages": [
+    8,
+    9
+  ],
+  "line_span": [
+    [
+      1461,
+      1510
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906895.pdf",
+    "source_sha256": "d97ac7d63990484b634ded45a506ed3852eae55955cbad3fbdc6671b44933f8d",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9647,
+    "bag": 0.8858,
+    "kd_coverage": 0.976,
+    "kd_body_compared": 0.976,
+    "rg_words": 314,
+    "kd_words": 333,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
