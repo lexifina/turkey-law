@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 81664,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Başbakanlık Kuruluşu hakkında 4443 sayılı Kanuna bağlı cetvele 4952 sayılı Kanunla eklenen kadroların kaldırılmasına dair (1/426)",
+  "title": "Başbakanlık Kuruluşu hakkında 4443 sayılı Kanuna bağlı cetvele 4952 sayılı Kanunla eklenen kadroların kaldırılmasına dair (1/426)",
+  "first_sitting_date": "1948-11-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 8,
+      "sitting_date": "1948-11-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c013/tbmm08013008.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c013/tbmm08013fih.pdf",
+      "pages": [
+        "186",
+        "244",
+        "255:256"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 15,
+      "sitting_date": "1948-12-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c014/tbmm08014015.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c014/tbmm08014fih.pdf",
+      "pages": [
+        "45"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=941&v_gelecek_sayfa=401&v_kullanici_id=27484132",
+  "source_sha256": "a0a29bc37380e46840e2d68fe78c5f3eea9c79a5673644aa986633f76e03d60b",
+  "in_force": "1948-11-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
