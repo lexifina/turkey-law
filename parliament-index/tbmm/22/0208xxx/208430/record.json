@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 208430,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Karayolları Genel Müdürlüğünce Yapılacak Bölünmüş Yol İnşasında Uygulanacak Usul ve Esaslar Hakkında Kanun Tasarısına ilişkin",
+  "title": "Karayolları Genel Müdürlüğünce Yapılacak Bölünmüş Yol İnşasında Uygulanacak Usul ve Esaslar Hakkında Kanun Tasarısına ilişkin",
+  "first_sitting_date": "2003-11-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 31,
+      "sitting": 18,
+      "sitting_date": "2003-11-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c031/tbmm22031018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c031/tbmm22031fih.pdf",
+      "pages": [
+        "23:39"
+      ]
+    },
+    {
+      "cilt": 31,
+      "sitting": 20,
+      "sitting_date": "2003-11-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c031/tbmm22031020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c031/tbmm22031fih.pdf",
+      "pages": [
+        "276:299"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1248&v_gelecek_sayfa=201&v_kullanici_id=27484562",
+  "source_sha256": "02b3d1cae3b6134f199d27984934ecd8ec14a9579f5df82bbdd0a330e1f15f25",
+  "in_force": "2003-11-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
