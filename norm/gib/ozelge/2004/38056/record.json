@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5711-400-19305",
+  "source_id": 38056,
+  "date": "2004-05-03",
+  "title": "Katma değer vergisi iade alacağının hak sahibi mükellefin kendisinin, ortaklarının veya mal ya da hizmet satın aldığı kişilerin vergi borçlanna, ithalat sırasında uygulanan vergilere, Sosyal Sigortalar Kurumu (SSK) prim borçlanna mahsubu talepleri miktarı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38056",
+  "source_sha256": "60d5c4cdbbbf44dd0fd20a7962c03b9fe7e5efa6e631676abf50978fa97cce3a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
