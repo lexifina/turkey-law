@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 415855,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Türkiye Cumhuriyeti Hükümeti ile Rusya Federasyonu Hükümeti Arasında Rus Doğalgazının Karadeniz Altından Türkiye Cumhuriyetine Sevkiyatına ilişkin Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında (1/716)",
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Rusya Federasyonu Hükümeti Arasında Rus Doğalgazının Karadeniz Altından Türkiye Cumhuriyetine Sevkiyatına ilişkin Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında (1/716)",
+  "first_sitting_date": "1998-04-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 49,
+      "sitting": 74,
+      "sitting_date": "1998-04-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c049/tbmm20049074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c049/tbmm20049fih.pdf",
+      "pages": [
+        "357:370",
+        "444:449"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=683&v_gelecek_sayfa=601&v_kullanici_id=27484488",
+  "source_sha256": "c206805e4ca646da5198134a4a0a79a00b5aed61697935b376adfcccbce2563d",
+  "in_force": "1998-04-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
