@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4413",
+  "year": 1943,
+  "title": "Tapu ve Kadastro Umum Müdürlüğü teşkilât ve vazifelerine dair olan 2997 sayılı kanunun 5. maddesinin değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1943-05-24",
+  "gazette_issue": "5411",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5411.pdf",
+  "source_sha256": "8e666c5fe31e0163e2f49bb1fab18fbc24c86cfa814e64c8f2fbfbbc33405b1f",
+  "text_sha256": "9e174e5cb0b3a9eefc75847a0ab10f233997be44bb60e8d6356a08d43158209f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      38,
+      69
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504413.pdf",
+    "source_sha256": "451674eb1a63cb8935214f72fe7490353fe790234de4951b7b6099b80191cc45",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.955,
+    "bag": 0.9083,
+    "kd_coverage": 0.9912,
+    "kd_body_compared": 0.9827,
+    "rg_words": 209,
+    "kd_words": 231,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
