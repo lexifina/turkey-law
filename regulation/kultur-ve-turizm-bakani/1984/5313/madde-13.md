@@ -1,0 +1,1 @@
+Madde 13- Seçici Kurul, her yıl sergi dönemi içinde düzenli aralıklarla en az beş olağan toplantı yapar. Bu toplantılarda Bakanlıkça öngörülen resmi, nitelikli düzenlemeler hariç, sergi açma isteklerini inceleyip gerektiğinde eserlerin tümünü veya birkaçını görerek sergilerin açılıp açılamayacaklarını karara bağlar.

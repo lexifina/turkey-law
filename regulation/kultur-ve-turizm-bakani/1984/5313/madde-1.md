@@ -1,0 +1,3 @@
+DEVLET GÜZEL SANATLAR GALERİLERİ YÖNETMELİĞİ
+Amaç ve Kapsam
+Madde 1- Bu yönetmelik, plastik sanatlar konusunda öncelikle sergi, yan faaliyet olarak konferans açık oturum, film, dia gösterisi, atölye, kurs çalışmaları düzenleme yolu ile yaygın bir eğitim sağlayarak Tük halkının sanat zevk ve kültürünü geliştirmek, plastik sanatlara olan ilgisini artırmak, bu alanda çalışan usta ve amatör sanatçılarımıza imkan sağlamak amacı ile yurt düzeyinde Kültür ve Turizm Bakanlığınca açılmış ya da açılacak olan Devlet Güzel Sanatlar Galerilerinin çalışma esaslarıyla, galeriler personelinin görev yetki ve sorumluluklarını kapsar.

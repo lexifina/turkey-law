@@ -1,0 +1,1 @@
+Madde 21- Galerilerde sergilenen eserlerin normal gözetim ve korunması Galeri Müdürlüklerince yerine getirilir. Ancak, ilave tedbirlerin alınması ve eserlerin sigorta ettirilmesi, sergileyen kuruluş veya sanatçıya aittir. Meydana gelebilecek zararlardan Galeri Müdürlüğü sorumlu tutulamaz.
