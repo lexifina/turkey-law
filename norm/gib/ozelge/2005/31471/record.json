@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5314- 405-9373",
+  "source_id": 31471,
+  "date": "2005-03-01",
+  "title": "TIR karnesi kullanılarak yapılan taşımacılık faaliyetlerinde CMR belgelerinin TIR karnesi yerine tevsik edici belge olarak kabul edilmesi uygun değildir. CIM ve CIV belgelerinin Türkiyeden yurt dışına demiryolu ile yapılacak taşımalarda bu belgelerin taşı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31471",
+  "source_sha256": "0376875eba76dd3b5a98511413eadf23b01aeddbf2d22243c02b3389bdafcf6e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
