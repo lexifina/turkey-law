@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.59/5921-281 / 37914",
+  "source_id": 33875,
+  "date": "2004-03-13",
+  "title": "İthal edilen malın bütünleyici parçası için ÖTV alınmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33875",
+  "source_sha256": "12afc07b954a4516d8c4519df9f7b40efcbc3f702e7fff41618e4b85238154aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
