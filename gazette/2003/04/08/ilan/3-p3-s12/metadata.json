@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-04-08",
+  "issue": "25073",
+  "edition": "regular",
+  "item": 12,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "Erzurum Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030408-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (55 = 55)",
+  "ilan_codes": [
+    "8556/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030408-3-3.htm",
+  "category_page_sha256": "e0c376131bcca7288df81a31b2b84754f905f486fc42ea17ecedaebbc765724d",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/04/20030408.htm",
+  "index_sha256": "fd5fcf28763b22a5558678dbe7c547908120c30f94c51f89af11fc6de292d029",
+  "index_header": "8 Nisan 2003 ... Sayı : 25073",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
