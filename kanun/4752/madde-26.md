@@ -1,0 +1,4 @@
+Yurt içinde ve yurt dışında görevlendirme
+MADDE 26 - Öğretim elemanlarının yolluklu veya yolluk almaksızın yurt içinde kongre, konferans, seminer ve benzeri bilimsel toplantılar ile bilim ve meslekleriyle ilgili diğer toplantılara katılmaları, araştırma ve inceleme görevleri yapmaları, astsubay meslek yüksek okulu komutanının teklifine ve ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı veya yetki verecekleri makamın onayına tâbidir. Sağlık astsubay meslek yüksek okulu için onay makamı, Genelkurmay İkinci Başkanı veya yetki vereceği makamdır.
+Yurt dışında yapılacak benzer çalışmalara katılma ve görevlendirme ile ilgili onay yetkisi, Genelkurmay Başkanlığına aittir.
+Yurt içi ve yurt dışında görevlendirilecek öğretim üyelerine verilecek yolluklar, yol masrafları ve gündelikler genel hükümler çerçevesinde ödenir.

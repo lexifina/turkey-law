@@ -1,0 +1,3 @@
+Yüksek disiplin kurulu
+MADDE 13 - Yüksek disiplin kurulu, astsubay meslek yüksek okulu komutanının başkanlığında; öğretim başkanı, öğrenci alay veya tabur komutanı ve disiplin subayından oluşur.
+Yüksek disiplin kurulu; kurula sevk edilen öğrencilerin disiplini ile ilgili safahatını ve yapılan işlemlerin ilgili mevzuata uygunluğunu inceleyerek, okuldan ilişiklerinin kesilmesine veya kesilmemesine karar verir. Okulla ilişiğin kesilmesi hakkındaki karar; ilgili kuvvet komutanı, Jandarma Genel Komutanı veya Sahil Güvenlik Komutanı yahut yetki verecekleri makamların onayı ile yürürlüğe girer. Sağlık astsubay meslek yüksek okulu için onay makamı, Genelkurmay İkinci Başkanı veya yetki vereceği makamdır.

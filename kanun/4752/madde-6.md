@@ -1,0 +1,2 @@
+Görev
+MADDE 6 - Astsubay meslek yüksek okullarının görevleri; bu Kanunun 5 inci maddesinde belirtilen ilkelere ve kuvvet komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığının görev ve sorumluluklarına uygun olarak, ön lisans düzeyinde bilgi ve beceriye sahip, ilerideki safhalarda meslek gelişim programlarında belirtilen eğitimleri takip edebilecek nitelikte muvazzaf astsubay yetiştirmektir.

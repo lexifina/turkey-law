@@ -1,0 +1,2 @@
+Kamu kuruluşlarında görevlendirme
+MADDE 25 - İlgili kurumların isteği, astsubay meslek yüksek okulu komutanlığının olumlu görüşü üzerine ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığının izni ve Genelkurmay Başkanlığının onayı ile ihtiyaç duyulan konularda, öğretim elemanları, diğer yüksek öğretim kurumlarıyla kamu kurum ve kuruluşlarında geçici olarak görevlendirilebilirler. Bu konuda 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun 124 üncü maddesi hükümleri saklıdır.

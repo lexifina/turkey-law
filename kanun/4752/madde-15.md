@@ -1,0 +1,6 @@
+Yardımcı doçentliğe atanma
+MADDE 15 - Astsubay meslek yüksek okulları komutanlıklarınca tespit edilen açık yardımcı doçentlik kadroları, isteklileri tespit etmek amacıyla her yıl ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından ilân edilir. Yardımcı doçentliğe yükselme ve atanma işlemleri, 2547 sayılı Yüksek Öğretim Kanununa aykırı olmamak üzere, ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı; sağlık astsubay meslek yüksek okulu için Genelkurmay Başkanlığı tarafından yürütülür. Yardımcı doçentliğe önermede ve atamada askerî personele öncelik verilir. Yardımcı doçentler, ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı tarafından uygun görülmesi halinde, ilk üç yılı müteakip, birer yıllık sürelerle uzatılmak kaydıyla en fazla altı yıla kadar bu kadrolarda kalabilirler.
+Yardımcı doçentliğe atamada aranacak şartlar aşağıda belirtilmiştir:
+a) İlgili bilim dalında doktora yapmış olmak.
+b) Türk Silâhlı Kuvvetleri kadrolarında görevli personel için hakkında müspet nitelik belgesi doldurulmuş olmak.
+c) Merkezî sistemle yapılacak yabancı dil sınavında yüz üzerinden altmış veya daha yukarısında not almış olmak.

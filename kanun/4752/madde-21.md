@@ -1,0 +1,2 @@
+Okutmanlar
+MADDE 21 - Askerî okutmanlar tayinle veya geçici görevle, sivil okutmanlar ise süreli veya sürekli olarak atanacakları ilgili bölüm başkanlıklarının görüşü alınarak astsubay meslek yüksek okulu komutanının önerisi üzerine; Genelkurmay Başkanlığı, ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığının onayı ile atanırlar. Süreli olarak atanan sivil okutmanların atama süresi sonunda görevleri kendiliğinden sona erer. Bunların aynı yöntemle yeniden atanmaları mümkündür.
