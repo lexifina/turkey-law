@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 99865,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Türkiye-Sovyet Sosyalist Cumhuriyetleri İttihadı arasında hudut hâdise ve ihtilâflarının sureti tetkik ve halline mütaallik muahedeye bağlı 1 numaralı protokolde Çoruh vilâyetinin merkezi olarak gösterilen Rize'nin, adı geçen vilâyetin halen merkezi olan Artvin'le değiştirildiğine dair teati olunan notaların adı geçen mukavelenin cüzü mütemmimi olarak tasdikı hakkında kanun lâyihasına dair (1/110)",
+  "title": "Türkiye-Sovyet Sosyalist Cumhuriyetleri İttihadı arasında hudut hâdise ve ihtilâflarının sureti tetkik ve halline mütaallik muahedeye bağlı 1 numaralı protokolde Çoruh vilâyetinin merkezi olarak gösterilen Rize'nin, adı geçen vilâyetin halen merkezi olan Artvin'le değiştirildiğine dair teati olunan notaların adı geçen mukavelenin cüzü mütemmimi olarak tasdikı hakkında kanun lâyihasına dair (1/110)",
+  "first_sitting_date": "1939-06-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 29,
+      "sitting_date": "1939-06-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c003/tbmm06003029.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c003/tbmm06003fih.pdf",
+      "pages": [
+        "256",
+        "444:445"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 35,
+      "sitting_date": "1939-07-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c004/tbmm06004035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c004/tbmm06004fih.pdf",
+      "pages": [
+        "25:26",
+        "31",
+        "40:41",
+        "71:74"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1922&v_gelecek_sayfa=1701&v_kullanici_id=27484000",
+  "source_sha256": "366aabf2609ee7e7d485a3fba1738aa292b0dbb2d102fade0262dc9edaf383c8",
+  "in_force": "1939-06-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
