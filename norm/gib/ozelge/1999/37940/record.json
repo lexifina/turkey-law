@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2857-115-986/28361",
+  "source_id": 37940,
+  "date": "1999-07-07",
+  "title": "Terkini gereken vergi borcu afetin meydana geldiği tarihten sonra tahsil edilmesi durumunda 1 Seri No.lu Vergi Usul Kanunu Genel Tebliğinin 2 numaralı bölümünde yapılan açıklamalar dikkate alınarak terkini gereken miktarların mükellefe iade edilmesi gerek",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37940",
+  "source_sha256": "7a510f86f1a0ba094b8d366f499d389107d7a6fb237bb2f0cd14dd119ec9a457",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
