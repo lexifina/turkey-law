@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.66/6601-587/22798",
+  "source_id": 38363,
+  "date": "2001-05-25",
+  "title": "Üniversitelerin hizmetinde kullanılan binaların çevre temizlik vergisine tabi olup olmayacakları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/38363",
+  "source_sha256": "1c19dcfa46663284de58ba70f96bbff0659a32fd7b0239984c6bdfb280352ede",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
