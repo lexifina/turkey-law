@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6792",
+  "year": 1956,
+  "title": "İslahı Hayvanat hakkındaki 904 sayılı Kanunun 37. maddesinin değiştirilmesi ve bu kanuna muvakkat bir madde eklenmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-07-17",
+  "gazette_issue": "9360",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9360.pdf",
+  "source_sha256": "694cff601001c9f79f0e49c767a1741199a704471d2e0daed194710e315adae9",
+  "text_sha256": "72f72ee84c986dccf61a5c3a2a9517b7e1ef5fa05b0704412df393aabeb3e71b",
+  "text_status": "ocr",
+  "pages": [
+    8
+  ],
+  "line_span": [
+    [
+      2024,
+      2044
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc038/kanuntbmmc038/kanuntbmmc03806792.pdf",
+    "source_sha256": "969b344fd1f454d093af71b12b8ef9dd2cafd20535048fee53dbfa0c19043d41",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9434,
+    "bag": 0.85,
+    "kd_coverage": 0.9861,
+    "kd_body_compared": 0.9861,
+    "rg_words": 138,
+    "kd_words": 144,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
