@@ -1,0 +1,47 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2002/3",
+  "source_id": 415,
+  "date": "2002-09-23",
+  "title": "VERGİ USUL KANUNU İÇ GENELGESİ SIRA NO : 2002/3",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/icgenelge/415",
+  "source_sha256": "481b156d4325016ade40c0f39d788456bcdfa676d2859d1600e6264a9feea076",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22401",
+        "quote": "23/9/2002 tarihli ve 2002/3 Sıra No.lu Vergi Usul Kanunu İç Genelgesinde"
+      },
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22410",
+        "quote": "23.09.2002 tarih ve 2002/3 Sıra No.lu Vergi Usul Kanunu İç Genelgesinde"
+      },
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24434",
+        "quote": "23/9/2002 tarih ve 2002/3 Sıra No.lu Vergi Usul Kanunu İç Genelgesinde"
+      },
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25140",
+        "quote": "23.09.2002 tarih ve 2002/3 Sıra No.lu Vergi Usul Kanunu İç Genelgesinde"
+      },
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25241",
+        "quote": "23/9/2002 tarih ve 2002/3 Sıra No.lu Vergi Usul Kanunu İç Genelgesinde"
+      },
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37288",
+        "quote": "23.09.2002 tarih ve 2002/3 Sıra No.lu Vergi Usul Kanunu İç Genelgesinde"
+      }
+    ]
+  }
+}
