@@ -1,0 +1,19 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 9,
+  "term_label": "9. Dönem",
+  "legislative_year": 2,
+  "cilt": 6,
+  "sitting": 66,
+  "label": "66. Birleşim",
+  "sitting_date": "1951-04-18",
+  "date_as_published": "18 Nisan 1951",
+  "weekday": "Çarşamba",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c006/tbmm09006066.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c006/tbmm09006fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d09&v_yasama_yili=2&v_cilt=",
+  "source_sha256": "8c3c0f022c5d5100aae1dfc012953d65683f55b732a7547624a72de175e0b99b",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
