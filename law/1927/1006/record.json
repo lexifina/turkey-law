@@ -1,0 +1,51 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1006",
+  "year": 1927,
+  "title": "Nisabı Müzakere Kanununun Tadiline müteallik 23 Şubat 1340 tarihli Kanuna müzeyyel Kanun",
+  "adopted": "1927-04-13",
+  "adopted_as_published": "13/04/1927",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.04.1927 No: 587",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc005/kanuntbmmc005/kanuntbmmc00501006.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 5",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 126887,
+      "title": "Nisabı Müzakere Kanununun Tadiline müteallik 23 Şubat 1340 tarihli Kanuna müzeyyel Kanun",
+      "adopted_as_published": "13/04/1927",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc005/kanuntbmmc005/kanuntbmmc00501006.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 31,
+          "sitting": 52,
+          "sitting_date": "1927-04-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/tbmm02031052.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/ehttbmm02031052.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c031/tbmm02031fih.pdf",
+          "pages": [
+            "99",
+            "101:102"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=701&v_kullanici_id=27483145",
+      "page_sha256": "a68ac9c0e496a5b3eadd797b6890b51e53339514700bfb29c46e3fe1723b3c25"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a68ac9c0e496a5b3eadd797b6890b51e53339514700bfb29c46e3fe1723b3c25",
+  "issuer": "TBMM",
+  "in_force": "1927-04-13",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 13/04/1927; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
