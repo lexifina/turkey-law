@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-233 / 10231",
+  "source_id": 38339,
+  "date": "2004-04-13",
+  "title": "İhracat ofisi olarak kullanılacak iş yerlerinin kiralanması halinde, damga vergisi ve banka ve sigorta muameleleri vergisinden istisna  imkanı bulunmamaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38339",
+  "source_sha256": "a766948ed0e91ce301b37207a59e126aaa0edcfa003db5ba6c98c8ae9fcc16a0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
