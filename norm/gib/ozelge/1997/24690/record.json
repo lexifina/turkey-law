@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.50/5020/35484",
+  "source_id": 24690,
+  "date": "1997-08-21",
+  "title": "Vakfa bağlı birden fazla iktisadi işletmenin tek vergi numarası alıp almayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/24690",
+  "source_sha256": "b665b2821d59e883397450c31f7bf755f2659f20ec05b351da2c6957cb0dbca3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
