@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1840",
+  "year": 1931,
+  "title": "Türk Ceza Kanununun 160. maddesini değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1931-07-16",
+  "gazette_issue": "1850",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1850.pdf",
+  "source_sha256": "f86c908da16f4315bb4e5a6393dc05987975194eef5af6d813d2f6ebe13d5d59",
+  "text_sha256": "1e0c75a09af12c77f2e4e5918b14047e9eff05abf0163b5322266863d3694633",
+  "text_status": "ocr",
+  "pages": [
+    4
+  ],
+  "line_span": [
+    [
+      888,
+      938
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 10 (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc010/kanuntbmmc010/kanuntbmmc01001840.pdf",
+    "source_sha256": "278ca6d55124a20cfa6573089e697bff205c54cf72bd3c7f18abd9cbe4cbb9e5",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9589,
+    "bag": 0.9053,
+    "kd_coverage": 0.959,
+    "kd_body_compared": 0.944,
+    "rg_words": 125,
+    "kd_words": 125,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
