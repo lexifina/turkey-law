@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4991",
+  "year": 1946,
+  "title": "Sürekli görevle yabancı memleketlerde bulunan memurların aylıkları hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1946-12-31",
+  "gazette_issue": "6494",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/6494.pdf",
+  "source_sha256": "89611838d42f0353fffb9f31d42d9825370200170a7e7faee3ac94498db498e5",
+  "text_sha256": "c8e35f63a7a7a39733bd66b0bb4ec06fef8beeb40e048f0bfbd59495d63b009a",
+  "text_status": "ocr",
+  "pages": [
+    14,
+    15
+  ],
+  "line_span": [
+    [
+      4378,
+      4516
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc029/kanuntbmmc029/kanuntbmmc02904991.pdf",
+    "source_sha256": "2c4df3a2bfce02327f07d230ba2decdbce38ef944375f352e80a413e80a2a90c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.945,
+    "bag": 0.8623,
+    "kd_coverage": 0.9989,
+    "kd_body_compared": 0.9958,
+    "rg_words": 941,
+    "kd_words": 951,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
