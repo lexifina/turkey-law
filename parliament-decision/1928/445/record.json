@@ -1,0 +1,60 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "445",
+  "year": 1928,
+  "title": "Ecnebi devletler sefarethane ve konsoloshanelerinin vergi ve rüsumu belediye ile ferağ harcından muafiyetlerine mütedair olan 1 Mart 1332 tarihli kanunun tefsirine imkân olmadığı hakkında",
+  "adopted": "1928-11-22",
+  "adopted_as_published": "22/11/1928",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.12.1928 No: 1054",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/karartbmmc007/karartbmmc00700445.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 7",
+  "committee_reports": [
+    {
+      "label": "TBMM 7 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c005/tbmm03005006ss0007.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120718,
+      "title": "Ecnebi devletler sefarethane ve konsoloshanelerinin vergi ve rüsumu belediye ile ferağ harcından muafiyetlerine mütedair olan 1 Mart 1332 tarihli kanunun tefsirine imkân olmadığı hakkında",
+      "adopted_as_published": "22/11/1928",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/karartbmmc007/karartbmmc00700445.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 7 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c005/tbmm03005006ss0007.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 6,
+          "sitting_date": "1928-11-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c005/tbmm03005006.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c005/ehttbmm03005006.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c005/tbmm03005fih.pdf",
+          "pages": [
+            "56"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "f0cfd175e70f784fb190e13effce4a066afdf957e56add9f3c8108aabc346245"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "f0cfd175e70f784fb190e13effce4a066afdf957e56add9f3c8108aabc346245",
+  "issuer": "TBMM",
+  "in_force": "1928-11-22",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 22/11/1928; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
