@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 178213,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Bâzı iki taraflı Ticaret Anlaşmalarında veya bu Anlaşmalara ekli listelerde yer alan Ahdî tarifelerin yürürlükten kaldırılması hakkında (Millet Meclisi 1/174, Cumhuriyet Senatosu 1/476)",
+  "title": "Bâzı iki taraflı Ticaret Anlaşmalarında veya bu Anlaşmalara ekli listelerde yer alan Ahdî tarifelerin yürürlükten kaldırılması hakkında (Millet Meclisi 1/174, Cumhuriyet Senatosu 1/476)",
+  "first_sitting_date": "1965-01-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 23,
+      "sitting": 27,
+      "sitting_date": "1965-01-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c023/cs__04023027.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c023/cs__04023fih.pdf",
+      "pages": [
+        "284"
+      ]
+    },
+    {
+      "cilt": 25,
+      "sitting": 48,
+      "sitting_date": "1965-03-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c025/cs__04025048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c025/cs__04025fih.pdf",
+      "pages": [
+        "373"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 61,
+      "sitting_date": "1965-03-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+      "pages": [
+        "326"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 66,
+      "sitting_date": "1965-04-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+      "pages": [
+        "580"
+      ]
+    },
+    {
+      "cilt": 26,
+      "sitting": 67,
+      "sitting_date": "1965-04-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c026/cs__04026fih.pdf",
+      "pages": [
+        "637",
+        "644:665"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2010&v_gelecek_sayfa=501&v_kullanici_id=27484916",
+  "source_sha256": "73368e50ddf34fa0f93bf58d85a038ec61b95f50bb4de66fccf4ea8ca674a8c2",
+  "in_force": "1965-01-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
