@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/2220",
+  "list_number": "2220",
+  "decision_date": "1999-09-24",
+  "title": "YSK ilke kararı 1999/2220",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4484/1999-2220-karar.htm",
+  "source_sha256": "ba3f02a5b832d064230075182077bc024afaa6cfb9eadbbbffceb6d5c1d39d06",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-09-24",
+  "law_text_complete": false
+}
