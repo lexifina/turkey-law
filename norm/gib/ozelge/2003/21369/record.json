@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4007-134/46586",
+  "source_id": 21369,
+  "date": "2003-10-30",
+  "title": "Emeklilik ve sigorta şirketlerinin bireysel emeklilik sözleşmeleri ve birikimli şahıs sigortaları dolayısıyla yaptıkları ödemelerin tümü üzerinden (istisna edilen tutarlar hariç) gelir vergisi tevkifatı yapmaları gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21369",
+  "source_sha256": "7c457a3998d363cf5bb3c3e1dfab49861678c2cb015367c5af176d8435d8cd4f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
