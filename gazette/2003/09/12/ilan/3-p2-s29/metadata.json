@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-09-12",
+  "issue": "25227",
+  "edition": "regular",
+  "item": 29,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-2",
+  "title": "Kocaeli Üniversitesi Rektörlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030912-3-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (36 = 36)",
+  "ilan_codes": [
+    "33239/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030912-3-2.htm",
+  "category_page_sha256": "01663db5718732016028ce31ddca850c3a8e961c3d2d9ce5eb54ed969538a0b8",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/09/20030912.htm",
+  "index_sha256": "64a78f4206462e847c15d4784fb8bbe9cd6220448152ec574b00bf8fe922cee3",
+  "index_header": "12 Eylül 2003 ... Sayı : 25227",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
