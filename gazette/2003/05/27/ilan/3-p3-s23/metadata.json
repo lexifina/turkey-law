@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-27",
+  "issue": "25120",
+  "edition": "regular",
+  "item": 23,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "Bursa Ağız ve Diş Sağlığı Merkezi Baştabipliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030527-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (35 = 35)",
+  "ilan_codes": [
+    "15892/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030527-3-3.htm",
+  "category_page_sha256": "c71946ab7609f10ac33bb41291df27a6f046eddbbce5e5bfb10c9cd3ac12fa8f",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030527.htm",
+  "index_sha256": "006d8d05e7eb96ad98ecf10f1f60f280f14108098fa74aa99b8cbe55c1cc491e",
+  "index_header": "27 Mayıs 2003 ... Sayı : 25120",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
