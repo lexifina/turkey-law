@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.10151",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜKSEKÖĞRETİM KURUMLARI ÖĞRETİM ELEMANLARI İLE YABANCI UYRUKLU ELEMANLARI GELİŞTİRME EĞİTİMİ YÖNETMELİĞİ",
+  "number": "10151",
+  "issuer": "Yükseköğretim Kurulu Başkanı ve üniversite veya yüksek teknoloji enstitüsü rektörleri",
+  "issuer_slug": "yuksekogretim-kurulu-baskani-ve-universite-veya-yuksek-teknoloji-enstitusu-rektorleri",
+  "path": "regulation/yuksekogretim-kurulu-baskani-ve-universite-veya-yuksek-teknoloji-enstitusu-rektorleri/1992/10151",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10151&MevzuatTertip=5",
+  "source_sha256": "534ae88e92021ba13cd4fcd3fd931ae950045d69058e5085311b822caaa99422",
+  "source_bytes": 33961,
+  "published": "1992-12-15",
+  "gazette": "21436",
+  "in_force": "1992-12-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.12.1992); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1318,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
