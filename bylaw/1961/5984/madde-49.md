@@ -1,0 +1,2 @@
+Müracaat usulü ve inceleme:
+Madde 49 – Genel ev olmayan yerlerde böyle bir ev açmak için müracaat edildiği takdirde, o yerde fuhuşla melüf kadınlar olup olmadığı incelenir. Bu gibi kadınların bulunması halinde, bu Tüzükte yazılı kayıt ve şartlara uyulmak ve açılacak genel evde sanatlarını yapacak olanlar o yerin fuhuşla melüf olan kadınlardan ibaret bulunmak ve kendilerinin böyle bir evde sanatlarını yapmaları için rızaları alınmış olmak şartiyle, müracaat sahibinin isteği bu Tüzük hükümlerine göre muamele yapılmak suretiyle yerine getirilir.

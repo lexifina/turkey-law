@@ -1,0 +1,1 @@
+Madde 123 – Bu tüzüğün yürürlüğe girdiği tarihten önce mevcut olan genel evler, birleşme yerleri ve tek başına fuhuş yapan evler, durumlarını üç ay zarfında bu Tüzükte derpiş edilen esaslara uydurmak zorundadırlar.

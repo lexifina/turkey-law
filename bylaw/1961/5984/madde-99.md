@@ -1,0 +1,1 @@
+Madde 99 – 96 ncı maddede yazılı müesseseleri işletenlerin, çalıştırdıkları kadınları, müşterileri ile cinsi münasebette bulunmaya teşvik eylemleri veya bu hususu sağlıyacak tedbirlere başvurmaları yasaktır.

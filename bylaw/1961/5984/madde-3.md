@@ -1,0 +1,1 @@
+Madde 3 – Bir belediye sınırı içersinde birden fazla kazanın bulunması halinde, zührevi hastalıklarla mücadele komisyonunun her kazada kurulması mecburi olmayıp vilayet makamının uygun göreceği şekle göre bir veya birkaç komisyon teşkil olunabilir.

@@ -1,0 +1,4 @@
+Tescil:
+Madde 22 – Genel kadın olarak tescili gerekeceği komisyon tarafından 20 nci maddeye göre yapılan inceleme ile anlaşılan kadınların her biri için ekli örneğe göre (Sicil kartonu) tertip edilip numaralanır ve bu kartona kadınların bir fotoğrafı yapıştırılıp adları, soyadları, yaşları, doğdukları, ikamet ettiklerive fuhuş yapacakları yerler kaydolunur.
+Bu kartonlar, komisyonca uygun görülen bir yerde saklanır.
+Kadınların nüfus hüviyet cüzdanları da makbuz karşılığında alınarak kartonaeklenir. Bu suretle kaydedilen genel kadınların ellerine sicil kartonunun numarasını gösteren, ekli örneğine uygun bir (Hüviyet muayene cüzdanı) verilir. Bu cüzdanda, sahibinin kim olduğunu gösteren bilgilerden başka, sicil kartonundakinin aynı olan bir fotoğrafı ve yılın her ayına mahsus birer sahife üzerine haftada iki defa yapılacak muayenelerin kaydına mahsus haneleri gösteren bir kısım bulunur. Bu cüzdanlar her yıl değiştirilir.

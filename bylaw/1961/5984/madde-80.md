@@ -1,0 +1,1 @@
+Madde 80 – Fuhuş yerlerinin kapısında veya önünde reklam mahiyetini haiz renkli ışıkların yakılması yasaktır. Ancak kapı önünün aydınlatılması için küçük ve renksiz bir elektrik lambası veya diğer bir aydınlatma vasıtası kullanılmasına müsaade olunur.

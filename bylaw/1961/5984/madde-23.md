@@ -1,0 +1,2 @@
+Sağlık tedbirleri uygulanacak kadınlar:
+Madde 23 – Fuhşu sanat ve geçim vasıtası edindikleri 20 nci maddeye göre yapılan inceleme ile anlaşılan fuhuşla melüf 18 yaşını bitirmiş ve 21 yaşını bitirmemiş kadınların her biri için lüzumu halinde komisyonca ekli örneğe göre bir (Gizli sağlık kartonu) tertip edilip numaralanır. Bu kartona kadınların fotoğrafları yapıştırılıp adları, soyadları, yaşları, doğdukları ve ikamet ettikleri yerler kaydolunur.

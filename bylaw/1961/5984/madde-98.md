@@ -1,0 +1,1 @@
+Madde 98 – 96 ncı maddede yazılı yerlerde her ne nam altında olursa olsun çalışan kadın ve kızların isimleri ve ikametgahları polisçe bir deftere kayıt olunur. Ve birer fotoğrafı alınır. Bunların fuhuş yaptıkları soruşturma sonunda anlaşıldığı takdirde haklarında genel ve 23 üncü maddedeki kadınlara dair olan hükümler uygulanır.

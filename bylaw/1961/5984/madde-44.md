@@ -1,0 +1,3 @@
+Madde 44 – (Değişik : - 31.1.1973 - 7/5786 K.)
+Resmi tabip tarafından muayeneye tabi tutulan veya resmi veya özel tabip tedavisi altında bulunan bütün genel kadınlar, 23 üncü madde de yazılı kadınlar, belirtilen gün ve saatlerde kendiliklerinden muayeneye gelmeye mecburdurlar.
+Muayeneye ve tedaviye günlerinde gelmeyen veya 38 inci madde hükümlerinden faydalanarak özel tedaviye tabi olup da tedavilerini yaptırmadıkları bu tabip tarafından bildirilen kadınlar, zorla getirilerek resmi tabip muayene ve tedavisine konulurlar. Bu tutumları tekerrür eden kadınlar, mevcut genelevlerden birine bağlanırlar.

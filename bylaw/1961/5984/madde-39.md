@@ -1,0 +1,2 @@
+Madde 39 – Hususi surette tedavi isteyen kadınlar, arzu ettiği tabibin ismini bildirdikten sonra keyfiyet kadının hüviyet muayene cüzdanına (23 üncü maddede yazılı kadınlar için varsa sağlık cüzdanına) işaret edilir ve resmi yazı ile tabibe gönderilir. Hususi tabip buna yazı ile cevap vererek, gönderilen hastanın Tüzük hükümlerine göre tedavisini üzerine aldığını bildirir. Bu yazı kadının kartonunda saklanır.
+Tedaviyi üzerine alan tabibin 27 nci maddede yazılı ihtisas şartlarını haiz olması ve imzasının sağlık makamları tarafından onaylanmış bulunması mecburidir.

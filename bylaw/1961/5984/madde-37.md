@@ -1,0 +1,1 @@
+Madde 37 – 35 inci maddede yazılı frengili kadınlardan klinik belirtileri geçmiş olanların muntazam ve mütaakıp tedavilerinin yapılması için bunların hastaneye veya dispanserlerden birine devamı behemehal sağlanır.

@@ -1,0 +1,1 @@
+Madde 1 – Fuhuşu murakabe etmek, fuhuş sebebiyle bulaşan zührevi hastalıkların yayılmasına ve bu yüzden amme nizamının bozulmasına mani olmak üzere biri "Zührevi Hastalıklar ve Fuhuşla Mücadele Komisyonları" diğeri "Zührevi Hastalıklar ve Fuhuşla Mücadele Komisyonlarına Yardım Kurulları" olmak üzere iki teşekkül kurulmuştur.

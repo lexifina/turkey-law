@@ -1,0 +1,2 @@
+Teftiş:
+Madde 85 – Fuhuş yerleri, mahallin en büyük polis ve sağlık amirleri veya yardımcıları tarafından ayrı ayrı veya birlikte veyahut bunların görevlendirecekleri, bu Tüzüğün 7 ve 8 inci maddelerinde yazılı, sağlık ve icra kısmı memurları tarafından birlikte teftiş olunurlar. Ancak, bu işle görevlendirilen sağlık ve icra kısmı memurlarının teftiş edecekleri yeri ve zamanını amirlerine bildirmeleri ve teftişe yetkili olduklarına dair bir belgeyi yanlarında bulundurmaları ve teftiş neticesini 86 ncı maddede gösterilen deftere kaydetmeleri ve imzalamaları lazımdır.

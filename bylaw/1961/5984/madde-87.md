@@ -1,0 +1,1 @@
+Madde 87 – Fuhuş yerleri 85 inci madde hükümlerine uyulmak şartiyle her zaman teftiş edilebilir. Burada bulunan genel kadınların hüviyet muayene cüzdanları incelenir. Cüzdanları olmıyanlar hakkında 20 nci madde gereğince işlem yapılır.

@@ -1,0 +1,2 @@
+İcra kısmı dışında kalan memurlar:
+Madde 89 – Mahallin zabıta memurları, 8 inci maddede yazılı kısım memurlarının bu Tüzük ile tayin edilen görev ve yetkilerine giren işlerle meşgul olamazlar, fuhuş yerlerine giremezler. Suç işlenmesi, istimdatta bulunulması, huzur ve sükünu bozan hadiselerin çıkması, en büyük polis amirinin lüzum hasıl oldukça sırf icra kısmı memurlarına yardım maksadiyle bazı memurlar görevlendirilmesi gibi haller bundan müstesnadır.

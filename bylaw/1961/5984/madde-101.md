@@ -1,0 +1,1 @@
+Madde 101 – 74 üncü madde hükmüne aykırı hareket edenlerin evleri üç gün, tekerrüründe 15 gün kapatılır. Bu yerlerde başka kadınların fuhuş yaptıkları tesbit edildiği takdirde ev üç ayı geçmemek üzere kapatılır, tek başına fuhuş yapan kadın hakkında da 20 nci maddeye göre işlem yapılır.

@@ -1,0 +1,2 @@
+İzinsiz fuhuş yapılan evler:
+Madde 95 – İzin alınmadan içinde gizli fuhuş yapıldığı iddia veya ihbar edilen veyahut her ne şekilde olursa olsun muttali olunan evler hakkında ahlak zabıtası memurları tarafından önce gizli inceleme yapılır. Bu gibi evlerde gizli fuhuş yapıldığı delilleriyle tesbit edildiği takdirde, düzenlenecek tutanaklar gizli inceleme raporları ile birlikte en büyük polis amiri tarafından komisyona sunulur. Bu yerler hakkında komisyonca 104 üncü maddeye göre işlem yapılır.

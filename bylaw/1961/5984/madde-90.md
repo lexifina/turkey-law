@@ -1,0 +1,2 @@
+Taşınma, işletmenin başkasına geçmesi:
+Madde 90 – Fuhuş yerlerinin başka yere taşınması ve başkası tarafından işletilmesi ancak müsaade ile olur. İlgililer bu husus için mahallin en büyük mülkiye amirine müracaat ederler. Taşınma için verilen dilekçelere 51 inci maddenin (a) ve (e) bentlerindeki beyanname ile taahhütname eklenir. Taşınılan yerle, işletilmesini alan şahıs Tüzükte yazılı şartları haiz olmalıdır.
