@@ -1,0 +1,1 @@
+Madde 17 – İhraç edilecek buğdaylar için, kontrol vesikası ibraz edilmedikçe, menşe şahadetnamesi verilemez. Menşe şahadetnamelerine, kontrol vesikasında yazılı sınıf ve derece kayıtları derc ve bulunduğu takdirde, diğer meşruhat da ilave olunur.

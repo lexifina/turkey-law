@@ -1,0 +1,2 @@
+Madde 10 – Sert, yumuşak ve mikset buğdayların üç numaralı derecelerinde bulunabilecek azami çavdar yüzdesinin biri ve yemlik buğdaylarda beşi arpa olabilir.
+Mukavelenamesinde o yolda sarahat bulunmak şartiyle sert, yumuşak ve mikset buğdayların üç numaralı derecelerinde "Delice" ve yemlik buğday sınıfına "Çavdar" ve "Delice" 9 uncu maddede yazılı nispetlerden fazla bulunabilir. Bu takdirde kontrol vesikasına bu yolda meşruhat verilir. Şu kadar ki delice nispeti hiç bir veçhiyle yüzde yediyi aşamaz.

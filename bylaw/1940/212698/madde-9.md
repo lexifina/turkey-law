@@ -1,0 +1,3 @@
+Madde 9 – Buğdaylar sert, yumuşak, mikset (Karışık) ve yemlik buğday namlariyle dört sınıfa ve sert, yumuşak ve mikset buğdaylar da "No: 1", "No: 2" ve "No: 3" namiyle üçer dereceye ayrılarak ihraç edilir.
+Maktaları zücaci olan buğdaylar sert, unlu ve beyaz olanlar ise yumuşaktır.
+Her sınıf ve derece buğdayın haiz olması lazım gelen asgari vasıflar ilişik tabloda gösterilmiştir. Bu tabloda yazılı yabancı maddeler arasında bulunan pelemir, delice gibi zararlı tohumlarla içi sürmeli gibi hastalıklı tanelerin her derece için, mecmuu cetvelde yazılı en yüksek miktarı geçmemek üzere nispetleri mahsul vaziyeti göz önüne alınarak her mahsul yılında bir defadan fazla olmamak üzere Ticaret Vekaletince tesbit ve tatbika başlanmadan on beş gün evvel ilan olunur.

@@ -1,0 +1,1 @@
+Madde 6 – İhracata mahsus buğdayların temizlendiği ve muhafaza edildiği fabrika, depo, ambar ve siloların haiz olması lazım gelen sıhhi ve teknik şartlar, İktisat, Ziraat ve İçtimai Muavenet ve Ticaret Vekaletlerince müştereken yapılacak bir Talimatname ile tayin olunur.

@@ -1,0 +1,1 @@
+Madde 29 – Memleket içinde ve dışında harb hali, seferberlik ve seferberliğe hazırlık veya tabii afetler gibi mücbir sebepler altında bu Nizamnamede yazılı tolerans miktarları Ticaret Vekaletince iki misline kadar artırılabilir.
