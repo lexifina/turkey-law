@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6054",
+  "year": 1953,
+  "title": "1952 Yılı Bütçe Kanununun 3. Maddesinin (b) Fıkrasının Kaldırılarak Yerine Bir Fıkra Konulması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-02-24",
+  "gazette_issue": "8343",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8343.pdf",
+  "source_sha256": "cd20353727a7e5185153bb19acf8f9f7f87511b29a83490f425dbc6d5e059c35",
+  "text_sha256": "dd747c451e1b8400bf5af8c7ea7c646826a1cf6662c1dcb4765b310003c603a0",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      11,
+      27
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506054.pdf",
+    "source_sha256": "10b74870ce388e3a6633c1f1a666f06eabc60bb74c6db729cbb0b1a657910257",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9754,
+    "bag": 0.9053,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 1.0,
+    "rg_words": 96,
+    "kd_words": 94,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
