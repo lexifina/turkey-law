@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-03-14",
+  "issue": "25755",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelik",
+  "title": "Tehlikeli Atıkların Kontrolü Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050314-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/03/20050314.htm",
+  "index_sha256": "1a2150bfd57947eb941d49e16ed191ed19b87e66d1a729714710ffc0d4c1d79a",
+  "index_header": "14 Mart 2005 ... Sayı : 25755",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
