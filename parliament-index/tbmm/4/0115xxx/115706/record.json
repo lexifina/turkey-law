@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 115706,
+  "assembly": "TBMM",
+  "term": 4,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "İlk ve orta tedrisat muallimlerinin terfi ve teziyeleri hakkındaki Kanunun bazı maddelerinin tadiline dair 1/84 numaralı kanun lâyihası hakkında",
+  "title": "İlk ve orta tedrisat muallimlerinin terfi ve teziyeleri hakkındaki Kanunun bazı maddelerinin tadiline dair 1/84 numaralı kanun lâyihası hakkında",
+  "first_sitting_date": "1931-07-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 34,
+      "sitting_date": "1931-07-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003034.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003fih.pdf",
+      "pages": [
+        "304"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 35,
+      "sitting_date": "1931-07-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c003/tbmm04003fih.pdf",
+      "pages": [
+        "355"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1926&v_gelecek_sayfa=1901&v_kullanici_id=27483870",
+  "source_sha256": "71860cfead5353a0f634cbe235e1c4ad754b5d2602b213e4b3a7eea9642e323a",
+  "in_force": "1931-07-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
