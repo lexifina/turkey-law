@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4213-1923/8406",
+  "source_id": 22667,
+  "date": "2005-02-22",
+  "title": "Kesilmesi gereken verginin ödemeyi yapan tarafından üstlenilmesi halinde bu vergi, bilfiil ödenen miktar ile ödemeyi yapanın yüklendiği  verginin toplamı üzerinden hesaplanması gerektiğinden, ödenen söz konusu sağlık sigortası prim tutarları brüt tutar üz",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22667",
+  "source_sha256": "9825a86341dbe43b67c5e161ea7e3aebd2d929fc9517305fda546e848b942353",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
