@@ -1,0 +1,2 @@
+Genel Sınavlar
+Madde 14- Ders yılı sonunda öğrenci esas meslek derslerinin herbirinden Müdürlükçe belirlenen tarihlerde genel sınava alınır. Öğrencinin bu sınavlara girebilmesi için; devam şartını yerine getirmiş olmak kaydıyla, birinci ve ikinci yarıyıl notlarının aritmetik ortalamasının en az 70 olması veya birinci yarıyıl notu ne olursa olsun, ikinci yarıyıl notunun en az 70 olması gerekir. Bu şartları yerine getirmeyen öğrenciler o ders yılı için genel sınav haklarını kaybeder ve derslerden başarısız sayılır.

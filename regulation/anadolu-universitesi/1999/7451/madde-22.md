@@ -1,0 +1,1 @@
+Madde 22- İlköğretim okuluna bir Müdür Başyardımcısı ve bir Müdür Yardımcısı 21 inci maddedeki usule göre atanır. Müdür Başyardımcısı ve Müdür Yardımcısı, İlköğretim Okulu Müdürü olmadığı zamanlarda aynı sıra ile Müdüre vekalet eder ve okulun tüm hizmetlerinin yürütülmesinde Müdüre karşı sorumludur.

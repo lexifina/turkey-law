@@ -1,0 +1,1 @@
+Geçici Madde 1- Bu yönetmeliğin yürürlüğe girdiği eğitim-öğretim yılında, Konservatuvarın orta devre 2 nci ve 3 üncü sınıflarında bulunan öğrenciler hakkında, orta devreyi bitirene kadar, Anadolu Üniversitesi Devlet Konservatuvarı Hazırlık-Orta ve Lise Devresi Öğretim Sınav Yönetmeliğinin ilgili hükümleri uygulanır.

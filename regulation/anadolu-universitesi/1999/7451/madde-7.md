@@ -1,0 +1,1 @@
+Madde 7- Birinci sınıfa ve ileri sınıflara öğrenci olarak kabul edilebilmek için, öngörülen kayıt ve kabul şartlarını taşıyan adaylar, önce baraj sınavına girmek zorundadır. Baraj sınavında aday, kayıt formundaki isteği de gözönüne alınarak, yetenek, refleks ve fiziki uygunluğuna göre o bölüme bağlı en çok iki anasanat dalı için puanlandırılır.
