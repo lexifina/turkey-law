@@ -1,0 +1,87 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 127612,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "1316,1317 tevellütlü olup da emsalinin silâh altına celbinden evvel TBMM Hükümetince tanınmış şimendifer idarelerine, hamallar ve gayrimüstahsıl ameleler dâhil olmamak üzere, intisabeylemiş olanlara şimendifer kıtaatında bilmünavebe üçer ay talim ve terbiye görmek şartiyle vazifei hazıralarında terklerine dair.",
+  "title": "1316,1317 tevellütlü olup da emsalinin silâh altına celbinden evvel TBMM Hükümetince tanınmış şimendifer idarelerine, hamallar ve gayrimüstahsıl ameleler dâhil olmamak üzere, intisabeylemiş olanlara şimendifer kıtaatında bilmünavebe üçer ay talim ve terbiye görmek şartiyle vazifei hazıralarında terklerine dair.",
+  "first_sitting_date": "1923-10-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 39,
+      "sitting_date": "1923-10-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/tbmm02002039.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/ehttbmm02002039.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/tbmm02002fih.pdf",
+      "pages": [
+        "804"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 56,
+      "sitting_date": "1923-11-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c003/tbmm02003056.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c003/ehttbmm02003056.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c003/tbmm02003fih.pdf",
+      "pages": [
+        "492"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 67,
+      "sitting_date": "1923-12-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c004/tbmm02004067.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c004/ehttbmm02004067.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c004/tbmm02004fih.pdf",
+      "pages": [
+        "206:208",
+        "313",
+        "540"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 84,
+      "sitting_date": "1924-01-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005084.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005084.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+      "pages": [
+        "132",
+        "413:423",
+        "447",
+        "526:527",
+        "553",
+        "566:567",
+        "645"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 103,
+      "sitting_date": "1924-02-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/tbmm02006103.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/ehttbmm02006103.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/tbmm02006fih.pdf",
+      "pages": [
+        "34:41"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1463f02da847a6020c63471e4f5370991adaf27e0716644e5d7374c3540c8bae",
+  "in_force": "1923-10-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
