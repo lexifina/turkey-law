@@ -1,0 +1,1 @@
+Madde 5 – İdare Kurulu, tam sayı ile toplanır. Ekseriyetle karar verir. Reylerde eşitlik halinde Başkanın bulunduğu taraf ekseriyet kazanmış sayılır. Kurulun kararları muntazaman tesbit ve imza olunur.

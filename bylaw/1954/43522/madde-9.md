@@ -1,0 +1,1 @@
+Madde 9 – Sandık hekimleri, hasta memur ve hizmetlilerle aileleri efradının daire, işyeri veya evlerinde muayene ve tedavilerini yapmak, lüzumuna göre tıbbi mütalaalarını bildirmek, salgın hastalıklar vukuunda bütün memur ve hizmetlilerle aileleri efradına aşı tatbik etmek ve muayyen zamanlarda bunların sıhhi durumlarını kontrol etmekle vazifelidirler.
