@@ -1,0 +1,1 @@
+Madde 48 – Alacaklıların birinci, ikinci ve diğer toplanmalarında hazır bulunanların kimlerden ibaret olduğu ve ifadelerinin hulasası ve neticede verilen kararlar ayrı bir zabıtname halinde zaptolunur.

@@ -1,0 +1,1 @@
+Madde 35 – Tetkik mercii tarafından cezaya mütaallik olarak verilen hükümlere karşı İcra ve İflas Kanununun 333 üncü maddesine göre temyiz vukuunda mezkür hükme taallük eden dosya müfredat pusulasiyle birlikte hemen Temyiz Mahkemesine gönderilir.

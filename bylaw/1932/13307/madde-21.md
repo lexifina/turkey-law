@@ -1,0 +1,1 @@
+Madde 21 – İlamların ve ilam mahiyetindeki vesikaların icrasına müteallik muameleler bir icra zabıtnamesine tarih sırasiyle muntazaman dercolunur. Bu zabıtnamenin ilk sahifesine ilamın veya vesikanın tarih ve numarası, hangi mahkemeden veya makamdan verildiği, alacaklı ve borçlunun isim, şöhret ve ikametgahları ve hükmün yahut vesikanın hulasası yazılmak lazımdır.

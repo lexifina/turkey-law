@@ -1,0 +1,1 @@
+Madde 2 – İcra ve iflas dairelerinin katip, mübaşir, tahsildar ve müsahdemleri ait oldukları daire memurunun inhası ve mahalli Adliye Encümenlerinin kararı üzerine valiler tarafından tayin olunurlar. Bunların icabında tahvilleri dahiaynı usule tabidir.

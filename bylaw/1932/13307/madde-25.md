@@ -1,0 +1,2 @@
+Madde 25 – İcra ve İflas Kanununun 16 ncı maddesi mucibince tetkik merciine şikayet vukuunda tetkik mercii işin dosyasını celp ve tetkik edip kanun dairesinde bir karar ile icra dairesine iade eder. Tetkik mercii tarafından takibin geri bırakılması emrolunmadıkça tetkikat takibin devamına mani olmıyacak surette yapılmak lazımdır.
+İcra dairesi merciin kararı dairesinde lazımgelen muameleleri yapar.

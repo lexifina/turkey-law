@@ -1,0 +1,3 @@
+Madde 15 – Hesabı cari defteri borçlu ile alacaklıların hesaplarını müfredatı ile gösterir ve ihtiyaca göre eşhas ve Banka hesabı cari defterleri ayrı ayrı tutulur.
+Bu defterde hesabı cari numarası, borçlunun isim, şöhret ve ikametgahı sütunları ve alacakların her birinin isim, şöhret ve ikametgahları için bunların sayısına nazaran beş hane vardır. Her birinde alacaklılar hesabına vakı teyidat gösterilir. Tahsilat kısmında üç ve tediyat kısımlarında müteaddit alacaklılar namına tediyat için beşer sütun vardır.
+Tediyat tarihi, kasa defteri ve dosya numaraları bunlara mahsus sütunlara yazılır ve tediye eden memur tarafından imza ve tasdik olunur.

@@ -1,0 +1,1 @@
+Madde 56 – İflas idaresini teşkil eden zevatın tasfiye muamelelerini ifada, terahi ve ihmalleri görüldüğü takdirde iflas dairesi bunların tebdilleri hakkında bir karar vermek üzere alacaklıları fevkalade bir toplanmaya davet eder. Bu toplanma müzakere nisabı hasıl olmaması yüzünden mümkün olmazsa tasfiyeye iflas dairesince devam olunur.
