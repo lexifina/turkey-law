@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 322559,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Uydular aracılığı ile Telekomünikasyon Uluslararası örgütüne (INTEL-SAT) ilişkin anlaşma, işletme anlaşması ve nihaî senedinin onaylanmasının uygun bulunduğuna dair kanun tasarısı (Millet Meclisi: 1/758; Cumhuriyet Senatosu: 1/169) (S. Sayısı: 240)",
+  "title": "Uydular aracılığı ile Telekomünikasyon Uluslararası örgütüne (INTEL-SAT) ilişkin anlaşma, işletme anlaşması ve nihaî senedinin onaylanmasının uygun bulunduğuna dair kanun tasarısı (Millet Meclisi: 1/758; Cumhuriyet Senatosu: 1/169) (S. Sayısı: 240)",
+  "first_sitting_date": "1973-03-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 45,
+      "sitting_date": "1973-03-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t12/c010/cs__12010fih.pdf",
+      "pages": [
+        "336",
+        "672",
+        "698:699",
+        "713:714",
+        "721:722",
+        "766:767"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2010&v_gelecek_sayfa=1801&v_kullanici_id=27484916",
+  "source_sha256": "45cce855648390c8f39105c5454115bb7b1b207a178fcc4cb09e1ec9cd3eef37",
+  "in_force": "1973-03-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
