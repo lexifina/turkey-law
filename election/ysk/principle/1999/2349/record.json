@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1999/2349",
+  "list_number": "2349",
+  "decision_date": "1999-11-06",
+  "title": "YSK ilke kararı 1999/2349",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4435/1999-2349-karar.htm",
+  "source_sha256": "361fa0d7489c54a3bf34aa79110f955dfbf445637180503891900d488e6919f6",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1999-11-06",
+  "law_text_complete": false
+}
