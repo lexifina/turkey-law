@@ -1,0 +1,2 @@
+Kurumlarda yürütülecek eğitim faaliyetleri
+Madde 6 – Yaşları ve medeni halleri ne olursa olsun 150'den fazla kadın işçi çalıştırıldığı takdirde, işverenin açacağı okul öncesi eğitim kurumlarında yaşları 0-36 ay arasındaki çocukların eğitim hizmetleri, Milli Eğitim Bakanlığının programlarına, yaşları 36-72 ay (72 ayını tamamlamayan) arasındaki çocukların eğitim hizmetleri ise, Milli Eğitim Bakanlığı program ve mevzuatına göre yürütülür.
