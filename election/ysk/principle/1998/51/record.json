@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "1998/51",
+  "list_number": "51",
+  "decision_date": "1998-03-14",
+  "title": "YSK ilke kararı 1998/51",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4781/1998-51-karar.htm",
+  "source_sha256": "fae6b5ff1b3f71c505ab19d0cfe583ca41fe0a7584ada8ae1fe66d86fa50ab75",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "1998-03-14",
+  "law_text_complete": false
+}
