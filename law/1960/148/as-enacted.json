@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "148",
+  "year": 1960,
+  "title": "Devrilen iktidar zamanında suç işliyen yüksek dereceli memurlar hakkında yapılacak soruşturma usulüne mütedair 45 sayılı Kanunun yürürlükten kaldırılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-12-07",
+  "gazette_issue": "10674",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10674.pdf",
+  "source_sha256": "a5ef6f5ce829c4b9c6ba6e58f2ec0308f000f74e1b7bb8c582fe97f0048078a1",
+  "text_sha256": "8d242e7123c4752de372419d31d47e7563e7f0a84374091259da2d02b69d2055",
+  "text_status": "ocr",
+  "pages": [
+    22
+  ],
+  "line_span": [
+    [
+      5615,
+      5657
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300148.pdf",
+    "source_sha256": "3314bc1fae5aab8ecd3f0465afcfa263e9e22c8c558d6c338ffba8476f43caa4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9806,
+    "bag": 0.9,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9125,
+    "rg_words": 240,
+    "kd_words": 263,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
