@@ -1,0 +1,48 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 92503,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "1943 malî yılı Muvazenei Umumiye Kanununa bağlı (A) işaretli cetvelde değişiklik yapılması hakkında (1/231)",
+  "title": "1943 malî yılı Muvazenei Umumiye Kanununa bağlı (A) işaretli cetvelde değişiklik yapılması hakkında (1/231)",
+  "first_sitting_date": "1944-03-29",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 35,
+      "sitting_date": "1944-03-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c008/tbmm07008035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c008/tbmm07008fih.pdf",
+      "pages": [
+        "84"
+      ]
+    },
+    {
+      "cilt": 10,
+      "sitting": 54,
+      "sitting_date": "1944-05-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010054.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c010/tbmm07010fih.pdf",
+      "pages": [
+        "50",
+        "67:68",
+        "79:83"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5aed36bc18935b858c988b46324b7655995008e05d79c79994755c30df27f29c",
+  "in_force": "1944-03-29",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
