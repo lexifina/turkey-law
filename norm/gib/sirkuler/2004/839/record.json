@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-2/2003-2/ Enflasyon Düzeltmesi Uygulaması-1",
+  "source_id": 839,
+  "date": "2004-01-02",
+  "title": "Enflasyon Düzeltmesi ve Geçiş Uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/839",
+  "source_sha256": "a52807e0da744fbd03e30ef3a97c316bc590e7d60ba04474a8bfc4f4dfc60e0e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
