@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu yönetmelik Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1986-03-04",
+      "04.03.1986",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu yönetmelik Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "19037",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1986-03-04",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Çukurova Üniversitesi",
+  "issuer_slug": "cukurova-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/cukurova-universitesi/1986/10266",
+  "published": "1986-03-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10266&MevzuatTertip=5",
+  "source_bytes": 15738,
+  "source_id": "8.5.10266",
+  "source_sha256": "115540bcd6679925cc2f177cdd127e2bc6f8b3d415a6aeb2b79b60d0fc31662c",
+  "text_status": "as-enacted",
+  "title": "ÇUKUROVA ÜNİVERSİTESİ ATATÜRK İLKELERİ VE İNKILÂP TARİHİ ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 187,
+  "word_count": 559
+}

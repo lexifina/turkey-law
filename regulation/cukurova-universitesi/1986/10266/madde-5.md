@@ -1,0 +1,3 @@
+MÜDÜR:
+Madde 5- Atatürk İlkeleri ve İnkılâp Tarihi Araştırma ve Uygulama Merkezi Müdürü, öğretim üyeleri arasından Rektör tarafından seçilerek üç yılda bir atanır. Süresi biten müdür yeniden seçilebilir. Müdür kendisine bir yardımcı seçebilir. Müdürün görevi sona erince yardımcının görevi de kendiliğinden sona erer. Müdür kurullara başkanlık eder, çalışmaların düzenli bir şekilde yürütülmesini sağlar.
+Müdür geçici olarak görevinden ayrıldığında, yardımcısı vekalet eder. Yardımcısı yoksa veya mazeretli ise müdür yönetim kurulu üyelerinden birine vekalet görevi verir. Göreve vekalet süresi altı ayı geçemez.
