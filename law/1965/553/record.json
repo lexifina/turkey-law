@@ -1,0 +1,161 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "553",
+  "year": 1965,
+  "title": "Milletlerarası Sağlık Tüzüğünün bazı hükümlerini değiştiren 23 Mayıs 1963 tarihli Ek Tüzüğün onaylanmasının uygun bulunduğu hakkında Kanun",
+  "adopted": "1965-03-09",
+  "adopted_as_published": "09/03/1965",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "19.03.1965 No: 11957",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800553.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 48",
+  "committee_reports": [
+    {
+      "label": "MM 774 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034039ss0774.pdf"
+    },
+    {
+      "label": "CS 551no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c025/cs__04025046ss0551.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 352392,
+      "title": "Milletlerarası Sağlık Tüzüğünün bazı hükümlerini değiştiren 23 Mayıs 1963 tarihli Ek Tüzüğün onaylanmasının uygun bulunduğu hakkında Kanun",
+      "adopted_as_published": "09/03/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800553.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 774 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034039ss0774.pdf"
+        },
+        {
+          "label": "CS 551no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c025/cs__04025046ss0551.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 29,
+          "sitting": 88,
+          "sitting_date": "1964-04-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029088.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c029/mm__01029fih.pdf",
+          "pages": [
+            "476"
+          ]
+        },
+        {
+          "cilt": 33,
+          "sitting": 20,
+          "sitting_date": "1964-12-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c033/mm__01033020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c033/mm__01033fih.pdf",
+          "pages": [
+            "791"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 34,
+          "sitting_date": "1965-01-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+          "pages": [
+            "491"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 39,
+          "sitting_date": "1965-01-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+          "pages": [
+            "681:683",
+            "760:763"
+          ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 40,
+          "sitting_date": "1965-01-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034040.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034fih.pdf",
+          "pages": [
+            "775",
+            "866:869"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2101&v_kullanici_id=27483225",
+      "page_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 177183,
+      "title": "Milletlerarası Sağlık Tüzüğünün bâzı hükümlerini değiştiren 23 Mayıs 1963 tarihli Ek Tüzüğün onaylanmasının uygun bulunduğu hakkında Kanun",
+      "adopted_as_published": "09/03/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800553.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 774 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c034/mm__01034039ss0774.pdf"
+        },
+        {
+          "label": "CS 551no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c025/cs__04025046ss0551.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 46,
+          "sitting_date": "1965-02-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c025/cs__04025046.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c025/cs__04025fih.pdf",
+          "pages": [
+            "347:348",
+            "353:354"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 51,
+          "sitting_date": "1965-03-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c025/cs__04025051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c025/cs__04025fih.pdf",
+          "pages": [
+            "425",
+            "451:452"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=501&v_kullanici_id=27483235",
+      "page_sha256": "90e575b0d681a9aaaed8fe9da175069303e902e0ae9d6b5e4ea68e0ee49b37f8"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1143743fea556fae0920dcc5eb580b07a0532781188342ce864447daf01c3cb1",
+  "issuer": "Millet Meclisi",
+  "in_force": "1965-03-09",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 09/03/1965; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
