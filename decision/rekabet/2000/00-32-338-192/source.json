@@ -1,0 +1,13 @@
+{
+  "number": "00-32/338-192",
+  "type": "Rekabet İhlali",
+  "decision_date": "2000-08-29",
+  "publication_date": "2002-01-04",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=74e159cf-67fd-4f44-bc59-b246ed58d211",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=1030",
+  "pdf_sha256": "641e0c29fd8d17243e0c8a4e826607e5a247baee6e6349a8b86059eacfcd0b3b",
+  "pdf_bytes": "221962",
+  "pages": "3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "complainant/applicant/party entry without a company or institution marker"
+}
