@@ -1,0 +1,1 @@
+Madde 10 - Merkez bünyesinde Atatürk İlkeleri ve İnkılap Tarihi arasında lisansüstü düzeyde araştırmacı yetiştirmek üzere öğrenci alabilir. Söz konusu araştırmacıların kadroilanları Rektörlükçe belirlenir ve ilan edilir.

@@ -1,0 +1,1 @@
+Madde 8 - Merkezin gelirleri ve giderleri Rektör tarafından (üç yıl süreyle atanan veya görevlendirilen üç eleman tarafından oluşan denetleme kurulu tarafından denetlenir. Denetleme kurulu hazırlayacağı denetleme raporunun bir suretini Rektörlüğe, bir suretini Merkez Müdürlüğüne ve bir suretini ise kendi dosyasında muhafaza eder.

@@ -1,0 +1,3 @@
+Yönetim Kurulu
+Madde 7 - Yönetim Kurulu, Merkez müdürü tarafından gösterilecek altı aday arasından genel kurul tarafından üç yıl için seçilecek üç öğretim üyesinden oluşur. İhtiyaç durumunda Rektör Fırat Üniversitesinden veya başka bir üniversiteden Atatürk İlkeleri ve (İnkılap Tarihi alanında uzman şahıslardan bir veya iki kişiyi yönetim kuruluna üye olarak atayabilir. Görev süresi biten üye tekrar seçilebilir. Yönetim Kuruluna Merkez Müdürü başkanlık eder. Yönetim kurulu, Araştırma ve Uygulama Merkezinin karar organıdır. Müdür tarafından getirilen teklif ve faaliyetleri görüşür, karara bağlar ve diğer çalışmalarda müdüre yardımcı olur.
+Denetleme Kurulu.
