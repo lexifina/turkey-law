@@ -1,0 +1,78 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2904",
+  "year": 1983,
+  "title": "2.6.1941 Tarihli ve 4060 Sayılı Yüzde Beş Faizli Hazine Tahvilleri İhracına Dair Kanun ile Ek ve Değişikliklerinin Yürürlükten Kaldırılması Hakkında Kanun",
+  "adopted": "1983-09-27",
+  "adopted_as_published": "27/09/1983",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "29.9.1983 No: 18176",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602904.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 66",
+  "committee_reports": [
+    {
+      "label": "MGK 657 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c010/mgk_01010166ss0657.pdf"
+    },
+    {
+      "label": "DM 376no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c021/dm__02021159ss0376.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Milli Güvenlik Konseyi",
+      "term": null,
+      "kayit_no": 151532,
+      "title": "2.6.1941 Tarihli ve 4060 Sayılı Yüzde Beş Faizli Hazine Tahvilleri İhracına Dair Kanun ile Ek ve Değişikliklerinin Yürürlükten Kaldırılması Hakkında Kanun",
+      "adopted_as_published": "27/09/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanunmgkc066/kanunmgkc06602904.pdf",
+      "committee_reports": [
+        {
+          "label": "MGK 657 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c010/mgk_01010166ss0657.pdf"
+        },
+        {
+          "label": "DM 376no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c021/dm__02021159ss0376.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=601&v_kullanici_id=27483250",
+      "page_sha256": "cc012970ee5fa3446478febbceefc937daa16d2b31b4a127abb4d7268fe66fb0"
+    },
+    {
+      "assembly": "Danışma Meclisi",
+      "term": null,
+      "kayit_no": 143981,
+      "title": "2.6.1941 Tarihli ve 4060 Sayılı Yüzde Beş Faizli Hazine Tahvilleri İhracına Dair Kanun ile Ek ve Değişikliklerinin Yürürlükten Kaldırılması Hakkında Kanun",
+      "adopted_as_published": "27/09/1983",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanundmc066/kanundmc06602904.pdf",
+      "committee_reports": [
+        {
+          "label": "DM 376 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/DM__/d02/c021/dm__02021159ss0376.pdf"
+        },
+        {
+          "label": "MGK 657no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c010/mgk_01010166ss0657.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=52&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=322&v_gelecek_sayfa=201&v_kullanici_id=27483253",
+      "page_sha256": "88254d78e22386c14d31d7173994eb5a26da0c8537b65ba95156e0b86646915a"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=51&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "cc012970ee5fa3446478febbceefc937daa16d2b31b4a127abb4d7268fe66fb0",
+  "issuer": "Milli Güvenlik Konseyi",
+  "in_force": "1983-09-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Milli Güvenlik Konseyi) as printed in the official TBMM kanunlar index: 27/09/1983; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
