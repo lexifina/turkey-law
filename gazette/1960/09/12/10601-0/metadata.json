@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-issue",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "1960-09-12",
+  "issue": "10601",
+  "issue_basis": "official archive file name /arsiv/<issue>.pdf (the archive numbers its files by issue; e.g. 24091.pdf = 26.06.2000, the issue before HTML issue 24092)",
+  "edition": "regular",
+  "archive_mukerrer_flag": null,
+  "item": 0,
+  "section": null,
+  "heading": null,
+  "title": "12.09.1960 tarihli Resmi Gazete",
+  "official_link": "https://www.resmigazete.gov.tr/arsiv/10601.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/Home/Filter",
+  "index_request": {
+    "method": "POST",
+    "searchtype": 2,
+    "arsivaramayeri": "1",
+    "from": "1960-01-01",
+    "to": "1960-12-31"
+  },
+  "index_sha256": "b73806c695b59e16c7a5bcab053c9d8301422147bfff30dee61d4dac88951f7f",
+  "index_header": "official archive listing date 12.09.1960",
+  "issue_pdf": "https://www.resmigazete.gov.tr/arsiv/10601.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; whole issue published as a scanned PDF (no OCR); items not listed"
+}
