@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5711",
+  "year": 1951,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Yunanistan Hükümeti Arasında Münakit Veteriner Sözleşmesinde Değişiklik Yapılması İçin Teati Edilen Mektupların Onanması Hakkında Kanun",
+  "adopted": "1951-01-24",
+  "adopted_as_published": "24/01/1951",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "31.01.1951 No: 7722",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305711.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 33",
+  "committee_reports": [
+    {
+      "label": "TBMM 66 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004032ss0066.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 61875,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Yunanistan Hükümeti Arasında Münakit Veteriner Sözleşmesinde Değişiklik Yapılması İçin Teati Edilen Mektupların Onanması Hakkında Kanun",
+      "adopted_as_published": "24/01/1951",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305711.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 66 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004032ss0066.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 31,
+          "sitting_date": "1951-01-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004fih.pdf",
+          "pages": [
+            "226"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 32,
+          "sitting_date": "1951-01-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004fih.pdf",
+          "pages": [
+            "286"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 34,
+          "sitting_date": "1951-01-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c004/tbmm09004fih.pdf",
+          "pages": [
+            "347:350",
+            "371:374"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "992a40d50c217d8dbf3c1a08f613f18fa1d8722f20245ddfa2352d4d2907b4c7"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "992a40d50c217d8dbf3c1a08f613f18fa1d8722f20245ddfa2352d4d2907b4c7",
+  "issuer": "TBMM",
+  "in_force": "1951-01-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 24/01/1951; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
