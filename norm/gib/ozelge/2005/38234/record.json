@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6516-922/4872",
+  "source_id": 38234,
+  "date": "2005-02-03",
+  "title": "Perakende mal satan veya hizmet ifa eden birinci ve ikinci sınıf tacirlere, ödeme kaydedici...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38234",
+  "source_sha256": "a7c2d6d33ba96dc4fed0ed4c763d0b279bd4de1ea3e4c8379980ce9d3f69e42a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
