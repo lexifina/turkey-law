@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4622",
+  "year": 2001,
+  "title": "Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-02-03",
+  "gazette_issue": "24307",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/02/20010203.htm",
+  "source_sha256": "3ac792012f3aeb3327d5cbfdbf2bd0f3f2f3c5a90bedc22aeb12978abbe8f062",
+  "text_sha256": "eed5f390d66128be1e27fc60f863f3c64c826fb94e8cf40c8a61c467de048160",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/02/03/24307-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/02/20010203.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
