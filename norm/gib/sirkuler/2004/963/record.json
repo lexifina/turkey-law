@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-21/2004-21",
+  "source_id": 963,
+  "date": "2004-10-19",
+  "title": "Ödeme kaydedici cihaz kullanmak zorunda olan mükelleflerin, söz konusu cihazların mali hafızalarından her ay alacakları aylık raporları o aya ait katma değer vergisi beyannamelerine eklemeleri zorunluluğu beyannamelerini internet üzerinden verecek mükelle",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/963",
+  "source_sha256": "d0a883759f50af835fbfa1010a284c07b50a2e89b390a0919a83889873290492",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
