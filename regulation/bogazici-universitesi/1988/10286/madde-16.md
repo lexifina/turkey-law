@@ -1,0 +1,1 @@
+Madde 16- Boğaziçi Üniversitesinde yapılan doktora tezleri ile master tezlerinin bir nüshası arşiv olarak saklanır, bir nüshaları da araştırmacılar tarafından incelenmek üzere özel bir salona konulur.

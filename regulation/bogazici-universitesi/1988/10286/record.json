@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1988-12-23",
+      "23.12.1988",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "20028",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1988-12-23",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Boğaziçi Üniversitesi",
+  "issuer_slug": "bogazici-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bogazici-universitesi/1988/10286",
+  "published": "1988-12-23",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10286&MevzuatTertip=5",
+  "source_bytes": 25050,
+  "source_id": "8.5.10286",
+  "source_sha256": "78a15b9dca245b06c4d04302880c655ba8c14500379fa79218d9d4be1ca79d54",
+  "text_status": "as-enacted",
+  "title": "BOĞAZİÇİ ÜNİVERSİTESİ KÜTÜPHANE VE DOKÜMANTASYON DAİRE BAŞKANLIĞI\r\nYÖNETMELİĞİ",
+  "university_id": 183,
+  "word_count": 598
+}
