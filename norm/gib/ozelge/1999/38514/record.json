@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.87/8700/026545",
+  "source_id": 38514,
+  "date": "1999-06-28",
+  "title": "ABD uyruklu gerçek ve tüzel kişilere tanınan Gelir ve K.V. muaflığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/38514",
+  "source_sha256": "fecddf2e634e8fa5b3d392559aa525a4de6f609e72fb72c064c767c83ea5ecca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
