@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2419",
+  "year": 1934,
+  "title": "Millî Müdafaa Vekâleti kara kısmı ile Emniyet İşleri Umum Müdürlüğü 1933 malî senesi bütçelerinde münakale yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-05-05",
+  "gazette_issue": "2692",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2692.pdf",
+  "source_sha256": "647410b6702bff47832528de075827524a6502ecc07231b7d749452ee45e7e0d",
+  "text_sha256": "0a96c3e5f83021245d0686455e4fa807f6b7cf07fb996f52ffe5daa87f6f3e6f",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      125,
+      235
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302419.pdf",
+    "source_sha256": "ae5998646060102024bfc5dc3fb8ea5794622cd97f8e11e36c55590cafd0c2fd",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.8543,
+    "bag": 0.9284,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9901,
+    "rg_words": 204,
+    "kd_words": 203,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
