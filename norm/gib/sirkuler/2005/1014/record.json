@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "DV-15/2005-2/",
+  "source_id": 1014,
+  "date": "2005-03-15",
+  "title": "Özel Tüketim Vergisi beyannamesi ekinde verilen taahhütnamelere uygulanacak damga vergisine ilişkin açıklamalar ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/sirkuler/1014",
+  "source_sha256": "7778daacf6419dbe2d78bdfc19c3a3ec5e0b18756ea10e56f9e1514ec6daef98",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
