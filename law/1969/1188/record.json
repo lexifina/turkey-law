@@ -1,0 +1,121 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1188",
+  "year": 1969,
+  "title": "Türkiye Cumhuriyeti Anayasasının 68 nci maddesinin değiştirilmesi ve 11 nci geçici maddesinin kaldırılması hakkında Kanun",
+  "adopted": "1969-11-06",
+  "adopted_as_published": "06/11/1969",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.11.1969 No: 13349",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301188.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 53",
+  "committee_reports": [
+    {
+      "label": "CS 1270 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053065ss1270.pdf"
+    },
+    {
+      "label": "CS 1270ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c054/cs__09054002ss1270ek01.pdf"
+    },
+    {
+      "label": "MM 900no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036093ss0900.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 313657,
+      "title": "Türkiye Cumhuriyeti Anayasasının 68 nci maddesinin değiştirilmesi ve 11 nci geçici maddesinin kaldırılması hakkında Kanun",
+      "adopted_as_published": "06/11/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc053/kanuntbmmc053/kanuntbmmc05301188.pdf",
+      "committee_reports": [
+        {
+          "label": "CS 1270 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c053/cs__08053065ss1270.pdf"
+        },
+        {
+          "label": "CS 1270ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c054/cs__09054002ss1270ek01.pdf"
+        },
+        {
+          "label": "MM 900no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c036/mm__02036093ss0900.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 53,
+          "sitting": 64,
+          "sitting_date": "1969-05-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c053/cs__09053064.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c053/cs__09053fih.pdf",
+          "pages": [
+            "507"
+          ]
+        },
+        {
+          "cilt": 53,
+          "sitting": 65,
+          "sitting_date": "1969-05-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c053/cs__09053065.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c053/cs__09053fih.pdf",
+          "pages": [
+            "519:523"
+          ]
+        },
+        {
+          "cilt": 54,
+          "sitting": 1,
+          "sitting_date": "1969-11-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c054/cs__09054001.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c054/cs__09054fih.pdf",
+          "pages": [
+            "2"
+          ]
+        },
+        {
+          "cilt": 54,
+          "sitting": 2,
+          "sitting_date": "1969-11-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c054/cs__09054002.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c054/cs__09054fih.pdf",
+          "pages": [
+            "53:112",
+            "117:118"
+          ]
+        },
+        {
+          "cilt": 54,
+          "sitting": 3,
+          "sitting_date": "1969-11-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c054/cs__09054003.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t09/c054/cs__09054fih.pdf",
+          "pages": [
+            "121:135"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1101&v_kullanici_id=27483235",
+      "page_sha256": "1eaad7ada00aca89de2fafea1c48fe47bacb9ae26f5a743f31a7c677dcbb0e77"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1eaad7ada00aca89de2fafea1c48fe47bacb9ae26f5a743f31a7c677dcbb0e77",
+  "issuer": "Cumhuriyet Senatosu",
+  "in_force": "1969-11-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Cumhuriyet Senatosu) as printed in the official TBMM kanunlar index: 06/11/1969; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
