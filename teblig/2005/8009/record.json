@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.8009",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İLAÇLI YEM TEBLİĞİ (TEBLİĞ NO: 2005 / 12 )",
+  "number": "8009",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "path": "teblig/2005/8009",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8009&MevzuatTertip=5",
+  "source_sha256": "19453899c76b09ce2d4e9e00040eb859310e348afe5819dd2acc3daa860b2119",
+  "source_bytes": 27679,
+  "published": "2005-03-24",
+  "gazette": "25765",
+  "in_force": "2005-03-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.03.2005); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 910,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
