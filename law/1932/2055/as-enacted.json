@@ -1,0 +1,48 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2055",
+  "year": 1932,
+  "title": "Türkiye Cumhuriyeti ile Çekoslovakya Hükümeti arasında aktedilen iadei mücrimin ve ceza işlerinde adlî muzaheret muahedenamesinin tasdiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-07-09",
+  "gazette_issue": "2145",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2145.pdf",
+  "source_sha256": "999621fc64af3793b3692b8e260fe0b486d4d88cc07740010a5ceee6fe65ed3b",
+  "text_sha256": "e54ce4ba920183399c5b5c1d71525360ea049f7b1c68457a78c24afc95ecdcec",
+  "text_status": "ocr",
+  "pages": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "line_span": [
+    [
+      1080,
+      2021
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01102055.pdf",
+    "source_sha256": "6e01f981f652ef8bf789c82e51020e133f74496c2e238a3d9b4136a07f0aeade",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9565,
+    "bag": 0.9088,
+    "kd_coverage": 0.9994,
+    "kd_body_compared": 0.9994,
+    "rg_words": 3116,
+    "kd_words": 3149,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
