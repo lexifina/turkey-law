@@ -1,0 +1,5 @@
+C- AÇIK ARTIRMA VE EKSİLTME YÖNTEMİ
+MADDE 33 – Tahminli bedeli 100.000.- liradan fazla ve 150.000.- liraya kadar olan işler açık artırma ve eksiltme yöntemi ile yapılır. Açık artırma ve eksiltmede istekliler, belirtilen gün ve saatte tutanak düzenlenmesine kadar güvencelerini (teminatlarını) döner sermaye saymanlığına yatırmak koşuluyla açık artırma ve eksiltmeye katılırlar.
+Komisyonca belgeler incelenerek durumları koşul belgesine (şartnameye) uymayan isteklilerin ihaleye katılamayacakları kendilerine bildirilir ve bu yön tutanakla saptanarak belgeleri kendilerine geri verilir.
+Tutanak düzenlendikten sonra başkan, isteklileri koşul belgesini (şartnameyi) imza etmeye ve pey sürmeye çağırır. Sürülen peyler bir karar kağıdına yazılır. Peyden el çekenler durumu bu kağıda yazarak imzalarlar. İmza etmeyen olursa, komisyonca karar kağıdının altında açıklama yapılır.
+Artırma ve eksiltmede pey verme isteği kesildikten sonra, pey uygun görülürse uygun pey’i sürene, yetkili makamın onama koşuluna bağlı kalınmak üzere ihalenin kendisine yapıldığı bildirilir ve durum karar kağıdının altına yazılarak imzalanır.

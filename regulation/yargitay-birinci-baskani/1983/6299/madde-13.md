@@ -1,0 +1,20 @@
+SORUMLU SAYMANIN GÖREVLERİ
+MADDE 13- Sorumlu Saymanın görevleri şunlardır:
+a) Mali işler ile muhasebe işlemlerini mevzuatta belirtilen yöntemlere uygun şekilde yapmak ve yaptırmak,
+b) Muhasebe defter ve kayıtlarını tutmak ve tutturmak,
+c) Yöntemine uygun gerçekleştirilen (tahakkuk ettirilen) hak kazanmaları (istihkakları) sahiplerine ödemek, gelirleri tahsil etmek,
+ç) Döner Sermaye İşletmesine ilişkin idare hesabını zamanında Sayıştay Başkanlığına vermek,
+d) Yıl sonunda düzenlenen ve aslı Sayıştay Başkanlığına gönderilen bilanço ve eklerinin onaylanmış bir örneğini aynı süre içinde Maliye Bakanlığına göndermek,
+e) Ambar, ayniyat ve vezne işlemlerinin yöntemine uygun şekilde yürütülmesini sağlamak,
+f) Demirbaş ve ambar kayıtlarının esas deftere uygunluğunu sağlamak,
+g) Banka ve kasada bulunan para ile bu özellikteki kıymetli evrakın kontrolünü yapmak,
+ğ) Giderlerin; yasa, tüzük, kararname ve yönetmeliklere uygun olmasını, gerçekleştirme (tahakkuk) belgelerine bağlanması gereken evrakların tamam olmasını sağlamak,
+h) İşletmenin alacak ve borçlarının zamanında tahsil edilmesini veya ödenmesini sağlamak ve gerekli kovuşturmayı yapmak,
+ı) Aylık mizanları, izleyen ayın 20’sine kadar düzenleyerek İşletme Müdürlüğüne vermek,
+i) Mali yılın bitimini izleyen 3 (üç) ay içinde işletmenin envanterlerini, kesin mizanını ve bilançosunu düzenleyerek İşletme müdürlüğüne vermek,
+j) Gelir ve giderlere ilişkin her türlü belge, defter ve alındıları (makbuzları) saklamak,
+k) Vezne, ayniyat ve ambar sorumlularını Kefalet Yasası çerçevesinde kontrol etmek,
+l) Ambardan verilecek yıllık mizanların muhasebe kayıtlarına uygunluğunu kontrol etmek ve noksanlarını İşletme Müdürüne bildirmek,
+m) Mali işler muhasebe işlemleri hakkında İşletme Müdürüne bilgi vermek,
+n) Sayman mutemetleri ile ita amiri mutemetlerinin hesaplarını kontrol etmek,
+o) Muhasebe ile ilgili diğer işleri yapmak.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.6299",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YARGITAY YAYINLARI DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "number": "6299",
+  "issuer": "Yargıtay Birinci Başkanı",
+  "issuer_slug": "yargitay-birinci-baskani",
+  "path": "regulation/yargitay-birinci-baskani/1983/6299",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6299&MevzuatTertip=5",
+  "source_sha256": "008144ab03bf510b17c3a826b0ed00e1674450eca32bf69c82bf911bf7f440ee",
+  "source_bytes": 77781,
+  "published": "1983-02-01",
+  "gazette": "17946",
+  "in_force": "1983-02-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.02.1983); own commencement article: \"bu yönetmelik, Resmi Gazete’de yayımlandığı tarihten itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu yönetmelik, Resmi Gazete’de yayımlandığı tarihten itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3191,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

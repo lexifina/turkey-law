@@ -1,0 +1,2 @@
+SÖZLEŞME YAPMA
+MADDE 37- Sözleşmeler ihalenin kesinleşmesinden itibaren 15 (onbeş) gün içinde yapılır. Kesin güvencede bu süre içinde verilir. Sözleşmelerde yüklenmenin (taahhüdün) yerine getirilmesi ile ilgili olarak koşul belgelerinde yer alan hükümlere paralel hükümler bulunur. Tarafların karşılıklı hak ve yükümlülükleri açık ve seçik olarak belirtilir. Sözleşme, gideri yükleniciye (müteahhide) ait olmak üzere notere onaylattırılarak yüklenici tarafından sorumlu saymana verilir.
