@@ -1,0 +1,504 @@
+Telekomünikasyon
+Kurumundan :
+Yerel
+Ağa Ayrıştırılmış Erişime İlişkin Usul ve Esaslar Hakkında Tebliğ
+BİRİNCİ
+KISIM
+Genel
+Hükümler
+Amaç
+Madde
+1 – Bu Tebliğin amacı,
+kullanıcıların, başta genişbant ve yüksek hızlı internet hizmetleri
+olmak üzere telekomünikasyon hizmetlerinden ve altyapılarından azami ölçüde
+yararlanmasının, telekomünikasyon altyapısı ve kaynaklarının etkin ve
+verimli kullanımını sağlayan gelişmiş ve rekabetçi bir telekomünikasyon
+pazarı kurulmasının sağlanmasıdır.
+Kapsam
+Madde
+2 – Bu
+Tebliğ, yerel ağa ayrıştırılmış erişime ilişkin hak ve yükümlülükler
+ile söz konusu yükümlülüklerin yerine getirilmesinde uygulanacak usul ve
+esasları kapsar.
+Dayanak
+Madde
+3 – Bu Tebliğ, 23/5/2003
+tarih ve 25116 sayılı Resmi Gazetede yayımlanan Erişim ve Arabağlantı Yönetmeliğine
+dayanılarak hazırlanmıştır.
+Tanımlar
+Madde
+4 – Bu Tebliğde geçen;
+Kurum:
+Telekomünikasyon Kurumunu,
+Türk
+Telekom: Türk Telekomünikasyon
+Anonim Şirketini,
+İşletmeci:
+Kurum ile yapılan görev sözleşmesi, imtiyaz sözleşmesi ve/veya Kurumdan alınan
+bir telekomünikasyon ruhsatı veya genel izin uyarınca telekomünikasyon
+hizmetleri yürüten ve/veya telekomünikasyon altyapısı işleten bir sermaye
+şirketini,
+Alt
+Yerel Ağ (Local Sub-Loop, Sub-Local Loop): Sabit telekomünikasyon şebekesinde
+kullanıcı tarafındaki şebeke sonlanma noktasını konsantrasyon noktasına
+veya belirli bir ara erişim noktasına bağlayan kısmî yerel ağı,
+Ayrıştırma
+(Unbundling): Bir işletmecinin, şebekesi üzerinden verdiği hizmetleri, taşıma,
+anahtarlama, arayüz de dahil olmak üzere sadece talep edilen şebeke bileşenlerine
+ve talep edilen türden erişim sağlanmasına imkân verecek şekilde
+birbirinden ayrı olarak sunmasını,
+Dahili
+Bağlantı Devresi: Türk Telekomun ana dağıtım çatısı veya eşdeğer
+tesisinin bulunduğu bina içinde yer alan Yerel Ağ bileşenini, bir İşletmecinin
+aynı bina, bitişik bina veya mekanda bulunan, Fiziksel veya Sanal Ortak Yerleşime
+tabi telekomünikasyon sistemlerine veya teçhizatına bağlayan fiziksel
+devreyi,
+Erişim
+Şebekesi: Şebekenin, taşıma şebekesine bağlantıyı sağlayan bakır kablo
+çifti, hat kartları ve konsantratörler ve/veya santrallere yerleştirilmiş
+portlar gibi trafiğe duyarlı olmayan ve belirli bir müşteriye tahsis edilmiş
+şebeke bileşenlerinden oluşan kısmını,
+Enterferans:
+İlgili kanun ve tüzüklere uygun olarak sağlanan her türlü haberleşme
+hizmetini engelleyen, haberleşmede kesinti doğuran veya kalitesini bozan her türlü
+yayın veya elektromanyetik etkiyi,
+Harici
+Bağlantı Devresi: Türk Telekomun ana dağıtım çatısı veya eşdeğer
+tesisinin bulunduğu bina içinde yer alan Yerel Ağ bileşenini, bir İşletmecinin
+Fiziksel veya Sanal Ortak Yerleşime tabi olmayan telekomünikasyon sistemlerine
+ve/veya teçhizatına bağlayan fiziksel devreyi,
+Ortak
+Yerleşim: Bir İşletmecinin sistem ve/veya teçhizatının Türk Telekomun
+sistem ve/veya teçhizatına bağlantısının sağlanması amacıyla, Türk
+Telekomun ana dağıtım çatısı veya eşdeğer tesisinin bulunduğu bina,
+bitişik bina veya mekanın 31 Aralık 2003 tarih ve 25333 sayılı Resmi
+Gazetede yayımlanan Ortak Yerleşim
+ve Tesis Paylaşımı Usul ve Esaslarına İlişkin Tebliğ kapsamında
+Fiziksel, Sanal veya Uzaktan Ortak Yerleşim şeklinde kullanılmasını,
+Veri
+Akış Erişimi (Bit-stream Access): Kullanıcı tarafındaki şebeke sonlanma
+noktasını, veri iletimine imkan verecek şekilde, kullanıcının bağlı
+bulunduğu ana dağıtım çatısına veya eşdeğer tesise yerleştirilen teçhizata
+bağlayacak her türlü cihaza ve fiziksel devreye erişimi,
+Yerel
+Ağ (Local Loop): Sabit telekomünikasyon şebekesinde kullanıcı tarafındaki
+şebeke sonlanma noktasını kullanıcının bağlı bulunduğu ana dağıtım
+çatısına veya eşdeğer tesise bağlayan fiziksel devreyi,
+Yerel
+Ağa Ayrıştırılmış Erişim (Unbundled Access to the Local Loop): Yerel ağın
+mülkiyetinde bir değişiklik olmadan yerel ağa ayrıştırılmış tam erişimi
+ve yerel ağa paylaşımlı erişimi,
+Yerel
+Ağa Ayrıştırılmış Tam Erişim (Full Unbundled Access to the Local Loop):
+Bakır kablo çifti frekans spektrumunun tamamının kullanılmasına izin
+verecek şekilde yerel ağa veya alt yerel ağa erişimi,
+Yerel
+Ağa Paylaşımlı Erişim (Shared Access to the Local Loop): Bakır kablo çifti
+frekans spektrumunun sadece ses harici bandının kullanılmasına izin verecek
+şekilde yerel ağa veya alt yerel ağa erişimi,
+Yönetmelik:
+23/5/2003 tarih ve 25116 sayılı
+Resmi Gazetede yayımlanarak yürürlüğe giren Erişim
+ve Arabağlantı Yönetmeliğini,
+ifade
+eder.
+Ayrıca,
+bu Tebliğde geçen ve yukarıda yer almayan terimler için 2813 sayılı Telsiz
+Kanunu, 406 sayılı Telgraf ve Telefon Kanunu, Yönetmelik ve ilgili diğer
+mevzuatta yer alan tanımlar geçerlidir.
+İKİNCİ
+KISIM
+Ayrıştırılmış
+Erişim Sağlama Yükümlülüğü
+Ayrıştırma
+Yükümlülüğü
+Madde
+5 – İşletmeciler tarafından
+bu Tebliğin 8 inci maddesi çerçevesinde yayımlanan referans yerel ağa erişim
+teklifi kapsamında yapılan her türlü makul ve uygulanabilir Yerel Ağa Ayrıştırılmış
+Erişim talebi, Türk Telekom tarafından bu Tebliğin 10 uncu maddesinde yer
+verilen durumlar saklı kalmak kaydıyla, ayrım gözetmeksizin, adil, şeffaf
+ve kendisine uyguladığı koşullarla yerine getirilir.
+Yerel
+Ağa Ayrıştırılmış Erişime yönelik yükümlülükler, İşletmecilerin
+taleplerini karşılayabilmek amacıyla Türk Telekomun tümüyle yeni bir Erişim
+Şebekesi altyapısı kurmasını gerektirmez.
+Temel
+Hizmetler
+Madde
+6 – Türk Telekom, yerel ağa
+ayrıştırılmış erişim sağlama yükümlülüğü kapsamında, talepte
+bulunan İşletmecilere, gerekli iyileştirmeleri yapmak ve şebeke güvenliğini
+sağlamak suretiyle, aşağıdaki hizmetleri sağlar:
+a)
+Yerel ağ bileşenleri,
+b)
+Yerel ağ bileşenlerine erişim için
+İşletmecinin ihtiyaç duyabileceği Dahili Bağlantı Devreleri,
+c)
+Yerel Ağ veya Dahili Bağlantı
+Devrelerinin kullanımı için gerekli olan enerji, havalandırma, güvenlik
+gibi yan hizmetler.
+Yardımcı
+Hizmetler
+Madde
+7 – Türk Telekom, yerel ağa
+ayrıştırılmış erişim sağlama yükümlülüğü kapsamında, talepte
+bulunan İşletmecilere aşağıdaki hizmetlerden birini ve bu hizmetin
+sunumunda gerekli olan enerji, havalandırma, güvenlik gibi yan
+hizmetleri sağlar:
+a)
+Fiziksel veya Sanal Ortak Yerleşim,
+b)
+Yerel ağa erişim için İşletmecinin
+ihtiyaç duyacağı Harici Bağlantı Devreleri.
+Referans
+Yerel Ağa Erişim Teklifi
+Madde
+8 – Türk Telekom, bu Tebliğin
+ekinde yer verilen asgari hususları kapsayan referans yerel ağa erişim
+teklifini hazırlayarak, bu Tebliğin yürürlüğe girmesinden itibaren üç
+(3) ay içerisinde Kuruma gönderir. Referans teklif, Kurum tarafından onaylandıktan
+sonra yayımlanır. Türk Telekom, referans teklifin hazırlanması aşamasında
+ön talep tespit etmek amacıyla pazar araştırması yapabilir. Bu araştırmanın
+sonuçları referans teklif ile birlikte Kuruma sunulur.
+Kurum
+tarafından aksi belirtilmedikçe, söz konusu teklif, her yıl yenilenerek Mart
+ayı sonuna kadar Kuruma gönderilir. Yeni teklif onaylanana kadar mevcut
+referans teklif geçerliliğini korur. Kurum, Yönetmeliğin 5 inci maddesindeki
+ilkeleri göz önünde bulundurarak, referans
+teklifte değişiklik yapılmasına karar verebilir.
+Ayrım
+Gözetmeme
+Madde
+9 – Türk Telekom, bu Tebliğin
+5 inci maddesi kapsamında eşit
+şart ve durumlarda eşdeğer hizmetler sunan İşletmecilere erişim sağlarken;
+ortaklarına, iştiraklerine, ortaklıklarına veya kendisine uyguladığı
+kalite ve koşullarda hizmet ve bilgi sağlamakla yükümlüdür. Ayrım gözetmeme
+yükümlülüğü, bunlarla sınırlı olmamak üzere, Türk Telekom tarafından
+yerel ağa ilişkin olarak gerçekleştirilen yeni yatırımlar, yerel ağa ayrıştırılmış
+erişim talepleri, ortak yerleşim alanının sağlanması, ortak yerleşim
+alanlarına erişim için gerekli olan kiralık transmisyon kapasitesinin sağlanması,
+hizmet kalitesi, bakım ve onarımı kapsar.
+Ayrıştırma
+Yükümlülüğünün Sınırlandırılması
+Madde
+10 – Türk Telekomun bu Tebliğin
+5 inci maddesinde belirtilen ayrıştırılmış erişim sağlama yükümlülüğü;
+a)
+Türk Telekomun; şebeke işletim güvenliğinin,
+şebeke bütünlüğünün veya veri güvenliğinin temin edilemeyeceğini ya da
+şebekelerin karşılıklı işletilebilirliğinin mümkün olmadığını
+objektif kriterlerle kanıtlaması veya,
+b)
+Kurumun daha uygun teknik ve ticari
+alternatiflerin var olduğuna karar vermesi veya,
+c)
+Kurumun, ilgili telekomünikasyon
+hizmetleri pazarındaki rekabet koşullarının söz konusu hizmetin Türk
+Telekom tarafından sunulmasına gerek kalmayacak düzeye ulaştığına karar
+vermesi
+durumlarında
+Kurum tarafından sınırlandırılabilir.
+Bu
+maddede belirtilen durumların varlığı, Türk Telekomun erişim koşullarını
+müzakere etmeyi reddetmesi için geçerli bir neden teşkil etmez.
+ÜÇÜNCÜ
+KISIM
+Ücretlendirme
+Esasları
+Temel
+Hizmet Tarifeleri
+Madde
+11 – Türk Telekom yerel ağa
+ayrıştırılmış erişim kapsamında bu Tebliğin 6 ncı maddesinde yer
+verilen temel hizmetleri maliyet esaslı olarak belirlenen tarifeler üzerinden
+sağlar. Kurum, maliyet esaslı tarifeler belirleninceye kadar diğer ülke
+uygulamalarını uygun olduğu ölçüde dikkate alarak tarifelere üst sınır
+koyabilir. Tarifeler maliyet esaslı olarak belirlenirken Yönetmeliğin 17 nci
+maddesi hükümleri dikkate alınır.
+Ortak
+Yerleşim Ücretleri
+Madde
+12 – Ortak Yerleşime ilişkin
+ücretler 31 Aralık 2003 tarih ve 25333 sayılı Resmi Gazetede yayımlanan
+Ortak Yerleşim ve Tesis Paylaşımı Usul ve Esaslarına İlişkin Tebliğ hükümleri
+doğrultusunda belirlenir.
+Diğer
+Ücretler
+Madde
+13 – Bu Tebliğin 11 inci ve
+12 nci maddeleri kapsamında yer verilmeyen hizmetler için taraflar ücretleri
+kendi aralarında müzakere ederek belirlerler. Müzakerelerin uzlaşmazlıkla
+sonuçlanması durumunda taraflar bu Tebliğin 19 uncu maddesi kapsamında
+Kuruma başvurabilir.
+DÖRDÜNCÜ
+KISIM
+İşletmecilerin
+Hak ve Yükümlülükleri
+Bilgi
+Talebi
+Madde
+14 – Yerel ağa ayrıştırılmış
+erişim talebinde bulunan İşletmeci, Referans Yerel Ağa Erişim Teklifinin
+yayımlanmasından sonra, aşağıda yer verilen bilgileri Türk Telekomdan yazılı
+olarak talep edebilir. Türk Telekom bu bilgileri en geç otuz (30) gün içerisinde
+ve güncelleştirilmiş olarak sağlar.
+a)
+Ana dağıtım çatısı veya eşdeğer
+tesislerin yerleri,
+b)
+Her bir ana dağıtım çatısı
+veya eşdeğer tesise bağlı bulunan yerel ağ bileşenlerinin hizmet verdiği
+alan,
+c)
+Ortak Yerleşimin sağlanabilirliği,
+d)
+Erişim şebekesi hizmetlerinin sağlanabilirliğini
+etkileyebilecek hususlar,
+e)
+Erişim şebekesi hizmetlerinin sağlanmasına
+ve kalitesine ilişkin Kurum tarafından istenmesi gerekli görülen diğer
+bilgiler.
+İşletmecilerin
+Yükümlülükleri
+Madde
+15 – Yerel ağa erişim talep
+eden İşletmeci, aşağıda yer verilen hususları yerine getirmekle yükümlüdür.
+a)
+Yerel ağa ayrıştırılmış erişim
+hizmeti talep edilen yeri ve hizmetin kapsamını Türk Telekoma yazılı olarak
+bildirmek,
+b)
+Yerel ağa ayrıştırılmış erişim
+kapsamında, yürürlükteki standartlara ve bu Tebliğin 8 inci maddesi kapsamında
+hazırlanacak olan referans teklifte yer alacak teknik özelliklere uygun teçhizat
+kullanmak,
+c)
+Abonelerini sunulan hizmetin ve kullanılması
+gereken cihazların teknik özellikleri hakkında bilgilendirmek,
+d)
+Bu Tebliğ kapsamında sunulacak
+hizmetlere ilişkin olarak Kurum tarafından gerekli görülen diğer bilgi ve
+belgeleri temin etmek.
+Hizmetin
+Kesilmesi
+Madde
+16 – Türk Telekom,
+bu Tebliğ kapsamında bir İşletmeciye sunduğu hizmetin ekonomik veya teknik
+açıdan olumsuz yönde etkilenmesine yol açacak her türlü işlemi ilgili
+İşletmeciye en az yedi (7) gün önceden bildirir.
+Türk
+Telekom, bu Tebliğ kapsamında İşletmecilere sunduğu hizmeti, aşağıda yer
+verilen durumlarda, bu Tebliğin 10 uncu maddesinde belirtilen haller saklı
+kalmak kaydıyla, Kurumun onayını almak suretiyle durdurabilir.
+a)
+İşletmeci ve İşletmecinin
+aboneleri tarafından kullanılan cihazların yürürlükteki standartlara
+uymaması,
+b)
+Sunulan hizmetin, Türk Telekomun Görev
+Sözleşmesi kapsamında yürütmekte olduğu diğer hizmetlerin ve diğer İşletmeciler
+tarafından sunulan hizmetlerin kalitesini bozan enterferansa neden olması.
+İşletmeci,
+yukarıda yer verilen durumları düzeltmesi halinde erişim hizmetinin sağlanmasını
+ve sürdürülmesini talep etme hakkına sahiptir.
+Türk
+Telekom, yukarıda belirtilen durumların dışında, haberleşmede kesinti doğuran
+enterferans dahil, hizmetlerin acilen durdurulmasını gerektiren ve İşletmeciye
+önceden bildirimin imkan dahilinde olmadığı hallerin ortaya çıkması
+durumunda, bu Tebliğ kapsamındaki yükümlülüklerini hangi kapsam ve sürede
+yerine getiremeyeceğini hizmetin kesilmesini takip eden bir (1) iş günü içerisinde
+yazılı olarak Kuruma ve ilgili İşletmeciye bildirir. Söz konusu durumun
+sona ermesi ile, İşletmecinin talebi olmaksızın hizmet yeniden başlatılır.
+BEŞİNCİ
+KISIM
+Sözleşmeler
+ve Uzlaşmazlık Çözümü
+Sözleşme
+Madde
+17 – Bu Tebliğ kapsamında
+talepte bulunan İşletmeci ile Türk Telekom arasında, Türk Telekom tarafından
+bu Tebliğin 8 inci maddesi kapsamında yayımlanan referans teklifte yer alan
+unsurları dikkate alacak şekilde, yerel ağa ayrıştırılmış erişim koşullarını
+müzakere ederek, ilgili mevzuat, görev ve imtiyaz sözleşmeleri, telekomünikasyon
+ruhsatı, genel izin ve Kurum düzenlemelerine aykırı olmamak kaydıyla, bir sözleşme
+akdedilir.
+Bu
+sözleşmenin, bu Tebliğin 9 uncu maddesinde yer verilen hükümlere uygun,
+adil ve şeffaf bir yapıda olması ve rekabet koşullarını bozucu nitelikte
+olmaması esastır.
+Sözleşmelerin
+Kuruma Sunulması
+Madde
+18 – Bu Tebliğ kapsamında
+talepte bulunan İşletmeciler ile Türk Telekom arasındaki sözleşmelerin,
+bunların eklerinin ve değişikliklerinin tasdikli bir sureti, imzalanmalarını
+müteakip onbeş (15) gün içerisinde Kuruma sunulur. Taraflar, Kurumun sözleşmelerde
+mevzuata aykırı bulduğu hususlara yönelik düzeltme taleplerini otuz (30) gün
+içerisinde yerine getirmekle yükümlüdürler.
+Sözleşmenin
+tarafları, ticari sır ihtiva ettiğine kanaat getirdikleri maddeleri sözleşme
+ile birlikte Kuruma bildirirler. Ticari sır olarak kabul edilebilecek bilgiler,
+üçüncü şahıslarca bilinmesi halinde bu kişilere haksız rekabet avantajı
+sağlayabilecek ve bu itibarla rekabeti bozucu etkileri olabilecek ticari ve
+operasyonel bilgilerle
+sınırlıdır. Yerel ağa ayrıştırılmış erişim talebinde bulunan diğer
+İşletmeciler için de uygulanması gereken hükümler ticari sır olarak
+addolunamaz.
+Uzlaşmazlıkların
+Çözümü
+Madde
+19 – Bu Tebliğ kapsamında
+talepte bulunan bir İşletmeci ile Türk Telekom arasında meydana gelen bir
+uzlaşmazlığın çözümü için taraflardan herhangi biri Kuruma başvurabilir.
+Başvuruda bulunan taraf Yönetmeliğin 21 inci maddesinde yer verilen bilgileri
+Kuruma sunar.
+Kurum,
+uzlaştırma prosedürünü işletirken, Yönetmeliğin 21 inci maddesinde yer
+verilen hükümleri esas alır ve bu kapsamda nihai çözüm öncesinde, geçici
+ücret belirlenmesi dahil, kamu yararının gerektirdiği her türlü tedbiri
+alabilir.
+Kurum,
+bunlarla sınırlı olmamak üzere, tarafların sağladığı bilgi ve
+belgeleri, benzer konularda daha önce alınan kararları ve uluslararası
+uygulamaları dikkate alarak en kısa sürede kararını alır ve gerekçeleriyle
+birlikte uzlaşmazlığın taraflarına ve gerekli gördüğü takdirde ilgili
+diğer taraflara açıklar.
+Kurumun
+uzlaşmazlık çözümü kapsamında belirlediği hüküm, koşul ve ücretler,
+tarafların aralarında bu Tebliğe ve diğer ilgili mevzuata uygun olarak
+aksini kararlaştırmaları halinde yürürlükten kalkar.
+ALTINCI
+KISIM
+Diğer
+Hükümler
+İdari
+Para Cezaları
+Madde
+20 – Kurum, bu Tebliğ kapsamındaki
+yükümlülüklerin ilgili taraflarca yerine getirilmemesi durumunda, Yönetmeliğin
+25 inci maddesi kapsamında gerekli işlemleri tesis eder.
+Diğer
+Yöntemler
+Madde
+21 – Bu Tebliğ kapsamında
+yer almayan, Veri Akış Erişimi ve benzeri yerel ağa erişim yöntemleri ile
+ilgili olarak Kurumun düzenleme yapma hakkı saklıdır.
+Tebliğde
+Yer Almayan Hususlar
+Madde
+22 – Yerel ağa ayrıştırılmış
+erişim ile ilgili olarak bu Tebliğde yer almayan hususlarda Telekomünikasyon
+Kurulu Kararı ile düzenleme yapılır.
+Yürürlük
+Madde
+23 – Bu Tebliğ 01.07.2005
+tarihinde yürürlüğe girer.
+Yürütme
+Madde
+24 – Bu Tebliğ hükümlerini
+Telekomünikasyon Kurulu Başkanı yürütür.
+EK
+TÜRK
+TELEKOM TARAFINDAN YAYINLANACAK YEREL AĞA AYRIŞTIRILMIŞ ERİŞİME İLİŞKİN
+REFERANS TEKLİFTE YER ALMASI GEREKEN ASGARİ HUSUSLAR
+1.
+Genel Hükümler
+1.1
+Tarafların hak ve yükümlülükleri,
+1.2
+Mülkiyet hakları,
+1.3
+Gizliliğin korunması,
+1.4
+Talep ve talebin karşılanması süreçleri
+ve kullanım kısıtlamaları,
+1.5
+Sözleşmenin süresi ve yeniden müzakere
+koşulları,
+1.6
+Taraflardan herhangi birinin şebekesinde
+veya sunulan hizmetlerde değişiklik yapılması önerildiğinde izlenecek yöntemler.
+2.
+Sunulan Hizmetlere İlişkin Temel Hükümler
+2.1
+Yerel Ağa Erişim Hizmetleri
+2.1.1
+Santral ve santrala bağlı saha
+dolapları ile hizmet verdikleri yerleşim yeri listeleri,
+2.1.2
+Santral ve saha dolaplarına bağlı
+hat ve abone sayıları,
+2.1.3
+Yerel Ağ bileşenleri ve konfigürasyonları,
+2.1.4
+Yerel Ağ bileşenlerin teknik özellikleri,
+tabi olduğu standartlar ve hat karakteristikleri,
+2.1.5
+Yerel Ağ bileşenleri test prosedürleri.
+2.2
+Ortak Yerleşim Hizmetleri:
+2.2.1
+Ortak Yerleşim noktalarına ilişkin
+olarak il ve ilçe merkezlerindeki tüm santral binası ve tesisleri ile ilgili
+bilgiler ve seçenekler:
+a)
+Toplam alan (m2),
+b)
+İşletmeciler tarafından Ortak
+Yerleşim için kullanılan alan (m2),
+c)
+Türk Telekomun kendi kullanımı için
+ayırdığı (rezerve) alan (m2),
+d)
+İşletmecilerin kullanımına
+tahsis edilebilecek alan (m2),
+e)
+Bina ya da tesisin Ortak Yerleşimin
+hangi türlerine elverişli olduğu,
+f)
+Enerji, havalandırma/soğutma,
+jeneratör imkanları,
+2.2.2
+Ortak Yerleşime izin verilen teçhizatın
+fiziksel ve teknik özellikleri ile varsa kısıtları,
+2.2.3
+Ortak yerleşim noktalarının güvenliğini
+sağlamak üzere alınacak önlemler,
+2.2.4
+İşletmecilerin Ortak Yerleşim
+noktalarındaki teçhizatlarına, arıza durumları ve acil durumlar dahil, erişim
+koşulları,
+2.2.5
+Ortak Yerleşim alanının İşletmeciler
+arasında paylaştırılmasına ilişkin olarak tahsis usul ve esasları,
+2.2.6
+İşletmecilerin, yer etüdü
+yapabilmesine ilişkin esaslar ile varsa kısıtlar,
+2.2.7
+Ortak Yerleşim talebinin değerlendirilebilmesi
+için İşletmecilerin Türk Telekoma sunması gereken bilgi ve belgeler,
+2.2.8
+Standart bir Ortak Yerleşim alanı
+ve/veya odasının teknik, fiziki ve ekonomik açıdan özellikleri.
+3.
+Her bir fonksiyon ve hizmet için
+ücretler ve/veya ücretlendirmeye ilişkin esaslar, ödemeler ve faturalama
+prosedürleri,
+4.
+Şebeke bütünlüğü ve güvenliğine
+ilişkin hususlar,
+5.
+Hizmet kalitesinin sağlanması,
+6.
+Şebeke yönetimi, bakım, işletmeye
+ve iyileştirmeye ilişkin hususlar,
+7.
+Arızaların giderilmesine yönelik
+prosedürler.
+8. Hizmet
+Seviyesi Anlaşması (Bunlarla sınırlı olmamak üzere, Yerel Ağa Ayrıştırılmış
+Erişime İlişkin Referans Teklifin 1.4, 4., 5., 6., 7. maddeleri ve bunlara
+ilişkin yaptırımları içerecek şekilde)
