@@ -1,7 +1,8 @@
 {
   "checked_on": "2026-11-13",
+  "corrects_commit": "c1bc5d91affa20271de346bf38f894d833817289",
   "date_gazette": "8485",
-  "date_quote": "15.08.1953",
+  "date_quote": "3 – Bu Nizamname hükümlerini İcr",
   "first_law": null,
   "gazette": "8485",
   "history": "current-text",
@@ -11,8 +12,8 @@
     "referenced": 0,
     "source": 0
   },
-  "in_force": "1953-08-15",
-  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "in_force": "1953-08-16",
+  "in_force_basis": "act commencement clause: 1 days after official Gazette publication",
   "kind": "bylaw",
   "label": "oldest version available",
   "published": "1953-08-15",
