@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6441",
+  "year": 1954,
+  "title": "Bazı Silâh, Mermi Ve Malzemenin Libya Devletine Hibe Edilmesi Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-12-14",
+  "gazette_issue": "8878",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8878.pdf",
+  "source_sha256": "e3eb85efd05f5425d9d7d86848a5d3cd62e427c1862f573df88a0ba07e2d1b6f",
+  "text_sha256": "637eb0b232173deff5e8ddc4ee3c9d5869e32209bf208c0a30c82d2b00c6065c",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      54,
+      67
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706441.pdf",
+    "source_sha256": "cd471927ac20b09882ed34e63b95c54d9e3c4b6853289f05911b91177e46e325",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9653,
+    "bag": 0.9275,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9802,
+    "rg_words": 108,
+    "kd_words": 101,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
