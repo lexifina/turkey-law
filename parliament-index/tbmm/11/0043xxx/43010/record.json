@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 43010,
+  "assembly": "TBMM",
+  "term": 11,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "Esaretin men'i hakkında 25 Eylül 1926 Tarihli Mukavelenameyi tadil eden Pnılukolüu tasdikine dair (1/389)",
+  "title": "Esaretin men'i hakkında 25 Eylül 1926 Tarihli Mukavelenameyi tadil eden Pnılukolüu tasdikine dair (1/389)",
+  "first_sitting_date": "1959-07-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 9,
+      "sitting": 81,
+      "sitting_date": "1959-07-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c009/tbmm11009081.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c009/tbmm11009fih.pdf",
+      "pages": [
+        "828"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 63,
+      "sitting_date": "1960-05-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d11/c013/tbmm11013fih.pdf",
+      "pages": [
+        "345"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=11&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=644&v_gelecek_sayfa=401&v_kullanici_id=27484289",
+  "source_sha256": "8c3a4301cd8848c35aa10e218017dbac893b4c6396515adbb0294349cf8a120c",
+  "in_force": "1959-07-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
