@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3910",
+  "year": 1993,
+  "title": "Sosyal Sigortalar Kanununun Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "1993-05-06",
+  "adopted_as_published": "06/05/1993",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.05.1993 No: 21579",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc076/kanuntbmmc076/kanuntbmmc07603910.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 76",
+  "committee_reports": [
+    {
+      "label": "TBMM 335 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c035/tbmm19035100ss0335.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 259942,
+      "title": "Sosyal Sigortalar Kanununun Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "06/05/1993",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc076/kanuntbmmc076/kanuntbmmc07603910.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 335 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c035/tbmm19035100ss0335.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 31,
+          "sitting": 75,
+          "sitting_date": "1993-03-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c031/tbmm19031075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c031/tbmm19031fih.pdf",
+          "pages": [
+            "22"
+          ]
+        },
+        {
+          "cilt": 33,
+          "sitting": 87,
+          "sitting_date": "1993-04-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c033/tbmm19033087.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c033/tbmm19033fih.pdf",
+          "pages": [
+            "264"
+          ]
+        },
+        {
+          "cilt": 35,
+          "sitting": 100,
+          "sitting_date": "1993-05-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c035/tbmm19035100.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c035/tbmm19035fih.pdf",
+          "pages": [
+            "389:411"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=380&v_gelecek_sayfa=101&v_kullanici_id=27483194",
+      "page_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a425df3267bc5a46372d53fa8fecc908a8b688e541ae421d1dbef3d4ac6475c1",
+  "issuer": "TBMM",
+  "in_force": "1993-05-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 06/05/1993; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
