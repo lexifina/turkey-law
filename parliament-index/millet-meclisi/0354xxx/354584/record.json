@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 354584,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "6802 Sayılı Gider Vergileri Kanununda bâzı değişiklikler yapılmasına ve akar yakıtlardan alınan Hazine hissesinin kaldırılmasına dair (1/791)",
+  "title": "6802 Sayılı Gider Vergileri Kanununda bâzı değişiklikler yapılmasına ve akar yakıtlardan alınan Hazine hissesinin kaldırılmasına dair (1/791)",
+  "first_sitting_date": "1965-02-10",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 35,
+      "sitting": 54,
+      "sitting_date": "1965-02-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035054.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c035/mm__01035fih.pdf",
+      "pages": [
+        "405"
+      ]
+    },
+    {
+      "cilt": 39,
+      "sitting": 105,
+      "sitting_date": "1965-05-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039105.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039fih.pdf",
+      "pages": [
+        "228"
+      ]
+    },
+    {
+      "cilt": 42,
+      "sitting": 134,
+      "sitting_date": "1965-06-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042134.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c042/mm__01042fih.pdf",
+      "pages": [
+        "443",
+        "598:609",
+        "652:654",
+        "725:728"
+      ]
+    },
+    {
+      "cilt": 43,
+      "sitting": 139,
+      "sitting_date": "1965-07-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043139.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c043/mm__01043fih.pdf",
+      "pages": [
+        "5",
+        "63:66"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5559&v_gelecek_sayfa=5301&v_kullanici_id=27484850",
+  "source_sha256": "130f98c0705d7d694b16b6393e308343f67f4ae7ca04ab5829c5353e9412ab97",
+  "in_force": "1965-02-10",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
