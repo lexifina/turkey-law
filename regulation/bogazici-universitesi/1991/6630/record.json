@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1991-11-21",
+      "21.11.1991",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "21058",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1991-11-21",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Boğaziçi Üniversitesi",
+  "issuer_slug": "bogazici-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bogazici-universitesi/1991/6630",
+  "published": "1991-11-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6630&MevzuatTertip=5",
+  "source_bytes": 15019,
+  "source_id": "8.5.6630",
+  "source_sha256": "a72b19b9ac7122ced30f5659515bc142d402df5f8e081cacd4d79d55342f6dd3",
+  "text_status": "as-enacted",
+  "title": "BOĞAZİÇİ ÜNİVERSİTESİ ARKEOMETRİ ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 183,
+  "word_count": 381
+}
