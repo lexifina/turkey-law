@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5301-2815/11188",
+  "source_id": 29989,
+  "date": "2001-02-23",
+  "title": "Açık artırma ile satılacak gayrimenkul toplam matrahın sahibi olduğunuz ¾ hisse indirildikten sonra kalan kısmına % 1 oranının uygulanması suretiyle ödenecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29989",
+  "source_sha256": "88c94884b0bb133025e67e4eba7b48e58a8767090f9b4e130c97e650dae4365d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
