@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2222/31305",
+  "source_id": 36314,
+  "date": "2002-07-15",
+  "title": "İntifa hakkının intikali ivazsız bir intikal olup, bu intikal nedeniyle veraset ve intikal vergisinin aranılması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36314",
+  "source_sha256": "ad05ca9499a6d7323c0e0ab4d5d61d18ad5e4d473f71d94f6008995a36db64d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
