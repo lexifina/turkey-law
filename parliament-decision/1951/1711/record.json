@@ -1,0 +1,84 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1711",
+  "year": 1951,
+  "title": "Kastamonu Milletvekili Tahsin Coşkan'ın Seçim Tutanağının Reddi Hakkında",
+  "adopted": "1951-02-14",
+  "adopted_as_published": "14/02/1951",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.02.1951 No: 7736",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/karartbmmc033/karartbmmc03301711.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 33",
+  "committee_reports": [
+    {
+      "label": "TBMM 2ek01 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c005/tbmm09005042ss0002ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 62591,
+      "title": "Kastamonu Milletvekili Tahsin Coşkan'ın Seçim Tutanağının Reddi Hakkında",
+      "adopted_as_published": "14/02/1951",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/karartbmmc033/karartbmmc03301711.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 2ek01 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c005/tbmm09005042ss0002ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 41,
+          "sitting_date": "1951-02-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c005/tbmm09005041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c005/tbmm09005fih.pdf",
+          "pages": [
+            "69"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 42,
+          "sitting_date": "1951-02-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c005/tbmm09005042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c005/tbmm09005fih.pdf",
+          "pages": [
+            "124:141",
+            "145:148"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 43,
+          "sitting_date": "1951-02-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c005/tbmm09005043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c005/tbmm09005fih.pdf",
+          "pages": [
+            "155",
+            "167:170"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "57f5d6a13942dc91a534daee615e9c033e448929879c76a5b3d96cfdcf0eb400"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "57f5d6a13942dc91a534daee615e9c033e448929879c76a5b3d96cfdcf0eb400",
+  "issuer": "TBMM",
+  "in_force": "1951-02-14",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 14/02/1951; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
