@@ -1,0 +1,2 @@
+Programa Kabul Edilecek Öğrenciler
+Madde 3- Fakülte Kurulu, kayıt ve kabul edilecek öğrencileri saptamada; Fakültenin derslik ve öğretim kapasitesi ile Milli Eğitim Gençlik ve Spor Bakanlığı’nın öğretmen ihtiyaçlarını göz önüne alır. Öğretmenlik Sertifikası Programı, Ankara Üniversitesinde, ortaöğretimde okutulan derslerde alan bilgisi veren fakültelerdeki ilgili bölümlerin öğrencilerine veya mezunlarına hizmet verir.
