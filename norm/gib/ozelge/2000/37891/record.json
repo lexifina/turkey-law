@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4428-87/3616",
+  "source_id": 37891,
+  "date": "2000-01-27",
+  "title": "Basit Usule tabi mükellefler kullanacakları, belgeleri ve zarfları bağlı oldukları oda veya birliklerden temin edeceklerdir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37891",
+  "source_sha256": "6d6087f1e01f0a023cdd1a3d2cafe1aeb97825b6cfba3fb3e92ded6161e9ebab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
