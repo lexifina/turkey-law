@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7257",
+  "year": 1959,
+  "title": "Emniyet Teşkilât Kanununun bazı maddelerinin değiştirilmesine dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-04-24",
+  "gazette_issue": "10190",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10190.pdf",
+  "source_sha256": "a924a933eb57cdf8654a15738d50b9ac7d715493458a7db4931743e8781bad82",
+  "text_sha256": "d0819d04603a8c570526c6072128ce57f3a6a4070903786f38c872c6b7cd3c2a",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      15,
+      73
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107257.pdf",
+    "source_sha256": "1ac057ed4db8447d9ecabfa4eed9bb4c1c3dda7fafb10d853556201ba64a499e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9569,
+    "bag": 0.8011,
+    "kd_coverage": 0.9845,
+    "kd_body_compared": 0.9845,
+    "rg_words": 177,
+    "kd_words": 193,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
