@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "75",
+  "label": "TBMM 75 no'lu Komisyon Raporu",
+  "title": "TBMM 3. Dönem Sıra Sayısı 75",
+  "document_date": "1928-02-25",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 2, birleşim 47)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c002/tbmm03002047ss0075.pdf",
+  "pdf_sha256": "770eb7ec0323926ae80578a296e0e136f0f3f0004d98016bda35f1080bea303b",
+  "pdf_bytes": 249468,
+  "pdf_pages": 3,
+  "index_entries": [
+    120679
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=1&v_cilt=",
+  "text_status": "metadata-only: an index entry citing this document withholds its title (it may name a private person)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": true,
+  "in_force": "1928-02-25",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "metadata"
+}
