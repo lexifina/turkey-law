@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2003/437",
+  "list_number": "437",
+  "decision_date": "2003-06-23",
+  "title": "YSK ilke kararı 2003/437",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4135/2003-437-karar.htm",
+  "source_sha256": "72019abaa134edb46ea073c5d135da3cb447027be75cbbfd1d90eb0139ef0d50",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2003-06-23",
+  "law_text_complete": false
+}
