@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7353",
+  "year": 1959,
+  "title": "Ege Üniversitesi adı ile İzmir'de bir üniversite kurulması hakkındaki 6595 sayılı Kanuna ek 6953 sayılı Kanuna bağlı (1) sayılı cetvele bazı kadrolar ilâvesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1959-06-22",
+  "gazette_issue": "10233",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10233.pdf",
+  "source_sha256": "702ed4b5fcb782812b9fa74ff875fd18178d5b4707707b276fc214e43ed75313",
+  "text_sha256": "14bc0052393f2a99c7f904b87832a541b78fd8aa65a67b2a3aaa3c9b2772907c",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      385,
+      416
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc041/kanuntbmmc041/kanuntbmmc04107353.pdf",
+    "source_sha256": "a76b093eca96ef0e3c76a0b5307ccc64c55f74026a800c3ce43bdeb561c0c5f9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9308,
+    "bag": 0.8966,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.978,
+    "rg_words": 85,
+    "kd_words": 91,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
