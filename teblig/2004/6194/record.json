@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.6194",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4077 SAYILI TÜKETİCİNİN KORUNMASI HAKKINDA KANUNUN 4822 SAYILI KANUN İLE DEĞİŞİK 25 İNCİ MADDESİNE GÖRE 2005 YILINDA UYGULANACAK OLAN İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ (TEBLİĞ NO : 2004/01)",
+  "number": "6194",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "path": "teblig/2004/6194",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6194&MevzuatTertip=5",
+  "source_sha256": "9e3506e34f06c4e280c2df3d8ab927d7ca9231413278049ba1f2428889733c84",
+  "source_bytes": 32659,
+  "published": "2004-12-17",
+  "gazette": "25673",
+  "in_force": "2005-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2005 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2005 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 284,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
