@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5732-87",
+  "source_id": 31141,
+  "date": "2004-11-03",
+  "title": "Kumanya teslimlerine ilişkin iade talebinde, gümrük çıkış beyannamesi yerine söz konusu ticari faturanın tevsik edici belge olarak kabul edilmesinin mümkün olması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31141",
+  "source_sha256": "60dea8438c65f0d5738043772cc43f7f17bbd28765b9bd98e132349136971dff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
