@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5265-23-45195",
+  "source_id": 38071,
+  "date": "1998-12-04",
+  "title": "İnşaat ruhsati ve kat irtifakı tesisinde 150 m2'nin altında konut olarak gösterilen gayrimenkullerin, henüz kaba inşaatı bitmemiş halde olsa dahi tesliminde katma değer vergisi oranının % 1 olarak uygulanması mümkün bulunmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38071",
+  "source_sha256": "e07bc5168d9ecd997f3a1fea51c6620ffcc588f90ad5f3adb4b166378594469a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
