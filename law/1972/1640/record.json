@@ -1,0 +1,167 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1640",
+  "year": 1972,
+  "title": "1972 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında kanun",
+  "adopted": "1972-12-06",
+  "adopted_as_published": "06/12/1972",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.12.1972 No: 14391",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601640.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 56",
+  "committee_reports": [
+    {
+      "label": "MM 759 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029012ss0759.pdf"
+    },
+    {
+      "label": "MM 759ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029012ss0759ek01.pdf"
+    },
+    {
+      "label": "MM 759ek02no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029012ss0759ek02.pdf"
+    },
+    {
+      "label": "CS 147no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c006/cs__11006096ss0147.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 393135,
+      "title": "1972 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında kanun",
+      "adopted_as_published": "06/12/1972",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601640.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 759 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029012ss0759.pdf"
+        },
+        {
+          "label": "MM 759ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029012ss0759ek01.pdf"
+        },
+        {
+          "label": "MM 759ek02no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029012ss0759ek02.pdf"
+        },
+        {
+          "label": "CS 147no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c006/cs__11006096ss0147.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 27,
+          "sitting": 137,
+          "sitting_date": "1972-09-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027137.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c027/mm__03027fih.pdf",
+          "pages": [
+            "85"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 11,
+          "sitting_date": "1972-11-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029fih.pdf",
+          "pages": [
+            "254"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 12,
+          "sitting_date": "1972-12-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029012.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029fih.pdf",
+          "pages": [
+            "372:374",
+            "393",
+            "410:411"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 14,
+          "sitting_date": "1972-12-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029014.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029fih.pdf",
+          "pages": [
+            "435",
+            "465",
+            "466:469"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=901&v_kullanici_id=27483225",
+      "page_sha256": "73570ac7e4b721378f174dbeceb43694614658149f4ee213db0ea84494175c07"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 321747,
+      "title": "1972 yılı Bütçe Kanununa bağlı cetvellerde değişiklik yapılması hakkında Kanun",
+      "adopted_as_published": "06/12/1972",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc056/kanuntbmmc056/kanuntbmmc05601640.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 759 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029012ss0759.pdf"
+        },
+        {
+          "label": "MM 759ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029012ss0759ek01.pdf"
+        },
+        {
+          "label": "MM 759ek02no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c029/mm__03029012ss0759ek02.pdf"
+        },
+        {
+          "label": "CS 147no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c006/cs__11006096ss0147.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 96,
+          "sitting_date": "1972-10-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c006/cs__11006096.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c006/cs__11006fih.pdf",
+          "pages": [
+            "613",
+            "624:625",
+            "628:632",
+            "633",
+            "647:649"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1601&v_kullanici_id=27483235",
+      "page_sha256": "d8af68d8dd0cd7bf3b6bd7cffb9ae8907f171fdba41142c0508421068a399a80"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "73570ac7e4b721378f174dbeceb43694614658149f4ee213db0ea84494175c07",
+  "issuer": "Millet Meclisi",
+  "in_force": "1972-12-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 06/12/1972; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
