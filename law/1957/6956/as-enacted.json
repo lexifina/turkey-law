@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6956",
+  "year": 1957,
+  "title": "6290 sayılı Kanuna ekli Gümrük Giriş Tarife Cetvelinin 37. faslının 37.01 ve 37.02 pozisyonlarında tâli pozisyonlar ihdası hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-05-14",
+  "gazette_issue": "9606",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9606.pdf",
+  "source_sha256": "f4e8009696393d607ab56dca5cc13d27b3fedeba0ac9f3b194b24a1ff4ddb484",
+  "text_sha256": "fecb26b2eef5752815b90448f987b2a98595277d30064ffdb4a2f91b7023351f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      20,
+      55
+    ],
+    [
+      85,
+      92
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906956.pdf",
+    "source_sha256": "3d9d6d8509c1720efb83d6f70c66e501594585dde1ed478df39ab72c3f987bec",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9425,
+    "bag": 0.8517,
+    "kd_coverage": 0.9905,
+    "kd_body_compared": 0.9722,
+    "rg_words": 104,
+    "kd_words": 108,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
