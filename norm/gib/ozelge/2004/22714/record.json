@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5529- 718 / 58214",
+  "source_id": 22714,
+  "date": "2004-12-07",
+  "title": "İşyerinde kullanılan ancak başkası adına kayıtlı olan su, elektrik, telefon fatura bedellerinin faaliyette bulunulan işyerine ait olduğunun ve işle ilgili olarak kullanıldığının kesin delillerle ispati halinde bu belgelere dayalı giderlerle ilgili olarak ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/22714",
+  "source_sha256": "f4af2c4ca3fca56ce99a2a8c709eb08bbedceba89f7724de3304ea5fecbe2ba5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
