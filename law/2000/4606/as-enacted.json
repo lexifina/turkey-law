@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4606",
+  "year": 2000,
+  "title": "Uydular Aracılığı ile Haberleşme Avrupa Teşkilatı Sözleşmesinde Yapılan Değişikliklerin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2000-12-02",
+  "gazette_issue": "24248",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2000/12/20001202.htm",
+  "source_sha256": "2d012713e7406c01dd450dc7c439b3cc43526b6f9371ac1c1d859f7b7b66dcd5",
+  "text_sha256": "4a678b1e7276528b1304ca43f5f3bc666a922d869c19c21f087a491a2d3a7233",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2000/12/02/24248-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2000/12/20001202.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
