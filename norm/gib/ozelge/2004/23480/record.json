@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-1949/1225",
+  "source_id": 23480,
+  "date": "2004-01-09",
+  "title": "Özel gider indirimi uygulaması nedeniyle eksik ödenen gelir vergisi için yapılacak ikmalen veya re'sen tarhıyatla ilgili vergi/ceza ihbarnamesinin, işveren konumunda olan Köy Hizmetleri 4. Bölge Müdürlüğü adına düzenlenmesi gerekmektedir. Ayrıca, işveren ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23480",
+  "source_sha256": "e9634a5252a8eb23e9a5b74060f19ac429e21a8261a2161114864aed25fde7c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
