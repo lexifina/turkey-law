@@ -1,0 +1,6 @@
+Öğretim Süresi
+Madde 22 — Boğaziçi Üniversitesi - Suny Binghamton uluslararası ortak lisans programlarının normal süresi sekiz yarıyıldır. İngilizce Hazırlık Programında geçirilen süreler, bu sürenin dışındadır.
+Daha önceki maddelerde belirtilen koşullar saklı kalmak şartıyla bu programlara kabul edilen öğrenciler birinci ve üçüncü yıllarını Boğaziçi Üniversitesinde, ikinci ve dördüncü yıllarını Binghamton Üniversitesinde okurlar. Öğrenciler Suny-Binghamton’daki öğrenimlerine her akademik yılın I. Yarıyılı (Güz Dönemi) başında başlarlar.
+Öğrenciler, lisans programlarını azami yasal süreler içinde tamamlamak zorundadırlar. Yasal süre sonunda programlarını tamamlamamış olan öğrencilerin Üniversite ile ilişikleri kesilir.
+Yasal azami okuma süresi İngilizce hazırlık programında geçirilen süreler hariç Lisans eğitimi için 14 yarıyıldır. Öğrencinin fiilen kayıtlı olup ders aldığı yarıyılların toplam sayısı ve transfer ettiği dönemler ile süreye sayılarak verilen yarıyıl izinlerinin toplamı, azami yasal süreden düşülerek kalan süre hesaplanır. Dönemi bitirenlerin Yaz Döneminde ders alarak mezun olmalarına olanak tanınmıştır ve ilişki kesilmesi Güz Dönemi başında yapılır.
+Toplam kredilerinin % 75'ini tamamlayan (credits completed) öğrenciler son sınıf sayılırlar.

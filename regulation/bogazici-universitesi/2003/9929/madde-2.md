@@ -1,0 +1,2 @@
+Madde 2 — Boğaziçi Üniversitesi'nde öğretim dili İngilizce'dir. ÖSS sınavı ile Üniversite'ye yerleştirilen öğrencilerden İngilizce dil bilgilerinin yeterli olduğunu TOEFL sınavında öngörülen skoru alarak kanıtlayanlar, yerleştirildikleri programlara kayıt yaptırabilirler. Diğerleri Yabancı Diller Yüksekokulu Hazırlık Okulu Yönetmeliği uyarınca dil öğrenimi görürler.
+Programlara yatay geçiş yapmak için başvuruda bulunanlar İngilizce dil bilgilerini yukarıdaki şartlara uygun bir dil sınavı ile kanıtlamış olmak zorundadırlar, aksi halde kabulleri yapılmaz.

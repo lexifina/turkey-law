@@ -1,0 +1,2 @@
+Sınamalı Öğrenciler
+Madde 16 — Herhangi bir yarıyıl sonunda GNO'ları 2.00'nin altında olan öğrenciler, sınamalı öğrenci sayılırlar. Sınamalı öğrencilere fazla ders yükü verilmez. Bu öğrenciler Boğaziçi Üniversitesi Öğrenci İşleri Şube Müdürlüğü'ne bağlı olarak faaliyette bulunan klüplere ve Spor Kuruluna başkan, başkan yardımcısı ve yönetim kurulu üyesi olamazlar ve Üniversite burslarından yararlanamazlar.
