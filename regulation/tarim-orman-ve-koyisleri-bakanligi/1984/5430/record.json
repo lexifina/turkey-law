@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.5430",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMAN KANUNUNUN 112,113 VE 114 NCÜ MADDELERİNİN UYGULANMASI HAKKINDA YÖNETMELİK",
+  "number": "5430",
+  "issuer": "Tarım Orman ve Köyişleri Bakanlığı",
+  "issuer_slug": "tarim-orman-ve-koyisleri-bakanligi",
+  "path": "regulation/tarim-orman-ve-koyisleri-bakanligi/1984/5430",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5430&MevzuatTertip=5",
+  "source_sha256": "1218e01e6a2682df5dd9537e2e7103eaca89b422ac6645ffaee157d2b1f392ac",
+  "source_bytes": 28288,
+  "published": "1984-07-12",
+  "gazette": "18456",
+  "in_force": "1984-07-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.07.1984); own commencement article: \"Bu Yönetmelik Resmi Gazetede yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazetede yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 940,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
