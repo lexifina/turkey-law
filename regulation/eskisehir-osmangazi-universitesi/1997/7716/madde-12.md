@@ -1,0 +1,1 @@
+Madde 12: Spor Birliği Genel Kurulu ve Yönetim Kurulunda görevli üyelerden görev süresi dolan veya görevinden çekilen üyelerin yerlerine yenilerinin seçimi, seçmeye yetkili makam veya organ tarafından 15 gün içerisinde yapılır.

@@ -1,0 +1,1 @@
+Madde 1: Bu yönetmelik, Yükseköğretim Kurumları "Mediko-Sosyal, Sağlık, Kültür ve Spor İşleri Dairesi Uygulama Yönetmeliği'nin 17.maddesi uyarınca, Osmangazi Üniversitesi Spor Birliğinin kuruluşu, örgütlenme, yönetim ve çalışmaları ile görevlilerin yetki ve sorumluluklarına ilişkin esasları kapsar.
