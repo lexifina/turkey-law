@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 132916,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "TEFSİRLER",
+  "heading_as_published": "Tefsirler",
+  "summary": "Matbaa alât ve edevatiyle kitap ve gazete kâğıtlarının Gümrük Resminden istisnasına dair olan 9 Kânunuevvel 1336 tarihli Kanunun ikinci maddesinin tefsiri. (Gümrükten istisna kararı vermekte Heyeti Vekilenin muhtar olduğu hakkında.)",
+  "title": "Matbaa alât ve edevatiyle kitap ve gazete kâğıtlarının Gümrük Resminden istisnasına dair olan 9 Kânunuevvel 1336 tarihli Kanunun ikinci maddesinin tefsiri. (Gümrükten istisna kararı vermekte Heyeti Vekilenin muhtar olduğu hakkında.)",
+  "first_sitting_date": "1923-12-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 4,
+      "sitting": 75,
+      "sitting_date": "1923-12-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c004/tbmm02004075.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c004/ehttbmm02004075.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c004/tbmm02004fih.pdf",
+      "pages": [
+        "490"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 93,
+      "sitting_date": "1924-01-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005093.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005093.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+      "pages": [
+        "487:488"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEFS%DDRLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "726f99e0b1386a2a326b1382306515418f861fcbd9c4635a436d2a7acd94ffbd",
+  "in_force": "1923-12-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
