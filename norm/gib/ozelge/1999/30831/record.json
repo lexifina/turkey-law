@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5226-4/55467",
+  "source_id": 30831,
+  "date": "1999-12-15",
+  "title": "Yatırımcı firmadan alınan avansla satın alınan malların bu firmaya teslim edildiği tarihte düzenlenecek faturada, döviz tutarının TL karşılığı katma değer vergisi hesaplanması gerekmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30831",
+  "source_sha256": "3d00b0e78920191a71016e78306f76e92e449d0b8626de9dc3c75ddf844e5ed2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
