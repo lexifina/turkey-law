@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4204-257/30799",
+  "source_id": 23744,
+  "date": "2003-07-16",
+  "title": "Mükelleflerce kullanılmakta olan, ancak abonesi başka kişiler adına kayıtlı olan  elektrik giderinin doğrudan ödevlilerin faaliyette bulundukları işyerlerine ilişkin olduğunun tevsiki halinde bunların serbest meslek kazancının tespitinde gider olarak indi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23744",
+  "source_sha256": "26a66a1e9adddea23ab536a367796964cf1d88e58907bac73b91000e1ae4971a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
