@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-06-11",
+  "issue": "25135",
+  "edition": "regular",
+  "item": 47,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "Şap Enstitüsü Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030611-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (61 = 61)",
+  "ilan_codes": [
+    "18164/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030611-3-4.htm",
+  "category_page_sha256": "391c52ac44173c956a696a4624708ff3aaf84281d5f7afcc5f8653000a454e40",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/06/20030611.htm",
+  "index_sha256": "10228e639182d89139550b84ff5e9622e1493111620a2a7455c9ae0a2e463620",
+  "index_header": "11 Haziran 2003 ... Sayı : 25135",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
