@@ -1,0 +1,2 @@
+Rehnin icra dairesine bildirilmesi:
+Madde 15 – Ticari işletmenin veya bu işletmelerde mevcut unsurların haczi sırasında, ticari işletmenin bağlı bulunduğu ticaret veya esnaf ve sanat sicilinden borçlunun işletmesi veya işletmeye dahil münferit unsurları üzerinde rehin hakkı tesis edilip edilmediğini, haczi yapacak olan icra memurunun re'sen sorması halinde, sicil memuru gerekli bilgiyi derhal vermek zorundadır.
