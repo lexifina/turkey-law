@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5006",
+  "year": 2003,
+  "title": "İmar Kanunu ile İmar ve Gecekondu Mevzuatına Aykırı Yapılara Uygulanacak Bazı İşlemler ve 6785 Sayılı İmar Kanununun Bir Maddesinin Değiştirilmesi Hakkında Kanunda Değişiklik Yapılmasına İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-12-17",
+  "gazette_issue": "25319",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031217.htm",
+  "source_sha256": "987a2af08d77a6a6655d1a1603019fdf9458bba06c41b723f3346445cf1ce56b",
+  "text_sha256": "f96273d386277cab1daf09c6230516102e55eb88510c1c9dcd7ef518358a5ca2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/12/17/25319-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031217.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
