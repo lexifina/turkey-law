@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6327",
+  "year": 1954,
+  "title": "Türkiye Petrolleri Anonim Ortaklığı Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1954-03-16",
+  "gazette_issue": "8659",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8659.pdf",
+  "source_sha256": "e12aa91ea021843a8d01959b8cd9d4079a6b834976b628a648a49bcc3718f91f",
+  "text_sha256": "adb7246f59107d0759caf228f139c43a78b0cddefd04bec190cfd413f82af658",
+  "text_status": "ocr",
+  "pages": [
+    12
+  ],
+  "line_span": [
+    [
+      1573,
+      1695
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc036/kanuntbmmc036/kanuntbmmc03606327.pdf",
+    "source_sha256": "bdc7811d59618b2eff4b51a1ca34685204fc373e17b008c48e0e9e1d580f7d32",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9841,
+    "bag": 0.9462,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.998,
+    "rg_words": 974,
+    "kd_words": 981,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
