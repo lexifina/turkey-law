@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55/5510-264",
+  "source_id": 38051,
+  "date": "2004-07-30",
+  "title": "Yol yardım ve destek hizmetleri kuruluşu olarak Konya bölgesinde yetkili çekicilik ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38051",
+  "source_sha256": "e9336d1fc79967e15d154838d1d15d202a5c3b17e343cfee495bbb424cf7b673",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
