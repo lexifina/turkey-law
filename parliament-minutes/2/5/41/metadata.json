@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 2,
+  "term_label": "2. Dönem",
+  "legislative_year": 5,
+  "cilt": 30,
+  "sitting": 41,
+  "label": "41. Birleşim",
+  "sitting_date": "1927-03-09",
+  "date_as_published": "09 Mart 1927",
+  "weekday": "Çarşamba",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c030/tbmm02030041.pdf",
+  "old_script_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c030/ehttbmm02030041.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c030/tbmm02030fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d02&v_yasama_yili=5&v_cilt=",
+  "source_sha256": "c06cf7037dc84822fe4810aa849cfb0994200256851f64c6cc15de7fcc8123e4",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
