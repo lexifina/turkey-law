@@ -50,3 +50,7 @@ Ayrı ayrı oylanır.
 Halkoylaması, ilk milletvekili genel seçimi ile birarada yapılır.
 3– 13/8/1999 tarih ve 4446 sayılı Kanunun 4 üncü maddesi:
 Madde 4 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halk oylamasına sunulması halinde 1 inci maddesi ayrı, 2 ve 3 üncü maddeleri birlikte ayrı oylanır.
+4- 3/10/2001 tarihli ve 4709 sayılı Kanunun 35 inci ve Geçici Maddesi:
+Geçici Madde - A) Bu Kanunun 24 üncü maddesi ile Anayasanın 67 nci maddesine son fıkra olarak eklenen hüküm bu Kanunun yürürlüğe girmesinden sonra yapılacak ilk genel seçimde uygulanmaz.
+B) Bu Kanunun 28 inci maddesi ile Anayasanın 87 nci maddesinde yapılan değişiklik, bu Kanunun yürürlük tarihinden önce, Anayasanın 14 üncü maddesindeki fiilleri işleyenler hakkında uygulanmaz.
+Madde 35- Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması halinde tümüyle oylanır.

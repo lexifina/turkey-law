@@ -5,3 +5,4 @@ Milletlerarası bir andlaşmaya dayanan uygulama andlaşmaları ile kanunun verd
 Türk kanunlarına değişiklik getiren her türlü andlaşmaların yapılmasında birinci fıkra hükmü uygulanır. Usulüne göre yürürlüğe konulmuş milletlerarası andlaşmalar kanun hükmündedir. Bunlar hakkında Anayasaya aykırılık iddiası ile Anayasa Mahkemesine başvurulamaz.
 –––––––––––––––––
 (1) Bu madde başlığı “5. Üyeliğin düşmesi” iken, 23/7/1995 tarihli ve 4121 sayılı Kanunun 9 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(2) 3/10/2001 tarihli ve 4709 sayılı Kanunun 28 inci maddesiyle, bu maddede yer alan "Anayasanın 14 üncü maddesindeki fiillerden dolayı hüküm giyenler hariç olmak üzere," ibaresi kaldırılmış; "genel ve özel af ilanına" ibaresinden önce gelmek üzere "Türkiye Büyük Millet Meclisi üye tamsayısının beşte üç çoğunluğunun kararı ile" ibaresi eklenmiş ve metne işlenmiştir.

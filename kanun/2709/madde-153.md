@@ -4,3 +4,5 @@ Kanun, kanun hükmünde kararname veya Türkiye Büyük Millet Meclisi İçtüz�
 İptal kararının yürürlüğe girişinin ertelendiği durumlarda, Türkiye Büyük Millet Meclisi, iptal kararının ortaya çıkardığı hukuki boşluğu dolduracak kanun tasarı veya teklifini öncelikle görüşüp karara bağlar.
 İptal kararları geriye yürümez.
 Anayasa Mahkemesi kararları Resmi Gazetede hemen yayımlanır ve yasama, yürütme ve yargı organlarını, idare makamlarını, gerçek ve tüzelkişileri bağlar.
+––––––––––––––––
+(1) 3/10/2001 tarihli ve 4709 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan "iptale" ibaresinden sonra gelmek üzere "ve siyasî parti davalarında kapatılmaya" ibaresi eklenmiş, "üçte iki" ibaresi "beşte üç" olarak değiştirilmiş ve metne işlenmiştir.
