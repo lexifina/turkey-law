@@ -1,0 +1,52 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6879",
+  "year": 1956,
+  "title": "Avrupa Para Anlaşması ve Avrupa Para Anlaşmasının muvakkat tatbik protokolünün tasdikine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1957-01-07",
+  "gazette_issue": "9502",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9502.pdf",
+  "source_sha256": "90591acfe7cad6596df2f7c4932bc1e8c041e157bbd9e37999e569d619cc2e0f",
+  "text_sha256": "8eb4502e8278843da74197f5515c1d64c8c847d6e8a1db1194c45945b321d268",
+  "text_status": "ocr",
+  "pages": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "line_span": [
+    [
+      912,
+      2239
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906879.pdf",
+    "source_sha256": "f54661246740f5904bc39fdf530e87acbaace0965d2c9b7cacf3295b42d1f359",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9404,
+    "bag": 0.8764,
+    "kd_coverage": 0.9994,
+    "kd_body_compared": 0.9994,
+    "rg_words": 7652,
+    "kd_words": 7973,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
