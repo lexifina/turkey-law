@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4040-22/42220",
+  "source_id": 21054,
+  "date": "2004-09-09",
+  "title": "Ticari işletmenin aktifine kayıtlı taşıta ait olan; amortisman gideri, kasko gideri, aracın alımında kullanılan kredi faiz gideri, tescil dosyası bedeli, araca ait motorlu taşıtlar ve taşıt alım vergisi ile işletmeye ait çevre temizlik vergisinin yıllık g",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21054",
+  "source_sha256": "e70f30d233c39ba5fd8fe99a87a93c03be5a985db38726989e2effa7492d80f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
