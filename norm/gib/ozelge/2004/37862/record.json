@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4236-1/45443",
+  "source_id": 37862,
+  "date": "2004-04-29",
+  "title": "Enerji Desteği Uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37862",
+  "source_sha256": "344d9cbd098fc32c1635f75bd60df4c38a6f4f82bfe1c3ab305b1e16c901f5c5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
