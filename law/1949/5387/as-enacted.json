@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5387",
+  "year": 1949,
+  "title": "Korunmaya Muhtaç Çocuklar hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-05-27",
+  "gazette_issue": "7217",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7217.pdf",
+  "source_sha256": "13d50b7a5a810de157792097524d1dec316f435cbe2de6260f4a5f152e360992",
+  "text_sha256": "1eb2153e603c406a58be6ddb78a24b8d1c4adb6bfe8e089b5e388ce8503b6109",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      10,
+      244
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105387.pdf",
+    "source_sha256": "7bb77f3711f18c25b59299fb9c332e4c37193642af71ae92b5aef7b7ffd07b11",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9797,
+    "bag": 0.9356,
+    "kd_coverage": 0.9994,
+    "kd_body_compared": 0.9969,
+    "rg_words": 1574,
+    "kd_words": 1612,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
