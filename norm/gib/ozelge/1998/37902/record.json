@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.40/4043-16-14333",
+  "source_id": 37902,
+  "date": "1998-04-22",
+  "title": "Yurtdışında ikamet eden ve kira gelirinden dolayı beyanname veren mükellefin faiz gelirlerini ilgili beyan sınırını aşması halinde beyan edeceği tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37902",
+  "source_sha256": "098a777e161d35e55246551c10ad322d29c5cb7cf0a7ae213535a1af7fb6489b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
