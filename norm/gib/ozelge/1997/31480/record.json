@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53-5314-372/22705",
+  "source_id": 31480,
+  "date": "1997-06-02",
+  "title": "Transit ve Türkiye ile yabancı ülkeler arasında deniz, hava ve demiryolu ile yapılan yük ve yolcu taşıma işleri katma değer vergisinden istisna edilmiştir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31480",
+  "source_sha256": "ebec9a3fcd4572a246900e1f45b8c5dd2c95be3a0deeac5d13c87d0d3f213d53",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
