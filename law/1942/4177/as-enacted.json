@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4177",
+  "year": 1942,
+  "title": "Askerî tayınat ve yem kanununun, 4 ve 36. maddelerinin tadiline ve 33. maddesine bir fıkra ilâvesine dair olan kanunun ikinci maddesine bir fıkra eklenmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-01-30",
+  "gazette_issue": "5020",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5020.pdf",
+  "source_sha256": "df39eea98f2128fa5eab16d73ae9f6f6e033d06d46d9915f67dc03be45b9fd50",
+  "text_sha256": "4b70769cd14fb3c6b6acd4a4cf9710e46bcd35d48654804587d9d5e334eae06e",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      495,
+      515
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304177.pdf",
+    "source_sha256": "acf259b099e9d679ff5ee8f9f5e02a072e71178aa5341c9a09e11e755f059dd2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.959,
+    "bag": 0.8788,
+    "kd_coverage": 0.98,
+    "kd_body_compared": 0.9612,
+    "rg_words": 99,
+    "kd_words": 103,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
