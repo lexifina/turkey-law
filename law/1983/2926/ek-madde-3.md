@@ -1,0 +1,2 @@
+Ek Madde 3- (Ek:24/7/2003-4956/54 md.)
+1479 sayılı Kanunun birinci kısmında yer alan 20 nci madde, ikinci kısım ikinci, üçüncü, dördüncü ve beşinci bölümde yer alan maddelerin tamamı, altıncı bölümde yer alan 56 ncı madde dahil 74 üncü maddeye kadar olan maddelerin tamamı ile 76, 78 ve 79 uncu maddeleri, yedinci bölümde yer alan 80 inci maddesi, ek 9, ek 12, ek 13, ek 14, ek 15, ek 16, ek 17, ek 18, ek 19 uncu maddeleri, geçici 10 ve 11 inci maddeleri, 2926 sayılı Kanuna tâbi sigortalılar hakkında da uygulanır.

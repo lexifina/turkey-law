@@ -1,0 +1,3 @@
+Başka kurumda geçen hizmetin ihyası:
+Geçici Madde 2 – 506 sayılı Sosyal Sigortalar Kanunu ile aynı Kanunun geçici 20 nci maddesine göre daha önce sigortalı olup da primlerini toptan ödeme şeklinde geri alanlardan bu Kanuna göre sigortalı olanlar, toptan ödeme yapılan süreleri belgeledikleri takdirde bu süreleri borçlanabilirler.
+İhya edilen sürelere ilişkin primler talep tarihinde geçerli prim tutarları esas alınmak suretiyle sigortalının bulunduğu basamak üzerinden hesaplanır. Hesaplanan tutarın talep tarihinden itibaren üç yıl içinde ödenmesi şarttır. Bu süre içerisinde primi ödenmeyen süreler hizmetten sayılmaz.

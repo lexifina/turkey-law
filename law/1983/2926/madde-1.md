@@ -1,0 +1,1 @@
+Madde 1 – Bu Kanunun amacı tarımda kendi adına ve hesabına bağımsız çalışanlara ve hak sahiplerine, malullük, yaşlılık ve ölüm hallerinde bu Kanunda yazılı şartlarla sosyal sigorta yardımları sağlamaktır.
