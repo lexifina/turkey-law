@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6066",
+  "year": 1953,
+  "title": "Ankara Üniversitesi 1952 Yılı Bütçe Kanununa Bağlı (A/1) İşaretli Cetvelde Münakale Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-02-28",
+  "gazette_issue": "8347",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8347.pdf",
+  "source_sha256": "cda4508d2179746c62f718e9f18317b89cbc74d94bb85d058f083e7240b276a0",
+  "text_sha256": "6817f8a8dc8595470b2e4ce912595a1564a255af934f48dc64d83fae6deb43da",
+  "text_status": "ocr",
+  "pages": [
+    27
+  ],
+  "line_span": [
+    [
+      7508,
+      7551
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506066.pdf",
+    "source_sha256": "66218d621abfd822bce16f065187e4d7dc6f4c8c1ce9da7c2c46811bd2750bd1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9557,
+    "bag": 0.9339,
+    "kd_coverage": 0.9774,
+    "kd_body_compared": 0.9774,
+    "rg_words": 127,
+    "kd_words": 133,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
