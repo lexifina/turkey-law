@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.57/5711-500 / 58205",
+  "source_id": 31081,
+  "date": "2004-12-07",
+  "title": "İhracat istisnasının en önemli belgelerinden olan Gümrük Çıkış Beyannamesi ibraz edilmeden, bir firma tarafından kargo ( TNT veya UPS)  yoluyla gerçekleştirilen yurt dışı teslimlerinin, tevsik edici belgeyle ispatlanamaması nedeniyle, ihracat teslimi olar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31081",
+  "source_sha256": "c7d55a760c951b791b478e5d0db5f2e8dc785fa9adafbe1b6f38c911bd508c07",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
