@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-970/12204",
+  "source_id": 37480,
+  "date": "1999-03-25",
+  "title": "OHAL bölgesi kapsamındaki illerde yapılacak teşvik belgeli yatırımların vergi, resim ve harçlar karşısındaki durumu hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/37480",
+  "source_sha256": "6519e0d4f9241eb2fa576dcc4a79c77bfb5d0589d3623211dd2c8d57fc851397",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
