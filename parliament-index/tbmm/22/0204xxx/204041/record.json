@@ -1,0 +1,83 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 204041,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Devlet Memurları Kanunu ve Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile Diğer Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair (1/946)",
+  "title": "Devlet Memurları Kanunu ve Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile Diğer Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair (1/946)",
+  "first_sitting_date": "2005-03-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 77,
+      "sitting": 68,
+      "sitting_date": "2005-03-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c077/tbmm22077068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c077/tbmm22077fih.pdf",
+      "pages": [
+        "187:263"
+      ]
+    },
+    {
+      "cilt": 77,
+      "sitting": 69,
+      "sitting_date": "2005-03-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c077/tbmm22077069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c077/tbmm22077fih.pdf",
+      "pages": [
+        "327",
+        "328:404"
+      ]
+    },
+    {
+      "cilt": 78,
+      "sitting": 71,
+      "sitting_date": "2005-03-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c078/tbmm22078071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c078/tbmm22078fih.pdf",
+      "pages": [
+        "21:27",
+        "28:33",
+        "34:94"
+      ]
+    },
+    {
+      "cilt": 78,
+      "sitting": 72,
+      "sitting_date": "2005-03-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c078/tbmm22078072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c078/tbmm22078fih.pdf",
+      "pages": [
+        "111:153"
+      ]
+    },
+    {
+      "cilt": 78,
+      "sitting": 74,
+      "sitting_date": "2005-03-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c078/tbmm22078074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c078/tbmm22078fih.pdf",
+      "pages": [
+        "402:485",
+        "511:520"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1277&v_gelecek_sayfa=801&v_kullanici_id=27484575",
+  "source_sha256": "d91343ffb7db24c728fa3757c35e4792f67260c44a71b89c2cdd5cf515e3652a",
+  "in_force": "2005-03-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
