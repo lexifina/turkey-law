@@ -1,0 +1,1 @@
+Madde 10 – Memaliki ecnebiyede müteşekkil olup Türkiyede müseccel bulunan sigorta şirketlerinin Türkiye hududu dahilindeki muhataratı doğrudan doğruya memaliki ecnebiyedeki merkezlerinde sigorta etmeleri memnudur. Hilafında hareket 1160 numaralı kanunun dokuzuncu maddesinin mezkür şirketlerin Türkiyedeki mümessillerine tatbikını müstelzimdir.

@@ -1,0 +1,1 @@
+Madde 9 – Mükerrer sigorta şirketi nizami ihtiyat akçelerini ve fenni ihtiyatlarını memleket dahilinde tenmiye etmek mecburiyetinde olup işbu hususu Milli Reassürans Türk Anonim Şirketi ile ecnebi mükerrer sigorta Şirketleri arasında aktedilecek mukavelenamelerde tasrih olunacaktır.

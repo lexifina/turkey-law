@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "gazette": "1240",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1971-11-14",
+  "in_force_basis": "source amendment commencement table: 25.10.1971 | 7/3312 | - | 14.11.1971",
+  "issuer": "Council of Ministers",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "listing_gazette": "1240",
+  "listing_published": "1929-07-13",
+  "published": "1929-07-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=3&MevzuatNo=8197&MevzuatTertip=3",
+  "source_bytes": 38070,
+  "source_id": "3.3.8197",
+  "source_sha256": "0d6b8e3cf1727d15a08f248392f593583f2387a0cefc3fb6cadecdf0eccffcd1",
+  "title": "MÜKERRER SİGORTA MURAKABE YÖNETMELİĞİ",
+  "word_count": 1665
+}
