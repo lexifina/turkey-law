@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5201-134/4013",
+  "source_id": 33459,
+  "date": "2002-01-28",
+  "title": "Kullanım süresi geçmesi nedeniyle imha edilen ilaçların, zayi olan mallar kapsamında değerlendirilmez.İmha edilen ilaçların alış faturalarında gösterilen katma değer vergisinin indirim konusu yapılabileceği tabiidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33459",
+  "source_sha256": "e5716ec15fd82069503215b601d109d85b0f53b822dd92c573b160834acaf22d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
