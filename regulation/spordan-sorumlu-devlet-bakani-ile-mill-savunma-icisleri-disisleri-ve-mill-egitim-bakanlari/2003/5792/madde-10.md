@@ -1,0 +1,2 @@
+Anma Törenleri Süresince Yapılacak Çeşitli Düzenlemeler
+Madde 10 — Gaziler Günü anma töreni süresince, bando konserleri verilir. Anma komitesi, mevcut imkânları göz önünde bulundurarak, Şehitler ve Gaziler Gününün anlam ve önemine uygun faaliyetleri (Televizyon ve radyo programları, resim ve şiir yarışmaları, broşür, bülten, kitapçık vb.) ilgili kamu kurum ve kuruluşları ile koordineli olarak icra eder.
