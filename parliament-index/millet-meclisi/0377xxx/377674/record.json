@@ -1,0 +1,68 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 377674,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "6964 sayılı Ziraat Odaları ve Türkiye Ziraat Odaları Birliği Kanununun bâzı maddelerinin değiştirilmesi hakkında kanun tasarısı ile Bursa Milletvekili Kasım Önadım ve 12 arkadaşının, Ziraat Odaları ve Ziraat Odaları Birliği Kanununun bâzı maddelerinin değiştirilmesine ve bir geçici madde eklenmesine ve Sakarya Milletvekilli Hayrettin Uysal ve 11 arkadaşının, 15 Mayıs 1957 tarih ve 6964 sayılı Ziraat Odaları ve Ziraat Odaları Birliği Kanununun bâzı maddelerinin değiştirilmesine ve bâzı maddelerinin kaldırılmasına ve adı geçen kanuna bazı maddeler eklenmesine dair kanun teklifleri ve Adalet, Tarım ve Plân komisyonlarından seçilen 4 er üyeden kurulu 39 No.lu Geçici Komisyon raporu (1/333, 2/50, 2/79)",
+  "title": "6964 sayılı Ziraat Odaları ve Türkiye Ziraat Odaları Birliği Kanununun bâzı maddelerinin değiştirilmesi hakkında kanun tasarısı ile Bursa Milletvekili Kasım Önadım ve 12 arkadaşının, Ziraat Odaları ve Ziraat Odaları Birliği Kanununun bâzı maddelerinin değiştirilmesine ve bir geçici madde eklenmesine ve Sakarya Milletvekilli Hayrettin Uysal ve 11 arkadaşının, 15 Mayıs 1957 tarih ve 6964 sayılı Ziraat Odaları ve Ziraat Odaları Birliği Kanununun bâzı maddelerinin değiştirilmesine ve bâzı maddelerinin kaldırılmasına ve adı geçen kanuna bazı maddeler eklenmesine dair kanun teklifleri ve Adalet, Tarım ve Plân komisyonlarından seçilen 4 er üyeden kurulu 39 No.lu Geçici Komisyon raporu (1/333, 2/50, 2/79)",
+  "first_sitting_date": "1970-07-07",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 121,
+      "sitting_date": "1970-07-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008121.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 135,
+      "sitting_date": "1970-07-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008135.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+      "pages": [
+        "744:7154"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 136,
+      "sitting_date": "1970-07-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008136.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+      "pages": [
+        "764:799"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 137,
+      "sitting_date": "1970-07-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008137.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c008/mm__03008fih.pdf",
+      "pages": [
+        "880:887",
+        "889:921"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=2101&v_kullanici_id=27484836",
+  "source_sha256": "071002a7de3c12b8b2b0b417a169e874d13b4e0bc2c96060cbc9d569dd067d55",
+  "in_force": "1970-07-07",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
