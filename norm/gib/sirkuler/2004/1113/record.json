@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-5/2004-3/Tevkifat Uygulaması-1",
+  "source_id": 1113,
+  "date": "2004-03-11",
+  "title": "Her nevi tahvil ve hazine bonosu faizleri, mevduat faizleri, kar ve zarar ortaklığı belgesi karşılığı ödenen kar payları ve repo gelirleri üzerinden gelir vergisi tevkifatı yapılacağı hükme bağlanmıştır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1113",
+  "source_sha256": "9172804d3895603ef8e9834d11676788009e5d1711cbc0738415ba192ede6e5b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
