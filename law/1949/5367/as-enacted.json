@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5367",
+  "year": 1949,
+  "title": "Bilûmum Hava Meydan ve Limanlariyle bunlarla ilgili bina ve tesislerin Bayındırlık Bakanlığınca yapılması hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-04-15",
+  "gazette_issue": "7183",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7183.pdf",
+  "source_sha256": "c0884ce79a990293e027a55a291b998d20c3ecdcaaf31e4ecf3aec2a92a73ba7",
+  "text_sha256": "b13b072893d1214cc86327ae9bcc3de3252f4ee0bc8cca51e618eb6908a930f3",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      55,
+      130
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105367.pdf",
+    "source_sha256": "6a011e48bda3e46c49533df1a2962dd14e2cc8dc09ab90235f7ab699298ede04",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9619,
+    "bag": 0.924,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9963,
+    "rg_words": 519,
+    "kd_words": 535,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
