@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2601",
+  "year": 1934,
+  "title": "Hudud ve Sahiller Sıhhat Umum Müdürlüğü 1934 malî senesi bütçesinde münakale yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1934-12-12",
+  "gazette_issue": "2878",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2878.pdf",
+  "source_sha256": "2f3b86db3f4162351f413ee905de727bdb0b8ef09e1bc20d3c3d9b315d25e585",
+  "text_sha256": "7f9c766f6e252d6a27e5c0d794e702ebb892a27a01c0e86990b121041ad6e2b2",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      94,
+      118
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402601.pdf",
+    "source_sha256": "656bbb2657e8207794e7919f89cb093f66864505519171d602aebd6eb2fa32a4",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9631,
+    "bag": 0.8676,
+    "kd_coverage": 0.9859,
+    "kd_body_compared": 0.9333,
+    "rg_words": 66,
+    "kd_words": 75,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
