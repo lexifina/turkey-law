@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2073",
+  "year": 1932,
+  "title": "1931 malî senesi zarfında amenajman ve teşcir işlerinde istihdam edilmiş olan orman fen memurlarının yevmî tazminatları hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-12-10",
+  "gazette_issue": "2273",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2273.pdf",
+  "source_sha256": "21d29888f9e66cf910d8da4f92eca61e00339b96816c5531c06f1d2dd86ab7d1",
+  "text_sha256": "bb3cac4f573dba05537a8bb3e8e104fe4aee3c9063b46aeca277bf3bfb370354",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      18,
+      31
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202073.pdf",
+    "source_sha256": "70e9cc8bf205500b1e0d1f77f9e836b2f305164a875f0ccba7eaa90c491f9eb0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9396,
+    "bag": 0.9048,
+    "kd_coverage": 0.9683,
+    "kd_body_compared": 0.7349,
+    "rg_words": 65,
+    "kd_words": 83,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
