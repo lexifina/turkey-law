@@ -1,0 +1,59 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 442962,
+  "assembly": "Millet Meclisi",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Türkiye Cumhuriyeti Hükümeti ile Kore Cumhuriyeti Hükümeti arasında Hava Ulaştırmasına dair 17 Haziran 1976 tarihli Anlaşmanın onaylanmasının uygun bulunduğu hakkında kanun tasarısı, (119)",
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kore Cumhuriyeti Hükümeti arasında Hava Ulaştırmasına dair 17 Haziran 1976 tarihli Anlaşmanın onaylanmasının uygun bulunduğu hakkında kanun tasarısı, (119)",
+  "first_sitting_date": "1977-12-21",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 80,
+      "sitting_date": "1977-12-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c001/mm__05001080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c001/mm__05001fih.pdf",
+      "pages": [
+        "521"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 131,
+      "sitting_date": "1978-04-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c005/mm__05005131.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c005/mm__05005fih.pdf",
+      "pages": [
+        "212"
+      ]
+    },
+    {
+      "cilt": 6,
+      "sitting": 154,
+      "sitting_date": "1978-06-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006154.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d05/c006/mm__05006fih.pdf",
+      "pages": [
+        "198:199",
+        "293:294",
+        "350:351",
+        "390:393"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1339940d1a1685b7a36dd9c784a634f0947d9a6147ea409644844594c9bb374c",
+  "in_force": "1977-12-21",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
