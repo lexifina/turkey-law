@@ -1,0 +1,39 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 82001,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Federal Almanya Cumhuriyeti bandıralı gemilerin Türk Limanlarında ve Türkiye Cumhuriyeti bandıralı gemilerin Federal Almanya Cumhuriyeti Limanlarında en ziyade Müsaadeye mazbar Millet muamelesi görecekleri hususunda teati olunan mektupların onanması hakkında (1/658)",
+  "title": "Federal Almanya Cumhuriyeti bandıralı gemilerin Türk Limanlarında ve Türkiye Cumhuriyeti bandıralı gemilerin Federal Almanya Cumhuriyeti Limanlarında en ziyade Müsaadeye mazbar Millet muamelesi görecekleri hususunda teati olunan mektupların onanması hakkında (1/658)",
+  "first_sitting_date": "1950-02-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 24,
+      "sitting": 37,
+      "sitting_date": "1950-02-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c024/tbmm08024fih.pdf",
+      "pages": [
+        "41",
+        "122:123",
+        "125",
+        "132:133",
+        "142.145"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=941&v_gelecek_sayfa=801&v_kullanici_id=27484132",
+  "source_sha256": "bc9a5ea60c1add7f8190e6cc0c7ee109960f06e7e599215b8d23a70030c30503",
+  "in_force": "1950-02-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
