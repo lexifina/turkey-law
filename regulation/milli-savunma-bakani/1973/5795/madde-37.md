@@ -1,0 +1,2 @@
+Adli dosyalar :
+Madde 37 - Teftişi yapılan yıl içinde disiplin subaylığı ve disiplin mahkemesine gelen dosya ile bir önceki yıldan devredilen dosya miktarı ve toplamı o yıl içinde sonuçlandırılan ve ertesi yıla devredilen dosya miktarı ve verimlilik oranı, devreden dosyalarda kanuni ve zorunlu sebepler dışında gecikme bulunup bulunmadığı, gecikmeli dosyalar ile teftiş sırasında mevcut olmayanların esas numaraları ve hangi sanığa ait oldukları ve dosyaların mevcut olmama sebepleri tespit edilir.

@@ -1,0 +1,3 @@
+Madde 45 - Müfettişler yaptıkları soruşturma sonucunda bir soruşturma raporu yazarlar ve dosyayı dizi pusulasına bağlı olarak gizli bir yazı ile Milli Savunma Bakanlığına gönderirler.
+Raporda, soruşturmaya hangi emirle başlandığı, suçun mahiyeti, işleniş şekli ve tarihi, suç delilleri ve bunların özeti ve soruşturma dosyasındaki sıra numaraları yazılır.
+Raporun sonunda olay özetlenir. Suç teşkil eden ve etmeyen eylemlerin neden ibaret bulunduğu ve kanuni unsurları ile delilleri, uygulanması gereken kanun madddeleri ve varsa hazine zararı ve miktarı gösterilir. Sonuç olarak soruşturma yapılan kişilerin eylemlerinden dolayı haklarında kovuşturma izni verilip verilmemesi hususundaki düşünce belirtilir.

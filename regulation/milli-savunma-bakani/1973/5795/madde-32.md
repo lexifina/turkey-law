@@ -1,0 +1,2 @@
+Adli dosyalar :
+Madde 32 - Teftişi yapılan yıl içinde gelen dosya ile bir önceki yıldan devredilen dosya miktarı ve toplamı o yıl içinde sonuçlandırılan ve ertesi yıla devredilen iş miktarı, devredilen dosyalarda kanuni ve zorunlu sebepler dışında gecikme olup olmadığı ve gecikmeli dosyalar ile teftiş sırasında mevcut olmayan dosyaların numaraları ve hangi sanığa ait oldukları ve bu dosyaların mevcut olmama sebepleri tespit edilir.

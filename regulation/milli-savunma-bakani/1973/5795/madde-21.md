@@ -1,0 +1,2 @@
+Adli Dosyalar :
+Madde 21- Teftişi yapılan yıl içinde gelen dosya ile bir önceki yıldan devredilen dosya miktarı ve toplam o yıl içinde karar çeşitlerine göre sonuçlandırılan ve ertesi yıla devredilen dosya miktarı ve verimlilik oranı ve bunları hangi savcı ve yardımcısının kovuşturmuş ve sonuçlandırmış olduğu, devredilen dosyalarda kanuni ve zorunlu sebepler dışında gecikme olup olmadığı ve gecikmeli dosyalar ile teftiş sırasında mevcut olmayan dosyaların esas numaraları ve hangi sanığa ait oldukları ve bu dosyaların mevcut olmama sebepleri tespit edilir.

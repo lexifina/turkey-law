@@ -1,0 +1,1 @@
+Madde 39 - 24, 25, 26, 27 ve 28 inci maddeler ile 31 inci madde hükümlerinden disiplin mahkemelerine uygulanması gereken hususların disiplin subaylığınca yerine getirilip getirilmediği incelenir ve noksan işlemlerin hangi disiplin subayına ait olduğu tespit edilir.

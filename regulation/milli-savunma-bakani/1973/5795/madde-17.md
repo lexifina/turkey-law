@@ -1,0 +1,1 @@
+Madde 17 - Müfettişler başladıkları teftiş işlerini ara vermeden sonuçlandırmak zorundadırlar. Kurulma, kaldırılma ve konuş değişikliği gibi hallerde teftiş hizmetlerinin ne şekilde yapılacağı Milli Savunma Bakanı tarafından belirtilir.

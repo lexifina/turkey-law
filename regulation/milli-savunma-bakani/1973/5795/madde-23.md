@@ -1,0 +1,2 @@
+Savcı ve Yardımcısının çalışmaları:
+Madde 23 - Yargıtaydan geçmeden kesinleşen hükümlere ait dosyalardaki iddianamelerin mevzuata uygunluk derecesi, kanuni ve zorunlu sebepler dışında duruşmanın tehir ve talikine sebebiyet verilip verilmediği, duruşmadaki istem ve esas hakkındaki düşüncelerin yerinde olup olmadığı ve temyizi gereken kararların temyiz edilmemesi hususları incelenir ve ayrıca, yazılı emirle bozulması gereken hükümler var ise tespit edilir.

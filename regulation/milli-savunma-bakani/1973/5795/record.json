@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.5795",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ASKERİ ADALET TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "5795",
+  "issuer": "Milli Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/1973/5795",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5795&MevzuatTertip=5",
+  "source_sha256": "23c20096de337c2506279cbcd1a32c4fa16ed2d0a0d7b30f35e35828f23300ea",
+  "source_bytes": 210995,
+  "published": "1973-03-24",
+  "gazette": "14486",
+  "in_force": "1999-05-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/5/1999\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "1999-05-26",
+      "RG-26/5/1999",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1991-05-07",
+      "RG-7/5/1991",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1989-09-08",
+      "RG-8/9/1989",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik hükümleri, Resmi Gazete ile yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3671,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.5795%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

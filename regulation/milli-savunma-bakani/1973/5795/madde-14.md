@@ -1,0 +1,3 @@
+Teftiş programlarının hazırlanması :
+Madde 14 - Teftişi yapılacak askeri mahkeme kalemlerinin, askeri savcılıklar ve kalemlerinin, adli müşavirlik hizmetlerinin, askeri ceza ve tutuk evlerinin, disiplin mahkemeleri ile disiplin subaylıklarının ve disiplin ceza ve tutuk evlerinin adları ile teftiş süresi, her yıl başında hazırlanan ve Milli Savunma Bakanı tarafından onaylanan teftiş programlarında gösterilir. Programın uygulanması hususunda Kurul Başkanına tanınan özel yetkiler de belirtilir.
+Programın hazırlanmasında; disiplin mahkemeleri ile disiplin ceza ve tutuk evlerinde kurulma, kaldırılma ve konuş gibi hususlarda bir değişiklik yapılmış olup olmadığı bakımdan Genelkurmay Başkanlığından bilgi alınır.
