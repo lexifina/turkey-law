@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Belediye Meclisi",
+  "number": "1968",
+  "decision_date": "1980-10-06",
+  "title": "90 PAFTA 504 ADA 36 PARSEL HK.",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/1980-1968.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=1980",
+  "listing_sha256": "89d1a3d68044d83d44234c070fff3b0ca902e0fce444fd1eabe0fbfeec046bc1",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
