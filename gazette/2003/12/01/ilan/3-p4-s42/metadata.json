@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-12-01",
+  "issue": "25303",
+  "edition": "regular",
+  "item": 42,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "Konya Jandarma Bölge Komutanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031201-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (44 = 44)",
+  "ilan_codes": [
+    "47294/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031201-3-4.htm",
+  "category_page_sha256": "1df0bfd5e7db6517e0cc8285d6e1a458a58014901027e28963c2c5f17dbbd930",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031201.htm",
+  "index_sha256": "a25d1aeaa0253ab0bede2bbde219af2d5eeddb9377a990636ebf155b0eda3f8e",
+  "index_header": "1 Aralık 2003 ... Sayı : 25303",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
