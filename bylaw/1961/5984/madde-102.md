@@ -1,0 +1,1 @@
+Madde 102 – 53 ve 65 inci maddelerde yazılı yerlerdeki telefonu her ne sebebeple olursa olsun, konuşmaya hazır bulundurmayanların ve 54 üncü maddenin (b), (c) ve (d) bendlerinde yazılı hallere sonradan düçar olanların genel evi ve birleşme yeri kapatılır.

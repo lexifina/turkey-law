@@ -1,0 +1,2 @@
+Madde 50 – Genel ev açmak isteyenler evvela bir dilekçe ile mahallin en büyük mülkiye amirine müracaat edecekler ve bu dilekçede Tüzük hükümlerine tamamen uyacaklarını, gerek bu hükümlere, gerekse zührevi hastalıklar ve fuhuşla mücadele komisyonu tarafından alınacak karar ve tedbirlere aykırı hareket etmiyeceklerini kabul ve taahhüt eyleyeceklerdir.
+Dilekçe sahibi ve varsa ortakları; adlariyle soyadlarını, doğdukları ve oturdukları yeri ve yaşlarını belirterek dilekçeyi imza edeceklerdir.

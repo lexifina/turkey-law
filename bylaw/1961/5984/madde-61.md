@@ -1,0 +1,1 @@
+Madde 61 – Genel evlere kendi rızasiyle giren ve orada fuhuş yapan bir kadının, diğer bir genel eve geçmek veya islahıhal eylemek üzere oturduğu genelevi terketmek istemesi halinde, her hangi bir vaad veya mecburiyet veya borçla bağlı bulunmuş olsa dahi, arzusuna aykırı orada alıkonulduğu anlaşılırsa, kadının kimlik ve sanatına ait belgeleriyle birlikte derhal çıkması sağlanır.

@@ -1,0 +1,2 @@
+Madde 88 – Teftiş sırasında kadınlarla beraber rastlanacak olan ve zührevi hastalıklardan birine tutulmuş olduğundan şüphe ve endişe olunan erkeklerin de Umumi Hıfzıssıhha Kanununun 106 ncı maddesi gereğince bu hastalıkları bulunmadığına dair rapor göstermeleri veya kendilerini muayene ettirip zührevi hastalıkları olmadığını ispat eylemeleri için adresleri alınır.
+Belirli ve açık adresleri olmıyanlarla kimliklerini ispat edemiyenler muayeneye sevk olunur. Hasta olduğu anlaşılanlar hakkında adı geçen kanunun 107 ve 108 inci maddelerine göre işlem yapılır.

@@ -1,0 +1,1 @@
+Madde 48 – Genel evler; genel kadınların muayene ve tedavi edildiği müesseseler müstesna olmak üzere, resmi daire ve müesseseler, ibadet ve eğitim yerleri, spor sahaları, genel toplanma, eğlence ve bayram yerleri yakınında ve bu yerlerden görülebilecek bir mesafede ve Umumi Hıfzıssıhha Kanununun 178 inci maddesinde yazılı yerler dahilinde veya yakınında olamaz.

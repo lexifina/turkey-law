@@ -1,0 +1,1 @@
+Madde 47 – Zührevi hastalıklar ve fuhuşla mücadele komisyonu tarafından vilayet veya kaza merkezlerinin hangi mahalle veya sokaklarında genel evler açılabileceği ilgililerin müracaatı üzerine tesbit olunur. Bu mahaller, umumi caddelerden görünecek yerlere veya bu gibi caddelere pek yakın olmayacaklardır. Tesbit edilen bölgenin dışında genel ev açılamaz.

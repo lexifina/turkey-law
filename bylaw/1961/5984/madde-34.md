@@ -1,0 +1,2 @@
+Hastaneye sevk:
+Madde 34 – Bulaşıcı devrede firengi belirtileri gösteren genel veya 23 üncü maddede yazılı kadınların, behemehal hastanede bulaşıcı devre geçinceye kadar yatırılarak tedavisi gerekir. Bunun için icabında ve zaruret hallerinde zührevi hastalığa yakalanmış olanlardan bulaşma tehlikesi en az olanlar çıkarılarak 33 üncü madde gereğince ayakta tedavi altına alınır ve bu suretle bulaşıcı devre belirtileri gösteren hastaya yer sağlanır. Belsoğukluğu, yumuşak şankr, ve tri-komonasıs vajinaliz olanlar bulaşma tehlikesi geçinceye kadar tedavi olunurlar.

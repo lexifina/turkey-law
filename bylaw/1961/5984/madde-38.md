@@ -1,0 +1,1 @@
+Madde 38 – Muayene sonucunda hastalıklı çıkıp da kendilerini hususi surette tedavi ettirmek isteyen genel kadınlarla 23 üncü maddedeki kadınlardan tedaviye muntazaman geleceğine ve iyileşinceye kadar fuhuş yapmıyacağına itimat edilenlerin, istekleri yerine getirilir.

@@ -1,0 +1,2 @@
+Hastaneler:
+Madde 111 – Bu Tüzüğün 25 inci maddesi gereğince muayeneye tabi tutulan kadınlardan, Umumi Hıfzıssıhha Kanununun 129 uncu maddesinde yazılı hastalıklara yakalanmış olanların tedavisi için yeter büyüklükte hastane açılır. Buna imkan olmadığı veyahut bu gibi kadınlar fazla miktarda bulunmadığı takdirde, mevcut hastanelerden bir veya birkaç koğuş ayrılarak zührevi hastalıklara yakalanmış kadınlara tahsis olunur.

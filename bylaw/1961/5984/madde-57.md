@@ -1,0 +1,1 @@
+Madde 57 – Genel ev sahiplerinin, her ne suretle olursa olsun hasta bir kadının ziyaretçi ile cinsi münasebette bulunmasına müsaade etmeleri veya kadını zorlamaları, yanlarında çalışan genel kadınlara fena muamele yapmaları yasaktır.

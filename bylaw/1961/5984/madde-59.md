@@ -1,0 +1,1 @@
+Madde 59 – Genel ev sahipleri, yanlarında çalışan genel kadınların her biriiçin bir oda ayırırlar. Evlerinde komisyonca, birleşmeye ayrılan ve ruhsat tezkerelerinde yazılı bulunan oda sayısından fazla genel kadın bulundurulması komisyon kararına bağlıdır.
