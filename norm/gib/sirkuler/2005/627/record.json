@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-30/2005-2/ Basit Usule Tabi Mükelleflerin Yıllık Beyannamesi-5",
+  "source_id": 627,
+  "date": "2005-02-04",
+  "title": "Geliri sadece basit usulde tespit edilen ticari kazançlardan ibaret olan gelir vergisi mükelleflerine ait yıllık beyannamelerin verilme süresinin uzatılması bu sirkülerin konusunu oluşturmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/627",
+  "source_sha256": "b28193e808f9466e045d4cac14f3e0aad6c2020324a455ea030d7553f88a00f0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
