@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 99411,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Gümrüklerde bulunan ve suni elyaf ile mahlût bulunmasından dolayı ithal edilmiyen pamuklu mensucatın bir defaya mahsus olmak şartiyle resim hadleri 2294 sayılı kanunun verdiği salâhiyete istinaden indirildiğinden keyfiyetin tasdikı hakkında 3/189 ve gümrüklerimizde bulunan pamuklu mensucatın ithalini temin için 2294 sayılı kanunun verdiği salâhiyete istinaden İcra Vekilleri Heyetince ittihaz edilen kararın tasdikı hakkında 3/230 sayılı Başvekâlet tezkerelerine dair",
+  "title": "Gümrüklerde bulunan ve suni elyaf ile mahlût bulunmasından dolayı ithal edilmiyen pamuklu mensucatın bir defaya mahsus olmak şartiyle resim hadleri 2294 sayılı kanunun verdiği salâhiyete istinaden indirildiğinden keyfiyetin tasdikı hakkında 3/189 ve gümrüklerimizde bulunan pamuklu mensucatın ithalini temin için 2294 sayılı kanunun verdiği salâhiyete istinaden İcra Vekilleri Heyetince ittihaz edilen kararın tasdikı hakkında 3/230 sayılı Başvekâlet tezkerelerine dair",
+  "first_sitting_date": "1941-12-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 22,
+      "sitting": 16,
+      "sitting_date": "1941-12-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c022/tbmm06022016.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c022/tbmm06022fih.pdf",
+      "pages": [
+        "48",
+        "96:97",
+        "137:138",
+        "142:145"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1922&v_gelecek_sayfa=1001&v_kullanici_id=27484000",
+  "source_sha256": "47c40564994c0b4056321662d3c056aaae39cd2667bf903e7101c69a9ac10594",
+  "in_force": "1941-12-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
