@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5259",
+  "year": 2004,
+  "title": "Polis Vazife ve Selahiyet Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2004-12-01",
+  "gazette_issue": "25657",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2004/12/20041201.htm",
+  "source_sha256": "c37d87d005aa0ca6e970f81e8f6e3415dd9ab55652de1685f6116fa35c48707e",
+  "text_sha256": "11bee38dc326a5b20f143237fdb3e184c90dee588895d9300dc8cbe1457d1e54",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2004/12/01/25657-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2004/12/20041201.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
