@@ -1,0 +1,48 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6869",
+  "year": 1956,
+  "title": "Demiryolu müteharrik vasıtalarının finansmanına mahsus Avrupa Şirketi (EUROFİMA) nın kuruluşu hakkında 20 Ekim 1955 tarihinde Dern'de imzalanan Mukaveleye katılmamıza ve bu Mukavele ile eklerinin tasdikine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1956-12-28",
+  "gazette_issue": "9495",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9495.pdf",
+  "source_sha256": "c2e9ec72e6dd7aa33128348c6ae20c84570ec45e7ad83ee32ff4c67187d8e364",
+  "text_sha256": "ea8783f6ccb07e33469accb43075d84b192178fba89ca42521077a1be65a2fea",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "line_span": [
+    [
+      174,
+      853
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc039/kanuntbmmc039/kanuntbmmc03906869.pdf",
+    "source_sha256": "5c0af8bf944f02ca2dca262c6d6949b2a18dd265b78ecb50727190e48254f1f0",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9233,
+    "bag": 0.8322,
+    "kd_coverage": 0.9989,
+    "kd_body_compared": 0.9989,
+    "rg_words": 3209,
+    "kd_words": 2742,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
