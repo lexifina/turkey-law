@@ -1,0 +1,1 @@
+Madde 13 - Müzeler ile müzelere bağlı birimlerde ve örenyerlerinde çekilen fotoğraf, slayt ve benzerlerini kapsayan yayınlardan ikişer nüsha ve imkan varsa çekilen film ve video filmlerden birer kopya ilgili müzeye verilir.

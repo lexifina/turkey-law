@@ -1,0 +1,1 @@
+Madde 4 - Bu yönetmelikte geçen, “Varlıkların fotoğraf ve filmlerinin çekilmesi, mülaj ve kopyalarının alınması” ndan; fotoğraf, slayt, film, video, mikrofilm, fotokopi, resim, mülaj, stampaj, taklit, röprodüksiyon ve buna benzer işlemler anlaşılır.

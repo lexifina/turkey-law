@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.5327",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MÜZELERLE MÜZELERE BAĞLI BİRİMLERDE VE ÖRENYERLERDEKİ KÜLTÜR VARLIKLARININ FİLM VE FOTOĞRAFLARININ ÇEKİLMESİ MÜLAJ VE KOPYALARININ ÇIKARILMASI HAKKINDA YÖNETMELİK",
+  "number": "5327",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1984/5327",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5327&MevzuatTertip=5",
+  "source_sha256": "d077ae78b69adefb035608dd284635b31eb3064c1f8a29cbc35bbf0e4927db35",
+  "source_bytes": 20254,
+  "published": "1984-01-26",
+  "gazette": "18293",
+  "in_force": "1984-01-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.01.1984); own commencement article: \"Bu yönetmelik yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 574,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
