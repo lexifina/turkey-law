@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-07-21",
+  "issue": "25175",
+  "edition": "regular",
+  "item": 25,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-4",
+  "title": "Hacettepe Üniversitesi Bilimsel Araştırmalar Birimi İhale Komisyonundan :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030721-3-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (33 = 33)",
+  "ilan_codes": [
+    "25344/1-1",
+    "25278/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030721-3-4.htm",
+  "category_page_sha256": "5d9bcf97947346ccafe79ddd5b50a6f02d9a1d6b562d3a5a0144135136244f93",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/07/20030721.htm",
+  "index_sha256": "cfdccdbee2eb1584d87275dc166a1f60ff4d581e8257227401d665e40d037f29",
+  "index_header": "21 Temmuz 2003 ... Sayı : 25175",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
