@@ -1,0 +1,30 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2004/14",
+  "date": "2004-04-09",
+  "title": "SPK Haftalık Bülteni 2004/14",
+  "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_14.pdf",
+  "source_sha256": "a8717d8799c017ba1be3befb54741c44a56f18ba8c9555fcd9c7e2cdebb9e422",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "A. ÖZEL DURUM:"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. ÖZEL DURUM:",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_14.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
