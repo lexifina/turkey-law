@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2830",
+  "source_id": 36668,
+  "date": "2005-01-24",
+  "title": "Yeminli mali müşavirler mükelleflerin KDV İadesi Tasdiki kapsamına giren işlemlerinin gerçeği yansıtıp yansıtmadığının tespiti için gerekli karşıt incelemeleri yapmakla yükümlüdürler.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/36668",
+  "source_sha256": "be4775e503450eb29dd2effaf7f3c6ff5df84b32078c159a15d1440d6f6fd656",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
