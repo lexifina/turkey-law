@@ -1,0 +1,60 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2004/37",
+  "date": "2004-09-03",
+  "title": "SPK Haftalık Bülteni 2004/37",
+  "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_37.pdf",
+  "source_sha256": "17485ae42af20aba6c7604d2b6c7480e889737774dcc5ba5dcdd2d979bb19f65",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "G. YENİ FAALİYET İZNİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. 1.1.2004 – 03.09.2004 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_37.pdf"
+    },
+    {
+      "heading": "B. 30.08.2004 –03.09.2004 TARİHLERİ ARASINDA KURULA BAŞVURAN ORTAKLIKLAR:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_37.pdf"
+    },
+    {
+      "heading": "C. 30.08.2004 – 03.09.2004 TARİHLERİ ARASINDA KAYDA ALMA KARARI VERİLEN İHRAÇ TALEPLERİ:",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_37.pdf"
+    },
+    {
+      "heading": "D. ÖZEL DURUMLAR",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_37.pdf"
+    },
+    {
+      "heading": "F. DUYURU",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Park Grubu",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_37.pdf"
+    },
+    {
+      "heading": "G. YENİ FAALİYET İZNİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b3f31b41c613a0d633bd/2004_37.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
