@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2005/1",
+  "list_number": "1, 51, 63",
+  "genelge_number": "1",
+  "decision_date": "2005-03-04",
+  "title": "Gündelik Miktarının Yeniden Belirlenmesi, 05 Haziran 2005 Pazar Günü Yapılacak Olan Seçimler, Siyasi Partilerce İstenen Seçmen Kütüklerinin Verilmesinde Uygulanacak Ana Kurallarda Yeniden Yapılan Düzenleme ve Seçmen Kütüklerinin Birer Suretinin Verileceği Siyasi Partilerin Tespiti",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1591/2005-1.pdf",
+  "source_sha256": "e1835ab89487379a06d771c3fbdefb0c7e5c84dfa3baf6b712c458fce1c3720e",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 12,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2005-03-04",
+  "law_text_complete": false
+}
