@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4717",
+  "year": 2001,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Özbekistan Cumhuriyeti Hükümeti Arasında Karşılıklı Büyükelçilikler Faaliyetlerinin Gayrimenkul ve Malî Veçhelerine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-10-24",
+  "gazette_issue": "24563",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/10/20011024.htm",
+  "source_sha256": "605437c0920c01691caa72a44a1af05e6e6187b7664eef6c2e365365f7f1776d",
+  "text_sha256": "ca81e36856161ad609b0a71352c0f5da42805623d43927ef0efcd247567f3f04",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/10/24/24563-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/10/20011024.htm#5",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
