@@ -1,0 +1,123 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2014",
+  "year": 1976,
+  "title": "5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa geçici 4 madde eklenmesi hakkında Kanun",
+  "adopted": "1976-06-04",
+  "adopted_as_published": "04/06/1976",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.06.1976 No: 15614",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc059/kanuntbmmc059/kanuntbmmc05902014.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 59",
+  "committee_reports": [
+    {
+      "label": "MM 201 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c018/mm__04018070ss0201.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 460493,
+      "title": "5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa geçici 4 madde eklenmesi hakkında Kanun",
+      "adopted_as_published": "04/06/1976",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc059/kanuntbmmc059/kanuntbmmc05902014.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 201 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c018/mm__04018070ss0201.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 31,
+          "sitting_date": "1974-01-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c001/mm__04001031.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c001/mm__04001fih.pdf",
+          "pages": [
+            "214"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 97,
+          "sitting_date": "1975-07-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013097.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c013/mm__04013fih.pdf",
+          "pages": [
+            "413"
+          ]
+        },
+        {
+          "cilt": 18,
+          "sitting": 70,
+          "sitting_date": "1976-03-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c018/mm__04018070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c018/mm__04018fih.pdf",
+          "pages": [
+            "26:27"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=401&v_kullanici_id=27483225",
+      "page_sha256": "a1ea50d72be6fe3570ffdc776298387215c0ebc936785e40f90fb4075e9eeeb9"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 326634,
+      "title": "5434 sayılı TC Emekli Sandığı Kanununa geçici dört madde eklenmesi hakkında Kanun",
+      "adopted_as_published": "04/06/1976",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc059/kanuntbmmc059/kanuntbmmc05902014.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 201 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c018/mm__04018070ss0201.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 27,
+          "sitting": 44,
+          "sitting_date": "1976-03-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027044.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c027/cs__15027fih.pdf",
+          "pages": [
+            "158"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 68,
+          "sitting_date": "1976-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c028/cs__15028fih.pdf",
+          "pages": [
+            "276"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=2001&v_kullanici_id=27483235",
+      "page_sha256": "5b492ecceb3fd27972446dc39f2c79577d6e4ad977e62fa45dc3f9e7cfc6c880"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a1ea50d72be6fe3570ffdc776298387215c0ebc936785e40f90fb4075e9eeeb9",
+  "issuer": "Millet Meclisi",
+  "in_force": "1976-06-04",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 04/06/1976; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
