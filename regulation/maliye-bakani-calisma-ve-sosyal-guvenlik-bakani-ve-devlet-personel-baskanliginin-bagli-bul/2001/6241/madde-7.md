@@ -1,0 +1,3 @@
+Hizmet Kolu veya İşyeri Değişiklik Bildirimi
+Madde 7 — (Değişik:RG-11/3/2005-25752)
+Sendika üyesi kamu görevlisinin, sendikanın kurulu bulunduğu hizmet kolunda kalmak şartıyla başka bir göreve atanması, kurum içinde nakledilmesi veya başka bir kurumdaki bir göreve atanması, farklı bir hizmet koluna giren kuruma atanması, emeklilik veya ölüm halinde, atamanın yapıldığı ve ayrıldığı işyerince örneği (EK-4) de gösterilen "Kamu Görevlileri Sendikaları Üyelikten Çekilme Dışındaki Diğer Nedenlerle Ayrılmalar ve İşyeri Değişikliği Bildirim Formu" düzenlenerek, değişikliği takip eden onbeş (15) gün içinde ilgili sendikaya ve atandığı veya nakledildiği kuruma gönderilir.
