@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6530-237/28174",
+  "source_id": 38249,
+  "date": "2003-07-01",
+  "title": "Kahvehane işletmecilerinin hasılatlarını ödeme kaydedici cihaz fişleri ile ödeme kaydedici cihaz kullnmayanların ise adisyon tipi parakende satış fişleri ile belgelendirmesinin mümkün olması hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38249",
+  "source_sha256": "c140a7e7168bfd5a68d725f79320ee9bb773f548a3bc5428d660efb945b3d5fd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
