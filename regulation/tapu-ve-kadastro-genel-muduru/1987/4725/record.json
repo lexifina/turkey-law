@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4725",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KADASTRO ÇALIŞMA ALANLARINDAKİ TAŞINMAZ MALLARA GİREBİLECEK GÖREVLİLER HAKKINDA YÖNETMELİK",
+  "number": "4725",
+  "issuer": "Tapu ve Kadastro Genel Müdürü",
+  "issuer_slug": "tapu-ve-kadastro-genel-muduru",
+  "path": "regulation/tapu-ve-kadastro-genel-muduru/1987/4725",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4725&MevzuatTertip=5",
+  "source_sha256": "67721f9959ec4b2bb541da841e62521890dd8af6011b876e674ffa32eb372f76",
+  "source_bytes": 17347,
+  "published": "1987-10-28",
+  "gazette": "19618",
+  "in_force": "1987-10-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.10.1987); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 517,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
