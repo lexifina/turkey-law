@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.52/5201-10/10693",
+  "source_id": 33542,
+  "date": "1998-03-20",
+  "title": "Tapuda mesken olan gayrimenkulün İcra Müdürlüğü tarafından satışında uygulanan KDV iadesi yönünde karar veren Sulh Hukuk Hakimliğinin bu kararı uyarınca işlem yapılması mümkündür.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33542",
+  "source_sha256": "c9da61bfb74da337032668acfd50dd7d17f61e92ff188501178d573445bdba9b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
