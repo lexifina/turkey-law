@@ -1,0 +1,48 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2850",
+  "year": 1935,
+  "title": "Askerlik mükellefiyeti Kanununun bazı maddelerinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-11-30",
+  "gazette_issue": "3170",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3170.pdf",
+  "source_sha256": "938e5a18000d5736b4fa1c221b0233acf392236ff08940211a5e8fe9e138742d",
+  "text_sha256": "03c0ca0851e2ed8e408570be7f5711942bd04ffc052647f48f15b56079905841",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      16,
+      644
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602850.pdf",
+    "source_sha256": "4fe3fe3d7ce1cd377b53453e4851e6226715dd0f11b5a7dc66003bac0357d252",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9333,
+    "bag": 0.8614,
+    "kd_coverage": 0.9978,
+    "kd_body_compared": 0.9978,
+    "rg_words": 2834,
+    "kd_words": 2763,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
