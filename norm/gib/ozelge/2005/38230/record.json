@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6508-106/15156",
+  "source_id": 38230,
+  "date": "2005-04-05",
+  "title": "Hatalı fişin yanlışlıkla müşteriye verilmesi ve bulunamaması halinde, yeterli veri ile ispatlanmak (hatalı fişin fatura düzenleme limitinin veya işletmenin günlük hasılatının üzerinde olması vb.) kaydıyla yapılan hata mükellef tarafından bir dilekçe ile i",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38230",
+  "source_sha256": "d9584aed4aa71beac49b35f061f9de5f56a0f9d3117d9507950de34f6b151f73",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
