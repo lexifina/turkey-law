@@ -1,0 +1,1 @@
+Madde 12 - Kiranın başlama tarihi ……………, bitiş tarihi …………… dir. Kira süresi sona erdiği halde kiraya verilen yer kiracı tarafından idareye teslim edilmediği takdirde her geçen gün için ……………….. lira ceza ödenir.

@@ -1,0 +1,1 @@
+Madde 5 - İhaleye katılabilmek için 8.9.1983 tarih, 2886 sayılı Devlet İhale Kanunu'nda belirtilen niteliklere haiz olmak, yine anılan Kanun ve yönetmelikte açıklanan biçimde teklifte bulunmak, geçici teminatı yatırmak şarttır.

@@ -1,0 +1,3 @@
+İhale Komisyonları
+Madde 10 - İhale komisyonları bölge müdürleri tarafından ihale işlerini düzenlemek ve yürütmek üzere Emlak ve Kamulaştırma Şube Müdürü başkanlığında, ihale konusu iş alanında uzman en az bir kişi ve bölge saymanlık müdürü veya yardımcısının katılmasıyla oluşturulur.
+İta amiri veya komisyon başkanınca lüzum görüldüğü takdirde, komisyonlara yardımcı olmak ancak ihale kararlarına katılmamak şartıyla yeteri kadar memur ve uzman görevlendirilir. Böyle bir görevlendirme düşünüldüğü takdirde ihale gün ve saatinde hazır bulunacak şekilde ihaleyi yapacak idarece, görevlendirilecek memur veya uzmana tebligat yapılır.

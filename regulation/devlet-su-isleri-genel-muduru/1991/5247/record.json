@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.5247",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET SU İŞLERİ GENEL MÜDÜRLÜĞÜNE AİT TAŞINMAZ MAL SATIŞI VE KİRAYA VERİLMESİNE AİT YÖNETMELİK",
+  "number": "5247",
+  "issuer": "Devlet Su İşleri Genel Müdürü",
+  "issuer_slug": "devlet-su-isleri-genel-muduru",
+  "path": "regulation/devlet-su-isleri-genel-muduru/1991/5247",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5247&MevzuatTertip=5",
+  "source_sha256": "704932a454df9890948cdf64d4a90c0af2b15dc09d323ae2e51edfc04a645d4c",
+  "source_bytes": 169287,
+  "published": "1991-06-28",
+  "gazette": "20913",
+  "in_force": "1991-06-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.06.1991); own commencement article: \"Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihten itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayınlandığı tarihten itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6164,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

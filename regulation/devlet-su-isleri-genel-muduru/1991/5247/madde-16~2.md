@@ -1,0 +1,1 @@
+Madde 16 - Yukarıda maddelerde yazılı hususlarla birlikte kiraya veren idarenin belirleyeceği ve bu şartnameye veya kira sözleşmesinin özel şartlar bölümüne ilave edeceği kurallara kiracı tarafından riayet edilmediği takdirde 8.9.1983 tarih, 2886 sayılı Yasanın 62. Maddesine göre işlem yapılır.
