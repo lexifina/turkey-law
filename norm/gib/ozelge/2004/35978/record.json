@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6373-2158",
+  "source_id": 35978,
+  "date": "2004-02-17",
+  "title": "Vakıflara ait taşınmazların satışı sırasında vakıflardan tahsil edilmesi gereken tapu harçları hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35978",
+  "source_sha256": "d8a6564ad2b198b136dbf376ce63562cc90d5e102581df0bc3d48f47b77245f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
