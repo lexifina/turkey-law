@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-935/31599",
+  "source_id": 36876,
+  "date": "1998-09-03",
+  "title": "Sigorta şirketlerinin nam ve hesabına sigortalı ile sigorta sözleşmeleri yapma ve prim toplama yetkisi verilen acentaların banka ve sigorta vergisi mükellefi olup olmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36876",
+  "source_sha256": "e380b71e01e8183422674387bfe4ecd47035b12858c762abd8a62d750ec2e9bb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
