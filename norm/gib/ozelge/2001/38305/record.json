@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2539/66783",
+  "source_id": 38305,
+  "date": "2001-12-12",
+  "title": "KDV İadesi Tasdik Raporuna ek süre verilip verilmeyeceği hakkında ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38305",
+  "source_sha256": "7db128b9b2de51c70d321566431924e0218f295a2f97758a381192f05324cc4a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
