@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2004-06-09",
+  "issue": "25487",
+  "edition": "regular",
+  "item": 31,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Maliye Bakanlığı TASİŞ Genel Müdürlüğü Ankara Tasfiye İşletme Bölge Müdürlüğü Ergazi Tasfiye İşletme Şube Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040609-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (34 = 34)",
+  "ilan_codes": [
+    "7299/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040609-3.htm",
+  "category_page_sha256": "12332e321faf460d7021c2be58f0ec2494f5eb0d8a2415f21f9fe7ad376fe206",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2004/06/20040609.htm",
+  "index_sha256": "67beae96931b272c4e72355f546a0e54eaa2473b4b70316716fe20173603d39c",
+  "index_header": "9 Haziran 2004 ... Sayı : 25487",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
