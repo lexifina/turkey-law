@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4696",
+  "year": 1945,
+  "title": "Bazı ay adlarının değiştirilmesi hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1945-01-15",
+  "gazette_issue": "5905",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5905.pdf",
+  "source_sha256": "839cb325c73faf4d5fc5402ad04b10ece9abcdc6d10fe60dabadab1732877471",
+  "text_sha256": "08d9c8964d24832da79a07f2eab3fe008eec058a66d5e8d8ad00678e0bfeceed",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      715,
+      725
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc027/kanuntbmmc027/kanuntbmmc02704696.pdf",
+    "source_sha256": "2ddafa27ff2aae1c5fbd077dde530b9e4195b9e0f1957549ea2064207b552b37",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9125,
+    "bag": 0.8636,
+    "kd_coverage": 0.9783,
+    "kd_body_compared": 0.9388,
+    "rg_words": 42,
+    "kd_words": 49,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
