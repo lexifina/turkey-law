@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 121022,
+  "assembly": "TBMM",
+  "term": 3,
+  "heading": "LAYİHALAR",
+  "heading_as_published": "Layihalar",
+  "summary": "1338 senesi Hazine hesabı katisi hakkında.",
+  "title": "1338 senesi Hazine hesabı katisi hakkında.",
+  "first_sitting_date": "1927-11-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 1,
+      "sitting": 10,
+      "sitting_date": "1927-11-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/tbmm03001010.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/ehttbmm03001010.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/tbmm03001fih.pdf",
+      "pages": [
+        "58"
+      ]
+    },
+    {
+      "cilt": 3,
+      "sitting": 62,
+      "sitting_date": "1928-04-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003062.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/ehttbmm03003062.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c003/tbmm03003fih.pdf",
+      "pages": [
+        "141",
+        "285"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=LAY%DDHALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4e19cddf43946560238ff26c05a51068ebe2c096a1ce40633417d7a9bf1954d2",
+  "in_force": "1927-11-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
