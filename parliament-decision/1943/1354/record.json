@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1354",
+  "year": 1943,
+  "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı kanunun 10. maddesinin tefsirine mahal olmadığı hakkında",
+  "adopted": "1943-09-06",
+  "adopted_as_published": "06/09/1943",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/karartbmmc025/karartbmmc02501354.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 25",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 7,
+      "kayit_no": 90601,
+      "title": "Devlet memurları aylıklarının tevhit ve teadülüne dair olan 3656 sayılı kanunun 10. maddesinin tefsirine mahal olmadığı hakkında",
+      "adopted_as_published": "06/09/1943",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/karartbmmc025/karartbmmc02501354.pdf",
+      "committee_reports": [],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=174&v_gelecek_sayfa=101&v_kullanici_id=27483269",
+      "page_sha256": "8ff1b1fb398d5b6f4e4102bf4d628d696f16ba2f1491bc1c14cae3593a738879"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8ff1b1fb398d5b6f4e4102bf4d628d696f16ba2f1491bc1c14cae3593a738879",
+  "issuer": "TBMM",
+  "in_force": "1943-09-06",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 06/09/1943; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
