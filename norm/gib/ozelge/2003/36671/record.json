@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B. 07.0. GEL. 0.32/3223-2754",
+  "source_id": 36671,
+  "date": "2003-11-16",
+  "title": "Vergi mevzuatına aykırı hususların mükellef tarafından düzeltilmemesi halinde, bu aykırılıklar ve karşıt inceleme sırasında nezdinde karşıt inceleme yapılan mükellefle ilgili olarak tespit edilen vergi mevzuatına aykırı hususlar, yeminli mali müşavirler t",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/36671",
+  "source_sha256": "f67ae496d0c8e4eb817384530f7efc7a9b58a35c39254be6d39f28fb512c182d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
