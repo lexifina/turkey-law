@@ -1,0 +1,2 @@
+MADDE 22- Kayıtların ve işlemlerin gizli tutulması ve yolsuzlukları ihbar mecburiyeti :
+Gişe kontrolörleri ve gişe görevlileri görevleri dolayısıyla edindikleri bilgileri ve muhafaza ettikleri kayıtları gizli tutmak ve emin bir şekilde muhafaza etmek ve gördükleri usulsüzlük ve yolsuzlukları yazılı olarak üst makamlara duyurmak mecburiyetindedirler. Gişe görevlileri kompüterin kendi çalışmalarına ait kayıt neticelerini aynı anda bilemez ve öğrenemez. Ancak banka sayım neticeleri alındıktan ve nihai değerlendirme yapıldıktan sonra öğrenebilirler.

@@ -1,0 +1,2 @@
+MADDE 4- Teftişlerde belge ibrazı ve resmi dairelere bilgi verme :
+Belgeler ve defterler, denetçilere, müfettişlere ve mahkeme kararı ile inceleme yapacak yetkili şahıslara istekleri halinde gösterilir. Yetkililerce istenen belgelerin tasdikli örnekleri verilir. Belgenin aslının verilmesi zorunluluğu halinde, tasdikli örneği hazırlanarak muhafaza edilir. Müdürün izni ve bilgisi olmadan bu Yönetmeliğin uygulama sahasına ait işlerden veya belgelerden dışarıya bilgi verilemez.

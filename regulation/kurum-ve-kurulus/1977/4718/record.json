@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.4718",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İSTANBUL BOĞAZİÇİ KÖPRÜSÜ İŞLETME YÖNETMELİĞİ",
+  "number": "4718",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1977/4718",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4718&MevzuatTertip=5",
+  "source_sha256": "1b633dbd547e549040b15b0e93cd7df2087c34ba174a4654c32674578d0127ad",
+  "source_bytes": 123168,
+  "published": "1977-06-03",
+  "gazette": "15955",
+  "in_force": "1977-06-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.06.1977); own commencement article: \"Bu Yönetmelik Resmi Gazete'de yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete'de yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6069,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

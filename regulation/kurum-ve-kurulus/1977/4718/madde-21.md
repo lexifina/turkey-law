@@ -1,0 +1,4 @@
+MADDE 21- Gişe Kontrolörünün para sayımına nezaret etmesi ve para sayma odası ile şifreli para atma kasa kapağının devamlı kilitli tutulması:
+a)Sayım odasının kapısı 24 saat kontrol edilir ve kilitli tutulur.İcap ettikçe görevlilere açılır ve kapatılır. Odanın temizliği boş bulunduğu sırada yaptırılır.
+b)Şifreli para atma kasası çelik kapağındaki şifre en çok iki ayda bir Sorumlu Sayman tarafından değiştirilir. Şifreyi gişe kontrolörleri ve Sorumlu Saymandan başka kimse bilemez. Gişe kontrolörlerinden biri işten ayrıldığı takdirde iki aylık süreye bakılmaksızın.şifre değiştirilir.
+Kasanın çelik kapağında ilâveten bulunan anahtarlardan biri Sorumlu Saymanda diğeri gişe kontrolöründe bulunur. Bu anahtarlar emin yerlerde muhafaza edilir. Kasa kapağı ancak para atılması sırasında açılır. Diğer zamanlarda devamlı kilitli tutulur.

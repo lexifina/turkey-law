@@ -1,0 +1,2 @@
+MADDE 29- Paraların banka ilgililerine tesliminden sonraki mesuliyeti:
+Torbaların banka ilgililerine tesliminden sonra paralar banka mesuliyetine girmiş olmaktadır. Paraların nakli esnasında herhangi bir şekilde zayii halinde idarede mevcut kayıt ve tespitler esas alınır paraların banka ilgililerine kasadan tesliminden itibaren muhafaza sorumluluğu bankaya ait olup, idareye herhangi bir sorumluluk yüklenemez.

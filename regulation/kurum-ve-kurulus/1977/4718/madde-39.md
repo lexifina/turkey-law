@@ -1,0 +1,3 @@
+MADDE 39- Geçiş ücretlerini ödemeden kaçıp yakalanamayan araçlar :
+Geçiş ücretini ödemeden kaçan ve yakalanamayan araçlar için tespit edilmiş (Ek-16) plaka No.su, olayın tarihi, saati, şerit, gişe görevlisi kimlik No.su ve imzası ile idarece takibat yapılır. Ve ilgili sürücü ve araç sahibinin 10 gün içinde Saymanlığa cezalı geçiş ücretinin ödenmesi tebliğ edilir.
+Cezalı ücretler Saymanlık Veznesince tahsil edilir. Tahsil edilebilenlerin karşısına vezne alındısı makbuzu No.su ve tarihi yazılarak işlenir. (Herhangi bir sebeple tahsili mümkün olmayan cezalı ücretlerinin 5539 sayılı Kanunun (32-c)t maddesi gereğince menfaat terkinine gidilmesiyle ilgili işlem yapılır.)
