@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 13 - Bu Yönetmelik yayınlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1997-02-27",
+      "27.02.1997",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "1999-10-26",
+      "RG-26/10/1999-23858",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-26/10/1999-23858",
+  "first_law": null,
+  "gazette": "22918",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1999-10-26",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/1997/7890",
+  "published": "1997-02-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7890&MevzuatTertip=5",
+  "source_bytes": 22684,
+  "source_id": "8.5.7890",
+  "source_sha256": "d4d81d0a906e75eadde189140933a9fa86210291e6e3371afdaeb40ee7adea09",
+  "text_status": "current-consolidated",
+  "title": "GAZİANTEP ÜNİVERSİTESİ\r\nGÜNEYDOĞU ANADOLU PROJESİ (GAP) ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ (GAPMER)",
+  "university_id": 196,
+  "word_count": 591
+}

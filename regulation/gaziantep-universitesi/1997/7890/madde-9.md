@@ -1,0 +1,2 @@
+Danışma Kurulu
+Madde 9 - Danışma Kurulu Yönetim Kurulu'nca önerilen ve Rektör tarafından seçilen Üniversite, kamu ve özel kuruluş temsilcilerinden oluşur. En fazla 7 üyeden oluşan Danışma Kurulu, yılda en az 2 defa toplanarak merkezin çalışmalarını değerlendirir ve çalışmalarla ilgili görüş ve önerilerini Merkez Yönetim Kurulu'na bildirir. Danışma Kurulu üyelerinin görev süresi 3 yıldır. Herhangi bir nedenle görevden ayrılan Danışma Kurulu üyesinin yerine yeni bir üye atanır.

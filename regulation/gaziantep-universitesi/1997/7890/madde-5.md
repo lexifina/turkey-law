@@ -1,0 +1,2 @@
+Merkez Müdürü
+Madde 5 - Merkez Müdürü. Üniversitenin kadrolu öğretim üyeleri arasından Rektör tarafından 3 yıl için atanır. Süresi biten müdür tekrar atanabilir. Müdüre yardımcı olmak üzere müdürün önereceği ve Rektörün onayı ile en çok iki yardımcı atanır. Müdür, görevi başında olmadığı zamanlarda yardımcılarından birisi kendisine vekalet eder. Vekalet altı aydan fazla sürerse yeni bir müdür görevlendirilir.
