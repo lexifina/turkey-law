@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3322",
+  "year": 1938,
+  "title": "(1334-1918) dahilî istikraz tahvillerinin (1938) ikramiyeli tahvillerile ve (1933) Türk borcu tahvillerinin de dahilî istikraz tahvillerile mübadelesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-01-27",
+  "gazette_issue": "3819",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3819.pdf",
+  "source_sha256": "a5f8575cad856b7d25cdedc71fc890594cd416133cb990758be8c2f9030ee902",
+  "text_sha256": "ea22a8dda9729be2a0b4c28d8b3b4d295a52559b4f5d3d7d1c47063352904f71",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      14,
+      55
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803322.pdf",
+    "source_sha256": "1d73d3da9b930914b595ca96a5dc2d3e4a52e5395c0913f444fbae34a60c00ab",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9689,
+    "bag": 0.9274,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9937,
+    "rg_words": 293,
+    "kd_words": 315,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
