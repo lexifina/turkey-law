@@ -1,0 +1,2 @@
+Müdür
+Madde 4 - Yüzüncü Yıl Üniversitesi Türk Kültürü Araştırma ve Uygulama Merkezi Müdürü, Yüzüncü Yıl Üniversitesinde çalışan kadrolu öğretim elemanları arasından Üniversite Rektörü tarafından 3 yıl için atanır. Süresi dolan müdür yeniden atanabilir. Müdür, Yüzüncü Yıl Üniversitesi öğretim elemanları arasından, 3 yıl için en çok üç yardımcı seçebilir. Merkez Müdürü görev başında olmadığı zaman müdür yardımcılarından biri kendisine vekalet eder.

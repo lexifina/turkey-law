@@ -1,0 +1,2 @@
+Genel Kurul
+Madde 6 - Türk Kültürü Araştırma ve Uygulama Merkezinin Genel Kurulu, Müdürün başkanlığında müdür yardımcılarıyla Yüzüncü Yıl Üniversitesine bağlı Fakülte Dekanlığı ve Bölüm Başkanları, Enstitü ve Yüksekokul Müdürleri ile Üniversite Senatosu tarafından Üniversitenin profesörleri arasından üç yıl için seçilecek üç üye ve üniversite Rektörünce doğrudan seçilecek olan üç öğretim üyesinden oluşur.

@@ -1,0 +1,2 @@
+Yönetim Kurulu
+Madde 8 - Yönetim Kurulu, Müdür tarafından Genel Kurul üyeleri içinden gösterilecek 10 aday arasından, Genel Kurulca 3 yıl için seçilecek 5<ı> üyeden oluşur. Kurula Müdür başkanlık eder. Yönetim Kurulunda toplantı nisabı, üye tam sayısının yarıdan fazlasıdır. Kararlar salt çoğunlukla alınır. Herhangi bir sebeple boşalan Yönetim Kurulu üyeliğine kalan süre için Rektör tarafından atama yapılır. Müdür Yardımcıları, oy hakkı olmaksızın Yönetim Kurulu toplantısına katılabilir.
