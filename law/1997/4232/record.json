@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "4232",
+  "year": 1997,
+  "title": "Özelleştirme Uygulamalarının Düzenlenmesine ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde DeğişiklikYapılmasına Dair Kanun ile İmar Kanununun Bazı Maddelerinde Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "1997-04-03",
+  "adopted_as_published": "03/04/1997",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "08.04.1997 No: 22958 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc080/kanuntbmmc080/kanuntbmmc08004232.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 80",
+  "committee_reports": [
+    {
+      "label": "TBMM 273 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024076ss0273.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 20,
+      "kayit_no": 401054,
+      "title": "Özelleştirme Uygulamalarının Düzenlenmesine ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde DeğişiklikYapılmasına Dair Kanun ile İmar Kanununun Bazı Maddelerinde Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "03/04/1997",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc080/kanuntbmmc080/kanuntbmmc08004232.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 273 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024076ss0273.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 23,
+          "sitting": 72,
+          "sitting_date": "1997-03-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c023/tbmm20023072.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c023/tbmm20023fih.pdf",
+          "pages": [
+            "319"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 76,
+          "sitting_date": "1997-04-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024076.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024fih.pdf",
+          "pages": [
+            "174",
+            "194:232"
+          ]
+        },
+        {
+          "cilt": 24,
+          "sitting": 77,
+          "sitting_date": "1997-04-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c024/tbmm20024fih.pdf",
+          "pages": [
+            "267:318"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "97144160f3b38fb5ac548b2b46c93c414740c1e5c3b959fb89b36e2435d67aac"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "97144160f3b38fb5ac548b2b46c93c414740c1e5c3b959fb89b36e2435d67aac",
+  "issuer": "TBMM",
+  "in_force": "1997-04-03",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 03/04/1997; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
