@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.40/4026- 84/46291",
+  "source_id": 37869,
+  "date": "2003-10-27",
+  "title": "Özel işyeri inşaatı faaliyeti neticesinde doğan kazancın Gelir Vergisi Kanununun ticari kazanca ilişkin hükümleri çerçevesinde değerlendirilmesi gerektiği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37869",
+  "source_sha256": "e94c8535ee0836bd057b8fde227ea273b8c39564b6094c0fa5d412e1571f1a47",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
