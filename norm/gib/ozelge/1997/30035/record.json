@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-3062/ 14239",
+  "source_id": 30035,
+  "date": "1997-04-04",
+  "title": "Zirai Donatım Kurumuna ait taşınmazın kamulaştırılması sonucu belediyeye devrinde K.D.V. ödenecektir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30035",
+  "source_sha256": "e15d39eecc52dfeeda729c48e3758196f71ffb6351fe17d11ab2ea9fbf291b72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
