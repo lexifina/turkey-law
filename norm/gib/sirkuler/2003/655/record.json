@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-2/2003-2/Geçici Vergi Uygulaması 1",
+  "source_id": 655,
+  "date": "2003-08-07",
+  "title": "2003 yılının ikinci dönemine ilişkin olarak verilecek geçici vergi beyannamesinin 25 numaralı satırına yazılacak olan 'hesaplanan geçici vergi tutarı', geçici vergi matrahı olarak beyan edilen tutarın % 20 si olarak hesaplanmayacak, matrahın birinci dönem",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/655",
+  "source_sha256": "0cb978ba15f0551123ad1467956996f713c3b229a80d6eac75f26e63c82ae1d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
