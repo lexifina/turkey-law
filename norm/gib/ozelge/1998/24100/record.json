@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4006-261/006372",
+  "source_id": 24100,
+  "date": "1998-02-23",
+  "title": "Müşterek hesap adı altında açılmakla birlikte sözü edilen menkul sermaye iratlarının gerçekte ödemeye ilişkin olarak adına belge düzenlenen kişiye ait olmaması halinde vergilendirmenin de buna göre yapılacağı tabiidir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24100",
+  "source_sha256": "7478b2cf623baaedb0de599ba2aa5774f25bac7db45ed69c366509767e966527",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
