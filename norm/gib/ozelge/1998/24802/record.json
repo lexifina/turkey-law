@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.43/4305-100/50817",
+  "source_id": 24802,
+  "date": "1998-12-31",
+  "title": "1998 yılında satın alınan gayrimenkulün 01.01.1999 tarihinden sonra satılması halinde, maliyet bedeli olarak  tapuda, kayıtlı iktisap bedelinin  endekslenmek suretiyle artırılan değeri esas alınacak ve endekslenmiş maliyet bedeli ile satış bedeli arasında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24802",
+  "source_sha256": "3387fee7975ffd9ec99433f43ce596c4cc505da56ecebae1713252a40efdecf5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
