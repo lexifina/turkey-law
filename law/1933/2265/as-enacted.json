@@ -1,0 +1,51 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2265",
+  "year": 1933,
+  "title": "1452 numaralı kanuna merbut 2 numaralı cetvelin Maliye teşkilâtına ait kısmının tadili ve bir kısım vazifelerin sureti ifası hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-06-13",
+  "gazette_issue": "2426",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2426.pdf",
+  "source_sha256": "51a09d0f67448e1f0b8c0da82b6ef2f5cad5bef5c32eff9ec2b1a357ae643dee",
+  "text_sha256": "166b9b7ad3621a1e2322407086027eb73127f25d884947986e4e00933823e5fd",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "line_span": [
+    [
+      110,
+      2155
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202265.pdf",
+    "source_sha256": "7793504e772ab90482b5fbfbe4dfe07416d9762ca248c961361b21922cc2969c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9342,
+    "bag": 0.95,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9974,
+    "rg_words": 3950,
+    "kd_words": 3915,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
