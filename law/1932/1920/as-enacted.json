@@ -1,0 +1,49 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1920",
+  "year": 1932,
+  "title": "Gümrük memurlarından vazife memuresini sui istimal edenlerle vazife veya mesleklerinde kendilerinden istifade edilmiyenler hakkında yapılacak muameleye dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-01-12",
+  "gazette_issue": "2000",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2000.pdf",
+  "source_sha256": "7a7ed6fca788a2b61e90462be04f02639941654deab6e599fe59f05d1e9d12bb",
+  "text_sha256": "55216a7c28a691cf2b859234c75963fe5e576a94225f5bea0a387dff4bdd1382",
+  "text_status": "ocr",
+  "pages": [
+    9
+  ],
+  "line_span": [
+    [
+      1965,
+      2019
+    ],
+    [
+      2020,
+      2025
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101920.pdf",
+    "source_sha256": "1ef2ac8bbf0499b9ce0567e48ce5b1882a00a1b561f91b465fe2ab9a2481244c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9508,
+    "bag": 0.8624,
+    "kd_coverage": 0.994,
+    "kd_body_compared": 0.8836,
+    "rg_words": 160,
+    "kd_words": 189,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
