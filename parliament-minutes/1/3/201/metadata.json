@@ -1,0 +1,20 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "assembly": "TÜRKİYE BÜYÜK MİLLET MECLİSİ",
+  "term": 1,
+  "term_label": "1. Dönem",
+  "legislative_year": 3,
+  "cilt": 27,
+  "sitting": 201,
+  "label": "201. Birleşim",
+  "sitting_date": "1923-02-28",
+  "date_as_published": "28 Şubat 1923",
+  "weekday": "Çarşamba",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c027/tbmm01027201.pdf",
+  "old_script_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c027/ehttbmm01027201.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d01/c027/tbmm01027fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d01&v_yasama_yili=3&v_cilt=",
+  "source_sha256": "33fd1ebbd146b0d9ef7adde9693154e0a2bd0f658f9799cf5543e8abc4ed756c",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
