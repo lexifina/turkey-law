@@ -1,0 +1,103 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 353521,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Ege Üniversitesinin 1962 bütçe yılı kesinhesabına ait uygunluk bildiriminin sunulduğuna dair Sayıştay Başkanlığı tezkeresi ile Ege Üniversitesi 1962 bütçe yılı Kesinhesap Kanunu tasarısı (3/907, 1/688)",
+  "title": "Ege Üniversitesinin 1962 bütçe yılı kesinhesabına ait uygunluk bildiriminin sunulduğuna dair Sayıştay Başkanlığı tezkeresi ile Ege Üniversitesi 1962 bütçe yılı Kesinhesap Kanunu tasarısı (3/907, 1/688)",
+  "first_sitting_date": "1965-02-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 36,
+      "sitting": 65,
+      "sitting_date": "1965-02-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c036/mm__01036fih.pdf",
+      "pages": [
+        "493"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 68,
+      "sitting_date": "1965-03-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037fih.pdf",
+      "pages": [
+        "134"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 69,
+      "sitting_date": "1965-03-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037fih.pdf",
+      "pages": [
+        "156:158",
+        "173:176"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 70,
+      "sitting_date": "1965-03-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037070.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037fih.pdf",
+      "pages": [
+        "193"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 71,
+      "sitting_date": "1965-03-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037fih.pdf",
+      "pages": [
+        "223:226"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 72,
+      "sitting_date": "1965-03-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037fih.pdf",
+      "pages": [
+        "248",
+        "274:277"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 73,
+      "sitting_date": "1965-03-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037fih.pdf",
+      "pages": [
+        "295",
+        "332:335"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=7001&v_kullanici_id=27484836",
+  "source_sha256": "47d93e1f15cc06346bc1e64e143e5e00a75b9a728e055ab1cc29187402f6086c",
+  "in_force": "1965-02-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
