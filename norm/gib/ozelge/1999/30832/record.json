@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5426-7/1811",
+  "source_id": 30832,
+  "date": "1999-01-15",
+  "title": "Şirketin döviz cinsinden belirlenen borcunu yıl sonunda değerlemesi sırasında ortaya çıkan kur farkının katma değer vergisine tabi tutulmaması gerekir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30832",
+  "source_sha256": "9e12f08d89b7cfbb1bcd83eaa08943a100598f159824e0a6cccc4a03c9b3a4e7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
