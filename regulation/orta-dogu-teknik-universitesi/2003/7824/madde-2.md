@@ -1,0 +1,2 @@
+Amaç
+Madde 2 —Merkezin amacı, üniversite öğrencisinin yaratıcı, yenilikçi ve projelerini hayata geçirebilen girişimci niteliğe ve beceriye sahip olarak yetişmesini ve mezun olmasını, kendi işini kuran mezunlarımızın istihdam yaratan, üretim yapan bireyler olarak Türk ekonomisine ciddi katkılarda bulunmalarını, kendi işini kurmayı düşünmeyen öğrencilerin de girişimciliği bir yaşam tarzı olarak benimsemelerini sağlamaktır.
