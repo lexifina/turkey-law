@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4624",
+  "year": 2001,
+  "title": "Güneydoğu Avrupa Çokuluslu Barış Gücü Anlaşmasının İkinci Ek Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2001-02-15",
+  "gazette_issue": "24319",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2001/02/20010215.htm",
+  "source_sha256": "89612b6a4c566eb030a90dfd8953f664f56a86d325dd6266642695a131e02032",
+  "text_sha256": "e27b8db1eab2afba46970bb47d62635608e5682f33c955bc55f2ff2ef95fd96b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2001/02/15/24319-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2001/02/20010215.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
