@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 320457,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Ankara Üniversitesi 1973 yılı Bütçe kanunu tasarısı (Millet Meclisi 1/555; Cumhuriyet Senatosu 1/12) (S. Sayısı:11)",
+  "title": "Ankara Üniversitesi 1973 yılı Bütçe kanunu tasarısı (Millet Meclisi 1/555; Cumhuriyet Senatosu 1/12) (S. Sayısı:11)",
+  "first_sitting_date": "1972-02-01",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 2,
+      "sitting": 25,
+      "sitting_date": "1972-02-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c002/cs__11002025.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t11/c002/cs__11002fih.pdf",
+      "pages": [
+        "3",
+        "530",
+        "575:577",
+        "606",
+        "726:727"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2010&v_gelecek_sayfa=1701&v_kullanici_id=27484916",
+  "source_sha256": "57ddbf06226e0c7dcda13497f30aa3bb5a9e99d346234e56c9614e9e1c925fd6",
+  "in_force": "1972-02-01",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
