@@ -1,0 +1,5 @@
+DUMLUPINAR ÜNİVERSİTESİ
+KÜTÜPHANE VE DOKÜMANTASYON DAİRE BAŞKANLIĞI YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar
+Amaç :

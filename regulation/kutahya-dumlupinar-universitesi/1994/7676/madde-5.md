@@ -1,0 +1,1 @@
+Madde 5- Teknik Kurulun Görevleri: Merkez ve birim kütüphanelerine alınacak ve düşümü yapılacak eserleri değerlendirmek üzere Rektörlük onayıyla kurulan bu kurul; bir Rektör Yardımcısı başkanlığında Kütüphane ve Dokümantasyon Daire Başkanı ve iki Uzman üyeden oluşur.

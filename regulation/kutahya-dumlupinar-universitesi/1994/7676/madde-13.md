@@ -1,0 +1,1 @@
+Madde 13- Ansiklopedi, sözlük, atlas ve benzeri danışma kaynakları, süreli yayınların son sayıları, basılı olmayan lisansüstü tezler ile yazma ve nadir basma eserler kütüphane dışında ödünç verilemez. Yazma ve nadir basma eserlerin incelenmesi izne bağlıdır.
