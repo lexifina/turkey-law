@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1067",
+  "year": 1938,
+  "title": "Askerî ve mülkî tekaüd Kanununun 25. maddesinin tefsirine mahal olmadığına dair",
+  "adopted": "1938-12-15",
+  "adopted_as_published": "15/12/1938",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.12.1938 No: 4089",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc019/karartbmmc019/karartbmmc01901067.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 19",
+  "committee_reports": [
+    {
+      "label": "TBMM 17 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c028/tbmm05028011ss0017.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 5,
+      "kayit_no": 105027,
+      "title": "Askerî ve mülkî tekaüd Kanununun 25. maddesinin tefsirine mahal olmadığına dair",
+      "adopted_as_published": "15/12/1938",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc019/karartbmmc019/karartbmmc01901067.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 17 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c028/tbmm05028011ss0017.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 28,
+          "sitting": 10,
+          "sitting_date": "1938-12-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c028/tbmm05028010.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c028/tbmm05028fih.pdf",
+          "pages": [
+            "14"
+          ]
+        },
+        {
+          "cilt": 28,
+          "sitting": 11,
+          "sitting_date": "1938-12-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c028/tbmm05028011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d05/c028/tbmm05028fih.pdf",
+          "pages": [
+            "23"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=234&v_gelecek_sayfa=101&v_kullanici_id=27483265",
+      "page_sha256": "531fb016e7d28a3eeb7af5538c7a6ec28b9cb6dcdb7cd720656e3367502e5454"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=5&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "531fb016e7d28a3eeb7af5538c7a6ec28b9cb6dcdb7cd720656e3367502e5454",
+  "issuer": "TBMM",
+  "in_force": "1938-12-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 15/12/1938; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
