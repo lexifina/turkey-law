@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.63/6369",
+  "source_id": 35977,
+  "date": "2004-03-08",
+  "title": "İpotek işleminin 2985 Sayılı Kanunun Ek-1'inci maddesi gereği Toplu Konut Fonundan kullandırılacak krediye ilişkin olması koşuluyla düzenlenen kağıtların damga vergisinden kullandırılacak kredilerle ilgili ipotekler ile bu konutların hak sahipleri adına t",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35977",
+  "source_sha256": "444ac371f887bbfd395d5ab66c3ac16a196f385b8a3d040502105f871141bf44",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
