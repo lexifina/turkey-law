@@ -1,0 +1,61 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1182",
+  "year": 1927,
+  "title": "Maarif Vekâleti 1927 senei maliyesi bütçesinde münakale icrasına dair Kanun",
+  "adopted": "1927-12-12",
+  "adopted_as_published": "12/12/1927",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "17.12.1927 No: 763",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc006/kanuntbmmc006/kanuntbmmc00601182.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 6",
+  "committee_reports": [
+    {
+      "label": "TBMM 20 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/tbmm03001017ss0020.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 119986,
+      "title": "Maarif Vekâleti 1927 senei maliyesi bütçesinde münakale icrasına dair Kanun",
+      "adopted_as_published": "12/12/1927",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc006/kanuntbmmc006/kanuntbmmc00601182.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 20 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/tbmm03001017ss0020.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 1,
+          "sitting": 17,
+          "sitting_date": "1927-12-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/tbmm03001017.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/ehttbmm03001017.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c001/tbmm03001fih.pdf",
+          "pages": [
+            "120:121",
+            "125:127"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "a0d5c6f8bbb70702bea9b127d501abc25664add8a8a9e7714cdbe8dde4058a53"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "a0d5c6f8bbb70702bea9b127d501abc25664add8a8a9e7714cdbe8dde4058a53",
+  "issuer": "TBMM",
+  "in_force": "1927-12-12",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 12/12/1927; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
