@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4407-1185/24233",
+  "source_id": 21042,
+  "date": "1999-06-16",
+  "title": "Şirket mallarını iş akdi ile bağlı olmaksızın şirket adına kapı kapı dolaşmak suretiyle tüketiciye satanlar gelir vergisinden muaftır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21042",
+  "source_sha256": "fff17e93a14a10c7d817ea9647bb985e258884a70402aa206c8f918657f05317",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
