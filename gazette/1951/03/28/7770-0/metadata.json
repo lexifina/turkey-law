@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-issue",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "1951-03-28",
+  "issue": "7770",
+  "issue_basis": "official archive file name /arsiv/<issue>.pdf (the archive numbers its files by issue; e.g. 24091.pdf = 26.06.2000, the issue before HTML issue 24092)",
+  "edition": "regular",
+  "archive_mukerrer_flag": null,
+  "item": 0,
+  "section": null,
+  "heading": null,
+  "title": "28.03.1951 tarihli Resmi Gazete",
+  "official_link": "https://www.resmigazete.gov.tr/arsiv/7770.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/Home/Filter",
+  "index_request": {
+    "method": "POST",
+    "searchtype": 2,
+    "arsivaramayeri": "1",
+    "from": "1951-01-01",
+    "to": "1951-12-31"
+  },
+  "index_sha256": "e0bff44cb0f4d7d63f2d1edb1d93122b8af70ced6eba1d694473619b87b89053",
+  "index_header": "official archive listing date 28.03.1951",
+  "issue_pdf": "https://www.resmigazete.gov.tr/arsiv/7770.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; whole issue published as a scanned PDF (no OCR); items not listed"
+}
