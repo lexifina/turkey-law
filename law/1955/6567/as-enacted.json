@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6567",
+  "year": 1955,
+  "title": "Maarif Vekâleti kuruluş kadrolariyle merkezî kuruluş ve görevleri hakkındaki 2287 sayılı Kanunda değişiklik yapılmasına dair olan 4926 sayılı Kanunla ek ve zeyilleri bulunan kanunlarda değişiklik yapılmasına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1955-05-27",
+  "gazette_issue": "9013",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/9013.pdf",
+  "source_sha256": "d114978ebb6d1d673c896cd838423c71e6d24be9ea1d1fd255e36c09f1e9b9bc",
+  "text_sha256": "4658fbf2afdc44423b6034708c533126cf7fa667821892c347bb73a1cb78e324",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      68,
+      182
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc037/kanuntbmmc037/kanuntbmmc03706567.pdf",
+    "source_sha256": "af5e4f441c8f80ac30f185ceadfa8e6390f667de6bdc0d9b49527ed6c27f155c",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9415,
+    "bag": 0.8995,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9826,
+    "rg_words": 285,
+    "kd_words": 287,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
