@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6182",
+  "year": 1953,
+  "title": "Muhtaç Çiftçilere Ödünç Tohumluk Verilmesi hakkındaki Kanunun bazı Maddelerinin Değiştirilmesine ve bu Kanuna bazı Hükümler Eklenmesine ve Göçmenlerle Nakledilenlere ve Muhtaç Çiftçilere Tohumluk ve Yemeklik Dağıtılması hakkındaki Kanunun 4 ncü Maddesinin Değiştirilmesi ne dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1953-07-25",
+  "gazette_issue": "8467",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/8467.pdf",
+  "source_sha256": "8e94095969cd216416ac641463a835a6fd49b19b39092c958e7cf367878c1d2b",
+  "text_sha256": "4988821def971f87a8609a77c4bfd875d8d105c19c802f88232943225c47752e",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      183,
+      250
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [2] (no text layer)",
+    "tesseract_pages": [
+      2
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc035/kanuntbmmc035/kanuntbmmc03506182.pdf",
+    "source_sha256": "ef97219094ab1b6e79a98fb100cfc074f2e02fa8efad57c0cac04450ad593ec1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9688,
+    "bag": 0.8941,
+    "kd_coverage": 0.9979,
+    "kd_body_compared": 0.9936,
+    "rg_words": 476,
+    "kd_words": 471,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
