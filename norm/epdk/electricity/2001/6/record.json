@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6",
+  "decision_date": "2001-12-27",
+  "title": "2002 yılında uygulanacak iletim ek ücretine ilişkin",
+  "resmi_gazete_date": "2001-12-29",
+  "resmi_gazete_number": "24625",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U4+biGteXvg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U4+biGteXvg="
+  ],
+  "source_sha256": "3efb4bbfeb685ceb9c500f862f1ec60f83d0fc48cbd83e0f81184fbcb301e5cd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2001-12-27",
+  "law_text_complete": false
+}
