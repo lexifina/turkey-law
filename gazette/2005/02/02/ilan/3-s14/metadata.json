@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-02",
+  "issue": "25715",
+  "edition": "regular",
+  "item": 14,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Antalya Büyükşehir Belediye Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050202-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (15 = 15)",
+  "ilan_codes": [
+    "815/1-1",
+    "814/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050202-3.htm",
+  "category_page_sha256": "0e66e21c061a1d0ebe69434bd18751b7c321f01df698753b309135427acdcda1",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2005/02/20050202.htm",
+  "index_sha256": "3430ec1f5f6cf05243445c90cc24ebbc44cab893f31c0ff0da5a71382e5a2fe2",
+  "index_header": "2 Şubat 2005 ... Sayı : 25715",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
