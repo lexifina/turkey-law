@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1926",
+  "year": 1932,
+  "title": "Gümrük tarifesi Kanununun 28. maddesinin tadili hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1932-01-12",
+  "gazette_issue": "2000",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2000.pdf",
+  "source_sha256": "7a7ed6fca788a2b61e90462be04f02639941654deab6e599fe59f05d1e9d12bb",
+  "text_sha256": "5f93fe034f2fe079b65e6789d81ae26cf1b2d4cf1a6b4d46dfa8c1fdc86438de",
+  "text_status": "ocr",
+  "pages": [
+    11
+  ],
+  "line_span": [
+    [
+      2417,
+      2477
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc011/kanuntbmmc011/kanuntbmmc01101926.pdf",
+    "source_sha256": "89b80ca9c25ca2016ca15bd1f2d1622f67c9734ad236c67ee0071c9a9fc67f85",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.965,
+    "bag": 0.9174,
+    "kd_coverage": 0.983,
+    "kd_body_compared": 0.983,
+    "rg_words": 178,
+    "kd_words": 176,
+    "own_anchor": false,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
