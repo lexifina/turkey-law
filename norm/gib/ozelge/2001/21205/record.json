@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4215-32-849/14160",
+  "source_id": 21205,
+  "date": "2001-03-16",
+  "title": "Arızi olarak elde edilen kazançlara istisna uygulanıp uygulanmayacağı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21205",
+  "source_sha256": "febd9783fceb2b9dc65d8fc534c31c2741d99699b688beb4276f061699acb3a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
