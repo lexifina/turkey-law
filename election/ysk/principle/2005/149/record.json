@@ -1,0 +1,16 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2005/149",
+  "list_number": "149",
+  "decision_date": "2005-03-26",
+  "title": "YSK ilke kararı 2005/149",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/3706/2005-149-karar.htm",
+  "source_sha256": "01ae7f98becdf35e80e0f03443e3ba7a28769f048b7c1dd2116d167879aba3d9",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2005-03-26",
+  "law_text_complete": false
+}
