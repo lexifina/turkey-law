@@ -1,0 +1,368 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "619",
+  "year": 1965,
+  "title": "1965 yılı Bütçe Kanunu",
+  "adopted": "1965-05-29",
+  "adopted_as_published": "29/05/1965",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "1.6.1965 No: 12011",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800619.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 48",
+  "committee_reports": [
+    {
+      "label": "MM 970 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039107ss0970.pdf"
+    },
+    {
+      "label": "CS ss0587no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027076krss0587.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 352481,
+      "title": "1965 yılı Bütçe Kanunu",
+      "adopted_as_published": "29/05/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800619.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 970 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039107ss0970.pdf"
+        },
+        {
+          "label": "CS ss0587no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027076krss0587.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 37,
+          "sitting": 82,
+          "sitting_date": "1965-03-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c037/mm__01037fih.pdf",
+          "pages": [
+            "639"
+          ]
+        },
+        {
+          "cilt": 39,
+          "sitting": 105,
+          "sitting_date": "1965-05-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039105.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039fih.pdf",
+          "pages": [
+            "226"
+          ]
+        },
+        {
+          "cilt": 39,
+          "sitting": 107,
+          "sitting_date": "1965-05-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039107.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039fih.pdf",
+          "pages": [
+            "416:466",
+            "466:488"
+          ]
+        },
+        {
+          "cilt": 39,
+          "sitting": 108,
+          "sitting_date": "1965-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039108.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039fih.pdf",
+          "pages": [
+            "508:533",
+            "534:556:578"
+          ]
+        },
+        {
+          "cilt": 39,
+          "sitting": 109,
+          "sitting_date": "1965-05-19",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039109.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039fih.pdf",
+          "pages": [
+            "599:625",
+            "661:698"
+          ]
+        },
+        {
+          "cilt": 40,
+          "sitting": 110,
+          "sitting_date": "1965-05-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040110.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040fih.pdf",
+          "pages": [
+            "3:14"
+          ]
+        },
+        {
+          "cilt": 40,
+          "sitting": 111,
+          "sitting_date": "1965-05-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040111.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040fih.pdf",
+          "pages": [
+            "102:160"
+          ]
+        },
+        {
+          "cilt": 40,
+          "sitting": 112,
+          "sitting_date": "1965-05-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040112.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040fih.pdf",
+          "pages": [
+            "216:243",
+            "244:252",
+            "254:292"
+          ]
+        },
+        {
+          "cilt": 40,
+          "sitting": 113,
+          "sitting_date": "1965-05-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040113.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040fih.pdf",
+          "pages": [
+            "339:373"
+          ]
+        },
+        {
+          "cilt": 40,
+          "sitting": 114,
+          "sitting_date": "1965-05-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040114.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040fih.pdf",
+          "pages": [
+            "405:489"
+          ]
+        },
+        {
+          "cilt": 40,
+          "sitting": 115,
+          "sitting_date": "1965-05-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040115.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c040/mm__01040fih.pdf",
+          "pages": [
+            "543:629"
+          ]
+        },
+        {
+          "cilt": 41,
+          "sitting": 116,
+          "sitting_date": "1965-05-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c041/mm__01041116.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c041/mm__01041fih.pdf",
+          "pages": [
+            "3:28",
+            "30:62"
+          ]
+        },
+        {
+          "cilt": 41,
+          "sitting": 117,
+          "sitting_date": "1965-05-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c041/mm__01041117.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c041/mm__01041fih.pdf",
+          "pages": [
+            "135:206",
+            "209:237"
+          ]
+        },
+        {
+          "cilt": 41,
+          "sitting": 118,
+          "sitting_date": "1965-05-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c041/mm__01041118.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c041/mm__01041fih.pdf",
+          "pages": [
+            "247:278",
+            "284:313"
+          ]
+        },
+        {
+          "cilt": 41,
+          "sitting": 119,
+          "sitting_date": "1965-05-29",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c041/mm__01041119.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c041/mm__01041fih.pdf",
+          "pages": [
+            "379:486",
+            "491:494"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=2201&v_kullanici_id=27483225",
+      "page_sha256": "72502e1956df30c5ef99199dc46917911e8471e14e17fcbaec377d2337359133"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 177253,
+      "title": "1965 yılı Bütçe Kanunu",
+      "adopted_as_published": "29/05/1965",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc048/kanuntbmmc048/kanuntbmmc04800619.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 970 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c039/mm__01039107ss0970.pdf"
+        },
+        {
+          "label": "CS ss0587no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027076krss0587.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 27,
+          "sitting": 76,
+          "sitting_date": "1965-05-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027076.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027fih.pdf",
+          "pages": [
+            "4:29",
+            "30:52",
+            "52:64"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 77,
+          "sitting_date": "1965-05-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027077.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027fih.pdf",
+          "pages": [
+            "69:141"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 78,
+          "sitting_date": "1965-05-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027078.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027fih.pdf",
+          "pages": [
+            "156:180",
+            "181:213",
+            "213:220"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 79,
+          "sitting_date": "1965-05-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027079.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027fih.pdf",
+          "pages": [
+            "223:253",
+            "254:277",
+            "277-295"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 80,
+          "sitting_date": "1965-05-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027fih.pdf",
+          "pages": [
+            "298:318",
+            "337:373",
+            "377:399",
+            "399:403",
+            "403:425"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 81,
+          "sitting_date": "1965-05-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027081.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027fih.pdf",
+          "pages": [
+            "442:472",
+            "475:520",
+            "524"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 82,
+          "sitting_date": "1965-05-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027fih.pdf",
+          "pages": [
+            "530:560",
+            "563:596"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 83,
+          "sitting_date": "1965-05-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027083.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027fih.pdf",
+          "pages": [
+            "608:693"
+          ]
+        },
+        {
+          "cilt": 27,
+          "sitting": 84,
+          "sitting_date": "1965-05-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027084.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c027/cs__04027fih.pdf",
+          "pages": [
+            "706:759",
+            "761:781",
+            "794:785"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=601&v_kullanici_id=27483235",
+      "page_sha256": "5357870691ec6d0e13bb878c85f5731194f6982d1f16dd56598658fc277237bf"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "72502e1956df30c5ef99199dc46917911e8471e14e17fcbaec377d2337359133",
+  "issuer": "Millet Meclisi",
+  "in_force": "1965-05-29",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 29/05/1965; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
