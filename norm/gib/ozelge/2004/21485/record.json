@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4214-2152/50967",
+  "source_id": 21485,
+  "date": "2004-10-28",
+  "title": "Hizmet erbabına verilen yemeğin işyeri ve müştemilatında verilmesi halinde, yemek bedelinin tamamının gelir vergisinden istisna edilmesi gerekir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21485",
+  "source_sha256": "0a3b6fc153f6d000c0914fe811f7231a6d8c3067f1295dab871d3986cae8656d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
