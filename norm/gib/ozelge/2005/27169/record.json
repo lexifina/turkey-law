@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2968-298-367-15379",
+  "source_id": 27169,
+  "date": "2005-02-02",
+  "title": "Kurumlar Vergisi geçici madde 28 kapsamında yapılan gayrimenkul satış işlemi sonucunda sermayeye ilave edilen satış kazancı enflasyon düzeltmesine tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27169",
+  "source_sha256": "bbcfeebbf492ba7dd3c38b3f906fc3d68594c3ba11304172cc0385eb5950b999",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
