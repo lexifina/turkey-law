@@ -1,0 +1,1 @@
+MADDE 12 - Müdür, kısa süreli ayrılmalarda yardımcısını vekil bırakır. Vekalet üç aydan fazla süremez. Vekalet üç aydan fazla sürerse veya müdür seçimi süresi dolmadan herhangi bir nedenle görevinden ayrılırsa süresini doldurmak üzere madde 10'a uygun olarak yeni bir Müdür tayin edilir.

@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.7156",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ UYGULAMA-ARAŞTIRMA (UYG-AR) MERKEZLERİ YÖNETMELİĞİ",
+  "number": "7156",
+  "issuer": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "path": "regulation/istanbul-teknik-universitesi/1983/7156",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7156&MevzuatTertip=5",
+  "source_sha256": "59ac0df301fd2425c951c58bd8cbb45320f4c56ffd87207f799dc4ab0e2cc75d",
+  "source_bytes": 24051,
+  "published": "1983-04-10",
+  "gazette": "18014",
+  "in_force": "1983-04-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.04.1983); own commencement article: \"Bu Yönetmelik Resmi Gazete'de yayınlanmasından sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete'de yayınlanmasından sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 933,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

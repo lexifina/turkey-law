@@ -1,0 +1,4 @@
+Yönetim Kurulunun Görevleri
+MADDE 9 - Yönetim Kurulu,müdürün başkanlığında ayda en az bir defa toplanarak Merkezin faaliyeti ve yönetimi ile ilgili konularda kararlar alır. Merkezin teknik ve idari kadrolarının tespiti ve tayini ile ilgili hususlarda müdürün hazırlanmış olduğu önerileri inceler ve atama yetkisini haiz makama teklif eder.
+Müdürün her faaliyet yılı sonunda hazırlayacağı faaliyet raporunun hazırlanmasına yardım eder ve sonraki yıla ait çalışma programını müdürle beraber düzenler ve Merkez Kuruluna sunar. Merkez Kurulunca onaylanan faaliyet raporu ve çalışma programı fakültelere bağlı merkezlerde fakülte kuruluna, Rektörlüğüne bağlı merkezlerde senatoya sunulur.
+Uygulama Araştırma Merkezine Döner Sermaye Yönetmeliğine göre gelmiş her türlü işlerin ve ücretlerin dağıtımı Yönetim Kurulunun kararına göre yapılır.
