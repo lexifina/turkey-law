@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4102-052154",
+  "source_id": 23108,
+  "date": "1999-11-30",
+  "title": "Nakil vasıtası  sahibi olan mükellefin  zirai kazancının  GVK.'nun  53. maddesi gereğince  gerçek usulde tespit edilerek vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23108",
+  "source_sha256": "18d93a88288bf81d1df67a4e5104cafb9965ac9fd50b0ba4bf1ed53e5a5a1656",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
