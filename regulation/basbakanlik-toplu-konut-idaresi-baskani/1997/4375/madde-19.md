@@ -1,0 +1,4 @@
+Afet Bölgelerinde Yapılacak Konutların Finansmanı
+Madde 19 - Afet bölgelerinde yapılacak konutlar ile bu konutların altyapılarına ve sosyal tesislere ek finansmanın sağlanmasını Bayındırlık ve İskan Bakanlığı, İdareden isteyebilir. İdare, Fonun finansman programı ve imkanları çerçevesinde bu projeleri ve ayrılabilecek tutarı belirler.
+Bu finansman, 7269 sayılı Umumi Hayata Müessir Afetler Dolayısıyla Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun esaslarına göre kullandırılır.
+(Değişik: RG-22/09/1998-23824) Doğal afetlere maruz kalan yörelerdeki konut inşaatlarının kısa sürede tamamlanarak iskana açılabilmeleri için, bu yörelerdeki konutlara açılacak Kredi miktarları, Kredinin açılacağı inşaat seviyeleri ve Kredinin kullandırılmasına ilişkin usul ve esaslar tebliğle düzenlenir. Ayrıca, Yönetmeliğin 4 üncü maddesinin 3 üncü fıkrası gereğince, kredi talep edenlerin verecekleri beyan ve taahhütler Kredi geri dönüş aşamasına kadar yapılabilir.

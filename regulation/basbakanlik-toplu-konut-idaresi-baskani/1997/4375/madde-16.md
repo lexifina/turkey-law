@@ -1,0 +1,3 @@
+İdarenin Mülkiyetindeki Toplu Konut Alanları
+Madde 16 - İdarenin uygun gördüğü alanların, konut yapılmak amacıyla ve bedeli Fondan karşılanmak suretiyle, İdare ile Arsa Ofisi Genel Müdürlüğü arasında yapılacak protokol hükümlerine uygun olarak, Arsa Ofisi Genel Müdürlüğü tarafından kamulaştırılması sağlanır.
+Bu alanların kadastro, jeoteknik etüd, harita, imar planı, altyapıları, sosyal tesisleri ve uygulamanın gerektirdiği arazi çalışmaları, bedeli Fondan karşılanmak suretiyle yaptırılabilir. Bu alanlar, Toplu Konut Yapımcılarına İdarenin uygun göreceği bir usul ile konut yapmak şartıyla satılabilir, tahsis edilebilir, kat karşılığı verilebilir veya finansmanına katılarak ortak uygulama yapılabilir.

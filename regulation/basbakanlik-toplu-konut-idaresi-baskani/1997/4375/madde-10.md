@@ -1,0 +1,11 @@
+ÜÇÜNCÜ KISIM
+Çeşitli Hükümler
+İdare - Banka - Kredi Kullananlar Arasındaki İlişkiler
+Madde 10 - Banka, bu Yönetmelik ile kendisine verilen görevleri yerine getirmek için merkeze bağlı yeterli sayıda ihtisas elemanı istihdam etmek zorundadır.
+Kredi isteklilerine ilişkin her türlü proje ve Toplu Konut Yapımcısının teknik ve mali yönden değerlendirilmesi, inşaatların teknik ve fen kurallarına uygun olarak yapılıp yapılmadığının kontrolü ve denetim hizmetleri Banka tarafından yerine getirilir. Banka, bu amaçla müşavirlik hizmetlerinden de yararlanabilir.
+Bu Yönetmelik uyarınca yapılacak işlemlerle ilgili olarak verilecek her türlü hizmet, İdare ile Banka arasında düzenlenecek protokolde belirlenir. Bankaya bu Yönetmelik uyarınca vereceği hizmetlerin karşılığı olarak İdare ile Banka arasında imzalanacak protokolde belirlenecek oranda, Kredi kullananlar tarafından, komisyon ödenir.
+Bu Yönetmelik gereği açılan kredilerden, Kredi kullananlar, Banka ile İdareye karşı sorumludurlar. Banka, inşaatların zamanında bitirilmesi ve kredilerin geri ödenmesinden İdareye karşı sorumludur ve geri dönüş garantisini verir.
+İdare, Banka ve Kredi kullanıcıları nezdinde, Kredilerin kullanma aşamalarında amacına uygun olarak kullanılıp kullanılmadığını denetleyebilir veya denetletebilir ve uygulamadaki noksanlıkların giderilmesini ister. Noksanlıkların giderilmemesi halinde İdare, hangisinden kaynaklanırsa kaynaklansın kredi işlemlerini durdurmak veya kredinin tamamını muaccel kılmak yetkisini kullanır.
+Bu Yönetmelikteki koşullara uymayan proje veya kişilere Kredi açıldığının tespit edilmesi halinde açılan Kredinin ödenmesi durdurulur ve o güne kadar kullanılan kısmı için, Kredinin kullanılmaya başladığı tarihten itibaren geçen süre için, 6183 sayılı Amme Alacaklarının Tahsili Usulü Hakkında Kanunun 51 inci maddesinin 1 inci fıkrasında yer alan gecikme zammı uygulanır.
+Kredi kullanılarak edinilen konutun yine aynı şartlara haiz bir başkası tarafından devir veya satın alınması halinde Kredi borcu devredilir. Aksi takdirde borç, Bankaca usulüne ve sözleşme hükümlerine göre muaccel hale getirilerek tahsil edilir.
+İdarenin onayı ile Bankanın kendi kaynaklarından bu Yönetmelik esaslarına göre Kredi açması halinde; Banka, İdareden Faiz farkı talep edebilir. Buna ilişkin esaslar İdare ile Banka arasında yapılacak Protokolde belirlenir.

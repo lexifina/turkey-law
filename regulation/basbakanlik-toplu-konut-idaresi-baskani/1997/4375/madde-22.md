@@ -1,0 +1,2 @@
+Araştırmaların Yaptırılması
+Madde 22- İdarece uygun görülecek kamu kuruluşları veya özel kuruluşlara, konutla ilgili olarak yapılacak plan, proje, standart ve teknolojilerin, yapı tesis gereçlerinin araştırılıp geliştirilmesi, yapı emniyeti, yapı denetimi, kalite ve kontrolü işlemleri ile enerji tasarrufu sağlayıcı ve çevre kirlenmesini azaltıcı ve benzeri konulardaki her türlü araştırmalar, bedeli Fondan karşılanmak suretiyle yaptırılabilir.
