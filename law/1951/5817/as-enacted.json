@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5817",
+  "year": 1951,
+  "title": "Tedip ve Tenkil Hareketleri Sırasında Yabancı Memleketlere İltica ve 5677 Sayılı Af Kanunundan İstifade ile Memlekete Dönen Yoklama Kaçağı, Bakaya ve Saklı Efradın Askerlik Muamelelerinin Tehirine Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1951-08-01",
+  "gazette_issue": "7873",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7873.pdf",
+  "source_sha256": "3f04e77db6612d2fb389f768e08c3564d4a2357825c62a935802fad8700dacea",
+  "text_sha256": "fe65a4e50e33b59aa23c9e68e3a41b73339cf9eeae5528d92f3c096078fe4e23",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      24,
+      44
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305817.pdf",
+    "source_sha256": "c403f1f2d47c93f297476fe97d9c70b8e2c34f396ccd5e9c67c8379cb7e215c1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9793,
+    "bag": 0.75,
+    "kd_coverage": 0.9789,
+    "kd_body_compared": 0.9592,
+    "rg_words": 90,
+    "kd_words": 98,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
