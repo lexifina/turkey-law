@@ -1,0 +1,1 @@
+Geçici Madde 1 —Bu Yönetmeliğin yayımından önce mevcut döner sermaye işletmelerinin bütün mal varlığı ve personeli bu Yönetmelikle kurulan döner sermaye işletmesine başkaca bir işleme gerek kalmaksızın devredilir.
