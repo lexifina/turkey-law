@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-19  /2004- 19",
+  "source_id": 965,
+  "date": "2004-07-16",
+  "title": "88 Seri No. lu Katma Değer Vergisi Genel Tebliğinin (B) bölümündeki açıklamalar esas itibariyle 01.08.1998 tarihinden önce alınan teşvik belgeleri kapsamında ve 69 Seri No. lu Katma Değer Vergisi Genel Tebliği uyarınca katma değer vergisi teminata bağlana",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/965",
+  "source_sha256": "b2f948a8038dfbbc678bf06321a35e99aedcd9139963d1981ec7938d4f19276a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
