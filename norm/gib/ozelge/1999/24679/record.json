@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4118-26/30515",
+  "source_id": 24679,
+  "date": "1999-07-16",
+  "title": "Ticaret borsalarında tescil ettirilerek yapılan zirai ürün alım-satım işlemlerinde, vergi tevkifatı % 50 oranında indirimli (%1, %2) olarak uygulanmaktadır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24679",
+  "source_sha256": "53ea808c702a9b91477a241365bcf6669b611c70a780459ba65bfa2ca57a81a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
