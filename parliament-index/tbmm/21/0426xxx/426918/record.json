@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 426918,
+  "assembly": "TBMM",
+  "term": 21,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MUSTAFA KEMAL AYKURT (DENİZLİ)",
+  "summary": "Bursa Milletvekili Teoman Özalp ile Sakarya Milletvekili Nevzat Ercan'ın, Bursa-Milletvekili Faruk Çelik'in, Diyarbakır Milletvekili Abdulbaki Erdoğmuş ve 2 Arkadaşının, Kayseri Milletvekili Sadık Yakut'un, Kütahya Milletvekili Şeydi Karakuş ve 4 Arkadaşının, İstanbul Milletvekili Mustafa Baş ve 40 Arkadaşının, Çorum Milletvekili Melek Denli Karaca'nın, Erzincan Milletvekili Sebahattin Karakelle'nin, Kayseri Milletvekili Hasan Basri Üstünbaş'ın, Ankara Milletvekili Ayşe Gürocak'ın Doğru Yol Partisi Grup Başkanvekili Ankara Milletvekili Saffet Arıkan Bedük'ün, Adıyaman Milletvekili Mahmut Göksu ve 15 Arkadaşının, Yüksek Öğretim Kanununa Bir Geçici Madde Eklenmesine ve Aynı Kanunda Değişiklik Yapılmasına ilişkin (2/128, 2/141, 2/175, 2/225, 2/228, 2/230, 2/235, 2/259, 2/261, 2/268, 2/269, 2/276, 2/280)",
+  "title": "Bursa Milletvekili Teoman Özalp ile Sakarya Milletvekili Nevzat Ercan'ın, Bursa-Milletvekili Faruk Çelik'in, Diyarbakır Milletvekili Abdulbaki Erdoğmuş ve 2 Arkadaşının, Kayseri Milletvekili Sadık Yakut'un, Kütahya Milletvekili Şeydi Karakuş ve 4 Arkadaşının, İstanbul Milletvekili Mustafa Baş ve 40 Arkadaşının, Çorum Milletvekili Melek Denli Karaca'nın, Erzincan Milletvekili Sebahattin Karakelle'nin, Kayseri Milletvekili Hasan Basri Üstünbaş'ın, Ankara Milletvekili Ayşe Gürocak'ın Doğru Yol Partisi Grup Başkanvekili Ankara Milletvekili Saffet Arıkan Bedük'ün, Adıyaman Milletvekili Mahmut Göksu ve 15 Arkadaşının, Yüksek Öğretim Kanununa Bir Geçici Madde Eklenmesine ve Aynı Kanunda Değişiklik Yapılmasına ilişkin (2/128, 2/141, 2/175, 2/225, 2/228, 2/230, 2/235, 2/259, 2/261, 2/268, 2/269, 2/276, 2/280)",
+  "first_sitting_date": "1999-08-27",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 12,
+      "sitting": 59,
+      "sitting_date": "1999-08-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c012/tbmm21012059.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c012/tbmm21012fih.pdf",
+      "pages": [
+        "328:415",
+        "419:492"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=21&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "11df2868fdc982e7f36fcf5ebc6df0c4aa48622510cd65ba78ca98a25aceae90",
+  "in_force": "1999-08-27",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
