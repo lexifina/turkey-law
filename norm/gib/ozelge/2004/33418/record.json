@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.O.GEL.O.53/5329- 802/55307",
+  "source_id": 33418,
+  "date": "2004-11-23",
+  "title": "Binek otomobillerinin iktisabında yüklenilen vergilerin indirim konusu yapılabilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33418",
+  "source_sha256": "3d0dc11f1610f268e7022f7839ca9f2e69e4e8df02107cf41daa9227f0a5e868",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
