@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.30/3026-354-430/18450",
+  "source_id": 37946,
+  "date": "1997-05-06",
+  "title": "İşyeri kapatma cezasına dayanak teşkil eden tutunağa istinaden kesilen cezaların mahkemece kaldırılması halinde, işyeri kapatma cezasının uygulanamayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37946",
+  "source_sha256": "1e5c853cf4d26fab80bd117cb08607b782186cf96360424c34c25b4886677ea8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
