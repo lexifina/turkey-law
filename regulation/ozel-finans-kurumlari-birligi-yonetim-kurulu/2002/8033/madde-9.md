@@ -1,0 +1,2 @@
+Para Cezalarının Uygulanması ve Tahsili
+Madde 9 — Kanun’un 21 inci maddesine göre Bankacılık Düzenleme ve Denetleme Kurulu kararı ile özel finans kurumlarına uygulanan ve bir taraftan ilgili özel finans kurumuna tebliğ edilmekle beraber, diğer taraftan tahsil ve Fon’a gelir kaydı için Birliğe bildirilecek idari para cezaları ile Birlik Yönetim Kurulu tarafından verilen para cezaları, cezanın muhataba tebliğ edildiği tarihten itibaren bir ay içinde ödenir.

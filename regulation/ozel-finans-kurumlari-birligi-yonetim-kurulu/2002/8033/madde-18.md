@@ -1,0 +1,2 @@
+Bilanço ve Faaliyet Raporu
+Madde 18 — Fon’un hesap dönemi 1 Temmuz’da başlayan 12 aylık dönemdir. Birlik Yönetim Kurulu, Fon’un yıllık bilançosu ile gelir ve gider cetvelini ve hesap dönemine ilişkin faaliyetlerini ve sonraki dönem hakkındaki görüş ve önerileri ile alınması gereken önlemleri içeren bir faaliyet raporu hazırlayarak Birlik Genel Kurulu’nun yıllık toplantısında onaya sunar. Sözkonusu faaliyet raporunun bir örneği Birlik tarafından Genel Kurul tarihini izleyen 15 gün içinde Bankacılık Düzenleme ve Denetleme Kurumu’na gönderilir.

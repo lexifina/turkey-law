@@ -1,0 +1,5 @@
+Güvencenin Esasları
+Madde 4 — Özel finans kurumlarında ( yurtdışı şubelerinde açılanlar hariç ), gerçek kişiler adına Türk Lirası veya döviz üzerinden açılan özel cari hesaplarda ve katılma hesaplarında toplanan fonlar, Yönetmelik’te belirtilen sınırlar dahilinde güvenceye tabidir.
+Bir özel finans kurumunun sermayesinin yüzde on ve daha fazlasına sahip ortakları ile yönetim kurulu başkan ve üyelerinin, genel müdür ve yardımcılarının, kredi açmaya yetkili memurlarının, denetçilerinin ve bunların ana, baba, eş ve çocuklarının o özel finans kurumundaki özel cari hesaplar ve katılma hesaplarında bulunan tasarrufları güvenceye tabi değildir.
+Özel finans kurumları nezdlerindeki özel cari hesap ve katılma hesaplarına ait tutarları, Yönetmelik’teki şartlar dahilinde sigorta ettirmek zorundadır.
+Özel finans kurumları, bir kişiye ait özel cari hesap ve katılma hesaplarının güvence kapsamında olan tutarı ile bu Yönetmeliğin 12 nci maddesinin iki ve üçüncü fıkralarında belirtilen esasları ihtiva eden yazılı açıklamayı şubelerinin görünen bir yerine asmak zorundadırlar.
