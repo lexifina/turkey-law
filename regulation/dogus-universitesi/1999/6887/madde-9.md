@@ -1,0 +1,2 @@
+Doçentliğe Başvurma ve Atanma
+Madde 9- (*) Doğuş Üniversitesinde doçentliğe başvurmak için, adayın Üniversitelerarası Kurul'un 01.09.2000 tarih ve 24157 sayılı Resmi Gazete’de yayımlanan esaslarına göre bu kurul tarafından açılan doçentlik sınavını başararak doçent unvanı almış olması veya yurt dışında kazanılan doçentlik unvanının 2547 sayılı kanunun 2880 sayılı kanunla değişik 27. maddesi gereğince Türkiye'de geçerli sayıldığının Üniversitelerarası Kurul Kararı ile kabul edilmiş olması şarttır.

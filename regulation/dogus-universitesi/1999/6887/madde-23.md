@@ -1,0 +1,6 @@
+Çalışma Esasları
+Madde 23- Üniversitede görevlendirilecek öğretim elemanları "tam zamanlı", "yarı zamanlı" ve "saat ücretli" olmak üzere üç ayrı statüde çalışır. Tam zamanlı statüde çalışan öğretim elemanları "sözleşmeli" veya "sürekli kadrolu" olarak görevlendirilir.
+"Sürekli kadrolu" statüsünün kazanılması Mütevelli Heyetinin belirleyeceği esaslara uygun şekilde ve görevinde başarısını kanıtlamış öğretim elemanları için mümkündür.
+a) Tam zamanlı öğretim elemanları: Bu statüde görev yapan öğretim elemanları mesailerini Üniversite ile ilgili çalışmalara hasrederler. Üniversite dışında yapacakları çalışmalar, başka bir yükseköğretim kurumunda ders vermek ve araştırma yapmak dahil, Rektör'ün iznine tabidir.
+b) Yarı zamanlı öğretim elemanları: Bu statüde görev yapan öğretim elemanları haftada en az 20 saat üniversitede bulunmak, eğitim-öğretim, uygulama ve araştırmalarını ilgili Bölüm Başkanının gösterdiği yerde ve onun denetimi altında yapmakla yükümlüdürler. Bu statüdeki öğretim elemanları üniversite ile yaptıkları sözleşme süresince bu sözleşmenin hükümlerini yerine getirirler.
+c) Saat başı ücretli öğretim elemanları: Saat başı ücret ilkesiyle görevlendirilen öğretim elemanlarıdır.

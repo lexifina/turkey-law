@@ -1,0 +1,2 @@
+Okutmanlar
+Madde 20- Akademik bir ünvana sahip olmadıkları halde uygulama alanında başarılı olmuş ve ders verme sorumluluğuna sahip kişiler, ortak zorunlu dersleri vermek üzere ilgili kurulların görüşü alınarak fakültelerde Dekanların, Rektörlüğe bağlı Enstitü ve Yüksekokullarda Müdürlerin, Rektörlüğe bağlı bölümlerde Bölüm Başkanlarının önerisi ve Rektörün uygun görmesi ile okutman ünvanı ile istihdam edilebilirler. Rektör adayın sözleşmesini onay için Mütevelli Heyeti Başkanlığına sunar.

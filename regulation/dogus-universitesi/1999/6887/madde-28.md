@@ -1,0 +1,1 @@
+Madde 28- Öğretim elemanları bilimsel görüş ve düşüncelerini serbestçe savunur, dilediği konularda özgürce akademik çalışma ve araştırma yapabilir. Ancak, akademik özgürlük öğretim elemanlarına görevlerini ihmal ve Üniversite'ye zarar verecek davranışlarda bulunma hakkını vermez.

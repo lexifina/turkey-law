@@ -1,0 +1,7 @@
+Öğretim Yardımcıları
+Madde 21-
+a) Araştırma görevlileri, Doğuş Üniversitesi ve fakültelerinde yapılan eğitim-öğretim, araştırma, inceleme ve deneylerde yardımcı olan ve yetkili organlarca verilen ilgili diğer görevleri yapan öğretim yardımcılarıdır. Bunlar, yürürlükteki mevzuat hükümlerine uygun olarak, ilgili Bölüm Başkanının önerisi, Dekan, Enstitü veya Yüksekokul Müdürünün olumlu görüşü üzerine Rektörün uygun görmesi ve Mütevelli Heyeti Başkanlığının onayı ile atanırlar. Araştırma görevlilerinin, öğretim elemanı olarak yetişmeleri üniversitece teşvik edilir ve desteklenir. Bu amaçla, yurtiçi ve yurtdışı üniversiteler ile işbirliği yapılabilir.
+b) Uzmanlar, öğretimle doğrudan doğruya veya dolaylı olarak ilgili olan, özel bilgi veya uzmanlığa ihtiyaç gösteren bir işle laboratuvarlarda, kitaplıklarda, atölyelerde ve diğer uygulama alanlarında görevlendirilen öğretim yardımcılarıdır.
+c) Çeviriciler, sözlü veya yazılı çeviri işlerinde çalıştırılan öğretim yardımcılarıdır.
+d) Eğitim-öğretim planlamacıları, eğitim-öğretimin planlanmasıyla görevli öğretim yardımcılarıdır.
+e) Uzman, çevirici ve eğitim-öğretim planlamacılarının atanmaları veya sözleşmeli olarak görevlendirilmeleri, ilgili Yönetim Kurullarının görüşleri alınarak fakültelerde Dekanın, Rektörlüğe bağlı Enstitü ve Yüksekokullarda Müdürlerin, Rektörlüğe bağlı bölümlerde Bölüm Başkanının önerisi ve Rektörün onayı ile yapılır.

@@ -1,0 +1,1 @@
+Madde 10- Aday özgeçmişini, bilimsel çalışma ve yayınlarını kapsayan ve 12. maddede sıralanan hususlarla ilgili belgeleri de eklediği bir dosyayı dört nüsha halinde Doğuş Üniversitesi Rektörlüğüne teslim eder.
