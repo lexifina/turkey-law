@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1471",
+  "year": 1929,
+  "title": "Ordu ve jandarmaya mensup zabitlerle efradın ve sair binek hakkı olanların kendi malî bineklerinin ve orduya alınan ahali nakliye vasıtalarının ödenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-06-03",
+  "gazette_issue": "1206",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1206.pdf",
+  "source_sha256": "3071dd5b553d09eef793b6b21d9c23e28f05efa13f23b8dc26a168c7027b5f83",
+  "text_sha256": "90532e8a2e4bb39c982f403305d30cdb14c1bd1a1107dc97df89daac886bf898",
+  "text_status": "ocr",
+  "pages": [
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      60,
+      233
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701471.pdf",
+    "source_sha256": "5647f4b1bd6231f981df0c08262df6254641e74620ea308d58aa78abda1393cc",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9781,
+    "bag": 0.9081,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9917,
+    "rg_words": 469,
+    "kd_words": 482,
+    "own_anchor": true,
+    "foreign_anchors": 9
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
