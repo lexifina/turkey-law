@@ -1,0 +1,83 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "5771",
+  "year": 1951,
+  "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanununun Geçici 65 ve 68 nci Maddelerinde Yazılı Müracaat İçin Yeniden Üç Aylık Müddet Verilmesi Hakkında Kanun",
+  "adopted": "1951-05-23",
+  "adopted_as_published": "23/05/1951",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.06.1951 No: 7823",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305771.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 33",
+  "committee_reports": [
+    {
+      "label": "TBMM 155 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007077ss0155.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 9,
+      "kayit_no": 61935,
+      "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanununun Geçici 65 ve 68 nci Maddelerinde Yazılı Müracaat İçin Yeniden Üç Aylık Müddet Verilmesi Hakkında Kanun",
+      "adopted_as_published": "23/05/1951",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc033/kanuntbmmc033/kanuntbmmc03305771.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 155 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007077ss0155.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 7,
+          "sitting": 71,
+          "sitting_date": "1951-05-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007071.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 78,
+          "sitting_date": "1951-05-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007078.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007fih.pdf",
+          "pages": [
+            "297:300",
+            "329:332"
+          ]
+        },
+        {
+          "cilt": 7,
+          "sitting": 80,
+          "sitting_date": "1951-05-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007fih.pdf",
+          "pages": [
+            "412"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "992a40d50c217d8dbf3c1a08f613f18fa1d8722f20245ddfa2352d4d2907b4c7"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "992a40d50c217d8dbf3c1a08f613f18fa1d8722f20245ddfa2352d4d2907b4c7",
+  "issuer": "TBMM",
+  "in_force": "1951-05-23",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 23/05/1951; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
