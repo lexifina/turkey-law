@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "243",
+  "label": "TBMM 243 no'lu Komisyon Raporu",
+  "title": "Adliye vekâletinin 1928 bütçesine «5.500» lira tahsisatı munzama verilmesine ve Dahiliye vekâleti bütçesinde «2.500» liranın münakalesine dair kanun",
+  "document_date": "1929-05-30",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 12, birleşim 73)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c012/tbmm03012073ss0243.pdf",
+  "pdf_sha256": "1d661999383d1ab07dd596406429fb5a3d9f2ce16f18608e31e3d9cb8df5279c",
+  "pdf_bytes": 221737,
+  "pdf_pages": 3,
+  "index_entries": [
+    120323
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=2&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1929-05-30",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
