@@ -1,0 +1,1 @@
+Madde 6 – Sağlık teşkilatı, Sıhhat ve İçtimai Muavenet Vekaletinin daimi murakabesine tabidir. Ve muntazaman, bu teşkilatın bütçe ve iş programları ile kati hesaplarından, İktisat Vekaletince Sıhhat ve İçtimai Muavenet Vekaletine malümat verilir.
