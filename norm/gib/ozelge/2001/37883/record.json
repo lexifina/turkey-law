@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.44/4428-123/27546",
+  "source_id": 37883,
+  "date": "2001-05-21",
+  "title": "Basit usulde vergilendirilen mükelleflerden isteyenlerden defterdarlık veya birliklerin iznine gerek kalmadan kayıtlarını kendileri tutabilecekleri gibi, 3568 sayılı Kanuna göre yetki almış meslek mensubuna da tutturabilceklerdir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37883",
+  "source_sha256": "723f9697563fbb1aa0a352e73b984c40b0c091f305ba4d6bd2c5c4008e2149a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
