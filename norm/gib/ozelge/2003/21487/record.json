@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.42/4204-215/7679",
+  "source_id": 21487,
+  "date": "2003-02-27",
+  "title": "Serbest Meslek erbabının işyerinde çalışan personele işyerinde yemek verdiği, iş yoğunluğuna göre lokanta gibi hazır işletmelerden de yemek aldığı ayrıca çalışanlara hazır kart aldığı belirtilerek bu giderlerin serbest meslek kazancından indirilip indiril",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21487",
+  "source_sha256": "b24cc303f69c7659f9f5e96afe50cb87329eeda62f101c98b84f634d54b78350",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
