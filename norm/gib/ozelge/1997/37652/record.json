@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.49/4905-3/4247",
+  "source_id": 37652,
+  "date": "1997-02-05",
+  "title": "31 seri No.lu Kurumlar Vergisi Genel Tebliğinde açıklanan şekilde oluşmayan ortaklığın iş ortaklığı olarak kabulünün mümkün olmadığı hkakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/37652",
+  "source_sha256": "6539c7ed0a9af9078771578570c2cc019a44d60404dbe035a1911448c3ed96c4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
