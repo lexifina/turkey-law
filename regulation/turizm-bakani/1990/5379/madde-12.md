@@ -1,0 +1,2 @@
+Malzeme Bakımı
+Madde 12- Sportif amaçlı dalış düzenleyen seyahat acentaları, yat işletmeleri kurum ve kuruluşlar ile sualtı kulüpleri balıkadamların sahip oldukları ve kullandıkları dalış malzemelerinin (tüp, regülatör, denge yeleği gibi) periyodik test ve bakımlarını yaptırmak zorundadırlar.Bu testler Sivil balıkadam Yönetmeliğinde belirtilen kuruluşlarda, malzemeler imal eden ve satan yetkili firma temsilciliklerinde veya Sanayi ve Ticaret Bakanlığı’nın yetki verdiği kuruluşlarda yaptırılabilir.

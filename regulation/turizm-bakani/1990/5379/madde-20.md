@@ -1,0 +1,1 @@
+Madde 20- Turistik belgeli otellerde ve tatil köylerinde veya müstakil olarak dalış kulüp ve derneklerinde, eğitim merkezleri ve dalış yerleri açılması için Valilik kanalı ile Gençlik ve Spor Genel Müdürlüğüne müracaat edilerek gerekli iznin alınması mecburidir.

@@ -1,0 +1,4 @@
+Belge
+Madde 8- Sportif amaçlı aletli dalış yapacaklar Sualtı Sporları Can Kurtarma ve Su Kayağı Federasyonu’nca verilmiş yeterlilik belgesine (Dalış Kartı) sahip olmak zorundadırlar. Ancak Enternasyonal Standartlarda eğitim veren kuruluşlardan alınan sertifikalar da geçerlidir.Bu belgeler Federasyona müracaat edilerek yeterlik belgesine (Dalış Kartı) dönüştürülebilir.
+Türk vatandaşlarının sportif dalışları, dalış disiplinleri yetkileri, teknik şartları yetki belgeleri Gençlik ve Spor Genel Müdürlüğü Sualtı Sporları Can Kurtarma ve Su Kayağı Federasyonunca tesbit ve kabul edilen esaslara uygun olarak düzenlenir.
+Yabancı uyrukluların sportif amaçla dalış yapabilmeleri için Uluslar arası Sualtı Sporları Federasyonu üyesi olmaları ya da ulusal teşkilatla ülkelerinin yetkili kurum ve kuruluşlarınca düzenlenen bir belgeye sahip olmaları gereklidir.

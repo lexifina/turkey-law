@@ -1,0 +1,5 @@
+Madde 7- Yasak bölgeler dışında sportif amaçlı aletli dalışlar izne tabidir.
+Kulüp, kuruluş ve derneklerce grup halinde yasal bölgeler dışında yapılacak sualtı dalışları için dalış yapılacak yerlere ait izne esas bilginin il turizm müdürlüklerine veya yetkili kılacağı kuruluşa önceden bildirilmesi zorunludur. Bu bilgi ilgili kuruluşça Bölge Sahil Güvenlik Komutanlığı’na (veya mahallindeki yetkilisine ) iletilir.
+Yabancı uyruklu dalıcılar için her türlü aletli sportif dalış izne tabidir.Bu izinleri verecek makamlar il turizm müdürlükleri veya yetkili kılacağı kuruluştur.
+Düzenlenecek izin formlarından bir adedi Liman Başkanlığına bir adedi ise Bölge Sahil Güvenlik Komutanlığına (veya mahallindeki yetkilisine) izin veren kuruluşça iletilir.Kontroller sırasında bir nüshası izin alan kuruluşta kalan izin belgesinin yetkililere gösterilmesi mecburidir.
+Eğitim amacıyla yapılacak dalışlar ile iki kişilik arkadaş sistemi dalışların da (yasak bölgeler hariç) bilgi verilmesi ve izin alınması mecburi değildir.

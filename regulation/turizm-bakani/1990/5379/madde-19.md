@@ -1,0 +1,1 @@
+Madde 19- Seyahat acentaları, yat işletmeleri, sualtı sporları klüpleri ve kuruluşları tarafından yapılan organizasyonlarda (sportif dalış turları, müsabakaları, eğitim dalışları) her türlü sorumluluk organizasyonu yapan kuruluşa aittir.
