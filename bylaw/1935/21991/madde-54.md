@@ -1,0 +1,2 @@
+Madde 54 – Gümrük muhafaza kıtaları arasındaki muhabere şebekesinin tesis ve idamesi, Gümrük ve İnhisarlar Vekaletince ve hudut kıtaları arasındaki muhabere şebekesinin tesis ve idamesi Milli Müdafaa Vekaletince temin edilir.
+Bitişik gümrük muhafaza ve hudut kıtalarını birbirine bağlıyacak muhaberehatlarının gümrük mıntakasındaki kısımları Gümrük ve İnhisarlar Vekaletince ve gümrük mıntakasının geresindeki kısımlar Milli Müdafaa Vekaletince tesis ve idame edilir.

@@ -1,0 +1,1 @@
+Madde 65 – Gümrük ve hudut kıtaları kumandanları ve hudut vilayetlerindeki mülki idare amirleri komşu Hükümetlerin resmi günlerinde yukardaki şartlar dahilinde bilmukabele iyi münasebetleri teyit ederler.

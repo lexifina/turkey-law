@@ -1,0 +1,2 @@
+Madde 78 – Muhafaza tabur kumandanları ve muhafaza müdürleri, müsademeli ve müsademesiz ehemmiyetli kaçak vakalarını gününde telgrafla ve ehemmiyetsiz kaçak vakalarını haftada bir raporla mıntakalarında bulundukları valilere bildireceklerdir.
+Bölük, takım kumandanları ve muhafaza mıntaka memurları müstacel vakaları tabur kumandanlarına ve muhafaza müdürlerine bildirmekle beraber keyfiyeti hemen doğruca valilere de bildireceklerdir.

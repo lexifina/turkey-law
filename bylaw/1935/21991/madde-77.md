@@ -1,0 +1,1 @@
+Madde 77 – Hudut ve sahillerde, asker, sivil muhafaza teşkilatının vazife mıntakalariyle konuşlarını, kuvvetlerini, muhabere irtibatlarını Gümrük Muhafaza Umum Kumandanlığı vilayetlere bildirecek, valiler de bu malümatı kasalarında gayet mahrem olarak saklıyacaklardır.

@@ -1,0 +1,1 @@
+Madde 50 – Gümrük muhafaza ve hudut kıta kumandanları, mıntakalarından kurtulup takibine imkan bulamadıkları şahısların sırasiyle arkadaki kuvvetler tarafından yakalanmalarını temin için gerilerindeki askeri ve mülki memurlara vaktinde haber vermeğe mecbur ve vermedikleri halde mesuldür.

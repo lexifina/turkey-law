@@ -1,0 +1,2 @@
+B – Müsademe
+Madde 32 – Gümrük mıntakasında ve gümrük muhafaza teşkilatı olmıyan hudutlarda, hudut kıtaları mıntakalarında vukubulacak müsademelerde, en yakın gümrük veya hudut kıtası kumandanlarının derhal vaka mahalline gitmesi ve keyfiyeti üstlerine ve en yakın mülkiye amirine de bildirmesi lazımdır. Hükümetin şerefini gözönünde bulundurmak suretiyle hadisenin büyümemesine ve ateşin kesilmesine çalışılır.

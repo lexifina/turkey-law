@@ -1,0 +1,1 @@
+Madde 51 – Birbirini kuvvetlendiren veya birlikte takip yapan gümrük muhafaza ve hudut kıtalarının emir ve kumandasını en büyük rütbeli zabit ve kıdemleri müsavi ise gümrük mıntakasında gümrük muhafaza kıtası zabiti, hudut kıtası mıntakasında hudut kıtası kumandanı deruhde eder.

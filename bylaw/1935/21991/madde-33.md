@@ -1,0 +1,2 @@
+C – Şekavet, gasp, yağma ve hırsızlık hallerinde
+Madde 33 – Alakadarlar vakaya vakıf oldukları andan itibaren takibe geçer ve aynı zamanda üstünlerine ve en yakın mahalli Hükümetine bildirirler. Suçlularla gasp olunmuş, yağma edilmiş, çalınmış eşya ve hayvanları ele geçirmeğe çalışırlar. Ele geçenleri bir zabıt varakasiyle en yakın mahalli Hükümete teslim ederler. Eğer hudut mıntakası içinde zabıta kuvvetleri mevcut ise, bunların işe bilfiil ve kafi bir kuvvetle vaziyed etmelerine kadar takibat devam eder.

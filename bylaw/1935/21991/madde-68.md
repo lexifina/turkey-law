@@ -1,0 +1,1 @@
+Madde 68 – Karşı tarafın resmi günlerinin alakadarlarca bilinmesi için Hariciye Vekaletince bir broşür hazırlanarak Dahiliye ve Gümrük ve İnhisarlar Vekaletleri ile Büyük Erkanıharbiye Riyasetine gönderilecektir. Bu broşürde tesbit olunan günler haricinde kalacak mevzii resmi günleri de en yakın alakadarlar bu broşüre ilave edeceklerdir.

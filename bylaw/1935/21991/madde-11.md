@@ -1,0 +1,1 @@
+Madde 11 – Hudut kıtalarının konuşu, Büyük Erkanı harbiye Riyasetince tesbit olunur. Konuşlardaki mühim değişiklikler de Dahiliye ve Gümrük ve İnhisarlar Vekaletleriyle alakadar makamlara haber verilir.

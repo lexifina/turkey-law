@@ -1,0 +1,1 @@
+Madde 66 – Altmış dördüncü madde haricinde olarak karşı tarafın hudut kuleleri gerisindeki merkezlerde vuku bulacak ziyaretler için de, 64 üncü maddede yazıldığı gibi alakadar makamlardan istizan olunarak alınacak emre göre hareket olunur.

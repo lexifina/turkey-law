@@ -1,0 +1,2 @@
+C – Zabıtnameler
+Madde 61 – Ahval ve vekayiin zuhur sureti hakkında fikirler birleştiği takdirde iki nüsha olarak Fransızca veya hem Türkçe hem de karşı taraf Hükümetinin lisanınca müşterek bir zabıtname tanzim olunur. Eğer iki taraf beyninde fikirler birleşmezse her iki tarafın ayrı ayrı Fransızca veya kendi lisanlariyle tanzim edecekleri zabıtnameler teati olunur. Bu zabıtnamelerin teatisi mümkün olmazsa keyfiyet zabtımıza yazılır ve üstün makama gönderilir.

@@ -1,0 +1,1 @@
+Madde 57 – Gümrük ve hudut kıta kumandanları ve zabitleri fevkalade ve acele hallerde dahi hudut kumandanlığının müsaadesini almaksızın karşı taraf mülki ve askeri memurlariyle muhabereye salahiyettar değildir. Karşı taraf hudut zabitlerinin mülakat teklifleri kabul olunursa da vuku bulacak mühim istizah ve tek-liflere izin almadan cevap verilmez.

@@ -1,0 +1,1 @@
+Madde 12 – Müstacel hallerde kolordu kumandanları vaziyetin icap ettiği muvakkat konuş değişikliğini yapar ve üstün makamlar ile komşu gümrük muhafaza hudut, alay veya müstakil tabur kumandanlarına bildirir. Hudut kıtalarının, gümrük muhafaza kıtalarına destek olabilmesi için zaruret olmadıkça, zabit kumandasında bir takımdan küçük birliklere ayrılmaması esastır.

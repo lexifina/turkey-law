@@ -1,0 +1,2 @@
+D – Muzır propaganda ve casusluk halinde
+Madde 35 – Hudut mıntakasında zararlı propaganda ve casusluğun takibiyle bütün Devlet memurları mükelleftir. Bu gibi fiilleri failleri gümrük muhafaza veya hudut kıtaları tarafından ele geçirilmiş ise ellerindeki vesikalar iyi muhafaza olunmak ve tutulacak zabıt varakasına birer birer yazılmak suretiyle en yakın mahalli hükümetine teslim olunur ve aynı zamanda üstün makamlara sırasiyle bildirilir.
