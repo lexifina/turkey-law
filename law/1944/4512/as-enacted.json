@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4512",
+  "year": 1944,
+  "title": "Türk parası kıymetini koruma hakkındaki kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1944-01-29",
+  "gazette_issue": "5616",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5616.pdf",
+  "source_sha256": "cbf2cbc754d765de57818bee6ef299611211be783ae5043e030fcb3d95a40d84",
+  "text_sha256": "8ebe6d873b36544f84c5ec708f6bd596da2826aee913bdbb7a38a232d3573216",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      77,
+      87
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc026/kanuntbmmc026/kanuntbmmc02604512.pdf",
+    "source_sha256": "6e3ca9dce69e52fc79e233ee38d9e7c297accc758ff50e4530d56e0f124765ac",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9699,
+    "bag": 0.96,
+    "kd_coverage": 0.9677,
+    "kd_body_compared": 0.9385,
+    "rg_words": 64,
+    "kd_words": 65,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
