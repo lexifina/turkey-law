@@ -1,0 +1,2 @@
+Şerhin İstisnaları
+Madde 5- İmar uygulaması sonucu, tarımsal niteliği veya doğal karakteri korunacak, ağaçlandırılacak yapı yasağı getirilen, sit alanlarında kalan, imar mevzuatına göre yapılaşmanın mümkün olmadığı yerler, kamu kurum veya kuruluşlarına devredilen yerler ile arsa edindirme sertifikası karşılığı satış yapılmak suretiyle, Genel Müdürlük mülkiyetinden çıkartılan taşınmazların tapu kayıtlarına şerh konulmaz.

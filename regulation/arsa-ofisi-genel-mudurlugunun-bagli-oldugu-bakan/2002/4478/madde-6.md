@@ -1,0 +1,2 @@
+Şerhin Kaldırılması
+Madde 6- Taşınmaz malların imar planı ile kullanım amacının değiştirilmesi; yapı kullanma izin belgesinin alınması; mahkemece inşaatın bittiğine dair tespit kararının verilmesi; satış şartlarına uygun altyapı, yapı, tesis yapılmasının tamamen yahut gayri muayyen bir süre için imkansız olduğunun anlaşılması; İmar uygulaması sonucu şerh konulması gerekmeyen bir taşınmaz mal ile birleştirilmesi durumlarında, Genel Müdürlük şerhi kaldırabilir.
