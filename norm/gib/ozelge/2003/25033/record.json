@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2285/029223",
+  "source_id": 25033,
+  "date": "2003-07-09",
+  "title": "Tapusuz gayrimenkullerin devir ve iktisap işleminin vergi dairesine 1 No.lu Harç Beyannamesinin verilmesi ve bunu müteakip noterde zilyetlik devir sözleşmesinin düzenlenmesi ile tamamlanmış olacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/25033",
+  "source_sha256": "fdfd5296cdfd609a6f8b52a83beffebf758e9903f96e1182588a5c8d628a3bbd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
