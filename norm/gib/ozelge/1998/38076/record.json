@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5311-2144/24627",
+  "source_id": 38076,
+  "date": "1998-07-02",
+  "title": "Sanayi sicil belgesine sahip olmamakla beraber bu belgeyi almak için Sanayi ve Ticaret Bakanlığı'na başvuran ve kendilerine sanayi sicil belgesi verileceğine ilişkin olumlu görüş verilen yükümlülerin olumlu görüş yazısının verildiği tarihten önceki döneml",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/38076",
+  "source_sha256": "f71736f5a2e0f5d84b60e2eb2b7a2170975d3c3d57c7068377b638c6dbf4599b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
