@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "47",
+  "year": 1962,
+  "title": "Yatırımlar finansman fonu teşkil ve tasarruf bonoları ihracı hakkındaki 5 Ocak 1961 tarihli ve 223 sayılı Kanunun 9 uncu maddesinin değiştirilmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1962-05-04",
+  "gazette_issue": "11098",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/11098.pdf",
+  "source_sha256": "5592da7282190be93ee1aeedb146c8287233b782722a29766a14dfb94d3f4d8f",
+  "text_sha256": "a91e794ab7bc6df0133648f1065956f415bedae02c02f741c2eb514005779554",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      13,
+      34
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc045/kanuntbmmc045/kanuntbmmc04500047.pdf",
+    "source_sha256": "03a4ef6848199a6b79764060ff23bd610195a24ef736257606ea8bccff77f8e2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9877,
+    "bag": 0.914,
+    "kd_coverage": 0.9732,
+    "kd_body_compared": 0.8088,
+    "rg_words": 111,
+    "kd_words": 136,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
