@@ -1,0 +1,2 @@
+Madde 15 – İnönü Armağanları Devlet, özel idare, belediye ve köylere ait her türlü vergi, resim ve harçlardan muaftır. Armağanlar borç için haczedilemez. Armağan alanların eser, keşif, ihtira ve başarılarına ilişkin her türlü hakları saklıdır. Armağanı hakedenler bunu alamadan ölürler ise armağan kanuni mirasçılarına verilir.
+Bu intikalden dolayı hiçbir vergi, resim ve harç alınmaz. Mirasçılar yukarki fıkra hükümlerinden de faydalanırlar.

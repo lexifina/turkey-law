@@ -1,0 +1,1 @@
+Madde 1 – 4933 sayılı kanun gereğince tesis edilen ve Türk vatandaşlarından hak edenlere verilecek olan İnönü Armağanları biri (İnönü Değerlendirme ) ve diğeri (İnönü Özendirme) armağanları olmak üzere iki nevidir.

@@ -1,0 +1,1 @@
+Madde 13 – Jüri komisyonları inceliyecekleri konuların gerektirdiği bilgi, tecrübe, mütalaa ve müşahadeler için Devlet daire ve müesseselerine başvurabilir ve bunlardan yardım ve malümat istiyebilirler.

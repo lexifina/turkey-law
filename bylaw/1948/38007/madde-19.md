@@ -1,0 +1,1 @@
+Madde 19 – Jüri ve geçici jüri komisyonları üyeleriyle danışman ve uzmanların başka yerlerden gelmeleri veya 7 nci maddesi mucibince başka bir yere gitmeleri hallerinde yolluk ve zaruri gider olarak kendilerine ödenecek para miktarı zaruri ve mütat giderleri gözönünde tutularak Başbakan tarafından belirtilir.
