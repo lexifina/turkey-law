@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2347",
+  "year": 1933,
+  "title": "Sivas vilâyetine bağlı Darende kazasının bu vilâyetten ayrılarak Malatya vilâyetine bağlanması hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1933-12-18",
+  "gazette_issue": "2581",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/2581.pdf",
+  "source_sha256": "92165da2a094db24b40f2ea6e71d97dea0ec5d9804c484e5635d541208986c18",
+  "text_sha256": "21522dab68a59f4aa0474a282fb7a8865e5b66e209304009805d63dcc0d9d4be",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      105,
+      121
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc013/kanuntbmmc013/kanuntbmmc01302347.pdf",
+    "source_sha256": "8e0a6356552d569a7ba22bba0aae404225078ac86a8cf2102bdd3dbd6303a84e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9778,
+    "bag": 0.913,
+    "kd_coverage": 0.9778,
+    "kd_body_compared": 0.9375,
+    "rg_words": 47,
+    "kd_words": 48,
+    "own_anchor": true,
+    "foreign_anchors": 6
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
