@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "3294",
+  "year": 1937,
+  "title": "Vakfa aid hisseli mahlûl yerlerin hissedarlarına ne suretle satılacağına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1938-01-04",
+  "gazette_issue": "3799",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3799.pdf",
+  "source_sha256": "a8f232e262ea7828a00b9deb6b29e36129fa7b4f3e63cbdde203910484a19665",
+  "text_sha256": "bc8499bf6232932c0b78b6f81a8c5933ead8be6b294e197cf4dd4b2dbd81adf3",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      57,
+      178
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc018/kanuntbmmc018/kanuntbmmc01803294.pdf",
+    "source_sha256": "e2198e06bc575cfe7c78abebf32b657a00c7e5fe73892a582fa8c2ebe2656060",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9583,
+    "bag": 0.8869,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.991,
+    "rg_words": 686,
+    "kd_words": 664,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
