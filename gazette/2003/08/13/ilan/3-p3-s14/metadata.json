@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-08-13",
+  "issue": "25198",
+  "edition": "regular",
+  "item": 14,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "Karayolları 2. Bölge Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030813-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (38 = 38)",
+  "ilan_codes": [
+    "28404/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030813-3-3.htm",
+  "category_page_sha256": "fc8bc0c5a27cd07ad2ca7fe6c53234d385b21e3c1da6833e78aab8afdea8f262",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/08/20030813.htm",
+  "index_sha256": "935f8d1b91bfec1ab836168f60448fbec54a47fda4a7abe2fbde36d33f5629d0",
+  "index_header": "13 Ağustos 2003 ... Sayı : 25198",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
