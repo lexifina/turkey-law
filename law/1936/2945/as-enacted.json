@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2945",
+  "year": 1936,
+  "title": "Askerî ve mülkî tekaüd Kanununun Tahlisiye Umum Müdürlüğü memurlarına dahi teşmili hakkındaki 9.12.1933 tarih ve 2348 sayılı kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-04-22",
+  "gazette_issue": "3286",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3286.pdf",
+  "source_sha256": "508396ca04901b2b8a39adf00fc3d56afaa217a471e1891b534c021314020ea6",
+  "text_sha256": "d258a9fc7daee8f3e090cba8c8d5813950e5031190ee8527c5cc07f605ca71ab",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      31
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [1] (no text layer)",
+    "tesseract_pages": [
+      1
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602945.pdf",
+    "source_sha256": "430802068bf9dde06824fcf00c105522248020e3c8e2686be309de94fab3ecee",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9416,
+    "bag": 0.8915,
+    "kd_coverage": 0.9847,
+    "kd_body_compared": 0.9847,
+    "rg_words": 129,
+    "kd_words": 131,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
