@@ -1,0 +1,149 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1952",
+  "year": 1976,
+  "title": "Fırat Üniversitesi 1976 yılı Bütçe Kanunu",
+  "adopted": "1976-02-27",
+  "adopted_as_published": "27/02/1976",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.03.1976 No: 15520",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc059/kanuntbmmc059/kanuntbmmc05901952.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 59",
+  "committee_reports": [
+    {
+      "label": "MM 249 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c016/mm__04016062ss0249.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 460429,
+      "title": "Fırat Üniversitesi 1976 yılı Bütçe Kanunu",
+      "adopted_as_published": "27/02/1976",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc059/kanuntbmmc059/kanuntbmmc05901952.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 249 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c016/mm__04016062ss0249.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 38,
+          "sitting_date": "1976-01-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c014/mm__04014038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c014/mm__04014fih.pdf",
+          "pages": [
+            "344"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 56,
+          "sitting_date": "1976-02-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c014/mm__04014056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c014/mm__04014fih.pdf",
+          "pages": [
+            "1051"
+          ]
+        },
+        {
+          "cilt": 16,
+          "sitting": 62,
+          "sitting_date": "1976-02-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c016/mm__04016062.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c016/mm__04016fih.pdf",
+          "pages": [
+            "143:144"
+          ]
+        },
+        {
+          "cilt": 17,
+          "sitting": 68,
+          "sitting_date": "1976-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c017/mm__04017068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c017/mm__04017fih.pdf",
+          "pages": [
+            "305",
+            "363",
+            "495:498"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=301&v_kullanici_id=27483225",
+      "page_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 326570,
+      "title": "Fırat Üniversitesi 1976 yılı Bütçe Kanunu",
+      "adopted_as_published": "27/02/1976",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc059/kanuntbmmc059/kanuntbmmc05901952.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 249 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d04/c016/mm__04016062ss0249.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 30,
+          "sitting_date": "1976-02-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c025/cs__15025030.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c025/cs__15025fih.pdf",
+          "pages": [
+            "3"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 34,
+          "sitting_date": "1976-02-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c025/cs__15025034.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c025/cs__15025fih.pdf",
+          "pages": [
+            "743:744"
+          ]
+        },
+        {
+          "cilt": 26,
+          "sitting": 35,
+          "sitting_date": "1976-02-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c026/cs__15026035.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t15/c026/cs__15026fih.pdf",
+          "pages": [
+            "42",
+            "72",
+            "195:196"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1901&v_kullanici_id=27483235",
+      "page_sha256": "b03516e6e4516fd0e8518e72928e38bf7e13c854ce0bd904282a9e657cec2cef"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "0be82ee53fc3141193b2c11fed8f76504e808bc353fab9ecd90987db469815fb",
+  "issuer": "Millet Meclisi",
+  "in_force": "1976-02-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 27/02/1976; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
