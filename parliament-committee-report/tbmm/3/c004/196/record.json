@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 3,
+  "sira_sayisi": "196",
+  "label": "TBMM 196 no'lu Komisyon Raporu",
+  "title": "Ankara-Sivas ve Samsun-Musaköy demiryolları inşa ve işletme idaresinin 1340, 1924 senesi hesabı katî Kanunu",
+  "document_date": "1928-05-21",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 4, birleşim 79)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c004/tbmm03004079ss0196.pdf",
+  "pdf_sha256": "d50b1c26182dfb2c9b517beeac862f154d96114b9958ef2a66d3a60eaa363ba4",
+  "pdf_bytes": 301913,
+  "pdf_pages": 5,
+  "index_entries": [
+    120098
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d03&v_yasama_yili=1&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1928-05-21",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
