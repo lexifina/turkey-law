@@ -1,0 +1,47 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 166459,
+  "assembly": "TBMM",
+  "term": 22,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Türkiye Cumhuriyeti ile Türk Kültür ve Sanatları Ortak Yönetimi Genel Müdürlüğü Arasında Arsa Tahsisi Hakkında Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun Tasarısına ilişkin",
+  "title": "Türkiye Cumhuriyeti ile Türk Kültür ve Sanatları Ortak Yönetimi Genel Müdürlüğü Arasında Arsa Tahsisi Hakkında Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun Tasarısına ilişkin",
+  "first_sitting_date": "2003-04-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 12,
+      "sitting": 68,
+      "sitting_date": "2003-04-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c012/tbmm22012068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c012/tbmm22012fih.pdf",
+      "pages": [
+        "251:253"
+      ]
+    },
+    {
+      "cilt": 21,
+      "sitting": 104,
+      "sitting_date": "2003-07-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c021/tbmm22021104.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d22/c021/tbmm22021fih.pdf",
+      "pages": [
+        "27:32",
+        "107:130"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=22&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "fd4b6c5bdba1f03dec056d453dca5c59c59465b380bdbfd05adaf432717075df",
+  "in_force": "2003-04-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
