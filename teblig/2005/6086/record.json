@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.6086",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 47)",
+  "number": "6086",
+  "path": "teblig/2005/6086",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=6086&MevzuatTertip=5",
+  "source_sha256": "eb2caa4f7c2b0643dd000d056c707767546388c6956d7cd40e2000d47dadc106",
+  "source_bytes": 21956,
+  "published": "2005-02-04",
+  "gazette": "25717",
+  "in_force": "2005-02-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.02.2005)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 807,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
