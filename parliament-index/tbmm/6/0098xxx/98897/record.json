@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 98897,
+  "assembly": "TBMM",
+  "term": 6,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Memurin kanununun 4. maddesine bir fıkra eklenmesi hakkında kanun lâyihasına dair (1/581)",
+  "title": "Memurin kanununun 4. maddesine bir fıkra eklenmesi hakkında kanun lâyihasına dair (1/581)",
+  "first_sitting_date": "1943-01-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 30,
+      "sitting": 28,
+      "sitting_date": "1943-01-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c030/tbmm06030028.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d06/c030/tbmm06030fih.pdf",
+      "pages": [
+        "213",
+        "273:274"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=6&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1922&v_gelecek_sayfa=1501&v_kullanici_id=27484000",
+  "source_sha256": "6c7da1829cc7518bd6f897da741731a7500dcd9a4bf19b918b51fa12d88e186f",
+  "in_force": "1943-01-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
