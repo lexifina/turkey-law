@@ -1,0 +1,73 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 80397,
+  "assembly": "TBMM",
+  "term": 8,
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar / Geçici Komisyon Raporu",
+  "summary": "İşletme ve Gezginci İşler Vergisi Kanunu tasarısı hakkında (1/172)",
+  "title": "İşletme ve Gezginci İşler Vergisi Kanunu tasarısı hakkında (1/172)",
+  "first_sitting_date": "1949-03-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 17,
+      "sitting": 57,
+      "sitting_date": "1949-03-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c017/tbmm08017057.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c017/tbmm08017fih.pdf",
+      "pages": [
+        "58"
+      ]
+    },
+    {
+      "cilt": 18,
+      "sitting": 74,
+      "sitting_date": "1949-04-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c018/tbmm08018fih.pdf",
+      "pages": [
+        "567:592",
+        "754:755"
+      ]
+    },
+    {
+      "cilt": 19,
+      "sitting": 80,
+      "sitting_date": "1949-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c019/tbmm08019fih.pdf",
+      "pages": [
+        "111:118"
+      ]
+    },
+    {
+      "cilt": 20,
+      "sitting": 100,
+      "sitting_date": "1949-06-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c020/tbmm08020100.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d08/c020/tbmm08020fih.pdf",
+      "pages": [
+        "225:229",
+        "230:232",
+        "237",
+        "240",
+        "264:267"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=8&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=1724&v_gelecek_sayfa=901&v_kullanici_id=27484112",
+  "source_sha256": "ee30178dda230d3325ad34418c6558bdf3f31067b250155b13b249944363a8ed",
+  "in_force": "1949-03-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
