@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "DV-1/2003-1/Bilanço ve Gelir Tabloları-1",
+  "source_id": 1028,
+  "date": "2003-12-22",
+  "title": "Mükelleflerce beyanname ekinde verilen bilanço ve gelir tablolarının önceki dönem sütunlarının doldurulmasının Muhasebe Sistemi Uygulama Genel Tebliğleri ile getirilen bir zorunluluk olduğu dikkate alındığında cari dönem ile birlikte önceki dönem sütunlar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/sirkuler/1028",
+  "source_sha256": "0d9e7ba500b9880a9c6b08d01b4c86936708ebde28f45150fe127975586244f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
