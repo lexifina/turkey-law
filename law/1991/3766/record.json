@@ -1,0 +1,80 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "3766",
+  "year": 1991,
+  "title": "2972 Sayılı Mahallî İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında Kanunun 29. Maddesinde Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "1991-12-26",
+  "adopted_as_published": "26/12/1991",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "02.01.1992 No: 21099 Mükerrer",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc075/kanuntbmmc075/kanuntbmmc07503766.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 75",
+  "committee_reports": [
+    {
+      "label": "TBMM 1 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c001/tbmm19001013ss0001.pdf"
+    },
+    {
+      "label": "TBMM 1ek01no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c002/tbmm19002021ss0001ek01.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 19,
+      "kayit_no": 256501,
+      "title": "2972 Sayılı Mahallî İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında Kanunun 29. Maddesinde Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "26/12/1991",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc075/kanuntbmmc075/kanuntbmmc07503766.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 1 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c001/tbmm19001013ss0001.pdf"
+        },
+        {
+          "label": "TBMM 1ek01no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c002/tbmm19002021ss0001ek01.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 19,
+          "sitting_date": "1991-12-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c002/tbmm19002019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c002/tbmm19002fih.pdf",
+          "pages": [
+            "126"
+          ]
+        },
+        {
+          "cilt": 2,
+          "sitting": 21,
+          "sitting_date": "1991-12-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c002/tbmm19002021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c002/tbmm19002fih.pdf",
+          "pages": [
+            "311",
+            "391:397"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=19&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "11a4f1ab455da665c8050199bd9f0ac972671d5510e56e1c3760dbdf9e6cc0e5",
+  "issuer": "TBMM",
+  "in_force": "1991-12-26",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 26/12/1991; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
