@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-12-26",
+  "issue": "25328",
+  "edition": "regular",
+  "item": 18,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-3",
+  "title": "Başbakanlık Gençlik ve Spor Genel Müdürlüğü Erzincan Gençlik ve Spor İl Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031226-3-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (21 = 21)",
+  "ilan_codes": [
+    "52526/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031226-3-3.htm",
+  "category_page_sha256": "3c267ee68630d78b0e8f6de49b1adb27abb6360c52c781ac2d042222f1bf7311",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031226.htm",
+  "index_sha256": "bab9652175b1416db2f1e47ec4a7fd1f85f139326f7f986777f3138e032828dc",
+  "index_header": "26 Aralık 2003 ... Sayı : 25328",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
