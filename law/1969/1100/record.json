@@ -1,0 +1,153 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1100",
+  "year": 1969,
+  "title": "1968 Kalkınma İstikrazı hakkında Kanun",
+  "adopted": "1969-02-04",
+  "adopted_as_published": "04/02/1969",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "13.02.1969 No: 13126",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201100.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 52",
+  "committee_reports": [
+    {
+      "label": "MM 746 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030027ss0746.pdf"
+    },
+    {
+      "label": "CS 1200no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051032ss1200.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "Millet Meclisi",
+      "term": null,
+      "kayit_no": 373284,
+      "title": "1968 Kalkınma İstikrazı hakkında Kanun",
+      "adopted_as_published": "04/02/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201100.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 746 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030027ss0746.pdf"
+        },
+        {
+          "label": "CS 1200no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051032ss1200.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 28,
+          "sitting": 74,
+          "sitting_date": "1968-06-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028074.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c028/mm__02028fih.pdf",
+          "pages": [
+            "6"
+          ]
+        },
+        {
+          "cilt": 29,
+          "sitting": 15,
+          "sitting_date": "1968-12-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c029/mm__02029015.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c029/mm__02029fih.pdf",
+          "pages": [
+            "489"
+          ]
+        },
+        {
+          "cilt": 30,
+          "sitting": 27,
+          "sitting_date": "1969-01-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030027.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030fih.pdf",
+          "pages": [
+            "515:542",
+            "567",
+            "577:580"
+          ]
+        },
+        {
+          "cilt": 30,
+          "sitting": 28,
+          "sitting_date": "1969-01-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030028.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030fih.pdf",
+          "pages": [
+            "628",
+            "629",
+            "668",
+            "670:673"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2301&v_gelecek_sayfa=1501&v_kullanici_id=27483225",
+      "page_sha256": "66251c4483ca186d733ac0d6ddf330376a3f317f3ebe9b3ad35f2b553c9b6259"
+    },
+    {
+      "assembly": "Cumhuriyet Senatosu",
+      "term": null,
+      "kayit_no": 312960,
+      "title": "1968 kalkınma istikrazı hakkında Kanun",
+      "adopted_as_published": "04/02/1969",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc052/kanuntbmmc052/kanuntbmmc05201100.pdf",
+      "committee_reports": [
+        {
+          "label": "MM 746 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d02/c030/mm__02030027ss0746.pdf"
+        },
+        {
+          "label": "CS 1200no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051032ss1200.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 49,
+          "sitting": 21,
+          "sitting_date": "1969-01-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c049/cs__08049021.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c049/cs__08049fih.pdf",
+          "pages": [
+            "724"
+          ]
+        },
+        {
+          "cilt": 51,
+          "sitting": 32,
+          "sitting_date": "1969-02-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051032.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t08/c051/cs__08051fih.pdf",
+          "pages": [
+            "556:560",
+            "567",
+            "649:650"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2316&v_gelecek_sayfa=1101&v_kullanici_id=27483235",
+      "page_sha256": "1eaad7ada00aca89de2fafea1c48fe47bacb9ae26f5a743f31a7c677dcbb0e77"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "66251c4483ca186d733ac0d6ddf330376a3f317f3ebe9b3ad35f2b553c9b6259",
+  "issuer": "Millet Meclisi",
+  "in_force": "1969-02-04",
+  "in_force_basis": "Kabul tarihi (date of adoption by the Millet Meclisi) as printed in the official TBMM kanunlar index: 04/02/1969; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
