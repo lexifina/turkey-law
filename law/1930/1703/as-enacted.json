@@ -1,0 +1,47 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1703",
+  "year": 1930,
+  "title": "Merinos koyunlarının tevzii hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1930-06-19",
+  "gazette_issue": "1524",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1524.pdf",
+  "source_sha256": "a373457682c7e67f20a4608575a587ba9b1c19ce35ecf766c43fd32e60119572",
+  "text_sha256": "a068072c8fec239139ed6d20352a21a791f1f3a467d5290dd23b080c569b5766",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      578,
+      590
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184) on pages [3] (no text layer)",
+    "tesseract_pages": [
+      3
+    ]
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801703.pdf",
+    "source_sha256": "a5d2173d470801015f5a0a9a41281acd950ff6bcfb03f940cf6a61563f40cc3f",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9338,
+    "bag": 0.8593,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.8132,
+    "rg_words": 61,
+    "kd_words": 91,
+    "own_anchor": false,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
