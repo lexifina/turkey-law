@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0. 65/6508-100/48548",
+  "source_id": 32012,
+  "date": "2004-10-18",
+  "title": "Parakende mal satan veya hizmet ifa eden 1. ve 2. sınıf tacirlerin fatura kullanma zorunluluğu bulunmayan satışları için ödeme kaydedici cihaz kullanma mecburiyeti vardır, ayrıca sözkonusu satışlarda katma değer vergisinin %2 ornında çevre payı dahil para",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/32012",
+  "source_sha256": "9a581d9b00a08811d0594bd9559e6e58b4092407ab3207b273ceff848636b6f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
