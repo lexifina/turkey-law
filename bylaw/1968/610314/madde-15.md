@@ -1,0 +1,1 @@
+Madde 15 – Eczacılar, meslektaşları ile iyi ilişkiler kurarlar; maddi ve manevi bakımdan birbirlerine yardım ederler. Meslekle ilgili anlaşmazlıkları önce kendi aralarında çözmeğe çalışırlar ve bunu başaramadıkları takdirde bağlı oldukları eczacı odalarına durumu bildirirler.

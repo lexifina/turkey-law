@@ -1,0 +1,1 @@
+Madde 18 – Bu Tüzük hükümlerine aykırı hareket eden eczacılar hakkında 6643 sayılı Türk Eczacıları Birliği Kanununa göre işlem yapılır. Olayda 6197 sayılı Eczacılar ve Eczaneler hakkındaki Kanuna aykırılık varsa, durum, ayrıca Sağlık ve Sosyal Yardım Bakanlığına bildirilir.

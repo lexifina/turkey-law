@@ -1,0 +1,2 @@
+Madde 11 – Eczacı, kanunlara aykırı fiillere iştirak edemez veya yardımcı olamaz; 6643 sayılı Türk Eczacıları Birliği Kanunu ile 6197 sayılı Eczacılar ve Eczaneler hakkındaki Kanuna uygun olmıyarak veya muvazaa yoluyla tıp mensubu olan veya olmayan kişilerle açık veya gizli anlaşma yaparak eczane veya ecza dolabı açamaz.
+Eczacılar, Türk Eczacıları Birliği tarafından bu hususlarda istenilecek her türlü bilgi ve belgeleri vermek ve ilgililere gereken kolaylığı göstermek zorundadırlar.

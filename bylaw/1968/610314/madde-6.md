@@ -1,0 +1,1 @@
+Madde 6 – Eczacı, hastaların veya hasta sahiplerinin, hastalığın çeşidi veya uygulanan tedavi şeklinin iyi olup olmadığı hakkındaki sorularını, onların maneviyatını yükseltecek şekilde, ümit verici ve teselli edici sözlerle karşılar.

@@ -1,0 +1,2 @@
+Madde 2 – Eczacının başta gelen görevi, birbirleriyle hekim ve veteriner hekimlerle tam bir anlayış ve işbirliği içinde çalışarak insan ve hayvan sağlığına, hayatına ihtimam göstermektir.
+Eczacı, sağlık ve veteriner hekimliği kuruluşları ile işbirliği yapar; kendileriyle diğer tıp mensupları arasında saygı ve güven hisleri yaratmağa çalışır; müşterileri ve diğer iş sahipleri ile ilişkilerinde, meslek ahlak ve adabına uygun şekilde hareket eder.
