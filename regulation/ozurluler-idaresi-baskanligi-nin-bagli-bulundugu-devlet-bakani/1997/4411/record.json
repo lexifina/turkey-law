@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4411",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZÜRLÜLER İDARESİ BAŞKANLIĞI ÖZÜRLÜLER YÜKSEK KURULU GÖREV VE ÇALIŞMA ESASLARI YÖNETMELİĞİ",
+  "number": "4411",
+  "issuer": "Özürlüler İdaresi Başkanlığı’nın bağlı bulunduğu Devlet Bakanı",
+  "issuer_slug": "ozurluler-idaresi-baskanligi-nin-bagli-bulundugu-devlet-bakani",
+  "path": "regulation/ozurluler-idaresi-baskanligi-nin-bagli-bulundugu-devlet-bakani/1997/4411",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4411&MevzuatTertip=5",
+  "source_sha256": "676ca5e5b4f81872d67b8f8ddd2dcf52bf498bef41a75b1ddfd1109d16d6c531",
+  "source_bytes": 23771,
+  "published": "1997-11-12",
+  "gazette": "23168",
+  "in_force": "1997-11-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.11.1997); own commencement article: \"bu Yönetmelik, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 593,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
