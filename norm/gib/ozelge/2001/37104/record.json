@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.66/6685-4376/17528",
+  "source_id": 37104,
+  "date": "2001-04-11",
+  "title": "Mükellefin beyanının maddi delillere göre tespit edilen rayiç bedelden düşük olması halinde, ceza uygulanmaksızın ikmalen vergi tarh olunur.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37104",
+  "source_sha256": "6ab61d5fc1d3e782e8b2ee07489e4adbbc549186a639a6ce485df4aa7691dab1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
