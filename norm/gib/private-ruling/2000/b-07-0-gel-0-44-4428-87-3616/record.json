@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2000-01-27T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2000-01-27",
+  "official_number": "B.07.0.GEL.0.44/4428-87/3616",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37891",
+  "source_id": "ozelge:37891",
+  "source_row_sha256": "ac18eb2738e964286ba10a29ca8d2b270a9a3acaf122add06b2352186e96ccf1",
+  "title": "Basit Usule tabi mükellefler kullanacakları, belgeleri ve zarfları bağlı oldukları oda veya birliklerden temin edeceklerdir.",
+  "version_label": "as-enacted",
+  "word_count": 266
+}
