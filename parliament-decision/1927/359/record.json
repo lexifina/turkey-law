@@ -1,0 +1,61 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "359",
+  "year": 1927,
+  "title": "Yüzellilik Listeye Dahil Eşhas 28 Mayıs 1927 Tarihli Kanun Mucibince Türk Tabiyetinden iskat Edildiğinden Mezkûr Kanun Mucibince Muameleifası Hakkında.",
+  "adopted": "1927-06-23",
+  "adopted_as_published": "23/06/1927",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc005/karartbmmc005/karartbmmc00500359.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 5",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 127418,
+      "title": "Yüzellilik Listeye Dahil Eşhas 28 Mayıs 1927 Tarihli Kanun Mucibince Türk Tabiyetinden iskat Edildiğinden Mezkûr Kanun Mucibince Muameleifası Hakkında.",
+      "adopted_as_published": "23/06/1927",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc005/karartbmmc005/karartbmmc00500359.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 101,
+          "sitting_date": "1926-05-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025101.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/ehttbmm02025101.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025fih.pdf",
+          "pages": [
+            "220"
+          ]
+        },
+        {
+          "cilt": 33,
+          "sitting": 79,
+          "sitting_date": "1927-06-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/tbmm02033079.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/ehttbmm02033079.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c033/tbmm02033fih.pdf",
+          "pages": [
+            "352",
+            "382:383"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=372&v_gelecek_sayfa=201&v_kullanici_id=27483257",
+      "page_sha256": "b3668011a33a48f268f7e28e6f0ef18068defcbd5a942700b143aa806b0d7b9d"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "b3668011a33a48f268f7e28e6f0ef18068defcbd5a942700b143aa806b0d7b9d",
+  "issuer": "TBMM",
+  "in_force": "1927-06-23",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 23/06/1927; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
