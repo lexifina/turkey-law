@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.9185",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EMNİYET GENEL MÜDÜRLÜĞÜ İL POLİS SPOR GÜÇLERİ YÖNETMELİĞİ",
+  "number": "9185",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1985/9185",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9185&MevzuatTertip=5",
+  "source_sha256": "b69a7e864c174099391dbcfaa329fd7f67e7e17af5f780d947c37b70a61b05e8",
+  "source_bytes": 30258,
+  "published": "1985-01-21",
+  "gazette": "18642",
+  "in_force": "1985-01-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.01.1985); own commencement article: \"bu Yönetmelik Resmi Gazetede yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik Resmi Gazetede yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1009,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

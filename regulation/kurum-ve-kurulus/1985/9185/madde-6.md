@@ -1,0 +1,2 @@
+Polis Gücüne Alınacak Sporcular
+Madde 6- Polis Güçlerinde yalnız Emniyet Teşkilatı personeli sporcu olarak görev alabilir. Bu amaçla spor birimlerinde bilfiil spor yapan Teşkilat mensuplarından, temsil kabiliyeti üstün, Milli Eğitim Gençlik ve Spor Bakanlığı Beden Terbiyesi Genel Müdürlüğü yarışmalarına katılması uygun görülen personel, spor birimi başkanının teklifi ve genel başkanın onayı ile İl Polis Spor Gücüne alınırlar.
