@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.87/8700/026545",
+  "source_id": 37895,
+  "date": "1999-06-28",
+  "title": "Amerika Birleşik Devletleri tarafından veya onun namına yapılan masraflara uygulanan vergi muafiyeti ABD tarafından finanse edilen mukaveleler dolayısıyla müteahhitler ve bunlara karşı taahhüde girişmiş ikinci müteahhitler tarafından yapılan masraflara uy",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37895",
+  "source_sha256": "1c5f262d6e9180c6ecbd80966711a0d98abbec969de922b488f63166077dc4fb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
