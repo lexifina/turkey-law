@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.60/6000-2181/036474",
+  "source_id": 36319,
+  "date": "1999-08-31",
+  "title": "Serbest Bölgede faaliyette bulunan gerçek kişinin vefatı halinde, mülkiyetinde olup bu bölgede bulunan malların mirasçılarına intikali dolayısıyla mirasçılardan V.İ.V. aranılması gerekmektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36319",
+  "source_sha256": "ace2ecd62e6684bf280137991187212a3366b64d42c028d44ce023199b76ee26",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
