@@ -1,0 +1,61 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "1309",
+  "year": 1928,
+  "title": "Türkiye - Fransa Cumhuriyetleri beyninde münakit seyyar ticaret memurları mukavelenamesinin tasdikine mütedair Kanun",
+  "adopted": "1928-05-24",
+  "adopted_as_published": "24/05/1928",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "06.06.1928 No: 906",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc006/kanuntbmmc006/kanuntbmmc00601309.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 6",
+  "committee_reports": [
+    {
+      "label": "TBMM 183 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c004/tbmm03004080ss0183.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 3,
+      "kayit_no": 120113,
+      "title": "Türkiye - Fransa Cumhuriyetleri beyninde münakit seyyar ticaret memurları mukavelenamesinin tasdikine mütedair Kanun",
+      "adopted_as_published": "24/05/1928",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc006/kanuntbmmc006/kanuntbmmc00601309.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 183 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c004/tbmm03004080ss0183.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 4,
+          "sitting": 80,
+          "sitting_date": "1928-05-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c004/tbmm03004080.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c004/ehttbmm03004080.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d03/c004/tbmm03004fih.pdf",
+          "pages": [
+            "263",
+            "275:277"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=663&v_gelecek_sayfa=101&v_kullanici_id=27483152",
+      "page_sha256": "c932ca7207bb1b4058d7200bef9cef7339ff7508ea9c142e1b23c2bb785d1656"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=3&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "c932ca7207bb1b4058d7200bef9cef7339ff7508ea9c142e1b23c2bb785d1656",
+  "issuer": "TBMM",
+  "in_force": "1928-05-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 24/05/1928; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
