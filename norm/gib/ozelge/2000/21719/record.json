@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-26681/34400",
+  "source_id": 21719,
+  "date": "2000-07-19",
+  "title": "İşçi yatakhanesi-işçi koğuşu olarak kullanılan binaların işletmenin esas faaliyet konusu ile ilgili olmadığından yatırım indiriminden yararlanması mümkün değildir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21719",
+  "source_sha256": "46b0bbc5669f23b375d70303fafece2c033db72651ba8aaf5813903ae82ca344",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
