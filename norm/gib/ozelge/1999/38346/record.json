@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.56/5601-1016/1783",
+  "source_id": 38346,
+  "date": "1999-01-15",
+  "title": "Ticari bankalar tarafından ihracatın finansmanı amacıyla Türk Eximbank'a kullandırılan kredi faizine banka ve sigorta muameleleri vergisi uygulanıp uygulanmayacağı hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38346",
+  "source_sha256": "8bc969c1dce0d271138c72ffcdd0c440bd73efba3e259bbcae5fa304c351f187",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
