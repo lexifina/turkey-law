@@ -1,0 +1,28 @@
+ANAYASA MAHKEMESİ KARARI
+Esas Sayısı : 1962/236
+Karar Sayısı : 1962/124
+Karar Tarihi : 26/12/1962
+İTİRAZDA BULUNAN: Sapanca Gezici Arazi Kadastrosu Mahkemesi
+İTİRAZIN KONUSU: Sapanca’nın Yanık köyünde 5602 sayılı kanun hükümlerine göre Arazi Kadastro ve tapulaması yapılırken 756 parsel sayılı yer, Hayri Asılkan ve Remziye Asılkan adlarına tesbit olunmuştur. Tapulama tutanağına, Orman Bölge Şefliği, burasının orman olduğunu ileri sürerek itiraz etmiştir. Mahkemece, 23.10.1962 günlü kararında, Orman Kanununun, ormanların tahdit ve Kadastrosunun ikmaline kadar bu kanunun birinci maddesinin tatbikatından çıkacak ihtilâflarda bir yerin orman sayılıp sayılmayacağının Tarım Bakanlığınca belirtileceğine dair hükmünün mahkemeleri, görmekte oldukları davaları adı geçen Bakanlığın bildirisine göre karara bağlamak zorunda bıraktığı, bunun ise Anayasa’nın (mülkiyet hakkı) kenar başlıklı 36 ncı maddesiyle, mahkemelerin bağımsızlığı, kenar başlıklı 132 nci maddesine aykırı olduğu kanısına varıldığı ileri sürülerek bu maddenin iptaline karar verilmesi istenilmiştir.
+Anayasa Mahkemesinin, İçtüzüğün 15 inci maddesi uyarınca, 12.11.1962 gününde ilk inceleme için yapılan toplantısında; dosyada bir noksanlık bulunmadığı görülerek işin esasının incelenmesine karar verilmiştir. Esasın incelenmesi için 26.12.1962 gününde yapılan toplantıda Sapanca Gezici Arazi Kadastrosu Mahkemesinin 23.10.1962 günlü kararı ile bunun ekleri, Türkiye Büyük Millet Meclisinin konu ile ilgili kanunlara ilişkin tutanakları ve düzenlenen rapor okunduktan sonra gereği görüşülüp düşünüldü:
+Daha öne, 6831 saylı Orman Kanununun geçici 1 inci maddesinin, Anayasa’nın 132 nci maddesi hükmüne aykırı olduğu kanısına varıldığı, Çine Gezici Arazi Kadastrosu Mahkemesi tarafından, itiraz yolu ile, Anayasa Mahkemesine bildirilmiş ve Anayasa Mahkemesince de, işbu maddenin Anayasa’nın 132 nci maddesi hükmüne aykırı bulunmadığına ve itirazın reddine 26.12.1962 gününde 1962/211-1962/121 sayı ile karar verilmiş bulunmaktadır.
+Bahse konu geçici 1 inci maddenin Anayasanın 132 nci maddesine aykırı olduğu yolundaki itirazın evvelce Anayasa Mahkemesi tarafından reddedilmemiş olması, sonradan yapılmış olan işbu itirazın, 132 nci maddeye matuf kısmının esas yönünden incelenerek yeniden karara bağlanmasına engel olmayacağına çoğunlukla karar verildikten sonra, ortada evvelce varılan sonuçta değişiklik yapılmasını gerektiren bir hal ve şart bulunmadığından, 6831 sayılı Orman Kanununun geçici 1 inci maddesinin, Anayasanın 36 ve 132 nci maddelerine aykırı olduğu yolundaki Mahkemenin düşüncesi yerinde görülmemiştir.
+SONUÇ : Yukarıda belirtilen sebepten ötürü, 6831 sayılı Orman Kanununun geçici 1 inci maddesinin, Anayasanın 36 ve 132 nci maddelerine aykırı bulunmadığına ve itirazın reddine, bir kısım üyelerin esasa ve bir kısmının da gerekçeye karşı muhalefetleri ile ve oyçokluğu ile 26.12.1962 gününde karar verildi.
+Başkan Vekili Tevfik GERÇEKER | Üye Osman YETEN -Muhalif- Muhalefet şerhi eklidir. | Üye Rifat GÖKSU
+Üye İsmail Hakkı ÜLKMEN | Üye İbrahim SENİL | Üye İhsan KEÇECİOĞLU Muhalefet şerhi eklidir.
+Üye Salim BAŞOL Muhalefet şerhi eklidir. | Üye Celâlettin KURALMEN Muhalefet şerhi eklidir. | Üye Yekta AYTAN
+Üye Hakkı KETENOĞLU | Üye Ekrem KORKUT | Üye Ahmet AKAR
+Üye Muhittin GÜRÜN Usul ve Gerekçeye muhalifim. | Üye Lütfi ÖMERBAŞ | Üye Ekrem TÜZEMEN
+Aynı konuya ait Mahkememizin 26.12.1962 tarih ve 211/121 sayılı kararı altındaki muhalefet şerhinde izah olunan sebeplere göre 6831 sayılı Kanunun geçici 1 inci maddesinin iptali reyindeyim.
+ |  |  |  | Üye Osman YETEN
+Mahkememizin 26.12.1962 tarih ve 211/121 sayılı kararındaki muhalefet şerhinde gösterdiğim sebeplerle kararın gerekçesine muhalifim.
+ |  |  |  | Üye Salim BAŞOL
+MUHALEFET ŞERHİ
+Mahkememizin 26.12.1962 gün ve Esas 1962/211, karar 1962/121 sayılı kararındaki muhalefet şerhinde gösterdiğimiz sebeplerle 6831 sayılı kanunun geçici 1 inci maddesinin Anayasaya aykırı olduğu sonucuna vardığımızdan sözü geçen maddenin iptali reyindeyiz.
+Üye İhsan KEÇECİOĞLU | Üye Celâlettin KURALMEN
+MUHALEFET ŞERHİ
+1- 6831 sayılı Orman Kanununun geçici 1 nci maddesinin, 132 nci maddesi yönünden Anayasaya aykırı olmadığı, daha önce Çine Gezici Arazi Kadastro Mahkemesince yapılmış olan itiraz üzerine Anayasa Mahkemesinin 26.12.1962 tarihli 1962/211-1962/121 sayılı kararı ile kabul edilmiş olduğu cihetle Sapanca Gezici Arazi Kadastro Mahkemesince bahse konu kanun hükmünün Anayasa’nın 36 ve 132 nci maddeleri yönünden Anayasaya aykırı bulunduğundan bahsile yapılmış bulunan bu itirazın, sadece 36. madde yönünden incelenerek karara bağlanması lâzımgelen 132. madde yönünden de incelenerek bu noktaya ilişkin kısmının esası hakkında yeni bir karar ittihazına mahal bulunmamakta, sadece durum izah olunarak itirazın bu kısmı hakkında yeni bir karar verilmesine yer olmadığının belirtilmesi gerekmektedir.
+Halbuki Mahkememiz bu kararı ile, itirazı, Anayasanın 132 nci maddesi yönünden de inceleyerek bu kısım esası hakkında da yeniden hüküm vermiş bulunmaktadır.
+Bahçe Sulh Ceza Mahkemesince aynı kanun hükmü hakkında yapılmış olan itiraz üzerine Anayasa Mahkemesince verilmiş bulunan 26.12.1962 tarihli ve 1962/223-1962/122 sayılı karara ait muhalefet şerhimde, bu konu ile ilgili olarak, açıkladığım sebeplere binaen karara muhalifim.
+2- 6 Mart 1963 tarihli ve 11348 sayılı Resmi Gazetede yayınlanmış bulunan Anayasa Mahkemesinin 26.12.1962 tarihli ve 1962/211-1962/121 sayılı kararında yazılı muhalefet şerhimde belirttiğim sebeplere dayanarak, Anayasa’ya aykırılık bulunmadığı yolundaki sonucuna katıldığım bu kararın gerekçesine de muhalifim.
+ |  |  |  | Üye Muhittin GÜRÜN
