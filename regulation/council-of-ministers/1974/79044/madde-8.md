@@ -1,0 +1,1 @@
+Madde 8 – Çekilme suretiyle görevlerinden ayrılanların, devir ve teslim işlemlerini bu yönetmeliğin 3 üncü ve 4 üncü maddelerine göre tesbit edilen süreler içinde tamamlayamıyanlara, fazla çalıştıkları süreler için ayrıca ücret ödenmez.

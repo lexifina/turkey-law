@@ -1,0 +1,2 @@
+V – Devir ve teslim sürelerinin başlangıcı ve tamamlanması:
+Madde 5 – Yönetmeliğin 3 üncü maddesi uyarınca saptanan devir ve teslim süreleri, çekilen Devlet Memurlarının yerlerine asaleten veya vekaleten atananların işe başladığı; atama yapılacak memur bulunmadığı, yerlerine atanacak kimse bir aya kadar gelmediği veya yerlerine bir vekil atanmadığı takdirde yetkili amirce görevlendirilecek memurun bu göreve başladığı tarihten itibaren başlar.

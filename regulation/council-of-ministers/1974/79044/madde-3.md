@@ -1,0 +1,3 @@
+III – Çekilen devlet memurlarının devir ve teslim süreleri:
+Madde 3 – Çekilen Devlet Memurları, Yönetmeliğin 2 nci maddesinde sayılanları yerlerine asaleten veya vekaleten atananlara, atama yapılacak memur bulunmadığı, yerlerine atanacak kimse bir aya kadar gelmediği veya yerlerine bir vekil atanmadığı takdirde yetkili amirce görevlendirilecek bir memura hizmetin özelliğine ve kurumca belirtilen esaslara göre 30 günü aşmamak (Yönetmeliğin 4 üncü maddesinde sayılan olağanüstü haller hariç) şartı ile yine yetkili amirince saptanacak süre içinde devir ve teslim etmek zorundadır.
+Hesaplarını yerlerine gelenlere devir zorunda bulunan saymanların devir ve teslim süresi 30 gün, sayman mutemetlerinin 15 gündür.

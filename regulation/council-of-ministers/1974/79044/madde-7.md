@@ -1,0 +1,1 @@
+Madde 7 – Yönetmeliğin 3 üncü ve 4 üncü maddeleri ile tesbit edilen sürelerde veya teslim sürelerinin bitiminden önce devir ve teslim işlerini tamamlayanların aylıkları; çalıştıkları sürelerle kayıtlı olmak üzere, eski görev yerlerinde kadro tasarrufundan ödenir.
