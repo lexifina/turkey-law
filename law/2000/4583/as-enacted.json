@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4583",
+  "year": 2000,
+  "title": "Askeri Hakimler Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2000-06-28",
+  "gazette_issue": "24093",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2000/06/20000628.htm",
+  "source_sha256": "0072a775280976936210ad0a1d37f18f55865a521b1edaba768daef1c2aae2b0",
+  "text_sha256": "d24c4e823d98519b020ce86203bbee1083552def84a9aa2e7dac3e9436a2880c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2000/06/28/24093-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2000/06/20000628.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
