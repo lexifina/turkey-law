@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.GEL.0.61/6110-10/6117",
+  "source_id": 36435,
+  "date": "2003-02-17",
+  "title": "Mtv'ye etki eden değişiklikler",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36435",
+  "source_sha256": "2550e265a1716e7a22a085dce63695e2209251e7cb8e644ce9280306a82bda88",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
