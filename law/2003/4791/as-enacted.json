@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4791",
+  "year": 2003,
+  "title": "Gelibolu Yarımadası Tarihi Milli Parkı Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-01-23",
+  "gazette_issue": "25002",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030123.htm",
+  "source_sha256": "672c7d5d0a60105406ec1c48174bf48d0847bf3452d7da9f20b67603a413a935",
+  "text_sha256": "891e21a6445f1d7c46c4b6818adb97b44dba3fe61d067bf5b4cee998204c416a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/01/23/25002-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030123.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
