@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.45/4500-32371/36209",
+  "source_id": 21727,
+  "date": "2002-08-28",
+  "title": "Kıst dönemi için verilecek beyannamede yararlanılacak yatırım indirimi tutarı hesaplanırken önceki yıllardan devreden yatırım harcamalarının bulunması halinde, bu harcamalara % 40,4  oranda endeksleme yapılması mümkündür. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21727",
+  "source_sha256": "9153942814eda5a5b50b002a1e74de2433e7dccd77027a9f1052a61cffcc1c34",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
