@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.29/2902-16/244/33755",
+  "source_id": 25071,
+  "date": "1997-06-30",
+  "title": "Mükellefiyetin sona erdirilmesi, mükelleflerin kendi isteği ile işi bırakması, tasfiye, iflas ve kanunen ticaret, sanat ve meslek icrasından mahrumiyet gibi sebeplerle mümkün olmakta bunun dışında idarenin mükelleflerin mükellefiyetlerini sona erdirme yet",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25071",
+  "source_sha256": "65f738b236f366d48452c76f30288eded63098ea5c0093545eaa4e4ea41a11a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
