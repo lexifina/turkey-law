@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.31/3185-107/000194",
+  "source_id": 27056,
+  "date": "2005-01-04",
+  "title": "Kanun gereği olarak yeniden değerlemeden önceki kıymetleri üzerinden amortismana tabi tutulan binalar için amortisman ayrılmayan dönemlerdeki amortisman tutarlarını, enflasyon düzeltmesi sırasında fiilen ayrılmış kabul ederek Geçmiş Yıllar Kar / Zararı he",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27056",
+  "source_sha256": "5777ff8e2ccccb6ea572342041f5ee570759ae0794c3b165071c4ac5439e6d8b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
