@@ -1,0 +1,1 @@
+Madde 3- Açık öğretim Fakültesi Yayın Komisyonu 5 öğretim elemanından oluşur. Bu öğretim elemanları içlerinden birisi başkan ve diğeri başkan vekili olarak belirtilmek üzere Rektör tarafından seçilirler. Yayın Komisyonu kararlarını oy çokluğu ile verir.

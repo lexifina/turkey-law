@@ -1,0 +1,1 @@
+Madde 18- Açık Öğretim Fakültesi gerekli gördüğü takdirde, eğitimlerine yardım amacı ile ve Yayın Komisyonu kararıyla, elindeki basılı malzemeleri, Açık Öğretim Fakültesi öğrencilerine maliyetine veya maliyetinden düşük bir ücretle ya da bedelsiz olarak verebilir.

@@ -1,0 +1,1 @@
+Madde 6- Yayınlanacak basılı, görsel, işitsel eserlerin bilim ve dil bakımından sorumluluğu eser sahibine, yapımcıya veya editöre aittir. Ancak, yayınlanacak eserlerde, gerekli görülen hallerde her türlü değişiklik yapılabilir. Bu gibi durumlarda yayınlanacak eserin bilim, dil ve görüntü sorumluluğu değişiklikleri yapanlara aittir.

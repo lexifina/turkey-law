@@ -1,0 +1,62 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [],
+  "date_evidence": [
+    [
+      "1983-06-18",
+      "18.06.1983",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "1992-12-30",
+      "Rg-30/12/1992-21451",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2002-09-16",
+      "RG-16/09/2002-24878",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "1986-07-05",
+      "RG-05/07/1986",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "1992-12-30",
+      "RG-30/12/1992 -21451",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "1983-06-29",
+      "RG-29/06/1983-18092",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-16/09/2002-24878",
+  "first_law": null,
+  "gazette": "18081",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2002-09-16",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Anadolu Üniversitesi",
+  "issuer_slug": "anadolu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/anadolu-universitesi/1983/7421",
+  "published": "1983-06-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7421&MevzuatTertip=5",
+  "source_bytes": 40157,
+  "source_id": "8.5.7421",
+  "source_sha256": "8cadb50289a08c53da27c5da6183fd6ef819ab24959376878129ffd32a529807",
+  "text_status": "current-consolidated",
+  "title": "ANADOLU ÜNİVERSİTESİ AÇIK ÖĞRETİM HİZMETLERİ YAYIN VE UYGULAMA YÖNETMELİĞİ",
+  "university_id": 179,
+  "word_count": 1526
+}

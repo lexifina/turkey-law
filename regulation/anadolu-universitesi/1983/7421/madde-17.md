@@ -1,0 +1,1 @@
+Madde 17- Üniversite gerekli gördüğünde, Açık Öğretim Fakültesi için hazırlanan basılı, görsel ve işitsel eserleri, ücreti maliyet değerinden aşağı olmamak koşulu ile Açık Öğretim Fakültesi öğrencileri dışında olup da bunlardan yararlanmak isteyenlere satabilir.

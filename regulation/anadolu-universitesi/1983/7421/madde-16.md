@@ -1,0 +1,1 @@
+Madde 16- Açık Öğretim Fakültesi özellikle basılı öğretim malzemelerini olanaklar ölçüsünde Anadolu Üniversitesinin kendi tesislerinde bastırır. Teknik, kapasite ve iş hacmi bakımında basılma olanağı bulunmaması yada ivedi yayınlanması gereken eserler Yayın Komisyonu kararı ile başka matbaalarda dizdirilip, bastırılabilir.

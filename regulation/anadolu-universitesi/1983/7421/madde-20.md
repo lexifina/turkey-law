@@ -1,0 +1,2 @@
+Madde 20- a) Açık Öğretim Fakültesi hizmetlerinde çalışan Fakülte öğretim elemanları ile Rektörlükçe bu hizmetlerde çalışmakla görevlendirilen Anadolu Üniversitesinin diğer fakültelerine mensup öğretim elemanlarının haftalık mesai saatlerindeki çalışmalarının ne ölçüde ders yükünden sayılacağı 2547 Sayılı Yasanın 36. maddesinin ilgili hükümleri uyarınca belirlenir.
+b) Bu öğretim elemanlarının günlük mesai saatleri dışındaki saatlerde, cumartesi, Pazar ya da resmi tatil günlerinde derslerle ilgili görev almaları halinde, kendilerine ek ders ücreti tahakkuk ettirilir.
