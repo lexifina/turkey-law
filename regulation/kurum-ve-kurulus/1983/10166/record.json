@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.10166",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖĞRETMEN YETİŞTİREN YÜKSEKOKUL MEZUNLARININ LİSANS ÖĞRENİMİ YAPMALARI HAKKINDA YÖNETMELİK",
+  "number": "10166",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1983/10166",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10166&MevzuatTertip=5",
+  "source_sha256": "393776d59f82a1dcc6ed3a9b2ab339881634f0340c12e602f9bd98d469af673a",
+  "source_bytes": 16481,
+  "published": "1983-11-16",
+  "gazette": "18223",
+  "in_force": "1983-11-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.11.1983); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 346,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

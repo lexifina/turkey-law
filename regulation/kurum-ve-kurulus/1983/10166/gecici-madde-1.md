@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1. Bakanlıklara bağlı iken, üniversite kapsamına alınan yükseköğretim kurumlarındaki öğretim görevlilerinden, bu görevlerini 30/6/1984 tarihinden sonra da sürdürmeleri uygun görülenlerin, istedikleri taktirde, giriş için öngörülen diğer şartlar aranmaksızın, üniversiteleri tarafından yapılacak programlamayla lisans öğrenimi görmeleri sağlanır.

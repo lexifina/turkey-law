@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 2. Öğretim görevlileri lisans tamamlama öğrenimlerini, kendi alanlarında program uygulayan diğer üniversitelerde yapabilecekleri gibi, bu öğretim görevlileri için, ilgili üniversiteler tarafından yoğunlaştırılmış programlar halinde yaz veya akşam öğretimi de düzenlenebilir. Bu konuda, hangi üniversitelerde yaz ve akşam öğretimi yapılabileceği, Yükseköğretim Kurulu tarafından kararlaştırılır.
+Yaz ve akşam öğretiminden yararlanmak isteyenler, Yükseköğretim Kuruluna iletilmek üzere 15 Temmuz 1984 tarihine kadar üniversitelerine başvururlar.
