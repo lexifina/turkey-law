@@ -1,0 +1,2 @@
+Finansal Yeniden Yapılandırmanın Kapsamı
+Madde 4- Finansal yeniden yapılandırma kapsamına alınacak borçluların, mali durumlarının ve bu kapsamda borçlarının yeniden yapılandırılması veya yeni bir itfa planına bağlanması sonucunda borçlarını geri ödeme kabiliyeti kazanacağının tespit edilmesi şarttır. Bu tespitin yapılmasına ilişkin esas ve usuller Çerçeve Anlaşmalarında gösterilir. Borçlarını geri ödeme kabiliyeti kazanamayacağına kanaat getirilen borçlular finansal yeniden yapılandırma kapsamına alınamaz.

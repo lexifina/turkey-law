@@ -1,0 +1,2 @@
+Çerçeve Anlaşmalarının Onaylanması
+Madde 7- Birlik tarafından hazırlanan ve taraflarca imzalanan Çerçeve Anlaşmaları Kurulun onayına sunulur. Kurul anlaşmaların Kanuna ve bu Yönetmelik hükümlerine uygunluğunu inceler ve varsa düzetilmesini istediği hususları Birliğe bildirir. Birlik tarafından bu hususlara göre yeniden düzenlenen ve taraflarca imzalanan anlaşmalar Kurulun onayına sunulur. Çerçeve Anlaşmaları Kurulca onaylanmalarını müteakiben geçerlilik kazanır. Çerçeve Anlaşmalarında yapılacak değişiklikler için Kuruldan izin alınması şarttır.

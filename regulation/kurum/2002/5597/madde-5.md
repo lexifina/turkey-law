@@ -1,0 +1,5 @@
+Çerçeve Anlaşmalarının İmzalanması
+Madde 5- Çerçeve Anlaşmaları Birlik tarafından hazırlanır ve banka, özel finans kurumu ve diğer mali kurumların yetkili temsilcilerince kabul edilerek imzalanır.
+Tasarruf Mevduatı Sigorta Fonu ve Tasfiye Halinde Emlak Bankası Anonim Şirketi, Çerçeve Anlaşmalarına ve bu Anlaşmalar kapsamında borçlularla yapılacak sözleşmelere ilave finansman sağlamamak kaydıyla taraf olabilir.
+4603 sayılı Kanuna tabi bankalar ile hisseleri kısmen veya tamamen Tasarruf Mevduatı Sigorta Fonuna devredilen bankalar, Çerçeve Anlaşmalarına ve bu Anlaşmalar kapsamında borçlularla yapılacak sözleşmelere, kredileri kısmen veya tamamen iştirake çevirmek, kredileri ayni bir bedel karşılığı devir ve temlik etmek, kredileri borçlu ya da üçüncü kişilere ait ayni değerler karşılığı kısmen veya tamamen tasfiye etmek işlemleri hariç olmak üzere taraf olabilir.
+Ölçek büyüklüğü ve sektörel faaliyet alanı bakımından farklı niteliklere sahip borçlular nitelikleri itibariyle gruplandırılarak, her bir borçlu grubu için ayrı bir Çerçeve Anlaşması hazırlanabilir.
