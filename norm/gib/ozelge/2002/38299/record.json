@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.32/3223-2580/17294",
+  "source_id": 38299,
+  "date": "2002-04-17",
+  "title": "Beyannamelerini serbest muhasebeci ve serbest muhasebeci mali müşavirlere imzalatmak zorunluluğu bulunan mükellefler diledikleri takdirde yıllık gelir veya kurumlar vergisi beyannameleri ve eklerini yeminli mali müşavirlere tasdik ettirebilirler ve bu dur",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/38299",
+  "source_sha256": "3fd35ecdff64cb822f52350bda46564d5d3e01697f7758a35afb53b3bea18b12",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
