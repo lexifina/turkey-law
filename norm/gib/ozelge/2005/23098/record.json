@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.41/4106-456/6365",
+  "source_id": 23098,
+  "date": "2005-02-19",
+  "title": "Çiftçilerden satın alınan zirai ürünler ile ticaret borsalarında tescil ettirilerek satın alınan zirai ürünler için tevkifat yapılıp mükellefin vergi dairesine yatırılması gereklidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23098",
+  "source_sha256": "9d1666f230d9e172d24e15a79bcaa666ddb8957b9a678dcebd01a45950d9ca03",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
