@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-21",
+  "issue": "25114",
+  "edition": "regular",
+  "item": 6,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Çeşitli İlânlar",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Adalet Bakanlığı Ceza İşleri Genel Müdürlüğünden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030521-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (10 = 10)",
+  "ilan_codes": [
+    "1999/33-43",
+    "14429/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030521-4.htm",
+  "category_page_sha256": "e0a84a4e0198410ae43bcb2f2228f9cf593447eb9aeb9e4cd04bda7da45cea58",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030521.htm",
+  "index_sha256": "ca9dd757b661cdce9ccc70836607502d34eed5650ed246de3de6e3b81c4c7eed",
+  "index_header": "21 Mayıs 2003 ... Sayı : 25114",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
