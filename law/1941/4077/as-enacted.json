@@ -1,0 +1,51 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4077",
+  "year": 1941,
+  "title": "Ceza ve Tevkifevleri Umum Müdürlüğünün vazife ve teşkilâtı hakkındaki 3500 numaralı kanunun tadiline dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-07-07",
+  "gazette_issue": "4853",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4853.pdf",
+  "source_sha256": "8516122c807cf1bac46abf940f85a1307403cf5989e916cc00a32383ce3a83f3",
+  "text_sha256": "0b8200ac18cd98e528e43b1cc52d2d857961665f2bc445502e32fed5c95ead95",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3
+  ],
+  "line_span": [
+    [
+      173,
+      183
+    ],
+    [
+      329,
+      368
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204077.pdf",
+    "source_sha256": "8bf17c5c13a53e46e2cd0f5e760b055a0e27b44cb33fccbb1467648f2a8378d6",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9474,
+    "bag": 0.8801,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.991,
+    "rg_words": 303,
+    "kd_words": 334,
+    "own_anchor": true,
+    "foreign_anchors": 3
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
