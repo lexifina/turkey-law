@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2931",
+  "year": 1936,
+  "title": "Arttırma eksiltme ve ihale hakkındaki 2490 sayılı Kanunun 68. maddesine bir fıkra eklenmesine dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-04-09",
+  "gazette_issue": "3275",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3275.pdf",
+  "source_sha256": "a435eeeaf42ef39fc11ec61b8047fca0412e9f0b192200ad8030fa235beef843",
+  "text_sha256": "3481a9c817d34130b8a70c261b81666df2eec954c2745cc52018627d770804c1",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      19,
+      32
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602931.pdf",
+    "source_sha256": "39056b7a05ee679a3fbae62079b59aa396eb32543b0c754ca5bd4e09fb1b1826",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9636,
+    "bag": 0.8923,
+    "kd_coverage": 0.9844,
+    "kd_body_compared": 0.9275,
+    "rg_words": 66,
+    "kd_words": 69,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
