@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.4801",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇOCUK TRAFİK EĞİTİM PARKLARI YÖNETMELİĞİ",
+  "number": "4801",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/1998/4801",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4801&MevzuatTertip=5",
+  "source_sha256": "fd9e9ea4552cba5e07141fc9b1973c36c251109a883a38fdb21832b80798f5e3",
+  "source_bytes": 65644,
+  "published": "1998-10-24",
+  "gazette": "23503",
+  "in_force": "1998-10-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.10.1998); own commencement article: \"Bu Yönetmelik yayımı tarihinden itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2501,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
