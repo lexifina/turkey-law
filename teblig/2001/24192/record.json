@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24192",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 299)",
+  "number": "24192",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2001/24192",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24192&MevzuatTertip=5",
+  "source_sha256": "8dccb7fcff1dab08614617343ebe843f0c5281a3f8a89059532198cba63cfa35",
+  "source_bytes": 25583,
+  "published": "2001-08-18",
+  "gazette": "24497",
+  "in_force": "2001-08-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.08.2001); own commencement article: \"Bu Tebliğ 1/9/2017 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/9/2017 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1632,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
