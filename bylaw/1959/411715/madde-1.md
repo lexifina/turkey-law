@@ -1,0 +1,1 @@
+Madde 1 – Hassas Bölgelerde muhtelif silah ve vasıtaların tesirlerine karşı, Sivil Müdafaa bakımından, şehir planlarının tertip, tanzim ve tadilleri hususları ile mühim bina ve tesislerin yer ve şekillerinin seçilmesinde tatbik olunacak esaslar bu Nizamname hükümlerine tabidir.

@@ -1,0 +1,1 @@
+Madde 3 – Bu Nizamnamenin yürürlüğe girdiği tarihte, İmar Nizamnamesine uygun imar planları mevcut olmıyan şehir ve kasabaların meskün sahaları, yapılacak imar planlarında iskan bölgesi itibar olunur. Bu sahalar bin hektardan az olduğu takdirde, imar planlarında bin hektara iblağ olunabilir.

@@ -1,0 +1,1 @@
+Madde 12 – Seferde askeri maksatlarla kullanılmak üzere yapılacak hava meydanları iskan bölgeleri hudutlarından en az onbeş kilometre uzakta tesis edilir ve bu gibi hava meydanları civarında aynı mesafe dahilinde yeni iskan bölgeleri ihdas olunamaz.
