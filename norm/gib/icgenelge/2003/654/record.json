@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "2003/3",
+  "source_id": 654,
+  "date": "2003-03-31",
+  "title": "VERGİ BARIŞI KANUNU İÇ GENELGESİ SERİ NO: 2003/3",
+  "source": "https://gib.gov.tr/mevzuat/kanun/458/icgenelge/654",
+  "source_sha256": "16a2474b3225433fed053540a92ad4f47f1bbaa7f346060d27e1aa2faa29a2e3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "date_basis": {
+    "type": "official-cross-reference",
+    "references": [
+      {
+        "source": "https://gib.gov.tr/mevzuat/kanun/458/icgenelge/653",
+        "quote": "31/3/2003 gün ve 2003/3 Seri Nolu Vergi Barışı Kanunu İç Genelgesi"
+      }
+    ]
+  }
+}
