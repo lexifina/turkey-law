@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4034-428/15185",
+  "source_id": 37559,
+  "date": "2000-04-05",
+  "title": "Devlet tahvilinden elde edilen gelirin faiz vergisinin ihraç bedeli ile itfa bedeli arasındaki fark üzerinden hesaplanması gerekmektedir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37559",
+  "source_sha256": "7e3f64f15eca9db1aee0777677c61ec8da6f7357966bd1fd883d08f435745ac9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
