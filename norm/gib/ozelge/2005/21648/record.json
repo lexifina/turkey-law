@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.46/4600-000967",
+  "source_id": 21648,
+  "date": "2005-01-08",
+  "title": "Serbest meslek faaliyetinde bulunan veya basit usulde  vergilendirilen özürlülerin beyan edilen gelirlerine,hesaplanan yıllık indirim (Bu indirimden bakmakla yükümlü olduğu özürlü kişi bulunan serbest meslek erbabı ile hizmet erbabı (tevkifat matrahı dahi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21648",
+  "source_sha256": "cc121562449311509de8e12bb3e589dd4e2c01f12fc4181aa618def53600d55c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
