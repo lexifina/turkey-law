@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL0.54/5409-128-22145",
+  "source_id": 30780,
+  "date": "2004-05-18",
+  "title": "Ağaçlandırma, rehabilitasyon ve erozyon kontrolü sahalarında yapılmakta olan fidan dikimi, isçi ile toprak isleme, makineli toprak isleme, ot alma ve çapa islerinin yapım işleri kapsamında değerlendirilerek 1/3 oranında tevkifata tabi tutulması gerekmekte",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30780",
+  "source_sha256": "68269e0beff1124997d38d3ac3562c61354f1d69c4339d4d1aaa60d53a34e105",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
