@@ -1,0 +1,80 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 393704,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "5539 sayılı Karayolları Genel Müdürlüğü kuruluş ve görevleri hakkındaki Kanunun bazı maddelerinin değiştirilmesine, 2 ek ve 1 geçici madde eklenmesine ve bazı maddelerinin kaldırılmasına dair kanun tasarısı ve İçişleri, İmar-İskân, Adalet, Bayındırlık ve Plân komisyonlarından 3'er üyeden kurulu 108 Nolu Geçici Komisyon raporu (1/800)",
+  "title": "5539 sayılı Karayolları Genel Müdürlüğü kuruluş ve görevleri hakkındaki Kanunun bazı maddelerinin değiştirilmesine, 2 ek ve 1 geçici madde eklenmesine ve bazı maddelerinin kaldırılmasına dair kanun tasarısı ve İçişleri, İmar-İskân, Adalet, Bayındırlık ve Plân komisyonlarından 3'er üyeden kurulu 108 Nolu Geçici Komisyon raporu (1/800)",
+  "first_sitting_date": "1973-04-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 36,
+      "sitting": 92,
+      "sitting_date": "1973-04-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036092.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c036/mm__03036fih.pdf",
+      "pages": [
+        "526"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 101,
+      "sitting_date": "1973-04-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037101.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+      "pages": [
+        "22:35"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 103,
+      "sitting_date": "1973-05-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037103.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+      "pages": [
+        "115:116",
+        "159:162"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 104,
+      "sitting_date": "1973-05-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037104.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+      "pages": [
+        "170:175"
+      ]
+    },
+    {
+      "cilt": 37,
+      "sitting": 106,
+      "sitting_date": "1973-05-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037106.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d03/c037/mm__03037fih.pdf",
+      "pages": [
+        "200",
+        "226:229"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=3201&v_kullanici_id=27484836",
+  "source_sha256": "7b8c00f11b4e2eb3c9c8a808871926946340a6285728835da8f3260d4469bb33",
+  "in_force": "1973-04-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
