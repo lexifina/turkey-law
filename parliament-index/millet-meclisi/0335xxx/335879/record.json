@@ -1,0 +1,56 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 335879,
+  "assembly": "Millet Meclisi",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "Millet Meclisi İdareci Üyelerinin sermayesinin tamamı Devlet tarafından verilmek suretiyle kurulan iktisadi teşekküllerin teşkilâtiyle idare ve murakabeleri hakkında 17 Haziran 1938 tarih ve 3460 sayılı Kanuna ek kanun teklifli hakkında (2/99)",
+  "title": "Millet Meclisi İdareci Üyelerinin sermayesinin tamamı Devlet tarafından verilmek suretiyle kurulan iktisadi teşekküllerin teşkilâtiyle idare ve murakabeleri hakkında 17 Haziran 1938 tarih ve 3460 sayılı Kanuna ek kanun teklifli hakkında (2/99)",
+  "first_sitting_date": "1962-05-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 5,
+      "sitting": 94,
+      "sitting_date": "1962-05-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005094.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+      "pages": [
+        "452"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 102,
+      "sitting_date": "1962-06-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005102.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+      "pages": [
+        "610"
+      ]
+    },
+    {
+      "cilt": 5,
+      "sitting": 103,
+      "sitting_date": "1962-06-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005103.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MM__/d01/c005/mm__01005fih.pdf",
+      "pages": [
+        "632"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=4&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=7323&v_gelecek_sayfa=5301&v_kullanici_id=27484836",
+  "source_sha256": "c051bc2331b519dfc05c366f2b7826e61ac2a3c9310e8d53403c9c9dd5830b22",
+  "in_force": "1962-05-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
