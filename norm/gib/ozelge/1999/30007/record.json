@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5409-61/1813",
+  "source_id": 30007,
+  "date": "1999-01-15",
+  "title": "GAP Bölge Kalkınma İdaresi Başkanlığına verilen hizmetler KDV'ye tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30007",
+  "source_sha256": "1ab04c10ebdc85ef61e686f5645a58d302dd2a1bc570512f3d635cd67560a91d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
