@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5318",
+  "year": 1949,
+  "title": "Vakıflar Genel Müdürlüğü 1949 sayılı Şubat ayına ait Geçici Bütçe Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1949-01-31",
+  "gazette_issue": "7119",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7119.pdf",
+  "source_sha256": "886ea87dceca1d7ed418058332baabc4cc9f63cde15dfc03324e737c9e20caac",
+  "text_sha256": "9a6492b9a2bbe5d852852870ee8a9d3fb99a83b11c614826bbc0432268338382",
+  "text_status": "ocr",
+  "pages": [
+    3
+  ],
+  "line_span": [
+    [
+      528,
+      546
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105318.pdf",
+    "source_sha256": "064d62c688860f5cbee0d80e164266c40e2852f5f5b40504aaadecf53914402a",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9509,
+    "bag": 0.8824,
+    "kd_coverage": 0.9832,
+    "kd_body_compared": 0.9512,
+    "rg_words": 121,
+    "kd_words": 123,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
