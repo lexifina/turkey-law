@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "112",
+  "decision_date": "2003-03-21",
+  "title": "Türkiye Elektrik Dağıtım Anonim Şirketi (TEDAŞ) (64 il ve 1 koordinatörlük) tarafından uygulanacak perakende satış tarifesi hakkında",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=J2tRE/GYNO0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=J2tRE/GYNO0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cEAKcdQOFB0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OznItTLOBiM="
+  ],
+  "source_sha256": "d89c2bd6b709c9853a88f98eb4097ba260bb8f55e079c3eddb0606f94753f54c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-03-21",
+  "law_text_complete": false
+}
