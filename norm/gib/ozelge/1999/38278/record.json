@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6518-59/39258",
+  "source_id": 38278,
+  "date": "1999-07-17",
+  "title": "Teknolojik ve ekonomik olarak ömrünü doldurmuş veya benzeri sebeplerle hurdaya ayrılacak olan Ö.K.C.'ler mali hafızaları saklanmak suretiyle satışının yapılabilmektedir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/38278",
+  "source_sha256": "b3faf773928d8b72758b4568e6653f9f3efc85f36e7e00f767eeac5707625ef8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
