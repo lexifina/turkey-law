@@ -1,0 +1,1 @@
+Madde 3 – Evlenme muayenesi aşağıdaki tarzda icra olunur. Tabip her şeyden evvel evlenme namzedinin ahvali umumiyesine, görünüşüne bakacak ve Umumi Hıfzıssıhha Kanununun 123 ve 124 üncü maddelerinde zikrolunan hastalıklardan biriyle malül olduğu şüphesini verecek asar ve emare görmediği takdirde erkeklerde ve kadınlarda başka başka tarzda olmak üzere muayeneleri icra edilecektir.

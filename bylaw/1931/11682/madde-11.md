@@ -1,0 +1,1 @@
+Madde 11 – Muayeneye gelen namzetler ispatı hüviyet için nüfus tezkerelerini veya pasaport, hüviyet cüzdanı ve saire gibi resmi vesaiki ibraz ile mükelleftirler. Hüviyetinin sıhhatinden şüphe edilen eşhasın evlenme muayeneleri tamamile hüviyetini ispat edinceye kadar icra olunmaz.

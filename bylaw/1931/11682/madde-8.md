@@ -1,0 +1,1 @@
+Madde 8 – Balgamında koh basili bulunanlar veya seriri olarak ilerlemiş sari veremli olduğu tebeyyün edenler ile hançere veremine müptela olan namzetlerin evlenmesine müsaade olunmaz. Bu gibi evlenme namzetleri hakkında Umumi Hıfzıssıha Kanunun 124 üncü maddesi tatbik olunacaktır.
