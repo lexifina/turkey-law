@@ -1,0 +1,118 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "416",
+  "year": 1924,
+  "title": "316 ve 317 tevellütlü olup İstiklâli Millî Harbi esnasında hasbellüzum hizmeti fiiliyeleri tehir edilmiş olan mükellefin hakkında Kanun",
+  "adopted": "1924-02-16",
+  "adopted_as_published": "16/02/1340",
+  "date_basis": "adopted",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc002/kanuntbmmc002/kanuntbmmc00200416.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 2",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 2,
+      "kayit_no": 126253,
+      "title": "316 ve 317 tevellütlü olup İstiklâli Millî Harbi esnasında hasbellüzum hizmeti fiiliyeleri tehir edilmiş olan mükellefin hakkında Kanun",
+      "adopted_as_published": "16/02/1340",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc002/kanuntbmmc002/kanuntbmmc00200416.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 2,
+          "sitting": 39,
+          "sitting_date": "1923-10-20",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/tbmm02002039.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/ehttbmm02002039.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c002/tbmm02002fih.pdf",
+          "pages": [
+            "804"
+          ]
+        },
+        {
+          "cilt": 3,
+          "sitting": 56,
+          "sitting_date": "1923-11-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c003/tbmm02003056.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c003/ehttbmm02003056.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c003/tbmm02003fih.pdf",
+          "pages": [
+            "492"
+          ]
+        },
+        {
+          "cilt": 4,
+          "sitting": 67,
+          "sitting_date": "1923-12-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c004/tbmm02004067.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c004/ehttbmm02004067.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c004/tbmm02004fih.pdf",
+          "pages": [
+            "206:208"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 84,
+          "sitting_date": "1924-01-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005084.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005084.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+          "pages": [
+            "132"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 91,
+          "sitting_date": "1924-01-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005091.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005091.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+          "pages": [
+            "413:423",
+            "447"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 94,
+          "sitting_date": "1924-02-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005094.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005094.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+          "pages": [
+            "526:527",
+            "553",
+            "566:567"
+          ]
+        },
+        {
+          "cilt": 5,
+          "sitting": 98,
+          "sitting_date": "1924-02-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005098.pdf",
+          "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/ehttbmm02005098.pdf",
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c005/tbmm02005fih.pdf",
+          "pages": [
+            "645"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "2b35c191fdd3c399e4eac6ad55b61a3b361fd02e090170698a29eb549ce8faae"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "2b35c191fdd3c399e4eac6ad55b61a3b361fd02e090170698a29eb549ce8faae",
+  "issuer": "TBMM",
+  "in_force": "1924-02-16",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 16/02/1340 (Rumi year, +584); record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
