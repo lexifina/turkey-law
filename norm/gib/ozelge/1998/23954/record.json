@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.43/4309-460/50818",
+  "source_id": 23954,
+  "date": "1998-12-31",
+  "title": "Kamu kurum ve kuruluşlarınca kamulaştırılan,ancak kamulaştırma bedeli ödenmeyerek, mahkeme kararı ile Devletin ilgili şahıslara ödeyeceği ecrimisil bedellerinden tevkifatın kira ödemesi olarak kabul edilerek, söz konusu ödemelerden tevkifat yapılması gere",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23954",
+  "source_sha256": "a9f9bc04dcb235ee4fbebc02d9da7a0d3f8333549204c315055bc3e32ec97076",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
