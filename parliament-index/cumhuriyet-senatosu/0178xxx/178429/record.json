@@ -1,0 +1,58 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 178429,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "SABİT OSMAN AVCI (ARTVİN)",
+  "summary": "3204 sayılı Orman Genel Müdürlüğü Teşkilât Kanununa geçici bir madde eklenmesine ve aynı kanuna ek 3904 sayılı Kanunun 2. maddesinin 3. fıkrasının değiştirilmesine dair (Millet Meclisi 2/241, Cumhuriyet Senatosu 2/158)",
+  "title": "3204 sayılı Orman Genel Müdürlüğü Teşkilât Kanununa geçici bir madde eklenmesine ve aynı kanuna ek 3904 sayılı Kanunun 2. maddesinin 3. fıkrasının değiştirilmesine dair (Millet Meclisi 2/241, Cumhuriyet Senatosu 2/158)",
+  "first_sitting_date": "1965-05-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 28,
+      "sitting": 85,
+      "sitting_date": "1965-05-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028085.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c028/cs__04028fih.pdf",
+      "pages": [
+        "2"
+      ]
+    },
+    {
+      "cilt": 29,
+      "sitting": 103,
+      "sitting_date": "1965-06-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029103.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t04/c029/cs__04029fih.pdf",
+      "pages": [
+        "213:217"
+      ]
+    },
+    {
+      "cilt": 28,
+      "sitting": 98,
+      "sitting_date": "1965-06-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/d/c028/cs__04028098.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/d/c028/cs__04028fih.pdf",
+      "pages": [
+        "608"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=7&meclis_kisa_adi=CS&diger_donem_adi=t04"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=671&v_gelecek_sayfa=201&v_kullanici_id=27484924",
+  "source_sha256": "70fa10efc5d233309cf916363221883cb6156d8b9b5fcecfd7ba53a3ad36b6d2",
+  "in_force": "1965-05-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
