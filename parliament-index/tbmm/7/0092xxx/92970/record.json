@@ -1,0 +1,51 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 92970,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Subaylar Heyetine mahsus 4273 sayılı Terfi kanununun 10 ve 16. maddelerinin değiştirilmesine ve bu kanuna bir muvakkat madde eklenmesine dair (1/109)",
+  "title": "Subaylar Heyetine mahsus 4273 sayılı Terfi kanununun 10 ve 16. maddelerinin değiştirilmesine ve bu kanuna bir muvakkat madde eklenmesine dair (1/109)",
+  "first_sitting_date": "1943-06-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 36,
+      "sitting_date": "1943-06-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c003/tbmm07003036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c003/tbmm07003fih.pdf",
+      "pages": [
+        "82",
+        "122",
+        "150:151"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 43,
+      "sitting_date": "1943-07-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c004/tbmm07004043.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c004/tbmm07004fih.pdf",
+      "pages": [
+        "3:9",
+        "61:63",
+        "80",
+        "88:89"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=734&v_gelecek_sayfa=701&v_kullanici_id=27484086",
+  "source_sha256": "82a44c2152ecfe38634514037c1468e0c4f0f57a1d21724fa2c3172d669b08ef",
+  "in_force": "1943-06-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
