@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.65/6518-65/53394",
+  "source_id": 27209,
+  "date": "1999-12-07",
+  "title": "Ödeme kaydedici cihazların bakım onarımı konusunda yetki belgesi bulunmadan ödeme kaydedici cihazlara müdahale ettiği tespit edilen mükellefler hakkında her bir tespit için ayrı ayrı olmak üzere Vergi Usul Kanununa bağlı usulsüzlük cezalarına ait cetvelde",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/27209",
+  "source_sha256": "f8eff615a79925ef619e418a3d26053c8273bf255ac3a37d1bc9e52a7b850701",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
