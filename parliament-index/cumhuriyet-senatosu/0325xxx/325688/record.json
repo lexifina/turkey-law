@@ -1,0 +1,78 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 325688,
+  "assembly": "Cumhuriyet Senatosu",
+  "heading": "RAPORLAR",
+  "heading_as_published": "Raporlar",
+  "summary": "20.6.1973 tarih ve 1750 sayılı Üniversiteler Kanununun 52. maddesinin değiştirilmesine dair kanun teklifinin Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Millî Eğitim Gençlik ve Spor ve Bütçe ve Plan komisyonları raporları (Millet Meclisi: 2/249; Cumhuriyet Senatosu: 2/86) (S. Sayısı: 498)",
+  "title": "20.6.1973 tarih ve 1750 sayılı Üniversiteler Kanununun 52. maddesinin değiştirilmesine dair kanun teklifinin Millet Meclisince kabul olunan metni ve Cumhuriyet Senatosu Millî Eğitim Gençlik ve Spor ve Bütçe ve Plan komisyonları raporları (Millet Meclisi: 2/249; Cumhuriyet Senatosu: 2/86) (S. Sayısı: 498)",
+  "first_sitting_date": "1975-05-29",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 22,
+      "sitting": 60,
+      "sitting_date": "1975-05-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022fih.pdf",
+      "pages": [
+        "233"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 60,
+      "sitting_date": "1975-05-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022fih.pdf",
+      "pages": [
+        "233"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 67,
+      "sitting_date": "1975-06-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022fih.pdf",
+      "pages": [
+        "464"
+      ]
+    },
+    {
+      "cilt": 22,
+      "sitting": 67,
+      "sitting_date": "1975-06-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c022/cs__14022fih.pdf",
+      "pages": [
+        "464"
+      ]
+    },
+    {
+      "cilt": 23,
+      "sitting": 71,
+      "sitting_date": "1975-07-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c023/cs__14023071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/CS__/t14/c023/cs__14023fih.pdf",
+      "pages": [
+        "7"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=7&v_donem=&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=RAPORLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=5194&v_gelecek_sayfa=4101&v_kullanici_id=27484903",
+  "source_sha256": "d5ac98632e0fdb2556ef197996e11db239460b0b3cf211ed4f3662e86e94fe99",
+  "in_force": "1975-05-29",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
