@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.53/5318-16-48925",
+  "source_id": 30146,
+  "date": "2004-10-19",
+  "title": "Teknoloji Geliştirme Bölgesinde faaliyet gösteren girişimcilerin kaznçlarının gelir ve kurumlar vergilerinden istisna durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30146",
+  "source_sha256": "f852330a4e1e6614a8a818ab8deb13472d93641993de77d3801fb67f36ee256f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
