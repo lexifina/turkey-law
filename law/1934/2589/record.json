@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "2589",
+  "year": 1934,
+  "title": "Heyeti mahsusalarca aleyhlerine verilip kendilerine tebliğ olunmayan kararlara karşı alakalıların itiraz edebilmeleri hakkında kanun",
+  "adopted": "1934-11-24",
+  "adopted_as_published": "24/11/1934",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.12.1934 No: 2868",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402589.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 14",
+  "committee_reports": [
+    {
+      "label": "TBMM 7 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025008ss0007.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 4,
+      "kayit_no": 112711,
+      "title": "Heyeti mahsusalarca aleyhlerine verilip kendilerine tebliğ olunmayan kararlara karşı alakalıların itiraz edebilmeleri hakkında kanun",
+      "adopted_as_published": "24/11/1934",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc014/kanuntbmmc014/kanuntbmmc01402589.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 7 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025008ss0007.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 25,
+          "sitting": 5,
+          "sitting_date": "1934-11-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025005.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025fih.pdf",
+          "pages": [
+            "24"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 7,
+          "sitting_date": "1934-11-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025007.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025fih.pdf",
+          "pages": [
+            "32"
+          ]
+        },
+        {
+          "cilt": 25,
+          "sitting": 8,
+          "sitting_date": "1934-11-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025008.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c025/tbmm04025fih.pdf",
+          "pages": [
+            "49:51"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=875&v_gelecek_sayfa=701&v_kullanici_id=27483155",
+      "page_sha256": "d906407174c06083221eff9cc3dcde59314f73f9624e71cbb0cf021bde937e85"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=4&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d906407174c06083221eff9cc3dcde59314f73f9624e71cbb0cf021bde937e85",
+  "issuer": "TBMM",
+  "in_force": "1934-11-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 24/11/1934; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
