@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDVK-12 / 2004-12",
+  "source_id": 972,
+  "date": "2004-05-04",
+  "title": "Mükellefler tarafından ihraç edilen ürünlerin üretimi için gerekli olan ve yurt dışındaki firma tarafından imal ettirilen, faturası yurt dışındaki müşteri adına düzenlenen ve bedeli de yurt dışındaki firma tarafından ödenen model kalıpların, ihraç edilen ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/972",
+  "source_sha256": "c4b5699b8f13727fea82a06434f0f00f7f58f9187a8d68b587f2322c01d1382b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
