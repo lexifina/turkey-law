@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.62/6215-585/10508",
+  "source_id": 29998,
+  "date": "2003-03-14",
+  "title": "Genel ve katma bütçeli dairelere ait konukevleri ile bu konukevlerinde açılan kantinlerin kurumlar vergisi, katma değer vergisi, damga vergisi yönünden mükellef olup olmamaları hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/ozelge/29998",
+  "source_sha256": "4e8068779163202df819b00125b6c4f930c26a00f430c9a4c57d60ae718b1d67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
