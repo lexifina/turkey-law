@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5401-2607/1837",
+  "source_id": 30038,
+  "date": "1997-01-16",
+  "title": "KİT'lere ait lojmanların kiralama işlemlerinin ticari faaliyet kapsamında KDV'ye tabidir.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30038",
+  "source_sha256": "afe9491e68d6156f5be5f87163c5d7d5edd5beecae0c2941455d17e558c29703",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
