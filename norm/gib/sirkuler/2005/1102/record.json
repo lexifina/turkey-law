@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-16/2005-4/Teknoloji Geliştirme Bölgeleri _ 3",
+  "source_id": 1102,
+  "date": "2005-03-04",
+  "title": "Teknoloji geliştirme bölgelerinde faaliyette bulunan firmalar tarafından yapılan Ar-Ge faaliyetleriyle ilgili olarak diğer kurumlardan sağlanan destek unsurlarına ilişkin vergisel uygulamalar ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/638/sirkuler/1102",
+  "source_sha256": "1b4a47543bfb0b043e7d48f3bf4f7b86c6685f2cf15f0933f76aa0512762df55",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
