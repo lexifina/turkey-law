@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "54",
+  "year": 1960,
+  "title": "Yüksek Adalet Divanının muhakeme usulüne ait 3 sayılı geçici Kanuna bazı hükümler eklenmesine dair 30 sayılı geçici Kanunun 1 nci maddesine bir fıkra eklenmesi hakkında geçici Kanun (BASILI GENEL KURUL TUTANAGI BULUNMAMAKTADIR)",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-08-16",
+  "gazette_issue": "10579",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10579.pdf",
+  "source_sha256": "8d7c2554a9067f7250e76b1507d22ff4bbb70ade4e11437cbd38b96ad2f6a81a",
+  "text_sha256": "aba76e166ca9dd709470a35b24dac6dd5b3ed6207046b11cbe3e95835c43b3a4",
+  "text_status": "ocr",
+  "pages": [
+    23
+  ],
+  "line_span": [
+    [
+      6502,
+      6515
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300054.pdf",
+    "source_sha256": "b76ed12aff8cbe00a3bc5954531291ef80a1245ab3272e81670fe72b34d8e71e",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9458,
+    "bag": 0.9007,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9259,
+    "rg_words": 76,
+    "kd_words": 81,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
