@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.55-5579-55-84/14045",
+  "source_id": 29995,
+  "date": "2000-03-30",
+  "title": "Vakıf tarafından makbuz karşılığı bağış olarak toplanan kurban derisi ve bağırsakların satışı işlemlerinin ticari nitelikte bir teslim sayılmadığından, katma değer vergisine tabi olmayacaktır.Satışların müzayede yoluyla yapılması halinde katma değer vergi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29995",
+  "source_sha256": "857e854989f75ee4bd248e2ce53f787668afdb429cafa2db4278691dff2b18be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
