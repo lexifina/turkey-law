@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.54/5413-535",
+  "source_id": 31402,
+  "date": "2004-10-13",
+  "title": "Bir Şirketin yatırım teşvik belgesi kapsamında hazır beton yatırımına başladığı ve %80'i gerçekleştirilen yatırımın Hazine Müsteşarlığının onayı ile başka bir şirkete devredildiği, ancak teşvik belgesi ekinde yer alan global liste kapsamında ithal edilen ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31402",
+  "source_sha256": "d74e55afb1aeea4c21e454a7f40a08655d01c19fed1bed6e36e5096c9e7c2372",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
