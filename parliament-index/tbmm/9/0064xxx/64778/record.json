@@ -1,0 +1,40 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 64778,
+  "assembly": "TBMM",
+  "term": 9,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Posta, Telgraf ve Telefon İşletme Genel Müdürlüğü 1945 yılı Kesinhesabına ait Uygunluk Bildiriminin sunulduğuna dair Sayıştay Başkanlığı tezkeresiyle Posta, Telgraf ve Telefon İşletme Genel Müdürlüğü 1945 Bütçe yılı Kesinhesabı hakkındaki kanun tasarısına dair(3/130, 1/129)",
+  "title": "Posta, Telgraf ve Telefon İşletme Genel Müdürlüğü 1945 yılı Kesinhesabına ait Uygunluk Bildiriminin sunulduğuna dair Sayıştay Başkanlığı tezkeresiyle Posta, Telgraf ve Telefon İşletme Genel Müdürlüğü 1945 Bütçe yılı Kesinhesabı hakkındaki kanun tasarısına dair(3/130, 1/129)",
+  "first_sitting_date": "1951-05-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 75,
+      "sitting_date": "1951-05-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d09/c007/tbmm09007fih.pdf",
+      "pages": [
+        "186",
+        "294:295",
+        "297",
+        "299:300",
+        "304:305",
+        "321:324"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=9&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2053&v_gelecek_sayfa=201&v_kullanici_id=27484171",
+  "source_sha256": "cc66e5290ca57002e3492718d4fac5213e7d1006f3cf50f23c0eb684afb19701",
+  "in_force": "1951-05-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
