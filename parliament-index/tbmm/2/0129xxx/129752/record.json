@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 129752,
+  "assembly": "TBMM",
+  "term": 2,
+  "heading": "MAZBATALAR",
+  "heading_as_published": "Mazbatalar",
+  "summary": "Muhtacini zürraaa Ziraat bankalarından yapılacak ikrazaat ve deyin senetlerinin kâtibi adiliklerce tasdik edilmeyip mahallî ihtiyaç komisyonlarının tasdikiyle iktifa edilmesine dair Kastamonu Mebusu Mehmed Fuad ve Halid beylerin (2/269) numaralı teklifi kanunileri hakkında.",
+  "title": "Muhtacini zürraaa Ziraat bankalarından yapılacak ikrazaat ve deyin senetlerinin kâtibi adiliklerce tasdik edilmeyip mahallî ihtiyaç komisyonlarının tasdikiyle iktifa edilmesine dair Kastamonu Mebusu Mehmed Fuad ve Halid beylerin (2/269) numaralı teklifi kanunileri hakkında.",
+  "first_sitting_date": "1924-02-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 110,
+      "sitting_date": "1924-02-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/tbmm02006110.pdf",
+      "old_script_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/ehttbmm02006110.pdf",
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c006/tbmm02006fih.pdf",
+      "pages": [
+        "276:278"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=2&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=MAZBATALAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=2766&v_gelecek_sayfa=401&v_kullanici_id=27483743",
+  "source_sha256": "5da90d39732de858796f527f3df7d67c19485f269365491da697ec44885e2e26",
+  "in_force": "1924-02-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
