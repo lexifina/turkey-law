@@ -1,0 +1,1 @@
+Madde 28 – 27 nci maddede yazılı memur ve müstahdemlerden ölenlerle tekaüt edilenlere bu madde veçhile geri verilecek birinci yarım, bilanço tarihinden itibaren ayrıca üç ay beklettirilmeksizin, derhal verilir.

@@ -1,0 +1,1 @@
+Madde 9 – Muhasebecinin ve katiplerin vazifelerini iyi yapmamalarından doğan idari ve inzibati mesuliyetlerinin tayini İdare Heyetine aittir. Cezaya ve tazminata dayanan mesuliyetleri umumi hükümlere bağlıdır.

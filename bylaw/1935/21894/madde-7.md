@@ -1,0 +1,2 @@
+Madde 7 – Katiplerin vazifeleri, muhasebecinin kontrolü altında ve onun vereceği işleri yolunda yapmaktan ibarettir.
+Katipler, kayıt ve yazı işlerini yolunda ve zamanında yapmamaktan ve kağıtları ve defterleri iyi saklamamaktan mesuldürler.

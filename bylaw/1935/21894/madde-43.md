@@ -1,0 +1,1 @@
+Madde 43 – Kefalet Sandığında tutulacak defterlerin ve kefalete bağlı memur ve müstahdemlere ait cüzdanların ve hesabı cari cetvellerinin şekilleri ve bunların kullanma tarzları İdare Heyetince tanzim ve Maliye Vekilliğince tasdik edilecek hesap talimatnamesiyle tayin olunacaktır.

@@ -1,0 +1,1 @@
+Madde 6 – Muhasebeci, paraya el süremez. Sandık namına ödemeler ve masraflar, usulüne göre tahakkuk ettikten sonra Reis ve onun bulunmadığı zamanlarda vekalet eden Aza ile muhasebeci tarafından birlikte imzalanacak çek ile hak sahibine veya mutemede bankadan verdirilir.

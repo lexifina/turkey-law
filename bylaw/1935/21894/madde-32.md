@@ -1,0 +1,1 @@
+Madde 32 – Murakabe usulleri ve muhasiplerin mazeretleri halinde kimlerin vekalet suretiyle murakabe yapacağı ve muhasibin bulunduğu yerden ayrı yerlerde vazife gören murakabeye tabi ve kefalete bağlı memur ve müstahdemlerin murakabesi şekilleri her daire ve müessesenin kurumunun hususiyetleri gözönünde alınarak maliye vekilliğince bir talimatnameyle tayin olunacaktır.

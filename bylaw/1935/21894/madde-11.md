@@ -1,0 +1,2 @@
+Madde 11 – Onuncu maddede yazılı daire ve müesseselerde, para ve menkul kıymetlere ve ayınlara el sürmiyen muhasiplerle Muhasebei Umumiye Kanununun 83 üncü maddesinde yazılı mutemetler ve ordu ve Jandarma mensuplarından para ve menkul kıymetleri ve ayınları alıp veren ve ellerinde tutanlar müteselsil kefaletin dışında kalırlar.
+Bunlardan ordu ve jandarma mensupları hakkında askeri kanunlar ve nizamların hükümleri tatbik olunur.

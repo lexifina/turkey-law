@@ -1,0 +1,1 @@
+Madde 38 – Teftiş ve murakabe vazifelerini ihmal ederek veya her hangi bir suretle teseyyüplerde bulunarak zimmet ve ihtilas vukuuna sebebiyet veren muhasiplerin müşterek mesul sıfatiyle tazmin ile mahküm edildikleri takdirde bunlardan tahsil olunacak mebaliğ dahi Kefalet Sandığına aittir.

@@ -1,0 +1,1 @@
+Madde 42 – Sandığın sermayesinden her sene alınacak faizlerden yapılan masraflar çıktıktan sonra geri kalanı, Sandığın karını teşkil eder. Bu kar Sandıkça ödenen zimmetlerden fazla olursa bu fazlalık ertesi senenin muhammen varidatına ayrı bir kalem olarak ilave edilir.

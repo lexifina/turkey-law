@@ -1,0 +1,2 @@
+Madde 34 – Muhasipler, 33 üncü maddedeki cezadan başka ihmal ve teseyyüplerinin ve sebep oldukları zararların derecelerine göre Memurin Kanununun 28, 29, 30, 31, 32 ve 33 üncü maddelerinde yazılı fiiller ile mukayyet olmaksızın takdir ve tayin olunacak inzibati cezalara da çarptırılır.
+Bu cezalar, muhasibin mensup olduğu daire ve müessesenin inzibat komisyonları ve inzibat komisyonu bulunmıyan daire ve müesseselerde bu işi gören heyet veya makam tarafından tatbik olunur.
