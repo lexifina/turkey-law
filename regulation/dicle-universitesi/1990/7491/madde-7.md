@@ -1,0 +1,2 @@
+Merkez Müdürü
+Madde 7 - Merkez Müdürü merkez kapsamına giren fakülte ve yüksekokul öğretim üyeleri arasından Rektör tarafından üç yıl için atanır. Süresi biten merkez müdürü tekrar atanabilir. Merkez Müdürü kendisine yardımcı olmak üzere en çok iki kişiyi 3 yılı geçmemek koşuluyla yardımcı atayabilir. Müdür görevi başında olmadığı zaman yardımcılarından biri vekalet eder. Göreve vekalet, altı aydan fazla sürerse yeni bir müdür atanır.

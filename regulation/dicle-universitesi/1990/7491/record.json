@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 13 -- Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1990-11-15",
+      "15.11.1990",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "Madde 13 -- Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "20696",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1990-11-15",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dicle Üniversitesi",
+  "issuer_slug": "dicle-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dicle-universitesi/1990/7491",
+  "published": "1990-11-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7491&MevzuatTertip=5",
+  "source_bytes": 27908,
+  "source_id": "8.5.7491",
+  "source_sha256": "525a70a67011f443d64959e056fcce0726039038d27cefd20331002be6e311e6",
+  "text_status": "as-enacted",
+  "title": "DİCLE ÜNİVERSİTESİ ÇEVRE SORUNLARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 188,
+  "word_count": 749
+}

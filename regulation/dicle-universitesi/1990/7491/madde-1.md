@@ -1,0 +1,1 @@
+Madde 1:2547 sayılı Yükseköğretim kanunun 3 j ve 7d / 2 maddeleri uyarınca Dicle Üniversitesi Senatosunun 11.5.1990 tarih ve 90 / 7 sayılı kararı ile Yükseköğretim Yürütme.Kurulunun 19.7.1990 tarihli ve onayı ile Dicle Üniversitesi Çevre Sorunları uygulama ve araştırma merkezi (DÜÇAM) kurulmuştur.
