@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-12-25",
+  "issue": "25327",
+  "edition": "regular",
+  "item": 3,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-2",
+  "title": "Dr. Selahattin Cizrelioğlu Devlet Hastanesi Baştabipliğinden :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031225-3-2.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (20 = 20)",
+  "ilan_codes": [
+    "51847/1-1",
+    "51848/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031225-3-2.htm",
+  "category_page_sha256": "9aa997c8f97fa868f1246985e744e50bd87a50c12208344ae434cca8544edaae",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/12/20031225.htm",
+  "index_sha256": "04c4803b85d545565bd1a31caa056aa2e2e5c71bf60a119498d0a7c27e56f198",
+  "index_header": "25 Aralık 2003 ... Sayı : 25327",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
