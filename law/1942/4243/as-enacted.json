@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4243",
+  "year": 1942,
+  "title": "Sinema filmlerinin gümrük resimlerinin indirilmesi hakkında ittihaz olunan kararın tasdikına dair kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-06-04",
+  "gazette_issue": "5123",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5123.pdf",
+  "source_sha256": "7a6e78a8afe58902c35c3faa5bb6fda1769706a5028170cd9c14ddca18e64f89",
+  "text_sha256": "16085e46059650bfb04f084576acc6eb5637b4d6346e11e1da6470c7e3adbd80",
+  "text_status": "ocr",
+  "pages": [
+    25
+  ],
+  "line_span": [
+    [
+      7728,
+      7743
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc023/kanuntbmmc023/kanuntbmmc02304243.pdf",
+    "source_sha256": "ebfb435552dc15b86a931c5ae9b686d04cb3dc73b0b0dd2591ffec3411f4f9b2",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.957,
+    "bag": 0.8547,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.3391,
+    "rg_words": 58,
+    "kd_words": 174,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
