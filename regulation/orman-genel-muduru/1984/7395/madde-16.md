@@ -1,0 +1,2 @@
+Madde 16- Sürekli muhafaza ormanı olarak ayrılan alanlarda Amenajman, Silvikültür ve imar planlarıyla, ağaçlandırma planlarına göre imar ve bakım kesimleri, gereken yerlerde de ormandan beklenen muhafaza fonksiyonunun engellenmeyecek bir teknikle gençleştirme müdahaleleri yapılır.
+Geçici süreli muhafaza ormanlarında ise Amenajman, Silvikültür, ağaçlandırma vb. plan ve projelere göre amaca uygun olarak Silvikültür teknikleri uygulanır.
