@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4071",
+  "year": 1941,
+  "title": "Erzincan'da ve Erzincan yersarsıntısından müteessir olan mıntakada zarar görenlere yapılacak yardım hakkındaki kanuna ek kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1941-07-01",
+  "gazette_issue": "4848",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/4848.pdf",
+  "source_sha256": "e790567e0d37419e82a50c5f47b5ee8e713150212d9e1b62088e1380f7760a3d",
+  "text_sha256": "3ea86f1d425a5c5d167c3785d0fd35c91c219d3affc7d9e6132e8a41bca6974f",
+  "text_status": "ocr",
+  "pages": [
+    2
+  ],
+  "line_span": [
+    [
+      352,
+      395
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc022/kanuntbmmc022/kanuntbmmc02204071.pdf",
+    "source_sha256": "a751b00cd8b710b6124c23ea36eb8ae97e668f47d739ed310ca685f4c6962e67",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9567,
+    "bag": 0.8772,
+    "kd_coverage": 0.9904,
+    "kd_body_compared": 0.9904,
+    "rg_words": 319,
+    "kd_words": 311,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
