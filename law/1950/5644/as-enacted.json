@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5644",
+  "year": 1950,
+  "title": "5644 sayılı Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1950-03-30",
+  "gazette_issue": "7470",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/7470.pdf",
+  "source_sha256": "689d6b2ca2dc9f43245538e497f740c57f98b55a9cc6becfa36e5753ee0236d6",
+  "text_sha256": "506e568e67aaa5c3e17c3469e00d9415b6cb39bd598f84c9a3b215b1fbcab07d",
+  "text_status": "ocr",
+  "pages": [
+    5
+  ],
+  "line_span": [
+    [
+      1352,
+      1382
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc032/kanuntbmmc032/kanuntbmmc03205644.pdf",
+    "source_sha256": "89b038652d9e3e5234b67490d6f5e2af152665f2fcc4805ec54dbe51a66d8aa8",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9534,
+    "bag": 0.7225,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.5895,
+    "rg_words": 115,
+    "kd_words": 190,
+    "own_anchor": true,
+    "foreign_anchors": 4
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
