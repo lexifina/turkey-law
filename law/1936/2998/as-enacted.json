@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2998",
+  "year": 1936,
+  "title": "Cumhuriyet Merkez Bankası Kanununun bazı maddelerini değiştiren 2062 sayı ve 3.7.1932 tarihli Kanunun 7. maddesinin 2. fıkrasını değiştiren kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1936-06-09",
+  "gazette_issue": "3325",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3325.pdf",
+  "source_sha256": "15146f37f6bf95bf5f2671c545f0f02f68b1192f94b00ebfbbbcf2078d47717f",
+  "text_sha256": "9879c0275f02108531e7aa88aec4a1e6c17f1d60b29bce07c4cd74d69b71a72f",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      12,
+      45
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc016/kanuntbmmc016/kanuntbmmc01602998.pdf",
+    "source_sha256": "d5e777960613c71866ec98839b6c098e921d9cb9dc021432282fdbcf8c742de1",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9437,
+    "bag": 0.8539,
+    "kd_coverage": 0.9853,
+    "kd_body_compared": 0.964,
+    "rg_words": 133,
+    "kd_words": 139,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
