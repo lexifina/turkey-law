@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "101/4",
+  "decision_date": "2003-03-13",
+  "title": "Müşteri Hizmetleri Yönetmeliği hakkında",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kQkVo2EPwAA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kQkVo2EPwAA="
+  ],
+  "source_sha256": "79ebd720c90e37f6c71f393863f9a92c8b7835416734297c577dd95fadafe15c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-03-13",
+  "law_text_complete": false
+}
