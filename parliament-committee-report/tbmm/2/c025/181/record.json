@@ -1,0 +1,24 @@
+{
+  "record_type": "parliament-committee-report",
+  "assembly": "TBMM",
+  "term": 2,
+  "sira_sayisi": "181",
+  "label": "TBMM 181 no'lu Komisyon Raporu",
+  "title": "Büyük Millet Meclisinin 1341 senesi bütçesine tahsisatı munzamma itasına dair Kanun",
+  "document_date": "1926-05-26",
+  "document_date_basis": "date of the sitting whose Tutanak Dergisi volume carries the document (cilt 25, birleşim 108)",
+  "official_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d02/c025/tbmm02025108ss0181.pdf",
+  "pdf_sha256": "7345edc00dc5619358cb407d9a3136cced5f330f1d740152b1a0b9316ec357d8",
+  "pdf_bytes": 98798,
+  "pdf_pages": 1,
+  "index_entries": [
+    126737
+  ],
+  "sitting_listing": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d02&v_yasama_yili=4&v_cilt=",
+  "text_status": "text layer of the official PDF (pdfminer extraction, equal in letters to a pypdf extraction); tables and columns may read in layout order; the PDF is a scan and its text layer is the publisher's own OCR (errors as published; no OCR by us)",
+  "scanned_pdf_with_text_layer": true,
+  "privacy_withheld": false,
+  "in_force": "1926-05-26",
+  "in_force_basis": "Sitting date (Tutanak Dergisi listing) of the volume that carries the sıra sayısı; document of the legislative process, not law in force",
+  "history_type": "as-published"
+}
