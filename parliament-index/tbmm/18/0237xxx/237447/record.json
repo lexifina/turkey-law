@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 237447,
+  "assembly": "TBMM",
+  "term": 18,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "İçişleri Bakanlığı 1991 Malî Yılı Bütçesi Emniyet Genel Müdürlüğü 1991 Malî Yılı Bütçesi Jandarma Genel Komutanlığı 1991 Malî Yılı Bütçesi Sahil Güvenlik Komutanlığı 1991 Malî Yılı Bütçesi",
+  "title": "İçişleri Bakanlığı 1991 Malî Yılı Bütçesi Emniyet Genel Müdürlüğü 1991 Malî Yılı Bütçesi Jandarma Genel Komutanlığı 1991 Malî Yılı Bütçesi Sahil Güvenlik Komutanlığı 1991 Malî Yılı Bütçesi",
+  "first_sitting_date": "1990-12-22",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 54,
+      "sitting": 56,
+      "sitting_date": "1990-12-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c054/tbmm18054056.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d18/c054/tbmm18054fih.pdf",
+      "pages": [
+        "385:453"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=18&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=919&v_gelecek_sayfa=801&v_kullanici_id=27484387",
+  "source_sha256": "ea26b55a7e24b39bf73f225258d3a27e7a7b1d6351df2d6c32e63890dbc22161",
+  "in_force": "1990-12-22",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
