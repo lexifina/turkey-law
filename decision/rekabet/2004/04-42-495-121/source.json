@@ -1,0 +1,13 @@
+{
+  "number": "04-42/495-121",
+  "type": "Rekabet İhlali",
+  "decision_date": "2004-06-17",
+  "publication_date": "2005-02-17",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=088906ad-2702-46f3-bcb5-1f08659765ea",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=942",
+  "pdf_sha256": "38980d727e3b236cac88e65f5fd1b4767f3365852339f6956ec2124edd67e9e8",
+  "pdf_bytes": "317537",
+  "pages": "13",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
