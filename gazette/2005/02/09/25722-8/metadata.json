@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2005-02-09",
+  "issue": "25722",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "Yönetmelikler",
+  "title": "Türkiye Barolar Birliği Sosyal Yardım ve Dayanışma Fonu Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050209-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2005/02/20050209.htm",
+  "index_sha256": "8271efd0c857072f1bec0d7bd5ea6ee4eb5fe50f78c8e65e1a527b8d5b5ee034",
+  "index_header": "9 Şubat 2005 ... Sayı : 25722",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
