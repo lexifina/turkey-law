@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "36",
+  "year": 1960,
+  "title": "Ödünç para verme işleri Kanununun bazı hükümlerinin değiştirilmesine dair geçici Kanuna geçici bir madde ilavesine dair geçici Kanun (BASILI GENEL KURUL TUTANAGI BULUNMAMAKTADIR)",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-07-30",
+  "gazette_issue": "10565",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10565.pdf",
+  "source_sha256": "d9ce0fd9d3be80758e53ccdda047f1f6c8bfe68bada66ead16ef2059a7f1d71e",
+  "text_sha256": "3e7b0a52a27d41630b64bcb1f6df25302d322d158f296b5be43f0533e627705e",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      14,
+      30
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300036.pdf",
+    "source_sha256": "e36be3083e6221f8a421a25011d815aa636048154fa45b91a81516b673bd7c53",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9299,
+    "bag": 0.9378,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9469,
+    "rg_words": 102,
+    "kd_words": 113,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
