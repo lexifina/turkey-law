@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4896",
+  "year": 2003,
+  "title": "Karayolları Trafik Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-06-24",
+  "gazette_issue": "25148",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030624.htm",
+  "source_sha256": "ee23b94dce8171706701be7c1ac84c4a20218d9dbbfbaadbc1f4235f6b83e137",
+  "text_sha256": "c4e7e7b3520f79ab922d444f85888c12e6636891fea0ee12e0fb9e0a71157ec7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/06/24/25148-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/06/20030624.htm#1",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
