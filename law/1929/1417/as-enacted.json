@@ -1,0 +1,48 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "1417",
+  "year": 1929,
+  "title": "Türkiye Cumhuriyeti ile Macaristan Krallığı arasında akdedilen bitaraflık, uzlaşma ve hakem muahedesinin tasdiki hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1929-04-17",
+  "gazette_issue": "1170",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/1170.pdf",
+  "source_sha256": "290de82b40c5b97e2aee59d21bea0eb91afe5b1b40ce501b377052e1a9dc6e38",
+  "text_sha256": "bbe2d19ae0eecde56c7ab31d343849a0be6086023887b6684ad5d3b37cd0cd26",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "line_span": [
+    [
+      9,
+      302
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701417.pdf",
+    "source_sha256": "f00f02c971052bafed9fc3351cbb5950ebd1625bea6c7f15989ddaee3c81f0d9",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = word-sequence ratio (exact or OCR-noise-equal words, difflib) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.91,
+    "bag": 0.8662,
+    "kd_coverage": 0.9921,
+    "kd_body_compared": 0.9921,
+    "rg_words": 1265,
+    "kd_words": 1264,
+    "own_anchor": true,
+    "foreign_anchors": 0
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
