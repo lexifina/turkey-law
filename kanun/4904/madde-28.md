@@ -1,0 +1,3 @@
+MADDE 28 - 4447 sayılı Kanunun 51 inci maddesinin, birinci fıkrasına aşağıdaki (g) bendi eklenmiş ve ikinci fıkrası aşağıdaki şekilde değiştirilmiştir.
+g) Yukarıdaki bentlerde belirtilen iş kanunları kapsamına girmeyen sigortalılardan hizmet akitleri, 2821 sayılı Sendikalar Kanunu ile 2822 sayılı Toplu İş Sözleşmesi Grev ve Lokavt Kanunu kapsamında yapılmış olan toplu iş sözleşmeleri veya toplu iş sözleşmesi bulunmayan hallerde Borçlar Kanunu hükümleri doğrultusunda (a), (b), (c), (d) ve (e) bentlerindeki hükümlere paralel olarak sona ermiş olmak.
+Ancak, işsizlik ödeneğine hak kazanabilmek için hizmet akdinin başvuru sırasında grev, lokavt veya kanundan doğan ödevler nedeniyle askıya alınmamış olması gerekmektedir.
