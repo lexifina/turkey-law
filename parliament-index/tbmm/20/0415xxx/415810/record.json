@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 415810,
+  "assembly": "TBMM",
+  "term": 20,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Telsiz Genel Müdürlüğü 1998 Malî Yılı Bütçesi",
+  "title": "Telsiz Genel Müdürlüğü 1998 Malî Yılı Bütçesi",
+  "first_sitting_date": "1997-12-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 40,
+      "sitting": 31,
+      "sitting_date": "1997-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c040/tbmm20040031.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d20/c040/tbmm20040fih.pdf",
+      "pages": [
+        "456:516",
+        "519:520"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=20&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=683&v_gelecek_sayfa=501&v_kullanici_id=27484488",
+  "source_sha256": "f6a4a44ef4a582db8be0b1dd5909b1ab25f3b103227d5c0c989cb416c41212c9",
+  "in_force": "1997-12-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
