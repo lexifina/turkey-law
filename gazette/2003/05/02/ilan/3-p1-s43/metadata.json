@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-05-02",
+  "issue": "25096",
+  "edition": "regular",
+  "item": 43,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "Artırma, Eksiltme ve İhale İlânları",
+  "category": "ihale",
+  "category_page": "3-1",
+  "title": "Güney Deniz Saha Komutanlığı Satın Alma Komisyon Başkanlığından :",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030502-3-1.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (45 = 45)",
+  "ilan_codes": [
+    "11855/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030502-3-1.htm",
+  "category_page_sha256": "7c7eacc2e8a9b23214ee56155a9c50bf870d76cd1ce9438fa5b609c86a029e1d",
+  "issue_on_category_page": null,
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2003/05/20030502.htm",
+  "index_sha256": "09bb578155d7e03388dea321d5eeb81fb67691ae4077086610789f6319476003",
+  "index_header": "2 Mayıs 2003 ... Sayı : 25096",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
