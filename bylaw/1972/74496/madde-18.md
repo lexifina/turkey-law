@@ -1,0 +1,2 @@
+Madde 18 – Sigortalılar, müdavi Kurum hekimi, Kurum sağlık tesisleri veya Kurum Sağlık İşleri Başkanlığı tarafından en yakın bölge rehabilitasyon sağlık kuruluna sevkedilirler ve en az 10 gün önce kendilerine bu kurula hangi tarihte başvuracakları yazı ile alındı karşılığında bildirilir.
+Rehabilitasyona tabi tutulmaları yolunda, Kurumun yetkili makamlarına yazılı olarak başvuran sigortalılar da en yakın bölge rehabilitasyon sağlık kuruluna sevkedilirler.

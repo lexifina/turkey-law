@@ -1,0 +1,2 @@
+Madde 34 – Erken yaşlanmanın tayin ve tespitine ilişkin raporlar, Kurum Sağlık İşleri Başkanlığı tarafından erken yaşlanma teşhisinde yetkili kılınmış ve ilgililere duyurulmuş olan en yakın Kurum hastanelerince verilir.
+(Değişik: 12/11/1978 - 7/16989 K.) Bu hastanelerde, sigortalının erken yaşlanma yönünden tabi tutulacağı muayene ve testlerle düzenlenecek raporun biçimi Kurum Sağlık İşleri Başkanlığınca saptanır.

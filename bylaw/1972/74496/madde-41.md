@@ -1,0 +1,2 @@
+Madde 41 – Sosyal Sigorta Yüksek Sağlık Kurulunda görevlendirilecek hekimlerin hizmet süresi 3 yıldır. Süresi dolan üyeler yeniden görevlendirilebilirler.
+Görev yapamayacak derecede hastalanan, ölen, devamsızlık sebebiyle görevine son verilen veya herhangi bir sebeple Sosyal Sigorta Yüksek Sağlık Kurulundaki görevinden ayrılan üyelerin yerine ilgili kuruluş tarafından yeni üyeler seçilir. Bu şekilde Kurula sonradan katılan üye, yerine seçildiği üyenin süresini tamamlar.

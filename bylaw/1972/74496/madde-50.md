@@ -1,0 +1,1 @@
+Madde 50 – Sosyal Sigorta Yüksek Sağlık Kurulunda incelenecek dosyalar, Kurum Sağlık İşleri Başkanlığınca, varsa noksanları da tamamlattırıldıktan sonra özel bir zarf içinde ve dizi pusulası ile birlikte Genel Müdürlük kanaliyle Kurula gönderilir.

@@ -1,0 +1,1 @@
+Madde 35 – 34 üncü maddede belirtilen Kurum hastanelerinde yapılamayan incelemeler, bunları yapabilecek nitelikteki resmi kuruluşlarda yaptırılır ve elde edilen sonuçlar, ilgili hastaneye bir rapor halinde bildirilir.
