@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1995-10-11",
+      "11.10.1995",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "22430",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "1995-10-11",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Marmara Üniversitesi",
+  "issuer_slug": "marmara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/marmara-universitesi/1995/10420",
+  "published": "1995-10-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10420&MevzuatTertip=5",
+  "source_bytes": 33892,
+  "source_id": "8.5.10420",
+  "source_sha256": "e93c7473598653d5e1f12e4f920501862dd4c3f6f5327695efba3fd94a67c818",
+  "text_status": "as-enacted",
+  "title": "MARMARA ÜNİVERSİTESİ UYGULAMA VE ARAŞTIRMA HASTANESİ YÖNETMELİĞİ",
+  "university_id": 210,
+  "word_count": 1586
+}

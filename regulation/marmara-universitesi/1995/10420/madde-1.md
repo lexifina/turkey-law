@@ -1,0 +1,3 @@
+MARMARA ÜNİVERSİTESİ UYGULAMA VE ARAŞTIRMA HASTANESİ YÖNETMELİĞİ
+Amaç
+Madde1- Bu Yönetmeliğin amacı, Marmara Üniversitesi Uygulama ve Araştırma Hastanesi’nde çeşitli hizmetlerin yürütülmersi esaslarını, personelin görev, yetki ve sorumluluklarını belirlemek; kaliteli, verimli, hızlı ekonomik bir hastane işletmeciliği sağlamak ve Marmara Üniversitesi Tıp Fakültesi ile, sağlıkla ilgili diğer üniversite birimlerinin eğitim, öğretim, uygulama ve araştırmalarının desteklenmesi, ihtiyaçların karşılanmasına yardımcı olunması, hasta teşhis ve tedavisi ile ilgili düzenlemelerin yapılması için gerekli çalışma esaslarını tanımlamaktır.
