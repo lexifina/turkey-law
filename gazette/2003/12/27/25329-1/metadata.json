@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2003-12-27",
+  "issue": "25329",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "Kanun",
+  "title": "Bazı İşlemler Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031227.htm#1",
+  "link_format": "inline-anchor",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031227.htm",
+  "index_sha256": "fe41d9647d63996673cf79a16004346fabba3da16a45e0ba60913fb8c2da1133",
+  "index_header": "27 Aralık 2003 ... Sayı : 25329",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; item printed inside the single-page issue; text not split out"
+}
