@@ -1,0 +1,46 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4306",
+  "year": 1942,
+  "title": "Devletçe parasız verilecek giyim eşyası hakkında kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1942-11-16",
+  "gazette_issue": "5258",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/5258.pdf",
+  "source_sha256": "04cba2fdcfc26a657d035f41a9103bc64bf89a81501b682e67dd977f48d10db6",
+  "text_sha256": "a782ac30046a732ccc7efa0ceb066a88fc41168d6f14d6b44b5ec66bcbb2e6de",
+  "text_status": "ocr",
+  "pages": [
+    1,
+    2
+  ],
+  "line_span": [
+    [
+      11,
+      128
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc024/kanuntbmmc024/kanuntbmmc02404306.pdf",
+    "source_sha256": "d46fa12f8f8581eacf66d69d48e9d55ddec78f1e3dc403ad1659501ab0aa5682",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 8.0 Professional Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9781,
+    "bag": 0.9478,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.9975,
+    "rg_words": 803,
+    "kd_words": 807,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
