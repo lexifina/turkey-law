@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 92706,
+  "assembly": "TBMM",
+  "term": 7,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar",
+  "summary": "Devlet memurları aylıklarının tevhit ve teadülü hakkındaki 3656 sayılı kanuna bağlı (1) sayılı cetvelin Adliye Vekâleti kısmında değişiklik yapılmasına dair (1/164)",
+  "title": "Devlet memurları aylıklarının tevhit ve teadülü hakkındaki 3656 sayılı kanuna bağlı (1) sayılı cetvelin Adliye Vekâleti kısmında değişiklik yapılmasına dair (1/164)",
+  "first_sitting_date": "1943-12-03",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 6,
+      "sitting": 8,
+      "sitting_date": "1943-12-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c006/tbmm07006008.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c006/tbmm07006fih.pdf",
+      "pages": [
+        "30"
+      ]
+    },
+    {
+      "cilt": 7,
+      "sitting": 24,
+      "sitting_date": "1944-01-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c007/tbmm07007024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c007/tbmm07007fih.pdf",
+      "pages": [
+        "136"
+      ]
+    },
+    {
+      "cilt": 8,
+      "sitting": 25,
+      "sitting_date": "1944-03-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c008/tbmm07008025.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d07/c008/tbmm07008fih.pdf",
+      "pages": [
+        "4:5"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=7&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=734&v_gelecek_sayfa=301&v_kullanici_id=27484086",
+  "source_sha256": "43c41bf7d45b1fd86488686a50db374e58acc7b11b87ff04d89dd7ecc02408e6",
+  "in_force": "1943-12-03",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
