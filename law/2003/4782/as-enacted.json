@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "4782",
+  "year": 2003,
+  "title": "Uluslararası Ticari İşlemlerde Yabancı Kamu Görevlilerine Rüşvet Verilmesinin Önlenmesi İçin Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-01-11",
+  "gazette_issue": "24990",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030111.htm",
+  "source_sha256": "715347f5639d7f328d079816162e85a55c96cddf8c7783877c57c8b32d511e2f",
+  "text_sha256": "1bdb5909feaf8d71bc3bd3b12be872d10c316a2b55e653073ee7468bbe9f9853",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/01/11/24990-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/01/20030111.htm#2",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
