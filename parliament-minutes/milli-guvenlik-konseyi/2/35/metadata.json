@@ -1,0 +1,18 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "Milli Güvenlik Konseyi",
+  "assembly": "MİLLİ GÜVENLİK KONSEYİ- DANIŞMA MECLİSİ",
+  "term_label": "Milli Güvenlik Konseyi",
+  "cilt": 2,
+  "sitting": 35,
+  "label": "35. Birleşim",
+  "sitting_date": "1981-01-21",
+  "date_as_published": "21 Ocak 1981",
+  "weekday": "Çarşamba",
+  "minutes_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c002/mgk_01002035.pdf",
+  "agenda_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c002/mgk_01002035gnd.pdf",
+  "volume_index_pdf": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/MGK_/d01/c002/mgk_01002fih.pdf",
+  "listing_source": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler_diger_meclisler?v_meclis=5&meclis_kisa_adi=MGK&diger_donem_adi=d00",
+  "source_sha256": "2c4403d14bf7117682cd515c999147d5539c3cf1d78078f4f886a6a77223fd75",
+  "text_status": "metadata-only: the minutes are a scanned PDF in the official Tutanak Dergisi archive; not transcribed (no OCR)"
+}
