@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.28/2855-112-926/42967",
+  "source_id": 25075,
+  "date": "2004-09-14",
+  "title": "Kanuni süresinde beyanname verilmesinden sonra, gerek ek olarak gerekse pişmanlıkla verilen beyannamelere usulsüzlük cezası kesilmez.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25075",
+  "source_sha256": "3353e77eba1c3d12bf42d5b39bb4f6a69a6363f196a89c9a5b0a7db8b93c230c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
