@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4076-37/41206",
+  "source_id": 24791,
+  "date": "1998-11-13",
+  "title": "Erteleme uygulamasında, işverenlerin son dört aylık sigorta prim bordrolarında bildirdikleri toplam işçi sayısının esas alınacağı, bordronun kapsadığı dönemi izleyen Mayıs 1998 ayından itibaren bu sayıya ilave olarak işe alınan işçilerin, Kanunun yayımı t",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24791",
+  "source_sha256": "8cb57ccb612c31c4e72cf0caa6bd651506865a345aae715966054087e87a00f5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
