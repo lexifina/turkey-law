@@ -1,0 +1,1 @@
+Madde 6 - Müdür, Yönetim Kurulu Üyeleri arasından birini veya en çok ikisini yardımcı seçer. Müdür yardımcısı, müdürün görevlerini yürütmesinde yardımcı olur ve müdürlün olmadığı zamanlarda Rektörün onayı ile müdüre vekalet eder.

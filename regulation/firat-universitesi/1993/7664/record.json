@@ -1,0 +1,28 @@
+{
+  "source_id": "8.5.7664",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "FIRAT ÜNİVERSİTESİ KARDİYOLOJİ ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "number": "7664",
+  "issuer": "FIRAT ÜNİVERSİTESİ",
+  "issuer_slug": "firat-universitesi",
+  "path": "regulation/firat-universitesi/1993/7664",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7664&MevzuatTertip=5",
+  "source_sha256": "a2f692dc42c9a9a1b50a0a33d973b81494caa082ee24e33ab2b7931a622a3cc3",
+  "source_bytes": 30657,
+  "published": "1993-10-06",
+  "gazette": "21720",
+  "in_force": "1993-10-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.10.1993)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 771,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

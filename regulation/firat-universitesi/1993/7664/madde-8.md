@@ -1,0 +1,2 @@
+Yönetim Kurulu
+Madde 8 - Yönetim Kurulu müdür başkanlığında senatoca üç yıl için seçilen; Kardiyoloji Uygulama ve Araştırma Merkezinin faaliyet alanı ile ilgili Kardiyoloji, Kardiyovasküler Cerrahi, iç Hastalıkları ve Çocuk Kardiyolojisi anabilim dalları öğretim üyeleri arasından birer; vasküler yapılar ile ilgili araştırmalar yapabilen, diğer branşların öğretim üyeleri arasından bir ve merkeze bağlı laboratuvar başkanlıkları arasından bir olmak üzere, toplam yedi üyeden oluşur.
