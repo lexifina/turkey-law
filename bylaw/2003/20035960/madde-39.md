@@ -1,0 +1,5 @@
+Reddin şekli
+Madde 39- Mirasın reddi, mirasçılar tarafından sulh hukuk mahkemesine sözlü veya yazılı beyanla yapılır. Reddin kayıtsız ve şartsız olması gerekir.
+Mirasçının mirası reddetmesi halinde, sulh hakimince düzenlenecek bir tutanakla reddeden mirasçının açık kimliği belirlenir ve ret beyanı mirası reddedene veya istem, bu konuda yetkisi olan vekil tarafından yapılmış ise vekiline imza ettirilip, hakim ve zabıt katibince imzalanır. Vekilin vekaletnamesi bu tutanağa eklenir.
+Süresi içinde yapılan ret beyanı mahkemece tutulan özel kütüğe işlenir. Bu kütükte miras bırakanın adı ve soyadı ile ölüm tarihi, mirasın ret tarihi ve reddedenin adı ve soyadı, ret beyanını içeren tutanağın tarihi ve numarası ile mirasçılık belgesini veren mahkemenin esas ve karar numarası gibi hususlara yer verilir. Süresi içinde yapılmayan ret beyanları bu kütüğe yazılmaz.
+Reddeden mirasçıya isterse, mahkemenin özel kütüğünün kayıt numarasını içeren, mahkeme mührü ile mühürlenmiş ve zabıt katibi tarafından onaylanmış mirası reddettiğine ilişkin bir belge verilir.

@@ -1,0 +1,4 @@
+Hesap raporu
+Madde 21- Vesayet makamı başka bir süre belirmemişse vasi, her yıl aralık ayının son günündeki durumu gösterir bir hesap raporunu, en geç ocak ayının son gününe kadar vesayet makamına verir. Raporun bir yıldan kısa sürelerle düzenlenmesine karar verilmesi halinde, vesayet makamı hesabın hangi güne kadar olan durumu göstereceğini ve raporun en geç hangi tarihte verileceğini de kararında belirtir.
+Raporda hesap devresi içinde malvarlığında meydana gelen değişiklikler ile yapılan masraflar ve elde edilen gelirler ayrıntıları ile gösterilir ve belgeleri rapora eklenir. Vesayet makamının bir kararının yerine getirilmesi için yapılan işlemler varsa, bunlara ait kararların tarihleri de raporda gösterilir.
+Rapora, vesayet altındaki kişinin mallarına ait hesapların yanısıra, yaşam tarzına, yerleşim yerine ve mesleki eğitimine ilişkin ayrıntılı bilgi de yazılır.
