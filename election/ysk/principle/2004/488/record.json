@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "ilke",
+  "number": "2004/488",
+  "list_number": "488",
+  "decision_date": "2004-03-04",
+  "title": "YSK ilke kararı 2004/488",
+  "summary": "Eksik belgelerin kanunda öngörülen sürede tamamlanması için ilgili partiye veya bağımsız adaya süre tanınması, tanınan sürede de tamamlanmadığı takdirde, bağımsız adaylar seçime katılamazlar. Siyasi parti adaylarının belgelerini tamamlamaması durumunda ise parti eksik liste ile seçime katılır, ancak belediye başkanlığı adaylığı için gerekli belgeleri uyarıya rağmen tamamlamayan siyasi parti belediye başkanlığı seçimine katılamaz.",
+  "concepts": "ADAY LİSTELERİNDE EKSİKLİKLERİN TAMAMLANMAMASI DURUMU, EKSİK BELGELERİ TAMAMLAMAYAN BAĞIMSIZ ADAY SEÇİME GİREMEZ, EKSİK BELGEYİ TAMAMLAMAYAN PARTİ EKSİK LİSTEYLE SEÇİME GİRER",
+  "official_document": "https://www.ysk.gov.tr/doc/ilkeKarar/dosya/4012/2004-488-karar.htm",
+  "source_sha256": "0fa3280e7517817a2e594c8af088c0005d4fa7aecbd1158b4eab8a7bec3b6878",
+  "official_list": "https://www.ysk.gov.tr/doc/ilkeKarar/ilkeKararlar.txt",
+  "official_list_sha256": "8af673bf4633530da2929149f1f9cd13df860a3f31fe7c77cf1f32e02a3200c4",
+  "text_status": "as-published",
+  "in_force": "2004-03-04",
+  "law_text_complete": true
+}
