@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "2721",
+  "year": 1935,
+  "title": "376 numara ve 26.XI.1339 tarihli Posta Kanununa müzeyyel kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1935-05-28",
+  "gazette_issue": "3014",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/3014.pdf",
+  "source_sha256": "3d2761a0aa6a97052b5d4467d791dd6c2ee18c7a277eea33672d9d250e023681",
+  "text_sha256": "6b1c9a3357c12771e4bcae832f759fda9be9a520ee3a7d73dca7da8f16dec5ea",
+  "text_status": "ocr",
+  "pages": [
+    1
+  ],
+  "line_span": [
+    [
+      15,
+      126
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc015/kanuntbmmc015/kanuntbmmc01502721.pdf",
+    "source_sha256": "e43d44df4961c6c0733cb50821a01892d18440f2778d383a552c7b17d693fb96",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "ABBYY FineReader 9.0 Corporate Edition (text layer of the TBMM PDF)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.9839,
+    "bag": 0.9341,
+    "kd_coverage": 0.9957,
+    "kd_body_compared": 0.9957,
+    "rg_words": 460,
+    "kd_words": 467,
+    "own_anchor": true,
+    "foreign_anchors": 1
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
