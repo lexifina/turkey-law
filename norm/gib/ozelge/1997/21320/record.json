@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.0.GEL.0.40/4077-154/10729",
+  "source_id": 21320,
+  "date": "1997-03-14",
+  "title": "Açılan çocuk yuvasının işletilmesinden elde edilen gelirin gelir vergisinden istisna edilmesi mümkün değildir. ",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21320",
+  "source_sha256": "2788606bbeeacdb9b3d67a555c88af58baa960b6f7b54764ca34b7df3da9e775",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
