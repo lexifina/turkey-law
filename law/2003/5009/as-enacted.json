@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "5009",
+  "year": 2003,
+  "title": "Batı Avrupa Birliği, Ulusal Temsilciler ve Uluslararası Görevlilerin Statüsü Hakkında Anlaşmanın, Türkiye Tarafından Batı Avrupa Silahlanma Örgütü Faaliyetleri ile İlgili Olarak Uygulanması ve Buna İlişkin Mektupların Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2003-12-09",
+  "gazette_issue": "25311",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031209.htm",
+  "source_sha256": "581a0d8fb70afd343166de36e2af22cbc90029a5896d89eda374e55e433d14b0",
+  "text_sha256": "6480730f0159db76b73a3d65ef547f3a7151cd2eb55ea47e9d66794827b32b98",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2003/12/09/25311-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2003/12/20031209.htm#4",
+  "link_format": "inline-anchor",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters); cut at the item anchor",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
