@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "279",
+  "decision_date": "2003-12-31",
+  "title": "1 Ocak 2004 tarihinden geçerli olmak üzere Meram Elektrik Dağıtım Anonim Şirketi tarafından uygulanacak olan Perakende Satış Tarifeleri hakkında",
+  "resmi_gazete_date": "2004-01-07",
+  "resmi_gazete_number": "25339",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0/SR1KGZBNI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0/SR1KGZBNI="
+  ],
+  "source_sha256": "671a9876c67ba337d1a95acb37f95fc5e122290b72991f73f973dd003b0effd5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2003-12-31",
+  "law_text_complete": false
+}
