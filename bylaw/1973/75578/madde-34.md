@@ -1,0 +1,5 @@
+Madde 34
+1 - Bir Devletin ülkesinde bulunan bir kanal veya başka bir deniz yolundan yararlanarak başka bir Devletin ülkesinde bulunan bir limana giden ve V. Başlık altında tanımlandığı gibi, esen olan bir gemiye hekim incelenmesinden başka hiçbir sağlık tedbiri uygulanamaz. Hastalığın bulaştığı bir bölgeden gelen ya da içersinde böyle bir bölgeden gelen bir kişi bulunan gemiler, bölgenin bulaştığı hastalığın (kuluçka) dönemi geçmedikçe bu hükmün kapsamına girmezler.
+2 - Bu durumlardan birinde bulunan esen bir gemiye uygulanabilecek tek tedbir, gerekirse, gemi ile kıyı arasında izinsiz her türlü ilişkiyi önlemek ve 30 uncu madde hükümlerine uyulmasını gözetmek için gemiye bir sağlık koruyucusu koymaktır.
+3 - Böyle bir gemiye, sağlık makamı, kontrolü altında akaryakıt, içme suyu, yiyecek ve azık almasına izin verir.
+4 - Hastalığa bulaşmış veya şüphelenilen gemilere bir kanaldan veya başka bir deniz yolundan geçişlerinde bu kanal veya deniz yolunun bulunduğu ülkelerin bir limanına uğramış gibi işlem yapılabilir.

@@ -1,0 +1,3 @@
+Madde 77
+1 - İçinde bir sarıhumma vakası bulunan ya da yolculuk sırasında içinde böyle bir vaka çıkan bir gemi, varışta hastalığa bulaşmış sayılır. Bir gemi hastalığın bulaştığı bir bölgeden ayrıldıktan sonra altı gün geçmeden ya da böyle bir bölgeden ayrılışını izleyen 30 gün içinde sağlık makamınca içinde Aedes aegypti, ya da başka sarıhumma vektörlerinin bulunduğu görülürse muvasalatında kuşkulu sayılır. Bütün öbür gemiler esen sayılır.
+2 - Varışta, içinde bir sarıhumma olgusu bulunan bir uçak hastalığa bulaşmış sayılır. 74 üncü maddenin 2 nci fıkrası uyarınca yapılan böceklerden arıtma işlemini sağlık makamı yeterli bulmaz ve uçak içinde canlı sivrisineklerin bulunduğunu görürse, o uçak kuşkulu sayılır. Bütün öbür uçaklar esen sayılır.

@@ -1,0 +1,3 @@
+Madde 76
+1 - Geçerli bir sarıhumma aşısı belgesi olmadan hastalığın bulaştığı bir bölgeden gelen ve uluslararası bir yolculuk sırasında henüz 35 inci maddede öngörülen ayırmayı sağlayacak araçları olmayan ve sarıhumma vektörünün olduğu bir bölgede bulunan bir hava limanından geçmek zorunda kalan her kişi, bu araçların olduğu bir hava limanında, eğer sözkonusu hava limanlarının bulundukları ülkelerin sağlık yönetimleri bu konuda bir anlaşma yapmışlarsa, 75 inci maddede belirtilen süre kadar alakonulabilir.
+2 - İlgili sağlık yönetimleri böyle bir anlaşmayı ve bunun sona erişini Örgüte bildirirler. Örgüt bu bilgiyi bütün öteki sağlık yönetimlerine hemen bildirir.

@@ -1,0 +1,3 @@
+Madde 53
+1 - Kemiriciler ve bunların ektoparazitleri (dış parazitleri aracılığıyla ve banın yapılma tehlikesini azaltmak için Devletler ellerindeki bütün imkanları kullanırlar. Bunların Sağlık yönetimleri, kemiriciler ile ektoparazitlerinin sistemli olarak toplanmaları ve muntazam incelenmeleriyle, kemirici vebası olan ya da böyle olmasından kuşkulanılan bölgelerdeki - özellikle liman ve hava limanlarında - durum hakkında sürekli bilgi edinirler.
+2 - Bir gemi ya da uçağın vebalı bir liman veya hava limanında durduğu sürece içlerine kemiricilerin girmesine engel olmak üzere özel tedbirler alınır.

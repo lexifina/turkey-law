@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-13",
+  "date_gazette": "14517",
+  "date_quote": "25.04.1973",
+  "first_law": null,
+  "gazette": "14517",
+  "history": "current-text",
+  "images": {
+    "deferred": 3,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 3
+  },
+  "in_force": "1973-04-25",
+  "in_force_basis": "original Resmi Gazete publication date supplied by the official listing",
+  "kind": "bylaw",
+  "label": "oldest version available",
+  "published": "1973-04-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=2&MevzuatNo=75578&MevzuatTertip=5",
+  "source_bytes": 231612,
+  "source_id": "2.5.75578",
+  "source_sha256": "729c5f39db21d22febb8fd03acc6d403e1094253c8a22d7a3bb90c5f3dfeb08d",
+  "source_type": "Tüzükler",
+  "title": "ULUSLARARASI SAĞLIK TÜZÜĞÜ",
+  "word_count": 10590
+}

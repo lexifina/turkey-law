@@ -1,0 +1,5 @@
+Madde 74
+1 - Hastalığın bulaştığı bir bölgede bulunan bir liman veya hava limanında çalışan her kişi ile bu liman veya hava limanından yararlanan bir gemi veya uçağın bütün (mürettebatının) geçerli bir sarı humma aşısı belgesi bulundurması zorunludur.
+2 - Enfekte bir bölgede bulunan bir hava limanından kalkan uçaklar varış hava limanı sağlık makamınca Uçak Genel Bildirisinin sağlık bölümü istenmiyorsa, 26 ncı madde gereğince Örgütün salık verdiği usullere göre böcekten temizlenir ve bu işlemle ilgili bilgiler Uçak Genel Bildirisinin sağlık bölümünde gösterilir. İlgili Devletler, onaylanmış bir sistemle uçuş sırasında yapılan buharla böcekten temizlemeyi kabul edeceklerdir.
+3 - Aedes aegypti'nin hala bulunduğu bir bölgedeki limandan kalkıp Aedes aegypti'nin yok edildiği bir bölgeye giden gemiler olgunlaşmamış veya olgunlaşmış çağdaki Aedes aegypti'den temizlenir.
+4 - Aedes aegypti'nin bulunduğu bir hava limanından kalkıp Aedes aegyti'ninortadan kaldırıldığı bir bölgeye giden uçaklar 26 ncı madde gereğince Örgütün salık verdiği usullerle böceklerden temizlenir.
