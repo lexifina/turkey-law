@@ -1,0 +1,45 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "147",
+  "year": 1960,
+  "title": "Yüksek Adalet Divanının muhakeme usulüne ait 3 sayılı Kanunun 12 nci maddesinin değiştirilmesi hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "1960-12-07",
+  "gazette_issue": "10674",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/arsiv/10674.pdf",
+  "source_sha256": "a5ef6f5ce829c4b9c6ba6e58f2ec0308f000f74e1b7bb8c582fe97f0048078a1",
+  "text_sha256": "156aa2cbccbe3c544e56f22c1f897603350aebb738fe9d103809109356c57bf9",
+  "text_status": "ocr",
+  "pages": [
+    22
+  ],
+  "line_span": [
+    [
+      5559,
+      5581
+    ]
+  ],
+  "extraction": "lines of the PDF text layer from the law title to its last aligned line (letter-spaced spans joined)",
+  "ocr": {
+    "engine": "ABBYY FineReader 9.0 Professional Edition (text layer of the official scanned PDF, made by its publisher; PDF producer field)",
+    "tesseract_pages": []
+  },
+  "cross_check": {
+    "source": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc043/kanunmbkc043/kanunmbkc04300147.pdf",
+    "source_sha256": "226aba9ea74cb0079b75c299c22754fa7702e8b8150e7f9a74879ad7fd029289",
+    "copy": "TBMM Kanunlar Dergisi",
+    "copy_ocr": "tesseract v5.4.0.20240606 (lang tur, tessdata 4.1.0 tur.traineddata sha256 489b9504e80d7184)",
+    "method": "agreement = character-weighted word-sequence ratio (difflib; differing runs credited by character similarity when >= 0.75) >= 0.9, or word-bag Dice >= 0.92 (tables, whose cell order differs between two OCR reading orders); and the RG segment covers >= 0.95 of the Kanunlar Dergisi law body",
+    "seq": 0.975,
+    "bag": 0.9391,
+    "kd_coverage": 1.0,
+    "kd_body_compared": 0.918,
+    "rg_words": 118,
+    "kd_words": 122,
+    "own_anchor": true,
+    "foreign_anchors": 2
+  },
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
