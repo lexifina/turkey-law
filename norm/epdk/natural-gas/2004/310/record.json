@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "310",
+  "decision_date": "2004-03-30",
+  "title": "Bursa Şehiriçi Doğalgaz Dağıtım Ticaret ve Taahhüt Anonim Şirketi ve Eskişehir Şehiriçi Doğal Gaz Dağıtım Ticaret ve Taahhüt Anonim Şirketi tarafından özelleştirme sonrası uygulanacak olan birim hizmet ve amortisman bedelleri hakkında",
+  "resmi_gazete_date": "2004-04-05",
+  "resmi_gazete_number": "25424",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9F2oXvzVEgY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9F2oXvzVEgY="
+  ],
+  "source_sha256": "d23495a6cda0bf20c96e0dd88bbab3805aa6c03fbcf051566e5ce04096c819c5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2004-03-30",
+  "law_text_complete": false
+}
